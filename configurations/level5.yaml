@@ -1,0 +1,42 @@
+input_file:
+  "data/"
+output_file:
+  "output_graph/output_graph_a.gexf"
+
+nodes:
+ hashtag:
+  origin: ["entities","hashtags","text"]
+ user_location:
+  origin: ["user","location"]
+ user:
+   origin: ["user","id"]
+
+edges:
+  hashtag:
+    connection: ["hashtag"]
+    condition: 'all'
+    weight: 1
+  hashtag_location:
+    connection: ["hashtag","user_location"]
+    condition: 'if exists'
+    weight: 1
+  edge_user_location:
+    connection: ["user","user_location"]
+    condition: 'if exists'
+    weight: 1
+  user_hashtag:
+    connection: ["hashtag","user"]
+    condition: 'if exists'
+    weight: 1
+
+clean:
+  node_id: ["None","null"]
+  degree1:
+    condition: ["nodes","degree","leq",2]
+    priority: 1
+  edge1:
+    condition: ["edges","weight","hashtag","l",5]
+    priority: 2
+  edge2:
+    condition: ["edges","weight","hashtag_location","leq",0]
+    priority: 3

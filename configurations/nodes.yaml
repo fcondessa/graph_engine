@@ -1,0 +1,12 @@
+input_file:
+  "data_example.json"
+output_file:
+  "output_graph.gexf"
+
+nodes:
+ msg_id: "id_str"
+ user: ["user","id"]
+
+edges:
+  user_message: ["msg_id","user"]
+

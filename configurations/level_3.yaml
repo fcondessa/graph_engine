@@ -1,0 +1,20 @@
+input_file:
+  "data/tweet_data_000002.json"
+output_file:
+  "output_graph_4.gexf"
+
+nodes:
+ hashtag:
+  origin: ["entities","hashtags","text"]
+ user_location:
+  origin: ["user","location"]
+
+edges:
+  hashtag_location:
+    connection: ["hashtag","user_location"]  
+    condition: 'if exists'
+    weight: 1
+
+
+clean:
+  nodes: ["None","null"]

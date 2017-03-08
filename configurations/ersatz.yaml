@@ -1,0 +1,22 @@
+input_file:
+  "data/ersatz_data"
+output_file:
+  "output_graph/ersatz_hashtag.gexf"
+
+nodes:
+ hashtag:
+  origin: ["entities","hashtags","text"]
+ user:
+   origin: ["user","id"]
+
+edges:
+  user_hashtag:
+    connection: ["hashtag","user"]
+    condition: 'if exists'
+    weight: 1
+
+clean:
+  node_id: ["None","null"]
+  degree1:
+    condition: ["nodes","degree","leq",1]
+    priority: 1

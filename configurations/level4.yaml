@@ -1,0 +1,35 @@
+input_file:
+  "test.json"
+output_file:
+  "output_graph_5.gexf"
+
+nodes:
+ hashtag:
+  origin: ["entities","hashtags","text"]
+ user_location:
+  origin: ["user","location"]
+ user:
+  origin: ["user","id"]
+ target_user:
+  origin: ["in_reply_to_user_id"]
+
+edges:
+  hashtag:
+    connection: ["hashtag"]
+    condition: 'all'
+    weight: 1
+  hashtag_target:
+    connection: ["hashtag","target_user"]
+    condition: 'if exists'
+    weight: 1
+  hashtag_user:
+    connection: ["hashtag","user"]  
+    condition: 'if exists'
+    weight: 1
+  user_location:
+    connection: ["user","user_location"]
+    condition: 'if exists'
+    weight: 1
+
+clean:
+  nodes: ["None","null"]

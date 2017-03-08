@@ -1,0 +1,22 @@
+input_file:
+  "data_example.json"
+output_file:
+  "output_graph.gexf"
+
+nodes:
+ msg_id:
+  origin: "id_str"
+ user:
+  origin: ["user","id"]
+ hashtag:
+  origin: ["entities","hashtags","text"]
+
+edges:
+  user_message:
+    connection: ["msg_id","user"]
+    condition: 'if exists'
+    weight: 1
+  hash:
+    connection: ["hashtag"]
+    condition: 'all'
+    weight: 1
