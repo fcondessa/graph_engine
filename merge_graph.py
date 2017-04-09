@@ -163,7 +163,7 @@ def h(chunk):
 def merge_graphs_all_parallel(Graphs, c = 1):
     p = Pool()
     node_divisor = int(len(p._pool)*c)
-    node_chunks = list(chunks(Graphs, max(1, int(len(Graphs)/node_divisor))))
+    node_chunks = list(chunks(Graphs, max(2, int(len(Graphs)/node_divisor))))
     temp = p.map(h, node_chunks)
     p.close()
     p.join()
@@ -199,7 +199,7 @@ def merge_graphs_sparse(Graphs):
     nodes_list = list(nodes)
     # start2 = time.time()
     node_divisor = int(len(p._pool))
-    node_chunks = list(chunks(Graphs, max(1, int(len(Graphs)/node_divisor))))
+    node_chunks = list(chunks(Graphs, max(2, int(len(Graphs)/node_divisor))))
     temp = p.map(s, zip(node_chunks, [nodes_list]*4))
     for sparse_mat in temp:
         A = A + sparse_mat
@@ -219,7 +219,7 @@ def s1(tup):
         # print(start6 - start5)
     return A
 
-def m(sparse_graphs, nodes_list):
+def merge_graphs_sparse_precomp(sparse_graphs, nodes_list):
     p = Pool()
     # start0 = time.time()
     # start1 = time.time()
@@ -228,7 +228,7 @@ def m(sparse_graphs, nodes_list):
     A = scipy.sparse.csr_matrix((l, l))
     # start2 = time.time()
     node_divisor = int(len(p._pool))
-    node_chunks = list(chunks(sparse_graphs, max(1, int(len(Graphs)/node_divisor))))
+    node_chunks = list(chunks(sparse_graphs, max(2, int(len(Graphs)/node_divisor))))
     temp = p.map(s1, zip(node_chunks, [nodes_list]*4))
     for sparse_mat in temp:
         A = A + sparse_mat
@@ -277,41 +277,41 @@ G3_name = '../samt/data/idea_map_tiny.gexf'
 # G1 = nx.read_gexf(G1_name)
 # G2 = nx.read_gexf(G2_name)
 G3 = nx.read_gexf(G3_name)
-G1 = nx.Graph()
-G1.add_weighted_edges_from([('1', '0', 1.5), ('2', 'Three', 4), ('1', '2', 2)])
-G2 = nx.Graph()
-G2.add_weighted_edges_from([('1', '2', 1.5), ('Three', '2', 2), ('0', 'Three', 2)])
-G3 = nx.Graph()
-G3.add_weighted_edges_from([('1', '0', 1.5), ('2', 'Three', 4), ('1', '2', 2)])
-G = merge_graphs_sparse([G1, G2, G3])
-# start = time.time()
-# for i in range(1):
-#     G = merge_graphs_all_parallel([G3]*10000, 1)
-# end = time.time()
-# print("parallelized: %f" % (end - start))
-# start_ = time.time()
-# for i in range(1):
-#     G = merge_graphs_all([G3]*10000)
-# end_ = time.time()
-# print("iterative:    %f" % (end_ - start_))
-# start_sp = time.time()
-# for i in range(1):
-#     G = merge_graphs_sparse([G3]*10000)
-# end_sp = time.time()
-# print("sparse:    %f" % (end_sp - start_sp))
+# G1 = nx.Graph()
+# G1.add_weighted_edges_from([('1', '0', 1.5), ('2', 'Three', 4), ('1', '2', 2)])
+# G2 = nx.Graph()
+# G2.add_weighted_edges_from([('1', '2', 1.5), ('Three', '2', 2), ('0', 'Three', 2)])
+# G3 = nx.Graph()
+# G3.add_weighted_edges_from([('1', '0', 1.5), ('2', 'Three', 4), ('1', '2', 2)])
+# G = merge_graphs_sparse([G1, G2, G3])
+start = time.time()
+for i in range(1):
+    G = merge_graphs_all_parallel([G3]*1000, 1)
+end = time.time()
+print("parallelized: %f" % (end - start))
+start_ = time.time()
+for i in range(1):
+    G = merge_graphs_all([G3]*1000)
+end_ = time.time()
+print("iterative:    %f" % (end_ - start_))
+start_sp = time.time()
+for i in range(1):
+    G = merge_graphs_sparse([G3]*1000)
+end_sp = time.time()
+print("sparse:    %f" % (end_sp - start_sp))
 
 
-# Graphs = [G3]*10000
-# nodes = set()
-# for graph in Graphs:
-#     nodes = nodes.union(set(graph.nodes()))
-# nodes_list = list(nodes)
-# s_g = [nx.to_scipy_sparse_matrix(graph) for graph in Graphs]
-# start_sp = time.time()
-# for i in range(1):
-#     G = m(s_g, nodes_list)
-# end_sp = time.time()
-# print("sparse_precomputed:    %f" % (end_sp - start_sp))
+Graphs = [G3]*1000
+nodes = set()
+for graph in Graphs:
+    nodes = nodes.union(set(graph.nodes()))
+nodes_list = list(nodes)
+s_g = [nx.to_scipy_sparse_matrix(graph) for graph in Graphs]
+start_sp = time.time()
+for i in range(1):
+    G = merge_graphs_sparse_precomp(s_g, nodes_list)
+end_sp = time.time()
+print("sparse_precomputed:    %f" % (end_sp - start_sp))
 # nx.write_gexf(G,G_name)
 
 
