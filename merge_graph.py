@@ -176,7 +176,7 @@ def s(tup):
     A = scipy.sparse.csr_matrix((l, l))
     for graph in Graphs:
         # start4 = time.time()
-        csr_mat = nx.to_scipy_sparse_matrix(graph, nodelist = nodes_list)
+        csr_mat = nx.to_scipy_sparse_matrix(graph, nodelist = nodes_list, format = 'coo')
         # start5 = time.time()
         A = A + csr_mat
         # start6 = time.time()
@@ -234,6 +234,65 @@ def merge_graphs_sparse_precomp(sparse_graphs, nodes_list):
         A = A + sparse_mat
     return nx.from_scipy_sparse_matrix(A)
 
+def s2(tup):
+    (Graphs, nodes_dict) = tup
+    l = len(nodes_dict)
+    A = scipy.sparse.csr_matrix((l, l))
+    for graph in Graphs:
+        # start4 = time.time()
+        # edges = graph.edges(data = True)
+        # data = [edge[2]['weight'] for edge in edges for _ in range(2)]
+        # row_ind = [nodes_dict[edge[i]] for edge in edges for i in range(2)]
+        # col_ind = [nodes_dict[edge[i]] for edge in edges for i in range(1, -1, -1)]
+        
+        (data, row_ind, col_ind) = (list(), list(), list())
+        for edge in graph.edges_iter(data = True):
+            weight = edge[2]['weight']
+            zero = nodes_dict[edge[0]]; one = nodes_dict[edge[1]]
+            data.append(weight); data.append(weight)
+            row_ind.append(zero); row_ind.append(one)
+            col_ind.append(one); col_ind.append(zero)
+        # n = 2*graph.number_of_edges()
+        # (data, row_ind, col_ind) = ([-1]*n, [-1]*n, [-1]*n)
+        # for i, edge in enumerate(graph.edges_iter(data = True)):
+        #     weight = edge[2]['weight']
+        #     zero = nodes_dict[edge[0]]; one = nodes_dict[edge[1]]
+        #     data[2*i] = data[2*i + 1] = weight
+        #     row_ind[2*i] = zero; col_ind[2*i] = one
+        #     row_ind[2*i + 1] = one; col_ind[2*i + 1] = zero
+
+        # start5 = time.time()
+        csr_mat = scipy.sparse.csr_matrix((data, (row_ind, col_ind)), shape = (l, l))
+        A = A + csr_mat
+        # start6 = time.time()
+        # print(start5 - start4)
+        # print(start6 - start5)
+    return A
+
+def merge_graphs_sparse_dict(Graphs):
+    p = Pool()
+    nodes = set()
+    # start0 = time.time()
+    for graph in Graphs:
+        nodes = nodes.union(set(graph.nodes()))
+    # start1 = time.time()
+    # print(start1 - start0)
+    l = len(nodes)
+    A = scipy.sparse.csr_matrix((l, l))
+    nodes_list = list(nodes)
+    nodes_dict = dict()
+    for i, n in enumerate(nodes_list):
+        nodes_dict[n] = i
+    # start2 = time.time()
+    node_divisor = int(len(p._pool))
+    node_chunks = list(chunks(Graphs, max(2, int(len(Graphs)/node_divisor))))
+    temp = p.map(s2, zip(node_chunks, [nodes_dict]*4))
+    for sparse_mat in temp:
+        A = A + sparse_mat
+    G = nx.from_scipy_sparse_matrix(A)
+    G = nx.relabel_nodes(G, mapping = {v: k for k, v in nodes_dict.iteritems()})
+    return G
+
 # def chunks_2(l, n):
 #     """Divide a list of nodes `l` in `n` chunks"""
 #     l_c = iter(l)
@@ -283,25 +342,26 @@ G3 = nx.read_gexf(G3_name)
 # G2.add_weighted_edges_from([('1', '2', 1.5), ('Three', '2', 2), ('0', 'Three', 2)])
 # G3 = nx.Graph()
 # G3.add_weighted_edges_from([('1', '0', 1.5), ('2', 'Three', 4), ('1', '2', 2)])
-# G = merge_graphs_sparse([G1, G2, G3])
+# G = merge_graphs_sparse_dict([G1, G2, G3])
+# Gd = merge_graphs_all([G1, G2, G3])
 start = time.time()
 for i in range(1):
-    G = merge_graphs_all_parallel([G3]*1000, 1)
+    G = merge_graphs_all_parallel([G3]*10000, 1)
 end = time.time()
 print("parallelized: %f" % (end - start))
 start_ = time.time()
 for i in range(1):
-    G = merge_graphs_all([G3]*1000)
+    G = merge_graphs_all([G3]*10000)
 end_ = time.time()
 print("iterative:    %f" % (end_ - start_))
 start_sp = time.time()
 for i in range(1):
-    G = merge_graphs_sparse([G3]*1000)
+    G = merge_graphs_sparse([G3]*10000)
 end_sp = time.time()
 print("sparse:    %f" % (end_sp - start_sp))
 
 
-Graphs = [G3]*1000
+Graphs = [G3]*10000
 nodes = set()
 for graph in Graphs:
     nodes = nodes.union(set(graph.nodes()))
@@ -312,6 +372,12 @@ for i in range(1):
     G = merge_graphs_sparse_precomp(s_g, nodes_list)
 end_sp = time.time()
 print("sparse_precomputed:    %f" % (end_sp - start_sp))
+
+start_di = time.time()
+for i in range(1):
+    G = merge_graphs_sparse_dict([G3]*10000)
+end_di = time.time()
+print("sparse_dict:    %f" % (end_di - start_di))
 # nx.write_gexf(G,G_name)
 
 
