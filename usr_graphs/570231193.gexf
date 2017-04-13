@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#boardsearch" label="#boardsearch" />
+      <node id="#Brasil" label="#Brasil" />
+      <node id="#executivesearch" label="#executivesearch" />
+      <node id="#Kenya" label="#Kenya" />
+      <node id="#India" label="#India" />
+      <node id="#MUSCkids" label="#MUSCkids" />
+      <node id="#board" label="#board" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#LiftTheLowcountry" label="#LiftTheLowcountry" />
+      <node id="#US" label="#US" />
+      <node id="#educationforall" label="#educationforall" />
+      <node id="#HongKong" label="#HongKong" />
+      <node id="#Strategy" label="#Strategy" />
+      <node id="#HR" label="#HR" />
+      <node id="#Brazil" label="#Brazil" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#highereducation" label="#highereducation" />
+      <node id="#talent" label="#talent" />
+      <node id="#UK" label="#UK" />
+      <node id="#Leadership" label="#Leadership" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#iicnyc" label="#iicnyc" />
+      <node id="#NAI" label="#NAI" />
+      <node id="#StonesInternational" label="#StonesInternational" />
+      <node id="#iicpartners" label="#iicpartners" />
+      <node id="#innovators" label="#innovators" />
+      <node id="#datascience" label="#datascience" />
+      <node id="#IIC" label="#IIC" />
+      <node id="#facebook" label="#facebook" />
+      <node id="#Warsaw" label="#Warsaw" />
+      <node id="#school" label="#school" />
+      <node id="#executivetalent" label="#executivetalent" />
+      <node id="#recruitment" label="#recruitment" />
+      <node id="#startups" label="#startups" />
+      <node id="#Indonesia" label="#Indonesia" />
+      <node id="#NIH" label="#NIH" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#boardsearch" target="#board" weight="2052" />
+      <edge id="1" source="#Brasil" target="#IIC" weight="2052" />
+      <edge id="2" source="#executivesearch" target="#executivetalent" weight="2052" />
+      <edge id="3" source="#executivesearch" target="#recruitment" weight="4104" />
+      <edge id="4" source="#executivesearch" target="#iicpartners" weight="2052" />
+      <edge id="5" source="#executivesearch" target="#Warsaw" weight="2052" />
+      <edge id="6" source="#Kenya" target="#school" weight="2052" />
+      <edge id="7" source="#Kenya" target="#educationforall" weight="2052" />
+      <edge id="8" source="#India" target="#startups" weight="2052" />
+      <edge id="9" source="#India" target="#UK" weight="2052" />
+      <edge id="10" source="#India" target="#US" weight="2052" />
+      <edge id="11" source="#India" target="#Indonesia" weight="2052" />
+      <edge id="12" source="#India" target="#Brazil" weight="2052" />
+      <edge id="13" source="#MUSCkids" target="#LiftTheLowcountry" weight="2052" />
+      <edge id="14" source="#leadership" target="#iicpartners" weight="2052" />
+      <edge id="15" source="#US" target="#startups" weight="2052" />
+      <edge id="16" source="#US" target="#UK" weight="2052" />
+      <edge id="17" source="#US" target="#Indonesia" weight="2052" />
+      <edge id="18" source="#US" target="#Brazil" weight="2052" />
+      <edge id="19" source="#educationforall" target="#school" weight="2052" />
+      <edge id="20" source="#HongKong" target="#StonesInternational" weight="2052" />
+      <edge id="21" source="#Strategy" target="#Leadership" weight="2052" />
+      <edge id="22" source="#HR" target="#talent" weight="2052" />
+      <edge id="23" source="#Brazil" target="#UK" weight="2052" />
+      <edge id="24" source="#Brazil" target="#startups" weight="2052" />
+      <edge id="25" source="#Brazil" target="#Indonesia" weight="2052" />
+      <edge id="26" source="#bigdata" target="#NIH" weight="2052" />
+      <edge id="27" source="#bigdata" target="#datascience" weight="2052" />
+      <edge id="28" source="#highereducation" target="#facebook" weight="2052" />
+      <edge id="29" source="#UK" target="#startups" weight="2052" />
+      <edge id="30" source="#UK" target="#Indonesia" weight="2052" />
+      <edge id="31" source="#NYC" target="#iicnyc" weight="2052" />
+      <edge id="32" source="#NAI" target="#innovators" weight="2052" />
+      <edge id="33" source="#datascience" target="#NIH" weight="2052" />
+      <edge id="34" source="#Warsaw" target="#recruitment" weight="2052" />
+      <edge id="35" source="#executivetalent" target="#recruitment" weight="2052" />
+      <edge id="36" source="#startups" target="#Indonesia" weight="2052" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Browns" label="#Browns" />
+      <node id="#drones" label="#drones" />
+      <node id="#adlaw" label="#adlaw" />
+      <node id="#firstamendment" label="#firstamendment" />
+      <node id="#ArenaDistrict" label="#ArenaDistrict" />
+      <node id="#fcc" label="#fcc" />
+      <node id="#patent" label="#patent" />
+      <node id="#PromoWestFest" label="#PromoWestFest" />
+      <node id="#ciso" label="#ciso" />
+      <node id="#hippa" label="#hippa" />
+      <node id="#IPLaw" label="#IPLaw" />
+      <node id="#Judges" label="#Judges" />
+      <node id="#Sportslaw" label="#Sportslaw" />
+      <node id="#law" label="#law" />
+      <node id="#Eagles" label="#Eagles" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#FirstAmendment" label="#FirstAmendment" />
+      <node id="#tradesecrets" label="#tradesecrets" />
+      <node id="#litigation" label="#litigation" />
+      <node id="#Analytics" label="#Analytics" />
+      <node id="#fbtTECH" label="#fbtTECH" />
+      <node id="#clown" label="#clown" />
+      <node id="#medialaw" label="#medialaw" />
+      <node id="#tech" label="#tech" />
+      <node id="#security" label="#security" />
+      <node id="#dataprivacy" label="#dataprivacy" />
+      <node id="#Litigation" label="#Litigation" />
+      <node id="#advertising" label="#advertising" />
+      <node id="#copyright" label="#copyright" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Browns" target="#analytics" weight="77" />
+      <edge id="1" source="#Browns" target="#Eagles" weight="77" />
+      <edge id="2" source="#drones" target="#tech" weight="77" />
+      <edge id="3" source="#drones" target="#patent" weight="77" />
+      <edge id="4" source="#adlaw" target="#litigation" weight="77" />
+      <edge id="5" source="#adlaw" target="#FirstAmendment" weight="77" />
+      <edge id="6" source="#adlaw" target="#clown" weight="77" />
+      <edge id="7" source="#adlaw" target="#medialaw" weight="77" />
+      <edge id="8" source="#firstamendment" target="#medialaw" weight="77" />
+      <edge id="9" source="#firstamendment" target="#privacy" weight="77" />
+      <edge id="10" source="#firstamendment" target="#dataprivacy" weight="77" />
+      <edge id="11" source="#firstamendment" target="#fbtTECH" weight="154" />
+      <edge id="12" source="#firstamendment" target="#fcc" weight="77" />
+      <edge id="13" source="#ArenaDistrict" target="#PromoWestFest" weight="77" />
+      <edge id="14" source="#fcc" target="#medialaw" weight="77" />
+      <edge id="15" source="#patent" target="#tech" weight="77" />
+      <edge id="16" source="#ciso" target="#privacy" weight="77" />
+      <edge id="17" source="#ciso" target="#security" weight="77" />
+      <edge id="18" source="#hippa" target="#fbtTECH" weight="77" />
+      <edge id="19" source="#hippa" target="#dataprivacy" weight="77" />
+      <edge id="20" source="#IPLaw" target="#Sportslaw" weight="77" />
+      <edge id="21" source="#IPLaw" target="#Litigation" weight="77" />
+      <edge id="22" source="#Judges" target="#fbtTECH" weight="77" />
+      <edge id="23" source="#Judges" target="#litigation" weight="77" />
+      <edge id="24" source="#Judges" target="#Analytics" weight="77" />
+      <edge id="25" source="#Sportslaw" target="#Litigation" weight="77" />
+      <edge id="26" source="#law" target="#fbtTECH" weight="77" />
+      <edge id="27" source="#law" target="#litigation" weight="77" />
+      <edge id="28" source="#law" target="#advertising" weight="77" />
+      <edge id="29" source="#law" target="#tradesecrets" weight="77" />
+      <edge id="30" source="#privacy" target="#fbtTECH" weight="77" />
+      <edge id="31" source="#privacy" target="#security" weight="77" />
+      <edge id="32" source="#FirstAmendment" target="#litigation" weight="77" />
+      <edge id="33" source="#FirstAmendment" target="#clown" weight="77" />
+      <edge id="34" source="#FirstAmendment" target="#medialaw" weight="77" />
+      <edge id="35" source="#tradesecrets" target="#fbtTECH" weight="77" />
+      <edge id="36" source="#litigation" target="#fbtTECH" weight="77" />
+      <edge id="37" source="#litigation" target="#medialaw" weight="77" />
+      <edge id="38" source="#litigation" target="#advertising" weight="77" />
+      <edge id="39" source="#litigation" target="#clown" weight="77" />
+      <edge id="40" source="#litigation" target="#Analytics" weight="77" />
+      <edge id="41" source="#Analytics" target="#fbtTECH" weight="77" />
+      <edge id="42" source="#fbtTECH" target="#dataprivacy" weight="154" />
+      <edge id="43" source="#fbtTECH" target="#copyright" weight="77" />
+      <edge id="44" source="#clown" target="#medialaw" weight="77" />
+    </edges>
+  </graph>
+</gexf>

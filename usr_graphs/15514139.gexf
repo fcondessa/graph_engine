@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#walkingdead" label="#walkingdead" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#CVSAbound" label="#CVSAbound" />
+      <node id="#FeedingaMillion" label="#FeedingaMillion" />
+      <node id="#FeedAMillion" label="#FeedAMillion" />
+      <node id="#cbusmarathon" label="#cbusmarathon" />
+      <node id="#swlcon15" label="#swlcon15" />
+      <node id="#BlogHerFood15" label="#BlogHerFood15" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#Podcasting" label="#Podcasting" />
+      <node id="#monetization" label="#monetization" />
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#stress" label="#stress" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#notsponsored" label="#notsponsored" />
+      <node id="#womenslives" label="#womenslives" />
+      <node id="#buckeyes" label="#buckeyes" />
+      <node id="#blogher15" label="#blogher15" />
+      <node id="#Miami" label="#Miami" />
+      <node id="#NeverStopFighting" label="#NeverStopFighting" />
+      <node id="#VOTY" label="#VOTY" />
+      <node id="#LTYM" label="#LTYM" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#autismawareness" label="#autismawareness" />
+      <node id="#ImEnough" label="#ImEnough" />
+      <node id="#VoicesOfTheYear" label="#VoicesOfTheYear" />
+      <node id="#snowday" label="#snowday" />
+      <node id="#BREATHE" label="#BREATHE" />
+      <node id="#blogher16" label="#blogher16" />
+      <node id="#flavorife" label="#flavorife" />
+      <node id="#BlogHer" label="#BlogHer" />
+      <node id="#BlogHerU" label="#BlogHerU" />
+      <node id="#StreamTeam" label="#StreamTeam" />
+      <node id="#gogogoodness" label="#gogogoodness" />
+      <node id="#BlogHerPRO" label="#BlogHerPRO" />
+      <node id="#ad" label="#ad" />
+      <node id="#BloggingatWWK" label="#BloggingatWWK" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#ObamaTownHall" label="#ObamaTownHall" />
+      <node id="#KeepGoodGoing" label="#KeepGoodGoing" />
+      <node id="#cedarpoint" label="#cedarpoint" />
+      <node id="#equalpay" label="#equalpay" />
+      <node id="#twease" label="#twease" />
+      <node id="#spon" label="#spon" />
+      <node id="#norain" label="#norain" />
+      <node id="#miraclemakers" label="#miraclemakers" />
+      <node id="#ExpertsAmongUs" label="#ExpertsAmongUs" />
+      <node id="#hearingimpaired" label="#hearingimpaired" />
+      <node id="#running" label="#running" />
+      <node id="#Extrovert" label="#Extrovert" />
+      <node id="#KnowMe" label="#KnowMe" />
+      <node id="#barenecessities" label="#barenecessities" />
+      <node id="#ColorCommChat" label="#ColorCommChat" />
+      <node id="#imPRESSmanicure" label="#imPRESSmanicure" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#adBowl" label="#adBowl" />
+      <node id="#superfoods" label="#superfoods" />
+      <node id="#hugefan" label="#hugefan" />
+      <node id="#veronicamars" label="#veronicamars" />
+      <node id="#StanleyCupFinal" label="#StanleyCupFinal" />
+      <node id="#autismspeaks" label="#autismspeaks" />
+      <node id="#survivor" label="#survivor" />
+      <node id="#PoldarkPBS" label="#PoldarkPBS" />
+      <node id="#WeAreGoodEnough" label="#WeAreGoodEnough" />
+      <node id="#UnbreakableKimmySchmidt" label="#UnbreakableKimmySchmidt" />
+      <node id="#stapleslive" label="#stapleslive" />
+      <node id="#HeartMonth" label="#HeartMonth" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#pediacast" label="#pediacast" />
+      <node id="#Femvertising" label="#Femvertising" />
+      <node id="#blogging" label="#blogging" />
+      <node id="#BlogHerPro" label="#BlogHerPro" />
+      <node id="#bloggingatCP" label="#bloggingatCP" />
+      <node id="#insomnia" label="#insomnia" />
+      <node id="#autism" label="#autism" />
+      <node id="#FTK" label="#FTK" />
+      <node id="#whirlpool2020" label="#whirlpool2020" />
+      <node id="#IWoreBlackandBlue" label="#IWoreBlackandBlue" />
+      <node id="#BlogHerEmmys" label="#BlogHerEmmys" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#namastEppa" label="#namastEppa" />
+      <node id="#NCHheart" label="#NCHheart" />
+      <node id="#leaves" label="#leaves" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#MiracleMaker" label="#MiracleMaker" />
+      <node id="#IKEAfreshstart" label="#IKEAfreshstart" />
+      <node id="#hippiechick" label="#hippiechick" />
+      <node id="#GoRVingLA" label="#GoRVingLA" />
+      <node id="#DontBlogHungry" label="#DontBlogHungry" />
+      <node id="#StaplesLive" label="#StaplesLive" />
+      <node id="#FOAMed" label="#FOAMed" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#SoGood" label="#SoGood" />
+      <node id="#FortheKids" label="#FortheKids" />
+      <node id="#foliotopmag" label="#foliotopmag" />
+      <node id="#bhWhirlpoolCES" label="#bhWhirlpoolCES" />
+      <node id="#selfiebration" label="#selfiebration" />
+      <node id="#collegefootballplayoff" label="#collegefootballplayoff" />
+      <node id="#HalloWeekends" label="#HalloWeekends" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#truedetective" label="#truedetective" />
+      <node id="#BilleJoeandMiranda" label="#BilleJoeandMiranda" />
+      <node id="#EBWW2014" label="#EBWW2014" />
+      <node id="#anxiety" label="#anxiety" />
+      <node id="#Not" label="#Not" />
+      <node id="#Gaga" label="#Gaga" />
+      <node id="#SheKnows" label="#SheKnows" />
+      <node id="#loyalty" label="#loyalty" />
+      <node id="#sweeeet" label="#sweeeet" />
+      <node id="#PleaseShare" label="#PleaseShare" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#Selfiebration" label="#Selfiebration" />
+      <node id="#girlpower" label="#girlpower" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#getfizzy" label="#getfizzy" />
+      <node id="#networking" label="#networking" />
+      <node id="#parenting" label="#parenting" />
+      <node id="#s" label="#s" />
+      <node id="#femvertising" label="#femvertising" />
+      <node id="#NauticaKidsBH" label="#NauticaKidsBH" />
+      <node id="#justtrue" label="#justtrue" />
+      <node id="#HealingStories" label="#HealingStories" />
+      <node id="#Ad" label="#Ad" />
+      <node id="#courage" label="#courage" />
+      <node id="#BlogHerFood" label="#BlogHerFood" />
+      <node id="#SK" label="#SK" />
+      <node id="#houseofcards" label="#houseofcards" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#SURVIVOR" label="#SURVIVOR" />
+      <node id="#FindYourVoice" label="#FindYourVoice" />
+      <node id="#bonnieandkid" label="#bonnieandkid" />
+      <node id="#secretyodeler" label="#secretyodeler" />
+      <node id="#stopthesilence" label="#stopthesilence" />
+      <node id="#fall" label="#fall" />
+      <node id="#ThePitch" label="#ThePitch" />
+      <node id="#sunny95" label="#sunny95" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#drwho" label="#drwho" />
+      <node id="#asthma" label="#asthma" />
+      <node id="#StouffersBH" label="#StouffersBH" />
+      <node id="#worlddomination" label="#worlddomination" />
+      <node id="#Heisman" label="#Heisman" />
+      <node id="#Scandal" label="#Scandal" />
+      <node id="#weather" label="#weather" />
+      <node id="#Iloveyoupeople" label="#Iloveyoupeople" />
+      <node id="#family" label="#family" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#Day6" label="#Day6" />
+      <node id="#ChooseFairTradeBH" label="#ChooseFairTradeBH" />
+      <node id="#NN15" label="#NN15" />
+      <node id="#foodallergy" label="#foodallergy" />
+      <node id="#breathe" label="#breathe" />
+      <node id="#PitchMajora" label="#PitchMajora" />
+      <node id="#FOAM" label="#FOAM" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#BloggingatCP" label="#BloggingatCP" />
+      <node id="#definingmoments" label="#definingmoments" />
+      <node id="#FeedingAMillion" label="#FeedingAMillion" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#bloghertalks" label="#bloghertalks" />
+      <node id="#Netflix" label="#Netflix" />
+      <node id="#SanJose" label="#SanJose" />
+      <node id="#BHWhirlpoolCES" label="#BHWhirlpoolCES" />
+      <node id="#temperament" label="#temperament" />
+      <node id="#sunrise" label="#sunrise" />
+      <node id="#innocence" label="#innocence" />
+      <node id="#realtimessquare" label="#realtimessquare" />
+      <node id="#goodbehavior" label="#goodbehavior" />
+      <node id="#SharkTank" label="#SharkTank" />
+      <node id="#milanocookies" label="#milanocookies" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#JT" label="#JT" />
+      <node id="#TeamChandler" label="#TeamChandler" />
+      <node id="#gorgeous" label="#gorgeous" />
+      <node id="#want" label="#want" />
+      <node id="#blogherfood" label="#blogherfood" />
+      <node id="#SKExperts" label="#SKExperts" />
+      <node id="#Give2NCH" label="#Give2NCH" />
+      <node id="#babyfat" label="#babyfat" />
+      <node id="#wheezechat" label="#wheezechat" />
+      <node id="#BlogHerTalks" label="#BlogHerTalks" />
+      <node id="#blm" label="#blm" />
+      <node id="#LTYMomo" label="#LTYMomo" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#hospitalitylistens" label="#hospitalitylistens" />
+      <node id="#B1G" label="#B1G" />
+      <node id="#tootsieroll" label="#tootsieroll" />
+      <node id="#preemie" label="#preemie" />
+      <node id="#aggression" label="#aggression" />
+      <node id="#sigh" label="#sigh" />
+      <node id="#MusicTherapy" label="#MusicTherapy" />
+      <node id="#CourageToday" label="#CourageToday" />
+      <node id="#DefiningMoments" label="#DefiningMoments" />
+      <node id="#hotelbreakers" label="#hotelbreakers" />
+      <node id="#NauticaKids" label="#NauticaKids" />
+      <node id="#mobileloyalty" label="#mobileloyalty" />
+      <node id="#shameless" label="#shameless" />
+      <node id="#basketball" label="#basketball" />
+      <node id="#SMOHealth" label="#SMOHealth" />
+      <node id="#mypeople" label="#mypeople" />
+      <node id="#Experts" label="#Experts" />
+      <node id="#Sochi" label="#Sochi" />
+      <node id="#cbuswid" label="#cbuswid" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#notkissingUP" label="#notkissingUP" />
+      <node id="#ChapelHillShooting" label="#ChapelHillShooting" />
+      <node id="#NaBloPoMo" label="#NaBloPoMo" />
+      <node id="#maxair" label="#maxair" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#pinchat" label="#pinchat" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#VMAs" label="#VMAs" />
+      <node id="#runjennarun" label="#runjennarun" />
+      <node id="#findyourvoice" label="#findyourvoice" />
+      <node id="#MedEd" label="#MedEd" />
+      <node id="#Whovian" label="#Whovian" />
+      <node id="#SKBeauty" label="#SKBeauty" />
+      <node id="#PinChat" label="#PinChat" />
+      <node id="#McDBlogHer" label="#McDBlogHer" />
+      <node id="#HCSM" label="#HCSM" />
+      <node id="#kindle" label="#kindle" />
+      <node id="#yodelingkid" label="#yodelingkid" />
+      <node id="#soundofmusic" label="#soundofmusic" />
+      <node id="#Sunny95" label="#Sunny95" />
+      <node id="#wineoverice" label="#wineoverice" />
+      <node id="#HatchKids" label="#HatchKids" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#CHD" label="#CHD" />
+      <node id="#365feministselfie" label="#365feministselfie" />
+      <node id="#specialneeds" label="#specialneeds" />
+      <node id="#BlogHer14" label="#BlogHer14" />
+      <node id="#lakeerie" label="#lakeerie" />
+      <node id="#weak" label="#weak" />
+      <node id="#oscars" label="#oscars" />
+      <node id="#notsharing" label="#notsharing" />
+      <node id="#BlogHerPro14" label="#BlogHerPro14" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#BestScore" label="#BestScore" />
+      <node id="#skyline" label="#skyline" />
+      <node id="#OSUvsOU" label="#OSUvsOU" />
+      <node id="#bh" label="#bh" />
+      <node id="#BlogHer09" label="#BlogHer09" />
+      <node id="#ThisIs42" label="#ThisIs42" />
+      <node id="#BlogHer13" label="#BlogHer13" />
+      <node id="#stepstowellness" label="#stepstowellness" />
+      <node id="#Grammys" label="#Grammys" />
+      <node id="#ShareaCoke" label="#ShareaCoke" />
+      <node id="#OhioStateBuckeyes" label="#OhioStateBuckeyes" />
+      <node id="#BH" label="#BH" />
+      <node id="#GoldenGlobes" label="#GoldenGlobes" />
+      <node id="#NextGen" label="#NextGen" />
+      <node id="#GoodBehavior" label="#GoodBehavior" />
+      <node id="#AllHailKingJulien" label="#AllHailKingJulien" />
+      <node id="#DinnerinPJs" label="#DinnerinPJs" />
+      <node id="#OCD" label="#OCD" />
+      <node id="#notdrunk" label="#notdrunk" />
+      <node id="#ThisGirlCan" label="#ThisGirlCan" />
+      <node id="#banbossy" label="#banbossy" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#photography" label="#photography" />
+      <node id="#CedarPoint" label="#CedarPoint" />
+      <node id="#sponsored" label="#sponsored" />
+      <node id="#JaredLeto" label="#JaredLeto" />
+      <node id="#southwalton" label="#southwalton" />
+      <node id="#interactive" label="#interactive" />
+      <node id="#spent" label="#spent" />
+      <node id="#classy" label="#classy" />
+      <node id="#socialenterprise" label="#socialenterprise" />
+      <node id="#BlogHer15" label="#BlogHer15" />
+      <node id="#blogher14" label="#blogher14" />
+      <node id="#myshakinflavor" label="#myshakinflavor" />
+      <node id="#BlogHer16" label="#BlogHer16" />
+      <node id="#BrokeMe" label="#BrokeMe" />
+      <node id="#otissneakpeek" label="#otissneakpeek" />
+      <node id="#blogher13" label="#blogher13" />
+      <node id="#blackhawks" label="#blackhawks" />
+      <node id="#Metallica" label="#Metallica" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#BlogHer16" weight="3248" />
+      <edge id="1" source="#truth" target="#goodbehavior" weight="3248" />
+      <edge id="2" source="#walkingdead" target="#insomnia" weight="3248" />
+      <edge id="3" source="#OhioState" target="#Buckeyes" weight="6496" />
+      <edge id="4" source="#CVSAbound" target="#blogherfood" weight="3248" />
+      <edge id="5" source="#FeedingaMillion" target="#KeepGoodGoing" weight="16240" />
+      <edge id="6" source="#FeedAMillion" target="#KeepGoodGoing" weight="3248" />
+      <edge id="7" source="#cbusmarathon" target="#runjennarun" weight="3248" />
+      <edge id="8" source="#cbusmarathon" target="#sunrise" weight="3248" />
+      <edge id="9" source="#cbusmarathon" target="#running" weight="3248" />
+      <edge id="10" source="#cbusmarathon" target="#cbus" weight="3248" />
+      <edge id="11" source="#cbusmarathon" target="#skyline" weight="3248" />
+      <edge id="12" source="#cbusmarathon" target="#Buckeyes" weight="3248" />
+      <edge id="13" source="#swlcon15" target="#Periscope" weight="3248" />
+      <edge id="14" source="#BlogHerFood15" target="#Podcasting" weight="3248" />
+      <edge id="15" source="#BlogHerFood15" target="#delicious" weight="3248" />
+      <edge id="16" source="#BlogHerFood15" target="#otissneakpeek" weight="3248" />
+      <edge id="17" source="#entrepreneurs" target="#SKExperts" weight="3248" />
+      <edge id="18" source="#entrepreneurs" target="#ThePitch" weight="3248" />
+      <edge id="19" source="#entrepreneurs" target="#socialmedia" weight="3248" />
+      <edge id="20" source="#entrepreneurs" target="#PleaseShare" weight="3248" />
+      <edge id="21" source="#monetization" target="#ad" weight="6496" />
+      <edge id="22" source="#monetization" target="#bh" weight="6496" />
+      <edge id="23" source="#monetization" target="#BlogHerPro14" weight="3248" />
+      <edge id="24" source="#monetization" target="#BlogHerPro" weight="3248" />
+      <edge id="25" source="#monetization" target="#loyalty" weight="6496" />
+      <edge id="26" source="#GOPDebate" target="#BlogHer15" weight="3248" />
+      <edge id="27" source="#GOPDebate" target="#BlackLivesMatter" weight="9744" />
+      <edge id="28" source="#stress" target="#anxiety" weight="3248" />
+      <edge id="29" source="#Oscars" target="#BlogHerTalks" weight="19488" />
+      <edge id="30" source="#Oscars" target="#BestScore" weight="3248" />
+      <edge id="31" source="#notsponsored" target="#IKEAfreshstart" weight="3248" />
+      <edge id="32" source="#womenslives" target="#equalpay" weight="3248" />
+      <edge id="33" source="#womenslives" target="#BlogHer15" weight="3248" />
+      <edge id="34" source="#womenslives" target="#ObamaTownHall" weight="3248" />
+      <edge id="35" source="#womenslives" target="#BlackLivesMatter" weight="3248" />
+      <edge id="36" source="#buckeyes" target="#sigh" weight="3248" />
+      <edge id="37" source="#blogher15" target="#NN15" weight="3248" />
+      <edge id="38" source="#blogher15" target="#definingmoments" weight="3248" />
+      <edge id="39" source="#blogher15" target="#blm" weight="3248" />
+      <edge id="40" source="#blogher15" target="#BlackLivesMatter" weight="3248" />
+      <edge id="41" source="#Miami" target="#BlogHerFood" weight="3248" />
+      <edge id="42" source="#NeverStopFighting" target="#BuckeyeNation" weight="3248" />
+      <edge id="43" source="#VOTY" target="#BlogHer15" weight="16240" />
+      <edge id="44" source="#VOTY" target="#BlogHer16" weight="3248" />
+      <edge id="45" source="#VOTY" target="#hearingimpaired" weight="3248" />
+      <edge id="46" source="#VOTY" target="#blogher16" weight="6496" />
+      <edge id="47" source="#VOTY" target="#SharkTank" weight="3248" />
+      <edge id="48" source="#VOTY" target="#TBT" weight="3248" />
+      <edge id="49" source="#LTYM" target="#LTYMomo" weight="3248" />
+      <edge id="50" source="#LTYM" target="#Chicago" weight="16240" />
+      <edge id="51" source="#LTYM" target="#TeamChandler" weight="3248" />
+      <edge id="52" source="#LTYM" target="#BlogHer15" weight="3248" />
+      <edge id="53" source="#SuperBowl" target="#adBowl" weight="3248" />
+      <edge id="54" source="#autismawareness" target="#hospitalitylistens" weight="3248" />
+      <edge id="55" source="#ImEnough" target="#BlogHer14" weight="3248" />
+      <edge id="56" source="#ImEnough" target="#blogher14" weight="3248" />
+      <edge id="57" source="#VoicesOfTheYear" target="#BlogHer15" weight="3248" />
+      <edge id="58" source="#snowday" target="#DinnerinPJs" weight="3248" />
+      <edge id="59" source="#BREATHE" target="#specialneeds" weight="3248" />
+      <edge id="60" source="#BREATHE" target="#breathe" weight="3248" />
+      <edge id="61" source="#blogher16" target="#networking" weight="3248" />
+      <edge id="62" source="#blogher16" target="#GoodBehavior" weight="3248" />
+      <edge id="63" source="#flavorife" target="#BlogHer16" weight="3248" />
+      <edge id="64" source="#BlogHer" target="#BlogHer15" weight="3248" />
+      <edge id="65" source="#BlogHer" target="#CourageToday" weight="3248" />
+      <edge id="66" source="#BlogHer" target="#courage" weight="3248" />
+      <edge id="67" source="#BlogHerU" target="#photography" weight="3248" />
+      <edge id="68" source="#BlogHerU" target="#BlogHer15" weight="48720" />
+      <edge id="69" source="#BlogHerU" target="#Ferguson" weight="3248" />
+      <edge id="70" source="#BlogHerU" target="#NaBloPoMo" weight="12992" />
+      <edge id="71" source="#BlogHerU" target="#blogging" weight="6496" />
+      <edge id="72" source="#StreamTeam" target="#UnbreakableKimmySchmidt" weight="6496" />
+      <edge id="73" source="#StreamTeam" target="#Netflix" weight="12992" />
+      <edge id="74" source="#StreamTeam" target="#AllHailKingJulien" weight="3248" />
+      <edge id="75" source="#gogogoodness" target="#bh" weight="6496" />
+      <edge id="76" source="#gogogoodness" target="#ad" weight="6496" />
+      <edge id="77" source="#BlogHerPRO" target="#NaBloPoMo" weight="32480" />
+      <edge id="78" source="#ad" target="#StouffersBH" weight="25984" />
+      <edge id="79" source="#ad" target="#findyourvoice" weight="6496" />
+      <edge id="80" source="#ad" target="#SKBeauty" weight="25984" />
+      <edge id="81" source="#ad" target="#ChooseFairTradeBH" weight="25984" />
+      <edge id="82" source="#ad" target="#Thanksgiving" weight="3248" />
+      <edge id="83" source="#ad" target="#bhWhirlpoolCES" weight="3248" />
+      <edge id="84" source="#ad" target="#SK" weight="3248" />
+      <edge id="85" source="#ad" target="#BHWhirlpoolCES" weight="32480" />
+      <edge id="86" source="#ad" target="#BlogHerPro14" weight="3248" />
+      <edge id="87" source="#ad" target="#milanocookies" weight="25984" />
+      <edge id="88" source="#ad" target="#loyalty" weight="6496" />
+      <edge id="89" source="#ad" target="#bh" weight="55216" />
+      <edge id="90" source="#ad" target="#KeepGoodGoing" weight="6496" />
+      <edge id="91" source="#ad" target="#ShareaCoke" weight="6496" />
+      <edge id="92" source="#ad" target="#BH" weight="61712" />
+      <edge id="93" source="#ad" target="#NauticaKidsBH" weight="9744" />
+      <edge id="94" source="#ad" target="#barenecessities" weight="6496" />
+      <edge id="95" source="#ad" target="#FeedingAMillion" weight="9744" />
+      <edge id="96" source="#ad" target="#NauticaKids" weight="16240" />
+      <edge id="97" source="#ad" target="#FindYourVoice" weight="19488" />
+      <edge id="98" source="#ad" target="#PoldarkPBS" weight="6496" />
+      <edge id="99" source="#ad" target="#mobileloyalty" weight="16240" />
+      <edge id="100" source="#ad" target="#BlogHerPro" weight="12992" />
+      <edge id="101" source="#BloggingatWWK" target="#norain" weight="3248" />
+      <edge id="102" source="#BloggingatWWK" target="#spon" weight="3248" />
+      <edge id="103" source="#debatenight" target="#temperament" weight="3248" />
+      <edge id="104" source="#ObamaTownHall" target="#equalpay" weight="3248" />
+      <edge id="105" source="#KeepGoodGoing" target="#bh" weight="6496" />
+      <edge id="106" source="#KeepGoodGoing" target="#FeedingAMillion" weight="19488" />
+      <edge id="107" source="#cedarpoint" target="#lakeerie" weight="3248" />
+      <edge id="108" source="#cedarpoint" target="#bloggingatCP" weight="6496" />
+      <edge id="109" source="#cedarpoint" target="#hotelbreakers" weight="3248" />
+      <edge id="110" source="#twease" target="#BlogHer14" weight="3248" />
+      <edge id="111" source="#spon" target="#norain" weight="3248" />
+      <edge id="112" source="#spon" target="#McDBlogHer" weight="6496" />
+      <edge id="113" source="#spon" target="#bhWhirlpoolCES" weight="3248" />
+      <edge id="114" source="#spon" target="#BlogHer15" weight="19488" />
+      <edge id="115" source="#spon" target="#myshakinflavor" weight="3248" />
+      <edge id="116" source="#spon" target="#Extrovert" weight="3248" />
+      <edge id="117" source="#miraclemakers" target="#sunny95" weight="3248" />
+      <edge id="118" source="#ExpertsAmongUs" target="#BlogHer15" weight="3248" />
+      <edge id="119" source="#hearingimpaired" target="#BlogHer15" weight="3248" />
+      <edge id="120" source="#running" target="#sunrise" weight="3248" />
+      <edge id="121" source="#running" target="#skyline" weight="3248" />
+      <edge id="122" source="#running" target="#cbus" weight="3248" />
+      <edge id="123" source="#Extrovert" target="#BlogHer15" weight="3248" />
+      <edge id="124" source="#KnowMe" target="#BlogHer15" weight="25984" />
+      <edge id="125" source="#barenecessities" target="#bh" weight="6496" />
+      <edge id="126" source="#ColorCommChat" target="#BlogHer15" weight="9744" />
+      <edge id="127" source="#imPRESSmanicure" target="#BlogHer13" weight="3248" />
+      <edge id="128" source="#BuckeyeNation" target="#Buckeyes" weight="19488" />
+      <edge id="129" source="#BuckeyeNation" target="#GoBucks" weight="12992" />
+      <edge id="130" source="#BuckeyeNation" target="#WeAreGoodEnough" weight="3248" />
+      <edge id="131" source="#BuckeyeNation" target="#JT" weight="3248" />
+      <edge id="132" source="#superfoods" target="#bh" weight="3248" />
+      <edge id="133" source="#hugefan" target="#bonnieandkid" weight="3248" />
+      <edge id="134" source="#veronicamars" target="#shameless" weight="3248" />
+      <edge id="135" source="#veronicamars" target="#truedetective" weight="3248" />
+      <edge id="136" source="#veronicamars" target="#houseofcards" weight="3248" />
+      <edge id="137" source="#StanleyCupFinal" target="#blackhawks" weight="3248" />
+      <edge id="138" source="#autismspeaks" target="#BlogHer14" weight="3248" />
+      <edge id="139" source="#survivor" target="#IWoreBlackandBlue" weight="3248" />
+      <edge id="140" source="#PoldarkPBS" target="#Ad" weight="6496" />
+      <edge id="141" source="#PoldarkPBS" target="#SK" weight="9744" />
+      <edge id="142" source="#UnbreakableKimmySchmidt" target="#Netflix" weight="3248" />
+      <edge id="143" source="#stapleslive" target="#hippiechick" weight="3248" />
+      <edge id="144" source="#stapleslive" target="#BlogHer16" weight="6496" />
+      <edge id="145" source="#HeartMonth" target="#CHD" weight="3248" />
+      <edge id="146" source="#HeartMonth" target="#NCHheart" weight="3248" />
+      <edge id="147" source="#cbus" target="#sunrise" weight="3248" />
+      <edge id="148" source="#cbus" target="#columbus" weight="3248" />
+      <edge id="149" source="#cbus" target="#skyline" weight="3248" />
+      <edge id="150" source="#pediacast" target="#aggression" weight="3248" />
+      <edge id="151" source="#pediacast" target="#MedEd" weight="3248" />
+      <edge id="152" source="#pediacast" target="#FOAMed" weight="3248" />
+      <edge id="153" source="#Femvertising" target="#BlogHer15" weight="3248" />
+      <edge id="154" source="#Femvertising" target="#ThisGirlCan" weight="3248" />
+      <edge id="155" source="#blogging" target="#photography" weight="3248" />
+      <edge id="156" source="#BlogHerPro" target="#bh" weight="12992" />
+      <edge id="157" source="#BlogHerPro" target="#mobileloyalty" weight="6496" />
+      <edge id="158" source="#BlogHerPro" target="#loyalty" weight="3248" />
+      <edge id="159" source="#bloggingatCP" target="#maxair" weight="3248" />
+      <edge id="160" source="#bloggingatCP" target="#hotelbreakers" weight="3248" />
+      <edge id="161" source="#bloggingatCP" target="#CedarPoint" weight="6496" />
+      <edge id="162" source="#bloggingatCP" target="#lakeerie" weight="3248" />
+      <edge id="163" source="#bloggingatCP" target="#Ohio" weight="3248" />
+      <edge id="164" source="#autism" target="#CHD" weight="3248" />
+      <edge id="165" source="#autism" target="#Experts" weight="3248" />
+      <edge id="166" source="#autism" target="#BlogHer15" weight="3248" />
+      <edge id="167" source="#autism" target="#OCD" weight="3248" />
+      <edge id="168" source="#autism" target="#preemie" weight="3248" />
+      <edge id="169" source="#autism" target="#parenting" weight="3248" />
+      <edge id="170" source="#FTK" target="#FortheKids" weight="3248" />
+      <edge id="171" source="#whirlpool2020" target="#bh" weight="3248" />
+      <edge id="172" source="#BlogHerEmmys" target="#weak" weight="3248" />
+      <edge id="173" source="#Thanksgiving" target="#bh" weight="3248" />
+      <edge id="174" source="#Thanksgiving" target="#FeedingAMillion" weight="3248" />
+      <edge id="175" source="#Facebook" target="#Twitter" weight="3248" />
+      <edge id="176" source="#namastEppa" target="#BlogHer14" weight="3248" />
+      <edge id="177" source="#NCHheart" target="#CHD" weight="3248" />
+      <edge id="178" source="#leaves" target="#nofilter" weight="3248" />
+      <edge id="179" source="#leaves" target="#fall" weight="3248" />
+      <edge id="180" source="#leaves" target="#gorgeous" weight="3248" />
+      <edge id="181" source="#leaves" target="#ohio" weight="3248" />
+      <edge id="182" source="#Ferguson" target="#NaBloPoMo" weight="3248" />
+      <edge id="183" source="#MiracleMaker" target="#Sunny95" weight="3248" />
+      <edge id="184" source="#hippiechick" target="#BlogHer16" weight="3248" />
+      <edge id="185" source="#GoRVingLA" target="#BlogHer16" weight="6496" />
+      <edge id="186" source="#GoRVingLA" target="#want" weight="3248" />
+      <edge id="187" source="#DontBlogHungry" target="#blogher13" weight="3248" />
+      <edge id="188" source="#StaplesLive" target="#BlogHer16" weight="3248" />
+      <edge id="189" source="#FOAMed" target="#aggression" weight="3248" />
+      <edge id="190" source="#FOAMed" target="#MedEd" weight="3248" />
+      <edge id="191" source="#Olympics" target="#Sochi" weight="3248" />
+      <edge id="192" source="#SoGood" target="#SURVIVOR" weight="3248" />
+      <edge id="193" source="#foliotopmag" target="#BlogHer15" weight="3248" />
+      <edge id="194" source="#foliotopmag" target="#femvertising" weight="3248" />
+      <edge id="195" source="#selfiebration" target="#BlogHer14" weight="3248" />
+      <edge id="196" source="#selfiebration" target="#BlogHer09" weight="3248" />
+      <edge id="197" source="#collegefootballplayoff" target="#Buckeyes" weight="3248" />
+      <edge id="198" source="#HalloWeekends" target="#BloggingatCP" weight="9744" />
+      <edge id="199" source="#Buckeyes" target="#GoBucks" weight="12992" />
+      <edge id="200" source="#Buckeyes" target="#B1G" weight="3248" />
+      <edge id="201" source="#Buckeyes" target="#basketball" weight="3248" />
+      <edge id="202" source="#Buckeyes" target="#JT" weight="3248" />
+      <edge id="203" source="#truedetective" target="#shameless" weight="3248" />
+      <edge id="204" source="#truedetective" target="#houseofcards" weight="3248" />
+      <edge id="205" source="#BilleJoeandMiranda" target="#Grammys" weight="3248" />
+      <edge id="206" source="#EBWW2014" target="#classy" weight="3248" />
+      <edge id="207" source="#Not" target="#BrokeMe" weight="3248" />
+      <edge id="208" source="#Gaga" target="#VMAs" weight="3248" />
+      <edge id="209" source="#SheKnows" target="#BlogHer15" weight="3248" />
+      <edge id="210" source="#loyalty" target="#bh" weight="6496" />
+      <edge id="211" source="#loyalty" target="#BlogHerPro14" weight="3248" />
+      <edge id="212" source="#sweeeet" target="#blogher14" weight="3248" />
+      <edge id="213" source="#PleaseShare" target="#SKExperts" weight="3248" />
+      <edge id="214" source="#Selfiebration" target="#BlogHer14" weight="3248" />
+      <edge id="215" source="#girlpower" target="#cbuswid" weight="3248" />
+      <edge id="216" source="#delicious" target="#otissneakpeek" weight="3248" />
+      <edge id="217" source="#getfizzy" target="#blogher13" weight="3248" />
+      <edge id="218" source="#s" target="#pinchat" weight="3248" />
+      <edge id="219" source="#femvertising" target="#BlogHer15" weight="3248" />
+      <edge id="220" source="#justtrue" target="#notkissingUP" weight="3248" />
+      <edge id="221" source="#justtrue" target="#BlogHer13" weight="3248" />
+      <edge id="222" source="#HealingStories" target="#BlogHer15" weight="12992" />
+      <edge id="223" source="#Ad" target="#SK" weight="6496" />
+      <edge id="224" source="#courage" target="#BlogHer15" weight="3248" />
+      <edge id="225" source="#courage" target="#CourageToday" weight="3248" />
+      <edge id="226" source="#BlogHerFood" target="#spent" weight="3248" />
+      <edge id="227" source="#BlogHerFood" target="#BlogHerTalks" weight="3248" />
+      <edge id="228" source="#houseofcards" target="#shameless" weight="3248" />
+      <edge id="229" source="#GoBucks" target="#OSUvsOU" weight="6496" />
+      <edge id="230" source="#FindYourVoice" target="#BH" weight="19488" />
+      <edge id="231" source="#secretyodeler" target="#soundofmusic" weight="3248" />
+      <edge id="232" source="#stopthesilence" target="#ChapelHillShooting" weight="3248" />
+      <edge id="233" source="#fall" target="#nofilter" weight="3248" />
+      <edge id="234" source="#fall" target="#gorgeous" weight="3248" />
+      <edge id="235" source="#fall" target="#ohio" weight="3248" />
+      <edge id="236" source="#ThePitch" target="#BlogHer15" weight="9744" />
+      <edge id="237" source="#ThePitch" target="#PitchMajora" weight="3248" />
+      <edge id="238" source="#BlackLivesMatter" target="#BlogHer15" weight="9744" />
+      <edge id="239" source="#BlackLivesMatter" target="#blm" weight="3248" />
+      <edge id="240" source="#BlackLivesMatter" target="#NN15" weight="3248" />
+      <edge id="241" source="#BlackLivesMatter" target="#BlackLivesMatter" weight="6496" />
+      <edge id="242" source="#drwho" target="#Whovian" weight="3248" />
+      <edge id="243" source="#asthma" target="#foodallergy" weight="3248" />
+      <edge id="244" source="#asthma" target="#wheezechat" weight="3248" />
+      <edge id="245" source="#worlddomination" target="#BlogHer15" weight="3248" />
+      <edge id="246" source="#Heisman" target="#OhioStateBuckeyes" weight="3248" />
+      <edge id="247" source="#Scandal" target="#BlogHer14" weight="3248" />
+      <edge id="248" source="#weather" target="#Columbus" weight="3248" />
+      <edge id="249" source="#Iloveyoupeople" target="#BlogHer14" weight="3248" />
+      <edge id="250" source="#family" target="#MedEd" weight="3248" />
+      <edge id="251" source="#family" target="#FOAM" weight="3248" />
+      <edge id="252" source="#family" target="#MusicTherapy" weight="3248" />
+      <edge id="253" source="#NFL" target="#interactive" weight="3248" />
+      <edge id="254" source="#Day6" target="#NaBloPoMo" weight="3248" />
+      <edge id="255" source="#NN15" target="#blm" weight="3248" />
+      <edge id="256" source="#breathe" target="#specialneeds" weight="3248" />
+      <edge id="257" source="#PitchMajora" target="#BlogHer15" weight="3248" />
+      <edge id="258" source="#FOAM" target="#MedEd" weight="3248" />
+      <edge id="259" source="#FOAM" target="#MusicTherapy" weight="3248" />
+      <edge id="260" source="#definingmoments" target="#BlogHer15" weight="3248" />
+      <edge id="261" source="#definingmoments" target="#365feministselfie" weight="3248" />
+      <edge id="262" source="#FeedingAMillion" target="#bh" weight="9744" />
+      <edge id="263" source="#Chicago" target="#TeamChandler" weight="3248" />
+      <edge id="264" source="#Chicago" target="#LTYMomo" weight="6496" />
+      <edge id="265" source="#bloghertalks" target="#oscars" weight="3248" />
+      <edge id="266" source="#SanJose" target="#blogher14" weight="3248" />
+      <edge id="267" source="#sunrise" target="#skyline" weight="3248" />
+      <edge id="268" source="#innocence" target="#specialneeds" weight="3248" />
+      <edge id="269" source="#realtimessquare" target="#BlogHer15" weight="3248" />
+      <edge id="270" source="#goodbehavior" target="#BlogHer16" weight="3248" />
+      <edge id="271" source="#SharkTank" target="#BlogHer15" weight="3248" />
+      <edge id="272" source="#milanocookies" target="#BH" weight="25984" />
+      <edge id="273" source="#gorgeous" target="#nofilter" weight="3248" />
+      <edge id="274" source="#gorgeous" target="#ohio" weight="3248" />
+      <edge id="275" source="#want" target="#BlogHer16" weight="3248" />
+      <edge id="276" source="#blogherfood" target="#southwalton" weight="3248" />
+      <edge id="277" source="#Give2NCH" target="#GivingTuesday" weight="3248" />
+      <edge id="278" source="#babyfat" target="#kindle" weight="3248" />
+      <edge id="279" source="#BlogHerTalks" target="#VMAs" weight="3248" />
+      <edge id="280" source="#BlogHerTalks" target="#oscars" weight="3248" />
+      <edge id="281" source="#BlogHerTalks" target="#GoldenGlobes" weight="45472" />
+      <edge id="282" source="#BlogHerTalks" target="#NaBloPoMo" weight="16240" />
+      <edge id="283" source="#hcsm" target="#SMOHealth" weight="3248" />
+      <edge id="284" source="#hcsm" target="#socialmedia" weight="3248" />
+      <edge id="285" source="#tootsieroll" target="#notsharing" weight="3248" />
+      <edge id="286" source="#preemie" target="#BlogHer15" weight="3248" />
+      <edge id="287" source="#preemie" target="#CHD" weight="3248" />
+      <edge id="288" source="#preemie" target="#Experts" weight="3248" />
+      <edge id="289" source="#preemie" target="#OCD" weight="3248" />
+      <edge id="290" source="#aggression" target="#MedEd" weight="3248" />
+      <edge id="291" source="#MusicTherapy" target="#MedEd" weight="3248" />
+      <edge id="292" source="#CourageToday" target="#BlogHer15" weight="3248" />
+      <edge id="293" source="#DefiningMoments" target="#BlogHer15" weight="9744" />
+      <edge id="294" source="#NauticaKids" target="#BH" weight="16240" />
+      <edge id="295" source="#mobileloyalty" target="#bh" weight="16240" />
+      <edge id="296" source="#SMOHealth" target="#HCSM" weight="3248" />
+      <edge id="297" source="#mypeople" target="#BlogHer14" weight="3248" />
+      <edge id="298" source="#Experts" target="#BlogHer15" weight="25984" />
+      <edge id="299" source="#Experts" target="#CHD" weight="3248" />
+      <edge id="300" source="#Experts" target="#OCD" weight="3248" />
+      <edge id="301" source="#cbuswid" target="#socialenterprise" weight="3248" />
+      <edge id="302" source="#notkissingUP" target="#BlogHer13" weight="3248" />
+      <edge id="303" source="#maxair" target="#CedarPoint" weight="3248" />
+      <edge id="304" source="#ohio" target="#nofilter" weight="3248" />
+      <edge id="305" source="#VMAs" target="#ThisIs42" weight="3248" />
+      <edge id="306" source="#findyourvoice" target="#bh" weight="6496" />
+      <edge id="307" source="#PinChat" target="#Pinterest" weight="3248" />
+      <edge id="308" source="#McDBlogHer" target="#BlogHer15" weight="6496" />
+      <edge id="309" source="#McDBlogHer" target="#BlogHer14" weight="6496" />
+      <edge id="310" source="#yodelingkid" target="#soundofmusic" weight="3248" />
+      <edge id="311" source="#wineoverice" target="#blogher13" weight="3248" />
+      <edge id="312" source="#HatchKids" target="#BlogHer15" weight="3248" />
+      <edge id="313" source="#CHD" target="#BlogHer15" weight="3248" />
+      <edge id="314" source="#CHD" target="#OCD" weight="3248" />
+      <edge id="315" source="#365feministselfie" target="#BlogHer15" weight="6496" />
+      <edge id="316" source="#BlogHer14" target="#BlogHer15" weight="3248" />
+      <edge id="317" source="#BlogHerPro14" target="#bh" weight="3248" />
+      <edge id="318" source="#BlogHer13" target="#stepstowellness" weight="3248" />
+      <edge id="319" source="#Grammys" target="#JaredLeto" weight="3248" />
+      <edge id="320" source="#Grammys" target="#Metallica" weight="3248" />
+      <edge id="321" source="#ShareaCoke" target="#ShareaCoke" weight="6496" />
+      <edge id="322" source="#NextGen" target="#BlogHer15" weight="3248" />
+      <edge id="323" source="#OCD" target="#BlogHer15" weight="3248" />
+      <edge id="324" source="#notdrunk" target="#banbossy" weight="3248" />
+      <edge id="325" source="#ThisGirlCan" target="#BlogHer15" weight="3248" />
+      <edge id="326" source="#sponsored" target="#BlogHer15" weight="16240" />
+    </edges>
+  </graph>
+</gexf>

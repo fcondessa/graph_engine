@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#cryptocurrency" label="#cryptocurrency" />
+      <node id="#Microsoft" label="#Microsoft" />
+      <node id="#JourneyToMars" label="#JourneyToMars" />
+      <node id="#OneDayIWill" label="#OneDayIWill" />
+      <node id="#stockmarket" label="#stockmarket" />
+      <node id="#InternationalWomensDay" label="#InternationalWomensDay" />
+      <node id="#bitcoin" label="#bitcoin" />
+      <node id="#bulkingphase" label="#bulkingphase" />
+      <node id="#Bitcoin" label="#Bitcoin" />
+      <node id="#litecoin" label="#litecoin" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#cryptocurrency" target="#Bitcoin" weight="33" />
+      <edge id="1" source="#Microsoft" target="#bitcoin" weight="33" />
+      <edge id="2" source="#JourneyToMars" target="#InternationalWomensDay" weight="33" />
+      <edge id="3" source="#JourneyToMars" target="#OneDayIWill" weight="33" />
+      <edge id="4" source="#OneDayIWill" target="#InternationalWomensDay" weight="33" />
+      <edge id="5" source="#stockmarket" target="#bulkingphase" weight="33" />
+      <edge id="6" source="#bitcoin" target="#litecoin" weight="33" />
+    </edges>
+  </graph>
+</gexf>

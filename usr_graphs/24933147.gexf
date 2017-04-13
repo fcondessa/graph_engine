@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#storyhouse" label="#storyhouse" />
+      <node id="#Mont" label="#Mont" />
+      <node id="#song" label="#song" />
+      <node id="#quotes" label="#quotes" />
+      <node id="#imperfect" label="#imperfect" />
+      <node id="#brandblunder" label="#brandblunder" />
+      <node id="#brandingstrategy" label="#brandingstrategy" />
+      <node id="#ColsAMA" label="#ColsAMA" />
+      <node id="#selling" label="#selling" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#interns" label="#interns" />
+      <node id="#thetoll" label="#thetoll" />
+      <node id="#business" label="#business" />
+      <node id="#knowing" label="#knowing" />
+      <node id="#differentiate" label="#differentiate" />
+      <node id="#super" label="#super" />
+      <node id="#B2BSig" label="#B2BSig" />
+      <node id="#product" label="#product" />
+      <node id="#Business" label="#Business" />
+      <node id="#contentmarketing" label="#contentmarketing" />
+      <node id="#unknowing" label="#unknowing" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#music" label="#music" />
+      <node id="#sbarro" label="#sbarro" />
+      <node id="#national" label="#national" />
+      <node id="#brandfail" label="#brandfail" />
+      <node id="#loyalty" label="#loyalty" />
+      <node id="#guarantee" label="#guarantee" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#brand" label="#brand" />
+      <node id="#coldplay" label="#coldplay" />
+      <node id="#TheToll" label="#TheToll" />
+      <node id="#digital" label="#digital" />
+      <node id="#freedom" label="#freedom" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#Giant" label="#Giant" />
+      <node id="#love" label="#love" />
+      <node id="#branding" label="#branding" />
+      <node id="#fox28columbus" label="#fox28columbus" />
+      <node id="#brandstrategy" label="#brandstrategy" />
+      <node id="#sales" label="#sales" />
+      <node id="#friend" label="#friend" />
+      <node id="#pizza" label="#pizza" />
+      <node id="#Brand" label="#Brand" />
+      <node id="#brands" label="#brands" />
+      <node id="#contentstrategy" label="#contentstrategy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#storyhouse" target="#sales" weight="323" />
+      <edge id="1" source="#storyhouse" target="#selling" weight="323" />
+      <edge id="2" source="#storyhouse" target="#brand" weight="1292" />
+      <edge id="3" source="#storyhouse" target="#strategy" weight="969" />
+      <edge id="4" source="#storyhouse" target="#digital" weight="969" />
+      <edge id="5" source="#storyhouse" target="#marketing" weight="323" />
+      <edge id="6" source="#Mont" target="#guarantee" weight="323" />
+      <edge id="7" source="#song" target="#brand" weight="323" />
+      <edge id="8" source="#quotes" target="#branding" weight="323" />
+      <edge id="9" source="#imperfect" target="#brands" weight="323" />
+      <edge id="10" source="#brandblunder" target="#brand" weight="646" />
+      <edge id="11" source="#brandingstrategy" target="#brand" weight="969" />
+      <edge id="12" source="#brandingstrategy" target="#digital" weight="969" />
+      <edge id="13" source="#ColsAMA" target="#Brand" weight="323" />
+      <edge id="14" source="#ColsAMA" target="#B2BSig" weight="323" />
+      <edge id="15" source="#selling" target="#sales" weight="1938" />
+      <edge id="16" source="#selling" target="#brandstrategy" weight="323" />
+      <edge id="17" source="#selling" target="#brand" weight="646" />
+      <edge id="18" source="#selling" target="#strategy" weight="969" />
+      <edge id="19" source="#selling" target="#digital" weight="646" />
+      <edge id="20" source="#strategy" target="#branding" weight="323" />
+      <edge id="21" source="#strategy" target="#sales" weight="969" />
+      <edge id="22" source="#strategy" target="#brand" weight="1938" />
+      <edge id="23" source="#strategy" target="#digital" weight="1292" />
+      <edge id="24" source="#strategy" target="#marketing" weight="646" />
+      <edge id="25" source="#interns" target="#brandstrategy" weight="323" />
+      <edge id="26" source="#thetoll" target="#brand" weight="323" />
+      <edge id="27" source="#thetoll" target="#marketing" weight="323" />
+      <edge id="28" source="#thetoll" target="#brandstrategy" weight="323" />
+      <edge id="29" source="#business" target="#brand" weight="323" />
+      <edge id="30" source="#business" target="#branding" weight="323" />
+      <edge id="31" source="#business" target="#marketing" weight="646" />
+      <edge id="32" source="#business" target="#socialmedia" weight="323" />
+      <edge id="33" source="#business" target="#brandstrategy" weight="323" />
+      <edge id="34" source="#knowing" target="#freedom" weight="323" />
+      <edge id="35" source="#knowing" target="#unknowing" weight="323" />
+      <edge id="36" source="#differentiate" target="#brands" weight="323" />
+      <edge id="37" source="#super" target="#fox28columbus" weight="323" />
+      <edge id="38" source="#B2BSig" target="#Brand" weight="323" />
+      <edge id="39" source="#product" target="#Giant" weight="323" />
+      <edge id="40" source="#Business" target="#music" weight="323" />
+      <edge id="41" source="#Business" target="#brands" weight="323" />
+      <edge id="42" source="#contentmarketing" target="#brand" weight="323" />
+      <edge id="43" source="#contentmarketing" target="#marketing" weight="323" />
+      <edge id="44" source="#unknowing" target="#freedom" weight="323" />
+      <edge id="45" source="#marketing" target="#branding" weight="646" />
+      <edge id="46" source="#marketing" target="#brandstrategy" weight="1292" />
+      <edge id="47" source="#marketing" target="#brand" weight="2261" />
+      <edge id="48" source="#marketing" target="#digital" weight="323" />
+      <edge id="49" source="#marketing" target="#socialmedia" weight="323" />
+      <edge id="50" source="#music" target="#brands" weight="323" />
+      <edge id="51" source="#sbarro" target="#brand" weight="323" />
+      <edge id="52" source="#sbarro" target="#pizza" weight="323" />
+      <edge id="53" source="#national" target="#coldplay" weight="323" />
+      <edge id="54" source="#brandfail" target="#brand" weight="1292" />
+      <edge id="55" source="#brandfail" target="#digital" weight="969" />
+      <edge id="56" source="#brandfail" target="#socialmedia" weight="969" />
+      <edge id="57" source="#brandfail" target="#brandstrategy" weight="323" />
+      <edge id="58" source="#loyalty" target="#love" weight="323" />
+      <edge id="59" source="#TBT" target="#TheToll" weight="323" />
+      <edge id="60" source="#brand" target="#pizza" weight="323" />
+      <edge id="61" source="#brand" target="#brand" weight="646" />
+      <edge id="62" source="#brand" target="#digital" weight="4845" />
+      <edge id="63" source="#brand" target="#socialmedia" weight="1938" />
+      <edge id="64" source="#brand" target="#love" weight="323" />
+      <edge id="65" source="#brand" target="#branding" weight="1615" />
+      <edge id="66" source="#brand" target="#brandstrategy" weight="3876" />
+      <edge id="67" source="#brand" target="#sales" weight="1292" />
+      <edge id="68" source="#brand" target="#friend" weight="323" />
+      <edge id="69" source="#brand" target="#contentstrategy" weight="646" />
+      <edge id="70" source="#digital" target="#sales" weight="646" />
+      <edge id="71" source="#digital" target="#brandstrategy" weight="1615" />
+      <edge id="72" source="#digital" target="#socialmedia" weight="969" />
+      <edge id="73" source="#socialmedia" target="#contentstrategy" weight="646" />
+      <edge id="74" source="#branding" target="#sales" weight="646" />
+      <edge id="75" source="#branding" target="#brandstrategy" weight="969" />
+      <edge id="76" source="#brandstrategy" target="#sales" weight="323" />
+    </edges>
+  </graph>
+</gexf>

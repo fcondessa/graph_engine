@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#activeliving" label="#activeliving" />
+      <node id="#NewYearsEve" label="#NewYearsEve" />
+      <node id="#Resolutions" label="#Resolutions" />
+      <node id="#Flu" label="#Flu" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#Optimism" label="#Optimism" />
+      <node id="#WeightLoss" label="#WeightLoss" />
+      <node id="#Medical" label="#Medical" />
+      <node id="#stress" label="#stress" />
+      <node id="#Safety" label="#Safety" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#healthylife" label="#healthylife" />
+      <node id="#Saftey" label="#Saftey" />
+      <node id="#Insomnia" label="#Insomnia" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#claudication" label="#claudication" />
+      <node id="#Prizes" label="#Prizes" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#happy" label="#happy" />
+      <node id="#CrossFit" label="#CrossFit" />
+      <node id="#stroke" label="#stroke" />
+      <node id="#eatingclean" label="#eatingclean" />
+      <node id="#energy" label="#energy" />
+      <node id="#Summer" label="#Summer" />
+      <node id="#Recipes" label="#Recipes" />
+      <node id="#Dining" label="#Dining" />
+      <node id="#game" label="#game" />
+      <node id="#cleveland" label="#cleveland" />
+      <node id="#recipe" label="#recipe" />
+      <node id="#Obesity" label="#Obesity" />
+      <node id="#Cookbook" label="#Cookbook" />
+      <node id="#nutriion" label="#nutriion" />
+      <node id="#RedWine" label="#RedWine" />
+      <node id="#snack" label="#snack" />
+      <node id="#childhood" label="#childhood" />
+      <node id="#Women" label="#Women" />
+      <node id="#heart" label="#heart" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#GiveBack" label="#GiveBack" />
+      <node id="#Medication" label="#Medication" />
+      <node id="#heartbeat" label="#heartbeat" />
+      <node id="#meditation" label="#meditation" />
+      <node id="#Olympians" label="#Olympians" />
+      <node id="#Varicose" label="#Varicose" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#Caregiver" label="#Caregiver" />
+      <node id="#healthy" label="#healthy" />
+      <node id="#weightloss" label="#weightloss" />
+      <node id="#Hungry" label="#Hungry" />
+      <node id="#mobility" label="#mobility" />
+      <node id="#wishlist" label="#wishlist" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#Food" label="#Food" />
+      <node id="#nutrition" label="#nutrition" />
+      <node id="#Athletes" label="#Athletes" />
+      <node id="#patients" label="#patients" />
+      <node id="#clevelandbrowns" label="#clevelandbrowns" />
+      <node id="#sleepapnea" label="#sleepapnea" />
+      <node id="#SnackHack" label="#SnackHack" />
+      <node id="#Healthier" label="#Healthier" />
+      <node id="#Healthy" label="#Healthy" />
+      <node id="#Wellness" label="#Wellness" />
+      <node id="#Fall" label="#Fall" />
+      <node id="#Flaxseeds" label="#Flaxseeds" />
+      <node id="#Winter" label="#Winter" />
+      <node id="#5K" label="#5K" />
+      <node id="#Eating" label="#Eating" />
+      <node id="#lovesong" label="#lovesong" />
+      <node id="#MealPrep" label="#MealPrep" />
+      <node id="#HeartAttack" label="#HeartAttack" />
+      <node id="#Pessimism" label="#Pessimism" />
+      <node id="#Sports" label="#Sports" />
+      <node id="#yoga" label="#yoga" />
+      <node id="#Stretches" label="#Stretches" />
+      <node id="#bedtime" label="#bedtime" />
+      <node id="#exercise" label="#exercise" />
+      <node id="#Fatigue" label="#Fatigue" />
+      <node id="#Overweight" label="#Overweight" />
+      <node id="#fitness" label="#fitness" />
+      <node id="#Pregnancy" label="#Pregnancy" />
+      <node id="#Cold" label="#Cold" />
+      <node id="#workouts" label="#workouts" />
+      <node id="#Fact" label="#Fact" />
+      <node id="#mammogram" label="#mammogram" />
+      <node id="#FF" label="#FF" />
+      <node id="#Sick" label="#Sick" />
+      <node id="#Forgiveness" label="#Forgiveness" />
+      <node id="#Treatments" label="#Treatments" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#Fitness" label="#Fitness" />
+      <node id="#heartbeats" label="#heartbeats" />
+      <node id="#Alcohol" label="#Alcohol" />
+      <node id="#GASO" label="#GASO" />
+      <node id="#Medicine" label="#Medicine" />
+      <node id="#SimpleScience" label="#SimpleScience" />
+      <node id="#calories" label="#calories" />
+      <node id="#vein" label="#vein" />
+      <node id="#coping" label="#coping" />
+      <node id="#NOH" label="#NOH" />
+      <node id="#Health" label="#Health" />
+      <node id="#Teens" label="#Teens" />
+      <node id="#fall" label="#fall" />
+      <node id="#vegetables" label="#vegetables" />
+      <node id="#Afib" label="#Afib" />
+      <node id="#Type1" label="#Type1" />
+      <node id="#winter" label="#winter" />
+      <node id="#livehealthy" label="#livehealthy" />
+      <node id="#TurkeyTrot" label="#TurkeyTrot" />
+      <node id="#blacktea" label="#blacktea" />
+      <node id="#fatigue" label="#fatigue" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#CaregiverTips" label="#CaregiverTips" />
+      <node id="#Nephrology" label="#Nephrology" />
+      <node id="#risk" label="#risk" />
+      <node id="#generic" label="#generic" />
+      <node id="#WinterBlues" label="#WinterBlues" />
+      <node id="#pets" label="#pets" />
+      <node id="#hearthealth" label="#hearthealth" />
+      <node id="#doctor" label="#doctor" />
+      <node id="#Lipitor" label="#Lipitor" />
+      <node id="#drinkingwater" label="#drinkingwater" />
+      <node id="#diet" label="#diet" />
+      <node id="#Hypertension" label="#Hypertension" />
+      <node id="#Diets" label="#Diets" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#WorkOut" label="#WorkOut" />
+      <node id="#NEO" label="#NEO" />
+      <node id="#sleep" label="#sleep" />
+      <node id="#HEARTforWomen" label="#HEARTforWomen" />
+      <node id="#desserts" label="#desserts" />
+      <node id="#HealthyEating" label="#HealthyEating" />
+      <node id="#Cardiologist" label="#Cardiologist" />
+      <node id="#CosmeticSurgery" label="#CosmeticSurgery" />
+      <node id="#strokes" label="#strokes" />
+      <node id="#Giveaway" label="#Giveaway" />
+      <node id="#FightFat" label="#FightFat" />
+      <node id="#Botox" label="#Botox" />
+      <node id="#fitfam" label="#fitfam" />
+      <node id="#Diabetes" label="#Diabetes" />
+      <node id="#BloodPressure" label="#BloodPressure" />
+      <node id="#eatclean" label="#eatclean" />
+      <node id="#warningsigns" label="#warningsigns" />
+      <node id="#Crossfit" label="#Crossfit" />
+      <node id="#health" label="#health" />
+      <node id="#paleo" label="#paleo" />
+      <node id="#Sleep" label="#Sleep" />
+      <node id="#StayHealthy" label="#StayHealthy" />
+      <node id="#Exercise" label="#Exercise" />
+      <node id="#cancerpatients" label="#cancerpatients" />
+      <node id="#weight" label="#weight" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#wholegrains" label="#wholegrains" />
+      <node id="#BreastCancer" label="#BreastCancer" />
+      <node id="#Mammogram" label="#Mammogram" />
+      <node id="#QuitSmoking" label="#QuitSmoking" />
+      <node id="#Veterans" label="#Veterans" />
+      <node id="#Chocolate" label="#Chocolate" />
+      <node id="#FACT" label="#FACT" />
+      <node id="#Holidays" label="#Holidays" />
+      <node id="#Leftover" label="#Leftover" />
+      <node id="#eating" label="#eating" />
+      <node id="#NursesWeek" label="#NursesWeek" />
+      <node id="#HeartHealthy" label="#HeartHealthy" />
+      <node id="#VaricoseVeins" label="#VaricoseVeins" />
+      <node id="#flu" label="#flu" />
+      <node id="#Heart" label="#Heart" />
+      <node id="#vegetarian" label="#vegetarian" />
+      <node id="#Detox" label="#Detox" />
+      <node id="#Thin" label="#Thin" />
+      <node id="#recipes" label="#recipes" />
+      <node id="#AfibMonth" label="#AfibMonth" />
+      <node id="#Easter" label="#Easter" />
+      <node id="#veggies" label="#veggies" />
+      <node id="#Diet" label="#Diet" />
+      <node id="#Allergies" label="#Allergies" />
+      <node id="#HeartChat" label="#HeartChat" />
+      <node id="#seeyourdoctor" label="#seeyourdoctor" />
+      <node id="#bloodpressure" label="#bloodpressure" />
+      <node id="#cravings" label="#cravings" />
+      <node id="#nurses" label="#nurses" />
+      <node id="#FoodPrep" label="#FoodPrep" />
+      <node id="#vegan" label="#vegan" />
+      <node id="#Active" label="#Active" />
+      <node id="#HeartHealth" label="#HeartHealth" />
+      <node id="#Caregivers" label="#Caregivers" />
+      <node id="#news" label="#news" />
+      <node id="#Vegetables" label="#Vegetables" />
+      <node id="#cchealthtip" label="#cchealthtip" />
+      <node id="#carbs" label="#carbs" />
+      <node id="#Tired" label="#Tired" />
+      <node id="#smokefree" label="#smokefree" />
+      <node id="#quittogether" label="#quittogether" />
+      <node id="#khat" label="#khat" />
+      <node id="#Vacation" label="#Vacation" />
+      <node id="#HeartDisease" label="#HeartDisease" />
+      <node id="#music" label="#music" />
+      <node id="#Pandora" label="#Pandora" />
+      <node id="#lorain" label="#lorain" />
+      <node id="#lifestyle" label="#lifestyle" />
+      <node id="#Dessert" label="#Dessert" />
+      <node id="#iPads" label="#iPads" />
+      <node id="#soda" label="#soda" />
+      <node id="#healthyeating" label="#healthyeating" />
+      <node id="#HealthyLiving" label="#HealthyLiving" />
+      <node id="#Stress" label="#Stress" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#SuperFoods" label="#SuperFoods" />
+      <node id="#HealthyRecipes" label="#HealthyRecipes" />
+      <node id="#Gluten" label="#Gluten" />
+      <node id="#fit" label="#fit" />
+      <node id="#hearthealthy" label="#hearthealthy" />
+      <node id="#Gifts" label="#Gifts" />
+      <node id="#VeteransDay" label="#VeteransDay" />
+      <node id="#NickJonas" label="#NickJonas" />
+      <node id="#Type2" label="#Type2" />
+      <node id="#Calories" label="#Calories" />
+      <node id="#EatClean" label="#EatClean" />
+      <node id="#Stroke" label="#Stroke" />
+      <node id="#gameday" label="#gameday" />
+      <node id="#Addicted" label="#Addicted" />
+      <node id="#tradition" label="#tradition" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#HeartPatient" label="#HeartPatient" />
+      <node id="#Dieting" label="#Dieting" />
+      <node id="#ptsafety" label="#ptsafety" />
+      <node id="#food" label="#food" />
+      <node id="#NorthOhio" label="#NorthOhio" />
+      <node id="#Fit" label="#Fit" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#laughter" label="#laughter" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#HeartFailure" label="#HeartFailure" />
+      <node id="#StayActive" label="#StayActive" />
+      <node id="#Exercises" label="#Exercises" />
+      <node id="#Recipe" label="#Recipe" />
+      <node id="#CookBook" label="#CookBook" />
+      <node id="#iPhones" label="#iPhones" />
+      <node id="#Kids" label="#Kids" />
+      <node id="#active" label="#active" />
+      <node id="#wellness" label="#wellness" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#heartattack" label="#heartattack" />
+      <node id="#tea" label="#tea" />
+      <node id="#foodie" label="#foodie" />
+      <node id="#Parks" label="#Parks" />
+      <node id="#Holiday" label="#Holiday" />
+      <node id="#eatinghealthy" label="#eatinghealthy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#activeliving" target="#healthyeating" weight="3214" />
+      <edge id="1" source="#NewYearsEve" target="#HeartHealthy" weight="3214" />
+      <edge id="2" source="#Resolutions" target="#Healthier" weight="3214" />
+      <edge id="3" source="#Resolutions" target="#Healthy" weight="3214" />
+      <edge id="4" source="#Resolutions" target="#Heart" weight="3214" />
+      <edge id="5" source="#Resolutions" target="#Health" weight="6428" />
+      <edge id="6" source="#Flu" target="#Sick" weight="6428" />
+      <edge id="7" source="#Christmas" target="#WorkOut" weight="3214" />
+      <edge id="8" source="#Christmas" target="#Holidays" weight="6428" />
+      <edge id="9" source="#Christmas" target="#Christmas" weight="6428" />
+      <edge id="10" source="#Christmas" target="#Healthy" weight="6428" />
+      <edge id="11" source="#Christmas" target="#Holiday" weight="3214" />
+      <edge id="12" source="#Christmas" target="#wishlist" weight="3214" />
+      <edge id="13" source="#Christmas" target="#delicious" weight="3214" />
+      <edge id="14" source="#Christmas" target="#Overweight" weight="3214" />
+      <edge id="15" source="#Christmas" target="#Recipes" weight="35354" />
+      <edge id="16" source="#Christmas" target="#fitness" weight="3214" />
+      <edge id="17" source="#Christmas" target="#healthy" weight="3214" />
+      <edge id="18" source="#Optimism" target="#Pessimism" weight="3214" />
+      <edge id="19" source="#WeightLoss" target="#Dieting" weight="3214" />
+      <edge id="20" source="#Medical" target="#Varicose" weight="3214" />
+      <edge id="21" source="#Medical" target="#Diabetes" weight="3214" />
+      <edge id="22" source="#Medical" target="#bloodpressure" weight="3214" />
+      <edge id="23" source="#Medical" target="#Healthy" weight="3214" />
+      <edge id="24" source="#Medical" target="#Health" weight="9642" />
+      <edge id="25" source="#Medical" target="#Type2" weight="3214" />
+      <edge id="26" source="#Medical" target="#Type1" weight="3214" />
+      <edge id="27" source="#Medical" target="#Cleveland" weight="9642" />
+      <edge id="28" source="#stress" target="#fit" weight="3214" />
+      <edge id="29" source="#stress" target="#coping" weight="3214" />
+      <edge id="30" source="#stress" target="#pets" weight="3214" />
+      <edge id="31" source="#stress" target="#holiday" weight="3214" />
+      <edge id="32" source="#Safety" target="#Summer" weight="6428" />
+      <edge id="33" source="#Thanksgiving" target="#Thin" weight="3214" />
+      <edge id="34" source="#Thanksgiving" target="#Healthy" weight="12856" />
+      <edge id="35" source="#Thanksgiving" target="#Diet" weight="3214" />
+      <edge id="36" source="#Thanksgiving" target="#healthy" weight="6428" />
+      <edge id="37" source="#Thanksgiving" target="#CLE" weight="3214" />
+      <edge id="38" source="#Thanksgiving" target="#Fit" weight="6428" />
+      <edge id="39" source="#Thanksgiving" target="#Health" weight="3214" />
+      <edge id="40" source="#Thanksgiving" target="#HeartHealth" weight="3214" />
+      <edge id="41" source="#Thanksgiving" target="#Eating" weight="3214" />
+      <edge id="42" source="#Thanksgiving" target="#Dieting" weight="3214" />
+      <edge id="43" source="#Thanksgiving" target="#Recipes" weight="6428" />
+      <edge id="44" source="#Thanksgiving" target="#TurkeyTrot" weight="3214" />
+      <edge id="45" source="#Thanksgiving" target="#5K" weight="3214" />
+      <edge id="46" source="#Thanksgiving" target="#HeartHealthy" weight="22498" />
+      <edge id="47" source="#CLE" target="#Cleveland" weight="6428" />
+      <edge id="48" source="#CLE" target="#healthy" weight="6428" />
+      <edge id="49" source="#CLE" target="#health" weight="6428" />
+      <edge id="50" source="#CLE" target="#HeartHealth" weight="3214" />
+      <edge id="51" source="#CLE" target="#GiveBack" weight="3214" />
+      <edge id="52" source="#CLE" target="#TurkeyTrot" weight="3214" />
+      <edge id="53" source="#CLE" target="#food" weight="6428" />
+      <edge id="54" source="#CLE" target="#5K" weight="3214" />
+      <edge id="55" source="#healthylife" target="#hearthealth" weight="3214" />
+      <edge id="56" source="#Saftey" target="#Summer" weight="3214" />
+      <edge id="57" source="#Insomnia" target="#Sleep" weight="6428" />
+      <edge id="58" source="#heartdisease" target="#stroke" weight="3214" />
+      <edge id="59" source="#heartdisease" target="#hearthealth" weight="3214" />
+      <edge id="60" source="#claudication" target="#vein" weight="3214" />
+      <edge id="61" source="#Prizes" target="#Giveaway" weight="3214" />
+      <edge id="62" source="#obesity" target="#weight" weight="3214" />
+      <edge id="63" source="#obesity" target="#childhood" weight="3214" />
+      <edge id="64" source="#happy" target="#health" weight="3214" />
+      <edge id="65" source="#CrossFit" target="#Fitness" weight="3214" />
+      <edge id="66" source="#stroke" target="#news" weight="3214" />
+      <edge id="67" source="#stroke" target="#warningsigns" weight="6428" />
+      <edge id="68" source="#stroke" target="#HeartHealth" weight="3214" />
+      <edge id="69" source="#stroke" target="#khat" weight="3214" />
+      <edge id="70" source="#stroke" target="#heartattack" weight="3214" />
+      <edge id="71" source="#stroke" target="#heart" weight="6428" />
+      <edge id="72" source="#stroke" target="#DidYouKnow" weight="3214" />
+      <edge id="73" source="#stroke" target="#AfibMonth" weight="3214" />
+      <edge id="74" source="#stroke" target="#Afib" weight="3214" />
+      <edge id="75" source="#eatingclean" target="#health" weight="3214" />
+      <edge id="76" source="#energy" target="#HealthyLiving" weight="3214" />
+      <edge id="77" source="#Summer" target="#Vacation" weight="3214" />
+      <edge id="78" source="#Recipes" target="#HeartHealth" weight="6428" />
+      <edge id="79" source="#Recipes" target="#EatClean" weight="3214" />
+      <edge id="80" source="#Recipes" target="#Cookbook" weight="6428" />
+      <edge id="81" source="#Recipes" target="#Healthy" weight="16070" />
+      <edge id="82" source="#Recipes" target="#Dessert" weight="3214" />
+      <edge id="83" source="#Recipes" target="#delicious" weight="3214" />
+      <edge id="84" source="#Recipes" target="#healthy" weight="9642" />
+      <edge id="85" source="#Recipes" target="#Recipes" weight="6428" />
+      <edge id="86" source="#Recipes" target="#Food" weight="3214" />
+      <edge id="87" source="#Recipes" target="#NorthOhio" weight="3214" />
+      <edge id="88" source="#Recipes" target="#Diet" weight="3214" />
+      <edge id="89" source="#Recipes" target="#HeartHealthy" weight="3214" />
+      <edge id="90" source="#Dining" target="#HeartHealthy" weight="3214" />
+      <edge id="91" source="#game" target="#iPads" weight="3214" />
+      <edge id="92" source="#game" target="#iPhones" weight="3214" />
+      <edge id="93" source="#cleveland" target="#lorain" weight="6428" />
+      <edge id="94" source="#cleveland" target="#doctor" weight="3214" />
+      <edge id="95" source="#recipe" target="#Twitter" weight="9642" />
+      <edge id="96" source="#recipe" target="#healthy" weight="3214" />
+      <edge id="97" source="#Obesity" target="#Healthy" weight="3214" />
+      <edge id="98" source="#Obesity" target="#health" weight="3214" />
+      <edge id="99" source="#Cookbook" target="#Healthy" weight="3214" />
+      <edge id="100" source="#Cookbook" target="#Health" weight="3214" />
+      <edge id="101" source="#Cookbook" target="#HealthyRecipes" weight="3214" />
+      <edge id="102" source="#Cookbook" target="#delicious" weight="6428" />
+      <edge id="103" source="#Cookbook" target="#healthy" weight="3214" />
+      <edge id="104" source="#nutriion" target="#smokefree" weight="3214" />
+      <edge id="105" source="#nutriion" target="#news" weight="3214" />
+      <edge id="106" source="#RedWine" target="#Alcohol" weight="3214" />
+      <edge id="107" source="#RedWine" target="#HeartHealth" weight="3214" />
+      <edge id="108" source="#snack" target="#diet" weight="3214" />
+      <edge id="109" source="#snack" target="#weightloss" weight="3214" />
+      <edge id="110" source="#snack" target="#SnackHack" weight="3214" />
+      <edge id="111" source="#snack" target="#cravings" weight="3214" />
+      <edge id="112" source="#Women" target="#Health" weight="6428" />
+      <edge id="113" source="#heart" target="#khat" weight="3214" />
+      <edge id="114" source="#heart" target="#news" weight="3214" />
+      <edge id="115" source="#heart" target="#health" weight="3214" />
+      <edge id="116" source="#Energy" target="#Exercise" weight="3214" />
+      <edge id="117" source="#Medication" target="#BloodPressure" weight="3214" />
+      <edge id="118" source="#Medication" target="#Health" weight="3214" />
+      <edge id="119" source="#heartbeat" target="#Pandora" weight="3214" />
+      <edge id="120" source="#heartbeat" target="#lovesong" weight="3214" />
+      <edge id="121" source="#meditation" target="#yoga" weight="3214" />
+      <edge id="122" source="#meditation" target="#tea" weight="3214" />
+      <edge id="123" source="#meditation" target="#health" weight="3214" />
+      <edge id="124" source="#Olympians" target="#eating" weight="6428" />
+      <edge id="125" source="#Olympians" target="#diet" weight="3214" />
+      <edge id="126" source="#Olympians" target="#cchealthtip" weight="3214" />
+      <edge id="127" source="#Varicose" target="#Healthy" weight="3214" />
+      <edge id="128" source="#Varicose" target="#Cleveland" weight="3214" />
+      <edge id="129" source="#Cleveland" target="#Diabetes" weight="3214" />
+      <edge id="130" source="#Cleveland" target="#Healthy" weight="3214" />
+      <edge id="131" source="#Cleveland" target="#vegan" weight="3214" />
+      <edge id="132" source="#Cleveland" target="#Health" weight="6428" />
+      <edge id="133" source="#Cleveland" target="#vegetarian" weight="6428" />
+      <edge id="134" source="#Cleveland" target="#Type2" weight="3214" />
+      <edge id="135" source="#Cleveland" target="#Type1" weight="3214" />
+      <edge id="136" source="#Cleveland" target="#Parks" weight="3214" />
+      <edge id="137" source="#Cleveland" target="#food" weight="6428" />
+      <edge id="138" source="#Cleveland" target="#NEO" weight="3214" />
+      <edge id="139" source="#Cleveland" target="#healthy" weight="6428" />
+      <edge id="140" source="#Cleveland" target="#Ohio" weight="3214" />
+      <edge id="141" source="#Caregiver" target="#HeartHealth" weight="6428" />
+      <edge id="142" source="#healthy" target="#eatclean" weight="9642" />
+      <edge id="143" source="#healthy" target="#eating" weight="3214" />
+      <edge id="144" source="#healthy" target="#Easter" weight="3214" />
+      <edge id="145" source="#healthy" target="#tradition" weight="3214" />
+      <edge id="146" source="#healthy" target="#food" weight="6428" />
+      <edge id="147" source="#weightloss" target="#diet" weight="6428" />
+      <edge id="148" source="#weightloss" target="#health" weight="3214" />
+      <edge id="149" source="#weightloss" target="#cravings" weight="3214" />
+      <edge id="150" source="#Hungry" target="#Healthy" weight="6428" />
+      <edge id="151" source="#Hungry" target="#Detox" weight="6428" />
+      <edge id="152" source="#Hungry" target="#Diets" weight="6428" />
+      <edge id="153" source="#mobility" target="#fitness" weight="3214" />
+      <edge id="154" source="#wishlist" target="#WorkOut" weight="3214" />
+      <edge id="155" source="#wishlist" target="#fitness" weight="3214" />
+      <edge id="156" source="#Healthcare" target="#patients" weight="3214" />
+      <edge id="157" source="#Healthcare" target="#Treatments" weight="3214" />
+      <edge id="158" source="#Food" target="#EatClean" weight="3214" />
+      <edge id="159" source="#nutrition" target="#vegan" weight="3214" />
+      <edge id="160" source="#nutrition" target="#health" weight="3214" />
+      <edge id="161" source="#nutrition" target="#eatclean" weight="3214" />
+      <edge id="162" source="#Athletes" target="#Crossfit" weight="3214" />
+      <edge id="163" source="#patients" target="#Treatments" weight="3214" />
+      <edge id="164" source="#clevelandbrowns" target="#recipes" weight="3214" />
+      <edge id="165" source="#clevelandbrowns" target="#food" weight="3214" />
+      <edge id="166" source="#clevelandbrowns" target="#gameday" weight="3214" />
+      <edge id="167" source="#clevelandbrowns" target="#health" weight="3214" />
+      <edge id="168" source="#sleepapnea" target="#sleep" weight="3214" />
+      <edge id="169" source="#SnackHack" target="#Flaxseeds" weight="3214" />
+      <edge id="170" source="#SnackHack" target="#Healthy" weight="6428" />
+      <edge id="171" source="#SnackHack" target="#Health" weight="3214" />
+      <edge id="172" source="#Healthier" target="#Health" weight="3214" />
+      <edge id="173" source="#Healthy" target="#Fall" weight="6428" />
+      <edge id="174" source="#Healthy" target="#FoodPrep" weight="3214" />
+      <edge id="175" source="#Healthy" target="#Diets" weight="9642" />
+      <edge id="176" source="#Healthy" target="#MealPrep" weight="3214" />
+      <edge id="177" source="#Healthy" target="#Eating" weight="16070" />
+      <edge id="178" source="#Healthy" target="#Diet" weight="3214" />
+      <edge id="179" source="#Healthy" target="#FightFat" weight="3214" />
+      <edge id="180" source="#Healthy" target="#Diabetes" weight="3214" />
+      <edge id="181" source="#Healthy" target="#eatclean" weight="3214" />
+      <edge id="182" source="#Healthy" target="#Exercise" weight="3214" />
+      <edge id="183" source="#Healthy" target="#Dieting" weight="3214" />
+      <edge id="184" source="#Healthy" target="#Fit" weight="6428" />
+      <edge id="185" source="#Healthy" target="#Holidays" weight="3214" />
+      <edge id="186" source="#Healthy" target="#Leftover" weight="3214" />
+      <edge id="187" source="#Healthy" target="#Heart" weight="3214" />
+      <edge id="188" source="#Healthy" target="#Detox" weight="6428" />
+      <edge id="189" source="#Healthy" target="#Holiday" weight="3214" />
+      <edge id="190" source="#Wellness" target="#Health" weight="9642" />
+      <edge id="191" source="#Wellness" target="#EatClean" weight="6428" />
+      <edge id="192" source="#Winter" target="#Health" weight="6428" />
+      <edge id="193" source="#Winter" target="#Fatigue" weight="3214" />
+      <edge id="194" source="#Winter" target="#Active" weight="6428" />
+      <edge id="195" source="#Winter" target="#Tired" weight="3214" />
+      <edge id="196" source="#5K" target="#TurkeyTrot" weight="3214" />
+      <edge id="197" source="#Eating" target="#Leftover" weight="3214" />
+      <edge id="198" source="#Eating" target="#Holiday" weight="3214" />
+      <edge id="199" source="#Eating" target="#Dieting" weight="3214" />
+      <edge id="200" source="#lovesong" target="#Pandora" weight="3214" />
+      <edge id="201" source="#lovesong" target="#heartbeats" weight="3214" />
+      <edge id="202" source="#MealPrep" target="#FoodPrep" weight="3214" />
+      <edge id="203" source="#HeartAttack" target="#Cardiologist" weight="3214" />
+      <edge id="204" source="#Sports" target="#Medicine" weight="3214" />
+      <edge id="205" source="#yoga" target="#health" weight="6428" />
+      <edge id="206" source="#Stretches" target="#Fitness" weight="3214" />
+      <edge id="207" source="#Stretches" target="#Fit" weight="3214" />
+      <edge id="208" source="#bedtime" target="#sleep" weight="9642" />
+      <edge id="209" source="#exercise" target="#music" weight="3214" />
+      <edge id="210" source="#exercise" target="#Pandora" weight="3214" />
+      <edge id="211" source="#exercise" target="#lorain" weight="3214" />
+      <edge id="212" source="#exercise" target="#active" weight="3214" />
+      <edge id="213" source="#exercise" target="#wellness" weight="6428" />
+      <edge id="214" source="#exercise" target="#health" weight="12856" />
+      <edge id="215" source="#exercise" target="#fitness" weight="9642" />
+      <edge id="216" source="#exercise" target="#hearthealth" weight="3214" />
+      <edge id="217" source="#exercise" target="#diet" weight="3214" />
+      <edge id="218" source="#exercise" target="#hearthealthy" weight="3214" />
+      <edge id="219" source="#Fatigue" target="#Tired" weight="3214" />
+      <edge id="220" source="#fitness" target="#WorkOut" weight="3214" />
+      <edge id="221" source="#fitness" target="#eatclean" weight="3214" />
+      <edge id="222" source="#fitness" target="#health" weight="51424" />
+      <edge id="223" source="#fitness" target="#motivation" weight="6428" />
+      <edge id="224" source="#fitness" target="#active" weight="3214" />
+      <edge id="225" source="#fitness" target="#inspiration" weight="3214" />
+      <edge id="226" source="#Pregnancy" target="#Diabetes" weight="3214" />
+      <edge id="227" source="#Cold" target="#Allergies" weight="3214" />
+      <edge id="228" source="#workouts" target="#drinkingwater" weight="3214" />
+      <edge id="229" source="#workouts" target="#Fact" weight="3214" />
+      <edge id="230" source="#Fact" target="#drinkingwater" weight="3214" />
+      <edge id="231" source="#mammogram" target="#BreastCancer" weight="6428" />
+      <edge id="232" source="#mammogram" target="#health" weight="3214" />
+      <edge id="233" source="#FF" target="#HeartHealth" weight="3214" />
+      <edge id="234" source="#FF" target="#NorthOhio" weight="3214" />
+      <edge id="235" source="#Forgiveness" target="#HeartHealth" weight="3214" />
+      <edge id="236" source="#Fitness" target="#calories" weight="3214" />
+      <edge id="237" source="#Fitness" target="#Exercises" weight="3214" />
+      <edge id="238" source="#Fitness" target="#Exercise" weight="3214" />
+      <edge id="239" source="#Fitness" target="#Health" weight="3214" />
+      <edge id="240" source="#Fitness" target="#Fit" weight="3214" />
+      <edge id="241" source="#Fitness" target="#Gifts" weight="3214" />
+      <edge id="242" source="#Alcohol" target="#HeartHealth" weight="3214" />
+      <edge id="243" source="#GASO" target="#quittogether" weight="3214" />
+      <edge id="244" source="#SimpleScience" target="#Stroke" weight="3214" />
+      <edge id="245" source="#NOH" target="#HeartHealth" weight="3214" />
+      <edge id="246" source="#Health" target="#Nephrology" weight="3214" />
+      <edge id="247" source="#Health" target="#bloodpressure" weight="3214" />
+      <edge id="248" source="#Health" target="#lifestyle" weight="3214" />
+      <edge id="249" source="#Health" target="#Stress" weight="3214" />
+      <edge id="250" source="#Health" target="#Tired" weight="9642" />
+      <edge id="251" source="#Health" target="#Diet" weight="3214" />
+      <edge id="252" source="#Health" target="#Diabetes" weight="9642" />
+      <edge id="253" source="#Health" target="#BloodPressure" weight="3214" />
+      <edge id="254" source="#Health" target="#EatClean" weight="12856" />
+      <edge id="255" source="#Health" target="#Sleep" weight="9642" />
+      <edge id="256" source="#Health" target="#Hypertension" weight="3214" />
+      <edge id="257" source="#Health" target="#QuitSmoking" weight="3214" />
+      <edge id="258" source="#Health" target="#WinterBlues" weight="3214" />
+      <edge id="259" source="#Health" target="#Kids" weight="3214" />
+      <edge id="260" source="#Health" target="#VaricoseVeins" weight="3214" />
+      <edge id="261" source="#Health" target="#Heart" weight="6428" />
+      <edge id="262" source="#Health" target="#vegetables" weight="3214" />
+      <edge id="263" source="#Health" target="#Type2" weight="3214" />
+      <edge id="264" source="#Health" target="#Type1" weight="3214" />
+      <edge id="265" source="#Health" target="#Thin" weight="3214" />
+      <edge id="266" source="#Teens" target="#Sleep" weight="3214" />
+      <edge id="267" source="#fall" target="#flu" weight="9642" />
+      <edge id="268" source="#vegetables" target="#Kids" weight="3214" />
+      <edge id="269" source="#Afib" target="#AfibMonth" weight="3214" />
+      <edge id="270" source="#Type1" target="#Type2" weight="3214" />
+      <edge id="271" source="#Type1" target="#Diabetes" weight="3214" />
+      <edge id="272" source="#winter" target="#Ohio" weight="3214" />
+      <edge id="273" source="#livehealthy" target="#food" weight="3214" />
+      <edge id="274" source="#blacktea" target="#hearthealth" weight="3214" />
+      <edge id="275" source="#fatigue" target="#cancerpatients" weight="3214" />
+      <edge id="276" source="#healthcare" target="#ptsafety" weight="3214" />
+      <edge id="277" source="#healthcare" target="#FACT" weight="3214" />
+      <edge id="278" source="#healthcare" target="#HEARTforWomen" weight="3214" />
+      <edge id="279" source="#CaregiverTips" target="#HeartPatient" weight="3214" />
+      <edge id="280" source="#CaregiverTips" target="#NorthOhio" weight="3214" />
+      <edge id="281" source="#Nephrology" target="#Hypertension" weight="3214" />
+      <edge id="282" source="#risk" target="#strokes" weight="3214" />
+      <edge id="283" source="#generic" target="#seeyourdoctor" weight="3214" />
+      <edge id="284" source="#generic" target="#Lipitor" weight="3214" />
+      <edge id="285" source="#pets" target="#fit" weight="3214" />
+      <edge id="286" source="#hearthealth" target="#HeartChat" weight="3214" />
+      <edge id="287" source="#hearthealth" target="#health" weight="3214" />
+      <edge id="288" source="#hearthealth" target="#recipes" weight="3214" />
+      <edge id="289" source="#hearthealth" target="#veggies" weight="3214" />
+      <edge id="290" source="#hearthealth" target="#hearthealthy" weight="3214" />
+      <edge id="291" source="#Lipitor" target="#seeyourdoctor" weight="3214" />
+      <edge id="292" source="#diet" target="#cravings" weight="3214" />
+      <edge id="293" source="#diet" target="#cchealthtip" weight="3214" />
+      <edge id="294" source="#diet" target="#soda" weight="3214" />
+      <edge id="295" source="#diet" target="#eating" weight="3214" />
+      <edge id="296" source="#Diets" target="#Calories" weight="3214" />
+      <edge id="297" source="#Diets" target="#Addicted" weight="3214" />
+      <edge id="298" source="#Diets" target="#Detox" weight="6428" />
+      <edge id="299" source="#Diets" target="#Dieting" weight="6428" />
+      <edge id="300" source="#Diets" target="#Gluten" weight="3214" />
+      <edge id="301" source="#Diets" target="#Diet" weight="6428" />
+      <edge id="302" source="#Ohio" target="#NEO" weight="3214" />
+      <edge id="303" source="#Ohio" target="#HeartHealth" weight="3214" />
+      <edge id="304" source="#sleep" target="#health" weight="3214" />
+      <edge id="305" source="#sleep" target="#wellness" weight="3214" />
+      <edge id="306" source="#HEARTforWomen" target="#FACT" weight="3214" />
+      <edge id="307" source="#desserts" target="#recipes" weight="9642" />
+      <edge id="308" source="#HealthyEating" target="#HeartHealth" weight="12856" />
+      <edge id="309" source="#HealthyEating" target="#NorthOhio" weight="6428" />
+      <edge id="310" source="#CosmeticSurgery" target="#Botox" weight="3214" />
+      <edge id="311" source="#FightFat" target="#Diet" weight="3214" />
+      <edge id="312" source="#fitfam" target="#eatclean" weight="3214" />
+      <edge id="313" source="#Diabetes" target="#HeartFailure" weight="3214" />
+      <edge id="314" source="#Diabetes" target="#NickJonas" weight="3214" />
+      <edge id="315" source="#Diabetes" target="#HeartDisease" weight="6428" />
+      <edge id="316" source="#Diabetes" target="#Exercise" weight="6428" />
+      <edge id="317" source="#Diabetes" target="#health" weight="3214" />
+      <edge id="318" source="#Diabetes" target="#Type2" weight="3214" />
+      <edge id="319" source="#BloodPressure" target="#HeartDisease" weight="3214" />
+      <edge id="320" source="#BloodPressure" target="#HeartHealth" weight="3214" />
+      <edge id="321" source="#eatclean" target="#vegan" weight="3214" />
+      <edge id="322" source="#eatclean" target="#health" weight="3214" />
+      <edge id="323" source="#eatclean" target="#motivation" weight="6428" />
+      <edge id="324" source="#warningsigns" target="#heartattack" weight="3214" />
+      <edge id="325" source="#warningsigns" target="#HeartHealth" weight="3214" />
+      <edge id="326" source="#health" target="#HeartDisease" weight="3214" />
+      <edge id="327" source="#health" target="#diabetes" weight="3214" />
+      <edge id="328" source="#health" target="#healthyeating" weight="3214" />
+      <edge id="329" source="#health" target="#gameday" weight="6428" />
+      <edge id="330" source="#health" target="#paleo" weight="3214" />
+      <edge id="331" source="#health" target="#food" weight="9642" />
+      <edge id="332" source="#health" target="#BreastCancer" weight="3214" />
+      <edge id="333" source="#health" target="#laughter" weight="3214" />
+      <edge id="334" source="#health" target="#Mammogram" weight="3214" />
+      <edge id="335" source="#health" target="#CookBook" weight="3214" />
+      <edge id="336" source="#health" target="#wellness" weight="12856" />
+      <edge id="337" source="#health" target="#flu" weight="22498" />
+      <edge id="338" source="#health" target="#eatinghealthy" weight="3214" />
+      <edge id="339" source="#health" target="#recipes" weight="16070" />
+      <edge id="340" source="#health" target="#foodie" weight="16070" />
+      <edge id="341" source="#Sleep" target="#Tired" weight="9642" />
+      <edge id="342" source="#StayHealthy" target="#StayActive" weight="3214" />
+      <edge id="343" source="#wholegrains" target="#carbs" weight="3214" />
+      <edge id="344" source="#QuitSmoking" target="#Heart" weight="3214" />
+      <edge id="345" source="#Veterans" target="#VeteransDay" weight="3214" />
+      <edge id="346" source="#Chocolate" target="#HeartDisease" weight="3214" />
+      <edge id="347" source="#eating" target="#cchealthtip" weight="3214" />
+      <edge id="348" source="#NursesWeek" target="#nurses" weight="3214" />
+      <edge id="349" source="#HeartHealthy" target="#NorthOhio" weight="12856" />
+      <edge id="350" source="#HeartHealthy" target="#Vegetables" weight="3214" />
+      <edge id="351" source="#vegetarian" target="#vegan" weight="3214" />
+      <edge id="352" source="#Thin" target="#Diet" weight="3214" />
+      <edge id="353" source="#recipes" target="#gameday" weight="6428" />
+      <edge id="354" source="#recipes" target="#food" weight="6428" />
+      <edge id="355" source="#recipes" target="#foodie" weight="28926" />
+      <edge id="356" source="#Easter" target="#tradition" weight="3214" />
+      <edge id="357" source="#Diet" target="#HeartDisease" weight="3214" />
+      <edge id="358" source="#Diet" target="#Dieting" weight="6428" />
+      <edge id="359" source="#Diet" target="#Dessert" weight="3214" />
+      <edge id="360" source="#Active" target="#Fit" weight="6428" />
+      <edge id="361" source="#HeartHealth" target="#HeartDisease" weight="3214" />
+      <edge id="362" source="#HeartHealth" target="#heartattack" weight="3214" />
+      <edge id="363" source="#HeartHealth" target="#SuperFoods" weight="3214" />
+      <edge id="364" source="#HeartHealth" target="#NorthOhio" weight="134988" />
+      <edge id="365" source="#HeartHealth" target="#Caregivers" weight="3214" />
+      <edge id="366" source="#Caregivers" target="#NorthOhio" weight="3214" />
+      <edge id="367" source="#news" target="#smokefree" weight="3214" />
+      <edge id="368" source="#music" target="#Pandora" weight="3214" />
+      <edge id="369" source="#Dessert" target="#Holiday" weight="3214" />
+      <edge id="370" source="#Dessert" target="#Recipe" weight="3214" />
+      <edge id="371" source="#iPads" target="#iPhones" weight="3214" />
+      <edge id="372" source="#Gluten" target="#Calories" weight="3214" />
+      <edge id="373" source="#gameday" target="#food" weight="6428" />
+      <edge id="374" source="#HeartPatient" target="#NorthOhio" weight="3214" />
+      <edge id="375" source="#Recipe" target="#Holiday" weight="3214" />
+    </edges>
+  </graph>
+</gexf>

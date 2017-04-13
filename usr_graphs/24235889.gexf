@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#yoko" label="#yoko" />
+      <node id="#RingoStarr" label="#RingoStarr" />
+      <node id="#allyhingsmustpass" label="#allyhingsmustpass" />
+      <node id="#rubbersoul" label="#rubbersoul" />
+      <node id="#sgtpepper" label="#sgtpepper" />
+      <node id="#beatlesforsale" label="#beatlesforsale" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#listentoblacksabbath" label="#listentoblacksabbath" />
+      <node id="#thebeatles" label="#thebeatles" />
+      <node id="#piano" label="#piano" />
+      <node id="#JohnLennon" label="#JohnLennon" />
+      <node id="#marathon" label="#marathon" />
+      <node id="#thesmiths" label="#thesmiths" />
+      <node id="#abbeyroad" label="#abbeyroad" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#kobo" label="#kobo" />
+      <node id="#ThanksObama" label="#ThanksObama" />
+      <node id="#rock" label="#rock" />
+      <node id="#mccartney" label="#mccartney" />
+      <node id="#songs" label="#songs" />
+      <node id="#MakeAmericaGreatAgain" label="#MakeAmericaGreatAgain" />
+      <node id="#saturdaygiant" label="#saturdaygiant" />
+      <node id="#treebar" label="#treebar" />
+      <node id="#letitbe" label="#letitbe" />
+      <node id="#lennon" label="#lennon" />
+      <node id="#BeatlesMarathon" label="#BeatlesMarathon" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#kobolive" label="#kobolive" />
+      <node id="#Harrison" label="#Harrison" />
+      <node id="#ringo" label="#ringo" />
+      <node id="#music" label="#music" />
+      <node id="#colobday" label="#colobday" />
+      <node id="#beatles" label="#beatles" />
+      <node id="#TheBeatles" label="#TheBeatles" />
+      <node id="#lostrevival" label="#lostrevival" />
+      <node id="#magicalmysterytour" label="#magicalmysterytour" />
+      <node id="#heyjude" label="#heyjude" />
+      <node id="#loser" label="#loser" />
+      <node id="#alisonrose" label="#alisonrose" />
+      <node id="#morrissey" label="#morrissey" />
+      <node id="#fab614" label="#fab614" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#pomplamoose" label="#pomplamoose" />
+      <node id="#blackbird" label="#blackbird" />
+      <node id="#revolver" label="#revolver" />
+      <node id="#help" label="#help" />
+      <node id="#thebeatlesmarathon" label="#thebeatlesmarathon" />
+      <node id="#thewhiles" label="#thewhiles" />
+      <node id="#Beatles" label="#Beatles" />
+      <node id="#rollingstones" label="#rollingstones" />
+      <node id="#beatlesmarathon" label="#beatlesmarathon" />
+      <node id="#cologorilla" label="#cologorilla" />
+      <node id="#guitar" label="#guitar" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#yoko" target="#lennon" weight="269" />
+      <edge id="1" source="#yoko" target="#TheBeatles" weight="269" />
+      <edge id="2" source="#RingoStarr" target="#beatles" weight="269" />
+      <edge id="3" source="#RingoStarr" target="#TheBeatles" weight="269" />
+      <edge id="4" source="#allyhingsmustpass" target="#beatles" weight="269" />
+      <edge id="5" source="#rubbersoul" target="#cbus" weight="269" />
+      <edge id="6" source="#rubbersoul" target="#letitbe" weight="538" />
+      <edge id="7" source="#rubbersoul" target="#thebeatles" weight="269" />
+      <edge id="8" source="#sgtpepper" target="#thebeatlesmarathon" weight="269" />
+      <edge id="9" source="#sgtpepper" target="#magicalmysterytour" weight="538" />
+      <edge id="10" source="#beatlesforsale" target="#lennon" weight="269" />
+      <edge id="11" source="#Cbus" target="#ThanksObama" weight="269" />
+      <edge id="12" source="#Cbus" target="#rock" weight="269" />
+      <edge id="13" source="#Cbus" target="#GoBucks" weight="269" />
+      <edge id="14" source="#Cbus" target="#beatles" weight="538" />
+      <edge id="15" source="#Cbus" target="#TheBeatles" weight="269" />
+      <edge id="16" source="#Cbus" target="#guitar" weight="269" />
+      <edge id="17" source="#Cbus" target="#Ohio" weight="269" />
+      <edge id="18" source="#listentoblacksabbath" target="#treebar" weight="269" />
+      <edge id="19" source="#listentoblacksabbath" target="#songs" weight="269" />
+      <edge id="20" source="#listentoblacksabbath" target="#music" weight="269" />
+      <edge id="21" source="#listentoblacksabbath" target="#cbus" weight="269" />
+      <edge id="22" source="#thebeatles" target="#abbeyroad" weight="269" />
+      <edge id="23" source="#thebeatles" target="#fab614" weight="269" />
+      <edge id="24" source="#thebeatles" target="#heyjude" weight="269" />
+      <edge id="25" source="#thebeatles" target="#mccartney" weight="269" />
+      <edge id="26" source="#thebeatles" target="#cbus" weight="538" />
+      <edge id="27" source="#thebeatles" target="#beatlesmarathon" weight="269" />
+      <edge id="28" source="#thebeatles" target="#columbus" weight="269" />
+      <edge id="29" source="#thebeatles" target="#letitbe" weight="538" />
+      <edge id="30" source="#thebeatles" target="#beatles" weight="807" />
+      <edge id="31" source="#piano" target="#TheBeatles" weight="269" />
+      <edge id="32" source="#JohnLennon" target="#beatlesmarathon" weight="269" />
+      <edge id="33" source="#JohnLennon" target="#beatles" weight="269" />
+      <edge id="34" source="#marathon" target="#music" weight="269" />
+      <edge id="35" source="#marathon" target="#TheBeatles" weight="269" />
+      <edge id="36" source="#thesmiths" target="#morrissey" weight="269" />
+      <edge id="37" source="#thesmiths" target="#rollingstones" weight="269" />
+      <edge id="38" source="#abbeyroad" target="#beatles" weight="269" />
+      <edge id="39" source="#abbeyroad" target="#letitbe" weight="269" />
+      <edge id="40" source="#abbeyroad" target="#TheBeatles" weight="269" />
+      <edge id="41" source="#Ohio" target="#ThanksObama" weight="269" />
+      <edge id="42" source="#Ohio" target="#rock" weight="269" />
+      <edge id="43" source="#Ohio" target="#GoBucks" weight="269" />
+      <edge id="44" source="#Ohio" target="#TheBeatles" weight="269" />
+      <edge id="45" source="#Ohio" target="#guitar" weight="269" />
+      <edge id="46" source="#kobo" target="#beatlesmarathon" weight="269" />
+      <edge id="47" source="#ThanksObama" target="#rock" weight="269" />
+      <edge id="48" source="#ThanksObama" target="#GoBucks" weight="269" />
+      <edge id="49" source="#ThanksObama" target="#TheBeatles" weight="269" />
+      <edge id="50" source="#ThanksObama" target="#guitar" weight="269" />
+      <edge id="51" source="#rock" target="#GoBucks" weight="269" />
+      <edge id="52" source="#rock" target="#TheBeatles" weight="269" />
+      <edge id="53" source="#rock" target="#guitar" weight="269" />
+      <edge id="54" source="#mccartney" target="#heyjude" weight="269" />
+      <edge id="55" source="#mccartney" target="#help" weight="269" />
+      <edge id="56" source="#mccartney" target="#lennon" weight="269" />
+      <edge id="57" source="#mccartney" target="#TheBeatles" weight="269" />
+      <edge id="58" source="#mccartney" target="#letitbe" weight="269" />
+      <edge id="59" source="#songs" target="#treebar" weight="269" />
+      <edge id="60" source="#MakeAmericaGreatAgain" target="#beatlesmarathon" weight="269" />
+      <edge id="61" source="#MakeAmericaGreatAgain" target="#beatles" weight="269" />
+      <edge id="62" source="#saturdaygiant" target="#lostrevival" weight="269" />
+      <edge id="63" source="#saturdaygiant" target="#kobolive" weight="269" />
+      <edge id="64" source="#saturdaygiant" target="#thewhiles" weight="269" />
+      <edge id="65" source="#letitbe" target="#beatles" weight="269" />
+      <edge id="66" source="#letitbe" target="#lennon" weight="269" />
+      <edge id="67" source="#letitbe" target="#cbus" weight="269" />
+      <edge id="68" source="#lennon" target="#TheBeatles" weight="538" />
+      <edge id="69" source="#lennon" target="#beatlesmarathon" weight="269" />
+      <edge id="70" source="#BeatlesMarathon" target="#columbus" weight="269" />
+      <edge id="71" source="#BeatlesMarathon" target="#cbus" weight="269" />
+      <edge id="72" source="#columbus" target="#beatles" weight="538" />
+      <edge id="73" source="#columbus" target="#cbus" weight="538" />
+      <edge id="74" source="#cbus" target="#alisonrose" weight="269" />
+      <edge id="75" source="#cbus" target="#beatlesmarathon" weight="1076" />
+      <edge id="76" source="#cbus" target="#blackbird" weight="269" />
+      <edge id="77" source="#cbus" target="#music" weight="269" />
+      <edge id="78" source="#cbus" target="#GoBucks" weight="269" />
+      <edge id="79" source="#cbus" target="#TheBeatles" weight="2152" />
+      <edge id="80" source="#cbus" target="#thebeatlesmarathon" weight="269" />
+      <edge id="81" source="#cbus" target="#beatles" weight="1076" />
+      <edge id="82" source="#kobolive" target="#lostrevival" weight="269" />
+      <edge id="83" source="#kobolive" target="#thewhiles" weight="269" />
+      <edge id="84" source="#Harrison" target="#beatles" weight="269" />
+      <edge id="85" source="#ringo" target="#TheBeatles" weight="269" />
+      <edge id="86" source="#music" target="#TheBeatles" weight="538" />
+      <edge id="87" source="#colobday" target="#cologorilla" weight="269" />
+      <edge id="88" source="#beatles" target="#TheBeatles" weight="807" />
+      <edge id="89" source="#beatles" target="#thewhiles" weight="269" />
+      <edge id="90" source="#beatles" target="#beatlesmarathon" weight="1883" />
+      <edge id="91" source="#TheBeatles" target="#revolver" weight="269" />
+      <edge id="92" source="#TheBeatles" target="#Beatles" weight="269" />
+      <edge id="93" source="#TheBeatles" target="#loser" weight="269" />
+      <edge id="94" source="#TheBeatles" target="#alisonrose" weight="269" />
+      <edge id="95" source="#TheBeatles" target="#GoBucks" weight="807" />
+      <edge id="96" source="#TheBeatles" target="#pomplamoose" weight="269" />
+      <edge id="97" source="#TheBeatles" target="#blackbird" weight="269" />
+      <edge id="98" source="#TheBeatles" target="#help" weight="269" />
+      <edge id="99" source="#TheBeatles" target="#thebeatlesmarathon" weight="269" />
+      <edge id="100" source="#TheBeatles" target="#beatlesmarathon" weight="807" />
+      <edge id="101" source="#TheBeatles" target="#guitar" weight="269" />
+      <edge id="102" source="#lostrevival" target="#thewhiles" weight="269" />
+      <edge id="103" source="#magicalmysterytour" target="#thebeatlesmarathon" weight="269" />
+      <edge id="104" source="#loser" target="#pomplamoose" weight="269" />
+      <edge id="105" source="#alisonrose" target="#beatlesmarathon" weight="269" />
+      <edge id="106" source="#alisonrose" target="#blackbird" weight="269" />
+      <edge id="107" source="#alisonrose" target="#GoBucks" weight="269" />
+      <edge id="108" source="#fab614" target="#beatlesmarathon" weight="269" />
+      <edge id="109" source="#GoBucks" target="#blackbird" weight="269" />
+      <edge id="110" source="#GoBucks" target="#revolver" weight="269" />
+      <edge id="111" source="#GoBucks" target="#beatlesmarathon" weight="269" />
+      <edge id="112" source="#GoBucks" target="#guitar" weight="269" />
+      <edge id="113" source="#blackbird" target="#beatlesmarathon" weight="269" />
+      <edge id="114" source="#thewhiles" target="#beatlesmarathon" weight="269" />
+      <edge id="115" source="#beatlesmarathon" target="#beatlesmarathon" weight="538" />
+    </edges>
+  </graph>
+</gexf>

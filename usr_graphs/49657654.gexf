@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#HilliardProud" label="#HilliardProud" />
+      <node id="#NeverForget" label="#NeverForget" />
+      <node id="#Insight2050" label="#Insight2050" />
+      <node id="#MORPCSUMMIT" label="#MORPCSUMMIT" />
+      <node id="#USMNT" label="#USMNT" />
+      <node id="#GoTeamUSA" label="#GoTeamUSA" />
+      <node id="#wewill" label="#wewill" />
+      <node id="#PantherNation" label="#PantherNation" />
+      <node id="#USAvsCanada" label="#USAvsCanada" />
+      <node id="#TeamUSA" label="#TeamUSA" />
+      <node id="#OneNationOneTeam" label="#OneNationOneTeam" />
+      <node id="#occchamps" label="#occchamps" />
+      <node id="#125th" label="#125th" />
+      <node id="#hockey" label="#hockey" />
+      <node id="#HockeyandHashbrowns" label="#HockeyandHashbrowns" />
+      <node id="#PoliceWeek" label="#PoliceWeek" />
+      <node id="#PantherPride" label="#PantherPride" />
+      <node id="#OMSLA" label="#OMSLA" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#laxback" label="#laxback" />
+      <node id="#USAvGHA" label="#USAvGHA" />
+      <node id="#Jackets" label="#Jackets" />
+      <node id="#Sochi2014" label="#Sochi2014" />
+      <node id="#TEAMUSA" label="#TEAMUSA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#HilliardProud" target="#125th" weight="386" />
+      <edge id="1" source="#NeverForget" target="#PoliceWeek" weight="193" />
+      <edge id="2" source="#Insight2050" target="#MORPCSUMMIT" weight="193" />
+      <edge id="3" source="#USMNT" target="#USAvGHA" weight="193" />
+      <edge id="4" source="#USMNT" target="#OneNationOneTeam" weight="193" />
+      <edge id="5" source="#GoTeamUSA" target="#USAvsCanada" weight="193" />
+      <edge id="6" source="#GoTeamUSA" target="#TeamUSA" weight="193" />
+      <edge id="7" source="#wewill" target="#PantherPride" weight="193" />
+      <edge id="8" source="#wewill" target="#laxback" weight="193" />
+      <edge id="9" source="#PantherNation" target="#occchamps" weight="193" />
+      <edge id="10" source="#PantherNation" target="#OMSLA" weight="193" />
+      <edge id="11" source="#USAvsCanada" target="#TeamUSA" weight="193" />
+      <edge id="12" source="#TeamUSA" target="#hockey" weight="193" />
+      <edge id="13" source="#TeamUSA" target="#HockeyandHashbrowns" weight="193" />
+      <edge id="14" source="#TeamUSA" target="#Sochi2014" weight="193" />
+      <edge id="15" source="#OneNationOneTeam" target="#USAvGHA" weight="193" />
+      <edge id="16" source="#hockey" target="#Sochi2014" weight="193" />
+      <edge id="17" source="#PantherPride" target="#laxback" weight="193" />
+      <edge id="18" source="#CBJ" target="#Jackets" weight="193" />
+      <edge id="19" source="#Sochi2014" target="#TEAMUSA" weight="193" />
+    </edges>
+  </graph>
+</gexf>

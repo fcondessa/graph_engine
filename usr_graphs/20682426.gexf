@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#IRWD" label="#IRWD" />
+      <node id="#StartupAmerica" label="#StartupAmerica" />
+      <node id="#hadoop" label="#hadoop" />
+      <node id="#reInvent" label="#reInvent" />
+      <node id="#fail" label="#fail" />
+      <node id="#whoa" label="#whoa" />
+      <node id="#opscode" label="#opscode" />
+      <node id="#ATX" label="#ATX" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#Mubarak" label="#Mubarak" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#redis" label="#redis" />
+      <node id="#macscafe" label="#macscafe" />
+      <node id="#FlashHug" label="#FlashHug" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#vc" label="#vc" />
+      <node id="#Superbowl" label="#Superbowl" />
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#mivamerchant" label="#mivamerchant" />
+      <node id="#DynMMT" label="#DynMMT" />
+      <node id="#GSB2012" label="#GSB2012" />
+      <node id="#retail" label="#retail" />
+      <node id="#devops" label="#devops" />
+      <node id="#AWS" label="#AWS" />
+      <node id="#clojure" label="#clojure" />
+      <node id="#jenisicecream" label="#jenisicecream" />
+      <node id="#sandboxcolumbus" label="#sandboxcolumbus" />
+      <node id="#ec2" label="#ec2" />
+      <node id="#rabbitmq" label="#rabbitmq" />
+      <node id="#CustomerDevelopment" label="#CustomerDevelopment" />
+      <node id="#Egypt" label="#Egypt" />
+      <node id="#startups" label="#startups" />
+      <node id="#chef" label="#chef" />
+      <node id="#danhellbusch" label="#danhellbusch" />
+      <node id="#hbase" label="#hbase" />
+      <node id="#gsb2012" label="#gsb2012" />
+      <node id="#mobile" label="#mobile" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#sxsw" target="#ATX" weight="511" />
+      <edge id="1" source="#IRWD" target="#mivamerchant" weight="511" />
+      <edge id="2" source="#StartupAmerica" target="#FlashHug" weight="511" />
+      <edge id="3" source="#hadoop" target="#ec2" weight="511" />
+      <edge id="4" source="#hadoop" target="#redis" weight="511" />
+      <edge id="5" source="#hadoop" target="#rabbitmq" weight="511" />
+      <edge id="6" source="#hadoop" target="#opscode" weight="511" />
+      <edge id="7" source="#hadoop" target="#devops" weight="511" />
+      <edge id="8" source="#hadoop" target="#chef" weight="511" />
+      <edge id="9" source="#hadoop" target="#hbase" weight="511" />
+      <edge id="10" source="#hadoop" target="#clojure" weight="511" />
+      <edge id="11" source="#reInvent" target="#AWS" weight="511" />
+      <edge id="12" source="#fail" target="#Superbowl" weight="511" />
+      <edge id="13" source="#whoa" target="#danhellbusch" weight="511" />
+      <edge id="14" source="#opscode" target="#ec2" weight="511" />
+      <edge id="15" source="#opscode" target="#redis" weight="511" />
+      <edge id="16" source="#opscode" target="#hbase" weight="511" />
+      <edge id="17" source="#opscode" target="#devops" weight="511" />
+      <edge id="18" source="#opscode" target="#chef" weight="511" />
+      <edge id="19" source="#opscode" target="#rabbitmq" weight="511" />
+      <edge id="20" source="#opscode" target="#clojure" weight="511" />
+      <edge id="21" source="#entrepreneurship" target="#startups" weight="511" />
+      <edge id="22" source="#entrepreneurship" target="#columbus" weight="1022" />
+      <edge id="23" source="#entrepreneurship" target="#vc" weight="511" />
+      <edge id="24" source="#Mubarak" target="#Egypt" weight="511" />
+      <edge id="25" source="#swcbus" target="#GSB2012" weight="511" />
+      <edge id="26" source="#swcbus" target="#gsb2012" weight="511" />
+      <edge id="27" source="#redis" target="#ec2" weight="511" />
+      <edge id="28" source="#redis" target="#hbase" weight="511" />
+      <edge id="29" source="#redis" target="#devops" weight="511" />
+      <edge id="30" source="#redis" target="#chef" weight="511" />
+      <edge id="31" source="#redis" target="#rabbitmq" weight="511" />
+      <edge id="32" source="#redis" target="#clojure" weight="511" />
+      <edge id="33" source="#macscafe" target="#sandboxcolumbus" weight="511" />
+      <edge id="34" source="#macscafe" target="#jenisicecream" weight="511" />
+      <edge id="35" source="#columbus" target="#startups" weight="511" />
+      <edge id="36" source="#columbus" target="#vc" weight="511" />
+      <edge id="37" source="#SXSW" target="#DynMMT" weight="511" />
+      <edge id="38" source="#retail" target="#mobile" weight="511" />
+      <edge id="39" source="#devops" target="#ec2" weight="511" />
+      <edge id="40" source="#devops" target="#hbase" weight="511" />
+      <edge id="41" source="#devops" target="#chef" weight="511" />
+      <edge id="42" source="#devops" target="#rabbitmq" weight="511" />
+      <edge id="43" source="#devops" target="#clojure" weight="511" />
+      <edge id="44" source="#clojure" target="#ec2" weight="511" />
+      <edge id="45" source="#clojure" target="#hbase" weight="511" />
+      <edge id="46" source="#clojure" target="#chef" weight="511" />
+      <edge id="47" source="#clojure" target="#rabbitmq" weight="511" />
+      <edge id="48" source="#jenisicecream" target="#sandboxcolumbus" weight="511" />
+      <edge id="49" source="#ec2" target="#rabbitmq" weight="511" />
+      <edge id="50" source="#ec2" target="#chef" weight="511" />
+      <edge id="51" source="#ec2" target="#hbase" weight="511" />
+      <edge id="52" source="#rabbitmq" target="#chef" weight="511" />
+      <edge id="53" source="#rabbitmq" target="#hbase" weight="511" />
+      <edge id="54" source="#CustomerDevelopment" target="#startups" weight="511" />
+      <edge id="55" source="#chef" target="#hbase" weight="511" />
+    </edges>
+  </graph>
+</gexf>

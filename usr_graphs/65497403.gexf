@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#SFGTweetup" label="#SFGTweetup" />
+      <node id="#sfgfanfest" label="#sfgfanfest" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SFGiants" target="#SFGTweetup" weight="93" />
+      <edge id="1" source="#sfgiants" target="#sfgfanfest" weight="372" />
+      <edge id="2" source="#sfgiants" target="#sfgiants" weight="186" />
+    </edges>
+  </graph>
+</gexf>

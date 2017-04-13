@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Browns" label="#Browns" />
+      <node id="#bestbuddies" label="#bestbuddies" />
+      <node id="#bestbuddiesohio" label="#bestbuddiesohio" />
+      <node id="#DisabilityAwarenessDay" label="#DisabilityAwarenessDay" />
+      <node id="#DGovQt" label="#DGovQt" />
+      <node id="#BestBuddiesOhio" label="#BestBuddiesOhio" />
+      <node id="#quote" label="#quote" />
+      <node id="#give10" label="#give10" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#getinvolved" label="#getinvolved" />
+      <node id="#friendshipwalkOH" label="#friendshipwalkOH" />
+      <node id="#inclusion" label="#inclusion" />
+      <node id="#ReadAcrossAmerica" label="#ReadAcrossAmerica" />
+      <node id="#ADA" label="#ADA" />
+      <node id="#ADA25" label="#ADA25" />
+      <node id="#BBOH" label="#BBOH" />
+      <node id="#BBOHWalk2015" label="#BBOHWalk2015" />
+      <node id="#FriendshipFriday" label="#FriendshipFriday" />
+      <node id="#AllIn" label="#AllIn" />
+      <node id="#ohiofriendshipwalk" label="#ohiofriendshipwalk" />
+      <node id="#BestBuddies" label="#BestBuddies" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#volunteer" label="#volunteer" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#BBFW2016" label="#BBFW2016" />
+      <node id="#Give10" label="#Give10" />
+      <node id="#friendshipwalk" label="#friendshipwalk" />
+      <node id="#FBF" label="#FBF" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Browns" target="#give10" weight="187" />
+      <edge id="1" source="#Browns" target="#ReadAcrossAmerica" weight="187" />
+      <edge id="2" source="#bestbuddies" target="#bestbuddiesohio" weight="187" />
+      <edge id="3" source="#bestbuddiesohio" target="#inclusion" weight="187" />
+      <edge id="4" source="#bestbuddiesohio" target="#friendshipwalk" weight="187" />
+      <edge id="5" source="#DisabilityAwarenessDay" target="#BBOH" weight="187" />
+      <edge id="6" source="#DGovQt" target="#quote" weight="187" />
+      <edge id="7" source="#BestBuddiesOhio" target="#FriendshipFriday" weight="374" />
+      <edge id="8" source="#BestBuddiesOhio" target="#AllIn" weight="187" />
+      <edge id="9" source="#BestBuddiesOhio" target="#volunteer" weight="187" />
+      <edge id="10" source="#BestBuddiesOhio" target="#BBFW2016" weight="187" />
+      <edge id="11" source="#BestBuddiesOhio" target="#BestBuddies" weight="748" />
+      <edge id="12" source="#BestBuddiesOhio" target="#FBF" weight="187" />
+      <edge id="13" source="#BestBuddiesOhio" target="#TBT" weight="187" />
+      <edge id="14" source="#give10" target="#TBT" weight="187" />
+      <edge id="15" source="#give10" target="#volunteer" weight="187" />
+      <edge id="16" source="#give10" target="#ReadAcrossAmerica" weight="187" />
+      <edge id="17" source="#CLE" target="#BestBuddies" weight="187" />
+      <edge id="18" source="#Ohio" target="#inclusion" weight="187" />
+      <edge id="19" source="#Ohio" target="#friendshipwalk" weight="187" />
+      <edge id="20" source="#getinvolved" target="#inclusion" weight="187" />
+      <edge id="21" source="#getinvolved" target="#friendshipwalkOH" weight="187" />
+      <edge id="22" source="#friendshipwalkOH" target="#inclusion" weight="187" />
+      <edge id="23" source="#inclusion" target="#ohiofriendshipwalk" weight="187" />
+      <edge id="24" source="#inclusion" target="#friendshipwalk" weight="561" />
+      <edge id="25" source="#ADA" target="#ADA25" weight="187" />
+      <edge id="26" source="#BBOHWalk2015" target="#Give10" weight="187" />
+      <edge id="27" source="#Cleveland" target="#BBFW2016" weight="187" />
+    </edges>
+  </graph>
+</gexf>

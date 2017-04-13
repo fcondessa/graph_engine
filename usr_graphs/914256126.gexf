@@ -1,0 +1,953 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#posters" label="#posters" />
+      <node id="#nelsonville" label="#nelsonville" />
+      <node id="#kaiju" label="#kaiju" />
+      <node id="#indierock" label="#indierock" />
+      <node id="#ClevelandPolice" label="#ClevelandPolice" />
+      <node id="#bbc6music" label="#bbc6music" />
+      <node id="#yourenotbetterthanmerichkid" label="#yourenotbetterthanmerichkid" />
+      <node id="#IAAA" label="#IAAA" />
+      <node id="#rock" label="#rock" />
+      <node id="#yuzeboys" label="#yuzeboys" />
+      <node id="#really" label="#really" />
+      <node id="#foodlust" label="#foodlust" />
+      <node id="#McIntoshMusic" label="#McIntoshMusic" />
+      <node id="#bestkeptsecret" label="#bestkeptsecret" />
+      <node id="#reissue" label="#reissue" />
+      <node id="#Vote" label="#Vote" />
+      <node id="#illustration" label="#illustration" />
+      <node id="#clueless" label="#clueless" />
+      <node id="#Phantom" label="#Phantom" />
+      <node id="#album" label="#album" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#crapsongsthencrapsongsnow" label="#crapsongsthencrapsongsnow" />
+      <node id="#AnywayRecords" label="#AnywayRecords" />
+      <node id="#WPRBXmas" label="#WPRBXmas" />
+      <node id="#BeastieBoys" label="#BeastieBoys" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#INTERVIEW" label="#INTERVIEW" />
+      <node id="#dickheAd" label="#dickheAd" />
+      <node id="#nowlistening" label="#nowlistening" />
+      <node id="#columbusmusicscene" label="#columbusmusicscene" />
+      <node id="#musicwithfriends" label="#musicwithfriends" />
+      <node id="#indiemusic" label="#indiemusic" />
+      <node id="#diditellyou" label="#diditellyou" />
+      <node id="#AxlRose" label="#AxlRose" />
+      <node id="#mailorder" label="#mailorder" />
+      <node id="#theneeds" label="#theneeds" />
+      <node id="#newmusic" label="#newmusic" />
+      <node id="#bigshot" label="#bigshot" />
+      <node id="#mountaingoats" label="#mountaingoats" />
+      <node id="#notinorder" label="#notinorder" />
+      <node id="#lotsalines" label="#lotsalines" />
+      <node id="#stopthenra" label="#stopthenra" />
+      <node id="#CrewSC" label="#CrewSC" />
+      <node id="#parkslope" label="#parkslope" />
+      <node id="#vinyl" label="#vinyl" />
+      <node id="#TwoAndTwo" label="#TwoAndTwo" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#USA" label="#USA" />
+      <node id="#techhouse" label="#techhouse" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#bestnewmusic" label="#bestnewmusic" />
+      <node id="#ComingUp" label="#ComingUp" />
+      <node id="#BBC6Music" label="#BBC6Music" />
+      <node id="#MusicNews" label="#MusicNews" />
+      <node id="#youwereonmymind" label="#youwereonmymind" />
+      <node id="#atleastatlast" label="#atleastatlast" />
+      <node id="#DrivingHomeForChristmas" label="#DrivingHomeForChristmas" />
+      <node id="#overthenfl" label="#overthenfl" />
+      <node id="#gooddeadguys" label="#gooddeadguys" />
+      <node id="#peaceonearth" label="#peaceonearth" />
+      <node id="#billyirelandcartoonlibraryandmuseum" label="#billyirelandcartoonlibraryandmuseum" />
+      <node id="#powerpop" label="#powerpop" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#dontyouknow" label="#dontyouknow" />
+      <node id="#mendable" label="#mendable" />
+      <node id="#terryAllenmusic" label="#terryAllenmusic" />
+      <node id="#achschoen" label="#achschoen" />
+      <node id="#localradio" label="#localradio" />
+      <node id="#getoffmylawn" label="#getoffmylawn" />
+      <node id="#LFW" label="#LFW" />
+      <node id="#ramones" label="#ramones" />
+      <node id="#followupquestion" label="#followupquestion" />
+      <node id="#consume" label="#consume" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#bully" label="#bully" />
+      <node id="#Bluebirdbar" label="#Bluebirdbar" />
+      <node id="#September23rd" label="#September23rd" />
+      <node id="#reagan" label="#reagan" />
+      <node id="#Manhattan" label="#Manhattan" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#turnmybackonmybrothers" label="#turnmybackonmybrothers" />
+      <node id="#RIP" label="#RIP" />
+      <node id="#kidsthesedays" label="#kidsthesedays" />
+      <node id="#CobraVerde" label="#CobraVerde" />
+      <node id="#merrymerry" label="#merrymerry" />
+      <node id="#harrassment" label="#harrassment" />
+      <node id="#SongOfTheDay" label="#SongOfTheDay" />
+      <node id="#blacklivesmatter" label="#blacklivesmatter" />
+      <node id="#musicvideo" label="#musicvideo" />
+      <node id="#singersongwriter" label="#singersongwriter" />
+      <node id="#GeneralMotors" label="#GeneralMotors" />
+      <node id="#fireLewandowski" label="#fireLewandowski" />
+      <node id="#localmusic" label="#localmusic" />
+      <node id="#NowPlaying" label="#NowPlaying" />
+      <node id="#TamirRice" label="#TamirRice" />
+      <node id="#OregonUnderAttack" label="#OregonUnderAttack" />
+      <node id="#fuckreagan" label="#fuckreagan" />
+      <node id="#artwork" label="#artwork" />
+      <node id="#bestbandnow" label="#bestbandnow" />
+      <node id="#TheFlatFive" label="#TheFlatFive" />
+      <node id="#CocaineTrump" label="#CocaineTrump" />
+      <node id="#Comics" label="#Comics" />
+      <node id="#IAmAsianAmerican" label="#IAmAsianAmerican" />
+      <node id="#friday" label="#friday" />
+      <node id="#getmedicaid" label="#getmedicaid" />
+      <node id="#women" label="#women" />
+      <node id="#Ramones" label="#Ramones" />
+      <node id="#InThe90sWeAsked" label="#InThe90sWeAsked" />
+      <node id="#newzealand" label="#newzealand" />
+      <node id="#Dallas" label="#Dallas" />
+      <node id="#cleveland" label="#cleveland" />
+      <node id="#culturegun" label="#culturegun" />
+      <node id="#TORvCLB" label="#TORvCLB" />
+      <node id="#Traktivist" label="#Traktivist" />
+      <node id="#passthebowl" label="#passthebowl" />
+      <node id="#jfotoman" label="#jfotoman" />
+      <node id="#wvwhite" label="#wvwhite" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#Music" label="#Music" />
+      <node id="#JanisJoplin" label="#JanisJoplin" />
+      <node id="#jeffbuckley" label="#jeffbuckley" />
+      <node id="#gotobeds" label="#gotobeds" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#daytonrockandrollhalloffame" label="#daytonrockandrollhalloffame" />
+      <node id="#ThisisCLE" label="#ThisisCLE" />
+      <node id="#Republicans" label="#Republicans" />
+      <node id="#midnightrun" label="#midnightrun" />
+      <node id="#indeed" label="#indeed" />
+      <node id="#Pittsburgh" label="#Pittsburgh" />
+      <node id="#deephouse" label="#deephouse" />
+      <node id="#out" label="#out" />
+      <node id="#columbusohio" label="#columbusohio" />
+      <node id="#HungerActionMonth" label="#HungerActionMonth" />
+      <node id="#this" label="#this" />
+      <node id="#Louisville" label="#Louisville" />
+      <node id="#housemusic" label="#housemusic" />
+      <node id="#messofme" label="#messofme" />
+      <node id="#anywayrecords" label="#anywayrecords" />
+      <node id="#wishicouldbethere" label="#wishicouldbethere" />
+      <node id="#NYCdebut" label="#NYCdebut" />
+      <node id="#lines" label="#lines" />
+      <node id="#15degreesout" label="#15degreesout" />
+      <node id="#13years" label="#13years" />
+      <node id="#nevergettohavefun" label="#nevergettohavefun" />
+      <node id="#SummerSaints" label="#SummerSaints" />
+      <node id="#SoundCloud" label="#SoundCloud" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#DavidBowie" label="#DavidBowie" />
+      <node id="#Spritzer" label="#Spritzer" />
+      <node id="#A9" label="#A9" />
+      <node id="#ohiomusic" label="#ohiomusic" />
+      <node id="#newrelease" label="#newrelease" />
+      <node id="#NewMusicComing" label="#NewMusicComing" />
+      <node id="#THENEWROCKNROLL" label="#THENEWROCKNROLL" />
+      <node id="#BestOf2014" label="#BestOf2014" />
+      <node id="#busted" label="#busted" />
+      <node id="#NationalChampionship" label="#NationalChampionship" />
+      <node id="#sexism" label="#sexism" />
+      <node id="#MyAAPIVote" label="#MyAAPIVote" />
+      <node id="#liveradio" label="#liveradio" />
+      <node id="#hateearbuds" label="#hateearbuds" />
+      <node id="#blisterinthesun" label="#blisterinthesun" />
+      <node id="#lic" label="#lic" />
+      <node id="#CMJ" label="#CMJ" />
+      <node id="#ColumbusOhio" label="#ColumbusOhio" />
+      <node id="#changesentencinglaws" label="#changesentencinglaws" />
+      <node id="#xmasisruined" label="#xmasisruined" />
+      <node id="#inter_onair" label="#inter_onair" />
+      <node id="#myaapivote" label="#myaapivote" />
+      <node id="#IndiePop" label="#IndiePop" />
+      <node id="#listenworthy" label="#listenworthy" />
+      <node id="#wetkid" label="#wetkid" />
+      <node id="#tickets" label="#tickets" />
+      <node id="#twogreattastes" label="#twogreattastes" />
+      <node id="#usedkids" label="#usedkids" />
+      <node id="#dishitoutbutcantit" label="#dishitoutbutcantit" />
+      <node id="#psych" label="#psych" />
+      <node id="#neat" label="#neat" />
+      <node id="#leaveyourhouse" label="#leaveyourhouse" />
+      <node id="#TheMotelBeds" label="#TheMotelBeds" />
+      <node id="#natepowell" label="#natepowell" />
+      <node id="#Confused" label="#Confused" />
+      <node id="#LoFi" label="#LoFi" />
+      <node id="#midnight" label="#midnight" />
+      <node id="#connections614" label="#connections614" />
+      <node id="#loooove" label="#loooove" />
+      <node id="#bestgiftever" label="#bestgiftever" />
+      <node id="#UNITE" label="#UNITE" />
+      <node id="#livinginfear" label="#livinginfear" />
+      <node id="#alltimefavoritexmas" label="#alltimefavoritexmas" />
+      <node id="#Jindal" label="#Jindal" />
+      <node id="#GunsNRoses" label="#GunsNRoses" />
+      <node id="#wallstreetlies" label="#wallstreetlies" />
+      <node id="#alltimefavorite" label="#alltimefavorite" />
+      <node id="#Rocktober" label="#Rocktober" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#Alternative" label="#Alternative" />
+      <node id="#WUDR" label="#WUDR" />
+      <node id="#VoicesofOurVote" label="#VoicesofOurVote" />
+      <node id="#punk" label="#punk" />
+      <node id="#katyotto" label="#katyotto" />
+      <node id="#followth3music" label="#followth3music" />
+      <node id="#ArtPop" label="#ArtPop" />
+      <node id="#insidetrack" label="#insidetrack" />
+      <node id="#1YF" label="#1YF" />
+      <node id="#GuidedByVoices" label="#GuidedByVoices" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#47Traitors" label="#47Traitors" />
+      <node id="#prayer" label="#prayer" />
+      <node id="#WorldMentalHealthDay" label="#WorldMentalHealthDay" />
+      <node id="#holdthefloor" label="#holdthefloor" />
+      <node id="#touring" label="#touring" />
+      <node id="#mudhoney" label="#mudhoney" />
+      <node id="#StLenox" label="#StLenox" />
+      <node id="#letmeknow" label="#letmeknow" />
+      <node id="#loser" label="#loser" />
+      <node id="#derp" label="#derp" />
+      <node id="#jeffsmithbone" label="#jeffsmithbone" />
+      <node id="#columbusoh" label="#columbusoh" />
+      <node id="#Comicmarket" label="#Comicmarket" />
+      <node id="#Geeks" label="#Geeks" />
+      <node id="#goodtrouble" label="#goodtrouble" />
+      <node id="#notajournalist" label="#notajournalist" />
+      <node id="#pop" label="#pop" />
+      <node id="#ComicCon" label="#ComicCon" />
+      <node id="#LightInYourWindow" label="#LightInYourWindow" />
+      <node id="#kentucky" label="#kentucky" />
+      <node id="#jimshepard" label="#jimshepard" />
+      <node id="#NewAlbum" label="#NewAlbum" />
+      <node id="#cd" label="#cd" />
+      <node id="#kellsbells" label="#kellsbells" />
+      <node id="#ifeelbadyoumissedthisshow" label="#ifeelbadyoumissedthisshow" />
+      <node id="#i" label="#i" />
+      <node id="#circles" label="#circles" />
+      <node id="#6music" label="#6music" />
+      <node id="#enjoybeer" label="#enjoybeer" />
+      <node id="#INXS" label="#INXS" />
+      <node id="#MaryLynn" label="#MaryLynn" />
+      <node id="#ghostshirt" label="#ghostshirt" />
+      <node id="#Kasich" label="#Kasich" />
+      <node id="#everytowngunsaftey" label="#everytowngunsaftey" />
+      <node id="#mentahealth" label="#mentahealth" />
+      <node id="#mono" label="#mono" />
+      <node id="#mikerep" label="#mikerep" />
+      <node id="#uncommonsense" label="#uncommonsense" />
+      <node id="#yes" label="#yes" />
+      <node id="#markhughes" label="#markhughes" />
+      <node id="#ontheroad" label="#ontheroad" />
+      <node id="#quote" label="#quote" />
+      <node id="#randynewman" label="#randynewman" />
+      <node id="#debate" label="#debate" />
+      <node id="#holidayshopping" label="#holidayshopping" />
+      <node id="#newcoke" label="#newcoke" />
+      <node id="#skunktrump" label="#skunktrump" />
+      <node id="#suckitNRA" label="#suckitNRA" />
+      <node id="#30Waysin30Days" label="#30Waysin30Days" />
+      <node id="#karlhendricks" label="#karlhendricks" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#fiveimaginaryboys" label="#fiveimaginaryboys" />
+      <node id="#GoOrange" label="#GoOrange" />
+      <node id="#JackDavis" label="#JackDavis" />
+      <node id="#thanksjohn4makingalilgirlhappy" label="#thanksjohn4makingalilgirlhappy" />
+      <node id="#portrait" label="#portrait" />
+      <node id="#TheyLive" label="#TheyLive" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#cakeshopnyc" label="#cakeshopnyc" />
+      <node id="#mrsDrJ" label="#mrsDrJ" />
+      <node id="#DebateNight" label="#DebateNight" />
+      <node id="#communityscene" label="#communityscene" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#hifivicky" label="#hifivicky" />
+      <node id="#garage" label="#garage" />
+      <node id="#annhamiltonstudio" label="#annhamiltonstudio" />
+      <node id="#Syracuse" label="#Syracuse" />
+      <node id="#crystalpepsi" label="#crystalpepsi" />
+      <node id="#violentfemmes" label="#violentfemmes" />
+      <node id="#happiness" label="#happiness" />
+      <node id="#joy" label="#joy" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#newfavoritesong" label="#newfavoritesong" />
+      <node id="#NZcountryblues" label="#NZcountryblues" />
+      <node id="#IndieGoodness" label="#IndieGoodness" />
+      <node id="#GOPWantsWar" label="#GOPWantsWar" />
+      <node id="#stupidredneck" label="#stupidredneck" />
+      <node id="#connections" label="#connections" />
+      <node id="#whocares" label="#whocares" />
+      <node id="#didIdrinkthatmuch" label="#didIdrinkthatmuch" />
+      <node id="#AmazingSong" label="#AmazingSong" />
+      <node id="#NPR" label="#NPR" />
+      <node id="#Connections" label="#Connections" />
+      <node id="#THISisaBLASTyouguys" label="#THISisaBLASTyouguys" />
+      <node id="#comicbooks" label="#comicbooks" />
+      <node id="#nyc" label="#nyc" />
+      <node id="#NP" label="#NP" />
+      <node id="#12xu" label="#12xu" />
+      <node id="#trudybenson" label="#trudybenson" />
+      <node id="#HAM" label="#HAM" />
+      <node id="#imwiththatnastywoman" label="#imwiththatnastywoman" />
+      <node id="#racial" label="#racial" />
+      <node id="#nowplaying" label="#nowplaying" />
+      <node id="#bigot" label="#bigot" />
+      <node id="#NewMusic" label="#NewMusic" />
+      <node id="#music" label="#music" />
+      <node id="#ProtoFascist" label="#ProtoFascist" />
+      <node id="#MyAnimal" label="#MyAnimal" />
+      <node id="#linedrawings" label="#linedrawings" />
+      <node id="#sharpie" label="#sharpie" />
+      <node id="#np" label="#np" />
+      <node id="#pokemon" label="#pokemon" />
+      <node id="#Sniffles" label="#Sniffles" />
+      <node id="#DiscosQueRecomiendo" label="#DiscosQueRecomiendo" />
+      <node id="#whocareswe" label="#whocareswe" />
+      <node id="#hope" label="#hope" />
+      <node id="#gunnutz" label="#gunnutz" />
+      <node id="#Firstplay" label="#Firstplay" />
+      <node id="#lunkheads" label="#lunkheads" />
+      <node id="#hottake" label="#hottake" />
+      <node id="#MotelBeds" label="#MotelBeds" />
+      <node id="#art" label="#art" />
+      <node id="#justice" label="#justice" />
+      <node id="#life" label="#life" />
+      <node id="#mykidiscute" label="#mykidiscute" />
+      <node id="#georgia" label="#georgia" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#MoodyBlues" label="#MoodyBlues" />
+      <node id="#umustbkiding" label="#umustbkiding" />
+      <node id="#BUYITNOW" label="#BUYITNOW" />
+      <node id="#WZBT" label="#WZBT" />
+      <node id="#lofi" label="#lofi" />
+      <node id="#ohhh" label="#ohhh" />
+      <node id="#NowHearThis" label="#NowHearThis" />
+      <node id="#racism" label="#racism" />
+      <node id="#Rock" label="#Rock" />
+      <node id="#noshame" label="#noshame" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#livebymusic" label="#livebymusic" />
+      <node id="#obvious" label="#obvious" />
+      <node id="#comics" label="#comics" />
+      <node id="#insidesleeve" label="#insidesleeve" />
+      <node id="#sofuckinggood" label="#sofuckinggood" />
+      <node id="#21stcenturypostliberalblues" label="#21stcenturypostliberalblues" />
+      <node id="#TGtravel" label="#TGtravel" />
+      <node id="#satniterecs" label="#satniterecs" />
+      <node id="#cle" label="#cle" />
+      <node id="#wisdom" label="#wisdom" />
+      <node id="#povertyawareness" label="#povertyawareness" />
+      <node id="#cleanneedles" label="#cleanneedles" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#MUENMagazine" label="#MUENMagazine" />
+      <node id="#canadianfolk" label="#canadianfolk" />
+      <node id="#NYSMusic" label="#NYSMusic" />
+      <node id="#ourchildren" label="#ourchildren" />
+      <node id="#TheShaggs" label="#TheShaggs" />
+      <node id="#michiganeducation4u" label="#michiganeducation4u" />
+      <node id="#drawinglines" label="#drawinglines" />
+      <node id="#griftersband" label="#griftersband" />
+      <node id="#nonbelievers" label="#nonbelievers" />
+      <node id="#ALLin216" label="#ALLin216" />
+      <node id="#birthdayboy" label="#birthdayboy" />
+      <node id="#longerharder" label="#longerharder" />
+      <node id="#ACDC" label="#ACDC" />
+      <node id="#Indie" label="#Indie" />
+      <node id="#orangevinyl" label="#orangevinyl" />
+      <node id="#depression" label="#depression" />
+      <node id="#dicks" label="#dicks" />
+      <node id="#blacksabbath" label="#blacksabbath" />
+      <node id="#davidzirin" label="#davidzirin" />
+      <node id="#thefugs" label="#thefugs" />
+      <node id="#citytome" label="#citytome" />
+      <node id="#feedly" label="#feedly" />
+      <node id="#SheWon" label="#SheWon" />
+      <node id="#YesWePlayYourRequests" label="#YesWePlayYourRequests" />
+      <node id="#check" label="#check" />
+      <node id="#love4livewire" label="#love4livewire" />
+      <node id="#aids" label="#aids" />
+      <node id="#MusicVideo" label="#MusicVideo" />
+      <node id="#480Minutes" label="#480Minutes" />
+      <node id="#brooklyn" label="#brooklyn" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#bootleggers" label="#bootleggers" />
+      <node id="#verbalturdbombs" label="#verbalturdbombs" />
+      <node id="#CMJ2015" label="#CMJ2015" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#ChelseaNights" label="#ChelseaNights" />
+      <node id="#PoPTV" label="#PoPTV" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#WhiteNationalist" label="#WhiteNationalist" />
+      <node id="#photography" label="#photography" />
+      <node id="#alisonrose" label="#alisonrose" />
+      <node id="#YTAA" label="#YTAA" />
+      <node id="#NoBillNoBreak" label="#NoBillNoBreak" />
+      <node id="#harrynilsson" label="#harrynilsson" />
+      <node id="#musician" label="#musician" />
+      <node id="#SarahKSilverman" label="#SarahKSilverman" />
+      <node id="#MindGlitter" label="#MindGlitter" />
+      <node id="#indiecomics" label="#indiecomics" />
+      <node id="#gunculture" label="#gunculture" />
+      <node id="#youwaittoolong" label="#youwaittoolong" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#wisdom" weight="11345" />
+      <edge id="1" source="#truth" target="#life" weight="9076" />
+      <edge id="2" source="#truth" target="#music" weight="4538" />
+      <edge id="3" source="#posters" target="#mailorder" weight="2269" />
+      <edge id="4" source="#posters" target="#sharpie" weight="2269" />
+      <edge id="5" source="#posters" target="#nonbelievers" weight="2269" />
+      <edge id="6" source="#posters" target="#trudybenson" weight="2269" />
+      <edge id="7" source="#nelsonville" target="#hifivicky" weight="2269" />
+      <edge id="8" source="#kaiju" target="#kentucky" weight="2269" />
+      <edge id="9" source="#kaiju" target="#Louisville" weight="2269" />
+      <edge id="10" source="#kaiju" target="#ontheroad" weight="2269" />
+      <edge id="11" source="#kaiju" target="#musicwithfriends" weight="2269" />
+      <edge id="12" source="#kaiju" target="#livebymusic" weight="2269" />
+      <edge id="13" source="#kaiju" target="#touring" weight="2269" />
+      <edge id="14" source="#indierock" target="#singersongwriter" weight="2269" />
+      <edge id="15" source="#indierock" target="#listenworthy" weight="2269" />
+      <edge id="16" source="#ClevelandPolice" target="#really" weight="2269" />
+      <edge id="17" source="#bbc6music" target="#6music" weight="2269" />
+      <edge id="18" source="#bbc6music" target="#nowplaying" weight="2269" />
+      <edge id="19" source="#yourenotbetterthanmerichkid" target="#nowlistening" weight="2269" />
+      <edge id="20" source="#IAAA" target="#IAmAsianAmerican" weight="2269" />
+      <edge id="21" source="#IAAA" target="#nyc" weight="2269" />
+      <edge id="22" source="#IAAA" target="#Vote" weight="2269" />
+      <edge id="23" source="#IAAA" target="#diversity" weight="2269" />
+      <edge id="24" source="#IAAA" target="#lic" weight="2269" />
+      <edge id="25" source="#IAAA" target="#racial" weight="2269" />
+      <edge id="26" source="#IAAA" target="#justice" weight="2269" />
+      <edge id="27" source="#rock" target="#music" weight="2269" />
+      <edge id="28" source="#rock" target="#indiemusic" weight="2269" />
+      <edge id="29" source="#rock" target="#DiscosQueRecomiendo" weight="2269" />
+      <edge id="30" source="#rock" target="#punk" weight="2269" />
+      <edge id="31" source="#rock" target="#pop" weight="2269" />
+      <edge id="32" source="#rock" target="#powerpop" weight="4538" />
+      <edge id="33" source="#rock" target="#LoFi" weight="2269" />
+      <edge id="34" source="#yuzeboys" target="#wvwhite" weight="2269" />
+      <edge id="35" source="#foodlust" target="#neat" weight="2269" />
+      <edge id="36" source="#McIntoshMusic" target="#INXS" weight="2269" />
+      <edge id="37" source="#McIntoshMusic" target="#ComingUp" weight="2269" />
+      <edge id="38" source="#McIntoshMusic" target="#BeastieBoys" weight="2269" />
+      <edge id="39" source="#McIntoshMusic" target="#JanisJoplin" weight="2269" />
+      <edge id="40" source="#McIntoshMusic" target="#MoodyBlues" weight="2269" />
+      <edge id="41" source="#bestkeptsecret" target="#newzealand" weight="2269" />
+      <edge id="42" source="#bestkeptsecret" target="#nowplaying" weight="2269" />
+      <edge id="43" source="#reissue" target="#TheShaggs" weight="2269" />
+      <edge id="44" source="#illustration" target="#anywayrecords" weight="4538" />
+      <edge id="45" source="#clueless" target="#povertyawareness" weight="2269" />
+      <edge id="46" source="#Phantom" target="#tbt" weight="2269" />
+      <edge id="47" source="#album" target="#cd" weight="2269" />
+      <edge id="48" source="#album" target="#vinyl" weight="2269" />
+      <edge id="49" source="#SCOTUS" target="#racism" weight="2269" />
+      <edge id="50" source="#crapsongsthencrapsongsnow" target="#whocares" weight="2269" />
+      <edge id="51" source="#AnywayRecords" target="#MyAnimal" weight="4538" />
+      <edge id="52" source="#AnywayRecords" target="#photography" weight="2269" />
+      <edge id="53" source="#AnywayRecords" target="#MUENMagazine" weight="2269" />
+      <edge id="54" source="#AnywayRecords" target="#music" weight="2269" />
+      <edge id="55" source="#AnywayRecords" target="#Manhattan" weight="2269" />
+      <edge id="56" source="#AnywayRecords" target="#musician" weight="2269" />
+      <edge id="57" source="#AnywayRecords" target="#portrait" weight="2269" />
+      <edge id="58" source="#AnywayRecords" target="#TwoAndTwo" weight="2269" />
+      <edge id="59" source="#AnywayRecords" target="#SoundCloud" weight="2269" />
+      <edge id="60" source="#AnywayRecords" target="#MaryLynn" weight="4538" />
+      <edge id="61" source="#AnywayRecords" target="#nyc" weight="2269" />
+      <edge id="62" source="#AnywayRecords" target="#MusicNews" weight="4538" />
+      <edge id="63" source="#AnywayRecords" target="#September23rd" weight="2269" />
+      <edge id="64" source="#AnywayRecords" target="#MusicVideo" weight="2269" />
+      <edge id="65" source="#WPRBXmas" target="#DrivingHomeForChristmas" weight="2269" />
+      <edge id="66" source="#WPRBXmas" target="#alltimefavoritexmas" weight="2269" />
+      <edge id="67" source="#WPRBXmas" target="#loooove" weight="2269" />
+      <edge id="68" source="#WPRBXmas" target="#joy" weight="2269" />
+      <edge id="69" source="#WPRBXmas" target="#xmasisruined" weight="2269" />
+      <edge id="70" source="#WPRBXmas" target="#longerharder" weight="2269" />
+      <edge id="71" source="#WPRBXmas" target="#SarahKSilverman" weight="2269" />
+      <edge id="72" source="#WPRBXmas" target="#karlhendricks" weight="2269" />
+      <edge id="73" source="#WPRBXmas" target="#DavidBowie" weight="2269" />
+      <edge id="74" source="#WPRBXmas" target="#merrymerry" weight="2269" />
+      <edge id="75" source="#BeastieBoys" target="#INXS" weight="2269" />
+      <edge id="76" source="#BeastieBoys" target="#MoodyBlues" weight="2269" />
+      <edge id="77" source="#BeastieBoys" target="#ComingUp" weight="2269" />
+      <edge id="78" source="#BeastieBoys" target="#JanisJoplin" weight="2269" />
+      <edge id="79" source="#CLE" target="#ALLin216" weight="2269" />
+      <edge id="80" source="#CLE" target="#Cavs" weight="2269" />
+      <edge id="81" source="#INTERVIEW" target="#psych" weight="2269" />
+      <edge id="82" source="#dickheAd" target="#Jindal" weight="2269" />
+      <edge id="83" source="#columbusmusicscene" target="#anywayrecords" weight="2269" />
+      <edge id="84" source="#columbusmusicscene" target="#ifeelbadyoumissedthisshow" weight="2269" />
+      <edge id="85" source="#musicwithfriends" target="#kentucky" weight="2269" />
+      <edge id="86" source="#musicwithfriends" target="#Louisville" weight="2269" />
+      <edge id="87" source="#musicwithfriends" target="#ontheroad" weight="2269" />
+      <edge id="88" source="#musicwithfriends" target="#livebymusic" weight="2269" />
+      <edge id="89" source="#musicwithfriends" target="#touring" weight="2269" />
+      <edge id="90" source="#indiemusic" target="#pop" weight="2269" />
+      <edge id="91" source="#indiemusic" target="#DiscosQueRecomiendo" weight="2269" />
+      <edge id="92" source="#indiemusic" target="#powerpop" weight="2269" />
+      <edge id="93" source="#indiemusic" target="#LoFi" weight="2269" />
+      <edge id="94" source="#diditellyou" target="#alltimefavorite" weight="2269" />
+      <edge id="95" source="#diditellyou" target="#nowplaying" weight="2269" />
+      <edge id="96" source="#AxlRose" target="#ACDC" weight="2269" />
+      <edge id="97" source="#AxlRose" target="#GunsNRoses" weight="2269" />
+      <edge id="98" source="#mailorder" target="#nonbelievers" weight="2269" />
+      <edge id="99" source="#mailorder" target="#trudybenson" weight="2269" />
+      <edge id="100" source="#mailorder" target="#sharpie" weight="2269" />
+      <edge id="101" source="#theneeds" target="#Rock" weight="2269" />
+      <edge id="102" source="#newmusic" target="#connections" weight="2269" />
+      <edge id="103" source="#bigshot" target="#entrepreneur" weight="2269" />
+      <edge id="104" source="#mountaingoats" target="#blacksabbath" weight="2269" />
+      <edge id="105" source="#mountaingoats" target="#thanksjohn4makingalilgirlhappy" weight="2269" />
+      <edge id="106" source="#mountaingoats" target="#bestnewmusic" weight="2269" />
+      <edge id="107" source="#notinorder" target="#music" weight="2269" />
+      <edge id="108" source="#lotsalines" target="#circles" weight="2269" />
+      <edge id="109" source="#lotsalines" target="#linedrawings" weight="2269" />
+      <edge id="110" source="#lotsalines" target="#drawinglines" weight="2269" />
+      <edge id="111" source="#lotsalines" target="#lines" weight="2269" />
+      <edge id="112" source="#stopthenra" target="#everytowngunsaftey" weight="2269" />
+      <edge id="113" source="#CrewSC" target="#hottake" weight="2269" />
+      <edge id="114" source="#CrewSC" target="#TORvCLB" weight="2269" />
+      <edge id="115" source="#CrewSC" target="#obvious" weight="2269" />
+      <edge id="116" source="#parkslope" target="#brooklyn" weight="2269" />
+      <edge id="117" source="#vinyl" target="#cd" weight="2269" />
+      <edge id="118" source="#vinyl" target="#harrynilsson" weight="2269" />
+      <edge id="119" source="#vinyl" target="#art" weight="2269" />
+      <edge id="120" source="#vinyl" target="#NZcountryblues" weight="2269" />
+      <edge id="121" source="#vinyl" target="#newzealand" weight="2269" />
+      <edge id="122" source="#vinyl" target="#twogreattastes" weight="2269" />
+      <edge id="123" source="#vinyl" target="#indeed" weight="2269" />
+      <edge id="124" source="#vinyl" target="#randynewman" weight="2269" />
+      <edge id="125" source="#vinyl" target="#nowplaying" weight="4538" />
+      <edge id="126" source="#TwoAndTwo" target="#MyAnimal" weight="2269" />
+      <edge id="127" source="#TwoAndTwo" target="#MaryLynn" weight="2269" />
+      <edge id="128" source="#TwoAndTwo" target="#MusicNews" weight="2269" />
+      <edge id="129" source="#TwoAndTwo" target="#September23rd" weight="2269" />
+      <edge id="130" source="#TwoAndTwo" target="#MusicVideo" weight="2269" />
+      <edge id="131" source="#craftbeer" target="#georgia" weight="2269" />
+      <edge id="132" source="#craftbeer" target="#cle" weight="2269" />
+      <edge id="133" source="#craftbeer" target="#cleveland" weight="2269" />
+      <edge id="134" source="#craftbeer" target="#CobraVerde" weight="2269" />
+      <edge id="135" source="#USA" target="#newrelease" weight="2269" />
+      <edge id="136" source="#USA" target="#garage" weight="4538" />
+      <edge id="137" source="#techhouse" target="#deephouse" weight="2269" />
+      <edge id="138" source="#techhouse" target="#housemusic" weight="2269" />
+      <edge id="139" source="#Cincinnati" target="#Dayton" weight="2269" />
+      <edge id="140" source="#Cincinnati" target="#YTAA" weight="2269" />
+      <edge id="141" source="#Cincinnati" target="#WUDR" weight="2269" />
+      <edge id="142" source="#ComingUp" target="#INXS" weight="2269" />
+      <edge id="143" source="#ComingUp" target="#MoodyBlues" weight="2269" />
+      <edge id="144" source="#ComingUp" target="#JanisJoplin" weight="2269" />
+      <edge id="145" source="#BBC6Music" target="#Firstplay" weight="2269" />
+      <edge id="146" source="#MusicNews" target="#MyAnimal" weight="4538" />
+      <edge id="147" source="#MusicNews" target="#MUENMagazine" weight="2269" />
+      <edge id="148" source="#MusicNews" target="#SoundCloud" weight="2269" />
+      <edge id="149" source="#MusicNews" target="#MaryLynn" weight="4538" />
+      <edge id="150" source="#MusicNews" target="#September23rd" weight="2269" />
+      <edge id="151" source="#MusicNews" target="#MusicVideo" weight="2269" />
+      <edge id="152" source="#youwereonmymind" target="#canadianfolk" weight="2269" />
+      <edge id="153" source="#youwereonmymind" target="#nowplaying" weight="2269" />
+      <edge id="154" source="#youwereonmymind" target="#mono" weight="2269" />
+      <edge id="155" source="#atleastatlast" target="#orangevinyl" weight="2269" />
+      <edge id="156" source="#atleastatlast" target="#nowplaying" weight="2269" />
+      <edge id="157" source="#atleastatlast" target="#satniterecs" weight="2269" />
+      <edge id="158" source="#DrivingHomeForChristmas" target="#karlhendricks" weight="2269" />
+      <edge id="159" source="#overthenfl" target="#loser" weight="2269" />
+      <edge id="160" source="#gooddeadguys" target="#yes" weight="2269" />
+      <edge id="161" source="#gooddeadguys" target="#jfotoman" weight="2269" />
+      <edge id="162" source="#peaceonearth" target="#prayer" weight="2269" />
+      <edge id="163" source="#peaceonearth" target="#Christmas" weight="2269" />
+      <edge id="164" source="#billyirelandcartoonlibraryandmuseum" target="#jeffsmithbone" weight="2269" />
+      <edge id="165" source="#powerpop" target="#music" weight="2269" />
+      <edge id="166" source="#powerpop" target="#DiscosQueRecomiendo" weight="2269" />
+      <edge id="167" source="#powerpop" target="#punk" weight="2269" />
+      <edge id="168" source="#powerpop" target="#pop" weight="2269" />
+      <edge id="169" source="#powerpop" target="#LoFi" weight="2269" />
+      <edge id="170" source="#columbus" target="#NYCdebut" weight="2269" />
+      <edge id="171" source="#columbus" target="#cleveland" weight="2269" />
+      <edge id="172" source="#columbus" target="#Connections" weight="2269" />
+      <edge id="173" source="#columbus" target="#anywayrecords" weight="2269" />
+      <edge id="174" source="#columbus" target="#cakeshopnyc" weight="2269" />
+      <edge id="175" source="#columbus" target="#ohio" weight="4538" />
+      <edge id="176" source="#dontyouknow" target="#LFW" weight="2269" />
+      <edge id="177" source="#dontyouknow" target="#mikerep" weight="2269" />
+      <edge id="178" source="#mendable" target="#nowplaying" weight="2269" />
+      <edge id="179" source="#terryAllenmusic" target="#annhamiltonstudio" weight="2269" />
+      <edge id="180" source="#terryAllenmusic" target="#mykidiscute" weight="2269" />
+      <edge id="181" source="#achschoen" target="#np" weight="2269" />
+      <edge id="182" source="#localradio" target="#Chicago" weight="2269" />
+      <edge id="183" source="#localradio" target="#localmusic" weight="2269" />
+      <edge id="184" source="#localradio" target="#wishicouldbethere" weight="2269" />
+      <edge id="185" source="#getoffmylawn" target="#love4livewire" weight="2269" />
+      <edge id="186" source="#getoffmylawn" target="#kidsthesedays" weight="2269" />
+      <edge id="187" source="#LFW" target="#mikerep" weight="2269" />
+      <edge id="188" source="#ramones" target="#jimshepard" weight="2269" />
+      <edge id="189" source="#followupquestion" target="#derp" weight="2269" />
+      <edge id="190" source="#consume" target="#enjoybeer" weight="2269" />
+      <edge id="191" source="#consume" target="#TheyLive" weight="2269" />
+      <edge id="192" source="#consume" target="#SummerSaints" weight="2269" />
+      <edge id="193" source="#consume" target="#leaveyourhouse" weight="2269" />
+      <edge id="194" source="#consume" target="#GeneralMotors" weight="2269" />
+      <edge id="195" source="#ohio" target="#NYCdebut" weight="2269" />
+      <edge id="196" source="#ohio" target="#cleveland" weight="2269" />
+      <edge id="197" source="#ohio" target="#Connections" weight="2269" />
+      <edge id="198" source="#ohio" target="#anywayrecords" weight="2269" />
+      <edge id="199" source="#ohio" target="#cakeshopnyc" weight="2269" />
+      <edge id="200" source="#bully" target="#dishitoutbutcantit" weight="2269" />
+      <edge id="201" source="#Bluebirdbar" target="#StLenox" weight="2269" />
+      <edge id="202" source="#September23rd" target="#MyAnimal" weight="2269" />
+      <edge id="203" source="#September23rd" target="#MaryLynn" weight="2269" />
+      <edge id="204" source="#September23rd" target="#MusicVideo" weight="2269" />
+      <edge id="205" source="#reagan" target="#aids" weight="2269" />
+      <edge id="206" source="#Manhattan" target="#photography" weight="2269" />
+      <edge id="207" source="#Manhattan" target="#nyc" weight="2269" />
+      <edge id="208" source="#Manhattan" target="#music" weight="2269" />
+      <edge id="209" source="#Manhattan" target="#musician" weight="2269" />
+      <edge id="210" source="#Manhattan" target="#portrait" weight="2269" />
+      <edge id="211" source="#Cavs" target="#ALLin216" weight="2269" />
+      <edge id="212" source="#turnmybackonmybrothers" target="#michiganeducation4u" weight="2269" />
+      <edge id="213" source="#RIP" target="#JackDavis" weight="2269" />
+      <edge id="214" source="#kidsthesedays" target="#love4livewire" weight="2269" />
+      <edge id="215" source="#CobraVerde" target="#georgia" weight="2269" />
+      <edge id="216" source="#CobraVerde" target="#cle" weight="2269" />
+      <edge id="217" source="#CobraVerde" target="#cleveland" weight="2269" />
+      <edge id="218" source="#merrymerry" target="#joy" weight="2269" />
+      <edge id="219" source="#harrassment" target="#sexism" weight="2269" />
+      <edge id="220" source="#SongOfTheDay" target="#Ohio" weight="2269" />
+      <edge id="221" source="#blacklivesmatter" target="#wallstreetlies" weight="2269" />
+      <edge id="222" source="#blacklivesmatter" target="#myaapivote" weight="2269" />
+      <edge id="223" source="#musicvideo" target="#nowplaying" weight="2269" />
+      <edge id="224" source="#singersongwriter" target="#listenworthy" weight="2269" />
+      <edge id="225" source="#GeneralMotors" target="#enjoybeer" weight="2269" />
+      <edge id="226" source="#GeneralMotors" target="#TheyLive" weight="2269" />
+      <edge id="227" source="#GeneralMotors" target="#leaveyourhouse" weight="2269" />
+      <edge id="228" source="#GeneralMotors" target="#SummerSaints" weight="2269" />
+      <edge id="229" source="#fireLewandowski" target="#notajournalist" weight="2269" />
+      <edge id="230" source="#localmusic" target="#Chicago" weight="2269" />
+      <edge id="231" source="#localmusic" target="#wishicouldbethere" weight="2269" />
+      <edge id="232" source="#NowPlaying" target="#TheFlatFive" weight="2269" />
+      <edge id="233" source="#NowPlaying" target="#A9" weight="2269" />
+      <edge id="234" source="#NowPlaying" target="#6music" weight="2269" />
+      <edge id="235" source="#NowPlaying" target="#insidesleeve" weight="2269" />
+      <edge id="236" source="#NowPlaying" target="#WZBT" weight="6807" />
+      <edge id="237" source="#TamirRice" target="#OregonUnderAttack" weight="2269" />
+      <edge id="238" source="#fuckreagan" target="#changesentencinglaws" weight="2269" />
+      <edge id="239" source="#artwork" target="#friday" weight="2269" />
+      <edge id="240" source="#bestbandnow" target="#sofuckinggood" weight="2269" />
+      <edge id="241" source="#CocaineTrump" target="#Sniffles" weight="2269" />
+      <edge id="242" source="#Comics" target="#Comicmarket" weight="2269" />
+      <edge id="243" source="#IAmAsianAmerican" target="#nyc" weight="2269" />
+      <edge id="244" source="#IAmAsianAmerican" target="#diversity" weight="2269" />
+      <edge id="245" source="#IAmAsianAmerican" target="#lic" weight="2269" />
+      <edge id="246" source="#IAmAsianAmerican" target="#racial" weight="2269" />
+      <edge id="247" source="#IAmAsianAmerican" target="#justice" weight="2269" />
+      <edge id="248" source="#getmedicaid" target="#cleanneedles" weight="2269" />
+      <edge id="249" source="#women" target="#Pittsburgh" weight="2269" />
+      <edge id="250" source="#women" target="#12xu" weight="2269" />
+      <edge id="251" source="#Ramones" target="#ComicCon" weight="2269" />
+      <edge id="252" source="#InThe90sWeAsked" target="#crystalpepsi" weight="2269" />
+      <edge id="253" source="#newzealand" target="#NZcountryblues" weight="2269" />
+      <edge id="254" source="#newzealand" target="#nowplaying" weight="4538" />
+      <edge id="255" source="#Dallas" target="#markhughes" weight="2269" />
+      <edge id="256" source="#cleveland" target="#georgia" weight="2269" />
+      <edge id="257" source="#cleveland" target="#cle" weight="2269" />
+      <edge id="258" source="#culturegun" target="#gunculture" weight="2269" />
+      <edge id="259" source="#culturegun" target="#thefugs" weight="2269" />
+      <edge id="260" source="#culturegun" target="#uncommonsense" weight="2269" />
+      <edge id="261" source="#TORvCLB" target="#hottake" weight="2269" />
+      <edge id="262" source="#TORvCLB" target="#obvious" weight="2269" />
+      <edge id="263" source="#Traktivist" target="#21stcenturypostliberalblues" weight="2269" />
+      <edge id="264" source="#Traktivist" target="#StLenox" weight="2269" />
+      <edge id="265" source="#Traktivist" target="#music" weight="2269" />
+      <edge id="266" source="#passthebowl" target="#skunktrump" weight="2269" />
+      <edge id="267" source="#jfotoman" target="#yes" weight="2269" />
+      <edge id="268" source="#jfotoman" target="#bootleggers" weight="2269" />
+      <edge id="269" source="#Cleveland" target="#ThisisCLE" weight="2269" />
+      <edge id="270" source="#Music" target="#Dayton" weight="2269" />
+      <edge id="271" source="#Music" target="#Rocktober" weight="2269" />
+      <edge id="272" source="#Music" target="#Ohio" weight="2269" />
+      <edge id="273" source="#JanisJoplin" target="#INXS" weight="2269" />
+      <edge id="274" source="#JanisJoplin" target="#MoodyBlues" weight="2269" />
+      <edge id="275" source="#jeffbuckley" target="#NPR" weight="2269" />
+      <edge id="276" source="#gotobeds" target="#punk" weight="2269" />
+      <edge id="277" source="#gotobeds" target="#natepowell" weight="2269" />
+      <edge id="278" source="#cbus" target="#comics" weight="2269" />
+      <edge id="279" source="#daytonrockandrollhalloffame" target="#ohiomusic" weight="2269" />
+      <edge id="280" source="#Republicans" target="#WhiteNationalist" weight="2269" />
+      <edge id="281" source="#Republicans" target="#ProtoFascist" weight="2269" />
+      <edge id="282" source="#midnightrun" target="#lofi" weight="2269" />
+      <edge id="283" source="#indeed" target="#art" weight="2269" />
+      <edge id="284" source="#Pittsburgh" target="#12xu" weight="2269" />
+      <edge id="285" source="#deephouse" target="#housemusic" weight="2269" />
+      <edge id="286" source="#out" target="#this" weight="2269" />
+      <edge id="287" source="#out" target="#check" weight="2269" />
+      <edge id="288" source="#columbusohio" target="#jimshepard" weight="2269" />
+      <edge id="289" source="#HungerActionMonth" target="#30Waysin30Days" weight="2269" />
+      <edge id="290" source="#HungerActionMonth" target="#GoOrange" weight="2269" />
+      <edge id="291" source="#HungerActionMonth" target="#HAM" weight="2269" />
+      <edge id="292" source="#this" target="#check" weight="2269" />
+      <edge id="293" source="#Louisville" target="#kentucky" weight="2269" />
+      <edge id="294" source="#Louisville" target="#ontheroad" weight="2269" />
+      <edge id="295" source="#Louisville" target="#livebymusic" weight="2269" />
+      <edge id="296" source="#Louisville" target="#touring" weight="2269" />
+      <edge id="297" source="#messofme" target="#TGtravel" weight="2269" />
+      <edge id="298" source="#anywayrecords" target="#NYCdebut" weight="2269" />
+      <edge id="299" source="#anywayrecords" target="#connections" weight="2269" />
+      <edge id="300" source="#anywayrecords" target="#cakeshopnyc" weight="2269" />
+      <edge id="301" source="#anywayrecords" target="#ifeelbadyoumissedthisshow" weight="2269" />
+      <edge id="302" source="#anywayrecords" target="#Connections" weight="2269" />
+      <edge id="303" source="#wishicouldbethere" target="#Chicago" weight="2269" />
+      <edge id="304" source="#NYCdebut" target="#Connections" weight="2269" />
+      <edge id="305" source="#NYCdebut" target="#cakeshopnyc" weight="2269" />
+      <edge id="306" source="#lines" target="#linedrawings" weight="2269" />
+      <edge id="307" source="#lines" target="#drawinglines" weight="2269" />
+      <edge id="308" source="#lines" target="#circles" weight="2269" />
+      <edge id="309" source="#15degreesout" target="#noshame" weight="2269" />
+      <edge id="310" source="#13years" target="#usedkids" weight="2269" />
+      <edge id="311" source="#nevergettohavefun" target="#NationalChampionship" weight="2269" />
+      <edge id="312" source="#SummerSaints" target="#TheyLive" weight="2269" />
+      <edge id="313" source="#SummerSaints" target="#leaveyourhouse" weight="2269" />
+      <edge id="314" source="#SummerSaints" target="#enjoybeer" weight="2269" />
+      <edge id="315" source="#SoundCloud" target="#MyAnimal" weight="2269" />
+      <edge id="316" source="#SoundCloud" target="#MUENMagazine" weight="2269" />
+      <edge id="317" source="#SoundCloud" target="#np" weight="6807" />
+      <edge id="318" source="#SoundCloud" target="#MaryLynn" weight="2269" />
+      <edge id="319" source="#mentalhealth" target="#motivation" weight="2269" />
+      <edge id="320" source="#mentalhealth" target="#hope" weight="2269" />
+      <edge id="321" source="#mentalhealth" target="#depression" weight="4538" />
+      <edge id="322" source="#mentalhealth" target="#WorldMentalHealthDay" weight="2269" />
+      <edge id="323" source="#DavidBowie" target="#longerharder" weight="2269" />
+      <edge id="324" source="#DavidBowie" target="#SarahKSilverman" weight="2269" />
+      <edge id="325" source="#Spritzer" target="#ChelseaNights" weight="2269" />
+      <edge id="326" source="#newrelease" target="#garage" weight="2269" />
+      <edge id="327" source="#NewMusicComing" target="#Dayton" weight="2269" />
+      <edge id="328" source="#NewMusicComing" target="#Indie" weight="2269" />
+      <edge id="329" source="#NewMusicComing" target="#YTAA" weight="2269" />
+      <edge id="330" source="#NewMusicComing" target="#WUDR" weight="2269" />
+      <edge id="331" source="#NewMusicComing" target="#MindGlitter" weight="2269" />
+      <edge id="332" source="#THENEWROCKNROLL" target="#PoPTV" weight="2269" />
+      <edge id="333" source="#BestOf2014" target="#connections614" weight="2269" />
+      <edge id="334" source="#busted" target="#letmeknow" weight="2269" />
+      <edge id="335" source="#busted" target="#ghostshirt" weight="2269" />
+      <edge id="336" source="#busted" target="#citytome" weight="2269" />
+      <edge id="337" source="#busted" target="#ohhh" weight="2269" />
+      <edge id="338" source="#MyAAPIVote" target="#VoicesofOurVote" weight="2269" />
+      <edge id="339" source="#liveradio" target="#480Minutes" weight="2269" />
+      <edge id="340" source="#hateearbuds" target="#newcoke" weight="2269" />
+      <edge id="341" source="#blisterinthesun" target="#violentfemmes" weight="2269" />
+      <edge id="342" source="#lic" target="#nyc" weight="2269" />
+      <edge id="343" source="#lic" target="#diversity" weight="2269" />
+      <edge id="344" source="#lic" target="#racial" weight="2269" />
+      <edge id="345" source="#lic" target="#justice" weight="2269" />
+      <edge id="346" source="#CMJ" target="#CMJ2015" weight="2269" />
+      <edge id="347" source="#ColumbusOhio" target="#didIdrinkthatmuch" weight="2269" />
+      <edge id="348" source="#ColumbusOhio" target="#mudhoney" weight="2269" />
+      <edge id="349" source="#inter_onair" target="#nowplaying" weight="2269" />
+      <edge id="350" source="#myaapivote" target="#wallstreetlies" weight="2269" />
+      <edge id="351" source="#IndiePop" target="#ArtPop" weight="2269" />
+      <edge id="352" source="#wetkid" target="#birthdayboy" weight="2269" />
+      <edge id="353" source="#tickets" target="#communityscene" weight="2269" />
+      <edge id="354" source="#twogreattastes" target="#harrynilsson" weight="2269" />
+      <edge id="355" source="#twogreattastes" target="#randynewman" weight="2269" />
+      <edge id="356" source="#twogreattastes" target="#nowplaying" weight="2269" />
+      <edge id="357" source="#leaveyourhouse" target="#TheyLive" weight="2269" />
+      <edge id="358" source="#leaveyourhouse" target="#enjoybeer" weight="2269" />
+      <edge id="359" source="#TheMotelBeds" target="#Dayton" weight="2269" />
+      <edge id="360" source="#TheMotelBeds" target="#YTAA" weight="2269" />
+      <edge id="361" source="#TheMotelBeds" target="#WUDR" weight="2269" />
+      <edge id="362" source="#natepowell" target="#punk" weight="2269" />
+      <edge id="363" source="#Confused" target="#Sniffles" weight="2269" />
+      <edge id="364" source="#LoFi" target="#DiscosQueRecomiendo" weight="2269" />
+      <edge id="365" source="#LoFi" target="#pop" weight="2269" />
+      <edge id="366" source="#midnight" target="#connections" weight="2269" />
+      <edge id="367" source="#loooove" target="#alltimefavoritexmas" weight="2269" />
+      <edge id="368" source="#bestgiftever" target="#whocareswe" weight="2269" />
+      <edge id="369" source="#bestgiftever" target="#noshame" weight="2269" />
+      <edge id="370" source="#UNITE" target="#Geeks" weight="2269" />
+      <edge id="371" source="#livinginfear" target="#bigot" weight="2269" />
+      <edge id="372" source="#GunsNRoses" target="#ACDC" weight="2269" />
+      <edge id="373" source="#alltimefavorite" target="#nowplaying" weight="2269" />
+      <edge id="374" source="#Rocktober" target="#Dayton" weight="2269" />
+      <edge id="375" source="#Rocktober" target="#Ohio" weight="2269" />
+      <edge id="376" source="#Christmas" target="#prayer" weight="2269" />
+      <edge id="377" source="#Alternative" target="#Connections" weight="2269" />
+      <edge id="378" source="#Alternative" target="#Indie" weight="2269" />
+      <edge id="379" source="#Alternative" target="#NewAlbum" weight="2269" />
+      <edge id="380" source="#Alternative" target="#NewMusic" weight="2269" />
+      <edge id="381" source="#Alternative" target="#Rock" weight="2269" />
+      <edge id="382" source="#WUDR" target="#mrsDrJ" weight="2269" />
+      <edge id="383" source="#WUDR" target="#YTAA" weight="27228" />
+      <edge id="384" source="#WUDR" target="#IndieGoodness" weight="2269" />
+      <edge id="385" source="#WUDR" target="#NewMusic" weight="4538" />
+      <edge id="386" source="#WUDR" target="#Indie" weight="2269" />
+      <edge id="387" source="#WUDR" target="#YesWePlayYourRequests" weight="2269" />
+      <edge id="388" source="#WUDR" target="#AmazingSong" weight="2269" />
+      <edge id="389" source="#WUDR" target="#Dayton" weight="11345" />
+      <edge id="390" source="#WUDR" target="#MindGlitter" weight="2269" />
+      <edge id="391" source="#punk" target="#music" weight="2269" />
+      <edge id="392" source="#katyotto" target="#davidzirin" weight="2269" />
+      <edge id="393" source="#followth3music" target="#StLenox" weight="2269" />
+      <edge id="394" source="#insidetrack" target="#kellsbells" weight="2269" />
+      <edge id="395" source="#1YF" target="#ourchildren" weight="2269" />
+      <edge id="396" source="#1YF" target="#life" weight="2269" />
+      <edge id="397" source="#GuidedByVoices" target="#jimshepard" weight="2269" />
+      <edge id="398" source="#GuidedByVoices" target="#comics" weight="2269" />
+      <edge id="399" source="#GuidedByVoices" target="#Columbus" weight="2269" />
+      <edge id="400" source="#47Traitors" target="#GOPWantsWar" weight="2269" />
+      <edge id="401" source="#holdthefloor" target="#goodtrouble" weight="2269" />
+      <edge id="402" source="#holdthefloor" target="#NoBillNoBreak" weight="2269" />
+      <edge id="403" source="#touring" target="#kentucky" weight="2269" />
+      <edge id="404" source="#touring" target="#ontheroad" weight="2269" />
+      <edge id="405" source="#touring" target="#livebymusic" weight="2269" />
+      <edge id="406" source="#mudhoney" target="#didIdrinkthatmuch" weight="2269" />
+      <edge id="407" source="#StLenox" target="#21stcenturypostliberalblues" weight="2269" />
+      <edge id="408" source="#StLenox" target="#music" weight="2269" />
+      <edge id="409" source="#letmeknow" target="#ghostshirt" weight="2269" />
+      <edge id="410" source="#letmeknow" target="#citytome" weight="2269" />
+      <edge id="411" source="#letmeknow" target="#ohhh" weight="2269" />
+      <edge id="412" source="#columbusoh" target="#THISisaBLASTyouguys" weight="2269" />
+      <edge id="413" source="#columbusoh" target="#nowplaying" weight="2269" />
+      <edge id="414" source="#columbusoh" target="#youwaittoolong" weight="2269" />
+      <edge id="415" source="#pop" target="#DiscosQueRecomiendo" weight="2269" />
+      <edge id="416" source="#LightInYourWindow" target="#nowplaying" weight="2269" />
+      <edge id="417" source="#kentucky" target="#ontheroad" weight="2269" />
+      <edge id="418" source="#kentucky" target="#livebymusic" weight="2269" />
+      <edge id="419" source="#jimshepard" target="#comics" weight="2269" />
+      <edge id="420" source="#jimshepard" target="#Columbus" weight="2269" />
+      <edge id="421" source="#NewAlbum" target="#Connections" weight="2269" />
+      <edge id="422" source="#NewAlbum" target="#Indie" weight="2269" />
+      <edge id="423" source="#NewAlbum" target="#NewMusic" weight="2269" />
+      <edge id="424" source="#NewAlbum" target="#Rock" weight="2269" />
+      <edge id="425" source="#i" target="#verbalturdbombs" weight="2269" />
+      <edge id="426" source="#circles" target="#linedrawings" weight="2269" />
+      <edge id="427" source="#circles" target="#drawinglines" weight="2269" />
+      <edge id="428" source="#6music" target="#nowplaying" weight="4538" />
+      <edge id="429" source="#enjoybeer" target="#TheyLive" weight="2269" />
+      <edge id="430" source="#INXS" target="#MoodyBlues" weight="2269" />
+      <edge id="431" source="#MaryLynn" target="#MyAnimal" weight="4538" />
+      <edge id="432" source="#MaryLynn" target="#MUENMagazine" weight="2269" />
+      <edge id="433" source="#MaryLynn" target="#MusicVideo" weight="2269" />
+      <edge id="434" source="#ghostshirt" target="#ohhh" weight="2269" />
+      <edge id="435" source="#ghostshirt" target="#citytome" weight="2269" />
+      <edge id="436" source="#Kasich" target="#GOP" weight="2269" />
+      <edge id="437" source="#mentahealth" target="#inspiration" weight="2269" />
+      <edge id="438" source="#mentahealth" target="#depression" weight="2269" />
+      <edge id="439" source="#mono" target="#canadianfolk" weight="2269" />
+      <edge id="440" source="#mono" target="#nowplaying" weight="2269" />
+      <edge id="441" source="#uncommonsense" target="#gunculture" weight="2269" />
+      <edge id="442" source="#uncommonsense" target="#thefugs" weight="2269" />
+      <edge id="443" source="#ontheroad" target="#livebymusic" weight="2269" />
+      <edge id="444" source="#quote" target="#wisdom" weight="2269" />
+      <edge id="445" source="#quote" target="#happiness" weight="4538" />
+      <edge id="446" source="#randynewman" target="#harrynilsson" weight="2269" />
+      <edge id="447" source="#randynewman" target="#nowplaying" weight="2269" />
+      <edge id="448" source="#debate" target="#imwiththatnastywoman" weight="2269" />
+      <edge id="449" source="#holidayshopping" target="#BUYITNOW" weight="2269" />
+      <edge id="450" source="#suckitNRA" target="#stupidredneck" weight="2269" />
+      <edge id="451" source="#suckitNRA" target="#gunnutz" weight="2269" />
+      <edge id="452" source="#30Waysin30Days" target="#GoOrange" weight="2269" />
+      <edge id="453" source="#30Waysin30Days" target="#HAM" weight="2269" />
+      <edge id="454" source="#inspiration" target="#depression" weight="2269" />
+      <edge id="455" source="#fiveimaginaryboys" target="#connections" weight="2269" />
+      <edge id="456" source="#fiveimaginaryboys" target="#newfavoritesong" weight="2269" />
+      <edge id="457" source="#fiveimaginaryboys" target="#nowplaying" weight="2269" />
+      <edge id="458" source="#GoOrange" target="#HAM" weight="2269" />
+      <edge id="459" source="#portrait" target="#photography" weight="2269" />
+      <edge id="460" source="#portrait" target="#nyc" weight="2269" />
+      <edge id="461" source="#portrait" target="#music" weight="2269" />
+      <edge id="462" source="#portrait" target="#musician" weight="2269" />
+      <edge id="463" source="#cakeshopnyc" target="#Connections" weight="2269" />
+      <edge id="464" source="#mrsDrJ" target="#YTAA" weight="2269" />
+      <edge id="465" source="#DebateNight" target="#SheWon" weight="2269" />
+      <edge id="466" source="#Dayton" target="#YTAA" weight="11345" />
+      <edge id="467" source="#Dayton" target="#MotelBeds" weight="4538" />
+      <edge id="468" source="#Dayton" target="#Indie" weight="2269" />
+      <edge id="469" source="#Dayton" target="#YesWePlayYourRequests" weight="2269" />
+      <edge id="470" source="#Dayton" target="#Dayton" weight="4538" />
+      <edge id="471" source="#Dayton" target="#MindGlitter" weight="6807" />
+      <edge id="472" source="#Dayton" target="#Ohio" weight="2269" />
+      <edge id="473" source="#annhamiltonstudio" target="#mykidiscute" weight="2269" />
+      <edge id="474" source="#Syracuse" target="#NYSMusic" weight="2269" />
+      <edge id="475" source="#motivation" target="#depression" weight="2269" />
+      <edge id="476" source="#motivation" target="#hope" weight="2269" />
+      <edge id="477" source="#newfavoritesong" target="#connections" weight="2269" />
+      <edge id="478" source="#newfavoritesong" target="#nowplaying" weight="2269" />
+      <edge id="479" source="#NZcountryblues" target="#nowplaying" weight="2269" />
+      <edge id="480" source="#IndieGoodness" target="#YTAA" weight="2269" />
+      <edge id="481" source="#stupidredneck" target="#gunnutz" weight="2269" />
+      <edge id="482" source="#connections" target="#nowplaying" weight="2269" />
+      <edge id="483" source="#AmazingSong" target="#YTAA" weight="2269" />
+      <edge id="484" source="#AmazingSong" target="#NewMusic" weight="2269" />
+      <edge id="485" source="#Connections" target="#NewMusic" weight="2269" />
+      <edge id="486" source="#Connections" target="#Indie" weight="2269" />
+      <edge id="487" source="#Connections" target="#Rock" weight="2269" />
+      <edge id="488" source="#THISisaBLASTyouguys" target="#youwaittoolong" weight="2269" />
+      <edge id="489" source="#THISisaBLASTyouguys" target="#nowplaying" weight="2269" />
+      <edge id="490" source="#comicbooks" target="#feedly" weight="2269" />
+      <edge id="491" source="#comicbooks" target="#pokemon" weight="2269" />
+      <edge id="492" source="#nyc" target="#photography" weight="2269" />
+      <edge id="493" source="#nyc" target="#music" weight="2269" />
+      <edge id="494" source="#nyc" target="#musician" weight="2269" />
+      <edge id="495" source="#nyc" target="#diversity" weight="2269" />
+      <edge id="496" source="#nyc" target="#racial" weight="2269" />
+      <edge id="497" source="#nyc" target="#justice" weight="2269" />
+      <edge id="498" source="#NP" target="#TGIF" weight="2269" />
+      <edge id="499" source="#trudybenson" target="#sharpie" weight="2269" />
+      <edge id="500" source="#trudybenson" target="#nonbelievers" weight="2269" />
+      <edge id="501" source="#racial" target="#diversity" weight="2269" />
+      <edge id="502" source="#racial" target="#justice" weight="2269" />
+      <edge id="503" source="#nowplaying" target="#canadianfolk" weight="2269" />
+      <edge id="504" source="#nowplaying" target="#orangevinyl" weight="2269" />
+      <edge id="505" source="#nowplaying" target="#harrynilsson" weight="2269" />
+      <edge id="506" source="#nowplaying" target="#satniterecs" weight="2269" />
+      <edge id="507" source="#nowplaying" target="#youwaittoolong" weight="2269" />
+      <edge id="508" source="#NewMusic" target="#YTAA" weight="4538" />
+      <edge id="509" source="#NewMusic" target="#Rock" weight="2269" />
+      <edge id="510" source="#NewMusic" target="#Indie" weight="2269" />
+      <edge id="511" source="#music" target="#photography" weight="2269" />
+      <edge id="512" source="#music" target="#NowHearThis" weight="2269" />
+      <edge id="513" source="#music" target="#musician" weight="2269" />
+      <edge id="514" source="#music" target="#21stcenturypostliberalblues" weight="2269" />
+      <edge id="515" source="#music" target="#wisdom" weight="4538" />
+      <edge id="516" source="#music" target="#life" weight="4538" />
+      <edge id="517" source="#ProtoFascist" target="#WhiteNationalist" weight="2269" />
+      <edge id="518" source="#MyAnimal" target="#MUENMagazine" weight="2269" />
+      <edge id="519" source="#MyAnimal" target="#MusicVideo" weight="2269" />
+      <edge id="520" source="#linedrawings" target="#drawinglines" weight="2269" />
+      <edge id="521" source="#sharpie" target="#nonbelievers" weight="2269" />
+      <edge id="522" source="#whocareswe" target="#noshame" weight="2269" />
+      <edge id="523" source="#hope" target="#depression" weight="2269" />
+      <edge id="524" source="#lunkheads" target="#racism" weight="2269" />
+      <edge id="525" source="#hottake" target="#obvious" weight="2269" />
+      <edge id="526" source="#MotelBeds" target="#MindGlitter" weight="2269" />
+      <edge id="527" source="#justice" target="#diversity" weight="2269" />
+      <edge id="528" source="#life" target="#ourchildren" weight="2269" />
+      <edge id="529" source="#life" target="#wisdom" weight="9076" />
+      <edge id="530" source="#georgia" target="#cle" weight="2269" />
+      <edge id="531" source="#umustbkiding" target="#dicks" weight="2269" />
+      <edge id="532" source="#ohhh" target="#citytome" weight="2269" />
+      <edge id="533" source="#Rock" target="#Indie" weight="2269" />
+      <edge id="534" source="#comics" target="#Columbus" weight="2269" />
+      <edge id="535" source="#comics" target="#indiecomics" weight="2269" />
+      <edge id="536" source="#satniterecs" target="#orangevinyl" weight="2269" />
+      <edge id="537" source="#griftersband" target="#alisonrose" weight="2269" />
+      <edge id="538" source="#longerharder" target="#SarahKSilverman" weight="2269" />
+      <edge id="539" source="#Indie" target="#YTAA" weight="2269" />
+      <edge id="540" source="#Indie" target="#MindGlitter" weight="2269" />
+      <edge id="541" source="#thefugs" target="#gunculture" weight="2269" />
+      <edge id="542" source="#YesWePlayYourRequests" target="#YTAA" weight="2269" />
+      <edge id="543" source="#photography" target="#musician" weight="2269" />
+      <edge id="544" source="#YTAA" target="#MindGlitter" weight="2269" />
+    </edges>
+  </graph>
+</gexf>

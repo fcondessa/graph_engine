@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DSouzaAyers" label="#DSouzaAyers" />
+      <node id="#DL" label="#DL" />
+      <node id="#braves" label="#braves" />
+      <node id="#Twins" label="#Twins" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#Padres" label="#Padres" />
+      <node id="#list" label="#list" />
+      <node id="#AmericanExceptionalism" label="#AmericanExceptionalism" />
+      <node id="#SFGStats" label="#SFGStats" />
+      <node id="#travel" label="#travel" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#BaseballAtDawn" label="#BaseballAtDawn" />
+      <node id="#pirates" label="#pirates" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DSouzaAyers" target="#AmericanExceptionalism" weight="1739" />
+      <edge id="1" source="#DL" target="#Twins" weight="1739" />
+      <edge id="2" source="#braves" target="#BaseballAtDawn" weight="1739" />
+      <edge id="3" source="#braves" target="#pirates" weight="1739" />
+      <edge id="4" source="#SFGiants" target="#SFGStats" weight="1739" />
+      <edge id="5" source="#Facebook" target="#travel" weight="1739" />
+      <edge id="6" source="#Facebook" target="#list" weight="1739" />
+      <edge id="7" source="#Padres" target="#sfgiants" weight="1739" />
+      <edge id="8" source="#list" target="#travel" weight="1739" />
+      <edge id="9" source="#BaseballAtDawn" target="#pirates" weight="1739" />
+    </edges>
+  </graph>
+</gexf>

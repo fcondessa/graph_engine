@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ilwx" label="#ilwx" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#salmonella" label="#salmonella" />
+      <node id="#weather" label="#weather" />
+      <node id="#chicago" label="#chicago" />
+      <node id="#teaparty" label="#teaparty" />
+      <node id="#stanleycup" label="#stanleycup" />
+      <node id="#roskam" label="#roskam" />
+      <node id="#travel" label="#travel" />
+      <node id="#boehner" label="#boehner" />
+      <node id="#boston" label="#boston" />
+      <node id="#blackhawks" label="#blackhawks" />
+      <node id="#foodsafety" label="#foodsafety" />
+      <node id="#photojournalism" label="#photojournalism" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ilwx" target="#Chicago" weight="1197" />
+      <edge id="1" source="#salmonella" target="#foodsafety" weight="1197" />
+      <edge id="2" source="#weather" target="#chicago" weight="1197" />
+      <edge id="3" source="#chicago" target="#blackhawks" weight="1197" />
+      <edge id="4" source="#chicago" target="#boston" weight="1197" />
+      <edge id="5" source="#chicago" target="#stanleycup" weight="1197" />
+      <edge id="6" source="#chicago" target="#photojournalism" weight="1197" />
+      <edge id="7" source="#teaparty" target="#boehner" weight="1197" />
+      <edge id="8" source="#stanleycup" target="#boston" weight="1197" />
+      <edge id="9" source="#stanleycup" target="#blackhawks" weight="1197" />
+      <edge id="10" source="#stanleycup" target="#photojournalism" weight="1197" />
+      <edge id="11" source="#roskam" target="#travel" weight="1197" />
+      <edge id="12" source="#boston" target="#blackhawks" weight="1197" />
+      <edge id="13" source="#boston" target="#photojournalism" weight="1197" />
+      <edge id="14" source="#blackhawks" target="#photojournalism" weight="1197" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#gin" label="#gin" />
+      <node id="#SFGIANTS" label="#SFGIANTS" />
+      <node id="#China" label="#China" />
+      <node id="#thisguyisbig" label="#thisguyisbig" />
+      <node id="#MissionHills" label="#MissionHills" />
+      <node id="#WorldSeriesChampions" label="#WorldSeriesChampions" />
+      <node id="#tonic" label="#tonic" />
+      <node id="#andimnosmallguy" label="#andimnosmallguy" />
+      <node id="#GiveBack" label="#GiveBack" />
+      <node id="#morning" label="#morning" />
+      <node id="#booze" label="#booze" />
+      <node id="#UCLA" label="#UCLA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#gin" target="#tonic" weight="3222" />
+      <edge id="1" source="#SFGIANTS" target="#WorldSeriesChampions" weight="3222" />
+      <edge id="2" source="#China" target="#thisguyisbig" weight="3222" />
+      <edge id="3" source="#China" target="#MissionHills" weight="3222" />
+      <edge id="4" source="#China" target="#andimnosmallguy" weight="3222" />
+      <edge id="5" source="#thisguyisbig" target="#MissionHills" weight="3222" />
+      <edge id="6" source="#thisguyisbig" target="#andimnosmallguy" weight="3222" />
+      <edge id="7" source="#MissionHills" target="#andimnosmallguy" weight="3222" />
+      <edge id="8" source="#GiveBack" target="#UCLA" weight="3222" />
+      <edge id="9" source="#morning" target="#booze" weight="3222" />
+    </edges>
+  </graph>
+</gexf>

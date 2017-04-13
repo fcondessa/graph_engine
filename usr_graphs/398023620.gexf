@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#StartupStorytellers" label="#StartupStorytellers" />
+      <node id="#civichacks" label="#civichacks" />
+      <node id="#drcx" label="#drcx" />
+      <node id="#OEFFA" label="#OEFFA" />
+      <node id="#JourneyMaps" label="#JourneyMaps" />
+      <node id="#UX" label="#UX" />
+      <node id="#startupstorytellers" label="#startupstorytellers" />
+      <node id="#startup" label="#startup" />
+      <node id="#george" label="#george" />
+      <node id="#drc11" label="#drc11" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#bevulnerable" label="#bevulnerable" />
+      <node id="#impact" label="#impact" />
+      <node id="#LocalMatters" label="#LocalMatters" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#StartupStorytellers" target="#bevulnerable" weight="214" />
+      <edge id="1" source="#civichacks" target="#startupstorytellers" weight="214" />
+      <edge id="2" source="#drcx" target="#drc11" weight="214" />
+      <edge id="3" source="#OEFFA" target="#george" weight="214" />
+      <edge id="4" source="#OEFFA" target="#LocalMatters" weight="214" />
+      <edge id="5" source="#JourneyMaps" target="#UX" weight="214" />
+      <edge id="6" source="#startup" target="#columbus" weight="214" />
+      <edge id="7" source="#startup" target="#impact" weight="214" />
+      <edge id="8" source="#startup" target="#ohio" weight="214" />
+      <edge id="9" source="#ohio" target="#columbus" weight="214" />
+      <edge id="10" source="#ohio" target="#impact" weight="214" />
+      <edge id="11" source="#columbus" target="#impact" weight="214" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OhioEd" label="#OhioEd" />
+      <node id="#Syria" label="#Syria" />
+      <node id="#ashtag" label="#ashtag" />
+      <node id="#HilliardProud" label="#HilliardProud" />
+      <node id="#journalism" label="#journalism" />
+      <node id="#embryos" label="#embryos" />
+      <node id="#edchat" label="#edchat" />
+      <node id="#wherethemagichappens" label="#wherethemagichappens" />
+      <node id="#FiftyShades" label="#FiftyShades" />
+      <node id="#charterschools" label="#charterschools" />
+      <node id="#cgi" label="#cgi" />
+      <node id="#Mansfield" label="#Mansfield" />
+      <node id="#puppymills" label="#puppymills" />
+      <node id="#VeniceBiennale" label="#VeniceBiennale" />
+      <node id="#relationships" label="#relationships" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#Purpose" label="#Purpose" />
+      <node id="#MacombLiteracy" label="#MacombLiteracy" />
+      <node id="#K12" label="#K12" />
+      <node id="#BigAg" label="#BigAg" />
+      <node id="#AshWednesday" label="#AshWednesday" />
+      <node id="#Vatican" label="#Vatican" />
+      <node id="#religion" label="#religion" />
+      <node id="#news" label="#news" />
+      <node id="#Israel" label="#Israel" />
+      <node id="#rights" label="#rights" />
+      <node id="#RIP637" label="#RIP637" />
+      <node id="#employmentfirst" label="#employmentfirst" />
+      <node id="#animals" label="#animals" />
+      <node id="#Science" label="#Science" />
+      <node id="#USDA" label="#USDA" />
+      <node id="#depression" label="#depression" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Disability" label="#Disability" />
+      <node id="#Michigan" label="#Michigan" />
+      <node id="#RedWings" label="#RedWings" />
+      <node id="#exodus" label="#exodus" />
+      <node id="#SuperBowlXLIX" label="#SuperBowlXLIX" />
+      <node id="#Godbeat" label="#Godbeat" />
+      <node id="#stemcells" label="#stemcells" />
+      <node id="#B1G" label="#B1G" />
+      <node id="#scientists" label="#scientists" />
+      <node id="#FactoryFarming" label="#FactoryFarming" />
+      <node id="#printingpress" label="#printingpress" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#ashstorm" label="#ashstorm" />
+      <node id="#goblue" label="#goblue" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OhioEd" target="#edchat" weight="3161" />
+      <edge id="1" source="#Syria" target="#Israel" weight="3161" />
+      <edge id="2" source="#ashtag" target="#AshWednesday" weight="3161" />
+      <edge id="3" source="#ashtag" target="#ashtag" weight="6322" />
+      <edge id="4" source="#ashtag" target="#ashstorm" weight="3161" />
+      <edge id="5" source="#HilliardProud" target="#RIP637" weight="3161" />
+      <edge id="6" source="#journalism" target="#news" weight="3161" />
+      <edge id="7" source="#embryos" target="#stemcells" weight="3161" />
+      <edge id="8" source="#wherethemagichappens" target="#printingpress" weight="3161" />
+      <edge id="9" source="#FiftyShades" target="#Godbeat" weight="3161" />
+      <edge id="10" source="#FiftyShades" target="#religion" weight="3161" />
+      <edge id="11" source="#charterschools" target="#K12" weight="3161" />
+      <edge id="12" source="#cgi" target="#exodus" weight="3161" />
+      <edge id="13" source="#Mansfield" target="#Cincinnati" weight="3161" />
+      <edge id="14" source="#Mansfield" target="#Columbus" weight="3161" />
+      <edge id="15" source="#puppymills" target="#SuperBowlXLIX" weight="3161" />
+      <edge id="16" source="#VeniceBiennale" target="#Vatican" weight="3161" />
+      <edge id="17" source="#relationships" target="#depression" weight="3161" />
+      <edge id="18" source="#relationships" target="#scientists" weight="3161" />
+      <edge id="19" source="#OhioState" target="#Michigan" weight="3161" />
+      <edge id="20" source="#Purpose" target="#Science" weight="3161" />
+      <edge id="21" source="#MacombLiteracy" target="#RedWings" weight="3161" />
+      <edge id="22" source="#BigAg" target="#FactoryFarming" weight="3161" />
+      <edge id="23" source="#BigAg" target="#USDA" weight="3161" />
+      <edge id="24" source="#religion" target="#Godbeat" weight="3161" />
+      <edge id="25" source="#Israel" target="#animals" weight="3161" />
+      <edge id="26" source="#Israel" target="#rights" weight="3161" />
+      <edge id="27" source="#rights" target="#animals" weight="3161" />
+      <edge id="28" source="#employmentfirst" target="#Disability" weight="3161" />
+      <edge id="29" source="#USDA" target="#FactoryFarming" weight="3161" />
+      <edge id="30" source="#depression" target="#scientists" weight="3161" />
+      <edge id="31" source="#Columbus" target="#Cincinnati" weight="3161" />
+      <edge id="32" source="#B1G" target="#goblue" weight="3161" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Filatov" label="#Filatov" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#Flyers" label="#Flyers" />
+      <node id="#dcquake" label="#dcquake" />
+      <node id="#cbj" label="#cbj" />
+      <node id="#hawks" label="#hawks" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Filatov" target="#cbj" weight="51" />
+      <edge id="1" source="#tcot" target="#dcquake" weight="51" />
+      <edge id="2" source="#Flyers" target="#hawks" weight="51" />
+    </edges>
+  </graph>
+</gexf>

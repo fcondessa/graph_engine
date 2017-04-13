@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#FinLit" label="#FinLit" />
+      <node id="#HealthyCities" label="#HealthyCities" />
+      <node id="#SustainableInvesting" label="#SustainableInvesting" />
+      <node id="#morganstanley" label="#morganstanley" />
+      <node id="#family" label="#family" />
+      <node id="#EU" label="#EU" />
+      <node id="#MorganStanley" label="#MorganStanley" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#newyear" label="#newyear" />
+      <node id="#MSCHONY" label="#MSCHONY" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#NationalAviation" label="#NationalAviation" />
+      <node id="#DreamBig" label="#DreamBig" />
+      <node id="#markets" label="#markets" />
+      <node id="#athleticwear" label="#athleticwear" />
+      <node id="#NewOrleans" label="#NewOrleans" />
+      <node id="#retirement" label="#retirement" />
+      <node id="#impinv" label="#impinv" />
+      <node id="#Election" label="#Election" />
+      <node id="#MSDiversity" label="#MSDiversity" />
+      <node id="#TeamUSA" label="#TeamUSA" />
+      <node id="#SummerMovies" label="#SummerMovies" />
+      <node id="#UK" label="#UK" />
+      <node id="#BarbasolSweater" label="#BarbasolSweater" />
+      <node id="#DriveIn" label="#DriveIn" />
+      <node id="#AlmostMadeInAmerica" label="#AlmostMadeInAmerica" />
+      <node id="#ItsOurTime" label="#ItsOurTime" />
+      <node id="#IHaveADream" label="#IHaveADream" />
+      <node id="#PrideMonth" label="#PrideMonth" />
+      <node id="#fiscalcliff" label="#fiscalcliff" />
+      <node id="#CocktailHour" label="#CocktailHour" />
+      <node id="#Treats" label="#Treats" />
+      <node id="#blackhistorymonth" label="#blackhistorymonth" />
+      <node id="#CocktailChronicles" label="#CocktailChronicles" />
+      <node id="#Philanthropy" label="#Philanthropy" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#3Dprinting" label="#3Dprinting" />
+      <node id="#Travel" label="#Travel" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#WomensHistoryMonth" label="#WomensHistoryMonth" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#athletes" label="#athletes" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#Hollywood" label="#Hollywood" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#FourthofJuly" label="#FourthofJuly" />
+      <node id="#Steelers" label="#Steelers" />
+      <node id="#education" label="#education" />
+      <node id="#MLK" label="#MLK" />
+      <node id="#SpiritDay" label="#SpiritDay" />
+      <node id="#OrangeAlmondCake" label="#OrangeAlmondCake" />
+      <node id="#Tech" label="#Tech" />
+      <node id="#Gear" label="#Gear" />
+      <node id="#HappyBirthdayOrville" label="#HappyBirthdayOrville" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#Freedom" label="#Freedom" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#business" label="#business" />
+      <node id="#Delicious" label="#Delicious" />
+      <node id="#LGBT" label="#LGBT" />
+      <node id="#football" label="#football" />
+      <node id="#Patriots" label="#Patriots" />
+      <node id="#Reading" label="#Reading" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Brexit" target="#EU" weight="797" />
+      <edge id="1" source="#Brexit" target="#UK" weight="797" />
+      <edge id="2" source="#sustainability" target="#SustainableInvesting" weight="797" />
+      <edge id="3" source="#sustainability" target="#impinv" weight="797" />
+      <edge id="4" source="#GivingTuesday" target="#Philanthropy" weight="797" />
+      <edge id="5" source="#FinLit" target="#morganstanley" weight="797" />
+      <edge id="6" source="#HealthyCities" target="#NewOrleans" weight="797" />
+      <edge id="7" source="#HealthyCities" target="#Cleveland" weight="797" />
+      <edge id="8" source="#SustainableInvesting" target="#impinv" weight="797" />
+      <edge id="9" source="#morganstanley" target="#3Dprinting" weight="797" />
+      <edge id="10" source="#morganstanley" target="#MSCHONY" weight="797" />
+      <edge id="11" source="#family" target="#retirement" weight="797" />
+      <edge id="12" source="#EU" target="#UK" weight="797" />
+      <edge id="13" source="#MorganStanley" target="#athleticwear" weight="797" />
+      <edge id="14" source="#Congress" target="#fiscalcliff" weight="797" />
+      <edge id="15" source="#newyear" target="#holiday" weight="797" />
+      <edge id="16" source="#MSCHONY" target="#3Dprinting" weight="797" />
+      <edge id="17" source="#NBA" target="#athletes" weight="797" />
+      <edge id="18" source="#NationalAviation" target="#HappyBirthdayOrville" weight="797" />
+      <edge id="19" source="#DreamBig" target="#AlmostMadeInAmerica" weight="797" />
+      <edge id="20" source="#markets" target="#Election" weight="797" />
+      <edge id="21" source="#retirement" target="#healthcare" weight="797" />
+      <edge id="22" source="#MSDiversity" target="#WomensHistoryMonth" weight="797" />
+      <edge id="23" source="#TeamUSA" target="#ItsOurTime" weight="797" />
+      <edge id="24" source="#SummerMovies" target="#Hollywood" weight="797" />
+      <edge id="25" source="#SummerMovies" target="#DriveIn" weight="797" />
+      <edge id="26" source="#BarbasolSweater" target="#BarbasolSweater" weight="1594" />
+      <edge id="27" source="#DriveIn" target="#Hollywood" weight="797" />
+      <edge id="28" source="#IHaveADream" target="#MLK" weight="797" />
+      <edge id="29" source="#PrideMonth" target="#LGBT" weight="1594" />
+      <edge id="30" source="#CocktailHour" target="#CocktailChronicles" weight="797" />
+      <edge id="31" source="#Treats" target="#OrangeAlmondCake" weight="797" />
+      <edge id="32" source="#Treats" target="#Delicious" weight="797" />
+      <edge id="33" source="#blackhistorymonth" target="#diversity" weight="797" />
+      <edge id="34" source="#Philanthropy" target="#education" weight="797" />
+      <edge id="35" source="#Travel" target="#Reading" weight="797" />
+      <edge id="36" source="#diversity" target="#MLK" weight="797" />
+      <edge id="37" source="#Apple" target="#Tech" weight="797" />
+      <edge id="38" source="#Apple" target="#Gear" weight="797" />
+      <edge id="39" source="#FourthofJuly" target="#Freedom" weight="797" />
+      <edge id="40" source="#Steelers" target="#football" weight="797" />
+      <edge id="41" source="#Steelers" target="#Patriots" weight="797" />
+      <edge id="42" source="#SpiritDay" target="#LGBT" weight="797" />
+      <edge id="43" source="#OrangeAlmondCake" target="#Delicious" weight="797" />
+      <edge id="44" source="#Tech" target="#Gear" weight="797" />
+      <edge id="45" source="#entrepreneur" target="#business" weight="797" />
+      <edge id="46" source="#entrepreneur" target="#socialmedia" weight="797" />
+      <edge id="47" source="#socialmedia" target="#business" weight="797" />
+      <edge id="48" source="#football" target="#Patriots" weight="797" />
+    </edges>
+  </graph>
+</gexf>

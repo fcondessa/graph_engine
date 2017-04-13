@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#thechallenge" label="#thechallenge" />
+      <node id="#data" label="#data" />
+      <node id="#reinventingamerica" label="#reinventingamerica" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#events" label="#events" />
+      <node id="#farm" label="#farm" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#cmcforum" label="#cmcforum" />
+      <node id="#KapowEventTip" label="#KapowEventTip" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#MIDWESTDrive" label="#MIDWESTDrive" />
+      <node id="#NEOhio" label="#NEOhio" />
+      <node id="#lifelonglearners" label="#lifelonglearners" />
+      <node id="#NorTechUnCon" label="#NorTechUnCon" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#VO" label="#VO" />
+      <node id="#tech" label="#tech" />
+      <node id="#nanodegree" label="#nanodegree" />
+      <node id="#MIS2014" label="#MIS2014" />
+      <node id="#CEO" label="#CEO" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#thechallenge" target="#MIS2014" weight="269" />
+      <edge id="1" source="#thechallenge" target="#healthIT" weight="269" />
+      <edge id="2" source="#data" target="#farm" weight="269" />
+      <edge id="3" source="#data" target="#CEO" weight="269" />
+      <edge id="4" source="#reinventingamerica" target="#Chicago" weight="269" />
+      <edge id="5" source="#reinventingamerica" target="#tech" weight="269" />
+      <edge id="6" source="#Ohio" target="#VO" weight="269" />
+      <edge id="7" source="#events" target="#KapowEventTip" weight="269" />
+      <edge id="8" source="#farm" target="#CEO" weight="269" />
+      <edge id="9" source="#healthIT" target="#MIS2014" weight="269" />
+      <edge id="10" source="#Entrepreneurs" target="#cmcforum" weight="269" />
+      <edge id="11" source="#Entrepreneurs" target="#columbus" weight="269" />
+      <edge id="12" source="#cmcforum" target="#columbus" weight="269" />
+      <edge id="13" source="#MIDWESTDrive" target="#Columbus" weight="269" />
+      <edge id="14" source="#NEOhio" target="#NorTechUnCon" weight="269" />
+      <edge id="15" source="#lifelonglearners" target="#nanodegree" weight="269" />
+    </edges>
+  </graph>
+</gexf>

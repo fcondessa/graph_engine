@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#coprsa" label="#coprsa" />
+      <node id="#oneborn" label="#oneborn" />
+      <node id="#app" label="#app" />
+      <node id="#iphone" label="#iphone" />
+      <node id="#baby" label="#baby" />
+      <node id="#children" label="#children" />
+      <node id="#Mobile" label="#Mobile" />
+      <node id="#Nurses" label="#Nurses" />
+      <node id="#women" label="#women" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#moms" label="#moms" />
+      <node id="#mom" label="#mom" />
+      <node id="#whollyhealthy" label="#whollyhealthy" />
+      <node id="#fb" label="#fb" />
+      <node id="#health" label="#health" />
+      <node id="#Sleep" label="#Sleep" />
+      <node id="#OneBorn" label="#OneBorn" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#android" label="#android" />
+      <node id="#RMHgrows" label="#RMHgrows" />
+      <node id="#adorablecouple" label="#adorablecouple" />
+      <node id="#crew96" label="#crew96" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#coprsa" target="#oneborn" weight="1480" />
+      <edge id="1" source="#app" target="#android" weight="740" />
+      <edge id="2" source="#app" target="#women" weight="740" />
+      <edge id="3" source="#app" target="#iphone" weight="740" />
+      <edge id="4" source="#app" target="#health" weight="740" />
+      <edge id="5" source="#app" target="#Mobile" weight="740" />
+      <edge id="6" source="#iphone" target="#android" weight="740" />
+      <edge id="7" source="#iphone" target="#women" weight="740" />
+      <edge id="8" source="#iphone" target="#health" weight="740" />
+      <edge id="9" source="#baby" target="#OneBorn" weight="740" />
+      <edge id="10" source="#children" target="#Sleep" weight="740" />
+      <edge id="11" source="#Nurses" target="#fb" weight="1480" />
+      <edge id="12" source="#women" target="#android" weight="740" />
+      <edge id="13" source="#women" target="#health" weight="740" />
+      <edge id="14" source="#cancer" target="#cancer" weight="1480" />
+      <edge id="15" source="#moms" target="#OneBorn" weight="740" />
+      <edge id="16" source="#mom" target="#OneBorn" weight="740" />
+      <edge id="17" source="#whollyhealthy" target="#crew96" weight="740" />
+      <edge id="18" source="#health" target="#android" weight="740" />
+      <edge id="19" source="#OneBorn" target="#OneBorn" weight="1480" />
+      <edge id="20" source="#OneBorn" target="#adorablecouple" weight="740" />
+      <edge id="21" source="#Columbus" target="#RMHgrows" weight="740" />
+    </edges>
+  </graph>
+</gexf>

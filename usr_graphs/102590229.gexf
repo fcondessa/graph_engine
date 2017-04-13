@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#foodpic" label="#foodpic" />
+      <node id="#ifollowback" label="#ifollowback" />
+      <node id="#follow" label="#follow" />
+      <node id="#goat" label="#goat" />
+      <node id="#followme" label="#followme" />
+      <node id="#ff" label="#ff" />
+      <node id="#love" label="#love" />
+      <node id="#FF" label="#FF" />
+      <node id="#miumiu" label="#miumiu" />
+      <node id="#shoutouts" label="#shoutouts" />
+      <node id="#cabbage" label="#cabbage" />
+      <node id="#dontlookatmelikethat" label="#dontlookatmelikethat" />
+      <node id="#followfriday" label="#followfriday" />
+      <node id="#followforfollow" label="#followforfollow" />
+      <node id="#babygoat" label="#babygoat" />
+      <node id="#goatgoals" label="#goatgoals" />
+      <node id="#babyanimals" label="#babyanimals" />
+      <node id="#followback" label="#followback" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#foodpic" target="#cabbage" weight="2771" />
+      <edge id="1" source="#foodpic" target="#goatgoals" weight="2771" />
+      <edge id="2" source="#ifollowback" target="#followforfollow" weight="2771" />
+      <edge id="3" source="#ifollowback" target="#goatgoals" weight="2771" />
+      <edge id="4" source="#ifollowback" target="#followback" weight="2771" />
+      <edge id="5" source="#ifollowback" target="#followme" weight="2771" />
+      <edge id="6" source="#follow" target="#shoutouts" weight="2771" />
+      <edge id="7" source="#goat" target="#love" weight="2771" />
+      <edge id="8" source="#goat" target="#miumiu" weight="2771" />
+      <edge id="9" source="#goat" target="#babyanimals" weight="2771" />
+      <edge id="10" source="#goat" target="#babygoat" weight="2771" />
+      <edge id="11" source="#goat" target="#dontlookatmelikethat" weight="2771" />
+      <edge id="12" source="#followme" target="#followforfollow" weight="2771" />
+      <edge id="13" source="#followme" target="#goatgoals" weight="2771" />
+      <edge id="14" source="#followme" target="#followback" weight="2771" />
+      <edge id="15" source="#ff" target="#followfriday" weight="22168" />
+      <edge id="16" source="#love" target="#babyanimals" weight="2771" />
+      <edge id="17" source="#love" target="#babygoat" weight="2771" />
+      <edge id="18" source="#love" target="#dontlookatmelikethat" weight="2771" />
+      <edge id="19" source="#FF" target="#followfriday" weight="13855" />
+      <edge id="20" source="#cabbage" target="#goatgoals" weight="2771" />
+      <edge id="21" source="#dontlookatmelikethat" target="#babygoat" weight="2771" />
+      <edge id="22" source="#dontlookatmelikethat" target="#babyanimals" weight="2771" />
+      <edge id="23" source="#followforfollow" target="#goatgoals" weight="2771" />
+      <edge id="24" source="#followforfollow" target="#followback" weight="2771" />
+      <edge id="25" source="#babygoat" target="#babyanimals" weight="2771" />
+      <edge id="26" source="#goatgoals" target="#followback" weight="2771" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#energyawarenessmonth" label="#energyawarenessmonth" />
+      <node id="#columbiacares" label="#columbiacares" />
+      <node id="#CanYouDigIt" label="#CanYouDigIt" />
+      <node id="#BPTW" label="#BPTW" />
+      <node id="#volunteerweek" label="#volunteerweek" />
+      <node id="#MyTeam" label="#MyTeam" />
+      <node id="#DiggerDog" label="#DiggerDog" />
+      <node id="#safety" label="#safety" />
+      <node id="#WalkCbus" label="#WalkCbus" />
+      <node id="#energyefficiency" label="#energyefficiency" />
+      <node id="#d3cmh" label="#d3cmh" />
+      <node id="#walkcbus" label="#walkcbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#energyawarenessmonth" target="#energyefficiency" weight="44" />
+      <edge id="1" source="#columbiacares" target="#volunteerweek" weight="44" />
+      <edge id="2" source="#columbiacares" target="#d3cmh" weight="44" />
+      <edge id="3" source="#CanYouDigIt" target="#walkcbus" weight="44" />
+      <edge id="4" source="#CanYouDigIt" target="#DiggerDog" weight="44" />
+      <edge id="5" source="#BPTW" target="#MyTeam" weight="132" />
+      <edge id="6" source="#DiggerDog" target="#walkcbus" weight="44" />
+      <edge id="7" source="#DiggerDog" target="#WalkCbus" weight="44" />
+      <edge id="8" source="#safety" target="#walkcbus" weight="44" />
+    </edges>
+  </graph>
+</gexf>

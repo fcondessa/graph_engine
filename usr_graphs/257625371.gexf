@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#privacy" label="#privacy" />
+      <node id="#AHCJ" label="#AHCJ" />
+      <node id="#movable" label="#movable" />
+      <node id="#indsum" label="#indsum" />
+      <node id="#amazing" label="#amazing" />
+      <node id="#health2con" label="#health2con" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#watchthis" label="#watchthis" />
+      <node id="#wearabletech" label="#wearabletech" />
+      <node id="#analytics" label="#analytics" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#privacy" target="#indsum" weight="90" />
+      <edge id="1" source="#privacy" target="#wearabletech" weight="90" />
+      <edge id="2" source="#privacy" target="#analytics" weight="90" />
+      <edge id="3" source="#AHCJ" target="#health2con" weight="90" />
+      <edge id="4" source="#movable" target="#indsum" weight="90" />
+      <edge id="5" source="#indsum" target="#wearabletech" weight="90" />
+      <edge id="6" source="#indsum" target="#analytics" weight="90" />
+      <edge id="7" source="#indsum" target="#CLE" weight="90" />
+      <edge id="8" source="#amazing" target="#watchthis" weight="90" />
+      <edge id="9" source="#wearabletech" target="#analytics" weight="90" />
+    </edges>
+  </graph>
+</gexf>

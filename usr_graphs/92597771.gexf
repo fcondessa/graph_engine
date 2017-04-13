@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#reunion" label="#reunion" />
+      <node id="#eMusic" label="#eMusic" />
+      <node id="#MP3" label="#MP3" />
+      <node id="#Amazon" label="#Amazon" />
+      <node id="#rock" label="#rock" />
+      <node id="#music" label="#music" />
+      <node id="#free" label="#free" />
+      <node id="#dispatch" label="#dispatch" />
+      <node id="#downloads" label="#downloads" />
+      <node id="#download" label="#download" />
+      <node id="#bandcamp" label="#bandcamp" />
+      <node id="#XTC" label="#XTC" />
+      <node id="#happyholidays" label="#happyholidays" />
+      <node id="#iTunes" label="#iTunes" />
+      <node id="#orchestraville" label="#orchestraville" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#merrychristmas" label="#merrychristmas" />
+      <node id="#gifts" label="#gifts" />
+      <node id="#newmusic" label="#newmusic" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#reunion" target="#rock" weight="97" />
+      <edge id="1" source="#eMusic" target="#iTunes" weight="97" />
+      <edge id="2" source="#eMusic" target="#Amazon" weight="97" />
+      <edge id="3" source="#MP3" target="#free" weight="97" />
+      <edge id="4" source="#MP3" target="#XTC" weight="97" />
+      <edge id="5" source="#Amazon" target="#iTunes" weight="97" />
+      <edge id="6" source="#music" target="#columbus" weight="97" />
+      <edge id="7" source="#free" target="#XTC" weight="97" />
+      <edge id="8" source="#dispatch" target="#columbus" weight="97" />
+      <edge id="9" source="#downloads" target="#gifts" weight="97" />
+      <edge id="10" source="#download" target="#bandcamp" weight="97" />
+      <edge id="11" source="#download" target="#newmusic" weight="97" />
+      <edge id="12" source="#download" target="#orchestraville" weight="97" />
+      <edge id="13" source="#bandcamp" target="#orchestraville" weight="291" />
+      <edge id="14" source="#happyholidays" target="#merrychristmas" weight="97" />
+    </edges>
+  </graph>
+</gexf>

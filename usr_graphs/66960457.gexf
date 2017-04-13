@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#mobile" label="#mobile" />
+      <node id="#hcnm" label="#hcnm" />
+      <node id="#walking" label="#walking" />
+      <node id="#FreeShipping" label="#FreeShipping" />
+      <node id="#feet" label="#feet" />
+      <node id="#aaos2011" label="#aaos2011" />
+      <node id="#HITsm" label="#HITsm" />
+      <node id="#sports" label="#sports" />
+      <node id="#mdchat" label="#mdchat" />
+      <node id="#makeitcount" label="#makeitcount" />
+      <node id="#Seriously" label="#Seriously" />
+      <node id="#surgicaltraining" label="#surgicaltraining" />
+      <node id="#frommers" label="#frommers" />
+      <node id="#nerdProm" label="#nerdProm" />
+      <node id="#Aaos" label="#Aaos" />
+      <node id="#SportsPsych" label="#SportsPsych" />
+      <node id="#fear" label="#fear" />
+      <node id="#foot2011" label="#foot2011" />
+      <node id="#followmeto" label="#followmeto" />
+      <node id="#jetlag" label="#jetlag" />
+      <node id="#puberty" label="#puberty" />
+      <node id="#nikeplus" label="#nikeplus" />
+      <node id="#AdmiralsClub" label="#AdmiralsClub" />
+      <node id="#SportsPhys" label="#SportsPhys" />
+      <node id="#GoogleGlass" label="#GoogleGlass" />
+      <node id="#physician" label="#physician" />
+      <node id="#hamburgers" label="#hamburgers" />
+      <node id="#sdfoot2011" label="#sdfoot2011" />
+      <node id="#panic" label="#panic" />
+      <node id="#TMNT" label="#TMNT" />
+      <node id="#wifi" label="#wifi" />
+      <node id="#running" label="#running" />
+      <node id="#barefootrunning" label="#barefootrunning" />
+      <node id="#AAOS1" label="#AAOS1" />
+      <node id="#throwback" label="#throwback" />
+      <node id="#scienceVScreationism" label="#scienceVScreationism" />
+      <node id="#IBeatThisGameInThe90s" label="#IBeatThisGameInThe90s" />
+      <node id="#fitblog" label="#fitblog" />
+      <node id="#safety" label="#safety" />
+      <node id="#OSUinnovates" label="#OSUinnovates" />
+      <node id="#fb" label="#fb" />
+      <node id="#health" label="#health" />
+      <node id="#hcmktg" label="#hcmktg" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#egypt" label="#egypt" />
+      <node id="#shoes" label="#shoes" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#stilettos" label="#stilettos" />
+      <node id="#spring" label="#spring" />
+      <node id="#tosrv" label="#tosrv" />
+      <node id="#Graditude" label="#Graditude" />
+      <node id="#foot2010" label="#foot2010" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#runchat" label="#runchat" />
+      <node id="#medicaleducation" label="#medicaleducation" />
+      <node id="#travel" label="#travel" />
+      <node id="#houseOfCards" label="#houseOfCards" />
+      <node id="#payment" label="#payment" />
+      <node id="#bequiet" label="#bequiet" />
+      <node id="#Haiti" label="#Haiti" />
+      <node id="#bioskillslab" label="#bioskillslab" />
+      <node id="#toes" label="#toes" />
+      <node id="#olddognewtrick" label="#olddognewtrick" />
+      <node id="#orthopedic" label="#orthopedic" />
+      <node id="#cuttingedge" label="#cuttingedge" />
+      <node id="#win" label="#win" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#osteoporosis" label="#osteoporosis" />
+      <node id="#poster2010" label="#poster2010" />
+      <node id="#capcityhalf" label="#capcityhalf" />
+      <node id="#rude" label="#rude" />
+      <node id="#hcsmeu" label="#hcsmeu" />
+      <node id="#aaos" label="#aaos" />
+      <node id="#in" label="#in" />
+      <node id="#Medicare" label="#Medicare" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#mobile" target="#orthopedic" weight="3235" />
+      <edge id="1" source="#mobile" target="#health" weight="3235" />
+      <edge id="2" source="#hcnm" target="#hcsm" weight="3235" />
+      <edge id="3" source="#walking" target="#safety" weight="54995" />
+      <edge id="4" source="#FreeShipping" target="#CyberMonday" weight="3235" />
+      <edge id="5" source="#feet" target="#toes" weight="3235" />
+      <edge id="6" source="#aaos2011" target="#Haiti" weight="3235" />
+      <edge id="7" source="#aaos2011" target="#bioskillslab" weight="3235" />
+      <edge id="8" source="#aaos2011" target="#fb" weight="12940" />
+      <edge id="9" source="#aaos2011" target="#sdfoot2011" weight="3235" />
+      <edge id="10" source="#aaos2011" target="#hcsm" weight="3235" />
+      <edge id="11" source="#aaos2011" target="#surgicaltraining" weight="3235" />
+      <edge id="12" source="#aaos2011" target="#Aaos" weight="6470" />
+      <edge id="13" source="#aaos2011" target="#medicaleducation" weight="3235" />
+      <edge id="14" source="#aaos2011" target="#aaos" weight="3235" />
+      <edge id="15" source="#HITsm" target="#hcsmeu" weight="3235" />
+      <edge id="16" source="#sports" target="#AAOS1" weight="3235" />
+      <edge id="17" source="#mdchat" target="#hcsm" weight="16175" />
+      <edge id="18" source="#makeitcount" target="#nikeplus" weight="6470" />
+      <edge id="19" source="#Seriously" target="#IBeatThisGameInThe90s" weight="3235" />
+      <edge id="20" source="#Seriously" target="#TMNT" weight="3235" />
+      <edge id="21" source="#surgicaltraining" target="#medicaleducation" weight="3235" />
+      <edge id="22" source="#surgicaltraining" target="#bioskillslab" weight="3235" />
+      <edge id="23" source="#frommers" target="#travel" weight="3235" />
+      <edge id="24" source="#nerdProm" target="#houseOfCards" weight="3235" />
+      <edge id="25" source="#Aaos" target="#fb" weight="6470" />
+      <edge id="26" source="#SportsPsych" target="#SportsPhys" weight="3235" />
+      <edge id="27" source="#fear" target="#running" weight="3235" />
+      <edge id="28" source="#foot2011" target="#foot2011" weight="6470" />
+      <edge id="29" source="#foot2011" target="#fb" weight="3235" />
+      <edge id="30" source="#foot2011" target="#cuttingedge" weight="3235" />
+      <edge id="31" source="#followmeto" target="#fb" weight="3235" />
+      <edge id="32" source="#jetlag" target="#fb" weight="3235" />
+      <edge id="33" source="#puberty" target="#osteoporosis" weight="3235" />
+      <edge id="34" source="#AdmiralsClub" target="#win" weight="3235" />
+      <edge id="35" source="#GoogleGlass" target="#OSUinnovates" weight="3235" />
+      <edge id="36" source="#physician" target="#Medicare" weight="3235" />
+      <edge id="37" source="#physician" target="#payment" weight="3235" />
+      <edge id="38" source="#hamburgers" target="#wifi" weight="3235" />
+      <edge id="39" source="#sdfoot2011" target="#aaos" weight="3235" />
+      <edge id="40" source="#panic" target="#fb" weight="3235" />
+      <edge id="41" source="#TMNT" target="#IBeatThisGameInThe90s" weight="3235" />
+      <edge id="42" source="#running" target="#runchat" weight="19410" />
+      <edge id="43" source="#running" target="#barefootrunning" weight="16175" />
+      <edge id="44" source="#barefootrunning" target="#runchat" weight="35585" />
+      <edge id="45" source="#barefootrunning" target="#fb" weight="19410" />
+      <edge id="46" source="#throwback" target="#scienceVScreationism" weight="3235" />
+      <edge id="47" source="#fitblog" target="#runchat" weight="3235" />
+      <edge id="48" source="#safety" target="#spring" weight="3235" />
+      <edge id="49" source="#fb" target="#in" weight="3235" />
+      <edge id="50" source="#fb" target="#egypt" weight="3235" />
+      <edge id="51" source="#fb" target="#aaos" weight="3235" />
+      <edge id="52" source="#fb" target="#foot2010" weight="3235" />
+      <edge id="53" source="#health" target="#orthopedic" weight="3235" />
+      <edge id="54" source="#hcmktg" target="#hcsm" weight="3235" />
+      <edge id="55" source="#hcsm" target="#aaos" weight="3235" />
+      <edge id="56" source="#egypt" target="#in" weight="3235" />
+      <edge id="57" source="#shoes" target="#stilettos" weight="3235" />
+      <edge id="58" source="#tosrv" target="#capcityhalf" weight="3235" />
+      <edge id="59" source="#Graditude" target="#FollowFriday" weight="3235" />
+      <edge id="60" source="#foot2010" target="#poster2010" weight="3235" />
+      <edge id="61" source="#socialmedia" target="#olddognewtrick" weight="3235" />
+      <edge id="62" source="#medicaleducation" target="#bioskillslab" weight="3235" />
+      <edge id="63" source="#payment" target="#Medicare" weight="3235" />
+      <edge id="64" source="#bequiet" target="#rude" weight="3235" />
+    </edges>
+  </graph>
+</gexf>

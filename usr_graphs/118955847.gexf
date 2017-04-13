@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#StudentCrew" label="#StudentCrew" />
+      <node id="#dontjudge" label="#dontjudge" />
+      <node id="#PetcoPark" label="#PetcoPark" />
+      <node id="#Bears" label="#Bears" />
+      <node id="#hiphop" label="#hiphop" />
+      <node id="#ASUFilm" label="#ASUFilm" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#ASU" label="#ASU" />
+      <node id="#jaygetsadoover" label="#jaygetsadoover" />
+      <node id="#BustAMove" label="#BustAMove" />
+      <node id="#JusticeServedMovie" label="#JusticeServedMovie" />
+      <node id="#80sand90sKid" label="#80sand90sKid" />
+      <node id="#bustamove" label="#bustamove" />
+      <node id="#worldwide" label="#worldwide" />
+      <node id="#party" label="#party" />
+      <node id="#BustaMove" label="#BustaMove" />
+      <node id="#LAXTBT" label="#LAXTBT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#StudentCrew" target="#ASU" weight="541" />
+      <edge id="1" source="#StudentCrew" target="#JusticeServedMovie" weight="541" />
+      <edge id="2" source="#StudentCrew" target="#ASUFilm" weight="541" />
+      <edge id="3" source="#dontjudge" target="#BustaMove" weight="541" />
+      <edge id="4" source="#dontjudge" target="#80sand90sKid" weight="541" />
+      <edge id="5" source="#PetcoPark" target="#BustAMove" weight="541" />
+      <edge id="6" source="#Bears" target="#jaygetsadoover" weight="541" />
+      <edge id="7" source="#hiphop" target="#worldwide" weight="541" />
+      <edge id="8" source="#ASUFilm" target="#ASU" weight="1082" />
+      <edge id="9" source="#ASUFilm" target="#JusticeServedMovie" weight="1082" />
+      <edge id="10" source="#TBT" target="#LAXTBT" weight="541" />
+      <edge id="11" source="#ASU" target="#JusticeServedMovie" weight="1623" />
+      <edge id="12" source="#80sand90sKid" target="#BustaMove" weight="541" />
+      <edge id="13" source="#bustamove" target="#party" weight="1082" />
+    </edges>
+  </graph>
+</gexf>

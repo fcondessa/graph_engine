@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#hacknakron" label="#hacknakron" />
+      <node id="#Android" label="#Android" />
+      <node id="#Python" label="#Python" />
+      <node id="#Agile" label="#Agile" />
+      <node id="#WordPress" label="#WordPress" />
+      <node id="#openData" label="#openData" />
+      <node id="#Angular" label="#Angular" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#Apache" label="#Apache" />
+      <node id="#DevOps" label="#DevOps" />
+      <node id="#civic" label="#civic" />
+      <node id="#Ruby" label="#Ruby" />
+      <node id="#Microservices" label="#Microservices" />
+      <node id="#AWS" label="#AWS" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#PHP" label="#PHP" />
+      <node id="#openGov" label="#openGov" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#hacknakron" target="#civic" weight="3664" />
+      <edge id="1" source="#hacknakron" target="#openData" weight="3664" />
+      <edge id="2" source="#hacknakron" target="#openGov" weight="3664" />
+      <edge id="3" source="#Android" target="#Columbus" weight="2748" />
+      <edge id="4" source="#Python" target="#Columbus" weight="1832" />
+      <edge id="5" source="#Python" target="#Python" weight="5496" />
+      <edge id="6" source="#Agile" target="#Columbus" weight="916" />
+      <edge id="7" source="#WordPress" target="#WordPress" weight="9160" />
+      <edge id="8" source="#WordPress" target="#Columbus" weight="26564" />
+      <edge id="9" source="#openData" target="#openGov" weight="3664" />
+      <edge id="10" source="#openData" target="#civic" weight="3664" />
+      <edge id="11" source="#Angular" target="#Angular" weight="7328" />
+      <edge id="12" source="#BigData" target="#Apache" weight="916" />
+      <edge id="13" source="#BigData" target="#Columbus" weight="4580" />
+      <edge id="14" source="#Apache" target="#Columbus" weight="1832" />
+      <edge id="15" source="#DevOps" target="#Columbus" weight="916" />
+      <edge id="16" source="#civic" target="#openGov" weight="3664" />
+      <edge id="17" source="#Ruby" target="#Columbus" weight="1832" />
+      <edge id="18" source="#Microservices" target="#Columbus" weight="916" />
+      <edge id="19" source="#AWS" target="#AWS" weight="10992" />
+      <edge id="20" source="#AWS" target="#Columbus" weight="11908" />
+      <edge id="21" source="#Columbus" target="#Columbus" weight="58624" />
+      <edge id="22" source="#Columbus" target="#PHP" weight="916" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#LocalBreweryRecipeProject" label="#LocalBreweryRecipeProject" />
+      <node id="#homebrewing" label="#homebrewing" />
+      <node id="#keg" label="#keg" />
+      <node id="#beer" label="#beer" />
+      <node id="#NationalHomebrewDay" label="#NationalHomebrewDay" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#1066FG" label="#1066FG" />
+      <node id="#homebrew" label="#homebrew" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#LocalBreweryRecipeProject" target="#homebrew" weight="189" />
+      <edge id="1" source="#homebrewing" target="#keg" weight="189" />
+      <edge id="2" source="#homebrewing" target="#craftbeer" weight="567" />
+      <edge id="3" source="#homebrewing" target="#beer" weight="378" />
+      <edge id="4" source="#homebrewing" target="#homebrew" weight="189" />
+      <edge id="5" source="#keg" target="#craftbeer" weight="189" />
+      <edge id="6" source="#keg" target="#beer" weight="189" />
+      <edge id="7" source="#keg" target="#homebrew" weight="189" />
+      <edge id="8" source="#beer" target="#homebrew" weight="189" />
+      <edge id="9" source="#beer" target="#craftbeer" weight="378" />
+      <edge id="10" source="#NationalHomebrewDay" target="#1066FG" weight="189" />
+      <edge id="11" source="#craftbeer" target="#homebrew" weight="189" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#moose" label="#moose" />
+      <node id="#whiterajah" label="#whiterajah" />
+      <node id="#stl" label="#stl" />
+      <node id="#EndGunViolence" label="#EndGunViolence" />
+      <node id="#budget" label="#budget" />
+      <node id="#GameofThrones" label="#GameofThrones" />
+      <node id="#HawthorneHeights" label="#HawthorneHeights" />
+      <node id="#finishonthe50" label="#finishonthe50" />
+      <node id="#ishipthis" label="#ishipthis" />
+      <node id="#HereComesTheKing" label="#HereComesTheKing" />
+      <node id="#Clydesdales" label="#Clydesdales" />
+      <node id="#backgroundchecks" label="#backgroundchecks" />
+      <node id="#Blackhawks" label="#Blackhawks" />
+      <node id="#ilikemoney" label="#ilikemoney" />
+      <node id="#NationalDogDay" label="#NationalDogDay" />
+      <node id="#NikiFM" label="#NikiFM" />
+      <node id="#yum" label="#yum" />
+      <node id="#tormienne" label="#tormienne" />
+      <node id="#bodhi" label="#bodhi" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#dangeroushashtags" label="#dangeroushashtags" />
+      <node id="#NightlyShow" label="#NightlyShow" />
+      <node id="#conflictofinterest" label="#conflictofinterest" />
+      <node id="#Rye" label="#Rye" />
+      <node id="#OpeningDaySTL" label="#OpeningDaySTL" />
+      <node id="#influence" label="#influence" />
+      <node id="#HaHaBetIGaveYouAllAHeartAttack" label="#HaHaBetIGaveYouAllAHeartAttack" />
+      <node id="#July4th" label="#July4th" />
+      <node id="#beermoney" label="#beermoney" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#olive" label="#olive" />
+      <node id="#STLBlues" label="#STLBlues" />
+      <node id="#themoreyouknow" label="#themoreyouknow" />
+      <node id="#daycare" label="#daycare" />
+      <node id="#imold" label="#imold" />
+      <node id="#watermelon" label="#watermelon" />
+      <node id="#Madison" label="#Madison" />
+      <node id="#WhenInFlorida" label="#WhenInFlorida" />
+      <node id="#selfiequeen" label="#selfiequeen" />
+      <node id="#SandyHook" label="#SandyHook" />
+      <node id="#thisshitsjustbeer" label="#thisshitsjustbeer" />
+      <node id="#LGB" label="#LGB" />
+      <node id="#OSU4Miler" label="#OSU4Miler" />
+      <node id="#noun" label="#noun" />
+      <node id="#BirthdayBitch" label="#BirthdayBitch" />
+      <node id="#RedWhiteAndBoom" label="#RedWhiteAndBoom" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#moose" target="#noun" weight="3221" />
+      <edge id="1" source="#moose" target="#watermelon" weight="3221" />
+      <edge id="2" source="#whiterajah" target="#bodhi" weight="3221" />
+      <edge id="3" source="#stl" target="#Madison" weight="3221" />
+      <edge id="4" source="#EndGunViolence" target="#NightlyShow" weight="3221" />
+      <edge id="5" source="#budget" target="#daycare" weight="3221" />
+      <edge id="6" source="#budget" target="#beermoney" weight="3221" />
+      <edge id="7" source="#GameofThrones" target="#tormienne" weight="3221" />
+      <edge id="8" source="#GameofThrones" target="#ishipthis" weight="3221" />
+      <edge id="9" source="#GameofThrones" target="#HawthorneHeights" weight="3221" />
+      <edge id="10" source="#GameofThrones" target="#NikiFM" weight="3221" />
+      <edge id="11" source="#HawthorneHeights" target="#tormienne" weight="3221" />
+      <edge id="12" source="#HawthorneHeights" target="#NikiFM" weight="3221" />
+      <edge id="13" source="#HawthorneHeights" target="#ishipthis" weight="3221" />
+      <edge id="14" source="#finishonthe50" target="#OSU4Miler" weight="3221" />
+      <edge id="15" source="#ishipthis" target="#tormienne" weight="3221" />
+      <edge id="16" source="#ishipthis" target="#NikiFM" weight="3221" />
+      <edge id="17" source="#HereComesTheKing" target="#Clydesdales" weight="3221" />
+      <edge id="18" source="#HereComesTheKing" target="#OpeningDaySTL" weight="3221" />
+      <edge id="19" source="#Clydesdales" target="#OpeningDaySTL" weight="3221" />
+      <edge id="20" source="#backgroundchecks" target="#SandyHook" weight="3221" />
+      <edge id="21" source="#Blackhawks" target="#STLBlues" weight="3221" />
+      <edge id="22" source="#ilikemoney" target="#imold" weight="3221" />
+      <edge id="23" source="#NationalDogDay" target="#olive" weight="3221" />
+      <edge id="24" source="#NikiFM" target="#tormienne" weight="3221" />
+      <edge id="25" source="#yum" target="#Rye" weight="3221" />
+      <edge id="26" source="#leadership" target="#influence" weight="3221" />
+      <edge id="27" source="#dangeroushashtags" target="#drinkupcolumbus" weight="3221" />
+      <edge id="28" source="#dangeroushashtags" target="#thisshitsjustbeer" weight="3221" />
+      <edge id="29" source="#conflictofinterest" target="#selfiequeen" weight="3221" />
+      <edge id="30" source="#conflictofinterest" target="#themoreyouknow" weight="3221" />
+      <edge id="31" source="#HaHaBetIGaveYouAllAHeartAttack" target="#WhenInFlorida" weight="3221" />
+      <edge id="32" source="#HaHaBetIGaveYouAllAHeartAttack" target="#BirthdayBitch" weight="3221" />
+      <edge id="33" source="#July4th" target="#RedWhiteAndBoom" weight="3221" />
+      <edge id="34" source="#beermoney" target="#daycare" weight="3221" />
+      <edge id="35" source="#drinkupcolumbus" target="#thisshitsjustbeer" weight="3221" />
+      <edge id="36" source="#STLBlues" target="#LGB" weight="3221" />
+      <edge id="37" source="#themoreyouknow" target="#selfiequeen" weight="3221" />
+      <edge id="38" source="#watermelon" target="#noun" weight="3221" />
+      <edge id="39" source="#WhenInFlorida" target="#BirthdayBitch" weight="3221" />
+    </edges>
+  </graph>
+</gexf>

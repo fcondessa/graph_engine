@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NewYearsEve" label="#NewYearsEve" />
+      <node id="#AsSeenInCbus" label="#AsSeenInCbus" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#restaurants" label="#restaurants" />
+      <node id="#hummmmmmuuuussss" label="#hummmmmmuuuussss" />
+      <node id="#dineoriginals" label="#dineoriginals" />
+      <node id="#tasicafe" label="#tasicafe" />
+      <node id="#nationaldessertday" label="#nationaldessertday" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#cbusfoodscene" label="#cbusfoodscene" />
+      <node id="#MothersDay" label="#MothersDay" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#brewerydistrict" label="#brewerydistrict" />
+      <node id="#cbusr" label="#cbusr" />
+      <node id="#yum" label="#yum" />
+      <node id="#Sausage" label="#Sausage" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#chickpeas" label="#chickpeas" />
+      <node id="#FarmToPlateWeek" label="#FarmToPlateWeek" />
+      <node id="#TakeYourTomatoToDinner" label="#TakeYourTomatoToDinner" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#arnold" label="#arnold" />
+      <node id="#brewery" label="#brewery" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#vegetarian" label="#vegetarian" />
+      <node id="#Fresh" label="#Fresh" />
+      <node id="#instagift" label="#instagift" />
+      <node id="#food" label="#food" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Dining" label="#Dining" />
+      <node id="#NYE" label="#NYE" />
+      <node id="#eatlocal" label="#eatlocal" />
+      <node id="#meatloaf" label="#meatloaf" />
+      <node id="#ask614" label="#ask614" />
+      <node id="#winter" label="#winter" />
+      <node id="#Restaurant" label="#Restaurant" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#cbuscomfort" label="#cbuscomfort" />
+      <node id="#hangover" label="#hangover" />
+      <node id="#LaborDay" label="#LaborDay" />
+      <node id="#brunch" label="#brunch" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#culinary" label="#culinary" />
+      <node id="#EatDirty" label="#EatDirty" />
+      <node id="#tasi" label="#tasi" />
+      <node id="#Mom" label="#Mom" />
+      <node id="#Resolution" label="#Resolution" />
+      <node id="#breakfast" label="#breakfast" />
+      <node id="#EatLocal" label="#EatLocal" />
+      <node id="#quesofresco" label="#quesofresco" />
+      <node id="#DineOriginals10" label="#DineOriginals10" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#hummus" label="#hummus" />
+      <node id="#Restaurants" label="#Restaurants" />
+      <node id="#arnoldclassic" label="#arnoldclassic" />
+      <node id="#Coffee" label="#Coffee" />
+      <node id="#Lamb" label="#Lamb" />
+      <node id="#lambgyro" label="#lambgyro" />
+      <node id="#tasteColumbus" label="#tasteColumbus" />
+      <node id="#RestaurantWeek" label="#RestaurantWeek" />
+      <node id="#eat614" label="#eat614" />
+      <node id="#ifyoucantsingthenhum" label="#ifyoucantsingthenhum" />
+      <node id="#restaurant" label="#restaurant" />
+      <node id="#beforeshaws" label="#beforeshaws" />
+      <node id="#vintage" label="#vintage" />
+      <node id="#gift" label="#gift" />
+      <node id="#Eat614" label="#Eat614" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NewYearsEve" target="#NYE" weight="2256" />
+      <edge id="1" source="#NewYearsEve" target="#Cbus" weight="2256" />
+      <edge id="2" source="#AsSeenInCbus" target="#EatLocal" weight="2256" />
+      <edge id="3" source="#AsSeenInCbus" target="#RestaurantWeek" weight="2256" />
+      <edge id="4" source="#Christmas" target="#gift" weight="2256" />
+      <edge id="5" source="#Christmas" target="#Columbus" weight="6768" />
+      <edge id="6" source="#Christmas" target="#restaurants" weight="2256" />
+      <edge id="7" source="#Christmas" target="#NYE" weight="2256" />
+      <edge id="8" source="#restaurants" target="#cbusr" weight="2256" />
+      <edge id="9" source="#restaurants" target="#NYE" weight="2256" />
+      <edge id="10" source="#restaurants" target="#ask614" weight="2256" />
+      <edge id="11" source="#restaurants" target="#columbus" weight="4512" />
+      <edge id="12" source="#restaurants" target="#Cbus" weight="4512" />
+      <edge id="13" source="#restaurants" target="#Columbus" weight="4512" />
+      <edge id="14" source="#hummmmmmuuuussss" target="#ifyoucantsingthenhum" weight="2256" />
+      <edge id="15" source="#hummmmmmuuuussss" target="#chickpeas" weight="2256" />
+      <edge id="16" source="#hummmmmmuuuussss" target="#hummus" weight="2256" />
+      <edge id="17" source="#dineoriginals" target="#nationaldessertday" weight="2256" />
+      <edge id="18" source="#tasicafe" target="#meatloaf" weight="2256" />
+      <edge id="19" source="#tasicafe" target="#quesofresco" weight="2256" />
+      <edge id="20" source="#tasicafe" target="#lambgyro" weight="2256" />
+      <edge id="21" source="#tasicafe" target="#hangover" weight="2256" />
+      <edge id="22" source="#tasicafe" target="#tasteColumbus" weight="2256" />
+      <edge id="23" source="#tasicafe" target="#tasi" weight="6768" />
+      <edge id="24" source="#Cbus" target="#Sausage" weight="2256" />
+      <edge id="25" source="#Cbus" target="#Lamb" weight="2256" />
+      <edge id="26" source="#Cbus" target="#LaborDay" weight="2256" />
+      <edge id="27" source="#Cbus" target="#Ohio" weight="2256" />
+      <edge id="28" source="#Cbus" target="#columbus" weight="4512" />
+      <edge id="29" source="#Cbus" target="#Fresh" weight="2256" />
+      <edge id="30" source="#cbusfoodscene" target="#brewerydistrict" weight="2256" />
+      <edge id="31" source="#cbusfoodscene" target="#lifeincbus" weight="2256" />
+      <edge id="32" source="#cbusfoodscene" target="#expcols" weight="2256" />
+      <edge id="33" source="#cbusfoodscene" target="#eat614" weight="2256" />
+      <edge id="34" source="#MothersDay" target="#Mom" weight="2256" />
+      <edge id="35" source="#Ohio" target="#Sausage" weight="2256" />
+      <edge id="36" source="#Ohio" target="#Lamb" weight="2256" />
+      <edge id="37" source="#Ohio" target="#LaborDay" weight="2256" />
+      <edge id="38" source="#Ohio" target="#Fresh" weight="2256" />
+      <edge id="39" source="#brewerydistrict" target="#lifeincbus" weight="2256" />
+      <edge id="40" source="#brewerydistrict" target="#expcols" weight="2256" />
+      <edge id="41" source="#brewerydistrict" target="#eat614" weight="2256" />
+      <edge id="42" source="#cbusr" target="#ask614" weight="4512" />
+      <edge id="43" source="#cbusr" target="#Columbus" weight="6768" />
+      <edge id="44" source="#cbusr" target="#restaurant" weight="4512" />
+      <edge id="45" source="#yum" target="#tasteColumbus" weight="2256" />
+      <edge id="46" source="#Sausage" target="#Lamb" weight="2256" />
+      <edge id="47" source="#Sausage" target="#LaborDay" weight="2256" />
+      <edge id="48" source="#Sausage" target="#Fresh" weight="2256" />
+      <edge id="49" source="#Columbus" target="#Resolution" weight="4512" />
+      <edge id="50" source="#Columbus" target="#Dining" weight="2256" />
+      <edge id="51" source="#Columbus" target="#breakfast" weight="2256" />
+      <edge id="52" source="#Columbus" target="#ask614" weight="2256" />
+      <edge id="53" source="#Columbus" target="#Restaurants" weight="6768" />
+      <edge id="54" source="#Columbus" target="#restaurant" weight="51888" />
+      <edge id="55" source="#Columbus" target="#cbuscomfort" weight="2256" />
+      <edge id="56" source="#Columbus" target="#Coffee" weight="9024" />
+      <edge id="57" source="#Columbus" target="#brewery" weight="2256" />
+      <edge id="58" source="#Columbus" target="#cbus" weight="4512" />
+      <edge id="59" source="#Columbus" target="#winter" weight="2256" />
+      <edge id="60" source="#Columbus" target="#brunch" weight="2256" />
+      <edge id="61" source="#Columbus" target="#food" weight="2256" />
+      <edge id="62" source="#Columbus" target="#culinary" weight="2256" />
+      <edge id="63" source="#Columbus" target="#Restaurant" weight="2256" />
+      <edge id="64" source="#chickpeas" target="#ifyoucantsingthenhum" weight="2256" />
+      <edge id="65" source="#chickpeas" target="#hummus" weight="2256" />
+      <edge id="66" source="#FarmToPlateWeek" target="#EatDirty" weight="2256" />
+      <edge id="67" source="#FarmToPlateWeek" target="#TakeYourTomatoToDinner" weight="2256" />
+      <edge id="68" source="#TakeYourTomatoToDinner" target="#EatDirty" weight="2256" />
+      <edge id="69" source="#tbt" target="#beforeshaws" weight="2256" />
+      <edge id="70" source="#tbt" target="#vintage" weight="2256" />
+      <edge id="71" source="#arnold" target="#arnoldclassic" weight="4512" />
+      <edge id="72" source="#lifeincbus" target="#expcols" weight="2256" />
+      <edge id="73" source="#lifeincbus" target="#eat614" weight="2256" />
+      <edge id="74" source="#vegetarian" target="#DineOriginals10" weight="2256" />
+      <edge id="75" source="#Fresh" target="#Lamb" weight="2256" />
+      <edge id="76" source="#Fresh" target="#LaborDay" weight="2256" />
+      <edge id="77" source="#instagift" target="#CyberMonday" weight="2256" />
+      <edge id="78" source="#food" target="#restaurant" weight="2256" />
+      <edge id="79" source="#cbus" target="#eat614" weight="2256" />
+      <edge id="80" source="#cbus" target="#restaurant" weight="4512" />
+      <edge id="81" source="#cbus" target="#eatlocal" weight="2256" />
+      <edge id="82" source="#eatlocal" target="#eat614" weight="2256" />
+      <edge id="83" source="#meatloaf" target="#hangover" weight="2256" />
+      <edge id="84" source="#meatloaf" target="#tasi" weight="2256" />
+      <edge id="85" source="#winter" target="#cbuscomfort" weight="2256" />
+      <edge id="86" source="#Restaurant" target="#columbus" weight="4512" />
+      <edge id="87" source="#hangover" target="#tasi" weight="2256" />
+      <edge id="88" source="#LaborDay" target="#Lamb" weight="2256" />
+      <edge id="89" source="#expcols" target="#eat614" weight="2256" />
+      <edge id="90" source="#tasi" target="#lambgyro" weight="2256" />
+      <edge id="91" source="#tasi" target="#quesofresco" weight="2256" />
+      <edge id="92" source="#Resolution" target="#restaurant" weight="4512" />
+      <edge id="93" source="#EatLocal" target="#RestaurantWeek" weight="2256" />
+      <edge id="94" source="#quesofresco" target="#lambgyro" weight="2256" />
+      <edge id="95" source="#hummus" target="#ifyoucantsingthenhum" weight="2256" />
+      <edge id="96" source="#RestaurantWeek" target="#Eat614" weight="4512" />
+      <edge id="97" source="#beforeshaws" target="#vintage" weight="2256" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#music" label="#music" />
+      <node id="#NFLDraft" label="#NFLDraft" />
+      <node id="#untilallarefree" label="#untilallarefree" />
+      <node id="#614startups" label="#614startups" />
+      <node id="#startup" label="#startup" />
+      <node id="#ListenIn" label="#ListenIn" />
+      <node id="#WeAreTexans" label="#WeAreTexans" />
+      <node id="#EndSlavery" label="#EndSlavery" />
+      <node id="#headphones" label="#headphones" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#music" target="#headphones" weight="111" />
+      <edge id="1" source="#music" target="#ListenIn" weight="333" />
+      <edge id="2" source="#NFLDraft" target="#WeAreTexans" weight="111" />
+      <edge id="3" source="#untilallarefree" target="#EndSlavery" weight="111" />
+      <edge id="4" source="#614startups" target="#startup" weight="111" />
+      <edge id="5" source="#ListenIn" target="#headphones" weight="111" />
+    </edges>
+  </graph>
+</gexf>

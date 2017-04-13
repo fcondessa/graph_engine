@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#smh" label="#smh" />
+      <node id="#CSCC" label="#CSCC" />
+      <node id="#TimeWarnerCable" label="#TimeWarnerCable" />
+      <node id="#Victors" label="#Victors" />
+      <node id="#NATO" label="#NATO" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#stone2cbus" label="#stone2cbus" />
+      <node id="#writing" label="#writing" />
+      <node id="#OSUNation" label="#OSUNation" />
+      <node id="#oneofthesedays" label="#oneofthesedays" />
+      <node id="#amreading" label="#amreading" />
+      <node id="#OSUvsBAMA" label="#OSUvsBAMA" />
+      <node id="#beerfest" label="#beerfest" />
+      <node id="#OlogieLife" label="#OlogieLife" />
+      <node id="#Comcast" label="#Comcast" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#rain" label="#rain" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#chess" label="#chess" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#Happy" label="#Happy" />
+      <node id="#shortnorth" label="#shortnorth" />
+      <node id="#Yezidi" label="#Yezidi" />
+      <node id="#amwriting" label="#amwriting" />
+      <node id="#MikeBrown" label="#MikeBrown" />
+      <node id="#Ukraine" label="#Ukraine" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#Iraq" label="#Iraq" />
+      <node id="#write" label="#write" />
+      <node id="#guitar" label="#guitar" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#smh" target="#TimeWarnerCable" weight="257" />
+      <edge id="1" source="#smh" target="#Comcast" weight="257" />
+      <edge id="2" source="#CSCC" target="#coffee" weight="257" />
+      <edge id="3" source="#TimeWarnerCable" target="#Comcast" weight="257" />
+      <edge id="4" source="#Victors" target="#OlogieLife" weight="257" />
+      <edge id="5" source="#NATO" target="#Ukraine" weight="257" />
+      <edge id="6" source="#Ferguson" target="#MikeBrown" weight="257" />
+      <edge id="7" source="#stone2cbus" target="#beerfest" weight="257" />
+      <edge id="8" source="#writing" target="#amreading" weight="257" />
+      <edge id="9" source="#writing" target="#guitar" weight="257" />
+      <edge id="10" source="#writing" target="#amwriting" weight="257" />
+      <edge id="11" source="#OSUNation" target="#OSUvsBAMA" weight="257" />
+      <edge id="12" source="#oneofthesedays" target="#amreading" weight="257" />
+      <edge id="13" source="#columbus" target="#shortnorth" weight="257" />
+      <edge id="14" source="#rain" target="#coffee" weight="257" />
+      <edge id="15" source="#rain" target="#amwriting" weight="257" />
+      <edge id="16" source="#expcols" target="#lifeincbus" weight="257" />
+      <edge id="17" source="#chess" target="#coffee" weight="257" />
+      <edge id="18" source="#coffee" target="#amwriting" weight="257" />
+      <edge id="19" source="#Happy" target="#amwriting" weight="257" />
+      <edge id="20" source="#Yezidi" target="#Iraq" weight="257" />
+      <edge id="21" source="#inspiration" target="#write" weight="257" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#France" label="#France" />
+      <node id="#type" label="#type" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#Skype" label="#Skype" />
+      <node id="#haro" label="#haro" />
+      <node id="#telecom" label="#telecom" />
+      <node id="#cadel" label="#cadel" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#Raiders" label="#Raiders" />
+      <node id="#businesstools" label="#businesstools" />
+      <node id="#smallbusiness" label="#smallbusiness" />
+      <node id="#BillGates" label="#BillGates" />
+      <node id="#small" label="#small" />
+      <node id="#travel" label="#travel" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#tour" label="#tour" />
+      <node id="#smallbusinesstools" label="#smallbusinesstools" />
+      <node id="#voippbx" label="#voippbx" />
+      <node id="#vocus" label="#vocus" />
+      <node id="#fb" label="#fb" />
+      <node id="#grenoble" label="#grenoble" />
+      <node id="#PaulAllen" label="#PaulAllen" />
+      <node id="#HARO" label="#HARO" />
+      <node id="#food" label="#food" />
+      <node id="#TDF" label="#TDF" />
+      <node id="#Faircall" label="#Faircall" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#Newtown" label="#Newtown" />
+      <node id="#li" label="#li" />
+      <node id="#sales" label="#sales" />
+      <node id="#Vocus" label="#Vocus" />
+      <node id="#SandyHook" label="#SandyHook" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#GivingTuesday" target="#socialmedia" weight="3221" />
+      <edge id="1" source="#France" target="#travel" weight="3221" />
+      <edge id="2" source="#France" target="#food" weight="3221" />
+      <edge id="3" source="#type" target="#Marketing" weight="3221" />
+      <edge id="4" source="#type" target="#SocialMedia" weight="3221" />
+      <edge id="5" source="#SocialMedia" target="#Marketing" weight="3221" />
+      <edge id="6" source="#NFL" target="#Raiders" weight="3221" />
+      <edge id="7" source="#Skype" target="#Faircall" weight="3221" />
+      <edge id="8" source="#Skype" target="#telecom" weight="12884" />
+      <edge id="9" source="#haro" target="#vocus" weight="3221" />
+      <edge id="10" source="#telecom" target="#Faircall" weight="3221" />
+      <edge id="11" source="#cadel" target="#tour" weight="3221" />
+      <edge id="12" source="#cadel" target="#TDF" weight="3221" />
+      <edge id="13" source="#cadel" target="#grenoble" weight="3221" />
+      <edge id="14" source="#businesstools" target="#smallbusinesstools" weight="3221" />
+      <edge id="15" source="#businesstools" target="#fb" weight="3221" />
+      <edge id="16" source="#businesstools" target="#li" weight="3221" />
+      <edge id="17" source="#businesstools" target="#voippbx" weight="3221" />
+      <edge id="18" source="#smallbusiness" target="#fb" weight="3221" />
+      <edge id="19" source="#smallbusiness" target="#li" weight="3221" />
+      <edge id="20" source="#smallbusiness" target="#sales" weight="3221" />
+      <edge id="21" source="#BillGates" target="#PaulAllen" weight="3221" />
+      <edge id="22" source="#small" target="#marketing" weight="3221" />
+      <edge id="23" source="#travel" target="#food" weight="3221" />
+      <edge id="24" source="#tour" target="#TDF" weight="3221" />
+      <edge id="25" source="#tour" target="#grenoble" weight="3221" />
+      <edge id="26" source="#smallbusinesstools" target="#fb" weight="3221" />
+      <edge id="27" source="#smallbusinesstools" target="#voippbx" weight="3221" />
+      <edge id="28" source="#smallbusinesstools" target="#li" weight="3221" />
+      <edge id="29" source="#voippbx" target="#fb" weight="3221" />
+      <edge id="30" source="#voippbx" target="#li" weight="3221" />
+      <edge id="31" source="#fb" target="#li" weight="6442" />
+      <edge id="32" source="#fb" target="#sales" weight="3221" />
+      <edge id="33" source="#grenoble" target="#TDF" weight="3221" />
+      <edge id="34" source="#HARO" target="#Vocus" weight="3221" />
+      <edge id="35" source="#Newtown" target="#SandyHook" weight="3221" />
+      <edge id="36" source="#li" target="#sales" weight="3221" />
+    </edges>
+  </graph>
+</gexf>

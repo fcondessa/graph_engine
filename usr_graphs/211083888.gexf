@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DBacks" label="#DBacks" />
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#Braves" label="#Braves" />
+      <node id="#weather" label="#weather" />
+      <node id="#yay" label="#yay" />
+      <node id="#Longhorns" label="#Longhorns" />
+      <node id="#Phillies" label="#Phillies" />
+      <node id="#Brewers" label="#Brewers" />
+      <node id="#Nationals" label="#Nationals" />
+      <node id="#sixseasonsandamovie" label="#sixseasonsandamovie" />
+      <node id="#Licey" label="#Licey" />
+      <node id="#Marlins" label="#Marlins" />
+      <node id="#Angels" label="#Angels" />
+      <node id="#orioles" label="#orioles" />
+      <node id="#Royals" label="#Royals" />
+      <node id="#BlueJays" label="#BlueJays" />
+      <node id="#Astros" label="#Astros" />
+      <node id="#Rays" label="#Rays" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#Athletics" label="#Athletics" />
+      <node id="#Cal" label="#Cal" />
+      <node id="#HookEm" label="#HookEm" />
+      <node id="#Cardinals" label="#Cardinals" />
+      <node id="#Reds" label="#Reds" />
+      <node id="#Pirates" label="#Pirates" />
+      <node id="#want" label="#want" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#Mariners" label="#Mariners" />
+      <node id="#Diamondbacks" label="#Diamondbacks" />
+      <node id="#sports" label="#sports" />
+      <node id="#Tigers" label="#Tigers" />
+      <node id="#dominican" label="#dominican" />
+      <node id="#Texas" label="#Texas" />
+      <node id="#WhiteSox" label="#WhiteSox" />
+      <node id="#Rockies" label="#Rockies" />
+      <node id="#fun" label="#fun" />
+      <node id="#onestepcloser" label="#onestepcloser" />
+      <node id="#Padres" label="#Padres" />
+      <node id="#Pacific" label="#Pacific" />
+      <node id="#Bumgarner" label="#Bumgarner" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#USC" label="#USC" />
+      <node id="#hashtags" label="#hashtags" />
+      <node id="#severe" label="#severe" />
+      <node id="#todie" label="#todie" />
+      <node id="#braves" label="#braves" />
+      <node id="#phillies" label="#phillies" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#Mets" label="#Mets" />
+      <node id="#Kershaw" label="#Kershaw" />
+      <node id="#UCLA" label="#UCLA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DBacks" target="#Braves" weight="9684" />
+      <edge id="1" source="#RedSox" target="#BlueJays" weight="3228" />
+      <edge id="2" source="#RedSox" target="#SFGiants" weight="9684" />
+      <edge id="3" source="#Braves" target="#Angels" weight="3228" />
+      <edge id="4" source="#weather" target="#severe" weight="3228" />
+      <edge id="5" source="#yay" target="#hashtags" weight="3228" />
+      <edge id="6" source="#yay" target="#fun" weight="3228" />
+      <edge id="7" source="#yay" target="#sports" weight="3228" />
+      <edge id="8" source="#Longhorns" target="#HookEm" weight="3228" />
+      <edge id="9" source="#Phillies" target="#Dodgers" weight="6456" />
+      <edge id="10" source="#Phillies" target="#Nationals" weight="3228" />
+      <edge id="11" source="#Phillies" target="#Giants" weight="3228" />
+      <edge id="12" source="#Phillies" target="#Reds" weight="3228" />
+      <edge id="13" source="#Brewers" target="#Athletics" weight="3228" />
+      <edge id="14" source="#Brewers" target="#Astros" weight="6456" />
+      <edge id="15" source="#Brewers" target="#Rays" weight="6456" />
+      <edge id="16" source="#Brewers" target="#Pirates" weight="3228" />
+      <edge id="17" source="#sixseasonsandamovie" target="#onestepcloser" weight="3228" />
+      <edge id="18" source="#Licey" target="#phillies" weight="3228" />
+      <edge id="19" source="#Licey" target="#dominican" weight="3228" />
+      <edge id="20" source="#Marlins" target="#Pirates" weight="6456" />
+      <edge id="21" source="#orioles" target="#phillies" weight="3228" />
+      <edge id="22" source="#Royals" target="#Reds" weight="3228" />
+      <edge id="23" source="#BlueJays" target="#Tigers" weight="3228" />
+      <edge id="24" source="#BlueJays" target="#Dodgers" weight="3228" />
+      <edge id="25" source="#BlueJays" target="#Indians" weight="3228" />
+      <edge id="26" source="#Astros" target="#Rockies" weight="3228" />
+      <edge id="27" source="#Astros" target="#Padres" weight="3228" />
+      <edge id="28" source="#Astros" target="#Dodgers" weight="3228" />
+      <edge id="29" source="#Astros" target="#Athletics" weight="3228" />
+      <edge id="30" source="#Astros" target="#Reds" weight="3228" />
+      <edge id="31" source="#Rays" target="#WhiteSox" weight="3228" />
+      <edge id="32" source="#Dodgers" target="#Mariners" weight="3228" />
+      <edge id="33" source="#Dodgers" target="#Giants" weight="6456" />
+      <edge id="34" source="#Dodgers" target="#Reds" weight="3228" />
+      <edge id="35" source="#Athletics" target="#Mariners" weight="3228" />
+      <edge id="36" source="#Athletics" target="#Mets" weight="3228" />
+      <edge id="37" source="#Cal" target="#Pacific" weight="3228" />
+      <edge id="38" source="#Cardinals" target="#Mariners" weight="3228" />
+      <edge id="39" source="#Cardinals" target="#Mets" weight="3228" />
+      <edge id="40" source="#Reds" target="#Giants" weight="6456" />
+      <edge id="41" source="#want" target="#todie" weight="3228" />
+      <edge id="42" source="#Giants" target="#Diamondbacks" weight="6456" />
+      <edge id="43" source="#Mariners" target="#Mets" weight="3228" />
+      <edge id="44" source="#Diamondbacks" target="#Diamondbacks" weight="6456" />
+      <edge id="45" source="#sports" target="#hashtags" weight="3228" />
+      <edge id="46" source="#sports" target="#fun" weight="3228" />
+      <edge id="47" source="#dominican" target="#phillies" weight="3228" />
+      <edge id="48" source="#Texas" target="#USC" weight="3228" />
+      <edge id="49" source="#fun" target="#hashtags" weight="3228" />
+      <edge id="50" source="#Bumgarner" target="#Kershaw" weight="3228" />
+      <edge id="51" source="#SFGiants" target="#phillies" weight="3228" />
+      <edge id="52" source="#SFGiants" target="#braves" weight="3228" />
+      <edge id="53" source="#SFGiants" target="#UCLA" weight="3228" />
+    </edges>
+  </graph>
+</gexf>

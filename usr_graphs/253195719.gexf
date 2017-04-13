@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Pelotonia15" label="#Pelotonia15" />
+      <node id="#OSUMatch2015" label="#OSUMatch2015" />
+      <node id="#BuckeyeBabies" label="#BuckeyeBabies" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#GoogleGlass" label="#GoogleGlass" />
+      <node id="#CFPChampionship" label="#CFPChampionship" />
+      <node id="#OregonVsOhioState" label="#OregonVsOhioState" />
+      <node id="#OSUNews" label="#OSUNews" />
+      <node id="#OSUCOM" label="#OSUCOM" />
+      <node id="#OSUInnovate" label="#OSUInnovate" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#NewWexMedSite" label="#NewWexMedSite" />
+      <node id="#OSUWexMed" label="#OSUWexMed" />
+      <node id="#GoBuckeyes" label="#GoBuckeyes" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#TheJames" label="#TheJames" />
+      <node id="#Match2015" label="#Match2015" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Pelotonia15" target="#TheJames" weight="98" />
+      <edge id="1" source="#OSUMatch2015" target="#Match2015" weight="98" />
+      <edge id="2" source="#OSUMatch2015" target="#OSUCOM" weight="98" />
+      <edge id="3" source="#BuckeyeBabies" target="#GoBuckeyes" weight="98" />
+      <edge id="4" source="#hospitals" target="#Columbus" weight="98" />
+      <edge id="5" source="#GoogleGlass" target="#OSUInnovate" weight="98" />
+      <edge id="6" source="#CFPChampionship" target="#OregonVsOhioState" weight="98" />
+      <edge id="7" source="#OSUNews" target="#OSUCOM" weight="98" />
+      <edge id="8" source="#OSUCOM" target="#Match2015" weight="98" />
+      <edge id="9" source="#cancer" target="#TheJames" weight="98" />
+      <edge id="10" source="#NewWexMedSite" target="#OSUWexMed" weight="98" />
+    </edges>
+  </graph>
+</gexf>

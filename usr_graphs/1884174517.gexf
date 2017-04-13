@@ -1,0 +1,888 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#jobsreport" label="#jobsreport" />
+      <node id="#adoptee" label="#adoptee" />
+      <node id="#paddington" label="#paddington" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#Armenia" label="#Armenia" />
+      <node id="#testmania" label="#testmania" />
+      <node id="#DGSW" label="#DGSW" />
+      <node id="#Euclidbeachpark" label="#Euclidbeachpark" />
+      <node id="#DoYourJob" label="#DoYourJob" />
+      <node id="#WageGap" label="#WageGap" />
+      <node id="#freebies" label="#freebies" />
+      <node id="#rollercoaster" label="#rollercoaster" />
+      <node id="#Immigrants" label="#Immigrants" />
+      <node id="#beer" label="#beer" />
+      <node id="#TimesSquare" label="#TimesSquare" />
+      <node id="#GoldSachs" label="#GoldSachs" />
+      <node id="#immigration" label="#immigration" />
+      <node id="#LunarNewYear" label="#LunarNewYear" />
+      <node id="#stvitus" label="#stvitus" />
+      <node id="#Cle" label="#Cle" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#LeBronJames" label="#LeBronJames" />
+      <node id="#nevertrump" label="#nevertrump" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#Spam" label="#Spam" />
+      <node id="#Peet" label="#Peet" />
+      <node id="#TPP" label="#TPP" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#choppedgrillmasters" label="#choppedgrillmasters" />
+      <node id="#MinimumWage" label="#MinimumWage" />
+      <node id="#kotor" label="#kotor" />
+      <node id="#planetoftheapes" label="#planetoftheapes" />
+      <node id="#dreamjob" label="#dreamjob" />
+      <node id="#HotRodWilliams" label="#HotRodWilliams" />
+      <node id="#nightmarket" label="#nightmarket" />
+      <node id="#workers" label="#workers" />
+      <node id="#brianeno" label="#brianeno" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#Ohioans" label="#Ohioans" />
+      <node id="#ADA25CLE" label="#ADA25CLE" />
+      <node id="#Ukraine" label="#Ukraine" />
+      <node id="#backtoschool" label="#backtoschool" />
+      <node id="#fire" label="#fire" />
+      <node id="#RedWings" label="#RedWings" />
+      <node id="#USA" label="#USA" />
+      <node id="#reeses" label="#reeses" />
+      <node id="#candyforthetroops" label="#candyforthetroops" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#ThisWasCLE" label="#ThisWasCLE" />
+      <node id="#GoNorse" label="#GoNorse" />
+      <node id="#kurentovanje" label="#kurentovanje" />
+      <node id="#thelandmovie" label="#thelandmovie" />
+      <node id="#Atlanta" label="#Atlanta" />
+      <node id="#BruceSpringsteen" label="#BruceSpringsteen" />
+      <node id="#americansplendor" label="#americansplendor" />
+      <node id="#shakerheights" label="#shakerheights" />
+      <node id="#Germany" label="#Germany" />
+      <node id="#MLKDay" label="#MLKDay" />
+      <node id="#journalists" label="#journalists" />
+      <node id="#Parmatown" label="#Parmatown" />
+      <node id="#charterschool" label="#charterschool" />
+      <node id="#ThePlainDealer" label="#ThePlainDealer" />
+      <node id="#income" label="#income" />
+      <node id="#AmyWinehouse" label="#AmyWinehouse" />
+      <node id="#GoJaguars" label="#GoJaguars" />
+      <node id="#lovenewspapers" label="#lovenewspapers" />
+      <node id="#burlesque" label="#burlesque" />
+      <node id="#performance" label="#performance" />
+      <node id="#sreeveland" label="#sreeveland" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#Akron" label="#Akron" />
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#WinterSolstice" label="#WinterSolstice" />
+      <node id="#clevelandculturalgardens" label="#clevelandculturalgardens" />
+      <node id="#stellawalsh" label="#stellawalsh" />
+      <node id="#MMA" label="#MMA" />
+      <node id="#ADA" label="#ADA" />
+      <node id="#ohwx" label="#ohwx" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#KoreanAmerican" label="#KoreanAmerican" />
+      <node id="#Windians" label="#Windians" />
+      <node id="#UFC198" label="#UFC198" />
+      <node id="#CobraVerde" label="#CobraVerde" />
+      <node id="#EqualPay" label="#EqualPay" />
+      <node id="#trade" label="#trade" />
+      <node id="#UFC" label="#UFC" />
+      <node id="#euclid" label="#euclid" />
+      <node id="#Satan" label="#Satan" />
+      <node id="#BacktoSchool" label="#BacktoSchool" />
+      <node id="#economicgrowth" label="#economicgrowth" />
+      <node id="#Rio" label="#Rio" />
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#makers" label="#makers" />
+      <node id="#retail" label="#retail" />
+      <node id="#fantastic" label="#fantastic" />
+      <node id="#FightFor15" label="#FightFor15" />
+      <node id="#NKUGoldDay" label="#NKUGoldDay" />
+      <node id="#CRE" label="#CRE" />
+      <node id="#Google" label="#Google" />
+      <node id="#women" label="#women" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#wagegap" label="#wagegap" />
+      <node id="#cleveland" label="#cleveland" />
+      <node id="#clevelandpride" label="#clevelandpride" />
+      <node id="#merrickgarland" label="#merrickgarland" />
+      <node id="#Cavaliers" label="#Cavaliers" />
+      <node id="#Education" label="#Education" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#horror" label="#horror" />
+      <node id="#WalmartStrikers" label="#WalmartStrikers" />
+      <node id="#retailers" label="#retailers" />
+      <node id="#CMWorld2014" label="#CMWorld2014" />
+      <node id="#CLEStPats" label="#CLEStPats" />
+      <node id="#ThisisCLE" label="#ThisisCLE" />
+      <node id="#comicconcleveland" label="#comicconcleveland" />
+      <node id="#eastcoastcustard" label="#eastcoastcustard" />
+      <node id="#Russia" label="#Russia" />
+      <node id="#test" label="#test" />
+      <node id="#GOPconvention" label="#GOPconvention" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#ADA25" label="#ADA25" />
+      <node id="#Brazil" label="#Brazil" />
+      <node id="#BackToSchool" label="#BackToSchool" />
+      <node id="#jobsearch" label="#jobsearch" />
+      <node id="#testmaniaOH" label="#testmaniaOH" />
+      <node id="#FashionFlash" label="#FashionFlash" />
+      <node id="#ConceptSchools" label="#ConceptSchools" />
+      <node id="#WearGreen" label="#WearGreen" />
+      <node id="#ChristmasEve" label="#ChristmasEve" />
+      <node id="#elected" label="#elected" />
+      <node id="#serialrapist" label="#serialrapist" />
+      <node id="#Michigan" label="#Michigan" />
+      <node id="#IceCreamMonth" label="#IceCreamMonth" />
+      <node id="#scifi" label="#scifi" />
+      <node id="#DavidBowie" label="#DavidBowie" />
+      <node id="#JimmyHaslam" label="#JimmyHaslam" />
+      <node id="#DMZ" label="#DMZ" />
+      <node id="#EssentialCLE" label="#EssentialCLE" />
+      <node id="#cinema" label="#cinema" />
+      <node id="#TacoTuesday" label="#TacoTuesday" />
+      <node id="#vodka" label="#vodka" />
+      <node id="#cavs" label="#cavs" />
+      <node id="#euclidbeach" label="#euclidbeach" />
+      <node id="#efairness" label="#efairness" />
+      <node id="#Irish" label="#Irish" />
+      <node id="#ThisIsCLE" label="#ThisIsCLE" />
+      <node id="#Lakers" label="#Lakers" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#Transgender" label="#Transgender" />
+      <node id="#ThisisCle" label="#ThisisCle" />
+      <node id="#Perseid" label="#Perseid" />
+      <node id="#Yankees" label="#Yankees" />
+      <node id="#meteorshower" label="#meteorshower" />
+      <node id="#AMERICANSEOUL" label="#AMERICANSEOUL" />
+      <node id="#snowplows" label="#snowplows" />
+      <node id="#repubparty" label="#repubparty" />
+      <node id="#EastWestMedia" label="#EastWestMedia" />
+      <node id="#BehindTheScene" label="#BehindTheScene" />
+      <node id="#ChetBaker" label="#ChetBaker" />
+      <node id="#CLEsnow" label="#CLEsnow" />
+      <node id="#pierogi" label="#pierogi" />
+      <node id="#Parma" label="#Parma" />
+      <node id="#Reclamation" label="#Reclamation" />
+      <node id="#immigrants" label="#immigrants" />
+      <node id="#newspaper" label="#newspaper" />
+      <node id="#SnowyWednesday" label="#SnowyWednesday" />
+      <node id="#HotRod" label="#HotRod" />
+      <node id="#1u" label="#1u" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#thisisspinaltap" label="#thisisspinaltap" />
+      <node id="#Unemployment" label="#Unemployment" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#slingerland" label="#slingerland" />
+      <node id="#ctdebate" label="#ctdebate" />
+      <node id="#rocknroll" label="#rocknroll" />
+      <node id="#Diversity" label="#Diversity" />
+      <node id="#workplace" label="#workplace" />
+      <node id="#ohioed" label="#ohioed" />
+      <node id="#vlog" label="#vlog" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#PARCC" label="#PARCC" />
+      <node id="#punk" label="#punk" />
+      <node id="#Valravn" label="#Valravn" />
+      <node id="#DavidLetterman" label="#DavidLetterman" />
+      <node id="#trump" label="#trump" />
+      <node id="#printmatters" label="#printmatters" />
+      <node id="#HR" label="#HR" />
+      <node id="#space" label="#space" />
+      <node id="#AmandaBerry" label="#AmandaBerry" />
+      <node id="#YRC" label="#YRC" />
+      <node id="#college" label="#college" />
+      <node id="#Fortune500" label="#Fortune500" />
+      <node id="#FirstEnergyCorp" label="#FirstEnergyCorp" />
+      <node id="#clevelandworldfestival" label="#clevelandworldfestival" />
+      <node id="#Content" label="#Content" />
+      <node id="#FourthofJuly" label="#FourthofJuly" />
+      <node id="#Hudson" label="#Hudson" />
+      <node id="#bighero6" label="#bighero6" />
+      <node id="#Detroit" label="#Detroit" />
+      <node id="#mylife" label="#mylife" />
+      <node id="#flats" label="#flats" />
+      <node id="#HeinensCLE" label="#HeinensCLE" />
+      <node id="#schoolshootings" label="#schoolshootings" />
+      <node id="#Beachwood" label="#Beachwood" />
+      <node id="#PikeCountyMurders" label="#PikeCountyMurders" />
+      <node id="#Democrats" label="#Democrats" />
+      <node id="#Bluray" label="#Bluray" />
+      <node id="#ingenuityfest" label="#ingenuityfest" />
+      <node id="#PuppyBowl" label="#PuppyBowl" />
+      <node id="#FF" label="#FF" />
+      <node id="#DVD" label="#DVD" />
+      <node id="#Goodyear" label="#Goodyear" />
+      <node id="#GinaDeJesus" label="#GinaDeJesus" />
+      <node id="#Chocolates" label="#Chocolates" />
+      <node id="#PlainDealer" label="#PlainDealer" />
+      <node id="#teens" label="#teens" />
+      <node id="#welding" label="#welding" />
+      <node id="#budva" label="#budva" />
+      <node id="#TaxDay" label="#TaxDay" />
+      <node id="#tests" label="#tests" />
+      <node id="#1980s" label="#1980s" />
+      <node id="#LakeErie" label="#LakeErie" />
+      <node id="#YahooRNC" label="#YahooRNC" />
+      <node id="#hell" label="#hell" />
+      <node id="#JohnKasich" label="#JohnKasich" />
+      <node id="#highschool" label="#highschool" />
+      <node id="#asthma" label="#asthma" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#Browns" label="#Browns" />
+      <node id="#dogs" label="#dogs" />
+      <node id="#Sept11" label="#Sept11" />
+      <node id="#thiswascle" label="#thiswascle" />
+      <node id="#Lemmy" label="#Lemmy" />
+      <node id="#dtCLE" label="#dtCLE" />
+      <node id="#healthdisparities" label="#healthdisparities" />
+      <node id="#mafia" label="#mafia" />
+      <node id="#StayCurious" label="#StayCurious" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#NationalReentryWeek" label="#NationalReentryWeek" />
+      <node id="#PikeCounty" label="#PikeCounty" />
+      <node id="#thisiscle" label="#thisiscle" />
+      <node id="#Armenian" label="#Armenian" />
+      <node id="#browns" label="#browns" />
+      <node id="#PaczkiDay" label="#PaczkiDay" />
+      <node id="#Thisiscle" label="#Thisiscle" />
+      <node id="#SCOTUSmarriage" label="#SCOTUSmarriage" />
+      <node id="#breakingnews" label="#breakingnews" />
+      <node id="#rallytogether" label="#rallytogether" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#grateful" label="#grateful" />
+      <node id="#sunreturns" label="#sunreturns" />
+      <node id="#Godzilla" label="#Godzilla" />
+      <node id="#retailjobs" label="#retailjobs" />
+      <node id="#CCideas" label="#CCideas" />
+      <node id="#guacamole" label="#guacamole" />
+      <node id="#WithoutNews" label="#WithoutNews" />
+      <node id="#3wxready" label="#3wxready" />
+      <node id="#charterschools" label="#charterschools" />
+      <node id="#FridayFlashback" label="#FridayFlashback" />
+      <node id="#minimumwage" label="#minimumwage" />
+      <node id="#PressClubCleve" label="#PressClubCleve" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#HotRodStrong" label="#HotRodStrong" />
+      <node id="#Allin216" label="#Allin216" />
+      <node id="#Greece" label="#Greece" />
+      <node id="#guitars" label="#guitars" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#mayorperk" label="#mayorperk" />
+      <node id="#SJA1890" label="#SJA1890" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#ImWithAlice" label="#ImWithAlice" />
+      <node id="#from" label="#from" />
+      <node id="#Bulls" label="#Bulls" />
+      <node id="#economy" label="#economy" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#chipsandbones" label="#chipsandbones" />
+      <node id="#YurisNight" label="#YurisNight" />
+      <node id="#unemployment" label="#unemployment" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#AmyMovie" label="#AmyMovie" />
+      <node id="#CommonCore" label="#CommonCore" />
+      <node id="#jrsmith" label="#jrsmith" />
+      <node id="#LouReed" label="#LouReed" />
+      <node id="#Lorain" label="#Lorain" />
+      <node id="#akron" label="#akron" />
+      <node id="#newspapers" label="#newspapers" />
+      <node id="#halloween" label="#halloween" />
+      <node id="#neverforget" label="#neverforget" />
+      <node id="#infantmortality" label="#infantmortality" />
+      <node id="#colozzas" label="#colozzas" />
+      <node id="#BlueJackets" label="#BlueJackets" />
+      <node id="#hilton" label="#hilton" />
+      <node id="#Signet" label="#Signet" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#inclusion" label="#inclusion" />
+      <node id="#WizardWorld" label="#WizardWorld" />
+      <node id="#drums" label="#drums" />
+      <node id="#cats" label="#cats" />
+      <node id="#petfood" label="#petfood" />
+      <node id="#HIRING" label="#HIRING" />
+      <node id="#HighRise" label="#HighRise" />
+      <node id="#LeBron" label="#LeBron" />
+      <node id="#SolarEclipse" label="#SolarEclipse" />
+      <node id="#CLEmarathon" label="#CLEmarathon" />
+      <node id="#ClevelandMarathon" label="#ClevelandMarathon" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#TheBeatles" label="#TheBeatles" />
+      <node id="#snow" label="#snow" />
+      <node id="#wage" label="#wage" />
+      <node id="#RNC2016" label="#RNC2016" />
+      <node id="#Union" label="#Union" />
+      <node id="#FergusonShooting" label="#FergusonShooting" />
+      <node id="#MarriageEquality" label="#MarriageEquality" />
+      <node id="#Tweeter" label="#Tweeter" />
+      <node id="#ZikaVirus" label="#ZikaVirus" />
+      <node id="#BombCityUSA" label="#BombCityUSA" />
+      <node id="#rapekit" label="#rapekit" />
+      <node id="#cle" label="#cle" />
+      <node id="#Baltimore" label="#Baltimore" />
+      <node id="#Edgewater" label="#Edgewater" />
+      <node id="#edchat" label="#edchat" />
+      <node id="#employment" label="#employment" />
+      <node id="#SaintJosephAcademy" label="#SaintJosephAcademy" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#thisisCLE" label="#thisisCLE" />
+      <node id="#Rustbelt" label="#Rustbelt" />
+      <node id="#Blackstar" label="#Blackstar" />
+      <node id="#unions" label="#unions" />
+      <node id="#MichiganPrimary" label="#MichiganPrimary" />
+      <node id="#EthanHawke" label="#EthanHawke" />
+      <node id="#ALLin216" label="#ALLin216" />
+      <node id="#cuyahogariver" label="#cuyahogariver" />
+      <node id="#organizeCLE" label="#organizeCLE" />
+      <node id="#ContentMarketing" label="#ContentMarketing" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#chartergate" label="#chartergate" />
+      <node id="#Boston" label="#Boston" />
+      <node id="#Retailers" label="#Retailers" />
+      <node id="#business" label="#business" />
+      <node id="#brooklyn" label="#brooklyn" />
+      <node id="#HappyinCLE" label="#HappyinCLE" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#Christmas2015" label="#Christmas2015" />
+      <node id="#avocados" label="#avocados" />
+      <node id="#Chardon" label="#Chardon" />
+      <node id="#PrettyinPink" label="#PrettyinPink" />
+      <node id="#delly" label="#delly" />
+      <node id="#weargreen" label="#weargreen" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#RockHall2015" label="#RockHall2015" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#voting" label="#voting" />
+      <node id="#boss" label="#boss" />
+      <node id="#cobraverde" label="#cobraverde" />
+      <node id="#CMWorld" label="#CMWorld" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#jobsreport" target="#jobs" weight="1841" />
+      <edge id="1" source="#jobsreport" target="#Ohio" weight="1841" />
+      <edge id="2" source="#adoptee" target="#mylife" weight="1841" />
+      <edge id="3" source="#adoptee" target="#KoreanAmerican" weight="1841" />
+      <edge id="4" source="#adoptee" target="#Detroit" weight="1841" />
+      <edge id="5" source="#adoptee" target="#AMERICANSEOUL" weight="1841" />
+      <edge id="6" source="#adoptee" target="#vlog" weight="1841" />
+      <edge id="7" source="#paddington" target="#americansplendor" weight="1841" />
+      <edge id="8" source="#paddington" target="#thisisspinaltap" weight="1841" />
+      <edge id="9" source="#paddington" target="#planetoftheapes" weight="1841" />
+      <edge id="10" source="#paddington" target="#cleveland" weight="1841" />
+      <edge id="11" source="#paddington" target="#bighero6" weight="1841" />
+      <edge id="12" source="#Thanksgiving" target="#retailers" weight="1841" />
+      <edge id="13" source="#Thanksgiving" target="#BlackFriday" weight="7364" />
+      <edge id="14" source="#Thanksgiving" target="#WalmartStrikers" weight="1841" />
+      <edge id="15" source="#Thanksgiving" target="#retail" weight="3682" />
+      <edge id="16" source="#Thanksgiving" target="#Ohio" weight="1841" />
+      <edge id="17" source="#Armenia" target="#Beachwood" weight="1841" />
+      <edge id="18" source="#testmania" target="#tests" weight="1841" />
+      <edge id="19" source="#testmania" target="#Ohio" weight="1841" />
+      <edge id="20" source="#DGSW" target="#CLE" weight="1841" />
+      <edge id="21" source="#Euclidbeachpark" target="#euclid" weight="1841" />
+      <edge id="22" source="#DoYourJob" target="#merrickgarland" weight="1841" />
+      <edge id="23" source="#DoYourJob" target="#Cleveland" weight="1841" />
+      <edge id="24" source="#WageGap" target="#EqualPay" weight="1841" />
+      <edge id="25" source="#freebies" target="#TaxDay" weight="1841" />
+      <edge id="26" source="#rollercoaster" target="#Valravn" weight="1841" />
+      <edge id="27" source="#Immigrants" target="#ThisisCLE" weight="1841" />
+      <edge id="28" source="#Immigrants" target="#RNCinCLE" weight="1841" />
+      <edge id="29" source="#Immigrants" target="#Cleveland" weight="1841" />
+      <edge id="30" source="#beer" target="#cleveland" weight="1841" />
+      <edge id="31" source="#TimesSquare" target="#NYC" weight="1841" />
+      <edge id="32" source="#TimesSquare" target="#brooklyn" weight="1841" />
+      <edge id="33" source="#GoldSachs" target="#FirstEnergyCorp" weight="1841" />
+      <edge id="34" source="#immigration" target="#economicgrowth" weight="1841" />
+      <edge id="35" source="#LunarNewYear" target="#ThisisCLE" weight="1841" />
+      <edge id="36" source="#LunarNewYear" target="#Cleveland" weight="1841" />
+      <edge id="37" source="#stvitus" target="#mayorperk" weight="1841" />
+      <edge id="38" source="#stvitus" target="#tbt" weight="1841" />
+      <edge id="39" source="#Cle" target="#Reclamation" weight="1841" />
+      <edge id="40" source="#Cle" target="#RNCinCLE" weight="1841" />
+      <edge id="41" source="#Cle" target="#Rustbelt" weight="1841" />
+      <edge id="42" source="#WorldSeries" target="#Cleveland" weight="1841" />
+      <edge id="43" source="#WorldSeries" target="#pierogi" weight="1841" />
+      <edge id="44" source="#LeBronJames" target="#Parma" weight="1841" />
+      <edge id="45" source="#LeBronJames" target="#Cleveland" weight="1841" />
+      <edge id="46" source="#LeBronJames" target="#pierogi" weight="1841" />
+      <edge id="47" source="#nevertrump" target="#RNCinCLE" weight="1841" />
+      <edge id="48" source="#nevertrump" target="#Trump" weight="1841" />
+      <edge id="49" source="#CLE" target="#ohioed" weight="14728" />
+      <edge id="50" source="#CLE" target="#CRE" weight="1841" />
+      <edge id="51" source="#CLE" target="#halloween" weight="1841" />
+      <edge id="52" source="#CLE" target="#infantmortality" weight="1841" />
+      <edge id="53" source="#CLE" target="#schoolshootings" weight="1841" />
+      <edge id="54" source="#CLE" target="#ThisisCLE" weight="1841" />
+      <edge id="55" source="#CLE" target="#PARCC" weight="3682" />
+      <edge id="56" source="#CLE" target="#edchat" weight="5523" />
+      <edge id="57" source="#CLE" target="#RNCinCLE" weight="1841" />
+      <edge id="58" source="#CLE" target="#test" weight="1841" />
+      <edge id="59" source="#CLE" target="#Ohio" weight="11046" />
+      <edge id="60" source="#CLE" target="#Irish" weight="5523" />
+      <edge id="61" source="#CLE" target="#FridayFlashback" weight="1841" />
+      <edge id="62" source="#CLE" target="#rapekit" weight="1841" />
+      <edge id="63" source="#CLE" target="#Chardon" weight="1841" />
+      <edge id="64" source="#CLE" target="#CommonCore" weight="1841" />
+      <edge id="65" source="#CLE" target="#YRC" weight="1841" />
+      <edge id="66" source="#CLE" target="#testmaniaOH" weight="1841" />
+      <edge id="67" source="#CLE" target="#charterschool" weight="1841" />
+      <edge id="68" source="#CLE" target="#Education" weight="1841" />
+      <edge id="69" source="#CLE" target="#clevelandpride" weight="1841" />
+      <edge id="70" source="#CLE" target="#weargreen" weight="1841" />
+      <edge id="71" source="#CLE" target="#CLEStPats" weight="1841" />
+      <edge id="72" source="#CLE" target="#WearGreen" weight="1841" />
+      <edge id="73" source="#CLE" target="#StPatricksDay" weight="1841" />
+      <edge id="74" source="#CLE" target="#sreeveland" weight="1841" />
+      <edge id="75" source="#CLE" target="#charterschools" weight="1841" />
+      <edge id="76" source="#CLE" target="#Columbus" weight="1841" />
+      <edge id="77" source="#CLE" target="#serialrapist" weight="1841" />
+      <edge id="78" source="#CLE" target="#thelandmovie" weight="1841" />
+      <edge id="79" source="#CLE" target="#tests" weight="1841" />
+      <edge id="80" source="#CLE" target="#Cleveland" weight="9205" />
+      <edge id="81" source="#CLE" target="#snowplows" weight="1841" />
+      <edge id="82" source="#CLE" target="#Hudson" weight="1841" />
+      <edge id="83" source="#CLE" target="#reeses" weight="1841" />
+      <edge id="84" source="#CLE" target="#candyforthetroops" weight="1841" />
+      <edge id="85" source="#CLE" target="#highschool" weight="1841" />
+      <edge id="86" source="#Spam" target="#hell" weight="1841" />
+      <edge id="87" source="#Spam" target="#from" weight="1841" />
+      <edge id="88" source="#Spam" target="#Satan" weight="1841" />
+      <edge id="89" source="#Peet" target="#Ohio" weight="1841" />
+      <edge id="90" source="#TPP" target="#USA" weight="1841" />
+      <edge id="91" source="#TPP" target="#Ohio" weight="1841" />
+      <edge id="92" source="#BlackFriday" target="#grateful" weight="1841" />
+      <edge id="93" source="#BlackFriday" target="#WalmartStrikers" weight="1841" />
+      <edge id="94" source="#BlackFriday" target="#retail" weight="5523" />
+      <edge id="95" source="#BlackFriday" target="#CyberMonday" weight="1841" />
+      <edge id="96" source="#BlackFriday" target="#Retailers" weight="1841" />
+      <edge id="97" source="#BlackFriday" target="#ChristmasEve" weight="1841" />
+      <edge id="98" source="#BlackFriday" target="#Ohio" weight="1841" />
+      <edge id="99" source="#choppedgrillmasters" target="#Cleveland" weight="1841" />
+      <edge id="100" source="#MinimumWage" target="#FightFor15" weight="1841" />
+      <edge id="101" source="#MinimumWage" target="#1u" weight="1841" />
+      <edge id="102" source="#kotor" target="#budva" weight="1841" />
+      <edge id="103" source="#planetoftheapes" target="#americansplendor" weight="1841" />
+      <edge id="104" source="#planetoftheapes" target="#thisisspinaltap" weight="1841" />
+      <edge id="105" source="#planetoftheapes" target="#cleveland" weight="1841" />
+      <edge id="106" source="#planetoftheapes" target="#bighero6" weight="1841" />
+      <edge id="107" source="#dreamjob" target="#cats" weight="1841" />
+      <edge id="108" source="#HotRodWilliams" target="#Cleveland" weight="1841" />
+      <edge id="109" source="#HotRodWilliams" target="#Cavs" weight="1841" />
+      <edge id="110" source="#nightmarket" target="#thisiscle" weight="1841" />
+      <edge id="111" source="#workers" target="#MLKDay" weight="1841" />
+      <edge id="112" source="#workers" target="#Cleveland" weight="1841" />
+      <edge id="113" source="#brianeno" target="#cats" weight="1841" />
+      <edge id="114" source="#brianeno" target="#space" weight="1841" />
+      <edge id="115" source="#TBT" target="#euclidbeach" weight="1841" />
+      <edge id="116" source="#TBT" target="#mafia" weight="1841" />
+      <edge id="117" source="#TBT" target="#Irish" weight="1841" />
+      <edge id="118" source="#TBT" target="#thisiscle" weight="1841" />
+      <edge id="119" source="#TBT" target="#cle" weight="1841" />
+      <edge id="120" source="#Ohioans" target="#unemployment" weight="1841" />
+      <edge id="121" source="#ADA25CLE" target="#ADA" weight="1841" />
+      <edge id="122" source="#ADA25CLE" target="#ADA25" weight="1841" />
+      <edge id="123" source="#ADA25CLE" target="#Cleveland" weight="1841" />
+      <edge id="124" source="#Ukraine" target="#cleveland" weight="1841" />
+      <edge id="125" source="#backtoschool" target="#Ohio" weight="3682" />
+      <edge id="126" source="#fire" target="#breakingnews" weight="1841" />
+      <edge id="127" source="#fire" target="#Lorain" weight="1841" />
+      <edge id="128" source="#RedWings" target="#BlueJackets" weight="1841" />
+      <edge id="129" source="#RedWings" target="#NHL" weight="1841" />
+      <edge id="130" source="#USA" target="#Ohio" weight="1841" />
+      <edge id="131" source="#reeses" target="#candyforthetroops" weight="1841" />
+      <edge id="132" source="#Cincinnati" target="#Cleveland" weight="1841" />
+      <edge id="133" source="#ThisWasCLE" target="#Cleveland" weight="1841" />
+      <edge id="134" source="#GoNorse" target="#NKUGoldDay" weight="1841" />
+      <edge id="135" source="#kurentovanje" target="#Cleveland" weight="1841" />
+      <edge id="136" source="#Atlanta" target="#Columbus" weight="1841" />
+      <edge id="137" source="#Atlanta" target="#Cleveland" weight="1841" />
+      <edge id="138" source="#BruceSpringsteen" target="#newspapers" weight="1841" />
+      <edge id="139" source="#americansplendor" target="#thisisspinaltap" weight="1841" />
+      <edge id="140" source="#americansplendor" target="#cleveland" weight="1841" />
+      <edge id="141" source="#americansplendor" target="#bighero6" weight="1841" />
+      <edge id="142" source="#shakerheights" target="#Cleveland" weight="1841" />
+      <edge id="143" source="#Germany" target="#Cleveland" weight="3682" />
+      <edge id="144" source="#Germany" target="#cinema" weight="1841" />
+      <edge id="145" source="#MLKDay" target="#Cleveland" weight="1841" />
+      <edge id="146" source="#journalists" target="#Cleveland" weight="1841" />
+      <edge id="147" source="#Parmatown" target="#tbt" weight="1841" />
+      <edge id="148" source="#charterschool" target="#ohioed" weight="5523" />
+      <edge id="149" source="#charterschool" target="#Cleveland" weight="1841" />
+      <edge id="150" source="#charterschool" target="#chartergate" weight="1841" />
+      <edge id="151" source="#charterschool" target="#edchat" weight="3682" />
+      <edge id="152" source="#charterschool" target="#Ohio" weight="3682" />
+      <edge id="153" source="#ThePlainDealer" target="#FF" weight="1841" />
+      <edge id="154" source="#income" target="#Ohio" weight="1841" />
+      <edge id="155" source="#AmyWinehouse" target="#AmyMovie" weight="1841" />
+      <edge id="156" source="#GoJaguars" target="#SaintJosephAcademy" weight="1841" />
+      <edge id="157" source="#GoJaguars" target="#SJA1890" weight="1841" />
+      <edge id="158" source="#lovenewspapers" target="#printmatters" weight="1841" />
+      <edge id="159" source="#burlesque" target="#cle" weight="1841" />
+      <edge id="160" source="#performance" target="#women" weight="1841" />
+      <edge id="161" source="#ohio" target="#Cleveland" weight="1841" />
+      <edge id="162" source="#Akron" target="#Cleveland" weight="1841" />
+      <edge id="163" source="#Akron" target="#CobraVerde" weight="1841" />
+      <edge id="164" source="#RedSox" target="#Indians" weight="1841" />
+      <edge id="165" source="#RedSox" target="#Windians" weight="1841" />
+      <edge id="166" source="#RedSox" target="#Cleveland" weight="1841" />
+      <edge id="167" source="#WinterSolstice" target="#sunreturns" weight="1841" />
+      <edge id="168" source="#clevelandculturalgardens" target="#cleveland" weight="1841" />
+      <edge id="169" source="#stellawalsh" target="#Cleveland" weight="1841" />
+      <edge id="170" source="#MMA" target="#UFC" weight="1841" />
+      <edge id="171" source="#MMA" target="#UFC198" weight="1841" />
+      <edge id="172" source="#ADA" target="#ADA25" weight="1841" />
+      <edge id="173" source="#ADA" target="#Cleveland" weight="1841" />
+      <edge id="174" source="#ohwx" target="#Lorain" weight="1841" />
+      <edge id="175" source="#Cavs" target="#Bulls" weight="1841" />
+      <edge id="176" source="#Cavs" target="#Cleveland" weight="1841" />
+      <edge id="177" source="#Cavs" target="#ALLin216" weight="3682" />
+      <edge id="178" source="#Cavs" target="#HotRodStrong" weight="1841" />
+      <edge id="179" source="#Cavs" target="#Allin216" weight="1841" />
+      <edge id="180" source="#Cavs" target="#thisisCLE" weight="1841" />
+      <edge id="181" source="#Cavs" target="#Lakers" weight="1841" />
+      <edge id="182" source="#Cavs" target="#cle" weight="1841" />
+      <edge id="183" source="#Cavs" target="#HotRod" weight="1841" />
+      <edge id="184" source="#KoreanAmerican" target="#mylife" weight="1841" />
+      <edge id="185" source="#KoreanAmerican" target="#Detroit" weight="1841" />
+      <edge id="186" source="#KoreanAmerican" target="#vlog" weight="1841" />
+      <edge id="187" source="#KoreanAmerican" target="#AMERICANSEOUL" weight="1841" />
+      <edge id="188" source="#Windians" target="#Indians" weight="1841" />
+      <edge id="189" source="#Windians" target="#Cleveland" weight="1841" />
+      <edge id="190" source="#UFC198" target="#UFC" weight="1841" />
+      <edge id="191" source="#CobraVerde" target="#cleveland" weight="5523" />
+      <edge id="192" source="#CobraVerde" target="#rocknroll" weight="1841" />
+      <edge id="193" source="#CobraVerde" target="#thisiscle" weight="3682" />
+      <edge id="194" source="#CobraVerde" target="#cle" weight="3682" />
+      <edge id="195" source="#CobraVerde" target="#Cleveland" weight="1841" />
+      <edge id="196" source="#trade" target="#manufacturing" weight="1841" />
+      <edge id="197" source="#trade" target="#jobs" weight="1841" />
+      <edge id="198" source="#trade" target="#RNC2016" weight="1841" />
+      <edge id="199" source="#Satan" target="#hell" weight="1841" />
+      <edge id="200" source="#Satan" target="#from" weight="1841" />
+      <edge id="201" source="#BacktoSchool" target="#Ohio" weight="1841" />
+      <edge id="202" source="#Rio" target="#Cleveland" weight="1841" />
+      <edge id="203" source="#Rio" target="#Brazil" weight="1841" />
+      <edge id="204" source="#Rio" target="#cle" weight="1841" />
+      <edge id="205" source="#Rio2016" target="#ZikaVirus" weight="1841" />
+      <edge id="206" source="#RNC" target="#RNCinCLE" weight="1841" />
+      <edge id="207" source="#RNC" target="#Cleveland" weight="1841" />
+      <edge id="208" source="#RNC" target="#PressClubCleve" weight="1841" />
+      <edge id="209" source="#makers" target="#Cleveland" weight="1841" />
+      <edge id="210" source="#makers" target="#StayCurious" weight="1841" />
+      <edge id="211" source="#retail" target="#jobs" weight="1841" />
+      <edge id="212" source="#retail" target="#Signet" weight="1841" />
+      <edge id="213" source="#retail" target="#efairness" weight="1841" />
+      <edge id="214" source="#retail" target="#Ohio" weight="3682" />
+      <edge id="215" source="#fantastic" target="#PressClubCleve" weight="1841" />
+      <edge id="216" source="#FightFor15" target="#Cleveland" weight="1841" />
+      <edge id="217" source="#FightFor15" target="#1u" weight="3682" />
+      <edge id="218" source="#FightFor15" target="#Ohio" weight="1841" />
+      <edge id="219" source="#Google" target="#business" weight="1841" />
+      <edge id="220" source="#RallyTogether" target="#Indians" weight="1841" />
+      <edge id="221" source="#RallyTogether" target="#Cavaliers" weight="1841" />
+      <edge id="222" source="#RallyTogether" target="#Boston" weight="1841" />
+      <edge id="223" source="#wagegap" target="#college" weight="1841" />
+      <edge id="224" source="#cleveland" target="#cobraverde" weight="1841" />
+      <edge id="225" source="#cleveland" target="#Edgewater" weight="1841" />
+      <edge id="226" source="#cleveland" target="#punk" weight="1841" />
+      <edge id="227" source="#cleveland" target="#thiswascle" weight="1841" />
+      <edge id="228" source="#cleveland" target="#Lemmy" weight="1841" />
+      <edge id="229" source="#cleveland" target="#drums" weight="3682" />
+      <edge id="230" source="#cleveland" target="#ThisIsCLE" weight="1841" />
+      <edge id="231" source="#cleveland" target="#thisisspinaltap" weight="1841" />
+      <edge id="232" source="#cleveland" target="#LouReed" weight="1841" />
+      <edge id="233" source="#cleveland" target="#PlainDealer" weight="1841" />
+      <edge id="234" source="#cleveland" target="#thisiscle" weight="5523" />
+      <edge id="235" source="#cleveland" target="#slingerland" weight="1841" />
+      <edge id="236" source="#cleveland" target="#rocknroll" weight="1841" />
+      <edge id="237" source="#cleveland" target="#bighero6" weight="1841" />
+      <edge id="238" source="#cleveland" target="#cle" weight="20251" />
+      <edge id="239" source="#clevelandpride" target="#Cleveland" weight="1841" />
+      <edge id="240" source="#merrickgarland" target="#Cleveland" weight="1841" />
+      <edge id="241" source="#Cavaliers" target="#Indians" weight="1841" />
+      <edge id="242" source="#Cavaliers" target="#Boston" weight="1841" />
+      <edge id="243" source="#Education" target="#ohioed" weight="1841" />
+      <edge id="244" source="#Education" target="#Ohio" weight="1841" />
+      <edge id="245" source="#Cleveland" target="#ohioed" weight="1841" />
+      <edge id="246" source="#Cleveland" target="#RNCinCLE" weight="7364" />
+      <edge id="247" source="#Cleveland" target="#DavidLetterman" weight="1841" />
+      <edge id="248" source="#Cleveland" target="#trump" weight="1841" />
+      <edge id="249" source="#Cleveland" target="#Christmas" weight="1841" />
+      <edge id="250" source="#Cleveland" target="#tbt" weight="3682" />
+      <edge id="251" source="#Cleveland" target="#jrsmith" weight="1841" />
+      <edge id="252" source="#Cleveland" target="#Greece" weight="1841" />
+      <edge id="253" source="#Cleveland" target="#akron" weight="1841" />
+      <edge id="254" source="#Cleveland" target="#jobsearch" weight="3682" />
+      <edge id="255" source="#Cleveland" target="#EssentialCLE" weight="1841" />
+      <edge id="256" source="#Cleveland" target="#flats" weight="1841" />
+      <edge id="257" source="#Cleveland" target="#CMWorld2014" weight="1841" />
+      <edge id="258" source="#Cleveland" target="#ThisisCLE" weight="11046" />
+      <edge id="259" source="#Cleveland" target="#pierogi" weight="3682" />
+      <edge id="260" source="#Cleveland" target="#thiswascle" weight="1841" />
+      <edge id="261" source="#Cleveland" target="#cats" weight="3682" />
+      <edge id="262" source="#Cleveland" target="#ADA25" weight="1841" />
+      <edge id="263" source="#Cleveland" target="#Brazil" weight="1841" />
+      <edge id="264" source="#Cleveland" target="#LeBron" weight="1841" />
+      <edge id="265" source="#Cleveland" target="#FashionFlash" weight="1841" />
+      <edge id="266" source="#Cleveland" target="#CLEmarathon" weight="1841" />
+      <edge id="267" source="#Cleveland" target="#welding" weight="3682" />
+      <edge id="268" source="#Cleveland" target="#ClevelandMarathon" weight="1841" />
+      <edge id="269" source="#Cleveland" target="#TheBeatles" weight="1841" />
+      <edge id="270" source="#Cleveland" target="#snow" weight="1841" />
+      <edge id="271" source="#Cleveland" target="#LakeErie" weight="1841" />
+      <edge id="272" source="#Cleveland" target="#IceCreamMonth" weight="1841" />
+      <edge id="273" source="#Cleveland" target="#BombCityUSA" weight="1841" />
+      <edge id="274" source="#Cleveland" target="#minimumwage" weight="3682" />
+      <edge id="275" source="#Cleveland" target="#cle" weight="62594" />
+      <edge id="276" source="#Cleveland" target="#StPatricksDay" weight="1841" />
+      <edge id="277" source="#Cleveland" target="#cinema" weight="1841" />
+      <edge id="278" source="#Cleveland" target="#jobs" weight="9205" />
+      <edge id="279" source="#Cleveland" target="#dogs" weight="3682" />
+      <edge id="280" source="#Cleveland" target="#vodka" weight="1841" />
+      <edge id="281" source="#Cleveland" target="#edchat" weight="1841" />
+      <edge id="282" source="#Cleveland" target="#cavs" weight="1841" />
+      <edge id="283" source="#Cleveland" target="#Ohio" weight="7364" />
+      <edge id="284" source="#Cleveland" target="#Irish" weight="1841" />
+      <edge id="285" source="#Cleveland" target="#ThisIsCLE" weight="1841" />
+      <edge id="286" source="#Cleveland" target="#unions" weight="1841" />
+      <edge id="287" source="#Cleveland" target="#StayCurious" weight="1841" />
+      <edge id="288" source="#Cleveland" target="#ThisisCle" weight="1841" />
+      <edge id="289" source="#Cleveland" target="#NYC" weight="1841" />
+      <edge id="290" source="#Cleveland" target="#Armenian" weight="1841" />
+      <edge id="291" source="#Cleveland" target="#Content" weight="1841" />
+      <edge id="292" source="#Cleveland" target="#browns" weight="1841" />
+      <edge id="293" source="#Cleveland" target="#Thisiscle" weight="1841" />
+      <edge id="294" source="#Cleveland" target="#BehindTheScene" weight="1841" />
+      <edge id="295" source="#Cleveland" target="#ContentMarketing" weight="5523" />
+      <edge id="296" source="#Cleveland" target="#Indians" weight="1841" />
+      <edge id="297" source="#Cleveland" target="#CLEsnow" weight="1841" />
+      <edge id="298" source="#Cleveland" target="#Godzilla" weight="1841" />
+      <edge id="299" source="#Cleveland" target="#PressClubCleve" weight="1841" />
+      <edge id="300" source="#Cleveland" target="#hiring" weight="1841" />
+      <edge id="301" source="#Cleveland" target="#1u" weight="1841" />
+      <edge id="302" source="#Cleveland" target="#delly" weight="1841" />
+      <edge id="303" source="#Cleveland" target="#eastcoastcustard" weight="1841" />
+      <edge id="304" source="#Cleveland" target="#thisiscle" weight="23933" />
+      <edge id="305" source="#Cleveland" target="#Columbus" weight="5523" />
+      <edge id="306" source="#Cleveland" target="#ctdebate" weight="1841" />
+      <edge id="307" source="#Cleveland" target="#RockHall2015" weight="1841" />
+      <edge id="308" source="#Cleveland" target="#CMWorld" weight="5523" />
+      <edge id="309" source="#horror" target="#Halloween" weight="1841" />
+      <edge id="310" source="#WalmartStrikers" target="#Ohio" weight="1841" />
+      <edge id="311" source="#CMWorld2014" target="#ContentMarketing" weight="1841" />
+      <edge id="312" source="#CLEStPats" target="#Irish" weight="1841" />
+      <edge id="313" source="#CLEStPats" target="#ThisisCLE" weight="1841" />
+      <edge id="314" source="#CLEStPats" target="#weargreen" weight="1841" />
+      <edge id="315" source="#ThisisCLE" target="#Irish" weight="1841" />
+      <edge id="316" source="#ThisisCLE" target="#Tweeter" weight="1841" />
+      <edge id="317" source="#ThisisCLE" target="#weargreen" weight="1841" />
+      <edge id="318" source="#ThisisCLE" target="#RNCinCLE" weight="1841" />
+      <edge id="319" source="#ThisisCLE" target="#cle" weight="1841" />
+      <edge id="320" source="#ThisisCLE" target="#CMWorld" weight="1841" />
+      <edge id="321" source="#ThisisCLE" target="#socialmedia" weight="1841" />
+      <edge id="322" source="#comicconcleveland" target="#WizardWorld" weight="1841" />
+      <edge id="323" source="#comicconcleveland" target="#thisiscle" weight="1841" />
+      <edge id="324" source="#Russia" target="#YurisNight" weight="1841" />
+      <edge id="325" source="#Russia" target="#space" weight="1841" />
+      <edge id="326" source="#test" target="#PARCC" weight="1841" />
+      <edge id="327" source="#test" target="#ohioed" weight="1841" />
+      <edge id="328" source="#test" target="#Ohio" weight="1841" />
+      <edge id="329" source="#GOPconvention" target="#YahooRNC" weight="1841" />
+      <edge id="330" source="#GOPconvention" target="#RNCinCLE" weight="1841" />
+      <edge id="331" source="#GOPconvention" target="#Periscope" weight="1841" />
+      <edge id="332" source="#Jobs" target="#NationalReentryWeek" weight="1841" />
+      <edge id="333" source="#Brazil" target="#cle" weight="1841" />
+      <edge id="334" source="#BackToSchool" target="#Ohio" weight="1841" />
+      <edge id="335" source="#jobsearch" target="#hiring" weight="1841" />
+      <edge id="336" source="#jobsearch" target="#jobs" weight="3682" />
+      <edge id="337" source="#testmaniaOH" target="#ohioed" weight="1841" />
+      <edge id="338" source="#testmaniaOH" target="#tests" weight="1841" />
+      <edge id="339" source="#ConceptSchools" target="#ohioed" weight="1841" />
+      <edge id="340" source="#WearGreen" target="#StPatricksDay" weight="1841" />
+      <edge id="341" source="#WearGreen" target="#Irish" weight="1841" />
+      <edge id="342" source="#WearGreen" target="#FridayFlashback" weight="1841" />
+      <edge id="343" source="#ChristmasEve" target="#CyberMonday" weight="1841" />
+      <edge id="344" source="#elected" target="#ImWithAlice" weight="1841" />
+      <edge id="345" source="#serialrapist" target="#rapekit" weight="1841" />
+      <edge id="346" source="#Michigan" target="#MichiganPrimary" weight="1841" />
+      <edge id="347" source="#IceCreamMonth" target="#cle" weight="1841" />
+      <edge id="348" source="#scifi" target="#HighRise" weight="1841" />
+      <edge id="349" source="#DavidBowie" target="#Blackstar" weight="1841" />
+      <edge id="350" source="#JimmyHaslam" target="#Browns" weight="3682" />
+      <edge id="351" source="#DMZ" target="#EastWestMedia" weight="1841" />
+      <edge id="352" source="#TacoTuesday" target="#SolarEclipse" weight="1841" />
+      <edge id="353" source="#TacoTuesday" target="#Perseid" weight="1841" />
+      <edge id="354" source="#TacoTuesday" target="#meteorshower" weight="1841" />
+      <edge id="355" source="#TacoTuesday" target="#space" weight="1841" />
+      <edge id="356" source="#vodka" target="#cle" weight="1841" />
+      <edge id="357" source="#vodka" target="#thisiscle" weight="1841" />
+      <edge id="358" source="#cavs" target="#delly" weight="1841" />
+      <edge id="359" source="#cavs" target="#jrsmith" weight="1841" />
+      <edge id="360" source="#cavs" target="#ALLin216" weight="1841" />
+      <edge id="361" source="#euclidbeach" target="#thisiscle" weight="1841" />
+      <edge id="362" source="#efairness" target="#Ohio" weight="1841" />
+      <edge id="363" source="#Irish" target="#FridayFlashback" weight="1841" />
+      <edge id="364" source="#Irish" target="#weargreen" weight="1841" />
+      <edge id="365" source="#Irish" target="#tbt" weight="1841" />
+      <edge id="366" source="#Irish" target="#StPatricksDay" weight="3682" />
+      <edge id="367" source="#ThisIsCLE" target="#thiswascle" weight="1841" />
+      <edge id="368" source="#ThisIsCLE" target="#NYC" weight="1841" />
+      <edge id="369" source="#Lakers" target="#JohnKasich" weight="1841" />
+      <edge id="370" source="#SocialMedia" target="#HappyinCLE" weight="1841" />
+      <edge id="371" source="#Transgender" target="#hiring" weight="1841" />
+      <edge id="372" source="#Transgender" target="#jobs" weight="1841" />
+      <edge id="373" source="#ThisisCle" target="#cle" weight="1841" />
+      <edge id="374" source="#Perseid" target="#meteorshower" weight="1841" />
+      <edge id="375" source="#Yankees" target="#Indians" weight="1841" />
+      <edge id="376" source="#Yankees" target="#cle" weight="1841" />
+      <edge id="377" source="#AMERICANSEOUL" target="#mylife" weight="1841" />
+      <edge id="378" source="#AMERICANSEOUL" target="#Detroit" weight="1841" />
+      <edge id="379" source="#AMERICANSEOUL" target="#vlog" weight="1841" />
+      <edge id="380" source="#repubparty" target="#Ohio" weight="1841" />
+      <edge id="381" source="#repubparty" target="#Democrats" weight="1841" />
+      <edge id="382" source="#BehindTheScene" target="#ctdebate" weight="1841" />
+      <edge id="383" source="#ChetBaker" target="#EthanHawke" weight="1841" />
+      <edge id="384" source="#pierogi" target="#Parma" weight="1841" />
+      <edge id="385" source="#Reclamation" target="#Rustbelt" weight="1841" />
+      <edge id="386" source="#immigrants" target="#Ohio" weight="1841" />
+      <edge id="387" source="#newspaper" target="#WithoutNews" weight="1841" />
+      <edge id="388" source="#SnowyWednesday" target="#3wxready" weight="1841" />
+      <edge id="389" source="#HotRod" target="#HotRodStrong" weight="1841" />
+      <edge id="390" source="#1u" target="#jobs" weight="3682" />
+      <edge id="391" source="#1u" target="#manufacturing" weight="1841" />
+      <edge id="392" source="#1u" target="#workplace" weight="1841" />
+      <edge id="393" source="#1u" target="#Ohio" weight="3682" />
+      <edge id="394" source="#NHL" target="#BlueJackets" weight="1841" />
+      <edge id="395" source="#thisisspinaltap" target="#bighero6" weight="1841" />
+      <edge id="396" source="#Unemployment" target="#jobs" weight="1841" />
+      <edge id="397" source="#Unemployment" target="#Ohio" weight="1841" />
+      <edge id="398" source="#NHLAllStar" target="#Columbus" weight="1841" />
+      <edge id="399" source="#slingerland" target="#drums" weight="1841" />
+      <edge id="400" source="#slingerland" target="#cle" weight="1841" />
+      <edge id="401" source="#rocknroll" target="#cle" weight="1841" />
+      <edge id="402" source="#Diversity" target="#inclusion" weight="1841" />
+      <edge id="403" source="#ohioed" target="#schoolshootings" weight="1841" />
+      <edge id="404" source="#ohioed" target="#charterschools" weight="3682" />
+      <edge id="405" source="#ohioed" target="#cle" weight="1841" />
+      <edge id="406" source="#ohioed" target="#chartergate" weight="1841" />
+      <edge id="407" source="#ohioed" target="#Hudson" weight="1841" />
+      <edge id="408" source="#ohioed" target="#PARCC" weight="3682" />
+      <edge id="409" source="#ohioed" target="#Chardon" weight="1841" />
+      <edge id="410" source="#ohioed" target="#tests" weight="1841" />
+      <edge id="411" source="#ohioed" target="#Ohio" weight="12887" />
+      <edge id="412" source="#ohioed" target="#highschool" weight="1841" />
+      <edge id="413" source="#ohioed" target="#CommonCore" weight="1841" />
+      <edge id="414" source="#ohioed" target="#edchat" weight="7364" />
+      <edge id="415" source="#vlog" target="#mylife" weight="1841" />
+      <edge id="416" source="#vlog" target="#Detroit" weight="1841" />
+      <edge id="417" source="#Christmas" target="#thisiscle" weight="1841" />
+      <edge id="418" source="#PARCC" target="#edchat" weight="1841" />
+      <edge id="419" source="#PARCC" target="#CommonCore" weight="1841" />
+      <edge id="420" source="#PARCC" target="#Ohio" weight="3682" />
+      <edge id="421" source="#trump" target="#RNCinCLE" weight="1841" />
+      <edge id="422" source="#HR" target="#boss" weight="1841" />
+      <edge id="423" source="#space" target="#SolarEclipse" weight="1841" />
+      <edge id="424" source="#space" target="#cats" weight="1841" />
+      <edge id="425" source="#space" target="#YurisNight" weight="1841" />
+      <edge id="426" source="#AmandaBerry" target="#GinaDeJesus" weight="1841" />
+      <edge id="427" source="#Fortune500" target="#Goodyear" weight="1841" />
+      <edge id="428" source="#clevelandworldfestival" target="#ingenuityfest" weight="1841" />
+      <edge id="429" source="#Content" target="#CMWorld" weight="1841" />
+      <edge id="430" source="#FourthofJuly" target="#cle" weight="1841" />
+      <edge id="431" source="#Hudson" target="#Ohio" weight="1841" />
+      <edge id="432" source="#Hudson" target="#highschool" weight="1841" />
+      <edge id="433" source="#Detroit" target="#mylife" weight="1841" />
+      <edge id="434" source="#flats" target="#thiswascle" weight="1841" />
+      <edge id="435" source="#HeinensCLE" target="#dtCLE" weight="1841" />
+      <edge id="436" source="#schoolshootings" target="#Chardon" weight="1841" />
+      <edge id="437" source="#PikeCountyMurders" target="#PikeCounty" weight="1841" />
+      <edge id="438" source="#Democrats" target="#Ohio" weight="1841" />
+      <edge id="439" source="#Bluray" target="#DVD" weight="1841" />
+      <edge id="440" source="#PuppyBowl" target="#dogs" weight="1841" />
+      <edge id="441" source="#PuppyBowl" target="#chipsandbones" weight="1841" />
+      <edge id="442" source="#Chocolates" target="#Ohio" weight="1841" />
+      <edge id="443" source="#teens" target="#entrepreneur" weight="1841" />
+      <edge id="444" source="#tests" target="#Ohio" weight="1841" />
+      <edge id="445" source="#1980s" target="#PrettyinPink" weight="3682" />
+      <edge id="446" source="#YahooRNC" target="#Periscope" weight="1841" />
+      <edge id="447" source="#YahooRNC" target="#RNCinCLE" weight="3682" />
+      <edge id="448" source="#hell" target="#from" weight="1841" />
+      <edge id="449" source="#highschool" target="#Ohio" weight="1841" />
+      <edge id="450" source="#asthma" target="#healthdisparities" weight="1841" />
+      <edge id="451" source="#jobs" target="#Ohio" weight="12887" />
+      <edge id="452" source="#jobs" target="#RNC2016" weight="1841" />
+      <edge id="453" source="#jobs" target="#economy" weight="1841" />
+      <edge id="454" source="#jobs" target="#manufacturing" weight="3682" />
+      <edge id="455" source="#jobs" target="#hiring" weight="3682" />
+      <edge id="456" source="#jobs" target="#unemployment" weight="1841" />
+      <edge id="457" source="#dogs" target="#cats" weight="3682" />
+      <edge id="458" source="#dogs" target="#chipsandbones" weight="1841" />
+      <edge id="459" source="#dogs" target="#cle" weight="1841" />
+      <edge id="460" source="#Sept11" target="#neverforget" weight="1841" />
+      <edge id="461" source="#Lemmy" target="#cle" weight="1841" />
+      <edge id="462" source="#mafia" target="#cle" weight="1841" />
+      <edge id="463" source="#Trump" target="#RNCinCLE" weight="1841" />
+      <edge id="464" source="#thisiscle" target="#browns" weight="1841" />
+      <edge id="465" source="#thisiscle" target="#WizardWorld" weight="1841" />
+      <edge id="466" source="#thisiscle" target="#cle" weight="16569" />
+      <edge id="467" source="#Armenian" target="#cle" weight="1841" />
+      <edge id="468" source="#browns" target="#cle" weight="1841" />
+      <edge id="469" source="#PaczkiDay" target="#colozzas" weight="1841" />
+      <edge id="470" source="#Thisiscle" target="#cle" weight="1841" />
+      <edge id="471" source="#SCOTUSmarriage" target="#MarriageEquality" weight="1841" />
+      <edge id="472" source="#breakingnews" target="#Lorain" weight="1841" />
+      <edge id="473" source="#rallytogether" target="#Indians" weight="1841" />
+      <edge id="474" source="#Indians" target="#cle" weight="1841" />
+      <edge id="475" source="#Indians" target="#Boston" weight="1841" />
+      <edge id="476" source="#retailjobs" target="#Ohio" weight="1841" />
+      <edge id="477" source="#CCideas" target="#CMWorld" weight="1841" />
+      <edge id="478" source="#guacamole" target="#avocados" weight="1841" />
+      <edge id="479" source="#charterschools" target="#cle" weight="1841" />
+      <edge id="480" source="#charterschools" target="#edchat" weight="1841" />
+      <edge id="481" source="#charterschools" target="#Ohio" weight="1841" />
+      <edge id="482" source="#FridayFlashback" target="#StPatricksDay" weight="1841" />
+      <edge id="483" source="#hiring" target="#Christmas2015" weight="1841" />
+      <edge id="484" source="#NYC" target="#brooklyn" weight="1841" />
+      <edge id="485" source="#Allin216" target="#thisisCLE" weight="1841" />
+      <edge id="486" source="#Greece" target="#cle" weight="1841" />
+      <edge id="487" source="#guitars" target="#cats" weight="1841" />
+      <edge id="488" source="#manufacturing" target="#Ohio" weight="1841" />
+      <edge id="489" source="#manufacturing" target="#RNC2016" weight="1841" />
+      <edge id="490" source="#mayorperk" target="#tbt" weight="1841" />
+      <edge id="491" source="#SJA1890" target="#SaintJosephAcademy" weight="1841" />
+      <edge id="492" source="#socialmedia" target="#Tweeter" weight="1841" />
+      <edge id="493" source="#socialmedia" target="#thisisCLE" weight="1841" />
+      <edge id="494" source="#RNCinCLE" target="#cle" weight="3682" />
+      <edge id="495" source="#RNCinCLE" target="#organizeCLE" weight="1841" />
+      <edge id="496" source="#RNCinCLE" target="#Periscope" weight="1841" />
+      <edge id="497" source="#unemployment" target="#Ohio" weight="3682" />
+      <edge id="498" source="#tbt" target="#StPatricksDay" weight="1841" />
+      <edge id="499" source="#CommonCore" target="#edchat" weight="1841" />
+      <edge id="500" source="#CommonCore" target="#Ohio" weight="1841" />
+      <edge id="501" source="#jrsmith" target="#delly" weight="1841" />
+      <edge id="502" source="#akron" target="#cle" weight="1841" />
+      <edge id="503" source="#hilton" target="#cle" weight="1841" />
+      <edge id="504" source="#Halloween" target="#Ohio" weight="1841" />
+      <edge id="505" source="#drums" target="#cobraverde" weight="3682" />
+      <edge id="506" source="#drums" target="#cle" weight="3682" />
+      <edge id="507" source="#cats" target="#cle" weight="1841" />
+      <edge id="508" source="#petfood" target="#Ohio" weight="1841" />
+      <edge id="509" source="#HIRING" target="#employment" weight="1841" />
+      <edge id="510" source="#CLEmarathon" target="#ClevelandMarathon" weight="1841" />
+      <edge id="511" source="#TheBeatles" target="#RockHall2015" weight="1841" />
+      <edge id="512" source="#wage" target="#Ohio" weight="1841" />
+      <edge id="513" source="#Union" target="#Ohio" weight="1841" />
+      <edge id="514" source="#FergusonShooting" target="#Baltimore" weight="1841" />
+      <edge id="515" source="#BombCityUSA" target="#cle" weight="1841" />
+      <edge id="516" source="#cle" target="#cobraverde" weight="1841" />
+      <edge id="517" source="#cle" target="#ALLin216" weight="1841" />
+      <edge id="518" source="#cle" target="#cuyahogariver" weight="1841" />
+      <edge id="519" source="#edchat" target="#Ohio" weight="7364" />
+      <edge id="520" source="#Ohio" target="#unions" weight="1841" />
+      <edge id="521" source="#Ohio" target="#voting" weight="1841" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#WeAreOhio" label="#WeAreOhio" />
+      <node id="#waferthin" label="#waferthin" />
+      <node id="#YESonIssue2" label="#YESonIssue2" />
+      <node id="#Lima" label="#Lima" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#Ironton" label="#Ironton" />
+      <node id="#EarlyVote" label="#EarlyVote" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#weareohio" label="#weareohio" />
+      <node id="#ballotbullies" label="#ballotbullies" />
+      <node id="#waronvoting" label="#waronvoting" />
+      <node id="#Zanesville" label="#Zanesville" />
+      <node id="#SB5" label="#SB5" />
+      <node id="#YesOnIssue2" label="#YesOnIssue2" />
+      <node id="#YESon2" label="#YESon2" />
+      <node id="#1u" label="#1u" />
+      <node id="#votersfirstohio" label="#votersfirstohio" />
+      <node id="#HadEnoughTour" label="#HadEnoughTour" />
+      <node id="#redistricting" label="#redistricting" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#Issue2" label="#Issue2" />
+      <node id="#2012Election" label="#2012Election" />
+      <node id="#HB194" label="#HB194" />
+      <node id="#VotersFirst" label="#VotersFirst" />
+      <node id="#politicians" label="#politicians" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#Votersfirstohio" label="#Votersfirstohio" />
+      <node id="#WinEveryDay" label="#WinEveryDay" />
+      <node id="#moneyinpolitics" label="#moneyinpolitics" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#ohio" label="#ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#WeAreOhio" target="#redistricting" weight="462" />
+      <edge id="1" source="#WeAreOhio" target="#2012Election" weight="462" />
+      <edge id="2" source="#WeAreOhio" target="#SB5" weight="462" />
+      <edge id="3" source="#waferthin" target="#redistricting" weight="462" />
+      <edge id="4" source="#waferthin" target="#VotersFirst" weight="462" />
+      <edge id="5" source="#waferthin" target="#Ohio" weight="462" />
+      <edge id="6" source="#YESonIssue2" target="#EarlyVote" weight="462" />
+      <edge id="7" source="#YESonIssue2" target="#WinEveryDay" weight="462" />
+      <edge id="8" source="#YESonIssue2" target="#HadEnoughTour" weight="924" />
+      <edge id="9" source="#Lima" target="#VotersFirst" weight="924" />
+      <edge id="10" source="#Lima" target="#Ohio" weight="462" />
+      <edge id="11" source="#Dayton" target="#VotersFirst" weight="462" />
+      <edge id="12" source="#Dayton" target="#2012Election" weight="462" />
+      <edge id="13" source="#Dayton" target="#weareohio" weight="462" />
+      <edge id="14" source="#Dayton" target="#Ohio" weight="462" />
+      <edge id="15" source="#Ironton" target="#VotersFirst" weight="462" />
+      <edge id="16" source="#Ironton" target="#2012Election" weight="462" />
+      <edge id="17" source="#Ironton" target="#Ohio" weight="462" />
+      <edge id="18" source="#EarlyVote" target="#WinEveryDay" weight="462" />
+      <edge id="19" source="#Ohio" target="#VotersFirst" weight="20328" />
+      <edge id="20" source="#Ohio" target="#weareohio" weight="3696" />
+      <edge id="21" source="#Ohio" target="#votersfirstohio" weight="462" />
+      <edge id="22" source="#Ohio" target="#Zanesville" weight="462" />
+      <edge id="23" source="#Ohio" target="#Toledo" weight="462" />
+      <edge id="24" source="#Ohio" target="#redistricting" weight="12474" />
+      <edge id="25" source="#Ohio" target="#moneyinpolitics" weight="1386" />
+      <edge id="26" source="#Ohio" target="#Cincinnati" weight="924" />
+      <edge id="27" source="#Ohio" target="#SB5" weight="924" />
+      <edge id="28" source="#Ohio" target="#2012Election" weight="10164" />
+      <edge id="29" source="#Ohio" target="#Ohio" weight="924" />
+      <edge id="30" source="#weareohio" target="#VotersFirst" weight="2772" />
+      <edge id="31" source="#weareohio" target="#Toledo" weight="462" />
+      <edge id="32" source="#weareohio" target="#Zanesville" weight="462" />
+      <edge id="33" source="#weareohio" target="#SB5" weight="1848" />
+      <edge id="34" source="#weareohio" target="#redistricting" weight="6930" />
+      <edge id="35" source="#weareohio" target="#2012Election" weight="6930" />
+      <edge id="36" source="#weareohio" target="#HB194" weight="462" />
+      <edge id="37" source="#ballotbullies" target="#waronvoting" weight="924" />
+      <edge id="38" source="#Zanesville" target="#VotersFirst" weight="462" />
+      <edge id="39" source="#Zanesville" target="#2012Election" weight="462" />
+      <edge id="40" source="#SB5" target="#VotersFirst" weight="462" />
+      <edge id="41" source="#SB5" target="#SB5" weight="924" />
+      <edge id="42" source="#SB5" target="#redistricting" weight="2772" />
+      <edge id="43" source="#SB5" target="#2012Election" weight="2772" />
+      <edge id="44" source="#SB5" target="#HB194" weight="462" />
+      <edge id="45" source="#YesOnIssue2" target="#VotersFirst" weight="924" />
+      <edge id="46" source="#YESon2" target="#HadEnoughTour" weight="462" />
+      <edge id="47" source="#1u" target="#Issue2" weight="462" />
+      <edge id="48" source="#votersfirstohio" target="#ohio" weight="462" />
+      <edge id="49" source="#redistricting" target="#VotersFirst" weight="11088" />
+      <edge id="50" source="#redistricting" target="#HB194" weight="462" />
+      <edge id="51" source="#redistricting" target="#politicians" weight="462" />
+      <edge id="52" source="#redistricting" target="#Cleveland" weight="462" />
+      <edge id="53" source="#redistricting" target="#Toledo" weight="462" />
+      <edge id="54" source="#redistricting" target="#moneyinpolitics" weight="1386" />
+      <edge id="55" source="#redistricting" target="#Cincinnati" weight="462" />
+      <edge id="56" source="#redistricting" target="#2012Election" weight="9702" />
+      <edge id="57" source="#redistricting" target="#ohio" weight="1386" />
+      <edge id="58" source="#Toledo" target="#VotersFirst" weight="462" />
+      <edge id="59" source="#Toledo" target="#2012Election" weight="462" />
+      <edge id="60" source="#2012Election" target="#VotersFirst" weight="7392" />
+      <edge id="61" source="#2012Election" target="#moneyinpolitics" weight="1386" />
+      <edge id="62" source="#2012Election" target="#Cincinnati" weight="462" />
+      <edge id="63" source="#2012Election" target="#HB194" weight="462" />
+      <edge id="64" source="#VotersFirst" target="#VotersFirst" weight="924" />
+      <edge id="65" source="#VotersFirst" target="#Cleveland" weight="462" />
+      <edge id="66" source="#VotersFirst" target="#politicians" weight="462" />
+      <edge id="67" source="#VotersFirst" target="#moneyinpolitics" weight="1386" />
+      <edge id="68" source="#VotersFirst" target="#Cincinnati" weight="462" />
+      <edge id="69" source="#VotersFirst" target="#ohio" weight="924" />
+      <edge id="70" source="#Votersfirstohio" target="#ohio" weight="462" />
+    </edges>
+  </graph>
+</gexf>

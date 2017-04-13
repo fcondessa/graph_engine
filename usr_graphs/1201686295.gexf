@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OhioHouse" label="#OhioHouse" />
+      <node id="#OhioSenate" label="#OhioSenate" />
+      <node id="#OhioGOP" label="#OhioGOP" />
+      <node id="#ohiopolitics" label="#ohiopolitics" />
+      <node id="#ohiohouse" label="#ohiohouse" />
+      <node id="#HB5" label="#HB5" />
+      <node id="#righttowork" label="#righttowork" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#OhioTurnpike" label="#OhioTurnpike" />
+      <node id="#HB69" label="#HB69" />
+      <node id="#controllingboard" label="#controllingboard" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#controlling" label="#controlling" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OhioHouse" target="#ohiopolitics" weight="169" />
+      <edge id="1" source="#OhioHouse" target="#Ohio" weight="169" />
+      <edge id="2" source="#OhioSenate" target="#OhioTurnpike" weight="169" />
+      <edge id="3" source="#OhioGOP" target="#Ohio" weight="169" />
+      <edge id="4" source="#ohiopolitics" target="#ohiohouse" weight="169" />
+      <edge id="5" source="#HB5" target="#Ohio" weight="338" />
+      <edge id="6" source="#righttowork" target="#Ohio" weight="169" />
+      <edge id="7" source="#Toledo" target="#Ohio" weight="169" />
+      <edge id="8" source="#HB69" target="#Ohio" weight="169" />
+      <edge id="9" source="#controllingboard" target="#Medicaid" weight="169" />
+      <edge id="10" source="#controllingboard" target="#Ohio" weight="507" />
+      <edge id="11" source="#Medicaid" target="#Ohio" weight="338" />
+      <edge id="12" source="#controlling" target="#Ohio" weight="169" />
+    </edges>
+  </graph>
+</gexf>

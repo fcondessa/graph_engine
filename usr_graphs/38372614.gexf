@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#emergency" label="#emergency" />
+      <node id="#deductibles" label="#deductibles" />
+      <node id="#AHCJ16" label="#AHCJ16" />
+      <node id="#MHMForum" label="#MHMForum" />
+      <node id="#OpioidEpidemic" label="#OpioidEpidemic" />
+      <node id="#TheOped" label="#TheOped" />
+      <node id="#HealthCare" label="#HealthCare" />
+      <node id="#aging" label="#aging" />
+      <node id="#p4pchat" label="#p4pchat" />
+      <node id="#SanBern" label="#SanBern" />
+      <node id="#healthmatters" label="#healthmatters" />
+      <node id="#relience" label="#relience" />
+      <node id="#autismawareness" label="#autismawareness" />
+      <node id="#BehavioralHealth" label="#BehavioralHealth" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#telehealth" label="#telehealth" />
+      <node id="#chronicdisease" label="#chronicdisease" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#SPSM" label="#SPSM" />
+      <node id="#leadpoisoning" label="#leadpoisoning" />
+      <node id="#DACA" label="#DACA" />
+      <node id="#publichealth" label="#publichealth" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#patientsafety" label="#patientsafety" />
+      <node id="#palliative" label="#palliative" />
+      <node id="#infections" label="#infections" />
+      <node id="#chj16" label="#chj16" />
+      <node id="#publicoption" label="#publicoption" />
+      <node id="#clinics" label="#clinics" />
+      <node id="#Lead" label="#Lead" />
+      <node id="#CoveredCalifornia" label="#CoveredCalifornia" />
+      <node id="#gooddeath" label="#gooddeath" />
+      <node id="#dentists" label="#dentists" />
+      <node id="#PtExp" label="#PtExp" />
+      <node id="#workforce" label="#workforce" />
+      <node id="#CAR" label="#CAR" />
+      <node id="#pain" label="#pain" />
+      <node id="#PTSD" label="#PTSD" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#unaccompaniedminors" label="#unaccompaniedminors" />
+      <node id="#UCLA" label="#UCLA" />
+      <node id="#patients" label="#patients" />
+      <node id="#asylum" label="#asylum" />
+      <node id="#healthblog" label="#healthblog" />
+      <node id="#autism" label="#autism" />
+      <node id="#careplanningact" label="#careplanningact" />
+      <node id="#infantmortality" label="#infantmortality" />
+      <node id="#Fellowships" label="#Fellowships" />
+      <node id="#HPM" label="#HPM" />
+      <node id="#Galesburg" label="#Galesburg" />
+      <node id="#PublicOption" label="#PublicOption" />
+      <node id="#racism" label="#racism" />
+      <node id="#hpm" label="#hpm" />
+      <node id="#GoodDeath" label="#GoodDeath" />
+      <node id="#hospices" label="#hospices" />
+      <node id="#Journalism" label="#Journalism" />
+      <node id="#housing" label="#housing" />
+      <node id="#lead" label="#lead" />
+      <node id="#SDoH" label="#SDoH" />
+      <node id="#SanBernardino" label="#SanBernardino" />
+      <node id="#arthritis" label="#arthritis" />
+      <node id="#maternityleave" label="#maternityleave" />
+      <node id="#resilient" label="#resilient" />
+      <node id="#vaccine" label="#vaccine" />
+      <node id="#Autism" label="#Autism" />
+      <node id="#maternalmortality" label="#maternalmortality" />
+      <node id="#NOLA" label="#NOLA" />
+      <node id="#investigative" label="#investigative" />
+      <node id="#VivaGuisados" label="#VivaGuisados" />
+      <node id="#Dentistry" label="#Dentistry" />
+      <node id="#Health" label="#Health" />
+      <node id="#nursinghomes" label="#nursinghomes" />
+      <node id="#MHSM" label="#MHSM" />
+      <node id="#ruralhealth" label="#ruralhealth" />
+      <node id="#wildlife" label="#wildlife" />
+      <node id="#MaternalMortality" label="#MaternalMortality" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#hepC" label="#hepC" />
+      <node id="#technology" label="#technology" />
+      <node id="#Pulitzer" label="#Pulitzer" />
+      <node id="#GivingTuesdayCA" label="#GivingTuesdayCA" />
+      <node id="#HIV" label="#HIV" />
+      <node id="#hepatitisC" label="#hepatitisC" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#tobacco" label="#tobacco" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#resilience" label="#resilience" />
+      <node id="#data" label="#data" />
+      <node id="#Ruralhealth" label="#Ruralhealth" />
+      <node id="#concussions" label="#concussions" />
+      <node id="#Flint" label="#Flint" />
+      <node id="#transgender" label="#transgender" />
+      <node id="#mentalhealthreporting" label="#mentalhealthreporting" />
+      <node id="#AdverseChildhoodExperiences" label="#AdverseChildhoodExperiences" />
+      <node id="#FOIA" label="#FOIA" />
+      <node id="#access" label="#access" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#Tobacco" label="#Tobacco" />
+      <node id="#blacklivesmattersac" label="#blacklivesmattersac" />
+      <node id="#transparency" label="#transparency" />
+      <node id="#Fresno" label="#Fresno" />
+      <node id="#telemedicine" label="#telemedicine" />
+      <node id="#journalists" label="#journalists" />
+      <node id="#Exide" label="#Exide" />
+      <node id="#endoflife" label="#endoflife" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#HPV" label="#HPV" />
+      <node id="#CMS" label="#CMS" />
+      <node id="#ZikaSummit" label="#ZikaSummit" />
+      <node id="#Prop56" label="#Prop56" />
+      <node id="#blackhealth" label="#blackhealth" />
+      <node id="#AutismDay2016" label="#AutismDay2016" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#EndOfLife" label="#EndOfLife" />
+      <node id="#medicare" label="#medicare" />
+      <node id="#HealthMatters" label="#HealthMatters" />
+      <node id="#fastfood" label="#fastfood" />
+      <node id="#IMMIGRANTS" label="#IMMIGRANTS" />
+      <node id="#fooddesert" label="#fooddesert" />
+      <node id="#DREAMers" label="#DREAMers" />
+      <node id="#suicide" label="#suicide" />
+      <node id="#journalism" label="#journalism" />
+      <node id="#CHJFellows" label="#CHJFellows" />
+      <node id="#AAPI" label="#AAPI" />
+      <node id="#concussion" label="#concussion" />
+      <node id="#longtermcare" label="#longtermcare" />
+      <node id="#acp" label="#acp" />
+      <node id="#EarlyDeath" label="#EarlyDeath" />
+      <node id="#reporting" label="#reporting" />
+      <node id="#eol" label="#eol" />
+      <node id="#VPDebate" label="#VPDebate" />
+      <node id="#Pulitzer100" label="#Pulitzer100" />
+      <node id="#Vaccines" label="#Vaccines" />
+      <node id="#NarratingMedicine" label="#NarratingMedicine" />
+      <node id="#Zika" label="#Zika" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#Suicide" label="#Suicide" />
+      <node id="#smokefree" label="#smokefree" />
+      <node id="#rural" label="#rural" />
+      <node id="#billing" label="#billing" />
+      <node id="#PayForPerformance" label="#PayForPerformance" />
+      <node id="#Undocumented" label="#Undocumented" />
+      <node id="#SonomaCounty" label="#SonomaCounty" />
+      <node id="#PlannedParenthood" label="#PlannedParenthood" />
+      <node id="#NIHCM" label="#NIHCM" />
+      <node id="#HCV" label="#HCV" />
+      <node id="#health" label="#health" />
+      <node id="#digitalhealth" label="#digitalhealth" />
+      <node id="#psychiatric" label="#psychiatric" />
+      <node id="#childrenshealth" label="#childrenshealth" />
+      <node id="#medicalerrors" label="#medicalerrors" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#dreamers" label="#dreamers" />
+      <node id="#hospice" label="#hospice" />
+      <node id="#BoyleHeightsBeat" label="#BoyleHeightsBeat" />
+      <node id="#primarycare" label="#primarycare" />
+      <node id="#Medi" label="#Medi" />
+      <node id="#California" label="#California" />
+      <node id="#chjf15" label="#chjf15" />
+      <node id="#Protip" label="#Protip" />
+      <node id="#familyglitch" label="#familyglitch" />
+      <node id="#wordgap" label="#wordgap" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#Hilary" label="#Hilary" />
+      <node id="#dental" label="#dental" />
+      <node id="#HepatitisC" label="#HepatitisC" />
+      <node id="#medical" label="#medical" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#DigitalHealth" label="#DigitalHealth" />
+      <node id="#surprisebills" label="#surprisebills" />
+      <node id="#undocumented" label="#undocumented" />
+      <node id="#Childhoodobesity" label="#Childhoodobesity" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#emergency" target="#billing" weight="3229" />
+      <edge id="1" source="#emergency" target="#surprisebills" weight="3229" />
+      <edge id="2" source="#emergency" target="#healthmatters" weight="3229" />
+      <edge id="3" source="#deductibles" target="#insurance" weight="3229" />
+      <edge id="4" source="#deductibles" target="#Health" weight="3229" />
+      <edge id="5" source="#AHCJ16" target="#NFL" weight="3229" />
+      <edge id="6" source="#AHCJ16" target="#concussions" weight="3229" />
+      <edge id="7" source="#MHMForum" target="#reporting" weight="3229" />
+      <edge id="8" source="#MHMForum" target="#journalism" weight="3229" />
+      <edge id="9" source="#MHMForum" target="#mentalhealth" weight="6458" />
+      <edge id="10" source="#OpioidEpidemic" target="#Medicaid" weight="3229" />
+      <edge id="11" source="#OpioidEpidemic" target="#telemedicine" weight="3229" />
+      <edge id="12" source="#OpioidEpidemic" target="#ruralhealth" weight="3229" />
+      <edge id="13" source="#TheOped" target="#NarratingMedicine" weight="3229" />
+      <edge id="14" source="#HealthCare" target="#transparency" weight="3229" />
+      <edge id="15" source="#aging" target="#technology" weight="3229" />
+      <edge id="16" source="#aging" target="#access" weight="3229" />
+      <edge id="17" source="#aging" target="#Medicare" weight="3229" />
+      <edge id="18" source="#p4pchat" target="#PayForPerformance" weight="3229" />
+      <edge id="19" source="#p4pchat" target="#Medicare" weight="3229" />
+      <edge id="20" source="#SanBern" target="#mentalhealth" weight="3229" />
+      <edge id="21" source="#healthmatters" target="#billing" weight="3229" />
+      <edge id="22" source="#healthmatters" target="#ACA" weight="3229" />
+      <edge id="23" source="#healthmatters" target="#medicare" weight="3229" />
+      <edge id="24" source="#healthmatters" target="#surprisebills" weight="3229" />
+      <edge id="25" source="#healthmatters" target="#Medicare" weight="3229" />
+      <edge id="26" source="#relience" target="#chj16" weight="3229" />
+      <edge id="27" source="#autismawareness" target="#AAPI" weight="3229" />
+      <edge id="28" source="#autismawareness" target="#AutismDay2016" weight="3229" />
+      <edge id="29" source="#BehavioralHealth" target="#NIHCM" weight="3229" />
+      <edge id="30" source="#obesity" target="#arthritis" weight="25832" />
+      <edge id="31" source="#obesity" target="#pain" weight="6458" />
+      <edge id="32" source="#telehealth" target="#telemedicine" weight="3229" />
+      <edge id="33" source="#telehealth" target="#ruralhealth" weight="6458" />
+      <edge id="34" source="#chronicdisease" target="#ACA" weight="3229" />
+      <edge id="35" source="#HIT" target="#digitalhealth" weight="3229" />
+      <edge id="36" source="#SPSM" target="#Suicide" weight="3229" />
+      <edge id="37" source="#SPSM" target="#MHSM" weight="3229" />
+      <edge id="38" source="#leadpoisoning" target="#lead" weight="3229" />
+      <edge id="39" source="#DACA" target="#Medi" weight="3229" />
+      <edge id="40" source="#DACA" target="#DREAMers" weight="6458" />
+      <edge id="41" source="#DACA" target="#IMMIGRANTS" weight="3229" />
+      <edge id="42" source="#publichealth" target="#MaternalMortality" weight="3229" />
+      <edge id="43" source="#Obamacare" target="#PublicOption" weight="6458" />
+      <edge id="44" source="#Obamacare" target="#ACA" weight="12916" />
+      <edge id="45" source="#Obamacare" target="#publicoption" weight="9687" />
+      <edge id="46" source="#Obamacare" target="#familyglitch" weight="3229" />
+      <edge id="47" source="#patientsafety" target="#medicalerrors" weight="3229" />
+      <edge id="48" source="#palliative" target="#HPM" weight="3229" />
+      <edge id="49" source="#palliative" target="#hospices" weight="3229" />
+      <edge id="50" source="#palliative" target="#endoflife" weight="6458" />
+      <edge id="51" source="#palliative" target="#hospice" weight="6458" />
+      <edge id="52" source="#infections" target="#CMS" weight="3229" />
+      <edge id="53" source="#chj16" target="#resilient" weight="3229" />
+      <edge id="54" source="#chj16" target="#VivaGuisados" weight="3229" />
+      <edge id="55" source="#chj16" target="#resilience" weight="6458" />
+      <edge id="56" source="#chj16" target="#wordgap" weight="3229" />
+      <edge id="57" source="#chj16" target="#Exide" weight="3229" />
+      <edge id="58" source="#chj16" target="#SDoH" weight="6458" />
+      <edge id="59" source="#clinics" target="#primarycare" weight="3229" />
+      <edge id="60" source="#Lead" target="#Flint" weight="3229" />
+      <edge id="61" source="#CoveredCalifornia" target="#Medi" weight="3229" />
+      <edge id="62" source="#gooddeath" target="#hpm" weight="12916" />
+      <edge id="63" source="#gooddeath" target="#eol" weight="6458" />
+      <edge id="64" source="#gooddeath" target="#endoflife" weight="6458" />
+      <edge id="65" source="#gooddeath" target="#hospice" weight="6458" />
+      <edge id="66" source="#gooddeath" target="#EndOfLife" weight="16145" />
+      <edge id="67" source="#dentists" target="#Ruralhealth" weight="3229" />
+      <edge id="68" source="#PtExp" target="#patients" weight="3229" />
+      <edge id="69" source="#workforce" target="#health" weight="3229" />
+      <edge id="70" source="#workforce" target="#journalists" weight="3229" />
+      <edge id="71" source="#CAR" target="#FOIA" weight="3229" />
+      <edge id="72" source="#pain" target="#arthritis" weight="9687" />
+      <edge id="73" source="#PTSD" target="#NOLA" weight="3229" />
+      <edge id="74" source="#Healthcare" target="#healthIT" weight="3229" />
+      <edge id="75" source="#unaccompaniedminors" target="#asylum" weight="6458" />
+      <edge id="76" source="#UCLA" target="#smokefree" weight="3229" />
+      <edge id="77" source="#healthblog" target="#data" weight="3229" />
+      <edge id="78" source="#healthblog" target="#telemedicine" weight="3229" />
+      <edge id="79" source="#healthblog" target="#healthcare" weight="3229" />
+      <edge id="80" source="#healthblog" target="#health" weight="3229" />
+      <edge id="81" source="#healthblog" target="#DigitalHealth" weight="3229" />
+      <edge id="82" source="#autism" target="#childrenshealth" weight="3229" />
+      <edge id="83" source="#autism" target="#racism" weight="3229" />
+      <edge id="84" source="#careplanningact" target="#hpm" weight="3229" />
+      <edge id="85" source="#careplanningact" target="#eol" weight="3229" />
+      <edge id="86" source="#careplanningact" target="#acp" weight="3229" />
+      <edge id="87" source="#infantmortality" target="#maternityleave" weight="3229" />
+      <edge id="88" source="#Fellowships" target="#journalism" weight="3229" />
+      <edge id="89" source="#Fellowships" target="#mentalhealth" weight="3229" />
+      <edge id="90" source="#HPM" target="#endoflife" weight="3229" />
+      <edge id="91" source="#HPM" target="#hospice" weight="3229" />
+      <edge id="92" source="#Galesburg" target="#lead" weight="3229" />
+      <edge id="93" source="#hpm" target="#eol" weight="12916" />
+      <edge id="94" source="#hpm" target="#hospice" weight="3229" />
+      <edge id="95" source="#hpm" target="#endoflife" weight="9687" />
+      <edge id="96" source="#hpm" target="#acp" weight="3229" />
+      <edge id="97" source="#GoodDeath" target="#EarlyDeath" weight="3229" />
+      <edge id="98" source="#GoodDeath" target="#EndOfLife" weight="3229" />
+      <edge id="99" source="#Journalism" target="#Health" weight="6458" />
+      <edge id="100" source="#housing" target="#SonomaCounty" weight="6458" />
+      <edge id="101" source="#lead" target="#Flint" weight="35519" />
+      <edge id="102" source="#SanBernardino" target="#mentalhealth" weight="12916" />
+      <edge id="103" source="#vaccine" target="#HPV" weight="3229" />
+      <edge id="104" source="#Autism" target="#Vaccines" weight="3229" />
+      <edge id="105" source="#maternalmortality" target="#PlannedParenthood" weight="3229" />
+      <edge id="106" source="#investigative" target="#reporting" weight="3229" />
+      <edge id="107" source="#Dentistry" target="#dental" weight="3229" />
+      <edge id="108" source="#Health" target="#insurance" weight="3229" />
+      <edge id="109" source="#nursinghomes" target="#longtermcare" weight="3229" />
+      <edge id="110" source="#MHSM" target="#Suicide" weight="3229" />
+      <edge id="111" source="#ruralhealth" target="#Medicaid" weight="9687" />
+      <edge id="112" source="#ruralhealth" target="#telemedicine" weight="3229" />
+      <edge id="113" source="#wildlife" target="#California" weight="3229" />
+      <edge id="114" source="#mentalhealth" target="#reporting" weight="6458" />
+      <edge id="115" source="#mentalhealth" target="#mentalhealthreporting" weight="3229" />
+      <edge id="116" source="#mentalhealth" target="#journalism" weight="9687" />
+      <edge id="117" source="#mentalhealth" target="#Fresno" weight="6458" />
+      <edge id="118" source="#mentalhealth" target="#suicide" weight="3229" />
+      <edge id="119" source="#mentalhealth" target="#mentalhealth" weight="6458" />
+      <edge id="120" source="#healthcare" target="#telemedicine" weight="3229" />
+      <edge id="121" source="#healthcare" target="#VPDebate" weight="3229" />
+      <edge id="122" source="#healthcare" target="#dreamers" weight="3229" />
+      <edge id="123" source="#healthcare" target="#health" weight="3229" />
+      <edge id="124" source="#healthcare" target="#transparency" weight="3229" />
+      <edge id="125" source="#healthcare" target="#DigitalHealth" weight="3229" />
+      <edge id="126" source="#healthcare" target="#data" weight="3229" />
+      <edge id="127" source="#hepC" target="#Medicaid" weight="3229" />
+      <edge id="128" source="#technology" target="#access" weight="3229" />
+      <edge id="129" source="#technology" target="#Medicare" weight="3229" />
+      <edge id="130" source="#Pulitzer" target="#Pulitzer100" weight="3229" />
+      <edge id="131" source="#GivingTuesdayCA" target="#BoyleHeightsBeat" weight="3229" />
+      <edge id="132" source="#HIV" target="#transgender" weight="3229" />
+      <edge id="133" source="#hepatitisC" target="#HCV" weight="3229" />
+      <edge id="134" source="#tobacco" target="#Prop56" weight="3229" />
+      <edge id="135" source="#NFL" target="#concussion" weight="16145" />
+      <edge id="136" source="#NFL" target="#concussions" weight="3229" />
+      <edge id="137" source="#data" target="#telemedicine" weight="3229" />
+      <edge id="138" source="#data" target="#health" weight="3229" />
+      <edge id="139" source="#data" target="#DigitalHealth" weight="3229" />
+      <edge id="140" source="#AdverseChildhoodExperiences" target="#Childhoodobesity" weight="3229" />
+      <edge id="141" source="#access" target="#Medicare" weight="3229" />
+      <edge id="142" source="#Tobacco" target="#Prop56" weight="3229" />
+      <edge id="143" source="#blacklivesmattersac" target="#blackhealth" weight="3229" />
+      <edge id="144" source="#blacklivesmattersac" target="#BlackLivesMatter" weight="3229" />
+      <edge id="145" source="#transparency" target="#transparency" weight="6458" />
+      <edge id="146" source="#telemedicine" target="#health" weight="3229" />
+      <edge id="147" source="#telemedicine" target="#DigitalHealth" weight="3229" />
+      <edge id="148" source="#telemedicine" target="#Medicaid" weight="3229" />
+      <edge id="149" source="#telemedicine" target="#rural" weight="3229" />
+      <edge id="150" source="#journalists" target="#health" weight="3229" />
+      <edge id="151" source="#endoflife" target="#hospice" weight="6458" />
+      <edge id="152" source="#Trump" target="#Hilary" weight="3229" />
+      <edge id="153" source="#ZikaSummit" target="#Zika" weight="6458" />
+      <edge id="154" source="#blackhealth" target="#BlackLivesMatter" weight="3229" />
+      <edge id="155" source="#AutismDay2016" target="#AAPI" weight="3229" />
+      <edge id="156" source="#Medicare" target="#chjf15" weight="6458" />
+      <edge id="157" source="#Medicare" target="#HealthMatters" weight="6458" />
+      <edge id="158" source="#fastfood" target="#fooddesert" weight="3229" />
+      <edge id="159" source="#journalism" target="#reporting" weight="3229" />
+      <edge id="160" source="#CHJFellows" target="#Medi" weight="3229" />
+      <edge id="161" source="#CHJFellows" target="#Protip" weight="3229" />
+      <edge id="162" source="#CHJFellows" target="#diabetes" weight="6458" />
+      <edge id="163" source="#acp" target="#eol" weight="3229" />
+      <edge id="164" source="#eol" target="#hospice" weight="3229" />
+      <edge id="165" source="#hospitals" target="#psychiatric" weight="3229" />
+      <edge id="166" source="#rural" target="#Medicaid" weight="6458" />
+      <edge id="167" source="#billing" target="#surprisebills" weight="3229" />
+      <edge id="168" source="#Undocumented" target="#medical" weight="3229" />
+      <edge id="169" source="#HCV" target="#HepatitisC" weight="6458" />
+      <edge id="170" source="#health" target="#DigitalHealth" weight="3229" />
+      <edge id="171" source="#familyglitch" target="#ACA" weight="3229" />
+      <edge id="172" source="#Medicaid" target="#undocumented" weight="3229" />
+    </edges>
+  </graph>
+</gexf>

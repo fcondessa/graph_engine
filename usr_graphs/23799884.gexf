@@ -1,0 +1,794 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OlympicsDebate" label="#OlympicsDebate" />
+      <node id="#Arts" label="#Arts" />
+      <node id="#sumusprimi" label="#sumusprimi" />
+      <node id="#DorchesterDay" label="#DorchesterDay" />
+      <node id="#rock" label="#rock" />
+      <node id="#SB49" label="#SB49" />
+      <node id="#BOSMeltNow" label="#BOSMeltNow" />
+      <node id="#OlympicBid" label="#OlympicBid" />
+      <node id="#BattleOfCommAve" label="#BattleOfCommAve" />
+      <node id="#DBC" label="#DBC" />
+      <node id="#MartinRichard" label="#MartinRichard" />
+      <node id="#NewEngland" label="#NewEngland" />
+      <node id="#StopGunViolence" label="#StopGunViolence" />
+      <node id="#StrikeoutALS" label="#StrikeoutALS" />
+      <node id="#oldschool" label="#oldschool" />
+      <node id="#RoadtoRio" label="#RoadtoRio" />
+      <node id="#HistoryBegins" label="#HistoryBegins" />
+      <node id="#apps" label="#apps" />
+      <node id="#WWC2015" label="#WWC2015" />
+      <node id="#HillaryClinton" label="#HillaryClinton" />
+      <node id="#corruption" label="#corruption" />
+      <node id="#bospoli" label="#bospoli" />
+      <node id="#HeadoftheCharles" label="#HeadoftheCharles" />
+      <node id="#MIAAPlayoffs" label="#MIAAPlayoffs" />
+      <node id="#thefinesthours" label="#thefinesthours" />
+      <node id="#5community" label="#5community" />
+      <node id="#HeavyMetal" label="#HeavyMetal" />
+      <node id="#JUDO" label="#JUDO" />
+      <node id="#wcvb" label="#wcvb" />
+      <node id="#moving" label="#moving" />
+      <node id="#OLYMPICS" label="#OLYMPICS" />
+      <node id="#FF" label="#FF" />
+      <node id="#QuincyMa" label="#QuincyMa" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#StayTuned" label="#StayTuned" />
+      <node id="#cassettes" label="#cassettes" />
+      <node id="#backtoschool" label="#backtoschool" />
+      <node id="#GBFB" label="#GBFB" />
+      <node id="#USA" label="#USA" />
+      <node id="#Esplanade" label="#Esplanade" />
+      <node id="#CaressofSteel" label="#CaressofSteel" />
+      <node id="#Eastham" label="#Eastham" />
+      <node id="#LuLingzi" label="#LuLingzi" />
+      <node id="#DriveforFive" label="#DriveforFive" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#RoadToOmaha" label="#RoadToOmaha" />
+      <node id="#WeRunTogether" label="#WeRunTogether" />
+      <node id="#DonaldTrump" label="#DonaldTrump" />
+      <node id="#GoingForTheGold" label="#GoingForTheGold" />
+      <node id="#CueTheDuckboats" label="#CueTheDuckboats" />
+      <node id="#BrewingtheAmericanDream" label="#BrewingtheAmericanDream" />
+      <node id="#Oilers" label="#Oilers" />
+      <node id="#OlympicDay" label="#OlympicDay" />
+      <node id="#TO2015" label="#TO2015" />
+      <node id="#80sMetal" label="#80sMetal" />
+      <node id="#SundayFunday" label="#SundayFunday" />
+      <node id="#BostonsFinest" label="#BostonsFinest" />
+      <node id="#PapalVisit" label="#PapalVisit" />
+      <node id="#chefs" label="#chefs" />
+      <node id="#VantageHeroes" label="#VantageHeroes" />
+      <node id="#SuperBowlRingCeremony" label="#SuperBowlRingCeremony" />
+      <node id="#DNCinPHL" label="#DNCinPHL" />
+      <node id="#southie" label="#southie" />
+      <node id="#goteamusa" label="#goteamusa" />
+      <node id="#boston" label="#boston" />
+      <node id="#BostonMarathonBombing" label="#BostonMarathonBombing" />
+      <node id="#5onMain" label="#5onMain" />
+      <node id="#Election2016" label="#Election2016" />
+      <node id="#GoingfortheGold" label="#GoingfortheGold" />
+      <node id="#brunch" label="#brunch" />
+      <node id="#hunger" label="#hunger" />
+      <node id="#QuébecOriginal" label="#QuébecOriginal" />
+      <node id="#blackroseboston" label="#blackroseboston" />
+      <node id="#PatsNation" label="#PatsNation" />
+      <node id="#dncinphil" label="#dncinphil" />
+      <node id="#UFC193" label="#UFC193" />
+      <node id="#esplanade" label="#esplanade" />
+      <node id="#mtlmoments" label="#mtlmoments" />
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#NYJvsNE" label="#NYJvsNE" />
+      <node id="#TomBrady" label="#TomBrady" />
+      <node id="#jimmyfund" label="#jimmyfund" />
+      <node id="#Iraq" label="#Iraq" />
+      <node id="#eng" label="#eng" />
+      <node id="#TamirRice" label="#TamirRice" />
+      <node id="#EricGarner" label="#EricGarner" />
+      <node id="#BNBFest" label="#BNBFest" />
+      <node id="#R40BOS" label="#R40BOS" />
+      <node id="#London" label="#London" />
+      <node id="#BCHockey" label="#BCHockey" />
+      <node id="#CapeCod" label="#CapeCod" />
+      <node id="#OneBostonDay" label="#OneBostonDay" />
+      <node id="#PopeFrancis" label="#PopeFrancis" />
+      <node id="#MinutemanVsCristoRey" label="#MinutemanVsCristoRey" />
+      <node id="#islanders" label="#islanders" />
+      <node id="#Blizzard2015" label="#Blizzard2015" />
+      <node id="#MiracleonIce" label="#MiracleonIce" />
+      <node id="#BlackAtBLS" label="#BlackAtBLS" />
+      <node id="#SpringfieldMA" label="#SpringfieldMA" />
+      <node id="#BrightonMA" label="#BrightonMA" />
+      <node id="#Boston2024" label="#Boston2024" />
+      <node id="#RouseyvsHolms" label="#RouseyvsHolms" />
+      <node id="#MondayBrunch" label="#MondayBrunch" />
+      <node id="#bospol" label="#bospol" />
+      <node id="#HandsOfStone" label="#HandsOfStone" />
+      <node id="#pitchroom" label="#pitchroom" />
+      <node id="#MApoli" label="#MApoli" />
+      <node id="#StillWorthIt" label="#StillWorthIt" />
+      <node id="#Olympics2024" label="#Olympics2024" />
+      <node id="#AskMJW" label="#AskMJW" />
+      <node id="#bostonstrong" label="#bostonstrong" />
+      <node id="#Vancouver" label="#Vancouver" />
+      <node id="#fairshot" label="#fairshot" />
+      <node id="#SalemMA" label="#SalemMA" />
+      <node id="#SDAE" label="#SDAE" />
+      <node id="#WakefieldMA" label="#WakefieldMA" />
+      <node id="#7News" label="#7News" />
+      <node id="#BiginBaku" label="#BiginBaku" />
+      <node id="#boston2024" label="#boston2024" />
+      <node id="#LB91" label="#LB91" />
+      <node id="#loveonmain" label="#loveonmain" />
+      <node id="#CarlosArredondo" label="#CarlosArredondo" />
+      <node id="#News" label="#News" />
+      <node id="#NewBedford" label="#NewBedford" />
+      <node id="#bostonchamber" label="#bostonchamber" />
+      <node id="#nevergiveupthefight" label="#nevergiveupthefight" />
+      <node id="#paralympic" label="#paralympic" />
+      <node id="#HappyBirthday" label="#HappyBirthday" />
+      <node id="#DeflateWait" label="#DeflateWait" />
+      <node id="#Olympian" label="#Olympian" />
+      <node id="#Hillary2016" label="#Hillary2016" />
+      <node id="#Gronkowski" label="#Gronkowski" />
+      <node id="#BPDPhotoOfTheDay" label="#BPDPhotoOfTheDay" />
+      <node id="#EqualPayDay" label="#EqualPayDay" />
+      <node id="#ProBowl" label="#ProBowl" />
+      <node id="#goldenageofhiphop" label="#goldenageofhiphop" />
+      <node id="#NoticiasLocales" label="#NoticiasLocales" />
+      <node id="#Titans" label="#Titans" />
+      <node id="#JUDORIO2016" label="#JUDORIO2016" />
+      <node id="#bls" label="#bls" />
+      <node id="#WeAreBLS" label="#WeAreBLS" />
+      <node id="#together" label="#together" />
+      <node id="#patriots" label="#patriots" />
+      <node id="#jeffcoombsfund" label="#jeffcoombsfund" />
+      <node id="#Dorchester" label="#Dorchester" />
+      <node id="#SeanCollier" label="#SeanCollier" />
+      <node id="#BNBraintree" label="#BNBraintree" />
+      <node id="#NCAABaseball" label="#NCAABaseball" />
+      <node id="#banners" label="#banners" />
+      <node id="#BostonMarathon" label="#BostonMarathon" />
+      <node id="#tgthr6" label="#tgthr6" />
+      <node id="#Pantera" label="#Pantera" />
+      <node id="#UnivBoston" label="#UnivBoston" />
+      <node id="#Taunton" label="#Taunton" />
+      <node id="#WeAreBC" label="#WeAreBC" />
+      <node id="#SuperHungerBrunch" label="#SuperHungerBrunch" />
+      <node id="#PF3" label="#PF3" />
+      <node id="#TheBrunchClub" label="#TheBrunchClub" />
+      <node id="#NewZealand" label="#NewZealand" />
+      <node id="#Nets" label="#Nets" />
+      <node id="#StrikeOutALS" label="#StrikeOutALS" />
+      <node id="#dorchester" label="#dorchester" />
+      <node id="#RallyAgainstCancer" label="#RallyAgainstCancer" />
+      <node id="#Haitian" label="#Haitian" />
+      <node id="#justkidding" label="#justkidding" />
+      <node id="#FDNY" label="#FDNY" />
+      <node id="#Wellesley" label="#Wellesley" />
+      <node id="#GRAMMYs" label="#GRAMMYs" />
+      <node id="#IDSDP2015" label="#IDSDP2015" />
+      <node id="#brothers" label="#brothers" />
+      <node id="#SOTC16" label="#SOTC16" />
+      <node id="#revengeofthezombie" label="#revengeofthezombie" />
+      <node id="#trees" label="#trees" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#yay" label="#yay" />
+      <node id="#mondaynighttalk" label="#mondaynighttalk" />
+      <node id="#sisters" label="#sisters" />
+      <node id="#SouthEnd" label="#SouthEnd" />
+      <node id="#Deflategate" label="#Deflategate" />
+      <node id="#vinyl" label="#vinyl" />
+      <node id="#WereWithHer" label="#WereWithHer" />
+      <node id="#Backthebid" label="#Backthebid" />
+      <node id="#sport4betterworld" label="#sport4betterworld" />
+      <node id="#MAPOLI" label="#MAPOLI" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#Birdball" label="#Birdball" />
+      <node id="#MarketStreetLynnfield" label="#MarketStreetLynnfield" />
+      <node id="#HamptonInn" label="#HamptonInn" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#BeatBU" label="#BeatBU" />
+      <node id="#BlockParty" label="#BlockParty" />
+      <node id="#SouthBoston" label="#SouthBoston" />
+      <node id="#Revere" label="#Revere" />
+      <node id="#Yarmouth" label="#Yarmouth" />
+      <node id="#PatriotsDay" label="#PatriotsDay" />
+      <node id="#bros" label="#bros" />
+      <node id="#Boxers" label="#Boxers" />
+      <node id="#SoWA" label="#SoWA" />
+      <node id="#thebrunchclub" label="#thebrunchclub" />
+      <node id="#NoFilter" label="#NoFilter" />
+      <node id="#PlayoffPush" label="#PlayoffPush" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#BelmontStakes" label="#BelmontStakes" />
+      <node id="#weareBC" label="#weareBC" />
+      <node id="#Southie" label="#Southie" />
+      <node id="#mapoli" label="#mapoli" />
+      <node id="#CityHallPlaza" label="#CityHallPlaza" />
+      <node id="#CFL" label="#CFL" />
+      <node id="#HappyMothersDay" label="#HappyMothersDay" />
+      <node id="#SJ15Boston" label="#SJ15Boston" />
+      <node id="#BostonStrong" label="#BostonStrong" />
+      <node id="#paralympics" label="#paralympics" />
+      <node id="#yacht" label="#yacht" />
+      <node id="#A" label="#A" />
+      <node id="#KrystleCampbell" label="#KrystleCampbell" />
+      <node id="#WBZ" label="#WBZ" />
+      <node id="#Patriots" label="#Patriots" />
+      <node id="#DeweySQ" label="#DeweySQ" />
+      <node id="#technology" label="#technology" />
+      <node id="#happyfirstdayofspring" label="#happyfirstdayofspring" />
+      <node id="#BOSnow" label="#BOSnow" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#Lynnfield" label="#Lynnfield" />
+      <node id="#VCats" label="#VCats" />
+      <node id="#369Days" label="#369Days" />
+      <node id="#USOC" label="#USOC" />
+      <node id="#WCVB" label="#WCVB" />
+      <node id="#IceBucketChallenge" label="#IceBucketChallenge" />
+      <node id="#Boston" label="#Boston" />
+      <node id="#Baku2015" label="#Baku2015" />
+      <node id="#bruncheveryday" label="#bruncheveryday" />
+      <node id="#IslamicState" label="#IslamicState" />
+      <node id="#FergusonReport" label="#FergusonReport" />
+      <node id="#bestbookclub" label="#bestbookclub" />
+      <node id="#Kanye" label="#Kanye" />
+      <node id="#latergram" label="#latergram" />
+      <node id="#Allston" label="#Allston" />
+      <node id="#SelectionSunday" label="#SelectionSunday" />
+      <node id="#ImagineBoston" label="#ImagineBoston" />
+      <node id="#fireworks" label="#fireworks" />
+      <node id="#MSClimb2Top" label="#MSClimb2Top" />
+      <node id="#patriotsparade" label="#patriotsparade" />
+      <node id="#GOLD" label="#GOLD" />
+      <node id="#bostonsafer" label="#bostonsafer" />
+      <node id="#BC360" label="#BC360" />
+      <node id="#Omen" label="#Omen" />
+      <node id="#advertising101" label="#advertising101" />
+      <node id="#NewYear" label="#NewYear" />
+      <node id="#CHAMPS" label="#CHAMPS" />
+      <node id="#LawrenceMA" label="#LawrenceMA" />
+      <node id="#HaulersHockey" label="#HaulersHockey" />
+      <node id="#SuperBowlXLIX" label="#SuperBowlXLIX" />
+      <node id="#TeamBoston2024" label="#TeamBoston2024" />
+      <node id="#sb15" label="#sb15" />
+      <node id="#readeatdrink" label="#readeatdrink" />
+      <node id="#MaldenMA" label="#MaldenMA" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#newCPK" label="#newCPK" />
+      <node id="#olympic" label="#olympic" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#sunday" label="#sunday" />
+      <node id="#digoutdineout" label="#digoutdineout" />
+      <node id="#MSP" label="#MSP" />
+      <node id="#vantageheroes" label="#vantageheroes" />
+      <node id="#dfs" label="#dfs" />
+      <node id="#R40" label="#R40" />
+      <node id="#Olympic" label="#Olympic" />
+      <node id="#FridayNightLights" label="#FridayNightLights" />
+      <node id="#TheZombie" label="#TheZombie" />
+      <node id="#army" label="#army" />
+      <node id="#olympics" label="#olympics" />
+      <node id="#NoMas" label="#NoMas" />
+      <node id="#celtics" label="#celtics" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#BCEagles" label="#BCEagles" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#springday" label="#springday" />
+      <node id="#olympicday2015" label="#olympicday2015" />
+      <node id="#NP" label="#NP" />
+      <node id="#TheFinestHours" label="#TheFinestHours" />
+      <node id="#JudoRabat2015" label="#JudoRabat2015" />
+      <node id="#Celtics" label="#Celtics" />
+      <node id="#FormerBirdballers" label="#FormerBirdballers" />
+      <node id="#BosPoli" label="#BosPoli" />
+      <node id="#Brooklyn" label="#Brooklyn" />
+      <node id="#music" label="#music" />
+      <node id="#IEDs" label="#IEDs" />
+      <node id="#Colts" label="#Colts" />
+      <node id="#Wcvb" label="#Wcvb" />
+      <node id="#BOSvsBUF" label="#BOSvsBUF" />
+      <node id="#ABCDHoopDreams" label="#ABCDHoopDreams" />
+      <node id="#nhpolitics" label="#nhpolitics" />
+      <node id="#webleedgreen" label="#webleedgreen" />
+      <node id="#Tsarnaev" label="#Tsarnaev" />
+      <node id="#4thSuffolk" label="#4thSuffolk" />
+      <node id="#MondayMotivation" label="#MondayMotivation" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#Somerville" label="#Somerville" />
+      <node id="#killington" label="#killington" />
+      <node id="#ThisIsOurHouse" label="#ThisIsOurHouse" />
+      <node id="#Iceland" label="#Iceland" />
+      <node id="#DeflateGate" label="#DeflateGate" />
+      <node id="#art" label="#art" />
+      <node id="#DigOutDineOut" label="#DigOutDineOut" />
+      <node id="#UltimateFoodRescueChallenge" label="#UltimateFoodRescueChallenge" />
+      <node id="#GoPatriots" label="#GoPatriots" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#BackTheBid" label="#BackTheBid" />
+      <node id="#BryantPark" label="#BryantPark" />
+      <node id="#TerrorOnTrial" label="#TerrorOnTrial" />
+      <node id="#DotDay" label="#DotDay" />
+      <node id="#waafnews" label="#waafnews" />
+      <node id="#EvacuationDay" label="#EvacuationDay" />
+      <node id="#BostonCeltics" label="#BostonCeltics" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#Walsh2024" label="#Walsh2024" />
+      <node id="#history" label="#history" />
+      <node id="#ShamrockSeries" label="#ShamrockSeries" />
+      <node id="#nbc4ny" label="#nbc4ny" />
+      <node id="#lovegun" label="#lovegun" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#GOAT" label="#GOAT" />
+      <node id="#DemsinPhilly" label="#DemsinPhilly" />
+      <node id="#bringittoboston" label="#bringittoboston" />
+      <node id="#LGBT" label="#LGBT" />
+      <node id="#hubhacks" label="#hubhacks" />
+      <node id="#HappeningNow" label="#HappeningNow" />
+      <node id="#classics" label="#classics" />
+      <node id="#BostonChamber" label="#BostonChamber" />
+      <node id="#brocktonfair" label="#brocktonfair" />
+      <node id="#Bernie2016" label="#Bernie2016" />
+      <node id="#TripleCrown" label="#TripleCrown" />
+      <node id="#BostonBrunch" label="#BostonBrunch" />
+      <node id="#WeBleedGreen" label="#WeBleedGreen" />
+      <node id="#BringItToBoston" label="#BringItToBoston" />
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#TDGarden" label="#TDGarden" />
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#SuperBowlSunday" label="#SuperBowlSunday" />
+      <node id="#PatriotsNation" label="#PatriotsNation" />
+      <node id="#CelticsTickets" label="#CelticsTickets" />
+      <node id="#UVMVisit" label="#UVMVisit" />
+      <node id="#ChelseaClinton" label="#ChelseaClinton" />
+      <node id="#thetruth" label="#thetruth" />
+      <node id="#BackToBack" label="#BackToBack" />
+      <node id="#capecod" label="#capecod" />
+      <node id="#OurCommitment" label="#OurCommitment" />
+      <node id="#festival" label="#festival" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#ParisWeLoveYou" label="#ParisWeLoveYou" />
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#FinestHours" label="#FinestHours" />
+      <node id="#CPK" label="#CPK" />
+      <node id="#ThrashMetal" label="#ThrashMetal" />
+      <node id="#fail" label="#fail" />
+      <node id="#BelieveinBoston" label="#BelieveinBoston" />
+      <node id="#WickedProud" label="#WickedProud" />
+      <node id="#goeagles" label="#goeagles" />
+      <node id="#Paralympic" label="#Paralympic" />
+      <node id="#strikeoutals" label="#strikeoutals" />
+      <node id="#summer" label="#summer" />
+      <node id="#JPN" label="#JPN" />
+      <node id="#EVRERYDAYBRUNCH" label="#EVRERYDAYBRUNCH" />
+      <node id="#dems" label="#dems" />
+      <node id="#drone" label="#drone" />
+      <node id="#knucklepushups" label="#knucklepushups" />
+      <node id="#worldchamps" label="#worldchamps" />
+      <node id="#SoulTown" label="#SoulTown" />
+      <node id="#NDvsBC" label="#NDvsBC" />
+      <node id="#OlympicGames" label="#OlympicGames" />
+      <node id="#ISL" label="#ISL" />
+      <node id="#MA" label="#MA" />
+      <node id="#2018평창" label="#2018평창" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OlympicsDebate" target="#Boston2024" weight="6434" />
+      <edge id="1" source="#Arts" target="#BostonStrong" weight="3217" />
+      <edge id="2" source="#Arts" target="#SouthBoston" weight="3217" />
+      <edge id="3" source="#sumusprimi" target="#bls" weight="3217" />
+      <edge id="4" source="#DorchesterDay" target="#DotDay" weight="3217" />
+      <edge id="5" source="#DorchesterDay" target="#Boston2024" weight="3217" />
+      <edge id="6" source="#rock" target="#music" weight="3217" />
+      <edge id="7" source="#SB49" target="#CHAMPS" weight="3217" />
+      <edge id="8" source="#SB49" target="#CueTheDuckboats" weight="3217" />
+      <edge id="9" source="#SB49" target="#LB91" weight="3217" />
+      <edge id="10" source="#SB49" target="#PatsNation" weight="3217" />
+      <edge id="11" source="#SB49" target="#patriotsparade" weight="3217" />
+      <edge id="12" source="#BOSMeltNow" target="#BOSnow" weight="3217" />
+      <edge id="13" source="#OlympicBid" target="#OlympicGames" weight="3217" />
+      <edge id="14" source="#OlympicBid" target="#Olympics" weight="3217" />
+      <edge id="15" source="#OlympicBid" target="#Boston2024" weight="3217" />
+      <edge id="16" source="#BattleOfCommAve" target="#BeatBU" weight="3217" />
+      <edge id="17" source="#DBC" target="#Dorchester" weight="3217" />
+      <edge id="18" source="#MartinRichard" target="#SeanCollier" weight="3217" />
+      <edge id="19" source="#MartinRichard" target="#BostonStrong" weight="3217" />
+      <edge id="20" source="#MartinRichard" target="#LuLingzi" weight="3217" />
+      <edge id="21" source="#MartinRichard" target="#KrystleCampbell" weight="3217" />
+      <edge id="22" source="#NewEngland" target="#Boston" weight="3217" />
+      <edge id="23" source="#StopGunViolence" target="#mapoli" weight="3217" />
+      <edge id="24" source="#StrikeoutALS" target="#IceBucketChallenge" weight="3217" />
+      <edge id="25" source="#StrikeoutALS" target="#MinutemanVsCristoRey" weight="3217" />
+      <edge id="26" source="#oldschool" target="#goldenageofhiphop" weight="3217" />
+      <edge id="27" source="#RoadtoRio" target="#Rio2016" weight="3217" />
+      <edge id="28" source="#RoadtoRio" target="#Boston2024" weight="3217" />
+      <edge id="29" source="#HistoryBegins" target="#BOSvsBUF" weight="3217" />
+      <edge id="30" source="#apps" target="#socialmedia" weight="3217" />
+      <edge id="31" source="#WWC2015" target="#CityHallPlaza" weight="3217" />
+      <edge id="32" source="#HillaryClinton" target="#DonaldTrump" weight="3217" />
+      <edge id="33" source="#corruption" target="#FergusonReport" weight="3217" />
+      <edge id="34" source="#bospoli" target="#hubhacks" weight="3217" />
+      <edge id="35" source="#bospoli" target="#Dorchester" weight="3217" />
+      <edge id="36" source="#bospoli" target="#southie" weight="3217" />
+      <edge id="37" source="#bospoli" target="#dorchester" weight="3217" />
+      <edge id="38" source="#bospoli" target="#Election2016" weight="3217" />
+      <edge id="39" source="#bospoli" target="#SOTC16" weight="3217" />
+      <edge id="40" source="#bospoli" target="#mapoli" weight="28953" />
+      <edge id="41" source="#HeadoftheCharles" target="#MSP" weight="3217" />
+      <edge id="42" source="#MIAAPlayoffs" target="#FridayNightLights" weight="3217" />
+      <edge id="43" source="#thefinesthours" target="#vantageheroes" weight="3217" />
+      <edge id="44" source="#5community" target="#WCVB" weight="3217" />
+      <edge id="45" source="#HeavyMetal" target="#ThrashMetal" weight="3217" />
+      <edge id="46" source="#HeavyMetal" target="#HappyBirthday" weight="3217" />
+      <edge id="47" source="#JUDO" target="#GOLD" weight="3217" />
+      <edge id="48" source="#JUDO" target="#USA" weight="3217" />
+      <edge id="49" source="#JUDO" target="#JUDORIO2016" weight="3217" />
+      <edge id="50" source="#JUDO" target="#OLYMPICS" weight="3217" />
+      <edge id="51" source="#wcvb" target="#mapoli" weight="3217" />
+      <edge id="52" source="#wcvb" target="#nofilter" weight="3217" />
+      <edge id="53" source="#wcvb" target="#boston" weight="3217" />
+      <edge id="54" source="#wcvb" target="#Boston2024" weight="9651" />
+      <edge id="55" source="#moving" target="#cassettes" weight="3217" />
+      <edge id="56" source="#OLYMPICS" target="#USA" weight="3217" />
+      <edge id="57" source="#OLYMPICS" target="#GOLD" weight="3217" />
+      <edge id="58" source="#OLYMPICS" target="#JUDORIO2016" weight="3217" />
+      <edge id="59" source="#FF" target="#FollowFriday" weight="3217" />
+      <edge id="60" source="#QuincyMa" target="#PatriotsDay" weight="3217" />
+      <edge id="61" source="#TBT" target="#vinyl" weight="3217" />
+      <edge id="62" source="#TBT" target="#Boston2024" weight="3217" />
+      <edge id="63" source="#StayTuned" target="#fairshot" weight="3217" />
+      <edge id="64" source="#backtoschool" target="#SDAE" weight="3217" />
+      <edge id="65" source="#GBFB" target="#SuperHungerBrunch" weight="3217" />
+      <edge id="66" source="#USA" target="#GOLD" weight="3217" />
+      <edge id="67" source="#USA" target="#JPN" weight="3217" />
+      <edge id="68" source="#USA" target="#JUDORIO2016" weight="3217" />
+      <edge id="69" source="#Esplanade" target="#drone" weight="3217" />
+      <edge id="70" source="#Esplanade" target="#Boston" weight="3217" />
+      <edge id="71" source="#CaressofSteel" target="#R40BOS" weight="3217" />
+      <edge id="72" source="#CaressofSteel" target="#R40" weight="3217" />
+      <edge id="73" source="#Eastham" target="#CapeCod" weight="3217" />
+      <edge id="74" source="#LuLingzi" target="#BostonStrong" weight="3217" />
+      <edge id="75" source="#LuLingzi" target="#KrystleCampbell" weight="3217" />
+      <edge id="76" source="#LuLingzi" target="#SeanCollier" weight="3217" />
+      <edge id="77" source="#DriveforFive" target="#GOAT" weight="3217" />
+      <edge id="78" source="#ImWithHer" target="#WereWithHer" weight="6434" />
+      <edge id="79" source="#ImWithHer" target="#DNCinPHL" weight="3217" />
+      <edge id="80" source="#ImWithHer" target="#dncinphil" weight="3217" />
+      <edge id="81" source="#ImWithHer" target="#DemsInPhilly" weight="3217" />
+      <edge id="82" source="#ImWithHer" target="#dems" weight="3217" />
+      <edge id="83" source="#RoadToOmaha" target="#NCAABaseball" weight="3217" />
+      <edge id="84" source="#RoadToOmaha" target="#goeagles" weight="3217" />
+      <edge id="85" source="#RoadToOmaha" target="#WeAreBC" weight="3217" />
+      <edge id="86" source="#RoadToOmaha" target="#weareBC" weight="3217" />
+      <edge id="87" source="#WeRunTogether" target="#BostonMarathon" weight="3217" />
+      <edge id="88" source="#GoingForTheGold" target="#TO2015" weight="3217" />
+      <edge id="89" source="#CueTheDuckboats" target="#patriotsparade" weight="3217" />
+      <edge id="90" source="#BrewingtheAmericanDream" target="#pitchroom" weight="3217" />
+      <edge id="91" source="#Oilers" target="#celtics" weight="3217" />
+      <edge id="92" source="#Oilers" target="#Nets" weight="3217" />
+      <edge id="93" source="#Oilers" target="#army" weight="3217" />
+      <edge id="94" source="#Oilers" target="#islanders" weight="3217" />
+      <edge id="95" source="#OlympicDay" target="#Boston2024" weight="3217" />
+      <edge id="96" source="#TO2015" target="#GoingfortheGold" weight="6434" />
+      <edge id="97" source="#TO2015" target="#Boston2024" weight="3217" />
+      <edge id="98" source="#80sMetal" target="#NP" weight="3217" />
+      <edge id="99" source="#SundayFunday" target="#TheBrunchClub" weight="3217" />
+      <edge id="100" source="#BostonsFinest" target="#BPDPhotoOfTheDay" weight="3217" />
+      <edge id="101" source="#PapalVisit" target="#PopeFrancis" weight="3217" />
+      <edge id="102" source="#chefs" target="#hunger" weight="3217" />
+      <edge id="103" source="#chefs" target="#UltimateFoodRescueChallenge" weight="3217" />
+      <edge id="104" source="#VantageHeroes" target="#BostonStrong" weight="3217" />
+      <edge id="105" source="#VantageHeroes" target="#ParisWeLoveYou" weight="3217" />
+      <edge id="106" source="#SuperBowlRingCeremony" target="#SuperBowlSunday" weight="3217" />
+      <edge id="107" source="#DNCinPHL" target="#WereWithHer" weight="3217" />
+      <edge id="108" source="#DNCinPHL" target="#DemsInPhilly" weight="3217" />
+      <edge id="109" source="#southie" target="#mapoli" weight="3217" />
+      <edge id="110" source="#southie" target="#dorchester" weight="6434" />
+      <edge id="111" source="#southie" target="#boston" weight="3217" />
+      <edge id="112" source="#goteamusa" target="#paralympic" weight="3217" />
+      <edge id="113" source="#goteamusa" target="#olympic" weight="3217" />
+      <edge id="114" source="#goteamusa" target="#boston2024" weight="3217" />
+      <edge id="115" source="#boston" target="#history" weight="3217" />
+      <edge id="116" source="#boston" target="#technology" weight="3217" />
+      <edge id="117" source="#boston" target="#music" weight="6434" />
+      <edge id="118" source="#boston" target="#boston2024" weight="3217" />
+      <edge id="119" source="#boston" target="#tgthr6" weight="3217" />
+      <edge id="120" source="#boston" target="#art" weight="3217" />
+      <edge id="121" source="#boston" target="#esplanade" weight="3217" />
+      <edge id="122" source="#boston" target="#festival" weight="3217" />
+      <edge id="123" source="#boston" target="#dorchester" weight="3217" />
+      <edge id="124" source="#boston" target="#together" weight="3217" />
+      <edge id="125" source="#boston" target="#DotDay" weight="3217" />
+      <edge id="126" source="#boston" target="#fireworks" weight="3217" />
+      <edge id="127" source="#boston" target="#summer" weight="3217" />
+      <edge id="128" source="#BostonMarathonBombing" target="#MApoli" weight="3217" />
+      <edge id="129" source="#5onMain" target="#shoplocal" weight="3217" />
+      <edge id="130" source="#Election2016" target="#mapoli" weight="3217" />
+      <edge id="131" source="#GoingfortheGold" target="#Boston2024" weight="3217" />
+      <edge id="132" source="#brunch" target="#BostonBrunch" weight="3217" />
+      <edge id="133" source="#hunger" target="#UltimateFoodRescueChallenge" weight="3217" />
+      <edge id="134" source="#QuébecOriginal" target="#mtlmoments" weight="3217" />
+      <edge id="135" source="#blackroseboston" target="#jimmyfund" weight="3217" />
+      <edge id="136" source="#PatsNation" target="#CHAMPS" weight="3217" />
+      <edge id="137" source="#PatsNation" target="#LB91" weight="3217" />
+      <edge id="138" source="#dncinphil" target="#WereWithHer" weight="3217" />
+      <edge id="139" source="#dncinphil" target="#dems" weight="3217" />
+      <edge id="140" source="#UFC193" target="#RouseyvsHolms" weight="3217" />
+      <edge id="141" source="#esplanade" target="#fireworks" weight="3217" />
+      <edge id="142" source="#Rio2016" target="#Boston2024" weight="3217" />
+      <edge id="143" source="#NYJvsNE" target="#ThisIsOurHouse" weight="3217" />
+      <edge id="144" source="#TomBrady" target="#Colts" weight="3217" />
+      <edge id="145" source="#TomBrady" target="#patriots" weight="3217" />
+      <edge id="146" source="#Iraq" target="#IslamicState" weight="3217" />
+      <edge id="147" source="#eng" target="#ISL" weight="3217" />
+      <edge id="148" source="#TamirRice" target="#EricGarner" weight="3217" />
+      <edge id="149" source="#TamirRice" target="#Ferguson" weight="3217" />
+      <edge id="150" source="#EricGarner" target="#Ferguson" weight="3217" />
+      <edge id="151" source="#BNBFest" target="#BNBraintree" weight="3217" />
+      <edge id="152" source="#R40BOS" target="#banners" weight="3217" />
+      <edge id="153" source="#R40BOS" target="#R40" weight="3217" />
+      <edge id="154" source="#London" target="#Vancouver" weight="3217" />
+      <edge id="155" source="#London" target="#Boston2024" weight="3217" />
+      <edge id="156" source="#BCHockey" target="#BCEagles" weight="3217" />
+      <edge id="157" source="#OneBostonDay" target="#BostonStrong" weight="3217" />
+      <edge id="158" source="#PopeFrancis" target="#BostonMarathon" weight="3217" />
+      <edge id="159" source="#PopeFrancis" target="#CarlosArredondo" weight="3217" />
+      <edge id="160" source="#islanders" target="#celtics" weight="3217" />
+      <edge id="161" source="#islanders" target="#Nets" weight="3217" />
+      <edge id="162" source="#islanders" target="#army" weight="3217" />
+      <edge id="163" source="#Blizzard2015" target="#DigOutDineOut" weight="3217" />
+      <edge id="164" source="#MiracleonIce" target="#Boston2024" weight="3217" />
+      <edge id="165" source="#BlackAtBLS" target="#WeAreBLS" weight="3217" />
+      <edge id="166" source="#SpringfieldMA" target="#BrightonMA" weight="3217" />
+      <edge id="167" source="#SpringfieldMA" target="#Boston2024" weight="6434" />
+      <edge id="168" source="#SpringfieldMA" target="#Allston" weight="3217" />
+      <edge id="169" source="#SpringfieldMA" target="#MaldenMA" weight="3217" />
+      <edge id="170" source="#BrightonMA" target="#Allston" weight="3217" />
+      <edge id="171" source="#Boston2024" target="#BostonMarathon" weight="6434" />
+      <edge id="172" source="#Boston2024" target="#PlayoffPush" weight="3217" />
+      <edge id="173" source="#Boston2024" target="#Olympian" weight="3217" />
+      <edge id="174" source="#Boston2024" target="#olympics" weight="6434" />
+      <edge id="175" source="#Boston2024" target="#BelieveinBoston" weight="3217" />
+      <edge id="176" source="#Boston2024" target="#UnivBoston" weight="3217" />
+      <edge id="177" source="#Boston2024" target="#NoticiasLocales" weight="3217" />
+      <edge id="178" source="#Boston2024" target="#WickedProud" weight="6434" />
+      <edge id="179" source="#Boston2024" target="#Vancouver" weight="3217" />
+      <edge id="180" source="#Boston2024" target="#NewYear" weight="3217" />
+      <edge id="181" source="#Boston2024" target="#LawrenceMA" weight="3217" />
+      <edge id="182" source="#Boston2024" target="#Olympics" weight="12868" />
+      <edge id="183" source="#Boston2024" target="#USOC" weight="3217" />
+      <edge id="184" source="#Boston2024" target="#BostonChamber" weight="3217" />
+      <edge id="185" source="#Boston2024" target="#TeamBoston2024" weight="6434" />
+      <edge id="186" source="#Boston2024" target="#Backthebid" weight="3217" />
+      <edge id="187" source="#Boston2024" target="#BackTheBid" weight="3217" />
+      <edge id="188" source="#Boston2024" target="#sport4betterworld" weight="3217" />
+      <edge id="189" source="#Boston2024" target="#MAPOLI" weight="3217" />
+      <edge id="190" source="#Boston2024" target="#SalemMA" weight="3217" />
+      <edge id="191" source="#Boston2024" target="#DotDay" weight="3217" />
+      <edge id="192" source="#Boston2024" target="#BringItToBoston" weight="16085" />
+      <edge id="193" source="#Boston2024" target="#MaldenMA" weight="3217" />
+      <edge id="194" source="#Boston2024" target="#7News" weight="3217" />
+      <edge id="195" source="#Boston2024" target="#OlympicGames" weight="3217" />
+      <edge id="196" source="#Boston2024" target="#mapoli" weight="3217" />
+      <edge id="197" source="#Boston2024" target="#2018평창" weight="3217" />
+      <edge id="198" source="#Boston2024" target="#StPatricksDay" weight="3217" />
+      <edge id="199" source="#Boston2024" target="#BostonStrong" weight="3217" />
+      <edge id="200" source="#Boston2024" target="#paralympics" weight="6434" />
+      <edge id="201" source="#Boston2024" target="#olympicday2015" weight="3217" />
+      <edge id="202" source="#Boston2024" target="#NewBedford" weight="6434" />
+      <edge id="203" source="#Boston2024" target="#OurCommitment" weight="6434" />
+      <edge id="204" source="#Boston2024" target="#bostonchamber" weight="3217" />
+      <edge id="205" source="#Boston2024" target="#IDSDP2015" weight="3217" />
+      <edge id="206" source="#Boston2024" target="#ImagineBoston" weight="6434" />
+      <edge id="207" source="#Boston2024" target="#Boston" weight="12868" />
+      <edge id="208" source="#Boston2024" target="#Olympic" weight="9651" />
+      <edge id="209" source="#Boston2024" target="#WakefieldMA" weight="3217" />
+      <edge id="210" source="#Boston2024" target="#bringittoboston" weight="3217" />
+      <edge id="211" source="#MondayBrunch" target="#EVRERYDAYBRUNCH" weight="3217" />
+      <edge id="212" source="#MondayBrunch" target="#TheBrunchClub" weight="3217" />
+      <edge id="213" source="#bospol" target="#boston2024" weight="3217" />
+      <edge id="214" source="#HandsOfStone" target="#NoMas" weight="3217" />
+      <edge id="215" source="#MApoli" target="#mondaynighttalk" weight="3217" />
+      <edge id="216" source="#StillWorthIt" target="#369Days" weight="3217" />
+      <edge id="217" source="#Olympics2024" target="#boston2024" weight="3217" />
+      <edge id="218" source="#AskMJW" target="#Boston" weight="3217" />
+      <edge id="219" source="#bostonstrong" target="#ParisWeLoveYou" weight="3217" />
+      <edge id="220" source="#bostonstrong" target="#bostonsafer" weight="3217" />
+      <edge id="221" source="#bostonstrong" target="#jeffcoombsfund" weight="3217" />
+      <edge id="222" source="#bostonstrong" target="#vantageheroes" weight="3217" />
+      <edge id="223" source="#WakefieldMA" target="#Boston" weight="3217" />
+      <edge id="224" source="#7News" target="#Gronkowski" weight="3217" />
+      <edge id="225" source="#7News" target="#ChelseaClinton" weight="3217" />
+      <edge id="226" source="#7News" target="#Patriots" weight="3217" />
+      <edge id="227" source="#BiginBaku" target="#Baku2015" weight="3217" />
+      <edge id="228" source="#boston2024" target="#paralympic" weight="3217" />
+      <edge id="229" source="#boston2024" target="#olympic" weight="3217" />
+      <edge id="230" source="#boston2024" target="#WickedProud" weight="3217" />
+      <edge id="231" source="#boston2024" target="#Paralympic" weight="3217" />
+      <edge id="232" source="#boston2024" target="#DotDay" weight="3217" />
+      <edge id="233" source="#boston2024" target="#summer" weight="3217" />
+      <edge id="234" source="#LB91" target="#CHAMPS" weight="3217" />
+      <edge id="235" source="#loveonmain" target="#BOSnow" weight="3217" />
+      <edge id="236" source="#loveonmain" target="#digoutdineout" weight="3217" />
+      <edge id="237" source="#loveonmain" target="#Boston" weight="3217" />
+      <edge id="238" source="#CarlosArredondo" target="#BostonMarathon" weight="3217" />
+      <edge id="239" source="#News" target="#Boston" weight="9651" />
+      <edge id="240" source="#nevergiveupthefight" target="#yay" weight="3217" />
+      <edge id="241" source="#nevergiveupthefight" target="#strikeoutals" weight="3217" />
+      <edge id="242" source="#paralympic" target="#olympic" weight="3217" />
+      <edge id="243" source="#HappyBirthday" target="#ThrashMetal" weight="3217" />
+      <edge id="244" source="#DeflateWait" target="#DeflateGate" weight="3217" />
+      <edge id="245" source="#Hillary2016" target="#mapoli" weight="3217" />
+      <edge id="246" source="#Hillary2016" target="#Bernie2016" weight="3217" />
+      <edge id="247" source="#Gronkowski" target="#Patriots" weight="3217" />
+      <edge id="248" source="#EqualPayDay" target="#Iceland" weight="3217" />
+      <edge id="249" source="#ProBowl" target="#NFL" weight="3217" />
+      <edge id="250" source="#ProBowl" target="#Patriots" weight="3217" />
+      <edge id="251" source="#NoticiasLocales" target="#UnivBoston" weight="3217" />
+      <edge id="252" source="#Titans" target="#Patriots" weight="3217" />
+      <edge id="253" source="#Titans" target="#WBZ" weight="3217" />
+      <edge id="254" source="#JUDORIO2016" target="#GOLD" weight="3217" />
+      <edge id="255" source="#together" target="#technology" weight="3217" />
+      <edge id="256" source="#together" target="#music" weight="3217" />
+      <edge id="257" source="#together" target="#tgthr6" weight="3217" />
+      <edge id="258" source="#together" target="#art" weight="3217" />
+      <edge id="259" source="#together" target="#festival" weight="3217" />
+      <edge id="260" source="#patriots" target="#Colts" weight="3217" />
+      <edge id="261" source="#patriots" target="#dfs" weight="3217" />
+      <edge id="262" source="#patriots" target="#advertising101" weight="3217" />
+      <edge id="263" source="#patriots" target="#fail" weight="3217" />
+      <edge id="264" source="#Dorchester" target="#latergram" weight="3217" />
+      <edge id="265" source="#SeanCollier" target="#BostonStrong" weight="3217" />
+      <edge id="266" source="#SeanCollier" target="#KrystleCampbell" weight="3217" />
+      <edge id="267" source="#NCAABaseball" target="#weareBC" weight="3217" />
+      <edge id="268" source="#BostonMarathon" target="#TeamBoston2024" weight="3217" />
+      <edge id="269" source="#tgthr6" target="#technology" weight="3217" />
+      <edge id="270" source="#tgthr6" target="#music" weight="3217" />
+      <edge id="271" source="#tgthr6" target="#art" weight="3217" />
+      <edge id="272" source="#tgthr6" target="#festival" weight="3217" />
+      <edge id="273" source="#tgthr6" target="#Boston" weight="3217" />
+      <edge id="274" source="#Pantera" target="#waafnews" weight="3217" />
+      <edge id="275" source="#Taunton" target="#NoFilter" weight="3217" />
+      <edge id="276" source="#WeAreBC" target="#BCEagles" weight="3217" />
+      <edge id="277" source="#WeAreBC" target="#Birdball" weight="3217" />
+      <edge id="278" source="#WeAreBC" target="#SelectionSunday" weight="3217" />
+      <edge id="279" source="#PF3" target="#StrikeOutALS" weight="3217" />
+      <edge id="280" source="#TheBrunchClub" target="#EVRERYDAYBRUNCH" weight="3217" />
+      <edge id="281" source="#NewZealand" target="#Olympic" weight="3217" />
+      <edge id="282" source="#Nets" target="#celtics" weight="3217" />
+      <edge id="283" source="#Nets" target="#army" weight="3217" />
+      <edge id="284" source="#dorchester" target="#mapoli" weight="3217" />
+      <edge id="285" source="#RallyAgainstCancer" target="#VCats" weight="3217" />
+      <edge id="286" source="#Haitian" target="#Boston" weight="3217" />
+      <edge id="287" source="#justkidding" target="#happyfirstdayofspring" weight="3217" />
+      <edge id="288" source="#FDNY" target="#HappeningNow" weight="3217" />
+      <edge id="289" source="#FDNY" target="#Brooklyn" weight="3217" />
+      <edge id="290" source="#Wellesley" target="#Olympics" weight="3217" />
+      <edge id="291" source="#Wellesley" target="#Boston" weight="3217" />
+      <edge id="292" source="#GRAMMYs" target="#Kanye" weight="3217" />
+      <edge id="293" source="#IDSDP2015" target="#sport4betterworld" weight="3217" />
+      <edge id="294" source="#brothers" target="#MSClimb2Top" weight="3217" />
+      <edge id="295" source="#brothers" target="#sisters" weight="6434" />
+      <edge id="296" source="#revengeofthezombie" target="#TheZombie" weight="3217" />
+      <edge id="297" source="#trees" target="#bros" weight="3217" />
+      <edge id="298" source="#Christmas" target="#classics" weight="3217" />
+      <edge id="299" source="#Christmas" target="#SoulTown" weight="3217" />
+      <edge id="300" source="#yay" target="#strikeoutals" weight="3217" />
+      <edge id="301" source="#sisters" target="#MSClimb2Top" weight="3217" />
+      <edge id="302" source="#SouthEnd" target="#SoWA" weight="3217" />
+      <edge id="303" source="#Deflategate" target="#Patriots" weight="3217" />
+      <edge id="304" source="#vinyl" target="#lovegun" weight="3217" />
+      <edge id="305" source="#WereWithHer" target="#DemsInPhilly" weight="3217" />
+      <edge id="306" source="#WereWithHer" target="#dems" weight="3217" />
+      <edge id="307" source="#Backthebid" target="#ImagineBoston" weight="3217" />
+      <edge id="308" source="#MAPOLI" target="#Olympics" weight="3217" />
+      <edge id="309" source="#debatenight" target="#Debates2016" weight="3217" />
+      <edge id="310" source="#Birdball" target="#BCEagles" weight="3217" />
+      <edge id="311" source="#MarketStreetLynnfield" target="#CPK" weight="3217" />
+      <edge id="312" source="#HamptonInn" target="#Revere" weight="3217" />
+      <edge id="313" source="#HamptonInn" target="#Tsarnaev" weight="3217" />
+      <edge id="314" source="#BlockParty" target="#DeweySQ" weight="3217" />
+      <edge id="315" source="#BlockParty" target="#Boston" weight="3217" />
+      <edge id="316" source="#SouthBoston" target="#BostonStrong" weight="3217" />
+      <edge id="317" source="#SouthBoston" target="#4thSuffolk" weight="3217" />
+      <edge id="318" source="#Revere" target="#Tsarnaev" weight="3217" />
+      <edge id="319" source="#Yarmouth" target="#capecod" weight="6434" />
+      <edge id="320" source="#Yarmouth" target="#summer" weight="3217" />
+      <edge id="321" source="#PatriotsDay" target="#BostonStrong" weight="3217" />
+      <edge id="322" source="#Boxers" target="#Boston" weight="3217" />
+      <edge id="323" source="#thebrunchclub" target="#bruncheveryday" weight="3217" />
+      <edge id="324" source="#BelmontStakes" target="#TripleCrown" weight="3217" />
+      <edge id="325" source="#Southie" target="#EvacuationDay" weight="3217" />
+      <edge id="326" source="#Southie" target="#GoPatriots" weight="3217" />
+      <edge id="327" source="#mapoli" target="#A" weight="3217" />
+      <edge id="328" source="#mapoli" target="#nhpolitics" weight="3217" />
+      <edge id="329" source="#mapoli" target="#IEDs" weight="3217" />
+      <edge id="330" source="#mapoli" target="#Bernie2016" weight="3217" />
+      <edge id="331" source="#CFL" target="#NFL" weight="3217" />
+      <edge id="332" source="#HappyMothersDay" target="#Boston" weight="3217" />
+      <edge id="333" source="#SJ15Boston" target="#latergram" weight="3217" />
+      <edge id="334" source="#BostonStrong" target="#NYC" weight="3217" />
+      <edge id="335" source="#BostonStrong" target="#olympics" weight="3217" />
+      <edge id="336" source="#BostonStrong" target="#TheFinestHours" weight="6434" />
+      <edge id="337" source="#BostonStrong" target="#KrystleCampbell" weight="3217" />
+      <edge id="338" source="#BostonStrong" target="#BC360" weight="3217" />
+      <edge id="339" source="#BostonStrong" target="#paralympics" weight="3217" />
+      <edge id="340" source="#BostonStrong" target="#FinestHours" weight="3217" />
+      <edge id="341" source="#BostonStrong" target="#ParisWeLoveYou" weight="3217" />
+      <edge id="342" source="#BostonStrong" target="#Boston" weight="3217" />
+      <edge id="343" source="#paralympics" target="#olympicday2015" weight="3217" />
+      <edge id="344" source="#paralympics" target="#olympics" weight="6434" />
+      <edge id="345" source="#yacht" target="#Boston" weight="3217" />
+      <edge id="346" source="#A" target="#IEDs" weight="3217" />
+      <edge id="347" source="#WBZ" target="#Patriots" weight="3217" />
+      <edge id="348" source="#Patriots" target="#Omen" weight="3217" />
+      <edge id="349" source="#Patriots" target="#NFL" weight="3217" />
+      <edge id="350" source="#Patriots" target="#DeflateGate" weight="3217" />
+      <edge id="351" source="#DeweySQ" target="#Boston" weight="3217" />
+      <edge id="352" source="#technology" target="#music" weight="3217" />
+      <edge id="353" source="#technology" target="#art" weight="3217" />
+      <edge id="354" source="#technology" target="#festival" weight="3217" />
+      <edge id="355" source="#BOSnow" target="#digoutdineout" weight="3217" />
+      <edge id="356" source="#BOSnow" target="#Boston" weight="3217" />
+      <edge id="357" source="#Lynnfield" target="#newCPK" weight="3217" />
+      <edge id="358" source="#USOC" target="#Boston" weight="3217" />
+      <edge id="359" source="#IceBucketChallenge" target="#FormerBirdballers" weight="6434" />
+      <edge id="360" source="#Boston" target="#FinestHours" weight="3217" />
+      <edge id="361" source="#Boston" target="#WickedProud" weight="6434" />
+      <edge id="362" source="#Boston" target="#Olympics" weight="3217" />
+      <edge id="363" source="#Boston" target="#BostonChamber" weight="3217" />
+      <edge id="364" source="#Boston" target="#drone" weight="3217" />
+      <edge id="365" source="#Boston" target="#Wcvb" weight="6434" />
+      <edge id="366" source="#Boston" target="#PatriotsNation" weight="3217" />
+      <edge id="367" source="#Boston" target="#digoutdineout" weight="3217" />
+      <edge id="368" source="#Boston" target="#MA" weight="3217" />
+      <edge id="369" source="#Boston" target="#SuperBowlXLIX" weight="3217" />
+      <edge id="370" source="#Boston" target="#Periscope" weight="3217" />
+      <edge id="371" source="#Boston" target="#LGBT" weight="3217" />
+      <edge id="372" source="#bestbookclub" target="#readeatdrink" weight="3217" />
+      <edge id="373" source="#latergram" target="#UVMVisit" weight="3217" />
+      <edge id="374" source="#latergram" target="#brocktonfair" weight="3217" />
+      <edge id="375" source="#advertising101" target="#dfs" weight="3217" />
+      <edge id="376" source="#advertising101" target="#fail" weight="3217" />
+      <edge id="377" source="#HaulersHockey" target="#BackToBack" weight="3217" />
+      <edge id="378" source="#SuperBowlXLIX" target="#PatriotsNation" weight="3217" />
+      <edge id="379" source="#sb15" target="#worldchamps" weight="6434" />
+      <edge id="380" source="#NYC" target="#nbc4ny" weight="3217" />
+      <edge id="381" source="#NYC" target="#BryantPark" weight="3217" />
+      <edge id="382" source="#sunday" target="#killington" weight="3217" />
+      <edge id="383" source="#sunday" target="#springday" weight="3217" />
+      <edge id="384" source="#vantageheroes" target="#ParisWeLoveYou" weight="3217" />
+      <edge id="385" source="#dfs" target="#fail" weight="3217" />
+      <edge id="386" source="#Olympic" target="#BringItToBoston" weight="3217" />
+      <edge id="387" source="#army" target="#celtics" weight="3217" />
+      <edge id="388" source="#olympics" target="#olympicday2015" weight="3217" />
+      <edge id="389" source="#RNCinCLE" target="#DemsinPhilly" weight="3217" />
+      <edge id="390" source="#NBA" target="#Celtics" weight="3217" />
+      <edge id="391" source="#JudoRabat2015" target="#MondayMotivation" weight="3217" />
+      <edge id="392" source="#Celtics" target="#BostonCeltics" weight="3217" />
+      <edge id="393" source="#Celtics" target="#CelticsTickets" weight="3217" />
+      <edge id="394" source="#BosPoli" target="#Walsh2024" weight="3217" />
+      <edge id="395" source="#Brooklyn" target="#HappeningNow" weight="3217" />
+      <edge id="396" source="#music" target="#history" weight="3217" />
+      <edge id="397" source="#music" target="#art" weight="3217" />
+      <edge id="398" source="#music" target="#festival" weight="3217" />
+      <edge id="399" source="#ABCDHoopDreams" target="#TDGarden" weight="3217" />
+      <edge id="400" source="#webleedgreen" target="#knucklepushups" weight="12868" />
+      <edge id="401" source="#Tsarnaev" target="#TerrorOnTrial" weight="6434" />
+      <edge id="402" source="#Somerville" target="#BlackLivesMatter" weight="3217" />
+      <edge id="403" source="#art" target="#festival" weight="3217" />
+      <edge id="404" source="#Olympics" target="#OlympicGames" weight="3217" />
+      <edge id="405" source="#DotDay" target="#summer" weight="3217" />
+      <edge id="406" source="#BostonCeltics" target="#CelticsTickets" weight="3217" />
+      <edge id="407" source="#ShamrockSeries" target="#NDvsBC" weight="3217" />
+      <edge id="408" source="#LGBT" target="#WickedProud" weight="3217" />
+      <edge id="409" source="#classics" target="#SoulTown" weight="3217" />
+      <edge id="410" source="#WeBleedGreen" target="#thetruth" weight="3217" />
+      <edge id="411" source="#capecod" target="#summer" weight="3217" />
+    </edges>
+  </graph>
+</gexf>

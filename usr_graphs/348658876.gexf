@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#projecticebreaker" label="#projecticebreaker" />
+      <node id="#SmartCityChallenge" label="#SmartCityChallenge" />
+      <node id="#NBAChamps" label="#NBAChamps" />
+      <node id="#SmartCityPitch" label="#SmartCityPitch" />
+      <node id="#cleanenergy" label="#cleanenergy" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#debates" label="#debates" />
+      <node id="#offshorewind" label="#offshorewind" />
+      <node id="#DemConvention" label="#DemConvention" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#Obama2012" label="#Obama2012" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#debate" label="#debate" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#ProjectIcebreaker" label="#ProjectIcebreaker" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#debatenight" target="#debate" weight="42" />
+      <edge id="1" source="#debatenight" target="#debates" weight="42" />
+      <edge id="2" source="#projecticebreaker" target="#cleanenergy" weight="42" />
+      <edge id="3" source="#SmartCityChallenge" target="#SmartCityPitch" weight="42" />
+      <edge id="4" source="#SmartCityChallenge" target="#SmartColumbus" weight="84" />
+      <edge id="5" source="#NBAChamps" target="#NBAFinals" weight="42" />
+      <edge id="6" source="#WorldSeries" target="#RallyTogether" weight="42" />
+      <edge id="7" source="#offshorewind" target="#ProjectIcebreaker" weight="42" />
+      <edge id="8" source="#DemConvention" target="#DemsInPhilly" weight="42" />
+      <edge id="9" source="#RallyTogether" target="#CLE" weight="42" />
+      <edge id="10" source="#Obama2012" target="#Ohio" weight="42" />
+    </edges>
+  </graph>
+</gexf>

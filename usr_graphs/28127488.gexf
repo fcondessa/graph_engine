@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Phillies" label="#Phillies" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#NLCS" label="#NLCS" />
+      <node id="#mlb" label="#mlb" />
+      <node id="#IwannaGame7please" label="#IwannaGame7please" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Phillies" target="#Dodgers" weight="164" />
+      <edge id="1" source="#Phillies" target="#mlb" weight="164" />
+      <edge id="2" source="#Phillies" target="#NLCS" weight="164" />
+      <edge id="3" source="#Phillies" target="#IwannaGame7please" weight="164" />
+      <edge id="4" source="#Dodgers" target="#IwannaGame7please" weight="164" />
+      <edge id="5" source="#Dodgers" target="#NLCS" weight="164" />
+      <edge id="6" source="#Dodgers" target="#mlb" weight="164" />
+      <edge id="7" source="#NLCS" target="#mlb" weight="164" />
+      <edge id="8" source="#NLCS" target="#IwannaGame7please" weight="164" />
+      <edge id="9" source="#mlb" target="#IwannaGame7please" weight="164" />
+    </edges>
+  </graph>
+</gexf>

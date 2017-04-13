@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#award" label="#award" />
+      <node id="#Auditor" label="#Auditor" />
+      <node id="#localgov" label="#localgov" />
+      <node id="#goodgovernment" label="#goodgovernment" />
+      <node id="#NeverForget" label="#NeverForget" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#Award" label="#Award" />
+      <node id="#ThePursuit" label="#ThePursuit" />
+      <node id="#cleanaudit" label="#cleanaudit" />
+      <node id="#government" label="#government" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#RichlandCounty" label="#RichlandCounty" />
+      <node id="#DaveYost" label="#DaveYost" />
+      <node id="#sharedservices" label="#sharedservices" />
+      <node id="#chartersummit" label="#chartersummit" />
+      <node id="#ODNRaudit" label="#ODNRaudit" />
+      <node id="#believeland" label="#believeland" />
+      <node id="#cityofHamilton" label="#cityofHamilton" />
+      <node id="#Ohioproud" label="#Ohioproud" />
+      <node id="#schools" label="#schools" />
+      <node id="#Career" label="#Career" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#opengov" label="#opengov" />
+      <node id="#fiscalintegrity" label="#fiscalintegrity" />
+      <node id="#LocalGov" label="#LocalGov" />
+      <node id="#accountability" label="#accountability" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#Cleanaudit" label="#Cleanaudit" />
+      <node id="#CityofBeavercreek" label="#CityofBeavercreek" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#7more" label="#7more" />
+      <node id="#cityofWestlake" label="#cityofWestlake" />
+      <node id="#fightingfraud" label="#fightingfraud" />
+      <node id="#fiscaldistress" label="#fiscaldistress" />
+      <node id="#savings" label="#savings" />
+      <node id="#ohtcot" label="#ohtcot" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#8more" label="#8more" />
+      <node id="#audits" label="#audits" />
+      <node id="#ohiostopsfraud" label="#ohiostopsfraud" />
+      <node id="#help" label="#help" />
+      <node id="#HD43" label="#HD43" />
+      <node id="#training" label="#training" />
+      <node id="#OhioEd" label="#OhioEd" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#retweet" label="#retweet" />
+      <node id="#6more" label="#6more" />
+      <node id="#waitingforsuperman" label="#waitingforsuperman" />
+      <node id="#OhioGovernor" label="#OhioGovernor" />
+      <node id="#SunshineWeek" label="#SunshineWeek" />
+      <node id="#ODOT" label="#ODOT" />
+      <node id="#shared" label="#shared" />
+      <node id="#fraudapp" label="#fraudapp" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#FunFact" label="#FunFact" />
+      <node id="#skinnygov" label="#skinnygov" />
+      <node id="#Remember911" label="#Remember911" />
+      <node id="#audit" label="#audit" />
+      <node id="#goodgov" label="#goodgov" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#education" label="#education" />
+      <node id="#aicpa" label="#aicpa" />
+      <node id="#Audit" label="#Audit" />
+      <node id="#WellDeserved" label="#WellDeserved" />
+      <node id="#medicaid" label="#medicaid" />
+      <node id="#AOSawards" label="#AOSawards" />
+      <node id="#AwardofDistinction" label="#AwardofDistinction" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#skinnyohio" label="#skinnyohio" />
+      <node id="#Awards" label="#Awards" />
+      <node id="#sixsigma" label="#sixsigma" />
+      <node id="#countyfair2013" label="#countyfair2013" />
+      <node id="#makehistory" label="#makehistory" />
+      <node id="#Holocaustmemorial" label="#Holocaustmemorial" />
+      <node id="#OhioAuditor" label="#OhioAuditor" />
+      <node id="#LGOC" label="#LGOC" />
+      <node id="#charterschools" label="#charterschools" />
+      <node id="#ButlerCoTID" label="#ButlerCoTID" />
+      <node id="#ohioauditor" label="#ohioauditor" />
+      <node id="#DefendtheLand" label="#DefendtheLand" />
+      <node id="#Data" label="#Data" />
+      <node id="#Clearinghouse" label="#Clearinghouse" />
+      <node id="#CityofPiqua" label="#CityofPiqua" />
+      <node id="#CharterSummit" label="#CharterSummit" />
+      <node id="#mayors" label="#mayors" />
+      <node id="#RhodesTower" label="#RhodesTower" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#CCS" label="#CCS" />
+      <node id="#9more" label="#9more" />
+      <node id="#CityofNorthOlmsted" label="#CityofNorthOlmsted" />
+      <node id="#careers" label="#careers" />
+      <node id="#congrats" label="#congrats" />
+      <node id="#Medicaid" label="#Medicaid" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#award" target="#congrats" weight="1830" />
+      <edge id="1" source="#award" target="#Ohio" weight="1830" />
+      <edge id="2" source="#award" target="#goodgov" weight="21960" />
+      <edge id="3" source="#award" target="#schools" weight="7320" />
+      <edge id="4" source="#award" target="#ohio" weight="14640" />
+      <edge id="5" source="#Auditor" target="#6more" weight="1830" />
+      <edge id="6" source="#Auditor" target="#Ohio" weight="1830" />
+      <edge id="7" source="#localgov" target="#tcot" weight="1830" />
+      <edge id="8" source="#localgov" target="#ohtcot" weight="1830" />
+      <edge id="9" source="#localgov" target="#ohio" weight="3660" />
+      <edge id="10" source="#goodgovernment" target="#AwardofDistinction" weight="1830" />
+      <edge id="11" source="#goodgovernment" target="#accountability" weight="1830" />
+      <edge id="12" source="#NeverForget" target="#Remember911" weight="1830" />
+      <edge id="13" source="#RNCinCLE" target="#ThePursuit" weight="3660" />
+      <edge id="14" source="#NBAFinals" target="#makehistory" weight="1830" />
+      <edge id="15" source="#Award" target="#audit" weight="1830" />
+      <edge id="16" source="#Award" target="#goodgov" weight="223260" />
+      <edge id="17" source="#Award" target="#Ohio" weight="76860" />
+      <edge id="18" source="#cleanaudit" target="#goodgov" weight="5490" />
+      <edge id="19" source="#government" target="#Ohio" weight="3660" />
+      <edge id="20" source="#tbt" target="#FunFact" weight="1830" />
+      <edge id="21" source="#tbt" target="#OhioGovernor" weight="1830" />
+      <edge id="22" source="#tbt" target="#OhioAuditor" weight="5490" />
+      <edge id="23" source="#tbt" target="#SunshineWeek" weight="1830" />
+      <edge id="24" source="#RallyTogether" target="#DefendtheLand" weight="1830" />
+      <edge id="25" source="#RallyTogether" target="#believeland" weight="1830" />
+      <edge id="26" source="#RichlandCounty" target="#goodgov" weight="1830" />
+      <edge id="27" source="#DaveYost" target="#WellDeserved" weight="1830" />
+      <edge id="28" source="#DaveYost" target="#accountability" weight="1830" />
+      <edge id="29" source="#sharedservices" target="#goodgov" weight="1830" />
+      <edge id="30" source="#sharedservices" target="#skinnyohio" weight="18300" />
+      <edge id="31" source="#sharedservices" target="#schools" weight="1830" />
+      <edge id="32" source="#sharedservices" target="#Ohio" weight="1830" />
+      <edge id="33" source="#chartersummit" target="#OhioEd" weight="1830" />
+      <edge id="34" source="#chartersummit" target="#waitingforsuperman" weight="1830" />
+      <edge id="35" source="#chartersummit" target="#Ohioproud" weight="1830" />
+      <edge id="36" source="#ODNRaudit" target="#skinnygov" weight="1830" />
+      <edge id="37" source="#believeland" target="#DefendtheLand" weight="1830" />
+      <edge id="38" source="#cityofHamilton" target="#ButlerCoTID" weight="1830" />
+      <edge id="39" source="#cityofHamilton" target="#cityofWestlake" weight="1830" />
+      <edge id="40" source="#schools" target="#goodgov" weight="1830" />
+      <edge id="41" source="#schools" target="#ohio" weight="7320" />
+      <edge id="42" source="#Career" target="#Jobs" weight="1830" />
+      <edge id="43" source="#Career" target="#Ohio" weight="1830" />
+      <edge id="44" source="#tcot" target="#ohtcot" weight="1830" />
+      <edge id="45" source="#opengov" target="#goodgov" weight="1830" />
+      <edge id="46" source="#fiscalintegrity" target="#ohio" weight="5490" />
+      <edge id="47" source="#LocalGov" target="#audits" weight="1830" />
+      <edge id="48" source="#LocalGov" target="#ohio" weight="1830" />
+      <edge id="49" source="#accountability" target="#AwardofDistinction" weight="1830" />
+      <edge id="50" source="#accountability" target="#WellDeserved" weight="1830" />
+      <edge id="51" source="#ICYMI" target="#CCS" weight="3660" />
+      <edge id="52" source="#Cleanaudit" target="#HD43" weight="1830" />
+      <edge id="53" source="#CityofBeavercreek" target="#goodgov" weight="1830" />
+      <edge id="54" source="#Jobs" target="#Ohio" weight="3660" />
+      <edge id="55" source="#7more" target="#retweet" weight="1830" />
+      <edge id="56" source="#7more" target="#help" weight="1830" />
+      <edge id="57" source="#cityofWestlake" target="#ButlerCoTID" weight="1830" />
+      <edge id="58" source="#fightingfraud" target="#skinnyohio" weight="9150" />
+      <edge id="59" source="#fightingfraud" target="#fraudapp" weight="1830" />
+      <edge id="60" source="#fightingfraud" target="#audit" weight="5490" />
+      <edge id="61" source="#fightingfraud" target="#ohio" weight="14640" />
+      <edge id="62" source="#fightingfraud" target="#goodgov" weight="1830" />
+      <edge id="63" source="#fightingfraud" target="#Medicaid" weight="1830" />
+      <edge id="64" source="#fightingfraud" target="#TBT" weight="1830" />
+      <edge id="65" source="#fightingfraud" target="#medicaid" weight="1830" />
+      <edge id="66" source="#fightingfraud" target="#Ohio" weight="7320" />
+      <edge id="67" source="#fiscaldistress" target="#Ohio" weight="1830" />
+      <edge id="68" source="#fiscaldistress" target="#ohio" weight="5490" />
+      <edge id="69" source="#savings" target="#ohio" weight="1830" />
+      <edge id="70" source="#savings" target="#goodgov" weight="5490" />
+      <edge id="71" source="#savings" target="#skinnyohio" weight="51240" />
+      <edge id="72" source="#savings" target="#Ohio" weight="5490" />
+      <edge id="73" source="#TBT" target="#OhioAuditor" weight="1830" />
+      <edge id="74" source="#TBT" target="#ohioauditor" weight="1830" />
+      <edge id="75" source="#TBT" target="#DYK" weight="1830" />
+      <edge id="76" source="#TBT" target="#RhodesTower" weight="1830" />
+      <edge id="77" source="#DYK" target="#ohioauditor" weight="1830" />
+      <edge id="78" source="#8more" target="#retweet" weight="1830" />
+      <edge id="79" source="#8more" target="#help" weight="1830" />
+      <edge id="80" source="#audits" target="#ohio" weight="1830" />
+      <edge id="81" source="#ohiostopsfraud" target="#skinnyohio" weight="1830" />
+      <edge id="82" source="#help" target="#retweet" weight="5490" />
+      <edge id="83" source="#help" target="#9more" weight="1830" />
+      <edge id="84" source="#training" target="#goodgov" weight="1830" />
+      <edge id="85" source="#training" target="#Ohio" weight="1830" />
+      <edge id="86" source="#OhioEd" target="#CharterSummit" weight="1830" />
+      <edge id="87" source="#jobs" target="#Ohio" weight="1830" />
+      <edge id="88" source="#retweet" target="#9more" weight="1830" />
+      <edge id="89" source="#6more" target="#Ohio" weight="1830" />
+      <edge id="90" source="#OhioGovernor" target="#OhioAuditor" weight="1830" />
+      <edge id="91" source="#ODOT" target="#Ohio" weight="1830" />
+      <edge id="92" source="#shared" target="#skinnyohio" weight="1830" />
+      <edge id="93" source="#Ohio" target="#skinnyohio" weight="1830" />
+      <edge id="94" source="#Ohio" target="#countyfair2013" weight="1830" />
+      <edge id="95" source="#Ohio" target="#Holocaustmemorial" weight="1830" />
+      <edge id="96" source="#Ohio" target="#audit" weight="7320" />
+      <edge id="97" source="#Ohio" target="#goodgov" weight="93330" />
+      <edge id="98" source="#Ohio" target="#Audit" weight="7320" />
+      <edge id="99" source="#Ohio" target="#medicaid" weight="1830" />
+      <edge id="100" source="#Ohio" target="#Columbus" weight="1830" />
+      <edge id="101" source="#Ohio" target="#congrats" weight="1830" />
+      <edge id="102" source="#FunFact" target="#OhioAuditor" weight="1830" />
+      <edge id="103" source="#audit" target="#Awards" weight="7320" />
+      <edge id="104" source="#audit" target="#goodgov" weight="10980" />
+      <edge id="105" source="#audit" target="#ohio" weight="124440" />
+      <edge id="106" source="#goodgov" target="#skinnyohio" weight="5490" />
+      <edge id="107" source="#goodgov" target="#Awards" weight="7320" />
+      <edge id="108" source="#goodgov" target="#LGOC" weight="3660" />
+      <edge id="109" source="#goodgov" target="#charterschools" weight="1830" />
+      <edge id="110" source="#goodgov" target="#AOSawards" weight="1830" />
+      <edge id="111" source="#goodgov" target="#columbus" weight="1830" />
+      <edge id="112" source="#goodgov" target="#CityofPiqua" weight="1830" />
+      <edge id="113" source="#goodgov" target="#mayors" weight="1830" />
+      <edge id="114" source="#goodgov" target="#CityofNorthOlmsted" weight="1830" />
+      <edge id="115" source="#goodgov" target="#congrats" weight="3660" />
+      <edge id="116" source="#goodgov" target="#ohio" weight="25620" />
+      <edge id="117" source="#columbus" target="#ohio" weight="1830" />
+      <edge id="118" source="#education" target="#aicpa" weight="1830" />
+      <edge id="119" source="#Audit" target="#Clearinghouse" weight="1830" />
+      <edge id="120" source="#Audit" target="#Data" weight="1830" />
+      <edge id="121" source="#ohio" target="#mayors" weight="1830" />
+      <edge id="122" source="#ohio" target="#careers" weight="1830" />
+      <edge id="123" source="#ohio" target="#skinnyohio" weight="3660" />
+      <edge id="124" source="#ohio" target="#Medicaid" weight="1830" />
+      <edge id="125" source="#skinnyohio" target="#sixsigma" weight="1830" />
+      <edge id="126" source="#OhioAuditor" target="#RhodesTower" weight="1830" />
+      <edge id="127" source="#Data" target="#Clearinghouse" weight="1830" />
+    </edges>
+  </graph>
+</gexf>

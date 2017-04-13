@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Bobcat" label="#Bobcat" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#pediatric" label="#pediatric" />
+      <node id="#GiveMeHopeIn5Words" label="#GiveMeHopeIn5Words" />
+      <node id="#MrRogers" label="#MrRogers" />
+      <node id="#BrightSky" label="#BrightSky" />
+      <node id="#Bankruptcy" label="#Bankruptcy" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#DV" label="#DV" />
+      <node id="#BreakingNews" label="#BreakingNews" />
+      <node id="#digital" label="#digital" />
+      <node id="#Clintonville" label="#Clintonville" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#StudentLoanDebt" label="#StudentLoanDebt" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Bobcat" target="#Ohio" weight="126" />
+      <edge id="1" source="#strategy" target="#BrightSky" weight="126" />
+      <edge id="2" source="#strategy" target="#digital" weight="126" />
+      <edge id="3" source="#pediatric" target="#cancer" weight="126" />
+      <edge id="4" source="#GiveMeHopeIn5Words" target="#MrRogers" weight="126" />
+      <edge id="5" source="#BrightSky" target="#innovation" weight="126" />
+      <edge id="6" source="#BrightSky" target="#DV" weight="126" />
+      <edge id="7" source="#BrightSky" target="#digital" weight="126" />
+      <edge id="8" source="#Bankruptcy" target="#StudentLoanDebt" weight="126" />
+      <edge id="9" source="#Facebook" target="#Clintonville" weight="126" />
+      <edge id="10" source="#NFL" target="#BreakingNews" weight="126" />
+      <edge id="11" source="#DV" target="#innovation" weight="126" />
+    </edges>
+  </graph>
+</gexf>

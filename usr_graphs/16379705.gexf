@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#HCTNash" label="#HCTNash" />
+      <node id="#Sustainability" label="#Sustainability" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#HotNashvilleTakeover" label="#HotNashvilleTakeover" />
+      <node id="#smallstepsaregiantleaps" label="#smallstepsaregiantleaps" />
+      <node id="#impinv" label="#impinv" />
+      <node id="#socent" label="#socent" />
+      <node id="#apte2013" label="#apte2013" />
+      <node id="#philanthropy" label="#philanthropy" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#whartonsi12" label="#whartonsi12" />
+      <node id="#Socent" label="#Socent" />
+      <node id="#local" label="#local" />
+      <node id="#l3c" label="#l3c" />
+      <node id="#nobul" label="#nobul" />
+      <node id="#Investing" label="#Investing" />
+      <node id="#ImpactInvesting" label="#ImpactInvesting" />
+      <node id="#socialbusiness" label="#socialbusiness" />
+      <node id="#gamechanger" label="#gamechanger" />
+      <node id="#chefs" label="#chefs" />
+      <node id="#socialenterprise" label="#socialenterprise" />
+      <node id="#SocEnt" label="#SocEnt" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#GentlemansCall" label="#GentlemansCall" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#HCTNash" target="#HotNashvilleTakeover" weight="1313" />
+      <edge id="1" source="#Sustainability" target="#Investing" weight="1313" />
+      <edge id="2" source="#asseenincolumbus" target="#smallstepsaregiantleaps" weight="1313" />
+      <edge id="3" source="#Cbus" target="#nobul" weight="1313" />
+      <edge id="4" source="#Cbus" target="#socialenterprise" weight="1313" />
+      <edge id="5" source="#impinv" target="#Socent" weight="1313" />
+      <edge id="6" source="#socent" target="#GentlemansCall" weight="1313" />
+      <edge id="7" source="#socent" target="#nobul" weight="2626" />
+      <edge id="8" source="#socent" target="#l3c" weight="1313" />
+      <edge id="9" source="#socent" target="#socialbusiness" weight="1313" />
+      <edge id="10" source="#apte2013" target="#cbus" weight="1313" />
+      <edge id="11" source="#philanthropy" target="#gamechanger" weight="1313" />
+      <edge id="12" source="#columbus" target="#local" weight="1313" />
+      <edge id="13" source="#columbus" target="#chefs" weight="1313" />
+      <edge id="14" source="#whartonsi12" target="#nobul" weight="1313" />
+      <edge id="15" source="#local" target="#chefs" weight="1313" />
+      <edge id="16" source="#nobul" target="#socialenterprise" weight="1313" />
+      <edge id="17" source="#ImpactInvesting" target="#SocEnt" weight="1313" />
+    </edges>
+  </graph>
+</gexf>

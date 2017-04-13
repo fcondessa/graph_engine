@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#hardlygarbage" label="#hardlygarbage" />
+      <node id="#Cbusr" label="#Cbusr" />
+      <node id="#rock" label="#rock" />
+      <node id="#yum" label="#yum" />
+      <node id="#twoturnsnorth" label="#twoturnsnorth" />
+      <node id="#nocultureicons" label="#nocultureicons" />
+      <node id="#alwaysagreatshow" label="#alwaysagreatshow" />
+      <node id="#four" label="#four" />
+      <node id="#TwoTurnsNorth" label="#TwoTurnsNorth" />
+      <node id="#thethermals" label="#thethermals" />
+      <node id="#letsparty" label="#letsparty" />
+      <node id="#TimesNewViking" label="#TimesNewViking" />
+      <node id="#meetup" label="#meetup" />
+      <node id="#4thand4th" label="#4thand4th" />
+      <node id="#CbusCoffee" label="#CbusCoffee" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#hardlygarbage" target="#twoturnsnorth" weight="175" />
+      <edge id="1" source="#hardlygarbage" target="#thethermals" weight="175" />
+      <edge id="2" source="#hardlygarbage" target="#alwaysagreatshow" weight="175" />
+      <edge id="3" source="#hardlygarbage" target="#4thand4th" weight="175" />
+      <edge id="4" source="#Cbusr" target="#meetup" weight="175" />
+      <edge id="5" source="#rock" target="#4thand4th" weight="175" />
+      <edge id="6" source="#yum" target="#4thand4th" weight="175" />
+      <edge id="7" source="#twoturnsnorth" target="#thethermals" weight="175" />
+      <edge id="8" source="#twoturnsnorth" target="#alwaysagreatshow" weight="175" />
+      <edge id="9" source="#twoturnsnorth" target="#4thand4th" weight="175" />
+      <edge id="10" source="#nocultureicons" target="#4thand4th" weight="175" />
+      <edge id="11" source="#alwaysagreatshow" target="#thethermals" weight="175" />
+      <edge id="12" source="#alwaysagreatshow" target="#4thand4th" weight="175" />
+      <edge id="13" source="#four" target="#4thand4th" weight="175" />
+      <edge id="14" source="#TwoTurnsNorth" target="#4thand4th" weight="175" />
+      <edge id="15" source="#thethermals" target="#4thand4th" weight="175" />
+      <edge id="16" source="#letsparty" target="#4thand4th" weight="175" />
+      <edge id="17" source="#TimesNewViking" target="#4thand4th" weight="175" />
+      <edge id="18" source="#4thand4th" target="#CbusCoffee" weight="175" />
+    </edges>
+  </graph>
+</gexf>

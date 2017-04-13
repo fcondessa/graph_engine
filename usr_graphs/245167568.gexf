@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Ijustcantwaitobeking" label="#Ijustcantwaitobeking" />
+      <node id="#vacation" label="#vacation" />
+      <node id="#SEC" label="#SEC" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#mountaingetaway" label="#mountaingetaway" />
+      <node id="#GoDaddy" label="#GoDaddy" />
+      <node id="#Hotdoggers" label="#Hotdoggers" />
+      <node id="#family" label="#family" />
+      <node id="#eating" label="#eating" />
+      <node id="#tni" label="#tni" />
+      <node id="#summertravel" label="#summertravel" />
+      <node id="#frommers" label="#frommers" />
+      <node id="#Advertising" label="#Advertising" />
+      <node id="#Panama" label="#Panama" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#offthebeatenpath" label="#offthebeatenpath" />
+      <node id="#hiking" label="#hiking" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#FoodwithIntegrity" label="#FoodwithIntegrity" />
+      <node id="#relaxing" label="#relaxing" />
+      <node id="#elections" label="#elections" />
+      <node id="#travel" label="#travel" />
+      <node id="#northface" label="#northface" />
+      <node id="#Duh" label="#Duh" />
+      <node id="#trailhead" label="#trailhead" />
+      <node id="#gevalia" label="#gevalia" />
+      <node id="#Uber" label="#Uber" />
+      <node id="#FF" label="#FF" />
+      <node id="#GSB2012" label="#GSB2012" />
+      <node id="#district12" label="#district12" />
+      <node id="#foodies" label="#foodies" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#startup" label="#startup" />
+      <node id="#Crowdfunding" label="#Crowdfunding" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#Adspend" label="#Adspend" />
+      <node id="#dancinginmyseat" label="#dancinginmyseat" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#ziplining" label="#ziplining" />
+      <node id="#airbnb" label="#airbnb" />
+      <node id="#TNI" label="#TNI" />
+      <node id="#planning" label="#planning" />
+      <node id="#work" label="#work" />
+      <node id="#coalcity" label="#coalcity" />
+      <node id="#GaryIndiana" label="#GaryIndiana" />
+      <node id="#startups" label="#startups" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Ijustcantwaitobeking" target="#dancinginmyseat" weight="313" />
+      <edge id="1" source="#vacation" target="#planning" weight="313" />
+      <edge id="2" source="#vacation" target="#Panama" weight="313" />
+      <edge id="3" source="#SEC" target="#crowdfunding" weight="313" />
+      <edge id="4" source="#Christmas" target="#Panama" weight="313" />
+      <edge id="5" source="#mountaingetaway" target="#family" weight="313" />
+      <edge id="6" source="#mountaingetaway" target="#relaxing" weight="313" />
+      <edge id="7" source="#mountaingetaway" target="#hiking" weight="313" />
+      <edge id="8" source="#GoDaddy" target="#airbnb" weight="313" />
+      <edge id="9" source="#GoDaddy" target="#Uber" weight="313" />
+      <edge id="10" source="#Hotdoggers" target="#FF" weight="313" />
+      <edge id="11" source="#Hotdoggers" target="#Duh" weight="313" />
+      <edge id="12" source="#family" target="#hiking" weight="313" />
+      <edge id="13" source="#family" target="#relaxing" weight="313" />
+      <edge id="14" source="#eating" target="#Ohio" weight="313" />
+      <edge id="15" source="#tni" target="#travel" weight="313" />
+      <edge id="16" source="#tni" target="#Panama" weight="313" />
+      <edge id="17" source="#summertravel" target="#travel" weight="313" />
+      <edge id="18" source="#summertravel" target="#frommers" weight="313" />
+      <edge id="19" source="#frommers" target="#foodies" weight="313" />
+      <edge id="20" source="#frommers" target="#travel" weight="626" />
+      <edge id="21" source="#Advertising" target="#gevalia" weight="313" />
+      <edge id="22" source="#Panama" target="#TNI" weight="313" />
+      <edge id="23" source="#Panama" target="#planning" weight="313" />
+      <edge id="24" source="#Panama" target="#travel" weight="626" />
+      <edge id="25" source="#offthebeatenpath" target="#northface" weight="313" />
+      <edge id="26" source="#offthebeatenpath" target="#trailhead" weight="313" />
+      <edge id="27" source="#hiking" target="#relaxing" weight="313" />
+      <edge id="28" source="#swcbus" target="#GSB2012" weight="313" />
+      <edge id="29" source="#FoodwithIntegrity" target="#Adspend" weight="313" />
+      <edge id="30" source="#elections" target="#socialmedia" weight="313" />
+      <edge id="31" source="#travel" target="#ziplining" weight="313" />
+      <edge id="32" source="#travel" target="#TNI" weight="313" />
+      <edge id="33" source="#travel" target="#foodies" weight="313" />
+      <edge id="34" source="#travel" target="#startups" weight="313" />
+      <edge id="35" source="#northface" target="#trailhead" weight="313" />
+      <edge id="36" source="#Duh" target="#FF" weight="313" />
+      <edge id="37" source="#Uber" target="#airbnb" weight="313" />
+      <edge id="38" source="#district12" target="#GaryIndiana" weight="313" />
+      <edge id="39" source="#district12" target="#coalcity" weight="313" />
+      <edge id="40" source="#crowdfunding" target="#startup" weight="313" />
+      <edge id="41" source="#Crowdfunding" target="#Marketing" weight="313" />
+      <edge id="42" source="#inspiration" target="#work" weight="313" />
+      <edge id="43" source="#coalcity" target="#GaryIndiana" weight="313" />
+    </edges>
+  </graph>
+</gexf>

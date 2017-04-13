@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#messyfacecontest" label="#messyfacecontest" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#custserv" label="#custserv" />
+      <node id="#yelp" label="#yelp" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#Crew96" label="#Crew96" />
+      <node id="#smcedteam" label="#smcedteam" />
+      <node id="#smccolumbus" label="#smccolumbus" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#blogShoutout" label="#blogShoutout" />
+      <node id="#crewtweetup" label="#crewtweetup" />
+      <node id="#crisis" label="#crisis" />
+      <node id="#SomosFuerza" label="#SomosFuerza" />
+      <node id="#Business" label="#Business" />
+      <node id="#curalate" label="#curalate" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#blogging" label="#blogging" />
+      <node id="#COPRSA" label="#COPRSA" />
+      <node id="#sm" label="#sm" />
+      <node id="#content" label="#content" />
+      <node id="#engagement" label="#engagement" />
+      <node id="#Instagram" label="#Instagram" />
+      <node id="#smcColumbus" label="#smcColumbus" />
+      <node id="#InstagramVideo" label="#InstagramVideo" />
+      <node id="#smcccrew" label="#smcccrew" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#Vine" label="#Vine" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#ohcot12" label="#ohcot12" />
+      <node id="#PRchat" label="#PRchat" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#GoCrew" label="#GoCrew" />
+      <node id="#tweets" label="#tweets" />
+      <node id="#instagram" label="#instagram" />
+      <node id="#pinterest" label="#pinterest" />
+      <node id="#facebook" label="#facebook" />
+      <node id="#SMCColumbus" label="#SMCColumbus" />
+      <node id="#London2012" label="#London2012" />
+      <node id="#startups" label="#startups" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#brands" label="#brands" />
+      <node id="#PR" label="#PR" />
+      <node id="#advertising" label="#advertising" />
+      <node id="#CMWorld" label="#CMWorld" />
+      <node id="#FOLLOWBACK" label="#FOLLOWBACK" />
+      <node id="#AlmostThere" label="#AlmostThere" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#messyfacecontest" target="#twitter" weight="3239" />
+      <edge id="1" source="#messyfacecontest" target="#socialmedia" weight="3239" />
+      <edge id="2" source="#jobs" target="#Cbus" weight="3239" />
+      <edge id="3" source="#SEO" target="#smcColumbus" weight="3239" />
+      <edge id="4" source="#SEO" target="#socialmedia" weight="3239" />
+      <edge id="5" source="#custserv" target="#yelp" weight="3239" />
+      <edge id="6" source="#Pinterest" target="#socialmedia" weight="3239" />
+      <edge id="7" source="#smallbiz" target="#crisis" weight="3239" />
+      <edge id="8" source="#smallbiz" target="#socialmedia" weight="6478" />
+      <edge id="9" source="#Crew96" target="#smcccrew" weight="3239" />
+      <edge id="10" source="#smcedteam" target="#smccolumbus" weight="3239" />
+      <edge id="11" source="#smccolumbus" target="#SomosFuerza" weight="3239" />
+      <edge id="12" source="#smccolumbus" target="#blogShoutout" weight="3239" />
+      <edge id="13" source="#smccolumbus" target="#tweets" weight="7925833" />
+      <edge id="14" source="#smccolumbus" target="#curalate" weight="3239" />
+      <edge id="15" source="#smccolumbus" target="#ohcot12" weight="3239" />
+      <edge id="16" source="#smccolumbus" target="#FOLLOWBACK" weight="3239" />
+      <edge id="17" source="#smccolumbus" target="#AlmostThere" weight="6478" />
+      <edge id="18" source="#Olympics" target="#London2012" weight="9717" />
+      <edge id="19" source="#blogShoutout" target="#tweets" weight="3239" />
+      <edge id="20" source="#crewtweetup" target="#smcccrew" weight="3239" />
+      <edge id="21" source="#crisis" target="#socialmedia" weight="3239" />
+      <edge id="22" source="#SomosFuerza" target="#tweets" weight="3239" />
+      <edge id="23" source="#Business" target="#socialmedia" weight="3239" />
+      <edge id="24" source="#Business" target="#Instagram" weight="3239" />
+      <edge id="25" source="#curalate" target="#ohcot12" weight="3239" />
+      <edge id="26" source="#marketing" target="#content" weight="3239" />
+      <edge id="27" source="#marketing" target="#instagram" weight="3239" />
+      <edge id="28" source="#marketing" target="#pinterest" weight="3239" />
+      <edge id="29" source="#marketing" target="#facebook" weight="3239" />
+      <edge id="30" source="#marketing" target="#CMWorld" weight="3239" />
+      <edge id="31" source="#marketing" target="#socialmedia" weight="12956" />
+      <edge id="32" source="#blogging" target="#socialmedia" weight="3239" />
+      <edge id="33" source="#COPRSA" target="#PR" weight="3239" />
+      <edge id="34" source="#sm" target="#socialmedia" weight="3239" />
+      <edge id="35" source="#content" target="#CMWorld" weight="3239" />
+      <edge id="36" source="#engagement" target="#socialmedia" weight="3239" />
+      <edge id="37" source="#Instagram" target="#socialmedia" weight="3239" />
+      <edge id="38" source="#smcColumbus" target="#smcColumbus" weight="12956" />
+      <edge id="39" source="#smcColumbus" target="#advertising" weight="3239" />
+      <edge id="40" source="#smcColumbus" target="#facebook" weight="3239" />
+      <edge id="41" source="#smcColumbus" target="#socialmedia" weight="6478" />
+      <edge id="42" source="#InstagramVideo" target="#Vine" weight="3239" />
+      <edge id="43" source="#Facebook" target="#Marketing" weight="3239" />
+      <edge id="44" source="#Facebook" target="#socialmedia" weight="3239" />
+      <edge id="45" source="#socialmedia" target="#cbus" weight="3239" />
+      <edge id="46" source="#socialmedia" target="#twitter" weight="3239" />
+      <edge id="47" source="#PRchat" target="#startups" weight="3239" />
+      <edge id="48" source="#GoCrew" target="#SMCColumbus" weight="3239" />
+      <edge id="49" source="#tweets" target="#AlmostThere" weight="6478" />
+      <edge id="50" source="#tweets" target="#FOLLOWBACK" weight="3239" />
+      <edge id="51" source="#facebook" target="#advertising" weight="3239" />
+      <edge id="52" source="#facebook" target="#brands" weight="3239" />
+    </edges>
+  </graph>
+</gexf>

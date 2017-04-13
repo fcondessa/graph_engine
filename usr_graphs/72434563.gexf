@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#StephGonnaSteph" label="#StephGonnaSteph" />
+      <node id="#dbacks" label="#dbacks" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#Leggo" label="#Leggo" />
+      <node id="#Padres" label="#Padres" />
+      <node id="#OrangeFriday" label="#OrangeFriday" />
+      <node id="#SuperBowlCity" label="#SuperBowlCity" />
+      <node id="#BackBenoit" label="#BackBenoit" />
+      <node id="#Timmy2Times" label="#Timmy2Times" />
+      <node id="#TicketmasterGetsYouIn" label="#TicketmasterGetsYouIn" />
+      <node id="#SFG12Days" label="#SFG12Days" />
+      <node id="#nbacommunityassist" label="#nbacommunityassist" />
+      <node id="#tmentry037" label="#tmentry037" />
+      <node id="#VotePence" label="#VotePence" />
+      <node id="#beliEVEN" label="#beliEVEN" />
+      <node id="#tmentry226" label="#tmentry226" />
+      <node id="#MacysStarZone" label="#MacysStarZone" />
+      <node id="#TMNT" label="#TMNT" />
+      <node id="#SFGThanks" label="#SFGThanks" />
+      <node id="#SFGSocial" label="#SFGSocial" />
+      <node id="#sfgsocial" label="#sfgsocial" />
+      <node id="#FinalVote" label="#FinalVote" />
+      <node id="#DynamicDeals" label="#DynamicDeals" />
+      <node id="#InstantWin" label="#InstantWin" />
+      <node id="#tmentry081" label="#tmentry081" />
+      <node id="#mySLAM" label="#mySLAM" />
+      <node id="#BeliEVEN" label="#BeliEVEN" />
+      <node id="#VotePENCE" label="#VotePENCE" />
+      <node id="#BusterPosey" label="#BusterPosey" />
+      <node id="#SFGFest" label="#SFGFest" />
+      <node id="#DraymondGreen" label="#DraymondGreen" />
+      <node id="#FaceofMLB" label="#FaceofMLB" />
+      <node id="#CapsOn" label="#CapsOn" />
+      <node id="#SFGSpring" label="#SFGSpring" />
+      <node id="#OpeningDay" label="#OpeningDay" />
+      <node id="#Whiff" label="#Whiff" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#SayHeyKid" label="#SayHeyKid" />
+      <node id="#VoteSFG" label="#VoteSFG" />
+      <node id="#MLB" label="#MLB" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#StephGonnaSteph" target="#mySLAM" weight="233" />
+      <edge id="1" source="#dbacks" target="#sfgiants" weight="233" />
+      <edge id="2" source="#sfgiants" target="#CapsOn" weight="233" />
+      <edge id="3" source="#sfgiants" target="#OpeningDay" weight="233" />
+      <edge id="4" source="#Leggo" target="#VotePence" weight="233" />
+      <edge id="5" source="#Leggo" target="#BackBenoit" weight="233" />
+      <edge id="6" source="#Padres" target="#OrangeFriday" weight="233" />
+      <edge id="7" source="#Padres" target="#SFGiants" weight="233" />
+      <edge id="8" source="#OrangeFriday" target="#SFGiants" weight="233" />
+      <edge id="9" source="#SuperBowlCity" target="#MacysStarZone" weight="466" />
+      <edge id="10" source="#SuperBowlCity" target="#InstantWin" weight="466" />
+      <edge id="11" source="#BackBenoit" target="#VotePence" weight="233" />
+      <edge id="12" source="#Timmy2Times" target="#SFGiants" weight="233" />
+      <edge id="13" source="#TicketmasterGetsYouIn" target="#tmentry226" weight="233" />
+      <edge id="14" source="#TicketmasterGetsYouIn" target="#tmentry081" weight="233" />
+      <edge id="15" source="#TicketmasterGetsYouIn" target="#tmentry037" weight="233" />
+      <edge id="16" source="#SFG12Days" target="#SFGFest" weight="233" />
+      <edge id="17" source="#SFG12Days" target="#DynamicDeals" weight="233" />
+      <edge id="18" source="#SFG12Days" target="#SFGiants" weight="1165" />
+      <edge id="19" source="#nbacommunityassist" target="#DraymondGreen" weight="233" />
+      <edge id="20" source="#VotePence" target="#VotePence" weight="13048" />
+      <edge id="21" source="#VotePence" target="#FinalVote" weight="233" />
+      <edge id="22" source="#VotePence" target="#SFGiants" weight="466" />
+      <edge id="23" source="#beliEVEN" target="#SFGSocial" weight="233" />
+      <edge id="24" source="#MacysStarZone" target="#InstantWin" weight="466" />
+      <edge id="25" source="#TMNT" target="#SFGiants" weight="233" />
+      <edge id="26" source="#SFGThanks" target="#SFGiants" weight="233" />
+      <edge id="27" source="#sfgsocial" target="#BeliEVEN" weight="233" />
+      <edge id="28" source="#FinalVote" target="#VotePENCE" weight="233" />
+      <edge id="29" source="#FinalVote" target="#SFGiants" weight="233" />
+      <edge id="30" source="#DynamicDeals" target="#SFGiants" weight="233" />
+      <edge id="31" source="#BeliEVEN" target="#SFGiants" weight="233" />
+      <edge id="32" source="#VotePENCE" target="#SFGiants" weight="233" />
+      <edge id="33" source="#BusterPosey" target="#FaceofMLB" weight="233" />
+      <edge id="34" source="#SFGFest" target="#SFGiants" weight="233" />
+      <edge id="35" source="#CapsOn" target="#OpeningDay" weight="233" />
+      <edge id="36" source="#SFGSpring" target="#SFGiants" weight="466" />
+      <edge id="37" source="#Whiff" target="#SFGiants" weight="233" />
+      <edge id="38" source="#Whiff" target="#VoteSFG" weight="233" />
+      <edge id="39" source="#SFGiants" target="#MLB" weight="233" />
+      <edge id="40" source="#SFGiants" target="#SayHeyKid" weight="233" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#mobile" label="#mobile" />
+      <node id="#Superbowl" label="#Superbowl" />
+      <node id="#VenueSeen" label="#VenueSeen" />
+      <node id="#alpha" label="#alpha" />
+      <node id="#Marriott" label="#Marriott" />
+      <node id="#chicago" label="#chicago" />
+      <node id="#sanfran" label="#sanfran" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#frommers" label="#frommers" />
+      <node id="#beautiful" label="#beautiful" />
+      <node id="#tripit" label="#tripit" />
+      <node id="#boston" label="#boston" />
+      <node id="#nyc" label="#nyc" />
+      <node id="#cbusr" label="#cbusr" />
+      <node id="#flymuch" label="#flymuch" />
+      <node id="#seattle" label="#seattle" />
+      <node id="#neworleans" label="#neworleans" />
+      <node id="#Restaurants" label="#Restaurants" />
+      <node id="#inspiredtravel" label="#inspiredtravel" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#Iphone" label="#Iphone" />
+      <node id="#travel" label="#travel" />
+      <node id="#disneyland" label="#disneyland" />
+      <node id="#LP" label="#LP" />
+      <node id="#skiing" label="#skiing" />
+      <node id="#matadorN" label="#matadorN" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#CIW11" label="#CIW11" />
+      <node id="#BnA" label="#BnA" />
+      <node id="#skillet" label="#skillet" />
+      <node id="#PWC11" label="#PWC11" />
+      <node id="#saints" label="#saints" />
+      <node id="#ttot" label="#ttot" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#giants" label="#giants" />
+      <node id="#cincy" label="#cincy" />
+      <node id="#Travel" label="#Travel" />
+      <node id="#FriFotos" label="#FriFotos" />
+      <node id="#austin" label="#austin" />
+      <node id="#Vail" label="#Vail" />
+      <node id="#sushi" label="#sushi" />
+      <node id="#iphone4s" label="#iphone4s" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#favoriteplaces" label="#favoriteplaces" />
+      <node id="#bengals" label="#bengals" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#skulls" label="#skulls" />
+      <node id="#instagram" label="#instagram" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#coittower" label="#coittower" />
+      <node id="#travelsitesdonthavetosuck" label="#travelsitesdonthavetosuck" />
+      <node id="#goodluck" label="#goodluck" />
+      <node id="#halloweentravel" label="#halloweentravel" />
+      <node id="#goodfood" label="#goodfood" />
+      <node id="#lp" label="#lp" />
+      <node id="#Festive" label="#Festive" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#mobile" target="#Marriott" weight="304" />
+      <edge id="1" source="#Superbowl" target="#NFL" weight="304" />
+      <edge id="2" source="#VenueSeen" target="#Startup" weight="304" />
+      <edge id="3" source="#VenueSeen" target="#marketing" weight="304" />
+      <edge id="4" source="#alpha" target="#tripit" weight="304" />
+      <edge id="5" source="#chicago" target="#NFL" weight="304" />
+      <edge id="6" source="#sanfran" target="#coittower" weight="304" />
+      <edge id="7" source="#sanfran" target="#goodluck" weight="304" />
+      <edge id="8" source="#Cbus" target="#cbusr" weight="304" />
+      <edge id="9" source="#Cbus" target="#cbus" weight="304" />
+      <edge id="10" source="#frommers" target="#travel" weight="304" />
+      <edge id="11" source="#frommers" target="#iphone4s" weight="304" />
+      <edge id="12" source="#beautiful" target="#seattle" weight="304" />
+      <edge id="13" source="#boston" target="#goodfood" weight="304" />
+      <edge id="14" source="#nyc" target="#sushi" weight="304" />
+      <edge id="15" source="#cbusr" target="#cbus" weight="304" />
+      <edge id="16" source="#flymuch" target="#CIW11" weight="304" />
+      <edge id="17" source="#neworleans" target="#saints" weight="304" />
+      <edge id="18" source="#neworleans" target="#delicious" weight="304" />
+      <edge id="19" source="#Restaurants" target="#Iphone" weight="304" />
+      <edge id="20" source="#inspiredtravel" target="#favoriteplaces" weight="304" />
+      <edge id="21" source="#Chicago" target="#CIW11" weight="304" />
+      <edge id="22" source="#travel" target="#iphone4s" weight="304" />
+      <edge id="23" source="#travel" target="#ttot" weight="304" />
+      <edge id="24" source="#disneyland" target="#halloweentravel" weight="304" />
+      <edge id="25" source="#LP" target="#matadorN" weight="304" />
+      <edge id="26" source="#skiing" target="#Vail" weight="304" />
+      <edge id="27" source="#cbus" target="#skillet" weight="304" />
+      <edge id="28" source="#BnA" target="#Travel" weight="304" />
+      <edge id="29" source="#BnA" target="#ttot" weight="304" />
+      <edge id="30" source="#BnA" target="#lp" weight="304" />
+      <edge id="31" source="#PWC11" target="#travelsitesdonthavetosuck" weight="304" />
+      <edge id="32" source="#saints" target="#delicious" weight="304" />
+      <edge id="33" source="#ttot" target="#Travel" weight="304" />
+      <edge id="34" source="#ttot" target="#lp" weight="304" />
+      <edge id="35" source="#giants" target="#instagram" weight="304" />
+      <edge id="36" source="#cincy" target="#bengals" weight="304" />
+      <edge id="37" source="#Travel" target="#lp" weight="304" />
+      <edge id="38" source="#FriFotos" target="#Festive" weight="304" />
+      <edge id="39" source="#austin" target="#skulls" weight="304" />
+      <edge id="40" source="#marketing" target="#Startup" weight="304" />
+    </edges>
+  </graph>
+</gexf>

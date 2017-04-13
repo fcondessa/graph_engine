@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ASAE" label="#ASAE" />
+      <node id="#associationsday" label="#associationsday" />
+      <node id="#SpringPIU" label="#SpringPIU" />
+      <node id="#SuccessDividend" label="#SuccessDividend" />
+      <node id="#Clarke" label="#Clarke" />
+      <node id="#PIU14" label="#PIU14" />
+      <node id="#oscpa" label="#oscpa" />
+      <node id="#ATL" label="#ATL" />
+      <node id="#ReducedFilingFees" label="#ReducedFilingFees" />
+      <node id="#asae13" label="#asae13" />
+      <node id="#CouncilOnStateTaxation" label="#CouncilOnStateTaxation" />
+      <node id="#PowerofA" label="#PowerofA" />
+      <node id="#ohmunitax" label="#ohmunitax" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#OSCPA" label="#OSCPA" />
+      <node id="#OHMuniTax" label="#OHMuniTax" />
+      <node id="#YOLO" label="#YOLO" />
+      <node id="#finance" label="#finance" />
+      <node id="#Final4HereWeCome" label="#Final4HereWeCome" />
+      <node id="#OHmunitax" label="#OHmunitax" />
+      <node id="#PWRA" label="#PWRA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ASAE" target="#PowerofA" weight="189" />
+      <edge id="1" source="#associationsday" target="#PWRA" weight="189" />
+      <edge id="2" source="#SpringPIU" target="#OHmunitax" weight="189" />
+      <edge id="3" source="#SuccessDividend" target="#ReducedFilingFees" weight="189" />
+      <edge id="4" source="#Clarke" target="#OSCPA" weight="189" />
+      <edge id="5" source="#PIU14" target="#PIU14" weight="378" />
+      <edge id="6" source="#oscpa" target="#OHMuniTax" weight="189" />
+      <edge id="7" source="#oscpa" target="#ohmunitax" weight="189" />
+      <edge id="8" source="#ATL" target="#asae13" weight="189" />
+      <edge id="9" source="#CouncilOnStateTaxation" target="#OHmunitax" weight="189" />
+      <edge id="10" source="#Buckeyes" target="#Final4HereWeCome" weight="189" />
+      <edge id="11" source="#YOLO" target="#finance" weight="189" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,716 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#grumpytweets" label="#grumpytweets" />
+      <node id="#japan" label="#japan" />
+      <node id="#London" label="#London" />
+      <node id="#autobiography" label="#autobiography" />
+      <node id="#Connections" label="#Connections" />
+      <node id="#iloveseoul" label="#iloveseoul" />
+      <node id="#nerdybookclub" label="#nerdybookclub" />
+      <node id="#sewolferry" label="#sewolferry" />
+      <node id="#NorthKorea" label="#NorthKorea" />
+      <node id="#readers" label="#readers" />
+      <node id="#comfortfood" label="#comfortfood" />
+      <node id="#CNN" label="#CNN" />
+      <node id="#writers" label="#writers" />
+      <node id="#book" label="#book" />
+      <node id="#atlanticmonthly" label="#atlanticmonthly" />
+      <node id="#freespeech" label="#freespeech" />
+      <node id="#baseball" label="#baseball" />
+      <node id="#publisher" label="#publisher" />
+      <node id="#booksarebest" label="#booksarebest" />
+      <node id="#migration" label="#migration" />
+      <node id="#women" label="#women" />
+      <node id="#SaudiArabia" label="#SaudiArabia" />
+      <node id="#playwrights" label="#playwrights" />
+      <node id="#occupyoakland" label="#occupyoakland" />
+      <node id="#elections" label="#elections" />
+      <node id="#Storytelling" label="#Storytelling" />
+      <node id="#propaganda" label="#propaganda" />
+      <node id="#Writers" label="#Writers" />
+      <node id="#Turkey" label="#Turkey" />
+      <node id="#NewYorker" label="#NewYorker" />
+      <node id="#koreelection" label="#koreelection" />
+      <node id="#music" label="#music" />
+      <node id="#war" label="#war" />
+      <node id="#goodreads" label="#goodreads" />
+      <node id="#Novel" label="#Novel" />
+      <node id="#classanxiety" label="#classanxiety" />
+      <node id="#FreeSpeech" label="#FreeSpeech" />
+      <node id="#Women" label="#Women" />
+      <node id="#northkorea" label="#northkorea" />
+      <node id="#read" label="#read" />
+      <node id="#Oprah" label="#Oprah" />
+      <node id="#ideas" label="#ideas" />
+      <node id="#art" label="#art" />
+      <node id="#nkorea" label="#nkorea" />
+      <node id="#Center4Fiction" label="#Center4Fiction" />
+      <node id="#NecmiyeAlpay" label="#NecmiyeAlpay" />
+      <node id="#arts" label="#arts" />
+      <node id="#Goodreads" label="#Goodreads" />
+      <node id="#guardian" label="#guardian" />
+      <node id="#horror" label="#horror" />
+      <node id="#tuesdaybookclub" label="#tuesdaybookclub" />
+      <node id="#tsunami" label="#tsunami" />
+      <node id="#essays" label="#essays" />
+      <node id="#politics" label="#politics" />
+      <node id="#confession" label="#confession" />
+      <node id="#followreader" label="#followreader" />
+      <node id="#longlist" label="#longlist" />
+      <node id="#CNNGo" label="#CNNGo" />
+      <node id="#halloween" label="#halloween" />
+      <node id="#KimJongIl" label="#KimJongIl" />
+      <node id="#north" label="#north" />
+      <node id="#review" label="#review" />
+      <node id="#Northkorea" label="#Northkorea" />
+      <node id="#election" label="#election" />
+      <node id="#seoul" label="#seoul" />
+      <node id="#Korean" label="#Korean" />
+      <node id="#longliveart" label="#longliveart" />
+      <node id="#asians" label="#asians" />
+      <node id="#Bookworm" label="#Bookworm" />
+      <node id="#fiction" label="#fiction" />
+      <node id="#Mandela" label="#Mandela" />
+      <node id="#trendy" label="#trendy" />
+      <node id="#ala_carnegie" label="#ala_carnegie" />
+      <node id="#writer" label="#writer" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#Neustadt" label="#Neustadt" />
+      <node id="#Syria" label="#Syria" />
+      <node id="#cultures" label="#cultures" />
+      <node id="#fridayreads" label="#fridayreads" />
+      <node id="#reading" label="#reading" />
+      <node id="#writetip" label="#writetip" />
+      <node id="#Seoul" label="#Seoul" />
+      <node id="#poets" label="#poets" />
+      <node id="#Korea" label="#Korea" />
+      <node id="#author" label="#author" />
+      <node id="#DriftingHouse" label="#DriftingHouse" />
+      <node id="#DominicanRepublic" label="#DominicanRepublic" />
+      <node id="#missile" label="#missile" />
+      <node id="#LiterarySmackdowns" label="#LiterarySmackdowns" />
+      <node id="#FF" label="#FF" />
+      <node id="#BookClub" label="#BookClub" />
+      <node id="#a" label="#a" />
+      <node id="#myanmar" label="#myanmar" />
+      <node id="#ThinkFest" label="#ThinkFest" />
+      <node id="#shouldbewriting" label="#shouldbewriting" />
+      <node id="#Man" label="#Man" />
+      <node id="#kpop" label="#kpop" />
+      <node id="#democracy" label="#democracy" />
+      <node id="#Novella" label="#Novella" />
+      <node id="#bahrain" label="#bahrain" />
+      <node id="#publishers" label="#publishers" />
+      <node id="#c" label="#c" />
+      <node id="#Austen" label="#Austen" />
+      <node id="#movies" label="#movies" />
+      <node id="#zombies" label="#zombies" />
+      <node id="#reader" label="#reader" />
+      <node id="#JournalismIsNotACrime" label="#JournalismIsNotACrime" />
+      <node id="#HaroldPinter" label="#HaroldPinter" />
+      <node id="#awp12" label="#awp12" />
+      <node id="#AsianAmericans" label="#AsianAmericans" />
+      <node id="#China" label="#China" />
+      <node id="#Myanmar" label="#Myanmar" />
+      <node id="#help" label="#help" />
+      <node id="#itcouldhappen" label="#itcouldhappen" />
+      <node id="#write" label="#write" />
+      <node id="#architecture" label="#architecture" />
+      <node id="#sevenstoriespress" label="#sevenstoriespress" />
+      <node id="#race" label="#race" />
+      <node id="#romance" label="#romance" />
+      <node id="#Asian" label="#Asian" />
+      <node id="#reads" label="#reads" />
+      <node id="#WIT" label="#WIT" />
+      <node id="#dprk" label="#dprk" />
+      <node id="#BoA" label="#BoA" />
+      <node id="#family" label="#family" />
+      <node id="#charactersbehavingbadly" label="#charactersbehavingbadly" />
+      <node id="#Burma" label="#Burma" />
+      <node id="#poetry" label="#poetry" />
+      <node id="#North_Korean" label="#North_Korean" />
+      <node id="#shortstories" label="#shortstories" />
+      <node id="#books" label="#books" />
+      <node id="#NY" label="#NY" />
+      <node id="#asia" label="#asia" />
+      <node id="#northkorean" label="#northkorean" />
+      <node id="#NKorea" label="#NKorea" />
+      <node id="#writing" label="#writing" />
+      <node id="#nightmares" label="#nightmares" />
+      <node id="#Japan" label="#Japan" />
+      <node id="#expatblues" label="#expatblues" />
+      <node id="#diaspora" label="#diaspora" />
+      <node id="#occupyulysses" label="#occupyulysses" />
+      <node id="#southafrica" label="#southafrica" />
+      <node id="#story" label="#story" />
+      <node id="#novel" label="#novel" />
+      <node id="#booker" label="#booker" />
+      <node id="#O_Magazine" label="#O_Magazine" />
+      <node id="#ROK" label="#ROK" />
+      <node id="#readersdilemma" label="#readersdilemma" />
+      <node id="#Books" label="#Books" />
+      <node id="#PSY" label="#PSY" />
+      <node id="#nknews" label="#nknews" />
+      <node id="#Writing" label="#Writing" />
+      <node id="#translation" label="#translation" />
+      <node id="#Writer" label="#Writer" />
+      <node id="#asianamerica" label="#asianamerica" />
+      <node id="#literature" label="#literature" />
+      <node id="#writingtips" label="#writingtips" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#nanowrimo" label="#nanowrimo" />
+      <node id="#southkorea" label="#southkorea" />
+      <node id="#Pyongyang" label="#Pyongyang" />
+      <node id="#publishing" label="#publishing" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#bookmarketing" label="#bookmarketing" />
+      <node id="#sigh" label="#sigh" />
+      <node id="#timeforchocolate" label="#timeforchocolate" />
+      <node id="#stories" label="#stories" />
+      <node id="#worldlit" label="#worldlit" />
+      <node id="#LondonBookFair" label="#LondonBookFair" />
+      <node id="#JosephAnton" label="#JosephAnton" />
+      <node id="#shortfiction" label="#shortfiction" />
+      <node id="#pleasekeepsharing" label="#pleasekeepsharing" />
+      <node id="#memoir" label="#memoir" />
+      <node id="#addiction" label="#addiction" />
+      <node id="#lessons" label="#lessons" />
+      <node id="#driftinghouse" label="#driftinghouse" />
+      <node id="#slowreadingmovement" label="#slowreadingmovement" />
+      <node id="#booklover" label="#booklover" />
+      <node id="#transplants" label="#transplants" />
+      <node id="#AsianAmerican" label="#AsianAmerican" />
+      <node id="#itstheeconomy" label="#itstheeconomy" />
+      <node id="#editorspick" label="#editorspick" />
+      <node id="#bookreview" label="#bookreview" />
+      <node id="#dailynk" label="#dailynk" />
+      <node id="#SanFran" label="#SanFran" />
+      <node id="#manbookerprize" label="#manbookerprize" />
+      <node id="#issa" label="#issa" />
+      <node id="#novels" label="#novels" />
+      <node id="#NaNoWriMo" label="#NaNoWriMo" />
+      <node id="#tigermother" label="#tigermother" />
+      <node id="#bestjobintheworld" label="#bestjobintheworld" />
+      <node id="#perfectday" label="#perfectday" />
+      <node id="#turnofftheinternetsixhoursaday" label="#turnofftheinternetsixhoursaday" />
+      <node id="#TED" label="#TED" />
+      <node id="#bookrageous" label="#bookrageous" />
+      <node id="#authors" label="#authors" />
+      <node id="#ArtTweeters" label="#ArtTweeters" />
+      <node id="#HowIBecameaNorthKorean" label="#HowIBecameaNorthKorean" />
+      <node id="#North" label="#North" />
+      <node id="#god" label="#god" />
+      <node id="#poem" label="#poem" />
+      <node id="#perfect" label="#perfect" />
+      <node id="#weekendgoodreads" label="#weekendgoodreads" />
+      <node id="#travel" label="#travel" />
+      <node id="#HumanRights" label="#HumanRights" />
+      <node id="#Asia" label="#Asia" />
+      <node id="#Fiction" label="#Fiction" />
+      <node id="#MoveYourMoney" label="#MoveYourMoney" />
+      <node id="#amreading" label="#amreading" />
+      <node id="#LiteraryAlias" label="#LiteraryAlias" />
+      <node id="#sanctions" label="#sanctions" />
+      <node id="#DPRK" label="#DPRK" />
+      <node id="#human" label="#human" />
+      <node id="#amwriting" label="#amwriting" />
+      <node id="#korea" label="#korea" />
+      <node id="#God" label="#God" />
+      <node id="#REVIEW" label="#REVIEW" />
+      <node id="#soccer" label="#soccer" />
+      <node id="#readingreccs" label="#readingreccs" />
+      <node id="#Reading" label="#Reading" />
+      <node id="#1Q84" label="#1Q84" />
+      <node id="#food" label="#food" />
+      <node id="#GangnamStyle" label="#GangnamStyle" />
+      <node id="#writingconference" label="#writingconference" />
+      <node id="#Activism" label="#Activism" />
+      <node id="#Kindle" label="#Kindle" />
+      <node id="#juche" label="#juche" />
+      <node id="#Koreans" label="#Koreans" />
+      <node id="#motivationalmedicine" label="#motivationalmedicine" />
+      <node id="#bookworm" label="#bookworm" />
+      <node id="#refugees" label="#refugees" />
+      <node id="#North_Korea" label="#North_Korea" />
+      <node id="#realitycheck" label="#realitycheck" />
+      <node id="#artist" label="#artist" />
+      <node id="#noexcuses" label="#noexcuses" />
+      <node id="#LRB" label="#LRB" />
+      <node id="#DontCrosstheLine" label="#DontCrosstheLine" />
+      <node id="#humanrights" label="#humanrights" />
+      <node id="#inspiring" label="#inspiring" />
+      <node id="#wars" label="#wars" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#grumpytweets" target="#horror" weight="2324" />
+      <edge id="1" source="#grumpytweets" target="#Korea" weight="2324" />
+      <edge id="2" source="#japan" target="#CNN" weight="2324" />
+      <edge id="3" source="#japan" target="#korea" weight="2324" />
+      <edge id="4" source="#London" target="#DriftingHouse" weight="2324" />
+      <edge id="5" source="#London" target="#art" weight="2324" />
+      <edge id="6" source="#London" target="#NY" weight="2324" />
+      <edge id="7" source="#London" target="#travel" weight="2324" />
+      <edge id="8" source="#London" target="#Korean" weight="2324" />
+      <edge id="9" source="#London" target="#books" weight="6972" />
+      <edge id="10" source="#London" target="#Korea" weight="2324" />
+      <edge id="11" source="#autobiography" target="#fiction" weight="2324" />
+      <edge id="12" source="#Connections" target="#North_Korea" weight="2324" />
+      <edge id="13" source="#iloveseoul" target="#Korean" weight="2324" />
+      <edge id="14" source="#iloveseoul" target="#korea" weight="2324" />
+      <edge id="15" source="#nerdybookclub" target="#books" weight="2324" />
+      <edge id="16" source="#sewolferry" target="#korea" weight="4648" />
+      <edge id="17" source="#NorthKorea" target="#Writing" weight="2324" />
+      <edge id="18" source="#NorthKorea" target="#readers" weight="2324" />
+      <edge id="19" source="#NorthKorea" target="#novel" weight="2324" />
+      <edge id="20" source="#NorthKorea" target="#amreading" weight="2324" />
+      <edge id="21" source="#NorthKorea" target="#fridayreads" weight="6972" />
+      <edge id="22" source="#NorthKorea" target="#PSY" weight="2324" />
+      <edge id="23" source="#NorthKorea" target="#books" weight="2324" />
+      <edge id="24" source="#NorthKorea" target="#humanrights" weight="27888" />
+      <edge id="25" source="#NorthKorea" target="#korea" weight="18592" />
+      <edge id="26" source="#NorthKorea" target="#wars" weight="2324" />
+      <edge id="27" source="#readers" target="#writing" weight="2324" />
+      <edge id="28" source="#readers" target="#poetry" weight="4648" />
+      <edge id="29" source="#readers" target="#korea" weight="2324" />
+      <edge id="30" source="#readers" target="#bookreview" weight="2324" />
+      <edge id="31" source="#readers" target="#amwriting" weight="2324" />
+      <edge id="32" source="#readers" target="#writers" weight="9296" />
+      <edge id="33" source="#readers" target="#fridayreads" weight="2324" />
+      <edge id="34" source="#readers" target="#writetip" weight="4648" />
+      <edge id="35" source="#readers" target="#seoul" weight="2324" />
+      <edge id="36" source="#readers" target="#books" weight="13944" />
+      <edge id="37" source="#readers" target="#longliveart" weight="2324" />
+      <edge id="38" source="#readers" target="#Korea" weight="2324" />
+      <edge id="39" source="#comfortfood" target="#Asia" weight="2324" />
+      <edge id="40" source="#comfortfood" target="#Korea" weight="9296" />
+      <edge id="41" source="#CNN" target="#korea" weight="2324" />
+      <edge id="42" source="#writers" target="#poetry" weight="2324" />
+      <edge id="43" source="#writers" target="#manbookerprize" weight="2324" />
+      <edge id="44" source="#writers" target="#WIT" weight="2324" />
+      <edge id="45" source="#writers" target="#TED" weight="2324" />
+      <edge id="46" source="#writers" target="#shortstories" weight="2324" />
+      <edge id="47" source="#writers" target="#books" weight="39508" />
+      <edge id="48" source="#writers" target="#fiction" weight="9296" />
+      <edge id="49" source="#writers" target="#writing" weight="25564" />
+      <edge id="50" source="#writers" target="#bestjobintheworld" weight="2324" />
+      <edge id="51" source="#writers" target="#novel" weight="9296" />
+      <edge id="52" source="#writers" target="#booker" weight="2324" />
+      <edge id="53" source="#writers" target="#korea" weight="6972" />
+      <edge id="54" source="#writers" target="#women" weight="2324" />
+      <edge id="55" source="#writers" target="#playwrights" weight="2324" />
+      <edge id="56" source="#writers" target="#writetip" weight="6972" />
+      <edge id="57" source="#writers" target="#Storytelling" weight="2324" />
+      <edge id="58" source="#writers" target="#reading" weight="2324" />
+      <edge id="59" source="#writers" target="#Writing" weight="2324" />
+      <edge id="60" source="#writers" target="#DriftingHouse" weight="2324" />
+      <edge id="61" source="#writers" target="#bookreview" weight="2324" />
+      <edge id="62" source="#writers" target="#human" weight="4648" />
+      <edge id="63" source="#writers" target="#amwriting" weight="4648" />
+      <edge id="64" source="#writers" target="#Novel" weight="2324" />
+      <edge id="65" source="#writers" target="#Women" weight="2324" />
+      <edge id="66" source="#writers" target="#Reading" weight="2324" />
+      <edge id="67" source="#writers" target="#poets" weight="2324" />
+      <edge id="68" source="#writers" target="#publishers" weight="4648" />
+      <edge id="69" source="#writers" target="#reader" weight="6972" />
+      <edge id="70" source="#writers" target="#NaNoWriMo" weight="4648" />
+      <edge id="71" source="#writers" target="#Goodreads" weight="9296" />
+      <edge id="72" source="#writers" target="#publishing" weight="13944" />
+      <edge id="73" source="#writers" target="#shortfiction" weight="2324" />
+      <edge id="74" source="#writers" target="#northkorea" weight="4648" />
+      <edge id="75" source="#book" target="#writing" weight="2324" />
+      <edge id="76" source="#book" target="#translation" weight="2324" />
+      <edge id="77" source="#book" target="#publishing" weight="2324" />
+      <edge id="78" source="#book" target="#1Q84" weight="2324" />
+      <edge id="79" source="#book" target="#story" weight="2324" />
+      <edge id="80" source="#book" target="#Novel" weight="2324" />
+      <edge id="81" source="#book" target="#amwriting" weight="2324" />
+      <edge id="82" source="#book" target="#reading" weight="2324" />
+      <edge id="83" source="#book" target="#Korean" weight="2324" />
+      <edge id="84" source="#book" target="#booklover" weight="2324" />
+      <edge id="85" source="#book" target="#Korea" weight="2324" />
+      <edge id="86" source="#atlanticmonthly" target="#women" weight="2324" />
+      <edge id="87" source="#freespeech" target="#JournalismIsNotACrime" weight="2324" />
+      <edge id="88" source="#freespeech" target="#translation" weight="2324" />
+      <edge id="89" source="#baseball" target="#korea" weight="2324" />
+      <edge id="90" source="#publisher" target="#Writing" weight="2324" />
+      <edge id="91" source="#publisher" target="#Writer" weight="2324" />
+      <edge id="92" source="#publisher" target="#Books" weight="2324" />
+      <edge id="93" source="#booksarebest" target="#books" weight="2324" />
+      <edge id="94" source="#booksarebest" target="#Writers" weight="2324" />
+      <edge id="95" source="#booksarebest" target="#Korea" weight="2324" />
+      <edge id="96" source="#migration" target="#refugees" weight="2324" />
+      <edge id="97" source="#migration" target="#humanrights" weight="2324" />
+      <edge id="98" source="#women" target="#publishing" weight="2324" />
+      <edge id="99" source="#women" target="#humanrights" weight="2324" />
+      <edge id="100" source="#women" target="#Korea" weight="2324" />
+      <edge id="101" source="#SaudiArabia" target="#FreeSpeech" weight="2324" />
+      <edge id="102" source="#occupyoakland" target="#MoveYourMoney" weight="2324" />
+      <edge id="103" source="#elections" target="#korea" weight="2324" />
+      <edge id="104" source="#Storytelling" target="#korea" weight="2324" />
+      <edge id="105" source="#propaganda" target="#dprk" weight="2324" />
+      <edge id="106" source="#propaganda" target="#juche" weight="2324" />
+      <edge id="107" source="#Writers" target="#books" weight="4648" />
+      <edge id="108" source="#Writers" target="#bookworm" weight="2324" />
+      <edge id="109" source="#Writers" target="#Korea" weight="2324" />
+      <edge id="110" source="#Turkey" target="#NecmiyeAlpay" weight="2324" />
+      <edge id="111" source="#NewYorker" target="#asia" weight="2324" />
+      <edge id="112" source="#NewYorker" target="#fiction" weight="2324" />
+      <edge id="113" source="#koreelection" target="#humanrights" weight="2324" />
+      <edge id="114" source="#koreelection" target="#korea" weight="4648" />
+      <edge id="115" source="#music" target="#PSY" weight="2324" />
+      <edge id="116" source="#music" target="#korea" weight="2324" />
+      <edge id="117" source="#war" target="#books" weight="2324" />
+      <edge id="118" source="#war" target="#Goodreads" weight="2324" />
+      <edge id="119" source="#goodreads" target="#humanrights" weight="2324" />
+      <edge id="120" source="#goodreads" target="#fiction" weight="2324" />
+      <edge id="121" source="#Novel" target="#writing" weight="2324" />
+      <edge id="122" source="#Novel" target="#amwriting" weight="2324" />
+      <edge id="123" source="#classanxiety" target="#korea" weight="2324" />
+      <edge id="124" source="#classanxiety" target="#seoul" weight="2324" />
+      <edge id="125" source="#Women" target="#books" weight="2324" />
+      <edge id="126" source="#northkorea" target="#nknews" weight="4648" />
+      <edge id="127" source="#northkorea" target="#writing" weight="4648" />
+      <edge id="128" source="#northkorea" target="#Olympics" weight="2324" />
+      <edge id="129" source="#northkorea" target="#AsianAmerican" weight="2324" />
+      <edge id="130" source="#northkorea" target="#korea" weight="4648" />
+      <edge id="131" source="#northkorea" target="#sanctions" weight="2324" />
+      <edge id="132" source="#northkorea" target="#human" weight="4648" />
+      <edge id="133" source="#northkorea" target="#Goodreads" weight="2324" />
+      <edge id="134" source="#northkorea" target="#books" weight="4648" />
+      <edge id="135" source="#northkorea" target="#humanrights" weight="20916" />
+      <edge id="136" source="#northkorea" target="#Korea" weight="2324" />
+      <edge id="137" source="#read" target="#romance" weight="2324" />
+      <edge id="138" source="#read" target="#ala_carnegie" weight="2324" />
+      <edge id="139" source="#read" target="#novel" weight="2324" />
+      <edge id="140" source="#read" target="#Korea" weight="2324" />
+      <edge id="141" source="#read" target="#books" weight="2324" />
+      <edge id="142" source="#read" target="#longlist" weight="2324" />
+      <edge id="143" source="#read" target="#fiction" weight="4648" />
+      <edge id="144" source="#Oprah" target="#O_Magazine" weight="2324" />
+      <edge id="145" source="#Oprah" target="#books" weight="2324" />
+      <edge id="146" source="#Oprah" target="#Goodreads" weight="2324" />
+      <edge id="147" source="#ideas" target="#books" weight="2324" />
+      <edge id="148" source="#art" target="#Korean" weight="2324" />
+      <edge id="149" source="#art" target="#Korea" weight="2324" />
+      <edge id="150" source="#art" target="#NY" weight="2324" />
+      <edge id="151" source="#nkorea" target="#dprk" weight="2324" />
+      <edge id="152" source="#Center4Fiction" target="#awp12" weight="2324" />
+      <edge id="153" source="#arts" target="#Korea" weight="2324" />
+      <edge id="154" source="#Goodreads" target="#poetry" weight="2324" />
+      <edge id="155" source="#Goodreads" target="#WIT" weight="2324" />
+      <edge id="156" source="#Goodreads" target="#reads" weight="2324" />
+      <edge id="157" source="#Goodreads" target="#cultures" weight="2324" />
+      <edge id="158" source="#Goodreads" target="#O_Magazine" weight="2324" />
+      <edge id="159" source="#Goodreads" target="#books" weight="9296" />
+      <edge id="160" source="#Goodreads" target="#humanrights" weight="2324" />
+      <edge id="161" source="#Goodreads" target="#fiction" weight="2324" />
+      <edge id="162" source="#Goodreads" target="#memoir" weight="2324" />
+      <edge id="163" source="#guardian" target="#humanrights" weight="2324" />
+      <edge id="164" source="#guardian" target="#guardian" weight="4648" />
+      <edge id="165" source="#horror" target="#Korea" weight="2324" />
+      <edge id="166" source="#tuesdaybookclub" target="#sevenstoriespress" weight="2324" />
+      <edge id="167" source="#tsunami" target="#Japan" weight="2324" />
+      <edge id="168" source="#essays" target="#literature" weight="2324" />
+      <edge id="169" source="#essays" target="#books" weight="2324" />
+      <edge id="170" source="#politics" target="#Korea" weight="2324" />
+      <edge id="171" source="#confession" target="#food" weight="2324" />
+      <edge id="172" source="#confession" target="#Korea" weight="2324" />
+      <edge id="173" source="#followreader" target="#books" weight="2324" />
+      <edge id="174" source="#longlist" target="#books" weight="2324" />
+      <edge id="175" source="#longlist" target="#ala_carnegie" weight="2324" />
+      <edge id="176" source="#CNNGo" target="#Seoul" weight="2324" />
+      <edge id="177" source="#halloween" target="#SanFran" weight="4648" />
+      <edge id="178" source="#halloween" target="#halloween" weight="4648" />
+      <edge id="179" source="#KimJongIl" target="#NKorea" weight="2324" />
+      <edge id="180" source="#KimJongIl" target="#DPRK" weight="2324" />
+      <edge id="181" source="#north" target="#family" weight="2324" />
+      <edge id="182" source="#north" target="#writing" weight="2324" />
+      <edge id="183" source="#north" target="#asianamerica" weight="2324" />
+      <edge id="184" source="#north" target="#God" weight="2324" />
+      <edge id="185" source="#review" target="#books" weight="2324" />
+      <edge id="186" source="#review" target="#BookClub" weight="2324" />
+      <edge id="187" source="#Northkorea" target="#LRB" weight="2324" />
+      <edge id="188" source="#election" target="#Trump" weight="2324" />
+      <edge id="189" source="#seoul" target="#writing" weight="2324" />
+      <edge id="190" source="#seoul" target="#poetry" weight="4648" />
+      <edge id="191" source="#seoul" target="#korea" weight="32536" />
+      <edge id="192" source="#seoul" target="#architecture" weight="2324" />
+      <edge id="193" source="#seoul" target="#northkorean" weight="4648" />
+      <edge id="194" source="#seoul" target="#Korea" weight="2324" />
+      <edge id="195" source="#Korean" target="#translation" weight="2324" />
+      <edge id="196" source="#Korean" target="#writer" weight="2324" />
+      <edge id="197" source="#Korean" target="#korea" weight="2324" />
+      <edge id="198" source="#Korean" target="#occupyulysses" weight="2324" />
+      <edge id="199" source="#Korean" target="#novel" weight="2324" />
+      <edge id="200" source="#Korean" target="#Korea" weight="6972" />
+      <edge id="201" source="#Korean" target="#NY" weight="2324" />
+      <edge id="202" source="#Korean" target="#fiction" weight="2324" />
+      <edge id="203" source="#longliveart" target="#books" weight="2324" />
+      <edge id="204" source="#asians" target="#Activism" weight="2324" />
+      <edge id="205" source="#asians" target="#AsianAmericans" weight="2324" />
+      <edge id="206" source="#Bookworm" target="#books" weight="2324" />
+      <edge id="207" source="#Bookworm" target="#Writing" weight="2324" />
+      <edge id="208" source="#fiction" target="#romance" weight="2324" />
+      <edge id="209" source="#fiction" target="#books" weight="4648" />
+      <edge id="210" source="#fiction" target="#asia" weight="2324" />
+      <edge id="211" source="#fiction" target="#writing" weight="2324" />
+      <edge id="212" source="#fiction" target="#writer" weight="2324" />
+      <edge id="213" source="#fiction" target="#occupyulysses" weight="2324" />
+      <edge id="214" source="#fiction" target="#novel" weight="16268" />
+      <edge id="215" source="#fiction" target="#cultures" weight="2324" />
+      <edge id="216" source="#fiction" target="#poets" weight="2324" />
+      <edge id="217" source="#fiction" target="#Korea" weight="2324" />
+      <edge id="218" source="#fiction" target="#weekendgoodreads" weight="2324" />
+      <edge id="219" source="#fiction" target="#shouldbewriting" weight="2324" />
+      <edge id="220" source="#fiction" target="#Man" weight="2324" />
+      <edge id="221" source="#fiction" target="#NaNoWriMo" weight="4648" />
+      <edge id="222" source="#fiction" target="#Reading" weight="2324" />
+      <edge id="223" source="#fiction" target="#publishing" weight="2324" />
+      <edge id="224" source="#fiction" target="#1Q84" weight="2324" />
+      <edge id="225" source="#fiction" target="#humanrights" weight="2324" />
+      <edge id="226" source="#Mandela" target="#southafrica" weight="2324" />
+      <edge id="227" source="#trendy" target="#literature" weight="2324" />
+      <edge id="228" source="#trendy" target="#books" weight="2324" />
+      <edge id="229" source="#ala_carnegie" target="#books" weight="4648" />
+      <edge id="230" source="#writer" target="#writing" weight="6972" />
+      <edge id="231" source="#writer" target="#DriftingHouse" weight="2324" />
+      <edge id="232" source="#writer" target="#korea" weight="2324" />
+      <edge id="233" source="#writer" target="#NaNoWriMo" weight="2324" />
+      <edge id="234" source="#Olympics" target="#humanrights" weight="2324" />
+      <edge id="235" source="#Neustadt" target="#editorspick" weight="2324" />
+      <edge id="236" source="#Syria" target="#humanrights" weight="2324" />
+      <edge id="237" source="#fridayreads" target="#literature" weight="2324" />
+      <edge id="238" source="#fridayreads" target="#amreading" weight="4648" />
+      <edge id="239" source="#fridayreads" target="#poem" weight="2324" />
+      <edge id="240" source="#fridayreads" target="#writetip" weight="2324" />
+      <edge id="241" source="#fridayreads" target="#books" weight="4648" />
+      <edge id="242" source="#fridayreads" target="#Korea" weight="2324" />
+      <edge id="243" source="#reading" target="#writing" weight="2324" />
+      <edge id="244" source="#reading" target="#reader" weight="2324" />
+      <edge id="245" source="#reading" target="#novel" weight="2324" />
+      <edge id="246" source="#reading" target="#Korea" weight="2324" />
+      <edge id="247" source="#reading" target="#books" weight="4648" />
+      <edge id="248" source="#reading" target="#food" weight="2324" />
+      <edge id="249" source="#writetip" target="#writing" weight="9296" />
+      <edge id="250" source="#writetip" target="#amwriting" weight="2324" />
+      <edge id="251" source="#writetip" target="#novel" weight="2324" />
+      <edge id="252" source="#writetip" target="#novels" weight="2324" />
+      <edge id="253" source="#writetip" target="#writetip" weight="4648" />
+      <edge id="254" source="#writetip" target="#books" weight="2324" />
+      <edge id="255" source="#poets" target="#poetry" weight="2324" />
+      <edge id="256" source="#poets" target="#poem" weight="2324" />
+      <edge id="257" source="#Korea" target="#romance" weight="2324" />
+      <edge id="258" source="#Korea" target="#books" weight="6972" />
+      <edge id="259" source="#Korea" target="#writing" weight="4648" />
+      <edge id="260" source="#Korea" target="#novel" weight="4648" />
+      <edge id="261" source="#Korea" target="#North" weight="2324" />
+      <edge id="262" source="#Korea" target="#NY" weight="2324" />
+      <edge id="263" source="#Korea" target="#ROK" weight="4648" />
+      <edge id="264" source="#Korea" target="#travel" weight="4648" />
+      <edge id="265" source="#Korea" target="#Asia" weight="2324" />
+      <edge id="266" source="#Korea" target="#AsianAmerican" weight="2324" />
+      <edge id="267" source="#Korea" target="#translation" weight="4648" />
+      <edge id="268" source="#Korea" target="#ThinkFest" weight="2324" />
+      <edge id="269" source="#Korea" target="#kpop" weight="2324" />
+      <edge id="270" source="#Korea" target="#food" weight="2324" />
+      <edge id="271" source="#Korea" target="#timeforchocolate" weight="2324" />
+      <edge id="272" source="#Korea" target="#PSY" weight="2324" />
+      <edge id="273" source="#Korea" target="#zombies" weight="2324" />
+      <edge id="274" source="#Korea" target="#literature" weight="6972" />
+      <edge id="275" source="#Korea" target="#China" weight="2324" />
+      <edge id="276" source="#Korea" target="#LondonBookFair" weight="2324" />
+      <edge id="277" source="#Korea" target="#northkorean" weight="2324" />
+      <edge id="278" source="#author" target="#NaNoWriMo" weight="2324" />
+      <edge id="279" source="#author" target="#food" weight="2324" />
+      <edge id="280" source="#author" target="#publishing" weight="2324" />
+      <edge id="281" source="#author" target="#novel" weight="2324" />
+      <edge id="282" source="#author" target="#writing" weight="2324" />
+      <edge id="283" source="#DriftingHouse" target="#writing" weight="6972" />
+      <edge id="284" source="#DriftingHouse" target="#publishing" weight="6972" />
+      <edge id="285" source="#DriftingHouse" target="#authors" weight="2324" />
+      <edge id="286" source="#DriftingHouse" target="#novel" weight="4648" />
+      <edge id="287" source="#DriftingHouse" target="#nanowrimo" weight="2324" />
+      <edge id="288" source="#DriftingHouse" target="#travel" weight="2324" />
+      <edge id="289" source="#DriftingHouse" target="#books" weight="4648" />
+      <edge id="290" source="#DriftingHouse" target="#bookmarketing" weight="2324" />
+      <edge id="291" source="#DriftingHouse" target="#NaNoWriMo" weight="2324" />
+      <edge id="292" source="#DominicanRepublic" target="#humanrights" weight="2324" />
+      <edge id="293" source="#missile" target="#NKorea" weight="2324" />
+      <edge id="294" source="#LiterarySmackdowns" target="#HaroldPinter" weight="2324" />
+      <edge id="295" source="#LiterarySmackdowns" target="#Austen" weight="2324" />
+      <edge id="296" source="#FF" target="#FF" weight="4648" />
+      <edge id="297" source="#BookClub" target="#books" weight="4648" />
+      <edge id="298" source="#a" target="#charactersbehavingbadly" weight="2324" />
+      <edge id="299" source="#myanmar" target="#humanrights" weight="2324" />
+      <edge id="300" source="#ThinkFest" target="#books" weight="2324" />
+      <edge id="301" source="#ThinkFest" target="#timeforchocolate" weight="2324" />
+      <edge id="302" source="#shouldbewriting" target="#novel" weight="2324" />
+      <edge id="303" source="#Man" target="#1Q84" weight="2324" />
+      <edge id="304" source="#Man" target="#NaNoWriMo" weight="2324" />
+      <edge id="305" source="#Man" target="#novel" weight="2324" />
+      <edge id="306" source="#kpop" target="#DontCrosstheLine" weight="2324" />
+      <edge id="307" source="#kpop" target="#PSY" weight="2324" />
+      <edge id="308" source="#kpop" target="#korea" weight="2324" />
+      <edge id="309" source="#democracy" target="#Myanmar" weight="2324" />
+      <edge id="310" source="#Novella" target="#awp12" weight="2324" />
+      <edge id="311" source="#bahrain" target="#humanrights" weight="2324" />
+      <edge id="312" source="#publishers" target="#Kindle" weight="2324" />
+      <edge id="313" source="#publishers" target="#perfect" weight="2324" />
+      <edge id="314" source="#c" target="#food" weight="2324" />
+      <edge id="315" source="#movies" target="#korea" weight="2324" />
+      <edge id="316" source="#reader" target="#korea" weight="2324" />
+      <edge id="317" source="#reader" target="#books" weight="2324" />
+      <edge id="318" source="#reader" target="#Asia" weight="2324" />
+      <edge id="319" source="#JournalismIsNotACrime" target="#translation" weight="2324" />
+      <edge id="320" source="#AsianAmericans" target="#Activism" weight="2324" />
+      <edge id="321" source="#China" target="#transplants" weight="2324" />
+      <edge id="322" source="#China" target="#North_Korea" weight="2324" />
+      <edge id="323" source="#China" target="#artist" weight="2324" />
+      <edge id="324" source="#China" target="#northkorean" weight="2324" />
+      <edge id="325" source="#China" target="#humanrights" weight="2324" />
+      <edge id="326" source="#Myanmar" target="#Burma" weight="2324" />
+      <edge id="327" source="#Myanmar" target="#humanrights" weight="2324" />
+      <edge id="328" source="#help" target="#novel" weight="2324" />
+      <edge id="329" source="#itcouldhappen" target="#inspiration" weight="2324" />
+      <edge id="330" source="#itcouldhappen" target="#write" weight="2324" />
+      <edge id="331" source="#write" target="#inspiration" weight="2324" />
+      <edge id="332" source="#architecture" target="#korea" weight="2324" />
+      <edge id="333" source="#race" target="#AsianAmerican" weight="2324" />
+      <edge id="334" source="#romance" target="#novel" weight="2324" />
+      <edge id="335" source="#Asian" target="#travel" weight="2324" />
+      <edge id="336" source="#Asian" target="#SanFran" weight="2324" />
+      <edge id="337" source="#dprk" target="#juche" weight="4648" />
+      <edge id="338" source="#dprk" target="#dprk" weight="4648" />
+      <edge id="339" source="#BoA" target="#lessons" weight="2324" />
+      <edge id="340" source="#family" target="#writing" weight="2324" />
+      <edge id="341" source="#family" target="#God" weight="2324" />
+      <edge id="342" source="#poetry" target="#writing" weight="2324" />
+      <edge id="343" source="#poetry" target="#publishing" weight="2324" />
+      <edge id="344" source="#poetry" target="#novel" weight="4648" />
+      <edge id="345" source="#poetry" target="#korea" weight="4648" />
+      <edge id="346" source="#poetry" target="#poem" weight="2324" />
+      <edge id="347" source="#poetry" target="#books" weight="2324" />
+      <edge id="348" source="#North_Korean" target="#North_Korea" weight="2324" />
+      <edge id="349" source="#North_Korean" target="#humanrights" weight="2324" />
+      <edge id="350" source="#shortstories" target="#shortfiction" weight="2324" />
+      <edge id="351" source="#shortstories" target="#amreading" weight="2324" />
+      <edge id="352" source="#shortstories" target="#driftinghouse" weight="2324" />
+      <edge id="353" source="#shortstories" target="#korea" weight="2324" />
+      <edge id="354" source="#books" target="#driftinghouse" weight="2324" />
+      <edge id="355" source="#books" target="#HowIBecameaNorthKorean" weight="2324" />
+      <edge id="356" source="#books" target="#novel" weight="2324" />
+      <edge id="357" source="#books" target="#writing" weight="18592" />
+      <edge id="358" source="#books" target="#korea" weight="4648" />
+      <edge id="359" source="#books" target="#story" weight="2324" />
+      <edge id="360" source="#books" target="#amreading" weight="2324" />
+      <edge id="361" source="#books" target="#booker" weight="2324" />
+      <edge id="362" source="#books" target="#O_Magazine" weight="2324" />
+      <edge id="363" source="#books" target="#novels" weight="2324" />
+      <edge id="364" source="#books" target="#readersdilemma" weight="2324" />
+      <edge id="365" source="#books" target="#Writing" weight="4648" />
+      <edge id="366" source="#books" target="#bookrageous" weight="2324" />
+      <edge id="367" source="#books" target="#REVIEW" weight="2324" />
+      <edge id="368" source="#books" target="#timeforchocolate" weight="2324" />
+      <edge id="369" source="#books" target="#literature" weight="4648" />
+      <edge id="370" source="#books" target="#publishing" weight="11620" />
+      <edge id="371" source="#books" target="#readingreccs" weight="2324" />
+      <edge id="372" source="#books" target="#bookworm" weight="2324" />
+      <edge id="373" source="#books" target="#Reading" weight="2324" />
+      <edge id="374" source="#northkorean" target="#humanrights" weight="4648" />
+      <edge id="375" source="#northkorean" target="#transplants" weight="2324" />
+      <edge id="376" source="#northkorean" target="#diaspora" weight="2324" />
+      <edge id="377" source="#northkorean" target="#korea" weight="4648" />
+      <edge id="378" source="#northkorean" target="#HumanRights" weight="2324" />
+      <edge id="379" source="#NKorea" target="#soccer" weight="2324" />
+      <edge id="380" source="#NKorea" target="#DPRK" weight="2324" />
+      <edge id="381" source="#NKorea" target="#Pyongyang" weight="2324" />
+      <edge id="382" source="#writing" target="#issa" weight="2324" />
+      <edge id="383" source="#writing" target="#writing" weight="4648" />
+      <edge id="384" source="#writing" target="#bestjobintheworld" weight="2324" />
+      <edge id="385" source="#writing" target="#perfectday" weight="2324" />
+      <edge id="386" source="#writing" target="#korea" weight="6972" />
+      <edge id="387" source="#writing" target="#HowIBecameaNorthKorean" weight="2324" />
+      <edge id="388" source="#writing" target="#novel" weight="20916" />
+      <edge id="389" source="#writing" target="#food" weight="2324" />
+      <edge id="390" source="#writing" target="#travel" weight="4648" />
+      <edge id="391" source="#writing" target="#asianamerica" weight="2324" />
+      <edge id="392" source="#writing" target="#writingtips" weight="2324" />
+      <edge id="393" source="#writing" target="#God" weight="2324" />
+      <edge id="394" source="#writing" target="#NaNoWriMo" weight="13944" />
+      <edge id="395" source="#writing" target="#stories" weight="2324" />
+      <edge id="396" source="#writing" target="#writingconference" weight="2324" />
+      <edge id="397" source="#writing" target="#publishing" weight="4648" />
+      <edge id="398" source="#writing" target="#1Q84" weight="2324" />
+      <edge id="399" source="#writing" target="#addiction" weight="2324" />
+      <edge id="400" source="#writing" target="#nanowrimo" weight="2324" />
+      <edge id="401" source="#nightmares" target="#ArtTweeters" weight="2324" />
+      <edge id="402" source="#expatblues" target="#sigh" weight="2324" />
+      <edge id="403" source="#occupyulysses" target="#novel" weight="2324" />
+      <edge id="404" source="#story" target="#korea" weight="2324" />
+      <edge id="405" source="#story" target="#novels" weight="2324" />
+      <edge id="406" source="#novel" target="#korea" weight="2324" />
+      <edge id="407" source="#novel" target="#authors" weight="2324" />
+      <edge id="408" source="#novel" target="#PSY" weight="2324" />
+      <edge id="409" source="#novel" target="#travel" weight="2324" />
+      <edge id="410" source="#novel" target="#amwriting" weight="4648" />
+      <edge id="411" source="#novel" target="#NaNoWriMo" weight="16268" />
+      <edge id="412" source="#novel" target="#publishing" weight="2324" />
+      <edge id="413" source="#novel" target="#1Q84" weight="2324" />
+      <edge id="414" source="#novel" target="#humanrights" weight="2324" />
+      <edge id="415" source="#novel" target="#nanowrimo" weight="2324" />
+      <edge id="416" source="#booker" target="#Writing" weight="2324" />
+      <edge id="417" source="#Books" target="#Writing" weight="2324" />
+      <edge id="418" source="#Books" target="#Writer" weight="2324" />
+      <edge id="419" source="#PSY" target="#korea" weight="13944" />
+      <edge id="420" source="#PSY" target="#GangnamStyle" weight="2324" />
+      <edge id="421" source="#nknews" target="#nknews" weight="4648" />
+      <edge id="422" source="#Writing" target="#Writer" weight="2324" />
+      <edge id="423" source="#Writing" target="#humanrights" weight="2324" />
+      <edge id="424" source="#translation" target="#worldlit" weight="2324" />
+      <edge id="425" source="#translation" target="#korea" weight="2324" />
+      <edge id="426" source="#literature" target="#southkorea" weight="2324" />
+      <edge id="427" source="#writingtips" target="#NaNoWriMo" weight="2324" />
+      <edge id="428" source="#Trump" target="#humanrights" weight="2324" />
+      <edge id="429" source="#nanowrimo" target="#travel" weight="2324" />
+      <edge id="430" source="#Pyongyang" target="#soccer" weight="2324" />
+      <edge id="431" source="#publishing" target="#Fiction" weight="2324" />
+      <edge id="432" source="#publishing" target="#authors" weight="2324" />
+      <edge id="433" source="#publishing" target="#HowIBecameaNorthKorean" weight="2324" />
+      <edge id="434" source="#publishing" target="#amwriting" weight="2324" />
+      <edge id="435" source="#publishing" target="#manbookerprize" weight="2324" />
+      <edge id="436" source="#publishing" target="#pleasekeepsharing" weight="2324" />
+      <edge id="437" source="#stories" target="#issa" weight="2324" />
+      <edge id="438" source="#JosephAnton" target="#LiteraryAlias" weight="2324" />
+      <edge id="439" source="#driftinghouse" target="#korea" weight="2324" />
+      <edge id="440" source="#slowreadingmovement" target="#turnofftheinternetsixhoursaday" weight="2324" />
+      <edge id="441" source="#transplants" target="#humanrights" weight="2324" />
+      <edge id="442" source="#itstheeconomy" target="#korea" weight="2324" />
+      <edge id="443" source="#dailynk" target="#dailynk" weight="4648" />
+      <edge id="444" source="#SanFran" target="#travel" weight="2324" />
+      <edge id="445" source="#SanFran" target="#food" weight="2324" />
+      <edge id="446" source="#SanFran" target="#amwriting" weight="2324" />
+      <edge id="447" source="#NaNoWriMo" target="#1Q84" weight="2324" />
+      <edge id="448" source="#NaNoWriMo" target="#motivationalmedicine" weight="2324" />
+      <edge id="449" source="#NaNoWriMo" target="#noexcuses" weight="2324" />
+      <edge id="450" source="#NaNoWriMo" target="#amwriting" weight="6972" />
+      <edge id="451" source="#NaNoWriMo" target="#inspiring" weight="2324" />
+      <edge id="452" source="#tigermother" target="#Koreans" weight="2324" />
+      <edge id="453" source="#god" target="#korea" weight="2324" />
+      <edge id="454" source="#Asia" target="#korea" weight="2324" />
+      <edge id="455" source="#amreading" target="#korea" weight="6972" />
+      <edge id="456" source="#sanctions" target="#korea" weight="2324" />
+      <edge id="457" source="#amwriting" target="#realitycheck" weight="2324" />
+      <edge id="458" source="#amwriting" target="#korea" weight="4648" />
+      <edge id="459" source="#amwriting" target="#food" weight="2324" />
+      <edge id="460" source="#korea" target="#DontCrosstheLine" weight="2324" />
+      <edge id="461" source="#korea" target="#GangnamStyle" weight="2324" />
+      <edge id="462" source="#korea" target="#humanrights" weight="13944" />
+      <edge id="463" source="#motivationalmedicine" target="#inspiring" weight="2324" />
+      <edge id="464" source="#refugees" target="#humanrights" weight="2324" />
+      <edge id="465" source="#North_Korea" target="#artist" weight="2324" />
+      <edge id="466" source="#North_Korea" target="#humanrights" weight="4648" />
+    </edges>
+  </graph>
+</gexf>

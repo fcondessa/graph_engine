@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#EgyptAir" label="#EgyptAir" />
+      <node id="#ICFTop7" label="#ICFTop7" />
+      <node id="#RinglingBros" label="#RinglingBros" />
+      <node id="#TheShoe" label="#TheShoe" />
+      <node id="#LeBronToClev" label="#LeBronToClev" />
+      <node id="#ACDC" label="#ACDC" />
+      <node id="#onlineshopping" label="#onlineshopping" />
+      <node id="#traffic" label="#traffic" />
+      <node id="#breaking" label="#breaking" />
+      <node id="#Louisiana" label="#Louisiana" />
+      <node id="#Traffic" label="#Traffic" />
+      <node id="#beer" label="#beer" />
+      <node id="#EarlesArmy" label="#EarlesArmy" />
+      <node id="#Winning" label="#Winning" />
+      <node id="#streetart" label="#streetart" />
+      <node id="#WinterPark" label="#WinterPark" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#CPAC2015" label="#CPAC2015" />
+      <node id="#Delaware" label="#Delaware" />
+      <node id="#TBDBITL" label="#TBDBITL" />
+      <node id="#art" label="#art" />
+      <node id="#BlueJackets" label="#BlueJackets" />
+      <node id="#LeBronJames" label="#LeBronJames" />
+      <node id="#teamtraffic" label="#teamtraffic" />
+      <node id="#Knox" label="#Knox" />
+      <node id="#Franklin" label="#Franklin" />
+      <node id="#wtf" label="#wtf" />
+      <node id="#AthletesAgainstAlzheimers" label="#AthletesAgainstAlzheimers" />
+      <node id="#AxlRose" label="#AxlRose" />
+      <node id="#stre" label="#stre" />
+      <node id="#610Storm" label="#610Storm" />
+      <node id="#athletesvsalzheimers" label="#athletesvsalzheimers" />
+      <node id="#FL" label="#FL" />
+      <node id="#wvchemspill" label="#wvchemspill" />
+      <node id="#mural" label="#mural" />
+      <node id="#Breaking" label="#Breaking" />
+      <node id="#Clinton" label="#Clinton" />
+      <node id="#snow" label="#snow" />
+      <node id="#fox28" label="#fox28" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#AP" label="#AP" />
+      <node id="#OTD" label="#OTD" />
+      <node id="#ABC6" label="#ABC6" />
+      <node id="#Gahanna" label="#Gahanna" />
+      <node id="#Richwood" label="#Richwood" />
+      <node id="#Pickerington" label="#Pickerington" />
+      <node id="#Cincy" label="#Cincy" />
+      <node id="#nytimes" label="#nytimes" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#MemorialDay2016" label="#MemorialDay2016" />
+      <node id="#Film" label="#Film" />
+      <node id="#Filmmaker" label="#Filmmaker" />
+      <node id="#Brownsville" label="#Brownsville" />
+      <node id="#Kickstarter" label="#Kickstarter" />
+      <node id="#WhiteHouse" label="#WhiteHouse" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#Morrow" label="#Morrow" />
+      <node id="#news" label="#news" />
+      <node id="#NYRB" label="#NYRB" />
+      <node id="#MLSCup" label="#MLSCup" />
+      <node id="#MH370" label="#MH370" />
+      <node id="#wsyx6" label="#wsyx6" />
+      <node id="#Winthrop" label="#Winthrop" />
+      <node id="#Grandview" label="#Grandview" />
+      <node id="#FreedomIsNotFree" label="#FreedomIsNotFree" />
+      <node id="#Hilliard" label="#Hilliard" />
+      <node id="#Grateful" label="#Grateful" />
+      <node id="#graffiti" label="#graffiti" />
+      <node id="#cable" label="#cable" />
+      <node id="#OHwx" label="#OHwx" />
+      <node id="#Sochi" label="#Sochi" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#feedly" label="#feedly" />
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#Worthington" label="#Worthington" />
+      <node id="#BestBuckeyeCoverage" label="#BestBuckeyeCoverage" />
+      <node id="#Orion" label="#Orion" />
+      <node id="#3amWakeUp" label="#3amWakeUp" />
+      <node id="#OrionLaunch" label="#OrionLaunch" />
+      <node id="#Malaysian" label="#Malaysian" />
+      <node id="#explosion" label="#explosion" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#MTP" label="#MTP" />
+      <node id="#Arizona" label="#Arizona" />
+      <node id="#broadband" label="#broadband" />
+      <node id="#TVviewing" label="#TVviewing" />
+      <node id="#Malaysia" label="#Malaysia" />
+      <node id="#skimadriver" label="#skimadriver" />
+      <node id="#JoelRiley" label="#JoelRiley" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#MtVernon" label="#MtVernon" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#arnews1936" label="#arnews1936" />
+      <node id="#GDC" label="#GDC" />
+      <node id="#OSUvsNavy" label="#OSUvsNavy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#EgyptAir" target="#Breaking" weight="3200" />
+      <edge id="1" source="#ICFTop7" target="#LifeInCbus" weight="3200" />
+      <edge id="2" source="#ICFTop7" target="#Winning" weight="3200" />
+      <edge id="3" source="#RinglingBros" target="#Columbus" weight="3200" />
+      <edge id="4" source="#TheShoe" target="#GoBucks" weight="3200" />
+      <edge id="5" source="#LeBronToClev" target="#LeBronJames" weight="3200" />
+      <edge id="6" source="#ACDC" target="#AxlRose" weight="3200" />
+      <edge id="7" source="#onlineshopping" target="#cable" weight="3200" />
+      <edge id="8" source="#onlineshopping" target="#broadband" weight="3200" />
+      <edge id="9" source="#onlineshopping" target="#TVviewing" weight="3200" />
+      <edge id="10" source="#traffic" target="#Dublin" weight="3200" />
+      <edge id="11" source="#traffic" target="#Hilliard" weight="3200" />
+      <edge id="12" source="#traffic" target="#OhioState" weight="3200" />
+      <edge id="13" source="#traffic" target="#Pickerington" weight="3200" />
+      <edge id="14" source="#traffic" target="#MtVernon" weight="3200" />
+      <edge id="15" source="#traffic" target="#Knox" weight="3200" />
+      <edge id="16" source="#traffic" target="#Cincy" weight="3200" />
+      <edge id="17" source="#traffic" target="#Columbus" weight="51200" />
+      <edge id="18" source="#traffic" target="#Franklin" weight="6400" />
+      <edge id="19" source="#traffic" target="#610Storm" weight="3200" />
+      <edge id="20" source="#breaking" target="#GDC" weight="3200" />
+      <edge id="21" source="#Louisiana" target="#BREAKING" weight="3200" />
+      <edge id="22" source="#Traffic" target="#Delaware" weight="3200" />
+      <edge id="23" source="#Traffic" target="#Morrow" weight="3200" />
+      <edge id="24" source="#Traffic" target="#Gahanna" weight="3200" />
+      <edge id="25" source="#Traffic" target="#Worthington" weight="3200" />
+      <edge id="26" source="#Traffic" target="#Richwood" weight="3200" />
+      <edge id="27" source="#Traffic" target="#Brownsville" weight="3200" />
+      <edge id="28" source="#Traffic" target="#Hilliard" weight="3200" />
+      <edge id="29" source="#Traffic" target="#Dublin" weight="3200" />
+      <edge id="30" source="#Traffic" target="#Grandview" weight="3200" />
+      <edge id="31" source="#Traffic" target="#Columbus" weight="12800" />
+      <edge id="32" source="#beer" target="#wtf" weight="3200" />
+      <edge id="33" source="#EarlesArmy" target="#athletesvsalzheimers" weight="3200" />
+      <edge id="34" source="#Winning" target="#LifeInCbus" weight="3200" />
+      <edge id="35" source="#streetart" target="#mural" weight="48000" />
+      <edge id="36" source="#streetart" target="#graffiti" weight="48000" />
+      <edge id="37" source="#streetart" target="#art" weight="48000" />
+      <edge id="38" source="#WinterPark" target="#Periscope" weight="3200" />
+      <edge id="39" source="#WinterPark" target="#CBJ" weight="3200" />
+      <edge id="40" source="#BREAKING" target="#Arizona" weight="3200" />
+      <edge id="41" source="#BREAKING" target="#FL" weight="3200" />
+      <edge id="42" source="#BREAKING" target="#CPAC2015" weight="3200" />
+      <edge id="43" source="#BREAKING" target="#wsyx6" weight="6400" />
+      <edge id="44" source="#BREAKING" target="#OhioState" weight="3200" />
+      <edge id="45" source="#BREAKING" target="#GDC" weight="9600" />
+      <edge id="46" source="#BREAKING" target="#WhiteHouse" weight="3200" />
+      <edge id="47" source="#BREAKING" target="#Columbus" weight="3200" />
+      <edge id="48" source="#Delaware" target="#Morrow" weight="3200" />
+      <edge id="49" source="#TBDBITL" target="#OhioState" weight="3200" />
+      <edge id="50" source="#art" target="#mural" weight="51200" />
+      <edge id="51" source="#art" target="#stre" weight="3200" />
+      <edge id="52" source="#art" target="#graffiti" weight="51200" />
+      <edge id="53" source="#BlueJackets" target="#CBJ" weight="3200" />
+      <edge id="54" source="#teamtraffic" target="#GDC" weight="3200" />
+      <edge id="55" source="#Knox" target="#MtVernon" weight="3200" />
+      <edge id="56" source="#AthletesAgainstAlzheimers" target="#GoBucks" weight="3200" />
+      <edge id="57" source="#stre" target="#mural" weight="3200" />
+      <edge id="58" source="#stre" target="#graffiti" weight="3200" />
+      <edge id="59" source="#610Storm" target="#Columbus" weight="3200" />
+      <edge id="60" source="#FL" target="#WhiteHouse" weight="3200" />
+      <edge id="61" source="#wvchemspill" target="#Columbus" weight="3200" />
+      <edge id="62" source="#mural" target="#graffiti" weight="51200" />
+      <edge id="63" source="#Breaking" target="#GDC" weight="12800" />
+      <edge id="64" source="#Clinton" target="#MTP" weight="3200" />
+      <edge id="65" source="#snow" target="#skimadriver" weight="3200" />
+      <edge id="66" source="#fox28" target="#wsyx6" weight="3200" />
+      <edge id="67" source="#GoBucks" target="#OSUvsNavy" weight="3200" />
+      <edge id="68" source="#GoBucks" target="#news" weight="3200" />
+      <edge id="69" source="#GoBucks" target="#BestBuckeyeCoverage" weight="3200" />
+      <edge id="70" source="#AP" target="#MH370" weight="3200" />
+      <edge id="71" source="#AP" target="#Malaysia" weight="3200" />
+      <edge id="72" source="#OTD" target="#nytimes" weight="3200" />
+      <edge id="73" source="#ABC6" target="#GDC" weight="3200" />
+      <edge id="74" source="#Pickerington" target="#Columbus" weight="3200" />
+      <edge id="75" source="#Cincy" target="#Columbus" weight="3200" />
+      <edge id="76" source="#Ohio" target="#Film" weight="3200" />
+      <edge id="77" source="#Ohio" target="#Kickstarter" weight="3200" />
+      <edge id="78" source="#Ohio" target="#Columbus" weight="6400" />
+      <edge id="79" source="#Ohio" target="#Filmmaker" weight="3200" />
+      <edge id="80" source="#MemorialDay2016" target="#Grateful" weight="3200" />
+      <edge id="81" source="#MemorialDay2016" target="#FreedomIsNotFree" weight="3200" />
+      <edge id="82" source="#Film" target="#Kickstarter" weight="3200" />
+      <edge id="83" source="#Film" target="#Columbus" weight="6400" />
+      <edge id="84" source="#Film" target="#Filmmaker" weight="3200" />
+      <edge id="85" source="#Filmmaker" target="#Kickstarter" weight="3200" />
+      <edge id="86" source="#Filmmaker" target="#Columbus" weight="6400" />
+      <edge id="87" source="#Kickstarter" target="#Columbus" weight="6400" />
+      <edge id="88" source="#CBJ" target="#Periscope" weight="3200" />
+      <edge id="89" source="#CBJ" target="#NHLAllStar" weight="3200" />
+      <edge id="90" source="#CBJ" target="#Sochi" weight="3200" />
+      <edge id="91" source="#NYRB" target="#MLSCup" weight="3200" />
+      <edge id="92" source="#MH370" target="#Malaysian" weight="3200" />
+      <edge id="93" source="#MH370" target="#Malaysia" weight="3200" />
+      <edge id="94" source="#wsyx6" target="#Columbus" weight="3200" />
+      <edge id="95" source="#Winthrop" target="#OSU" weight="3200" />
+      <edge id="96" source="#Grandview" target="#Columbus" weight="3200" />
+      <edge id="97" source="#Grandview" target="#Hilliard" weight="3200" />
+      <edge id="98" source="#FreedomIsNotFree" target="#Grateful" weight="3200" />
+      <edge id="99" source="#Hilliard" target="#Columbus" weight="6400" />
+      <edge id="100" source="#cable" target="#broadband" weight="3200" />
+      <edge id="101" source="#cable" target="#TVviewing" weight="3200" />
+      <edge id="102" source="#OHwx" target="#Columbus" weight="3200" />
+      <edge id="103" source="#feedly" target="#arnews1936" weight="3200" />
+      <edge id="104" source="#Dublin" target="#Columbus" weight="3200" />
+      <edge id="105" source="#Dublin" target="#Worthington" weight="3200" />
+      <edge id="106" source="#Worthington" target="#Columbus" weight="3200" />
+      <edge id="107" source="#BestBuckeyeCoverage" target="#OSUvsNavy" weight="3200" />
+      <edge id="108" source="#Orion" target="#OrionLaunch" weight="3200" />
+      <edge id="109" source="#3amWakeUp" target="#JoelRiley" weight="3200" />
+      <edge id="110" source="#explosion" target="#GDC" weight="3200" />
+      <edge id="111" source="#OhioState" target="#Columbus" weight="3200" />
+      <edge id="112" source="#broadband" target="#TVviewing" weight="3200" />
+      <edge id="113" source="#Columbus" target="#Columbus" weight="6400" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,725 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Hospice" label="#Hospice" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#olympics" label="#olympics" />
+      <node id="#HCH" label="#HCH" />
+      <node id="#TheJewishHospital" label="#TheJewishHospital" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#UnitedWeFightCancer" label="#UnitedWeFightCancer" />
+      <node id="#coveragegap" label="#coveragegap" />
+      <node id="#OhioNonprofitWeek" label="#OhioNonprofitWeek" />
+      <node id="#GME" label="#GME" />
+      <node id="#GoRed" label="#GoRed" />
+      <node id="#OHBizProfile" label="#OHBizProfile" />
+      <node id="#ptsafety" label="#ptsafety" />
+      <node id="#WHCOA" label="#WHCOA" />
+      <node id="#Donation" label="#Donation" />
+      <node id="#FremontOhio" label="#FremontOhio" />
+      <node id="#walkwithdoc" label="#walkwithdoc" />
+      <node id="#oha100" label="#oha100" />
+      <node id="#HospitalCompare" label="#HospitalCompare" />
+      <node id="#pharma" label="#pharma" />
+      <node id="#biz1stcohc" label="#biz1stcohc" />
+      <node id="#cttt2015" label="#cttt2015" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#safehealthysleep" label="#safehealthysleep" />
+      <node id="#future" label="#future" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#oha2016" label="#oha2016" />
+      <node id="#OHASOS" label="#OHASOS" />
+      <node id="#MakeSafeHappen" label="#MakeSafeHappen" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#PopulationHealth" label="#PopulationHealth" />
+      <node id="#HCP" label="#HCP" />
+      <node id="#healthyohio" label="#healthyohio" />
+      <node id="#WestNile" label="#WestNile" />
+      <node id="#Fremont" label="#Fremont" />
+      <node id="#SAM2016" label="#SAM2016" />
+      <node id="#MedicaidExpansion" label="#MedicaidExpansion" />
+      <node id="#hcwy" label="#hcwy" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#docfix" label="#docfix" />
+      <node id="#OHA2016" label="#OHA2016" />
+      <node id="#patientsafety" label="#patientsafety" />
+      <node id="#HIE" label="#HIE" />
+      <node id="#pediatrics" label="#pediatrics" />
+      <node id="#palliative" label="#palliative" />
+      <node id="#levequetower" label="#levequetower" />
+      <node id="#HRSA" label="#HRSA" />
+      <node id="#Data" label="#Data" />
+      <node id="#patientsafetyweek" label="#patientsafetyweek" />
+      <node id="#fremontohio" label="#fremontohio" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#Nurse" label="#Nurse" />
+      <node id="#OhioDelegation" label="#OhioDelegation" />
+      <node id="#Clermont" label="#Clermont" />
+      <node id="#running" label="#running" />
+      <node id="#heart" label="#heart" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#mammograms" label="#mammograms" />
+      <node id="#healthbenefits" label="#healthbenefits" />
+      <node id="#DonateLife" label="#DonateLife" />
+      <node id="#fightflu" label="#fightflu" />
+      <node id="#Immunization" label="#Immunization" />
+      <node id="#ohsos" label="#ohsos" />
+      <node id="#healthsystems" label="#healthsystems" />
+      <node id="#ohsots" label="#ohsots" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#UtilityTracPlus" label="#UtilityTracPlus" />
+      <node id="#AHAmtg" label="#AHAmtg" />
+      <node id="#ACHE" label="#ACHE" />
+      <node id="#TY" label="#TY" />
+      <node id="#Good4Baby" label="#Good4Baby" />
+      <node id="#millennial" label="#millennial" />
+      <node id="#TownHallOhio" label="#TownHallOhio" />
+      <node id="#fallback" label="#fallback" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#AdvanceCarePlanning" label="#AdvanceCarePlanning" />
+      <node id="#PresidentialElection" label="#PresidentialElection" />
+      <node id="#advancedirectives" label="#advancedirectives" />
+      <node id="#2016PrimaryElection" label="#2016PrimaryElection" />
+      <node id="#EndOfLifeCare" label="#EndOfLifeCare" />
+      <node id="#ENERGYSTARPOY" label="#ENERGYSTARPOY" />
+      <node id="#patients" label="#patients" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#bullying" label="#bullying" />
+      <node id="#ahanewsnow" label="#ahanewsnow" />
+      <node id="#MedicalMonday" label="#MedicalMonday" />
+      <node id="#HospitalHeroes" label="#HospitalHeroes" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#infantmortality" label="#infantmortality" />
+      <node id="#SGHouseCalls" label="#SGHouseCalls" />
+      <node id="#DomesticViolenceAwarenessMonth" label="#DomesticViolenceAwarenessMonth" />
+      <node id="#RxAccess" label="#RxAccess" />
+      <node id="#Wellness" label="#Wellness" />
+      <node id="#allergy" label="#allergy" />
+      <node id="#Flu" label="#Flu" />
+      <node id="#WSD16" label="#WSD16" />
+      <node id="#NursesWeek" label="#NursesWeek" />
+      <node id="#CbusRFTC" label="#CbusRFTC" />
+      <node id="#DonateLifeMonth" label="#DonateLifeMonth" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#ofbf" label="#ofbf" />
+      <node id="#NationalHospitalWeek" label="#NationalHospitalWeek" />
+      <node id="#patientexperience" label="#patientexperience" />
+      <node id="#CLL" label="#CLL" />
+      <node id="#504Plans" label="#504Plans" />
+      <node id="#NIAM16" label="#NIAM16" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#PSAW2015" label="#PSAW2015" />
+      <node id="#PSAW2016" label="#PSAW2016" />
+      <node id="#JamesCancerChat" label="#JamesCancerChat" />
+      <node id="#PSAW2013" label="#PSAW2013" />
+      <node id="#WednesdayWisdom" label="#WednesdayWisdom" />
+      <node id="#MHW14" label="#MHW14" />
+      <node id="#NationalWalkingDay" label="#NationalWalkingDay" />
+      <node id="#SmartRx" label="#SmartRx" />
+      <node id="#addicition" label="#addicition" />
+      <node id="#nursing" label="#nursing" />
+      <node id="#Telehealth" label="#Telehealth" />
+      <node id="#2016GenElection" label="#2016GenElection" />
+      <node id="#Marketplace" label="#Marketplace" />
+      <node id="#ArborDay" label="#ArborDay" />
+      <node id="#AHANewsnow" label="#AHANewsnow" />
+      <node id="#health4OH" label="#health4OH" />
+      <node id="#SIDS" label="#SIDS" />
+      <node id="#vote" label="#vote" />
+      <node id="#StopHospitalCuts" label="#StopHospitalCuts" />
+      <node id="#OHAswingstate" label="#OHAswingstate" />
+      <node id="#p4p" label="#p4p" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#ELR" label="#ELR" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#RacTrac" label="#RacTrac" />
+      <node id="#Autism" label="#Autism" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#OH" label="#OH" />
+      <node id="#backtoschool" label="#backtoschool" />
+      <node id="#OSUCCC" label="#OSUCCC" />
+      <node id="#NHITweek" label="#NHITweek" />
+      <node id="#MensHealthWeek" label="#MensHealthWeek" />
+      <node id="#OhioHospitals" label="#OhioHospitals" />
+      <node id="#OHA100" label="#OHA100" />
+      <node id="#PerioperativeNurses" label="#PerioperativeNurses" />
+      <node id="#hotelbreakers" label="#hotelbreakers" />
+      <node id="#HR" label="#HR" />
+      <node id="#PSAW" label="#PSAW" />
+      <node id="#hospital" label="#hospital" />
+      <node id="#speak4me" label="#speak4me" />
+      <node id="#safesleep" label="#safesleep" />
+      <node id="#ElectionDay" label="#ElectionDay" />
+      <node id="#sharesafety" label="#sharesafety" />
+      <node id="#frog" label="#frog" />
+      <node id="#IT" label="#IT" />
+      <node id="#DermaTherapy" label="#DermaTherapy" />
+      <node id="#job" label="#job" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#asthma" label="#asthma" />
+      <node id="#ohiomedicaid" label="#ohiomedicaid" />
+      <node id="#HeartofWestToledo" label="#HeartofWestToledo" />
+      <node id="#Privacy" label="#Privacy" />
+      <node id="#stopdrugabuse" label="#stopdrugabuse" />
+      <node id="#Telemedicine" label="#Telemedicine" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#Measles" label="#Measles" />
+      <node id="#Cdiff" label="#Cdiff" />
+      <node id="#Cardiology" label="#Cardiology" />
+      <node id="#FiscalCliff" label="#FiscalCliff" />
+      <node id="#stateoftherace" label="#stateoftherace" />
+      <node id="#WearRedDay" label="#WearRedDay" />
+      <node id="#PulitzerPrize" label="#PulitzerPrize" />
+      <node id="#pollutionprevention" label="#pollutionprevention" />
+      <node id="#EHRs" label="#EHRs" />
+      <node id="#275KOhioans" label="#275KOhioans" />
+      <node id="#data" label="#data" />
+      <node id="#fundraising" label="#fundraising" />
+      <node id="#SafeSleep" label="#SafeSleep" />
+      <node id="#BreastCancerAwarenessMonth" label="#BreastCancerAwarenessMonth" />
+      <node id="#p4med" label="#p4med" />
+      <node id="#KingvBurwell" label="#KingvBurwell" />
+      <node id="#AdvanceDirectives" label="#AdvanceDirectives" />
+      <node id="#ambientintelligence" label="#ambientintelligence" />
+      <node id="#CTTT2015" label="#CTTT2015" />
+      <node id="#hospitalheroes" label="#hospitalheroes" />
+      <node id="#quality" label="#quality" />
+      <node id="#NPHW" label="#NPHW" />
+      <node id="#WBWStories" label="#WBWStories" />
+      <node id="#EOL" label="#EOL" />
+      <node id="#emergenceypreparedness" label="#emergenceypreparedness" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#epilepsy" label="#epilepsy" />
+      <node id="#fathcol" label="#fathcol" />
+      <node id="#sayyesohio" label="#sayyesohio" />
+      <node id="#275kOhioians" label="#275kOhioians" />
+      <node id="#centennial" label="#centennial" />
+      <node id="#cmcforum" label="#cmcforum" />
+      <node id="#digitalhealth" label="#digitalhealth" />
+      <node id="#areyoucoveredoh" label="#areyoucoveredoh" />
+      <node id="#alwaysready" label="#alwaysready" />
+      <node id="#breastfeeding" label="#breastfeeding" />
+      <node id="#InfantMortality" label="#InfantMortality" />
+      <node id="#protectcare" label="#protectcare" />
+      <node id="#education" label="#education" />
+      <node id="#uninsured" label="#uninsured" />
+      <node id="#Diabetes" label="#Diabetes" />
+      <node id="#nationalhospitalweek" label="#nationalhospitalweek" />
+      <node id="#ACP" label="#ACP" />
+      <node id="#WBW2016" label="#WBW2016" />
+      <node id="#PurpleDay" label="#PurpleDay" />
+      <node id="#VaxWithMe" label="#VaxWithMe" />
+      <node id="#CancerResearch" label="#CancerResearch" />
+      <node id="#hit" label="#hit" />
+      <node id="#RACTrac" label="#RACTrac" />
+      <node id="#Orlando" label="#Orlando" />
+      <node id="#News" label="#News" />
+      <node id="#botulism" label="#botulism" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#USAToday" label="#USAToday" />
+      <node id="#medicaid" label="#medicaid" />
+      <node id="#ohaam" label="#ohaam" />
+      <node id="#qualitycare" label="#qualitycare" />
+      <node id="#medicare" label="#medicare" />
+      <node id="#aha2015" label="#aha2015" />
+      <node id="#publichealth" label="#publichealth" />
+      <node id="#NIIW" label="#NIIW" />
+      <node id="#PreventPoison" label="#PreventPoison" />
+      <node id="#nursingschool" label="#nursingschool" />
+      <node id="#OONE" label="#OONE" />
+      <node id="#thecurestartsnow" label="#thecurestartsnow" />
+      <node id="#good4baby" label="#good4baby" />
+      <node id="#flu" label="#flu" />
+      <node id="#3dprinting" label="#3dprinting" />
+      <node id="#HospitalHappenings" label="#HospitalHappenings" />
+      <node id="#PR" label="#PR" />
+      <node id="#HIMSS15" label="#HIMSS15" />
+      <node id="#HospitalWeek" label="#HospitalWeek" />
+      <node id="#health" label="#health" />
+      <node id="#ScrubUp" label="#ScrubUp" />
+      <node id="#crossfire" label="#crossfire" />
+      <node id="#givingtuesday" label="#givingtuesday" />
+      <node id="#AHA2015" label="#AHA2015" />
+      <node id="#Sustainability" label="#Sustainability" />
+      <node id="#Hospital" label="#Hospital" />
+      <node id="#college" label="#college" />
+      <node id="#green" label="#green" />
+      <node id="#Sepsis" label="#Sepsis" />
+      <node id="#HCSM" label="#HCSM" />
+      <node id="#AdvanceDirectivesWeek" label="#AdvanceDirectivesWeek" />
+      <node id="#Security" label="#Security" />
+      <node id="#Health" label="#Health" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#smoking" label="#smoking" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#OHAAM" label="#OHAAM" />
+      <node id="#knowyourstatus" label="#knowyourstatus" />
+      <node id="#sepsis" label="#sepsis" />
+      <node id="#GoStover" label="#GoStover" />
+      <node id="#Midwife" label="#Midwife" />
+      <node id="#Thanks" label="#Thanks" />
+      <node id="#Avon" label="#Avon" />
+      <node id="#Quality" label="#Quality" />
+      <node id="#MyHospital" label="#MyHospital" />
+      <node id="#SepsisAwarenessMonth" label="#SepsisAwarenessMonth" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#vaccines" label="#vaccines" />
+      <node id="#GetAFluVax" label="#GetAFluVax" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#Hospitals" label="#Hospitals" />
+      <node id="#ClevelandClinicWay" label="#ClevelandClinicWay" />
+      <node id="#travel" label="#travel" />
+      <node id="#PatientSafetyAwarenessWeek" label="#PatientSafetyAwarenessWeek" />
+      <node id="#Interactive" label="#Interactive" />
+      <node id="#Circle4Coverage" label="#Circle4Coverage" />
+      <node id="#SWOT" label="#SWOT" />
+      <node id="#PatientSafety" label="#PatientSafety" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#marketplace" label="#marketplace" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#smartrx" label="#smartrx" />
+      <node id="#getcovered" label="#getcovered" />
+      <node id="#KDMC" label="#KDMC" />
+      <node id="#FactoidFriday" label="#FactoidFriday" />
+      <node id="#BlueGreenDay" label="#BlueGreenDay" />
+      <node id="#doctors" label="#doctors" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#AHAnewsnow" label="#AHAnewsnow" />
+      <node id="#HCWY" label="#HCWY" />
+      <node id="#CMS" label="#CMS" />
+      <node id="#CapCityHalf" label="#CapCityHalf" />
+      <node id="#BacktoSchool" label="#BacktoSchool" />
+      <node id="#RxProblem" label="#RxProblem" />
+      <node id="#eolchat" label="#eolchat" />
+      <node id="#Pelotonia" label="#Pelotonia" />
+      <node id="#MU" label="#MU" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#HITsecurity" label="#HITsecurity" />
+      <node id="#ohiohospitals" label="#ohiohospitals" />
+      <node id="#UnitedAgainstFlu" label="#UnitedAgainstFlu" />
+      <node id="#Health4OH" label="#Health4OH" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#HIPAA" label="#HIPAA" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#NHTD" label="#NHTD" />
+      <node id="#GangUpForGood" label="#GangUpForGood" />
+      <node id="#NPPW16" label="#NPPW16" />
+      <node id="#pinterest" label="#pinterest" />
+      <node id="#wellness" label="#wellness" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#SOTS" label="#SOTS" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#275kOhioans" label="#275kOhioans" />
+      <node id="#anesthesia" label="#anesthesia" />
+      <node id="#riskmanagement" label="#riskmanagement" />
+      <node id="#LeanerEnergy" label="#LeanerEnergy" />
+      <node id="#ACO" label="#ACO" />
+      <node id="#CDCchat" label="#CDCchat" />
+      <node id="#Wilmington" label="#Wilmington" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#OhioMedicaid" label="#OhioMedicaid" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Hospice" target="#palliative" weight="3224" />
+      <edge id="1" source="#Hospice" target="#Hospital" weight="3224" />
+      <edge id="2" source="#Hospice" target="#HospitalHappenings" weight="3224" />
+      <edge id="3" source="#OhioState" target="#p4med" weight="3224" />
+      <edge id="4" source="#olympics" target="#Ohio" weight="3224" />
+      <edge id="5" source="#HCH" target="#HCH" weight="6448" />
+      <edge id="6" source="#HCH" target="#Healthcare" weight="3224" />
+      <edge id="7" source="#TheJewishHospital" target="#Cdiff" weight="3224" />
+      <edge id="8" source="#TheJewishHospital" target="#USAToday" weight="3224" />
+      <edge id="9" source="#sustainability" target="#Ohio" weight="3224" />
+      <edge id="10" source="#sustainability" target="#UtilityTracPlus" weight="3224" />
+      <edge id="11" source="#UnitedWeFightCancer" target="#levequetower" weight="3224" />
+      <edge id="12" source="#UnitedWeFightCancer" target="#CbusRFTC" weight="3224" />
+      <edge id="13" source="#coveragegap" target="#medicaid" weight="3224" />
+      <edge id="14" source="#OhioNonprofitWeek" target="#InfantMortality" weight="3224" />
+      <edge id="15" source="#GME" target="#Medicaid" weight="3224" />
+      <edge id="16" source="#GoRed" target="#WearRedDay" weight="6448" />
+      <edge id="17" source="#GoRed" target="#heartdisease" weight="6448" />
+      <edge id="18" source="#OHBizProfile" target="#Ohio" weight="3224" />
+      <edge id="19" source="#ptsafety" target="#OHASOS" weight="3224" />
+      <edge id="20" source="#ptsafety" target="#PSAW2013" weight="3224" />
+      <edge id="21" source="#ptsafety" target="#sepsis" weight="3224" />
+      <edge id="22" source="#WHCOA" target="#Medicaid" weight="3224" />
+      <edge id="23" source="#WHCOA" target="#Medicare" weight="3224" />
+      <edge id="24" source="#Donation" target="#HospitalHappenings" weight="3224" />
+      <edge id="25" source="#FremontOhio" target="#HospitalHappenings" weight="3224" />
+      <edge id="26" source="#FremontOhio" target="#Hospital" weight="3224" />
+      <edge id="27" source="#walkwithdoc" target="#oha100" weight="3224" />
+      <edge id="28" source="#oha100" target="#centennial" weight="3224" />
+      <edge id="29" source="#oha100" target="#hotelbreakers" weight="3224" />
+      <edge id="30" source="#oha100" target="#hospitalheroes" weight="3224" />
+      <edge id="31" source="#HospitalCompare" target="#quality" weight="3224" />
+      <edge id="32" source="#HospitalCompare" target="#data" weight="3224" />
+      <edge id="33" source="#pharma" target="#RxAccess" weight="3224" />
+      <edge id="34" source="#biz1stcohc" target="#oha2016" weight="3224" />
+      <edge id="35" source="#cttt2015" target="#healthyohio" weight="6448" />
+      <edge id="36" source="#heartdisease" target="#HeartofWestToledo" weight="3224" />
+      <edge id="37" source="#heartdisease" target="#WearRedDay" weight="6448" />
+      <edge id="38" source="#heartdisease" target="#HospitalHappenings" weight="3224" />
+      <edge id="39" source="#safehealthysleep" target="#good4baby" weight="3224" />
+      <edge id="40" source="#future" target="#digitalhealth" weight="3224" />
+      <edge id="41" source="#obesity" target="#Ohio" weight="6448" />
+      <edge id="42" source="#obesity" target="#health" weight="3224" />
+      <edge id="43" source="#obesity" target="#smoking" weight="3224" />
+      <edge id="44" source="#oha2016" target="#thecurestartsnow" weight="3224" />
+      <edge id="45" source="#OHASOS" target="#TBT" weight="3224" />
+      <edge id="46" source="#OHASOS" target="#Sepsis" weight="6448" />
+      <edge id="47" source="#OHASOS" target="#ICYMI" weight="6448" />
+      <edge id="48" source="#OHASOS" target="#SepsisAwarenessMonth" weight="3224" />
+      <edge id="49" source="#OHASOS" target="#sepsis" weight="12896" />
+      <edge id="50" source="#MakeSafeHappen" target="#TownHallOhio" weight="9672" />
+      <edge id="51" source="#HIT" target="#EHR" weight="3224" />
+      <edge id="52" source="#HIT" target="#healthcare" weight="3224" />
+      <edge id="53" source="#HIT" target="#MU" weight="3224" />
+      <edge id="54" source="#HIT" target="#HIE" weight="3224" />
+      <edge id="55" source="#PopulationHealth" target="#ICYMI" weight="3224" />
+      <edge id="56" source="#HCP" target="#hcsm" weight="3224" />
+      <edge id="57" source="#HCP" target="#Ohio" weight="3224" />
+      <edge id="58" source="#healthyohio" target="#ohiohospitals" weight="3224" />
+      <edge id="59" source="#healthyohio" target="#NationalWalkingDay" weight="3224" />
+      <edge id="60" source="#healthyohio" target="#smartrx" weight="3224" />
+      <edge id="61" source="#healthyohio" target="#sepsis" weight="3224" />
+      <edge id="62" source="#WestNile" target="#Clermont" weight="3224" />
+      <edge id="63" source="#Fremont" target="#Midwife" weight="3224" />
+      <edge id="64" source="#Fremont" target="#Hospital" weight="3224" />
+      <edge id="65" source="#Fremont" target="#Nurse" weight="3224" />
+      <edge id="66" source="#Fremont" target="#HospitalHappenings" weight="3224" />
+      <edge id="67" source="#SAM2016" target="#WSD16" weight="3224" />
+      <edge id="68" source="#SAM2016" target="#Sepsis" weight="3224" />
+      <edge id="69" source="#MedicaidExpansion" target="#275kOhioians" weight="6448" />
+      <edge id="70" source="#MedicaidExpansion" target="#Ohio" weight="6448" />
+      <edge id="71" source="#MedicaidExpansion" target="#health4OH" weight="6448" />
+      <edge id="72" source="#MedicaidExpansion" target="#Healthcare" weight="3224" />
+      <edge id="73" source="#MedicaidExpansion" target="#OhioMedicaid" weight="6448" />
+      <edge id="74" source="#hcwy" target="#ohaam" weight="3224" />
+      <edge id="75" source="#healthcare" target="#jobs" weight="6448" />
+      <edge id="76" source="#healthcare" target="#hospitals" weight="6448" />
+      <edge id="77" source="#healthcare" target="#fundraising" weight="3224" />
+      <edge id="78" source="#healthcare" target="#Ohio" weight="9672" />
+      <edge id="79" source="#healthcare" target="#ScrubUp" weight="3224" />
+      <edge id="80" source="#healthcare" target="#quality" weight="3224" />
+      <edge id="81" source="#healthcare" target="#HR" weight="3224" />
+      <edge id="82" source="#healthcare" target="#Data" weight="3224" />
+      <edge id="83" source="#healthcare" target="#Circle4Coverage" weight="3224" />
+      <edge id="84" source="#healthcare" target="#education" weight="3224" />
+      <edge id="85" source="#healthcare" target="#health4OH" weight="3224" />
+      <edge id="86" source="#healthcare" target="#doctors" weight="6448" />
+      <edge id="87" source="#healthcare" target="#hit" weight="3224" />
+      <edge id="88" source="#healthcare" target="#hcsm" weight="3224" />
+      <edge id="89" source="#healthcare" target="#job" weight="9672" />
+      <edge id="90" source="#healthcare" target="#CMS" weight="3224" />
+      <edge id="91" source="#healthcare" target="#hcr" weight="3224" />
+      <edge id="92" source="#healthcare" target="#NHITweek" weight="3224" />
+      <edge id="93" source="#healthcare" target="#Medicaid" weight="16120" />
+      <edge id="94" source="#healthcare" target="#OhioHospitals" weight="3224" />
+      <edge id="95" source="#healthcare" target="#Health4OH" weight="3224" />
+      <edge id="96" source="#healthcare" target="#HIPAA" weight="3224" />
+      <edge id="97" source="#healthcare" target="#hospital" weight="9672" />
+      <edge id="98" source="#healthcare" target="#pinterest" weight="3224" />
+      <edge id="99" source="#healthcare" target="#275kOhioans" weight="3224" />
+      <edge id="100" source="#healthcare" target="#riskmanagement" weight="3224" />
+      <edge id="101" source="#healthcare" target="#HospitalHappenings" weight="6448" />
+      <edge id="102" source="#healthcare" target="#ACO" weight="3224" />
+      <edge id="103" source="#healthcare" target="#Medicare" weight="3224" />
+      <edge id="104" source="#healthcare" target="#Toledo" weight="3224" />
+      <edge id="105" source="#docfix" target="#Medicare" weight="3224" />
+      <edge id="106" source="#docfix" target="#OhioDelegation" weight="3224" />
+      <edge id="107" source="#OHA2016" target="#OhioHospitals" weight="6448" />
+      <edge id="108" source="#OHA2016" target="#botulism" weight="3224" />
+      <edge id="109" source="#OHA2016" target="#HospitalHeroes" weight="6448" />
+      <edge id="110" source="#OHA2016" target="#TBT" weight="3224" />
+      <edge id="111" source="#OHA2016" target="#Orlando" weight="3224" />
+      <edge id="112" source="#OHA2016" target="#pollutionprevention" weight="3224" />
+      <edge id="113" source="#OHA2016" target="#ICYMI" weight="3224" />
+      <edge id="114" source="#OHA2016" target="#HCWY" weight="64480" />
+      <edge id="115" source="#OHA2016" target="#millennial" weight="3224" />
+      <edge id="116" source="#patientsafety" target="#quality" weight="3224" />
+      <edge id="117" source="#HIE" target="#doctors" weight="3224" />
+      <edge id="118" source="#HIE" target="#EHR" weight="12896" />
+      <edge id="119" source="#HIE" target="#hospitals" weight="3224" />
+      <edge id="120" source="#HIE" target="#Dayton" weight="3224" />
+      <edge id="121" source="#HIE" target="#MU" weight="3224" />
+      <edge id="122" source="#HIE" target="#Ohio" weight="3224" />
+      <edge id="123" source="#pediatrics" target="#anesthesia" weight="3224" />
+      <edge id="124" source="#palliative" target="#HospitalHappenings" weight="3224" />
+      <edge id="125" source="#palliative" target="#Hospital" weight="3224" />
+      <edge id="126" source="#levequetower" target="#CbusRFTC" weight="3224" />
+      <edge id="127" source="#HRSA" target="#publichealth" weight="3224" />
+      <edge id="128" source="#HRSA" target="#NPHW" weight="9672" />
+      <edge id="129" source="#Data" target="#job" weight="3224" />
+      <edge id="130" source="#Data" target="#hospital" weight="3224" />
+      <edge id="131" source="#patientsafetyweek" target="#sharesafety" weight="3224" />
+      <edge id="132" source="#fremontohio" target="#uninsured" weight="3224" />
+      <edge id="133" source="#fremontohio" target="#Hospital" weight="3224" />
+      <edge id="134" source="#GetCovered" target="#fallback" weight="3224" />
+      <edge id="135" source="#Nurse" target="#OONE" weight="3224" />
+      <edge id="136" source="#Nurse" target="#Hospital" weight="3224" />
+      <edge id="137" source="#Nurse" target="#Midwife" weight="3224" />
+      <edge id="138" source="#Nurse" target="#HospitalHappenings" weight="3224" />
+      <edge id="139" source="#Nurse" target="#Ohio" weight="3224" />
+      <edge id="140" source="#OhioDelegation" target="#Medicare" weight="3224" />
+      <edge id="141" source="#running" target="#CapCityHalf" weight="3224" />
+      <edge id="142" source="#heart" target="#diabetes" weight="3224" />
+      <edge id="143" source="#heart" target="#health" weight="3224" />
+      <edge id="144" source="#Energy" target="#Sustainability" weight="3224" />
+      <edge id="145" source="#mammograms" target="#Hospital" weight="3224" />
+      <edge id="146" source="#healthbenefits" target="#275KOhioans" weight="3224" />
+      <edge id="147" source="#DonateLife" target="#Olympics" weight="3224" />
+      <edge id="148" source="#fightflu" target="#Flu" weight="3224" />
+      <edge id="149" source="#Immunization" target="#NIIW" weight="3224" />
+      <edge id="150" source="#ohsos" target="#Medicaid" weight="3224" />
+      <edge id="151" source="#ohsos" target="#Ohio" weight="3224" />
+      <edge id="152" source="#healthsystems" target="#hospitals" weight="3224" />
+      <edge id="153" source="#ohsots" target="#ohiomedicaid" weight="3224" />
+      <edge id="154" source="#Cleveland" target="#Cincinnati" weight="3224" />
+      <edge id="155" source="#Cleveland" target="#Columbus" weight="3224" />
+      <edge id="156" source="#AHAmtg" target="#stateoftherace" weight="3224" />
+      <edge id="157" source="#ACHE" target="#OHA100" weight="3224" />
+      <edge id="158" source="#TY" target="#PerioperativeNurses" weight="3224" />
+      <edge id="159" source="#Good4Baby" target="#HospitalHappenings" weight="3224" />
+      <edge id="160" source="#Good4Baby" target="#SafeSleep" weight="6448" />
+      <edge id="161" source="#Good4Baby" target="#safesleep" weight="9672" />
+      <edge id="162" source="#Healthcare" target="#FiscalCliff" weight="3224" />
+      <edge id="163" source="#Healthcare" target="#jobs" weight="3224" />
+      <edge id="164" source="#AdvanceCarePlanning" target="#AdvanceDirectivesWeek" weight="3224" />
+      <edge id="165" source="#PresidentialElection" target="#WednesdayWisdom" weight="3224" />
+      <edge id="166" source="#PresidentialElection" target="#vote" weight="3224" />
+      <edge id="167" source="#advancedirectives" target="#speak4me" weight="3224" />
+      <edge id="168" source="#2016PrimaryElection" target="#2016GenElection" weight="3224" />
+      <edge id="169" source="#2016PrimaryElection" target="#Ohio" weight="3224" />
+      <edge id="170" source="#EndOfLifeCare" target="#EOL" weight="9672" />
+      <edge id="171" source="#EndOfLifeCare" target="#ACP" weight="9672" />
+      <edge id="172" source="#EndOfLifeCare" target="#AdvanceDirectives" weight="6448" />
+      <edge id="173" source="#ENERGYSTARPOY" target="#OhioHospitals" weight="3224" />
+      <edge id="174" source="#patients" target="#HCSM" weight="3224" />
+      <edge id="175" source="#patients" target="#Hospitals" weight="3224" />
+      <edge id="176" source="#Medicaid" target="#education" weight="3224" />
+      <edge id="177" source="#Medicaid" target="#health4OH" weight="3224" />
+      <edge id="178" source="#Medicaid" target="#ACA" weight="3224" />
+      <edge id="179" source="#Medicaid" target="#hospitals" weight="9672" />
+      <edge id="180" source="#Medicaid" target="#Dayton" weight="3224" />
+      <edge id="181" source="#Medicaid" target="#OhioMedicaid" weight="6448" />
+      <edge id="182" source="#Medicaid" target="#Medicare" weight="16120" />
+      <edge id="183" source="#Medicaid" target="#Ohio" weight="22568" />
+      <edge id="184" source="#bullying" target="#GangUpForGood" weight="3224" />
+      <edge id="185" source="#ahanewsnow" target="#Medicare" weight="3224" />
+      <edge id="186" source="#MedicalMonday" target="#OHA100" weight="3224" />
+      <edge id="187" source="#HospitalHeroes" target="#HospitalWeek" weight="9672" />
+      <edge id="188" source="#HospitalHeroes" target="#HCWY" weight="177320" />
+      <edge id="189" source="#HospitalHeroes" target="#Thanks" weight="3224" />
+      <edge id="190" source="#HospitalHeroes" target="#OHA100" weight="177320" />
+      <edge id="191" source="#SCOTUS" target="#KingvBurwell" weight="3224" />
+      <edge id="192" source="#infantmortality" target="#HospitalHappenings" weight="3224" />
+      <edge id="193" source="#infantmortality" target="#SGHouseCalls" weight="3224" />
+      <edge id="194" source="#infantmortality" target="#SIDS" weight="3224" />
+      <edge id="195" source="#infantmortality" target="#good4baby" weight="16120" />
+      <edge id="196" source="#infantmortality" target="#Ohio" weight="3224" />
+      <edge id="197" source="#DomesticViolenceAwarenessMonth" target="#BreastCancerAwarenessMonth" weight="3224" />
+      <edge id="198" source="#Wellness" target="#Health" weight="3224" />
+      <edge id="199" source="#Wellness" target="#GoStover" weight="3224" />
+      <edge id="200" source="#allergy" target="#asthma" weight="3224" />
+      <edge id="201" source="#Flu" target="#GetAFluVax" weight="3224" />
+      <edge id="202" source="#Flu" target="#Ohio" weight="3224" />
+      <edge id="203" source="#WSD16" target="#Sepsis" weight="3224" />
+      <edge id="204" source="#NursesWeek" target="#HospitalWeek" weight="3224" />
+      <edge id="205" source="#NursesWeek" target="#qualitycare" weight="3224" />
+      <edge id="206" source="#DonateLifeMonth" target="#BlueGreenDay" weight="3224" />
+      <edge id="207" source="#ICYMI" target="#OhioHospitals" weight="3224" />
+      <edge id="208" source="#ICYMI" target="#InfantMortality" weight="3224" />
+      <edge id="209" source="#ICYMI" target="#sepsis" weight="3224" />
+      <edge id="210" source="#ofbf" target="#cmcforum" weight="3224" />
+      <edge id="211" source="#NationalHospitalWeek" target="#protectcare" weight="3224" />
+      <edge id="212" source="#patientexperience" target="#innovation" weight="3224" />
+      <edge id="213" source="#CLL" target="#News" weight="3224" />
+      <edge id="214" source="#504Plans" target="#diabetes" weight="3224" />
+      <edge id="215" source="#NIAM16" target="#HospitalHappenings" weight="6448" />
+      <edge id="216" source="#NIAM16" target="#VaxWithMe" weight="6448" />
+      <edge id="217" source="#PSAW2015" target="#ohiohospitals" weight="19344" />
+      <edge id="218" source="#PSAW2016" target="#Sepsis" weight="3224" />
+      <edge id="219" source="#PSAW2016" target="#PatientSafetyAwarenessWeek" weight="3224" />
+      <edge id="220" source="#PSAW2016" target="#sepsis" weight="6448" />
+      <edge id="221" source="#JamesCancerChat" target="#OSUCCC" weight="3224" />
+      <edge id="222" source="#WednesdayWisdom" target="#vote" weight="3224" />
+      <edge id="223" source="#MHW14" target="#MensHealthWeek" weight="3224" />
+      <edge id="224" source="#SmartRx" target="#RxProblem" weight="3224" />
+      <edge id="225" source="#addicition" target="#mentalhealth" weight="3224" />
+      <edge id="226" source="#nursing" target="#jobs" weight="3224" />
+      <edge id="227" source="#Telehealth" target="#AHA2015" weight="3224" />
+      <edge id="228" source="#Marketplace" target="#Ohio" weight="3224" />
+      <edge id="229" source="#ArborDay" target="#FactoidFriday" weight="3224" />
+      <edge id="230" source="#AHANewsnow" target="#RacTrac" weight="3224" />
+      <edge id="231" source="#health4OH" target="#Circle4Coverage" weight="3224" />
+      <edge id="232" source="#health4OH" target="#Ohio" weight="3224" />
+      <edge id="233" source="#vote" target="#ElectionDay" weight="3224" />
+      <edge id="234" source="#StopHospitalCuts" target="#qualitycare" weight="3224" />
+      <edge id="235" source="#OHAswingstate" target="#PulitzerPrize" weight="3224" />
+      <edge id="236" source="#p4p" target="#AHA2015" weight="3224" />
+      <edge id="237" source="#HealthIT" target="#EHR" weight="3224" />
+      <edge id="238" source="#HealthIT" target="#EHRs" weight="3224" />
+      <edge id="239" source="#ELR" target="#MU" weight="3224" />
+      <edge id="240" source="#TBT" target="#HCWY" weight="3224" />
+      <edge id="241" source="#TBT" target="#OHA100" weight="3224" />
+      <edge id="242" source="#Ohio" target="#Measles" weight="3224" />
+      <edge id="243" source="#Ohio" target="#Hospital" weight="3224" />
+      <edge id="244" source="#Ohio" target="#hospitals" weight="19344" />
+      <edge id="245" source="#Ohio" target="#smoking" weight="3224" />
+      <edge id="246" source="#Ohio" target="#AdvanceDirectives" weight="3224" />
+      <edge id="247" source="#Ohio" target="#marketplace" weight="3224" />
+      <edge id="248" source="#Ohio" target="#jobs" weight="6448" />
+      <edge id="249" source="#Ohio" target="#Jobs" weight="3224" />
+      <edge id="250" source="#Ohio" target="#emergenceypreparedness" weight="3224" />
+      <edge id="251" source="#Ohio" target="#stopdrugabuse" weight="3224" />
+      <edge id="252" source="#Ohio" target="#GetAFluVax" weight="3224" />
+      <edge id="253" source="#Ohio" target="#cmcforum" weight="3224" />
+      <edge id="254" source="#Ohio" target="#Hospitals" weight="12896" />
+      <edge id="255" source="#Ohio" target="#Quality" weight="9672" />
+      <edge id="256" source="#Ohio" target="#health" weight="6448" />
+      <edge id="257" source="#Ohio" target="#hcsm" weight="3224" />
+      <edge id="258" source="#Ohio" target="#quality" weight="3224" />
+      <edge id="259" source="#Ohio" target="#hospital" weight="3224" />
+      <edge id="260" source="#Ohio" target="#OHAAM" weight="3224" />
+      <edge id="261" source="#Ohio" target="#IT" weight="3224" />
+      <edge id="262" source="#Ohio" target="#HospitalHappenings" weight="3224" />
+      <edge id="263" source="#Ohio" target="#Medicare" weight="3224" />
+      <edge id="264" source="#Ohio" target="#OhioMedicaid" weight="3224" />
+      <edge id="265" source="#Autism" target="#HospitalHappenings" weight="3224" />
+      <edge id="266" source="#StPatricksDay" target="#green" weight="3224" />
+      <edge id="267" source="#hcr" target="#hospitals" weight="3224" />
+      <edge id="268" source="#hcr" target="#doctors" weight="3224" />
+      <edge id="269" source="#OH" target="#hospitals" weight="3224" />
+      <edge id="270" source="#backtoschool" target="#vaccines" weight="3224" />
+      <edge id="271" source="#OhioHospitals" target="#HospitalHappenings" weight="3224" />
+      <edge id="272" source="#OHA100" target="#HospitalWeek" weight="3224" />
+      <edge id="273" source="#OHA100" target="#Privacy" weight="3224" />
+      <edge id="274" source="#OHA100" target="#LeanerEnergy" weight="3224" />
+      <edge id="275" source="#OHA100" target="#AHA2015" weight="3224" />
+      <edge id="276" source="#OHA100" target="#Hospital" weight="3224" />
+      <edge id="277" source="#OHA100" target="#Security" weight="3224" />
+      <edge id="278" source="#OHA100" target="#HCWY" weight="174096" />
+      <edge id="279" source="#OHA100" target="#Dayton" weight="3224" />
+      <edge id="280" source="#hotelbreakers" target="#centennial" weight="3224" />
+      <edge id="281" source="#PSAW" target="#PatientSafety" weight="6448" />
+      <edge id="282" source="#hospital" target="#HospitalWeek" weight="6448" />
+      <edge id="283" source="#hospital" target="#jobs" weight="3224" />
+      <edge id="284" source="#hospital" target="#Toledo" weight="3224" />
+      <edge id="285" source="#hospital" target="#job" weight="3224" />
+      <edge id="286" source="#hospital" target="#fundraising" weight="3224" />
+      <edge id="287" source="#hospital" target="#DermaTherapy" weight="3224" />
+      <edge id="288" source="#hospital" target="#protectcare" weight="3224" />
+      <edge id="289" source="#safesleep" target="#HospitalHappenings" weight="3224" />
+      <edge id="290" source="#frog" target="#ohaam" weight="3224" />
+      <edge id="291" source="#IT" target="#hospitals" weight="3224" />
+      <edge id="292" source="#Cincinnati" target="#Columbus" weight="3224" />
+      <edge id="293" source="#mentalhealth" target="#HospitalHappenings" weight="3224" />
+      <edge id="294" source="#HeartofWestToledo" target="#HospitalHappenings" weight="3224" />
+      <edge id="295" source="#Privacy" target="#Security" weight="3224" />
+      <edge id="296" source="#Telemedicine" target="#Health" weight="3224" />
+      <edge id="297" source="#jobs" target="#data" weight="3224" />
+      <edge id="298" source="#jobs" target="#quality" weight="3224" />
+      <edge id="299" source="#jobs" target="#Hospitals" weight="3224" />
+      <edge id="300" source="#Measles" target="#Hospitals" weight="3224" />
+      <edge id="301" source="#Cdiff" target="#USAToday" weight="3224" />
+      <edge id="302" source="#Cardiology" target="#HospitalHappenings" weight="3224" />
+      <edge id="303" source="#data" target="#ambientintelligence" weight="3224" />
+      <edge id="304" source="#data" target="#quality" weight="6448" />
+      <edge id="305" source="#data" target="#OHAAM" weight="6448" />
+      <edge id="306" source="#data" target="#hospitals" weight="3224" />
+      <edge id="307" source="#fundraising" target="#Toledo" weight="3224" />
+      <edge id="308" source="#AdvanceDirectives" target="#ACP" weight="6448" />
+      <edge id="309" source="#AdvanceDirectives" target="#EOL" weight="6448" />
+      <edge id="310" source="#AdvanceDirectives" target="#sayyesohio" weight="3224" />
+      <edge id="311" source="#AdvanceDirectives" target="#eolchat" weight="3224" />
+      <edge id="312" source="#ambientintelligence" target="#OHAAM" weight="3224" />
+      <edge id="313" source="#CTTT2015" target="#ohiohospitals" weight="3224" />
+      <edge id="314" source="#quality" target="#ScrubUp" weight="3224" />
+      <edge id="315" source="#NPHW" target="#nursingschool" weight="3224" />
+      <edge id="316" source="#NPHW" target="#publichealth" weight="3224" />
+      <edge id="317" source="#WBWStories" target="#HospitalHappenings" weight="3224" />
+      <edge id="318" source="#WBWStories" target="#WBW2016" weight="3224" />
+      <edge id="319" source="#EOL" target="#ACP" weight="9672" />
+      <edge id="320" source="#healthIT" target="#EHR" weight="3224" />
+      <edge id="321" source="#epilepsy" target="#PurpleDay" weight="3224" />
+      <edge id="322" source="#fathcol" target="#socialmedia" weight="3224" />
+      <edge id="323" source="#275kOhioians" target="#OhioMedicaid" weight="3224" />
+      <edge id="324" source="#cmcforum" target="#health" weight="3224" />
+      <edge id="325" source="#digitalhealth" target="#3dprinting" weight="3224" />
+      <edge id="326" source="#areyoucoveredoh" target="#getcovered" weight="3224" />
+      <edge id="327" source="#alwaysready" target="#nationalhospitalweek" weight="3224" />
+      <edge id="328" source="#breastfeeding" target="#HospitalHappenings" weight="3224" />
+      <edge id="329" source="#education" target="#Medicare" weight="3224" />
+      <edge id="330" source="#uninsured" target="#Hospital" weight="3224" />
+      <edge id="331" source="#Diabetes" target="#PatientSafety" weight="3224" />
+      <edge id="332" source="#WBW2016" target="#HospitalHappenings" weight="3224" />
+      <edge id="333" source="#CancerResearch" target="#Pelotonia" weight="3224" />
+      <edge id="334" source="#hit" target="#hospitals" weight="3224" />
+      <edge id="335" source="#hit" target="#doctors" weight="3224" />
+      <edge id="336" source="#RACTrac" target="#Hospitals" weight="3224" />
+      <edge id="337" source="#medicaid" target="#medicare" weight="3224" />
+      <edge id="338" source="#aha2015" target="#Medicare" weight="3224" />
+      <edge id="339" source="#PreventPoison" target="#NPPW16" weight="3224" />
+      <edge id="340" source="#flu" target="#UnitedAgainstFlu" weight="6448" />
+      <edge id="341" source="#HospitalHappenings" target="#Hospital" weight="16120" />
+      <edge id="342" source="#HospitalHappenings" target="#Sepsis" weight="3224" />
+      <edge id="343" source="#HospitalHappenings" target="#Avon" weight="3224" />
+      <edge id="344" source="#HospitalHappenings" target="#diabetes" weight="6448" />
+      <edge id="345" source="#HospitalHappenings" target="#cancer" weight="3224" />
+      <edge id="346" source="#HospitalHappenings" target="#ClevelandClinicWay" weight="3224" />
+      <edge id="347" source="#HospitalHappenings" target="#Midwife" weight="3224" />
+      <edge id="348" source="#HospitalHappenings" target="#veterans" weight="3224" />
+      <edge id="349" source="#PR" target="#givingtuesday" weight="3224" />
+      <edge id="350" source="#PR" target="#OHAAM" weight="3224" />
+      <edge id="351" source="#HIMSS15" target="#HITsecurity" weight="3224" />
+      <edge id="352" source="#HospitalWeek" target="#Thanks" weight="6448" />
+      <edge id="353" source="#HospitalWeek" target="#MyHospital" weight="25792" />
+      <edge id="354" source="#HospitalWeek" target="#hospitals" weight="6448" />
+      <edge id="355" source="#health" target="#wellness" weight="6448" />
+      <edge id="356" source="#health" target="#HCSM" weight="3224" />
+      <edge id="357" source="#health" target="#vaccines" weight="3224" />
+      <edge id="358" source="#crossfire" target="#OHAAM" weight="3224" />
+      <edge id="359" source="#givingtuesday" target="#OHAAM" weight="3224" />
+      <edge id="360" source="#AHA2015" target="#MyHospital" weight="3224" />
+      <edge id="361" source="#Hospital" target="#HCWY" weight="3224" />
+      <edge id="362" source="#Hospital" target="#Midwife" weight="3224" />
+      <edge id="363" source="#Hospital" target="#SWOT" weight="3224" />
+      <edge id="364" source="#college" target="#BacktoSchool" weight="3224" />
+      <edge id="365" source="#HCSM" target="#Hospitals" weight="3224" />
+      <edge id="366" source="#hospitals" target="#Dayton" weight="3224" />
+      <edge id="367" source="#hospitals" target="#EarthDay" weight="3224" />
+      <edge id="368" source="#hospitals" target="#doctors" weight="6448" />
+      <edge id="369" source="#hospitals" target="#OHAAM" weight="3224" />
+      <edge id="370" source="#hospitals" target="#EHR" weight="3224" />
+      <edge id="371" source="#hospitals" target="#OhioMedicaid" weight="3224" />
+      <edge id="372" source="#Dayton" target="#EHR" weight="3224" />
+      <edge id="373" source="#OHAAM" target="#Quality" weight="3224" />
+      <edge id="374" source="#OHAAM" target="#KDMC" weight="3224" />
+      <edge id="375" source="#OHAAM" target="#HCWY" weight="6448" />
+      <edge id="376" source="#knowyourstatus" target="#NHTD" weight="3224" />
+      <edge id="377" source="#knowyourstatus" target="#CDCchat" weight="3224" />
+      <edge id="378" source="#sepsis" target="#AHAnewsnow" weight="3224" />
+      <edge id="379" source="#Quality" target="#Hospitals" weight="6448" />
+      <edge id="380" source="#travel" target="#wellness" weight="3224" />
+      <edge id="381" source="#Interactive" target="#CMS" weight="3224" />
+      <edge id="382" source="#Circle4Coverage" target="#Health4OH" weight="3224" />
+      <edge id="383" source="#Circle4Coverage" target="#275kOhioans" weight="6448" />
+      <edge id="384" source="#doctors" target="#EHR" weight="3224" />
+      <edge id="385" source="#HCWY" target="#HCWY" weight="6448" />
+      <edge id="386" source="#CMS" target="#HIPAA" weight="3224" />
+      <edge id="387" source="#MU" target="#EHR" weight="3224" />
+      <edge id="388" source="#Health4OH" target="#275kOhioans" weight="3224" />
+      <edge id="389" source="#Jobs" target="#Medicare" weight="3224" />
+      <edge id="390" source="#hcsm" target="#pinterest" weight="3224" />
+      <edge id="391" source="#NHTD" target="#CDCchat" weight="3224" />
+      <edge id="392" source="#EHR" target="#Medicare" weight="6448" />
+      <edge id="393" source="#SOTS" target="#Wilmington" weight="3224" />
+      <edge id="394" source="#ACA" target="#Medicare" weight="3224" />
+    </edges>
+  </graph>
+</gexf>

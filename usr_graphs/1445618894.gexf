@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Syria" label="#Syria" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#SFGProductions" label="#SFGProductions" />
+      <node id="#Russia" label="#Russia" />
+      <node id="#BeatLA" label="#BeatLA" />
+      <node id="#VoteBelt" label="#VoteBelt" />
+      <node id="#jokes" label="#jokes" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Syria" target="#Russia" weight="2927" />
+      <edge id="1" source="#MLB" target="#SFGiants" weight="2927" />
+      <edge id="2" source="#SFGiants" target="#SFGProductions" weight="2927" />
+      <edge id="3" source="#SFGiants" target="#jokes" weight="2927" />
+      <edge id="4" source="#BeatLA" target="#BeatLA" weight="17562" />
+      <edge id="5" source="#VoteBelt" target="#VoteBelt" weight="5854" />
+    </edges>
+  </graph>
+</gexf>

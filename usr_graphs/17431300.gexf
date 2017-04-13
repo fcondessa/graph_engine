@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ThisIsWholesome" label="#ThisIsWholesome" />
+      <node id="#turtleshell" label="#turtleshell" />
+      <node id="#bedroom" label="#bedroom" />
+      <node id="#sore" label="#sore" />
+      <node id="#freelance" label="#freelance" />
+      <node id="#userexperience" label="#userexperience" />
+      <node id="#UX" label="#UX" />
+      <node id="#Graphic" label="#Graphic" />
+      <node id="#Designer" label="#Designer" />
+      <node id="#truestory" label="#truestory" />
+      <node id="#stopmotion" label="#stopmotion" />
+      <node id="#userresearch" label="#userresearch" />
+      <node id="#tip" label="#tip" />
+      <node id="#django" label="#django" />
+      <node id="#silenttreatment" label="#silenttreatment" />
+      <node id="#unicorn" label="#unicorn" />
+      <node id="#home" label="#home" />
+      <node id="#lostdog" label="#lostdog" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#founddog" label="#founddog" />
+      <node id="#brights" label="#brights" />
+      <node id="#Microsoft" label="#Microsoft" />
+      <node id="#GiG" label="#GiG" />
+      <node id="#Indiana" label="#Indiana" />
+      <node id="#inspired" label="#inspired" />
+      <node id="#lowesfixinsix" label="#lowesfixinsix" />
+      <node id="#restorationhardware" label="#restorationhardware" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#congrats" label="#congrats" />
+      <node id="#nike" label="#nike" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ThisIsWholesome" target="#Indiana" weight="995" />
+      <edge id="1" source="#turtleshell" target="#silenttreatment" weight="995" />
+      <edge id="2" source="#bedroom" target="#home" weight="995" />
+      <edge id="3" source="#bedroom" target="#restorationhardware" weight="995" />
+      <edge id="4" source="#sore" target="#inspired" weight="995" />
+      <edge id="5" source="#freelance" target="#django" weight="995" />
+      <edge id="6" source="#userexperience" target="#userresearch" weight="995" />
+      <edge id="7" source="#userexperience" target="#UX" weight="995" />
+      <edge id="8" source="#UX" target="#userresearch" weight="995" />
+      <edge id="9" source="#Graphic" target="#Designer" weight="995" />
+      <edge id="10" source="#Graphic" target="#GiG" weight="995" />
+      <edge id="11" source="#Designer" target="#GiG" weight="995" />
+      <edge id="12" source="#truestory" target="#unicorn" weight="995" />
+      <edge id="13" source="#stopmotion" target="#lowesfixinsix" weight="995" />
+      <edge id="14" source="#stopmotion" target="#tip" weight="995" />
+      <edge id="15" source="#tip" target="#lowesfixinsix" weight="995" />
+      <edge id="16" source="#home" target="#restorationhardware" weight="995" />
+      <edge id="17" source="#lostdog" target="#founddog" weight="995" />
+      <edge id="18" source="#Apple" target="#Microsoft" weight="995" />
+      <edge id="19" source="#brights" target="#nike" weight="995" />
+      <edge id="20" source="#awesome" target="#congrats" weight="995" />
+    </edges>
+  </graph>
+</gexf>

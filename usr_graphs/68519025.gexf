@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#makena" label="#makena" />
+      <node id="#statedates" label="#statedates" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#paycheckfairness" label="#paycheckfairness" />
+      <node id="#pantsonfirecrown" label="#pantsonfirecrown" />
+      <node id="#policeweek" label="#policeweek" />
+      <node id="#communitycollege" label="#communitycollege" />
+      <node id="#YMCACampKern" label="#YMCACampKern" />
+      <node id="#GME" label="#GME" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#Bobcats" label="#Bobcats" />
+      <node id="#Stunned" label="#Stunned" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#NLS2016" label="#NLS2016" />
+      <node id="#bobbarrclassic" label="#bobbarrclassic" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#WAHHHH" label="#WAHHHH" />
+      <node id="#NAIAS" label="#NAIAS" />
+      <node id="#ohsen" label="#ohsen" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#NationalChampionship" label="#NationalChampionship" />
+      <node id="#AllInCLE" label="#AllInCLE" />
+      <node id="#middleclass" label="#middleclass" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#volt" label="#volt" />
+      <node id="#OHsen" label="#OHsen" />
+      <node id="#VeryCONCACAFFY" label="#VeryCONCACAFFY" />
+      <node id="#bluealert" label="#bluealert" />
+      <node id="#equalpay" label="#equalpay" />
+      <node id="#Shocked" label="#Shocked" />
+      <node id="#ohsenatedebate" label="#ohsenatedebate" />
+      <node id="#Braxton" label="#Braxton" />
+      <node id="#IdeaStream" label="#IdeaStream" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#DreamJamaicaMexicoMatchUp" label="#DreamJamaicaMexicoMatchUp" />
+      <node id="#LGBT" label="#LGBT" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#Trade" label="#Trade" />
+      <node id="#NationalAgDay" label="#NationalAgDay" />
+      <node id="#ClevelandCookie" label="#ClevelandCookie" />
+      <node id="#Health" label="#Health" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#DOTSmartCity" label="#DOTSmartCity" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#Ledbetter" label="#Ledbetter" />
+      <node id="#vintage" label="#vintage" />
+      <node id="#BucksvsDucks" label="#BucksvsDucks" />
+      <node id="#bowl" label="#bowl" />
+      <node id="#VA" label="#VA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#makena" target="#GME" weight="967" />
+      <edge id="1" source="#statedates" target="#SOTU" weight="967" />
+      <edge id="2" source="#jobs" target="#middleclass" weight="967" />
+      <edge id="3" source="#jobs" target="#manufacturing" weight="967" />
+      <edge id="4" source="#paycheckfairness" target="#equalpay" weight="967" />
+      <edge id="5" source="#paycheckfairness" target="#Ledbetter" weight="967" />
+      <edge id="6" source="#pantsonfirecrown" target="#ohsen" weight="967" />
+      <edge id="7" source="#policeweek" target="#bluealert" weight="967" />
+      <edge id="8" source="#communitycollege" target="#NLS2016" weight="967" />
+      <edge id="9" source="#YMCACampKern" target="#bobbarrclassic" weight="967" />
+      <edge id="10" source="#RNCinCLE" target="#IdeaStream" weight="967" />
+      <edge id="11" source="#Bobcats" target="#bowl" weight="967" />
+      <edge id="12" source="#Bobcats" target="#Ohio" weight="967" />
+      <edge id="13" source="#Stunned" target="#DreamJamaicaMexicoMatchUp" weight="967" />
+      <edge id="14" source="#Stunned" target="#Shocked" weight="967" />
+      <edge id="15" source="#Stunned" target="#VeryCONCACAFFY" weight="967" />
+      <edge id="16" source="#tbt" target="#vintage" weight="967" />
+      <edge id="17" source="#tbt" target="#AllInCLE" weight="967" />
+      <edge id="18" source="#OhioState" target="#GoBucks" weight="967" />
+      <edge id="19" source="#WAHHHH" target="#Braxton" weight="967" />
+      <edge id="20" source="#NAIAS" target="#volt" weight="967" />
+      <edge id="21" source="#OSU" target="#Buckeyes" weight="967" />
+      <edge id="22" source="#NationalChampionship" target="#BuckeyeNation" weight="967" />
+      <edge id="23" source="#NationalChampionship" target="#BucksvsDucks" weight="967" />
+      <edge id="24" source="#NationalChampionship" target="#GoBucks" weight="1934" />
+      <edge id="25" source="#middleclass" target="#manufacturing" weight="967" />
+      <edge id="26" source="#Ohio" target="#bowl" weight="967" />
+      <edge id="27" source="#OHsen" target="#ohsenatedebate" weight="967" />
+      <edge id="28" source="#VeryCONCACAFFY" target="#DreamJamaicaMexicoMatchUp" weight="967" />
+      <edge id="29" source="#VeryCONCACAFFY" target="#Shocked" weight="967" />
+      <edge id="30" source="#equalpay" target="#Ledbetter" weight="967" />
+      <edge id="31" source="#Shocked" target="#DreamJamaicaMexicoMatchUp" weight="967" />
+      <edge id="32" source="#BuckeyeNation" target="#BucksvsDucks" weight="967" />
+      <edge id="33" source="#BuckeyeNation" target="#GoBucks" weight="967" />
+      <edge id="34" source="#TBT" target="#NationalAgDay" weight="967" />
+      <edge id="35" source="#LGBT" target="#VA" weight="967" />
+      <edge id="36" source="#GoBucks" target="#BucksvsDucks" weight="967" />
+      <edge id="37" source="#Trade" target="#Health" weight="967" />
+      <edge id="38" source="#ClevelandCookie" target="#SOTU" weight="967" />
+      <edge id="39" source="#SmartColumbus" target="#DOTSmartCity" weight="967" />
+    </edges>
+  </graph>
+</gexf>

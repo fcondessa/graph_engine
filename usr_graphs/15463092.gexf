@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#mystics" label="#mystics" />
+      <node id="#Buechner" label="#Buechner" />
+      <node id="#allthesubtlefeels" label="#allthesubtlefeels" />
+      <node id="#lemonade" label="#lemonade" />
+      <node id="#midwest" label="#midwest" />
+      <node id="#citylife" label="#citylife" />
+      <node id="#homily" label="#homily" />
+      <node id="#TuesdayThoughts" label="#TuesdayThoughts" />
+      <node id="#saint" label="#saint" />
+      <node id="#dailymeditation" label="#dailymeditation" />
+      <node id="#broadchurch" label="#broadchurch" />
+      <node id="#holiday" label="#holiday" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#mystics" target="#dailymeditation" weight="1090" />
+      <edge id="1" source="#Buechner" target="#TuesdayThoughts" weight="1090" />
+      <edge id="2" source="#allthesubtlefeels" target="#broadchurch" weight="1090" />
+      <edge id="3" source="#lemonade" target="#citylife" weight="1090" />
+      <edge id="4" source="#midwest" target="#holiday" weight="1090" />
+      <edge id="5" source="#homily" target="#saint" weight="1090" />
+    </edges>
+  </graph>
+</gexf>

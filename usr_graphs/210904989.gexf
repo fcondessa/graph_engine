@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#natgas" label="#natgas" />
+      <node id="#RealEconomicBenefit" label="#RealEconomicBenefit" />
+      <node id="#gasoline" label="#gasoline" />
+      <node id="#lifttheban" label="#lifttheban" />
+      <node id="#Kasichbudget" label="#Kasichbudget" />
+      <node id="#CallB4UDig" label="#CallB4UDig" />
+      <node id="#crudeoil" label="#crudeoil" />
+      <node id="#emissions" label="#emissions" />
+      <node id="#export" label="#export" />
+      <node id="#ethanol" label="#ethanol" />
+      <node id="#utica" label="#utica" />
+      <node id="#safety" label="#safety" />
+      <node id="#LifttheBan" label="#LifttheBan" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#OH" label="#OH" />
+      <node id="#oil" label="#oil" />
+      <node id="#HappyBirthday" label="#HappyBirthday" />
+      <node id="#Utica" label="#Utica" />
+      <node id="#crudeoilexport" label="#crudeoilexport" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Methane" label="#Methane" />
+      <node id="#Gasoline" label="#Gasoline" />
+      <node id="#MakingOhioRicher" label="#MakingOhioRicher" />
+      <node id="#US" label="#US" />
+      <node id="#CO2" label="#CO2" />
+      <node id="#chemical" label="#chemical" />
+      <node id="#consumerssave" label="#consumerssave" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#NaturalGas" label="#NaturalGas" />
+      <node id="#Vote4Energy" label="#Vote4Energy" />
+      <node id="#KeystoneXL" label="#KeystoneXL" />
+      <node id="#KXL" label="#KXL" />
+      <node id="#energy" label="#energy" />
+      <node id="#PipelinesareLifelines" label="#PipelinesareLifelines" />
+      <node id="#HeyNow" label="#HeyNow" />
+      <node id="#MustWatch" label="#MustWatch" />
+      <node id="#exports" label="#exports" />
+      <node id="#fracking" label="#fracking" />
+      <node id="#vote4energy" label="#vote4energy" />
+      <node id="#natural" label="#natural" />
+      <node id="#VeteransDay" label="#VeteransDay" />
+      <node id="#LetsGetToWork" label="#LetsGetToWork" />
+      <node id="#AmericanEnergy" label="#AmericanEnergy" />
+      <node id="#GHG" label="#GHG" />
+      <node id="#crude" label="#crude" />
+      <node id="#nuclear" label="#nuclear" />
+      <node id="#FF" label="#FF" />
+      <node id="#SOAE2014" label="#SOAE2014" />
+      <node id="#ozone" label="#ozone" />
+      <node id="#oilgashistory" label="#oilgashistory" />
+      <node id="#THXfracking" label="#THXfracking" />
+      <node id="#POLITICOCaucus" label="#POLITICOCaucus" />
+      <node id="#Lifttheban" label="#Lifttheban" />
+      <node id="#Exports" label="#Exports" />
+      <node id="#RealEconomicImpact" label="#RealEconomicImpact" />
+      <node id="#EPA" label="#EPA" />
+      <node id="#Oil" label="#Oil" />
+      <node id="#811day" label="#811day" />
+      <node id="#Fracking" label="#Fracking" />
+      <node id="#shale" label="#shale" />
+      <node id="#AEO2014" label="#AEO2014" />
+      <node id="#LNG" label="#LNG" />
+      <node id="#energysecurity" label="#energysecurity" />
+      <node id="#FACT" label="#FACT" />
+      <node id="#naturalgas" label="#naturalgas" />
+      <node id="#USHouse" label="#USHouse" />
+      <node id="#oilandgas" label="#oilandgas" />
+      <node id="#pipeline" label="#pipeline" />
+      <node id="#Keystone" label="#Keystone" />
+      <node id="#consumerbenefits" label="#consumerbenefits" />
+      <node id="#DownDeepFilm" label="#DownDeepFilm" />
+      <node id="#Marcellus" label="#Marcellus" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#Ozone" label="#Ozone" />
+      <node id="#Shale" label="#Shale" />
+      <node id="#ShaleGas" label="#ShaleGas" />
+      <node id="#coal" label="#coal" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#natgas" target="#emissions" weight="258" />
+      <edge id="1" source="#natgas" target="#Methane" weight="258" />
+      <edge id="2" source="#natgas" target="#SOAE2014" weight="258" />
+      <edge id="3" source="#natgas" target="#CO2" weight="258" />
+      <edge id="4" source="#RealEconomicBenefit" target="#oil" weight="258" />
+      <edge id="5" source="#RealEconomicBenefit" target="#naturalgas" weight="258" />
+      <edge id="6" source="#RealEconomicBenefit" target="#MakingOhioRicher" weight="258" />
+      <edge id="7" source="#gasoline" target="#US" weight="258" />
+      <edge id="8" source="#gasoline" target="#crudeoilexport" weight="258" />
+      <edge id="9" source="#lifttheban" target="#USHouse" weight="774" />
+      <edge id="10" source="#lifttheban" target="#crudeoil" weight="5418" />
+      <edge id="11" source="#lifttheban" target="#exports" weight="258" />
+      <edge id="12" source="#lifttheban" target="#energy" weight="258" />
+      <edge id="13" source="#lifttheban" target="#OH" weight="3096" />
+      <edge id="14" source="#lifttheban" target="#Congress" weight="774" />
+      <edge id="15" source="#lifttheban" target="#Ohio" weight="258" />
+      <edge id="16" source="#Kasichbudget" target="#energy" weight="258" />
+      <edge id="17" source="#CallB4UDig" target="#Ohio" weight="258" />
+      <edge id="18" source="#crudeoil" target="#USHouse" weight="774" />
+      <edge id="19" source="#crudeoil" target="#energy" weight="258" />
+      <edge id="20" source="#crudeoil" target="#Congress" weight="516" />
+      <edge id="21" source="#crudeoil" target="#OH" weight="3096" />
+      <edge id="22" source="#crudeoil" target="#Ohio" weight="516" />
+      <edge id="23" source="#emissions" target="#Methane" weight="258" />
+      <edge id="24" source="#emissions" target="#US" weight="258" />
+      <edge id="25" source="#emissions" target="#oilandgas" weight="258" />
+      <edge id="26" source="#export" target="#oil" weight="258" />
+      <edge id="27" source="#ethanol" target="#EPA" weight="258" />
+      <edge id="28" source="#ethanol" target="#Gasoline" weight="258" />
+      <edge id="29" source="#utica" target="#shale" weight="516" />
+      <edge id="30" source="#utica" target="#naturalgas" weight="258" />
+      <edge id="31" source="#utica" target="#energy" weight="258" />
+      <edge id="32" source="#utica" target="#Ohio" weight="258" />
+      <edge id="33" source="#safety" target="#811day" weight="258" />
+      <edge id="34" source="#LifttheBan" target="#Oil" weight="258" />
+      <edge id="35" source="#LifttheBan" target="#Exports" weight="258" />
+      <edge id="36" source="#RNCinCLE" target="#POLITICOCaucus" weight="258" />
+      <edge id="37" source="#RNCinCLE" target="#vote4energy" weight="258" />
+      <edge id="38" source="#OH" target="#shale" weight="258" />
+      <edge id="39" source="#oil" target="#MakingOhioRicher" weight="258" />
+      <edge id="40" source="#oil" target="#CO2" weight="258" />
+      <edge id="41" source="#oil" target="#nuclear" weight="258" />
+      <edge id="42" source="#oil" target="#HappyBirthday" weight="258" />
+      <edge id="43" source="#oil" target="#naturalgas" weight="516" />
+      <edge id="44" source="#oil" target="#Energy" weight="258" />
+      <edge id="45" source="#oil" target="#RealEconomicImpact" weight="258" />
+      <edge id="46" source="#oil" target="#fracking" weight="258" />
+      <edge id="47" source="#oil" target="#AEO2014" weight="258" />
+      <edge id="48" source="#oil" target="#natural" weight="258" />
+      <edge id="49" source="#oil" target="#coal" weight="258" />
+      <edge id="50" source="#Utica" target="#Shale" weight="516" />
+      <edge id="51" source="#Utica" target="#Marcellus" weight="258" />
+      <edge id="52" source="#Utica" target="#shale" weight="258" />
+      <edge id="53" source="#crudeoilexport" target="#US" weight="258" />
+      <edge id="54" source="#Ohio" target="#Ozone" weight="258" />
+      <edge id="55" source="#Ohio" target="#shale" weight="516" />
+      <edge id="56" source="#Ohio" target="#exports" weight="258" />
+      <edge id="57" source="#Ohio" target="#Oil" weight="258" />
+      <edge id="58" source="#Ohio" target="#Fracking" weight="258" />
+      <edge id="59" source="#Ohio" target="#Shale" weight="258" />
+      <edge id="60" source="#Ohio" target="#oilandgas" weight="258" />
+      <edge id="61" source="#MakingOhioRicher" target="#naturalgas" weight="258" />
+      <edge id="62" source="#US" target="#oilandgas" weight="258" />
+      <edge id="63" source="#CO2" target="#nuclear" weight="258" />
+      <edge id="64" source="#CO2" target="#SOAE2014" weight="258" />
+      <edge id="65" source="#CO2" target="#naturalgas" weight="258" />
+      <edge id="66" source="#CO2" target="#Energy" weight="258" />
+      <edge id="67" source="#CO2" target="#HeyNow" weight="258" />
+      <edge id="68" source="#CO2" target="#fracking" weight="258" />
+      <edge id="69" source="#CO2" target="#AEO2014" weight="258" />
+      <edge id="70" source="#CO2" target="#coal" weight="258" />
+      <edge id="71" source="#chemical" target="#SOAE2014" weight="258" />
+      <edge id="72" source="#chemical" target="#ShaleGas" weight="258" />
+      <edge id="73" source="#consumerssave" target="#THXfracking" weight="258" />
+      <edge id="74" source="#consumerssave" target="#energy" weight="258" />
+      <edge id="75" source="#EarthDay" target="#shale" weight="258" />
+      <edge id="76" source="#NaturalGas" target="#FF" weight="258" />
+      <edge id="77" source="#NaturalGas" target="#Oil" weight="516" />
+      <edge id="78" source="#Vote4Energy" target="#Energy" weight="258" />
+      <edge id="79" source="#KeystoneXL" target="#energysecurity" weight="258" />
+      <edge id="80" source="#KeystoneXL" target="#FACT" weight="258" />
+      <edge id="81" source="#KXL" target="#LetsGetToWork" weight="258" />
+      <edge id="82" source="#KXL" target="#PipelinesareLifelines" weight="258" />
+      <edge id="83" source="#KXL" target="#GHG" weight="258" />
+      <edge id="84" source="#KXL" target="#SOAE2014" weight="258" />
+      <edge id="85" source="#KXL" target="#pipeline" weight="258" />
+      <edge id="86" source="#KXL" target="#Keystone" weight="258" />
+      <edge id="87" source="#energy" target="#THXfracking" weight="258" />
+      <edge id="88" source="#energy" target="#naturalgas" weight="258" />
+      <edge id="89" source="#energy" target="#shale" weight="516" />
+      <edge id="90" source="#HeyNow" target="#fracking" weight="258" />
+      <edge id="91" source="#MustWatch" target="#DownDeepFilm" weight="258" />
+      <edge id="92" source="#exports" target="#Oil" weight="258" />
+      <edge id="93" source="#fracking" target="#POLITICOCaucus" weight="258" />
+      <edge id="94" source="#fracking" target="#RealEconomicImpact" weight="258" />
+      <edge id="95" source="#fracking" target="#consumerbenefits" weight="258" />
+      <edge id="96" source="#fracking" target="#natural" weight="258" />
+      <edge id="97" source="#vote4energy" target="#POLITICOCaucus" weight="258" />
+      <edge id="98" source="#natural" target="#RealEconomicImpact" weight="258" />
+      <edge id="99" source="#VeteransDay" target="#oilgashistory" weight="258" />
+      <edge id="100" source="#LetsGetToWork" target="#GHG" weight="258" />
+      <edge id="101" source="#AmericanEnergy" target="#Shale" weight="258" />
+      <edge id="102" source="#crude" target="#Lifttheban" weight="258" />
+      <edge id="103" source="#crude" target="#oilandgas" weight="258" />
+      <edge id="104" source="#nuclear" target="#naturalgas" weight="258" />
+      <edge id="105" source="#nuclear" target="#Energy" weight="258" />
+      <edge id="106" source="#nuclear" target="#AEO2014" weight="258" />
+      <edge id="107" source="#nuclear" target="#coal" weight="258" />
+      <edge id="108" source="#FF" target="#Oil" weight="258" />
+      <edge id="109" source="#SOAE2014" target="#ShaleGas" weight="258" />
+      <edge id="110" source="#ozone" target="#EPA" weight="516" />
+      <edge id="111" source="#Lifttheban" target="#oilandgas" weight="258" />
+      <edge id="112" source="#Exports" target="#Oil" weight="258" />
+      <edge id="113" source="#EPA" target="#Ozone" weight="258" />
+      <edge id="114" source="#Fracking" target="#Energy" weight="258" />
+      <edge id="115" source="#shale" target="#LNG" weight="258" />
+      <edge id="116" source="#shale" target="#naturalgas" weight="258" />
+      <edge id="117" source="#AEO2014" target="#naturalgas" weight="258" />
+      <edge id="118" source="#AEO2014" target="#Energy" weight="258" />
+      <edge id="119" source="#AEO2014" target="#coal" weight="258" />
+      <edge id="120" source="#naturalgas" target="#Energy" weight="258" />
+      <edge id="121" source="#naturalgas" target="#coal" weight="258" />
+      <edge id="122" source="#Energy" target="#coal" weight="258" />
+    </edges>
+  </graph>
+</gexf>

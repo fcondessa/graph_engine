@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#Bengals" label="#Bengals" />
+      <node id="#Browns" label="#Browns" />
+      <node id="#HockeyFightsCancer" label="#HockeyFightsCancer" />
+      <node id="#cbju14" label="#cbju14" />
+      <node id="#championship" label="#championship" />
+      <node id="#StrangeBrew" label="#StrangeBrew" />
+      <node id="#BPTW" label="#BPTW" />
+      <node id="#MidAm" label="#MidAm" />
+      <node id="#usahockey" label="#usahockey" />
+      <node id="#MidAmhockey" label="#MidAmhockey" />
+      <node id="#americashowcase" label="#americashowcase" />
+      <node id="#CBFBeerBiz" label="#CBFBeerBiz" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#NHLDraft" label="#NHLDraft" />
+      <node id="#HappyMothersDay" label="#HappyMothersDay" />
+      <node id="#U18WWC" label="#U18WWC" />
+      <node id="#MyTeam" label="#MyTeam" />
+      <node id="#BreastCancerAwareness" label="#BreastCancerAwareness" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#SharingCourage" label="#SharingCourage" />
+      <node id="#cbj" label="#cbj" />
+      <node id="#MidAmU19" label="#MidAmU19" />
+      <node id="#ColumbusZoo" label="#ColumbusZoo" />
+      <node id="#yumbo" label="#yumbo" />
+      <node id="#Wisconsin" label="#Wisconsin" />
+      <node id="#conspiracy" label="#conspiracy" />
+      <node id="#Steelers" label="#Steelers" />
+      <node id="#USA" label="#USA" />
+      <node id="#CBJHFC" label="#CBJHFC" />
+      <node id="#cbus" label="#cbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OhioState" target="#yumbo" weight="207" />
+      <edge id="1" source="#Bengals" target="#Steelers" weight="207" />
+      <edge id="2" source="#Bengals" target="#Browns" weight="207" />
+      <edge id="3" source="#Browns" target="#Steelers" weight="207" />
+      <edge id="4" source="#HockeyFightsCancer" target="#CBJ" weight="207" />
+      <edge id="5" source="#HockeyFightsCancer" target="#CBJHFC" weight="207" />
+      <edge id="6" source="#cbju14" target="#cbj" weight="207" />
+      <edge id="7" source="#championship" target="#americashowcase" weight="207" />
+      <edge id="8" source="#championship" target="#MidAmU19" weight="207" />
+      <edge id="9" source="#StrangeBrew" target="#NHLAllStar" weight="207" />
+      <edge id="10" source="#BPTW" target="#MyTeam" weight="207" />
+      <edge id="11" source="#MidAm" target="#Wisconsin" weight="414" />
+      <edge id="12" source="#usahockey" target="#Wisconsin" weight="207" />
+      <edge id="13" source="#usahockey" target="#MidAmhockey" weight="207" />
+      <edge id="14" source="#MidAmhockey" target="#Wisconsin" weight="207" />
+      <edge id="15" source="#americashowcase" target="#MidAmU19" weight="207" />
+      <edge id="16" source="#CBFBeerBiz" target="#cbus" weight="207" />
+      <edge id="17" source="#CBJ" target="#NHLAllStar" weight="414" />
+      <edge id="18" source="#CBJ" target="#CBJHFC" weight="207" />
+      <edge id="19" source="#NHLDraft" target="#conspiracy" weight="207" />
+      <edge id="20" source="#HappyMothersDay" target="#ColumbusZoo" weight="207" />
+      <edge id="21" source="#U18WWC" target="#USA" weight="207" />
+      <edge id="22" source="#BreastCancerAwareness" target="#SharingCourage" weight="207" />
+    </edges>
+  </graph>
+</gexf>

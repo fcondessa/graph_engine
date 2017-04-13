@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NBA" label="#NBA" />
+      <node id="#Larryisawesome" label="#Larryisawesome" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Braves" label="#Braves" />
+      <node id="#BattleOfTheBallparks" label="#BattleOfTheBallparks" />
+      <node id="#HeatNation" label="#HeatNation" />
+      <node id="#Wow" label="#Wow" />
+      <node id="#hungry" label="#hungry" />
+      <node id="#BullDawgsreppin" label="#BullDawgsreppin" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#VoteATTPark" label="#VoteATTPark" />
+      <node id="#ToysForTots" label="#ToysForTots" />
+      <node id="#MontaEllis" label="#MontaEllis" />
+      <node id="#readytoball" label="#readytoball" />
+      <node id="#WeAreTheChampions" label="#WeAreTheChampions" />
+      <node id="#warriors" label="#warriors" />
+      <node id="#JesusShuttlesworth" label="#JesusShuttlesworth" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NBA" target="#MontaEllis" weight="1570" />
+      <edge id="1" source="#NBA" target="#Warriors" weight="1570" />
+      <edge id="2" source="#Larryisawesome" target="#BullDawgsreppin" weight="1570" />
+      <edge id="3" source="#SFGiants" target="#Braves" weight="1570" />
+      <edge id="4" source="#SFGiants" target="#WeAreTheChampions" weight="1570" />
+      <edge id="5" source="#SFGiants" target="#VoteATTPark" weight="1570" />
+      <edge id="6" source="#SFGiants" target="#BattleOfTheBallparks" weight="1570" />
+      <edge id="7" source="#BattleOfTheBallparks" target="#VoteATTPark" weight="1570" />
+      <edge id="8" source="#HeatNation" target="#Wow" weight="1570" />
+      <edge id="9" source="#HeatNation" target="#JesusShuttlesworth" weight="1570" />
+      <edge id="10" source="#Wow" target="#JesusShuttlesworth" weight="1570" />
+      <edge id="11" source="#hungry" target="#readytoball" weight="1570" />
+      <edge id="12" source="#Warriors" target="#MontaEllis" weight="1570" />
+      <edge id="13" source="#Warriors" target="#ToysForTots" weight="1570" />
+      <edge id="14" source="#Warriors" target="#warriors" weight="1570" />
+    </edges>
+  </graph>
+</gexf>

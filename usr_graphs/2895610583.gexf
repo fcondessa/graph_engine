@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OGDE2015" label="#OGDE2015" />
+      <node id="#twitchtv" label="#twitchtv" />
+      <node id="#GameDev" label="#GameDev" />
+      <node id="#indiegame" label="#indiegame" />
+      <node id="#Unreal" label="#Unreal" />
+      <node id="#spherecomplex" label="#spherecomplex" />
+      <node id="#greenlit" label="#greenlit" />
+      <node id="#ue4" label="#ue4" />
+      <node id="#kinect" label="#kinect" />
+      <node id="#gamedevs" label="#gamedevs" />
+      <node id="#Screenshotsaturday" label="#Screenshotsaturday" />
+      <node id="#vr" label="#vr" />
+      <node id="#Indiedev" label="#Indiedev" />
+      <node id="#Allar2016" label="#Allar2016" />
+      <node id="#ue4jam" label="#ue4jam" />
+      <node id="#indiegames" label="#indiegames" />
+      <node id="#screenshotsaturday" label="#screenshotsaturday" />
+      <node id="#leapmotion" label="#leapmotion" />
+      <node id="#Greenlight" label="#Greenlight" />
+      <node id="#steampowered" label="#steampowered" />
+      <node id="#greenlight" label="#greenlight" />
+      <node id="#WindowsYesEditor" label="#WindowsYesEditor" />
+      <node id="#ColumbusOhio" label="#ColumbusOhio" />
+      <node id="#unrealengine" label="#unrealengine" />
+      <node id="#unrealdev" label="#unrealdev" />
+      <node id="#gamedev" label="#gamedev" />
+      <node id="#macosx" label="#macosx" />
+      <node id="#gdex2016" label="#gdex2016" />
+      <node id="#Oculus" label="#Oculus" />
+      <node id="#EpicMegaJam" label="#EpicMegaJam" />
+      <node id="#ODGE2015" label="#ODGE2015" />
+      <node id="#SphereComplex" label="#SphereComplex" />
+      <node id="#osx" label="#osx" />
+      <node id="#IndieDev" label="#IndieDev" />
+      <node id="#UE4" label="#UE4" />
+      <node id="#UnrealEngine" label="#UnrealEngine" />
+      <node id="#Gamedev" label="#Gamedev" />
+      <node id="#TwitchTV" label="#TwitchTV" />
+      <node id="#indiedev" label="#indiedev" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OGDE2015" target="#indiedev" weight="170" />
+      <edge id="1" source="#OGDE2015" target="#ue4" weight="170" />
+      <edge id="2" source="#OGDE2015" target="#unrealdev" weight="170" />
+      <edge id="3" source="#OGDE2015" target="#SphereComplex" weight="170" />
+      <edge id="4" source="#OGDE2015" target="#Greenlight" weight="170" />
+      <edge id="5" source="#twitchtv" target="#indiedev" weight="680" />
+      <edge id="6" source="#twitchtv" target="#UnrealEngine" weight="340" />
+      <edge id="7" source="#twitchtv" target="#UE4" weight="340" />
+      <edge id="8" source="#twitchtv" target="#SphereComplex" weight="170" />
+      <edge id="9" source="#twitchtv" target="#gamedev" weight="170" />
+      <edge id="10" source="#GameDev" target="#IndieDev" weight="170" />
+      <edge id="11" source="#GameDev" target="#TwitchTV" weight="170" />
+      <edge id="12" source="#GameDev" target="#UE4" weight="340" />
+      <edge id="13" source="#GameDev" target="#Unreal" weight="170" />
+      <edge id="14" source="#indiegame" target="#indiedev" weight="170" />
+      <edge id="15" source="#indiegame" target="#unrealengine" weight="170" />
+      <edge id="16" source="#indiegame" target="#EpicMegaJam" weight="170" />
+      <edge id="17" source="#indiegame" target="#unrealdev" weight="170" />
+      <edge id="18" source="#indiegame" target="#WindowsYesEditor" weight="170" />
+      <edge id="19" source="#Unreal" target="#TwitchTV" weight="170" />
+      <edge id="20" source="#spherecomplex" target="#indiedev" weight="170" />
+      <edge id="21" source="#spherecomplex" target="#UE4" weight="170" />
+      <edge id="22" source="#spherecomplex" target="#ue4" weight="170" />
+      <edge id="23" source="#spherecomplex" target="#unrealdev" weight="170" />
+      <edge id="24" source="#spherecomplex" target="#osx" weight="170" />
+      <edge id="25" source="#greenlit" target="#indiedev" weight="170" />
+      <edge id="26" source="#greenlit" target="#ue4" weight="170" />
+      <edge id="27" source="#greenlit" target="#steampowered" weight="170" />
+      <edge id="28" source="#ue4" target="#gdex2016" weight="170" />
+      <edge id="29" source="#ue4" target="#kinect" weight="170" />
+      <edge id="30" source="#ue4" target="#vr" weight="340" />
+      <edge id="31" source="#ue4" target="#unrealdev" weight="850" />
+      <edge id="32" source="#ue4" target="#gamedev" weight="850" />
+      <edge id="33" source="#ue4" target="#indiedev" weight="850" />
+      <edge id="34" source="#ue4" target="#macosx" weight="170" />
+      <edge id="35" source="#ue4" target="#leapmotion" weight="340" />
+      <edge id="36" source="#ue4" target="#SphereComplex" weight="170" />
+      <edge id="37" source="#ue4" target="#steampowered" weight="170" />
+      <edge id="38" source="#ue4" target="#Oculus" weight="170" />
+      <edge id="39" source="#gamedevs" target="#indiedev" weight="170" />
+      <edge id="40" source="#gamedevs" target="#ColumbusOhio" weight="170" />
+      <edge id="41" source="#gamedevs" target="#gamedev" weight="170" />
+      <edge id="42" source="#Screenshotsaturday" target="#Indiedev" weight="170" />
+      <edge id="43" source="#Screenshotsaturday" target="#UE4" weight="170" />
+      <edge id="44" source="#Screenshotsaturday" target="#Gamedev" weight="170" />
+      <edge id="45" source="#vr" target="#leapmotion" weight="340" />
+      <edge id="46" source="#vr" target="#unrealdev" weight="170" />
+      <edge id="47" source="#Indiedev" target="#UE4" weight="170" />
+      <edge id="48" source="#Indiedev" target="#SphereComplex" weight="170" />
+      <edge id="49" source="#Indiedev" target="#Gamedev" weight="340" />
+      <edge id="50" source="#Allar2016" target="#ue4jam" weight="170" />
+      <edge id="51" source="#ue4jam" target="#indiedev" weight="170" />
+      <edge id="52" source="#ue4jam" target="#unrealdev" weight="170" />
+      <edge id="53" source="#ue4jam" target="#gamedev" weight="170" />
+      <edge id="54" source="#indiegames" target="#indiedev" weight="170" />
+      <edge id="55" source="#screenshotsaturday" target="#UE4" weight="170" />
+      <edge id="56" source="#leapmotion" target="#unrealdev" weight="170" />
+      <edge id="57" source="#Greenlight" target="#SphereComplex" weight="170" />
+      <edge id="58" source="#steampowered" target="#indiedev" weight="170" />
+      <edge id="59" source="#greenlight" target="#UE4" weight="170" />
+      <edge id="60" source="#greenlight" target="#gamedev" weight="170" />
+      <edge id="61" source="#WindowsYesEditor" target="#indiedev" weight="170" />
+      <edge id="62" source="#WindowsYesEditor" target="#unrealengine" weight="170" />
+      <edge id="63" source="#WindowsYesEditor" target="#EpicMegaJam" weight="170" />
+      <edge id="64" source="#WindowsYesEditor" target="#unrealdev" weight="170" />
+      <edge id="65" source="#ColumbusOhio" target="#indiedev" weight="170" />
+      <edge id="66" source="#ColumbusOhio" target="#gamedev" weight="170" />
+      <edge id="67" source="#unrealengine" target="#indiedev" weight="170" />
+      <edge id="68" source="#unrealengine" target="#unrealdev" weight="170" />
+      <edge id="69" source="#unrealengine" target="#gamedev" weight="170" />
+      <edge id="70" source="#unrealengine" target="#EpicMegaJam" weight="170" />
+      <edge id="71" source="#unrealdev" target="#gamedev" weight="340" />
+      <edge id="72" source="#unrealdev" target="#indiedev" weight="1700" />
+      <edge id="73" source="#unrealdev" target="#UE4" weight="170" />
+      <edge id="74" source="#unrealdev" target="#SphereComplex" weight="340" />
+      <edge id="75" source="#unrealdev" target="#EpicMegaJam" weight="170" />
+      <edge id="76" source="#unrealdev" target="#ODGE2015" weight="170" />
+      <edge id="77" source="#gamedev" target="#UE4" weight="850" />
+      <edge id="78" source="#gamedev" target="#indiedev" weight="1020" />
+      <edge id="79" source="#gamedev" target="#macosx" weight="170" />
+      <edge id="80" source="#gamedev" target="#Oculus" weight="170" />
+      <edge id="81" source="#gamedev" target="#SphereComplex" weight="340" />
+      <edge id="82" source="#macosx" target="#SphereComplex" weight="170" />
+      <edge id="83" source="#gdex2016" target="#indiedev" weight="170" />
+      <edge id="84" source="#EpicMegaJam" target="#indiedev" weight="170" />
+      <edge id="85" source="#ODGE2015" target="#indiedev" weight="170" />
+      <edge id="86" source="#SphereComplex" target="#UE4" weight="340" />
+      <edge id="87" source="#SphereComplex" target="#UnrealEngine" weight="170" />
+      <edge id="88" source="#SphereComplex" target="#indiedev" weight="850" />
+      <edge id="89" source="#SphereComplex" target="#Gamedev" weight="170" />
+      <edge id="90" source="#osx" target="#UE4" weight="170" />
+      <edge id="91" source="#IndieDev" target="#UE4" weight="170" />
+      <edge id="92" source="#UE4" target="#indiedev" weight="850" />
+      <edge id="93" source="#UE4" target="#Gamedev" weight="170" />
+      <edge id="94" source="#UnrealEngine" target="#indiedev" weight="340" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ECS" label="#ECS" />
+      <node id="#Bosh" label="#Bosh" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#Stmarysgaels" label="#Stmarysgaels" />
+      <node id="#ufc118" label="#ufc118" />
+      <node id="#ipad3" label="#ipad3" />
+      <node id="#ipad2" label="#ipad2" />
+      <node id="#ipad7" label="#ipad7" />
+      <node id="#Broncos" label="#Broncos" />
+      <node id="#ipad5" label="#ipad5" />
+      <node id="#ipad4" label="#ipad4" />
+      <node id="#kings" label="#kings" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#awkwardinterview" label="#awkwardinterview" />
+      <node id="#Raiders" label="#Raiders" />
+      <node id="#grammys" label="#grammys" />
+      <node id="#NLCS" label="#NLCS" />
+      <node id="#warriors" label="#warriors" />
+      <node id="#AlDavis" label="#AlDavis" />
+      <node id="#arcoarena" label="#arcoarena" />
+      <node id="#powerbalancepavillion" label="#powerbalancepavillion" />
+      <node id="#MVP" label="#MVP" />
+      <node id="#LeBron" label="#LeBron" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#lost" label="#lost" />
+      <node id="#mlb" label="#mlb" />
+      <node id="#winning" label="#winning" />
+      <node id="#biff" label="#biff" />
+      <node id="#patriots" label="#patriots" />
+      <node id="#classauctionlawsuit" label="#classauctionlawsuit" />
+      <node id="#summerconcerts" label="#summerconcerts" />
+      <node id="#latenight" label="#latenight" />
+      <node id="#tigerblood" label="#tigerblood" />
+      <node id="#marchmadness" label="#marchmadness" />
+      <node id="#sjquakes" label="#sjquakes" />
+      <node id="#Sounders" label="#Sounders" />
+      <node id="#nflplayoffs" label="#nflplayoffs" />
+      <node id="#onlyonewillbeleft" label="#onlyonewillbeleft" />
+      <node id="#MLS" label="#MLS" />
+      <node id="#emmys10" label="#emmys10" />
+      <node id="#Wade" label="#Wade" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ECS" target="#Sounders" weight="460" />
+      <edge id="1" source="#Bosh" target="#LeBron" weight="460" />
+      <edge id="2" source="#Bosh" target="#Wade" weight="460" />
+      <edge id="3" source="#sfgiants" target="#summerconcerts" weight="460" />
+      <edge id="4" source="#sfgiants" target="#awkwardinterview" weight="460" />
+      <edge id="5" source="#Stmarysgaels" target="#marchmadness" weight="460" />
+      <edge id="6" source="#ufc118" target="#lost" weight="460" />
+      <edge id="7" source="#ufc118" target="#emmys10" weight="460" />
+      <edge id="8" source="#ipad3" target="#ipad2" weight="460" />
+      <edge id="9" source="#ipad3" target="#ipad7" weight="460" />
+      <edge id="10" source="#ipad3" target="#ipad5" weight="460" />
+      <edge id="11" source="#ipad3" target="#ipad4" weight="460" />
+      <edge id="12" source="#ipad2" target="#ipad7" weight="460" />
+      <edge id="13" source="#ipad2" target="#ipad5" weight="920" />
+      <edge id="14" source="#ipad2" target="#ipad4" weight="460" />
+      <edge id="15" source="#ipad7" target="#ipad5" weight="460" />
+      <edge id="16" source="#ipad7" target="#ipad4" weight="460" />
+      <edge id="17" source="#Broncos" target="#49ers" weight="460" />
+      <edge id="18" source="#ipad5" target="#ipad4" weight="460" />
+      <edge id="19" source="#kings" target="#powerbalancepavillion" weight="460" />
+      <edge id="20" source="#kings" target="#classauctionlawsuit" weight="460" />
+      <edge id="21" source="#kings" target="#arcoarena" weight="460" />
+      <edge id="22" source="#Raiders" target="#AlDavis" weight="460" />
+      <edge id="23" source="#grammys" target="#warriors" weight="460" />
+      <edge id="24" source="#NLCS" target="#SFGiants" weight="460" />
+      <edge id="25" source="#arcoarena" target="#powerbalancepavillion" weight="460" />
+      <edge id="26" source="#arcoarena" target="#classauctionlawsuit" weight="460" />
+      <edge id="27" source="#powerbalancepavillion" target="#classauctionlawsuit" weight="460" />
+      <edge id="28" source="#MVP" target="#MLS" weight="460" />
+      <edge id="29" source="#LeBron" target="#Wade" weight="460" />
+      <edge id="30" source="#lost" target="#emmys10" weight="460" />
+      <edge id="31" source="#mlb" target="#sjquakes" weight="460" />
+      <edge id="32" source="#winning" target="#latenight" weight="460" />
+      <edge id="33" source="#winning" target="#tigerblood" weight="460" />
+      <edge id="34" source="#biff" target="#onlyonewillbeleft" weight="460" />
+      <edge id="35" source="#biff" target="#nflplayoffs" weight="460" />
+      <edge id="36" source="#patriots" target="#nflplayoffs" weight="460" />
+      <edge id="37" source="#latenight" target="#tigerblood" weight="460" />
+      <edge id="38" source="#nflplayoffs" target="#onlyonewillbeleft" weight="920" />
+    </edges>
+  </graph>
+</gexf>

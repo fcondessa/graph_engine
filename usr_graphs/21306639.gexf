@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#OSHA" label="#OSHA" />
+      <node id="#reciperedux" label="#reciperedux" />
+      <node id="#sanitation" label="#sanitation" />
+      <node id="#Work" label="#Work" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#success" label="#success" />
+      <node id="#workplacestress" label="#workplacestress" />
+      <node id="#summer" label="#summer" />
+      <node id="#OSHAcampus" label="#OSHAcampus" />
+      <node id="#economy" label="#economy" />
+      <node id="#LeadFromWithin" label="#LeadFromWithin" />
+      <node id="#Careers" label="#Careers" />
+      <node id="#Safety" label="#Safety" />
+      <node id="#Purpose" label="#Purpose" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#leads" label="#leads" />
+      <node id="#Email" label="#Email" />
+      <node id="#book" label="#book" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#contentmarketing" label="#contentmarketing" />
+      <node id="#traffic" label="#traffic" />
+      <node id="#Failure" label="#Failure" />
+      <node id="#nap" label="#nap" />
+      <node id="#baseball" label="#baseball" />
+      <node id="#WorldToiletDay" label="#WorldToiletDay" />
+      <node id="#stroke" label="#stroke" />
+      <node id="#relax" label="#relax" />
+      <node id="#Smallbiz" label="#Smallbiz" />
+      <node id="#teachertips" label="#teachertips" />
+      <node id="#saas" label="#saas" />
+      <node id="#Business" label="#Business" />
+      <node id="#windpower" label="#windpower" />
+      <node id="#Aging" label="#Aging" />
+      <node id="#MayoClinicRadio" label="#MayoClinicRadio" />
+      <node id="#DBJ40u40" label="#DBJ40u40" />
+      <node id="#SocialMediaMarketing" label="#SocialMediaMarketing" />
+      <node id="#firesafety" label="#firesafety" />
+      <node id="#risk" label="#risk" />
+      <node id="#Resilient" label="#Resilient" />
+      <node id="#Habits" label="#Habits" />
+      <node id="#recipe" label="#recipe" />
+      <node id="#goals" label="#goals" />
+      <node id="#Happy" label="#Happy" />
+      <node id="#Entrepreneur" label="#Entrepreneur" />
+      <node id="#Persistence" label="#Persistence" />
+      <node id="#running" label="#running" />
+      <node id="#HealthyFood" label="#HealthyFood" />
+      <node id="#ServiceTechnician" label="#ServiceTechnician" />
+      <node id="#employeeengagement" label="#employeeengagement" />
+      <node id="#Integrity" label="#Integrity" />
+      <node id="#sleep" label="#sleep" />
+      <node id="#ForOurHearts" label="#ForOurHearts" />
+      <node id="#KY" label="#KY" />
+      <node id="#SMM" label="#SMM" />
+      <node id="#mktg" label="#mktg" />
+      <node id="#Career" label="#Career" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#Trust" label="#Trust" />
+      <node id="#DigitalMarketing" label="#DigitalMarketing" />
+      <node id="#forkliftsafety" label="#forkliftsafety" />
+      <node id="#survivor" label="#survivor" />
+      <node id="#heatindex" label="#heatindex" />
+      <node id="#healthy" label="#healthy" />
+      <node id="#SafetyTip" label="#SafetyTip" />
+      <node id="#collaboration" label="#collaboration" />
+      <node id="#safetyfirst" label="#safetyfirst" />
+      <node id="#LeadWithTrust" label="#LeadWithTrust" />
+      <node id="#DaytonProud" label="#DaytonProud" />
+      <node id="#OSUWexMed" label="#OSUWexMed" />
+      <node id="#Freedom" label="#Freedom" />
+      <node id="#Inspiration" label="#Inspiration" />
+      <node id="#Reds" label="#Reds" />
+      <node id="#employees" label="#employees" />
+      <node id="#windenergy" label="#windenergy" />
+      <node id="#workplace" label="#workplace" />
+      <node id="#healthandsafety" label="#healthandsafety" />
+      <node id="#youth" label="#youth" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#Wellness" label="#Wellness" />
+      <node id="#NationalStressAwarenessDay" label="#NationalStressAwarenessDay" />
+      <node id="#workplacesafety" label="#workplacesafety" />
+      <node id="#iamthecompetition" label="#iamthecompetition" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#morning" label="#morning" />
+      <node id="#handprotection" label="#handprotection" />
+      <node id="#Focus" label="#Focus" />
+      <node id="#HeatStress" label="#HeatStress" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#Motivation" label="#Motivation" />
+      <node id="#asbestossafety" label="#asbestossafety" />
+      <node id="#Construction" label="#Construction" />
+      <node id="#CDL" label="#CDL" />
+      <node id="#tips" label="#tips" />
+      <node id="#Distractions" label="#Distractions" />
+      <node id="#businesstips" label="#businesstips" />
+      <node id="#Slack" label="#Slack" />
+      <node id="#recharge" label="#recharge" />
+      <node id="#HR" label="#HR" />
+      <node id="#HealthyLiving" label="#HealthyLiving" />
+      <node id="#growthhacker" label="#growthhacker" />
+      <node id="#Morning" label="#Morning" />
+      <node id="#Discipline" label="#Discipline" />
+      <node id="#Leadership" label="#Leadership" />
+      <node id="#wecanfixthat" label="#wecanfixthat" />
+      <node id="#dyk" label="#dyk" />
+      <node id="#career" label="#career" />
+      <node id="#fats" label="#fats" />
+      <node id="#Stroke" label="#Stroke" />
+      <node id="#lifehacks" label="#lifehacks" />
+      <node id="#Zikavirus" label="#Zikavirus" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#Ebola" label="#Ebola" />
+      <node id="#OH" label="#OH" />
+      <node id="#WearRedDay" label="#WearRedDay" />
+      <node id="#plumber" label="#plumber" />
+      <node id="#HeartHealthMonth" label="#HeartHealthMonth" />
+      <node id="#WorthIt" label="#WorthIt" />
+      <node id="#mind" label="#mind" />
+      <node id="#OpeningDay" label="#OpeningDay" />
+      <node id="#sales" label="#sales" />
+      <node id="#teamwork" label="#teamwork" />
+      <node id="#Deal" label="#Deal" />
+      <node id="#videos" label="#videos" />
+      <node id="#IN" label="#IN" />
+      <node id="#Health" label="#Health" />
+      <node id="#Sobriety" label="#Sobriety" />
+      <node id="#renew" label="#renew" />
+      <node id="#AI" label="#AI" />
+      <node id="#architecture" label="#architecture" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#hyperloop" label="#hyperloop" />
+      <node id="#confinedspaces" label="#confinedspaces" />
+      <node id="#foodie" label="#foodie" />
+      <node id="#HealthyDiet" label="#HealthyDiet" />
+      <node id="#workerscomp" label="#workerscomp" />
+      <node id="#technology" label="#technology" />
+      <node id="#FastFacts" label="#FastFacts" />
+      <node id="#body" label="#body" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#Recovery" label="#Recovery" />
+      <node id="#hustle" label="#hustle" />
+      <node id="#parenting" label="#parenting" />
+      <node id="#asbestos" label="#asbestos" />
+      <node id="#Optimism" label="#Optimism" />
+      <node id="#Confidence" label="#Confidence" />
+      <node id="#quote" label="#quote" />
+      <node id="#Cincy" label="#Cincy" />
+      <node id="#hearthealty" label="#hearthealty" />
+      <node id="#40under40" label="#40under40" />
+      <node id="#Economy" label="#Economy" />
+      <node id="#HulkSMASH" label="#HulkSMASH" />
+      <node id="#bullyingawareness" label="#bullyingawareness" />
+      <node id="#Success" label="#Success" />
+      <node id="#Balance" label="#Balance" />
+      <node id="#stress" label="#stress" />
+      <node id="#HeatSafety" label="#HeatSafety" />
+      <node id="#HealthyEating" label="#HealthyEating" />
+      <node id="#collaborate" label="#collaborate" />
+      <node id="#SLCEHS" label="#SLCEHS" />
+      <node id="#sugar" label="#sugar" />
+      <node id="#smallbusinesses" label="#smallbusinesses" />
+      <node id="#MTtalk" label="#MTtalk" />
+      <node id="#Busy" label="#Busy" />
+      <node id="#content" label="#content" />
+      <node id="#climatechange" label="#climatechange" />
+      <node id="#divein" label="#divein" />
+      <node id="#SocialSelling" label="#SocialSelling" />
+      <node id="#Fitness" label="#Fitness" />
+      <node id="#Youngstown" label="#Youngstown" />
+      <node id="#kids" label="#kids" />
+      <node id="#health" label="#health" />
+      <node id="#infrastructure" label="#infrastructure" />
+      <node id="#dreams" label="#dreams" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#PokemonGo" label="#PokemonGo" />
+      <node id="#MensHealth" label="#MensHealth" />
+      <node id="#construction" label="#construction" />
+      <node id="#CX" label="#CX" />
+      <node id="#Goals" label="#Goals" />
+      <node id="#healthtips" label="#healthtips" />
+      <node id="#PPE" label="#PPE" />
+      <node id="#NationalSandwichDay" label="#NationalSandwichDay" />
+      <node id="#specialneeds" label="#specialneeds" />
+      <node id="#safety" label="#safety" />
+      <node id="#thanksgiving" label="#thanksgiving" />
+      <node id="#recipes" label="#recipes" />
+      <node id="#spon" label="#spon" />
+      <node id="#CEO" label="#CEO" />
+      <node id="#HandsOnlyCPR" label="#HandsOnlyCPR" />
+      <node id="#addiction" label="#addiction" />
+      <node id="#Positivity" label="#Positivity" />
+      <node id="#yummy" label="#yummy" />
+      <node id="#Growth" label="#Growth" />
+      <node id="#fireprevention" label="#fireprevention" />
+      <node id="#GoodToKnow" label="#GoodToKnow" />
+      <node id="#transportation" label="#transportation" />
+      <node id="#Winter" label="#Winter" />
+      <node id="#fallprotection" label="#fallprotection" />
+      <node id="#video" label="#video" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#business" label="#business" />
+      <node id="#PROMiXX" label="#PROMiXX" />
+      <node id="#concussion" label="#concussion" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#Plumbers" label="#Plumbers" />
+      <node id="#child" label="#child" />
+      <node id="#COP21" label="#COP21" />
+      <node id="#digitalmarketing" label="#digitalmarketing" />
+      <node id="#negotiate" label="#negotiate" />
+      <node id="#techtrends" label="#techtrends" />
+      <node id="#eyeprotection" label="#eyeprotection" />
+      <node id="#Youth" label="#Youth" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#HealthTips" label="#HealthTips" />
+      <node id="#NoExcuses" label="#NoExcuses" />
+      <node id="#lifestyle" label="#lifestyle" />
+      <node id="#Tips" label="#Tips" />
+      <node id="#Stress" label="#Stress" />
+      <node id="#productivity" label="#productivity" />
+      <node id="#soup" label="#soup" />
+      <node id="#climate" label="#climate" />
+      <node id="#Dreams" label="#Dreams" />
+      <node id="#blog" label="#blog" />
+      <node id="#toilets" label="#toilets" />
+      <node id="#Diet" label="#Diet" />
+      <node id="#hearthealthy" label="#hearthealthy" />
+      <node id="#cheerstoart" label="#cheerstoart" />
+      <node id="#Authentic" label="#Authentic" />
+      <node id="#toilet" label="#toilet" />
+      <node id="#Avengers" label="#Avengers" />
+      <node id="#conflict" label="#conflict" />
+      <node id="#winter" label="#winter" />
+      <node id="#talentedartist" label="#talentedartist" />
+      <node id="#LIFT" label="#LIFT" />
+      <node id="#KnowYourRisk" label="#KnowYourRisk" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#startup" label="#startup" />
+      <node id="#sjf" label="#sjf" />
+      <node id="#chickenlittle" label="#chickenlittle" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#writer" label="#writer" />
+      <node id="#occupationalstress" label="#occupationalstress" />
+      <node id="#Ads" label="#Ads" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#WhatYouNeedToKnow" label="#WhatYouNeedToKnow" />
+      <node id="#Recipe" label="#Recipe" />
+      <node id="#personalgrowth" label="#personalgrowth" />
+      <node id="#customerservice" label="#customerservice" />
+      <node id="#Happiness" label="#Happiness" />
+      <node id="#SafetyFirstAlwaysFirst" label="#SafetyFirstAlwaysFirst" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#heartattack" label="#heartattack" />
+      <node id="#careers" label="#careers" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#BTRTG" label="#BTRTG" />
+      <node id="#Mindset" label="#Mindset" />
+      <node id="#HeartMini" label="#HeartMini" />
+      <node id="#CVDaily" label="#CVDaily" />
+      <node id="#plumbers" label="#plumbers" />
+      <node id="#Management" label="#Management" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OhioState" target="#LIFT" weight="3225" />
+      <edge id="1" source="#OSHA" target="#eyeprotection" weight="3225" />
+      <edge id="2" source="#OSHA" target="#NoExcuses" weight="3225" />
+      <edge id="3" source="#OSHA" target="#construction" weight="3225" />
+      <edge id="4" source="#OSHA" target="#safety" weight="6450" />
+      <edge id="5" source="#OSHA" target="#webinar" weight="3225" />
+      <edge id="6" source="#reciperedux" target="#foodie" weight="6450" />
+      <edge id="7" source="#reciperedux" target="#Recipe" weight="9675" />
+      <edge id="8" source="#reciperedux" target="#delicious" weight="3225" />
+      <edge id="9" source="#reciperedux" target="#hearthealthy" weight="3225" />
+      <edge id="10" source="#reciperedux" target="#hearthealty" weight="3225" />
+      <edge id="11" source="#sanitation" target="#WorldToiletDay" weight="3225" />
+      <edge id="12" source="#sanitation" target="#toilets" weight="3225" />
+      <edge id="13" source="#Work" target="#Success" weight="3225" />
+      <edge id="14" source="#SEO" target="#SMM" weight="3225" />
+      <edge id="15" source="#SEO" target="#CX" weight="3225" />
+      <edge id="16" source="#SEO" target="#DigitalMarketing" weight="3225" />
+      <edge id="17" source="#SEO" target="#Management" weight="3225" />
+      <edge id="18" source="#SEO" target="#Marketing" weight="3225" />
+      <edge id="19" source="#SEO" target="#SocialMedia" weight="3225" />
+      <edge id="20" source="#success" target="#Resilient" weight="3225" />
+      <edge id="21" source="#success" target="#hustle" weight="3225" />
+      <edge id="22" source="#success" target="#motivation" weight="3225" />
+      <edge id="23" source="#success" target="#Growth" weight="6450" />
+      <edge id="24" source="#success" target="#Morning" weight="3225" />
+      <edge id="25" source="#success" target="#HeartMini" weight="3225" />
+      <edge id="26" source="#workplacestress" target="#occupationalstress" weight="3225" />
+      <edge id="27" source="#summer" target="#heatindex" weight="3225" />
+      <edge id="28" source="#summer" target="#safety" weight="3225" />
+      <edge id="29" source="#OSHAcampus" target="#SafetyTip" weight="3225" />
+      <edge id="30" source="#economy" target="#construction" weight="3225" />
+      <edge id="31" source="#economy" target="#jobs" weight="3225" />
+      <edge id="32" source="#LeadFromWithin" target="#Leadership" weight="22575" />
+      <edge id="33" source="#Careers" target="#ServiceTechnician" weight="3225" />
+      <edge id="34" source="#Safety" target="#NoExcuses" weight="3225" />
+      <edge id="35" source="#Safety" target="#Leadership" weight="3225" />
+      <edge id="36" source="#Safety" target="#SLCEHS" weight="3225" />
+      <edge id="37" source="#Purpose" target="#Success" weight="22575" />
+      <edge id="38" source="#leadership" target="#smallbiz" weight="3225" />
+      <edge id="39" source="#leads" target="#contentmarketing" weight="3225" />
+      <edge id="40" source="#Email" target="#Marketing" weight="3225" />
+      <edge id="41" source="#book" target="#Leadership" weight="6450" />
+      <edge id="42" source="#heartdisease" target="#nap" weight="3225" />
+      <edge id="43" source="#heartdisease" target="#sleep" weight="3225" />
+      <edge id="44" source="#heartdisease" target="#healthtips" weight="3225" />
+      <edge id="45" source="#heartdisease" target="#risk" weight="3225" />
+      <edge id="46" source="#traffic" target="#CEO" weight="3225" />
+      <edge id="47" source="#Failure" target="#Persistence" weight="6450" />
+      <edge id="48" source="#Failure" target="#Growth" weight="6450" />
+      <edge id="49" source="#Failure" target="#Success" weight="6450" />
+      <edge id="50" source="#nap" target="#healthtips" weight="3225" />
+      <edge id="51" source="#nap" target="#sleep" weight="3225" />
+      <edge id="52" source="#baseball" target="#OpeningDay" weight="3225" />
+      <edge id="53" source="#WorldToiletDay" target="#toilet" weight="3225" />
+      <edge id="54" source="#WorldToiletDay" target="#toilets" weight="3225" />
+      <edge id="55" source="#stroke" target="#ForOurHearts" weight="6450" />
+      <edge id="56" source="#relax" target="#renew" weight="3225" />
+      <edge id="57" source="#relax" target="#recharge" weight="3225" />
+      <edge id="58" source="#relax" target="#WorthIt" weight="3225" />
+      <edge id="59" source="#relax" target="#Tips" weight="3225" />
+      <edge id="60" source="#relax" target="#Wellness" weight="3225" />
+      <edge id="61" source="#Smallbiz" target="#Leadership" weight="3225" />
+      <edge id="62" source="#teachertips" target="#bullyingawareness" weight="3225" />
+      <edge id="63" source="#saas" target="#startup" weight="3225" />
+      <edge id="64" source="#saas" target="#Marketing" weight="3225" />
+      <edge id="65" source="#saas" target="#growthhacker" weight="3225" />
+      <edge id="66" source="#Business" target="#Leadership" weight="12900" />
+      <edge id="67" source="#Business" target="#Management" weight="3225" />
+      <edge id="68" source="#windpower" target="#windenergy" weight="3225" />
+      <edge id="69" source="#Aging" target="#Growth" weight="3225" />
+      <edge id="70" source="#Aging" target="#Youth" weight="3225" />
+      <edge id="71" source="#Aging" target="#Health" weight="3225" />
+      <edge id="72" source="#MayoClinicRadio" target="#holiday" weight="3225" />
+      <edge id="73" source="#DBJ40u40" target="#40under40" weight="3225" />
+      <edge id="74" source="#SocialMediaMarketing" target="#Facebook" weight="3225" />
+      <edge id="75" source="#SocialMediaMarketing" target="#digitalmarketing" weight="3225" />
+      <edge id="76" source="#firesafety" target="#fireprevention" weight="3225" />
+      <edge id="77" source="#Resilient" target="#Growth" weight="3225" />
+      <edge id="78" source="#Habits" target="#Growth" weight="3225" />
+      <edge id="79" source="#Habits" target="#Success" weight="9675" />
+      <edge id="80" source="#recipe" target="#healthy" weight="3225" />
+      <edge id="81" source="#recipe" target="#delicious" weight="3225" />
+      <edge id="82" source="#recipe" target="#hearthealthy" weight="3225" />
+      <edge id="83" source="#recipe" target="#yummy" weight="3225" />
+      <edge id="84" source="#recipe" target="#soup" weight="3225" />
+      <edge id="85" source="#goals" target="#personalgrowth" weight="3225" />
+      <edge id="86" source="#Happy" target="#Positivity" weight="3225" />
+      <edge id="87" source="#Happy" target="#Success" weight="6450" />
+      <edge id="88" source="#Happy" target="#Optimism" weight="6450" />
+      <edge id="89" source="#Happy" target="#Balance" weight="6450" />
+      <edge id="90" source="#Happy" target="#Growth" weight="6450" />
+      <edge id="91" source="#Entrepreneur" target="#Entrepreneur" weight="6450" />
+      <edge id="92" source="#Entrepreneur" target="#Leadership" weight="3225" />
+      <edge id="93" source="#Persistence" target="#Growth" weight="6450" />
+      <edge id="94" source="#Persistence" target="#Success" weight="6450" />
+      <edge id="95" source="#running" target="#safety" weight="3225" />
+      <edge id="96" source="#HealthyFood" target="#HealthTips" weight="3225" />
+      <edge id="97" source="#employeeengagement" target="#LeadWithTrust" weight="3225" />
+      <edge id="98" source="#Integrity" target="#LeadWithTrust" weight="3225" />
+      <edge id="99" source="#sleep" target="#healthtips" weight="3225" />
+      <edge id="100" source="#ForOurHearts" target="#CVDaily" weight="3225" />
+      <edge id="101" source="#ForOurHearts" target="#Recipe" weight="3225" />
+      <edge id="102" source="#ForOurHearts" target="#Youngstown" weight="3225" />
+      <edge id="103" source="#ForOurHearts" target="#lifehacks" weight="3225" />
+      <edge id="104" source="#ForOurHearts" target="#HandsOnlyCPR" weight="3225" />
+      <edge id="105" source="#KY" target="#OH" weight="3225" />
+      <edge id="106" source="#KY" target="#Career" weight="3225" />
+      <edge id="107" source="#KY" target="#IN" weight="3225" />
+      <edge id="108" source="#SMM" target="#CX" weight="3225" />
+      <edge id="109" source="#SMM" target="#DigitalMarketing" weight="3225" />
+      <edge id="110" source="#SMM" target="#Management" weight="3225" />
+      <edge id="111" source="#SMM" target="#Marketing" weight="3225" />
+      <edge id="112" source="#SMM" target="#SocialMedia" weight="3225" />
+      <edge id="113" source="#mktg" target="#BTRTG" weight="3225" />
+      <edge id="114" source="#mktg" target="#customerservice" weight="3225" />
+      <edge id="115" source="#mktg" target="#businesstips" weight="3225" />
+      <edge id="116" source="#Career" target="#OH" weight="3225" />
+      <edge id="117" source="#Career" target="#IN" weight="3225" />
+      <edge id="118" source="#marketing" target="#content" weight="3225" />
+      <edge id="119" source="#Trust" target="#LeadWithTrust" weight="3225" />
+      <edge id="120" source="#DigitalMarketing" target="#CX" weight="3225" />
+      <edge id="121" source="#DigitalMarketing" target="#Management" weight="3225" />
+      <edge id="122" source="#DigitalMarketing" target="#Marketing" weight="3225" />
+      <edge id="123" source="#DigitalMarketing" target="#SocialMedia" weight="3225" />
+      <edge id="124" source="#forkliftsafety" target="#safety" weight="3225" />
+      <edge id="125" source="#survivor" target="#Cincy" weight="3225" />
+      <edge id="126" source="#survivor" target="#Stroke" weight="3225" />
+      <edge id="127" source="#healthy" target="#Recipe" weight="3225" />
+      <edge id="128" source="#healthy" target="#soup" weight="3225" />
+      <edge id="129" source="#collaboration" target="#teamwork" weight="3225" />
+      <edge id="130" source="#safetyfirst" target="#healthandsafety" weight="3225" />
+      <edge id="131" source="#DaytonProud" target="#HulkSMASH" weight="3225" />
+      <edge id="132" source="#OSUWexMed" target="#tips" weight="3225" />
+      <edge id="133" source="#Freedom" target="#Growth" weight="3225" />
+      <edge id="134" source="#Freedom" target="#Discipline" weight="3225" />
+      <edge id="135" source="#Freedom" target="#Balance" weight="3225" />
+      <edge id="136" source="#Inspiration" target="#Growth" weight="6450" />
+      <edge id="137" source="#Inspiration" target="#Success" weight="6450" />
+      <edge id="138" source="#Reds" target="#WhatYouNeedToKnow" weight="3225" />
+      <edge id="139" source="#employees" target="#videos" weight="3225" />
+      <edge id="140" source="#workplace" target="#safety" weight="6450" />
+      <edge id="141" source="#youth" target="#concussion" weight="3225" />
+      <edge id="142" source="#Wellness" target="#renew" weight="3225" />
+      <edge id="143" source="#Wellness" target="#recharge" weight="3225" />
+      <edge id="144" source="#Wellness" target="#WorthIt" weight="3225" />
+      <edge id="145" source="#Wellness" target="#Tips" weight="3225" />
+      <edge id="146" source="#NationalStressAwarenessDay" target="#stress" weight="3225" />
+      <edge id="147" source="#workplacesafety" target="#Leadership" weight="3225" />
+      <edge id="148" source="#iamthecompetition" target="#spon" weight="6450" />
+      <edge id="149" source="#entrepreneurship" target="#Leadership" weight="3225" />
+      <edge id="150" source="#entrepreneurship" target="#businesstips" weight="3225" />
+      <edge id="151" source="#morning" target="#productivity" weight="3225" />
+      <edge id="152" source="#handprotection" target="#safety" weight="3225" />
+      <edge id="153" source="#Focus" target="#Distractions" weight="6450" />
+      <edge id="154" source="#Focus" target="#Success" weight="6450" />
+      <edge id="155" source="#Focus" target="#Growth" weight="6450" />
+      <edge id="156" source="#HeatStress" target="#HeatSafety" weight="3225" />
+      <edge id="157" source="#HeatStress" target="#FastFacts" weight="3225" />
+      <edge id="158" source="#Motivation" target="#Success" weight="16125" />
+      <edge id="159" source="#asbestossafety" target="#asbestos" weight="3225" />
+      <edge id="160" source="#Construction" target="#Economy" weight="3225" />
+      <edge id="161" source="#CDL" target="#Cincinnati" weight="3225" />
+      <edge id="162" source="#tips" target="#kids" weight="3225" />
+      <edge id="163" source="#Distractions" target="#Growth" weight="6450" />
+      <edge id="164" source="#Distractions" target="#Success" weight="6450" />
+      <edge id="165" source="#businesstips" target="#techtrends" weight="3225" />
+      <edge id="166" source="#businesstips" target="#customerservice" weight="3225" />
+      <edge id="167" source="#businesstips" target="#BTRTG" weight="3225" />
+      <edge id="168" source="#businesstips" target="#Leadership" weight="3225" />
+      <edge id="169" source="#Slack" target="#AI" weight="3225" />
+      <edge id="170" source="#recharge" target="#Tips" weight="3225" />
+      <edge id="171" source="#recharge" target="#renew" weight="3225" />
+      <edge id="172" source="#recharge" target="#WorthIt" weight="3225" />
+      <edge id="173" source="#HR" target="#Leadership" weight="16125" />
+      <edge id="174" source="#HealthyLiving" target="#HealthyDiet" weight="3225" />
+      <edge id="175" source="#HealthyLiving" target="#Diet" weight="3225" />
+      <edge id="176" source="#HealthyLiving" target="#HealthyEating" weight="3225" />
+      <edge id="177" source="#HealthyLiving" target="#Deal" weight="3225" />
+      <edge id="178" source="#growthhacker" target="#Marketing" weight="3225" />
+      <edge id="179" source="#Morning" target="#Growth" weight="3225" />
+      <edge id="180" source="#Discipline" target="#Growth" weight="3225" />
+      <edge id="181" source="#Discipline" target="#Balance" weight="3225" />
+      <edge id="182" source="#Leadership" target="#quote" weight="12900" />
+      <edge id="183" source="#Leadership" target="#Success" weight="3225" />
+      <edge id="184" source="#Leadership" target="#Management" weight="9675" />
+      <edge id="185" source="#Leadership" target="#SLCEHS" weight="3225" />
+      <edge id="186" source="#Leadership" target="#Growth" weight="3225" />
+      <edge id="187" source="#Leadership" target="#Mindset" weight="3225" />
+      <edge id="188" source="#wecanfixthat" target="#cheerstoart" weight="3225" />
+      <edge id="189" source="#wecanfixthat" target="#talentedartist" weight="3225" />
+      <edge id="190" source="#dyk" target="#heartattack" weight="3225" />
+      <edge id="191" source="#career" target="#construction" weight="3225" />
+      <edge id="192" source="#fats" target="#healthtips" weight="3225" />
+      <edge id="193" source="#Stroke" target="#Cincy" weight="3225" />
+      <edge id="194" source="#Zikavirus" target="#Ebola" weight="3225" />
+      <edge id="195" source="#delicious" target="#Recipe" weight="3225" />
+      <edge id="196" source="#delicious" target="#hearthealthy" weight="3225" />
+      <edge id="197" source="#OH" target="#IN" weight="3225" />
+      <edge id="198" source="#WearRedDay" target="#HeartHealthMonth" weight="3225" />
+      <edge id="199" source="#plumber" target="#careers" weight="3225" />
+      <edge id="200" source="#WorthIt" target="#Tips" weight="3225" />
+      <edge id="201" source="#WorthIt" target="#renew" weight="3225" />
+      <edge id="202" source="#mind" target="#body" weight="3225" />
+      <edge id="203" source="#sales" target="#SocialSelling" weight="3225" />
+      <edge id="204" source="#sales" target="#smallbusinesses" weight="3225" />
+      <edge id="205" source="#Deal" target="#HealthyEating" weight="3225" />
+      <edge id="206" source="#Deal" target="#Diet" weight="3225" />
+      <edge id="207" source="#Health" target="#Growth" weight="3225" />
+      <edge id="208" source="#Health" target="#Youth" weight="3225" />
+      <edge id="209" source="#Sobriety" target="#Recovery" weight="3225" />
+      <edge id="210" source="#renew" target="#Tips" weight="3225" />
+      <edge id="211" source="#architecture" target="#infrastructure" weight="3225" />
+      <edge id="212" source="#hyperloop" target="#transportation" weight="3225" />
+      <edge id="213" source="#confinedspaces" target="#safety" weight="3225" />
+      <edge id="214" source="#foodie" target="#Recipe" weight="6450" />
+      <edge id="215" source="#foodie" target="#hearthealty" weight="3225" />
+      <edge id="216" source="#workerscomp" target="#health" weight="3225" />
+      <edge id="217" source="#technology" target="#collaborate" weight="3225" />
+      <edge id="218" source="#FastFacts" target="#HeatSafety" weight="3225" />
+      <edge id="219" source="#jobs" target="#construction" weight="3225" />
+      <edge id="220" source="#hustle" target="#motivation" weight="3225" />
+      <edge id="221" source="#hustle" target="#HeartMini" weight="3225" />
+      <edge id="222" source="#parenting" target="#specialneeds" weight="3225" />
+      <edge id="223" source="#parenting" target="#SocialMedia" weight="3225" />
+      <edge id="224" source="#Optimism" target="#Growth" weight="3225" />
+      <edge id="225" source="#Optimism" target="#Success" weight="3225" />
+      <edge id="226" source="#Optimism" target="#Balance" weight="3225" />
+      <edge id="227" source="#Confidence" target="#Growth" weight="6450" />
+      <edge id="228" source="#Cincy" target="#health" weight="3225" />
+      <edge id="229" source="#Cincy" target="#KnowYourRisk" weight="3225" />
+      <edge id="230" source="#hearthealty" target="#Recipe" weight="3225" />
+      <edge id="231" source="#Success" target="#Positivity" weight="3225" />
+      <edge id="232" source="#Success" target="#Authentic" weight="3225" />
+      <edge id="233" source="#Success" target="#Growth" weight="83850" />
+      <edge id="234" source="#Success" target="#Goals" weight="16125" />
+      <edge id="235" source="#Success" target="#Happiness" weight="6450" />
+      <edge id="236" source="#Success" target="#Balance" weight="16125" />
+      <edge id="237" source="#Success" target="#Busy" weight="3225" />
+      <edge id="238" source="#Success" target="#Dreams" weight="3225" />
+      <edge id="239" source="#Success" target="#Fitness" weight="3225" />
+      <edge id="240" source="#Balance" target="#Positivity" weight="3225" />
+      <edge id="241" source="#Balance" target="#Busy" weight="3225" />
+      <edge id="242" source="#Balance" target="#Stress" weight="3225" />
+      <edge id="243" source="#Balance" target="#Growth" weight="32250" />
+      <edge id="244" source="#HealthyEating" target="#Diet" weight="3225" />
+      <edge id="245" source="#sugar" target="#addiction" weight="3225" />
+      <edge id="246" source="#smallbusinesses" target="#SocialSelling" weight="3225" />
+      <edge id="247" source="#MTtalk" target="#negotiate" weight="3225" />
+      <edge id="248" source="#Busy" target="#Growth" weight="3225" />
+      <edge id="249" source="#climatechange" target="#health" weight="3225" />
+      <edge id="250" source="#divein" target="#spon" weight="3225" />
+      <edge id="251" source="#Fitness" target="#Growth" weight="3225" />
+      <edge id="252" source="#Fitness" target="#PROMiXX" weight="3225" />
+      <edge id="253" source="#Fitness" target="#MensHealth" weight="3225" />
+      <edge id="254" source="#health" target="#lifestyle" weight="3225" />
+      <edge id="255" source="#health" target="#KnowYourRisk" weight="3225" />
+      <edge id="256" source="#health" target="#sjf" weight="3225" />
+      <edge id="257" source="#health" target="#safety" weight="6450" />
+      <edge id="258" source="#dreams" target="#blog" weight="3225" />
+      <edge id="259" source="#dreams" target="#writer" weight="3225" />
+      <edge id="260" source="#Facebook" target="#digitalmarketing" weight="3225" />
+      <edge id="261" source="#PokemonGo" target="#SafetyFirstAlwaysFirst" weight="3225" />
+      <edge id="262" source="#MensHealth" target="#PROMiXX" weight="3225" />
+      <edge id="263" source="#construction" target="#careers" weight="3225" />
+      <edge id="264" source="#construction" target="#safety" weight="3225" />
+      <edge id="265" source="#CX" target="#Management" weight="3225" />
+      <edge id="266" source="#CX" target="#Marketing" weight="3225" />
+      <edge id="267" source="#CX" target="#SocialMedia" weight="3225" />
+      <edge id="268" source="#Goals" target="#Growth" weight="6450" />
+      <edge id="269" source="#Goals" target="#Authentic" weight="3225" />
+      <edge id="270" source="#Goals" target="#Dreams" weight="3225" />
+      <edge id="271" source="#PPE" target="#safety" weight="3225" />
+      <edge id="272" source="#PPE" target="#Avengers" weight="3225" />
+      <edge id="273" source="#NationalSandwichDay" target="#recipes" weight="3225" />
+      <edge id="274" source="#safety" target="#Winter" weight="3225" />
+      <edge id="275" source="#safety" target="#child" weight="3225" />
+      <edge id="276" source="#safety" target="#Avengers" weight="3225" />
+      <edge id="277" source="#safety" target="#BlackFriday" weight="3225" />
+      <edge id="278" source="#safety" target="#thanksgiving" weight="3225" />
+      <edge id="279" source="#safety" target="#winter" weight="6450" />
+      <edge id="280" source="#Positivity" target="#Growth" weight="3225" />
+      <edge id="281" source="#Growth" target="#Youth" weight="3225" />
+      <edge id="282" source="#Growth" target="#Stress" weight="3225" />
+      <edge id="283" source="#Growth" target="#Happiness" weight="3225" />
+      <edge id="284" source="#GoodToKnow" target="#Tips" weight="3225" />
+      <edge id="285" source="#fallprotection" target="#chickenlittle" weight="3225" />
+      <edge id="286" source="#video" target="#conflict" weight="3225" />
+      <edge id="287" source="#strategy" target="#business" weight="3225" />
+      <edge id="288" source="#Dayton" target="#plumbers" weight="3225" />
+      <edge id="289" source="#Plumbers" target="#careers" weight="3225" />
+      <edge id="290" source="#child" target="#winter" weight="3225" />
+      <edge id="291" source="#COP21" target="#climate" weight="3225" />
+      <edge id="292" source="#entrepreneur" target="#startup" weight="12900" />
+      <edge id="293" source="#lifestyle" target="#sjf" weight="3225" />
+      <edge id="294" source="#Dreams" target="#Authentic" weight="3225" />
+      <edge id="295" source="#blog" target="#writer" weight="3225" />
+      <edge id="296" source="#hearthealthy" target="#Recipe" weight="3225" />
+      <edge id="297" source="#cheerstoart" target="#talentedartist" weight="3225" />
+      <edge id="298" source="#motivation" target="#HeartMini" weight="3225" />
+      <edge id="299" source="#Marketing" target="#SocialMedia" weight="3225" />
+      <edge id="300" source="#Marketing" target="#Management" weight="3225" />
+      <edge id="301" source="#SocialMedia" target="#Management" weight="3225" />
+      <edge id="302" source="#Ads" target="#Twitter" weight="3225" />
+      <edge id="303" source="#socialmedia" target="#socialmedia" weight="6450" />
+      <edge id="304" source="#customerservice" target="#BTRTG" weight="3225" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#publunch" label="#publunch" />
+      <node id="#quotes" label="#quotes" />
+      <node id="#itfc" label="#itfc" />
+      <node id="#eng" label="#eng" />
+      <node id="#teamfollow" label="#teamfollow" />
+      <node id="#rwc" label="#rwc" />
+      <node id="#quote" label="#quote" />
+      <node id="#IP5W1CH" label="#IP5W1CH" />
+      <node id="#aldershot_uk" label="#aldershot_uk" />
+      <node id="#frys" label="#frys" />
+      <node id="#Londres" label="#Londres" />
+      <node id="#subbuteo" label="#subbuteo" />
+      <node id="#nasl" label="#nasl" />
+      <node id="#twitfc" label="#twitfc" />
+      <node id="#Itfc" label="#Itfc" />
+      <node id="#thethwackofleather" label="#thethwackofleather" />
+      <node id="#ITFC" label="#ITFC" />
+      <node id="#random" label="#random" />
+      <node id="#Rangers" label="#Rangers" />
+      <node id="#ff" label="#ff" />
+      <node id="#scotch" label="#scotch" />
+      <node id="#fryswildeparty" label="#fryswildeparty" />
+      <node id="#realale" label="#realale" />
+      <node id="#500ADay" label="#500ADay" />
+      <node id="#news" label="#news" />
+      <node id="#YellowArmy" label="#YellowArmy" />
+      <node id="#coyb" label="#coyb" />
+      <node id="#fb" label="#fb" />
+      <node id="#ire" label="#ire" />
+      <node id="#beer" label="#beer" />
+      <node id="#BreastCancerAwareness" label="#BreastCancerAwareness" />
+      <node id="#Rugby" label="#Rugby" />
+      <node id="#wal" label="#wal" />
+      <node id="#food" label="#food" />
+      <node id="#pub" label="#pub" />
+      <node id="#nhl" label="#nhl" />
+      <node id="#WHUFC" label="#WHUFC" />
+      <node id="#pint" label="#pint" />
+      <node id="#facebook" label="#facebook" />
+      <node id="#football" label="#football" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#RWC" label="#RWC" />
+      <node id="#teamfollowback" label="#teamfollowback" />
+      <node id="#LJS" label="#LJS" />
+      <node id="#stfc" label="#stfc" />
+      <node id="#Isles" label="#Isles" />
+      <node id="#FF" label="#FF" />
+      <node id="#whisky" label="#whisky" />
+      <node id="#pubs" label="#pubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#publunch" target="#pub" weight="975" />
+      <edge id="1" source="#quotes" target="#tcot" weight="975" />
+      <edge id="2" source="#quotes" target="#fb" weight="975" />
+      <edge id="3" source="#quotes" target="#facebook" weight="975" />
+      <edge id="4" source="#quotes" target="#random" weight="975" />
+      <edge id="5" source="#quotes" target="#quote" weight="975" />
+      <edge id="6" source="#quotes" target="#frys" weight="975" />
+      <edge id="7" source="#itfc" target="#coyb" weight="975" />
+      <edge id="8" source="#itfc" target="#twitfc" weight="1950" />
+      <edge id="9" source="#itfc" target="#YellowArmy" weight="975" />
+      <edge id="10" source="#eng" target="#rwc" weight="975" />
+      <edge id="11" source="#teamfollow" target="#500ADay" weight="975" />
+      <edge id="12" source="#teamfollow" target="#teamfollowback" weight="975" />
+      <edge id="13" source="#rwc" target="#wal" weight="2925" />
+      <edge id="14" source="#rwc" target="#ire" weight="1950" />
+      <edge id="15" source="#quote" target="#tcot" weight="975" />
+      <edge id="16" source="#quote" target="#fb" weight="975" />
+      <edge id="17" source="#quote" target="#facebook" weight="975" />
+      <edge id="18" source="#quote" target="#random" weight="975" />
+      <edge id="19" source="#quote" target="#frys" weight="975" />
+      <edge id="20" source="#IP5W1CH" target="#ITFC" weight="975" />
+      <edge id="21" source="#IP5W1CH" target="#WHUFC" weight="975" />
+      <edge id="22" source="#aldershot_uk" target="#realale" weight="975" />
+      <edge id="23" source="#aldershot_uk" target="#food" weight="975" />
+      <edge id="24" source="#aldershot_uk" target="#beer" weight="975" />
+      <edge id="25" source="#aldershot_uk" target="#football" weight="975" />
+      <edge id="26" source="#aldershot_uk" target="#pubs" weight="975" />
+      <edge id="27" source="#frys" target="#tcot" weight="975" />
+      <edge id="28" source="#frys" target="#fb" weight="975" />
+      <edge id="29" source="#frys" target="#facebook" weight="975" />
+      <edge id="30" source="#frys" target="#BreastCancerAwareness" weight="2925" />
+      <edge id="31" source="#frys" target="#random" weight="975" />
+      <edge id="32" source="#frys" target="#fryswildeparty" weight="4875" />
+      <edge id="33" source="#frys" target="#FF" weight="975" />
+      <edge id="34" source="#Londres" target="#pub" weight="975" />
+      <edge id="35" source="#subbuteo" target="#thethwackofleather" weight="975" />
+      <edge id="36" source="#subbuteo" target="#nasl" weight="975" />
+      <edge id="37" source="#nasl" target="#thethwackofleather" weight="975" />
+      <edge id="38" source="#Itfc" target="#stfc" weight="975" />
+      <edge id="39" source="#ITFC" target="#WHUFC" weight="975" />
+      <edge id="40" source="#random" target="#tcot" weight="975" />
+      <edge id="41" source="#random" target="#fb" weight="975" />
+      <edge id="42" source="#random" target="#facebook" weight="975" />
+      <edge id="43" source="#Rangers" target="#Isles" weight="975" />
+      <edge id="44" source="#Rangers" target="#nhl" weight="975" />
+      <edge id="45" source="#ff" target="#LJS" weight="975" />
+      <edge id="46" source="#scotch" target="#whisky" weight="975" />
+      <edge id="47" source="#realale" target="#food" weight="975" />
+      <edge id="48" source="#realale" target="#beer" weight="975" />
+      <edge id="49" source="#realale" target="#football" weight="975" />
+      <edge id="50" source="#realale" target="#pubs" weight="975" />
+      <edge id="51" source="#500ADay" target="#teamfollowback" weight="975" />
+      <edge id="52" source="#news" target="#football" weight="975" />
+      <edge id="53" source="#fb" target="#tcot" weight="975" />
+      <edge id="54" source="#fb" target="#facebook" weight="975" />
+      <edge id="55" source="#ire" target="#wal" weight="1950" />
+      <edge id="56" source="#beer" target="#food" weight="975" />
+      <edge id="57" source="#beer" target="#football" weight="975" />
+      <edge id="58" source="#beer" target="#pubs" weight="975" />
+      <edge id="59" source="#BreastCancerAwareness" target="#BreastCancerAwareness" weight="5850" />
+      <edge id="60" source="#Rugby" target="#RWC" weight="975" />
+      <edge id="61" source="#food" target="#football" weight="975" />
+      <edge id="62" source="#food" target="#pubs" weight="975" />
+      <edge id="63" source="#pub" target="#pint" weight="975" />
+      <edge id="64" source="#nhl" target="#Isles" weight="975" />
+      <edge id="65" source="#facebook" target="#tcot" weight="975" />
+      <edge id="66" source="#football" target="#pubs" weight="975" />
+    </edges>
+  </graph>
+</gexf>

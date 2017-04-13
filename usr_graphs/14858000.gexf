@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#FreeJason" label="#FreeJason" />
+      <node id="#fruit" label="#fruit" />
+      <node id="#GWCarney" label="#GWCarney" />
+      <node id="#SALE" label="#SALE" />
+      <node id="#HTTR" label="#HTTR" />
+      <node id="#cybersecurity" label="#cybersecurity" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#SaveTheInternet" label="#SaveTheInternet" />
+      <node id="#whcadiversity" label="#whcadiversity" />
+      <node id="#FAIL" label="#FAIL" />
+      <node id="#WHCD" label="#WHCD" />
+      <node id="#northcarolina" label="#northcarolina" />
+      <node id="#Syria" label="#Syria" />
+      <node id="#moetice" label="#moetice" />
+      <node id="#data" label="#data" />
+      <node id="#humblebrag" label="#humblebrag" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#morningafter" label="#morningafter" />
+      <node id="#duh" label="#duh" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#CNN" label="#CNN" />
+      <node id="#PG88WhiteParty" label="#PG88WhiteParty" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#KochBrothers" label="#KochBrothers" />
+      <node id="#POTUS" label="#POTUS" />
+      <node id="#OutsidewithInsiders" label="#OutsidewithInsiders" />
+      <node id="#Iraq" label="#Iraq" />
+      <node id="#Google" label="#Google" />
+      <node id="#RoevWade" label="#RoevWade" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#DuckDynasty" label="#DuckDynasty" />
+      <node id="#WMRaccepts" label="#WMRaccepts" />
+      <node id="#AprilFools" label="#AprilFools" />
+      <node id="#VMAs2014" label="#VMAs2014" />
+      <node id="#PajamaBoy" label="#PajamaBoy" />
+      <node id="#captionbiebersmugshot" label="#captionbiebersmugshot" />
+      <node id="#NSA" label="#NSA" />
+      <node id="#Cowboys" label="#Cowboys" />
+      <node id="#NavyYard" label="#NavyYard" />
+      <node id="#seattlecrash" label="#seattlecrash" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#MarchforLife" label="#MarchforLife" />
+      <node id="#DNC2016" label="#DNC2016" />
+      <node id="#OnlyatGW" label="#OnlyatGW" />
+      <node id="#obamacare" label="#obamacare" />
+      <node id="#pressconference" label="#pressconference" />
+      <node id="#Flight370" label="#Flight370" />
+      <node id="#GWU" label="#GWU" />
+      <node id="#FF" label="#FF" />
+      <node id="#Primary14" label="#Primary14" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#fb" label="#fb" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#EDU" label="#EDU" />
+      <node id="#IRSScandal" label="#IRSScandal" />
+      <node id="#MHPapology" label="#MHPapology" />
+      <node id="#Ukraine" label="#Ukraine" />
+      <node id="#berries" label="#berries" />
+      <node id="#Afghanistan" label="#Afghanistan" />
+      <node id="#throwback" label="#throwback" />
+      <node id="#betweentwoferns" label="#betweentwoferns" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#social" label="#social" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#RNC2016" label="#RNC2016" />
+      <node id="#MBSOCIAL201" label="#MBSOCIAL201" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#JournoPerk" label="#JournoPerk" />
+      <node id="#Redskins" label="#Redskins" />
+      <node id="#BetweenTwoFerns" label="#BetweenTwoFerns" />
+      <node id="#PhillipSeymourHoffman" label="#PhillipSeymourHoffman" />
+      <node id="#forkgate" label="#forkgate" />
+      <node id="#NetNeutrality" label="#NetNeutrality" />
+      <node id="#MaeveWest" label="#MaeveWest" />
+      <node id="#WHCD2014" label="#WHCD2014" />
+      <node id="#whcd" label="#whcd" />
+      <node id="#ncprimary" label="#ncprimary" />
+      <node id="#cltnews" label="#cltnews" />
+      <node id="#selfie" label="#selfie" />
+      <node id="#FOXNEWS" label="#FOXNEWS" />
+      <node id="#MAF370" label="#MAF370" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#FreeJason" target="#WHCD" weight="3233" />
+      <edge id="1" source="#fruit" target="#berries" weight="3233" />
+      <edge id="2" source="#GWCarney" target="#selfie" weight="3233" />
+      <edge id="3" source="#GWCarney" target="#OnlyatGW" weight="3233" />
+      <edge id="4" source="#GWCarney" target="#GWU" weight="6466" />
+      <edge id="5" source="#SALE" target="#EDU" weight="3233" />
+      <edge id="6" source="#HTTR" target="#PG88WhiteParty" weight="3233" />
+      <edge id="7" source="#cybersecurity" target="#privacy" weight="3233" />
+      <edge id="8" source="#cybersecurity" target="#data" weight="3233" />
+      <edge id="9" source="#Obamacare" target="#BetweenTwoFerns" weight="3233" />
+      <edge id="10" source="#SaveTheInternet" target="#NetNeutrality" weight="3233" />
+      <edge id="11" source="#whcadiversity" target="#GWU" weight="3233" />
+      <edge id="12" source="#FAIL" target="#CNN" weight="3233" />
+      <edge id="13" source="#northcarolina" target="#KochBrothers" weight="3233" />
+      <edge id="14" source="#Syria" target="#NavyYard" weight="3233" />
+      <edge id="15" source="#Syria" target="#NSA" weight="3233" />
+      <edge id="16" source="#Syria" target="#MAF370" weight="3233" />
+      <edge id="17" source="#Syria" target="#seattlecrash" weight="3233" />
+      <edge id="18" source="#moetice" target="#JournoPerk" weight="3233" />
+      <edge id="19" source="#data" target="#privacy" weight="3233" />
+      <edge id="20" source="#humblebrag" target="#PhillipSeymourHoffman" weight="3233" />
+      <edge id="21" source="#ICYMI" target="#SOTU" weight="3233" />
+      <edge id="22" source="#ICYMI" target="#forkgate" weight="3233" />
+      <edge id="23" source="#morningafter" target="#whcd" weight="3233" />
+      <edge id="24" source="#duh" target="#Primary14" weight="3233" />
+      <edge id="25" source="#duh" target="#ncprimary" weight="3233" />
+      <edge id="26" source="#Ferguson" target="#VMAs2014" weight="3233" />
+      <edge id="27" source="#CNN" target="#FOXNEWS" weight="3233" />
+      <edge id="28" source="#BREAKING" target="#cltnews" weight="3233" />
+      <edge id="29" source="#POTUS" target="#WHCD2014" weight="3233" />
+      <edge id="30" source="#OutsidewithInsiders" target="#MaeveWest" weight="3233" />
+      <edge id="31" source="#Iraq" target="#veterans" weight="3233" />
+      <edge id="32" source="#Iraq" target="#Afghanistan" weight="3233" />
+      <edge id="33" source="#Google" target="#NSA" weight="3233" />
+      <edge id="34" source="#RoevWade" target="#MarchforLife" weight="3233" />
+      <edge id="35" source="#tbt" target="#throwback" weight="3233" />
+      <edge id="36" source="#DuckDynasty" target="#PajamaBoy" weight="3233" />
+      <edge id="37" source="#WMRaccepts" target="#MHPapology" weight="3233" />
+      <edge id="38" source="#AprilFools" target="#IRSScandal" weight="3233" />
+      <edge id="39" source="#captionbiebersmugshot" target="#fb" weight="3233" />
+      <edge id="40" source="#NSA" target="#MAF370" weight="3233" />
+      <edge id="41" source="#NSA" target="#NavyYard" weight="3233" />
+      <edge id="42" source="#NSA" target="#seattlecrash" weight="3233" />
+      <edge id="43" source="#Cowboys" target="#Redskins" weight="3233" />
+      <edge id="44" source="#NavyYard" target="#MAF370" weight="3233" />
+      <edge id="45" source="#NavyYard" target="#seattlecrash" weight="3233" />
+      <edge id="46" source="#seattlecrash" target="#MAF370" weight="3233" />
+      <edge id="47" source="#Obama" target="#pressconference" weight="3233" />
+      <edge id="48" source="#DNC2016" target="#RNC2016" weight="3233" />
+      <edge id="49" source="#OnlyatGW" target="#selfie" weight="3233" />
+      <edge id="50" source="#OnlyatGW" target="#GWU" weight="3233" />
+      <edge id="51" source="#obamacare" target="#betweentwoferns" weight="3233" />
+      <edge id="52" source="#Flight370" target="#Ukraine" weight="3233" />
+      <edge id="53" source="#GWU" target="#selfie" weight="3233" />
+      <edge id="54" source="#FF" target="#WHCD2014" weight="3233" />
+      <edge id="55" source="#Primary14" target="#ncprimary" weight="3233" />
+      <edge id="56" source="#veterans" target="#Afghanistan" weight="3233" />
+      <edge id="57" source="#socialmedia" target="#strategy" weight="3233" />
+      <edge id="58" source="#socialmedia" target="#MBSOCIAL201" weight="3233" />
+      <edge id="59" source="#social" target="#MBSOCIAL201" weight="3233" />
+      <edge id="60" source="#MBSOCIAL201" target="#strategy" weight="3233" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#WorldBreastfeedingWeek" label="#WorldBreastfeedingWeek" />
+      <node id="#kidsattopofagenda" label="#kidsattopofagenda" />
+      <node id="#disabilities" label="#disabilities" />
+      <node id="#infantmortality" label="#infantmortality" />
+      <node id="#MakingOhioBetter" label="#MakingOhioBetter" />
+      <node id="#NVW14" label="#NVW14" />
+      <node id="#DODD" label="#DODD" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#OhioVets" label="#OhioVets" />
+      <node id="#omas2015" label="#omas2015" />
+      <node id="#MedicaidWorks" label="#MedicaidWorks" />
+      <node id="#1400Jobs" label="#1400Jobs" />
+      <node id="#OMJCareerFair" label="#OMJCareerFair" />
+      <node id="#OhioAAPAM" label="#OhioAAPAM" />
+      <node id="#ADA" label="#ADA" />
+      <node id="#ADA25" label="#ADA25" />
+      <node id="#ohwx" label="#ohwx" />
+      <node id="#URI" label="#URI" />
+      <node id="#7000Transitions" label="#7000Transitions" />
+      <node id="#PinwheelSelfie" label="#PinwheelSelfie" />
+      <node id="#Pinwheels" label="#Pinwheels" />
+      <node id="#OhioModel" label="#OhioModel" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#complicated" label="#complicated" />
+      <node id="#OhioWearsBlue" label="#OhioWearsBlue" />
+      <node id="#ohsos" label="#ohsos" />
+      <node id="#OHSotS" label="#OHSotS" />
+      <node id="#OSHIIP" label="#OSHIIP" />
+      <node id="#StrongerOhio" label="#StrongerOhio" />
+      <node id="#FosterCare" label="#FosterCare" />
+      <node id="#PinwheelSelfies" label="#PinwheelSelfies" />
+      <node id="#o4aadvocacy" label="#o4aadvocacy" />
+      <node id="#JobsOhio" label="#JobsOhio" />
+      <node id="#Brrr" label="#Brrr" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#Cbus" label="#Cbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#WorldBreastfeedingWeek" target="#DYK" weight="287" />
+      <edge id="1" source="#kidsattopofagenda" target="#omas2015" weight="287" />
+      <edge id="2" source="#disabilities" target="#ADA" weight="287" />
+      <edge id="3" source="#disabilities" target="#ADA25" weight="287" />
+      <edge id="4" source="#disabilities" target="#DODD" weight="287" />
+      <edge id="5" source="#infantmortality" target="#Cbus" weight="287" />
+      <edge id="6" source="#MakingOhioBetter" target="#7000Transitions" weight="287" />
+      <edge id="7" source="#MakingOhioBetter" target="#StrongerOhio" weight="287" />
+      <edge id="8" source="#NVW14" target="#OSHIIP" weight="287" />
+      <edge id="9" source="#DODD" target="#ADA" weight="287" />
+      <edge id="10" source="#DODD" target="#ADA25" weight="287" />
+      <edge id="11" source="#DODD" target="#StrongerOhio" weight="287" />
+      <edge id="12" source="#Dayton" target="#OMJCareerFair" weight="287" />
+      <edge id="13" source="#Ohio" target="#Medicaid" weight="1435" />
+      <edge id="14" source="#Ohio" target="#ohsos" weight="287" />
+      <edge id="15" source="#OhioVets" target="#OHSotS" weight="287" />
+      <edge id="16" source="#omas2015" target="#MedicaidWorks" weight="287" />
+      <edge id="17" source="#1400Jobs" target="#JobsOhio" weight="287" />
+      <edge id="18" source="#1400Jobs" target="#OhioModel" weight="287" />
+      <edge id="19" source="#OhioAAPAM" target="#FosterCare" weight="287" />
+      <edge id="20" source="#OhioAAPAM" target="#URI" weight="287" />
+      <edge id="21" source="#ADA" target="#ADA25" weight="287" />
+      <edge id="22" source="#ohwx" target="#Brrr" weight="287" />
+      <edge id="23" source="#URI" target="#FosterCare" weight="287" />
+      <edge id="24" source="#PinwheelSelfie" target="#OhioWearsBlue" weight="287" />
+      <edge id="25" source="#Pinwheels" target="#PinwheelSelfies" weight="287" />
+      <edge id="26" source="#OhioModel" target="#JobsOhio" weight="287" />
+      <edge id="27" source="#complicated" target="#o4aadvocacy" weight="287" />
+      <edge id="28" source="#ohsos" target="#Medicaid" weight="287" />
+    </edges>
+  </graph>
+</gexf>

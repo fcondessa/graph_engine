@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ColumbusFoodScene" label="#ColumbusFoodScene" />
+      <node id="#ingenuity" label="#ingenuity" />
+      <node id="#gunsliner" label="#gunsliner" />
+      <node id="#eruption" label="#eruption" />
+      <node id="#NASCSymposium" label="#NASCSymposium" />
+      <node id="#metrocab" label="#metrocab" />
+      <node id="#googlewave" label="#googlewave" />
+      <node id="#foodnerdbreakfast" label="#foodnerdbreakfast" />
+      <node id="#greenskybluegrass" label="#greenskybluegrass" />
+      <node id="#marczyk" label="#marczyk" />
+      <node id="#fire" label="#fire" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#bahnmi" label="#bahnmi" />
+      <node id="#ot" label="#ot" />
+      <node id="#tastyasfuck" label="#tastyasfuck" />
+      <node id="#brothersdrake" label="#brothersdrake" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#soul" label="#soul" />
+      <node id="#vote2012" label="#vote2012" />
+      <node id="#CHS" label="#CHS" />
+      <node id="#zenos" label="#zenos" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#bluebirdday" label="#bluebirdday" />
+      <node id="#OHMag" label="#OHMag" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#thanksgivingfail" label="#thanksgivingfail" />
+      <node id="#foodporn" label="#foodporn" />
+      <node id="#elanichristina" label="#elanichristina" />
+      <node id="#ASF" label="#ASF" />
+      <node id="#denver" label="#denver" />
+      <node id="#ExpCols" label="#ExpCols" />
+      <node id="#vote" label="#vote" />
+      <node id="#popupdinner" label="#popupdinner" />
+      <node id="#Marriott" label="#Marriott" />
+      <node id="#ThatFoodTruck" label="#ThatFoodTruck" />
+      <node id="#comfest" label="#comfest" />
+      <node id="#hillsmarket" label="#hillsmarket" />
+      <node id="#maceoparker" label="#maceoparker" />
+      <node id="#fishguys" label="#fishguys" />
+      <node id="#kitchenlittle" label="#kitchenlittle" />
+      <node id="#cooking" label="#cooking" />
+      <node id="#manmeal" label="#manmeal" />
+      <node id="#cbj" label="#cbj" />
+      <node id="#funk" label="#funk" />
+      <node id="#downtown" label="#downtown" />
+      <node id="#Vail" label="#Vail" />
+      <node id="#winterwondergrass" label="#winterwondergrass" />
+      <node id="#dogsinbars" label="#dogsinbars" />
+      <node id="#backbowls" label="#backbowls" />
+      <node id="#pepsirefresh" label="#pepsirefresh" />
+      <node id="#northmarketspices" label="#northmarketspices" />
+      <node id="#fieryfoodsfest" label="#fieryfoodsfest" />
+      <node id="#northmarket" label="#northmarket" />
+      <node id="#win" label="#win" />
+      <node id="#wave" label="#wave" />
+      <node id="#OH" label="#OH" />
+      <node id="#columbusclippers" label="#columbusclippers" />
+      <node id="#TruckDust" label="#TruckDust" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ColumbusFoodScene" target="#ExpCols" weight="2265" />
+      <edge id="1" source="#ingenuity" target="#thanksgivingfail" weight="2265" />
+      <edge id="2" source="#gunsliner" target="#northmarketspices" weight="2265" />
+      <edge id="3" source="#eruption" target="#cbj" weight="2265" />
+      <edge id="4" source="#NASCSymposium" target="#ExpCols" weight="2265" />
+      <edge id="5" source="#metrocab" target="#denver" weight="2265" />
+      <edge id="6" source="#googlewave" target="#wave" weight="2265" />
+      <edge id="7" source="#foodnerdbreakfast" target="#foodporn" weight="2265" />
+      <edge id="8" source="#greenskybluegrass" target="#winterwondergrass" weight="2265" />
+      <edge id="9" source="#marczyk" target="#denver" weight="2265" />
+      <edge id="10" source="#fire" target="#winterwondergrass" weight="2265" />
+      <edge id="11" source="#Ohio" target="#Columbus" weight="2265" />
+      <edge id="12" source="#Ohio" target="#ExpCols" weight="2265" />
+      <edge id="13" source="#bahnmi" target="#elanichristina" weight="2265" />
+      <edge id="14" source="#ot" target="#cbj" weight="2265" />
+      <edge id="15" source="#ot" target="#win" weight="2265" />
+      <edge id="16" source="#tastyasfuck" target="#foodporn" weight="4530" />
+      <edge id="17" source="#brothersdrake" target="#northmarketspices" weight="2265" />
+      <edge id="18" source="#Columbus" target="#OH" weight="2265" />
+      <edge id="19" source="#Columbus" target="#ASF" weight="2265" />
+      <edge id="20" source="#Columbus" target="#ExpCols" weight="6795" />
+      <edge id="21" source="#soul" target="#funk" weight="2265" />
+      <edge id="22" source="#vote2012" target="#vote" weight="2265" />
+      <edge id="23" source="#CHS" target="#ExpCols" weight="2265" />
+      <edge id="24" source="#zenos" target="#dogsinbars" weight="2265" />
+      <edge id="25" source="#Cavs" target="#CBJ" weight="2265" />
+      <edge id="26" source="#bluebirdday" target="#Vail" weight="9060" />
+      <edge id="27" source="#OHMag" target="#ExpCols" weight="2265" />
+      <edge id="28" source="#CBJ" target="#ExpCols" weight="4530" />
+      <edge id="29" source="#foodporn" target="#ThatFoodTruck" weight="2265" />
+      <edge id="30" source="#foodporn" target="#northmarketspices" weight="4530" />
+      <edge id="31" source="#foodporn" target="#manmeal" weight="2265" />
+      <edge id="32" source="#foodporn" target="#TruckDust" weight="2265" />
+      <edge id="33" source="#ASF" target="#ExpCols" weight="18120" />
+      <edge id="34" source="#denver" target="#maceoparker" weight="2265" />
+      <edge id="35" source="#ExpCols" target="#pepsirefresh" weight="2265" />
+      <edge id="36" source="#ExpCols" target="#OH" weight="2265" />
+      <edge id="37" source="#ExpCols" target="#columbusclippers" weight="2265" />
+      <edge id="38" source="#popupdinner" target="#downtown" weight="2265" />
+      <edge id="39" source="#popupdinner" target="#hillsmarket" weight="2265" />
+      <edge id="40" source="#Marriott" target="#Vail" weight="2265" />
+      <edge id="41" source="#ThatFoodTruck" target="#TruckDust" weight="2265" />
+      <edge id="42" source="#comfest" target="#cooking" weight="2265" />
+      <edge id="43" source="#hillsmarket" target="#downtown" weight="2265" />
+      <edge id="44" source="#fishguys" target="#northmarketspices" weight="2265" />
+      <edge id="45" source="#kitchenlittle" target="#northmarket" weight="2265" />
+      <edge id="46" source="#manmeal" target="#northmarketspices" weight="2265" />
+      <edge id="47" source="#cbj" target="#win" weight="2265" />
+      <edge id="48" source="#Vail" target="#backbowls" weight="2265" />
+      <edge id="49" source="#northmarketspices" target="#fieryfoodsfest" weight="6795" />
+    </edges>
+  </graph>
+</gexf>

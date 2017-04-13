@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Baltimore" label="#Baltimore" />
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#edtechlink" label="#edtechlink" />
+      <node id="#theothersideoftheharbor" label="#theothersideoftheharbor" />
+      <node id="#DHFWeb" label="#DHFWeb" />
+      <node id="#NowLeasing" label="#NowLeasing" />
+      <node id="#authentication" label="#authentication" />
+      <node id="#r2t" label="#r2t" />
+      <node id="#WebSlam" label="#WebSlam" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#hitsm" label="#hitsm" />
+      <node id="#taxiline" label="#taxiline" />
+      <node id="#EdTech" label="#EdTech" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#patient" label="#patient" />
+      <node id="#IoH" label="#IoH" />
+      <node id="#truestory" label="#truestory" />
+      <node id="#startup" label="#startup" />
+      <node id="#internetofhealthcare" label="#internetofhealthcare" />
+      <node id="#crosschx" label="#crosschx" />
+      <node id="#timing" label="#timing" />
+      <node id="#caffeinated" label="#caffeinated" />
+      <node id="#biometric" label="#biometric" />
+      <node id="#HIPAA" label="#HIPAA" />
+      <node id="#triple" label="#triple" />
+      <node id="#teamclearcut" label="#teamclearcut" />
+      <node id="#Flattered" label="#Flattered" />
+      <node id="#babyjesus" label="#babyjesus" />
+      <node id="#medical" label="#medical" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#startups" label="#startups" />
+      <node id="#confluence" label="#confluence" />
+      <node id="#edtech" label="#edtech" />
+      <node id="#growth" label="#growth" />
+      <node id="#HIMSS15" label="#HIMSS15" />
+      <node id="#HIMSS16" label="#HIMSS16" />
+      <node id="#patientengagement" label="#patientengagement" />
+      <node id="#patientmatching" label="#patientmatching" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Baltimore" target="#EdTech" weight="491" />
+      <edge id="1" source="#sxsw" target="#startup" weight="491" />
+      <edge id="2" source="#edtechlink" target="#r2t" weight="491" />
+      <edge id="3" source="#edtechlink" target="#edtech" weight="491" />
+      <edge id="4" source="#theothersideoftheharbor" target="#caffeinated" weight="491" />
+      <edge id="5" source="#DHFWeb" target="#WebSlam" weight="491" />
+      <edge id="6" source="#NowLeasing" target="#Flattered" weight="491" />
+      <edge id="7" source="#authentication" target="#biometric" weight="491" />
+      <edge id="8" source="#r2t" target="#edtech" weight="491" />
+      <edge id="9" source="#swcbus" target="#teamclearcut" weight="491" />
+      <edge id="10" source="#healthIT" target="#hitsm" weight="491" />
+      <edge id="11" source="#taxiline" target="#HIMSS15" weight="491" />
+      <edge id="12" source="#healthcare" target="#startup" weight="491" />
+      <edge id="13" source="#healthcare" target="#patientengagement" weight="491" />
+      <edge id="14" source="#patient" target="#medical" weight="491" />
+      <edge id="15" source="#patient" target="#Startup" weight="491" />
+      <edge id="16" source="#patient" target="#HIMSS16" weight="491" />
+      <edge id="17" source="#patient" target="#HIPAA" weight="491" />
+      <edge id="18" source="#IoH" target="#truestory" weight="491" />
+      <edge id="19" source="#internetofhealthcare" target="#patientmatching" weight="491" />
+      <edge id="20" source="#crosschx" target="#triple" weight="491" />
+      <edge id="21" source="#crosschx" target="#babyjesus" weight="491" />
+      <edge id="22" source="#crosschx" target="#HIMSS15" weight="491" />
+      <edge id="23" source="#timing" target="#confluence" weight="491" />
+      <edge id="24" source="#HIPAA" target="#medical" weight="491" />
+      <edge id="25" source="#HIPAA" target="#Startup" weight="491" />
+      <edge id="26" source="#HIPAA" target="#HIMSS16" weight="491" />
+      <edge id="27" source="#medical" target="#Startup" weight="491" />
+      <edge id="28" source="#medical" target="#HIMSS16" weight="491" />
+      <edge id="29" source="#Startup" target="#HIMSS16" weight="491" />
+      <edge id="30" source="#startups" target="#growth" weight="491" />
+    </edges>
+  </graph>
+</gexf>

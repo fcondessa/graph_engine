@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuccessesofPhilanthropy" label="#SuccessesofPhilanthropy" />
+      <node id="#communications" label="#communications" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#Minnesota" label="#Minnesota" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#AmericaNeedsTalent" label="#AmericaNeedsTalent" />
+      <node id="#postsecondary" label="#postsecondary" />
+      <node id="#EITC" label="#EITC" />
+      <node id="#TeacherAppreciationWeek" label="#TeacherAppreciationWeek" />
+      <node id="#CollegeGuide2015" label="#CollegeGuide2015" />
+      <node id="#socent" label="#socent" />
+      <node id="#Resilience" label="#Resilience" />
+      <node id="#philanthropy" label="#philanthropy" />
+      <node id="#poverty" label="#poverty" />
+      <node id="#LGBTQ" label="#LGBTQ" />
+      <node id="#Trump2016" label="#Trump2016" />
+      <node id="#college" label="#college" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#GOPplatform" label="#GOPplatform" />
+      <node id="#Philanthropy" label="#Philanthropy" />
+      <node id="#immigrant" label="#immigrant" />
+      <node id="#highered" label="#highered" />
+      <node id="#socialenterprises" label="#socialenterprises" />
+      <node id="#eddata" label="#eddata" />
+      <node id="#CDFIs" label="#CDFIs" />
+      <node id="#HillaryClinton" label="#HillaryClinton" />
+      <node id="#collegeguide2015" label="#collegeguide2015" />
+      <node id="#startups" label="#startups" />
+      <node id="#asthma" label="#asthma" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuccessesofPhilanthropy" target="#Resilience" weight="3230" />
+      <edge id="1" source="#SuccessesofPhilanthropy" target="#asthma" weight="3230" />
+      <edge id="2" source="#communications" target="#philanthropy" weight="3230" />
+      <edge id="3" source="#jobs" target="#socent" weight="3230" />
+      <edge id="4" source="#Minnesota" target="#Philanthropy" weight="3230" />
+      <edge id="5" source="#entrepreneurs" target="#startups" weight="3230" />
+      <edge id="6" source="#entrepreneurs" target="#Philanthropy" weight="3230" />
+      <edge id="7" source="#entrepreneurs" target="#immigrant" weight="3230" />
+      <edge id="8" source="#AmericaNeedsTalent" target="#college" weight="3230" />
+      <edge id="9" source="#AmericaNeedsTalent" target="#CollegeGuide2015" weight="6460" />
+      <edge id="10" source="#postsecondary" target="#highered" weight="3230" />
+      <edge id="11" source="#postsecondary" target="#CollegeGuide2015" weight="3230" />
+      <edge id="12" source="#EITC" target="#poverty" weight="3230" />
+      <edge id="13" source="#TeacherAppreciationWeek" target="#teachers" weight="3230" />
+      <edge id="14" source="#CollegeGuide2015" target="#highered" weight="22610" />
+      <edge id="15" source="#CollegeGuide2015" target="#college" weight="3230" />
+      <edge id="16" source="#CollegeGuide2015" target="#eddata" weight="3230" />
+      <edge id="17" source="#LGBTQ" target="#GOPplatform" weight="3230" />
+      <edge id="18" source="#Trump2016" target="#HillaryClinton" weight="3230" />
+      <edge id="19" source="#Philanthropy" target="#socialenterprises" weight="3230" />
+      <edge id="20" source="#Philanthropy" target="#CDFIs" weight="3230" />
+      <edge id="21" source="#immigrant" target="#startups" weight="3230" />
+      <edge id="22" source="#highered" target="#collegeguide2015" weight="12920" />
+      <edge id="23" source="#highered" target="#eddata" weight="3230" />
+    </edges>
+  </graph>
+</gexf>

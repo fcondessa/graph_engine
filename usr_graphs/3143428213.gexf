@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#TranspoCountdown" label="#TranspoCountdown" />
+      <node id="#irish" label="#irish" />
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#PurposeBuilt" label="#PurposeBuilt" />
+      <node id="#cypclub" label="#cypclub" />
+      <node id="#TopiaryGarden" label="#TopiaryGarden" />
+      <node id="#DOTSmartCity" label="#DOTSmartCity" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#CitYPulseCols" label="#CitYPulseCols" />
+      <node id="#asseenincbus" label="#asseenincbus" />
+      <node id="#MayorColemanlegacy" label="#MayorColemanlegacy" />
+      <node id="#OurTownColumbus" label="#OurTownColumbus" />
+      <node id="#MLSCup" label="#MLSCup" />
+      <node id="#dtcbus" label="#dtcbus" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#ConnectColumbus" label="#ConnectColumbus" />
+      <node id="#OHIOYP" label="#OHIOYP" />
+      <node id="#WhyOhio" label="#WhyOhio" />
+      <node id="#smartcolumbus" label="#smartcolumbus" />
+      <node id="#ridethebus" label="#ridethebus" />
+      <node id="#BeSafe" label="#BeSafe" />
+      <node id="#askCBUS" label="#askCBUS" />
+      <node id="#SmartCity" label="#SmartCity" />
+      <node id="#MoveColumbus" label="#MoveColumbus" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#ColumbusPlanVan" label="#ColumbusPlanVan" />
+      <node id="#Transit" label="#Transit" />
+      <node id="#rail" label="#rail" />
+      <node id="#AskCbus" label="#AskCbus" />
+      <node id="#Bringit" label="#Bringit" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#fbf" label="#fbf" />
+      <node id="#Slainte" label="#Slainte" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#SciotoMile" label="#SciotoMile" />
+      <node id="#ParkofRoses" label="#ParkofRoses" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#AskCBUS" label="#AskCBUS" />
+      <node id="#bikecolumbus" label="#bikecolumbus" />
+      <node id="#GoCrew" label="#GoCrew" />
+      <node id="#neighborhoods" label="#neighborhoods" />
+      <node id="#Proud" label="#Proud" />
+      <node id="#Leadership2016" label="#Leadership2016" />
+      <node id="#SmartCityChallenge" label="#SmartCityChallenge" />
+      <node id="#SmartCityPitch" label="#SmartCityPitch" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#askcbus" label="#askcbus" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#connectcolumbus" label="#connectcolumbus" />
+      <node id="#SchillerPark" label="#SchillerPark" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#TranspoCountdown" target="#TranspoCountdown" weight="644" />
+      <edge id="1" source="#irish" target="#Slainte" weight="322" />
+      <edge id="2" source="#SXSW" target="#DOTSmartCity" weight="322" />
+      <edge id="3" source="#PurposeBuilt" target="#Leadership2016" weight="322" />
+      <edge id="4" source="#cypclub" target="#OHIOYP" weight="322" />
+      <edge id="5" source="#cypclub" target="#lifeincbus" weight="322" />
+      <edge id="6" source="#cypclub" target="#CitYPulseCols" weight="322" />
+      <edge id="7" source="#TopiaryGarden" target="#ParkofRoses" weight="322" />
+      <edge id="8" source="#TopiaryGarden" target="#SchillerPark" weight="322" />
+      <edge id="9" source="#TopiaryGarden" target="#SciotoMile" weight="322" />
+      <edge id="10" source="#DOTSmartCity" target="#AskCBUS" weight="322" />
+      <edge id="11" source="#DOTSmartCity" target="#SmartCityPitch" weight="966" />
+      <edge id="12" source="#DOTSmartCity" target="#smartcolumbus" weight="322" />
+      <edge id="13" source="#DOTSmartCity" target="#SmartColumbus" weight="2898" />
+      <edge id="14" source="#DOTSmartCity" target="#cbusproud" weight="322" />
+      <edge id="15" source="#DOTSmartCity" target="#Columbus" weight="322" />
+      <edge id="16" source="#Cbus" target="#SmartCityChallenge" weight="322" />
+      <edge id="17" source="#Cbus" target="#askcbus" weight="322" />
+      <edge id="18" source="#CitYPulseCols" target="#OHIOYP" weight="322" />
+      <edge id="19" source="#CitYPulseCols" target="#lifeincbus" weight="322" />
+      <edge id="20" source="#asseenincbus" target="#SmartColumbus" weight="322" />
+      <edge id="21" source="#asseenincbus" target="#cbus" weight="322" />
+      <edge id="22" source="#MayorColemanlegacy" target="#fbf" weight="322" />
+      <edge id="23" source="#OurTownColumbus" target="#SmartColumbus" weight="322" />
+      <edge id="24" source="#MLSCup" target="#GoCrew" weight="322" />
+      <edge id="25" source="#dtcbus" target="#columbus" weight="322" />
+      <edge id="26" source="#dtcbus" target="#asseenincolumbus" weight="322" />
+      <edge id="27" source="#dtcbus" target="#cbus" weight="322" />
+      <edge id="28" source="#Columbus" target="#Transit" weight="322" />
+      <edge id="29" source="#Columbus" target="#rail" weight="322" />
+      <edge id="30" source="#ConnectColumbus" target="#BeSafe" weight="322" />
+      <edge id="31" source="#ConnectColumbus" target="#ColumbusPlanVan" weight="322" />
+      <edge id="32" source="#OHIOYP" target="#lifeincbus" weight="322" />
+      <edge id="33" source="#WhyOhio" target="#smartcolumbus" weight="322" />
+      <edge id="34" source="#ridethebus" target="#SmartColumbus" weight="322" />
+      <edge id="35" source="#ridethebus" target="#SmartCityChallenge" weight="322" />
+      <edge id="36" source="#askCBUS" target="#SmartColumbus" weight="322" />
+      <edge id="37" source="#SmartCity" target="#SmartCityPitch" weight="322" />
+      <edge id="38" source="#MoveColumbus" target="#SmartColumbus" weight="322" />
+      <edge id="39" source="#columbus" target="#asseenincolumbus" weight="322" />
+      <edge id="40" source="#columbus" target="#cbus" weight="322" />
+      <edge id="41" source="#Transit" target="#rail" weight="322" />
+      <edge id="42" source="#AskCbus" target="#SmartColumbus" weight="322" />
+      <edge id="43" source="#Bringit" target="#connectcolumbus" weight="322" />
+      <edge id="44" source="#asseenincolumbus" target="#cbus" weight="322" />
+      <edge id="45" source="#SciotoMile" target="#SchillerPark" weight="322" />
+      <edge id="46" source="#SciotoMile" target="#ParkofRoses" weight="322" />
+      <edge id="47" source="#ParkofRoses" target="#SchillerPark" weight="322" />
+      <edge id="48" source="#expcols" target="#bikecolumbus" weight="322" />
+      <edge id="49" source="#lifeincbus" target="#Proud" weight="322" />
+      <edge id="50" source="#AskCBUS" target="#SmartColumbus" weight="966" />
+      <edge id="51" source="#neighborhoods" target="#SmartColumbus" weight="322" />
+      <edge id="52" source="#neighborhoods" target="#SmartCityChallenge" weight="322" />
+      <edge id="53" source="#SmartCityChallenge" target="#SmartColumbus" weight="4508" />
+      <edge id="54" source="#SmartCityPitch" target="#SmartColumbus" weight="1288" />
+      <edge id="55" source="#SmartColumbus" target="#cbus" weight="322" />
+      <edge id="56" source="#SmartColumbus" target="#askcbus" weight="644" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#bubblefun" label="#bubblefun" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#imfast" label="#imfast" />
+      <node id="#cas" label="#cas" />
+      <node id="#awix" label="#awix" />
+      <node id="#beckam" label="#beckam" />
+      <node id="#Webbys" label="#Webbys" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#ColorSnapGlass" label="#ColorSnapGlass" />
+      <node id="#prsa" label="#prsa" />
+      <node id="#in" label="#in" />
+      <node id="#Bloomberg" label="#Bloomberg" />
+      <node id="#CIW" label="#CIW" />
+      <node id="#redflag" label="#redflag" />
+      <node id="#pr" label="#pr" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#pfta" label="#pfta" />
+      <node id="#happinessproject" label="#happinessproject" />
+      <node id="#hyundaicas" label="#hyundaicas" />
+      <node id="#panamera" label="#panamera" />
+      <node id="#prjobs" label="#prjobs" />
+      <node id="#c" label="#c" />
+      <node id="#McCannTruthCentral" label="#McCannTruthCentral" />
+      <node id="#gotime" label="#gotime" />
+      <node id="#reinventingfire" label="#reinventingfire" />
+      <node id="#sbads" label="#sbads" />
+      <node id="#gamedaypolarbears" label="#gamedaypolarbears" />
+      <node id="#vampires" label="#vampires" />
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#Panamera" label="#Panamera" />
+      <node id="#IBMiX" label="#IBMiX" />
+      <node id="#brandbowl" label="#brandbowl" />
+      <node id="#Porsche" label="#Porsche" />
+      <node id="#saturday" label="#saturday" />
+      <node id="#aw8" label="#aw8" />
+      <node id="#publicrelations" label="#publicrelations" />
+      <node id="#whatwomenwant" label="#whatwomenwant" />
+      <node id="#CK" label="#CK" />
+      <node id="#IBMWOW" label="#IBMWOW" />
+      <node id="#PR" label="#PR" />
+      <node id="#advertising" label="#advertising" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#sxsw" target="#c" weight="2395" />
+      <edge id="1" source="#sxsw" target="#happinessproject" weight="479" />
+      <edge id="2" source="#bubblefun" target="#saturday" weight="479" />
+      <edge id="3" source="#jobs" target="#pr" weight="958" />
+      <edge id="4" source="#jobs" target="#PR" weight="479" />
+      <edge id="5" source="#jobs" target="#pfta" weight="479" />
+      <edge id="6" source="#jobs" target="#in" weight="479" />
+      <edge id="7" source="#imfast" target="#hyundaicas" weight="479" />
+      <edge id="8" source="#cas" target="#Panamera" weight="479" />
+      <edge id="9" source="#cas" target="#panamera" weight="479" />
+      <edge id="10" source="#cas" target="#Porsche" weight="479" />
+      <edge id="11" source="#awix" target="#McCannTruthCentral" weight="479" />
+      <edge id="12" source="#beckam" target="#superbowl" weight="479" />
+      <edge id="13" source="#Webbys" target="#ColorSnapGlass" weight="479" />
+      <edge id="14" source="#SuperBowl" target="#brandbowl" weight="479" />
+      <edge id="15" source="#SuperBowl" target="#sbads" weight="479" />
+      <edge id="16" source="#prsa" target="#PR" weight="479" />
+      <edge id="17" source="#prsa" target="#prjobs" weight="479" />
+      <edge id="18" source="#Bloomberg" target="#aw8" weight="479" />
+      <edge id="19" source="#CIW" target="#reinventingfire" weight="479" />
+      <edge id="20" source="#redflag" target="#brandbowl" weight="479" />
+      <edge id="21" source="#marketing" target="#publicrelations" weight="479" />
+      <edge id="22" source="#marketing" target="#advertising" weight="479" />
+      <edge id="23" source="#happinessproject" target="#c" weight="479" />
+      <edge id="24" source="#hyundaicas" target="#gotime" weight="479" />
+      <edge id="25" source="#sbads" target="#brandbowl" weight="1916" />
+      <edge id="26" source="#sbads" target="#gamedaypolarbears" weight="479" />
+      <edge id="27" source="#sbads" target="#vampires" weight="479" />
+      <edge id="28" source="#gamedaypolarbears" target="#brandbowl" weight="479" />
+      <edge id="29" source="#vampires" target="#brandbowl" weight="479" />
+      <edge id="30" source="#Panamera" target="#Porsche" weight="479" />
+      <edge id="31" source="#IBMiX" target="#IBMWOW" weight="479" />
+      <edge id="32" source="#Porsche" target="#CK" weight="479" />
+      <edge id="33" source="#aw8" target="#whatwomenwant" weight="1437" />
+      <edge id="34" source="#publicrelations" target="#advertising" weight="479" />
+    </edges>
+  </graph>
+</gexf>

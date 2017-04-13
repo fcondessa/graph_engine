@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#IA09" label="#IA09" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#moveahead" label="#moveahead" />
+      <node id="#googlumbus" label="#googlumbus" />
+      <node id="#jobposting" label="#jobposting" />
+      <node id="#yeson1" label="#yeson1" />
+      <node id="#TechTomorrow" label="#TechTomorrow" />
+      <node id="#brandYOU" label="#brandYOU" />
+      <node id="#OWL" label="#OWL" />
+      <node id="#SWC10" label="#SWC10" />
+      <node id="#b2bexpo" label="#b2bexpo" />
+      <node id="#broadband" label="#broadband" />
+      <node id="#owl" label="#owl" />
+      <node id="#CIOs" label="#CIOs" />
+      <node id="#jobhunt" label="#jobhunt" />
+      <node id="#fb" label="#fb" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#BBRoadmap" label="#BBRoadmap" />
+      <node id="#tech" label="#tech" />
+      <node id="#careers" label="#careers" />
+      <node id="#IT" label="#IT" />
+      <node id="#mobileX" label="#mobileX" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#IA09" target="#fb" weight="888" />
+      <edge id="1" source="#jobs" target="#jobposting" weight="888" />
+      <edge id="2" source="#jobs" target="#careers" weight="444" />
+      <edge id="3" source="#jobs" target="#jobhunt" weight="444" />
+      <edge id="4" source="#SEO" target="#fb" weight="888" />
+      <edge id="5" source="#SEO" target="#OWL" weight="2220" />
+      <edge id="6" source="#moveahead" target="#fb" weight="444" />
+      <edge id="7" source="#googlumbus" target="#fb" weight="444" />
+      <edge id="8" source="#jobposting" target="#careers" weight="444" />
+      <edge id="9" source="#jobposting" target="#jobhunt" weight="444" />
+      <edge id="10" source="#yeson1" target="#fb" weight="3108" />
+      <edge id="11" source="#TechTomorrow" target="#CIOs" weight="444" />
+      <edge id="12" source="#TechTomorrow" target="#IT" weight="444" />
+      <edge id="13" source="#brandYOU" target="#owl" weight="444" />
+      <edge id="14" source="#OWL" target="#fb" weight="16428" />
+      <edge id="15" source="#SWC10" target="#fb" weight="888" />
+      <edge id="16" source="#b2bexpo" target="#fb" weight="444" />
+      <edge id="17" source="#broadband" target="#fb" weight="888" />
+      <edge id="18" source="#CIOs" target="#IT" weight="444" />
+      <edge id="19" source="#fb" target="#tech" weight="444" />
+      <edge id="20" source="#fb" target="#mobileX" weight="444" />
+      <edge id="21" source="#fb" target="#Columbus" weight="888" />
+      <edge id="22" source="#fb" target="#BBRoadmap" weight="444" />
+    </edges>
+  </graph>
+</gexf>

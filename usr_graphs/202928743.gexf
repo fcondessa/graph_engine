@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Devils" label="#Devils" />
+      <node id="#leafs" label="#leafs" />
+      <node id="#Coyotes" label="#Coyotes" />
+      <node id="#sports" label="#sports" />
+      <node id="#YouBeTheJudge" label="#YouBeTheJudge" />
+      <node id="#Sens" label="#Sens" />
+      <node id="#Habs" label="#Habs" />
+      <node id="#ILoveHockey" label="#ILoveHockey" />
+      <node id="#DallasStars" label="#DallasStars" />
+      <node id="#Leafs" label="#Leafs" />
+      <node id="#tlmep" label="#tlmep" />
+      <node id="#islanders" label="#islanders" />
+      <node id="#Penguins" label="#Penguins" />
+      <node id="#bruins" label="#bruins" />
+      <node id="#battleoftheblades" label="#battleoftheblades" />
+      <node id="#Caps" label="#Caps" />
+      <node id="#CBC" label="#CBC" />
+      <node id="#Rangers" label="#Rangers" />
+      <node id="#StLouisBlues" label="#StLouisBlues" />
+      <node id="#habs" label="#habs" />
+      <node id="#preds" label="#preds" />
+      <node id="#Toronto" label="#Toronto" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#hockey" label="#hockey" />
+      <node id="#Islanders" label="#Islanders" />
+      <node id="#McDonagh" label="#McDonagh" />
+      <node id="#Ottawa" label="#Ottawa" />
+      <node id="#winning" label="#winning" />
+      <node id="#Bruins" label="#Bruins" />
+      <node id="#Oilers" label="#Oilers" />
+      <node id="#hockeyfights" label="#hockeyfights" />
+      <node id="#pens" label="#pens" />
+      <node id="#blog" label="#blog" />
+      <node id="#nhl" label="#nhl" />
+      <node id="#playoffs" label="#playoffs" />
+      <node id="#ottawa_ontario" label="#ottawa_ontario" />
+      <node id="#NHL11" label="#NHL11" />
+      <node id="#BattleOfOntario" label="#BattleOfOntario" />
+      <node id="#satire" label="#satire" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Devils" target="#hockey" weight="263" />
+      <edge id="1" source="#Devils" target="#NHL" weight="263" />
+      <edge id="2" source="#leafs" target="#nhl" weight="263" />
+      <edge id="3" source="#Coyotes" target="#Sens" weight="263" />
+      <edge id="4" source="#Coyotes" target="#NHL" weight="789" />
+      <edge id="5" source="#sports" target="#ottawa_ontario" weight="263" />
+      <edge id="6" source="#sports" target="#blog" weight="263" />
+      <edge id="7" source="#sports" target="#hockey" weight="263" />
+      <edge id="8" source="#sports" target="#satire" weight="263" />
+      <edge id="9" source="#sports" target="#nhl" weight="263" />
+      <edge id="10" source="#YouBeTheJudge" target="#NHL" weight="263" />
+      <edge id="11" source="#Sens" target="#BattleOfOntario" weight="526" />
+      <edge id="12" source="#Sens" target="#Leafs" weight="526" />
+      <edge id="13" source="#Sens" target="#NHL" weight="789" />
+      <edge id="14" source="#Habs" target="#NHL" weight="1841" />
+      <edge id="15" source="#Habs" target="#Leafs" weight="1052" />
+      <edge id="16" source="#Habs" target="#Bruins" weight="263" />
+      <edge id="17" source="#ILoveHockey" target="#NHL" weight="263" />
+      <edge id="18" source="#DallasStars" target="#NHL11" weight="263" />
+      <edge id="19" source="#Leafs" target="#hockey" weight="263" />
+      <edge id="20" source="#Leafs" target="#BattleOfOntario" weight="526" />
+      <edge id="21" source="#Leafs" target="#NHL" weight="1315" />
+      <edge id="22" source="#tlmep" target="#battleoftheblades" weight="263" />
+      <edge id="23" source="#islanders" target="#pens" weight="263" />
+      <edge id="24" source="#islanders" target="#hockeyfights" weight="263" />
+      <edge id="25" source="#islanders" target="#NHL" weight="263" />
+      <edge id="26" source="#Penguins" target="#winning" weight="526" />
+      <edge id="27" source="#Penguins" target="#NHL" weight="526" />
+      <edge id="28" source="#bruins" target="#habs" weight="263" />
+      <edge id="29" source="#Caps" target="#Rangers" weight="263" />
+      <edge id="30" source="#CBC" target="#NHL" weight="263" />
+      <edge id="31" source="#StLouisBlues" target="#NHL" weight="263" />
+      <edge id="32" source="#habs" target="#pens" weight="526" />
+      <edge id="33" source="#habs" target="#NHL" weight="526" />
+      <edge id="34" source="#preds" target="#playoffs" weight="263" />
+      <edge id="35" source="#preds" target="#nhl" weight="263" />
+      <edge id="36" source="#Toronto" target="#Ottawa" weight="263" />
+      <edge id="37" source="#NHL" target="#hockey" weight="526" />
+      <edge id="38" source="#NHL" target="#Islanders" weight="263" />
+      <edge id="39" source="#NHL" target="#McDonagh" weight="263" />
+      <edge id="40" source="#NHL" target="#pens" weight="526" />
+      <edge id="41" source="#NHL" target="#hockeyfights" weight="263" />
+      <edge id="42" source="#NHL" target="#winning" weight="526" />
+      <edge id="43" source="#NHL" target="#Bruins" weight="526" />
+      <edge id="44" source="#NHL" target="#Oilers" weight="1052" />
+      <edge id="45" source="#hockey" target="#ottawa_ontario" weight="263" />
+      <edge id="46" source="#hockey" target="#blog" weight="263" />
+      <edge id="47" source="#hockey" target="#nhl" weight="263" />
+      <edge id="48" source="#hockey" target="#satire" weight="263" />
+      <edge id="49" source="#hockeyfights" target="#pens" weight="263" />
+      <edge id="50" source="#blog" target="#ottawa_ontario" weight="263" />
+      <edge id="51" source="#blog" target="#satire" weight="263" />
+      <edge id="52" source="#blog" target="#nhl" weight="263" />
+      <edge id="53" source="#nhl" target="#playoffs" weight="263" />
+      <edge id="54" source="#nhl" target="#ottawa_ontario" weight="263" />
+      <edge id="55" source="#nhl" target="#satire" weight="263" />
+      <edge id="56" source="#ottawa_ontario" target="#satire" weight="263" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,755 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#brownies" label="#brownies" />
+      <node id="#impressed" label="#impressed" />
+      <node id="#Beach" label="#Beach" />
+      <node id="#draft" label="#draft" />
+      <node id="#happy" label="#happy" />
+      <node id="#celebrate" label="#celebrate" />
+      <node id="#Romney" label="#Romney" />
+      <node id="#catparty" label="#catparty" />
+      <node id="#commonwealth" label="#commonwealth" />
+      <node id="#BalletMet" label="#BalletMet" />
+      <node id="#tweetingmydemise" label="#tweetingmydemise" />
+      <node id="#WinterBreak2012" label="#WinterBreak2012" />
+      <node id="#thankful" label="#thankful" />
+      <node id="#oldschool" label="#oldschool" />
+      <node id="#BestDayEver" label="#BestDayEver" />
+      <node id="#design" label="#design" />
+      <node id="#15thingsaboutmybestfriend" label="#15thingsaboutmybestfriend" />
+      <node id="#newcrush" label="#newcrush" />
+      <node id="#ForAll" label="#ForAll" />
+      <node id="#lent" label="#lent" />
+      <node id="#bestdayever" label="#bestdayever" />
+      <node id="#superhero" label="#superhero" />
+      <node id="#RealLifeFriends" label="#RealLifeFriends" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#fml" label="#fml" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#keurig" label="#keurig" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#ButForOhioState" label="#ButForOhioState" />
+      <node id="#CRIME" label="#CRIME" />
+      <node id="#westcoastdreamin" label="#westcoastdreamin" />
+      <node id="#hanna" label="#hanna" />
+      <node id="#OLYMPICS" label="#OLYMPICS" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#whywasitinthecabinetifitsdirty" label="#whywasitinthecabinetifitsdirty" />
+      <node id="#caffeine" label="#caffeine" />
+      <node id="#hireme" label="#hireme" />
+      <node id="#lanternunited" label="#lanternunited" />
+      <node id="#summersolstice" label="#summersolstice" />
+      <node id="#sunset" label="#sunset" />
+      <node id="#election2012" label="#election2012" />
+      <node id="#sadday" label="#sadday" />
+      <node id="#QuebecCity" label="#QuebecCity" />
+      <node id="#gatsby" label="#gatsby" />
+      <node id="#Netflix" label="#Netflix" />
+      <node id="#TeamUSA" label="#TeamUSA" />
+      <node id="#ineedajob" label="#ineedajob" />
+      <node id="#Happeningnow" label="#Happeningnow" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#wothit" label="#wothit" />
+      <node id="#OHvotes" label="#OHvotes" />
+      <node id="#WomensHistoryMonth" label="#WomensHistoryMonth" />
+      <node id="#paris" label="#paris" />
+      <node id="#getit" label="#getit" />
+      <node id="#sun" label="#sun" />
+      <node id="#multimedia" label="#multimedia" />
+      <node id="#guilt" label="#guilt" />
+      <node id="#springbreak" label="#springbreak" />
+      <node id="#LiveTweetSugarRay" label="#LiveTweetSugarRay" />
+      <node id="#OscarNoms" label="#OscarNoms" />
+      <node id="#superstorm" label="#superstorm" />
+      <node id="#Hulu" label="#Hulu" />
+      <node id="#soexcited" label="#soexcited" />
+      <node id="#GMC" label="#GMC" />
+      <node id="#WhatWomenWant" label="#WhatWomenWant" />
+      <node id="#mobileapps" label="#mobileapps" />
+      <node id="#SIKENAW" label="#SIKENAW" />
+      <node id="#commencement2013" label="#commencement2013" />
+      <node id="#reallifefriends" label="#reallifefriends" />
+      <node id="#Election2012" label="#Election2012" />
+      <node id="#lost" label="#lost" />
+      <node id="#malnourished" label="#malnourished" />
+      <node id="#Sandy" label="#Sandy" />
+      <node id="#yourewelcome" label="#yourewelcome" />
+      <node id="#sandwiches" label="#sandwiches" />
+      <node id="#MyOwnWorstEnemy" label="#MyOwnWorstEnemy" />
+      <node id="#previoustweet" label="#previoustweet" />
+      <node id="#foodpic" label="#foodpic" />
+      <node id="#ColinandDan" label="#ColinandDan" />
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#florida" label="#florida" />
+      <node id="#AnnaKarenina" label="#AnnaKarenina" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#internprobz" label="#internprobz" />
+      <node id="#livetweetally" label="#livetweetally" />
+      <node id="#chineseschool" label="#chineseschool" />
+      <node id="#prayers4Maks" label="#prayers4Maks" />
+      <node id="#homemade" label="#homemade" />
+      <node id="#efficiency" label="#efficiency" />
+      <node id="#magicalmay" label="#magicalmay" />
+      <node id="#cold" label="#cold" />
+      <node id="#milkandcookies" label="#milkandcookies" />
+      <node id="#soCO" label="#soCO" />
+      <node id="#newton" label="#newton" />
+      <node id="#caughtinkhaki" label="#caughtinkhaki" />
+      <node id="#nashville" label="#nashville" />
+      <node id="#waitwhat" label="#waitwhat" />
+      <node id="#breaking" label="#breaking" />
+      <node id="#beachbod" label="#beachbod" />
+      <node id="#free" label="#free" />
+      <node id="#westerville" label="#westerville" />
+      <node id="#grandparents" label="#grandparents" />
+      <node id="#imafilmstudiesmajorsoitslegit" label="#imafilmstudiesmajorsoitslegit" />
+      <node id="#reallife" label="#reallife" />
+      <node id="#JBOP1" label="#JBOP1" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#study" label="#study" />
+      <node id="#Lit" label="#Lit" />
+      <node id="#Vote" label="#Vote" />
+      <node id="#historymidterm" label="#historymidterm" />
+      <node id="#work" label="#work" />
+      <node id="#studs" label="#studs" />
+      <node id="#springbreak2012" label="#springbreak2012" />
+      <node id="#imminentdeath" label="#imminentdeath" />
+      <node id="#Denver" label="#Denver" />
+      <node id="#fattyfatfatfat" label="#fattyfatfatfat" />
+      <node id="#football" label="#football" />
+      <node id="#internproblems" label="#internproblems" />
+      <node id="#5WomenArtists" label="#5WomenArtists" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#what" label="#what" />
+      <node id="#RNC2CLE" label="#RNC2CLE" />
+      <node id="#girlscamp" label="#girlscamp" />
+      <node id="#oreo" label="#oreo" />
+      <node id="#ladder" label="#ladder" />
+      <node id="#darkroastfordays" label="#darkroastfordays" />
+      <node id="#magic" label="#magic" />
+      <node id="#stillAutumnInMyHeart" label="#stillAutumnInMyHeart" />
+      <node id="#cantgoon" label="#cantgoon" />
+      <node id="#hairwraps" label="#hairwraps" />
+      <node id="#magicalexistance" label="#magicalexistance" />
+      <node id="#IBelieveThatWeWillWin" label="#IBelieveThatWeWillWin" />
+      <node id="#satire" label="#satire" />
+      <node id="#livetweetcorporatelife" label="#livetweetcorporatelife" />
+      <node id="#ApocalypseNow" label="#ApocalypseNow" />
+      <node id="#quarterlifecrisisproblems" label="#quarterlifecrisisproblems" />
+      <node id="#HowMuchDoesThatCost" label="#HowMuchDoesThatCost" />
+      <node id="#sportz" label="#sportz" />
+      <node id="#ThanksgivingStillMatters" label="#ThanksgivingStillMatters" />
+      <node id="#GoDaddy" label="#GoDaddy" />
+      <node id="#sports" label="#sports" />
+      <node id="#speakforyourself" label="#speakforyourself" />
+      <node id="#axidfrenxi" label="#axidfrenxi" />
+      <node id="#Outpost" label="#Outpost" />
+      <node id="#swooning" label="#swooning" />
+      <node id="#hoops" label="#hoops" />
+      <node id="#songofthesouth" label="#songofthesouth" />
+      <node id="#misscamp" label="#misscamp" />
+      <node id="#OSUCOMM3404" label="#OSUCOMM3404" />
+      <node id="#musty" label="#musty" />
+      <node id="#thoughts" label="#thoughts" />
+      <node id="#graduating" label="#graduating" />
+      <node id="#whereamI" label="#whereamI" />
+      <node id="#somillennial" label="#somillennial" />
+      <node id="#love" label="#love" />
+      <node id="#uplifting" label="#uplifting" />
+      <node id="#OSUgrad" label="#OSUgrad" />
+      <node id="#iwantmymac" label="#iwantmymac" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#iliveinaswingstate" label="#iliveinaswingstate" />
+      <node id="#rockymountainhigh" label="#rockymountainhigh" />
+      <node id="#apocalypse" label="#apocalypse" />
+      <node id="#UniversitySenate" label="#UniversitySenate" />
+      <node id="#KYSen" label="#KYSen" />
+      <node id="#cantstop" label="#cantstop" />
+      <node id="#forhire" label="#forhire" />
+      <node id="#bracket" label="#bracket" />
+      <node id="#StephenHawking" label="#StephenHawking" />
+      <node id="#SaveFall" label="#SaveFall" />
+      <node id="#soccer" label="#soccer" />
+      <node id="#cholula" label="#cholula" />
+      <node id="#IwenttoFranceonce" label="#IwenttoFranceonce" />
+      <node id="#iamarunner" label="#iamarunner" />
+      <node id="#hashtags" label="#hashtags" />
+      <node id="#lazy" label="#lazy" />
+      <node id="#aliens" label="#aliens" />
+      <node id="#sohipster" label="#sohipster" />
+      <node id="#beach" label="#beach" />
+      <node id="#semesterswitch" label="#semesterswitch" />
+      <node id="#livetweetnashville" label="#livetweetnashville" />
+      <node id="#postgradplans" label="#postgradplans" />
+      <node id="#winterbreak2012" label="#winterbreak2012" />
+      <node id="#worthit" label="#worthit" />
+      <node id="#OldBoysClub" label="#OldBoysClub" />
+      <node id="#designprobs" label="#designprobs" />
+      <node id="#seriouslyitsucks" label="#seriouslyitsucks" />
+      <node id="#amrunning" label="#amrunning" />
+      <node id="#rise" label="#rise" />
+      <node id="#LilBub" label="#LilBub" />
+      <node id="#WestervilleProbz" label="#WestervilleProbz" />
+      <node id="#LiveTweet14hourcarride" label="#LiveTweet14hourcarride" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#midtermproblems" label="#midtermproblems" />
+      <node id="#filmstudiesprobz" label="#filmstudiesprobz" />
+      <node id="#crime" label="#crime" />
+      <node id="#livetweetkristen" label="#livetweetkristen" />
+      <node id="#frankenstorm" label="#frankenstorm" />
+      <node id="#TheNotebook" label="#TheNotebook" />
+      <node id="#YouthRetreat" label="#YouthRetreat" />
+      <node id="#cd102" label="#cd102" />
+      <node id="#Crime" label="#Crime" />
+      <node id="#action" label="#action" />
+      <node id="#HPV" label="#HPV" />
+      <node id="#graduation2014" label="#graduation2014" />
+      <node id="#jokers" label="#jokers" />
+      <node id="#ohiostate" label="#ohiostate" />
+      <node id="#coughsyrup" label="#coughsyrup" />
+      <node id="#designerproblems" label="#designerproblems" />
+      <node id="#lastfirstdayofschool" label="#lastfirstdayofschool" />
+      <node id="#lastweekofclass" label="#lastweekofclass" />
+      <node id="#quotesfromourchildhood" label="#quotesfromourchildhood" />
+      <node id="#vote" label="#vote" />
+      <node id="#tweetsfromlunchbreak" label="#tweetsfromlunchbreak" />
+      <node id="#girlpower" label="#girlpower" />
+      <node id="#drinkinggame" label="#drinkinggame" />
+      <node id="#s" label="#s" />
+      <node id="#depressing" label="#depressing" />
+      <node id="#fall" label="#fall" />
+      <node id="#reppin" label="#reppin" />
+      <node id="#S" label="#S" />
+      <node id="#NationalCoffeeDay" label="#NationalCoffeeDay" />
+      <node id="#dinner" label="#dinner" />
+      <node id="#joker" label="#joker" />
+      <node id="#MYLIFE" label="#MYLIFE" />
+      <node id="#technology" label="#technology" />
+      <node id="#USAvMEX" label="#USAvMEX" />
+      <node id="#ColumbusDispatch" label="#ColumbusDispatch" />
+      <node id="#happyhalloween" label="#happyhalloween" />
+      <node id="#graduation" label="#graduation" />
+      <node id="#TheJames" label="#TheJames" />
+      <node id="#donuts" label="#donuts" />
+      <node id="#perseverance" label="#perseverance" />
+      <node id="#united" label="#united" />
+      <node id="#science" label="#science" />
+      <node id="#minipaper" label="#minipaper" />
+      <node id="#MerryChristmas" label="#MerryChristmas" />
+      <node id="#Boston" label="#Boston" />
+      <node id="#magicalexistence" label="#magicalexistence" />
+      <node id="#SaveNovember" label="#SaveNovember" />
+      <node id="#osu" label="#osu" />
+      <node id="#cbc" label="#cbc" />
+      <node id="#dreams" label="#dreams" />
+      <node id="#fail" label="#fail" />
+      <node id="#sportsanalogy" label="#sportsanalogy" />
+      <node id="#CO" label="#CO" />
+      <node id="#FaceOff" label="#FaceOff" />
+      <node id="#DarkNight" label="#DarkNight" />
+      <node id="#whowantstogetareubanafterworkwithme" label="#whowantstogetareubanafterworkwithme" />
+      <node id="#swimming" label="#swimming" />
+      <node id="#itsawonderfullife" label="#itsawonderfullife" />
+      <node id="#lanternlove" label="#lanternlove" />
+      <node id="#new2osu" label="#new2osu" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#GinBlossom" label="#GinBlossom" />
+      <node id="#hawtsauce" label="#hawtsauce" />
+      <node id="#cranecafe" label="#cranecafe" />
+      <node id="#CoenBrothers" label="#CoenBrothers" />
+      <node id="#SummerVacationOH15" label="#SummerVacationOH15" />
+      <node id="#mistake" label="#mistake" />
+      <node id="#thebest" label="#thebest" />
+      <node id="#asseeninthewaitingroom" label="#asseeninthewaitingroom" />
+      <node id="#tourdeMidwestakaGodsCountry" label="#tourdeMidwestakaGodsCountry" />
+      <node id="#socute" label="#socute" />
+      <node id="#christmas" label="#christmas" />
+      <node id="#BraveNewWorld" label="#BraveNewWorld" />
+      <node id="#itsterrible" label="#itsterrible" />
+      <node id="#rentalcar" label="#rentalcar" />
+      <node id="#filmstudiesproblems" label="#filmstudiesproblems" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#bff" label="#bff" />
+      <node id="#thanks" label="#thanks" />
+      <node id="#angst" label="#angst" />
+      <node id="#sulfur" label="#sulfur" />
+      <node id="#FORHIRE" label="#FORHIRE" />
+      <node id="#ilovethem" label="#ilovethem" />
+      <node id="#crew" label="#crew" />
+      <node id="#lifestyledecisions" label="#lifestyledecisions" />
+      <node id="#imonaboat" label="#imonaboat" />
+      <node id="#baseball" label="#baseball" />
+      <node id="#PickSix" label="#PickSix" />
+      <node id="#southern" label="#southern" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#sike" label="#sike" />
+      <node id="#nodownside" label="#nodownside" />
+      <node id="#journalism" label="#journalism" />
+      <node id="#paleale" label="#paleale" />
+      <node id="#music" label="#music" />
+      <node id="#HSS" label="#HSS" />
+      <node id="#AtimeoffworkwhenImnotlayingfacedown" label="#AtimeoffworkwhenImnotlayingfacedown" />
+      <node id="#mirrorlakemonday" label="#mirrorlakemonday" />
+      <node id="#childhood" label="#childhood" />
+      <node id="#latenight" label="#latenight" />
+      <node id="#treatyoself" label="#treatyoself" />
+      <node id="#campluz" label="#campluz" />
+      <node id="#deserted" label="#deserted" />
+      <node id="#livetweeteyesurgery" label="#livetweeteyesurgery" />
+      <node id="#impendingdoom" label="#impendingdoom" />
+      <node id="#lanternalum" label="#lanternalum" />
+      <node id="#lunchwithKLa" label="#lunchwithKLa" />
+      <node id="#USAvsBEL" label="#USAvsBEL" />
+      <node id="#TheActofKilling" label="#TheActofKilling" />
+      <node id="#saw" label="#saw" />
+      <node id="#partylikeajournalist" label="#partylikeajournalist" />
+      <node id="#kingsofleon" label="#kingsofleon" />
+      <node id="#Canada" label="#Canada" />
+      <node id="#janky" label="#janky" />
+      <node id="#itsmelledbad" label="#itsmelledbad" />
+      <node id="#YoureBeautiful" label="#YoureBeautiful" />
+      <node id="#election" label="#election" />
+      <node id="#Africa" label="#Africa" />
+      <node id="#internbuddies" label="#internbuddies" />
+      <node id="#SugarRay" label="#SugarRay" />
+      <node id="#flowers" label="#flowers" />
+      <node id="#ruined" label="#ruined" />
+      <node id="#basketball" label="#basketball" />
+      <node id="#datavisualization" label="#datavisualization" />
+      <node id="#TennesseeWilliams" label="#TennesseeWilliams" />
+      <node id="#marsala" label="#marsala" />
+      <node id="#Spotthedifference" label="#Spotthedifference" />
+      <node id="#holidays" label="#holidays" />
+      <node id="#maksprobs" label="#maksprobs" />
+      <node id="#so2k16" label="#so2k16" />
+      <node id="#snow" label="#snow" />
+      <node id="#thelantern" label="#thelantern" />
+      <node id="#yum" label="#yum" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#seriously" label="#seriously" />
+      <node id="#autumn" label="#autumn" />
+      <node id="#eternallylate" label="#eternallylate" />
+      <node id="#coloroftheyear" label="#coloroftheyear" />
+      <node id="#Ihatesemesters" label="#Ihatesemesters" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#USMNT" label="#USMNT" />
+      <node id="#history" label="#history" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#domestic" label="#domestic" />
+      <node id="#thanksguys" label="#thanksguys" />
+      <node id="#Kristenreports" label="#Kristenreports" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#aaroncraft" label="#aaroncraft" />
+      <node id="#bougie" label="#bougie" />
+      <node id="#noms" label="#noms" />
+      <node id="#asseenincolum" label="#asseenincolum" />
+      <node id="#SouthOval" label="#SouthOval" />
+      <node id="#minority" label="#minority" />
+      <node id="#EddieRedmayne" label="#EddieRedmayne" />
+      <node id="#deathcicles" label="#deathcicles" />
+      <node id="#ghostofcorporatefuture" label="#ghostofcorporatefuture" />
+      <node id="#ThisIsIt" label="#ThisIsIt" />
+      <node id="#nopower" label="#nopower" />
+      <node id="#PlumpyNut" label="#PlumpyNut" />
+      <node id="#CapitolTheater" label="#CapitolTheater" />
+      <node id="#livetweetNashville" label="#livetweetNashville" />
+      <node id="#twitterfilter" label="#twitterfilter" />
+      <node id="#avidproblems" label="#avidproblems" />
+      <node id="#dentalhygieneprobz" label="#dentalhygieneprobz" />
+      <node id="#RIPfall" label="#RIPfall" />
+      <node id="#lunch" label="#lunch" />
+      <node id="#livetweetmycold" label="#livetweetmycold" />
+      <node id="#nashvillechristmas" label="#nashvillechristmas" />
+      <node id="#HereWeAre" label="#HereWeAre" />
+      <node id="#tired" label="#tired" />
+      <node id="#wellness" label="#wellness" />
+      <node id="#summer" label="#summer" />
+      <node id="#tt" label="#tt" />
+      <node id="#finalsweek" label="#finalsweek" />
+      <node id="#why" label="#why" />
+      <node id="#wontstop" label="#wontstop" />
+      <node id="#butforohiostate" label="#butforohiostate" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#turnup" label="#turnup" />
+      <node id="#notcreepy" label="#notcreepy" />
+      <node id="#LetsGo" label="#LetsGo" />
+      <node id="#sorryimnotsorry" label="#sorryimnotsorry" />
+      <node id="#SPORTS" label="#SPORTS" />
+      <node id="#KristeninAfrica" label="#KristeninAfrica" />
+      <node id="#missyou" label="#missyou" />
+      <node id="#GrillMasterChad" label="#GrillMasterChad" />
+      <node id="#diving" label="#diving" />
+      <node id="#serioustweet" label="#serioustweet" />
+      <node id="#YOLO" label="#YOLO" />
+      <node id="#careerproblems" label="#careerproblems" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#15thingsaboutmybestfriend" weight="3236" />
+      <edge id="1" source="#brownies" target="#kingsofleon" weight="3236" />
+      <edge id="2" source="#brownies" target="#guilt" weight="3236" />
+      <edge id="3" source="#brownies" target="#treatyoself" weight="3236" />
+      <edge id="4" source="#brownies" target="#homemade" weight="3236" />
+      <edge id="5" source="#impressed" target="#superhero" weight="3236" />
+      <edge id="6" source="#Beach" target="#reallifefriends" weight="3236" />
+      <edge id="7" source="#draft" target="#sports" weight="3236" />
+      <edge id="8" source="#happy" target="#coffee" weight="3236" />
+      <edge id="9" source="#happy" target="#keurig" weight="3236" />
+      <edge id="10" source="#celebrate" target="#catparty" weight="3236" />
+      <edge id="11" source="#Romney" target="#westerville" weight="3236" />
+      <edge id="12" source="#Romney" target="#Obama" weight="3236" />
+      <edge id="13" source="#Romney" target="#donuts" weight="3236" />
+      <edge id="14" source="#commonwealth" target="#lunchwithKLa" weight="3236" />
+      <edge id="15" source="#commonwealth" target="#lent" weight="3236" />
+      <edge id="16" source="#commonwealth" target="#sandwiches" weight="3236" />
+      <edge id="17" source="#commonwealth" target="#lunch" weight="3236" />
+      <edge id="18" source="#BalletMet" target="#CapitolTheater" weight="3236" />
+      <edge id="19" source="#tweetingmydemise" target="#Sandy" weight="3236" />
+      <edge id="20" source="#tweetingmydemise" target="#frankenstorm" weight="3236" />
+      <edge id="21" source="#tweetingmydemise" target="#Ohio" weight="3236" />
+      <edge id="22" source="#WinterBreak2012" target="#AnnaKarenina" weight="3236" />
+      <edge id="23" source="#thankful" target="#minority" weight="3236" />
+      <edge id="24" source="#oldschool" target="#quotesfromourchildhood" weight="3236" />
+      <edge id="25" source="#BestDayEver" target="#NationalCoffeeDay" weight="3236" />
+      <edge id="26" source="#design" target="#caffeine" weight="3236" />
+      <edge id="27" source="#newcrush" target="#sports" weight="3236" />
+      <edge id="28" source="#ForAll" target="#Vote" weight="3236" />
+      <edge id="29" source="#lent" target="#lunchwithKLa" weight="3236" />
+      <edge id="30" source="#lent" target="#sandwiches" weight="3236" />
+      <edge id="31" source="#lent" target="#lunch" weight="3236" />
+      <edge id="32" source="#bestdayever" target="#magicalexistence" weight="3236" />
+      <edge id="33" source="#bestdayever" target="#CO" weight="3236" />
+      <edge id="34" source="#bestdayever" target="#songofthesouth" weight="3236" />
+      <edge id="35" source="#bestdayever" target="#thebest" weight="3236" />
+      <edge id="36" source="#bestdayever" target="#southern" weight="3236" />
+      <edge id="37" source="#RealLifeFriends" target="#ilovethem" weight="3236" />
+      <edge id="38" source="#CLE" target="#sportz" weight="3236" />
+      <edge id="39" source="#fml" target="#semesterswitch" weight="3236" />
+      <edge id="40" source="#BlackFriday" target="#OhioState" weight="3236" />
+      <edge id="41" source="#keurig" target="#coffee" weight="3236" />
+      <edge id="42" source="#Buckeyes" target="#election2012" weight="3236" />
+      <edge id="43" source="#ButForOhioState" target="#graduation2014" weight="3236" />
+      <edge id="44" source="#ButForOhioState" target="#OSUgrad" weight="3236" />
+      <edge id="45" source="#CRIME" target="#OSU" weight="3236" />
+      <edge id="46" source="#CRIME" target="#happyhalloween" weight="3236" />
+      <edge id="47" source="#westcoastdreamin" target="#eternallylate" weight="3236" />
+      <edge id="48" source="#hanna" target="#caughtinkhaki" weight="3236" />
+      <edge id="49" source="#OLYMPICS" target="#TeamUSA" weight="3236" />
+      <edge id="50" source="#OLYMPICS" target="#swimming" weight="3236" />
+      <edge id="51" source="#coffee" target="#darkroastfordays" weight="3236" />
+      <edge id="52" source="#coffee" target="#asseenincolum" weight="3236" />
+      <edge id="53" source="#coffee" target="#ColumbusDispatch" weight="3236" />
+      <edge id="54" source="#coffee" target="#sun" weight="3236" />
+      <edge id="55" source="#coffee" target="#socute" weight="3236" />
+      <edge id="56" source="#coffee" target="#magicalmay" weight="3236" />
+      <edge id="57" source="#coffee" target="#minipaper" weight="3236" />
+      <edge id="58" source="#coffee" target="#cranecafe" weight="3236" />
+      <edge id="59" source="#coffee" target="#summer" weight="3236" />
+      <edge id="60" source="#whywasitinthecabinetifitsdirty" target="#sorryimnotsorry" weight="3236" />
+      <edge id="61" source="#caffeine" target="#wothit" weight="3236" />
+      <edge id="62" source="#hireme" target="#FORHIRE" weight="3236" />
+      <edge id="63" source="#hireme" target="#impendingdoom" weight="3236" />
+      <edge id="64" source="#hireme" target="#graduation" weight="3236" />
+      <edge id="65" source="#hireme" target="#graduating" weight="3236" />
+      <edge id="66" source="#hireme" target="#forhire" weight="3236" />
+      <edge id="67" source="#lanternunited" target="#united" weight="3236" />
+      <edge id="68" source="#summersolstice" target="#flowers" weight="3236" />
+      <edge id="69" source="#sunset" target="#beach" weight="3236" />
+      <edge id="70" source="#sunset" target="#foodpic" weight="3236" />
+      <edge id="71" source="#sunset" target="#love" weight="3236" />
+      <edge id="72" source="#sunset" target="#oreo" weight="3236" />
+      <edge id="73" source="#sunset" target="#florida" weight="3236" />
+      <edge id="74" source="#election2012" target="#worthit" weight="9708" />
+      <edge id="75" source="#election2012" target="#vote" weight="3236" />
+      <edge id="76" source="#election2012" target="#iliveinaswingstate" weight="3236" />
+      <edge id="77" source="#election2012" target="#OHvotes" weight="6472" />
+      <edge id="78" source="#sadday" target="#OSUCOMM3404" weight="3236" />
+      <edge id="79" source="#QuebecCity" target="#Canada" weight="3236" />
+      <edge id="80" source="#gatsby" target="#rise" weight="3236" />
+      <edge id="81" source="#gatsby" target="#magicalmay" weight="3236" />
+      <edge id="82" source="#Netflix" target="#GoDaddy" weight="3236" />
+      <edge id="83" source="#Netflix" target="#Hulu" weight="3236" />
+      <edge id="84" source="#TeamUSA" target="#Rio2016" weight="3236" />
+      <edge id="85" source="#TeamUSA" target="#swimming" weight="3236" />
+      <edge id="86" source="#ineedajob" target="#internbuddies" weight="3236" />
+      <edge id="87" source="#Happeningnow" target="#MYLIFE" weight="3236" />
+      <edge id="88" source="#columbus" target="#love" weight="3236" />
+      <edge id="89" source="#columbus" target="#reallifefriends" weight="3236" />
+      <edge id="90" source="#columbus" target="#soccer" weight="3236" />
+      <edge id="91" source="#columbus" target="#chineseschool" weight="3236" />
+      <edge id="92" source="#columbus" target="#fall" weight="3236" />
+      <edge id="93" source="#columbus" target="#cd102" weight="3236" />
+      <edge id="94" source="#columbus" target="#crew" weight="3236" />
+      <edge id="95" source="#OHvotes" target="#iliveinaswingstate" weight="3236" />
+      <edge id="96" source="#WomensHistoryMonth" target="#5WomenArtists" weight="3236" />
+      <edge id="97" source="#paris" target="#tt" weight="3236" />
+      <edge id="98" source="#paris" target="#imonaboat" weight="3236" />
+      <edge id="99" source="#getit" target="#Ihatesemesters" weight="3236" />
+      <edge id="100" source="#getit" target="#sportsanalogy" weight="3236" />
+      <edge id="101" source="#sun" target="#magicalmay" weight="3236" />
+      <edge id="102" source="#sun" target="#summer" weight="3236" />
+      <edge id="103" source="#multimedia" target="#journalism" weight="3236" />
+      <edge id="104" source="#guilt" target="#kingsofleon" weight="3236" />
+      <edge id="105" source="#guilt" target="#treatyoself" weight="3236" />
+      <edge id="106" source="#guilt" target="#homemade" weight="3236" />
+      <edge id="107" source="#springbreak" target="#love" weight="6472" />
+      <edge id="108" source="#springbreak" target="#florida" weight="6472" />
+      <edge id="109" source="#springbreak" target="#OhioState" weight="3236" />
+      <edge id="110" source="#springbreak" target="#beach" weight="3236" />
+      <edge id="111" source="#springbreak" target="#grandparents" weight="3236" />
+      <edge id="112" source="#springbreak" target="#worthit" weight="3236" />
+      <edge id="113" source="#LiveTweetSugarRay" target="#SugarRay" weight="6472" />
+      <edge id="114" source="#LiveTweetSugarRay" target="#GinBlossom" weight="9708" />
+      <edge id="115" source="#LiveTweetSugarRay" target="#Lit" weight="9708" />
+      <edge id="116" source="#LiveTweetSugarRay" target="#MyOwnWorstEnemy" weight="3236" />
+      <edge id="117" source="#OscarNoms" target="#TheActofKilling" weight="3236" />
+      <edge id="118" source="#superstorm" target="#imminentdeath" weight="3236" />
+      <edge id="119" source="#Hulu" target="#GoDaddy" weight="3236" />
+      <edge id="120" source="#soexcited" target="#love" weight="3236" />
+      <edge id="121" source="#GMC" target="#CO" weight="3236" />
+      <edge id="122" source="#GMC" target="#rentalcar" weight="3236" />
+      <edge id="123" source="#WhatWomenWant" target="#GetCovered" weight="3236" />
+      <edge id="124" source="#mobileapps" target="#thelantern" weight="3236" />
+      <edge id="125" source="#SIKENAW" target="#avidproblems" weight="3236" />
+      <edge id="126" source="#commencement2013" target="#reallife" weight="3236" />
+      <edge id="127" source="#commencement2013" target="#ohiostate" weight="6472" />
+      <edge id="128" source="#reallifefriends" target="#crew" weight="3236" />
+      <edge id="129" source="#reallifefriends" target="#hashtags" weight="3236" />
+      <edge id="130" source="#reallifefriends" target="#missyou" weight="3236" />
+      <edge id="131" source="#reallifefriends" target="#soccer" weight="3236" />
+      <edge id="132" source="#Election2012" target="#OhioState" weight="3236" />
+      <edge id="133" source="#lost" target="#ruined" weight="3236" />
+      <edge id="134" source="#malnourished" target="#GivingTuesday" weight="3236" />
+      <edge id="135" source="#malnourished" target="#PlumpyNut" weight="3236" />
+      <edge id="136" source="#Sandy" target="#Ohio" weight="3236" />
+      <edge id="137" source="#Sandy" target="#speakforyourself" weight="3236" />
+      <edge id="138" source="#Sandy" target="#frankenstorm" weight="16180" />
+      <edge id="139" source="#Sandy" target="#nopower" weight="9708" />
+      <edge id="140" source="#yourewelcome" target="#paleale" weight="3236" />
+      <edge id="141" source="#yourewelcome" target="#cbc" weight="3236" />
+      <edge id="142" source="#yourewelcome" target="#sports" weight="3236" />
+      <edge id="143" source="#sandwiches" target="#lunchwithKLa" weight="3236" />
+      <edge id="144" source="#sandwiches" target="#lunch" weight="3236" />
+      <edge id="145" source="#MyOwnWorstEnemy" target="#Lit" weight="3236" />
+      <edge id="146" source="#previoustweet" target="#magicalmay" weight="3236" />
+      <edge id="147" source="#foodpic" target="#love" weight="3236" />
+      <edge id="148" source="#foodpic" target="#beach" weight="3236" />
+      <edge id="149" source="#foodpic" target="#oreo" weight="3236" />
+      <edge id="150" source="#foodpic" target="#florida" weight="3236" />
+      <edge id="151" source="#ColinandDan" target="#serioustweet" weight="3236" />
+      <edge id="152" source="#florida" target="#beach" weight="6472" />
+      <edge id="153" source="#florida" target="#oreo" weight="3236" />
+      <edge id="154" source="#florida" target="#love" weight="9708" />
+      <edge id="155" source="#florida" target="#grandparents" weight="3236" />
+      <edge id="156" source="#RNC" target="#RNC2CLE" weight="3236" />
+      <edge id="157" source="#internprobz" target="#dentalhygieneprobz" weight="3236" />
+      <edge id="158" source="#livetweetally" target="#lanternlove" weight="3236" />
+      <edge id="159" source="#chineseschool" target="#cd102" weight="3236" />
+      <edge id="160" source="#prayers4Maks" target="#maksprobs" weight="3236" />
+      <edge id="161" source="#homemade" target="#kingsofleon" weight="3236" />
+      <edge id="162" source="#homemade" target="#treatyoself" weight="3236" />
+      <edge id="163" source="#efficiency" target="#action" weight="3236" />
+      <edge id="164" source="#magicalmay" target="#hairwraps" weight="3236" />
+      <edge id="165" source="#magicalmay" target="#livetweetmycold" weight="3236" />
+      <edge id="166" source="#magicalmay" target="#childhood" weight="3236" />
+      <edge id="167" source="#magicalmay" target="#rise" weight="3236" />
+      <edge id="168" source="#magicalmay" target="#magic" weight="3236" />
+      <edge id="169" source="#magicalmay" target="#summer" weight="3236" />
+      <edge id="170" source="#cold" target="#YOLO" weight="3236" />
+      <edge id="171" source="#milkandcookies" target="#aaroncraft" weight="3236" />
+      <edge id="172" source="#soCO" target="#fail" weight="3236" />
+      <edge id="173" source="#newton" target="#journalism" weight="3236" />
+      <edge id="174" source="#nashville" target="#livetweetnashville" weight="3236" />
+      <edge id="175" source="#waitwhat" target="#twitterfilter" weight="3236" />
+      <edge id="176" source="#waitwhat" target="#autumn" weight="3236" />
+      <edge id="177" source="#waitwhat" target="#Columbus" weight="3236" />
+      <edge id="178" source="#waitwhat" target="#Outpost" weight="3236" />
+      <edge id="179" source="#breaking" target="#livetweetNashville" weight="3236" />
+      <edge id="180" source="#beachbod" target="#work" weight="3236" />
+      <edge id="181" source="#beachbod" target="#turnup" weight="3236" />
+      <edge id="182" source="#free" target="#Denver" weight="3236" />
+      <edge id="183" source="#westerville" target="#donuts" weight="3236" />
+      <edge id="184" source="#grandparents" target="#love" weight="3236" />
+      <edge id="185" source="#imafilmstudiesmajorsoitslegit" target="#thoughts" weight="3236" />
+      <edge id="186" source="#reallife" target="#ohiostate" weight="3236" />
+      <edge id="187" source="#JBOP1" target="#LetsGo" weight="3236" />
+      <edge id="188" source="#BuckeyeNation" target="#sports" weight="3236" />
+      <edge id="189" source="#study" target="#midtermproblems" weight="3236" />
+      <edge id="190" source="#Lit" target="#GinBlossom" weight="3236" />
+      <edge id="191" source="#historymidterm" target="#IwenttoFranceonce" weight="3236" />
+      <edge id="192" source="#work" target="#turnup" weight="3236" />
+      <edge id="193" source="#studs" target="#lanternalum" weight="3236" />
+      <edge id="194" source="#studs" target="#sports" weight="3236" />
+      <edge id="195" source="#springbreak2012" target="#Africa" weight="3236" />
+      <edge id="196" source="#fattyfatfatfat" target="#thanksguys" weight="3236" />
+      <edge id="197" source="#football" target="#sports" weight="6472" />
+      <edge id="198" source="#internproblems" target="#iwantmymac" weight="3236" />
+      <edge id="199" source="#asseenincolumbus" target="#snow" weight="3236" />
+      <edge id="200" source="#what" target="#why" weight="3236" />
+      <edge id="201" source="#girlscamp" target="#campluz" weight="3236" />
+      <edge id="202" source="#oreo" target="#love" weight="3236" />
+      <edge id="203" source="#oreo" target="#beach" weight="3236" />
+      <edge id="204" source="#ladder" target="#saw" weight="3236" />
+      <edge id="205" source="#magic" target="#hairwraps" weight="3236" />
+      <edge id="206" source="#magic" target="#childhood" weight="3236" />
+      <edge id="207" source="#stillAutumnInMyHeart" target="#SaveNovember" weight="3236" />
+      <edge id="208" source="#stillAutumnInMyHeart" target="#RIPfall" weight="3236" />
+      <edge id="209" source="#stillAutumnInMyHeart" target="#SaveFall" weight="3236" />
+      <edge id="210" source="#stillAutumnInMyHeart" target="#ThanksgivingStillMatters" weight="3236" />
+      <edge id="211" source="#cantgoon" target="#angst" weight="3236" />
+      <edge id="212" source="#cantgoon" target="#christmas" weight="3236" />
+      <edge id="213" source="#cantgoon" target="#seriouslyitsucks" weight="3236" />
+      <edge id="214" source="#cantgoon" target="#itsterrible" weight="3236" />
+      <edge id="215" source="#cantgoon" target="#tired" weight="3236" />
+      <edge id="216" source="#cantgoon" target="#filmstudiesprobz" weight="3236" />
+      <edge id="217" source="#hairwraps" target="#childhood" weight="3236" />
+      <edge id="218" source="#magicalexistance" target="#s" weight="3236" />
+      <edge id="219" source="#IBelieveThatWeWillWin" target="#USAvsBEL" weight="3236" />
+      <edge id="220" source="#satire" target="#OhioState" weight="3236" />
+      <edge id="221" source="#livetweetcorporatelife" target="#whowantstogetareubanafterworkwithme" weight="3236" />
+      <edge id="222" source="#livetweetcorporatelife" target="#tweetsfromlunchbreak" weight="3236" />
+      <edge id="223" source="#livetweetcorporatelife" target="#dreams" weight="3236" />
+      <edge id="224" source="#livetweetcorporatelife" target="#bougie" weight="3236" />
+      <edge id="225" source="#livetweetcorporatelife" target="#seriously" weight="3236" />
+      <edge id="226" source="#livetweetcorporatelife" target="#ghostofcorporatefuture" weight="3236" />
+      <edge id="227" source="#ApocalypseNow" target="#YOLO" weight="6472" />
+      <edge id="228" source="#quarterlifecrisisproblems" target="#careerproblems" weight="3236" />
+      <edge id="229" source="#quarterlifecrisisproblems" target="#filmstudiesproblems" weight="3236" />
+      <edge id="230" source="#HowMuchDoesThatCost" target="#SOTU" weight="3236" />
+      <edge id="231" source="#ThanksgivingStillMatters" target="#SaveNovember" weight="3236" />
+      <edge id="232" source="#ThanksgivingStillMatters" target="#RIPfall" weight="3236" />
+      <edge id="233" source="#ThanksgivingStillMatters" target="#SaveFall" weight="3236" />
+      <edge id="234" source="#sports" target="#paleale" weight="3236" />
+      <edge id="235" source="#sports" target="#hoops" weight="3236" />
+      <edge id="236" source="#sports" target="#serioustweet" weight="3236" />
+      <edge id="237" source="#sports" target="#lanternalum" weight="3236" />
+      <edge id="238" source="#sports" target="#cbc" weight="3236" />
+      <edge id="239" source="#sports" target="#tbt" weight="3236" />
+      <edge id="240" source="#sports" target="#thanks" weight="3236" />
+      <edge id="241" source="#speakforyourself" target="#nopower" weight="3236" />
+      <edge id="242" source="#speakforyourself" target="#frankenstorm" weight="3236" />
+      <edge id="243" source="#axidfrenxi" target="#nodownside" weight="3236" />
+      <edge id="244" source="#Outpost" target="#GrillMasterChad" weight="3236" />
+      <edge id="245" source="#swooning" target="#CoenBrothers" weight="3236" />
+      <edge id="246" source="#swooning" target="#Boston" weight="3236" />
+      <edge id="247" source="#songofthesouth" target="#magicalexistence" weight="3236" />
+      <edge id="248" source="#songofthesouth" target="#thebest" weight="3236" />
+      <edge id="249" source="#songofthesouth" target="#southern" weight="3236" />
+      <edge id="250" source="#misscamp" target="#missyou" weight="3236" />
+      <edge id="251" source="#OSUCOMM3404" target="#osu" weight="3236" />
+      <edge id="252" source="#musty" target="#sulfur" weight="3236" />
+      <edge id="253" source="#thoughts" target="#finalsweek" weight="3236" />
+      <edge id="254" source="#graduating" target="#forhire" weight="3236" />
+      <edge id="255" source="#whereamI" target="#history" weight="3236" />
+      <edge id="256" source="#somillennial" target="#so2k16" weight="3236" />
+      <edge id="257" source="#somillennial" target="#sohipster" weight="3236" />
+      <edge id="258" source="#love" target="#beach" weight="6472" />
+      <edge id="259" source="#love" target="#fall" weight="3236" />
+      <edge id="260" source="#uplifting" target="#S" weight="3236" />
+      <edge id="261" source="#OSUgrad" target="#graduation2014" weight="3236" />
+      <edge id="262" source="#GivingTuesday" target="#PlumpyNut" weight="3236" />
+      <edge id="263" source="#rockymountainhigh" target="#bff" weight="3236" />
+      <edge id="264" source="#apocalypse" target="#aliens" weight="3236" />
+      <edge id="265" source="#UniversitySenate" target="#girlpower" weight="3236" />
+      <edge id="266" source="#KYSen" target="#drinkinggame" weight="3236" />
+      <edge id="267" source="#cantstop" target="#wontstop" weight="3236" />
+      <edge id="268" source="#bracket" target="#OhioState" weight="3236" />
+      <edge id="269" source="#bracket" target="#basketball" weight="3236" />
+      <edge id="270" source="#StephenHawking" target="#EddieRedmayne" weight="3236" />
+      <edge id="271" source="#StephenHawking" target="#Spotthedifference" weight="3236" />
+      <edge id="272" source="#SaveFall" target="#SaveNovember" weight="3236" />
+      <edge id="273" source="#SaveFall" target="#RIPfall" weight="3236" />
+      <edge id="274" source="#soccer" target="#crew" weight="3236" />
+      <edge id="275" source="#cholula" target="#hawtsauce" weight="3236" />
+      <edge id="276" source="#iamarunner" target="#amrunning" weight="3236" />
+      <edge id="277" source="#hashtags" target="#missyou" weight="3236" />
+      <edge id="278" source="#lazy" target="#janky" weight="3236" />
+      <edge id="279" source="#sohipster" target="#so2k16" weight="3236" />
+      <edge id="280" source="#beach" target="#thebest" weight="3236" />
+      <edge id="281" source="#postgradplans" target="#TennesseeWilliams" weight="3236" />
+      <edge id="282" source="#winterbreak2012" target="#deathcicles" weight="3236" />
+      <edge id="283" source="#worthit" target="#lifestyledecisions" weight="3236" />
+      <edge id="284" source="#OldBoysClub" target="#WestervilleProbz" weight="3236" />
+      <edge id="285" source="#designprobs" target="#partylikeajournalist" weight="3236" />
+      <edge id="286" source="#seriouslyitsucks" target="#itsterrible" weight="3236" />
+      <edge id="287" source="#rise" target="#DarkNight" weight="3236" />
+      <edge id="288" source="#LilBub" target="#KristeninAfrica" weight="3236" />
+      <edge id="289" source="#LiveTweet14hourcarride" target="#depressing" weight="3236" />
+      <edge id="290" source="#filmstudiesprobz" target="#tired" weight="3236" />
+      <edge id="291" source="#filmstudiesprobz" target="#angst" weight="3236" />
+      <edge id="292" source="#crime" target="#OhioState" weight="3236" />
+      <edge id="293" source="#livetweetkristen" target="#Kristenreports" weight="3236" />
+      <edge id="294" source="#frankenstorm" target="#nopower" weight="9708" />
+      <edge id="295" source="#frankenstorm" target="#Ohio" weight="3236" />
+      <edge id="296" source="#TheNotebook" target="#notcreepy" weight="3236" />
+      <edge id="297" source="#YouthRetreat" target="#YoureBeautiful" weight="3236" />
+      <edge id="298" source="#Crime" target="#OSU" weight="3236" />
+      <edge id="299" source="#Crime" target="#OhioState" weight="3236" />
+      <edge id="300" source="#HPV" target="#TheJames" weight="3236" />
+      <edge id="301" source="#jokers" target="#sike" weight="3236" />
+      <edge id="302" source="#coughsyrup" target="#livetweetmycold" weight="3236" />
+      <edge id="303" source="#designerproblems" target="#partylikeajournalist" weight="3236" />
+      <edge id="304" source="#lastfirstdayofschool" target="#magicalexistence" weight="3236" />
+      <edge id="305" source="#lastweekofclass" target="#joker" weight="3236" />
+      <edge id="306" source="#tweetsfromlunchbreak" target="#bougie" weight="3236" />
+      <edge id="307" source="#reppin" target="#baseball" weight="3236" />
+      <edge id="308" source="#dinner" target="#domestic" weight="3236" />
+      <edge id="309" source="#technology" target="#BraveNewWorld" weight="3236" />
+      <edge id="310" source="#USAvMEX" target="#USMNT" weight="3236" />
+      <edge id="311" source="#ColumbusDispatch" target="#minipaper" weight="3236" />
+      <edge id="312" source="#ColumbusDispatch" target="#socute" weight="3236" />
+      <edge id="313" source="#ColumbusDispatch" target="#asseenincolum" weight="3236" />
+      <edge id="314" source="#happyhalloween" target="#OSU" weight="3236" />
+      <edge id="315" source="#graduation" target="#impendingdoom" weight="3236" />
+      <edge id="316" source="#perseverance" target="#livetweeteyesurgery" weight="3236" />
+      <edge id="317" source="#science" target="#music" weight="3236" />
+      <edge id="318" source="#minipaper" target="#asseenincolum" weight="3236" />
+      <edge id="319" source="#minipaper" target="#socute" weight="3236" />
+      <edge id="320" source="#MerryChristmas" target="#itsawonderfullife" weight="3236" />
+      <edge id="321" source="#magicalexistence" target="#thebest" weight="3236" />
+      <edge id="322" source="#magicalexistence" target="#southern" weight="3236" />
+      <edge id="323" source="#SaveNovember" target="#RIPfall" weight="3236" />
+      <edge id="324" source="#cbc" target="#paleale" weight="3236" />
+      <edge id="325" source="#sportsanalogy" target="#Ihatesemesters" weight="3236" />
+      <edge id="326" source="#CO" target="#rentalcar" weight="3236" />
+      <edge id="327" source="#CO" target="#holidays" weight="3236" />
+      <edge id="328" source="#FaceOff" target="#yum" weight="3236" />
+      <edge id="329" source="#whowantstogetareubanafterworkwithme" target="#seriously" weight="3236" />
+      <edge id="330" source="#new2osu" target="#OhioState" weight="3236" />
+      <edge id="331" source="#OhioState" target="#diving" weight="3236" />
+      <edge id="332" source="#OhioState" target="#serioustweet" weight="3236" />
+      <edge id="333" source="#OhioState" target="#basketball" weight="3236" />
+      <edge id="334" source="#SummerVacationOH15" target="#tourdeMidwestakaGodsCountry" weight="3236" />
+      <edge id="335" source="#SummerVacationOH15" target="#AtimeoffworkwhenImnotlayingfacedown" weight="3236" />
+      <edge id="336" source="#mistake" target="#itsmelledbad" weight="3236" />
+      <edge id="337" source="#thebest" target="#southern" weight="3236" />
+      <edge id="338" source="#asseeninthewaitingroom" target="#livetweeteyesurgery" weight="3236" />
+      <edge id="339" source="#tourdeMidwestakaGodsCountry" target="#AtimeoffworkwhenImnotlayingfacedown" weight="3236" />
+      <edge id="340" source="#socute" target="#asseenincolum" weight="3236" />
+      <edge id="341" source="#filmstudiesproblems" target="#careerproblems" weight="3236" />
+      <edge id="342" source="#angst" target="#tired" weight="3236" />
+      <edge id="343" source="#imonaboat" target="#tt" weight="3236" />
+      <edge id="344" source="#PickSix" target="#GoBucks" weight="3236" />
+      <edge id="345" source="#tbt" target="#latenight" weight="3236" />
+      <edge id="346" source="#tbt" target="#noms" weight="3236" />
+      <edge id="347" source="#journalism" target="#mirrorlakemonday" weight="3236" />
+      <edge id="348" source="#journalism" target="#history" weight="3236" />
+      <edge id="349" source="#HSS" target="#wellness" weight="3236" />
+      <edge id="350" source="#latenight" target="#noms" weight="3236" />
+      <edge id="351" source="#treatyoself" target="#kingsofleon" weight="3236" />
+      <edge id="352" source="#deserted" target="#livetweetNashville" weight="3236" />
+      <edge id="353" source="#lunchwithKLa" target="#lunch" weight="3236" />
+      <edge id="354" source="#election" target="#datavisualization" weight="3236" />
+      <edge id="355" source="#marsala" target="#coloroftheyear" weight="3236" />
+      <edge id="356" source="#Spotthedifference" target="#EddieRedmayne" weight="3236" />
+      <edge id="357" source="#autumn" target="#Columbus" weight="3236" />
+      <edge id="358" source="#SouthOval" target="#butforohiostate" weight="3236" />
+      <edge id="359" source="#ThisIsIt" target="#HereWeAre" weight="3236" />
+      <edge id="360" source="#livetweetNashville" target="#nashvillechristmas" weight="3236" />
+      <edge id="361" source="#sorryimnotsorry" target="#YOLO" weight="3236" />
+      <edge id="362" source="#SPORTS" target="#serioustweet" weight="3236" />
+    </edges>
+  </graph>
+</gexf>

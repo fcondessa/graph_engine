@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#RockontheRange" label="#RockontheRange" />
+      <node id="#asseenincolumbusohio" label="#asseenincolumbusohio" />
+      <node id="#ohioed" label="#ohioed" />
+      <node id="#BehindTheScenes" label="#BehindTheScenes" />
+      <node id="#SheBelieves" label="#SheBelieves" />
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#edchat" label="#edchat" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#EarlyVoting" label="#EarlyVoting" />
+      <node id="#Bromance" label="#Bromance" />
+      <node id="#rotr" label="#rotr" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#OhioHouse" label="#OhioHouse" />
+      <node id="#GOPdebate" label="#GOPdebate" />
+      <node id="#swingstate" label="#swingstate" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#AIR" label="#AIR" />
+      <node id="#ohel" label="#ohel" />
+      <node id="#GOPTownHall" label="#GOPTownHall" />
+      <node id="#FBNdebate" label="#FBNdebate" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#2016Primary" label="#2016Primary" />
+      <node id="#BTS" label="#BTS" />
+      <node id="#USWNT" label="#USWNT" />
+      <node id="#CNNDebate" label="#CNNDebate" />
+      <node id="#AsGoesOhio" label="#AsGoesOhio" />
+      <node id="#Kasich" label="#Kasich" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#RockontheRange" target="#asseenincolumbusohio" weight="3200" />
+      <edge id="1" source="#RockontheRange" target="#rotr" weight="3200" />
+      <edge id="2" source="#asseenincolumbusohio" target="#rotr" weight="3200" />
+      <edge id="3" source="#ohioed" target="#Cleveland" weight="3200" />
+      <edge id="4" source="#ohioed" target="#teachers" weight="3200" />
+      <edge id="5" source="#ohioed" target="#edchat" weight="3200" />
+      <edge id="6" source="#ohioed" target="#CLE" weight="3200" />
+      <edge id="7" source="#BehindTheScenes" target="#OhioHouse" weight="3200" />
+      <edge id="8" source="#BehindTheScenes" target="#BTS" weight="3200" />
+      <edge id="9" source="#SheBelieves" target="#USWNT" weight="3200" />
+      <edge id="10" source="#GOPDebate" target="#Kasich" weight="3200" />
+      <edge id="11" source="#GOPDebate" target="#CNNDebate" weight="3200" />
+      <edge id="12" source="#edchat" target="#teachers" weight="3200" />
+      <edge id="13" source="#edchat" target="#Cleveland" weight="3200" />
+      <edge id="14" source="#edchat" target="#CLE" weight="3200" />
+      <edge id="15" source="#CLE" target="#teachers" weight="3200" />
+      <edge id="16" source="#CLE" target="#Cleveland" weight="3200" />
+      <edge id="17" source="#EarlyVoting" target="#2016Primary" weight="3200" />
+      <edge id="18" source="#EarlyVoting" target="#AsGoesOhio" weight="3200" />
+      <edge id="19" source="#Bromance" target="#GOPTownHall" weight="3200" />
+      <edge id="20" source="#Ohio" target="#AIR" weight="3200" />
+      <edge id="21" source="#OhioHouse" target="#BTS" weight="3200" />
+      <edge id="22" source="#GOPdebate" target="#FBNdebate" weight="3200" />
+      <edge id="23" source="#swingstate" target="#ohel" weight="3200" />
+      <edge id="24" source="#teachers" target="#Cleveland" weight="3200" />
+      <edge id="25" source="#2016Primary" target="#AsGoesOhio" weight="3200" />
+    </edges>
+  </graph>
+</gexf>

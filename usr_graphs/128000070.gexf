@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Safe" label="#Safe" />
+      <node id="#call811" label="#call811" />
+      <node id="#utility" label="#utility" />
+      <node id="#ff" label="#ff" />
+      <node id="#NSDM" label="#NSDM" />
+      <node id="#CGA" label="#CGA" />
+      <node id="#electric" label="#electric" />
+      <node id="#energy" label="#energy" />
+      <node id="#pipeline" label="#pipeline" />
+      <node id="#integrity" label="#integrity" />
+      <node id="#damage" label="#damage" />
+      <node id="#telecom" label="#telecom" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Safe" target="#NSDM" weight="162" />
+      <edge id="1" source="#call811" target="#CGA" weight="162" />
+      <edge id="2" source="#utility" target="#ff" weight="162" />
+      <edge id="3" source="#utility" target="#pipeline" weight="162" />
+      <edge id="4" source="#utility" target="#energy" weight="162" />
+      <edge id="5" source="#utility" target="#telecom" weight="162" />
+      <edge id="6" source="#utility" target="#electric" weight="162" />
+      <edge id="7" source="#ff" target="#pipeline" weight="162" />
+      <edge id="8" source="#ff" target="#telecom" weight="162" />
+      <edge id="9" source="#ff" target="#electric" weight="162" />
+      <edge id="10" source="#electric" target="#pipeline" weight="162" />
+      <edge id="11" source="#electric" target="#telecom" weight="162" />
+      <edge id="12" source="#pipeline" target="#telecom" weight="162" />
+      <edge id="13" source="#integrity" target="#damage" weight="162" />
+    </edges>
+  </graph>
+</gexf>

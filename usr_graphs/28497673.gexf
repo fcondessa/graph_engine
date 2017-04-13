@@ -1,0 +1,611 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#landscape" label="#landscape" />
+      <node id="#BlackBerry" label="#BlackBerry" />
+      <node id="#patents" label="#patents" />
+      <node id="#Productivity" label="#Productivity" />
+      <node id="#freepublicity" label="#freepublicity" />
+      <node id="#statistics" label="#statistics" />
+      <node id="#soi" label="#soi" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#search" label="#search" />
+      <node id="#monetization" label="#monetization" />
+      <node id="#Startups" label="#Startups" />
+      <node id="#VHC" label="#VHC" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#investment" label="#investment" />
+      <node id="#pharma" label="#pharma" />
+      <node id="#Citation" label="#Citation" />
+      <node id="#Autonomous" label="#Autonomous" />
+      <node id="#analyst" label="#analyst" />
+      <node id="#Monetization" label="#Monetization" />
+      <node id="#GodBlessAmerica" label="#GodBlessAmerica" />
+      <node id="#textmining" label="#textmining" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#CRISPR" label="#CRISPR" />
+      <node id="#ip" label="#ip" />
+      <node id="#Business" label="#Business" />
+      <node id="#iv" label="#iv" />
+      <node id="#prosecution" label="#prosecution" />
+      <node id="#Legal" label="#Legal" />
+      <node id="#apple" label="#apple" />
+      <node id="#OpenRefine" label="#OpenRefine" />
+      <node id="#Entrepreneur" label="#Entrepreneur" />
+      <node id="#valuation" label="#valuation" />
+      <node id="#information" label="#information" />
+      <node id="#trademark" label="#trademark" />
+      <node id="#childish" label="#childish" />
+      <node id="#SiliconValley" label="#SiliconValley" />
+      <node id="#RedSocks" label="#RedSocks" />
+      <node id="#tastecasting" label="#tastecasting" />
+      <node id="#takeitslow" label="#takeitslow" />
+      <node id="#pivottables" label="#pivottables" />
+      <node id="#paid" label="#paid" />
+      <node id="#design" label="#design" />
+      <node id="#DataScience" label="#DataScience" />
+      <node id="#internship" label="#internship" />
+      <node id="#asset" label="#asset" />
+      <node id="#PATENT" label="#PATENT" />
+      <node id="#Trademark" label="#Trademark" />
+      <node id="#protecttheip" label="#protecttheip" />
+      <node id="#startups" label="#startups" />
+      <node id="#monitization" label="#monitization" />
+      <node id="#invention" label="#invention" />
+      <node id="#Litigation" label="#Litigation" />
+      <node id="#sizedoesmatter" label="#sizedoesmatter" />
+      <node id="#piug2013" label="#piug2013" />
+      <node id="#piug2010" label="#piug2010" />
+      <node id="#piug2011" label="#piug2011" />
+      <node id="#patentsareimportant" label="#patentsareimportant" />
+      <node id="#executives" label="#executives" />
+      <node id="#workrelated" label="#workrelated" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#license" label="#license" />
+      <node id="#piconf2014" label="#piconf2014" />
+      <node id="#stock" label="#stock" />
+      <node id="#Dodocase" label="#Dodocase" />
+      <node id="#Regression" label="#Regression" />
+      <node id="#searching" label="#searching" />
+      <node id="#stopthemadness" label="#stopthemadness" />
+      <node id="#Valuation" label="#Valuation" />
+      <node id="#Algorithms" label="#Algorithms" />
+      <node id="#ipfinance" label="#ipfinance" />
+      <node id="#consultants" label="#consultants" />
+      <node id="#mxcol" label="#mxcol" />
+      <node id="#Acquisitions" label="#Acquisitions" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#innovators" label="#innovators" />
+      <node id="#inforgraphic" label="#inforgraphic" />
+      <node id="#Yankees" label="#Yankees" />
+      <node id="#quantumdots" label="#quantumdots" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#licensing" label="#licensing" />
+      <node id="#financing" label="#financing" />
+      <node id="#America" label="#America" />
+      <node id="#aia" label="#aia" />
+      <node id="#Visualizations" label="#Visualizations" />
+      <node id="#bacon" label="#bacon" />
+      <node id="#drug" label="#drug" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#Renewable" label="#Renewable" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#Alicestorm" label="#Alicestorm" />
+      <node id="#welldone" label="#welldone" />
+      <node id="#Patent" label="#Patent" />
+      <node id="#automotive" label="#automotive" />
+      <node id="#patentlyo" label="#patentlyo" />
+      <node id="#Licensing" label="#Licensing" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#3sidestoeverystory" label="#3sidestoeverystory" />
+      <node id="#Bigdata" label="#Bigdata" />
+      <node id="#litigation" label="#litigation" />
+      <node id="#warofattrition" label="#warofattrition" />
+      <node id="#ping" label="#ping" />
+      <node id="#analysts" label="#analysts" />
+      <node id="#Patents" label="#Patents" />
+      <node id="#China" label="#China" />
+      <node id="#frand" label="#frand" />
+      <node id="#visualization" label="#visualization" />
+      <node id="#IP" label="#IP" />
+      <node id="#PRKR" label="#PRKR" />
+      <node id="#R" label="#R" />
+      <node id="#network" label="#network" />
+      <node id="#icic13" label="#icic13" />
+      <node id="#Verizon" label="#Verizon" />
+      <node id="#DEC" label="#DEC" />
+      <node id="#feedly" label="#feedly" />
+      <node id="#wisdom" label="#wisdom" />
+      <node id="#Visualization" label="#Visualization" />
+      <node id="#infringement" label="#infringement" />
+      <node id="#noadditionalreform" label="#noadditionalreform" />
+      <node id="#Inventor" label="#Inventor" />
+      <node id="#STRATEGY" label="#STRATEGY" />
+      <node id="#biggerisbetter" label="#biggerisbetter" />
+      <node id="#data" label="#data" />
+      <node id="#uspto" label="#uspto" />
+      <node id="#Delta" label="#Delta" />
+      <node id="#cronut" label="#cronut" />
+      <node id="#NFC" label="#NFC" />
+      <node id="#history" label="#history" />
+      <node id="#Strategy" label="#Strategy" />
+      <node id="#ICF" label="#ICF" />
+      <node id="#patent" label="#patent" />
+      <node id="#Inventions" label="#Inventions" />
+      <node id="#piug14" label="#piug14" />
+      <node id="#icic09" label="#icic09" />
+      <node id="#piug10" label="#piug10" />
+      <node id="#Invention" label="#Invention" />
+      <node id="#PIUGNE2013" label="#PIUGNE2013" />
+      <node id="#text" label="#text" />
+      <node id="#driving" label="#driving" />
+      <node id="#MIT" label="#MIT" />
+      <node id="#EFF" label="#EFF" />
+      <node id="#Diabetes" label="#Diabetes" />
+      <node id="#STATISTICS" label="#STATISTICS" />
+      <node id="#legislation" label="#legislation" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#nokneelinghere" label="#nokneelinghere" />
+      <node id="#IRFS2010" label="#IRFS2010" />
+      <node id="#classification" label="#classification" />
+      <node id="#iPad" label="#iPad" />
+      <node id="#AIA" label="#AIA" />
+      <node id="#infographics" label="#infographics" />
+      <node id="#patentsforall" label="#patentsforall" />
+      <node id="#tradesecret" label="#tradesecret" />
+      <node id="#mobilex" label="#mobilex" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#CES" label="#CES" />
+      <node id="#chemistry" label="#chemistry" />
+      <node id="#lawsuits" label="#lawsuits" />
+      <node id="#HistoricDublin" label="#HistoricDublin" />
+      <node id="#Inventorship" label="#Inventorship" />
+      <node id="#Analysis" label="#Analysis" />
+      <node id="#legal" label="#legal" />
+      <node id="#ATVI" label="#ATVI" />
+      <node id="#copyright" label="#copyright" />
+      <node id="#citation" label="#citation" />
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#google" label="#google" />
+      <node id="#ChemAxonUGM13" label="#ChemAxonUGM13" />
+      <node id="#icic2013" label="#icic2013" />
+      <node id="#iplaw" label="#iplaw" />
+      <node id="#mining" label="#mining" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#Donatos" label="#Donatos" />
+      <node id="#business" label="#business" />
+      <node id="#storytelling" label="#storytelling" />
+      <node id="#allhailmerpel" label="#allhailmerpel" />
+      <node id="#thomsonreuters" label="#thomsonreuters" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#POTUS" label="#POTUS" />
+      <node id="#icic" label="#icic" />
+      <node id="#slowdown" label="#slowdown" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#TradeSecret" label="#TradeSecret" />
+      <node id="#fairforall" label="#fairforall" />
+      <node id="#autm" label="#autm" />
+      <node id="#bio2010" label="#bio2010" />
+      <node id="#iPhone" label="#iPhone" />
+      <node id="#energy" label="#energy" />
+      <node id="#Data" label="#Data" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#ipbc2015" label="#ipbc2015" />
+      <node id="#INFOGRAPHIC" label="#INFOGRAPHIC" />
+      <node id="#VRNG" label="#VRNG" />
+      <node id="#Patenting" label="#Patenting" />
+      <node id="#nomorereform" label="#nomorereform" />
+      <node id="#PatentlyO" label="#PatentlyO" />
+      <node id="#startup" label="#startup" />
+      <node id="#analysis" label="#analysis" />
+      <node id="#wired" label="#wired" />
+      <node id="#datascience" label="#datascience" />
+      <node id="#Inventors" label="#Inventors" />
+      <node id="#Mergers" label="#Mergers" />
+      <node id="#inventors" label="#inventors" />
+      <node id="#PIUG" label="#PIUG" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#Analytics" label="#Analytics" />
+      <node id="#dataanalysis" label="#dataanalysis" />
+      <node id="#Microsoft" label="#Microsoft" />
+      <node id="#christmas" label="#christmas" />
+      <node id="#inventor" label="#inventor" />
+      <node id="#stateofinnovation" label="#stateofinnovation" />
+      <node id="#techtransfer" label="#techtransfer" />
+      <node id="#Orlando" label="#Orlando" />
+      <node id="#NPE" label="#NPE" />
+      <node id="#Patentlyo" label="#Patentlyo" />
+      <node id="#patenting" label="#patenting" />
+      <node id="#picon2014" label="#picon2014" />
+      <node id="#Novartis" label="#Novartis" />
+      <node id="#teledildonics" label="#teledildonics" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#landscape" target="#patent" weight="3234" />
+      <edge id="1" source="#BlackBerry" target="#NPE" weight="3234" />
+      <edge id="2" source="#patents" target="#Patents" weight="6468" />
+      <edge id="3" source="#patents" target="#infographic" weight="3234" />
+      <edge id="4" source="#patents" target="#inventors" weight="3234" />
+      <edge id="5" source="#patents" target="#ChemAxonUGM13" weight="3234" />
+      <edge id="6" source="#patents" target="#patenting" weight="3234" />
+      <edge id="7" source="#patents" target="#statistics" weight="3234" />
+      <edge id="8" source="#patents" target="#bigdata" weight="6468" />
+      <edge id="9" source="#patents" target="#patent" weight="268422" />
+      <edge id="10" source="#patents" target="#tradesecret" weight="3234" />
+      <edge id="11" source="#patents" target="#Patent" weight="135828" />
+      <edge id="12" source="#patents" target="#ip" weight="3234" />
+      <edge id="13" source="#patents" target="#business" weight="3234" />
+      <edge id="14" source="#patents" target="#licensing" weight="3234" />
+      <edge id="15" source="#patents" target="#SiliconValley" weight="3234" />
+      <edge id="16" source="#patents" target="#innovation" weight="6468" />
+      <edge id="17" source="#patents" target="#Startups" weight="3234" />
+      <edge id="18" source="#patents" target="#litigation" weight="3234" />
+      <edge id="19" source="#patents" target="#icic13" weight="6468" />
+      <edge id="20" source="#patents" target="#analytics" weight="6468" />
+      <edge id="21" source="#Productivity" target="#entrepreneur" weight="3234" />
+      <edge id="22" source="#freepublicity" target="#patent" weight="3234" />
+      <edge id="23" source="#statistics" target="#patent" weight="22638" />
+      <edge id="24" source="#statistics" target="#legal" weight="3234" />
+      <edge id="25" source="#statistics" target="#Patent" weight="6468" />
+      <edge id="26" source="#statistics" target="#prosecution" weight="3234" />
+      <edge id="27" source="#statistics" target="#Litigation" weight="3234" />
+      <edge id="28" source="#statistics" target="#analytics" weight="3234" />
+      <edge id="29" source="#soi" target="#thomsonreuters" weight="3234" />
+      <edge id="30" source="#soi" target="#Innovation" weight="6468" />
+      <edge id="31" source="#soi" target="#stateofinnovation" weight="3234" />
+      <edge id="32" source="#soi" target="#patent" weight="9702" />
+      <edge id="33" source="#entrepreneurs" target="#Patents" weight="3234" />
+      <edge id="34" source="#entrepreneurs" target="#wisdom" weight="3234" />
+      <edge id="35" source="#entrepreneurs" target="#Patent" weight="12936" />
+      <edge id="36" source="#entrepreneurs" target="#Trademark" weight="3234" />
+      <edge id="37" source="#entrepreneurs" target="#licensing" weight="3234" />
+      <edge id="38" source="#entrepreneurs" target="#startups" weight="6468" />
+      <edge id="39" source="#entrepreneurs" target="#patent" weight="22638" />
+      <edge id="40" source="#entrepreneurs" target="#inventors" weight="3234" />
+      <edge id="41" source="#search" target="#feedly" weight="3234" />
+      <edge id="42" source="#search" target="#analysis" weight="3234" />
+      <edge id="43" source="#search" target="#patent" weight="6468" />
+      <edge id="44" source="#monetization" target="#strategy" weight="3234" />
+      <edge id="45" source="#monetization" target="#patent" weight="19404" />
+      <edge id="46" source="#monetization" target="#Patent" weight="22638" />
+      <edge id="47" source="#Startups" target="#Patent" weight="3234" />
+      <edge id="48" source="#VHC" target="#ATVI" weight="3234" />
+      <edge id="49" source="#VHC" target="#VRNG" weight="3234" />
+      <edge id="50" source="#VHC" target="#Patent" weight="3234" />
+      <edge id="51" source="#VHC" target="#PRKR" weight="3234" />
+      <edge id="52" source="#Innovation" target="#Patents" weight="12936" />
+      <edge id="53" source="#Innovation" target="#thomsonreuters" weight="3234" />
+      <edge id="54" source="#Innovation" target="#stateofinnovation" weight="3234" />
+      <edge id="55" source="#Innovation" target="#patent" weight="19404" />
+      <edge id="56" source="#Innovation" target="#Patent" weight="6468" />
+      <edge id="57" source="#investment" target="#patent" weight="3234" />
+      <edge id="58" source="#pharma" target="#litigation" weight="3234" />
+      <edge id="59" source="#pharma" target="#Novartis" weight="3234" />
+      <edge id="60" source="#pharma" target="#Patent" weight="3234" />
+      <edge id="61" source="#pharma" target="#MIT" weight="3234" />
+      <edge id="62" source="#Citation" target="#Analysis" weight="3234" />
+      <edge id="63" source="#Citation" target="#Patent" weight="3234" />
+      <edge id="64" source="#Autonomous" target="#driving" weight="3234" />
+      <edge id="65" source="#Autonomous" target="#patent" weight="6468" />
+      <edge id="66" source="#Autonomous" target="#analytics" weight="3234" />
+      <edge id="67" source="#analyst" target="#picon2014" weight="3234" />
+      <edge id="68" source="#analyst" target="#patent" weight="3234" />
+      <edge id="69" source="#Monetization" target="#asset" weight="3234" />
+      <edge id="70" source="#Monetization" target="#Patent" weight="3234" />
+      <edge id="71" source="#GodBlessAmerica" target="#nokneelinghere" weight="3234" />
+      <edge id="72" source="#textmining" target="#analysis" weight="3234" />
+      <edge id="73" source="#textmining" target="#socialmedia" weight="3234" />
+      <edge id="74" source="#Entrepreneurs" target="#Patent" weight="3234" />
+      <edge id="75" source="#CRISPR" target="#litigation" weight="3234" />
+      <edge id="76" source="#CRISPR" target="#analysis" weight="3234" />
+      <edge id="77" source="#CRISPR" target="#Patent" weight="3234" />
+      <edge id="78" source="#CRISPR" target="#patent" weight="3234" />
+      <edge id="79" source="#ip" target="#analytics" weight="3234" />
+      <edge id="80" source="#ip" target="#patent" weight="3234" />
+      <edge id="81" source="#ip" target="#bigdata" weight="3234" />
+      <edge id="82" source="#Business" target="#Infographic" weight="3234" />
+      <edge id="83" source="#Business" target="#Trademark" weight="3234" />
+      <edge id="84" source="#Business" target="#patent" weight="3234" />
+      <edge id="85" source="#iv" target="#Patent" weight="3234" />
+      <edge id="86" source="#prosecution" target="#patent" weight="3234" />
+      <edge id="87" source="#Legal" target="#Patents" weight="3234" />
+      <edge id="88" source="#Legal" target="#Patent" weight="3234" />
+      <edge id="89" source="#Legal" target="#BigData" weight="3234" />
+      <edge id="90" source="#apple" target="#ping" weight="3234" />
+      <edge id="91" source="#OpenRefine" target="#analysis" weight="3234" />
+      <edge id="92" source="#Entrepreneur" target="#patent" weight="3234" />
+      <edge id="93" source="#Entrepreneur" target="#Patent" weight="6468" />
+      <edge id="94" source="#valuation" target="#patent" weight="6468" />
+      <edge id="95" source="#information" target="#patent" weight="3234" />
+      <edge id="96" source="#trademark" target="#cronut" weight="3234" />
+      <edge id="97" source="#childish" target="#patent" weight="3234" />
+      <edge id="98" source="#SiliconValley" target="#patent" weight="3234" />
+      <edge id="99" source="#RedSocks" target="#Delta" weight="3234" />
+      <edge id="100" source="#tastecasting" target="#Donatos" weight="3234" />
+      <edge id="101" source="#takeitslow" target="#patent" weight="3234" />
+      <edge id="102" source="#takeitslow" target="#Patent" weight="3234" />
+      <edge id="103" source="#pivottables" target="#dataanalysis" weight="3234" />
+      <edge id="104" source="#paid" target="#internship" weight="3234" />
+      <edge id="105" source="#design" target="#patent" weight="3234" />
+      <edge id="106" source="#DataScience" target="#bigdata" weight="3234" />
+      <edge id="107" source="#asset" target="#Patent" weight="3234" />
+      <edge id="108" source="#PATENT" target="#STRATEGY" weight="3234" />
+      <edge id="109" source="#Trademark" target="#Infographic" weight="3234" />
+      <edge id="110" source="#protecttheip" target="#startup" weight="3234" />
+      <edge id="111" source="#protecttheip" target="#entrepreneur" weight="3234" />
+      <edge id="112" source="#protecttheip" target="#patent" weight="3234" />
+      <edge id="113" source="#startups" target="#Patents" weight="3234" />
+      <edge id="114" source="#startups" target="#entrepreneur" weight="3234" />
+      <edge id="115" source="#startups" target="#Patent" weight="3234" />
+      <edge id="116" source="#startups" target="#patent" weight="3234" />
+      <edge id="117" source="#monitization" target="#patent" weight="3234" />
+      <edge id="118" source="#invention" target="#innovation" weight="3234" />
+      <edge id="119" source="#invention" target="#Patent" weight="6468" />
+      <edge id="120" source="#Litigation" target="#legal" weight="3234" />
+      <edge id="121" source="#Litigation" target="#patent" weight="3234" />
+      <edge id="122" source="#Litigation" target="#Patent" weight="12936" />
+      <edge id="123" source="#sizedoesmatter" target="#Patent" weight="3234" />
+      <edge id="124" source="#sizedoesmatter" target="#biggerisbetter" weight="3234" />
+      <edge id="125" source="#piug2013" target="#PIUGNE2013" weight="3234" />
+      <edge id="126" source="#piug2010" target="#piug2010" weight="6468" />
+      <edge id="127" source="#piug2010" target="#piug2011" weight="3234" />
+      <edge id="128" source="#piug2010" target="#iPad" weight="3234" />
+      <edge id="129" source="#piug2010" target="#patent" weight="320166" />
+      <edge id="130" source="#piug2010" target="#bio2010" weight="3234" />
+      <edge id="131" source="#piug2010" target="#piug10" weight="6468" />
+      <edge id="132" source="#piug2011" target="#patent" weight="16170" />
+      <edge id="133" source="#piug2011" target="#Patent" weight="74382" />
+      <edge id="134" source="#patentsareimportant" target="#Patent" weight="3234" />
+      <edge id="135" source="#executives" target="#patent" weight="3234" />
+      <edge id="136" source="#workrelated" target="#feedly" weight="6468" />
+      <edge id="137" source="#workrelated" target="#allhailmerpel" weight="3234" />
+      <edge id="138" source="#workrelated" target="#patent" weight="9702" />
+      <edge id="139" source="#SCOTUS" target="#patent" weight="3234" />
+      <edge id="140" source="#license" target="#Patent" weight="3234" />
+      <edge id="141" source="#piconf2014" target="#patent" weight="3234" />
+      <edge id="142" source="#stock" target="#Patent" weight="6468" />
+      <edge id="143" source="#Dodocase" target="#iPad" weight="3234" />
+      <edge id="144" source="#Regression" target="#R" weight="3234" />
+      <edge id="145" source="#Regression" target="#analysis" weight="3234" />
+      <edge id="146" source="#Regression" target="#data" weight="3234" />
+      <edge id="147" source="#searching" target="#patent" weight="3234" />
+      <edge id="148" source="#stopthemadness" target="#Patent" weight="3234" />
+      <edge id="149" source="#Valuation" target="#patent" weight="3234" />
+      <edge id="150" source="#Algorithms" target="#analysis" weight="3234" />
+      <edge id="151" source="#Algorithms" target="#Data" weight="3234" />
+      <edge id="152" source="#Algorithms" target="#analytics" weight="3234" />
+      <edge id="153" source="#ipfinance" target="#patent" weight="3234" />
+      <edge id="154" source="#consultants" target="#patent" weight="3234" />
+      <edge id="155" source="#mxcol" target="#mobilex" weight="3234" />
+      <edge id="156" source="#Acquisitions" target="#Mergers" weight="3234" />
+      <edge id="157" source="#Acquisitions" target="#patent" weight="3234" />
+      <edge id="158" source="#webinar" target="#patent" weight="3234" />
+      <edge id="159" source="#innovators" target="#Patent" weight="3234" />
+      <edge id="160" source="#inforgraphic" target="#patent" weight="3234" />
+      <edge id="161" source="#Yankees" target="#Delta" weight="3234" />
+      <edge id="162" source="#quantumdots" target="#Patent" weight="3234" />
+      <edge id="163" source="#venturecapital" target="#iplaw" weight="3234" />
+      <edge id="164" source="#venturecapital" target="#patent" weight="3234" />
+      <edge id="165" source="#licensing" target="#Patents" weight="3234" />
+      <edge id="166" source="#licensing" target="#Patent" weight="6468" />
+      <edge id="167" source="#licensing" target="#patent" weight="29106" />
+      <edge id="168" source="#financing" target="#patent" weight="3234" />
+      <edge id="169" source="#America" target="#Patents" weight="3234" />
+      <edge id="170" source="#America" target="#Patent" weight="3234" />
+      <edge id="171" source="#aia" target="#infographics" weight="3234" />
+      <edge id="172" source="#aia" target="#patent" weight="3234" />
+      <edge id="173" source="#Visualizations" target="#analysis" weight="3234" />
+      <edge id="174" source="#Visualizations" target="#Data" weight="3234" />
+      <edge id="175" source="#Visualizations" target="#data" weight="3234" />
+      <edge id="176" source="#bacon" target="#patent" weight="3234" />
+      <edge id="177" source="#drug" target="#Patent" weight="3234" />
+      <edge id="178" source="#analytics" target="#infographic" weight="3234" />
+      <edge id="179" source="#analytics" target="#Data" weight="3234" />
+      <edge id="180" source="#analytics" target="#bigdata" weight="6468" />
+      <edge id="181" source="#analytics" target="#Patent" weight="9702" />
+      <edge id="182" source="#analytics" target="#patent" weight="32340" />
+      <edge id="183" source="#analytics" target="#mining" weight="3234" />
+      <edge id="184" source="#analytics" target="#strategy" weight="3234" />
+      <edge id="185" source="#analytics" target="#analysis" weight="3234" />
+      <edge id="186" source="#analytics" target="#picon2014" weight="3234" />
+      <edge id="187" source="#analytics" target="#data" weight="12936" />
+      <edge id="188" source="#analytics" target="#visualization" weight="3234" />
+      <edge id="189" source="#analytics" target="#R" weight="3234" />
+      <edge id="190" source="#analytics" target="#text" weight="3234" />
+      <edge id="191" source="#analytics" target="#driving" weight="3234" />
+      <edge id="192" source="#Renewable" target="#analysis" weight="3234" />
+      <edge id="193" source="#Renewable" target="#patent" weight="3234" />
+      <edge id="194" source="#Infographic" target="#analysis" weight="3234" />
+      <edge id="195" source="#Infographic" target="#patent" weight="9702" />
+      <edge id="196" source="#Infographic" target="#Patent" weight="6468" />
+      <edge id="197" source="#Alicestorm" target="#Patent" weight="3234" />
+      <edge id="198" source="#welldone" target="#patent" weight="3234" />
+      <edge id="199" source="#Patent" target="#citation" weight="3234" />
+      <edge id="200" source="#Patent" target="#Inventor" weight="3234" />
+      <edge id="201" source="#Patent" target="#noadditionalreform" weight="3234" />
+      <edge id="202" source="#Patent" target="#TradeSecret" weight="3234" />
+      <edge id="203" source="#Patent" target="#ATVI" weight="3234" />
+      <edge id="204" source="#Patent" target="#NFC" weight="3234" />
+      <edge id="205" source="#Patent" target="#POTUS" weight="3234" />
+      <edge id="206" source="#Patent" target="#slowdown" weight="3234" />
+      <edge id="207" source="#Patent" target="#infographic" weight="12936" />
+      <edge id="208" source="#Patent" target="#Analysis" weight="9702" />
+      <edge id="209" source="#Patent" target="#biggerisbetter" weight="3234" />
+      <edge id="210" source="#Patent" target="#fairforall" weight="3234" />
+      <edge id="211" source="#Patent" target="#Data" weight="3234" />
+      <edge id="212" source="#Patent" target="#crowdfunding" weight="3234" />
+      <edge id="213" source="#Patent" target="#innovation" weight="25872" />
+      <edge id="214" source="#Patent" target="#marketing" weight="3234" />
+      <edge id="215" source="#Patent" target="#legislation" weight="9702" />
+      <edge id="216" source="#Patent" target="#ipbc2015" weight="3234" />
+      <edge id="217" source="#Patent" target="#Strategy" weight="3234" />
+      <edge id="218" source="#Patent" target="#legal" weight="3234" />
+      <edge id="219" source="#Patent" target="#VRNG" weight="3234" />
+      <edge id="220" source="#Patent" target="#nomorereform" weight="16170" />
+      <edge id="221" source="#Patent" target="#Invention" weight="3234" />
+      <edge id="222" source="#Patent" target="#PatentlyO" weight="3234" />
+      <edge id="223" source="#Patent" target="#startup" weight="3234" />
+      <edge id="224" source="#Patent" target="#Licensing" weight="6468" />
+      <edge id="225" source="#Patent" target="#analysis" weight="6468" />
+      <edge id="226" source="#Patent" target="#AIA" weight="3234" />
+      <edge id="227" source="#Patent" target="#Bigdata" weight="3234" />
+      <edge id="228" source="#Patent" target="#patentsforall" weight="3234" />
+      <edge id="229" source="#Patent" target="#inventors" weight="6468" />
+      <edge id="230" source="#Patent" target="#litigation" weight="25872" />
+      <edge id="231" source="#Patent" target="#techtransfer" weight="3234" />
+      <edge id="232" source="#Patent" target="#teledildonics" weight="3234" />
+      <edge id="233" source="#Patent" target="#BigData" weight="3234" />
+      <edge id="234" source="#Patent" target="#Analytics" weight="9702" />
+      <edge id="235" source="#Patent" target="#Patents" weight="106722" />
+      <edge id="236" source="#Patent" target="#inventor" weight="6468" />
+      <edge id="237" source="#Patent" target="#China" weight="3234" />
+      <edge id="238" source="#Patent" target="#NPE" weight="3234" />
+      <edge id="239" source="#Patent" target="#entrepreneur" weight="12936" />
+      <edge id="240" source="#Patent" target="#Patentlyo" weight="3234" />
+      <edge id="241" source="#Patent" target="#IP" weight="3234" />
+      <edge id="242" source="#Patent" target="#picon2014" weight="3234" />
+      <edge id="243" source="#Patent" target="#PRKR" weight="3234" />
+      <edge id="244" source="#Patent" target="#Brexit" weight="3234" />
+      <edge id="245" source="#automotive" target="#patent" weight="3234" />
+      <edge id="246" source="#patentlyo" target="#patent" weight="3234" />
+      <edge id="247" source="#Licensing" target="#patent" weight="3234" />
+      <edge id="248" source="#3sidestoeverystory" target="#patent" weight="3234" />
+      <edge id="249" source="#litigation" target="#Patents" weight="3234" />
+      <edge id="250" source="#litigation" target="#patent" weight="32340" />
+      <edge id="251" source="#litigation" target="#marketing" weight="3234" />
+      <edge id="252" source="#warofattrition" target="#patent" weight="3234" />
+      <edge id="253" source="#analysts" target="#picon2014" weight="3234" />
+      <edge id="254" source="#Patents" target="#infographic" weight="3234" />
+      <edge id="255" source="#Patents" target="#EFF" weight="3234" />
+      <edge id="256" source="#Patents" target="#history" weight="3234" />
+      <edge id="257" source="#Patents" target="#Inventor" weight="3234" />
+      <edge id="258" source="#Patents" target="#entrepreneur" weight="9702" />
+      <edge id="259" source="#Patents" target="#analysis" weight="3234" />
+      <edge id="260" source="#Patents" target="#patent" weight="249018" />
+      <edge id="261" source="#Patents" target="#IP" weight="3234" />
+      <edge id="262" source="#Patents" target="#icic13" weight="3234" />
+      <edge id="263" source="#Patents" target="#BigData" weight="3234" />
+      <edge id="264" source="#frand" target="#patent" weight="3234" />
+      <edge id="265" source="#visualization" target="#patent" weight="3234" />
+      <edge id="266" source="#visualization" target="#analysis" weight="9702" />
+      <edge id="267" source="#visualization" target="#picon2014" weight="3234" />
+      <edge id="268" source="#visualization" target="#data" weight="16170" />
+      <edge id="269" source="#visualization" target="#bigdata" weight="3234" />
+      <edge id="270" source="#IP" target="#patent" weight="16170" />
+      <edge id="271" source="#PRKR" target="#ATVI" weight="3234" />
+      <edge id="272" source="#PRKR" target="#VRNG" weight="3234" />
+      <edge id="273" source="#R" target="#patent" weight="3234" />
+      <edge id="274" source="#R" target="#strategy" weight="3234" />
+      <edge id="275" source="#R" target="#analysis" weight="3234" />
+      <edge id="276" source="#R" target="#picon2014" weight="3234" />
+      <edge id="277" source="#R" target="#data" weight="3234" />
+      <edge id="278" source="#network" target="#analysis" weight="3234" />
+      <edge id="279" source="#network" target="#patent" weight="3234" />
+      <edge id="280" source="#icic13" target="#icic2013" weight="3234" />
+      <edge id="281" source="#icic13" target="#patent" weight="32340" />
+      <edge id="282" source="#Verizon" target="#iPhone" weight="3234" />
+      <edge id="283" source="#Verizon" target="#Apple" weight="3234" />
+      <edge id="284" source="#DEC" target="#Dublin" weight="3234" />
+      <edge id="285" source="#DEC" target="#ICF" weight="3234" />
+      <edge id="286" source="#feedly" target="#patent" weight="9702" />
+      <edge id="287" source="#wisdom" target="#patent" weight="3234" />
+      <edge id="288" source="#Visualization" target="#analysis" weight="3234" />
+      <edge id="289" source="#Visualization" target="#data" weight="3234" />
+      <edge id="290" source="#Visualization" target="#Data" weight="3234" />
+      <edge id="291" source="#infringement" target="#patent" weight="3234" />
+      <edge id="292" source="#data" target="#dataanalysis" weight="3234" />
+      <edge id="293" source="#data" target="#classification" weight="3234" />
+      <edge id="294" source="#data" target="#bigdata" weight="3234" />
+      <edge id="295" source="#data" target="#patent" weight="3234" />
+      <edge id="296" source="#data" target="#mining" weight="3234" />
+      <edge id="297" source="#data" target="#analysis" weight="35574" />
+      <edge id="298" source="#data" target="#picon2014" weight="3234" />
+      <edge id="299" source="#data" target="#text" weight="3234" />
+      <edge id="300" source="#uspto" target="#google" weight="3234" />
+      <edge id="301" source="#uspto" target="#patent" weight="3234" />
+      <edge id="302" source="#history" target="#patent" weight="3234" />
+      <edge id="303" source="#ICF" target="#Dublin" weight="6468" />
+      <edge id="304" source="#patent" target="#tradesecret" weight="19404" />
+      <edge id="305" source="#patent" target="#infographics" weight="3234" />
+      <edge id="306" source="#patent" target="#patenting" weight="3234" />
+      <edge id="307" source="#patent" target="#patent" weight="6468" />
+      <edge id="308" source="#patent" target="#Inventions" weight="3234" />
+      <edge id="309" source="#patent" target="#piug14" weight="3234" />
+      <edge id="310" source="#patent" target="#driving" weight="3234" />
+      <edge id="311" source="#patent" target="#EFF" weight="3234" />
+      <edge id="312" source="#patent" target="#STATISTICS" weight="3234" />
+      <edge id="313" source="#patent" target="#IRFS2010" weight="16170" />
+      <edge id="314" source="#patent" target="#AIA" weight="3234" />
+      <edge id="315" source="#patent" target="#CES" weight="3234" />
+      <edge id="316" source="#patent" target="#lawsuits" weight="3234" />
+      <edge id="317" source="#patent" target="#Analysis" weight="3234" />
+      <edge id="318" source="#patent" target="#copyright" weight="3234" />
+      <edge id="319" source="#patent" target="#google" weight="3234" />
+      <edge id="320" source="#patent" target="#ChemAxonUGM13" weight="3234" />
+      <edge id="321" source="#patent" target="#iplaw" weight="3234" />
+      <edge id="322" source="#patent" target="#strategy" weight="16170" />
+      <edge id="323" source="#patent" target="#Inventorship" weight="3234" />
+      <edge id="324" source="#patent" target="#business" weight="3234" />
+      <edge id="325" source="#patent" target="#storytelling" weight="3234" />
+      <edge id="326" source="#patent" target="#allhailmerpel" weight="3234" />
+      <edge id="327" source="#patent" target="#thomsonreuters" weight="3234" />
+      <edge id="328" source="#patent" target="#infographic" weight="16170" />
+      <edge id="329" source="#patent" target="#entrepreneur" weight="38808" />
+      <edge id="330" source="#patent" target="#autm" weight="3234" />
+      <edge id="331" source="#patent" target="#energy" weight="3234" />
+      <edge id="332" source="#patent" target="#bigdata" weight="3234" />
+      <edge id="333" source="#patent" target="#innovation" weight="6468" />
+      <edge id="334" source="#patent" target="#INFOGRAPHIC" weight="3234" />
+      <edge id="335" source="#patent" target="#Patenting" weight="12936" />
+      <edge id="336" source="#patent" target="#nomorereform" weight="6468" />
+      <edge id="337" source="#patent" target="#startup" weight="6468" />
+      <edge id="338" source="#patent" target="#analysis" weight="61446" />
+      <edge id="339" source="#patent" target="#wired" weight="3234" />
+      <edge id="340" source="#patent" target="#Inventors" weight="6468" />
+      <edge id="341" source="#patent" target="#Mergers" weight="3234" />
+      <edge id="342" source="#patent" target="#inventors" weight="19404" />
+      <edge id="343" source="#patent" target="#PIUG" weight="9702" />
+      <edge id="344" source="#patent" target="#christmas" weight="3234" />
+      <edge id="345" source="#patent" target="#inventor" weight="16170" />
+      <edge id="346" source="#patent" target="#stateofinnovation" weight="3234" />
+      <edge id="347" source="#patent" target="#picon2014" weight="38808" />
+      <edge id="348" source="#Inventions" target="#Patenting" weight="3234" />
+      <edge id="349" source="#icic09" target="#icic" weight="3234" />
+      <edge id="350" source="#Invention" target="#TradeSecret" weight="3234" />
+      <edge id="351" source="#text" target="#mining" weight="3234" />
+      <edge id="352" source="#MIT" target="#Novartis" weight="3234" />
+      <edge id="353" source="#Diabetes" target="#chemistry" weight="3234" />
+      <edge id="354" source="#classification" target="#analysis" weight="3234" />
+      <edge id="355" source="#tradesecret" target="#Patenting" weight="3234" />
+      <edge id="356" source="#Apple" target="#iPhone" weight="3234" />
+      <edge id="357" source="#Apple" target="#Microsoft" weight="3234" />
+      <edge id="358" source="#lawsuits" target="#innovation" weight="3234" />
+      <edge id="359" source="#HistoricDublin" target="#Orlando" weight="3234" />
+      <edge id="360" source="#ATVI" target="#VRNG" weight="3234" />
+      <edge id="361" source="#citation" target="#analysis" weight="3234" />
+      <edge id="362" source="#citation" target="#Analytics" weight="3234" />
+      <edge id="363" source="#strategy" target="#picon2014" weight="3234" />
+      <edge id="364" source="#thomsonreuters" target="#stateofinnovation" weight="3234" />
+      <edge id="365" source="#entrepreneur" target="#inventor" weight="6468" />
+      <edge id="366" source="#entrepreneur" target="#startup" weight="3234" />
+      <edge id="367" source="#entrepreneur" target="#inventors" weight="3234" />
+      <edge id="368" source="#entrepreneur" target="#innovation" weight="3234" />
+      <edge id="369" source="#Data" target="#analysis" weight="6468" />
+      <edge id="370" source="#Data" target="#Analytics" weight="3234" />
+      <edge id="371" source="#bigdata" target="#analysis" weight="3234" />
+      <edge id="372" source="#crowdfunding" target="#teledildonics" weight="3234" />
+      <edge id="373" source="#innovation" target="#nomorereform" weight="3234" />
+      <edge id="374" source="#innovation" target="#inventor" weight="3234" />
+      <edge id="375" source="#analysis" target="#PIUG" weight="6468" />
+      <edge id="376" source="#analysis" target="#socialmedia" weight="3234" />
+      <edge id="377" source="#analysis" target="#Analytics" weight="3234" />
+      <edge id="378" source="#analysis" target="#dataanalysis" weight="3234" />
+      <edge id="379" source="#analysis" target="#datascience" weight="3234" />
+      <edge id="380" source="#analysis" target="#picon2014" weight="3234" />
+    </edges>
+  </graph>
+</gexf>

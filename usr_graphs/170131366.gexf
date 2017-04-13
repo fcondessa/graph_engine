@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#blessed" label="#blessed" />
+      <node id="#lovinghashtagstoday" label="#lovinghashtagstoday" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#shiplap" label="#shiplap" />
+      <node id="#DontBeADonkey" label="#DontBeADonkey" />
+      <node id="#kindness" label="#kindness" />
+      <node id="#emmys" label="#emmys" />
+      <node id="#CelebrateResponsibly" label="#CelebrateResponsibly" />
+      <node id="#TylerPerry" label="#TylerPerry" />
+      <node id="#Believeland" label="#Believeland" />
+      <node id="#light" label="#light" />
+      <node id="#drunkjosie" label="#drunkjosie" />
+      <node id="#swot" label="#swot" />
+      <node id="#tylerperry" label="#tylerperry" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#engagement" label="#engagement" />
+      <node id="#veep" label="#veep" />
+      <node id="#youretheboss" label="#youretheboss" />
+      <node id="#otg16" label="#otg16" />
+      <node id="#4stringbrewing" label="#4stringbrewing" />
+      <node id="#ThePassionLive" label="#ThePassionLive" />
+      <node id="#factoryofsadness" label="#factoryofsadness" />
+      <node id="#makeamericabalayageagain" label="#makeamericabalayageagain" />
+      <node id="#Catholicschoolflashbacks" label="#Catholicschoolflashbacks" />
+      <node id="#wingsovercolumbus" label="#wingsovercolumbus" />
+      <node id="#babies" label="#babies" />
+      <node id="#wexarts" label="#wexarts" />
+      <node id="#Socialmedia" label="#Socialmedia" />
+      <node id="#onpoint" label="#onpoint" />
+      <node id="#frequentflyer" label="#frequentflyer" />
+      <node id="#ohiocraftbeer" label="#ohiocraftbeer" />
+      <node id="#hullabaloo16" label="#hullabaloo16" />
+      <node id="#hope" label="#hope" />
+      <node id="#thepassionlive" label="#thepassionlive" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#babies" weight="3226" />
+      <edge id="1" source="#truth" target="#blessed" weight="3226" />
+      <edge id="2" source="#blessed" target="#drunkjosie" weight="3226" />
+      <edge id="3" source="#blessed" target="#lovinghashtagstoday" weight="3226" />
+      <edge id="4" source="#blessed" target="#youretheboss" weight="3226" />
+      <edge id="5" source="#lovinghashtagstoday" target="#drunkjosie" weight="3226" />
+      <edge id="6" source="#lovinghashtagstoday" target="#youretheboss" weight="3226" />
+      <edge id="7" source="#craftbeer" target="#ohiocraftbeer" weight="3226" />
+      <edge id="8" source="#craftbeer" target="#4stringbrewing" weight="3226" />
+      <edge id="9" source="#shiplap" target="#shiplap" weight="6452" />
+      <edge id="10" source="#DontBeADonkey" target="#CelebrateResponsibly" weight="3226" />
+      <edge id="11" source="#kindness" target="#hope" weight="3226" />
+      <edge id="12" source="#kindness" target="#light" weight="3226" />
+      <edge id="13" source="#emmys" target="#veep" weight="3226" />
+      <edge id="14" source="#TylerPerry" target="#Catholicschoolflashbacks" weight="3226" />
+      <edge id="15" source="#TylerPerry" target="#ThePassionLive" weight="3226" />
+      <edge id="16" source="#Believeland" target="#factoryofsadness" weight="3226" />
+      <edge id="17" source="#light" target="#hope" weight="3226" />
+      <edge id="18" source="#drunkjosie" target="#youretheboss" weight="3226" />
+      <edge id="19" source="#swot" target="#hullabaloo16" weight="3226" />
+      <edge id="20" source="#tylerperry" target="#thepassionlive" weight="3226" />
+      <edge id="21" source="#debatenight" target="#makeamericabalayageagain" weight="3226" />
+      <edge id="22" source="#engagement" target="#onpoint" weight="3226" />
+      <edge id="23" source="#engagement" target="#Socialmedia" weight="3226" />
+      <edge id="24" source="#otg16" target="#wexarts" weight="3226" />
+      <edge id="25" source="#4stringbrewing" target="#ohiocraftbeer" weight="3226" />
+      <edge id="26" source="#ThePassionLive" target="#Catholicschoolflashbacks" weight="3226" />
+      <edge id="27" source="#wingsovercolumbus" target="#frequentflyer" weight="3226" />
+      <edge id="28" source="#Socialmedia" target="#onpoint" weight="3226" />
+    </edges>
+  </graph>
+</gexf>

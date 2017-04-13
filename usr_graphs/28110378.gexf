@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#speakup" label="#speakup" />
+      <node id="#investigatebanks" label="#investigatebanks" />
+      <node id="#BOOM" label="#BOOM" />
+      <node id="#maddow" label="#maddow" />
+      <node id="#constantcontact" label="#constantcontact" />
+      <node id="#ObamaForPresident" label="#ObamaForPresident" />
+      <node id="#debates" label="#debates" />
+      <node id="#msnbc2012" label="#msnbc2012" />
+      <node id="#yeshecan" label="#yeshecan" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#speakup" target="#constantcontact" weight="524" />
+      <edge id="1" source="#investigatebanks" target="#yeshecan" weight="524" />
+      <edge id="2" source="#BOOM" target="#debates" weight="524" />
+      <edge id="3" source="#maddow" target="#msnbc2012" weight="524" />
+      <edge id="4" source="#ObamaForPresident" target="#ObamaForPresident" weight="10480" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#oldSchool" label="#oldSchool" />
+      <node id="#CharlieHebdo" label="#CharlieHebdo" />
+      <node id="#ThankYou87" label="#ThankYou87" />
+      <node id="#jOBS" label="#jOBS" />
+      <node id="#JeSuisCharlie" label="#JeSuisCharlie" />
+      <node id="#vizio" label="#vizio" />
+      <node id="#fb" label="#fb" />
+      <node id="#chatanooga" label="#chatanooga" />
+      <node id="#GartnerSYM" label="#GartnerSYM" />
+      <node id="#gameofthrones" label="#gameofthrones" />
+      <node id="#hilton" label="#hilton" />
+      <node id="#podcaster" label="#podcaster" />
+      <node id="#ReggieWayne" label="#ReggieWayne" />
+      <node id="#starbucks" label="#starbucks" />
+      <node id="#SoHot" label="#SoHot" />
+      <node id="#YAN" label="#YAN" />
+      <node id="#cincinnati" label="#cincinnati" />
+      <node id="#castoreum" label="#castoreum" />
+      <node id="#cloud" label="#cloud" />
+      <node id="#summer" label="#summer" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#oldSchool" target="#SoHot" weight="384" />
+      <edge id="1" source="#oldSchool" target="#summer" weight="384" />
+      <edge id="2" source="#CharlieHebdo" target="#JeSuisCharlie" weight="384" />
+      <edge id="3" source="#ThankYou87" target="#ReggieWayne" weight="384" />
+      <edge id="4" source="#jOBS" target="#YAN" weight="384" />
+      <edge id="5" source="#vizio" target="#gameofthrones" weight="384" />
+      <edge id="6" source="#fb" target="#hilton" weight="384" />
+      <edge id="7" source="#fb" target="#chatanooga" weight="384" />
+      <edge id="8" source="#chatanooga" target="#hilton" weight="384" />
+      <edge id="9" source="#GartnerSYM" target="#cloud" weight="384" />
+      <edge id="10" source="#podcaster" target="#castoreum" weight="384" />
+      <edge id="11" source="#starbucks" target="#cincinnati" weight="384" />
+      <edge id="12" source="#SoHot" target="#summer" weight="384" />
+    </edges>
+  </graph>
+</gexf>

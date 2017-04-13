@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#Saints" label="#Saints" />
+      <node id="#hockey" label="#hockey" />
+      <node id="#blackhatusa" label="#blackhatusa" />
+      <node id="#mnwild" label="#mnwild" />
+      <node id="#traveshamockery" label="#traveshamockery" />
+      <node id="#NHLStore" label="#NHLStore" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#TSA" label="#TSA" />
+      <node id="#Twins" label="#Twins" />
+      <node id="#defcon" label="#defcon" />
+      <node id="#IceDancing" label="#IceDancing" />
+      <node id="#Vikings" label="#Vikings" />
+      <node id="#soberfun" label="#soberfun" />
+      <node id="#FireChildress" label="#FireChildress" />
+      <node id="#cbj" label="#cbj" />
+      <node id="#Van2010" label="#Van2010" />
+      <node id="#ctf" label="#ctf" />
+      <node id="#blackhat" label="#blackhat" />
+      <node id="#NHL" label="#NHL" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#nofilter" target="#Vikings" weight="463" />
+      <edge id="1" source="#Saints" target="#Vikings" weight="463" />
+      <edge id="2" source="#hockey" target="#Van2010" weight="463" />
+      <edge id="3" source="#hockey" target="#IceDancing" weight="463" />
+      <edge id="4" source="#blackhatusa" target="#blackhat" weight="463" />
+      <edge id="5" source="#mnwild" target="#cbj" weight="463" />
+      <edge id="6" source="#mnwild" target="#NHLStore" weight="463" />
+      <edge id="7" source="#mnwild" target="#NHL" weight="463" />
+      <edge id="8" source="#traveshamockery" target="#Twins" weight="463" />
+      <edge id="9" source="#tcot" target="#TSA" weight="463" />
+      <edge id="10" source="#defcon" target="#ctf" weight="463" />
+      <edge id="11" source="#IceDancing" target="#Van2010" weight="463" />
+      <edge id="12" source="#Vikings" target="#FireChildress" weight="463" />
+      <edge id="13" source="#Vikings" target="#soberfun" weight="463" />
+    </edges>
+  </graph>
+</gexf>

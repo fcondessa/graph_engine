@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#TickTock" label="#TickTock" />
+      <node id="#SharedStrategy" label="#SharedStrategy" />
+      <node id="#FM" label="#FM" />
+      <node id="#riskmanagement" label="#riskmanagement" />
+      <node id="#WhatRUWaiting4" label="#WhatRUWaiting4" />
+      <node id="#FMX" label="#FMX" />
+      <node id="#GOFMX" label="#GOFMX" />
+      <node id="#CMMS" label="#CMMS" />
+      <node id="#boiler" label="#boiler" />
+      <node id="#NetZero" label="#NetZero" />
+      <node id="#millenials" label="#millenials" />
+      <node id="#energy" label="#energy" />
+      <node id="#FMXpert" label="#FMXpert" />
+      <node id="#FacilitiesManagement" label="#FacilitiesManagement" />
+      <node id="#facilitiesmanagement" label="#facilitiesmanagement" />
+      <node id="#RealTime" label="#RealTime" />
+      <node id="#WistiaFest" label="#WistiaFest" />
+      <node id="#cmms" label="#cmms" />
+      <node id="#WorldFMDay" label="#WorldFMDay" />
+      <node id="#Facilitiesmanagement" label="#Facilitiesmanagement" />
+      <node id="#CustomerExperience" label="#CustomerExperience" />
+      <node id="#facman" label="#facman" />
+      <node id="#RiskManagement" label="#RiskManagement" />
+      <node id="#CAFM" label="#CAFM" />
+      <node id="#GoFMX" label="#GoFMX" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#TickTock" target="#GoFMX" weight="298" />
+      <edge id="1" source="#TickTock" target="#facilitiesmanagement" weight="298" />
+      <edge id="2" source="#SharedStrategy" target="#CMMS" weight="298" />
+      <edge id="3" source="#FM" target="#GoFMX" weight="1788" />
+      <edge id="4" source="#FM" target="#WorldFMDay" weight="298" />
+      <edge id="5" source="#FM" target="#FMX" weight="1490" />
+      <edge id="6" source="#riskmanagement" target="#facilitiesmanagement" weight="298" />
+      <edge id="7" source="#WhatRUWaiting4" target="#CMMS" weight="298" />
+      <edge id="8" source="#WhatRUWaiting4" target="#GoFMX" weight="298" />
+      <edge id="9" source="#FMX" target="#GOFMX" weight="298" />
+      <edge id="10" source="#FMX" target="#FacilitiesManagement" weight="298" />
+      <edge id="11" source="#FMX" target="#WistiaFest" weight="298" />
+      <edge id="12" source="#FMX" target="#GoFMX" weight="596" />
+      <edge id="13" source="#FMX" target="#FMX" weight="1192" />
+      <edge id="14" source="#GOFMX" target="#FacilitiesManagement" weight="298" />
+      <edge id="15" source="#GOFMX" target="#CMMS" weight="298" />
+      <edge id="16" source="#CMMS" target="#GoFMX" weight="596" />
+      <edge id="17" source="#CMMS" target="#FacilitiesManagement" weight="298" />
+      <edge id="18" source="#CMMS" target="#facilitiesmanagement" weight="1192" />
+      <edge id="19" source="#CMMS" target="#CAFM" weight="298" />
+      <edge id="20" source="#boiler" target="#energy" weight="298" />
+      <edge id="21" source="#NetZero" target="#FacilitiesManagement" weight="298" />
+      <edge id="22" source="#NetZero" target="#GoFMX" weight="298" />
+      <edge id="23" source="#millenials" target="#facman" weight="298" />
+      <edge id="24" source="#FMXpert" target="#GoFMX" weight="298" />
+      <edge id="25" source="#FacilitiesManagement" target="#GoFMX" weight="3874" />
+      <edge id="26" source="#facilitiesmanagement" target="#RealTime" weight="298" />
+      <edge id="27" source="#facilitiesmanagement" target="#CAFM" weight="298" />
+      <edge id="28" source="#facilitiesmanagement" target="#GoFMX" weight="1490" />
+      <edge id="29" source="#facilitiesmanagement" target="#cmms" weight="894" />
+      <edge id="30" source="#Facilitiesmanagement" target="#GoFMX" weight="298" />
+      <edge id="31" source="#CustomerExperience" target="#GoFMX" weight="298" />
+      <edge id="32" source="#RiskManagement" target="#GoFMX" weight="298" />
+    </edges>
+  </graph>
+</gexf>

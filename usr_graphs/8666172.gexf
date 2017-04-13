@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#training" label="#training" />
+      <node id="#feedly" label="#feedly" />
+      <node id="#SocialMediaMarketing" label="#SocialMediaMarketing" />
+      <node id="#MyKindOfHoliday" label="#MyKindOfHoliday" />
+      <node id="#mobilesat" label="#mobilesat" />
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#Opines" label="#Opines" />
+      <node id="#business" label="#business" />
+      <node id="#data" label="#data" />
+      <node id="#quote" label="#quote" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#emailmarketing" label="#emailmarketing" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#b2b" label="#b2b" />
+      <node id="#AwesomeAdmin" label="#AwesomeAdmin" />
+      <node id="#bandwagon" label="#bandwagon" />
+      <node id="#DF16" label="#DF16" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#Spotify" label="#Spotify" />
+      <node id="#Sweet16" label="#Sweet16" />
+      <node id="#women" label="#women" />
+      <node id="#management" label="#management" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#blog" label="#blog" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#EsuranceSave30" label="#EsuranceSave30" />
+      <node id="#CIOs" label="#CIOs" />
+      <node id="#contentmarketing" label="#contentmarketing" />
+      <node id="#GartnerSYM" label="#GartnerSYM" />
+      <node id="#mobilemindshift" label="#mobilemindshift" />
+      <node id="#quoteoftheday" label="#quoteoftheday" />
+      <node id="#Big" label="#Big" />
+      <node id="#LinkedIn" label="#LinkedIn" />
+      <node id="#mktg" label="#mktg" />
+      <node id="#AdminHero" label="#AdminHero" />
+      <node id="#Oracle" label="#Oracle" />
+      <node id="#formazione" label="#formazione" />
+      <node id="#wtworldcat" label="#wtworldcat" />
+      <node id="#brawlmart" label="#brawlmart" />
+      <node id="#monsters" label="#monsters" />
+      <node id="#NowPlaying" label="#NowPlaying" />
+      <node id="#EmailDesign" label="#EmailDesign" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#training" target="#marketing" weight="1120" />
+      <edge id="1" source="#training" target="#formazione" weight="1120" />
+      <edge id="2" source="#training" target="#b2b" weight="1120" />
+      <edge id="3" source="#feedly" target="#business" weight="4480" />
+      <edge id="4" source="#feedly" target="#data" weight="1120" />
+      <edge id="5" source="#SocialMediaMarketing" target="#LinkedIn" weight="1120" />
+      <edge id="6" source="#MyKindOfHoliday" target="#BlackFriday" weight="1120" />
+      <edge id="7" source="#MyKindOfHoliday" target="#brawlmart" weight="1120" />
+      <edge id="8" source="#mobilesat" target="#sxsw" weight="1120" />
+      <edge id="9" source="#mobilesat" target="#mobilemindshift" weight="1120" />
+      <edge id="10" source="#sxsw" target="#mobilemindshift" weight="1120" />
+      <edge id="11" source="#Opines" target="#BigData" weight="1120" />
+      <edge id="12" source="#business" target="#management" weight="1120" />
+      <edge id="13" source="#business" target="#leadership" weight="1120" />
+      <edge id="14" source="#data" target="#mktg" weight="3360" />
+      <edge id="15" source="#quote" target="#leadership" weight="1120" />
+      <edge id="16" source="#Dayton" target="#Sweet16" weight="1120" />
+      <edge id="17" source="#emailmarketing" target="#EmailDesign" weight="1120" />
+      <edge id="18" source="#leadership" target="#management" weight="1120" />
+      <edge id="19" source="#inspiration" target="#women" weight="1120" />
+      <edge id="20" source="#inspiration" target="#quoteoftheday" weight="1120" />
+      <edge id="21" source="#b2b" target="#marketing" weight="1120" />
+      <edge id="22" source="#b2b" target="#formazione" weight="1120" />
+      <edge id="23" source="#AwesomeAdmin" target="#AdminHero" weight="1120" />
+      <edge id="24" source="#AwesomeAdmin" target="#DF16" weight="1120" />
+      <edge id="25" source="#bandwagon" target="#EsuranceSave30" weight="1120" />
+      <edge id="26" source="#DF16" target="#AdminHero" weight="1120" />
+      <edge id="27" source="#BlackFriday" target="#brawlmart" weight="1120" />
+      <edge id="28" source="#Spotify" target="#NowPlaying" weight="1120" />
+      <edge id="29" source="#women" target="#quoteoftheday" weight="1120" />
+      <edge id="30" source="#blog" target="#Big" weight="1120" />
+      <edge id="31" source="#marketing" target="#formazione" weight="1120" />
+      <edge id="32" source="#CIOs" target="#GartnerSYM" weight="2240" />
+      <edge id="33" source="#contentmarketing" target="#Oracle" weight="1120" />
+      <edge id="34" source="#wtworldcat" target="#monsters" weight="1120" />
+    </edges>
+  </graph>
+</gexf>

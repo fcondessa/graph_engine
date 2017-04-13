@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#komencbus" label="#komencbus" />
+      <node id="#whollyhealthy" label="#whollyhealthy" />
+      <node id="#CannesLions" label="#CannesLions" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#SHSMD13" label="#SHSMD13" />
+      <node id="#jcpstyle" label="#jcpstyle" />
+      <node id="#retail" label="#retail" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#OgilvyCannes" label="#OgilvyCannes" />
+      <node id="#SYTYCD" label="#SYTYCD" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#SaveYorelis" label="#SaveYorelis" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SXSW" target="#retail" weight="231" />
+      <edge id="1" source="#komencbus" target="#whollyhealthy" weight="231" />
+      <edge id="2" source="#CannesLions" target="#OgilvyCannes" weight="231" />
+      <edge id="3" source="#CannesLions" target="#tbt" weight="231" />
+      <edge id="4" source="#Oscars" target="#jcpstyle" weight="231" />
+      <edge id="5" source="#SHSMD13" target="#innovation" weight="231" />
+      <edge id="6" source="#tbt" target="#OgilvyCannes" weight="231" />
+      <edge id="7" source="#SYTYCD" target="#SaveYorelis" weight="231" />
+    </edges>
+  </graph>
+</gexf>

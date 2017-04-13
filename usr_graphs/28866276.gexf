@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#healthydiet" label="#healthydiet" />
+      <node id="#autism" label="#autism" />
+      <node id="#cellularhealing" label="#cellularhealing" />
+      <node id="#superfood" label="#superfood" />
+      <node id="#brainhealth" label="#brainhealth" />
+      <node id="#grainfree" label="#grainfree" />
+      <node id="#chronicpain" label="#chronicpain" />
+      <node id="#healthyhome" label="#healthyhome" />
+      <node id="#heavymetals" label="#heavymetals" />
+      <node id="#thyroidproblems" label="#thyroidproblems" />
+      <node id="#cannabidoil" label="#cannabidoil" />
+      <node id="#ticks" label="#ticks" />
+      <node id="#wellnessanswers" label="#wellnessanswers" />
+      <node id="#toxins" label="#toxins" />
+      <node id="#diet" label="#diet" />
+      <node id="#cellularhealingtv" label="#cellularhealingtv" />
+      <node id="#lymediseaseanswers" label="#lymediseaseanswers" />
+      <node id="#goodfat" label="#goodfat" />
+      <node id="#therapies" label="#therapies" />
+      <node id="#CHTV" label="#CHTV" />
+      <node id="#cellularhealth" label="#cellularhealth" />
+      <node id="#healthprotocol" label="#healthprotocol" />
+      <node id="#cellularhealingdiet" label="#cellularhealingdiet" />
+      <node id="#chronicdisease" label="#chronicdisease" />
+      <node id="#cellulardetox" label="#cellulardetox" />
+      <node id="#detoxification" label="#detoxification" />
+      <node id="#welln" label="#welln" />
+      <node id="#cbdoil" label="#cbdoil" />
+      <node id="#GMOs" label="#GMOs" />
+      <node id="#drpompa" label="#drpompa" />
+      <node id="#truecellulardetox" label="#truecellulardetox" />
+      <node id="#grains" label="#grains" />
+      <node id="#healing" label="#healing" />
+      <node id="#monsanto" label="#monsanto" />
+      <node id="#glyphosate" label="#glyphosate" />
+      <node id="#BoneBrothFast" label="#BoneBrothFast" />
+      <node id="#CellularHealing" label="#CellularHealing" />
+      <node id="#bonebroth" label="#bonebroth" />
+      <node id="#health" label="#health" />
+      <node id="#weightloss" label="#weightloss" />
+      <node id="#detox" label="#detox" />
+      <node id="#mold" label="#mold" />
+      <node id="#ticksafety" label="#ticksafety" />
+      <node id="#lowenergy" label="#lowenergy" />
+      <node id="#Glyphosate" label="#Glyphosate" />
+      <node id="#raw" label="#raw" />
+      <node id="#bonebrothfast" label="#bonebrothfast" />
+      <node id="#5Rs" label="#5Rs" />
+      <node id="#herbicide" label="#herbicide" />
+      <node id="#naturalskincare" label="#naturalskincare" />
+      <node id="#Pomegranates" label="#Pomegranates" />
+      <node id="#toxic" label="#toxic" />
+      <node id="#fasting" label="#fasting" />
+      <node id="#CytoDetox" label="#CytoDetox" />
+      <node id="#CellularHealingTV" label="#CellularHealingTV" />
+      <node id="#moodchanges" label="#moodchanges" />
+      <node id="#coconutoil" label="#coconutoil" />
+      <node id="#Superfoods" label="#Superfoods" />
+      <node id="#healthy" label="#healthy" />
+      <node id="#lymedisease" label="#lymedisease" />
+      <node id="#Monsanto" label="#Monsanto" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#healthydiet" target="#goodfat" weight="3208" />
+      <edge id="1" source="#healthydiet" target="#cellularhealingdiet" weight="3208" />
+      <edge id="2" source="#autism" target="#lymedisease" weight="3208" />
+      <edge id="3" source="#cellularhealing" target="#drpompa" weight="3208" />
+      <edge id="4" source="#cellularhealing" target="#healing" weight="3208" />
+      <edge id="5" source="#cellularhealing" target="#5Rs" weight="3208" />
+      <edge id="6" source="#cellularhealing" target="#detox" weight="3208" />
+      <edge id="7" source="#superfood" target="#Pomegranates" weight="3208" />
+      <edge id="8" source="#brainhealth" target="#Superfoods" weight="3208" />
+      <edge id="9" source="#grainfree" target="#herbicide" weight="3208" />
+      <edge id="10" source="#grainfree" target="#Glyphosate" weight="3208" />
+      <edge id="11" source="#grainfree" target="#monsanto" weight="3208" />
+      <edge id="12" source="#grainfree" target="#GMOs" weight="3208" />
+      <edge id="13" source="#chronicpain" target="#glyphosate" weight="3208" />
+      <edge id="14" source="#chronicpain" target="#moodchanges" weight="3208" />
+      <edge id="15" source="#chronicpain" target="#thyroidproblems" weight="3208" />
+      <edge id="16" source="#chronicpain" target="#lowenergy" weight="3208" />
+      <edge id="17" source="#chronicpain" target="#monsanto" weight="3208" />
+      <edge id="18" source="#healthyhome" target="#toxins" weight="3208" />
+      <edge id="19" source="#healthyhome" target="#mold" weight="3208" />
+      <edge id="20" source="#heavymetals" target="#weightloss" weight="3208" />
+      <edge id="21" source="#thyroidproblems" target="#glyphosate" weight="3208" />
+      <edge id="22" source="#thyroidproblems" target="#moodchanges" weight="3208" />
+      <edge id="23" source="#thyroidproblems" target="#lowenergy" weight="3208" />
+      <edge id="24" source="#thyroidproblems" target="#monsanto" weight="3208" />
+      <edge id="25" source="#cannabidoil" target="#cbdoil" weight="3208" />
+      <edge id="26" source="#ticks" target="#lymediseaseanswers" weight="3208" />
+      <edge id="27" source="#ticks" target="#ticksafety" weight="3208" />
+      <edge id="28" source="#ticks" target="#drpompa" weight="3208" />
+      <edge id="29" source="#ticks" target="#lymedisease" weight="3208" />
+      <edge id="30" source="#ticks" target="#wellnessanswers" weight="3208" />
+      <edge id="31" source="#wellnessanswers" target="#lymediseaseanswers" weight="3208" />
+      <edge id="32" source="#wellnessanswers" target="#ticksafety" weight="3208" />
+      <edge id="33" source="#wellnessanswers" target="#drpompa" weight="3208" />
+      <edge id="34" source="#wellnessanswers" target="#lymedisease" weight="3208" />
+      <edge id="35" source="#toxins" target="#mold" weight="3208" />
+      <edge id="36" source="#diet" target="#toxic" weight="3208" />
+      <edge id="37" source="#diet" target="#health" weight="3208" />
+      <edge id="38" source="#cellularhealingtv" target="#cellularhealth" weight="163608" />
+      <edge id="39" source="#cellularhealingtv" target="#health" weight="163608" />
+      <edge id="40" source="#lymediseaseanswers" target="#ticksafety" weight="3208" />
+      <edge id="41" source="#lymediseaseanswers" target="#drpompa" weight="3208" />
+      <edge id="42" source="#lymediseaseanswers" target="#lymedisease" weight="3208" />
+      <edge id="43" source="#goodfat" target="#cellularhealingdiet" weight="3208" />
+      <edge id="44" source="#therapies" target="#drpompa" weight="3208" />
+      <edge id="45" source="#therapies" target="#chronicdisease" weight="3208" />
+      <edge id="46" source="#therapies" target="#welln" weight="3208" />
+      <edge id="47" source="#CHTV" target="#BoneBrothFast" weight="3208" />
+      <edge id="48" source="#cellularhealth" target="#health" weight="163608" />
+      <edge id="49" source="#healthprotocol" target="#detoxification" weight="3208" />
+      <edge id="50" source="#healthprotocol" target="#CellularHealing" weight="3208" />
+      <edge id="51" source="#chronicdisease" target="#drpompa" weight="3208" />
+      <edge id="52" source="#chronicdisease" target="#welln" weight="3208" />
+      <edge id="53" source="#cellulardetox" target="#truecellulardetox" weight="3208" />
+      <edge id="54" source="#cellulardetox" target="#detox" weight="3208" />
+      <edge id="55" source="#detoxification" target="#CytoDetox" weight="3208" />
+      <edge id="56" source="#detoxification" target="#CellularHealing" weight="3208" />
+      <edge id="57" source="#welln" target="#drpompa" weight="3208" />
+      <edge id="58" source="#GMOs" target="#herbicide" weight="3208" />
+      <edge id="59" source="#GMOs" target="#Glyphosate" weight="3208" />
+      <edge id="60" source="#GMOs" target="#monsanto" weight="3208" />
+      <edge id="61" source="#drpompa" target="#naturalskincare" weight="3208" />
+      <edge id="62" source="#drpompa" target="#ticksafety" weight="3208" />
+      <edge id="63" source="#drpompa" target="#lymedisease" weight="3208" />
+      <edge id="64" source="#truecellulardetox" target="#detox" weight="3208" />
+      <edge id="65" source="#grains" target="#Glyphosate" weight="3208" />
+      <edge id="66" source="#grains" target="#CellularHealingTV" weight="3208" />
+      <edge id="67" source="#grains" target="#Monsanto" weight="3208" />
+      <edge id="68" source="#healing" target="#detox" weight="3208" />
+      <edge id="69" source="#healing" target="#5Rs" weight="3208" />
+      <edge id="70" source="#monsanto" target="#Glyphosate" weight="3208" />
+      <edge id="71" source="#monsanto" target="#glyphosate" weight="3208" />
+      <edge id="72" source="#monsanto" target="#herbicide" weight="3208" />
+      <edge id="73" source="#monsanto" target="#moodchanges" weight="3208" />
+      <edge id="74" source="#monsanto" target="#lowenergy" weight="3208" />
+      <edge id="75" source="#glyphosate" target="#moodchanges" weight="3208" />
+      <edge id="76" source="#glyphosate" target="#lowenergy" weight="3208" />
+      <edge id="77" source="#bonebroth" target="#fasting" weight="3208" />
+      <edge id="78" source="#health" target="#toxic" weight="3208" />
+      <edge id="79" source="#weightloss" target="#bonebrothfast" weight="3208" />
+      <edge id="80" source="#weightloss" target="#fasting" weight="3208" />
+      <edge id="81" source="#detox" target="#5Rs" weight="3208" />
+      <edge id="82" source="#ticksafety" target="#lymedisease" weight="3208" />
+      <edge id="83" source="#lowenergy" target="#moodchanges" weight="3208" />
+      <edge id="84" source="#Glyphosate" target="#CellularHealingTV" weight="3208" />
+      <edge id="85" source="#Glyphosate" target="#herbicide" weight="3208" />
+      <edge id="86" source="#Glyphosate" target="#Monsanto" weight="3208" />
+      <edge id="87" source="#raw" target="#healthy" weight="3208" />
+      <edge id="88" source="#raw" target="#coconutoil" weight="3208" />
+      <edge id="89" source="#bonebrothfast" target="#fasting" weight="3208" />
+      <edge id="90" source="#CellularHealingTV" target="#Monsanto" weight="3208" />
+      <edge id="91" source="#coconutoil" target="#healthy" weight="3208" />
+    </edges>
+  </graph>
+</gexf>

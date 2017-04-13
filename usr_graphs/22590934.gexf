@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#beach" label="#beach" />
+      <node id="#carmel" label="#carmel" />
+      <node id="#Nobel" label="#Nobel" />
+      <node id="#USArmy" label="#USArmy" />
+      <node id="#forests" label="#forests" />
+      <node id="#Capitola" label="#Capitola" />
+      <node id="#VIIRS" label="#VIIRS" />
+      <node id="#Hawaii" label="#Hawaii" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#ElNiño" label="#ElNiño" />
+      <node id="#GreatPacificRace" label="#GreatPacificRace" />
+      <node id="#besafefirefighters" label="#besafefirefighters" />
+      <node id="#thankyou" label="#thankyou" />
+      <node id="#EndSexualAssault" label="#EndSexualAssault" />
+      <node id="#LosPadres" label="#LosPadres" />
+      <node id="#GoodBoy" label="#GoodBoy" />
+      <node id="#Monterey" label="#Monterey" />
+      <node id="#cake" label="#cake" />
+      <node id="#carmelriver" label="#carmelriver" />
+      <node id="#SilenceTheBlues" label="#SilenceTheBlues" />
+      <node id="#SUP" label="#SUP" />
+      <node id="#BigSur" label="#BigSur" />
+      <node id="#pilotfire" label="#pilotfire" />
+      <node id="#SJSU" label="#SJSU" />
+      <node id="#CedarFire" label="#CedarFire" />
+      <node id="#affordablehousing" label="#affordablehousing" />
+      <node id="#TF578" label="#TF578" />
+      <node id="#MilesDavis" label="#MilesDavis" />
+      <node id="#firefighters" label="#firefighters" />
+      <node id="#ForeverGiant" label="#ForeverGiant" />
+      <node id="#BigLittleLies" label="#BigLittleLies" />
+      <node id="#Hwy1" label="#Hwy1" />
+      <node id="#SobranesFire" label="#SobranesFire" />
+      <node id="#rain" label="#rain" />
+      <node id="#ClassicCarWeek" label="#ClassicCarWeek" />
+      <node id="#MJF59" label="#MJF59" />
+      <node id="#MiramonteKitchenUnit43" label="#MiramonteKitchenUnit43" />
+      <node id="#GeneWilder" label="#GeneWilder" />
+      <node id="#Salinas" label="#Salinas" />
+      <node id="#CALPF" label="#CALPF" />
+      <node id="#SoberanesFire" label="#SoberanesFire" />
+      <node id="#NatlPrep" label="#NatlPrep" />
+      <node id="#thankyoucalfire" label="#thankyoucalfire" />
+      <node id="#WeAreMB" label="#WeAreMB" />
+      <node id="#LoveAlwaysWins" label="#LoveAlwaysWins" />
+      <node id="#ItsOnUs" label="#ItsOnUs" />
+      <node id="#SanFrancisco" label="#SanFrancisco" />
+      <node id="#PokemonGoChallenge" label="#PokemonGoChallenge" />
+      <node id="#wx" label="#wx" />
+      <node id="#USvTexas" label="#USvTexas" />
+      <node id="#APArchivePhoto" label="#APArchivePhoto" />
+      <node id="#bicycling" label="#bicycling" />
+      <node id="#RelayForLife" label="#RelayForLife" />
+      <node id="#MCoSheriff" label="#MCoSheriff" />
+      <node id="#BuzzedDriving" label="#BuzzedDriving" />
+      <node id="#MemorialDayWeekend" label="#MemorialDayWeekend" />
+      <node id="#cycling" label="#cycling" />
+      <node id="#smokeabovefogbelow" label="#smokeabovefogbelow" />
+      <node id="#Sailing" label="#Sailing" />
+      <node id="#Seaside" label="#Seaside" />
+      <node id="#Golf" label="#Golf" />
+      <node id="#CarmelCA" label="#CarmelCA" />
+      <node id="#SandFire" label="#SandFire" />
+      <node id="#CampRoberts" label="#CampRoberts" />
+      <node id="#Rosines" label="#Rosines" />
+      <node id="#Gonzalez" label="#Gonzalez" />
+      <node id="#cvrg16" label="#cvrg16" />
+      <node id="#MondayNightFootball" label="#MondayNightFootball" />
+      <node id="#MeditationMonday" label="#MeditationMonday" />
+      <node id="#NWSBayArea" label="#NWSBayArea" />
+      <node id="#Rainbow" label="#Rainbow" />
+      <node id="#SoldierForLife" label="#SoldierForLife" />
+      <node id="#San" label="#San" />
+      <node id="#CAFire" label="#CAFire" />
+      <node id="#flashflood" label="#flashflood" />
+      <node id="#Utah" label="#Utah" />
+      <node id="#CarmelValley" label="#CarmelValley" />
+      <node id="#meteor" label="#meteor" />
+      <node id="#FirstDog" label="#FirstDog" />
+      <node id="#publicservice" label="#publicservice" />
+      <node id="#newsmatters" label="#newsmatters" />
+      <node id="#Fridaythe13th" label="#Fridaythe13th" />
+      <node id="#MontereyBay" label="#MontereyBay" />
+      <node id="#Democrats" label="#Democrats" />
+      <node id="#SPOTLIGHT" label="#SPOTLIGHT" />
+      <node id="#LaborDayWeekend" label="#LaborDayWeekend" />
+      <node id="#NASAWorldview" label="#NASAWorldview" />
+      <node id="#SoberanesFirr" label="#SoberanesFirr" />
+      <node id="#SeaSurfaceTemperatures" label="#SeaSurfaceTemperatures" />
+      <node id="#GoogleEarth" label="#GoogleEarth" />
+      <node id="#AmyLieuPresents" label="#AmyLieuPresents" />
+      <node id="#inversion" label="#inversion" />
+      <node id="#inclusion" label="#inclusion" />
+      <node id="#scspost" label="#scspost" />
+      <node id="#Thunderstorms" label="#Thunderstorms" />
+      <node id="#MilkyWay" label="#MilkyWay" />
+      <node id="#Calfire" label="#Calfire" />
+      <node id="#HMOB" label="#HMOB" />
+      <node id="#LGO" label="#LGO" />
+      <node id="#basketball" label="#basketball" />
+      <node id="#poweroutage" label="#poweroutage" />
+      <node id="#CalGuard" label="#CalGuard" />
+      <node id="#HYSPLIT" label="#HYSPLIT" />
+      <node id="#SpotTheStation" label="#SpotTheStation" />
+      <node id="#BayArea" label="#BayArea" />
+      <node id="#Fiji" label="#Fiji" />
+      <node id="#NTFPD" label="#NTFPD" />
+      <node id="#LoveIsLove" label="#LoveIsLove" />
+      <node id="#MontereyCounty" label="#MontereyCounty" />
+      <node id="#horses" label="#horses" />
+      <node id="#stewardship" label="#stewardship" />
+      <node id="#rainbow" label="#rainbow" />
+      <node id="#Monterey2016" label="#Monterey2016" />
+      <node id="#WeirdBaseballOnTV" label="#WeirdBaseballOnTV" />
+      <node id="#Orca" label="#Orca" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#ktvu" label="#ktvu" />
+      <node id="#MonasteryStateBeach" label="#MonasteryStateBeach" />
+      <node id="#SFBay" label="#SFBay" />
+      <node id="#NewsMatters" label="#NewsMatters" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#Watsonville" label="#Watsonville" />
+      <node id="#FistBump" label="#FistBump" />
+      <node id="#CALFIRE" label="#CALFIRE" />
+      <node id="#OneLessSpark" label="#OneLessSpark" />
+      <node id="#dolphin" label="#dolphin" />
+      <node id="#firefighter" label="#firefighter" />
+      <node id="#lomafire" label="#lomafire" />
+      <node id="#BigSurMarathon" label="#BigSurMarathon" />
+      <node id="#CycloneWinston" label="#CycloneWinston" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#StarTrek50" label="#StarTrek50" />
+      <node id="#surf" label="#surf" />
+      <node id="#MRY" label="#MRY" />
+      <node id="#CAfire" label="#CAfire" />
+      <node id="#BlackHistory" label="#BlackHistory" />
+      <node id="#inspiringphilanthropy" label="#inspiringphilanthropy" />
+      <node id="#CAPrimary" label="#CAPrimary" />
+      <node id="#OTD" label="#OTD" />
+      <node id="#Airquality" label="#Airquality" />
+      <node id="#ThankYouFirefighters" label="#ThankYouFirefighters" />
+      <node id="#winter" label="#winter" />
+      <node id="#bayarearain" label="#bayarearain" />
+      <node id="#monterey" label="#monterey" />
+      <node id="#LGBT" label="#LGBT" />
+      <node id="#homelessness" label="#homelessness" />
+      <node id="#SantaCruz" label="#SantaCruz" />
+      <node id="#myopinion" label="#myopinion" />
+      <node id="#CountyFire" label="#CountyFire" />
+      <node id="#BodegaBay" label="#BodegaBay" />
+      <node id="#ColemanFire" label="#ColemanFire" />
+      <node id="#hartnellfootball" label="#hartnellfootball" />
+      <node id="#Lomafire" label="#Lomafire" />
+      <node id="#santacruz" label="#santacruz" />
+      <node id="#MossLanding" label="#MossLanding" />
+      <node id="#FinishPitt" label="#FinishPitt" />
+      <node id="#Lightning" label="#Lightning" />
+      <node id="#sf" label="#sf" />
+      <node id="#LouieArmstrong" label="#LouieArmstrong" />
+      <node id="#Soberanesfire" label="#Soberanesfire" />
+      <node id="#FoodTruck" label="#FoodTruck" />
+      <node id="#Carmelhighlands" label="#Carmelhighlands" />
+      <node id="#OrlandoUnited" label="#OrlandoUnited" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#MBUAPCD" label="#MBUAPCD" />
+      <node id="#CAwx" label="#CAwx" />
+      <node id="#ExperienceCounts" label="#ExperienceCounts" />
+      <node id="#SJ" label="#SJ" />
+      <node id="#ISS" label="#ISS" />
+      <node id="#publicart" label="#publicart" />
+      <node id="#hotshots" label="#hotshots" />
+      <node id="#SF" label="#SF" />
+      <node id="#housingaffordability" label="#housingaffordability" />
+      <node id="#SanJose" label="#SanJose" />
+      <node id="#Breaking" label="#Breaking" />
+      <node id="#DukeEllington" label="#DukeEllington" />
+      <node id="#SeaOtter" label="#SeaOtter" />
+      <node id="#NapaCounty" label="#NapaCounty" />
+      <node id="#ZEN" label="#ZEN" />
+      <node id="#farmersmarket" label="#farmersmarket" />
+      <node id="#firewx" label="#firewx" />
+      <node id="#jazz" label="#jazz" />
+      <node id="#ATTProAm" label="#ATTProAm" />
+      <node id="#recycled" label="#recycled" />
+      <node id="#CHOW2016" label="#CHOW2016" />
+      <node id="#Rams" label="#Rams" />
+      <node id="#FoodTrucks" label="#FoodTrucks" />
+      <node id="#CentralCoast" label="#CentralCoast" />
+      <node id="#TurnUpTheTank" label="#TurnUpTheTank" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#ColtonHall" label="#ColtonHall" />
+      <node id="#Orlando" label="#Orlando" />
+      <node id="#HalfMarathon" label="#HalfMarathon" />
+      <node id="#Pokemon" label="#Pokemon" />
+      <node id="#gilroy" label="#gilroy" />
+      <node id="#NoBillNoBreak" label="#NoBillNoBreak" />
+      <node id="#Boston2BigSur" label="#Boston2BigSur" />
+      <node id="#PokemonGo" label="#PokemonGo" />
+      <node id="#springshowers" label="#springshowers" />
+      <node id="#CenCal" label="#CenCal" />
+      <node id="#StanleyCup" label="#StanleyCup" />
+      <node id="#yoursffd" label="#yoursffd" />
+      <node id="#cawx" label="#cawx" />
+      <node id="#McDonalds" label="#McDonalds" />
+      <node id="#NAACP" label="#NAACP" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#bigbluelive2" label="#bigbluelive2" />
+      <node id="#WorldOceansDay" label="#WorldOceansDay" />
+      <node id="#Sandfire" label="#Sandfire" />
+      <node id="#OES" label="#OES" />
+      <node id="#Spotlight" label="#Spotlight" />
+      <node id="#CAGOP" label="#CAGOP" />
+      <node id="#safety" label="#safety" />
+      <node id="#takeatour" label="#takeatour" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#PokemonGO" label="#PokemonGO" />
+      <node id="#myhome" label="#myhome" />
+      <node id="#CA" label="#CA" />
+      <node id="#AAPI" label="#AAPI" />
+      <node id="#zen" label="#zen" />
+      <node id="#gowomen" label="#gowomen" />
+      <node id="#SJGiants" label="#SJGiants" />
+      <node id="#PacificGrove" label="#PacificGrove" />
+      <node id="#savebigsur" label="#savebigsur" />
+      <node id="#SFGSneakPeek" label="#SFGSneakPeek" />
+      <node id="#ChimneyFire" label="#ChimneyFire" />
+      <node id="#LGBTQ" label="#LGBTQ" />
+      <node id="#WeAreSoberanes" label="#WeAreSoberanes" />
+      <node id="#TodayInHistory" label="#TodayInHistory" />
+      <node id="#LoveWins" label="#LoveWins" />
+      <node id="#CanyonFire" label="#CanyonFire" />
+      <node id="#FirstTeeOpen" label="#FirstTeeOpen" />
+      <node id="#earthquake" label="#earthquake" />
+      <node id="#Skateboarding" label="#Skateboarding" />
+      <node id="#PalomarHotshots" label="#PalomarHotshots" />
+      <node id="#volleyball" label="#volleyball" />
+      <node id="#publiclands" label="#publiclands" />
+      <node id="#B2B" label="#B2B" />
+      <node id="#reddingfire" label="#reddingfire" />
+      <node id="#CASen" label="#CASen" />
+      <node id="#helitanker" label="#helitanker" />
+      <node id="#bigsur" label="#bigsur" />
+      <node id="#proudmom" label="#proudmom" />
+      <node id="#CanneryRow" label="#CanneryRow" />
+      <node id="#LomaFire" label="#LomaFire" />
+      <node id="#wildfires" label="#wildfires" />
+      <node id="#LA" label="#LA" />
+      <node id="#SanBenito" label="#SanBenito" />
+      <node id="#Dessert" label="#Dessert" />
+      <node id="#humpbackwhale" label="#humpbackwhale" />
+      <node id="#Soledad" label="#Soledad" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#CSUMB" label="#CSUMB" />
+      <node id="#MBARI" label="#MBARI" />
+      <node id="#NOAA" label="#NOAA" />
+      <node id="#birds" label="#birds" />
+      <node id="#RIP" label="#RIP" />
+      <node id="#RedCross" label="#RedCross" />
+      <node id="#1u" label="#1u" />
+      <node id="#sfbay" label="#sfbay" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#CAWx" label="#CAWx" />
+      <node id="#MarksRanch" label="#MarksRanch" />
+      <node id="#ALCOFire" label="#ALCOFire" />
+      <node id="#VOTE" label="#VOTE" />
+      <node id="#castateparks" label="#castateparks" />
+      <node id="#Minions" label="#Minions" />
+      <node id="#titansofmavericks" label="#titansofmavericks" />
+      <node id="#resilientMontreyco" label="#resilientMontreyco" />
+      <node id="#ThePreserve" label="#ThePreserve" />
+      <node id="#katch" label="#katch" />
+      <node id="#Soquel" label="#Soquel" />
+      <node id="#California" label="#California" />
+      <node id="#Firefighters" label="#Firefighters" />
+      <node id="#cagop" label="#cagop" />
+      <node id="#congrats" label="#congrats" />
+      <node id="#SJSharks" label="#SJSharks" />
+      <node id="#Carmel" label="#Carmel" />
+      <node id="#ArtsForTheCause" label="#ArtsForTheCause" />
+      <node id="#killerwhale" label="#killerwhale" />
+      <node id="#Mavericks" label="#Mavericks" />
+      <node id="#whalewatching" label="#whalewatching" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#SpartansRemember" label="#SpartansRemember" />
+      <node id="#VaginaMonologues" label="#VaginaMonologues" />
+      <node id="#NorCal" label="#NorCal" />
+      <node id="#LasVegas" label="#LasVegas" />
+      <node id="#MeasureP" label="#MeasureP" />
+      <node id="#Skatepark" label="#Skatepark" />
+      <node id="#SpeedCity" label="#SpeedCity" />
+      <node id="#GarrapataFire" label="#GarrapataFire" />
+      <node id="#immigrant" label="#immigrant" />
+      <node id="#redcross" label="#redcross" />
+      <node id="#scsrt" label="#scsrt" />
+      <node id="#sjsu" label="#sjsu" />
+      <node id="#yikes" label="#yikes" />
+      <node id="#Thunder" label="#Thunder" />
+      <node id="#hero" label="#hero" />
+      <node id="#soberanesfire" label="#soberanesfire" />
+      <node id="#Hwy68" label="#Hwy68" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#beach" target="#surf" weight="3226" />
+      <edge id="1" source="#beach" target="#cawx" weight="3226" />
+      <edge id="2" source="#beach" target="#safety" weight="3226" />
+      <edge id="3" source="#carmel" target="#carmelriver" weight="3226" />
+      <edge id="4" source="#Nobel" target="#OTD" weight="3226" />
+      <edge id="5" source="#Nobel" target="#TodayInHistory" weight="3226" />
+      <edge id="6" source="#Nobel" target="#APArchivePhoto" weight="3226" />
+      <edge id="7" source="#USArmy" target="#RIP" weight="3226" />
+      <edge id="8" source="#USArmy" target="#SoldierForLife" weight="3226" />
+      <edge id="9" source="#USArmy" target="#GeneWilder" weight="3226" />
+      <edge id="10" source="#USArmy" target="#Monterey" weight="3226" />
+      <edge id="11" source="#forests" target="#myopinion" weight="3226" />
+      <edge id="12" source="#forests" target="#stewardship" weight="3226" />
+      <edge id="13" source="#forests" target="#publiclands" weight="3226" />
+      <edge id="14" source="#Capitola" target="#Watsonville" weight="3226" />
+      <edge id="15" source="#Capitola" target="#Soquel" weight="3226" />
+      <edge id="16" source="#VIIRS" target="#CanyonFire" weight="3226" />
+      <edge id="17" source="#VIIRS" target="#SoberanesFire" weight="3226" />
+      <edge id="18" source="#Hawaii" target="#GreatPacificRace" weight="3226" />
+      <edge id="19" source="#Hawaii" target="#Monterey" weight="3226" />
+      <edge id="20" source="#RNCinCLE" target="#CAGOP" weight="3226" />
+      <edge id="21" source="#RNCinCLE" target="#cagop" weight="3226" />
+      <edge id="22" source="#ElNiño" target="#cawx" weight="3226" />
+      <edge id="23" source="#GreatPacificRace" target="#Monterey" weight="3226" />
+      <edge id="24" source="#besafefirefighters" target="#thankyou" weight="3226" />
+      <edge id="25" source="#EndSexualAssault" target="#ItsOnUs" weight="3226" />
+      <edge id="26" source="#LosPadres" target="#SoberanesFire" weight="3226" />
+      <edge id="27" source="#GoodBoy" target="#FirstDog" weight="3226" />
+      <edge id="28" source="#Monterey" target="#BodegaBay" weight="3226" />
+      <edge id="29" source="#Monterey" target="#Pokemon" weight="3226" />
+      <edge id="30" source="#Monterey" target="#Skateboarding" weight="3226" />
+      <edge id="31" source="#Monterey" target="#FoodTruck" weight="3226" />
+      <edge id="32" source="#Monterey" target="#OrlandoUnited" weight="3226" />
+      <edge id="33" source="#Monterey" target="#Skatepark" weight="6452" />
+      <edge id="34" source="#Monterey" target="#SeaSurfaceTemperatures" weight="3226" />
+      <edge id="35" source="#Monterey" target="#SJ" weight="3226" />
+      <edge id="36" source="#Monterey" target="#BigSur" weight="3226" />
+      <edge id="37" source="#Monterey" target="#publicart" weight="3226" />
+      <edge id="38" source="#Monterey" target="#CanneryRow" weight="3226" />
+      <edge id="39" source="#Monterey" target="#SF" weight="3226" />
+      <edge id="40" source="#Monterey" target="#SanBenito" weight="3226" />
+      <edge id="41" source="#Monterey" target="#Dessert" weight="3226" />
+      <edge id="42" source="#Monterey" target="#DukeEllington" weight="3226" />
+      <edge id="43" source="#Monterey" target="#MilesDavis" weight="3226" />
+      <edge id="44" source="#Monterey" target="#basketball" weight="3226" />
+      <edge id="45" source="#Monterey" target="#SoberanesFire" weight="3226" />
+      <edge id="46" source="#Monterey" target="#SanFrancisco" weight="3226" />
+      <edge id="47" source="#Monterey" target="#RIP" weight="3226" />
+      <edge id="48" source="#Monterey" target="#SobranesFire" weight="3226" />
+      <edge id="49" source="#Monterey" target="#VOTE" weight="3226" />
+      <edge id="50" source="#Monterey" target="#FoodTrucks" weight="3226" />
+      <edge id="51" source="#Monterey" target="#Minions" weight="3226" />
+      <edge id="52" source="#Monterey" target="#Warriors" weight="3226" />
+      <edge id="53" source="#Monterey" target="#ColtonHall" weight="6452" />
+      <edge id="54" source="#Monterey" target="#Orlando" weight="3226" />
+      <edge id="55" source="#Monterey" target="#CAwx" weight="6452" />
+      <edge id="56" source="#Monterey" target="#LoveAlwaysWins" weight="3226" />
+      <edge id="57" source="#Monterey" target="#PokemonGo" weight="3226" />
+      <edge id="58" source="#Monterey" target="#TBT" weight="3226" />
+      <edge id="59" source="#Monterey" target="#LouieArmstrong" weight="3226" />
+      <edge id="60" source="#Monterey" target="#cawx" weight="12904" />
+      <edge id="61" source="#Monterey" target="#Rainbow" weight="3226" />
+      <edge id="62" source="#Monterey" target="#MeasureP" weight="9678" />
+      <edge id="63" source="#Monterey" target="#Sailing" weight="3226" />
+      <edge id="64" source="#Monterey" target="#Rosines" weight="3226" />
+      <edge id="65" source="#Monterey" target="#farmersmarket" weight="3226" />
+      <edge id="66" source="#cake" target="#NewsMatters" weight="3226" />
+      <edge id="67" source="#SilenceTheBlues" target="#StanleyCup" weight="3226" />
+      <edge id="68" source="#SUP" target="#volleyball" weight="3226" />
+      <edge id="69" source="#BigSur" target="#cawx" weight="6452" />
+      <edge id="70" source="#BigSur" target="#Carmel" weight="3226" />
+      <edge id="71" source="#BigSur" target="#MilkyWay" weight="3226" />
+      <edge id="72" source="#BigSur" target="#SoberanesFire" weight="19356" />
+      <edge id="73" source="#BigSur" target="#Hwy1" weight="3226" />
+      <edge id="74" source="#BigSur" target="#SobranesFire" weight="3226" />
+      <edge id="75" source="#BigSur" target="#GarrapataFire" weight="3226" />
+      <edge id="76" source="#BigSur" target="#MontereyCounty" weight="3226" />
+      <edge id="77" source="#pilotfire" target="#CA" weight="3226" />
+      <edge id="78" source="#SJSU" target="#SpeedCity" weight="6452" />
+      <edge id="79" source="#SJSU" target="#cancer" weight="3226" />
+      <edge id="80" source="#SJSU" target="#SpartansRemember" weight="3226" />
+      <edge id="81" source="#SJSU" target="#SoberanesFire" weight="3226" />
+      <edge id="82" source="#CedarFire" target="#SoberanesFire" weight="3226" />
+      <edge id="83" source="#affordablehousing" target="#homelessness" weight="3226" />
+      <edge id="84" source="#affordablehousing" target="#housingaffordability" weight="3226" />
+      <edge id="85" source="#TF578" target="#CalGuard" weight="3226" />
+      <edge id="86" source="#TF578" target="#CampRoberts" weight="3226" />
+      <edge id="87" source="#TF578" target="#SoberanesFire" weight="3226" />
+      <edge id="88" source="#MilesDavis" target="#LouieArmstrong" weight="3226" />
+      <edge id="89" source="#MilesDavis" target="#DukeEllington" weight="3226" />
+      <edge id="90" source="#MilesDavis" target="#TBT" weight="3226" />
+      <edge id="91" source="#firefighters" target="#yoursffd" weight="3226" />
+      <edge id="92" source="#firefighters" target="#SoberanesFire" weight="3226" />
+      <edge id="93" source="#ForeverGiant" target="#SFGiants" weight="3226" />
+      <edge id="94" source="#BigLittleLies" target="#Seaside" weight="3226" />
+      <edge id="95" source="#Hwy1" target="#santacruz" weight="3226" />
+      <edge id="96" source="#Hwy1" target="#Carmel" weight="3226" />
+      <edge id="97" source="#Hwy1" target="#SoberanesFire" weight="3226" />
+      <edge id="98" source="#SobranesFire" target="#flashflood" weight="3226" />
+      <edge id="99" source="#SobranesFire" target="#NWSBayArea" weight="3226" />
+      <edge id="100" source="#SobranesFire" target="#cawx" weight="6452" />
+      <edge id="101" source="#rain" target="#cawx" weight="3226" />
+      <edge id="102" source="#ClassicCarWeek" target="#SoberanesFire" weight="9678" />
+      <edge id="103" source="#MJF59" target="#jazz" weight="3226" />
+      <edge id="104" source="#MiramonteKitchenUnit43" target="#SoberanesFire" weight="3226" />
+      <edge id="105" source="#GeneWilder" target="#RIP" weight="3226" />
+      <edge id="106" source="#GeneWilder" target="#SoldierForLife" weight="3226" />
+      <edge id="107" source="#Salinas" target="#Gonzalez" weight="3226" />
+      <edge id="108" source="#Salinas" target="#Soledad" weight="3226" />
+      <edge id="109" source="#Salinas" target="#Hwy68" weight="3226" />
+      <edge id="110" source="#CALPF" target="#CA" weight="3226" />
+      <edge id="111" source="#CALPF" target="#SoberanesFire" weight="3226" />
+      <edge id="112" source="#SoberanesFire" target="#SantaCruz" weight="3226" />
+      <edge id="113" source="#SoberanesFire" target="#NWSBayArea" weight="3226" />
+      <edge id="114" source="#SoberanesFire" target="#CountyFire" weight="3226" />
+      <edge id="115" source="#SoberanesFire" target="#ChimneyFire" weight="9678" />
+      <edge id="116" source="#SoberanesFire" target="#redcross" weight="6452" />
+      <edge id="117" source="#SoberanesFire" target="#CAFire" weight="9678" />
+      <edge id="118" source="#SoberanesFire" target="#WeAreSoberanes" weight="3226" />
+      <edge id="119" source="#SoberanesFire" target="#CarmelValley" weight="3226" />
+      <edge id="120" source="#SoberanesFire" target="#CanyonFire" weight="3226" />
+      <edge id="121" source="#SoberanesFire" target="#MontereyCounty" weight="3226" />
+      <edge id="122" source="#SoberanesFire" target="#CAwx" weight="19356" />
+      <edge id="123" source="#SoberanesFire" target="#PalomarHotshots" weight="3226" />
+      <edge id="124" source="#SoberanesFire" target="#Calfire" weight="3226" />
+      <edge id="125" source="#SoberanesFire" target="#NASAWorldview" weight="3226" />
+      <edge id="126" source="#SoberanesFire" target="#MBUAPCD" weight="3226" />
+      <edge id="127" source="#SoberanesFire" target="#ArtsForTheCause" weight="3226" />
+      <edge id="128" source="#SoberanesFire" target="#reddingfire" weight="3226" />
+      <edge id="129" source="#SoberanesFire" target="#MRY" weight="3226" />
+      <edge id="130" source="#SoberanesFire" target="#bigsur" weight="3226" />
+      <edge id="131" source="#SoberanesFire" target="#proudmom" weight="3226" />
+      <edge id="132" source="#SoberanesFire" target="#SF" weight="6452" />
+      <edge id="133" source="#SoberanesFire" target="#wildfires" weight="3226" />
+      <edge id="134" source="#SoberanesFire" target="#savebigsur" weight="3226" />
+      <edge id="135" source="#SoberanesFire" target="#CSUMB" weight="12904" />
+      <edge id="136" source="#SoberanesFire" target="#poweroutage" weight="3226" />
+      <edge id="137" source="#SoberanesFire" target="#CalGuard" weight="6452" />
+      <edge id="138" source="#SoberanesFire" target="#HYSPLIT" weight="3226" />
+      <edge id="139" source="#SoberanesFire" target="#birds" weight="3226" />
+      <edge id="140" source="#SoberanesFire" target="#smokeabovefogbelow" weight="3226" />
+      <edge id="141" source="#SoberanesFire" target="#helitanker" weight="3226" />
+      <edge id="142" source="#SoberanesFire" target="#SandFire" weight="9678" />
+      <edge id="143" source="#SoberanesFire" target="#CAWx" weight="3226" />
+      <edge id="144" source="#SoberanesFire" target="#MarksRanch" weight="3226" />
+      <edge id="145" source="#SoberanesFire" target="#GoogleEarth" weight="3226" />
+      <edge id="146" source="#SoberanesFire" target="#NOAA" weight="3226" />
+      <edge id="147" source="#SoberanesFire" target="#BayArea" weight="3226" />
+      <edge id="148" source="#SoberanesFire" target="#ThePreserve" weight="3226" />
+      <edge id="149" source="#SoberanesFire" target="#MonasteryStateBeach" weight="3226" />
+      <edge id="150" source="#SoberanesFire" target="#cawx" weight="38712" />
+      <edge id="151" source="#SoberanesFire" target="#Firefighters" weight="3226" />
+      <edge id="152" source="#SoberanesFire" target="#ThankYouFirefighters" weight="6452" />
+      <edge id="153" source="#SoberanesFire" target="#inversion" weight="3226" />
+      <edge id="154" source="#SoberanesFire" target="#myhome" weight="3226" />
+      <edge id="155" source="#SoberanesFire" target="#CarmelCA" weight="3226" />
+      <edge id="156" source="#SoberanesFire" target="#CALFIRE" weight="3226" />
+      <edge id="157" source="#SoberanesFire" target="#CentralCoast" weight="3226" />
+      <edge id="158" source="#SoberanesFire" target="#wx" weight="3226" />
+      <edge id="159" source="#SoberanesFire" target="#yoursffd" weight="3226" />
+      <edge id="160" source="#SoberanesFire" target="#Carmelhighlands" weight="3226" />
+      <edge id="161" source="#SoberanesFire" target="#farmersmarket" weight="3226" />
+      <edge id="162" source="#SoberanesFire" target="#Sandfire" weight="3226" />
+      <edge id="163" source="#SoberanesFire" target="#ALCOFire" weight="3226" />
+      <edge id="164" source="#SoberanesFire" target="#CAfire" weight="6452" />
+      <edge id="165" source="#SoberanesFire" target="#inspiringphilanthropy" weight="3226" />
+      <edge id="166" source="#SoberanesFire" target="#OES" weight="3226" />
+      <edge id="167" source="#SoberanesFire" target="#Airquality" weight="3226" />
+      <edge id="168" source="#SoberanesFire" target="#horses" weight="3226" />
+      <edge id="169" source="#SoberanesFire" target="#winter" weight="3226" />
+      <edge id="170" source="#SoberanesFire" target="#yikes" weight="3226" />
+      <edge id="171" source="#SoberanesFire" target="#CampRoberts" weight="3226" />
+      <edge id="172" source="#SoberanesFire" target="#CA" weight="3226" />
+      <edge id="173" source="#SoberanesFire" target="#LomaFire" weight="3226" />
+      <edge id="174" source="#SoberanesFire" target="#GarrapataFire" weight="3226" />
+      <edge id="175" source="#SoberanesFire" target="#cvrg16" weight="3226" />
+      <edge id="176" source="#NatlPrep" target="#resilientMontreyco" weight="3226" />
+      <edge id="177" source="#thankyoucalfire" target="#castateparks" weight="3226" />
+      <edge id="178" source="#thankyoucalfire" target="#takeatour" weight="3226" />
+      <edge id="179" source="#WeAreMB" target="#LGO" weight="3226" />
+      <edge id="180" source="#WeAreMB" target="#CSUMB" weight="3226" />
+      <edge id="181" source="#LoveAlwaysWins" target="#Orlando" weight="3226" />
+      <edge id="182" source="#LoveAlwaysWins" target="#OrlandoUnited" weight="3226" />
+      <edge id="183" source="#SanFrancisco" target="#BodegaBay" weight="3226" />
+      <edge id="184" source="#SanFrancisco" target="#SeaSurfaceTemperatures" weight="3226" />
+      <edge id="185" source="#SanFrancisco" target="#LaborDayWeekend" weight="3226" />
+      <edge id="186" source="#PokemonGoChallenge" target="#PokemonGO" weight="3226" />
+      <edge id="187" source="#wx" target="#cawx" weight="3226" />
+      <edge id="188" source="#USvTexas" target="#immigrant" weight="3226" />
+      <edge id="189" source="#APArchivePhoto" target="#OTD" weight="3226" />
+      <edge id="190" source="#APArchivePhoto" target="#TodayInHistory" weight="3226" />
+      <edge id="191" source="#bicycling" target="#PacificGrove" weight="3226" />
+      <edge id="192" source="#RelayForLife" target="#Soledad" weight="3226" />
+      <edge id="193" source="#RelayForLife" target="#cancer" weight="3226" />
+      <edge id="194" source="#MCoSheriff" target="#congrats" weight="3226" />
+      <edge id="195" source="#MCoSheriff" target="#TBT" weight="3226" />
+      <edge id="196" source="#BuzzedDriving" target="#StPatricksDay" weight="3226" />
+      <edge id="197" source="#MemorialDayWeekend" target="#OneLessSpark" weight="3226" />
+      <edge id="198" source="#cycling" target="#veterans" weight="3226" />
+      <edge id="199" source="#cycling" target="#Soledad" weight="3226" />
+      <edge id="200" source="#Golf" target="#FistBump" weight="3226" />
+      <edge id="201" source="#Golf" target="#FirstTeeOpen" weight="3226" />
+      <edge id="202" source="#CampRoberts" target="#CalGuard" weight="3226" />
+      <edge id="203" source="#Rosines" target="#PokemonGo" weight="3226" />
+      <edge id="204" source="#Rosines" target="#Pokemon" weight="3226" />
+      <edge id="205" source="#Rosines" target="#Dessert" weight="3226" />
+      <edge id="206" source="#Gonzalez" target="#Soledad" weight="3226" />
+      <edge id="207" source="#MondayNightFootball" target="#HMOB" weight="3226" />
+      <edge id="208" source="#MondayNightFootball" target="#hartnellfootball" weight="3226" />
+      <edge id="209" source="#MeditationMonday" target="#firefighter" weight="3226" />
+      <edge id="210" source="#MeditationMonday" target="#ZEN" weight="3226" />
+      <edge id="211" source="#MeditationMonday" target="#Soberanesfire" weight="3226" />
+      <edge id="212" source="#SoldierForLife" target="#RIP" weight="3226" />
+      <edge id="213" source="#San" target="#49ers" weight="6452" />
+      <edge id="214" source="#San" target="#San" weight="6452" />
+      <edge id="215" source="#CAFire" target="#CAwx" weight="6452" />
+      <edge id="216" source="#flashflood" target="#cawx" weight="3226" />
+      <edge id="217" source="#Utah" target="#meteor" weight="3226" />
+      <edge id="218" source="#Utah" target="#BayArea" weight="3226" />
+      <edge id="219" source="#Utah" target="#SF" weight="3226" />
+      <edge id="220" source="#Utah" target="#LasVegas" weight="3226" />
+      <edge id="221" source="#Utah" target="#LA" weight="3226" />
+      <edge id="222" source="#meteor" target="#BayArea" weight="3226" />
+      <edge id="223" source="#meteor" target="#SF" weight="3226" />
+      <edge id="224" source="#meteor" target="#LasVegas" weight="3226" />
+      <edge id="225" source="#meteor" target="#LA" weight="3226" />
+      <edge id="226" source="#publicservice" target="#hotshots" weight="3226" />
+      <edge id="227" source="#publicservice" target="#California" weight="3226" />
+      <edge id="228" source="#publicservice" target="#zen" weight="3226" />
+      <edge id="229" source="#publicservice" target="#soberanesfire" weight="3226" />
+      <edge id="230" source="#newsmatters" target="#Spotlight" weight="3226" />
+      <edge id="231" source="#newsmatters" target="#Oscars" weight="3226" />
+      <edge id="232" source="#Fridaythe13th" target="#bigbluelive2" weight="3226" />
+      <edge id="233" source="#MontereyBay" target="#dolphin" weight="3226" />
+      <edge id="234" source="#MontereyBay" target="#HalfMarathon" weight="3226" />
+      <edge id="235" source="#MontereyBay" target="#killerwhale" weight="3226" />
+      <edge id="236" source="#MontereyBay" target="#Orca" weight="3226" />
+      <edge id="237" source="#MontereyBay" target="#MBARI" weight="3226" />
+      <edge id="238" source="#MontereyBay" target="#whalewatching" weight="3226" />
+      <edge id="239" source="#Democrats" target="#NoBillNoBreak" weight="3226" />
+      <edge id="240" source="#SPOTLIGHT" target="#Oscars" weight="3226" />
+      <edge id="241" source="#SoberanesFirr" target="#Periscope" weight="3226" />
+      <edge id="242" source="#SeaSurfaceTemperatures" target="#BodegaBay" weight="3226" />
+      <edge id="243" source="#AmyLieuPresents" target="#gowomen" weight="3226" />
+      <edge id="244" source="#AmyLieuPresents" target="#AAPI" weight="3226" />
+      <edge id="245" source="#inversion" target="#cawx" weight="3226" />
+      <edge id="246" source="#inclusion" target="#CSUMB" weight="3226" />
+      <edge id="247" source="#scspost" target="#lomafire" weight="6452" />
+      <edge id="248" source="#scspost" target="#LomaFire" weight="3226" />
+      <edge id="249" source="#Thunderstorms" target="#cawx" weight="3226" />
+      <edge id="250" source="#Thunderstorms" target="#NapaCounty" weight="3226" />
+      <edge id="251" source="#Thunderstorms" target="#MontereyCounty" weight="3226" />
+      <edge id="252" source="#Calfire" target="#LomaFire" weight="3226" />
+      <edge id="253" source="#Calfire" target="#gilroy" weight="3226" />
+      <edge id="254" source="#HMOB" target="#hartnellfootball" weight="3226" />
+      <edge id="255" source="#LGO" target="#CSUMB" weight="3226" />
+      <edge id="256" source="#basketball" target="#Warriors" weight="3226" />
+      <edge id="257" source="#HYSPLIT" target="#cawx" weight="3226" />
+      <edge id="258" source="#SpotTheStation" target="#ISS" weight="3226" />
+      <edge id="259" source="#BayArea" target="#cawx" weight="6452" />
+      <edge id="260" source="#BayArea" target="#CAfire" weight="3226" />
+      <edge id="261" source="#BayArea" target="#SF" weight="6452" />
+      <edge id="262" source="#BayArea" target="#LasVegas" weight="3226" />
+      <edge id="263" source="#BayArea" target="#LA" weight="3226" />
+      <edge id="264" source="#BayArea" target="#CAwx" weight="3226" />
+      <edge id="265" source="#Fiji" target="#CycloneWinston" weight="3226" />
+      <edge id="266" source="#NTFPD" target="#soberanesfire" weight="3226" />
+      <edge id="267" source="#LoveIsLove" target="#LoveWins" weight="3226" />
+      <edge id="268" source="#MontereyCounty" target="#cawx" weight="3226" />
+      <edge id="269" source="#MontereyCounty" target="#NapaCounty" weight="3226" />
+      <edge id="270" source="#stewardship" target="#myopinion" weight="3226" />
+      <edge id="271" source="#stewardship" target="#publiclands" weight="3226" />
+      <edge id="272" source="#rainbow" target="#cawx" weight="3226" />
+      <edge id="273" source="#Monterey2016" target="#ExperienceCounts" weight="3226" />
+      <edge id="274" source="#WeirdBaseballOnTV" target="#SFGiants" weight="3226" />
+      <edge id="275" source="#Orca" target="#dolphin" weight="3226" />
+      <edge id="276" source="#Orca" target="#whalewatching" weight="3226" />
+      <edge id="277" source="#Orca" target="#killerwhale" weight="3226" />
+      <edge id="278" source="#diversity" target="#ktvu" weight="3226" />
+      <edge id="279" source="#diversity" target="#LGBTQ" weight="3226" />
+      <edge id="280" source="#diversity" target="#SanJose" weight="3226" />
+      <edge id="281" source="#TBT" target="#LouieArmstrong" weight="3226" />
+      <edge id="282" source="#TBT" target="#StarTrek50" weight="3226" />
+      <edge id="283" source="#TBT" target="#DukeEllington" weight="3226" />
+      <edge id="284" source="#ktvu" target="#LGBTQ" weight="3226" />
+      <edge id="285" source="#ktvu" target="#SanJose" weight="3226" />
+      <edge id="286" source="#MonasteryStateBeach" target="#PalomarHotshots" weight="3226" />
+      <edge id="287" source="#SFBay" target="#cawx" weight="3226" />
+      <edge id="288" source="#Watsonville" target="#Soquel" weight="3226" />
+      <edge id="289" source="#FistBump" target="#FirstTeeOpen" weight="3226" />
+      <edge id="290" source="#CALFIRE" target="#proudmom" weight="3226" />
+      <edge id="291" source="#dolphin" target="#whalewatching" weight="3226" />
+      <edge id="292" source="#dolphin" target="#killerwhale" weight="3226" />
+      <edge id="293" source="#firefighter" target="#ZEN" weight="3226" />
+      <edge id="294" source="#firefighter" target="#Soberanesfire" weight="3226" />
+      <edge id="295" source="#lomafire" target="#RedCross" weight="3226" />
+      <edge id="296" source="#BigSurMarathon" target="#Boston2BigSur" weight="3226" />
+      <edge id="297" source="#BigSurMarathon" target="#B2B" weight="3226" />
+      <edge id="298" source="#Oscars" target="#Spotlight" weight="3226" />
+      <edge id="299" source="#surf" target="#cawx" weight="3226" />
+      <edge id="300" source="#surf" target="#safety" weight="3226" />
+      <edge id="301" source="#MRY" target="#helitanker" weight="3226" />
+      <edge id="302" source="#CAfire" target="#SF" weight="3226" />
+      <edge id="303" source="#CAfire" target="#CAwx" weight="6452" />
+      <edge id="304" source="#BlackHistory" target="#CSUMB" weight="3226" />
+      <edge id="305" source="#CAPrimary" target="#Breaking" weight="3226" />
+      <edge id="306" source="#CAPrimary" target="#CASen" weight="3226" />
+      <edge id="307" source="#OTD" target="#TodayInHistory" weight="3226" />
+      <edge id="308" source="#bayarearain" target="#Lightning" weight="3226" />
+      <edge id="309" source="#bayarearain" target="#cawx" weight="3226" />
+      <edge id="310" source="#bayarearain" target="#Thunder" weight="3226" />
+      <edge id="311" source="#monterey" target="#soberanesfire" weight="3226" />
+      <edge id="312" source="#LGBT" target="#OrlandoUnited" weight="3226" />
+      <edge id="313" source="#homelessness" target="#housingaffordability" weight="3226" />
+      <edge id="314" source="#SantaCruz" target="#Mavericks" weight="6452" />
+      <edge id="315" source="#SantaCruz" target="#cawx" weight="3226" />
+      <edge id="316" source="#myopinion" target="#publiclands" weight="3226" />
+      <edge id="317" source="#ColemanFire" target="#firewx" weight="3226" />
+      <edge id="318" source="#ColemanFire" target="#cawx" weight="3226" />
+      <edge id="319" source="#Lomafire" target="#scsrt" weight="3226" />
+      <edge id="320" source="#MossLanding" target="#SeaOtter" weight="3226" />
+      <edge id="321" source="#FinishPitt" target="#SJSharks" weight="3226" />
+      <edge id="322" source="#FinishPitt" target="#TurnUpTheTank" weight="3226" />
+      <edge id="323" source="#FinishPitt" target="#StanleyCup" weight="3226" />
+      <edge id="324" source="#Lightning" target="#cawx" weight="6452" />
+      <edge id="325" source="#Lightning" target="#Thunder" weight="3226" />
+      <edge id="326" source="#sf" target="#cawx" weight="3226" />
+      <edge id="327" source="#LouieArmstrong" target="#DukeEllington" weight="3226" />
+      <edge id="328" source="#Soberanesfire" target="#ZEN" weight="3226" />
+      <edge id="329" source="#Carmelhighlands" target="#myhome" weight="3226" />
+      <edge id="330" source="#OrlandoUnited" target="#Orlando" weight="3226" />
+      <edge id="331" source="#49ers" target="#Rams" weight="3226" />
+      <edge id="332" source="#49ers" target="#ATTProAm" weight="3226" />
+      <edge id="333" source="#49ers" target="#SFGiants" weight="3226" />
+      <edge id="334" source="#CAwx" target="#ChimneyFire" weight="3226" />
+      <edge id="335" source="#CAwx" target="#SF" weight="3226" />
+      <edge id="336" source="#CAwx" target="#SanBenito" weight="3226" />
+      <edge id="337" source="#SJ" target="#SF" weight="3226" />
+      <edge id="338" source="#SJ" target="#cawx" weight="3226" />
+      <edge id="339" source="#publicart" target="#RIP" weight="3226" />
+      <edge id="340" source="#hotshots" target="#California" weight="3226" />
+      <edge id="341" source="#hotshots" target="#zen" weight="3226" />
+      <edge id="342" source="#hotshots" target="#soberanesfire" weight="3226" />
+      <edge id="343" source="#SF" target="#LasVegas" weight="3226" />
+      <edge id="344" source="#SF" target="#LA" weight="3226" />
+      <edge id="345" source="#SF" target="#cawx" weight="3226" />
+      <edge id="346" source="#SanJose" target="#LGBTQ" weight="3226" />
+      <edge id="347" source="#SanJose" target="#earthquake" weight="3226" />
+      <edge id="348" source="#Breaking" target="#CASen" weight="3226" />
+      <edge id="349" source="#NapaCounty" target="#cawx" weight="3226" />
+      <edge id="350" source="#firewx" target="#cawx" weight="3226" />
+      <edge id="351" source="#ATTProAm" target="#SFGiants" weight="3226" />
+      <edge id="352" source="#recycled" target="#sustainability" weight="3226" />
+      <edge id="353" source="#recycled" target="#CSUMB" weight="3226" />
+      <edge id="354" source="#CHOW2016" target="#WorldOceansDay" weight="3226" />
+      <edge id="355" source="#CentralCoast" target="#ArtsForTheCause" weight="3226" />
+      <edge id="356" source="#TurnUpTheTank" target="#SJSharks" weight="3226" />
+      <edge id="357" source="#TurnUpTheTank" target="#StanleyCup" weight="3226" />
+      <edge id="358" source="#ColtonHall" target="#Minions" weight="3226" />
+      <edge id="359" source="#Pokemon" target="#PokemonGo" weight="3226" />
+      <edge id="360" source="#Pokemon" target="#Dessert" weight="3226" />
+      <edge id="361" source="#gilroy" target="#LomaFire" weight="3226" />
+      <edge id="362" source="#Boston2BigSur" target="#B2B" weight="3226" />
+      <edge id="363" source="#PokemonGo" target="#Dessert" weight="3226" />
+      <edge id="364" source="#springshowers" target="#cawx" weight="3226" />
+      <edge id="365" source="#CenCal" target="#cawx" weight="3226" />
+      <edge id="366" source="#StanleyCup" target="#SJSharks" weight="6452" />
+      <edge id="367" source="#cawx" target="#NorCal" weight="3226" />
+      <edge id="368" source="#cawx" target="#wildfires" weight="3226" />
+      <edge id="369" source="#cawx" target="#bigsur" weight="3226" />
+      <edge id="370" source="#cawx" target="#safety" weight="3226" />
+      <edge id="371" source="#cawx" target="#Thunder" weight="3226" />
+      <edge id="372" source="#McDonalds" target="#PacificGrove" weight="3226" />
+      <edge id="373" source="#NAACP" target="#CSUMB" weight="3226" />
+      <edge id="374" source="#SFGiants" target="#SFGSneakPeek" weight="3226" />
+      <edge id="375" source="#OES" target="#reddingfire" weight="3226" />
+      <edge id="376" source="#CAGOP" target="#cagop" weight="3226" />
+      <edge id="377" source="#takeatour" target="#castateparks" weight="3226" />
+      <edge id="378" source="#Periscope" target="#katch" weight="3226" />
+      <edge id="379" source="#AAPI" target="#gowomen" weight="3226" />
+      <edge id="380" source="#zen" target="#California" weight="3226" />
+      <edge id="381" source="#zen" target="#soberanesfire" weight="3226" />
+      <edge id="382" source="#SJGiants" target="#hero" weight="3226" />
+      <edge id="383" source="#savebigsur" target="#yikes" weight="3226" />
+      <edge id="384" source="#Skateboarding" target="#Skatepark" weight="3226" />
+      <edge id="385" source="#bigsur" target="#wildfires" weight="3226" />
+      <edge id="386" source="#LomaFire" target="#redcross" weight="3226" />
+      <edge id="387" source="#LomaFire" target="#sjsu" weight="3226" />
+      <edge id="388" source="#LA" target="#LasVegas" weight="3226" />
+      <edge id="389" source="#humpbackwhale" target="#sfbay" weight="3226" />
+      <edge id="390" source="#Soledad" target="#veterans" weight="3226" />
+      <edge id="391" source="#Soledad" target="#cancer" weight="3226" />
+      <edge id="392" source="#cancer" target="#SpartansRemember" weight="3226" />
+      <edge id="393" source="#CSUMB" target="#VaginaMonologues" weight="3226" />
+      <edge id="394" source="#CSUMB" target="#sustainability" weight="3226" />
+      <edge id="395" source="#1u" target="#soberanesfire" weight="3226" />
+      <edge id="396" source="#titansofmavericks" target="#Mavericks" weight="3226" />
+      <edge id="397" source="#California" target="#soberanesfire" weight="3226" />
+      <edge id="398" source="#killerwhale" target="#whalewatching" weight="3226" />
+    </edges>
+  </graph>
+</gexf>

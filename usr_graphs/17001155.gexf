@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#MountCarmel" label="#MountCarmel" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#election2012" label="#election2012" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#FreeCookingClass" label="#FreeCookingClass" />
+      <node id="#hearthealth" label="#hearthealth" />
+      <node id="#allergy" label="#allergy" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#MarchforBabies" label="#MarchforBabies" />
+      <node id="#Autopulse" label="#Autopulse" />
+      <node id="#Interview" label="#Interview" />
+      <node id="#lifesaver" label="#lifesaver" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#throwbackthursday" label="#throwbackthursday" />
+      <node id="#gcEcoFest" label="#gcEcoFest" />
+      <node id="#Mentalhealth" label="#Mentalhealth" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#raceforthecure" label="#raceforthecure" />
+      <node id="#BloodDrive" label="#BloodDrive" />
+      <node id="#RedCross" label="#RedCross" />
+      <node id="#meds" label="#meds" />
+      <node id="#flu" label="#flu" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#communityinvestments" label="#communityinvestments" />
+      <node id="#StayCovered" label="#StayCovered" />
+      <node id="#MRI" label="#MRI" />
+      <node id="#HCWY" label="#HCWY" />
+      <node id="#nursing" label="#nursing" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#patientsafety" label="#patientsafety" />
+      <node id="#palliative" label="#palliative" />
+      <node id="#wearred" label="#wearred" />
+      <node id="#NYE" label="#NYE" />
+      <node id="#mountcarmel" label="#mountcarmel" />
+      <node id="#FTON" label="#FTON" />
+      <node id="#heartmonth" label="#heartmonth" />
+      <node id="#seniors" label="#seniors" />
+      <node id="#ReadySetEnroll" label="#ReadySetEnroll" />
+      <node id="#walkwithadoc" label="#walkwithadoc" />
+      <node id="#vaccine" label="#vaccine" />
+      <node id="#HR3119" label="#HR3119" />
+      <node id="#komencolumbus" label="#komencolumbus" />
+      <node id="#gored" label="#gored" />
+      <node id="#PeopleCentered" label="#PeopleCentered" />
+      <node id="#Career" label="#Career" />
+      <node id="#quality" label="#quality" />
+      <node id="#givenow" label="#givenow" />
+      <node id="#medications" label="#medications" />
+      <node id="#blood" label="#blood" />
+      <node id="#SmartCityChallenge" label="#SmartCityChallenge" />
+      <node id="#NursesWeek" label="#NursesWeek" />
+      <node id="#Tai" label="#Tai" />
+      <node id="#becauseofyou" label="#becauseofyou" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#S2748" label="#S2748" />
+      <node id="#RNspire" label="#RNspire" />
+      <node id="#nye2014" label="#nye2014" />
+      <node id="#HealthTech" label="#HealthTech" />
+      <node id="#OHA100" label="#OHA100" />
+      <node id="#RN" label="#RN" />
+      <node id="#HospitalHeroes" label="#HospitalHeroes" />
+      <node id="#ohio" label="#ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#MountCarmel" target="#MarchforBabies" weight="730" />
+      <edge id="1" source="#MountCarmel" target="#nye2014" weight="730" />
+      <edge id="2" source="#MountCarmel" target="#NYE" weight="730" />
+      <edge id="3" source="#SCOTUS" target="#Obamacare" weight="730" />
+      <edge id="4" source="#SCOTUS" target="#ACA" weight="730" />
+      <edge id="5" source="#election2012" target="#ohio" weight="730" />
+      <edge id="6" source="#Obamacare" target="#ACA" weight="730" />
+      <edge id="7" source="#FreeCookingClass" target="#FTON" weight="730" />
+      <edge id="8" source="#hearthealth" target="#becauseofyou" weight="730" />
+      <edge id="9" source="#hearthealth" target="#wearred" weight="730" />
+      <edge id="10" source="#hearthealth" target="#mountcarmel" weight="730" />
+      <edge id="11" source="#allergy" target="#becauseofyou" weight="730" />
+      <edge id="12" source="#Congress" target="#Mentalhealth" weight="730" />
+      <edge id="13" source="#Congress" target="#PeopleCentered" weight="730" />
+      <edge id="14" source="#SmartColumbus" target="#SmartCityChallenge" weight="730" />
+      <edge id="15" source="#Autopulse" target="#gcEcoFest" weight="730" />
+      <edge id="16" source="#Interview" target="#RN" weight="730" />
+      <edge id="17" source="#lifesaver" target="#givenow" weight="730" />
+      <edge id="18" source="#lifesaver" target="#BloodDrive" weight="2920" />
+      <edge id="19" source="#lifesaver" target="#blood" weight="730" />
+      <edge id="20" source="#lifesaver" target="#RedCross" weight="5840" />
+      <edge id="21" source="#Ohio" target="#vaccine" weight="730" />
+      <edge id="22" source="#Ohio" target="#HealthTech" weight="730" />
+      <edge id="23" source="#Ohio" target="#flu" weight="730" />
+      <edge id="24" source="#Ohio" target="#MRI" weight="730" />
+      <edge id="25" source="#throwbackthursday" target="#mountcarmel" weight="730" />
+      <edge id="26" source="#throwbackthursday" target="#tbt" weight="1460" />
+      <edge id="27" source="#Mentalhealth" target="#PeopleCentered" weight="730" />
+      <edge id="28" source="#heartdisease" target="#heartmonth" weight="730" />
+      <edge id="29" source="#heartdisease" target="#gored" weight="730" />
+      <edge id="30" source="#jobs" target="#Career" weight="730" />
+      <edge id="31" source="#jobs" target="#columbus" weight="730" />
+      <edge id="32" source="#jobs" target="#mountcarmel" weight="730" />
+      <edge id="33" source="#raceforthecure" target="#becauseofyou" weight="2190" />
+      <edge id="34" source="#raceforthecure" target="#komencolumbus" weight="730" />
+      <edge id="35" source="#BloodDrive" target="#RedCross" weight="6570" />
+      <edge id="36" source="#RedCross" target="#givenow" weight="730" />
+      <edge id="37" source="#RedCross" target="#blood" weight="2190" />
+      <edge id="38" source="#meds" target="#medications" weight="730" />
+      <edge id="39" source="#flu" target="#vaccine" weight="730" />
+      <edge id="40" source="#tbt" target="#mountcarmel" weight="1460" />
+      <edge id="41" source="#communityinvestments" target="#PeopleCentered" weight="730" />
+      <edge id="42" source="#StayCovered" target="#GetCovered" weight="730" />
+      <edge id="43" source="#StayCovered" target="#ReadySetEnroll" weight="730" />
+      <edge id="44" source="#MRI" target="#HealthTech" weight="730" />
+      <edge id="45" source="#HCWY" target="#OHA100" weight="1460" />
+      <edge id="46" source="#HCWY" target="#HospitalHeroes" weight="1460" />
+      <edge id="47" source="#nursing" target="#mountcarmel" weight="730" />
+      <edge id="48" source="#columbus" target="#Career" weight="730" />
+      <edge id="49" source="#columbus" target="#mountcarmel" weight="730" />
+      <edge id="50" source="#GetCovered" target="#ReadySetEnroll" weight="730" />
+      <edge id="51" source="#patientsafety" target="#quality" weight="730" />
+      <edge id="52" source="#palliative" target="#HR3119" weight="730" />
+      <edge id="53" source="#palliative" target="#S2748" weight="730" />
+      <edge id="54" source="#wearred" target="#becauseofyou" weight="730" />
+      <edge id="55" source="#wearred" target="#mountcarmel" weight="730" />
+      <edge id="56" source="#NYE" target="#nye2014" weight="730" />
+      <edge id="57" source="#mountcarmel" target="#Career" weight="730" />
+      <edge id="58" source="#mountcarmel" target="#becauseofyou" weight="1460" />
+      <edge id="59" source="#heartmonth" target="#gored" weight="730" />
+      <edge id="60" source="#seniors" target="#Tai" weight="730" />
+      <edge id="61" source="#walkwithadoc" target="#becauseofyou" weight="730" />
+      <edge id="62" source="#HR3119" target="#S2748" weight="730" />
+      <edge id="63" source="#komencolumbus" target="#becauseofyou" weight="730" />
+      <edge id="64" source="#givenow" target="#blood" weight="730" />
+      <edge id="65" source="#NursesWeek" target="#RNspire" weight="730" />
+      <edge id="66" source="#OHA100" target="#HospitalHeroes" weight="1460" />
+    </edges>
+  </graph>
+</gexf>

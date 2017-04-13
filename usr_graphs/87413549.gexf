@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#emergency" label="#emergency" />
+      <node id="#beach" label="#beach" />
+      <node id="#passport" label="#passport" />
+      <node id="#flower" label="#flower" />
+      <node id="#scrapbooking" label="#scrapbooking" />
+      <node id="#seashells" label="#seashells" />
+      <node id="#sewing" label="#sewing" />
+      <node id="#quilt" label="#quilt" />
+      <node id="#thank" label="#thank" />
+      <node id="#handmade" label="#handmade" />
+      <node id="#kidscraft" label="#kidscraft" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#vinyl" label="#vinyl" />
+      <node id="#craft" label="#craft" />
+      <node id="#Years" label="#Years" />
+      <node id="#travel" label="#travel" />
+      <node id="#crafts" label="#crafts" />
+      <node id="#Scrapbook" label="#Scrapbook" />
+      <node id="#ROC" label="#ROC" />
+      <node id="#Stamping" label="#Stamping" />
+      <node id="#New" label="#New" />
+      <node id="#pockets" label="#pockets" />
+      <node id="#valentine" label="#valentine" />
+      <node id="#herroc" label="#herroc" />
+      <node id="#ac" label="#ac" />
+      <node id="#spring" label="#spring" />
+      <node id="#cook" label="#cook" />
+      <node id="#giftidea" label="#giftidea" />
+      <node id="#love" label="#love" />
+      <node id="#help" label="#help" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#emergency" target="#help" weight="1536" />
+      <edge id="1" source="#beach" target="#seashells" weight="1536" />
+      <edge id="2" source="#passport" target="#travel" weight="1536" />
+      <edge id="3" source="#flower" target="#craft" weight="1536" />
+      <edge id="4" source="#scrapbooking" target="#ac" weight="1536" />
+      <edge id="5" source="#sewing" target="#quilt" weight="1536" />
+      <edge id="6" source="#thank" target="#kidscraft" weight="1536" />
+      <edge id="7" source="#handmade" target="#crafts" weight="1536" />
+      <edge id="8" source="#Olympics" target="#Scrapbook" weight="1536" />
+      <edge id="9" source="#vinyl" target="#pockets" weight="1536" />
+      <edge id="10" source="#craft" target="#Scrapbook" weight="1536" />
+      <edge id="11" source="#craft" target="#spring" weight="1536" />
+      <edge id="12" source="#Years" target="#New" weight="1536" />
+      <edge id="13" source="#Scrapbook" target="#Stamping" weight="1536" />
+      <edge id="14" source="#ROC" target="#herroc" weight="1536" />
+      <edge id="15" source="#valentine" target="#love" weight="1536" />
+      <edge id="16" source="#cook" target="#giftidea" weight="1536" />
+    </edges>
+  </graph>
+</gexf>

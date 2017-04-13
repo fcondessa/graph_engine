@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#POL" label="#POL" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#EURO2016" label="#EURO2016" />
+      <node id="#MagicNumber" label="#MagicNumber" />
+      <node id="#BeatLA" label="#BeatLA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#POL" target="#EURO2016" weight="47" />
+      <edge id="1" source="#SFGiants" target="#BeatLA" weight="47" />
+      <edge id="2" source="#SFGiants" target="#Dodgers" weight="47" />
+      <edge id="3" source="#SFGiants" target="#MagicNumber" weight="47" />
+      <edge id="4" source="#Dodgers" target="#MagicNumber" weight="47" />
+    </edges>
+  </graph>
+</gexf>

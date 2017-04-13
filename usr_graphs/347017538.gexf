@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Napa" label="#Napa" />
+      <node id="#WeAreGiant" label="#WeAreGiant" />
+      <node id="#SantaCruz" label="#SantaCruz" />
+      <node id="#FreeDuffy" label="#FreeDuffy" />
+      <node id="#ColdFire" label="#ColdFire" />
+      <node id="#SawmillFire" label="#SawmillFire" />
+      <node id="#SamLanier" label="#SamLanier" />
+      <node id="#SendDuffyHome" label="#SendDuffyHome" />
+      <node id="#WeAreSF" label="#WeAreSF" />
+      <node id="#DebateNight" label="#DebateNight" />
+      <node id="#wildfire" label="#wildfire" />
+      <node id="#SantaAnaWinds" label="#SantaAnaWinds" />
+      <node id="#FirstDog" label="#FirstDog" />
+      <node id="#Zika" label="#Zika" />
+      <node id="#StarTrek" label="#StarTrek" />
+      <node id="#Sierra" label="#Sierra" />
+      <node id="#Davila" label="#Davila" />
+      <node id="#ASHG16" label="#ASHG16" />
+      <node id="#HurricaneMatthew" label="#HurricaneMatthew" />
+      <node id="#Emergency" label="#Emergency" />
+      <node id="#CAwx" label="#CAwx" />
+      <node id="#MetroFire" label="#MetroFire" />
+      <node id="#StarTrekNY" label="#StarTrekNY" />
+      <node id="#NorCal" label="#NorCal" />
+      <node id="#LomaFire" label="#LomaFire" />
+      <node id="#HappyBirthday" label="#HappyBirthday" />
+      <node id="#GoodBoy" label="#GoodBoy" />
+      <node id="#Earthquake" label="#Earthquake" />
+      <node id="#LGBTQ" label="#LGBTQ" />
+      <node id="#PacNW" label="#PacNW" />
+      <node id="#Debate" label="#Debate" />
+      <node id="#switch2sendai" label="#switch2sendai" />
+      <node id="#fireseason2016" label="#fireseason2016" />
+      <node id="#sacpd" label="#sacpd" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#COwx" label="#COwx" />
+      <node id="#Emergencymanagement" label="#Emergencymanagement" />
+      <node id="#OneTeamOneFight" label="#OneTeamOneFight" />
+      <node id="#Solano" label="#Solano" />
+      <node id="#JunkinsFire" label="#JunkinsFire" />
+      <node id="#Scanlan" label="#Scanlan" />
+      <node id="#LongNow" label="#LongNow" />
+      <node id="#adoption" label="#adoption" />
+      <node id="#cawx" label="#cawx" />
+      <node id="#SobranesFire" label="#SobranesFire" />
+      <node id="#RedFlagWarnings" label="#RedFlagWarnings" />
+      <node id="#NOW" label="#NOW" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Napa" target="#ColdFire" weight="3220" />
+      <edge id="1" source="#Napa" target="#Solano" weight="3220" />
+      <edge id="2" source="#WeAreGiant" target="#WeAreSF" weight="3220" />
+      <edge id="3" source="#SantaCruz" target="#LomaFire" weight="3220" />
+      <edge id="4" source="#FreeDuffy" target="#SendDuffyHome" weight="3220" />
+      <edge id="5" source="#ColdFire" target="#fireseason2016" weight="3220" />
+      <edge id="6" source="#ColdFire" target="#cawx" weight="3220" />
+      <edge id="7" source="#ColdFire" target="#SobranesFire" weight="3220" />
+      <edge id="8" source="#ColdFire" target="#Solano" weight="3220" />
+      <edge id="9" source="#SawmillFire" target="#LomaFire" weight="3220" />
+      <edge id="10" source="#SawmillFire" target="#MetroFire" weight="3220" />
+      <edge id="11" source="#SamLanier" target="#Emergency" weight="3220" />
+      <edge id="12" source="#SamLanier" target="#HappyBirthday" weight="3220" />
+      <edge id="13" source="#DebateNight" target="#LGBTQ" weight="3220" />
+      <edge id="14" source="#DebateNight" target="#Debate" weight="3220" />
+      <edge id="15" source="#wildfire" target="#OneTeamOneFight" weight="3220" />
+      <edge id="16" source="#SantaAnaWinds" target="#RedFlagWarnings" weight="3220" />
+      <edge id="17" source="#FirstDog" target="#GoodBoy" weight="3220" />
+      <edge id="18" source="#Zika" target="#ASHG16" weight="3220" />
+      <edge id="19" source="#StarTrek" target="#StarTrekNY" weight="3220" />
+      <edge id="20" source="#Sierra" target="#CAwx" weight="3220" />
+      <edge id="21" source="#Davila" target="#Scanlan" weight="3220" />
+      <edge id="22" source="#HurricaneMatthew" target="#switch2sendai" weight="3220" />
+      <edge id="23" source="#Emergency" target="#HappyBirthday" weight="3220" />
+      <edge id="24" source="#MetroFire" target="#LomaFire" weight="3220" />
+      <edge id="25" source="#NorCal" target="#PacNW" weight="3220" />
+      <edge id="26" source="#LomaFire" target="#NOW" weight="3220" />
+      <edge id="27" source="#Earthquake" target="#Emergencymanagement" weight="3220" />
+      <edge id="28" source="#LGBTQ" target="#Debate" weight="3220" />
+      <edge id="29" source="#fireseason2016" target="#cawx" weight="3220" />
+      <edge id="30" source="#sacpd" target="#adoption" weight="3220" />
+      <edge id="31" source="#TBT" target="#LongNow" weight="3220" />
+      <edge id="32" source="#COwx" target="#JunkinsFire" weight="3220" />
+    </edges>
+  </graph>
+</gexf>

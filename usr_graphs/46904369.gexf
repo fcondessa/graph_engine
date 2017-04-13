@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#clinics" label="#clinics" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#2XSL" label="#2XSL" />
+      <node id="#EHRs" label="#EHRs" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#arthritis" label="#arthritis" />
+      <node id="#telehealth" label="#telehealth" />
+      <node id="#angelinvesting" label="#angelinvesting" />
+      <node id="#rheum" label="#rheum" />
+      <node id="#leadfromwithin" label="#leadfromwithin" />
+      <node id="#telemedicine" label="#telemedicine" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#SleepDeprivation" label="#SleepDeprivation" />
+      <node id="#SSL" label="#SSL" />
+      <node id="#DataScientists" label="#DataScientists" />
+      <node id="#ChaseBasecamp" label="#ChaseBasecamp" />
+      <node id="#CMHstartupweek" label="#CMHstartupweek" />
+      <node id="#doctors" label="#doctors" />
+      <node id="#health" label="#health" />
+      <node id="#SiliconValley" label="#SiliconValley" />
+      <node id="#getonboard" label="#getonboard" />
+      <node id="#NewAlbany" label="#NewAlbany" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#clinics" target="#telehealth" weight="241" />
+      <edge id="1" source="#clinics" target="#telemedicine" weight="241" />
+      <edge id="2" source="#clinics" target="#health" weight="241" />
+      <edge id="3" source="#clinics" target="#doctors" weight="241" />
+      <edge id="4" source="#clinics" target="#hospitals" weight="241" />
+      <edge id="5" source="#entrepreneurs" target="#CMHstartupweek" weight="241" />
+      <edge id="6" source="#2XSL" target="#SSL" weight="241" />
+      <edge id="7" source="#EHRs" target="#getonboard" weight="241" />
+      <edge id="8" source="#hospitals" target="#telehealth" weight="241" />
+      <edge id="9" source="#hospitals" target="#health" weight="241" />
+      <edge id="10" source="#hospitals" target="#telemedicine" weight="241" />
+      <edge id="11" source="#hospitals" target="#doctors" weight="241" />
+      <edge id="12" source="#leadership" target="#leadfromwithin" weight="241" />
+      <edge id="13" source="#arthritis" target="#rheum" weight="241" />
+      <edge id="14" source="#telehealth" target="#telemedicine" weight="241" />
+      <edge id="15" source="#telehealth" target="#health" weight="241" />
+      <edge id="16" source="#telehealth" target="#doctors" weight="241" />
+      <edge id="17" source="#angelinvesting" target="#NewAlbany" weight="241" />
+      <edge id="18" source="#telemedicine" target="#health" weight="241" />
+      <edge id="19" source="#telemedicine" target="#doctors" weight="241" />
+      <edge id="20" source="#BigData" target="#DataScientists" weight="241" />
+      <edge id="21" source="#SleepDeprivation" target="#SiliconValley" weight="241" />
+      <edge id="22" source="#ChaseBasecamp" target="#CMHstartupweek" weight="241" />
+      <edge id="23" source="#doctors" target="#health" weight="241" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#Dental" label="#Dental" />
+      <node id="#fixthecliff" label="#fixthecliff" />
+      <node id="#OhioCHC" label="#OhioCHC" />
+      <node id="#BeatTampa" label="#BeatTampa" />
+      <node id="#infantmortality" label="#infantmortality" />
+      <node id="#NFP" label="#NFP" />
+      <node id="#voiceskidshealth2014" label="#voiceskidshealth2014" />
+      <node id="#metrohealthCLE" label="#metrohealthCLE" />
+      <node id="#fqhc" label="#fqhc" />
+      <node id="#KomenColumbus" label="#KomenColumbus" />
+      <node id="#275KOhioans" label="#275KOhioans" />
+      <node id="#everyonebenefits" label="#everyonebenefits" />
+      <node id="#oachc14" label="#oachc14" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#OHCan" label="#OHCan" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Badgers" label="#Badgers" />
+      <node id="#CHCsHireVets" label="#CHCsHireVets" />
+      <node id="#CHC" label="#CHC" />
+      <node id="#AccessistheAnswer" label="#AccessistheAnswer" />
+      <node id="#shutdown" label="#shutdown" />
+      <node id="#OHFQHC" label="#OHFQHC" />
+      <node id="#FQHCs" label="#FQHCs" />
+      <node id="#oachc" label="#oachc" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#lovetechnology" label="#lovetechnology" />
+      <node id="#CHCsInnovate" label="#CHCsInnovate" />
+      <node id="#getcovered" label="#getcovered" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#2015CHI" label="#2015CHI" />
+      <node id="#NHCW2013" label="#NHCW2013" />
+      <node id="#ohaarplb" label="#ohaarplb" />
+      <node id="#healthcare4OH" label="#healthcare4OH" />
+      <node id="#betterhealthcle" label="#betterhealthcle" />
+      <node id="#Expansion" label="#Expansion" />
+      <node id="#oachcfall2014" label="#oachcfall2014" />
+      <node id="#FQHC" label="#FQHC" />
+      <node id="#TribeTown" label="#TribeTown" />
+      <node id="#CMCforum" label="#CMCforum" />
+      <node id="#ohiochcnews" label="#ohiochcnews" />
+      <node id="#NACHC" label="#NACHC" />
+      <node id="#integrationworks" label="#integrationworks" />
+      <node id="#NACHCpi15" label="#NACHCpi15" />
+      <node id="#Health4OH" label="#Health4OH" />
+      <node id="#FixTheCliff" label="#FixTheCliff" />
+      <node id="#1stBirthday" label="#1stBirthday" />
+      <node id="#CHCinnovate" label="#CHCinnovate" />
+      <node id="#CA" label="#CA" />
+      <node id="#AccessIsTheAnswer" label="#AccessIsTheAnswer" />
+      <node id="#fqhcs" label="#fqhcs" />
+      <node id="#OhioFQHC" label="#OhioFQHC" />
+      <node id="#saveourchcs" label="#saveourchcs" />
+      <node id="#peoplenotpolitics" label="#peoplenotpolitics" />
+      <node id="#OACHC15" label="#OACHC15" />
+      <node id="#RollTribe" label="#RollTribe" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#CHCs" label="#CHCs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Medicaid" target="#FQHCs" weight="190" />
+      <edge id="1" source="#Medicaid" target="#GOP" weight="190" />
+      <edge id="2" source="#Medicaid" target="#CHC" weight="190" />
+      <edge id="3" source="#Medicaid" target="#Ohio" weight="190" />
+      <edge id="4" source="#Dental" target="#FQHC" weight="190" />
+      <edge id="5" source="#Dental" target="#CHCsInnovate" weight="190" />
+      <edge id="6" source="#fixthecliff" target="#saveourchcs" weight="190" />
+      <edge id="7" source="#fixthecliff" target="#NACHCpi15" weight="190" />
+      <edge id="8" source="#OhioCHC" target="#FQHC" weight="190" />
+      <edge id="9" source="#OhioCHC" target="#OHFQHC" weight="190" />
+      <edge id="10" source="#BeatTampa" target="#TribeTown" weight="190" />
+      <edge id="11" source="#BeatTampa" target="#RollTribe" weight="190" />
+      <edge id="12" source="#infantmortality" target="#FQHCs" weight="380" />
+      <edge id="13" source="#infantmortality" target="#OHCan" weight="380" />
+      <edge id="14" source="#infantmortality" target="#FQHC" weight="190" />
+      <edge id="15" source="#infantmortality" target="#1stBirthday" weight="190" />
+      <edge id="16" source="#NFP" target="#FQHCs" weight="190" />
+      <edge id="17" source="#NFP" target="#metrohealthCLE" weight="190" />
+      <edge id="18" source="#NFP" target="#CA" weight="190" />
+      <edge id="19" source="#NFP" target="#betterhealthcle" weight="190" />
+      <edge id="20" source="#voiceskidshealth2014" target="#oachc" weight="190" />
+      <edge id="21" source="#metrohealthCLE" target="#FQHCs" weight="190" />
+      <edge id="22" source="#metrohealthCLE" target="#CA" weight="190" />
+      <edge id="23" source="#metrohealthCLE" target="#betterhealthcle" weight="190" />
+      <edge id="24" source="#fqhc" target="#AccessistheAnswer" weight="190" />
+      <edge id="25" source="#fqhc" target="#betterhealthcle" weight="190" />
+      <edge id="26" source="#fqhc" target="#oachcfall2014" weight="190" />
+      <edge id="27" source="#fqhc" target="#CMCforum" weight="190" />
+      <edge id="28" source="#fqhc" target="#oachc" weight="190" />
+      <edge id="29" source="#fqhc" target="#oachc14" weight="380" />
+      <edge id="30" source="#fqhc" target="#BREAKING" weight="190" />
+      <edge id="31" source="#KomenColumbus" target="#healthcare4OH" weight="190" />
+      <edge id="32" source="#275KOhioans" target="#Health4OH" weight="190" />
+      <edge id="33" source="#275KOhioans" target="#peoplenotpolitics" weight="190" />
+      <edge id="34" source="#everyonebenefits" target="#Expansion" weight="190" />
+      <edge id="35" source="#GOP" target="#Ohio" weight="190" />
+      <edge id="36" source="#OHCan" target="#FQHCs" weight="190" />
+      <edge id="37" source="#OHCan" target="#FQHC" weight="190" />
+      <edge id="38" source="#OHCan" target="#1stBirthday" weight="190" />
+      <edge id="39" source="#Badgers" target="#Buckeyes" weight="190" />
+      <edge id="40" source="#CHCsHireVets" target="#veterans" weight="190" />
+      <edge id="41" source="#CHC" target="#FQHCs" weight="190" />
+      <edge id="42" source="#CHC" target="#ohiochcnews" weight="190" />
+      <edge id="43" source="#AccessistheAnswer" target="#BREAKING" weight="190" />
+      <edge id="44" source="#shutdown" target="#FQHCs" weight="190" />
+      <edge id="45" source="#shutdown" target="#getcovered" weight="190" />
+      <edge id="46" source="#OHFQHC" target="#FQHC" weight="190" />
+      <edge id="47" source="#FQHCs" target="#getcovered" weight="190" />
+      <edge id="48" source="#FQHCs" target="#AccessIsTheAnswer" weight="190" />
+      <edge id="49" source="#FQHCs" target="#betterhealthcle" weight="190" />
+      <edge id="50" source="#FQHCs" target="#CA" weight="190" />
+      <edge id="51" source="#oachc" target="#CMCforum" weight="190" />
+      <edge id="52" source="#lovetechnology" target="#ohaarplb" weight="190" />
+      <edge id="53" source="#CHCsInnovate" target="#FQHC" weight="190" />
+      <edge id="54" source="#2015CHI" target="#2015CHI" weight="380" />
+      <edge id="55" source="#NHCW2013" target="#CHCs" weight="190" />
+      <edge id="56" source="#betterhealthcle" target="#CA" weight="190" />
+      <edge id="57" source="#oachcfall2014" target="#FQHC" weight="190" />
+      <edge id="58" source="#FQHC" target="#OACHC15" weight="190" />
+      <edge id="59" source="#FQHC" target="#NACHCpi15" weight="380" />
+      <edge id="60" source="#FQHC" target="#1stBirthday" weight="190" />
+      <edge id="61" source="#FQHC" target="#NACHC" weight="380" />
+      <edge id="62" source="#TribeTown" target="#RollTribe" weight="190" />
+      <edge id="63" source="#integrationworks" target="#OACHC15" weight="190" />
+      <edge id="64" source="#NACHCpi15" target="#saveourchcs" weight="190" />
+      <edge id="65" source="#NACHCpi15" target="#OACHC15" weight="380" />
+      <edge id="66" source="#Health4OH" target="#peoplenotpolitics" weight="190" />
+      <edge id="67" source="#FixTheCliff" target="#fqhcs" weight="190" />
+      <edge id="68" source="#CHCinnovate" target="#OhioFQHC" weight="190" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Featured" label="#Featured" />
+      <node id="#Food" label="#Food" />
+      <node id="#hangover" label="#hangover" />
+      <node id="#patchworxcanada" label="#patchworxcanada" />
+      <node id="#winefoodtravel" label="#winefoodtravel" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Featured" target="#Food" weight="125" />
+      <edge id="1" source="#Featured" target="#winefoodtravel" weight="125" />
+      <edge id="2" source="#Food" target="#winefoodtravel" weight="125" />
+      <edge id="3" source="#hangover" target="#hangover" weight="250" />
+      <edge id="4" source="#hangover" target="#patchworxcanada" weight="250" />
+    </edges>
+  </graph>
+</gexf>

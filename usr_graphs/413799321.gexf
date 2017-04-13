@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#patents" label="#patents" />
+      <node id="#evaluateinnovativeidea" label="#evaluateinnovativeidea" />
+      <node id="#BusinessGrowth" label="#BusinessGrowth" />
+      <node id="#leanproductmanagment" label="#leanproductmanagment" />
+      <node id="#conformity" label="#conformity" />
+      <node id="#cbusstartup" label="#cbusstartup" />
+      <node id="#success" label="#success" />
+      <node id="#viralproduct" label="#viralproduct" />
+      <node id="#enterprisegrowthinitiatives" label="#enterprisegrowthinitiatives" />
+      <node id="#CollisionConf" label="#CollisionConf" />
+      <node id="#opensource" label="#opensource" />
+      <node id="#business" label="#business" />
+      <node id="#digitalinnovation" label="#digitalinnovation" />
+      <node id="#efficiency" label="#efficiency" />
+      <node id="#imagry" label="#imagry" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#userstory" label="#userstory" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#enemyofinnovation2" label="#enemyofinnovation2" />
+      <node id="#launch" label="#launch" />
+      <node id="#pounce" label="#pounce" />
+      <node id="#ohiolinux" label="#ohiolinux" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#MidMarket" label="#MidMarket" />
+      <node id="#pivot" label="#pivot" />
+      <node id="#socent" label="#socent" />
+      <node id="#taivara" label="#taivara" />
+      <node id="#tineye" label="#tineye" />
+      <node id="#FirstConnect" label="#FirstConnect" />
+      <node id="#cbustech" label="#cbustech" />
+      <node id="#googlegoggles" label="#googlegoggles" />
+      <node id="#eship" label="#eship" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#startups" label="#startups" />
+      <node id="#growth2" label="#growth2" />
+      <node id="#productrequirementwriting" label="#productrequirementwriting" />
+      <node id="#ivc" label="#ivc" />
+      <node id="#entrepreneurshipideas" label="#entrepreneurshipideas" />
+      <node id="#leanstartup2" label="#leanstartup2" />
+      <node id="#free" label="#free" />
+      <node id="#enterpriseentrepreneur" label="#enterpriseentrepreneur" />
+      <node id="#enemiesofinnovation" label="#enemiesofinnovation" />
+      <node id="#innovate" label="#innovate" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#focusontherightthings" label="#focusontherightthings" />
+      <node id="#SEOTalk" label="#SEOTalk" />
+      <node id="#networking" label="#networking" />
+      <node id="#research" label="#research" />
+      <node id="#corporateinnovation" label="#corporateinnovation" />
+      <node id="#enterpriseinnovation" label="#enterpriseinnovation" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#leanmanufacturing" label="#leanmanufacturing" />
+      <node id="#userexperience" label="#userexperience" />
+      <node id="#websearch" label="#websearch" />
+      <node id="#innovationideas" label="#innovationideas" />
+      <node id="#focus" label="#focus" />
+      <node id="#predictiveinnovation" label="#predictiveinnovation" />
+      <node id="#viralidea" label="#viralidea" />
+      <node id="#kooaba" label="#kooaba" />
+      <node id="#sales" label="#sales" />
+      <node id="#intrapreneurship2" label="#intrapreneurship2" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#applecontinuity" label="#applecontinuity" />
+      <node id="#startuplessons" label="#startuplessons" />
+      <node id="#ux" label="#ux" />
+      <node id="#collaboration" label="#collaboration" />
+      <node id="#tech" label="#tech" />
+      <node id="#goviral" label="#goviral" />
+      <node id="#mobilesearch" label="#mobilesearch" />
+      <node id="#smartsimplicity" label="#smartsimplicity" />
+      <node id="#search" label="#search" />
+      <node id="#nofear" label="#nofear" />
+      <node id="#startupgrowth" label="#startupgrowth" />
+      <node id="#change" label="#change" />
+      <node id="#innovationmeetup" label="#innovationmeetup" />
+      <node id="#visualsearch" label="#visualsearch" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#patents" target="#opensource" weight="12456" />
+      <edge id="1" source="#evaluateinnovativeidea" target="#entrepreneurshipideas" weight="2076" />
+      <edge id="2" source="#BusinessGrowth" target="#MidMarket" weight="1038" />
+      <edge id="3" source="#leanproductmanagment" target="#productrequirementwriting" weight="2076" />
+      <edge id="4" source="#leanproductmanagment" target="#userstory" weight="2076" />
+      <edge id="5" source="#conformity" target="#enemyofinnovation2" weight="2076" />
+      <edge id="6" source="#conformity" target="#enemiesofinnovation" weight="2076" />
+      <edge id="7" source="#cbusstartup" target="#CollisionConf" weight="1038" />
+      <edge id="8" source="#success" target="#innovation" weight="1038" />
+      <edge id="9" source="#success" target="#entrepreneur" weight="1038" />
+      <edge id="10" source="#success" target="#business" weight="1038" />
+      <edge id="11" source="#success" target="#leadership" weight="1038" />
+      <edge id="12" source="#viralproduct" target="#goviral" weight="1038" />
+      <edge id="13" source="#viralproduct" target="#viralidea" weight="1038" />
+      <edge id="14" source="#enterprisegrowthinitiatives" target="#digitalinnovation" weight="1038" />
+      <edge id="15" source="#business" target="#innovation" weight="1038" />
+      <edge id="16" source="#business" target="#entrepreneur" weight="1038" />
+      <edge id="17" source="#business" target="#leadership" weight="1038" />
+      <edge id="18" source="#efficiency" target="#innovation" weight="4152" />
+      <edge id="19" source="#imagry" target="#websearch" weight="1038" />
+      <edge id="20" source="#imagry" target="#pounce" weight="2076" />
+      <edge id="21" source="#imagry" target="#googlegoggles" weight="2076" />
+      <edge id="22" source="#imagry" target="#mobilesearch" weight="2076" />
+      <edge id="23" source="#imagry" target="#search" weight="2076" />
+      <edge id="24" source="#imagry" target="#tineye" weight="1038" />
+      <edge id="25" source="#imagry" target="#kooaba" weight="2076" />
+      <edge id="26" source="#imagry" target="#visualsearch" weight="1038" />
+      <edge id="27" source="#entrepreneurship" target="#innovation" weight="1038" />
+      <edge id="28" source="#entrepreneurship" target="#ohiolinux" weight="1038" />
+      <edge id="29" source="#entrepreneurship" target="#cbustech" weight="1038" />
+      <edge id="30" source="#userstory" target="#productrequirementwriting" weight="2076" />
+      <edge id="31" source="#leadership" target="#change" weight="1038" />
+      <edge id="32" source="#leadership" target="#entrepreneur" weight="1038" />
+      <edge id="33" source="#leadership" target="#smartsimplicity" weight="1038" />
+      <edge id="34" source="#leadership" target="#innovation" weight="1038" />
+      <edge id="35" source="#leadership" target="#Innovation" weight="1038" />
+      <edge id="36" source="#enemyofinnovation2" target="#enemiesofinnovation" weight="2076" />
+      <edge id="37" source="#launch" target="#innovation" weight="2076" />
+      <edge id="38" source="#launch" target="#ivc" weight="2076" />
+      <edge id="39" source="#launch" target="#sales" weight="2076" />
+      <edge id="40" source="#pounce" target="#websearch" weight="1038" />
+      <edge id="41" source="#pounce" target="#googlegoggles" weight="2076" />
+      <edge id="42" source="#pounce" target="#mobilesearch" weight="2076" />
+      <edge id="43" source="#pounce" target="#search" weight="2076" />
+      <edge id="44" source="#pounce" target="#tineye" weight="1038" />
+      <edge id="45" source="#pounce" target="#kooaba" weight="2076" />
+      <edge id="46" source="#pounce" target="#visualsearch" weight="1038" />
+      <edge id="47" source="#ohiolinux" target="#cbustech" weight="1038" />
+      <edge id="48" source="#ohiolinux" target="#innovation" weight="1038" />
+      <edge id="49" source="#Innovation" target="#change" weight="1038" />
+      <edge id="50" source="#Innovation" target="#smartsimplicity" weight="1038" />
+      <edge id="51" source="#Columbus" target="#startups" weight="1038" />
+      <edge id="52" source="#Columbus" target="#tech" weight="1038" />
+      <edge id="53" source="#Columbus" target="#eship" weight="1038" />
+      <edge id="54" source="#entrepreneur" target="#innovation" weight="1038" />
+      <edge id="55" source="#pivot" target="#startups" weight="1038" />
+      <edge id="56" source="#socent" target="#columbus" weight="1038" />
+      <edge id="57" source="#socent" target="#lifeincbus" weight="1038" />
+      <edge id="58" source="#socent" target="#cbus" weight="2076" />
+      <edge id="59" source="#taivara" target="#innovationmeetup" weight="1038" />
+      <edge id="60" source="#tineye" target="#websearch" weight="1038" />
+      <edge id="61" source="#tineye" target="#mobilesearch" weight="1038" />
+      <edge id="62" source="#tineye" target="#search" weight="1038" />
+      <edge id="63" source="#tineye" target="#googlegoggles" weight="1038" />
+      <edge id="64" source="#tineye" target="#kooaba" weight="1038" />
+      <edge id="65" source="#tineye" target="#visualsearch" weight="1038" />
+      <edge id="66" source="#FirstConnect" target="#startups" weight="1038" />
+      <edge id="67" source="#cbustech" target="#innovation" weight="1038" />
+      <edge id="68" source="#googlegoggles" target="#websearch" weight="1038" />
+      <edge id="69" source="#googlegoggles" target="#mobilesearch" weight="2076" />
+      <edge id="70" source="#googlegoggles" target="#search" weight="2076" />
+      <edge id="71" source="#googlegoggles" target="#kooaba" weight="2076" />
+      <edge id="72" source="#googlegoggles" target="#visualsearch" weight="1038" />
+      <edge id="73" source="#eship" target="#startups" weight="1038" />
+      <edge id="74" source="#eship" target="#tech" weight="1038" />
+      <edge id="75" source="#eship" target="#cbus" weight="1038" />
+      <edge id="76" source="#SEO" target="#free" weight="1038" />
+      <edge id="77" source="#SEO" target="#research" weight="1038" />
+      <edge id="78" source="#SEO" target="#SEOTalk" weight="1038" />
+      <edge id="79" source="#startups" target="#networking" weight="3114" />
+      <edge id="80" source="#startups" target="#tech" weight="1038" />
+      <edge id="81" source="#growth2" target="#startupgrowth" weight="1038" />
+      <edge id="82" source="#growth2" target="#innovationideas" weight="1038" />
+      <edge id="83" source="#ivc" target="#innovation" weight="6228" />
+      <edge id="84" source="#ivc" target="#sales" weight="2076" />
+      <edge id="85" source="#leanstartup2" target="#leanmanufacturing" weight="1038" />
+      <edge id="86" source="#leanstartup2" target="#startuplessons" weight="1038" />
+      <edge id="87" source="#free" target="#research" weight="1038" />
+      <edge id="88" source="#free" target="#SEOTalk" weight="1038" />
+      <edge id="89" source="#enterpriseentrepreneur" target="#intrapreneurship2" weight="1038" />
+      <edge id="90" source="#enterpriseentrepreneur" target="#innovation" weight="1038" />
+      <edge id="91" source="#enterpriseentrepreneur" target="#enterpriseinnovation" weight="1038" />
+      <edge id="92" source="#enemiesofinnovation" target="#corporateinnovation" weight="1038" />
+      <edge id="93" source="#enemiesofinnovation" target="#innovation" weight="1038" />
+      <edge id="94" source="#innovate" target="#collaboration" weight="1038" />
+      <edge id="95" source="#innovate" target="#nofear" weight="1038" />
+      <edge id="96" source="#innovation" target="#intrapreneurship2" weight="1038" />
+      <edge id="97" source="#innovation" target="#sales" weight="3114" />
+      <edge id="98" source="#innovation" target="#corporateinnovation" weight="1038" />
+      <edge id="99" source="#innovation" target="#enterpriseinnovation" weight="1038" />
+      <edge id="100" source="#focusontherightthings" target="#focus" weight="2076" />
+      <edge id="101" source="#SEOTalk" target="#research" weight="1038" />
+      <edge id="102" source="#enterpriseinnovation" target="#intrapreneurship2" weight="1038" />
+      <edge id="103" source="#lifeincbus" target="#cbus" weight="1038" />
+      <edge id="104" source="#leanmanufacturing" target="#startuplessons" weight="1038" />
+      <edge id="105" source="#userexperience" target="#ux" weight="1038" />
+      <edge id="106" source="#websearch" target="#mobilesearch" weight="1038" />
+      <edge id="107" source="#websearch" target="#search" weight="1038" />
+      <edge id="108" source="#websearch" target="#kooaba" weight="1038" />
+      <edge id="109" source="#websearch" target="#visualsearch" weight="1038" />
+      <edge id="110" source="#innovationideas" target="#startupgrowth" weight="1038" />
+      <edge id="111" source="#predictiveinnovation" target="#applecontinuity" weight="1038" />
+      <edge id="112" source="#viralidea" target="#goviral" weight="8304" />
+      <edge id="113" source="#kooaba" target="#mobilesearch" weight="2076" />
+      <edge id="114" source="#kooaba" target="#search" weight="2076" />
+      <edge id="115" source="#kooaba" target="#visualsearch" weight="1038" />
+      <edge id="116" source="#columbus" target="#cbus" weight="2076" />
+      <edge id="117" source="#collaboration" target="#nofear" weight="1038" />
+      <edge id="118" source="#mobilesearch" target="#search" weight="2076" />
+      <edge id="119" source="#mobilesearch" target="#visualsearch" weight="1038" />
+      <edge id="120" source="#smartsimplicity" target="#change" weight="1038" />
+      <edge id="121" source="#search" target="#visualsearch" weight="1038" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BloodAndPucks" label="#BloodAndPucks" />
+      <node id="#mnwild" label="#mnwild" />
+      <node id="#Redwings" label="#Redwings" />
+      <node id="#NHLDucks" label="#NHLDucks" />
+      <node id="#Sens" label="#Sens" />
+      <node id="#Sabres" label="#Sabres" />
+      <node id="#Avs" label="#Avs" />
+      <node id="#DallasStars" label="#DallasStars" />
+      <node id="#Leafs" label="#Leafs" />
+      <node id="#Blackhawks" label="#Blackhawks" />
+      <node id="#Caps" label="#Caps" />
+      <node id="#Oilers" label="#Oilers" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#Preds" label="#Preds" />
+      <node id="#NHLRumors" label="#NHLRumors" />
+      <node id="#FlaPanthers" label="#FlaPanthers" />
+      <node id="#Canucks" label="#Canucks" />
+      <node id="#FF" label="#FF" />
+      <node id="#Sharks" label="#Sharks" />
+      <node id="#njdevils" label="#njdevils" />
+      <node id="#Bruins" label="#Bruins" />
+      <node id="#NYR" label="#NYR" />
+      <node id="#stlblues" label="#stlblues" />
+      <node id="#Flames" label="#Flames" />
+      <node id="#Hurricanes" label="#Hurricanes" />
+      <node id="#Isles" label="#Isles" />
+      <node id="#Thrashers" label="#Thrashers" />
+      <node id="#RedWings" label="#RedWings" />
+      <node id="#coyotes" label="#coyotes" />
+      <node id="#gohabsgo" label="#gohabsgo" />
+      <node id="#Pens" label="#Pens" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#LAKings" label="#LAKings" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BloodAndPucks" target="#LAKings" weight="2364" />
+      <edge id="1" source="#mnwild" target="#NHL" weight="9456" />
+      <edge id="2" source="#Redwings" target="#FF" weight="2364" />
+      <edge id="3" source="#NHLDucks" target="#NHL" weight="16548" />
+      <edge id="4" source="#Sens" target="#NHL" weight="11820" />
+      <edge id="5" source="#Sabres" target="#NHL" weight="23640" />
+      <edge id="6" source="#Avs" target="#NHL" weight="2364" />
+      <edge id="7" source="#DallasStars" target="#NHL" weight="26004" />
+      <edge id="8" source="#Leafs" target="#NHL" weight="7092" />
+      <edge id="9" source="#Blackhawks" target="#NHL" weight="23640" />
+      <edge id="10" source="#Caps" target="#NHL" weight="16548" />
+      <edge id="11" source="#Oilers" target="#NHL" weight="4728" />
+      <edge id="12" source="#CBJ" target="#NHL" weight="11820" />
+      <edge id="13" source="#Preds" target="#NHL" weight="16548" />
+      <edge id="14" source="#NHLRumors" target="#NHL" weight="7092" />
+      <edge id="15" source="#FlaPanthers" target="#NHL" weight="4728" />
+      <edge id="16" source="#Canucks" target="#NHL" weight="11820" />
+      <edge id="17" source="#Sharks" target="#NHL" weight="9456" />
+      <edge id="18" source="#njdevils" target="#NHL" weight="96924" />
+      <edge id="19" source="#Bruins" target="#NHL" weight="70920" />
+      <edge id="20" source="#NYR" target="#NHL" weight="104016" />
+      <edge id="21" source="#stlblues" target="#NHL" weight="9456" />
+      <edge id="22" source="#Flames" target="#NHL" weight="9456" />
+      <edge id="23" source="#Hurricanes" target="#NHL" weight="2364" />
+      <edge id="24" source="#Isles" target="#NHL" weight="9456" />
+      <edge id="25" source="#Thrashers" target="#NHL" weight="9456" />
+      <edge id="26" source="#RedWings" target="#NHL" weight="9456" />
+      <edge id="27" source="#coyotes" target="#NHL" weight="2364" />
+      <edge id="28" source="#gohabsgo" target="#NHL" weight="14184" />
+      <edge id="29" source="#Pens" target="#NHL" weight="4728" />
+      <edge id="30" source="#NHL" target="#LAKings" weight="47280" />
+    </edges>
+  </graph>
+</gexf>

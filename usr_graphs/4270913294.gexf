@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#technology" label="#technology" />
+      <node id="#jacksonhole" label="#jacksonhole" />
+      <node id="#WhiteBoard" label="#WhiteBoard" />
+      <node id="#jhdreaming" label="#jhdreaming" />
+      <node id="#mondaymotivation" label="#mondaymotivation" />
+      <node id="#datascientist" label="#datascientist" />
+      <node id="#PeopleFirst" label="#PeopleFirst" />
+      <node id="#CSP2016" label="#CSP2016" />
+      <node id="#SAS" label="#SAS" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#dataviz" label="#dataviz" />
+      <node id="#advancedanalytics" label="#advancedanalytics" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#technology" target="#columbus" weight="64" />
+      <edge id="1" source="#technology" target="#advancedanalytics" weight="64" />
+      <edge id="2" source="#jacksonhole" target="#jhdreaming" weight="64" />
+      <edge id="3" source="#WhiteBoard" target="#datascientist" weight="64" />
+      <edge id="4" source="#WhiteBoard" target="#PeopleFirst" weight="64" />
+      <edge id="5" source="#WhiteBoard" target="#mondaymotivation" weight="64" />
+      <edge id="6" source="#mondaymotivation" target="#datascientist" weight="64" />
+      <edge id="7" source="#mondaymotivation" target="#PeopleFirst" weight="64" />
+      <edge id="8" source="#datascientist" target="#PeopleFirst" weight="64" />
+      <edge id="9" source="#CSP2016" target="#SAS" weight="64" />
+      <edge id="10" source="#CSP2016" target="#dataviz" weight="64" />
+      <edge id="11" source="#columbus" target="#advancedanalytics" weight="64" />
+    </edges>
+  </graph>
+</gexf>

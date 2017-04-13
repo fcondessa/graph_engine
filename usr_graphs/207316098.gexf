@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#mynicknames" label="#mynicknames" />
+      <node id="#Birdie4Regis" label="#Birdie4Regis" />
+      <node id="#igotem" label="#igotem" />
+      <node id="#duh" label="#duh" />
+      <node id="#Twitition" label="#Twitition" />
+      <node id="#Respect" label="#Respect" />
+      <node id="#Birdie4GameOfThrones" label="#Birdie4GameOfThrones" />
+      <node id="#preach" label="#preach" />
+      <node id="#WarOnSticks" label="#WarOnSticks" />
+      <node id="#birdie4benji" label="#birdie4benji" />
+      <node id="#SWAG" label="#SWAG" />
+      <node id="#Harnesses" label="#Harnesses" />
+      <node id="#Emmys" label="#Emmys" />
+      <node id="#gaydogs" label="#gaydogs" />
+      <node id="#winning" label="#winning" />
+      <node id="#1000BIRDIEBERS" label="#1000BIRDIEBERS" />
+      <node id="#based" label="#based" />
+      <node id="#psyops" label="#psyops" />
+      <node id="#birdiebers" label="#birdiebers" />
+      <node id="#Direwolves" label="#Direwolves" />
+      <node id="#Birdie4Benji" label="#Birdie4Benji" />
+      <node id="#Sawyer" label="#Sawyer" />
+      <node id="#psypups" label="#psypups" />
+      <node id="#sheeple" label="#sheeple" />
+      <node id="#mynicnames" label="#mynicnames" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#mynicknames" target="#Sawyer" weight="4204" />
+      <edge id="1" source="#Birdie4Regis" target="#Birdie4Benji" weight="1051" />
+      <edge id="2" source="#igotem" target="#gaydogs" weight="1051" />
+      <edge id="3" source="#duh" target="#winning" weight="1051" />
+      <edge id="4" source="#Twitition" target="#birdie4benji" weight="1051" />
+      <edge id="5" source="#Twitition" target="#Birdie4Benji" weight="1051" />
+      <edge id="6" source="#Respect" target="#preach" weight="1051" />
+      <edge id="7" source="#Respect" target="#SWAG" weight="1051" />
+      <edge id="8" source="#Respect" target="#based" weight="1051" />
+      <edge id="9" source="#Birdie4GameOfThrones" target="#Direwolves" weight="1051" />
+      <edge id="10" source="#preach" target="#SWAG" weight="1051" />
+      <edge id="11" source="#preach" target="#based" weight="1051" />
+      <edge id="12" source="#WarOnSticks" target="#sheeple" weight="1051" />
+      <edge id="13" source="#birdie4benji" target="#Birdie4Benji" weight="1051" />
+      <edge id="14" source="#SWAG" target="#based" weight="1051" />
+      <edge id="15" source="#Harnesses" target="#Emmys" weight="1051" />
+      <edge id="16" source="#1000BIRDIEBERS" target="#birdiebers" weight="1051" />
+      <edge id="17" source="#psyops" target="#psypups" weight="1051" />
+      <edge id="18" source="#Sawyer" target="#mynicnames" weight="1051" />
+    </edges>
+  </graph>
+</gexf>

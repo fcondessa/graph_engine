@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Personhood" label="#Personhood" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Personhood" target="#Ohio" weight="67" />
+    </edges>
+  </graph>
+</gexf>

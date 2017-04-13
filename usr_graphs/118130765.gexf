@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Windians" label="#Windians" />
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#CRISPR" label="#CRISPR" />
+      <node id="#FF" label="#FF" />
+      <node id="#CDC" label="#CDC" />
+      <node id="#ZikaVirus" label="#ZikaVirus" />
+      <node id="#triclosan" label="#triclosan" />
+      <node id="#EpiPen" label="#EpiPen" />
+      <node id="#biotech" label="#biotech" />
+      <node id="#BARDA" label="#BARDA" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#HHS" label="#HHS" />
+      <node id="#NIH" label="#NIH" />
+      <node id="#EpiPens" label="#EpiPens" />
+      <node id="#NewsHourChats" label="#NewsHourChats" />
+      <node id="#USPTO" label="#USPTO" />
+      <node id="#dataviz" label="#dataviz" />
+      <node id="#Zika" label="#Zika" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Windians" target="#RallyTogether" weight="3202" />
+      <edge id="1" source="#Rio2016" target="#dataviz" weight="3202" />
+      <edge id="2" source="#CRISPR" target="#USPTO" weight="3202" />
+      <edge id="3" source="#FF" target="#biotech" weight="3202" />
+      <edge id="4" source="#CDC" target="#NIH" weight="3202" />
+      <edge id="5" source="#CDC" target="#BARDA" weight="3202" />
+      <edge id="6" source="#CDC" target="#ZikaVirus" weight="3202" />
+      <edge id="7" source="#CDC" target="#HHS" weight="3202" />
+      <edge id="8" source="#CDC" target="#Zika" weight="3202" />
+      <edge id="9" source="#ZikaVirus" target="#NIH" weight="3202" />
+      <edge id="10" source="#ZikaVirus" target="#BARDA" weight="3202" />
+      <edge id="11" source="#ZikaVirus" target="#Zika" weight="3202" />
+      <edge id="12" source="#ZikaVirus" target="#HHS" weight="3202" />
+      <edge id="13" source="#triclosan" target="#EpiPen" weight="3202" />
+      <edge id="14" source="#triclosan" target="#NewsHourChats" weight="3202" />
+      <edge id="15" source="#triclosan" target="#Zika" weight="6404" />
+      <edge id="16" source="#triclosan" target="#EpiPens" weight="3202" />
+      <edge id="17" source="#EpiPen" target="#Zika" weight="3202" />
+      <edge id="18" source="#BARDA" target="#NIH" weight="3202" />
+      <edge id="19" source="#BARDA" target="#HHS" weight="3202" />
+      <edge id="20" source="#BARDA" target="#Zika" weight="3202" />
+      <edge id="21" source="#HHS" target="#NIH" weight="3202" />
+      <edge id="22" source="#HHS" target="#Zika" weight="3202" />
+      <edge id="23" source="#NIH" target="#Zika" weight="3202" />
+      <edge id="24" source="#EpiPens" target="#NewsHourChats" weight="3202" />
+      <edge id="25" source="#EpiPens" target="#Zika" weight="3202" />
+      <edge id="26" source="#NewsHourChats" target="#Zika" weight="3202" />
+    </edges>
+  </graph>
+</gexf>

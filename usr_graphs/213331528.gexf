@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#journos" label="#journos" />
+      <node id="#singlecopysales" label="#singlecopysales" />
+      <node id="#Pulitzer" label="#Pulitzer" />
+      <node id="#journalism" label="#journalism" />
+      <node id="#thinklocalfirst" label="#thinklocalfirst" />
+      <node id="#OhioNews15" label="#OhioNews15" />
+      <node id="#localnews" label="#localnews" />
+      <node id="#TeaParty" label="#TeaParty" />
+      <node id="#SunshineWeek" label="#SunshineWeek" />
+      <node id="#NBAChamps" label="#NBAChamps" />
+      <node id="#NBAChampionship" label="#NBAChampionship" />
+      <node id="#casino" label="#casino" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#CavsChamps" label="#CavsChamps" />
+      <node id="#ONA" label="#ONA" />
+      <node id="#storify" label="#storify" />
+      <node id="#OhioNews14" label="#OhioNews14" />
+      <node id="#future" label="#future" />
+      <node id="#Journalist" label="#Journalist" />
+      <node id="#UC" label="#UC" />
+      <node id="#Plain" label="#Plain" />
+      <node id="#heroin" label="#heroin" />
+      <node id="#USPS" label="#USPS" />
+      <node id="#NationalNewspaperWeek" label="#NationalNewspaperWeek" />
+      <node id="#newtown" label="#newtown" />
+      <node id="#education" label="#education" />
+      <node id="#VLT" label="#VLT" />
+      <node id="#ONAnews" label="#ONAnews" />
+      <node id="#ONA2013" label="#ONA2013" />
+      <node id="#mediadiversity" label="#mediadiversity" />
+      <node id="#Xavier" label="#Xavier" />
+      <node id="#NABJ" label="#NABJ" />
+      <node id="#kipcamp" label="#kipcamp" />
+      <node id="#ClevelandCavaliers" label="#ClevelandCavaliers" />
+      <node id="#cincinnati" label="#cincinnati" />
+      <node id="#Aurora" label="#Aurora" />
+      <node id="#CincinnatiEnquirer" label="#CincinnatiEnquirer" />
+      <node id="#ohionews16" label="#ohionews16" />
+      <node id="#sunshineweek" label="#sunshineweek" />
+      <node id="#ethics" label="#ethics" />
+      <node id="#opengov" label="#opengov" />
+      <node id="#politics" label="#politics" />
+      <node id="#Kasich" label="#Kasich" />
+      <node id="#Portman" label="#Portman" />
+      <node id="#media" label="#media" />
+      <node id="#newspapers" label="#newspapers" />
+      <node id="#OhioNews16" label="#OhioNews16" />
+      <node id="#Newscycle" label="#Newscycle" />
+      <node id="#ONA13" label="#ONA13" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#journos" target="#OhioNews16" weight="2820" />
+      <edge id="1" source="#journos" target="#kipcamp" weight="2820" />
+      <edge id="2" source="#singlecopysales" target="#newspapers" weight="2820" />
+      <edge id="3" source="#Pulitzer" target="#ONAnews" weight="2820" />
+      <edge id="4" source="#journalism" target="#storify" weight="2820" />
+      <edge id="5" source="#journalism" target="#OhioNews14" weight="5640" />
+      <edge id="6" source="#journalism" target="#ethics" weight="2820" />
+      <edge id="7" source="#journalism" target="#newtown" weight="2820" />
+      <edge id="8" source="#thinklocalfirst" target="#OhioNews15" weight="2820" />
+      <edge id="9" source="#localnews" target="#NationalNewspaperWeek" weight="2820" />
+      <edge id="10" source="#TeaParty" target="#OhioNews14" weight="2820" />
+      <edge id="11" source="#SunshineWeek" target="#opengov" weight="8460" />
+      <edge id="12" source="#NBAChamps" target="#ClevelandCavaliers" weight="2820" />
+      <edge id="13" source="#NBAChampionship" target="#ClevelandCavaliers" weight="2820" />
+      <edge id="14" source="#casino" target="#VLT" weight="2820" />
+      <edge id="15" source="#Ohio" target="#opengov" weight="2820" />
+      <edge id="16" source="#Ohio" target="#OhioNews14" weight="2820" />
+      <edge id="17" source="#CavsChamps" target="#Plain" weight="2820" />
+      <edge id="18" source="#ONA" target="#ONA2013" weight="2820" />
+      <edge id="19" source="#storify" target="#ethics" weight="2820" />
+      <edge id="20" source="#storify" target="#newtown" weight="2820" />
+      <edge id="21" source="#OhioNews14" target="#education" weight="2820" />
+      <edge id="22" source="#OhioNews14" target="#heroin" weight="2820" />
+      <edge id="23" source="#OhioNews14" target="#politics" weight="5640" />
+      <edge id="24" source="#OhioNews14" target="#media" weight="2820" />
+      <edge id="25" source="#future" target="#CincinnatiEnquirer" weight="2820" />
+      <edge id="26" source="#future" target="#cincinnati" weight="2820" />
+      <edge id="27" source="#future" target="#ONA13" weight="2820" />
+      <edge id="28" source="#Journalist" target="#mediadiversity" weight="2820" />
+      <edge id="29" source="#Journalist" target="#NABJ" weight="2820" />
+      <edge id="30" source="#UC" target="#Xavier" weight="2820" />
+      <edge id="31" source="#heroin" target="#education" weight="2820" />
+      <edge id="32" source="#heroin" target="#media" weight="2820" />
+      <edge id="33" source="#heroin" target="#politics" weight="2820" />
+      <edge id="34" source="#USPS" target="#Portman" weight="2820" />
+      <edge id="35" source="#newtown" target="#ethics" weight="2820" />
+      <edge id="36" source="#education" target="#media" weight="2820" />
+      <edge id="37" source="#education" target="#politics" weight="2820" />
+      <edge id="38" source="#mediadiversity" target="#NABJ" weight="2820" />
+      <edge id="39" source="#kipcamp" target="#OhioNews16" weight="2820" />
+      <edge id="40" source="#cincinnati" target="#CincinnatiEnquirer" weight="2820" />
+      <edge id="41" source="#cincinnati" target="#ONA13" weight="2820" />
+      <edge id="42" source="#Aurora" target="#Aurora" weight="5640" />
+      <edge id="43" source="#CincinnatiEnquirer" target="#ONA13" weight="2820" />
+      <edge id="44" source="#ohionews16" target="#Newscycle" weight="2820" />
+      <edge id="45" source="#sunshineweek" target="#opengov" weight="2820" />
+      <edge id="46" source="#politics" target="#media" weight="2820" />
+      <edge id="47" source="#Kasich" target="#newspapers" weight="2820" />
+    </edges>
+  </graph>
+</gexf>

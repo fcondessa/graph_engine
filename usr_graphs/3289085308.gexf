@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NotAMatch" label="#NotAMatch" />
+      <node id="#GHSDreamBig" label="#GHSDreamBig" />
+      <node id="#AppleWatch" label="#AppleWatch" />
+      <node id="#Rehearsal" label="#Rehearsal" />
+      <node id="#oneofthesethingsisnotliketheother" label="#oneofthesethingsisnotliketheother" />
+      <node id="#TalentAndSkill" label="#TalentAndSkill" />
+      <node id="#meditate" label="#meditate" />
+      <node id="#iPick" label="#iPick" />
+      <node id="#SolidDesign" label="#SolidDesign" />
+      <node id="#Atari" label="#Atari" />
+      <node id="#NoTimeForDrama" label="#NoTimeForDrama" />
+      <node id="#MacsRule" label="#MacsRule" />
+      <node id="#nomorebeachball" label="#nomorebeachball" />
+      <node id="#GoodOldDays" label="#GoodOldDays" />
+      <node id="#oldschoolgames" label="#oldschoolgames" />
+      <node id="#HappyTummy" label="#HappyTummy" />
+      <node id="#MacBookPodiatry" label="#MacBookPodiatry" />
+      <node id="#AppleEvent" label="#AppleEvent" />
+      <node id="#cajun" label="#cajun" />
+      <node id="#whateverworks" label="#whateverworks" />
+      <node id="#reducestress" label="#reducestress" />
+      <node id="#yummygoodness" label="#yummygoodness" />
+      <node id="#dinosaur" label="#dinosaur" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#iPhone7launch" label="#iPhone7launch" />
+      <node id="#SoGood" label="#SoGood" />
+      <node id="#NeedForSpeed" label="#NeedForSpeed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NotAMatch" target="#oneofthesethingsisnotliketheother" weight="186" />
+      <edge id="1" source="#GHSDreamBig" target="#TalentAndSkill" weight="186" />
+      <edge id="2" source="#AppleWatch" target="#AppleEvent" weight="186" />
+      <edge id="3" source="#AppleWatch" target="#iPhone7launch" weight="186" />
+      <edge id="4" source="#Rehearsal" target="#NoTimeForDrama" weight="186" />
+      <edge id="5" source="#meditate" target="#reducestress" weight="186" />
+      <edge id="6" source="#iPick" target="#whateverworks" weight="186" />
+      <edge id="7" source="#SolidDesign" target="#Apple" weight="186" />
+      <edge id="8" source="#Atari" target="#oldschoolgames" weight="186" />
+      <edge id="9" source="#MacsRule" target="#MacBookPodiatry" weight="186" />
+      <edge id="10" source="#nomorebeachball" target="#NeedForSpeed" weight="186" />
+      <edge id="11" source="#GoodOldDays" target="#dinosaur" weight="186" />
+      <edge id="12" source="#HappyTummy" target="#SoGood" weight="186" />
+      <edge id="13" source="#AppleEvent" target="#iPhone7launch" weight="186" />
+      <edge id="14" source="#cajun" target="#yummygoodness" weight="186" />
+    </edges>
+  </graph>
+</gexf>

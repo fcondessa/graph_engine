@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#RallyMustache" label="#RallyMustache" />
+      <node id="#Duffman" label="#Duffman" />
+      <node id="#TarpMonster" label="#TarpMonster" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#MiLBProblems" label="#MiLBProblems" />
+      <node id="#DubTheVote" label="#DubTheVote" />
+      <node id="#PenceEra" label="#PenceEra" />
+      <node id="#NLDS" label="#NLDS" />
+      <node id="#MLBPrime" label="#MLBPrime" />
+      <node id="#VotePence" label="#VotePence" />
+      <node id="#SilverSlugger" label="#SilverSlugger" />
+      <node id="#shadows" label="#shadows" />
+      <node id="#BlueJays" label="#BlueJays" />
+      <node id="#LakeCounty" label="#LakeCounty" />
+      <node id="#cafire" label="#cafire" />
+      <node id="#Blazers" label="#Blazers" />
+      <node id="#SweepLA" label="#SweepLA" />
+      <node id="#MLBDraftHat" label="#MLBDraftHat" />
+      <node id="#Reds" label="#Reds" />
+      <node id="#FaceOfMLB" label="#FaceOfMLB" />
+      <node id="#ASG" label="#ASG" />
+      <node id="#NBAVote" label="#NBAVote" />
+      <node id="#ALCS" label="#ALCS" />
+      <node id="#ohgodverlander" label="#ohgodverlander" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#BusterPosey" label="#BusterPosey" />
+      <node id="#RallyZito" label="#RallyZito" />
+      <node id="#FreaKKKKK" label="#FreaKKKKK" />
+      <node id="#BeatLA" label="#BeatLA" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#FaceofMLB" label="#FaceofMLB" />
+      <node id="#MVP" label="#MVP" />
+      <node id="#MLBFC" label="#MLBFC" />
+      <node id="#Whiff" label="#Whiff" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#MLBDraft" label="#MLBDraft" />
+      <node id="#ATTPark" label="#ATTPark" />
+      <node id="#ValleyFire" label="#ValleyFire" />
+      <node id="#VoteSFG" label="#VoteSFG" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#RallyMustache" target="#RallyZito" weight="3227" />
+      <edge id="1" source="#Duffman" target="#SFGiants" weight="3227" />
+      <edge id="2" source="#TarpMonster" target="#MiLBProblems" weight="3227" />
+      <edge id="3" source="#postseason" target="#NLDS" weight="3227" />
+      <edge id="4" source="#DubTheVote" target="#NBAVote" weight="6454" />
+      <edge id="5" source="#PenceEra" target="#SFGiants" weight="3227" />
+      <edge id="6" source="#MLBPrime" target="#SFGiants" weight="3227" />
+      <edge id="7" source="#VotePence" target="#ASG" weight="3227" />
+      <edge id="8" source="#SilverSlugger" target="#ALCS" weight="3227" />
+      <edge id="9" source="#SilverSlugger" target="#MLBFC" weight="3227" />
+      <edge id="10" source="#shadows" target="#ohgodverlander" weight="3227" />
+      <edge id="11" source="#BlueJays" target="#Whiff" weight="3227" />
+      <edge id="12" source="#BlueJays" target="#FreaKKKKK" weight="3227" />
+      <edge id="13" source="#BlueJays" target="#SFGiants" weight="3227" />
+      <edge id="14" source="#LakeCounty" target="#ValleyFire" weight="3227" />
+      <edge id="15" source="#cafire" target="#ValleyFire" weight="3227" />
+      <edge id="16" source="#Blazers" target="#Warriors" weight="3227" />
+      <edge id="17" source="#SweepLA" target="#SweepLA" weight="96810" />
+      <edge id="18" source="#MLBDraftHat" target="#MLBDraft" weight="3227" />
+      <edge id="19" source="#Reds" target="#MLBFC" weight="3227" />
+      <edge id="20" source="#FaceOfMLB" target="#BusterPosey" weight="6454" />
+      <edge id="21" source="#ASG" target="#ASG" weight="6454" />
+      <edge id="22" source="#BusterPosey" target="#FaceofMLB" weight="3227" />
+      <edge id="23" source="#FreaKKKKK" target="#Whiff" weight="3227" />
+      <edge id="24" source="#FreaKKKKK" target="#SFGiants" weight="3227" />
+      <edge id="25" source="#BeatLA" target="#BeatLA" weight="677670" />
+      <edge id="26" source="#BeatLA" target="#SFGiants" weight="3227" />
+      <edge id="27" source="#WorldSeries" target="#MLBFC" weight="3227" />
+      <edge id="28" source="#MVP" target="#MVP" weight="19362" />
+      <edge id="29" source="#Whiff" target="#SFGiants" weight="9681" />
+      <edge id="30" source="#Whiff" target="#VoteSFG" weight="3227" />
+      <edge id="31" source="#SFGiants" target="#ATTPark" weight="3227" />
+    </edges>
+  </graph>
+</gexf>

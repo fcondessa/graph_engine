@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#natgas" label="#natgas" />
+      <node id="#gasoline" label="#gasoline" />
+      <node id="#openhouse" label="#openhouse" />
+      <node id="#ClimateChange" label="#ClimateChange" />
+      <node id="#Yellowstone" label="#Yellowstone" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#famous" label="#famous" />
+      <node id="#interns" label="#interns" />
+      <node id="#CNG" label="#CNG" />
+      <node id="#WelcomeOSU" label="#WelcomeOSU" />
+      <node id="#buckeyes" label="#buckeyes" />
+      <node id="#EJSCREEN" label="#EJSCREEN" />
+      <node id="#propane" label="#propane" />
+      <node id="#Agriculture" label="#Agriculture" />
+      <node id="#CFAES" label="#CFAES" />
+      <node id="#BuckeyeforLife" label="#BuckeyeforLife" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#BuckeyeForLife" label="#BuckeyeForLife" />
+      <node id="#windpower" label="#windpower" />
+      <node id="#sciwri14" label="#sciwri14" />
+      <node id="#sustainable" label="#sustainable" />
+      <node id="#BuckeyeBullet" label="#BuckeyeBullet" />
+      <node id="#futureisclean" label="#futureisclean" />
+      <node id="#EIAconf" label="#EIAconf" />
+      <node id="#MaterialsWeek" label="#MaterialsWeek" />
+      <node id="#zerowaste" label="#zerowaste" />
+      <node id="#DiscoverySRE" label="#DiscoverySRE" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#ThisIsOhioState" label="#ThisIsOhioState" />
+      <node id="#BWSC14" label="#BWSC14" />
+      <node id="#BackToSchool" label="#BackToSchool" />
+      <node id="#FarmDog" label="#FarmDog" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#BuckeyeLove" label="#BuckeyeLove" />
+      <node id="#TiredTuesday" label="#TiredTuesday" />
+      <node id="#shale" label="#shale" />
+      <node id="#climate2014" label="#climate2014" />
+      <node id="#funding" label="#funding" />
+      <node id="#Zerowaste" label="#Zerowaste" />
+      <node id="#heatingoil" label="#heatingoil" />
+      <node id="#NationalSecurity" label="#NationalSecurity" />
+      <node id="#ParisAgreement" label="#ParisAgreement" />
+      <node id="#OSUgrad" label="#OSUgrad" />
+      <node id="#AbuDhabi" label="#AbuDhabi" />
+      <node id="#OSUnews" label="#OSUnews" />
+      <node id="#apps" label="#apps" />
+      <node id="#SpeedWeek" label="#SpeedWeek" />
+      <node id="#cng" label="#cng" />
+      <node id="#startups" label="#startups" />
+      <node id="#biggestphoto" label="#biggestphoto" />
+      <node id="#OH" label="#OH" />
+      <node id="#SanjayanOSU" label="#SanjayanOSU" />
+      <node id="#ARPAE15" label="#ARPAE15" />
+      <node id="#windenergy" label="#windenergy" />
+      <node id="#Coal" label="#Coal" />
+      <node id="#climate" label="#climate" />
+      <node id="#oee" label="#oee" />
+      <node id="#DiscoveryMMS" label="#DiscoveryMMS" />
+      <node id="#WindVision" label="#WindVision" />
+      <node id="#VBB3" label="#VBB3" />
+      <node id="#OhioCleanEnergy" label="#OhioCleanEnergy" />
+      <node id="#Flight1" label="#Flight1" />
+      <node id="#WomenInSTEM" label="#WomenInSTEM" />
+      <node id="#Recyclemania" label="#Recyclemania" />
+      <node id="#cleancoal" label="#cleancoal" />
+      <node id="#Bonneville" label="#Bonneville" />
+      <node id="#EarthWildPBS" label="#EarthWildPBS" />
+      <node id="#CO2" label="#CO2" />
+      <node id="#OARDC" label="#OARDC" />
+      <node id="#ohiostate" label="#ohiostate" />
+      <node id="#EarthDay2015" label="#EarthDay2015" />
+      <node id="#EarthDay2016" label="#EarthDay2016" />
+      <node id="#HowEnergyWorks" label="#HowEnergyWorks" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#OSUSERC" label="#OSUSERC" />
+      <node id="#ReusableMug" label="#ReusableMug" />
+      <node id="#BuckeyesGive" label="#BuckeyesGive" />
+      <node id="#GHG" label="#GHG" />
+      <node id="#efficiency" label="#efficiency" />
+      <node id="#beyondgraphene" label="#beyondgraphene" />
+      <node id="#worldrecord" label="#worldrecord" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#Seattle" label="#Seattle" />
+      <node id="#y3comoetition" label="#y3comoetition" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#StoneLab" label="#StoneLab" />
+      <node id="#Sustainability" label="#Sustainability" />
+      <node id="#Turkson" label="#Turkson" />
+      <node id="#GlobalRunningDay" label="#GlobalRunningDay" />
+      <node id="#Si2" label="#Si2" />
+      <node id="#OSUnewprez" label="#OSUnewprez" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#energysaving" label="#energysaving" />
+      <node id="#OSUInnovates" label="#OSUInnovates" />
+      <node id="#DeepDecarbonization" label="#DeepDecarbonization" />
+      <node id="#Solar" label="#Solar" />
+      <node id="#LoveFoodHateWaste" label="#LoveFoodHateWaste" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#ohenergy" label="#ohenergy" />
+      <node id="#Venturi" label="#Venturi" />
+      <node id="#GreenOSU" label="#GreenOSU" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#technology" label="#technology" />
+      <node id="#GreenBuckeye" label="#GreenBuckeye" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#solarimpulse" label="#solarimpulse" />
+      <node id="#CleanEnergyU" label="#CleanEnergyU" />
+      <node id="#Chongqing" label="#Chongqing" />
+      <node id="#BehindTheScenes" label="#BehindTheScenes" />
+      <node id="#y3competition" label="#y3competition" />
+      <node id="#CAROhioDay" label="#CAROhioDay" />
+      <node id="#internships" label="#internships" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#science" label="#science" />
+      <node id="#earthday" label="#earthday" />
+      <node id="#OhioCEC" label="#OhioCEC" />
+      <node id="#electric" label="#electric" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#microgrid" label="#microgrid" />
+      <node id="#influencers" label="#influencers" />
+      <node id="#RandomActsofGreen" label="#RandomActsofGreen" />
+      <node id="#SmartCity" label="#SmartCity" />
+      <node id="#water" label="#water" />
+      <node id="#solarpowered" label="#solarpowered" />
+      <node id="#hurricanes" label="#hurricanes" />
+      <node id="#scholarship" label="#scholarship" />
+      <node id="#nuclearwaste" label="#nuclearwaste" />
+      <node id="#SaltFlats" label="#SaltFlats" />
+      <node id="#wind" label="#wind" />
+      <node id="#climatechange" label="#climatechange" />
+      <node id="#COMPAS" label="#COMPAS" />
+      <node id="#energy" label="#energy" />
+      <node id="#NationalEnergymonth" label="#NationalEnergymonth" />
+      <node id="#health" label="#health" />
+      <node id="#motorcycles" label="#motorcycles" />
+      <node id="#osu" label="#osu" />
+      <node id="#EJinAction" label="#EJinAction" />
+      <node id="#OBICWOW" label="#OBICWOW" />
+      <node id="#osuinnovates" label="#osuinnovates" />
+      <node id="#Oman" label="#Oman" />
+      <node id="#iomtt" label="#iomtt" />
+      <node id="#GreenBuckeyes" label="#GreenBuckeyes" />
+      <node id="#Nuclear" label="#Nuclear" />
+      <node id="#electricCar" label="#electricCar" />
+      <node id="#BuckeyeVoices" label="#BuckeyeVoices" />
+      <node id="#IOMTT" label="#IOMTT" />
+      <node id="#solarenergy" label="#solarenergy" />
+      <node id="#EnergyDataChallenge" label="#EnergyDataChallenge" />
+      <node id="#recycling" label="#recycling" />
+      <node id="#sustainableagriculture" label="#sustainableagriculture" />
+      <node id="#lng" label="#lng" />
+      <node id="#ZeroWaste" label="#ZeroWaste" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#funfriday" label="#funfriday" />
+      <node id="#Buckeye" label="#Buckeye" />
+      <node id="#transportation" label="#transportation" />
+      <node id="#car" label="#car" />
+      <node id="#green" label="#green" />
+      <node id="#news" label="#news" />
+      <node id="#OSUSwitch" label="#OSUSwitch" />
+      <node id="#alliteration" label="#alliteration" />
+      <node id="#oil" label="#oil" />
+      <node id="#electricity" label="#electricity" />
+      <node id="#EcoCAR3" label="#EcoCAR3" />
+      <node id="#EcoCAR2" label="#EcoCAR2" />
+      <node id="#greenOSU" label="#greenOSU" />
+      <node id="#energy2012" label="#energy2012" />
+      <node id="#CampusSustainabilityMonth" label="#CampusSustainabilityMonth" />
+      <node id="#EIA" label="#EIA" />
+      <node id="#students" label="#students" />
+      <node id="#EWSR" label="#EWSR" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#BreakingNews" label="#BreakingNews" />
+      <node id="#endlesshydration" label="#endlesshydration" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#travel" label="#travel" />
+      <node id="#Entrepreneurship" label="#Entrepreneurship" />
+      <node id="#Turksonchat" label="#Turksonchat" />
+      <node id="#GoBiobased" label="#GoBiobased" />
+      <node id="#ActOnClimate" label="#ActOnClimate" />
+      <node id="#sponsors" label="#sponsors" />
+      <node id="#engineering" label="#engineering" />
+      <node id="#OSUinnovates" label="#OSUinnovates" />
+      <node id="#disasters" label="#disasters" />
+      <node id="#solar" label="#solar" />
+      <node id="#ScarletGrayAndGreen" label="#ScarletGrayAndGreen" />
+      <node id="#oilprices" label="#oilprices" />
+      <node id="#storms" label="#storms" />
+      <node id="#AppsforEnergy" label="#AppsforEnergy" />
+      <node id="#ecocar2" label="#ecocar2" />
+      <node id="#Permaculture" label="#Permaculture" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#EcoCAR" label="#EcoCAR" />
+      <node id="#statetour2013" label="#statetour2013" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#windfarm" label="#windfarm" />
+      <node id="#savemoney" label="#savemoney" />
+      <node id="#MarchRecyclingMadness" label="#MarchRecyclingMadness" />
+      <node id="#Iraq" label="#Iraq" />
+      <node id="#CampusSustainabilityWeek" label="#CampusSustainabilityWeek" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#natgas" target="#gasoline" weight="6730" />
+      <edge id="1" source="#natgas" target="#heatingoil" weight="6730" />
+      <edge id="2" source="#natgas" target="#energy" weight="6730" />
+      <edge id="3" source="#natgas" target="#oil" weight="6730" />
+      <edge id="4" source="#natgas" target="#electricity" weight="6730" />
+      <edge id="5" source="#natgas" target="#propane" weight="6730" />
+      <edge id="6" source="#gasoline" target="#energy" weight="6730" />
+      <edge id="7" source="#gasoline" target="#heatingoil" weight="6730" />
+      <edge id="8" source="#gasoline" target="#Energy" weight="1346" />
+      <edge id="9" source="#gasoline" target="#oil" weight="6730" />
+      <edge id="10" source="#gasoline" target="#electricity" weight="6730" />
+      <edge id="11" source="#gasoline" target="#propane" weight="6730" />
+      <edge id="12" source="#openhouse" target="#solarpowered" weight="1346" />
+      <edge id="13" source="#ClimateChange" target="#NationalSecurity" weight="1346" />
+      <edge id="14" source="#Yellowstone" target="#greenOSU" weight="1346" />
+      <edge id="15" source="#manufacturing" target="#Buckeyes" weight="1346" />
+      <edge id="16" source="#manufacturing" target="#Chicago" weight="1346" />
+      <edge id="17" source="#famous" target="#iomtt" weight="1346" />
+      <edge id="18" source="#famous" target="#GoBucks" weight="1346" />
+      <edge id="19" source="#interns" target="#EIA" weight="1346" />
+      <edge id="20" source="#interns" target="#internships" weight="1346" />
+      <edge id="21" source="#interns" target="#students" weight="1346" />
+      <edge id="22" source="#interns" target="#jobs" weight="1346" />
+      <edge id="23" source="#CNG" target="#OSUinnovates" weight="1346" />
+      <edge id="24" source="#CNG" target="#OARDC" weight="1346" />
+      <edge id="25" source="#CNG" target="#Ohio" weight="1346" />
+      <edge id="26" source="#WelcomeOSU" target="#greenOSU" weight="1346" />
+      <edge id="27" source="#buckeyes" target="#SanjayanOSU" weight="1346" />
+      <edge id="28" source="#buckeyes" target="#GlobalRunningDay" weight="1346" />
+      <edge id="29" source="#buckeyes" target="#ZeroWaste" weight="1346" />
+      <edge id="30" source="#buckeyes" target="#greenOSU" weight="1346" />
+      <edge id="31" source="#buckeyes" target="#sustainability" weight="1346" />
+      <edge id="32" source="#EJSCREEN" target="#EJinAction" weight="1346" />
+      <edge id="33" source="#propane" target="#heatingoil" weight="6730" />
+      <edge id="34" source="#propane" target="#energy" weight="6730" />
+      <edge id="35" source="#propane" target="#oil" weight="6730" />
+      <edge id="36" source="#propane" target="#electricity" weight="6730" />
+      <edge id="37" source="#Agriculture" target="#Solar" weight="1346" />
+      <edge id="38" source="#Agriculture" target="#OARDC" weight="1346" />
+      <edge id="39" source="#CFAES" target="#OhioState" weight="2692" />
+      <edge id="40" source="#CFAES" target="#Permaculture" weight="1346" />
+      <edge id="41" source="#CFAES" target="#sustainableagriculture" weight="1346" />
+      <edge id="42" source="#CFAES" target="#sustainability" weight="1346" />
+      <edge id="43" source="#BuckeyeforLife" target="#OSUgrad" weight="1346" />
+      <edge id="44" source="#Chicago" target="#Buckeyes" weight="1346" />
+      <edge id="45" source="#BuckeyeForLife" target="#OSUgrad" weight="1346" />
+      <edge id="46" source="#windpower" target="#Buckeye" weight="1346" />
+      <edge id="47" source="#sciwri14" target="#beyondgraphene" weight="1346" />
+      <edge id="48" source="#sustainable" target="#transportation" weight="1346" />
+      <edge id="49" source="#sustainable" target="#energy" weight="2692" />
+      <edge id="50" source="#sustainable" target="#ThisIsOhioState" weight="1346" />
+      <edge id="51" source="#sustainable" target="#GreenOSU" weight="1346" />
+      <edge id="52" source="#sustainable" target="#GoBucks" weight="1346" />
+      <edge id="53" source="#BuckeyeBullet" target="#SaltFlats" weight="1346" />
+      <edge id="54" source="#BuckeyeBullet" target="#GreenOSU" weight="1346" />
+      <edge id="55" source="#futureisclean" target="#solarimpulse" weight="1346" />
+      <edge id="56" source="#EIAconf" target="#Energy" weight="1346" />
+      <edge id="57" source="#MaterialsWeek" target="#energy" weight="1346" />
+      <edge id="58" source="#zerowaste" target="#greenOSU" weight="1346" />
+      <edge id="59" source="#DiscoverySRE" target="#EarthWildPBS" weight="1346" />
+      <edge id="60" source="#DiscoverySRE" target="#DiscoveryMMS" weight="1346" />
+      <edge id="61" source="#STEM" target="#science" weight="1346" />
+      <edge id="62" source="#STEM" target="#WomenInSTEM" weight="1346" />
+      <edge id="63" source="#ThisIsOhioState" target="#sustainability" weight="1346" />
+      <edge id="64" source="#ThisIsOhioState" target="#energy" weight="1346" />
+      <edge id="65" source="#ThisIsOhioState" target="#transportation" weight="1346" />
+      <edge id="66" source="#BWSC14" target="#OBICWOW" weight="1346" />
+      <edge id="67" source="#BWSC14" target="#GoBiobased" weight="1346" />
+      <edge id="68" source="#BWSC14" target="#sponsors" weight="1346" />
+      <edge id="69" source="#BackToSchool" target="#green" weight="1346" />
+      <edge id="70" source="#FarmDog" target="#OSUSERC" weight="1346" />
+      <edge id="71" source="#FarmDog" target="#shale" weight="1346" />
+      <edge id="72" source="#Energy" target="#Innovation" weight="1346" />
+      <edge id="73" source="#Energy" target="#ARPAE15" weight="1346" />
+      <edge id="74" source="#BuckeyeLove" target="#GreenBuckeyes" weight="1346" />
+      <edge id="75" source="#BuckeyeLove" target="#MarchRecyclingMadness" weight="1346" />
+      <edge id="76" source="#TiredTuesday" target="#ReusableMug" weight="1346" />
+      <edge id="77" source="#shale" target="#OSUSERC" weight="10768" />
+      <edge id="78" source="#climate2014" target="#DeepDecarbonization" weight="1346" />
+      <edge id="79" source="#funding" target="#water" weight="1346" />
+      <edge id="80" source="#funding" target="#osu" weight="1346" />
+      <edge id="81" source="#Zerowaste" target="#scholarship" weight="2692" />
+      <edge id="82" source="#Zerowaste" target="#OSU" weight="1346" />
+      <edge id="83" source="#heatingoil" target="#energy" weight="6730" />
+      <edge id="84" source="#heatingoil" target="#oil" weight="6730" />
+      <edge id="85" source="#heatingoil" target="#electricity" weight="6730" />
+      <edge id="86" source="#ParisAgreement" target="#CleanEnergyU" weight="1346" />
+      <edge id="87" source="#ParisAgreement" target="#EarthDay" weight="2692" />
+      <edge id="88" source="#AbuDhabi" target="#Si2" weight="1346" />
+      <edge id="89" source="#AbuDhabi" target="#Flight1" weight="1346" />
+      <edge id="90" source="#AbuDhabi" target="#Oman" weight="1346" />
+      <edge id="91" source="#OSUnews" target="#VBB3" weight="1346" />
+      <edge id="92" source="#OSUnews" target="#GoBucks" weight="1346" />
+      <edge id="93" source="#apps" target="#EnergyDataChallenge" weight="1346" />
+      <edge id="94" source="#apps" target="#energy" weight="1346" />
+      <edge id="95" source="#apps" target="#AppsforEnergy" weight="1346" />
+      <edge id="96" source="#apps" target="#efficiency" weight="1346" />
+      <edge id="97" source="#SpeedWeek" target="#SaltFlats" weight="1346" />
+      <edge id="98" source="#SpeedWeek" target="#VBB3" weight="1346" />
+      <edge id="99" source="#SpeedWeek" target="#Bonneville" weight="1346" />
+      <edge id="100" source="#cng" target="#lng" weight="1346" />
+      <edge id="101" source="#startups" target="#Entrepreneurship" weight="1346" />
+      <edge id="102" source="#startups" target="#Innovation" weight="1346" />
+      <edge id="103" source="#biggestphoto" target="#OhioState" weight="1346" />
+      <edge id="104" source="#OH" target="#BreakingNews" weight="1346" />
+      <edge id="105" source="#OH" target="#GoBucks" weight="1346" />
+      <edge id="106" source="#ARPAE15" target="#Innovation" weight="1346" />
+      <edge id="107" source="#windenergy" target="#statetour2013" weight="1346" />
+      <edge id="108" source="#Coal" target="#OSUSwitch" weight="1346" />
+      <edge id="109" source="#climate" target="#GreenOSU" weight="1346" />
+      <edge id="110" source="#oee" target="#engineering" weight="1346" />
+      <edge id="111" source="#oee" target="#ecocar2" weight="1346" />
+      <edge id="112" source="#oee" target="#car" weight="1346" />
+      <edge id="113" source="#oee" target="#ohiostate" weight="1346" />
+      <edge id="114" source="#oee" target="#influencers" weight="1346" />
+      <edge id="115" source="#WindVision" target="#wind" weight="1346" />
+      <edge id="116" source="#VBB3" target="#SaltFlats" weight="4038" />
+      <edge id="117" source="#VBB3" target="#electricCar" weight="1346" />
+      <edge id="118" source="#VBB3" target="#EWSR" weight="1346" />
+      <edge id="119" source="#VBB3" target="#Venturi" weight="2692" />
+      <edge id="120" source="#VBB3" target="#Bonneville" weight="4038" />
+      <edge id="121" source="#OhioCleanEnergy" target="#CampusSustainabilityWeek" weight="1346" />
+      <edge id="122" source="#Flight1" target="#Si2" weight="1346" />
+      <edge id="123" source="#Flight1" target="#Oman" weight="1346" />
+      <edge id="124" source="#WomenInSTEM" target="#science" weight="1346" />
+      <edge id="125" source="#Recyclemania" target="#GreenBuckeyes" weight="1346" />
+      <edge id="126" source="#cleancoal" target="#alliteration" weight="1346" />
+      <edge id="127" source="#Bonneville" target="#SaltFlats" weight="4038" />
+      <edge id="128" source="#CO2" target="#energy" weight="1346" />
+      <edge id="129" source="#CO2" target="#GHG" weight="1346" />
+      <edge id="130" source="#OARDC" target="#Solar" weight="1346" />
+      <edge id="131" source="#ohiostate" target="#engineering" weight="1346" />
+      <edge id="132" source="#ohiostate" target="#ecocar2" weight="1346" />
+      <edge id="133" source="#ohiostate" target="#car" weight="1346" />
+      <edge id="134" source="#ohiostate" target="#influencers" weight="1346" />
+      <edge id="135" source="#EarthDay2015" target="#RandomActsofGreen" weight="1346" />
+      <edge id="136" source="#EarthDay2016" target="#OhioState" weight="1346" />
+      <edge id="137" source="#HowEnergyWorks" target="#microgrid" weight="1346" />
+      <edge id="138" source="#Buckeyes" target="#windfarm" weight="1346" />
+      <edge id="139" source="#Buckeyes" target="#greenOSU" weight="1346" />
+      <edge id="140" source="#BuckeyesGive" target="#GivingTuesday" weight="1346" />
+      <edge id="141" source="#GHG" target="#energy" weight="1346" />
+      <edge id="142" source="#efficiency" target="#EnergyDataChallenge" weight="1346" />
+      <edge id="143" source="#efficiency" target="#energy" weight="1346" />
+      <edge id="144" source="#efficiency" target="#AppsforEnergy" weight="1346" />
+      <edge id="145" source="#worldrecord" target="#GoBucks" weight="1346" />
+      <edge id="146" source="#worldrecord" target="#electric" weight="1346" />
+      <edge id="147" source="#TBT" target="#StoneLab" weight="1346" />
+      <edge id="148" source="#Seattle" target="#EcoCAR3" weight="1346" />
+      <edge id="149" source="#y3comoetition" target="#ecocar2" weight="1346" />
+      <edge id="150" source="#y3comoetition" target="#BreakingNews" weight="1346" />
+      <edge id="151" source="#y3comoetition" target="#GoBucks" weight="1346" />
+      <edge id="152" source="#DYK" target="#greenOSU" weight="1346" />
+      <edge id="153" source="#Sustainability" target="#COMPAS" weight="1346" />
+      <edge id="154" source="#Turkson" target="#Turksonchat" weight="1346" />
+      <edge id="155" source="#Turkson" target="#sustainability" weight="1346" />
+      <edge id="156" source="#Si2" target="#Oman" weight="1346" />
+      <edge id="157" source="#OSUnewprez" target="#OhioState" weight="1346" />
+      <edge id="158" source="#OSUnewprez" target="#BehindTheScenes" weight="1346" />
+      <edge id="159" source="#GoBucks" target="#OSUInnovates" weight="1346" />
+      <edge id="160" source="#GoBucks" target="#iomtt" weight="1346" />
+      <edge id="161" source="#GoBucks" target="#BuckeyeVoices" weight="1346" />
+      <edge id="162" source="#GoBucks" target="#BreakingNews" weight="2692" />
+      <edge id="163" source="#GoBucks" target="#EcoCAR2" weight="2692" />
+      <edge id="164" source="#GoBucks" target="#electric" weight="1346" />
+      <edge id="165" source="#GoBucks" target="#ecocar2" weight="1346" />
+      <edge id="166" source="#GoBucks" target="#GreenOSU" weight="1346" />
+      <edge id="167" source="#energysaving" target="#OSU" weight="1346" />
+      <edge id="168" source="#LoveFoodHateWaste" target="#energy" weight="1346" />
+      <edge id="169" source="#SmartColumbus" target="#SmartCity" weight="1346" />
+      <edge id="170" source="#SmartColumbus" target="#Columbus" weight="1346" />
+      <edge id="171" source="#ohenergy" target="#OhioCEC" weight="12114" />
+      <edge id="172" source="#Venturi" target="#electricCar" weight="1346" />
+      <edge id="173" source="#Venturi" target="#EWSR" weight="1346" />
+      <edge id="174" source="#GreenOSU" target="#sustainability" weight="1346" />
+      <edge id="175" source="#StPatricksDay" target="#energy" weight="2692" />
+      <edge id="176" source="#technology" target="#recycling" weight="1346" />
+      <edge id="177" source="#GreenBuckeye" target="#recycling" weight="1346" />
+      <edge id="178" source="#jobs" target="#EIA" weight="1346" />
+      <edge id="179" source="#jobs" target="#internships" weight="1346" />
+      <edge id="180" source="#jobs" target="#students" weight="1346" />
+      <edge id="181" source="#CleanEnergyU" target="#EarthDay" weight="1346" />
+      <edge id="182" source="#Chongqing" target="#solarenergy" weight="1346" />
+      <edge id="183" source="#BehindTheScenes" target="#OhioState" weight="1346" />
+      <edge id="184" source="#y3competition" target="#ecocar2" weight="2692" />
+      <edge id="185" source="#CAROhioDay" target="#EcoCAR2" weight="1346" />
+      <edge id="186" source="#internships" target="#students" weight="1346" />
+      <edge id="187" source="#internships" target="#EIA" weight="1346" />
+      <edge id="188" source="#earthday" target="#greenOSU" weight="1346" />
+      <edge id="189" source="#electric" target="#motorcycles" weight="1346" />
+      <edge id="190" source="#electric" target="#IOMTT" weight="1346" />
+      <edge id="191" source="#OSU" target="#scholarship" weight="1346" />
+      <edge id="192" source="#influencers" target="#engineering" weight="1346" />
+      <edge id="193" source="#influencers" target="#ecocar2" weight="1346" />
+      <edge id="194" source="#influencers" target="#car" weight="1346" />
+      <edge id="195" source="#SmartCity" target="#Columbus" weight="1346" />
+      <edge id="196" source="#water" target="#osu" weight="1346" />
+      <edge id="197" source="#hurricanes" target="#oil" weight="1346" />
+      <edge id="198" source="#hurricanes" target="#EIA" weight="1346" />
+      <edge id="199" source="#hurricanes" target="#energy" weight="1346" />
+      <edge id="200" source="#hurricanes" target="#storms" weight="1346" />
+      <edge id="201" source="#nuclearwaste" target="#greenOSU" weight="1346" />
+      <edge id="202" source="#climatechange" target="#ActOnClimate" weight="1346" />
+      <edge id="203" source="#energy" target="#transportation" weight="1346" />
+      <edge id="204" source="#energy" target="#oilprices" weight="1346" />
+      <edge id="205" source="#energy" target="#electricity" weight="8076" />
+      <edge id="206" source="#energy" target="#EIA" weight="1346" />
+      <edge id="207" source="#energy" target="#Iraq" weight="1346" />
+      <edge id="208" source="#energy" target="#OhioState" weight="1346" />
+      <edge id="209" source="#energy" target="#storms" weight="1346" />
+      <edge id="210" source="#energy" target="#AppsforEnergy" weight="1346" />
+      <edge id="211" source="#energy" target="#sustainability" weight="1346" />
+      <edge id="212" source="#energy" target="#oil" weight="9422" />
+      <edge id="213" source="#energy" target="#EnergyDataChallenge" weight="1346" />
+      <edge id="214" source="#NationalEnergymonth" target="#savemoney" weight="1346" />
+      <edge id="215" source="#health" target="#disasters" weight="1346" />
+      <edge id="216" source="#motorcycles" target="#IOMTT" weight="1346" />
+      <edge id="217" source="#OBICWOW" target="#GoBiobased" weight="1346" />
+      <edge id="218" source="#osuinnovates" target="#Columbus" weight="1346" />
+      <edge id="219" source="#GreenBuckeyes" target="#MarchRecyclingMadness" weight="1346" />
+      <edge id="220" source="#Nuclear" target="#OSUSwitch" weight="1346" />
+      <edge id="221" source="#electricCar" target="#EWSR" weight="1346" />
+      <edge id="222" source="#BuckeyeVoices" target="#EcoCAR" weight="1346" />
+      <edge id="223" source="#EnergyDataChallenge" target="#AppsforEnergy" weight="1346" />
+      <edge id="224" source="#recycling" target="#greenOSU" weight="1346" />
+      <edge id="225" source="#sustainableagriculture" target="#OhioState" weight="1346" />
+      <edge id="226" source="#sustainableagriculture" target="#Permaculture" weight="1346" />
+      <edge id="227" source="#funfriday" target="#solar" weight="2692" />
+      <edge id="228" source="#car" target="#engineering" weight="1346" />
+      <edge id="229" source="#car" target="#ecocar2" weight="1346" />
+      <edge id="230" source="#green" target="#news" weight="2692" />
+      <edge id="231" source="#oil" target="#EIA" weight="1346" />
+      <edge id="232" source="#oil" target="#Iraq" weight="1346" />
+      <edge id="233" source="#oil" target="#storms" weight="1346" />
+      <edge id="234" source="#oil" target="#oilprices" weight="1346" />
+      <edge id="235" source="#oil" target="#electricity" weight="6730" />
+      <edge id="236" source="#greenOSU" target="#sustainability" weight="9422" />
+      <edge id="237" source="#greenOSU" target="#EarthDay" weight="1346" />
+      <edge id="238" source="#energy2012" target="#energy2012" weight="2692" />
+      <edge id="239" source="#CampusSustainabilityMonth" target="#sustainability" weight="1346" />
+      <edge id="240" source="#EIA" target="#students" weight="1346" />
+      <edge id="241" source="#EIA" target="#storms" weight="1346" />
+      <edge id="242" source="#OhioState" target="#sustainability" weight="4038" />
+      <edge id="243" source="#OhioState" target="#Columbus" weight="2692" />
+      <edge id="244" source="#OhioState" target="#Permaculture" weight="1346" />
+      <edge id="245" source="#BreakingNews" target="#ecocar2" weight="1346" />
+      <edge id="246" source="#endlesshydration" target="#solar" weight="1346" />
+      <edge id="247" source="#Innovation" target="#Entrepreneurship" weight="1346" />
+      <edge id="248" source="#travel" target="#sustainability" weight="1346" />
+      <edge id="249" source="#GoBiobased" target="#sustainability" weight="1346" />
+      <edge id="250" source="#engineering" target="#ecocar2" weight="1346" />
+      <edge id="251" source="#ScarletGrayAndGreen" target="#CampusSustainabilityWeek" weight="1346" />
+      <edge id="252" source="#oilprices" target="#Iraq" weight="1346" />
+      <edge id="253" source="#Columbus" target="#sustainability" weight="2692" />
+    </edges>
+  </graph>
+</gexf>

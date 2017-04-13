@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#craftbeerporn" label="#craftbeerporn" />
+      <node id="#beer" label="#beer" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#brewer" label="#brewer" />
+      <node id="#brewery" label="#brewery" />
+      <node id="#beerscenery" label="#beerscenery" />
+      <node id="#Olympics2016" label="#Olympics2016" />
+      <node id="#beerporn" label="#beerporn" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Rio2016" target="#Olympics2016" weight="2952" />
+      <edge id="1" source="#craftbeerporn" target="#beer" weight="2952" />
+      <edge id="2" source="#craftbeerporn" target="#beerporn" weight="2952" />
+      <edge id="3" source="#craftbeerporn" target="#brewer" weight="2952" />
+      <edge id="4" source="#craftbeerporn" target="#brewery" weight="2952" />
+      <edge id="5" source="#craftbeerporn" target="#beerscenery" weight="2952" />
+      <edge id="6" source="#craftbeerporn" target="#craftbeer" weight="2952" />
+      <edge id="7" source="#beer" target="#beerporn" weight="2952" />
+      <edge id="8" source="#beer" target="#brewer" weight="2952" />
+      <edge id="9" source="#beer" target="#brewery" weight="2952" />
+      <edge id="10" source="#beer" target="#beerscenery" weight="2952" />
+      <edge id="11" source="#beer" target="#craftbeer" weight="2952" />
+      <edge id="12" source="#craftbeer" target="#beerporn" weight="2952" />
+      <edge id="13" source="#craftbeer" target="#brewer" weight="2952" />
+      <edge id="14" source="#craftbeer" target="#brewery" weight="2952" />
+      <edge id="15" source="#craftbeer" target="#beerscenery" weight="2952" />
+      <edge id="16" source="#brewer" target="#brewery" weight="2952" />
+      <edge id="17" source="#brewer" target="#beerscenery" weight="2952" />
+      <edge id="18" source="#brewer" target="#beerporn" weight="2952" />
+      <edge id="19" source="#brewery" target="#beerporn" weight="2952" />
+      <edge id="20" source="#brewery" target="#beerscenery" weight="2952" />
+      <edge id="21" source="#beerscenery" target="#beerporn" weight="2952" />
+    </edges>
+  </graph>
+</gexf>

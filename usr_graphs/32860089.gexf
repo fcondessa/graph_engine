@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Canes" label="#Canes" />
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#Hockey" label="#Hockey" />
+      <node id="#Leafs" label="#Leafs" />
+      <node id="#mnwild" label="#mnwild" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#Minnesota" label="#Minnesota" />
+      <node id="#HNIC" label="#HNIC" />
+      <node id="#fb" label="#fb" />
+      <node id="#Flyers" label="#Flyers" />
+      <node id="#nhl" label="#nhl" />
+      <node id="#hdia" label="#hdia" />
+      <node id="#ECHL" label="#ECHL" />
+      <node id="#Gopher" label="#Gopher" />
+      <node id="#Pens" label="#Pens" />
+      <node id="#Isles" label="#Isles" />
+      <node id="#LAKings" label="#LAKings" />
+      <node id="#qmjhl" label="#qmjhl" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Canes" target="#Leafs" weight="186" />
+      <edge id="1" source="#Canes" target="#HNIC" weight="186" />
+      <edge id="2" source="#Canes" target="#Flyers" weight="186" />
+      <edge id="3" source="#Canes" target="#Pens" weight="186" />
+      <edge id="4" source="#Canes" target="#Isles" weight="186" />
+      <edge id="5" source="#Canes" target="#LAKings" weight="186" />
+      <edge id="6" source="#Canes" target="#NHL" weight="186" />
+      <edge id="7" source="#superbowl" target="#nhl" weight="186" />
+      <edge id="8" source="#Hockey" target="#NHL" weight="186" />
+      <edge id="9" source="#Leafs" target="#Pens" weight="186" />
+      <edge id="10" source="#Leafs" target="#HNIC" weight="186" />
+      <edge id="11" source="#Leafs" target="#Flyers" weight="186" />
+      <edge id="12" source="#mnwild" target="#Gopher" weight="186" />
+      <edge id="13" source="#mnwild" target="#NHL" weight="372" />
+      <edge id="14" source="#mnwild" target="#nhl" weight="372" />
+      <edge id="15" source="#NHL" target="#Isles" weight="186" />
+      <edge id="16" source="#NHL" target="#Minnesota" weight="186" />
+      <edge id="17" source="#NHL" target="#Gopher" weight="186" />
+      <edge id="18" source="#NHL" target="#LAKings" weight="186" />
+      <edge id="19" source="#HNIC" target="#Pens" weight="186" />
+      <edge id="20" source="#HNIC" target="#Flyers" weight="186" />
+      <edge id="21" source="#fb" target="#qmjhl" weight="186" />
+      <edge id="22" source="#Flyers" target="#Pens" weight="186" />
+      <edge id="23" source="#hdia" target="#ECHL" weight="1674" />
+      <edge id="24" source="#Isles" target="#LAKings" weight="186" />
+    </edges>
+  </graph>
+</gexf>

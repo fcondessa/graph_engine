@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#soexcited" label="#soexcited" />
+      <node id="#yourswasdeclarativenotdeclaritive" label="#yourswasdeclarativenotdeclaritive" />
+      <node id="#ew" label="#ew" />
+      <node id="#outofit" label="#outofit" />
+      <node id="#northwestern" label="#northwestern" />
+      <node id="#lovehim" label="#lovehim" />
+      <node id="#yum" label="#yum" />
+      <node id="#onlyinspringfield" label="#onlyinspringfield" />
+      <node id="#confrontyourfear" label="#confrontyourfear" />
+      <node id="#noonelikesgoodmusicanymore" label="#noonelikesgoodmusicanymore" />
+      <node id="#gorgeous" label="#gorgeous" />
+      <node id="#Creed" label="#Creed" />
+      <node id="#suchadweeb" label="#suchadweeb" />
+      <node id="#grammar" label="#grammar" />
+      <node id="#knoxvillemusic" label="#knoxvillemusic" />
+      <node id="#reallybadbands" label="#reallybadbands" />
+      <node id="#igothim" label="#igothim" />
+      <node id="#Medill" label="#Medill" />
+      <node id="#Notthesamedude" label="#Notthesamedude" />
+      <node id="#6millionbeliebers" label="#6millionbeliebers" />
+      <node id="#dork" label="#dork" />
+      <node id="#bieber" label="#bieber" />
+      <node id="#allalone" label="#allalone" />
+      <node id="#wasteofpaper" label="#wasteofpaper" />
+      <node id="#Lost" label="#Lost" />
+      <node id="#emos" label="#emos" />
+      <node id="#sad" label="#sad" />
+      <node id="#offduty" label="#offduty" />
+      <node id="#editor" label="#editor" />
+      <node id="#cantstopediting" label="#cantstopediting" />
+      <node id="#cobain" label="#cobain" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#sxsw" target="#emos" weight="2095" />
+      <edge id="1" source="#sxsw" target="#yum" weight="2095" />
+      <edge id="2" source="#sxsw" target="#knoxvillemusic" weight="2095" />
+      <edge id="3" source="#soexcited" target="#suchadweeb" weight="2095" />
+      <edge id="4" source="#yourswasdeclarativenotdeclaritive" target="#cantstopediting" weight="2095" />
+      <edge id="5" source="#ew" target="#grammar" weight="2095" />
+      <edge id="6" source="#outofit" target="#6millionbeliebers" weight="2095" />
+      <edge id="7" source="#northwestern" target="#Medill" weight="2095" />
+      <edge id="8" source="#lovehim" target="#allalone" weight="2095" />
+      <edge id="9" source="#onlyinspringfield" target="#offduty" weight="2095" />
+      <edge id="10" source="#confrontyourfear" target="#gorgeous" weight="2095" />
+      <edge id="11" source="#noonelikesgoodmusicanymore" target="#sad" weight="2095" />
+      <edge id="12" source="#Creed" target="#reallybadbands" weight="2095" />
+      <edge id="13" source="#igothim" target="#wasteofpaper" weight="2095" />
+      <edge id="14" source="#Notthesamedude" target="#Lost" weight="2095" />
+      <edge id="15" source="#dork" target="#editor" weight="2095" />
+      <edge id="16" source="#bieber" target="#cobain" weight="2095" />
+    </edges>
+  </graph>
+</gexf>

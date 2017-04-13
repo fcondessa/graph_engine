@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#noitisnot" label="#noitisnot" />
+      <node id="#Pandas" label="#Pandas" />
+      <node id="#filmliveshere" label="#filmliveshere" />
+      <node id="#infrontofbrickwall" label="#infrontofbrickwall" />
+      <node id="#rimshot" label="#rimshot" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#groan" label="#groan" />
+      <node id="#debate" label="#debate" />
+      <node id="#jamesspader" label="#jamesspader" />
+      <node id="#CLEVELAND" label="#CLEVELAND" />
+      <node id="#NationalChampionship" label="#NationalChampionship" />
+      <node id="#ChappieMovie" label="#ChappieMovie" />
+      <node id="#RoboCop" label="#RoboCop" />
+      <node id="#WexDriveIn" label="#WexDriveIn" />
+      <node id="#ohmyopia" label="#ohmyopia" />
+      <node id="#Questions" label="#Questions" />
+      <node id="#shred" label="#shred" />
+      <node id="#VonTrierSports" label="#VonTrierSports" />
+      <node id="#NewWorldPictures" label="#NewWorldPictures" />
+      <node id="#Oscar2013" label="#Oscar2013" />
+      <node id="#cantlivewithoutyourloveandaffection" label="#cantlivewithoutyourloveandaffection" />
+      <node id="#rolledupsportscoatsleeves" label="#rolledupsportscoatsleeves" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#dudikoff" label="#dudikoff" />
+      <node id="#tooloudtooold" label="#tooloudtooold" />
+      <node id="#Oscar" label="#Oscar" />
+      <node id="#KeepIronEagleCanonReal" label="#KeepIronEagleCanonReal" />
+      <node id="#devo" label="#devo" />
+      <node id="#COLUMBUS" label="#COLUMBUS" />
+      <node id="#signs" label="#signs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#noitisnot" target="#dudikoff" weight="464" />
+      <edge id="1" source="#Pandas" target="#Questions" weight="464" />
+      <edge id="2" source="#filmliveshere" target="#WexDriveIn" weight="464" />
+      <edge id="3" source="#infrontofbrickwall" target="#groan" weight="464" />
+      <edge id="4" source="#infrontofbrickwall" target="#rimshot" weight="464" />
+      <edge id="5" source="#infrontofbrickwall" target="#rolledupsportscoatsleeves" weight="464" />
+      <edge id="6" source="#rimshot" target="#groan" weight="928" />
+      <edge id="7" source="#rimshot" target="#rolledupsportscoatsleeves" weight="464" />
+      <edge id="8" source="#GoBucks" target="#VonTrierSports" weight="464" />
+      <edge id="9" source="#GoBucks" target="#NationalChampionship" weight="464" />
+      <edge id="10" source="#groan" target="#rolledupsportscoatsleeves" weight="464" />
+      <edge id="11" source="#debate" target="#signs" weight="464" />
+      <edge id="12" source="#debate" target="#RoboCop" weight="464" />
+      <edge id="13" source="#jamesspader" target="#NewWorldPictures" weight="464" />
+      <edge id="14" source="#CLEVELAND" target="#COLUMBUS" weight="464" />
+      <edge id="15" source="#NationalChampionship" target="#VonTrierSports" weight="464" />
+      <edge id="16" source="#ChappieMovie" target="#KeepIronEagleCanonReal" weight="464" />
+      <edge id="17" source="#ohmyopia" target="#devo" weight="464" />
+      <edge id="18" source="#shred" target="#tooloudtooold" weight="464" />
+      <edge id="19" source="#Oscar2013" target="#cantlivewithoutyourloveandaffection" weight="464" />
+      <edge id="20" source="#Oscars" target="#Oscar" weight="464" />
+    </edges>
+  </graph>
+</gexf>

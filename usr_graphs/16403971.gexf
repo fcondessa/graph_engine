@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#napa" label="#napa" />
+      <node id="#flxwine" label="#flxwine" />
+      <node id="#wine" label="#wine" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#smallbusiness" label="#smallbusiness" />
+      <node id="#local" label="#local" />
+      <node id="#marketing" label="#marketing" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#napa" target="#flxwine" weight="3235" />
+      <edge id="1" source="#napa" target="#wine" weight="3235" />
+      <edge id="2" source="#flxwine" target="#wine" weight="3235" />
+      <edge id="3" source="#smallbiz" target="#marketing" weight="3235" />
+      <edge id="4" source="#smallbusiness" target="#local" weight="3235" />
+    </edges>
+  </graph>
+</gexf>

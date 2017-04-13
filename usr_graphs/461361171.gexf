@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#rain" label="#rain" />
+      <node id="#3Dprinting" label="#3Dprinting" />
+      <node id="#Phoenix" label="#Phoenix" />
+      <node id="#LAWX" label="#LAWX" />
+      <node id="#blizzard2016" label="#blizzard2016" />
+      <node id="#astronomy" label="#astronomy" />
+      <node id="#clouds" label="#clouds" />
+      <node id="#langurs" label="#langurs" />
+      <node id="#laflood" label="#laflood" />
+      <node id="#KilbourneProud" label="#KilbourneProud" />
+      <node id="#ClassOf2020" label="#ClassOf2020" />
+      <node id="#Swamped" label="#Swamped" />
+      <node id="#SpringBreak" label="#SpringBreak" />
+      <node id="#NewYork" label="#NewYork" />
+      <node id="#GoodNight" label="#GoodNight" />
+      <node id="#thundersnow" label="#thundersnow" />
+      <node id="#Washington" label="#Washington" />
+      <node id="#Caturday" label="#Caturday" />
+      <node id="#TellCanadaThankYou" label="#TellCanadaThankYou" />
+      <node id="#gjps" label="#gjps" />
+      <node id="#10tv" label="#10tv" />
+      <node id="#hometownheroes" label="#hometownheroes" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#MilkyWay" label="#MilkyWay" />
+      <node id="#space" label="#space" />
+      <node id="#gratitude" label="#gratitude" />
+      <node id="#EdTech" label="#EdTech" />
+      <node id="#BackToSchool" label="#BackToSchool" />
+      <node id="#NewZealand" label="#NewZealand" />
+      <node id="#TellAmericaItsGreat" label="#TellAmericaItsGreat" />
+      <node id="#lion" label="#lion" />
+      <node id="#goteam" label="#goteam" />
+      <node id="#galaxy" label="#galaxy" />
+      <node id="#GMHS" label="#GMHS" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#Earth" label="#Earth" />
+      <node id="#NewYorkCity" label="#NewYorkCity" />
+      <node id="#snowmaggedon2016" label="#snowmaggedon2016" />
+      <node id="#principalproblems" label="#principalproblems" />
+      <node id="#Classof2020" label="#Classof2020" />
+      <node id="#teens" label="#teens" />
+      <node id="#zooborns" label="#zooborns" />
+      <node id="#Snowzilla" label="#Snowzilla" />
+      <node id="#storms" label="#storms" />
+      <node id="#GoshenLaneES" label="#GoshenLaneES" />
+      <node id="#auroraborealis" label="#auroraborealis" />
+      <node id="#unicorn" label="#unicorn" />
+      <node id="#SpaceFlower" label="#SpaceFlower" />
+      <node id="#SpiritofCCS" label="#SpiritofCCS" />
+      <node id="#ohapme2016" label="#ohapme2016" />
+      <node id="#Dunedinisgreat" label="#Dunedinisgreat" />
+      <node id="#Aurora" label="#Aurora" />
+      <node id="#narwhal" label="#narwhal" />
+      <node id="#dublin" label="#dublin" />
+      <node id="#ColumbusZoo" label="#ColumbusZoo" />
+      <node id="#ItsWorthIt" label="#ItsWorthIt" />
+      <node id="#SpiritOfCCS" label="#SpiritOfCCS" />
+      <node id="#Homecoming" label="#Homecoming" />
+      <node id="#thefutureisbright" label="#thefutureisbright" />
+      <node id="#MerryChristmas" label="#MerryChristmas" />
+      <node id="#safety" label="#safety" />
+      <node id="#dresscode" label="#dresscode" />
+      <node id="#zinnia" label="#zinnia" />
+      <node id="#tellamericaitsgreat" label="#tellamericaitsgreat" />
+      <node id="#Back2School" label="#Back2School" />
+      <node id="#YearInSpace" label="#YearInSpace" />
+      <node id="#deerintheheadlights" label="#deerintheheadlights" />
+      <node id="#partylikeajournalist" label="#partylikeajournalist" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#rain" target="#Phoenix" weight="1401" />
+      <edge id="1" source="#rain" target="#storms" weight="1401" />
+      <edge id="2" source="#3Dprinting" target="#EdTech" weight="1401" />
+      <edge id="3" source="#Phoenix" target="#storms" weight="1401" />
+      <edge id="4" source="#LAWX" target="#laflood" weight="1401" />
+      <edge id="5" source="#LAWX" target="#Swamped" weight="1401" />
+      <edge id="6" source="#blizzard2016" target="#Snowzilla" weight="1401" />
+      <edge id="7" source="#blizzard2016" target="#thundersnow" weight="1401" />
+      <edge id="8" source="#blizzard2016" target="#snowmaggedon2016" weight="1401" />
+      <edge id="9" source="#blizzard2016" target="#YearInSpace" weight="1401" />
+      <edge id="10" source="#astronomy" target="#galaxy" weight="1401" />
+      <edge id="11" source="#astronomy" target="#NewZealand" weight="1401" />
+      <edge id="12" source="#astronomy" target="#Dunedinisgreat" weight="1401" />
+      <edge id="13" source="#clouds" target="#NewYork" weight="1401" />
+      <edge id="14" source="#clouds" target="#NYC" weight="1401" />
+      <edge id="15" source="#clouds" target="#NewYorkCity" weight="1401" />
+      <edge id="16" source="#langurs" target="#zooborns" weight="1401" />
+      <edge id="17" source="#laflood" target="#Swamped" weight="1401" />
+      <edge id="18" source="#KilbourneProud" target="#ItsWorthIt" weight="1401" />
+      <edge id="19" source="#KilbourneProud" target="#ClassOf2020" weight="1401" />
+      <edge id="20" source="#ClassOf2020" target="#ItsWorthIt" weight="1401" />
+      <edge id="21" source="#SpringBreak" target="#teens" weight="1401" />
+      <edge id="22" source="#SpringBreak" target="#safety" weight="1401" />
+      <edge id="23" source="#NewYork" target="#NYC" weight="1401" />
+      <edge id="24" source="#NewYork" target="#NewYorkCity" weight="1401" />
+      <edge id="25" source="#GoodNight" target="#Aurora" weight="1401" />
+      <edge id="26" source="#GoodNight" target="#YearInSpace" weight="4203" />
+      <edge id="27" source="#GoodNight" target="#gratitude" weight="1401" />
+      <edge id="28" source="#GoodNight" target="#MilkyWay" weight="1401" />
+      <edge id="29" source="#thundersnow" target="#snowmaggedon2016" weight="1401" />
+      <edge id="30" source="#thundersnow" target="#Snowzilla" weight="1401" />
+      <edge id="31" source="#thundersnow" target="#YearInSpace" weight="1401" />
+      <edge id="32" source="#Washington" target="#space" weight="1401" />
+      <edge id="33" source="#Caturday" target="#zooborns" weight="1401" />
+      <edge id="34" source="#Caturday" target="#ColumbusZoo" weight="1401" />
+      <edge id="35" source="#Caturday" target="#lion" weight="1401" />
+      <edge id="36" source="#TellCanadaThankYou" target="#TellAmericaItsGreat" weight="1401" />
+      <edge id="37" source="#TellCanadaThankYou" target="#tellamericaitsgreat" weight="1401" />
+      <edge id="38" source="#gjps" target="#GoshenLaneES" weight="1401" />
+      <edge id="39" source="#10tv" target="#auroraborealis" weight="1401" />
+      <edge id="40" source="#hometownheroes" target="#deerintheheadlights" weight="1401" />
+      <edge id="41" source="#EarthDay" target="#YearInSpace" weight="1401" />
+      <edge id="42" source="#MilkyWay" target="#YearInSpace" weight="1401" />
+      <edge id="43" source="#gratitude" target="#YearInSpace" weight="1401" />
+      <edge id="44" source="#BackToSchool" target="#dublin" weight="1401" />
+      <edge id="45" source="#NewZealand" target="#galaxy" weight="1401" />
+      <edge id="46" source="#NewZealand" target="#Dunedinisgreat" weight="1401" />
+      <edge id="47" source="#lion" target="#zooborns" weight="1401" />
+      <edge id="48" source="#lion" target="#ColumbusZoo" weight="1401" />
+      <edge id="49" source="#goteam" target="#ohapme2016" weight="1401" />
+      <edge id="50" source="#goteam" target="#partylikeajournalist" weight="1401" />
+      <edge id="51" source="#galaxy" target="#Dunedinisgreat" weight="1401" />
+      <edge id="52" source="#GMHS" target="#Classof2020" weight="1401" />
+      <edge id="53" source="#GMHS" target="#thefutureisbright" weight="1401" />
+      <edge id="54" source="#NYC" target="#NewYorkCity" weight="1401" />
+      <edge id="55" source="#Earth" target="#Aurora" weight="1401" />
+      <edge id="56" source="#Earth" target="#YearInSpace" weight="1401" />
+      <edge id="57" source="#snowmaggedon2016" target="#Snowzilla" weight="1401" />
+      <edge id="58" source="#snowmaggedon2016" target="#YearInSpace" weight="1401" />
+      <edge id="59" source="#principalproblems" target="#dresscode" weight="1401" />
+      <edge id="60" source="#Classof2020" target="#thefutureisbright" weight="1401" />
+      <edge id="61" source="#teens" target="#safety" weight="1401" />
+      <edge id="62" source="#zooborns" target="#ColumbusZoo" weight="1401" />
+      <edge id="63" source="#Snowzilla" target="#YearInSpace" weight="1401" />
+      <edge id="64" source="#unicorn" target="#narwhal" weight="1401" />
+      <edge id="65" source="#SpaceFlower" target="#zinnia" weight="1401" />
+      <edge id="66" source="#SpaceFlower" target="#YearInSpace" weight="1401" />
+      <edge id="67" source="#SpiritofCCS" target="#Homecoming" weight="1401" />
+      <edge id="68" source="#ohapme2016" target="#partylikeajournalist" weight="1401" />
+      <edge id="69" source="#Aurora" target="#YearInSpace" weight="2802" />
+      <edge id="70" source="#SpiritOfCCS" target="#Back2School" weight="1401" />
+      <edge id="71" source="#MerryChristmas" target="#YearInSpace" weight="1401" />
+      <edge id="72" source="#zinnia" target="#YearInSpace" weight="1401" />
+    </edges>
+  </graph>
+</gexf>

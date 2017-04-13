@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#timanderic" label="#timanderic" />
+      <node id="#youcandobetter" label="#youcandobetter" />
+      <node id="#AskCBUS" label="#AskCBUS" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#hatrape" label="#hatrape" />
+      <node id="#salvationarmy" label="#salvationarmy" />
+      <node id="#markup" label="#markup" />
+      <node id="#ratsnest" label="#ratsnest" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#DOTSmartCity" label="#DOTSmartCity" />
+      <node id="#dyson" label="#dyson" />
+      <node id="#germanvillage" label="#germanvillage" />
+      <node id="#3dprinting" label="#3dprinting" />
+      <node id="#nomoreclutter" label="#nomoreclutter" />
+      <node id="#MindLeaders" label="#MindLeaders" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#timanderic" target="#MindLeaders" weight="138" />
+      <edge id="1" source="#youcandobetter" target="#ratsnest" weight="138" />
+      <edge id="2" source="#youcandobetter" target="#germanvillage" weight="138" />
+      <edge id="3" source="#AskCBUS" target="#SmartColumbus" weight="138" />
+      <edge id="4" source="#AskCBUS" target="#DOTSmartCity" weight="138" />
+      <edge id="5" source="#Christmas" target="#salvationarmy" weight="276" />
+      <edge id="6" source="#hatrape" target="#markup" weight="138" />
+      <edge id="7" source="#ratsnest" target="#germanvillage" weight="138" />
+      <edge id="8" source="#SmartColumbus" target="#DOTSmartCity" weight="138" />
+      <edge id="9" source="#dyson" target="#nomoreclutter" weight="138" />
+      <edge id="10" source="#dyson" target="#3dprinting" weight="138" />
+      <edge id="11" source="#3dprinting" target="#nomoreclutter" weight="138" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,593 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#emergency" label="#emergency" />
+      <node id="#Love" label="#Love" />
+      <node id="#pay" label="#pay" />
+      <node id="#Hazard" label="#Hazard" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#Katrina" label="#Katrina" />
+      <node id="#hoopless" label="#hoopless" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#NFPAConf" label="#NFPAConf" />
+      <node id="#4thofJuly" label="#4thofJuly" />
+      <node id="#webjobs" label="#webjobs" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#tornado" label="#tornado" />
+      <node id="#TIKE" label="#TIKE" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#AllTimeFav" label="#AllTimeFav" />
+      <node id="#personalfinance" label="#personalfinance" />
+      <node id="#DistractedDriver" label="#DistractedDriver" />
+      <node id="#digitaljob" label="#digitaljob" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#flood" label="#flood" />
+      <node id="#vday" label="#vday" />
+      <node id="#BuckeyeState" label="#BuckeyeState" />
+      <node id="#caradvice" label="#caradvice" />
+      <node id="#teacher" label="#teacher" />
+      <node id="#May4" label="#May4" />
+      <node id="#ncaa" label="#ncaa" />
+      <node id="#NY" label="#NY" />
+      <node id="#helmet" label="#helmet" />
+      <node id="#BUCN" label="#BUCN" />
+      <node id="#HFHSC" label="#HFHSC" />
+      <node id="#NoFaultReform" label="#NoFaultReform" />
+      <node id="#NotLMFAO" label="#NotLMFAO" />
+      <node id="#insured" label="#insured" />
+      <node id="#NJ" label="#NJ" />
+      <node id="#specialneeds" label="#specialneeds" />
+      <node id="#freebies" label="#freebies" />
+      <node id="#rain" label="#rain" />
+      <node id="#Uber" label="#Uber" />
+      <node id="#KennywoodPark" label="#KennywoodPark" />
+      <node id="#HandyTool" label="#HandyTool" />
+      <node id="#ff" label="#ff" />
+      <node id="#CueTheComeback" label="#CueTheComeback" />
+      <node id="#NatlPrep" label="#NatlPrep" />
+      <node id="#TV" label="#TV" />
+      <node id="#Colts" label="#Colts" />
+      <node id="#SafeDriving" label="#SafeDriving" />
+      <node id="#millennials" label="#millennials" />
+      <node id="#wildfire" label="#wildfire" />
+      <node id="#raceforthecentral" label="#raceforthecentral" />
+      <node id="#OHIOFoundersDay" label="#OHIOFoundersDay" />
+      <node id="#BedfordMI" label="#BedfordMI" />
+      <node id="#shale" label="#shale" />
+      <node id="#CreditScore" label="#CreditScore" />
+      <node id="#SpringSevereWeatherAwarenessWeek" label="#SpringSevereWeatherAwarenessWeek" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#wx" label="#wx" />
+      <node id="#hurricane" label="#hurricane" />
+      <node id="#Motorcycle" label="#Motorcycle" />
+      <node id="#WeirdNovemberWeather" label="#WeirdNovemberWeather" />
+      <node id="#internship" label="#internship" />
+      <node id="#WinterSafetyAwarenessWeek" label="#WinterSafetyAwarenessWeek" />
+      <node id="#Steelers" label="#Steelers" />
+      <node id="#SoGood" label="#SoGood" />
+      <node id="#win" label="#win" />
+      <node id="#PGRCareerChat" label="#PGRCareerChat" />
+      <node id="#Insurers" label="#Insurers" />
+      <node id="#Pens" label="#Pens" />
+      <node id="#VeteransDay" label="#VeteransDay" />
+      <node id="#SB248" label="#SB248" />
+      <node id="#summer" label="#summer" />
+      <node id="#Canada" label="#Canada" />
+      <node id="#GEICO" label="#GEICO" />
+      <node id="#WNY" label="#WNY" />
+      <node id="#BecauseItsTheCup" label="#BecauseItsTheCup" />
+      <node id="#divorce" label="#divorce" />
+      <node id="#Demotech" label="#Demotech" />
+      <node id="#RAISEIT" label="#RAISEIT" />
+      <node id="#BuffaloSnow" label="#BuffaloSnow" />
+      <node id="#OhioWX" label="#OhioWX" />
+      <node id="#MothersDay" label="#MothersDay" />
+      <node id="#carseat" label="#carseat" />
+      <node id="#PartyHard" label="#PartyHard" />
+      <node id="#Insurance360" label="#Insurance360" />
+      <node id="#motorcycle" label="#motorcycle" />
+      <node id="#49ersfaithful" label="#49ersfaithful" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#PengWins" label="#PengWins" />
+      <node id="#AffordableCareAct" label="#AffordableCareAct" />
+      <node id="#NationalGarageSaleDay" label="#NationalGarageSaleDay" />
+      <node id="#CoasterIQ" label="#CoasterIQ" />
+      <node id="#Art" label="#Art" />
+      <node id="#money" label="#money" />
+      <node id="#LetsGoPens" label="#LetsGoPens" />
+      <node id="#Pittsburgh" label="#Pittsburgh" />
+      <node id="#Superman" label="#Superman" />
+      <node id="#firefighting" label="#firefighting" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#fracking" label="#fracking" />
+      <node id="#inwx" label="#inwx" />
+      <node id="#Mothers" label="#Mothers" />
+      <node id="#sharknado" label="#sharknado" />
+      <node id="#career" label="#career" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#HappyMothersDay" label="#HappyMothersDay" />
+      <node id="#redlightcameras" label="#redlightcameras" />
+      <node id="#FF" label="#FF" />
+      <node id="#BuckleUpBaby" label="#BuckleUpBaby" />
+      <node id="#safekids" label="#safekids" />
+      <node id="#SportsFantasy" label="#SportsFantasy" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#teens" label="#teens" />
+      <node id="#Moore" label="#Moore" />
+      <node id="#carosella" label="#carosella" />
+      <node id="#Watchdog10" label="#Watchdog10" />
+      <node id="#s" label="#s" />
+      <node id="#GoDanielGo" label="#GoDanielGo" />
+      <node id="#ShortEndOfTheHockeyStick" label="#ShortEndOfTheHockeyStick" />
+      <node id="#MegaMillions" label="#MegaMillions" />
+      <node id="#thx4rt" label="#thx4rt" />
+      <node id="#NFDM" label="#NFDM" />
+      <node id="#firefighter" label="#firefighter" />
+      <node id="#TaxDay" label="#TaxDay" />
+      <node id="#OscarTime" label="#OscarTime" />
+      <node id="#HereWeGo" label="#HereWeGo" />
+      <node id="#OUOhYeah" label="#OUOhYeah" />
+      <node id="#sales" label="#sales" />
+      <node id="#DaddioOfTheRaddio" label="#DaddioOfTheRaddio" />
+      <node id="#StaySafe" label="#StaySafe" />
+      <node id="#Teens" label="#Teens" />
+      <node id="#London2012" label="#London2012" />
+      <node id="#YouRock" label="#YouRock" />
+      <node id="#severe" label="#severe" />
+      <node id="#winter" label="#winter" />
+      <node id="#njgas" label="#njgas" />
+      <node id="#job" label="#job" />
+      <node id="#HometownHero" label="#HometownHero" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#ThankAVeteran" label="#ThankAVeteran" />
+      <node id="#training" label="#training" />
+      <node id="#InsurTech" label="#InsurTech" />
+      <node id="#Blizzard2016" label="#Blizzard2016" />
+      <node id="#GoogleCache" label="#GoogleCache" />
+      <node id="#Fiat" label="#Fiat" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#Langtree" label="#Langtree" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#youngins" label="#youngins" />
+      <node id="#insurer" label="#insurer" />
+      <node id="#DDAM" label="#DDAM" />
+      <node id="#educator" label="#educator" />
+      <node id="#MonroeMI" label="#MonroeMI" />
+      <node id="#IEDAC2013" label="#IEDAC2013" />
+      <node id="#Hiring" label="#Hiring" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#FAA" label="#FAA" />
+      <node id="#wvwx" label="#wvwx" />
+      <node id="#rt" label="#rt" />
+      <node id="#free" label="#free" />
+      <node id="#OhioInsuranceEduatorOfTheYear" label="#OhioInsuranceEduatorOfTheYear" />
+      <node id="#Drones" label="#Drones" />
+      <node id="#Insurance" label="#Insurance" />
+      <node id="#safetytip" label="#safetytip" />
+      <node id="#floodsafety" label="#floodsafety" />
+      <node id="#FAQ" label="#FAQ" />
+      <node id="#AprilFools" label="#AprilFools" />
+      <node id="#saferoom" label="#saferoom" />
+      <node id="#TeamUSA" label="#TeamUSA" />
+      <node id="#KentState" label="#KentState" />
+      <node id="#marketingjobs" label="#marketingjobs" />
+      <node id="#SanDiego" label="#SanDiego" />
+      <node id="#bikemonth" label="#bikemonth" />
+      <node id="#mt" label="#mt" />
+      <node id="#Internships" label="#Internships" />
+      <node id="#Monster" label="#Monster" />
+      <node id="#Ike" label="#Ike" />
+      <node id="#Bexley" label="#Bexley" />
+      <node id="#Flood" label="#Flood" />
+      <node id="#OHstorm" label="#OHstorm" />
+      <node id="#CoreLogic" label="#CoreLogic" />
+      <node id="#Joaquin" label="#Joaquin" />
+      <node id="#DIY" label="#DIY" />
+      <node id="#StateOfLiberty" label="#StateOfLiberty" />
+      <node id="#nightlife" label="#nightlife" />
+      <node id="#working" label="#working" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#OhioStateFair" label="#OhioStateFair" />
+      <node id="#social6" label="#social6" />
+      <node id="#flooding" label="#flooding" />
+      <node id="#IIHS" label="#IIHS" />
+      <node id="#careertrifecta" label="#careertrifecta" />
+      <node id="#Cheektowaga" label="#Cheektowaga" />
+      <node id="#AmberAlert" label="#AmberAlert" />
+      <node id="#Lexus" label="#Lexus" />
+      <node id="#Hermine" label="#Hermine" />
+      <node id="#Anchorage" label="#Anchorage" />
+      <node id="#snowmobiling" label="#snowmobiling" />
+      <node id="#ilnwx" label="#ilnwx" />
+      <node id="#recovery" label="#recovery" />
+      <node id="#CT" label="#CT" />
+      <node id="#LifeSafetyAward" label="#LifeSafetyAward" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#May4Matters" label="#May4Matters" />
+      <node id="#disaster" label="#disaster" />
+      <node id="#OperationBBQ" label="#OperationBBQ" />
+      <node id="#holidayhorrors" label="#holidayhorrors" />
+      <node id="#topics" label="#topics" />
+      <node id="#firesafety" label="#firesafety" />
+      <node id="#safety" label="#safety" />
+      <node id="#Blackout" label="#Blackout" />
+      <node id="#SidACide" label="#SidACide" />
+      <node id="#waterbeds" label="#waterbeds" />
+      <node id="#MoneyMonday" label="#MoneyMonday" />
+      <node id="#Superbowl" label="#Superbowl" />
+      <node id="#Anniversary" label="#Anniversary" />
+      <node id="#DSFLOhioTour" label="#DSFLOhioTour" />
+      <node id="#Erie" label="#Erie" />
+      <node id="#disabilities" label="#disabilities" />
+      <node id="#CelebrateMyDrive" label="#CelebrateMyDrive" />
+      <node id="#Intern" label="#Intern" />
+      <node id="#TomClancy" label="#TomClancy" />
+      <node id="#Catch22" label="#Catch22" />
+      <node id="#ComeBackInBeantown" label="#ComeBackInBeantown" />
+      <node id="#SevereWeatherAwarenessWeek" label="#SevereWeatherAwarenessWeek" />
+      <node id="#ohwx" label="#ohwx" />
+      <node id="#earthquake" label="#earthquake" />
+      <node id="#VolvoP1800" label="#VolvoP1800" />
+      <node id="#DreamMachine" label="#DreamMachine" />
+      <node id="#Thanks" label="#Thanks" />
+      <node id="#CareerTrifecta" label="#CareerTrifecta" />
+      <node id="#BestJobEver" label="#BestJobEver" />
+      <node id="#child" label="#child" />
+      <node id="#FLwx" label="#FLwx" />
+      <node id="#WestfieldBuilds" label="#WestfieldBuilds" />
+      <node id="#Teachers" label="#Teachers" />
+      <node id="#insurancejobs" label="#insurancejobs" />
+      <node id="#FirePreventionWeek" label="#FirePreventionWeek" />
+      <node id="#risks" label="#risks" />
+      <node id="#shutdown" label="#shutdown" />
+      <node id="#carsafety" label="#carsafety" />
+      <node id="#LakeEffect" label="#LakeEffect" />
+      <node id="#ToCatchAThief" label="#ToCatchAThief" />
+      <node id="#underage" label="#underage" />
+      <node id="#careeradvice" label="#careeradvice" />
+      <node id="#Lenawee" label="#Lenawee" />
+      <node id="#NFIP" label="#NFIP" />
+      <node id="#Sandy" label="#Sandy" />
+      <node id="#SidTheKid" label="#SidTheKid" />
+      <node id="#blog" label="#blog" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#RIP" label="#RIP" />
+      <node id="#Pirates" label="#Pirates" />
+      <node id="#WorkersComp" label="#WorkersComp" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#hail" label="#hail" />
+      <node id="#HighPark" label="#HighPark" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#Shutdown" label="#Shutdown" />
+      <node id="#buccofever" label="#buccofever" />
+      <node id="#anniversary" label="#anniversary" />
+      <node id="#njopen" label="#njopen" />
+      <node id="#WednesdayNightRivalry" label="#WednesdayNightRivalry" />
+      <node id="#KSU" label="#KSU" />
+      <node id="#theft" label="#theft" />
+      <node id="#ThumbsUp" label="#ThumbsUp" />
+      <node id="#LongTimeComing" label="#LongTimeComing" />
+      <node id="#storms" label="#storms" />
+      <node id="#GEICOgradchat" label="#GEICOgradchat" />
+      <node id="#CallMeTheBreeze" label="#CallMeTheBreeze" />
+      <node id="#DistractedDriving" label="#DistractedDriving" />
+      <node id="#HoJos" label="#HoJos" />
+      <node id="#Fletch" label="#Fletch" />
+      <node id="#PolarVortex" label="#PolarVortex" />
+      <node id="#SuperstormSandy" label="#SuperstormSandy" />
+      <node id="#Buctober" label="#Buctober" />
+      <node id="#TwerkingForTomas" label="#TwerkingForTomas" />
+      <node id="#MT" label="#MT" />
+      <node id="#SkateForDaniel" label="#SkateForDaniel" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#RT" label="#RT" />
+      <node id="#derecho" label="#derecho" />
+      <node id="#insurers" label="#insurers" />
+      <node id="#kywx" label="#kywx" />
+      <node id="#BossMan" label="#BossMan" />
+      <node id="#tips" label="#tips" />
+      <node id="#WildfireRisk" label="#WildfireRisk" />
+      <node id="#Wearable" label="#Wearable" />
+      <node id="#ratings" label="#ratings" />
+      <node id="#telematics" label="#telematics" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#RI" label="#RI" />
+      <node id="#Olympic" label="#Olympic" />
+      <node id="#carseats" label="#carseats" />
+      <node id="#Ravens" label="#Ravens" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#emergency" target="#mobile" weight="3238" />
+      <edge id="1" source="#Love" target="#TIKE" weight="3238" />
+      <edge id="2" source="#pay" target="#telematics" weight="3238" />
+      <edge id="3" source="#pay" target="#Insurers" weight="3238" />
+      <edge id="4" source="#Hazard" target="#CoreLogic" weight="3238" />
+      <edge id="5" source="#Hazard" target="#WildfireRisk" weight="3238" />
+      <edge id="6" source="#Christmas" target="#holidayhorrors" weight="3238" />
+      <edge id="7" source="#Katrina" target="#Sandy" weight="3238" />
+      <edge id="8" source="#Katrina" target="#Ike" weight="3238" />
+      <edge id="9" source="#hoopless" target="#ncaa" weight="3238" />
+      <edge id="10" source="#Columbus" target="#social6" weight="3238" />
+      <edge id="11" source="#Columbus" target="#Uber" weight="3238" />
+      <edge id="12" source="#Columbus" target="#NFDM" weight="3238" />
+      <edge id="13" source="#Columbus" target="#Ohio" weight="3238" />
+      <edge id="14" source="#NFPAConf" target="#firefighter" weight="3238" />
+      <edge id="15" source="#4thofJuly" target="#StateOfLiberty" weight="3238" />
+      <edge id="16" source="#4thofJuly" target="#SuperstormSandy" weight="3238" />
+      <edge id="17" source="#webjobs" target="#digitaljob" weight="3238" />
+      <edge id="18" source="#webjobs" target="#marketingjobs" weight="3238" />
+      <edge id="19" source="#realestate" target="#insurance" weight="3238" />
+      <edge id="20" source="#realestate" target="#money" weight="3238" />
+      <edge id="21" source="#tornado" target="#infographic" weight="3238" />
+      <edge id="22" source="#tornado" target="#StaySafe" weight="3238" />
+      <edge id="23" source="#tornado" target="#insurance" weight="3238" />
+      <edge id="24" source="#tornado" target="#SevereWeatherAwarenessWeek" weight="3238" />
+      <edge id="25" source="#tornado" target="#saferoom" weight="3238" />
+      <edge id="26" source="#tornado" target="#OhioStateFair" weight="3238" />
+      <edge id="27" source="#tornado" target="#ohwx" weight="3238" />
+      <edge id="28" source="#TIKE" target="#carseat" weight="3238" />
+      <edge id="29" source="#TIKE" target="#free" weight="3238" />
+      <edge id="30" source="#TIKE" target="#child" weight="3238" />
+      <edge id="31" source="#TIKE" target="#MothersDay" weight="6476" />
+      <edge id="32" source="#Thanksgiving" target="#infographic" weight="3238" />
+      <edge id="33" source="#Thanksgiving" target="#insurance" weight="3238" />
+      <edge id="34" source="#AllTimeFav" target="#insured" weight="3238" />
+      <edge id="35" source="#personalfinance" target="#money" weight="3238" />
+      <edge id="36" source="#DistractedDriver" target="#DDAM" weight="3238" />
+      <edge id="37" source="#digitaljob" target="#marketingjobs" weight="3238" />
+      <edge id="38" source="#SuperBowl" target="#49ers" weight="3238" />
+      <edge id="39" source="#SuperBowl" target="#Ravens" weight="3238" />
+      <edge id="40" source="#SuperBowl" target="#RT" weight="3238" />
+      <edge id="41" source="#flood" target="#HandyTool" weight="3238" />
+      <edge id="42" source="#flood" target="#flooding" weight="3238" />
+      <edge id="43" source="#flood" target="#insurance" weight="3238" />
+      <edge id="44" source="#flood" target="#Joaquin" weight="3238" />
+      <edge id="45" source="#flood" target="#floodsafety" weight="3238" />
+      <edge id="46" source="#vday" target="#insurer" weight="3238" />
+      <edge id="47" source="#BuckeyeState" target="#Insurance" weight="3238" />
+      <edge id="48" source="#caradvice" target="#insurance" weight="3238" />
+      <edge id="49" source="#teacher" target="#Insurance" weight="3238" />
+      <edge id="50" source="#teacher" target="#insurance" weight="3238" />
+      <edge id="51" source="#May4" target="#May4Matters" weight="3238" />
+      <edge id="52" source="#May4" target="#KSU" weight="3238" />
+      <edge id="53" source="#May4" target="#KentState" weight="3238" />
+      <edge id="54" source="#NY" target="#CT" weight="3238" />
+      <edge id="55" source="#NY" target="#RI" weight="3238" />
+      <edge id="56" source="#NY" target="#NJ" weight="3238" />
+      <edge id="57" source="#helmet" target="#motorcycle" weight="3238" />
+      <edge id="58" source="#BUCN" target="#RAISEIT" weight="3238" />
+      <edge id="59" source="#BUCN" target="#raceforthecentral" weight="3238" />
+      <edge id="60" source="#HFHSC" target="#WestfieldBuilds" weight="3238" />
+      <edge id="61" source="#NoFaultReform" target="#SB248" weight="3238" />
+      <edge id="62" source="#NotLMFAO" target="#insurance" weight="3238" />
+      <edge id="63" source="#NJ" target="#CT" weight="3238" />
+      <edge id="64" source="#NJ" target="#RI" weight="3238" />
+      <edge id="65" source="#specialneeds" target="#safekids" weight="3238" />
+      <edge id="66" source="#freebies" target="#Motorcycle" weight="3238" />
+      <edge id="67" source="#freebies" target="#SpringSevereWeatherAwarenessWeek" weight="3238" />
+      <edge id="68" source="#rain" target="#wx" weight="3238" />
+      <edge id="69" source="#rain" target="#wvwx" weight="3238" />
+      <edge id="70" source="#Uber" target="#social6" weight="3238" />
+      <edge id="71" source="#KennywoodPark" target="#CoasterIQ" weight="3238" />
+      <edge id="72" source="#ff" target="#thx4rt" weight="3238" />
+      <edge id="73" source="#CueTheComeback" target="#LetsGoPens" weight="3238" />
+      <edge id="74" source="#NatlPrep" target="#safetytip" weight="3238" />
+      <edge id="75" source="#TV" target="#infographic" weight="3238" />
+      <edge id="76" source="#Colts" target="#Steelers" weight="3238" />
+      <edge id="77" source="#SafeDriving" target="#Teens" weight="3238" />
+      <edge id="78" source="#SafeDriving" target="#Anchorage" weight="3238" />
+      <edge id="79" source="#millennials" target="#insurance" weight="3238" />
+      <edge id="80" source="#wildfire" target="#HighPark" weight="3238" />
+      <edge id="81" source="#raceforthecentral" target="#RAISEIT" weight="3238" />
+      <edge id="82" source="#OHIOFoundersDay" target="#OUOhYeah" weight="3238" />
+      <edge id="83" source="#BedfordMI" target="#MonroeMI" weight="3238" />
+      <edge id="84" source="#BedfordMI" target="#Toledo" weight="3238" />
+      <edge id="85" source="#BedfordMI" target="#Lenawee" weight="3238" />
+      <edge id="86" source="#BedfordMI" target="#Monster" weight="3238" />
+      <edge id="87" source="#shale" target="#fracking" weight="3238" />
+      <edge id="88" source="#CreditScore" target="#AffordableCareAct" weight="3238" />
+      <edge id="89" source="#Cleveland" target="#teens" weight="3238" />
+      <edge id="90" source="#Cleveland" target="#DSFLOhioTour" weight="3238" />
+      <edge id="91" source="#wx" target="#wvwx" weight="3238" />
+      <edge id="92" source="#wx" target="#hail" weight="6476" />
+      <edge id="93" source="#wx" target="#safety" weight="3238" />
+      <edge id="94" source="#hurricane" target="#Hermine" weight="3238" />
+      <edge id="95" source="#hurricane" target="#FLwx" weight="3238" />
+      <edge id="96" source="#WeirdNovemberWeather" target="#earthquake" weight="3238" />
+      <edge id="97" source="#internship" target="#training" weight="3238" />
+      <edge id="98" source="#internship" target="#Erie" weight="3238" />
+      <edge id="99" source="#internship" target="#job" weight="6476" />
+      <edge id="100" source="#internship" target="#summer" weight="3238" />
+      <edge id="101" source="#WinterSafetyAwarenessWeek" target="#ohwx" weight="3238" />
+      <edge id="102" source="#SoGood" target="#TBT" weight="3238" />
+      <edge id="103" source="#win" target="#CelebrateMyDrive" weight="3238" />
+      <edge id="104" source="#PGRCareerChat" target="#Insurance" weight="3238" />
+      <edge id="105" source="#Insurers" target="#telematics" weight="3238" />
+      <edge id="106" source="#Pens" target="#TwerkingForTomas" weight="3238" />
+      <edge id="107" source="#VeteransDay" target="#ThankAVeteran" weight="3238" />
+      <edge id="108" source="#summer" target="#training" weight="3238" />
+      <edge id="109" source="#summer" target="#Erie" weight="3238" />
+      <edge id="110" source="#summer" target="#job" weight="6476" />
+      <edge id="111" source="#Canada" target="#insurance" weight="3238" />
+      <edge id="112" source="#GEICO" target="#SanDiego" weight="3238" />
+      <edge id="113" source="#GEICO" target="#insurance" weight="3238" />
+      <edge id="114" source="#GEICO" target="#hiring" weight="3238" />
+      <edge id="115" source="#GEICO" target="#jobs" weight="6476" />
+      <edge id="116" source="#WNY" target="#BuffaloSnow" weight="3238" />
+      <edge id="117" source="#BecauseItsTheCup" target="#SidTheKid" weight="3238" />
+      <edge id="118" source="#divorce" target="#insurance" weight="3238" />
+      <edge id="119" source="#Demotech" target="#insurance" weight="3238" />
+      <edge id="120" source="#Demotech" target="#ratings" weight="3238" />
+      <edge id="121" source="#OhioWX" target="#insurance" weight="3238" />
+      <edge id="122" source="#OhioWX" target="#OHstorm" weight="6476" />
+      <edge id="123" source="#PartyHard" target="#LetsGoPens" weight="3238" />
+      <edge id="124" source="#PartyHard" target="#PengWins" weight="3238" />
+      <edge id="125" source="#Insurance360" target="#TGIF" weight="3238" />
+      <edge id="126" source="#Insurance360" target="#TaxDay" weight="3238" />
+      <edge id="127" source="#49ersfaithful" target="#FF" weight="3238" />
+      <edge id="128" source="#Halloween" target="#insurance" weight="3238" />
+      <edge id="129" source="#PengWins" target="#LetsGoPens" weight="3238" />
+      <edge id="130" source="#NationalGarageSaleDay" target="#insurance" weight="3238" />
+      <edge id="131" source="#Art" target="#theft" weight="3238" />
+      <edge id="132" source="#money" target="#insurance" weight="3238" />
+      <edge id="133" source="#LetsGoPens" target="#BuckleUpBaby" weight="3238" />
+      <edge id="134" source="#Pittsburgh" target="#RIP" weight="3238" />
+      <edge id="135" source="#Pittsburgh" target="#YouRock" weight="3238" />
+      <edge id="136" source="#Pittsburgh" target="#severe" weight="3238" />
+      <edge id="137" source="#Pittsburgh" target="#SportsFantasy" weight="3238" />
+      <edge id="138" source="#Superman" target="#HometownHero" weight="3238" />
+      <edge id="139" source="#firefighting" target="#LifeSafetyAward" weight="3238" />
+      <edge id="140" source="#Buckeyes" target="#GoBucks" weight="3238" />
+      <edge id="141" source="#inwx" target="#kywx" weight="3238" />
+      <edge id="142" source="#inwx" target="#ilnwx" weight="3238" />
+      <edge id="143" source="#inwx" target="#ohwx" weight="3238" />
+      <edge id="144" source="#Mothers" target="#carseats" weight="3238" />
+      <edge id="145" source="#sharknado" target="#Insurance" weight="3238" />
+      <edge id="146" source="#career" target="#insurance" weight="3238" />
+      <edge id="147" source="#career" target="#teachers" weight="3238" />
+      <edge id="148" source="#HappyMothersDay" target="#free" weight="3238" />
+      <edge id="149" source="#redlightcameras" target="#IIHS" weight="3238" />
+      <edge id="150" source="#FF" target="#49ers" weight="3238" />
+      <edge id="151" source="#FF" target="#insurance" weight="3238" />
+      <edge id="152" source="#FF" target="#RT" weight="9714" />
+      <edge id="153" source="#TBT" target="#waterbeds" weight="3238" />
+      <edge id="154" source="#TBT" target="#HoJos" weight="3238" />
+      <edge id="155" source="#teens" target="#DSFLOhioTour" weight="3238" />
+      <edge id="156" source="#Moore" target="#OperationBBQ" weight="3238" />
+      <edge id="157" source="#carosella" target="#Langtree" weight="3238" />
+      <edge id="158" source="#carosella" target="#Insurance" weight="3238" />
+      <edge id="159" source="#Watchdog10" target="#WorkersComp" weight="3238" />
+      <edge id="160" source="#s" target="#recovery" weight="3238" />
+      <edge id="161" source="#GoDanielGo" target="#Bexley" weight="6476" />
+      <edge id="162" source="#GoDanielGo" target="#SkateForDaniel" weight="6476" />
+      <edge id="163" source="#ShortEndOfTheHockeyStick" target="#WednesdayNightRivalry" weight="3238" />
+      <edge id="164" source="#MegaMillions" target="#Insurance" weight="3238" />
+      <edge id="165" source="#OscarTime" target="#insurance" weight="3238" />
+      <edge id="166" source="#HereWeGo" target="#underage" weight="3238" />
+      <edge id="167" source="#sales" target="#careertrifecta" weight="3238" />
+      <edge id="168" source="#DaddioOfTheRaddio" target="#BossMan" weight="3238" />
+      <edge id="169" source="#StaySafe" target="#saferoom" weight="3238" />
+      <edge id="170" source="#StaySafe" target="#OhioStateFair" weight="3238" />
+      <edge id="171" source="#StaySafe" target="#ohwx" weight="3238" />
+      <edge id="172" source="#Teens" target="#Anchorage" weight="3238" />
+      <edge id="173" source="#London2012" target="#Olympics" weight="3238" />
+      <edge id="174" source="#severe" target="#ilnwx" weight="3238" />
+      <edge id="175" source="#winter" target="#tips" weight="3238" />
+      <edge id="176" source="#njgas" target="#njopen" weight="3238" />
+      <edge id="177" source="#job" target="#training" weight="6476" />
+      <edge id="178" source="#job" target="#Erie" weight="6476" />
+      <edge id="179" source="#job" target="#insurance" weight="3238" />
+      <edge id="180" source="#job" target="#job" weight="6476" />
+      <edge id="181" source="#training" target="#Erie" weight="3238" />
+      <edge id="182" source="#InsurTech" target="#insurance" weight="3238" />
+      <edge id="183" source="#InsurTech" target="#Wearable" weight="3238" />
+      <edge id="184" source="#Blizzard2016" target="#insurance" weight="3238" />
+      <edge id="185" source="#GoogleCache" target="#Shutdown" weight="3238" />
+      <edge id="186" source="#Fiat" target="#Lexus" weight="3238" />
+      <edge id="187" source="#jobs" target="#insurance" weight="9714" />
+      <edge id="188" source="#jobs" target="#SanDiego" weight="3238" />
+      <edge id="189" source="#jobs" target="#BestJobEver" weight="3238" />
+      <edge id="190" source="#jobs" target="#hiring" weight="3238" />
+      <edge id="191" source="#jobs" target="#Ohio" weight="3238" />
+      <edge id="192" source="#Langtree" target="#Insurance" weight="3238" />
+      <edge id="193" source="#insurance" target="#MoneyMonday" weight="3238" />
+      <edge id="194" source="#insurance" target="#Catch22" weight="3238" />
+      <edge id="195" source="#insurance" target="#SevereWeatherAwarenessWeek" weight="3238" />
+      <edge id="196" source="#insurance" target="#TomClancy" weight="3238" />
+      <edge id="197" source="#insurance" target="#OhioInsuranceEduatorOfTheYear" weight="3238" />
+      <edge id="198" source="#insurance" target="#CareerTrifecta" weight="3238" />
+      <edge id="199" source="#insurance" target="#Ohio" weight="6476" />
+      <edge id="200" source="#insurance" target="#IEDAC2013" weight="3238" />
+      <edge id="201" source="#insurance" target="#ToCatchAThief" weight="3238" />
+      <edge id="202" source="#insurance" target="#insurancejobs" weight="3238" />
+      <edge id="203" source="#insurance" target="#veterans" weight="3238" />
+      <edge id="204" source="#insurance" target="#FAQ" weight="3238" />
+      <edge id="205" source="#insurance" target="#AprilFools" weight="3238" />
+      <edge id="206" source="#insurance" target="#DIY" weight="3238" />
+      <edge id="207" source="#insurance" target="#Sandy" weight="6476" />
+      <edge id="208" source="#insurance" target="#blog" weight="3238" />
+      <edge id="209" source="#insurance" target="#Superbowl" weight="3238" />
+      <edge id="210" source="#insurance" target="#OHstorm" weight="3238" />
+      <edge id="211" source="#insurance" target="#Fletch" weight="3238" />
+      <edge id="212" source="#insurance" target="#infographic" weight="3238" />
+      <edge id="213" source="#insurance" target="#educator" weight="3238" />
+      <edge id="214" source="#insurance" target="#ThumbsUp" weight="3238" />
+      <edge id="215" source="#insurance" target="#working" weight="3238" />
+      <edge id="216" source="#insurance" target="#careertrifecta" weight="3238" />
+      <edge id="217" source="#insurance" target="#Wearable" weight="3238" />
+      <edge id="218" source="#insurance" target="#RT" weight="16190" />
+      <edge id="219" source="#insurance" target="#disaster" weight="3238" />
+      <edge id="220" source="#insurance" target="#topics" weight="3238" />
+      <edge id="221" source="#insurance" target="#ratings" weight="3238" />
+      <edge id="222" source="#insurance" target="#Olympic" weight="3238" />
+      <edge id="223" source="#youngins" target="#FirePreventionWeek" weight="3238" />
+      <edge id="224" source="#educator" target="#OhioInsuranceEduatorOfTheYear" weight="3238" />
+      <edge id="225" source="#MonroeMI" target="#Toledo" weight="3238" />
+      <edge id="226" source="#MonroeMI" target="#Lenawee" weight="3238" />
+      <edge id="227" source="#MonroeMI" target="#Monster" weight="3238" />
+      <edge id="228" source="#Hiring" target="#Internships" weight="3238" />
+      <edge id="229" source="#Ohio" target="#Intern" weight="3238" />
+      <edge id="230" source="#Ohio" target="#bikemonth" weight="3238" />
+      <edge id="231" source="#Ohio" target="#hail" weight="3238" />
+      <edge id="232" source="#Ohio" target="#Medicaid" weight="3238" />
+      <edge id="233" source="#49ers" target="#Ravens" weight="3238" />
+      <edge id="234" source="#FAA" target="#Drones" weight="3238" />
+      <edge id="235" source="#rt" target="#mt" weight="3238" />
+      <edge id="236" source="#Insurance" target="#Sandy" weight="3238" />
+      <edge id="237" source="#floodsafety" target="#flooding" weight="3238" />
+      <edge id="238" source="#floodsafety" target="#Joaquin" weight="3238" />
+      <edge id="239" source="#saferoom" target="#OhioStateFair" weight="3238" />
+      <edge id="240" source="#saferoom" target="#ohwx" weight="3238" />
+      <edge id="241" source="#TeamUSA" target="#Olympics" weight="3238" />
+      <edge id="242" source="#KentState" target="#May4Matters" weight="3238" />
+      <edge id="243" source="#KentState" target="#KSU" weight="3238" />
+      <edge id="244" source="#SanDiego" target="#hiring" weight="3238" />
+      <edge id="245" source="#mt" target="#Thanks" weight="3238" />
+      <edge id="246" source="#Monster" target="#Toledo" weight="3238" />
+      <edge id="247" source="#Monster" target="#Lenawee" weight="3238" />
+      <edge id="248" source="#Ike" target="#Sandy" weight="3238" />
+      <edge id="249" source="#Bexley" target="#SkateForDaniel" weight="6476" />
+      <edge id="250" source="#Flood" target="#NFIP" weight="3238" />
+      <edge id="251" source="#CoreLogic" target="#WildfireRisk" weight="3238" />
+      <edge id="252" source="#Joaquin" target="#flooding" weight="3238" />
+      <edge id="253" source="#StateOfLiberty" target="#SuperstormSandy" weight="3238" />
+      <edge id="254" source="#nightlife" target="#TGIF" weight="3238" />
+      <edge id="255" source="#Toledo" target="#Lenawee" weight="3238" />
+      <edge id="256" source="#OhioStateFair" target="#ohwx" weight="3238" />
+      <edge id="257" source="#Cheektowaga" target="#LakeEffect" weight="3238" />
+      <edge id="258" source="#AmberAlert" target="#shutdown" weight="3238" />
+      <edge id="259" source="#Hermine" target="#FLwx" weight="3238" />
+      <edge id="260" source="#snowmobiling" target="#safety" weight="3238" />
+      <edge id="261" source="#ilnwx" target="#kywx" weight="3238" />
+      <edge id="262" source="#ilnwx" target="#ohwx" weight="3238" />
+      <edge id="263" source="#CT" target="#RI" weight="3238" />
+      <edge id="264" source="#May4Matters" target="#KSU" weight="3238" />
+      <edge id="265" source="#firesafety" target="#Teachers" weight="3238" />
+      <edge id="266" source="#safety" target="#disabilities" weight="3238" />
+      <edge id="267" source="#Blackout" target="#Anniversary" weight="3238" />
+      <edge id="268" source="#SidACide" target="#ComeBackInBeantown" weight="3238" />
+      <edge id="269" source="#SevereWeatherAwarenessWeek" target="#infographic" weight="3238" />
+      <edge id="270" source="#ohwx" target="#kywx" weight="3238" />
+      <edge id="271" source="#ohwx" target="#storms" weight="3238" />
+      <edge id="272" source="#VolvoP1800" target="#DreamMachine" weight="3238" />
+      <edge id="273" source="#risks" target="#insurers" weight="3238" />
+      <edge id="274" source="#carsafety" target="#infographic" weight="3238" />
+      <edge id="275" source="#ToCatchAThief" target="#Fletch" weight="3238" />
+      <edge id="276" source="#careeradvice" target="#GEICOgradchat" weight="3238" />
+      <edge id="277" source="#Sandy" target="#NYC" weight="3238" />
+      <edge id="278" source="#Sandy" target="#Sandy" weight="6476" />
+      <edge id="279" source="#Pirates" target="#buccofever" weight="3238" />
+      <edge id="280" source="#hail" target="#hail" weight="6476" />
+      <edge id="281" source="#infographic" target="#DistractedDriving" weight="3238" />
+      <edge id="282" source="#infographic" target="#PolarVortex" weight="3238" />
+      <edge id="283" source="#anniversary" target="#derecho" weight="6476" />
+      <edge id="284" source="#LongTimeComing" target="#Buctober" weight="3238" />
+      <edge id="285" source="#CallMeTheBreeze" target="#RT" weight="3238" />
+      <edge id="286" source="#MT" target="#RT" weight="6476" />
+    </edges>
+  </graph>
+</gexf>

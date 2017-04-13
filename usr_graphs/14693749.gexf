@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Spotify" label="#Spotify" />
+      <node id="#roaming" label="#roaming" />
+      <node id="#spotify" label="#spotify" />
+      <node id="#aepohio" label="#aepohio" />
+      <node id="#brewerylawyer" label="#brewerylawyer" />
+      <node id="#fourstring" label="#fourstring" />
+      <node id="#orbitzsucks" label="#orbitzsucks" />
+      <node id="#OldSchoolHipHopHouseParty" label="#OldSchoolHipHopHouseParty" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#poptip" label="#poptip" />
+      <node id="#prettylights" label="#prettylights" />
+      <node id="#developer" label="#developer" />
+      <node id="#ACBW" label="#ACBW" />
+      <node id="#NationalBeerDay" label="#NationalBeerDay" />
+      <node id="#10xdemo" label="#10xdemo" />
+      <node id="#aepohiofail" label="#aepohiofail" />
+      <node id="#Resition" label="#Resition" />
+      <node id="#Budlight" label="#Budlight" />
+      <node id="#tech" label="#tech" />
+      <node id="#budlightsucks" label="#budlightsucks" />
+      <node id="#whereisaep" label="#whereisaep" />
+      <node id="#drool" label="#drool" />
+      <node id="#ohiocraftbeer" label="#ohiocraftbeer" />
+      <node id="#zauber" label="#zauber" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Spotify" target="#prettylights" weight="192" />
+      <edge id="1" source="#roaming" target="#orbitzsucks" weight="192" />
+      <edge id="2" source="#spotify" target="#OldSchoolHipHopHouseParty" weight="192" />
+      <edge id="3" source="#aepohio" target="#aepohiofail" weight="192" />
+      <edge id="4" source="#aepohio" target="#whereisaep" weight="192" />
+      <edge id="5" source="#brewerylawyer" target="#ohiocraftbeer" weight="192" />
+      <edge id="6" source="#brewerylawyer" target="#NationalBeerDay" weight="192" />
+      <edge id="7" source="#fourstring" target="#zauber" weight="192" />
+      <edge id="8" source="#fourstring" target="#poptip" weight="192" />
+      <edge id="9" source="#entrepreneur" target="#developer" weight="192" />
+      <edge id="10" source="#entrepreneur" target="#tech" weight="192" />
+      <edge id="11" source="#poptip" target="#zauber" weight="192" />
+      <edge id="12" source="#developer" target="#tech" weight="192" />
+      <edge id="13" source="#ACBW" target="#drool" weight="192" />
+      <edge id="14" source="#NationalBeerDay" target="#ohiocraftbeer" weight="192" />
+      <edge id="15" source="#10xdemo" target="#Resition" weight="192" />
+      <edge id="16" source="#Budlight" target="#budlightsucks" weight="192" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SelfDrivingVehicles" label="#SelfDrivingVehicles" />
+      <node id="#technology" label="#technology" />
+      <node id="#ProjectGrow" label="#ProjectGrow" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#CX" label="#CX" />
+      <node id="#customerservice" label="#customerservice" />
+      <node id="#custserv" label="#custserv" />
+      <node id="#coolculture" label="#coolculture" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#PreShow" label="#PreShow" />
+      <node id="#nps" label="#nps" />
+      <node id="#Snowmageddon2015" label="#Snowmageddon2015" />
+      <node id="#callcenters" label="#callcenters" />
+      <node id="#wireless" label="#wireless" />
+      <node id="#McDonald" label="#McDonald" />
+      <node id="#cem" label="#cem" />
+      <node id="#cxo" label="#cxo" />
+      <node id="#Brand" label="#Brand" />
+      <node id="#cars" label="#cars" />
+      <node id="#TomFeeneyChat" label="#TomFeeneyChat" />
+      <node id="#employee" label="#employee" />
+      <node id="#CallCenter" label="#CallCenter" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#heatstrokekills" label="#heatstrokekills" />
+      <node id="#cx" label="#cx" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#travelwell" label="#travelwell" />
+      <node id="#callcenterevent" label="#callcenterevent" />
+      <node id="#in" label="#in" />
+      <node id="#customer" label="#customer" />
+      <node id="#DriverSafetyTips" label="#DriverSafetyTips" />
+      <node id="#naccm" label="#naccm" />
+      <node id="#CustomerBliss" label="#CustomerBliss" />
+      <node id="#checkforbaby" label="#checkforbaby" />
+      <node id="#snow" label="#snow" />
+      <node id="#CarLovers" label="#CarLovers" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#Cars" label="#Cars" />
+      <node id="#Employee" label="#Employee" />
+      <node id="#windshield" label="#windshield" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#ISCA12" label="#ISCA12" />
+      <node id="#SitecoreHEROes" label="#SitecoreHEROes" />
+      <node id="#DSRC" label="#DSRC" />
+      <node id="#customers" label="#customers" />
+      <node id="#In" label="#In" />
+      <node id="#e" label="#e" />
+      <node id="#automotive" label="#automotive" />
+      <node id="#employees" label="#employees" />
+      <node id="#CEM" label="#CEM" />
+      <node id="#Insurancefraud" label="#Insurancefraud" />
+      <node id="#CustomerExperience" label="#CustomerExperience" />
+      <node id="#Customer" label="#Customer" />
+      <node id="#multichannelengagement" label="#multichannelengagement" />
+      <node id="#PresidentsCup" label="#PresidentsCup" />
+      <node id="#ConsumersChoice" label="#ConsumersChoice" />
+      <node id="#nps2011" label="#nps2011" />
+      <node id="#CEO" label="#CEO" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#AutoEnthusiasts" label="#AutoEnthusiasts" />
+      <node id="#cex" label="#cex" />
+      <node id="#Safelite" label="#Safelite" />
+      <node id="#leadbiz" label="#leadbiz" />
+      <node id="#Engagement" label="#Engagement" />
+      <node id="#autonews" label="#autonews" />
+      <node id="#sales" label="#sales" />
+      <node id="#mktg" label="#mktg" />
+      <node id="#Golf" label="#Golf" />
+      <node id="#PresCup" label="#PresCup" />
+      <node id="#SpringGame" label="#SpringGame" />
+      <node id="#AAA" label="#AAA" />
+      <node id="#RealPlayer" label="#RealPlayer" />
+      <node id="#cctr" label="#cctr" />
+      <node id="#custserve" label="#custserve" />
+      <node id="#cmocongress" label="#cmocongress" />
+      <node id="#CCTR" label="#CCTR" />
+      <node id="#CustomerService" label="#CustomerService" />
+      <node id="#NPS" label="#NPS" />
+      <node id="#CXO" label="#CXO" />
+      <node id="#custexp" label="#custexp" />
+      <node id="#automotivesafety" label="#automotivesafety" />
+      <node id="#tailgaters" label="#tailgaters" />
+      <node id="#recycling" label="#recycling" />
+      <node id="#netpromoter" label="#netpromoter" />
+      <node id="#Podcast" label="#Podcast" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SelfDrivingVehicles" target="#Cars" weight="1272" />
+      <edge id="1" source="#technology" target="#autonews" weight="1272" />
+      <edge id="2" source="#ProjectGrow" target="#employees" weight="1272" />
+      <edge id="3" source="#ProjectGrow" target="#smallbiz" weight="1272" />
+      <edge id="4" source="#jobs" target="#Columbus" weight="1272" />
+      <edge id="5" source="#CX" target="#CustomerBliss" weight="1272" />
+      <edge id="6" source="#customerservice" target="#in" weight="1272" />
+      <edge id="7" source="#custserv" target="#coolculture" weight="1272" />
+      <edge id="8" source="#custserv" target="#callcenters" weight="1272" />
+      <edge id="9" source="#custserv" target="#callcenterevent" weight="1272" />
+      <edge id="10" source="#custserv" target="#cex" weight="1272" />
+      <edge id="11" source="#custserv" target="#cem" weight="3816" />
+      <edge id="12" source="#custserv" target="#cxo" weight="2544" />
+      <edge id="13" source="#custserv" target="#employee" weight="1272" />
+      <edge id="14" source="#custserv" target="#CallCenter" weight="2544" />
+      <edge id="15" source="#custserv" target="#cx" weight="1272" />
+      <edge id="16" source="#custserv" target="#CustomerService" weight="1272" />
+      <edge id="17" source="#custserv" target="#in" weight="1272" />
+      <edge id="18" source="#custserv" target="#naccm" weight="1272" />
+      <edge id="19" source="#custserv" target="#cctr" weight="1272" />
+      <edge id="20" source="#custserv" target="#Safelite" weight="1272" />
+      <edge id="21" source="#custserv" target="#mktg" weight="1272" />
+      <edge id="22" source="#custserv" target="#SitecoreHEROes" weight="1272" />
+      <edge id="23" source="#custserv" target="#customers" weight="1272" />
+      <edge id="24" source="#custserv" target="#In" weight="1272" />
+      <edge id="25" source="#custserv" target="#Customer" weight="1272" />
+      <edge id="26" source="#custserv" target="#CEM" weight="2544" />
+      <edge id="27" source="#custserv" target="#Podcast" weight="1272" />
+      <edge id="28" source="#custserv" target="#socialmedia" weight="2544" />
+      <edge id="29" source="#custserv" target="#ISCA12" weight="1272" />
+      <edge id="30" source="#custserv" target="#sales" weight="1272" />
+      <edge id="31" source="#custserv" target="#custexp" weight="1272" />
+      <edge id="32" source="#custserv" target="#CustomerExperience" weight="1272" />
+      <edge id="33" source="#custserv" target="#CCTR" weight="1272" />
+      <edge id="34" source="#custserv" target="#NPS" weight="2544" />
+      <edge id="35" source="#custserv" target="#CXO" weight="1272" />
+      <edge id="36" source="#smallbiz" target="#employees" weight="1272" />
+      <edge id="37" source="#PreShow" target="#SpringGame" weight="1272" />
+      <edge id="38" source="#nps" target="#netpromoter" weight="1272" />
+      <edge id="39" source="#Snowmageddon2015" target="#snow" weight="1272" />
+      <edge id="40" source="#wireless" target="#cars" weight="1272" />
+      <edge id="41" source="#wireless" target="#DSRC" weight="1272" />
+      <edge id="42" source="#McDonald" target="#CustomerExperience" weight="1272" />
+      <edge id="43" source="#McDonald" target="#Brand" weight="1272" />
+      <edge id="44" source="#cem" target="#cx" weight="2544" />
+      <edge id="45" source="#cem" target="#custexp" weight="1272" />
+      <edge id="46" source="#cem" target="#customers" weight="1272" />
+      <edge id="47" source="#cem" target="#customer" weight="1272" />
+      <edge id="48" source="#cem" target="#cxo" weight="2544" />
+      <edge id="49" source="#cem" target="#employees" weight="1272" />
+      <edge id="50" source="#cem" target="#socialmedia" weight="1272" />
+      <edge id="51" source="#cxo" target="#cx" weight="1272" />
+      <edge id="52" source="#cxo" target="#custexp" weight="2544" />
+      <edge id="53" source="#cxo" target="#customers" weight="1272" />
+      <edge id="54" source="#cxo" target="#socialmedia" weight="1272" />
+      <edge id="55" source="#Brand" target="#CustomerExperience" weight="1272" />
+      <edge id="56" source="#cars" target="#DSRC" weight="1272" />
+      <edge id="57" source="#TomFeeneyChat" target="#CEO" weight="1272" />
+      <edge id="58" source="#employee" target="#customer" weight="1272" />
+      <edge id="59" source="#CallCenter" target="#Podcast" weight="1272" />
+      <edge id="60" source="#infographic" target="#automotivesafety" weight="1272" />
+      <edge id="61" source="#heatstrokekills" target="#checkforbaby" weight="1272" />
+      <edge id="62" source="#cx" target="#custexp" weight="1272" />
+      <edge id="63" source="#Columbus" target="#PresCup" weight="1272" />
+      <edge id="64" source="#travelwell" target="#Buckeyes" weight="1272" />
+      <edge id="65" source="#travelwell" target="#tailgaters" weight="1272" />
+      <edge id="66" source="#in" target="#cex" weight="1272" />
+      <edge id="67" source="#in" target="#CCTR" weight="1272" />
+      <edge id="68" source="#customer" target="#employees" weight="1272" />
+      <edge id="69" source="#DriverSafetyTips" target="#AAA" weight="1272" />
+      <edge id="70" source="#naccm" target="#NPS" weight="1272" />
+      <edge id="71" source="#naccm" target="#CEM" weight="1272" />
+      <edge id="72" source="#CarLovers" target="#AutoEnthusiasts" weight="1272" />
+      <edge id="73" source="#Buckeyes" target="#tailgaters" weight="1272" />
+      <edge id="74" source="#Employee" target="#Customer" weight="1272" />
+      <edge id="75" source="#windshield" target="#CustomerService" weight="1272" />
+      <edge id="76" source="#windshield" target="#automotive" weight="1272" />
+      <edge id="77" source="#Infographic" target="#multichannelengagement" weight="1272" />
+      <edge id="78" source="#customers" target="#socialmedia" weight="1272" />
+      <edge id="79" source="#In" target="#sales" weight="1272" />
+      <edge id="80" source="#e" target="#recycling" weight="1272" />
+      <edge id="81" source="#CEM" target="#NPS" weight="1272" />
+      <edge id="82" source="#CEM" target="#Engagement" weight="1272" />
+      <edge id="83" source="#CEM" target="#CXO" weight="1272" />
+      <edge id="84" source="#Insurancefraud" target="#RealPlayer" weight="1272" />
+      <edge id="85" source="#Customer" target="#cmocongress" weight="1272" />
+      <edge id="86" source="#PresidentsCup" target="#Golf" weight="1272" />
+      <edge id="87" source="#ConsumersChoice" target="#custserve" weight="1272" />
+      <edge id="88" source="#nps2011" target="#leadbiz" weight="1272" />
+      <edge id="89" source="#socialmedia" target="#mktg" weight="1272" />
+      <edge id="90" source="#cex" target="#CCTR" weight="1272" />
+    </edges>
+  </graph>
+</gexf>

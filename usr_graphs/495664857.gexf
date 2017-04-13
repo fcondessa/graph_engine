@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#movingsucks" label="#movingsucks" />
+      <node id="#SWCbus" label="#SWCbus" />
+      <node id="#iOS6" label="#iOS6" />
+      <node id="#StartupWeekend" label="#StartupWeekend" />
+      <node id="#fail" label="#fail" />
+      <node id="#WWDC" label="#WWDC" />
+      <node id="#suck" label="#suck" />
+      <node id="#consignment" label="#consignment" />
+      <node id="#purge" label="#purge" />
+      <node id="#nyc" label="#nyc" />
+      <node id="#cbusr" label="#cbusr" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#gonnabelate" label="#gonnabelate" />
+      <node id="#Mac" label="#Mac" />
+      <node id="#youwillbemissed" label="#youwillbemissed" />
+      <node id="#fb" label="#fb" />
+      <node id="#StayCool" label="#StayCool" />
+      <node id="#startup" label="#startup" />
+      <node id="#feelingproductive" label="#feelingproductive" />
+      <node id="#eleven" label="#eleven" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#GetSelling" label="#GetSelling" />
+      <node id="#614Day" label="#614Day" />
+      <node id="#osu" label="#osu" />
+      <node id="#Hackdown" label="#Hackdown" />
+      <node id="#startups" label="#startups" />
+      <node id="#cbus" label="#cbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#movingsucks" target="#youwillbemissed" weight="271" />
+      <edge id="1" source="#movingsucks" target="#fb" weight="271" />
+      <edge id="2" source="#movingsucks" target="#feelingproductive" weight="271" />
+      <edge id="3" source="#SWCbus" target="#StartupWeekend" weight="271" />
+      <edge id="4" source="#SWCbus" target="#swcbus" weight="271" />
+      <edge id="5" source="#iOS6" target="#Mac" weight="271" />
+      <edge id="6" source="#iOS6" target="#Apple" weight="271" />
+      <edge id="7" source="#iOS6" target="#WWDC" weight="271" />
+      <edge id="8" source="#StartupWeekend" target="#swcbus" weight="271" />
+      <edge id="9" source="#fail" target="#suck" weight="271" />
+      <edge id="10" source="#WWDC" target="#Mac" weight="271" />
+      <edge id="11" source="#WWDC" target="#Apple" weight="271" />
+      <edge id="12" source="#consignment" target="#eleven" weight="271" />
+      <edge id="13" source="#consignment" target="#nyc" weight="271" />
+      <edge id="14" source="#purge" target="#crowdfunding" weight="542" />
+      <edge id="15" source="#nyc" target="#eleven" weight="271" />
+      <edge id="16" source="#cbusr" target="#614Day" weight="271" />
+      <edge id="17" source="#cbusr" target="#startup" weight="271" />
+      <edge id="18" source="#cbusr" target="#osu" weight="542" />
+      <edge id="19" source="#cbusr" target="#cbus" weight="542" />
+      <edge id="20" source="#cbusr" target="#startups" weight="271" />
+      <edge id="21" source="#swcbus" target="#Hackdown" weight="271" />
+      <edge id="22" source="#swcbus" target="#gonnabelate" weight="271" />
+      <edge id="23" source="#crowdfunding" target="#startups" weight="1626" />
+      <edge id="24" source="#gonnabelate" target="#Hackdown" weight="271" />
+      <edge id="25" source="#Mac" target="#Apple" weight="271" />
+      <edge id="26" source="#StayCool" target="#GetSelling" weight="271" />
+      <edge id="27" source="#startup" target="#osu" weight="271" />
+      <edge id="28" source="#startup" target="#cbus" weight="271" />
+      <edge id="29" source="#osu" target="#cbus" weight="271" />
+      <edge id="30" source="#startups" target="#cbus" weight="271" />
+    </edges>
+  </graph>
+</gexf>

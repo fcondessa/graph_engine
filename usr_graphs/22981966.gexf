@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#FreeKesha" label="#FreeKesha" />
+      <node id="#IWD2016" label="#IWD2016" />
+      <node id="#CPD" label="#CPD" />
+      <node id="#fam" label="#fam" />
+      <node id="#Utah" label="#Utah" />
+      <node id="#AmyPoehler" label="#AmyPoehler" />
+      <node id="#trump" label="#trump" />
+      <node id="#Flint" label="#Flint" />
+      <node id="#MilkyWay" label="#MilkyWay" />
+      <node id="#DarrenSeals" label="#DarrenSeals" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#KentState" label="#KentState" />
+      <node id="#boycottsony" label="#boycottsony" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#Windians" label="#Windians" />
+      <node id="#bar" label="#bar" />
+      <node id="#sports" label="#sports" />
+      <node id="#InternationalWomensDay" label="#InternationalWomensDay" />
+      <node id="#TinaFey" label="#TinaFey" />
+      <node id="#uncalledfor" label="#uncalledfor" />
+      <node id="#SheInspiresMe" label="#SheInspiresMe" />
+      <node id="#PaulONeal" label="#PaulONeal" />
+      <node id="#tai" label="#tai" />
+      <node id="#SistersPremiere" label="#SistersPremiere" />
+      <node id="#theacademyis" label="#theacademyis" />
+      <node id="#facesofhate" label="#facesofhate" />
+      <node id="#SistersMovie" label="#SistersMovie" />
+      <node id="#LittleMissFlint" label="#LittleMissFlint" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#trumprallycle" label="#trumprallycle" />
+      <node id="#OTD" label="#OTD" />
+      <node id="#FlintWaterCrisis" label="#FlintWaterCrisis" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#rude" label="#rude" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#FreeKesha" target="#boycottsony" weight="3199" />
+      <edge id="1" source="#IWD2016" target="#InternationalWomensDay" weight="3199" />
+      <edge id="2" source="#IWD2016" target="#SheInspiresMe" weight="3199" />
+      <edge id="3" source="#CPD" target="#PaulONeal" weight="3199" />
+      <edge id="4" source="#fam" target="#sports" weight="3199" />
+      <edge id="5" source="#fam" target="#bar" weight="3199" />
+      <edge id="6" source="#Utah" target="#MilkyWay" weight="3199" />
+      <edge id="7" source="#AmyPoehler" target="#SistersMovie" weight="3199" />
+      <edge id="8" source="#AmyPoehler" target="#TinaFey" weight="3199" />
+      <edge id="9" source="#AmyPoehler" target="#SistersPremiere" weight="3199" />
+      <edge id="10" source="#trump" target="#Flint" weight="3199" />
+      <edge id="11" source="#trump" target="#FlintWaterCrisis" weight="3199" />
+      <edge id="12" source="#trump" target="#LittleMissFlint" weight="3199" />
+      <edge id="13" source="#Flint" target="#FlintWaterCrisis" weight="3199" />
+      <edge id="14" source="#Flint" target="#LittleMissFlint" weight="3199" />
+      <edge id="15" source="#DarrenSeals" target="#BlackLivesMatter" weight="3199" />
+      <edge id="16" source="#RallyTogether" target="#Windians" weight="3199" />
+      <edge id="17" source="#RallyTogether" target="#WorldSeries" weight="3199" />
+      <edge id="18" source="#KentState" target="#OTD" weight="3199" />
+      <edge id="19" source="#Trump" target="#facesofhate" weight="3199" />
+      <edge id="20" source="#Trump" target="#trumprallycle" weight="3199" />
+      <edge id="21" source="#Debates2016" target="#debatenight" weight="3199" />
+      <edge id="22" source="#bar" target="#sports" weight="3199" />
+      <edge id="23" source="#InternationalWomensDay" target="#SheInspiresMe" weight="3199" />
+      <edge id="24" source="#TinaFey" target="#SistersMovie" weight="3199" />
+      <edge id="25" source="#TinaFey" target="#SistersPremiere" weight="3199" />
+      <edge id="26" source="#uncalledfor" target="#rude" weight="3199" />
+      <edge id="27" source="#tai" target="#theacademyis" weight="3199" />
+      <edge id="28" source="#SistersPremiere" target="#SistersMovie" weight="3199" />
+      <edge id="29" source="#facesofhate" target="#trumprallycle" weight="3199" />
+      <edge id="30" source="#LittleMissFlint" target="#FlintWaterCrisis" weight="3199" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#LEED" label="#LEED" />
+      <node id="#Geothermal" label="#Geothermal" />
+      <node id="#cleveland" label="#cleveland" />
+      <node id="#Cap" label="#Cap" />
+      <node id="#solarpower" label="#solarpower" />
+      <node id="#DLH" label="#DLH" />
+      <node id="#sustainabledesign" label="#sustainabledesign" />
+      <node id="#solar" label="#solar" />
+      <node id="#sd2011" label="#sd2011" />
+      <node id="#renewableenergy" label="#renewableenergy" />
+      <node id="#heartwarming" label="#heartwarming" />
+      <node id="#Gilbane" label="#Gilbane" />
+      <node id="#UrbanDesign" label="#UrbanDesign" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#HKSArchitects" label="#HKSArchitects" />
+      <node id="#Cleveland" label="#Cleveland" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#LEED" target="#Geothermal" weight="70" />
+      <edge id="1" source="#LEED" target="#DLH" weight="70" />
+      <edge id="2" source="#LEED" target="#sustainabledesign" weight="70" />
+      <edge id="3" source="#Geothermal" target="#DLH" weight="70" />
+      <edge id="4" source="#cleveland" target="#heartwarming" weight="70" />
+      <edge id="5" source="#Cap" target="#UrbanDesign" weight="70" />
+      <edge id="6" source="#Cap" target="#Columbus" weight="70" />
+      <edge id="7" source="#solarpower" target="#sd2011" weight="70" />
+      <edge id="8" source="#solar" target="#renewableenergy" weight="70" />
+      <edge id="9" source="#Gilbane" target="#HKSArchitects" weight="70" />
+      <edge id="10" source="#Gilbane" target="#Cleveland" weight="70" />
+      <edge id="11" source="#UrbanDesign" target="#Columbus" weight="70" />
+      <edge id="12" source="#HKSArchitects" target="#Cleveland" weight="70" />
+    </edges>
+  </graph>
+</gexf>

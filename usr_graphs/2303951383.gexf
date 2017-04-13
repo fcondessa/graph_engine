@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#transit" label="#transit" />
+      <node id="#cbusr" label="#cbusr" />
+      <node id="#614transportation" label="#614transportation" />
+      <node id="#VisionSixOneFour" label="#VisionSixOneFour" />
+      <node id="#lightrail" label="#lightrail" />
+      <node id="#Strongwater" label="#Strongwater" />
+      <node id="#ColumbusOH" label="#ColumbusOH" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#columbus" label="#columbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#transit" target="#transit" weight="264" />
+      <edge id="1" source="#cbusr" target="#cbus" weight="132" />
+      <edge id="2" source="#614transportation" target="#VisionSixOneFour" weight="132" />
+      <edge id="3" source="#614transportation" target="#lightrail" weight="132" />
+      <edge id="4" source="#VisionSixOneFour" target="#Strongwater" weight="132" />
+      <edge id="5" source="#ColumbusOH" target="#columbus" weight="132" />
+    </edges>
+  </graph>
+</gexf>

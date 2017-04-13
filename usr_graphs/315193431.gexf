@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DrinkChicagoBeer" label="#DrinkChicagoBeer" />
+      <node id="#metal" label="#metal" />
+      <node id="#party" label="#party" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#hoppedcorn" label="#hoppedcorn" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Stone2Cbus" label="#Stone2Cbus" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#CraftSnax" label="#CraftSnax" />
+      <node id="#unicornsarereal" label="#unicornsarereal" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#4thOfJuly" label="#4thOfJuly" />
+      <node id="#DarkApparition" label="#DarkApparition" />
+      <node id="#DrinkLocal" label="#DrinkLocal" />
+      <node id="#Cubswin" label="#Cubswin" />
+      <node id="#DrinkUpColumbus" label="#DrinkUpColumbus" />
+      <node id="#ACBW" label="#ACBW" />
+      <node id="#Premium" label="#Premium" />
+      <node id="#FThatGoat" label="#FThatGoat" />
+      <node id="#ohiobeer" label="#ohiobeer" />
+      <node id="#pelatonia" label="#pelatonia" />
+      <node id="#ThinMints" label="#ThinMints" />
+      <node id="#Troegs" label="#Troegs" />
+      <node id="#OldGuardian" label="#OldGuardian" />
+      <node id="#IPAday" label="#IPAday" />
+      <node id="#alaska" label="#alaska" />
+      <node id="#dead" label="#dead" />
+      <node id="#dr" label="#dr" />
+      <node id="#cbusbeerweek" label="#cbusbeerweek" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#columbuspride" label="#columbuspride" />
+      <node id="#TapAStoneDay" label="#TapAStoneDay" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#beer" label="#beer" />
+      <node id="#cbusaletrail" label="#cbusaletrail" />
+      <node id="#AleSmith" label="#AleSmith" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#OHber" label="#OHber" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DrinkChicagoBeer" target="#Cubswin" weight="3217" />
+      <edge id="1" source="#DrinkChicagoBeer" target="#FThatGoat" weight="3217" />
+      <edge id="2" source="#metal" target="#unicornsarereal" weight="3217" />
+      <edge id="3" source="#party" target="#4thOfJuly" weight="3217" />
+      <edge id="4" source="#Cbus" target="#craftbeer" weight="3217" />
+      <edge id="5" source="#Cbus" target="#OHber" weight="3217" />
+      <edge id="6" source="#hoppedcorn" target="#CraftSnax" weight="3217" />
+      <edge id="7" source="#Ohio" target="#Columbus" weight="6434" />
+      <edge id="8" source="#Ohio" target="#craftbeer" weight="6434" />
+      <edge id="9" source="#Stone2Cbus" target="#TapAStoneDay" weight="3217" />
+      <edge id="10" source="#Stone2Cbus" target="#OldGuardian" weight="3217" />
+      <edge id="11" source="#drinkupcolumbus" target="#columbuspride" weight="3217" />
+      <edge id="12" source="#drinkupcolumbus" target="#lifeincbus" weight="45038" />
+      <edge id="13" source="#drinkupcolumbus" target="#beer" weight="3217" />
+      <edge id="14" source="#drinkupcolumbus" target="#craftbeer" weight="32170" />
+      <edge id="15" source="#drinkupcolumbus" target="#cbusaletrail" weight="6434" />
+      <edge id="16" source="#drinkupcolumbus" target="#IPAday" weight="3217" />
+      <edge id="17" source="#drinkupcolumbus" target="#dr" weight="3217" />
+      <edge id="18" source="#drinkupcolumbus" target="#cbusbeerweek" weight="6434" />
+      <edge id="19" source="#drinkupcolumbus" target="#LifeInCbus" weight="3217" />
+      <edge id="20" source="#lifeincbus" target="#DrinkUpColumbus" weight="3217" />
+      <edge id="21" source="#lifeincbus" target="#craftbeer" weight="6434" />
+      <edge id="22" source="#DarkApparition" target="#ThinMints" weight="3217" />
+      <edge id="23" source="#DrinkLocal" target="#pelatonia" weight="3217" />
+      <edge id="24" source="#Cubswin" target="#FThatGoat" weight="3217" />
+      <edge id="25" source="#DrinkUpColumbus" target="#ACBW" weight="3217" />
+      <edge id="26" source="#Premium" target="#AleSmith" weight="3217" />
+      <edge id="27" source="#ohiobeer" target="#alaska" weight="3217" />
+      <edge id="28" source="#ohiobeer" target="#craftbeer" weight="3217" />
+      <edge id="29" source="#Troegs" target="#dead" weight="3217" />
+      <edge id="30" source="#Troegs" target="#cbus" weight="3217" />
+      <edge id="31" source="#OldGuardian" target="#TapAStoneDay" weight="3217" />
+      <edge id="32" source="#alaska" target="#craftbeer" weight="3217" />
+      <edge id="33" source="#dead" target="#cbus" weight="3217" />
+      <edge id="34" source="#dr" target="#beer" weight="3217" />
+      <edge id="35" source="#dr" target="#craftbeer" weight="3217" />
+      <edge id="36" source="#Columbus" target="#craftbeer" weight="9651" />
+      <edge id="37" source="#craftbeer" target="#beer" weight="3217" />
+    </edges>
+  </graph>
+</gexf>

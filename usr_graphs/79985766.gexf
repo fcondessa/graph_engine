@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#crazy" label="#crazy" />
+      <node id="#BotNY" label="#BotNY" />
+      <node id="#beeroclock" label="#beeroclock" />
+      <node id="#BrewShare" label="#BrewShare" />
+      <node id="#cba15" label="#cba15" />
+      <node id="#photo" label="#photo" />
+      <node id="#SCBW" label="#SCBW" />
+      <node id="#quadrupel" label="#quadrupel" />
+      <node id="#cbiaawards" label="#cbiaawards" />
+      <node id="#brewing" label="#brewing" />
+      <node id="#gravity" label="#gravity" />
+      <node id="#Mmmbeer" label="#Mmmbeer" />
+      <node id="#scbw" label="#scbw" />
+      <node id="#travel" label="#travel" />
+      <node id="#961beer" label="#961beer" />
+      <node id="#GBW" label="#GBW" />
+      <node id="#beer" label="#beer" />
+      <node id="#bangor" label="#bangor" />
+      <node id="#maine" label="#maine" />
+      <node id="#collab" label="#collab" />
+      <node id="#merryxmas" label="#merryxmas" />
+      <node id="#GBW2013" label="#GBW2013" />
+      <node id="#brunite" label="#brunite" />
+      <node id="#brewday" label="#brewday" />
+      <node id="#london" label="#london" />
+      <node id="#christmas" label="#christmas" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#BeerMimicsFood" label="#BeerMimicsFood" />
+      <node id="#Sydney" label="#Sydney" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#crazy" target="#collab" weight="3210" />
+      <edge id="1" source="#BotNY" target="#photo" weight="3210" />
+      <edge id="2" source="#beeroclock" target="#GBW2013" weight="3210" />
+      <edge id="3" source="#BrewShare" target="#BeerMimicsFood" weight="3210" />
+      <edge id="4" source="#BrewShare" target="#SCBW" weight="3210" />
+      <edge id="5" source="#cba15" target="#cbiaawards" weight="3210" />
+      <edge id="6" source="#SCBW" target="#BeerMimicsFood" weight="3210" />
+      <edge id="7" source="#quadrupel" target="#Mmmbeer" weight="3210" />
+      <edge id="8" source="#brewing" target="#brewday" weight="3210" />
+      <edge id="9" source="#brewing" target="#london" weight="3210" />
+      <edge id="10" source="#brewing" target="#craftbeer" weight="3210" />
+      <edge id="11" source="#gravity" target="#scbw" weight="3210" />
+      <edge id="12" source="#scbw" target="#brunite" weight="3210" />
+      <edge id="13" source="#travel" target="#beer" weight="9630" />
+      <edge id="14" source="#travel" target="#bangor" weight="3210" />
+      <edge id="15" source="#travel" target="#maine" weight="3210" />
+      <edge id="16" source="#961beer" target="#GBW" weight="3210" />
+      <edge id="17" source="#beer" target="#maine" weight="3210" />
+      <edge id="18" source="#beer" target="#bangor" weight="3210" />
+      <edge id="19" source="#beer" target="#christmas" weight="3210" />
+      <edge id="20" source="#bangor" target="#maine" weight="3210" />
+      <edge id="21" source="#merryxmas" target="#craftbeer" weight="3210" />
+      <edge id="22" source="#brewday" target="#london" weight="3210" />
+      <edge id="23" source="#brewday" target="#craftbeer" weight="3210" />
+      <edge id="24" source="#london" target="#craftbeer" weight="3210" />
+      <edge id="25" source="#christmas" target="#craftbeer" weight="3210" />
+      <edge id="26" source="#craftbeer" target="#Sydney" weight="3210" />
+    </edges>
+  </graph>
+</gexf>

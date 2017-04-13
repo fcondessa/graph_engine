@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ohioed" label="#ohioed" />
+      <node id="#WeAreOhio" label="#WeAreOhio" />
+      <node id="#LiveOn5" label="#LiveOn5" />
+      <node id="#OneForTheLand" label="#OneForTheLand" />
+      <node id="#Pokemon" label="#Pokemon" />
+      <node id="#nra" label="#nra" />
+      <node id="#election" label="#election" />
+      <node id="#CallistaGingrich" label="#CallistaGingrich" />
+      <node id="#warren" label="#warren" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#CLE20" label="#CLE20" />
+      <node id="#PantsOnFire" label="#PantsOnFire" />
+      <node id="#MariaShriver" label="#MariaShriver" />
+      <node id="#RachelMaddow" label="#RachelMaddow" />
+      <node id="#KellyRipa" label="#KellyRipa" />
+      <node id="#ObamainCleveland" label="#ObamainCleveland" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#PolitiFactThis" label="#PolitiFactThis" />
+      <node id="#cfpb" label="#cfpb" />
+      <node id="#BelieveMe" label="#BelieveMe" />
+      <node id="#LIVE" label="#LIVE" />
+      <node id="#DonPlusquellic" label="#DonPlusquellic" />
+      <node id="#casino" label="#casino" />
+      <node id="#SB5" label="#SB5" />
+      <node id="#issue2" label="#issue2" />
+      <node id="#ohiopolitics" label="#ohiopolitics" />
+      <node id="#fracking" label="#fracking" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#Frack" label="#Frack" />
+      <node id="#Youngstown" label="#Youngstown" />
+      <node id="#cordray" label="#cordray" />
+      <node id="#JoeThePlumber" label="#JoeThePlumber" />
+      <node id="#obamacsu" label="#obamacsu" />
+      <node id="#Kasich" label="#Kasich" />
+      <node id="#Issue3" label="#Issue3" />
+      <node id="#Issue2" label="#Issue2" />
+      <node id="#SherrodBrown" label="#SherrodBrown" />
+      <node id="#Findaway" label="#Findaway" />
+      <node id="#MittRomney" label="#MittRomney" />
+      <node id="#CavsParade" label="#CavsParade" />
+      <node id="#sotc" label="#sotc" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#BarackObama" label="#BarackObama" />
+      <node id="#guns" label="#guns" />
+      <node id="#essaohio" label="#essaohio" />
+      <node id="#sb5" label="#sb5" />
+      <node id="#OH" label="#OH" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#voter" label="#voter" />
+      <node id="#OH9" label="#OH9" />
+      <node id="#ohio" label="#ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ohioed" target="#essaohio" weight="1380" />
+      <edge id="1" source="#WeAreOhio" target="#Kasich" weight="2760" />
+      <edge id="2" source="#WeAreOhio" target="#SB5" weight="2760" />
+      <edge id="3" source="#LiveOn5" target="#RNC" weight="1380" />
+      <edge id="4" source="#OneForTheLand" target="#CavsParade" weight="1380" />
+      <edge id="5" source="#Pokemon" target="#RNC" weight="1380" />
+      <edge id="6" source="#nra" target="#guns" weight="1380" />
+      <edge id="7" source="#nra" target="#Ohio" weight="1380" />
+      <edge id="8" source="#election" target="#DonPlusquellic" weight="1380" />
+      <edge id="9" source="#CallistaGingrich" target="#MariaShriver" weight="1380" />
+      <edge id="10" source="#warren" target="#cordray" weight="1380" />
+      <edge id="11" source="#warren" target="#cfpb" weight="1380" />
+      <edge id="12" source="#RNCinCLE" target="#PolitiFactThis" weight="1380" />
+      <edge id="13" source="#RNCinCLE" target="#Cleveland" weight="1380" />
+      <edge id="14" source="#RNCinCLE" target="#BelieveMe" weight="1380" />
+      <edge id="15" source="#CLE20" target="#Ohio" weight="1380" />
+      <edge id="16" source="#PantsOnFire" target="#RachelMaddow" weight="1380" />
+      <edge id="17" source="#KellyRipa" target="#LIVE" weight="1380" />
+      <edge id="18" source="#ObamainCleveland" target="#ohiopolitics" weight="2760" />
+      <edge id="19" source="#ObamainCleveland" target="#ObamainCleveland" weight="8280" />
+      <edge id="20" source="#Ohio" target="#MittRomney" weight="1380" />
+      <edge id="21" source="#Ohio" target="#fracking" weight="1380" />
+      <edge id="22" source="#Ohio" target="#Frack" weight="1380" />
+      <edge id="23" source="#Ohio" target="#BarackObama" weight="1380" />
+      <edge id="24" source="#Ohio" target="#Obama" weight="1380" />
+      <edge id="25" source="#Ohio" target="#SherrodBrown" weight="1380" />
+      <edge id="26" source="#Ohio" target="#casino" weight="1380" />
+      <edge id="27" source="#Ohio" target="#SB5" weight="5520" />
+      <edge id="28" source="#Ohio" target="#Kasich" weight="5520" />
+      <edge id="29" source="#Ohio" target="#guns" weight="2760" />
+      <edge id="30" source="#Ohio" target="#voter" weight="1380" />
+      <edge id="31" source="#cfpb" target="#cordray" weight="1380" />
+      <edge id="32" source="#casino" target="#Kasich" weight="1380" />
+      <edge id="33" source="#casino" target="#CLE" weight="1380" />
+      <edge id="34" source="#SB5" target="#SherrodBrown" weight="1380" />
+      <edge id="35" source="#SB5" target="#Issue2" weight="1380" />
+      <edge id="36" source="#SB5" target="#Issue3" weight="1380" />
+      <edge id="37" source="#SB5" target="#OH" weight="1380" />
+      <edge id="38" source="#SB5" target="#Kasich" weight="5520" />
+      <edge id="39" source="#issue2" target="#ohio" weight="1380" />
+      <edge id="40" source="#CLE" target="#Kasich" weight="1380" />
+      <edge id="41" source="#CLE" target="#sotc" weight="4140" />
+      <edge id="42" source="#Obama" target="#Kasich" weight="1380" />
+      <edge id="43" source="#Obama" target="#Youngstown" weight="1380" />
+      <edge id="44" source="#Obama" target="#obamacsu" weight="1380" />
+      <edge id="45" source="#Obama" target="#Cleveland" weight="6900" />
+      <edge id="46" source="#RallyTogether" target="#Findaway" weight="1380" />
+      <edge id="47" source="#JoeThePlumber" target="#OH9" weight="1380" />
+      <edge id="48" source="#Kasich" target="#sb5" weight="1380" />
+      <edge id="49" source="#MittRomney" target="#BarackObama" weight="1380" />
+      <edge id="50" source="#RNC" target="#Trump" weight="1380" />
+    </edges>
+  </graph>
+</gexf>

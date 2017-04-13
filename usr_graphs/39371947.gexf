@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#veteran" label="#veteran" />
+      <node id="#asseenoncampus" label="#asseenoncampus" />
+      <node id="#heroes2u" label="#heroes2u" />
+      <node id="#author" label="#author" />
+      <node id="#flannelcrew" label="#flannelcrew" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#osu" label="#osu" />
+      <node id="#TakingOurTalentsToSouthBeach" label="#TakingOurTalentsToSouthBeach" />
+      <node id="#testing" label="#testing" />
+      <node id="#WillAllenChat" label="#WillAllenChat" />
+      <node id="#startup" label="#startup" />
+      <node id="#developer" label="#developer" />
+      <node id="#Heroes2u" label="#Heroes2u" />
+      <node id="#buckeyes" label="#buckeyes" />
+      <node id="#talent" label="#talent" />
+      <node id="#Fisher" label="#Fisher" />
+      <node id="#Miami" label="#Miami" />
+      <node id="#FootballSeason14" label="#FootballSeason14" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#veteran" target="#author" weight="36" />
+      <edge id="1" source="#asseenoncampus" target="#buckeyes" weight="36" />
+      <edge id="2" source="#asseenoncampus" target="#osu" weight="36" />
+      <edge id="3" source="#asseenoncampus" target="#Fisher" weight="36" />
+      <edge id="4" source="#asseenoncampus" target="#asseenincolumbus" weight="36" />
+      <edge id="5" source="#heroes2u" target="#startup" weight="36" />
+      <edge id="6" source="#heroes2u" target="#testing" weight="36" />
+      <edge id="7" source="#flannelcrew" target="#developer" weight="36" />
+      <edge id="8" source="#flannelcrew" target="#talent" weight="36" />
+      <edge id="9" source="#asseenincolumbus" target="#osu" weight="36" />
+      <edge id="10" source="#asseenincolumbus" target="#Fisher" weight="36" />
+      <edge id="11" source="#asseenincolumbus" target="#buckeyes" weight="36" />
+      <edge id="12" source="#osu" target="#buckeyes" weight="36" />
+      <edge id="13" source="#osu" target="#Fisher" weight="36" />
+      <edge id="14" source="#TakingOurTalentsToSouthBeach" target="#Miami" weight="36" />
+      <edge id="15" source="#TakingOurTalentsToSouthBeach" target="#Heroes2u" weight="36" />
+      <edge id="16" source="#testing" target="#startup" weight="36" />
+      <edge id="17" source="#WillAllenChat" target="#FootballSeason14" weight="36" />
+      <edge id="18" source="#developer" target="#talent" weight="36" />
+      <edge id="19" source="#Heroes2u" target="#Miami" weight="36" />
+      <edge id="20" source="#buckeyes" target="#Fisher" weight="36" />
+    </edges>
+  </graph>
+</gexf>

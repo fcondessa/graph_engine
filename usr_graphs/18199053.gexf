@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Hospital" label="#Hospital" />
+      <node id="#foodtip" label="#foodtip" />
+      <node id="#HealthTipTues" label="#HealthTipTues" />
+      <node id="#exercising" label="#exercising" />
+      <node id="#breastcancer" label="#breastcancer" />
+      <node id="#quitsmoking" label="#quitsmoking" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#BloodDrive" label="#BloodDrive" />
+      <node id="#RedCross" label="#RedCross" />
+      <node id="#firstaid" label="#firstaid" />
+      <node id="#nutritionmonth" label="#nutritionmonth" />
+      <node id="#memoryloss" label="#memoryloss" />
+      <node id="#cancersurvivorsmonth" label="#cancersurvivorsmonth" />
+      <node id="#backpain" label="#backpain" />
+      <node id="#ValentinesDay" label="#ValentinesDay" />
+      <node id="#FSR10" label="#FSR10" />
+      <node id="#health" label="#health" />
+      <node id="#healthtip" label="#healthtip" />
+      <node id="#GASO2011" label="#GASO2011" />
+      <node id="#getscreened" label="#getscreened" />
+      <node id="#springbreak" label="#springbreak" />
+      <node id="#hopegrowshere" label="#hopegrowshere" />
+      <node id="#healthtiptues" label="#healthtiptues" />
+      <node id="#SupportOHBCCP" label="#SupportOHBCCP" />
+      <node id="#cpr" label="#cpr" />
+      <node id="#Nurses" label="#Nurses" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Hospital" target="#Nurses" weight="647" />
+      <edge id="1" source="#foodtip" target="#healthtip" weight="647" />
+      <edge id="2" source="#HealthTipTues" target="#springbreak" weight="647" />
+      <edge id="3" source="#HealthTipTues" target="#exercising" weight="647" />
+      <edge id="4" source="#HealthTipTues" target="#memoryloss" weight="647" />
+      <edge id="5" source="#HealthTipTues" target="#diabetes" weight="647" />
+      <edge id="6" source="#breastcancer" target="#getscreened" weight="647" />
+      <edge id="7" source="#breastcancer" target="#SupportOHBCCP" weight="647" />
+      <edge id="8" source="#quitsmoking" target="#GASO2011" weight="647" />
+      <edge id="9" source="#diabetes" target="#nutritionmonth" weight="647" />
+      <edge id="10" source="#BloodDrive" target="#RedCross" weight="647" />
+      <edge id="11" source="#firstaid" target="#cpr" weight="647" />
+      <edge id="12" source="#cancersurvivorsmonth" target="#hopegrowshere" weight="647" />
+      <edge id="13" source="#backpain" target="#healthtip" weight="647" />
+      <edge id="14" source="#ValentinesDay" target="#healthtiptues" weight="647" />
+      <edge id="15" source="#FSR10" target="#health" weight="647" />
+    </edges>
+  </graph>
+</gexf>

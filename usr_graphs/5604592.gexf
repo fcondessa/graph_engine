@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#FREE" label="#FREE" />
+      <node id="#rebate" label="#rebate" />
+      <node id="#Rebate" label="#Rebate" />
+      <node id="#free" label="#free" />
+      <node id="#coupon" label="#coupon" />
+      <node id="#Sample" label="#Sample" />
+      <node id="#summerfun" label="#summerfun" />
+      <node id="#pools" label="#pools" />
+      <node id="#BigLots" label="#BigLots" />
+      <node id="#PoolAPalooza" label="#PoolAPalooza" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#FREE" target="#coupon" weight="35288" />
+      <edge id="1" source="#FREE" target="#Rebate" weight="12832" />
+      <edge id="2" source="#FREE" target="#Sample" weight="3208" />
+      <edge id="3" source="#rebate" target="#coupon" weight="3208" />
+      <edge id="4" source="#free" target="#coupon" weight="6416" />
+      <edge id="5" source="#summerfun" target="#pools" weight="3208" />
+      <edge id="6" source="#summerfun" target="#BigLots" weight="3208" />
+      <edge id="7" source="#summerfun" target="#PoolAPalooza" weight="3208" />
+      <edge id="8" source="#pools" target="#BigLots" weight="3208" />
+      <edge id="9" source="#pools" target="#PoolAPalooza" weight="3208" />
+      <edge id="10" source="#BigLots" target="#PoolAPalooza" weight="3208" />
+    </edges>
+  </graph>
+</gexf>

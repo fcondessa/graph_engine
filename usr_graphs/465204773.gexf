@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#IRS" label="#IRS" />
+      <node id="#patreon" label="#patreon" />
+      <node id="#Wales" label="#Wales" />
+      <node id="#pancake" label="#pancake" />
+      <node id="#Sales" label="#Sales" />
+      <node id="#RichRewardsTLC" label="#RichRewardsTLC" />
+      <node id="#tickets" label="#tickets" />
+      <node id="#miguel" label="#miguel" />
+      <node id="#video" label="#video" />
+      <node id="#Spiritual" label="#Spiritual" />
+      <node id="#Liberal" label="#Liberal" />
+      <node id="#Growth" label="#Growth" />
+      <node id="#grilling" label="#grilling" />
+      <node id="#tour" label="#tour" />
+      <node id="#Technology" label="#Technology" />
+      <node id="#UML" label="#UML" />
+      <node id="#US" label="#US" />
+      <node id="#Matthew" label="#Matthew" />
+      <node id="#Tickets" label="#Tickets" />
+      <node id="#Sports" label="#Sports" />
+      <node id="#Sia" label="#Sia" />
+      <node id="#WelshCake" label="#WelshCake" />
+      <node id="#Faith" label="#Faith" />
+      <node id="#Sociology" label="#Sociology" />
+      <node id="#Leads" label="#Leads" />
+      <node id="#biscuit" label="#biscuit" />
+      <node id="#Live" label="#Live" />
+      <node id="#alunageorge" label="#alunageorge" />
+      <node id="#Tactics" label="#Tactics" />
+      <node id="#weather" label="#weather" />
+      <node id="#NameCalling" label="#NameCalling" />
+      <node id="#EarnWhileYouBurn" label="#EarnWhileYouBurn" />
+      <node id="#DEBATE" label="#DEBATE" />
+      <node id="#bookmark" label="#bookmark" />
+      <node id="#Memoir" label="#Memoir" />
+      <node id="#scone" label="#scone" />
+      <node id="#love" label="#love" />
+      <node id="#News" label="#News" />
+      <node id="#Music" label="#Music" />
+      <node id="#TSO" label="#TSO" />
+      <node id="#RivieraNayarit" label="#RivieraNayarit" />
+      <node id="#Indie" label="#Indie" />
+      <node id="#PuertoVallarta" label="#PuertoVallarta" />
+      <node id="#Networking" label="#Networking" />
+      <node id="#Inspiration" label="#Inspiration" />
+      <node id="#meat" label="#meat" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#IRS" target="#News" weight="3204" />
+      <edge id="1" source="#patreon" target="#UML" weight="6408" />
+      <edge id="2" source="#patreon" target="#video" weight="6408" />
+      <edge id="3" source="#Wales" target="#love" weight="12816" />
+      <edge id="4" source="#Wales" target="#US" weight="12816" />
+      <edge id="5" source="#pancake" target="#scone" weight="173016" />
+      <edge id="6" source="#pancake" target="#biscuit" weight="173016" />
+      <edge id="7" source="#pancake" target="#WelshCake" weight="173016" />
+      <edge id="8" source="#Sales" target="#Networking" weight="6408" />
+      <edge id="9" source="#Sales" target="#Leads" weight="6408" />
+      <edge id="10" source="#RichRewardsTLC" target="#EarnWhileYouBurn" weight="156996" />
+      <edge id="11" source="#tickets" target="#Sia" weight="179424" />
+      <edge id="12" source="#tickets" target="#tour" weight="179424" />
+      <edge id="13" source="#tickets" target="#alunageorge" weight="179424" />
+      <edge id="14" source="#tickets" target="#miguel" weight="179424" />
+      <edge id="15" source="#miguel" target="#tour" weight="179424" />
+      <edge id="16" source="#miguel" target="#Sia" weight="179424" />
+      <edge id="17" source="#miguel" target="#alunageorge" weight="179424" />
+      <edge id="18" source="#video" target="#UML" weight="6408" />
+      <edge id="19" source="#Spiritual" target="#Inspiration" weight="6408" />
+      <edge id="20" source="#Liberal" target="#NameCalling" weight="3204" />
+      <edge id="21" source="#Liberal" target="#DEBATE" weight="3204" />
+      <edge id="22" source="#Liberal" target="#Tactics" weight="3204" />
+      <edge id="23" source="#Growth" target="#Sociology" weight="6408" />
+      <edge id="24" source="#grilling" target="#meat" weight="57672" />
+      <edge id="25" source="#tour" target="#Sia" weight="179424" />
+      <edge id="26" source="#tour" target="#alunageorge" weight="179424" />
+      <edge id="27" source="#Technology" target="#Sports" weight="3204" />
+      <edge id="28" source="#US" target="#love" weight="12816" />
+      <edge id="29" source="#Matthew" target="#weather" weight="3204" />
+      <edge id="30" source="#Matthew" target="#bookmark" weight="3204" />
+      <edge id="31" source="#Tickets" target="#TSO" weight="67284" />
+      <edge id="32" source="#Sports" target="#News" weight="3204" />
+      <edge id="33" source="#Sia" target="#alunageorge" weight="179424" />
+      <edge id="34" source="#WelshCake" target="#biscuit" weight="173016" />
+      <edge id="35" source="#WelshCake" target="#scone" weight="173016" />
+      <edge id="36" source="#Faith" target="#Memoir" weight="201852" />
+      <edge id="37" source="#Leads" target="#Networking" weight="6408" />
+      <edge id="38" source="#biscuit" target="#scone" weight="173016" />
+      <edge id="39" source="#Live" target="#Indie" weight="41652" />
+      <edge id="40" source="#Live" target="#Music" weight="41652" />
+      <edge id="41" source="#Tactics" target="#NameCalling" weight="3204" />
+      <edge id="42" source="#Tactics" target="#DEBATE" weight="3204" />
+      <edge id="43" source="#weather" target="#bookmark" weight="3204" />
+      <edge id="44" source="#NameCalling" target="#DEBATE" weight="3204" />
+      <edge id="45" source="#Music" target="#Indie" weight="41652" />
+      <edge id="46" source="#RivieraNayarit" target="#PuertoVallarta" weight="51264" />
+    </edges>
+  </graph>
+</gexf>

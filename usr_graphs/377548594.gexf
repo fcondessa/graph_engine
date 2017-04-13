@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OhioEd" label="#OhioEd" />
+      <node id="#Pandas" label="#Pandas" />
+      <node id="#CityChampions" label="#CityChampions" />
+      <node id="#DMSPride" label="#DMSPride" />
+      <node id="#FAFSA" label="#FAFSA" />
+      <node id="#spiritofccs" label="#spiritofccs" />
+      <node id="#CreditsCount" label="#CreditsCount" />
+      <node id="#ColumbusProud" label="#ColumbusProud" />
+      <node id="#Students" label="#Students" />
+      <node id="#reachhigher" label="#reachhigher" />
+      <node id="#SpiritofCCS" label="#SpiritofCCS" />
+      <node id="#Vimeo" label="#Vimeo" />
+      <node id="#olympicselfies" label="#olympicselfies" />
+      <node id="#ReachHigher" label="#ReachHigher" />
+      <node id="#cmcforum" label="#cmcforum" />
+      <node id="#PlaceMakingCMH" label="#PlaceMakingCMH" />
+      <node id="#education" label="#education" />
+      <node id="#Broadcast" label="#Broadcast" />
+      <node id="#CollegeSigningDay" label="#CollegeSigningDay" />
+      <node id="#Newspaper" label="#Newspaper" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#basketballpreview" label="#basketballpreview" />
+      <node id="#BravesMessenger" label="#BravesMessenger" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#HowtoWalktoSchool" label="#HowtoWalktoSchool" />
+      <node id="#collegesigning" label="#collegesigning" />
+      <node id="#College" label="#College" />
+      <node id="#braves" label="#braves" />
+      <node id="#nightofentertainment" label="#nightofentertainment" />
+      <node id="#marchwiththemouse" label="#marchwiththemouse" />
+      <node id="#cbusedu" label="#cbusedu" />
+      <node id="#FamilyFun" label="#FamilyFun" />
+      <node id="#uwcoc" label="#uwcoc" />
+      <node id="#guidanceupdate" label="#guidanceupdate" />
+      <node id="#GoBraves" label="#GoBraves" />
+      <node id="#myccslibrary" label="#myccslibrary" />
+      <node id="#cbuskids" label="#cbuskids" />
+      <node id="#CollegeCreditPlus" label="#CollegeCreditPlus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OhioEd" target="#CollegeCreditPlus" weight="525" />
+      <edge id="1" source="#Pandas" target="#FamilyFun" weight="525" />
+      <edge id="2" source="#CityChampions" target="#GoBraves" weight="525" />
+      <edge id="3" source="#DMSPride" target="#SpiritofCCS" weight="525" />
+      <edge id="4" source="#FAFSA" target="#College" weight="525" />
+      <edge id="5" source="#FAFSA" target="#Students" weight="525" />
+      <edge id="6" source="#spiritofccs" target="#myccslibrary" weight="525" />
+      <edge id="7" source="#spiritofccs" target="#marchwiththemouse" weight="1575" />
+      <edge id="8" source="#spiritofccs" target="#cbuskids" weight="525" />
+      <edge id="9" source="#CreditsCount" target="#STEM" weight="525" />
+      <edge id="10" source="#ColumbusProud" target="#SpiritofCCS" weight="525" />
+      <edge id="11" source="#Students" target="#College" weight="525" />
+      <edge id="12" source="#reachhigher" target="#collegesigning" weight="525" />
+      <edge id="13" source="#Vimeo" target="#basketballpreview" weight="525" />
+      <edge id="14" source="#Vimeo" target="#guidanceupdate" weight="525" />
+      <edge id="15" source="#Vimeo" target="#olympicselfies" weight="525" />
+      <edge id="16" source="#Vimeo" target="#nightofentertainment" weight="525" />
+      <edge id="17" source="#ReachHigher" target="#CollegeSigningDay" weight="525" />
+      <edge id="18" source="#cmcforum" target="#cbusedu" weight="525" />
+      <edge id="19" source="#PlaceMakingCMH" target="#HowtoWalktoSchool" weight="525" />
+      <edge id="20" source="#education" target="#Columbus" weight="525" />
+      <edge id="21" source="#Broadcast" target="#Newspaper" weight="525" />
+      <edge id="22" source="#BravesMessenger" target="#braves" weight="525" />
+      <edge id="23" source="#nightofentertainment" target="#guidanceupdate" weight="525" />
+      <edge id="24" source="#cbusedu" target="#uwcoc" weight="525" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#PowerBreakfast" label="#PowerBreakfast" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#save" label="#save" />
+      <node id="#energy" label="#energy" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#track" label="#track" />
+      <node id="#dublinohio" label="#dublinohio" />
+      <node id="#manage" label="#manage" />
+      <node id="#sustainable" label="#sustainable" />
+      <node id="#rethinksustainability" label="#rethinksustainability" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#superbowl" target="#sustainability" weight="52" />
+      <edge id="1" source="#PowerBreakfast" target="#dublinohio" weight="52" />
+      <edge id="2" source="#sustainability" target="#save" weight="312" />
+      <edge id="3" source="#sustainability" target="#energy" weight="52" />
+      <edge id="4" source="#sustainability" target="#track" weight="312" />
+      <edge id="5" source="#sustainability" target="#manage" weight="312" />
+      <edge id="6" source="#save" target="#manage" weight="884" />
+      <edge id="7" source="#save" target="#sustainable" weight="52" />
+      <edge id="8" source="#save" target="#rethinksustainability" weight="416" />
+      <edge id="9" source="#save" target="#track" weight="884" />
+      <edge id="10" source="#energy" target="#SOTU" weight="52" />
+      <edge id="11" source="#track" target="#manage" weight="884" />
+      <edge id="12" source="#track" target="#sustainable" weight="52" />
+      <edge id="13" source="#track" target="#rethinksustainability" weight="416" />
+      <edge id="14" source="#manage" target="#sustainable" weight="52" />
+      <edge id="15" source="#manage" target="#rethinksustainability" weight="416" />
+    </edges>
+  </graph>
+</gexf>

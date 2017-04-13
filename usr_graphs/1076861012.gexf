@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DayofService" label="#DayofService" />
+      <node id="#Comm_college" label="#Comm_college" />
+      <node id="#ChangeforTomorrow" label="#ChangeforTomorrow" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#Storify" label="#Storify" />
+      <node id="#stem" label="#stem" />
+      <node id="#CSCC" label="#CSCC" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#SmartCityChallenge" label="#SmartCityChallenge" />
+      <node id="#KilbourneProud" label="#KilbourneProud" />
+      <node id="#cleanstreams" label="#cleanstreams" />
+      <node id="#DaytonFlyers" label="#DaytonFlyers" />
+      <node id="#earlycollege" label="#earlycollege" />
+      <node id="#HigherEd" label="#HigherEd" />
+      <node id="#SpiritofCCS" label="#SpiritofCCS" />
+      <node id="#graduation" label="#graduation" />
+      <node id="#CreditsCount" label="#CreditsCount" />
+      <node id="#CentralOhioCompact" label="#CentralOhioCompact" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#comm_college" label="#comm_college" />
+      <node id="#StateChamps" label="#StateChamps" />
+      <node id="#BannedBooksWeek" label="#BannedBooksWeek" />
+      <node id="#colleges" label="#colleges" />
+      <node id="#CorporateCaring" label="#CorporateCaring" />
+      <node id="#LogisticsART" label="#LogisticsART" />
+      <node id="#PreferredPathway" label="#PreferredPathway" />
+      <node id="#BluePrintColumbus" label="#BluePrintColumbus" />
+      <node id="#dfscmh" label="#dfscmh" />
+      <node id="#ICF" label="#ICF" />
+      <node id="#GradNation" label="#GradNation" />
+      <node id="#Logistics" label="#Logistics" />
+      <node id="#Elite8" label="#Elite8" />
+      <node id="#StrongerTogether" label="#StrongerTogether" />
+      <node id="#ReachHigher" label="#ReachHigher" />
+      <node id="#LaTomaStrong" label="#LaTomaStrong" />
+      <node id="#CMCForum" label="#CMCForum" />
+      <node id="#centralohiocompact" label="#centralohiocompact" />
+      <node id="#FlyerFaithful" label="#FlyerFaithful" />
+      <node id="#SkillsAtWork" label="#SkillsAtWork" />
+      <node id="#cscc" label="#cscc" />
+      <node id="#career" label="#career" />
+      <node id="#DebtFree" label="#DebtFree" />
+      <node id="#prek" label="#prek" />
+      <node id="#CollegeSigningDay" label="#CollegeSigningDay" />
+      <node id="#FlyerNation" label="#FlyerNation" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#Chamber2015" label="#Chamber2015" />
+      <node id="#debtfreedegree" label="#debtfreedegree" />
+      <node id="#USNLaunchBash2015" label="#USNLaunchBash2015" />
+      <node id="#DestinationOSU" label="#DestinationOSU" />
+      <node id="#umvim" label="#umvim" />
+      <node id="#grit" label="#grit" />
+      <node id="#job" label="#job" />
+      <node id="#preferredpathway" label="#preferredpathway" />
+      <node id="#SeeYouInMemphis" label="#SeeYouInMemphis" />
+      <node id="#highered" label="#highered" />
+      <node id="#StraightAFund" label="#StraightAFund" />
+      <node id="#Preferred" label="#Preferred" />
+      <node id="#skillsgap" label="#skillsgap" />
+      <node id="#emssdeans" label="#emssdeans" />
+      <node id="#AACC2015" label="#AACC2015" />
+      <node id="#Veterans" label="#Veterans" />
+      <node id="#DirectConnect" label="#DirectConnect" />
+      <node id="#NewSkillsatWork" label="#NewSkillsatWork" />
+      <node id="#logisticsart" label="#logisticsart" />
+      <node id="#workforce" label="#workforce" />
+      <node id="#CompactSummit" label="#CompactSummit" />
+      <node id="#flyerfaithful" label="#flyerfaithful" />
+      <node id="#DebtFreeDegree" label="#DebtFreeDegree" />
+      <node id="#districtchampions" label="#districtchampions" />
+      <node id="#CBusConnect" label="#CBusConnect" />
+      <node id="#fairchanceemployers" label="#fairchanceemployers" />
+      <node id="#centralohicompact" label="#centralohicompact" />
+      <node id="#HigherEdFuture" label="#HigherEdFuture" />
+      <node id="#daytonproud" label="#daytonproud" />
+      <node id="#whatgraduationmeans" label="#whatgraduationmeans" />
+      <node id="#studentdebt" label="#studentdebt" />
+      <node id="#InnovationGenerationOhio" label="#InnovationGenerationOhio" />
+      <node id="#stempathways" label="#stempathways" />
+      <node id="#CollegeCreditPlus" label="#CollegeCreditPlus" />
+      <node id="#WeAreUD" label="#WeAreUD" />
+      <node id="#csccgraduation" label="#csccgraduation" />
+      <node id="#PartnershipMatters" label="#PartnershipMatters" />
+      <node id="#GoCougars" label="#GoCougars" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DayofService" target="#CSCC" weight="729" />
+      <edge id="1" source="#Comm_college" target="#HigherEd" weight="729" />
+      <edge id="2" source="#ChangeforTomorrow" target="#USNLaunchBash2015" weight="729" />
+      <edge id="3" source="#jobs" target="#workforce" weight="729" />
+      <edge id="4" source="#jobs" target="#Ohio" weight="729" />
+      <edge id="5" source="#SmartColumbus" target="#SmartCityChallenge" weight="729" />
+      <edge id="6" source="#Storify" target="#CompactSummit" weight="729" />
+      <edge id="7" source="#Storify" target="#GradNation" weight="729" />
+      <edge id="8" source="#stem" target="#stempathways" weight="729" />
+      <edge id="9" source="#CSCC" target="#GoCougars" weight="1458" />
+      <edge id="10" source="#insurance" target="#career" weight="729" />
+      <edge id="11" source="#insurance" target="#Ohio" weight="729" />
+      <edge id="12" source="#KilbourneProud" target="#StrongerTogether" weight="729" />
+      <edge id="13" source="#KilbourneProud" target="#PartnershipMatters" weight="729" />
+      <edge id="14" source="#cleanstreams" target="#BluePrintColumbus" weight="729" />
+      <edge id="15" source="#DaytonFlyers" target="#FlyerFaithful" weight="729" />
+      <edge id="16" source="#DaytonFlyers" target="#Elite8" weight="729" />
+      <edge id="17" source="#earlycollege" target="#StraightAFund" weight="729" />
+      <edge id="18" source="#earlycollege" target="#Ohio" weight="729" />
+      <edge id="19" source="#SpiritofCCS" target="#CreditsCount" weight="729" />
+      <edge id="20" source="#graduation" target="#DebtFreeDegree" weight="729" />
+      <edge id="21" source="#CreditsCount" target="#STEM" weight="729" />
+      <edge id="22" source="#CreditsCount" target="#CorporateCaring" weight="729" />
+      <edge id="23" source="#CentralOhioCompact" target="#NewSkillsatWork" weight="729" />
+      <edge id="24" source="#CentralOhioCompact" target="#ICF" weight="729" />
+      <edge id="25" source="#CentralOhioCompact" target="#PreferredPathway" weight="729" />
+      <edge id="26" source="#CentralOhioCompact" target="#AACC2015" weight="729" />
+      <edge id="27" source="#CentralOhioCompact" target="#HigherEdFuture" weight="729" />
+      <edge id="28" source="#CentralOhioCompact" target="#SkillsAtWork" weight="729" />
+      <edge id="29" source="#Ohio" target="#career" weight="729" />
+      <edge id="30" source="#Ohio" target="#workforce" weight="729" />
+      <edge id="31" source="#Ohio" target="#Veterans" weight="729" />
+      <edge id="32" source="#Ohio" target="#StraightAFund" weight="1458" />
+      <edge id="33" source="#Ohio" target="#CollegeCreditPlus" weight="1458" />
+      <edge id="34" source="#comm_college" target="#highered" weight="1458" />
+      <edge id="35" source="#StateChamps" target="#GoCougars" weight="729" />
+      <edge id="36" source="#BannedBooksWeek" target="#cscc" weight="729" />
+      <edge id="37" source="#colleges" target="#studentdebt" weight="729" />
+      <edge id="38" source="#LogisticsART" target="#HigherEdFuture" weight="729" />
+      <edge id="39" source="#PreferredPathway" target="#DebtFree" weight="729" />
+      <edge id="40" source="#PreferredPathway" target="#DirectConnect" weight="729" />
+      <edge id="41" source="#PreferredPathway" target="#DebtFreeDegree" weight="1458" />
+      <edge id="42" source="#dfscmh" target="#fairchanceemployers" weight="729" />
+      <edge id="43" source="#GradNation" target="#CompactSummit" weight="4374" />
+      <edge id="44" source="#GradNation" target="#grit" weight="729" />
+      <edge id="45" source="#Logistics" target="#job" weight="729" />
+      <edge id="46" source="#Elite8" target="#FlyerFaithful" weight="729" />
+      <edge id="47" source="#StrongerTogether" target="#PartnershipMatters" weight="729" />
+      <edge id="48" source="#ReachHigher" target="#CollegeSigningDay" weight="729" />
+      <edge id="49" source="#LaTomaStrong" target="#umvim" weight="729" />
+      <edge id="50" source="#CMCForum" target="#debtfreedegree" weight="729" />
+      <edge id="51" source="#centralohiocompact" target="#InnovationGenerationOhio" weight="729" />
+      <edge id="52" source="#centralohiocompact" target="#prek" weight="729" />
+      <edge id="53" source="#DebtFree" target="#Preferred" weight="729" />
+      <edge id="54" source="#DebtFree" target="#CollegeCreditPlus" weight="729" />
+      <edge id="55" source="#prek" target="#InnovationGenerationOhio" weight="729" />
+      <edge id="56" source="#FlyerNation" target="#SeeYouInMemphis" weight="729" />
+      <edge id="57" source="#Chamber2015" target="#CBusConnect" weight="1458" />
+      <edge id="58" source="#debtfreedegree" target="#preferredpathway" weight="729" />
+      <edge id="59" source="#debtfreedegree" target="#CompactSummit" weight="729" />
+      <edge id="60" source="#DestinationOSU" target="#CompactSummit" weight="729" />
+      <edge id="61" source="#grit" target="#CompactSummit" weight="729" />
+      <edge id="62" source="#Preferred" target="#CollegeCreditPlus" weight="729" />
+      <edge id="63" source="#skillsgap" target="#NewSkillsatWork" weight="729" />
+      <edge id="64" source="#emssdeans" target="#csccgraduation" weight="729" />
+      <edge id="65" source="#logisticsart" target="#centralohicompact" weight="729" />
+      <edge id="66" source="#CompactSummit" target="#CollegeCreditPlus" weight="1458" />
+      <edge id="67" source="#flyerfaithful" target="#daytonproud" weight="729" />
+      <edge id="68" source="#flyerfaithful" target="#WeAreUD" weight="729" />
+      <edge id="69" source="#DebtFreeDegree" target="#csccgraduation" weight="729" />
+      <edge id="70" source="#districtchampions" target="#GoCougars" weight="729" />
+      <edge id="71" source="#daytonproud" target="#WeAreUD" weight="729" />
+      <edge id="72" source="#whatgraduationmeans" target="#csccgraduation" weight="729" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Nationwide" label="#Nationwide" />
+      <node id="#NationwideArena" label="#NationwideArena" />
+      <node id="#BeatMichigan" label="#BeatMichigan" />
+      <node id="#UKBills" label="#UKBills" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#lifesaver" label="#lifesaver" />
+      <node id="#Monsters" label="#Monsters" />
+      <node id="#NHLAllStarWeekend" label="#NHLAllStarWeekend" />
+      <node id="#RedCross" label="#RedCross" />
+      <node id="#monsterale" label="#monsterale" />
+      <node id="#NHLBreakawayJohansen" label="#NHLBreakawayJohansen" />
+      <node id="#NHLAllStarGame" label="#NHLAllStarGame" />
+      <node id="#LEM" label="#LEM" />
+      <node id="#Blackhawks" label="#Blackhawks" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#CenterIce" label="#CenterIce" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#Canes" label="#Canes" />
+      <node id="#RedCrossBloodApp" label="#RedCrossBloodApp" />
+      <node id="#ALLforCLE" label="#ALLforCLE" />
+      <node id="#NEvsBUF" label="#NEvsBUF" />
+      <node id="#BillsCamp" label="#BillsCamp" />
+      <node id="#BattleTogether" label="#BattleTogether" />
+      <node id="#ALLin216" label="#ALLin216" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#FeelTheRush" label="#FeelTheRush" />
+      <node id="#WeAreThe5thLine" label="#WeAreThe5thLine" />
+      <node id="#billswhere" label="#billswhere" />
+      <node id="#Nhlplayoffs" label="#Nhlplayoffs" />
+      <node id="#CalderCup" label="#CalderCup" />
+      <node id="#CircleTheWagons" label="#CircleTheWagons" />
+      <node id="#NHLAllstar" label="#NHLAllstar" />
+      <node id="#BillsMobile" label="#BillsMobile" />
+      <node id="#BloodBattle" label="#BloodBattle" />
+      <node id="#Caps" label="#Caps" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Nationwide" target="#CBJ" weight="833" />
+      <edge id="1" source="#Nationwide" target="#NHLAllstar" weight="833" />
+      <edge id="2" source="#NationwideArena" target="#NHLAllStarGame" weight="833" />
+      <edge id="3" source="#NationwideArena" target="#CBJ" weight="833" />
+      <edge id="4" source="#BeatMichigan" target="#BloodBattle" weight="833" />
+      <edge id="5" source="#UKBills" target="#FeelTheRush" weight="833" />
+      <edge id="6" source="#NBAFinals" target="#Monsters" weight="833" />
+      <edge id="7" source="#NBAFinals" target="#TBT" weight="833" />
+      <edge id="8" source="#NBAFinals" target="#ALLforCLE" weight="833" />
+      <edge id="9" source="#lifesaver" target="#RedCross" weight="833" />
+      <edge id="10" source="#Monsters" target="#CalderCup" weight="833" />
+      <edge id="11" source="#Monsters" target="#ALLforCLE" weight="833" />
+      <edge id="12" source="#Monsters" target="#BattleTogether" weight="3332" />
+      <edge id="13" source="#Monsters" target="#TBT" weight="833" />
+      <edge id="14" source="#NHLAllStarWeekend" target="#CBJ" weight="833" />
+      <edge id="15" source="#NHLAllStarWeekend" target="#NHL" weight="833" />
+      <edge id="16" source="#monsterale" target="#CBJ" weight="833" />
+      <edge id="17" source="#NHLBreakawayJohansen" target="#NHLAllStar" weight="833" />
+      <edge id="18" source="#NHLAllStarGame" target="#CBJ" weight="1666" />
+      <edge id="19" source="#LEM" target="#CBJ" weight="833" />
+      <edge id="20" source="#Blackhawks" target="#CBJ" weight="833" />
+      <edge id="21" source="#CBJ" target="#Canes" weight="833" />
+      <edge id="22" source="#CBJ" target="#Nhlplayoffs" weight="833" />
+      <edge id="23" source="#CBJ" target="#Caps" weight="833" />
+      <edge id="24" source="#CBJ" target="#NHLAllstar" weight="833" />
+      <edge id="25" source="#CBJ" target="#CBJ" weight="1666" />
+      <edge id="26" source="#CBJ" target="#NHL" weight="1666" />
+      <edge id="27" source="#CBJ" target="#NHLAllStar" weight="2499" />
+      <edge id="28" source="#CBJ" target="#WeAreThe5thLine" weight="833" />
+      <edge id="29" source="#CenterIce" target="#NHLAllStar" weight="833" />
+      <edge id="30" source="#RedCrossBloodApp" target="#DYK" weight="833" />
+      <edge id="31" source="#ALLforCLE" target="#TBT" weight="833" />
+      <edge id="32" source="#NEvsBUF" target="#FeelTheRush" weight="833" />
+      <edge id="33" source="#NEvsBUF" target="#CircleTheWagons" weight="833" />
+      <edge id="34" source="#BillsCamp" target="#FeelTheRush" weight="833" />
+      <edge id="35" source="#BattleTogether" target="#ALLin216" weight="833" />
+      <edge id="36" source="#FeelTheRush" target="#CircleTheWagons" weight="833" />
+      <edge id="37" source="#billswhere" target="#BillsMobile" weight="833" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#columbusartsfest" label="#columbusartsfest" />
+      <node id="#MOO" label="#MOO" />
+      <node id="#Buckeye" label="#Buckeye" />
+      <node id="#KneadFarmAnimals" label="#KneadFarmAnimals" />
+      <node id="#GalleryHop" label="#GalleryHop" />
+      <node id="#galleryhop" label="#galleryhop" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#columbusartsfest" target="#galleryhop" weight="336" />
+      <edge id="1" source="#MOO" target="#KneadFarmAnimals" weight="336" />
+      <edge id="2" source="#Buckeye" target="#GalleryHop" weight="336" />
+    </edges>
+  </graph>
+</gexf>

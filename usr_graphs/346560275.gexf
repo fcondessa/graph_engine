@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#spikedcider" label="#spikedcider" />
+      <node id="#whiskey" label="#whiskey" />
+      <node id="#starwarsday" label="#starwarsday" />
+      <node id="#islay" label="#islay" />
+      <node id="#cider" label="#cider" />
+      <node id="#SoloOnIce" label="#SoloOnIce" />
+      <node id="#cocktail" label="#cocktail" />
+      <node id="#singlemaltscotch" label="#singlemaltscotch" />
+      <node id="#cheers" label="#cheers" />
+      <node id="#GIn" label="#GIn" />
+      <node id="#drinks" label="#drinks" />
+      <node id="#scotch" label="#scotch" />
+      <node id="#Whisky" label="#Whisky" />
+      <node id="#apple" label="#apple" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#spikedcider" target="#drinks" weight="918" />
+      <edge id="1" source="#spikedcider" target="#cider" weight="918" />
+      <edge id="2" source="#spikedcider" target="#apple" weight="918" />
+      <edge id="3" source="#whiskey" target="#scotch" weight="918" />
+      <edge id="4" source="#whiskey" target="#singlemaltscotch" weight="918" />
+      <edge id="5" source="#whiskey" target="#islay" weight="918" />
+      <edge id="6" source="#whiskey" target="#Whisky" weight="918" />
+      <edge id="7" source="#starwarsday" target="#SoloOnIce" weight="918" />
+      <edge id="8" source="#islay" target="#scotch" weight="918" />
+      <edge id="9" source="#islay" target="#Whisky" weight="918" />
+      <edge id="10" source="#islay" target="#singlemaltscotch" weight="918" />
+      <edge id="11" source="#cider" target="#drinks" weight="918" />
+      <edge id="12" source="#cider" target="#apple" weight="918" />
+      <edge id="13" source="#cocktail" target="#cheers" weight="918" />
+      <edge id="14" source="#cocktail" target="#GIn" weight="918" />
+      <edge id="15" source="#singlemaltscotch" target="#scotch" weight="918" />
+      <edge id="16" source="#singlemaltscotch" target="#Whisky" weight="918" />
+      <edge id="17" source="#cheers" target="#GIn" weight="918" />
+      <edge id="18" source="#drinks" target="#apple" weight="918" />
+      <edge id="19" source="#scotch" target="#Whisky" weight="918" />
+    </edges>
+  </graph>
+</gexf>

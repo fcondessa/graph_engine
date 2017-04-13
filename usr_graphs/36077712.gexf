@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#news" label="#news" />
+      <node id="#34AAHF" label="#34AAHF" />
+      <node id="#osugrad12" label="#osugrad12" />
+      <node id="#voting" label="#voting" />
+      <node id="#youth" label="#youth" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#fedex" label="#fedex" />
+      <node id="#Mid" label="#Mid" />
+      <node id="#midterms" label="#midterms" />
+      <node id="#midmarketsummit" label="#midmarketsummit" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#news" target="#OhioState" weight="267" />
+      <edge id="1" source="#34AAHF" target="#OhioState" weight="267" />
+      <edge id="2" source="#osugrad12" target="#Ohio" weight="267" />
+      <edge id="3" source="#voting" target="#Mid" weight="267" />
+      <edge id="4" source="#youth" target="#midterms" weight="267" />
+      <edge id="5" source="#fedex" target="#midmarketsummit" weight="267" />
+    </edges>
+  </graph>
+</gexf>

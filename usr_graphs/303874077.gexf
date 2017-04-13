@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Sunday" label="#Sunday" />
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#PIZZAmovement" label="#PIZZAmovement" />
+      <node id="#Raw" label="#Raw" />
+      <node id="#YepILikeWrestling" label="#YepILikeWrestling" />
+      <node id="#WWE" label="#WWE" />
+      <node id="#WWENOC" label="#WWENOC" />
+      <node id="#Kayfabermeterics" label="#Kayfabermeterics" />
+      <node id="#peckerheads" label="#peckerheads" />
+      <node id="#RAW" label="#RAW" />
+      <node id="#rapandwrestling" label="#rapandwrestling" />
+      <node id="#cesaro" label="#cesaro" />
+      <node id="#yepilikewrestling" label="#yepilikewrestling" />
+      <node id="#NXTTampa" label="#NXTTampa" />
+      <node id="#ThenNowForever" label="#ThenNowForever" />
+      <node id="#heelrosenberg" label="#heelrosenberg" />
+      <node id="#Tonight" label="#Tonight" />
+      <node id="#SexualChocolate" label="#SexualChocolate" />
+      <node id="#WWENetwork" label="#WWENetwork" />
+      <node id="#BálorClub" label="#BálorClub" />
+      <node id="#Blizzard2015" label="#Blizzard2015" />
+      <node id="#RAWHartford" label="#RAWHartford" />
+      <node id="#Sports" label="#Sports" />
+      <node id="#ChampionOfChampions" label="#ChampionOfChampions" />
+      <node id="#hijackRAW" label="#hijackRAW" />
+      <node id="#STRAIGHTSHOOT" label="#STRAIGHTSHOOT" />
+      <node id="#mitb" label="#mitb" />
+      <node id="#schmozz" label="#schmozz" />
+      <node id="#cheapheat" label="#cheapheat" />
+      <node id="#CMPunkd" label="#CMPunkd" />
+      <node id="#Hercules" label="#Hercules" />
+      <node id="#Book" label="#Book" />
+      <node id="#SummerSlam" label="#SummerSlam" />
+      <node id="#royalrumble" label="#royalrumble" />
+      <node id="#squaredcircle" label="#squaredcircle" />
+      <node id="#MAJ" label="#MAJ" />
+      <node id="#HeenanFamily" label="#HeenanFamily" />
+      <node id="#MoneyInTheBank" label="#MoneyInTheBank" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#LegendsHouse" label="#LegendsHouse" />
+      <node id="#WrestleMania" label="#WrestleMania" />
+      <node id="#wrestlemaniaxxx" label="#wrestlemaniaxxx" />
+      <node id="#DX" label="#DX" />
+      <node id="#wwf" label="#wwf" />
+      <node id="#wwe" label="#wwe" />
+      <node id="#TheSMovement" label="#TheSMovement" />
+      <node id="#drinking" label="#drinking" />
+      <node id="#WWETLC" label="#WWETLC" />
+      <node id="#RoddyPiper" label="#RoddyPiper" />
+      <node id="#YESMovement" label="#YESMovement" />
+      <node id="#imastenchwinslowguy" label="#imastenchwinslowguy" />
+      <node id="#CheapHeat" label="#CheapHeat" />
+      <node id="#4horsemen" label="#4horsemen" />
+      <node id="#WWEChamber" label="#WWEChamber" />
+      <node id="#WWESponsoredCounterculture" label="#WWESponsoredCounterculture" />
+      <node id="#FinalFour" label="#FinalFour" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Sunday" target="#yepilikewrestling" weight="3228" />
+      <edge id="1" source="#Sunday" target="#WWE" weight="3228" />
+      <edge id="2" source="#sxsw" target="#rapandwrestling" weight="3228" />
+      <edge id="3" source="#PIZZAmovement" target="#YESMovement" weight="3228" />
+      <edge id="4" source="#Raw" target="#WrestleMania" weight="3228" />
+      <edge id="5" source="#Raw" target="#STRAIGHTSHOOT" weight="6456" />
+      <edge id="6" source="#YepILikeWrestling" target="#Tonight" weight="3228" />
+      <edge id="7" source="#YepILikeWrestling" target="#RAW" weight="3228" />
+      <edge id="8" source="#YepILikeWrestling" target="#MAJ" weight="3228" />
+      <edge id="9" source="#YepILikeWrestling" target="#MoneyInTheBank" weight="3228" />
+      <edge id="10" source="#YepILikeWrestling" target="#mitb" weight="3228" />
+      <edge id="11" source="#YepILikeWrestling" target="#cesaro" weight="3228" />
+      <edge id="12" source="#WWE" target="#cheapheat" weight="3228" />
+      <edge id="13" source="#WWE" target="#yepilikewrestling" weight="3228" />
+      <edge id="14" source="#WWENOC" target="#Kayfabermeterics" weight="3228" />
+      <edge id="15" source="#peckerheads" target="#cheapheat" weight="3228" />
+      <edge id="16" source="#peckerheads" target="#heelrosenberg" weight="3228" />
+      <edge id="17" source="#RAW" target="#MAJ" weight="3228" />
+      <edge id="18" source="#RAW" target="#RoddyPiper" weight="3228" />
+      <edge id="19" source="#cesaro" target="#MoneyInTheBank" weight="3228" />
+      <edge id="20" source="#cesaro" target="#Tonight" weight="3228" />
+      <edge id="21" source="#cesaro" target="#mitb" weight="3228" />
+      <edge id="22" source="#NXTTampa" target="#BálorClub" weight="3228" />
+      <edge id="23" source="#NXTTampa" target="#DX" weight="3228" />
+      <edge id="24" source="#ThenNowForever" target="#WWENetwork" weight="3228" />
+      <edge id="25" source="#heelrosenberg" target="#cheapheat" weight="6456" />
+      <edge id="26" source="#heelrosenberg" target="#imastenchwinslowguy" weight="3228" />
+      <edge id="27" source="#Tonight" target="#MoneyInTheBank" weight="3228" />
+      <edge id="28" source="#Tonight" target="#mitb" weight="3228" />
+      <edge id="29" source="#SexualChocolate" target="#CheapHeat" weight="3228" />
+      <edge id="30" source="#BálorClub" target="#DX" weight="3228" />
+      <edge id="31" source="#Blizzard2015" target="#RAWHartford" weight="3228" />
+      <edge id="32" source="#Blizzard2015" target="#schmozz" weight="3228" />
+      <edge id="33" source="#RAWHartford" target="#schmozz" weight="3228" />
+      <edge id="34" source="#Sports" target="#Book" weight="3228" />
+      <edge id="35" source="#ChampionOfChampions" target="#WWETLC" weight="3228" />
+      <edge id="36" source="#hijackRAW" target="#WWESponsoredCounterculture" weight="3228" />
+      <edge id="37" source="#hijackRAW" target="#YESMovement" weight="3228" />
+      <edge id="38" source="#STRAIGHTSHOOT" target="#CMPunkd" weight="3228" />
+      <edge id="39" source="#STRAIGHTSHOOT" target="#WWEChamber" weight="3228" />
+      <edge id="40" source="#STRAIGHTSHOOT" target="#SummerSlam" weight="3228" />
+      <edge id="41" source="#mitb" target="#MoneyInTheBank" weight="3228" />
+      <edge id="42" source="#cheapheat" target="#squaredcircle" weight="3228" />
+      <edge id="43" source="#cheapheat" target="#wrestlemaniaxxx" weight="3228" />
+      <edge id="44" source="#cheapheat" target="#imastenchwinslowguy" weight="3228" />
+      <edge id="45" source="#Hercules" target="#HeenanFamily" weight="3228" />
+      <edge id="46" source="#royalrumble" target="#drinking" weight="3228" />
+      <edge id="47" source="#Warriors" target="#4horsemen" weight="3228" />
+      <edge id="48" source="#LegendsHouse" target="#CheapHeat" weight="3228" />
+      <edge id="49" source="#WrestleMania" target="#FinalFour" weight="3228" />
+      <edge id="50" source="#wwf" target="#wwe" weight="3228" />
+      <edge id="51" source="#TheSMovement" target="#CheapHeat" weight="3228" />
+      <edge id="52" source="#YESMovement" target="#WWESponsoredCounterculture" weight="3228" />
+    </edges>
+  </graph>
+</gexf>

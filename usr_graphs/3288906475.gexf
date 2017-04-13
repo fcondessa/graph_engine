@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#perfecttimingreally" label="#perfecttimingreally" />
+      <node id="#paxam" label="#paxam" />
+      <node id="#whitewhale" label="#whitewhale" />
+      <node id="#paxamed" label="#paxamed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#perfecttimingreally" target="#paxamed" weight="4" />
+      <edge id="1" source="#paxam" target="#whitewhale" weight="4" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#VMA" label="#VMA" />
+      <node id="#WeAreGL" label="#WeAreGL" />
+      <node id="#vacation" label="#vacation" />
+      <node id="#learning" label="#learning" />
+      <node id="#VMAs" label="#VMAs" />
+      <node id="#handbag" label="#handbag" />
+      <node id="#luxury" label="#luxury" />
+      <node id="#WeAreLions" label="#WeAreLions" />
+      <node id="#mlbdraft" label="#mlbdraft" />
+      <node id="#Appreciative" label="#Appreciative" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#ThinkBIGSundayWithMarsha" label="#ThinkBIGSundayWithMarsha" />
+      <node id="#BeatLancaster" label="#BeatLancaster" />
+      <node id="#quote" label="#quote" />
+      <node id="#travel" label="#travel" />
+      <node id="#quoteoftheday" label="#quoteoftheday" />
+      <node id="#memories" label="#memories" />
+      <node id="#get2college" label="#get2college" />
+      <node id="#July4thWeekend" label="#July4thWeekend" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#MacNCheetos" label="#MacNCheetos" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#VMA" target="#VMAs" weight="493" />
+      <edge id="1" source="#WeAreGL" target="#BeatLancaster" weight="493" />
+      <edge id="2" source="#vacation" target="#travel" weight="493" />
+      <edge id="3" source="#vacation" target="#memories" weight="493" />
+      <edge id="4" source="#learning" target="#travel" weight="493" />
+      <edge id="5" source="#learning" target="#memories" weight="493" />
+      <edge id="6" source="#handbag" target="#luxury" weight="493" />
+      <edge id="7" source="#WeAreLions" target="#Appreciative" weight="493" />
+      <edge id="8" source="#mlbdraft" target="#get2college" weight="493" />
+      <edge id="9" source="#motivation" target="#inspiration" weight="493" />
+      <edge id="10" source="#motivation" target="#ThinkBIGSundayWithMarsha" weight="493" />
+      <edge id="11" source="#ThinkBIGSundayWithMarsha" target="#inspiration" weight="493" />
+      <edge id="12" source="#quote" target="#quoteoftheday" weight="493" />
+      <edge id="13" source="#travel" target="#memories" weight="986" />
+      <edge id="14" source="#July4thWeekend" target="#MacNCheetos" weight="493" />
+    </edges>
+  </graph>
+</gexf>

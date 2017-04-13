@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#idontgetthisgame" label="#idontgetthisgame" />
+      <node id="#priorities" label="#priorities" />
+      <node id="#teamroy" label="#teamroy" />
+      <node id="#RuinAComedian" label="#RuinAComedian" />
+      <node id="#spoileralert" label="#spoileralert" />
+      <node id="#dontoverthink" label="#dontoverthink" />
+      <node id="#stfu" label="#stfu" />
+      <node id="#onetruegod" label="#onetruegod" />
+      <node id="#sotu" label="#sotu" />
+      <node id="#unity2d" label="#unity2d" />
+      <node id="#robocop3" label="#robocop3" />
+      <node id="#FaceOff" label="#FaceOff" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#idontgetthisgame" target="#RuinAComedian" weight="3200" />
+      <edge id="1" source="#priorities" target="#unity2d" weight="3200" />
+      <edge id="2" source="#priorities" target="#onetruegod" weight="3200" />
+      <edge id="3" source="#teamroy" target="#FaceOff" weight="3200" />
+      <edge id="4" source="#RuinAComedian" target="#dontoverthink" weight="3200" />
+      <edge id="5" source="#spoileralert" target="#robocop3" weight="3200" />
+      <edge id="6" source="#stfu" target="#sotu" weight="3200" />
+      <edge id="7" source="#onetruegod" target="#unity2d" weight="3200" />
+    </edges>
+  </graph>
+</gexf>

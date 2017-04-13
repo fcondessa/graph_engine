@@ -1,0 +1,850 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Pain" label="#Pain" />
+      <node id="#drugmisuse" label="#drugmisuse" />
+      <node id="#finals" label="#finals" />
+      <node id="#liability" label="#liability" />
+      <node id="#womenshealth" label="#womenshealth" />
+      <node id="#stroke" label="#stroke" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#OSMAThisWeek" label="#OSMAThisWeek" />
+      <node id="#OverdoseAware2016" label="#OverdoseAware2016" />
+      <node id="#NationalDoctorsDay" label="#NationalDoctorsDay" />
+      <node id="#MatchDay" label="#MatchDay" />
+      <node id="#coding" label="#coding" />
+      <node id="#HIE" label="#HIE" />
+      <node id="#byebyeSGR" label="#byebyeSGR" />
+      <node id="#hcmktg" label="#hcmktg" />
+      <node id="#residencyprep" label="#residencyprep" />
+      <node id="#Medical" label="#Medical" />
+      <node id="#Residents" label="#Residents" />
+      <node id="#apps" label="#apps" />
+      <node id="#HeartMonth" label="#HeartMonth" />
+      <node id="#patient" label="#patient" />
+      <node id="#convenient" label="#convenient" />
+      <node id="#medmal" label="#medmal" />
+      <node id="#PLIO" label="#PLIO" />
+      <node id="#osmaleadership" label="#osmaleadership" />
+      <node id="#Payer" label="#Payer" />
+      <node id="#HCR16" label="#HCR16" />
+      <node id="#HITsm" label="#HITsm" />
+      <node id="#EMR" label="#EMR" />
+      <node id="#ERAS" label="#ERAS" />
+      <node id="#bonehealth" label="#bonehealth" />
+      <node id="#NIAM15" label="#NIAM15" />
+      <node id="#stressed" label="#stressed" />
+      <node id="#pharma" label="#pharma" />
+      <node id="#Webinar" label="#Webinar" />
+      <node id="#deposition" label="#deposition" />
+      <node id="#super" label="#super" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#opioidabuse" label="#opioidabuse" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#OARRS" label="#OARRS" />
+      <node id="#ERISA" label="#ERISA" />
+      <node id="#PCMH" label="#PCMH" />
+      <node id="#toledoclinic" label="#toledoclinic" />
+      <node id="#Breaking" label="#Breaking" />
+      <node id="#ha" label="#ha" />
+      <node id="#Free" label="#Free" />
+      <node id="#Merrin4StateRep" label="#Merrin4StateRep" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#training" label="#training" />
+      <node id="#HITSM" label="#HITSM" />
+      <node id="#EHRs" label="#EHRs" />
+      <node id="#hospitalist" label="#hospitalist" />
+      <node id="#ptsafety" label="#ptsafety" />
+      <node id="#Compliance" label="#Compliance" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#judicalvotescount" label="#judicalvotescount" />
+      <node id="#WorldHepatitisDay" label="#WorldHepatitisDay" />
+      <node id="#HepB" label="#HepB" />
+      <node id="#health" label="#health" />
+      <node id="#cybersecurity" label="#cybersecurity" />
+      <node id="#medicaid" label="#medicaid" />
+      <node id="#SmallBusiness" label="#SmallBusiness" />
+      <node id="#ontothesenate" label="#ontothesenate" />
+      <node id="#WAM2015" label="#WAM2015" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#HospitalWeek" label="#HospitalWeek" />
+      <node id="#longtermcare" label="#longtermcare" />
+      <node id="#budget" label="#budget" />
+      <node id="#Help" label="#Help" />
+      <node id="#GME" label="#GME" />
+      <node id="#Zika" label="#Zika" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#HeartDisease" label="#HeartDisease" />
+      <node id="#savealife" label="#savealife" />
+      <node id="#redcross" label="#redcross" />
+      <node id="#athenahealth" label="#athenahealth" />
+      <node id="#FixMedicareNow" label="#FixMedicareNow" />
+      <node id="#OSMA2015" label="#OSMA2015" />
+      <node id="#OSMA2013" label="#OSMA2013" />
+      <node id="#priorauth" label="#priorauth" />
+      <node id="#mHealth" label="#mHealth" />
+      <node id="#GoGreen" label="#GoGreen" />
+      <node id="#tickliterate" label="#tickliterate" />
+      <node id="#SCR10" label="#SCR10" />
+      <node id="#surgeons" label="#surgeons" />
+      <node id="#Register" label="#Register" />
+      <node id="#HIPAA" label="#HIPAA" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#BeAVoice" label="#BeAVoice" />
+      <node id="#medicalmarijuana" label="#medicalmarijuana" />
+      <node id="#DiabetesMonth" label="#DiabetesMonth" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#GoogleGlass" label="#GoogleGlass" />
+      <node id="#MedEdAMA" label="#MedEdAMA" />
+      <node id="#Election" label="#Election" />
+      <node id="#medicare" label="#medicare" />
+      <node id="#promotions" label="#promotions" />
+      <node id="#free" label="#free" />
+      <node id="#ACOs" label="#ACOs" />
+      <node id="#Nurse" label="#Nurse" />
+      <node id="#medsync" label="#medsync" />
+      <node id="#unpackdigital" label="#unpackdigital" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#donate" label="#donate" />
+      <node id="#AMA" label="#AMA" />
+      <node id="#SunshineAct" label="#SunshineAct" />
+      <node id="#pain" label="#pain" />
+      <node id="#win" label="#win" />
+      <node id="#ohbudget" label="#ohbudget" />
+      <node id="#OhioSB243" label="#OhioSB243" />
+      <node id="#compliance" label="#compliance" />
+      <node id="#StepTherapy" label="#StepTherapy" />
+      <node id="#Republicans" label="#Republicans" />
+      <node id="#Patient" label="#Patient" />
+      <node id="#orthopedists" label="#orthopedists" />
+      <node id="#doctor" label="#doctor" />
+      <node id="#money" label="#money" />
+      <node id="#today" label="#today" />
+      <node id="#Pennsylvania" label="#Pennsylvania" />
+      <node id="#healthyohio" label="#healthyohio" />
+      <node id="#physicians" label="#physicians" />
+      <node id="#Healthier" label="#Healthier" />
+      <node id="#savings" label="#savings" />
+      <node id="#allforohio" label="#allforohio" />
+      <node id="#satisfaction" label="#satisfaction" />
+      <node id="#komencolumbus" label="#komencolumbus" />
+      <node id="#Advocacy" label="#Advocacy" />
+      <node id="#OTW" label="#OTW" />
+      <node id="#medstudents" label="#medstudents" />
+      <node id="#breastcancerawareness" label="#breastcancerawareness" />
+      <node id="#winter" label="#winter" />
+      <node id="#tobacco" label="#tobacco" />
+      <node id="#Patients" label="#Patients" />
+      <node id="#ICD" label="#ICD" />
+      <node id="#heatlhIT" label="#heatlhIT" />
+      <node id="#pharmacy" label="#pharmacy" />
+      <node id="#supco" label="#supco" />
+      <node id="#CMS" label="#CMS" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#CME" label="#CME" />
+      <node id="#MedicalPractice" label="#MedicalPractice" />
+      <node id="#Physicians" label="#Physicians" />
+      <node id="#OSHIIP" label="#OSHIIP" />
+      <node id="#opioid" label="#opioid" />
+      <node id="#flu" label="#flu" />
+      <node id="#ipab" label="#ipab" />
+      <node id="#HB216" label="#HB216" />
+      <node id="#scopeofpractice" label="#scopeofpractice" />
+      <node id="#pharmacists" label="#pharmacists" />
+      <node id="#MedEd" label="#MedEd" />
+      <node id="#PriorAuth" label="#PriorAuth" />
+      <node id="#refinancing" label="#refinancing" />
+      <node id="#HIT100" label="#HIT100" />
+      <node id="#licensure" label="#licensure" />
+      <node id="#hitsm" label="#hitsm" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#Abortion" label="#Abortion" />
+      <node id="#marijuana" label="#marijuana" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#shortfall" label="#shortfall" />
+      <node id="#NWHW" label="#NWHW" />
+      <node id="#aducanumab" label="#aducanumab" />
+      <node id="#Vaccination" label="#Vaccination" />
+      <node id="#Malpractice" label="#Malpractice" />
+      <node id="#sadtrombone" label="#sadtrombone" />
+      <node id="#RA" label="#RA" />
+      <node id="#match2013" label="#match2013" />
+      <node id="#hcmkg" label="#hcmkg" />
+      <node id="#scotus" label="#scotus" />
+      <node id="#Opioid" label="#Opioid" />
+      <node id="#OpioidEpidemic" label="#OpioidEpidemic" />
+      <node id="#breastcancer" label="#breastcancer" />
+      <node id="#drugs" label="#drugs" />
+      <node id="#giftcard" label="#giftcard" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#Lyme" label="#Lyme" />
+      <node id="#ONC" label="#ONC" />
+      <node id="#paymentreform" label="#paymentreform" />
+      <node id="#docfix" label="#docfix" />
+      <node id="#OSMAPAC" label="#OSMAPAC" />
+      <node id="#patientsafety" label="#patientsafety" />
+      <node id="#OpenPayments" label="#OpenPayments" />
+      <node id="#heart" label="#heart" />
+      <node id="#testimony" label="#testimony" />
+      <node id="#teamswork" label="#teamswork" />
+      <node id="#ptexp" label="#ptexp" />
+      <node id="#HCAHPS" label="#HCAHPS" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#research" label="#research" />
+      <node id="#pagovt" label="#pagovt" />
+      <node id="#patients" label="#patients" />
+      <node id="#endobesity" label="#endobesity" />
+      <node id="#Flu" label="#Flu" />
+      <node id="#RxProblem" label="#RxProblem" />
+      <node id="#MedStudents" label="#MedStudents" />
+      <node id="#painmanagement" label="#painmanagement" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#Opiate" label="#Opiate" />
+      <node id="#SmartRx" label="#SmartRx" />
+      <node id="#judicialvotescount" label="#judicialvotescount" />
+      <node id="#PHR" label="#PHR" />
+      <node id="#payroll" label="#payroll" />
+      <node id="#seniors" label="#seniors" />
+      <node id="#vaccine" label="#vaccine" />
+      <node id="#AMAmtg" label="#AMAmtg" />
+      <node id="#MedicalCoding" label="#MedicalCoding" />
+      <node id="#Coding" label="#Coding" />
+      <node id="#MeaningfulUse" label="#MeaningfulUse" />
+      <node id="#hospital" label="#hospital" />
+      <node id="#RegisterToVote" label="#RegisterToVote" />
+      <node id="#smartrx" label="#smartrx" />
+      <node id="#OhioSB129" label="#OhioSB129" />
+      <node id="#VA" label="#VA" />
+      <node id="#cholesterol" label="#cholesterol" />
+      <node id="#yes" label="#yes" />
+      <node id="#biosimilars" label="#biosimilars" />
+      <node id="#FamilyMedicine" label="#FamilyMedicine" />
+      <node id="#aca" label="#aca" />
+      <node id="#exchange" label="#exchange" />
+      <node id="#abortion" label="#abortion" />
+      <node id="#medicalscribes" label="#medicalscribes" />
+      <node id="#MACRA" label="#MACRA" />
+      <node id="#TeamsWork" label="#TeamsWork" />
+      <node id="#KnowPink" label="#KnowPink" />
+      <node id="#Chemo" label="#Chemo" />
+      <node id="#RedCross" label="#RedCross" />
+      <node id="#telemedicine" label="#telemedicine" />
+      <node id="#law" label="#law" />
+      <node id="#lameduck" label="#lameduck" />
+      <node id="#IndepedentDocs" label="#IndepedentDocs" />
+      <node id="#OSMA" label="#OSMA" />
+      <node id="#ransomware" label="#ransomware" />
+      <node id="#ChronicPain" label="#ChronicPain" />
+      <node id="#Reform" label="#Reform" />
+      <node id="#OBGYN" label="#OBGYN" />
+      <node id="#eRx" label="#eRx" />
+      <node id="#HB110" label="#HB110" />
+      <node id="#HB116" label="#HB116" />
+      <node id="#obstetrics" label="#obstetrics" />
+      <node id="#Heart" label="#Heart" />
+      <node id="#donateblood" label="#donateblood" />
+      <node id="#payments" label="#payments" />
+      <node id="#pillmills" label="#pillmills" />
+      <node id="#eRX" label="#eRX" />
+      <node id="#medstudent" label="#medstudent" />
+      <node id="#cardiologist" label="#cardiologist" />
+      <node id="#bloodpressure" label="#bloodpressure" />
+      <node id="#AMAwire" label="#AMAwire" />
+      <node id="#bipartisan" label="#bipartisan" />
+      <node id="#meaningfuluse" label="#meaningfuluse" />
+      <node id="#Alzheimers" label="#Alzheimers" />
+      <node id="#AAMSE13" label="#AAMSE13" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#alcohol" label="#alcohol" />
+      <node id="#SCOTUSblog" label="#SCOTUSblog" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#ACR2015" label="#ACR2015" />
+      <node id="#Telemedicine" label="#Telemedicine" />
+      <node id="#NatlSafetyMonth" label="#NatlSafetyMonth" />
+      <node id="#HB523" label="#HB523" />
+      <node id="#prediabetes" label="#prediabetes" />
+      <node id="#Stateline" label="#Stateline" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#HB59" label="#HB59" />
+      <node id="#OSHA" label="#OSHA" />
+      <node id="#FREE" label="#FREE" />
+      <node id="#Starbucks" label="#Starbucks" />
+      <node id="#radiology" label="#radiology" />
+      <node id="#medmalrisk" label="#medmalrisk" />
+      <node id="#Match2017" label="#Match2017" />
+      <node id="#apply" label="#apply" />
+      <node id="#publichealth" label="#publichealth" />
+      <node id="#Lifesaver" label="#Lifesaver" />
+      <node id="#tortreform" label="#tortreform" />
+      <node id="#Hospitals" label="#Hospitals" />
+      <node id="#BeatMichigan" label="#BeatMichigan" />
+      <node id="#ICD10" label="#ICD10" />
+      <node id="#DonateLife" label="#DonateLife" />
+      <node id="#UrbanMeyer" label="#UrbanMeyer" />
+      <node id="#drugabuse" label="#drugabuse" />
+      <node id="#blood" label="#blood" />
+      <node id="#Complete" label="#Complete" />
+      <node id="#lyme" label="#lyme" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#OSMAction" label="#OSMAction" />
+      <node id="#EarlyVoting" label="#EarlyVoting" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#hsr" label="#hsr" />
+      <node id="#BloodDrive" label="#BloodDrive" />
+      <node id="#sequester" label="#sequester" />
+      <node id="#meningitis" label="#meningitis" />
+      <node id="#blooddrive" label="#blooddrive" />
+      <node id="#SB32" label="#SB32" />
+      <node id="#osmathisweek" label="#osmathisweek" />
+      <node id="#disclosure" label="#disclosure" />
+      <node id="#Fellows" label="#Fellows" />
+      <node id="#Measles" label="#Measles" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#minorities" label="#minorities" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Concussion" label="#Concussion" />
+      <node id="#Doc" label="#Doc" />
+      <node id="#physician" label="#physician" />
+      <node id="#trial" label="#trial" />
+      <node id="#digitalhealth" label="#digitalhealth" />
+      <node id="#Diabetes" label="#Diabetes" />
+      <node id="#Physician" label="#Physician" />
+      <node id="#PrimaryCare" label="#PrimaryCare" />
+      <node id="#osmaction" label="#osmaction" />
+      <node id="#MUS2" label="#MUS2" />
+      <node id="#RoadtoICD10" label="#RoadtoICD10" />
+      <node id="#PA" label="#PA" />
+      <node id="#Medicine" label="#Medicine" />
+      <node id="#Fraud" label="#Fraud" />
+      <node id="#osma2015" label="#osma2015" />
+      <node id="#osma2014" label="#osma2014" />
+      <node id="#osma2012" label="#osma2012" />
+      <node id="#osma2011" label="#osma2011" />
+      <node id="#PriorAuthorization" label="#PriorAuthorization" />
+      <node id="#hcreform" label="#hcreform" />
+      <node id="#HealthierOhio" label="#HealthierOhio" />
+      <node id="#medicationsafety" label="#medicationsafety" />
+      <node id="#studentloans" label="#studentloans" />
+      <node id="#pcmh" label="#pcmh" />
+      <node id="#Alzheimer" label="#Alzheimer" />
+      <node id="#Deficit" label="#Deficit" />
+      <node id="#finally" label="#finally" />
+      <node id="#IPAB" label="#IPAB" />
+      <node id="#SB129" label="#SB129" />
+      <node id="#ama" label="#ama" />
+      <node id="#OpioidAwareness" label="#OpioidAwareness" />
+      <node id="#abcDrBchat" label="#abcDrBchat" />
+      <node id="#doctors" label="#doctors" />
+      <node id="#savelives" label="#savelives" />
+      <node id="#primarycare" label="#primarycare" />
+      <node id="#AAFP" label="#AAFP" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#ACO" label="#ACO" />
+      <node id="#MSSNY_YPS" label="#MSSNY_YPS" />
+      <node id="#SGR" label="#SGR" />
+      <node id="#wellness" label="#wellness" />
+      <node id="#medical" label="#medical" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#MU" label="#MU" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Pain" target="#OTW" weight="3245" />
+      <edge id="1" source="#drugmisuse" target="#win" weight="3245" />
+      <edge id="2" source="#drugmisuse" target="#Help" weight="3245" />
+      <edge id="3" source="#finals" target="#MedStudents" weight="3245" />
+      <edge id="4" source="#liability" target="#orthopedists" weight="3245" />
+      <edge id="5" source="#liability" target="#ptsafety" weight="6490" />
+      <edge id="6" source="#womenshealth" target="#alcohol" weight="3245" />
+      <edge id="7" source="#womenshealth" target="#bonehealth" weight="3245" />
+      <edge id="8" source="#womenshealth" target="#RA" weight="3245" />
+      <edge id="9" source="#stroke" target="#heartdisease" weight="3245" />
+      <edge id="10" source="#HIT" target="#CME" weight="3245" />
+      <edge id="11" source="#HIT" target="#EHR" weight="6490" />
+      <edge id="12" source="#HIT" target="#ONC" weight="3245" />
+      <edge id="13" source="#HIT" target="#MU" weight="3245" />
+      <edge id="14" source="#OSMAThisWeek" target="#patients" weight="3245" />
+      <edge id="15" source="#OSMAThisWeek" target="#endobesity" weight="3245" />
+      <edge id="16" source="#OSMAThisWeek" target="#Advocacy" weight="3245" />
+      <edge id="17" source="#OSMAThisWeek" target="#Flu" weight="3245" />
+      <edge id="18" source="#OSMAThisWeek" target="#Patient" weight="3245" />
+      <edge id="19" source="#OSMAThisWeek" target="#Ohio" weight="9735" />
+      <edge id="20" source="#OSMAThisWeek" target="#Concussion" weight="3245" />
+      <edge id="21" source="#OSMAThisWeek" target="#obesity" weight="6490" />
+      <edge id="22" source="#OSMAThisWeek" target="#AAMSE13" weight="3245" />
+      <edge id="23" source="#OSMAThisWeek" target="#Abortion" weight="6490" />
+      <edge id="24" source="#OSMAThisWeek" target="#ama" weight="3245" />
+      <edge id="25" source="#OSMAThisWeek" target="#tortreform" weight="6490" />
+      <edge id="26" source="#OSMAThisWeek" target="#Patients" weight="3245" />
+      <edge id="27" source="#OSMAThisWeek" target="#Hospitals" weight="3245" />
+      <edge id="28" source="#OSMAThisWeek" target="#Physician" weight="3245" />
+      <edge id="29" source="#OSMAThisWeek" target="#Nurse" weight="3245" />
+      <edge id="30" source="#OSMAThisWeek" target="#sequester" weight="3245" />
+      <edge id="31" source="#OSMAThisWeek" target="#CMS" weight="3245" />
+      <edge id="32" source="#OSMAThisWeek" target="#primarycare" weight="3245" />
+      <edge id="33" source="#OSMAThisWeek" target="#ERISA" weight="6490" />
+      <edge id="34" source="#OSMAThisWeek" target="#Cancer" weight="3245" />
+      <edge id="35" source="#OSMAThisWeek" target="#OSMA" weight="3245" />
+      <edge id="36" source="#OSMAThisWeek" target="#CME" weight="12980" />
+      <edge id="37" source="#OSMAThisWeek" target="#medicaid" weight="3245" />
+      <edge id="38" source="#OSMAThisWeek" target="#eRx" weight="3245" />
+      <edge id="39" source="#OSMAThisWeek" target="#Physicians" weight="3245" />
+      <edge id="40" source="#OSMAThisWeek" target="#NatlSafetyMonth" weight="3245" />
+      <edge id="41" source="#OSMAThisWeek" target="#HIPAA" weight="3245" />
+      <edge id="42" source="#OSMAThisWeek" target="#SGR" weight="16225" />
+      <edge id="43" source="#OSMAThisWeek" target="#EHR" weight="3245" />
+      <edge id="44" source="#OSMAThisWeek" target="#ACA" weight="12980" />
+      <edge id="45" source="#OSMAThisWeek" target="#Medicare" weight="3245" />
+      <edge id="46" source="#OSMAThisWeek" target="#medmal" weight="3245" />
+      <edge id="47" source="#OSMAThisWeek" target="#ICD10" weight="3245" />
+      <edge id="48" source="#OSMAThisWeek" target="#Medicaid" weight="6490" />
+      <edge id="49" source="#OSMAThisWeek" target="#PLIO" weight="3245" />
+      <edge id="50" source="#OverdoseAware2016" target="#SmartRx" weight="3245" />
+      <edge id="51" source="#NationalDoctorsDay" target="#physicians" weight="3245" />
+      <edge id="52" source="#NationalDoctorsDay" target="#Ohio" weight="3245" />
+      <edge id="53" source="#MatchDay" target="#PrimaryCare" weight="3245" />
+      <edge id="54" source="#coding" target="#radiology" weight="3245" />
+      <edge id="55" source="#coding" target="#ICD10" weight="3245" />
+      <edge id="56" source="#HIE" target="#OTW" weight="3245" />
+      <edge id="57" source="#byebyeSGR" target="#bipartisan" weight="3245" />
+      <edge id="58" source="#byebyeSGR" target="#finally" weight="3245" />
+      <edge id="59" source="#byebyeSGR" target="#SGR" weight="3245" />
+      <edge id="60" source="#hcmktg" target="#hcsm" weight="3245" />
+      <edge id="61" source="#hcmktg" target="#osma2012" weight="3245" />
+      <edge id="62" source="#hcmktg" target="#OSMA" weight="3245" />
+      <edge id="63" source="#hcmktg" target="#hcmkg" weight="3245" />
+      <edge id="64" source="#residencyprep" target="#licensure" weight="3245" />
+      <edge id="65" source="#Medical" target="#Malpractice" weight="3245" />
+      <edge id="66" source="#Residents" target="#MedEd" weight="3245" />
+      <edge id="67" source="#Residents" target="#Fellows" weight="3245" />
+      <edge id="68" source="#Residents" target="#MedStudents" weight="3245" />
+      <edge id="69" source="#apps" target="#heart" weight="3245" />
+      <edge id="70" source="#HeartMonth" target="#HeartDisease" weight="3245" />
+      <edge id="71" source="#patient" target="#doctor" weight="3245" />
+      <edge id="72" source="#patient" target="#physician" weight="3245" />
+      <edge id="73" source="#convenient" target="#FREE" weight="3245" />
+      <edge id="74" source="#medmal" target="#tortreform" weight="3245" />
+      <edge id="75" source="#medmal" target="#patients" weight="3245" />
+      <edge id="76" source="#medmal" target="#physician" weight="3245" />
+      <edge id="77" source="#medmal" target="#obstetrics" weight="6490" />
+      <edge id="78" source="#medmal" target="#EHR" weight="3245" />
+      <edge id="79" source="#medmal" target="#medical" weight="3245" />
+      <edge id="80" source="#medmal" target="#EHRs" weight="3245" />
+      <edge id="81" source="#medmal" target="#Physicians" weight="6490" />
+      <edge id="82" source="#medmal" target="#ptsafety" weight="3245" />
+      <edge id="83" source="#medmal" target="#physicians" weight="3245" />
+      <edge id="84" source="#osmaleadership" target="#apply" weight="3245" />
+      <edge id="85" source="#Payer" target="#MACRA" weight="3245" />
+      <edge id="86" source="#HCR16" target="#painmanagement" weight="3245" />
+      <edge id="87" source="#HCR16" target="#drugabuse" weight="3245" />
+      <edge id="88" source="#HCR16" target="#SCR10" weight="3245" />
+      <edge id="89" source="#HCR16" target="#HCAHPS" weight="3245" />
+      <edge id="90" source="#HITsm" target="#HealthIT" weight="3245" />
+      <edge id="91" source="#HITsm" target="#ICD10" weight="3245" />
+      <edge id="92" source="#EMR" target="#EHR" weight="3245" />
+      <edge id="93" source="#EMR" target="#HealthIT" weight="3245" />
+      <edge id="94" source="#EMR" target="#hitsm" weight="3245" />
+      <edge id="95" source="#EMR" target="#mHealth" weight="3245" />
+      <edge id="96" source="#EMR" target="#PHR" weight="3245" />
+      <edge id="97" source="#ERAS" target="#MedEd" weight="3245" />
+      <edge id="98" source="#ERAS" target="#Match2017" weight="3245" />
+      <edge id="99" source="#bonehealth" target="#RA" weight="3245" />
+      <edge id="100" source="#bonehealth" target="#alcohol" weight="3245" />
+      <edge id="101" source="#NIAM15" target="#vaccine" weight="3245" />
+      <edge id="102" source="#NIAM15" target="#ptsafety" weight="3245" />
+      <edge id="103" source="#stressed" target="#studentloans" weight="3245" />
+      <edge id="104" source="#stressed" target="#refinancing" weight="3245" />
+      <edge id="105" source="#stressed" target="#money" weight="3245" />
+      <edge id="106" source="#pharma" target="#biosimilars" weight="3245" />
+      <edge id="107" source="#pharma" target="#ACA" weight="3245" />
+      <edge id="108" source="#pharma" target="#drugs" weight="3245" />
+      <edge id="109" source="#pharma" target="#ptsafety" weight="3245" />
+      <edge id="110" source="#Webinar" target="#CME" weight="3245" />
+      <edge id="111" source="#Webinar" target="#OTW" weight="3245" />
+      <edge id="112" source="#Webinar" target="#ICD10" weight="3245" />
+      <edge id="113" source="#Webinar" target="#MACRA" weight="3245" />
+      <edge id="114" source="#deposition" target="#testimony" weight="3245" />
+      <edge id="115" source="#deposition" target="#trial" weight="3245" />
+      <edge id="116" source="#deposition" target="#Physicians" weight="3245" />
+      <edge id="117" source="#super" target="#Deficit" weight="3245" />
+      <edge id="118" source="#coffee" target="#CME" weight="12980" />
+      <edge id="119" source="#coffee" target="#Free" weight="3245" />
+      <edge id="120" source="#coffee" target="#win" weight="3245" />
+      <edge id="121" source="#coffee" target="#SmartRx" weight="6490" />
+      <edge id="122" source="#coffee" target="#Starbucks" weight="3245" />
+      <edge id="123" source="#opioidabuse" target="#SmartRx" weight="3245" />
+      <edge id="124" source="#HealthIT" target="#hitsm" weight="3245" />
+      <edge id="125" source="#HealthIT" target="#EHR" weight="3245" />
+      <edge id="126" source="#HealthIT" target="#ICD10" weight="3245" />
+      <edge id="127" source="#HealthIT" target="#mHealth" weight="3245" />
+      <edge id="128" source="#HealthIT" target="#EHRs" weight="3245" />
+      <edge id="129" source="#HealthIT" target="#PHR" weight="3245" />
+      <edge id="130" source="#OARRS" target="#OTW" weight="3245" />
+      <edge id="131" source="#ERISA" target="#CME" weight="6490" />
+      <edge id="132" source="#ERISA" target="#Reform" weight="3245" />
+      <edge id="133" source="#PCMH" target="#OTW" weight="3245" />
+      <edge id="134" source="#PCMH" target="#ACA" weight="3245" />
+      <edge id="135" source="#toledoclinic" target="#smartrx" weight="3245" />
+      <edge id="136" source="#Breaking" target="#Medicaid" weight="3245" />
+      <edge id="137" source="#ha" target="#yes" weight="3245" />
+      <edge id="138" source="#Free" target="#CME" weight="3245" />
+      <edge id="139" source="#Free" target="#SmartRx" weight="3245" />
+      <edge id="140" source="#Merrin4StateRep" target="#HealthierOhio" weight="3245" />
+      <edge id="141" source="#Cincinnati" target="#Ohio" weight="3245" />
+      <edge id="142" source="#training" target="#opioid" weight="3245" />
+      <edge id="143" source="#HITSM" target="#HIT100" weight="3245" />
+      <edge id="144" source="#EHRs" target="#ptsafety" weight="3245" />
+      <edge id="145" source="#EHRs" target="#Telemedicine" weight="3245" />
+      <edge id="146" source="#hospitalist" target="#ptsafety" weight="3245" />
+      <edge id="147" source="#ptsafety" target="#orthopedists" weight="3245" />
+      <edge id="148" source="#ptsafety" target="#medical" weight="3245" />
+      <edge id="149" source="#ptsafety" target="#Measles" weight="3245" />
+      <edge id="150" source="#ptsafety" target="#medicationsafety" weight="3245" />
+      <edge id="151" source="#ptsafety" target="#breastcancer" weight="3245" />
+      <edge id="152" source="#ptsafety" target="#vaccine" weight="3245" />
+      <edge id="153" source="#ptsafety" target="#breastcancerawareness" weight="3245" />
+      <edge id="154" source="#ptsafety" target="#digitalhealth" weight="12980" />
+      <edge id="155" source="#ptsafety" target="#Telemedicine" weight="3245" />
+      <edge id="156" source="#ptsafety" target="#disclosure" weight="3245" />
+      <edge id="157" source="#ptsafety" target="#obesity" weight="3245" />
+      <edge id="158" source="#ptsafety" target="#Zika" weight="3245" />
+      <edge id="159" source="#Compliance" target="#free" weight="3245" />
+      <edge id="160" source="#Compliance" target="#longtermcare" weight="3245" />
+      <edge id="161" source="#Compliance" target="#Healthcare" weight="3245" />
+      <edge id="162" source="#Compliance" target="#webinar" weight="3245" />
+      <edge id="163" source="#healthIT" target="#EHR" weight="3245" />
+      <edge id="164" source="#judicalvotescount" target="#allforohio" weight="3245" />
+      <edge id="165" source="#WorldHepatitisDay" target="#HepB" weight="3245" />
+      <edge id="166" source="#health" target="#Heart" weight="3245" />
+      <edge id="167" source="#health" target="#heatlhIT" weight="3245" />
+      <edge id="168" source="#health" target="#winter" weight="3245" />
+      <edge id="169" source="#cybersecurity" target="#ransomware" weight="6490" />
+      <edge id="170" source="#medicaid" target="#OTW" weight="3245" />
+      <edge id="171" source="#medicaid" target="#OSMA2013" weight="3245" />
+      <edge id="172" source="#medicaid" target="#primarycare" weight="6490" />
+      <edge id="173" source="#medicaid" target="#medicare" weight="3245" />
+      <edge id="174" source="#medicaid" target="#physicians" weight="3245" />
+      <edge id="175" source="#SmallBusiness" target="#OhioSB129" weight="3245" />
+      <edge id="176" source="#ontothesenate" target="#lameduck" weight="3245" />
+      <edge id="177" source="#WAM2015" target="#Alzheimers" weight="3245" />
+      <edge id="178" source="#ohio" target="#medicalmarijuana" weight="6490" />
+      <edge id="179" source="#HospitalWeek" target="#hospital" weight="3245" />
+      <edge id="180" source="#HospitalWeek" target="#DidYouKnow" weight="3245" />
+      <edge id="181" source="#longtermcare" target="#Healthcare" weight="3245" />
+      <edge id="182" source="#budget" target="#hcreform" weight="3245" />
+      <edge id="183" source="#budget" target="#Medicaid" weight="3245" />
+      <edge id="184" source="#budget" target="#healthcare" weight="3245" />
+      <edge id="185" source="#budget" target="#shortfall" weight="3245" />
+      <edge id="186" source="#budget" target="#physicians" weight="3245" />
+      <edge id="187" source="#Help" target="#win" weight="3245" />
+      <edge id="188" source="#GME" target="#MedEd" weight="9735" />
+      <edge id="189" source="#hospitals" target="#doctors" weight="3245" />
+      <edge id="190" source="#hospitals" target="#patientsafety" weight="3245" />
+      <edge id="191" source="#savealife" target="#blood" weight="3245" />
+      <edge id="192" source="#redcross" target="#blooddrive" weight="3245" />
+      <edge id="193" source="#athenahealth" target="#meaningfuluse" weight="3245" />
+      <edge id="194" source="#FixMedicareNow" target="#AMAmtg" weight="3245" />
+      <edge id="195" source="#FixMedicareNow" target="#SGR" weight="3245" />
+      <edge id="196" source="#OSMA2015" target="#BeAVoice" weight="3245" />
+      <edge id="197" source="#OSMA2015" target="#komencolumbus" weight="3245" />
+      <edge id="198" source="#OSMA2015" target="#SmartRx" weight="9735" />
+      <edge id="199" source="#OSMA2015" target="#OSMAPAC" weight="3245" />
+      <edge id="200" source="#OSMA2013" target="#patients" weight="3245" />
+      <edge id="201" source="#OSMA2013" target="#Physician" weight="3245" />
+      <edge id="202" source="#OSMA2013" target="#primarycare" weight="3245" />
+      <edge id="203" source="#OSMA2013" target="#Medicine" weight="3245" />
+      <edge id="204" source="#OSMA2013" target="#physicians" weight="6490" />
+      <edge id="205" source="#priorauth" target="#SB129" weight="3245" />
+      <edge id="206" source="#mHealth" target="#EHR" weight="3245" />
+      <edge id="207" source="#mHealth" target="#hitsm" weight="3245" />
+      <edge id="208" source="#mHealth" target="#PHR" weight="3245" />
+      <edge id="209" source="#GoGreen" target="#OTW" weight="45430" />
+      <edge id="210" source="#GoGreen" target="#ICD10" weight="3245" />
+      <edge id="211" source="#GoGreen" target="#HIPAA" weight="3245" />
+      <edge id="212" source="#tickliterate" target="#Lyme" weight="9735" />
+      <edge id="213" source="#tickliterate" target="#lyme" weight="3245" />
+      <edge id="214" source="#tickliterate" target="#physicians" weight="3245" />
+      <edge id="215" source="#SCR10" target="#painmanagement" weight="3245" />
+      <edge id="216" source="#SCR10" target="#HCAHPS" weight="3245" />
+      <edge id="217" source="#SCR10" target="#drugabuse" weight="3245" />
+      <edge id="218" source="#surgeons" target="#GoogleGlass" weight="3245" />
+      <edge id="219" source="#Register" target="#compliance" weight="3245" />
+      <edge id="220" source="#Register" target="#webinar" weight="3245" />
+      <edge id="221" source="#HIPAA" target="#OTW" weight="9735" />
+      <edge id="222" source="#HIPAA" target="#ICD10" weight="3245" />
+      <edge id="223" source="#HIPAA" target="#CME" weight="3245" />
+      <edge id="224" source="#HIPAA" target="#Medicare" weight="3245" />
+      <edge id="225" source="#Medicare" target="#OTW" weight="6490" />
+      <edge id="226" source="#Medicare" target="#OSHIIP" weight="3245" />
+      <edge id="227" source="#Medicare" target="#Physician" weight="3245" />
+      <edge id="228" source="#Medicare" target="#sequester" weight="3245" />
+      <edge id="229" source="#Medicare" target="#seniors" weight="3245" />
+      <edge id="230" source="#Medicare" target="#docfix" weight="3245" />
+      <edge id="231" source="#Medicare" target="#SGR" weight="32450" />
+      <edge id="232" source="#Medicare" target="#CMS" weight="6490" />
+      <edge id="233" source="#Medicare" target="#MACRA" weight="3245" />
+      <edge id="234" source="#Medicare" target="#bipartisan" weight="3245" />
+      <edge id="235" source="#Medicare" target="#EHR" weight="3245" />
+      <edge id="236" source="#Medicare" target="#medstudent" weight="3245" />
+      <edge id="237" source="#Medicare" target="#IPAB" weight="3245" />
+      <edge id="238" source="#Medicare" target="#CME" weight="3245" />
+      <edge id="239" source="#Medicare" target="#ACO" weight="3245" />
+      <edge id="240" source="#Medicare" target="#Physicians" weight="3245" />
+      <edge id="241" source="#Medicare" target="#Medicaid" weight="29205" />
+      <edge id="242" source="#Medicare" target="#Ohio" weight="3245" />
+      <edge id="243" source="#BeAVoice" target="#OSMAPAC" weight="12980" />
+      <edge id="244" source="#medicalmarijuana" target="#osmaction" weight="3245" />
+      <edge id="245" source="#medicalmarijuana" target="#HB523" weight="12980" />
+      <edge id="246" source="#medicalmarijuana" target="#Ohio" weight="3245" />
+      <edge id="247" source="#DiabetesMonth" target="#prediabetes" weight="3245" />
+      <edge id="248" source="#heartdisease" target="#NWHW" weight="6490" />
+      <edge id="249" source="#heartdisease" target="#cardiologist" weight="3245" />
+      <edge id="250" source="#MedEdAMA" target="#MedEd" weight="3245" />
+      <edge id="251" source="#MedEdAMA" target="#physician" weight="3245" />
+      <edge id="252" source="#Election" target="#Republicans" weight="3245" />
+      <edge id="253" source="#medicare" target="#meaningfuluse" weight="3245" />
+      <edge id="254" source="#promotions" target="#savings" weight="3245" />
+      <edge id="255" source="#free" target="#compliance" weight="3245" />
+      <edge id="256" source="#free" target="#webinar" weight="12980" />
+      <edge id="257" source="#ACOs" target="#paymentreform" weight="3245" />
+      <edge id="258" source="#medsync" target="#HB116" weight="3245" />
+      <edge id="259" source="#medsync" target="#Ohio" weight="3245" />
+      <edge id="260" source="#unpackdigital" target="#SmartRx" weight="3245" />
+      <edge id="261" source="#unpackdigital" target="#opioid" weight="3245" />
+      <edge id="262" source="#donate" target="#savelives" weight="3245" />
+      <edge id="263" source="#AMA" target="#SGR" weight="3245" />
+      <edge id="264" source="#AMA" target="#CMS" weight="3245" />
+      <edge id="265" source="#AMA" target="#physician" weight="3245" />
+      <edge id="266" source="#SunshineAct" target="#OpenPayments" weight="3245" />
+      <edge id="267" source="#pain" target="#patients" weight="3245" />
+      <edge id="268" source="#pain" target="#OSMA" weight="3245" />
+      <edge id="269" source="#win" target="#giftcard" weight="3245" />
+      <edge id="270" source="#win" target="#Complete" weight="3245" />
+      <edge id="271" source="#win" target="#SmartRx" weight="3245" />
+      <edge id="272" source="#win" target="#CME" weight="6490" />
+      <edge id="273" source="#ohbudget" target="#healthcare" weight="3245" />
+      <edge id="274" source="#OhioSB243" target="#StepTherapy" weight="3245" />
+      <edge id="275" source="#compliance" target="#webinar" weight="3245" />
+      <edge id="276" source="#Patient" target="#MSSNY_YPS" weight="3245" />
+      <edge id="277" source="#Patient" target="#Medicine" weight="6490" />
+      <edge id="278" source="#Patient" target="#OSMA" weight="6490" />
+      <edge id="279" source="#Patient" target="#satisfaction" weight="3245" />
+      <edge id="280" source="#money" target="#studentloans" weight="3245" />
+      <edge id="281" source="#money" target="#refinancing" weight="3245" />
+      <edge id="282" source="#today" target="#pharmacy" weight="3245" />
+      <edge id="283" source="#Pennsylvania" target="#pagovt" weight="3245" />
+      <edge id="284" source="#healthyohio" target="#smartrx" weight="3245" />
+      <edge id="285" source="#physicians" target="#patients" weight="3245" />
+      <edge id="286" source="#physicians" target="#pharmacists" weight="3245" />
+      <edge id="287" source="#physicians" target="#osma2012" weight="9735" />
+      <edge id="288" source="#physicians" target="#primarycare" weight="3245" />
+      <edge id="289" source="#physicians" target="#healthcare" weight="3245" />
+      <edge id="290" source="#physicians" target="#Medicaid" weight="3245" />
+      <edge id="291" source="#physicians" target="#eRX" weight="3245" />
+      <edge id="292" source="#physicians" target="#Ohio" weight="6490" />
+      <edge id="293" source="#Healthier" target="#Patients" weight="3245" />
+      <edge id="294" source="#allforohio" target="#judicialvotescount" weight="3245" />
+      <edge id="295" source="#satisfaction" target="#MSSNY_YPS" weight="3245" />
+      <edge id="296" source="#OTW" target="#OSHA" weight="6490" />
+      <edge id="297" source="#OTW" target="#Ohio" weight="3245" />
+      <edge id="298" source="#OTW" target="#Chemo" weight="3245" />
+      <edge id="299" source="#OTW" target="#Diabetes" weight="3245" />
+      <edge id="300" source="#OTW" target="#Physician" weight="3245" />
+      <edge id="301" source="#OTW" target="#IndepedentDocs" weight="3245" />
+      <edge id="302" source="#OTW" target="#PrimaryCare" weight="3245" />
+      <edge id="303" source="#OTW" target="#ICD10" weight="19470" />
+      <edge id="304" source="#OTW" target="#Opioid" weight="3245" />
+      <edge id="305" source="#OTW" target="#ChronicPain" weight="3245" />
+      <edge id="306" source="#OTW" target="#CME" weight="22715" />
+      <edge id="307" source="#OTW" target="#primarycare" weight="3245" />
+      <edge id="308" source="#OTW" target="#SGR" weight="3245" />
+      <edge id="309" source="#OTW" target="#EHR" weight="6490" />
+      <edge id="310" source="#OTW" target="#ACA" weight="16225" />
+      <edge id="311" source="#OTW" target="#Medicaid" weight="25960" />
+      <edge id="312" source="#medstudents" target="#match2013" weight="3245" />
+      <edge id="313" source="#breastcancerawareness" target="#breastcancer" weight="3245" />
+      <edge id="314" source="#tobacco" target="#Ohio" weight="3245" />
+      <edge id="315" source="#Patients" target="#Abortion" weight="3245" />
+      <edge id="316" source="#Patients" target="#Hospitals" weight="3245" />
+      <edge id="317" source="#ICD" target="#AMAwire" weight="3245" />
+      <edge id="318" source="#supco" target="#aca" weight="3245" />
+      <edge id="319" source="#supco" target="#hsr" weight="3245" />
+      <edge id="320" source="#CMS" target="#physician" weight="3245" />
+      <edge id="321" source="#CMS" target="#sequester" weight="3245" />
+      <edge id="322" source="#CMS" target="#ACO" weight="3245" />
+      <edge id="323" source="#hcsm" target="#osma2012" weight="3245" />
+      <edge id="324" source="#hcsm" target="#doctors" weight="3245" />
+      <edge id="325" source="#hcsm" target="#OSMA" weight="3245" />
+      <edge id="326" source="#hcsm" target="#wellness" weight="3245" />
+      <edge id="327" source="#hcsm" target="#healthcare" weight="6490" />
+      <edge id="328" source="#hcsm" target="#hcmkg" weight="3245" />
+      <edge id="329" source="#CME" target="#OSHA" weight="9735" />
+      <edge id="330" source="#CME" target="#FREE" weight="9735" />
+      <edge id="331" source="#CME" target="#Opioid" weight="3245" />
+      <edge id="332" source="#CME" target="#OBGYN" weight="6490" />
+      <edge id="333" source="#CME" target="#Lyme" weight="3245" />
+      <edge id="334" source="#CME" target="#SmartRx" weight="9735" />
+      <edge id="335" source="#CME" target="#Diabetes" weight="3245" />
+      <edge id="336" source="#CME" target="#OSMA" weight="3245" />
+      <edge id="337" source="#CME" target="#PrimaryCare" weight="3245" />
+      <edge id="338" source="#CME" target="#ICD10" weight="38940" />
+      <edge id="339" source="#CME" target="#Starbucks" weight="9735" />
+      <edge id="340" source="#CME" target="#MedicalCoding" weight="3245" />
+      <edge id="341" source="#CME" target="#EHR" weight="3245" />
+      <edge id="342" source="#MedicalPractice" target="#FamilyMedicine" weight="3245" />
+      <edge id="343" source="#MedicalPractice" target="#AAFP" weight="3245" />
+      <edge id="344" source="#Physicians" target="#patients" weight="3245" />
+      <edge id="345" source="#Physicians" target="#trial" weight="3245" />
+      <edge id="346" source="#Physicians" target="#HB59" weight="3245" />
+      <edge id="347" source="#Physicians" target="#testimony" weight="3245" />
+      <edge id="348" source="#Physicians" target="#medicalscribes" weight="3245" />
+      <edge id="349" source="#Physicians" target="#medmalrisk" weight="3245" />
+      <edge id="350" source="#Physicians" target="#Ohio" weight="3245" />
+      <edge id="351" source="#opioid" target="#FREE" weight="3245" />
+      <edge id="352" source="#opioid" target="#SmartRx" weight="3245" />
+      <edge id="353" source="#flu" target="#abcDrBchat" weight="3245" />
+      <edge id="354" source="#ipab" target="#osma2012" weight="6490" />
+      <edge id="355" source="#HB216" target="#teamswork" weight="9735" />
+      <edge id="356" source="#HB216" target="#TeamsWork" weight="25960" />
+      <edge id="357" source="#scopeofpractice" target="#PrimaryCare" weight="3245" />
+      <edge id="358" source="#MedEd" target="#MedStudents" weight="6490" />
+      <edge id="359" source="#MedEd" target="#physician" weight="3245" />
+      <edge id="360" source="#MedEd" target="#AAFP" weight="3245" />
+      <edge id="361" source="#MedEd" target="#Match2017" weight="3245" />
+      <edge id="362" source="#PriorAuth" target="#SB129" weight="6490" />
+      <edge id="363" source="#PriorAuth" target="#PA" weight="3245" />
+      <edge id="364" source="#PriorAuth" target="#OSMAction" weight="3245" />
+      <edge id="365" source="#refinancing" target="#studentloans" weight="6490" />
+      <edge id="366" source="#refinancing" target="#payments" weight="3245" />
+      <edge id="367" source="#hitsm" target="#EHR" weight="3245" />
+      <edge id="368" source="#hitsm" target="#PHR" weight="3245" />
+      <edge id="369" source="#DidYouKnow" target="#hospital" weight="3245" />
+      <edge id="370" source="#Abortion" target="#Hospitals" weight="3245" />
+      <edge id="371" source="#Abortion" target="#Ohio" weight="3245" />
+      <edge id="372" source="#marijuana" target="#HB523" weight="3245" />
+      <edge id="373" source="#Infographic" target="#Medicaid" weight="3245" />
+      <edge id="374" source="#NWHW" target="#cardiologist" weight="3245" />
+      <edge id="375" source="#aducanumab" target="#Alzheimer" weight="3245" />
+      <edge id="376" source="#Vaccination" target="#meningitis" weight="3245" />
+      <edge id="377" source="#sadtrombone" target="#SCOTUSblog" weight="3245" />
+      <edge id="378" source="#RA" target="#alcohol" weight="3245" />
+      <edge id="379" source="#hcmkg" target="#osma2012" weight="3245" />
+      <edge id="380" source="#hcmkg" target="#OSMA" weight="3245" />
+      <edge id="381" source="#scotus" target="#aca" weight="6490" />
+      <edge id="382" source="#scotus" target="#hsr" weight="6490" />
+      <edge id="383" source="#Opioid" target="#SmartRx" weight="3245" />
+      <edge id="384" source="#OpioidEpidemic" target="#OpioidAwareness" weight="3245" />
+      <edge id="385" source="#breastcancer" target="#KnowPink" weight="3245" />
+      <edge id="386" source="#drugs" target="#biosimilars" weight="3245" />
+      <edge id="387" source="#drugs" target="#ACA" weight="3245" />
+      <edge id="388" source="#obesity" target="#FamilyMedicine" weight="3245" />
+      <edge id="389" source="#obesity" target="#ama" weight="3245" />
+      <edge id="390" source="#ONC" target="#MU" weight="3245" />
+      <edge id="391" source="#ONC" target="#EHR" weight="3245" />
+      <edge id="392" source="#docfix" target="#SGR" weight="6490" />
+      <edge id="393" source="#testimony" target="#trial" weight="3245" />
+      <edge id="394" source="#ptexp" target="#digitalhealth" weight="6490" />
+      <edge id="395" source="#HCAHPS" target="#painmanagement" weight="3245" />
+      <edge id="396" source="#HCAHPS" target="#drugabuse" weight="3245" />
+      <edge id="397" source="#research" target="#cancer" weight="3245" />
+      <edge id="398" source="#patients" target="#Ohio" weight="3245" />
+      <edge id="399" source="#patients" target="#pcmh" weight="3245" />
+      <edge id="400" source="#patients" target="#doctors" weight="3245" />
+      <edge id="401" source="#patients" target="#OSMA" weight="3245" />
+      <edge id="402" source="#RxProblem" target="#SmartRx" weight="3245" />
+      <edge id="403" source="#painmanagement" target="#drugabuse" weight="3245" />
+      <edge id="404" source="#leadership" target="#osma2014" weight="6490" />
+      <edge id="405" source="#Opiate" target="#Ohio" weight="3245" />
+      <edge id="406" source="#SmartRx" target="#FREE" weight="3245" />
+      <edge id="407" source="#SmartRx" target="#osma2015" weight="6490" />
+      <edge id="408" source="#SmartRx" target="#OSMAction" weight="6490" />
+      <edge id="409" source="#SmartRx" target="#OSMA" weight="3245" />
+      <edge id="410" source="#SmartRx" target="#Starbucks" weight="3245" />
+      <edge id="411" source="#PHR" target="#EHR" weight="3245" />
+      <edge id="412" source="#payroll" target="#smallbiz" weight="3245" />
+      <edge id="413" source="#seniors" target="#IPAB" weight="6490" />
+      <edge id="414" source="#MedicalCoding" target="#OBGYN" weight="3245" />
+      <edge id="415" source="#Coding" target="#ICD10" weight="3245" />
+      <edge id="416" source="#Coding" target="#OSMA" weight="3245" />
+      <edge id="417" source="#MeaningfulUse" target="#FamilyMedicine" weight="3245" />
+      <edge id="418" source="#MeaningfulUse" target="#MU" weight="3245" />
+      <edge id="419" source="#MeaningfulUse" target="#EHR" weight="12980" />
+      <edge id="420" source="#MeaningfulUse" target="#AAFP" weight="3245" />
+      <edge id="421" source="#RegisterToVote" target="#EarlyVoting" weight="3245" />
+      <edge id="422" source="#smartrx" target="#publichealth" weight="3245" />
+      <edge id="423" source="#VA" target="#veterans" weight="3245" />
+      <edge id="424" source="#cholesterol" target="#bloodpressure" weight="3245" />
+      <edge id="425" source="#biosimilars" target="#ACA" weight="3245" />
+      <edge id="426" source="#FamilyMedicine" target="#AAFP" weight="6490" />
+      <edge id="427" source="#aca" target="#hsr" weight="9735" />
+      <edge id="428" source="#exchange" target="#Obamacare" weight="3245" />
+      <edge id="429" source="#exchange" target="#ACA" weight="3245" />
+      <edge id="430" source="#abortion" target="#law" weight="3245" />
+      <edge id="431" source="#MACRA" target="#healthcare" weight="3245" />
+      <edge id="432" source="#RedCross" target="#BloodDrive" weight="6490" />
+      <edge id="433" source="#RedCross" target="#Lifesaver" weight="3245" />
+      <edge id="434" source="#telemedicine" target="#SB32" weight="3245" />
+      <edge id="435" source="#OSMA" target="#osma2012" weight="3245" />
+      <edge id="436" source="#OSMA" target="#physician" weight="3245" />
+      <edge id="437" source="#OSMA" target="#minorities" weight="3245" />
+      <edge id="438" source="#OSMA" target="#ICD10" weight="3245" />
+      <edge id="439" source="#OSMA" target="#Medicine" weight="3245" />
+      <edge id="440" source="#OSMA" target="#Medicaid" weight="9735" />
+      <edge id="441" source="#OSMA" target="#Ohio" weight="6490" />
+      <edge id="442" source="#HB110" target="#HB110" weight="6490" />
+      <edge id="443" source="#HB116" target="#Ohio" weight="3245" />
+      <edge id="444" source="#donateblood" target="#savelives" weight="3245" />
+      <edge id="445" source="#payments" target="#studentloans" weight="3245" />
+      <edge id="446" source="#pillmills" target="#drugabuse" weight="3245" />
+      <edge id="447" source="#bipartisan" target="#finally" weight="3245" />
+      <edge id="448" source="#bipartisan" target="#SGR" weight="6490" />
+      <edge id="449" source="#cancer" target="#primarycare" weight="3245" />
+      <edge id="450" source="#ACR2015" target="#radiology" weight="3245" />
+      <edge id="451" source="#HB523" target="#Ohio" weight="3245" />
+      <edge id="452" source="#Stateline" target="#Medicaid" weight="3245" />
+      <edge id="453" source="#Stateline" target="#Ohio" weight="3245" />
+      <edge id="454" source="#Medicaid" target="#hcreform" weight="3245" />
+      <edge id="455" source="#Medicaid" target="#EHR" weight="6490" />
+      <edge id="456" source="#Medicaid" target="#PrimaryCare" weight="3245" />
+      <edge id="457" source="#Medicaid" target="#ACA" weight="3245" />
+      <edge id="458" source="#Medicaid" target="#healthcare" weight="3245" />
+      <edge id="459" source="#Medicaid" target="#ICD10" weight="9735" />
+      <edge id="460" source="#Medicaid" target="#Medicaid" weight="6490" />
+      <edge id="461" source="#Medicaid" target="#Ohio" weight="12980" />
+      <edge id="462" source="#FREE" target="#Starbucks" weight="6490" />
+      <edge id="463" source="#radiology" target="#ICD10" weight="3245" />
+      <edge id="464" source="#Lifesaver" target="#BloodDrive" weight="3245" />
+      <edge id="465" source="#BeatMichigan" target="#UrbanMeyer" weight="3245" />
+      <edge id="466" source="#BeatMichigan" target="#DonateLife" weight="3245" />
+      <edge id="467" source="#ICD10" target="#RoadtoICD10" weight="3245" />
+      <edge id="468" source="#ICD10" target="#Diabetes" weight="3245" />
+      <edge id="469" source="#ICD10" target="#PrimaryCare" weight="3245" />
+      <edge id="470" source="#DonateLife" target="#UrbanMeyer" weight="3245" />
+      <edge id="471" source="#OSMAction" target="#SB129" weight="9735" />
+      <edge id="472" source="#OSMAction" target="#PriorAuthorization" weight="3245" />
+      <edge id="473" source="#hsr" target="#osma2011" weight="6490" />
+      <edge id="474" source="#blooddrive" target="#savelives" weight="3245" />
+      <edge id="475" source="#osmathisweek" target="#primarycare" weight="3245" />
+      <edge id="476" source="#Obamacare" target="#ACA" weight="3245" />
+      <edge id="477" source="#Ohio" target="#doctors" weight="3245" />
+      <edge id="478" source="#Ohio" target="#pcmh" weight="3245" />
+      <edge id="479" source="#Doc" target="#PrimaryCare" weight="3245" />
+      <edge id="480" source="#Physician" target="#Fraud" weight="3245" />
+      <edge id="481" source="#MUS2" target="#MU" weight="3245" />
+      <edge id="482" source="#osma2012" target="#SGR" weight="3245" />
+      <edge id="483" source="#osma2011" target="#hcreform" weight="3245" />
+      <edge id="484" source="#osma2011" target="#EHR" weight="3245" />
+      <edge id="485" source="#PriorAuthorization" target="#SB129" weight="9735" />
+      <edge id="486" source="#hcreform" target="#healthcare" weight="3245" />
+      <edge id="487" source="#pcmh" target="#doctors" weight="3245" />
+      <edge id="488" source="#finally" target="#SGR" weight="3245" />
+      <edge id="489" source="#primarycare" target="#AAFP" weight="3245" />
+      <edge id="490" source="#AAFP" target="#EHR" weight="3245" />
+      <edge id="491" source="#healthcare" target="#wellness" weight="3245" />
+      <edge id="492" source="#SGR" target="#SGR" weight="12980" />
+      <edge id="493" source="#SGR" target="#ACA" weight="3245" />
+      <edge id="494" source="#EHR" target="#MU" weight="9735" />
+    </edges>
+  </graph>
+</gexf>

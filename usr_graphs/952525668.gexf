@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OhioWx" label="#OhioWx" />
+      <node id="#relief" label="#relief" />
+      <node id="#GDC" label="#GDC" />
+      <node id="#WinterStorm" label="#WinterStorm" />
+      <node id="#OhioWX" label="#OhioWX" />
+      <node id="#volunteers" label="#volunteers" />
+      <node id="#besafe" label="#besafe" />
+      <node id="#disaster" label="#disaster" />
+      <node id="#610Storm" label="#610Storm" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OhioWx" target="#GDC" weight="281" />
+      <edge id="1" source="#relief" target="#volunteers" weight="281" />
+      <edge id="2" source="#relief" target="#disaster" weight="281" />
+      <edge id="3" source="#WinterStorm" target="#besafe" weight="281" />
+      <edge id="4" source="#OhioWX" target="#610Storm" weight="562" />
+      <edge id="5" source="#volunteers" target="#disaster" weight="281" />
+    </edges>
+  </graph>
+</gexf>

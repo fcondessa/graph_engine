@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Lift3d" label="#Lift3d" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#wakeupstartup" label="#wakeupstartup" />
+      <node id="#wusu" label="#wusu" />
+      <node id="#cosi" label="#cosi" />
+      <node id="#Skyhouse" label="#Skyhouse" />
+      <node id="#POINT" label="#POINT" />
+      <node id="#startup" label="#startup" />
+      <node id="#RealWeld" label="#RealWeld" />
+      <node id="#MomentsWithMarshall" label="#MomentsWithMarshall" />
+      <node id="#OIO" label="#OIO" />
+      <node id="#Flimsee" label="#Flimsee" />
+      <node id="#SteveJobs" label="#SteveJobs" />
+      <node id="#MinuteWithMarshall" label="#MinuteWithMarshall" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Lift3d" target="#wakeupstartup" weight="48" />
+      <edge id="1" source="#swcbus" target="#wakeupstartup" weight="96" />
+      <edge id="2" source="#swcbus" target="#startup" weight="48" />
+      <edge id="3" source="#wakeupstartup" target="#cosi" weight="48" />
+      <edge id="4" source="#wakeupstartup" target="#wusu" weight="48" />
+      <edge id="5" source="#wakeupstartup" target="#MomentsWithMarshall" weight="48" />
+      <edge id="6" source="#wakeupstartup" target="#Skyhouse" weight="48" />
+      <edge id="7" source="#wakeupstartup" target="#POINT" weight="48" />
+      <edge id="8" source="#wakeupstartup" target="#startup" weight="48" />
+      <edge id="9" source="#wakeupstartup" target="#RealWeld" weight="48" />
+      <edge id="10" source="#wakeupstartup" target="#Flimsee" weight="48" />
+      <edge id="11" source="#wakeupstartup" target="#MinuteWithMarshall" weight="48" />
+      <edge id="12" source="#wusu" target="#SteveJobs" weight="48" />
+      <edge id="13" source="#wusu" target="#cosi" weight="48" />
+      <edge id="14" source="#wusu" target="#OIO" weight="48" />
+    </edges>
+  </graph>
+</gexf>

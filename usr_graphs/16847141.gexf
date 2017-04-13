@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ColumbusDay" label="#ColumbusDay" />
+      <node id="#FuckColumbus" label="#FuckColumbus" />
+      <node id="#stooplife" label="#stooplife" />
+      <node id="#slay" label="#slay" />
+      <node id="#soupforbreakfast" label="#soupforbreakfast" />
+      <node id="#Decolonize" label="#Decolonize" />
+      <node id="#neurotrecordings" label="#neurotrecordings" />
+      <node id="#horsinaround" label="#horsinaround" />
+      <node id="#touriswar" label="#touriswar" />
+      <node id="#BettyDavis" label="#BettyDavis" />
+      <node id="#diyordie" label="#diyordie" />
+      <node id="#VIN" label="#VIN" />
+      <node id="#season4" label="#season4" />
+      <node id="#IndigenousPeoplesDay" label="#IndigenousPeoplesDay" />
+      <node id="#Game162" label="#Game162" />
+      <node id="#Rod" label="#Rod" />
+      <node id="#neurosis30" label="#neurosis30" />
+      <node id="#clubmate" label="#clubmate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ColumbusDay" target="#FuckColumbus" weight="3205" />
+      <edge id="1" source="#ColumbusDay" target="#Decolonize" weight="3205" />
+      <edge id="2" source="#ColumbusDay" target="#IndigenousPeoplesDay" weight="3205" />
+      <edge id="3" source="#FuckColumbus" target="#IndigenousPeoplesDay" weight="3205" />
+      <edge id="4" source="#FuckColumbus" target="#Decolonize" weight="3205" />
+      <edge id="5" source="#stooplife" target="#diyordie" weight="3205" />
+      <edge id="6" source="#stooplife" target="#clubmate" weight="3205" />
+      <edge id="7" source="#stooplife" target="#touriswar" weight="3205" />
+      <edge id="8" source="#slay" target="#BettyDavis" weight="3205" />
+      <edge id="9" source="#soupforbreakfast" target="#Rod" weight="3205" />
+      <edge id="10" source="#Decolonize" target="#IndigenousPeoplesDay" weight="3205" />
+      <edge id="11" source="#neurotrecordings" target="#neurosis30" weight="3205" />
+      <edge id="12" source="#horsinaround" target="#season4" weight="3205" />
+      <edge id="13" source="#touriswar" target="#diyordie" weight="3205" />
+      <edge id="14" source="#touriswar" target="#clubmate" weight="3205" />
+      <edge id="15" source="#diyordie" target="#clubmate" weight="3205" />
+      <edge id="16" source="#VIN" target="#Game162" weight="3205" />
+    </edges>
+  </graph>
+</gexf>

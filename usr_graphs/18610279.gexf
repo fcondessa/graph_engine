@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#helloColumbus" label="#helloColumbus" />
+      <node id="#columbuspride" label="#columbuspride" />
+      <node id="#hellocbus" label="#hellocbus" />
+      <node id="#pride2014" label="#pride2014" />
+      <node id="#localfood" label="#localfood" />
+      <node id="#urbanizecbus" label="#urbanizecbus" />
+      <node id="#lovemormon" label="#lovemormon" />
+      <node id="#locallygrown" label="#locallygrown" />
+      <node id="#inthiscityican" label="#inthiscityican" />
+      <node id="#LifeinCbus" label="#LifeinCbus" />
+      <node id="#CBUS" label="#CBUS" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#helloColumbus" target="#lovemormon" weight="161" />
+      <edge id="1" source="#helloColumbus" target="#hellocbus" weight="161" />
+      <edge id="2" source="#columbuspride" target="#pride2014" weight="161" />
+      <edge id="3" source="#columbuspride" target="#LifeinCbus" weight="161" />
+      <edge id="4" source="#hellocbus" target="#lovemormon" weight="161" />
+      <edge id="5" source="#pride2014" target="#LifeinCbus" weight="161" />
+      <edge id="6" source="#localfood" target="#locallygrown" weight="161" />
+      <edge id="7" source="#localfood" target="#CBUS" weight="161" />
+      <edge id="8" source="#urbanizecbus" target="#inthiscityican" weight="322" />
+      <edge id="9" source="#locallygrown" target="#CBUS" weight="161" />
+    </edges>
+  </graph>
+</gexf>

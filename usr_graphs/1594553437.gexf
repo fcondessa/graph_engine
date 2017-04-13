@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#eftours" label="#eftours" />
+      <node id="#EASMyoplex" label="#EASMyoplex" />
+      <node id="#packH20" label="#packH20" />
+      <node id="#globalscholars" label="#globalscholars" />
+      <node id="#NationalWaffleDay" label="#NationalWaffleDay" />
+      <node id="#AbbottEmp" label="#AbbottEmp" />
+      <node id="#DomesticViolence" label="#DomesticViolence" />
+      <node id="#raredisease" label="#raredisease" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#AbbottWMM" label="#AbbottWMM" />
+      <node id="#HBAimpact" label="#HBAimpact" />
+      <node id="#RedNoseDay" label="#RedNoseDay" />
+      <node id="#HaloTop" label="#HaloTop" />
+      <node id="#cleanwaterforall" label="#cleanwaterforall" />
+      <node id="#ANDigital" label="#ANDigital" />
+      <node id="#WOTY" label="#WOTY" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#ASF2016" label="#ASF2016" />
+      <node id="#Lifetothefullest" label="#Lifetothefullest" />
+      <node id="#Shanghai" label="#Shanghai" />
+      <node id="#LastChance" label="#LastChance" />
+      <node id="#retailpatient" label="#retailpatient" />
+      <node id="#hbaimpact" label="#hbaimpact" />
+      <node id="#legend" label="#legend" />
+      <node id="#ColumBEST" label="#ColumBEST" />
+      <node id="#Midtown" label="#Midtown" />
+      <node id="#hbaohio" label="#hbaohio" />
+      <node id="#thankful" label="#thankful" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#PretermBirth" label="#PretermBirth" />
+      <node id="#OHIO" label="#OHIO" />
+      <node id="#WorldPrematurityDay" label="#WorldPrematurityDay" />
+      <node id="#volunteer" label="#volunteer" />
+      <node id="#SB50" label="#SB50" />
+      <node id="#BackToBack" label="#BackToBack" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#LikeAGirl" label="#LikeAGirl" />
+      <node id="#globalhealthcare" label="#globalhealthcare" />
+      <node id="#RedNose4Kids" label="#RedNose4Kids" />
+      <node id="#JoyceDevo" label="#JoyceDevo" />
+      <node id="#musculardystrophy" label="#musculardystrophy" />
+      <node id="#nutrition" label="#nutrition" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#FinalFour" label="#FinalFour" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#eftours" target="#globalscholars" weight="192" />
+      <edge id="1" source="#EASMyoplex" target="#ASF2016" weight="192" />
+      <edge id="2" source="#EASMyoplex" target="#legend" weight="192" />
+      <edge id="3" source="#packH20" target="#cleanwaterforall" weight="192" />
+      <edge id="4" source="#packH20" target="#globalhealthcare" weight="192" />
+      <edge id="5" source="#NationalWaffleDay" target="#HaloTop" weight="192" />
+      <edge id="6" source="#AbbottEmp" target="#AbbottWMM" weight="192" />
+      <edge id="7" source="#DomesticViolence" target="#SB50" weight="192" />
+      <edge id="8" source="#raredisease" target="#hbaimpact" weight="192" />
+      <edge id="9" source="#raredisease" target="#musculardystrophy" weight="192" />
+      <edge id="10" source="#SuperBowl" target="#SB50" weight="192" />
+      <edge id="11" source="#diabetes" target="#nutrition" weight="192" />
+      <edge id="12" source="#HBAimpact" target="#retailpatient" weight="192" />
+      <edge id="13" source="#HBAimpact" target="#hbaohio" weight="384" />
+      <edge id="14" source="#RedNoseDay" target="#RedNose4Kids" weight="192" />
+      <edge id="15" source="#ANDigital" target="#LikeAGirl" weight="192" />
+      <edge id="16" source="#WOTY" target="#Midtown" weight="192" />
+      <edge id="17" source="#WOTY" target="#NYC" weight="192" />
+      <edge id="18" source="#NYC" target="#Midtown" weight="192" />
+      <edge id="19" source="#ASF2016" target="#legend" weight="192" />
+      <edge id="20" source="#Lifetothefullest" target="#Shanghai" weight="192" />
+      <edge id="21" source="#LastChance" target="#ColumBEST" weight="192" />
+      <edge id="22" source="#retailpatient" target="#hbaohio" weight="192" />
+      <edge id="23" source="#hbaimpact" target="#volunteer" weight="192" />
+      <edge id="24" source="#hbaimpact" target="#GoBucks" weight="192" />
+      <edge id="25" source="#hbaimpact" target="#BackToBack" weight="192" />
+      <edge id="26" source="#hbaimpact" target="#musculardystrophy" weight="192" />
+      <edge id="27" source="#hbaimpact" target="#OHIO" weight="192" />
+      <edge id="28" source="#hbaimpact" target="#Columbus" weight="192" />
+      <edge id="29" source="#thankful" target="#JoyceDevo" weight="192" />
+      <edge id="30" source="#Columbus" target="#volunteer" weight="192" />
+      <edge id="31" source="#PretermBirth" target="#WorldPrematurityDay" weight="192" />
+      <edge id="32" source="#OHIO" target="#GoBucks" weight="192" />
+      <edge id="33" source="#OHIO" target="#BackToBack" weight="192" />
+      <edge id="34" source="#BackToBack" target="#GoBucks" weight="192" />
+      <edge id="35" source="#MarchMadness" target="#FinalFour" weight="192" />
+    </edges>
+  </graph>
+</gexf>

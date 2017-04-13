@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#rodiziogrill" label="#rodiziogrill" />
+      <node id="#StudioMovieGrill" label="#StudioMovieGrill" />
+      <node id="#arenagrand" label="#arenagrand" />
+      <node id="#MarchToThePlayoffs" label="#MarchToThePlayoffs" />
+      <node id="#ArenaDistrict" label="#ArenaDistrict" />
+      <node id="#BlueJackets" label="#BlueJackets" />
+      <node id="#WNCI" label="#WNCI" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#LC1504" label="#LC1504" />
+      <node id="#WorkingMoms" label="#WorkingMoms" />
+      <node id="#twilight" label="#twilight" />
+      <node id="#FMMF" label="#FMMF" />
+      <node id="#loveit" label="#loveit" />
+      <node id="#GuiltyPleasure" label="#GuiltyPleasure" />
+      <node id="#DefendNWA" label="#DefendNWA" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#threeleggedmare" label="#threeleggedmare" />
+      <node id="#promowest" label="#promowest" />
+      <node id="#JoinTheBattle" label="#JoinTheBattle" />
+      <node id="#ArenaGrand" label="#ArenaGrand" />
+      <node id="#music" label="#music" />
+      <node id="#ClipShow" label="#ClipShow" />
+      <node id="#arenadistrict" label="#arenadistrict" />
+      <node id="#JD2CBJ" label="#JD2CBJ" />
+      <node id="#DimeADog" label="#DimeADog" />
+      <node id="#LCPavilion" label="#LCPavilion" />
+      <node id="#food" label="#food" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#LeadershipCbus" label="#LeadershipCbus" />
+      <node id="#WeAreThe5thLine" label="#WeAreThe5thLine" />
+      <node id="#bluejackets" label="#bluejackets" />
+      <node id="#SantaCon" label="#SantaCon" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#DestinationColumbus" label="#DestinationColumbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#rodiziogrill" target="#arenadistrict" weight="135" />
+      <edge id="1" source="#StudioMovieGrill" target="#ArenaDistrict" weight="135" />
+      <edge id="2" source="#arenagrand" target="#arenadistrict" weight="135" />
+      <edge id="3" source="#MarchToThePlayoffs" target="#CBJ" weight="135" />
+      <edge id="4" source="#ArenaDistrict" target="#promowest" weight="135" />
+      <edge id="5" source="#ArenaDistrict" target="#BlueJackets" weight="135" />
+      <edge id="6" source="#ArenaDistrict" target="#WNCI" weight="135" />
+      <edge id="7" source="#ArenaDistrict" target="#Cbus" weight="135" />
+      <edge id="8" source="#ArenaDistrict" target="#WorkingMoms" weight="135" />
+      <edge id="9" source="#ArenaDistrict" target="#twilight" weight="135" />
+      <edge id="10" source="#ArenaDistrict" target="#FMMF" weight="135" />
+      <edge id="11" source="#ArenaDistrict" target="#loveit" weight="135" />
+      <edge id="12" source="#ArenaDistrict" target="#GuiltyPleasure" weight="135" />
+      <edge id="13" source="#ArenaDistrict" target="#CBJ" weight="1485" />
+      <edge id="14" source="#ArenaDistrict" target="#JoinTheBattle" weight="135" />
+      <edge id="15" source="#ArenaDistrict" target="#ArenaGrand" weight="135" />
+      <edge id="16" source="#ArenaDistrict" target="#music" weight="135" />
+      <edge id="17" source="#ArenaDistrict" target="#ClipShow" weight="135" />
+      <edge id="18" source="#ArenaDistrict" target="#JD2CBJ" weight="135" />
+      <edge id="19" source="#ArenaDistrict" target="#DimeADog" weight="270" />
+      <edge id="20" source="#ArenaDistrict" target="#LCPavilion" weight="135" />
+      <edge id="21" source="#ArenaDistrict" target="#food" weight="135" />
+      <edge id="22" source="#ArenaDistrict" target="#Columbus" weight="135" />
+      <edge id="23" source="#ArenaDistrict" target="#SantaCon" weight="135" />
+      <edge id="24" source="#ArenaDistrict" target="#NHLAllStar" weight="135" />
+      <edge id="25" source="#ArenaDistrict" target="#DestinationColumbus" weight="135" />
+      <edge id="26" source="#WNCI" target="#ArenaGrand" weight="135" />
+      <edge id="27" source="#Cbus" target="#FMMF" weight="135" />
+      <edge id="28" source="#Cbus" target="#RNC" weight="135" />
+      <edge id="29" source="#LC1504" target="#LeadershipCbus" weight="135" />
+      <edge id="30" source="#WorkingMoms" target="#DestinationColumbus" weight="135" />
+      <edge id="31" source="#twilight" target="#GuiltyPleasure" weight="135" />
+      <edge id="32" source="#loveit" target="#CBJ" weight="135" />
+      <edge id="33" source="#loveit" target="#NHLAllStar" weight="135" />
+      <edge id="34" source="#DefendNWA" target="#WeAreThe5thLine" weight="135" />
+      <edge id="35" source="#CBJ" target="#JD2CBJ" weight="135" />
+      <edge id="36" source="#CBJ" target="#NHLAllStar" weight="135" />
+      <edge id="37" source="#threeleggedmare" target="#arenadistrict" weight="135" />
+      <edge id="38" source="#promowest" target="#LCPavilion" weight="135" />
+      <edge id="39" source="#music" target="#food" weight="135" />
+      <edge id="40" source="#music" target="#Columbus" weight="135" />
+      <edge id="41" source="#arenadistrict" target="#bluejackets" weight="135" />
+      <edge id="42" source="#food" target="#Columbus" weight="135" />
+    </edges>
+  </graph>
+</gexf>

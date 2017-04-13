@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#1FollowAll" label="#1FollowAll" />
+      <node id="#TeamFollowBack" label="#TeamFollowBack" />
+      <node id="#fail" label="#fail" />
+      <node id="#OrangeFriday" label="#OrangeFriday" />
+      <node id="#TEAMFOLLOWBACK" label="#TEAMFOLLOWBACK" />
+      <node id="#TAF" label="#TAF" />
+      <node id="#2011SFGTix" label="#2011SFGTix" />
+      <node id="#Raiders" label="#Raiders" />
+      <node id="#instantfollow" label="#instantfollow" />
+      <node id="#SQUAD" label="#SQUAD" />
+      <node id="#FF" label="#FF" />
+      <node id="#boobs" label="#boobs" />
+      <node id="#RINO" label="#RINO" />
+      <node id="#alcohol" label="#alcohol" />
+      <node id="#500aday" label="#500aday" />
+      <node id="#500ADAY" label="#500ADAY" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#TBP" label="#TBP" />
+      <node id="#followandgain" label="#followandgain" />
+      <node id="#TFB" label="#TFB" />
+      <node id="#FuckUribe" label="#FuckUribe" />
+      <node id="#FOLLOWERS" label="#FOLLOWERS" />
+      <node id="#crime" label="#crime" />
+      <node id="#TeamBlessedPromo" label="#TeamBlessedPromo" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#RETWEET" label="#RETWEET" />
+      <node id="#typical" label="#typical" />
+      <node id="#instantfollowback" label="#instantfollowback" />
+      <node id="#InstantFollowBack" label="#InstantFollowBack" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#teamfollowback" label="#teamfollowback" />
+      <node id="#1MonthLater" label="#1MonthLater" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#1FollowAll" target="#TBP" weight="2387" />
+      <edge id="1" source="#1FollowAll" target="#TeamBlessedPromo" weight="4774" />
+      <edge id="2" source="#TeamFollowBack" target="#500ADAY" weight="4774" />
+      <edge id="3" source="#fail" target="#RINO" weight="2387" />
+      <edge id="4" source="#fail" target="#typical" weight="2387" />
+      <edge id="5" source="#OrangeFriday" target="#2011SFGTix" weight="2387" />
+      <edge id="6" source="#TEAMFOLLOWBACK" target="#FF" weight="2387" />
+      <edge id="7" source="#TEAMFOLLOWBACK" target="#500aday" weight="4774" />
+      <edge id="8" source="#TEAMFOLLOWBACK" target="#TFB" weight="4774" />
+      <edge id="9" source="#TEAMFOLLOWBACK" target="#InstantFollowBack" weight="2387" />
+      <edge id="10" source="#TAF" target="#TFB" weight="2387" />
+      <edge id="11" source="#Raiders" target="#49ers" weight="2387" />
+      <edge id="12" source="#instantfollow" target="#500aday" weight="2387" />
+      <edge id="13" source="#instantfollow" target="#followandgain" weight="2387" />
+      <edge id="14" source="#instantfollow" target="#instantfollowback" weight="2387" />
+      <edge id="15" source="#instantfollow" target="#teamfollowback" weight="2387" />
+      <edge id="16" source="#SQUAD" target="#49ers" weight="2387" />
+      <edge id="17" source="#FF" target="#FF" weight="4774" />
+      <edge id="18" source="#boobs" target="#alcohol" weight="2387" />
+      <edge id="19" source="#boobs" target="#crime" weight="2387" />
+      <edge id="20" source="#RINO" target="#typical" weight="2387" />
+      <edge id="21" source="#alcohol" target="#crime" weight="2387" />
+      <edge id="22" source="#500aday" target="#instantfollowback" weight="2387" />
+      <edge id="23" source="#500aday" target="#followandgain" weight="2387" />
+      <edge id="24" source="#500aday" target="#TFB" weight="4774" />
+      <edge id="25" source="#500aday" target="#teamfollowback" weight="2387" />
+      <edge id="26" source="#TBP" target="#TeamBlessedPromo" weight="4774" />
+      <edge id="27" source="#followandgain" target="#teamfollowback" weight="2387" />
+      <edge id="28" source="#followandgain" target="#instantfollowback" weight="2387" />
+      <edge id="29" source="#FuckUribe" target="#SFGiants" weight="2387" />
+      <edge id="30" source="#FOLLOWERS" target="#RETWEET" weight="2387" />
+      <edge id="31" source="#TeamBlessedPromo" target="#TeamBlessedPromo" weight="4774" />
+      <edge id="32" source="#SFGiants" target="#1MonthLater" weight="2387" />
+      <edge id="33" source="#Dodgers" target="#Giants" weight="2387" />
+      <edge id="34" source="#instantfollowback" target="#teamfollowback" weight="2387" />
+    </edges>
+  </graph>
+</gexf>

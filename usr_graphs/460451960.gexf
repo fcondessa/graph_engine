@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#UptownCincy" label="#UptownCincy" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#seahawks" label="#seahawks" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#ClinGenuity" label="#ClinGenuity" />
+      <node id="#procter" label="#procter" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#Fairfield" label="#Fairfield" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#CincinnatiBusinessCourier" label="#CincinnatiBusinessCourier" />
+      <node id="#Seahawks" label="#Seahawks" />
+      <node id="#Coleman" label="#Coleman" />
+      <node id="#patent" label="#patent" />
+      <node id="#Pengueeni" label="#Pengueeni" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#Hamilton" label="#Hamilton" />
+      <node id="#Chopper9" label="#Chopper9" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#fb" label="#fb" />
+      <node id="#health" label="#health" />
+      <node id="#Ebola" label="#Ebola" />
+      <node id="#RacquelRedwood" label="#RacquelRedwood" />
+      <node id="#superbowlcommercials" label="#superbowlcommercials" />
+      <node id="#oldspice" label="#oldspice" />
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#ISIS" label="#ISIS" />
+      <node id="#invention" label="#invention" />
+      <node id="#greenpeace" label="#greenpeace" />
+      <node id="#LikeAGirl" label="#LikeAGirl" />
+      <node id="#dc2forlife" label="#dc2forlife" />
+      <node id="#GAMEFACE" label="#GAMEFACE" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#P" label="#P" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#UptownCincy" target="#innovation" weight="3218" />
+      <edge id="1" source="#jobs" target="#Dayton" weight="3218" />
+      <edge id="2" source="#jobs" target="#Cincinnati" weight="3218" />
+      <edge id="3" source="#seahawks" target="#superbowl" weight="3218" />
+      <edge id="4" source="#seahawks" target="#fb" weight="3218" />
+      <edge id="5" source="#seahawks" target="#dc2forlife" weight="3218" />
+      <edge id="6" source="#Obamacare" target="#GetCovered" weight="3218" />
+      <edge id="7" source="#Obamacare" target="#Cincinnati" weight="3218" />
+      <edge id="8" source="#ClinGenuity" target="#Cincinnati" weight="3218" />
+      <edge id="9" source="#procter" target="#P" weight="3218" />
+      <edge id="10" source="#procter" target="#oldspice" weight="3218" />
+      <edge id="11" source="#Fairfield" target="#Hamilton" weight="3218" />
+      <edge id="12" source="#Fairfield" target="#Cincinnati" weight="3218" />
+      <edge id="13" source="#SuperBowl" target="#Cincinnati" weight="3218" />
+      <edge id="14" source="#SuperBowl" target="#superbowlcommercials" weight="3218" />
+      <edge id="15" source="#SuperBowl" target="#LikeAGirl" weight="3218" />
+      <edge id="16" source="#CincinnatiBusinessCourier" target="#Pengueeni" weight="3218" />
+      <edge id="17" source="#CincinnatiBusinessCourier" target="#RacquelRedwood" weight="3218" />
+      <edge id="18" source="#Seahawks" target="#Coleman" weight="3218" />
+      <edge id="19" source="#patent" target="#invention" weight="3218" />
+      <edge id="20" source="#Pengueeni" target="#RacquelRedwood" weight="3218" />
+      <edge id="21" source="#Chicago" target="#Cincinnati" weight="3218" />
+      <edge id="22" source="#Hamilton" target="#Cincinnati" weight="3218" />
+      <edge id="23" source="#Chopper9" target="#fb" weight="3218" />
+      <edge id="24" source="#GetCovered" target="#Cincinnati" weight="3218" />
+      <edge id="25" source="#fb" target="#Cincinnati" weight="3218" />
+      <edge id="26" source="#fb" target="#superbowl" weight="3218" />
+      <edge id="27" source="#health" target="#Cincinnati" weight="3218" />
+      <edge id="28" source="#Ebola" target="#Cincinnati" weight="3218" />
+      <edge id="29" source="#superbowlcommercials" target="#Cincinnati" weight="3218" />
+      <edge id="30" source="#superbowlcommercials" target="#LikeAGirl" weight="3218" />
+      <edge id="31" source="#oldspice" target="#superbowl" weight="12872" />
+      <edge id="32" source="#oldspice" target="#P" weight="3218" />
+      <edge id="33" source="#ISIS" target="#Cincinnati" weight="3218" />
+      <edge id="34" source="#greenpeace" target="#P" weight="3218" />
+      <edge id="35" source="#LikeAGirl" target="#Cincinnati" weight="6436" />
+      <edge id="36" source="#GAMEFACE" target="#Cincinnati" weight="3218" />
+    </edges>
+  </graph>
+</gexf>

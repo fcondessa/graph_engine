@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#realgoodexperiment" label="#realgoodexperiment" />
+      <node id="#comeandfindme" label="#comeandfindme" />
+      <node id="#hashtags" label="#hashtags" />
+      <node id="#thrift" label="#thrift" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#on" label="#on" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#realgoodexperiment" target="#comeandfindme" weight="974" />
+      <edge id="1" source="#hashtags" target="#on" weight="974" />
+      <edge id="2" source="#thrift" target="#inspiration" weight="974" />
+    </edges>
+  </graph>
+</gexf>

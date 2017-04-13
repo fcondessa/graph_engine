@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#technology" label="#technology" />
+      <node id="#StartupWeekendAthens" label="#StartupWeekendAthens" />
+      <node id="#1Week" label="#1Week" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#business" label="#business" />
+      <node id="#EntreInspires" label="#EntreInspires" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#OHFR" label="#OHFR" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#biz" label="#biz" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#Vaylenx" label="#Vaylenx" />
+      <node id="#CareerAdvice" label="#CareerAdvice" />
+      <node id="#slayed" label="#slayed" />
+      <node id="#TipTuesday" label="#TipTuesday" />
+      <node id="#startup" label="#startup" />
+      <node id="#EXPOPitch" label="#EXPOPitch" />
+      <node id="#inventor" label="#inventor" />
+      <node id="#valuesandventures" label="#valuesandventures" />
+      <node id="#tcu" label="#tcu" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#startups" label="#startups" />
+      <node id="#TechGROWTH" label="#TechGROWTH" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#technology" target="#Ohio" weight="311" />
+      <edge id="1" source="#StartupWeekendAthens" target="#entrepreneurship" weight="311" />
+      <edge id="2" source="#1Week" target="#entrepreneurs" weight="311" />
+      <edge id="3" source="#entrepreneurs" target="#startups" weight="311" />
+      <edge id="4" source="#business" target="#startup" weight="311" />
+      <edge id="5" source="#business" target="#Entrepreneurs" weight="311" />
+      <edge id="6" source="#EntreInspires" target="#EXPOPitch" weight="933" />
+      <edge id="7" source="#entrepreneurship" target="#TechGROWTH" weight="311" />
+      <edge id="8" source="#entrepreneurship" target="#OHFR" weight="311" />
+      <edge id="9" source="#entrepreneurship" target="#Ohio" weight="311" />
+      <edge id="10" source="#Ohio" target="#startup" weight="311" />
+      <edge id="11" source="#biz" target="#TechGROWTH" weight="311" />
+      <edge id="12" source="#biz" target="#entrepreneur" weight="311" />
+      <edge id="13" source="#entrepreneur" target="#inventor" weight="311" />
+      <edge id="14" source="#entrepreneur" target="#CareerAdvice" weight="311" />
+      <edge id="15" source="#entrepreneur" target="#TechGROWTH" weight="311" />
+      <edge id="16" source="#Entrepreneurs" target="#startup" weight="311" />
+      <edge id="17" source="#Vaylenx" target="#slayed" weight="311" />
+      <edge id="18" source="#Vaylenx" target="#valuesandventures" weight="311" />
+      <edge id="19" source="#Vaylenx" target="#tcu" weight="311" />
+      <edge id="20" source="#slayed" target="#valuesandventures" weight="311" />
+      <edge id="21" source="#slayed" target="#tcu" weight="311" />
+      <edge id="22" source="#TipTuesday" target="#Startup" weight="311" />
+      <edge id="23" source="#valuesandventures" target="#tcu" weight="311" />
+    </edges>
+  </graph>
+</gexf>

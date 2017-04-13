@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Photography" label="#Photography" />
+      <node id="#FitBloggin" label="#FitBloggin" />
+      <node id="#meetup" label="#meetup" />
+      <node id="#CLE20" label="#CLE20" />
+      <node id="#ColumbusOH" label="#ColumbusOH" />
+      <node id="#OBA" label="#OBA" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#Haiti" label="#Haiti" />
+      <node id="#sweet" label="#sweet" />
+      <node id="#bloggers" label="#bloggers" />
+      <node id="#Association" label="#Association" />
+      <node id="#HappyinCLE" label="#HappyinCLE" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Zumba" label="#Zumba" />
+      <node id="#OBASH" label="#OBASH" />
+      <node id="#Bogging" label="#Bogging" />
+      <node id="#FF" label="#FF" />
+      <node id="#Ari" label="#Ari" />
+      <node id="#blog" label="#blog" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#TweetChat" label="#TweetChat" />
+      <node id="#blogging" label="#blogging" />
+      <node id="#Bloggers" label="#Bloggers" />
+      <node id="#Amazon" label="#Amazon" />
+      <node id="#Stephendoesn" label="#Stephendoesn" />
+      <node id="#Blogging" label="#Blogging" />
+      <node id="#OhioBloggingAssociation" label="#OhioBloggingAssociation" />
+      <node id="#obash" label="#obash" />
+      <node id="#question" label="#question" />
+      <node id="#Blogher" label="#Blogher" />
+      <node id="#CLEbloggers" label="#CLEbloggers" />
+      <node id="#blogchat" label="#blogchat" />
+      <node id="#Fitblog" label="#Fitblog" />
+      <node id="#COL" label="#COL" />
+      <node id="#OHBlogging" label="#OHBlogging" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#Giveaway" label="#Giveaway" />
+      <node id="#TV" label="#TV" />
+      <node id="#BlogHerFood" label="#BlogHerFood" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#clefood" label="#clefood" />
+      <node id="#Smoothies" label="#Smoothies" />
+      <node id="#Vega" label="#Vega" />
+      <node id="#Tweetchat" label="#Tweetchat" />
+      <node id="#happyincle" label="#happyincle" />
+      <node id="#Moosh" label="#Moosh" />
+      <node id="#Seinfeld" label="#Seinfeld" />
+      <node id="#TopChef" label="#TopChef" />
+      <node id="#WF" label="#WF" />
+      <node id="#OhBlogging" label="#OhBlogging" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Photography" target="#Blogging" weight="1355" />
+      <edge id="1" source="#Photography" target="#COL" weight="1355" />
+      <edge id="2" source="#Photography" target="#Association" weight="1355" />
+      <edge id="3" source="#Photography" target="#Bloggers" weight="2710" />
+      <edge id="4" source="#Photography" target="#Ohio" weight="1355" />
+      <edge id="5" source="#FitBloggin" target="#Fitblog" weight="1355" />
+      <edge id="6" source="#FitBloggin" target="#OHBlogging" weight="1355" />
+      <edge id="7" source="#FitBloggin" target="#OBA" weight="1355" />
+      <edge id="8" source="#meetup" target="#Cleveland" weight="1355" />
+      <edge id="9" source="#meetup" target="#blogging" weight="1355" />
+      <edge id="10" source="#CLE20" target="#OBASH" weight="1355" />
+      <edge id="11" source="#ColumbusOH" target="#Bloggers" weight="1355" />
+      <edge id="12" source="#OBA" target="#Fitblog" weight="1355" />
+      <edge id="13" source="#OBA" target="#OHBlogging" weight="1355" />
+      <edge id="14" source="#CLE" target="#FF" weight="1355" />
+      <edge id="15" source="#CLE" target="#HappyinCLE" weight="1355" />
+      <edge id="16" source="#CLE" target="#Cleveland" weight="1355" />
+      <edge id="17" source="#CLE" target="#Ohio" weight="1355" />
+      <edge id="18" source="#Haiti" target="#OBASH" weight="1355" />
+      <edge id="19" source="#sweet" target="#Ari" weight="1355" />
+      <edge id="20" source="#sweet" target="#Moosh" weight="1355" />
+      <edge id="21" source="#bloggers" target="#Ohio" weight="2710" />
+      <edge id="22" source="#bloggers" target="#Cleveland" weight="4065" />
+      <edge id="23" source="#bloggers" target="#OBASH" weight="1355" />
+      <edge id="24" source="#bloggers" target="#happyincle" weight="1355" />
+      <edge id="25" source="#Association" target="#Ohio" weight="5420" />
+      <edge id="26" source="#Association" target="#Bloggers" weight="2710" />
+      <edge id="27" source="#Association" target="#OBASH" weight="1355" />
+      <edge id="28" source="#Association" target="#COL" weight="1355" />
+      <edge id="29" source="#Association" target="#Columbus" weight="1355" />
+      <edge id="30" source="#Association" target="#Blogging" weight="5420" />
+      <edge id="31" source="#HappyinCLE" target="#FF" weight="1355" />
+      <edge id="32" source="#HappyinCLE" target="#Cleveland" weight="1355" />
+      <edge id="33" source="#Columbus" target="#Blogging" weight="1355" />
+      <edge id="34" source="#Columbus" target="#Bloggers" weight="1355" />
+      <edge id="35" source="#Columbus" target="#OBASH" weight="2710" />
+      <edge id="36" source="#Columbus" target="#Ohio" weight="1355" />
+      <edge id="37" source="#Zumba" target="#WF" weight="1355" />
+      <edge id="38" source="#OBASH" target="#Ohio" weight="24390" />
+      <edge id="39" source="#OBASH" target="#BlogHerFood" weight="1355" />
+      <edge id="40" source="#OBASH" target="#FF" weight="2710" />
+      <edge id="41" source="#OBASH" target="#OhBlogging" weight="1355" />
+      <edge id="42" source="#OBASH" target="#TweetChat" weight="4065" />
+      <edge id="43" source="#OBASH" target="#OhioBloggingAssociation" weight="2710" />
+      <edge id="44" source="#OBASH" target="#OBASH" weight="8130" />
+      <edge id="45" source="#OBASH" target="#Bogging" weight="1355" />
+      <edge id="46" source="#OBASH" target="#Bloggers" weight="10840" />
+      <edge id="47" source="#OBASH" target="#blogchat" weight="1355" />
+      <edge id="48" source="#OBASH" target="#Tweetchat" weight="1355" />
+      <edge id="49" source="#OBASH" target="#Blogging" weight="10840" />
+      <edge id="50" source="#Bogging" target="#Ohio" weight="1355" />
+      <edge id="51" source="#FF" target="#Ohio" weight="1355" />
+      <edge id="52" source="#FF" target="#Blogging" weight="1355" />
+      <edge id="53" source="#Ari" target="#Moosh" weight="1355" />
+      <edge id="54" source="#blog" target="#question" weight="1355" />
+      <edge id="55" source="#Ohio" target="#Bloggers" weight="12195" />
+      <edge id="56" source="#Ohio" target="#Cleveland" weight="1355" />
+      <edge id="57" source="#Ohio" target="#OhBlogging" weight="1355" />
+      <edge id="58" source="#Ohio" target="#TweetChat" weight="1355" />
+      <edge id="59" source="#Ohio" target="#OhioBloggingAssociation" weight="2710" />
+      <edge id="60" source="#Ohio" target="#COL" weight="1355" />
+      <edge id="61" source="#Ohio" target="#Blogging" weight="16260" />
+      <edge id="62" source="#TweetChat" target="#Bloggers" weight="1355" />
+      <edge id="63" source="#blogging" target="#Cleveland" weight="1355" />
+      <edge id="64" source="#Bloggers" target="#Bloggers" weight="2710" />
+      <edge id="65" source="#Bloggers" target="#Blogging" weight="2710" />
+      <edge id="66" source="#Bloggers" target="#OhioBloggingAssociation" weight="1355" />
+      <edge id="67" source="#Bloggers" target="#COL" weight="2710" />
+      <edge id="68" source="#Bloggers" target="#OhBlogging" weight="1355" />
+      <edge id="69" source="#Amazon" target="#Seinfeld" weight="1355" />
+      <edge id="70" source="#Stephendoesn" target="#TopChef" weight="1355" />
+      <edge id="71" source="#Blogging" target="#OhioBloggingAssociation" weight="1355" />
+      <edge id="72" source="#Blogging" target="#COL" weight="1355" />
+      <edge id="73" source="#OhioBloggingAssociation" target="#OhBlogging" weight="1355" />
+      <edge id="74" source="#obash" target="#Blogher" weight="1355" />
+      <edge id="75" source="#CLEbloggers" target="#clefood" weight="2710" />
+      <edge id="76" source="#CLEbloggers" target="#happyincle" weight="2710" />
+      <edge id="77" source="#Fitblog" target="#OHBlogging" weight="1355" />
+      <edge id="78" source="#socialmedia" target="#Cleveland" weight="1355" />
+      <edge id="79" source="#Giveaway" target="#TV" weight="1355" />
+      <edge id="80" source="#Cleveland" target="#happyincle" weight="1355" />
+      <edge id="81" source="#clefood" target="#happyincle" weight="1355" />
+      <edge id="82" source="#Smoothies" target="#Vega" weight="1355" />
+    </edges>
+  </graph>
+</gexf>

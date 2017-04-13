@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#sconer" label="#sconer" />
+      <node id="#Broadcity" label="#Broadcity" />
+      <node id="#dogbands" label="#dogbands" />
+      <node id="#Milhouse" label="#Milhouse" />
+      <node id="#bestpractice" label="#bestpractice" />
+      <node id="#newphone" label="#newphone" />
+      <node id="#youdidit" label="#youdidit" />
+      <node id="#iamdone" label="#iamdone" />
+      <node id="#blessed" label="#blessed" />
+      <node id="#folk" label="#folk" />
+      <node id="#restaurantlife" label="#restaurantlife" />
+      <node id="#actuallyhappy" label="#actuallyhappy" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#SafeSpace" label="#SafeSpace" />
+      <node id="#basic" label="#basic" />
+      <node id="#emmys" label="#emmys" />
+      <node id="#happy" label="#happy" />
+      <node id="#alQaeda" label="#alQaeda" />
+      <node id="#Spotify" label="#Spotify" />
+      <node id="#milhouse" label="#milhouse" />
+      <node id="#linecooks" label="#linecooks" />
+      <node id="#doodle" label="#doodle" />
+      <node id="#works" label="#works" />
+      <node id="#takingtheblack" label="#takingtheblack" />
+      <node id="#lies" label="#lies" />
+      <node id="#suffragettemovies" label="#suffragettemovies" />
+      <node id="#waitressprobs" label="#waitressprobs" />
+      <node id="#TheMuppets" label="#TheMuppets" />
+      <node id="#SouthPark" label="#SouthPark" />
+      <node id="#xfiles" label="#xfiles" />
+      <node id="#golisa" label="#golisa" />
+      <node id="#boonequotes" label="#boonequotes" />
+      <node id="#personalcongress" label="#personalcongress" />
+      <node id="#Uzi" label="#Uzi" />
+      <node id="#AsSeenInColumbus" label="#AsSeenInColumbus" />
+      <node id="#michaelbrown" label="#michaelbrown" />
+      <node id="#InsideAmy" label="#InsideAmy" />
+      <node id="#winning" label="#winning" />
+      <node id="#famousdicksofcolumbus" label="#famousdicksofcolumbus" />
+      <node id="#highhopes" label="#highhopes" />
+      <node id="#washedup" label="#washedup" />
+      <node id="#KajiemePowell" label="#KajiemePowell" />
+      <node id="#JonStewart" label="#JonStewart" />
+      <node id="#emmahillmusic" label="#emmahillmusic" />
+      <node id="#old" label="#old" />
+      <node id="#DailyShow" label="#DailyShow" />
+      <node id="#everyonethoughtit" label="#everyonethoughtit" />
+      <node id="#catbands" label="#catbands" />
+      <node id="#youryoure" label="#youryoure" />
+      <node id="#dillmanquotes" label="#dillmanquotes" />
+      <node id="#lisasnow" label="#lisasnow" />
+      <node id="#dooodlio" label="#dooodlio" />
+      <node id="#tilyouhavetowakeup" label="#tilyouhavetowakeup" />
+      <node id="#donnaquotes" label="#donnaquotes" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#ferguson" label="#ferguson" />
+      <node id="#WinterIsComing" label="#WinterIsComing" />
+      <node id="#NowPlaying" label="#NowPlaying" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#sconer" target="#xfiles" weight="3181" />
+      <edge id="1" source="#sconer" target="#Milhouse" weight="3181" />
+      <edge id="2" source="#Broadcity" target="#lies" weight="3181" />
+      <edge id="3" source="#dogbands" target="#catbands" weight="3181" />
+      <edge id="4" source="#Milhouse" target="#xfiles" weight="3181" />
+      <edge id="5" source="#bestpractice" target="#newphone" weight="3181" />
+      <edge id="6" source="#youdidit" target="#golisa" weight="3181" />
+      <edge id="7" source="#iamdone" target="#old" weight="3181" />
+      <edge id="8" source="#iamdone" target="#washedup" weight="3181" />
+      <edge id="9" source="#blessed" target="#basic" weight="3181" />
+      <edge id="10" source="#blessed" target="#TheMuppets" weight="3181" />
+      <edge id="11" source="#folk" target="#emmahillmusic" weight="3181" />
+      <edge id="12" source="#folk" target="#AsSeenInColumbus" weight="3181" />
+      <edge id="13" source="#restaurantlife" target="#awesome" weight="3181" />
+      <edge id="14" source="#restaurantlife" target="#highhopes" weight="3181" />
+      <edge id="15" source="#restaurantlife" target="#waitressprobs" weight="3181" />
+      <edge id="16" source="#restaurantlife" target="#linecooks" weight="3181" />
+      <edge id="17" source="#actuallyhappy" target="#happy" weight="3181" />
+      <edge id="18" source="#Ferguson" target="#KajiemePowell" weight="3181" />
+      <edge id="19" source="#SafeSpace" target="#SouthPark" weight="3181" />
+      <edge id="20" source="#emmys" target="#youryoure" weight="3181" />
+      <edge id="21" source="#alQaeda" target="#Uzi" weight="3181" />
+      <edge id="22" source="#Spotify" target="#NowPlaying" weight="12724" />
+      <edge id="23" source="#milhouse" target="#winning" weight="3181" />
+      <edge id="24" source="#doodle" target="#dooodlio" weight="3181" />
+      <edge id="25" source="#works" target="#tilyouhavetowakeup" weight="3181" />
+      <edge id="26" source="#takingtheblack" target="#lisasnow" weight="3181" />
+      <edge id="27" source="#takingtheblack" target="#WinterIsComing" weight="3181" />
+      <edge id="28" source="#suffragettemovies" target="#boonequotes" weight="3181" />
+      <edge id="29" source="#boonequotes" target="#famousdicksofcolumbus" weight="3181" />
+      <edge id="30" source="#boonequotes" target="#donnaquotes" weight="3181" />
+      <edge id="31" source="#boonequotes" target="#dillmanquotes" weight="3181" />
+      <edge id="32" source="#personalcongress" target="#InsideAmy" weight="3181" />
+      <edge id="33" source="#AsSeenInColumbus" target="#emmahillmusic" weight="3181" />
+      <edge id="34" source="#michaelbrown" target="#ferguson" weight="3181" />
+      <edge id="35" source="#washedup" target="#old" weight="3181" />
+      <edge id="36" source="#JonStewart" target="#DailyShow" weight="3181" />
+      <edge id="37" source="#everyonethoughtit" target="#ferguson" weight="3181" />
+      <edge id="38" source="#lisasnow" target="#WinterIsComing" weight="3181" />
+    </edges>
+  </graph>
+</gexf>

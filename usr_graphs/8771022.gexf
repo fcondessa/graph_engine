@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DD" label="#DD" />
+      <node id="#DunkinSA" label="#DunkinSA" />
+      <node id="#DDPerk" label="#DDPerk" />
+      <node id="#yum" label="#yum" />
+      <node id="#coffeelover" label="#coffeelover" />
+      <node id="#coffeeaddict" label="#coffeeaddict" />
+      <node id="#happy" label="#happy" />
+      <node id="#DDPerksLove" label="#DDPerksLove" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#CoffeeDay" label="#CoffeeDay" />
+      <node id="#roadtripfuel" label="#roadtripfuel" />
+      <node id="#DDPerks" label="#DDPerks" />
+      <node id="#ReDDerTogether" label="#ReDDerTogether" />
+      <node id="#pumpkinisback" label="#pumpkinisback" />
+      <node id="#TuesdayMotivation" label="#TuesdayMotivation" />
+      <node id="#Dunks" label="#Dunks" />
+      <node id="#DunkinDonuts" label="#DunkinDonuts" />
+      <node id="#NationalCoffeeDay" label="#NationalCoffeeDay" />
+      <node id="#thismomrunsondunkin" label="#thismomrunsondunkin" />
+      <node id="#J360" label="#J360" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DD" target="#NationalCoffeeDay" weight="3200" />
+      <edge id="1" source="#DD" target="#Dunks" weight="3200" />
+      <edge id="2" source="#DunkinSA" target="#NationalCoffeeDay" weight="3200" />
+      <edge id="3" source="#DunkinSA" target="#DunkinDonuts" weight="3200" />
+      <edge id="4" source="#DDPerk" target="#DDPerksLove" weight="3200" />
+      <edge id="5" source="#yum" target="#NationalCoffeeDay" weight="3200" />
+      <edge id="6" source="#yum" target="#coffeelover" weight="3200" />
+      <edge id="7" source="#coffeelover" target="#NationalCoffeeDay" weight="3200" />
+      <edge id="8" source="#coffeeaddict" target="#CoffeeDay" weight="3200" />
+      <edge id="9" source="#happy" target="#pumpkinisback" weight="3200" />
+      <edge id="10" source="#DDPerksLove" target="#DDPerks" weight="144000" />
+      <edge id="11" source="#DDPerksLove" target="#TuesdayMotivation" weight="3200" />
+      <edge id="12" source="#TBT" target="#ReDDerTogether" weight="3200" />
+      <edge id="13" source="#roadtripfuel" target="#NationalCoffeeDay" weight="3200" />
+      <edge id="14" source="#Dunks" target="#NationalCoffeeDay" weight="3200" />
+      <edge id="15" source="#DunkinDonuts" target="#NationalCoffeeDay" weight="3200" />
+      <edge id="16" source="#NationalCoffeeDay" target="#thismomrunsondunkin" weight="3200" />
+      <edge id="17" source="#NationalCoffeeDay" target="#J360" weight="3200" />
+    </edges>
+  </graph>
+</gexf>

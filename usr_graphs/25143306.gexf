@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SupremeCourt" label="#SupremeCourt" />
+      <node id="#UptownFunk" label="#UptownFunk" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#WTPFP" label="#WTPFP" />
+      <node id="#ScaliaDeath" label="#ScaliaDeath" />
+      <node id="#healthcarereform" label="#healthcarereform" />
+      <node id="#FED" label="#FED" />
+      <node id="#Fiat500" label="#Fiat500" />
+      <node id="#iTunes" label="#iTunes" />
+      <node id="#HurricaneOutlook" label="#HurricaneOutlook" />
+      <node id="#HurricaneMatthew" label="#HurricaneMatthew" />
+      <node id="#SWAGBAG" label="#SWAGBAG" />
+      <node id="#FOMC" label="#FOMC" />
+      <node id="#ABC" label="#ABC" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#TheFed" label="#TheFed" />
+      <node id="#Elite8" label="#Elite8" />
+      <node id="#chrysler" label="#chrysler" />
+      <node id="#SABEWhealth" label="#SABEWhealth" />
+      <node id="#ebola" label="#ebola" />
+      <node id="#morningstar" label="#morningstar" />
+      <node id="#travel" label="#travel" />
+      <node id="#MillennialTalk" label="#MillennialTalk" />
+      <node id="#BernieMadoff" label="#BernieMadoff" />
+      <node id="#Chrysler" label="#Chrysler" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#wanderlust" label="#wanderlust" />
+      <node id="#food" label="#food" />
+      <node id="#gravityroom" label="#gravityroom" />
+      <node id="#DowntonAbbey" label="#DowntonAbbey" />
+      <node id="#BrunoMars" label="#BrunoMars" />
+      <node id="#Atlantic" label="#Atlantic" />
+      <node id="#fiat500" label="#fiat500" />
+      <node id="#DrDeArmond" label="#DrDeArmond" />
+      <node id="#Millennials" label="#Millennials" />
+      <node id="#meerkat" label="#meerkat" />
+      <node id="#interestrates" label="#interestrates" />
+      <node id="#ONA15" label="#ONA15" />
+      <node id="#oscarnominee" label="#oscarnominee" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SupremeCourt" target="#ScaliaDeath" weight="1323" />
+      <edge id="1" source="#UptownFunk" target="#BrunoMars" weight="1323" />
+      <edge id="2" source="#insurance" target="#ebola" weight="1323" />
+      <edge id="3" source="#WTPFP" target="#DrDeArmond" weight="1323" />
+      <edge id="4" source="#healthcarereform" target="#SABEWhealth" weight="2646" />
+      <edge id="5" source="#FED" target="#interestrates" weight="1323" />
+      <edge id="6" source="#Fiat500" target="#Chrysler" weight="1323" />
+      <edge id="7" source="#iTunes" target="#morningstar" weight="1323" />
+      <edge id="8" source="#HurricaneOutlook" target="#Atlantic" weight="1323" />
+      <edge id="9" source="#HurricaneMatthew" target="#DowntonAbbey" weight="1323" />
+      <edge id="10" source="#SWAGBAG" target="#oscarnominee" weight="1323" />
+      <edge id="11" source="#FOMC" target="#TheFed" weight="1323" />
+      <edge id="12" source="#ABC" target="#BernieMadoff" weight="1323" />
+      <edge id="13" source="#MarchMadness" target="#Elite8" weight="1323" />
+      <edge id="14" source="#chrysler" target="#fiat500" weight="2646" />
+      <edge id="15" source="#SABEWhealth" target="#healthcare" weight="2646" />
+      <edge id="16" source="#travel" target="#wanderlust" weight="1323" />
+      <edge id="17" source="#MillennialTalk" target="#Millennials" weight="1323" />
+      <edge id="18" source="#food" target="#meerkat" weight="1323" />
+      <edge id="19" source="#gravityroom" target="#ONA15" weight="1323" />
+    </edges>
+  </graph>
+</gexf>

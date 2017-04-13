@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#delawarecounty" label="#delawarecounty" />
+      <node id="#SuperMAM" label="#SuperMAM" />
+      <node id="#WOM" label="#WOM" />
+      <node id="#Sharknado2" label="#Sharknado2" />
+      <node id="#WOMMnext" label="#WOMMnext" />
+      <node id="#WOMMNext" label="#WOMMNext" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#publicrelations" label="#publicrelations" />
+      <node id="#nearables" label="#nearables" />
+      <node id="#graduation" label="#graduation" />
+      <node id="#twtvite" label="#twtvite" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#cmumam" label="#cmumam" />
+      <node id="#social" label="#social" />
+      <node id="#Quotes" label="#Quotes" />
+      <node id="#PRSA" label="#PRSA" />
+      <node id="#in" label="#in" />
+      <node id="#Video" label="#Video" />
+      <node id="#heinzconnect" label="#heinzconnect" />
+      <node id="#contentmarketing" label="#contentmarketing" />
+      <node id="#TEDTalks" label="#TEDTalks" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#pr" label="#pr" />
+      <node id="#SocialSharing" label="#SocialSharing" />
+      <node id="#FB" label="#FB" />
+      <node id="#franklinsms" label="#franklinsms" />
+      <node id="#twitterkids" label="#twitterkids" />
+      <node id="#job" label="#job" />
+      <node id="#blogchat" label="#blogchat" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#cmworld" label="#cmworld" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#intdesignerchat" label="#intdesignerchat" />
+      <node id="#AsAboveSoBelow" label="#AsAboveSoBelow" />
+      <node id="#watertower" label="#watertower" />
+      <node id="#Job" label="#Job" />
+      <node id="#sunset" label="#sunset" />
+      <node id="#tweetsgivingcolumbus" label="#tweetsgivingcolumbus" />
+      <node id="#PR" label="#PR" />
+      <node id="#gov20" label="#gov20" />
+      <node id="#estimote" label="#estimote" />
+      <node id="#fightwith5" label="#fightwith5" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#delawarecounty" target="#watertower" weight="1676" />
+      <edge id="1" source="#delawarecounty" target="#sunset" weight="1676" />
+      <edge id="2" source="#SuperMAM" target="#cmumam" weight="1676" />
+      <edge id="3" source="#WOM" target="#Marketing" weight="1676" />
+      <edge id="4" source="#WOM" target="#Video" weight="1676" />
+      <edge id="5" source="#Sharknado2" target="#AsAboveSoBelow" weight="1676" />
+      <edge id="6" source="#WOMMnext" target="#TEDTalks" weight="1676" />
+      <edge id="7" source="#WOMMNext" target="#realestate" weight="1676" />
+      <edge id="8" source="#publicrelations" target="#graduation" weight="1676" />
+      <edge id="9" source="#nearables" target="#estimote" weight="1676" />
+      <edge id="10" source="#twtvite" target="#fightwith5" weight="1676" />
+      <edge id="11" source="#infographic" target="#SocialSharing" weight="1676" />
+      <edge id="12" source="#social" target="#Infographic" weight="1676" />
+      <edge id="13" source="#Quotes" target="#blogchat" weight="1676" />
+      <edge id="14" source="#Quotes" target="#cmworld" weight="1676" />
+      <edge id="15" source="#PRSA" target="#PR" weight="1676" />
+      <edge id="16" source="#in" target="#FB" weight="1676" />
+      <edge id="17" source="#in" target="#intdesignerchat" weight="1676" />
+      <edge id="18" source="#Video" target="#Marketing" weight="1676" />
+      <edge id="19" source="#heinzconnect" target="#gov20" weight="1676" />
+      <edge id="20" source="#contentmarketing" target="#pr" weight="1676" />
+      <edge id="21" source="#Infographic" target="#job" weight="1676" />
+      <edge id="22" source="#Infographic" target="#socialmedia" weight="1676" />
+      <edge id="23" source="#FB" target="#intdesignerchat" weight="1676" />
+      <edge id="24" source="#franklinsms" target="#gov20" weight="1676" />
+      <edge id="25" source="#twitterkids" target="#tweetsgivingcolumbus" weight="1676" />
+      <edge id="26" source="#job" target="#socialmedia" weight="1676" />
+      <edge id="27" source="#blogchat" target="#cmworld" weight="1676" />
+      <edge id="28" source="#watertower" target="#sunset" weight="1676" />
+      <edge id="29" source="#Job" target="#PR" weight="1676" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#patients" label="#patients" />
+      <node id="#KeyHIE" label="#KeyHIE" />
+      <node id="#HIMSS14" label="#HIMSS14" />
+      <node id="#Patient" label="#Patient" />
+      <node id="#expo" label="#expo" />
+      <node id="#priceless" label="#priceless" />
+      <node id="#hitsm" label="#hitsm" />
+      <node id="#Portal" label="#Portal" />
+      <node id="#ACOs" label="#ACOs" />
+      <node id="#EMR" label="#EMR" />
+      <node id="#HISTalk" label="#HISTalk" />
+      <node id="#FamilyMedicine" label="#FamilyMedicine" />
+      <node id="#CliniSync" label="#CliniSync" />
+      <node id="#EHRs" label="#EHRs" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#healthinformationexchange" label="#healthinformationexchange" />
+      <node id="#OhioAFP" label="#OhioAFP" />
+      <node id="#REC" label="#REC" />
+      <node id="#MU2" label="#MU2" />
+      <node id="#MU1" label="#MU1" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#NHITweek" label="#NHITweek" />
+      <node id="#LHIT" label="#LHIT" />
+      <node id="#DirectProject" label="#DirectProject" />
+      <node id="#meaningfuluse" label="#meaningfuluse" />
+      <node id="#Providers" label="#Providers" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#clinisyncevent" label="#clinisyncevent" />
+      <node id="#PtExp" label="#PtExp" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#HIStalk" label="#HIStalk" />
+      <node id="#ONC2012" label="#ONC2012" />
+      <node id="#OSMAThisWeek" label="#OSMAThisWeek" />
+      <node id="#ONC" label="#ONC" />
+      <node id="#EHRS" label="#EHRS" />
+      <node id="#HCR" label="#HCR" />
+      <node id="#MassHIway" label="#MassHIway" />
+      <node id="#healthjobs" label="#healthjobs" />
+      <node id="#Direct" label="#Direct" />
+      <node id="#physicians" label="#physicians" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#ONC2014" label="#ONC2014" />
+      <node id="#GoogleAlerts" label="#GoogleAlerts" />
+      <node id="#interoperability" label="#interoperability" />
+      <node id="#HealthBridge" label="#HealthBridge" />
+      <node id="#Ohiohospitals" label="#Ohiohospitals" />
+      <node id="#doctors" label="#doctors" />
+      <node id="#health" label="#health" />
+      <node id="#mhealth" label="#mhealth" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#PCMH" label="#PCMH" />
+      <node id="#CentralOhio" label="#CentralOhio" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#connectthedots" label="#connectthedots" />
+      <node id="#HITworks" label="#HITworks" />
+      <node id="#Meaningful" label="#Meaningful" />
+      <node id="#HIMSSanity" label="#HIMSSanity" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#OHIMA" label="#OHIMA" />
+      <node id="#CliniSyncUpdate" label="#CliniSyncUpdate" />
+      <node id="#Physicians" label="#Physicians" />
+      <node id="#OTW" label="#OTW" />
+      <node id="#ptengagement" label="#ptengagement" />
+      <node id="#ONC_HealthIT" label="#ONC_HealthIT" />
+      <node id="#HIPAA" label="#HIPAA" />
+      <node id="#MeaningfulUse" label="#MeaningfulUse" />
+      <node id="#NHIT" label="#NHIT" />
+      <node id="#Health" label="#Health" />
+      <node id="#CORHIO" label="#CORHIO" />
+      <node id="#USNHOT13" label="#USNHOT13" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#clinisync" label="#clinisync" />
+      <node id="#CSOHIMSS" label="#CSOHIMSS" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#patient" label="#patient" />
+      <node id="#MU" label="#MU" />
+      <node id="#HIE" label="#HIE" />
+      <node id="#UHIN" label="#UHIN" />
+      <node id="#WomensEqualityDay" label="#WomensEqualityDay" />
+      <node id="#OHdeptofhealth" label="#OHdeptofhealth" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#patients" target="#EHR" weight="724" />
+      <edge id="1" source="#patients" target="#HIE" weight="724" />
+      <edge id="2" source="#KeyHIE" target="#UHIN" weight="724" />
+      <edge id="3" source="#KeyHIE" target="#HIE" weight="724" />
+      <edge id="4" source="#HIMSS14" target="#priceless" weight="724" />
+      <edge id="5" source="#HIMSS14" target="#healthIT" weight="1448" />
+      <edge id="6" source="#HIMSS14" target="#ACOs" weight="724" />
+      <edge id="7" source="#HIMSS14" target="#ptengagement" weight="724" />
+      <edge id="8" source="#HIMSS14" target="#HCR" weight="724" />
+      <edge id="9" source="#HIMSS14" target="#HIMSSanity" weight="724" />
+      <edge id="10" source="#Patient" target="#EHR" weight="2896" />
+      <edge id="11" source="#Patient" target="#Ohio" weight="2172" />
+      <edge id="12" source="#Patient" target="#MU" weight="2896" />
+      <edge id="13" source="#Patient" target="#HIE" weight="2896" />
+      <edge id="14" source="#expo" target="#clinisync" weight="724" />
+      <edge id="15" source="#expo" target="#connectthedots" weight="724" />
+      <edge id="16" source="#priceless" target="#healthIT" weight="724" />
+      <edge id="17" source="#hitsm" target="#Portal" weight="724" />
+      <edge id="18" source="#hitsm" target="#healthIT" weight="2172" />
+      <edge id="19" source="#hitsm" target="#mhealth" weight="724" />
+      <edge id="20" source="#hitsm" target="#HIE" weight="724" />
+      <edge id="21" source="#Portal" target="#healthIT" weight="724" />
+      <edge id="22" source="#ACOs" target="#HCR" weight="724" />
+      <edge id="23" source="#ACOs" target="#ptengagement" weight="724" />
+      <edge id="24" source="#EMR" target="#MeaningfulUse" weight="724" />
+      <edge id="25" source="#EMR" target="#meaningfuluse" weight="724" />
+      <edge id="26" source="#EMR" target="#EHR" weight="724" />
+      <edge id="27" source="#EMR" target="#healthIT" weight="724" />
+      <edge id="28" source="#HISTalk" target="#Meaningful" weight="1448" />
+      <edge id="29" source="#FamilyMedicine" target="#OhioAFP" weight="724" />
+      <edge id="30" source="#CliniSync" target="#OHdeptofhealth" weight="724" />
+      <edge id="31" source="#CliniSync" target="#HealthBridge" weight="724" />
+      <edge id="32" source="#CliniSync" target="#EHR" weight="3620" />
+      <edge id="33" source="#CliniSync" target="#CentralOhio" weight="724" />
+      <edge id="34" source="#CliniSync" target="#healthcare" weight="724" />
+      <edge id="35" source="#CliniSync" target="#hospitals" weight="724" />
+      <edge id="36" source="#CliniSync" target="#MU" weight="724" />
+      <edge id="37" source="#CliniSync" target="#HIE" weight="5068" />
+      <edge id="38" source="#CliniSync" target="#CliniSyncUpdate" weight="724" />
+      <edge id="39" source="#CliniSync" target="#physicians" weight="724" />
+      <edge id="40" source="#EHRs" target="#USNHOT13" weight="724" />
+      <edge id="41" source="#EHRs" target="#HealthIT" weight="724" />
+      <edge id="42" source="#EHRs" target="#HIT" weight="1448" />
+      <edge id="43" source="#EHRs" target="#HIE" weight="2172" />
+      <edge id="44" source="#hospitals" target="#HIE" weight="724" />
+      <edge id="45" source="#hospitals" target="#physicians" weight="724" />
+      <edge id="46" source="#healthinformationexchange" target="#EHR" weight="724" />
+      <edge id="47" source="#healthinformationexchange" target="#MU" weight="724" />
+      <edge id="48" source="#REC" target="#LHIT" weight="724" />
+      <edge id="49" source="#REC" target="#HIT" weight="1448" />
+      <edge id="50" source="#REC" target="#EHR" weight="1448" />
+      <edge id="51" source="#REC" target="#ONC" weight="724" />
+      <edge id="52" source="#REC" target="#CSOHIMSS" weight="724" />
+      <edge id="53" source="#REC" target="#MU" weight="724" />
+      <edge id="54" source="#REC" target="#HIE" weight="2172" />
+      <edge id="55" source="#MU2" target="#MeaningfulUse" weight="724" />
+      <edge id="56" source="#MU2" target="#EHR" weight="1448" />
+      <edge id="57" source="#MU2" target="#healthcare" weight="724" />
+      <edge id="58" source="#MU2" target="#CSOHIMSS" weight="724" />
+      <edge id="59" source="#MU2" target="#MU1" weight="1448" />
+      <edge id="60" source="#MU2" target="#HIE" weight="1448" />
+      <edge id="61" source="#MU1" target="#MeaningfulUse" weight="724" />
+      <edge id="62" source="#MU1" target="#EHR" weight="1448" />
+      <edge id="63" source="#MU1" target="#healthcare" weight="724" />
+      <edge id="64" source="#MU1" target="#HIE" weight="1448" />
+      <edge id="65" source="#Ohio" target="#patient" weight="3620" />
+      <edge id="66" source="#Ohio" target="#HealthIT" weight="3620" />
+      <edge id="67" source="#Ohio" target="#HIT" weight="2896" />
+      <edge id="68" source="#Ohio" target="#OHIMA" weight="724" />
+      <edge id="69" source="#Ohio" target="#EHR" weight="2896" />
+      <edge id="70" source="#Ohio" target="#clinisync" weight="724" />
+      <edge id="71" source="#Ohio" target="#Healthcare" weight="724" />
+      <edge id="72" source="#Ohio" target="#healthcare" weight="4344" />
+      <edge id="73" source="#Ohio" target="#MU" weight="5792" />
+      <edge id="74" source="#Ohio" target="#HIE" weight="9412" />
+      <edge id="75" source="#EHR" target="#Ohiohospitals" weight="1448" />
+      <edge id="76" source="#EHR" target="#LHIT" weight="724" />
+      <edge id="77" source="#EHR" target="#Providers" weight="2172" />
+      <edge id="78" source="#EHR" target="#healthIT" weight="2172" />
+      <edge id="79" source="#EHR" target="#clinisyncevent" weight="724" />
+      <edge id="80" source="#EHR" target="#HIT" weight="14480" />
+      <edge id="81" source="#EHR" target="#ONC2012" weight="1448" />
+      <edge id="82" source="#EHR" target="#OSMAThisWeek" weight="1448" />
+      <edge id="83" source="#EHR" target="#ONC" weight="5792" />
+      <edge id="84" source="#EHR" target="#HIE" weight="45612" />
+      <edge id="85" source="#EHR" target="#HealthIT" weight="724" />
+      <edge id="86" source="#EHR" target="#doctors" weight="724" />
+      <edge id="87" source="#EHR" target="#PCMH" weight="724" />
+      <edge id="88" source="#EHR" target="#CentralOhio" weight="724" />
+      <edge id="89" source="#EHR" target="#healthcare" weight="16652" />
+      <edge id="90" source="#EHR" target="#Physicians" weight="2172" />
+      <edge id="91" source="#EHR" target="#OTW" weight="724" />
+      <edge id="92" source="#EHR" target="#ONC_HealthIT" weight="724" />
+      <edge id="93" source="#EHR" target="#MeaningfulUse" weight="6516" />
+      <edge id="94" source="#EHR" target="#CORHIO" weight="724" />
+      <edge id="95" source="#EHR" target="#clinisync" weight="724" />
+      <edge id="96" source="#EHR" target="#Healthcare" weight="724" />
+      <edge id="97" source="#EHR" target="#MU" weight="13032" />
+      <edge id="98" source="#EHR" target="#physicians" weight="1448" />
+      <edge id="99" source="#NHITweek" target="#HealthIT" weight="1448" />
+      <edge id="100" source="#NHITweek" target="#PtExp" weight="724" />
+      <edge id="101" source="#NHITweek" target="#healthIT" weight="724" />
+      <edge id="102" source="#NHITweek" target="#HIT" weight="1448" />
+      <edge id="103" source="#NHITweek" target="#ONC" weight="724" />
+      <edge id="104" source="#NHITweek" target="#HITworks" weight="724" />
+      <edge id="105" source="#LHIT" target="#ONC" weight="724" />
+      <edge id="106" source="#LHIT" target="#HIT" weight="724" />
+      <edge id="107" source="#DirectProject" target="#MeaningfulUse" weight="724" />
+      <edge id="108" source="#DirectProject" target="#innovation" weight="724" />
+      <edge id="109" source="#meaningfuluse" target="#MU" weight="1448" />
+      <edge id="110" source="#meaningfuluse" target="#EHRS" weight="724" />
+      <edge id="111" source="#meaningfuluse" target="#HIE" weight="724" />
+      <edge id="112" source="#Providers" target="#healthcare" weight="2172" />
+      <edge id="113" source="#Providers" target="#HIE" weight="2172" />
+      <edge id="114" source="#ACA" target="#WomensEqualityDay" weight="724" />
+      <edge id="115" source="#ACA" target="#SCOTUS" weight="724" />
+      <edge id="116" source="#healthIT" target="#HIMSSanity" weight="724" />
+      <edge id="117" source="#healthIT" target="#MeaningfulUse" weight="1448" />
+      <edge id="118" source="#healthIT" target="#HIT" weight="724" />
+      <edge id="119" source="#healthIT" target="#ONC" weight="724" />
+      <edge id="120" source="#healthIT" target="#healthcare" weight="724" />
+      <edge id="121" source="#healthIT" target="#mhealth" weight="724" />
+      <edge id="122" source="#healthIT" target="#HITworks" weight="724" />
+      <edge id="123" source="#healthIT" target="#HIE" weight="1448" />
+      <edge id="124" source="#clinisyncevent" target="#clinisync" weight="724" />
+      <edge id="125" source="#clinisyncevent" target="#HIE" weight="724" />
+      <edge id="126" source="#HIT" target="#ONC" weight="4344" />
+      <edge id="127" source="#HIT" target="#MeaningfulUse" weight="2172" />
+      <edge id="128" source="#HIT" target="#OHIMA" weight="724" />
+      <edge id="129" source="#HIT" target="#ONC2012" weight="1448" />
+      <edge id="130" source="#HIT" target="#USNHOT13" weight="724" />
+      <edge id="131" source="#HIT" target="#PCMH" weight="724" />
+      <edge id="132" source="#HIT" target="#clinisync" weight="1448" />
+      <edge id="133" source="#HIT" target="#healthcare" weight="4344" />
+      <edge id="134" source="#HIT" target="#HealthIT" weight="724" />
+      <edge id="135" source="#HIT" target="#connectthedots" weight="724" />
+      <edge id="136" source="#HIT" target="#MU" weight="7964" />
+      <edge id="137" source="#HIT" target="#HIE" weight="12308" />
+      <edge id="138" source="#HIT" target="#healthjobs" weight="724" />
+      <edge id="139" source="#HIStalk" target="#HIE" weight="2172" />
+      <edge id="140" source="#ONC2012" target="#MU" weight="1448" />
+      <edge id="141" source="#ONC2012" target="#HIE" weight="1448" />
+      <edge id="142" source="#ONC" target="#MU" weight="2896" />
+      <edge id="143" source="#ONC" target="#HIE" weight="2896" />
+      <edge id="144" source="#EHRS" target="#HIE" weight="724" />
+      <edge id="145" source="#HCR" target="#ptengagement" weight="724" />
+      <edge id="146" source="#MassHIway" target="#HIE" weight="724" />
+      <edge id="147" source="#Direct" target="#ONC2014" weight="724" />
+      <edge id="148" source="#Direct" target="#HIE" weight="1448" />
+      <edge id="149" source="#physicians" target="#healthcare" weight="724" />
+      <edge id="150" source="#physicians" target="#MU" weight="724" />
+      <edge id="151" source="#physicians" target="#HIE" weight="2172" />
+      <edge id="152" source="#HealthIT" target="#MeaningfulUse" weight="724" />
+      <edge id="153" source="#HealthIT" target="#HIE" weight="6516" />
+      <edge id="154" source="#HealthIT" target="#healthcare" weight="6516" />
+      <edge id="155" source="#HealthIT" target="#patient" weight="4344" />
+      <edge id="156" source="#HealthIT" target="#MU" weight="4344" />
+      <edge id="157" source="#HealthIT" target="#Healthcare" weight="724" />
+      <edge id="158" source="#ONC2014" target="#HIE" weight="724" />
+      <edge id="159" source="#GoogleAlerts" target="#NHIT" weight="724" />
+      <edge id="160" source="#interoperability" target="#HIE" weight="724" />
+      <edge id="161" source="#Ohiohospitals" target="#healthcare" weight="1448" />
+      <edge id="162" source="#Ohiohospitals" target="#HIE" weight="1448" />
+      <edge id="163" source="#doctors" target="#HIE" weight="724" />
+      <edge id="164" source="#health" target="#HIE" weight="724" />
+      <edge id="165" source="#innovation" target="#MeaningfulUse" weight="724" />
+      <edge id="166" source="#PCMH" target="#MU" weight="724" />
+      <edge id="167" source="#PCMH" target="#HIE" weight="724" />
+      <edge id="168" source="#CentralOhio" target="#HIE" weight="724" />
+      <edge id="169" source="#healthcare" target="#MeaningfulUse" weight="2172" />
+      <edge id="170" source="#healthcare" target="#patient" weight="4344" />
+      <edge id="171" source="#healthcare" target="#MU" weight="5068" />
+      <edge id="172" source="#healthcare" target="#HIE" weight="23892" />
+      <edge id="173" source="#healthcare" target="#Physicians" weight="1448" />
+      <edge id="174" source="#connectthedots" target="#clinisync" weight="3620" />
+      <edge id="175" source="#HITworks" target="#Health" weight="724" />
+      <edge id="176" source="#HITworks" target="#HIE" weight="724" />
+      <edge id="177" source="#CliniSyncUpdate" target="#MU" weight="724" />
+      <edge id="178" source="#CliniSyncUpdate" target="#HIE" weight="1448" />
+      <edge id="179" source="#Physicians" target="#HIE" weight="2172" />
+      <edge id="180" source="#ONC_HealthIT" target="#CORHIO" weight="724" />
+      <edge id="181" source="#ONC_HealthIT" target="#HIE" weight="1448" />
+      <edge id="182" source="#HIPAA" target="#Cleveland" weight="724" />
+      <edge id="183" source="#MeaningfulUse" target="#HIE" weight="5792" />
+      <edge id="184" source="#Health" target="#HIE" weight="724" />
+      <edge id="185" source="#CORHIO" target="#HIE" weight="724" />
+      <edge id="186" source="#clinisync" target="#HIE" weight="724" />
+      <edge id="187" source="#Healthcare" target="#HIE" weight="724" />
+      <edge id="188" source="#patient" target="#MU" weight="4344" />
+      <edge id="189" source="#patient" target="#HIE" weight="4344" />
+      <edge id="190" source="#MU" target="#HIE" weight="14480" />
+      <edge id="191" source="#HIE" target="#UHIN" weight="724" />
+    </edges>
+  </graph>
+</gexf>

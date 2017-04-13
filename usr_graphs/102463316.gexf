@@ -1,0 +1,775 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#glaucoma" label="#glaucoma" />
+      <node id="#ResearchFunding" label="#ResearchFunding" />
+      <node id="#preemie" label="#preemie" />
+      <node id="#OSUCRI15" label="#OSUCRI15" />
+      <node id="#SaveTheTatas" label="#SaveTheTatas" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#stress" label="#stress" />
+      <node id="#HealthCare" label="#HealthCare" />
+      <node id="#FisherCollege" label="#FisherCollege" />
+      <node id="#immunity" label="#immunity" />
+      <node id="#StrokeDamage" label="#StrokeDamage" />
+      <node id="#LetItGo" label="#LetItGo" />
+      <node id="#pharma" label="#pharma" />
+      <node id="#osupr" label="#osupr" />
+      <node id="#Autism" label="#Autism" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#CCTSMtg2012" label="#CCTSMtg2012" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#SpaceIsLimited" label="#SpaceIsLimited" />
+      <node id="#HIV" label="#HIV" />
+      <node id="#infertility" label="#infertility" />
+      <node id="#CRISPR" label="#CRISPR" />
+      <node id="#ToolsoftheTrade" label="#ToolsoftheTrade" />
+      <node id="#Community" label="#Community" />
+      <node id="#snoring" label="#snoring" />
+      <node id="#mother" label="#mother" />
+      <node id="#CCTS" label="#CCTS" />
+      <node id="#CTSA" label="#CTSA" />
+      <node id="#register" label="#register" />
+      <node id="#Kentucky" label="#Kentucky" />
+      <node id="#t2c2014" label="#t2c2014" />
+      <node id="#Career" label="#Career" />
+      <node id="#BRUTx" label="#BRUTx" />
+      <node id="#ThatsAwesome" label="#ThatsAwesome" />
+      <node id="#stemcell" label="#stemcell" />
+      <node id="#heart" label="#heart" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#Networking" label="#Networking" />
+      <node id="#osuopt" label="#osuopt" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#Researchers" label="#Researchers" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#RegisterOnline" label="#RegisterOnline" />
+      <node id="#OneGoal" label="#OneGoal" />
+      <node id="#SunshineAct" label="#SunshineAct" />
+      <node id="#BirthControl" label="#BirthControl" />
+      <node id="#Education" label="#Education" />
+      <node id="#funding" label="#funding" />
+      <node id="#NCATS" label="#NCATS" />
+      <node id="#Celebration" label="#Celebration" />
+      <node id="#innovative" label="#innovative" />
+      <node id="#PCORI" label="#PCORI" />
+      <node id="#clinicaltrials" label="#clinicaltrials" />
+      <node id="#NCI" label="#NCI" />
+      <node id="#collaboration" label="#collaboration" />
+      <node id="#ADHD" label="#ADHD" />
+      <node id="#OSUWexMed" label="#OSUWexMed" />
+      <node id="#Exciting" label="#Exciting" />
+      <node id="#research" label="#research" />
+      <node id="#PublicHealth" label="#PublicHealth" />
+      <node id="#spaceislimited" label="#spaceislimited" />
+      <node id="#myopia" label="#myopia" />
+      <node id="#autoimmunedisease" label="#autoimmunedisease" />
+      <node id="#patients" label="#patients" />
+      <node id="#Funding" label="#Funding" />
+      <node id="#autism" label="#autism" />
+      <node id="#GlobalHealth" label="#GlobalHealth" />
+      <node id="#FebruaryNewsletter" label="#FebruaryNewsletter" />
+      <node id="#NIHPublicAccessPolicy" label="#NIHPublicAccessPolicy" />
+      <node id="#willyoubethere" label="#willyoubethere" />
+      <node id="#2015OhioLHS" label="#2015OhioLHS" />
+      <node id="#BIO2014" label="#BIO2014" />
+      <node id="#ClinicalResearchCenter" label="#ClinicalResearchCenter" />
+      <node id="#StudyNotesBlog" label="#StudyNotesBlog" />
+      <node id="#OhioUnion" label="#OhioUnion" />
+      <node id="#Training" label="#Training" />
+      <node id="#LimitedSeating" label="#LimitedSeating" />
+      <node id="#ResearchConcierge" label="#ResearchConcierge" />
+      <node id="#osup42013" label="#osup42013" />
+      <node id="#OSUResearchExpo" label="#OSUResearchExpo" />
+      <node id="#ResearchEventCalendar" label="#ResearchEventCalendar" />
+      <node id="#Pharmacology" label="#Pharmacology" />
+      <node id="#CancerResearch" label="#CancerResearch" />
+      <node id="#NationwideChildrensHospital" label="#NationwideChildrensHospital" />
+      <node id="#checkitout" label="#checkitout" />
+      <node id="#OSUBMI" label="#OSUBMI" />
+      <node id="#lupus" label="#lupus" />
+      <node id="#braincancer" label="#braincancer" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Alzheimer" label="#Alzheimer" />
+      <node id="#IdeasWorthSpreading" label="#IdeasWorthSpreading" />
+      <node id="#Newsletter" label="#Newsletter" />
+      <node id="#brutx" label="#brutx" />
+      <node id="#arthritis" label="#arthritis" />
+      <node id="#RareDiseases" label="#RareDiseases" />
+      <node id="#T2C2014" label="#T2C2014" />
+      <node id="#Clinical" label="#Clinical" />
+      <node id="#treatment" label="#treatment" />
+      <node id="#teens" label="#teens" />
+      <node id="#Communications" label="#Communications" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#MakeADifference" label="#MakeADifference" />
+      <node id="#CCTSMtg2011" label="#CCTSMtg2011" />
+      <node id="#snores" label="#snores" />
+      <node id="#NationalConsortium" label="#NationalConsortium" />
+      <node id="#FDA" label="#FDA" />
+      <node id="#VitaminD" label="#VitaminD" />
+      <node id="#NTD" label="#NTD" />
+      <node id="#osuccc" label="#osuccc" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#childhoodcancer" label="#childhoodcancer" />
+      <node id="#Health" label="#Health" />
+      <node id="#CSTA" label="#CSTA" />
+      <node id="#kidney" label="#kidney" />
+      <node id="#regenmed" label="#regenmed" />
+      <node id="#GetMatched" label="#GetMatched" />
+      <node id="#Translational" label="#Translational" />
+      <node id="#CURE" label="#CURE" />
+      <node id="#website" label="#website" />
+      <node id="#Scientific" label="#Scientific" />
+      <node id="#AdviceForWomen" label="#AdviceForWomen" />
+      <node id="#DiscoverResearchMatch" label="#DiscoverResearchMatch" />
+      <node id="#ComeTogether" label="#ComeTogether" />
+      <node id="#exciting" label="#exciting" />
+      <node id="#technology" label="#technology" />
+      <node id="#Research" label="#Research" />
+      <node id="#insulin" label="#insulin" />
+      <node id="#PushFor9000" label="#PushFor9000" />
+      <node id="#participate" label="#participate" />
+      <node id="#SoLucky" label="#SoLucky" />
+      <node id="#RFA" label="#RFA" />
+      <node id="#PayItForward" label="#PayItForward" />
+      <node id="#community" label="#community" />
+      <node id="#children" label="#children" />
+      <node id="#Genome" label="#Genome" />
+      <node id="#women" label="#women" />
+      <node id="#Yoga" label="#Yoga" />
+      <node id="#Participate" label="#Participate" />
+      <node id="#RVA" label="#RVA" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#science" label="#science" />
+      <node id="#OSS" label="#OSS" />
+      <node id="#researchers" label="#researchers" />
+      <node id="#tOSU" label="#tOSU" />
+      <node id="#eship" label="#eship" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#LearnMore" label="#LearnMore" />
+      <node id="#Discovery" label="#Discovery" />
+      <node id="#sphere" label="#sphere" />
+      <node id="#clinical" label="#clinical" />
+      <node id="#biomedicalinformatics" label="#biomedicalinformatics" />
+      <node id="#Development" label="#Development" />
+      <node id="#CDCGrandRounds" label="#CDCGrandRounds" />
+      <node id="#Sleep" label="#Sleep" />
+      <node id="#Science" label="#Science" />
+      <node id="#mothers" label="#mothers" />
+      <node id="#Stop" label="#Stop" />
+      <node id="#PIF" label="#PIF" />
+      <node id="#Breastfeeding" label="#Breastfeeding" />
+      <node id="#neuroscience" label="#neuroscience" />
+      <node id="#Drug" label="#Drug" />
+      <node id="#BreastCancer" label="#BreastCancer" />
+      <node id="#MakeUBetter" label="#MakeUBetter" />
+      <node id="#Resolution" label="#Resolution" />
+      <node id="#Discoveries" label="#Discoveries" />
+      <node id="#depression" label="#depression" />
+      <node id="#commercialization" label="#commercialization" />
+      <node id="#CER" label="#CER" />
+      <node id="#RightNow" label="#RightNow" />
+      <node id="#CureCancer" label="#CureCancer" />
+      <node id="#ClinicalTrials" label="#ClinicalTrials" />
+      <node id="#NBCAM" label="#NBCAM" />
+      <node id="#RegisterNow" label="#RegisterNow" />
+      <node id="#payitforward" label="#payitforward" />
+      <node id="#strengthinnumbers" label="#strengthinnumbers" />
+      <node id="#spinalcord" label="#spinalcord" />
+      <node id="#informatics" label="#informatics" />
+      <node id="#Investigator" label="#Investigator" />
+      <node id="#BetterHealth" label="#BetterHealth" />
+      <node id="#kidneyFailure" label="#kidneyFailure" />
+      <node id="#pharmacists" label="#pharmacists" />
+      <node id="#Pilot" label="#Pilot" />
+      <node id="#ProstateCancer" label="#ProstateCancer" />
+      <node id="#Patient" label="#Patient" />
+      <node id="#NewWexMedSite" label="#NewWexMedSite" />
+      <node id="#Dentistry" label="#Dentistry" />
+      <node id="#Biostatistics" label="#Biostatistics" />
+      <node id="#Senate" label="#Senate" />
+      <node id="#2012CKFC" label="#2012CKFC" />
+      <node id="#Meeting" label="#Meeting" />
+      <node id="#pregnancy" label="#pregnancy" />
+      <node id="#Diabetes" label="#Diabetes" />
+      <node id="#StudySearch" label="#StudySearch" />
+      <node id="#OnlineCourses" label="#OnlineCourses" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#Type1Diabetes" label="#Type1Diabetes" />
+      <node id="#Research2013" label="#Research2013" />
+      <node id="#lungcancer" label="#lungcancer" />
+      <node id="#biomedical" label="#biomedical" />
+      <node id="#cysticfibrosis" label="#cysticfibrosis" />
+      <node id="#Appalachia" label="#Appalachia" />
+      <node id="#GetYourLearnOn" label="#GetYourLearnOn" />
+      <node id="#Stress" label="#Stress" />
+      <node id="#bday" label="#bday" />
+      <node id="#FutureOfHealth" label="#FutureOfHealth" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#MyChart" label="#MyChart" />
+      <node id="#UK" label="#UK" />
+      <node id="#woundcare" label="#woundcare" />
+      <node id="#ClinicalTrial" label="#ClinicalTrial" />
+      <node id="#OSU_CCTS" label="#OSU_CCTS" />
+      <node id="#autoimmune" label="#autoimmune" />
+      <node id="#StudyNotes" label="#StudyNotes" />
+      <node id="#UpcomingEvents" label="#UpcomingEvents" />
+      <node id="#Disease" label="#Disease" />
+      <node id="#ResearchMatch" label="#ResearchMatch" />
+      <node id="#happiness" label="#happiness" />
+      <node id="#men" label="#men" />
+      <node id="#health" label="#health" />
+      <node id="#HelpfulTips" label="#HelpfulTips" />
+      <node id="#DDR" label="#DDR" />
+      <node id="#SciValExperts" label="#SciValExperts" />
+      <node id="#JamesCancerHospital" label="#JamesCancerHospital" />
+      <node id="#opportunities" label="#opportunities" />
+      <node id="#Register" label="#Register" />
+      <node id="#Rare" label="#Rare" />
+      <node id="#StemCell" label="#StemCell" />
+      <node id="#Preterm" label="#Preterm" />
+      <node id="#Vaccine" label="#Vaccine" />
+      <node id="#BPD" label="#BPD" />
+      <node id="#seminar" label="#seminar" />
+      <node id="#asthma" label="#asthma" />
+      <node id="#NIH" label="#NIH" />
+      <node id="#LPilotApplicationWorkshop" label="#LPilotApplicationWorkshop" />
+      <node id="#DoSomethingGreat" label="#DoSomethingGreat" />
+      <node id="#MS" label="#MS" />
+      <node id="#Lecture" label="#Lecture" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#glaucoma" target="#research" weight="1198" />
+      <edge id="1" source="#glaucoma" target="#CTSA" weight="1198" />
+      <edge id="2" source="#glaucoma" target="#OhioState" weight="1198" />
+      <edge id="3" source="#ResearchFunding" target="#Research" weight="1198" />
+      <edge id="4" source="#ResearchFunding" target="#Funding" weight="1198" />
+      <edge id="5" source="#ResearchFunding" target="#Science" weight="1198" />
+      <edge id="6" source="#ResearchFunding" target="#CTSA" weight="2396" />
+      <edge id="7" source="#preemie" target="#osuopt" weight="1198" />
+      <edge id="8" source="#OSUCRI15" target="#OSUBMI" weight="1198" />
+      <edge id="9" source="#OSUCRI15" target="#CTSA" weight="1198" />
+      <edge id="10" source="#SaveTheTatas" target="#NBCAM" weight="1198" />
+      <edge id="11" source="#SaveTheTatas" target="#CTSA" weight="1198" />
+      <edge id="12" source="#SaveTheTatas" target="#BreastCancer" weight="1198" />
+      <edge id="13" source="#cancer" target="#CTSA" weight="2396" />
+      <edge id="14" source="#cancer" target="#osuccc" weight="1198" />
+      <edge id="15" source="#cancer" target="#T2C2014" weight="1198" />
+      <edge id="16" source="#cancer" target="#Yoga" weight="1198" />
+      <edge id="17" source="#cancer" target="#BRUTx" weight="1198" />
+      <edge id="18" source="#cancer" target="#NCI" weight="1198" />
+      <edge id="19" source="#cancer" target="#CDCGrandRounds" weight="1198" />
+      <edge id="20" source="#cancer" target="#research" weight="2396" />
+      <edge id="21" source="#cancer" target="#FDA" weight="1198" />
+      <edge id="22" source="#stress" target="#infertility" weight="1198" />
+      <edge id="23" source="#stress" target="#research" weight="1198" />
+      <edge id="24" source="#stress" target="#CTSA" weight="1198" />
+      <edge id="25" source="#stress" target="#OhioState" weight="1198" />
+      <edge id="26" source="#stress" target="#heartdisease" weight="1198" />
+      <edge id="27" source="#HealthCare" target="#Research" weight="1198" />
+      <edge id="28" source="#HealthCare" target="#MakeADifference" weight="1198" />
+      <edge id="29" source="#FisherCollege" target="#Research" weight="2396" />
+      <edge id="30" source="#FisherCollege" target="#OSU" weight="2396" />
+      <edge id="31" source="#FisherCollege" target="#CTSA" weight="2396" />
+      <edge id="32" source="#immunity" target="#lupus" weight="1198" />
+      <edge id="33" source="#immunity" target="#autoimmune" weight="1198" />
+      <edge id="34" source="#StrokeDamage" target="#Research" weight="1198" />
+      <edge id="35" source="#StrokeDamage" target="#Science" weight="1198" />
+      <edge id="36" source="#LetItGo" target="#research" weight="1198" />
+      <edge id="37" source="#LetItGo" target="#CTSA" weight="1198" />
+      <edge id="38" source="#pharma" target="#ClinicalTrials" weight="1198" />
+      <edge id="39" source="#osupr" target="#OSU" weight="2396" />
+      <edge id="40" source="#Autism" target="#CTSA" weight="1198" />
+      <edge id="41" source="#Autism" target="#children" weight="1198" />
+      <edge id="42" source="#Autism" target="#OSU" weight="1198" />
+      <edge id="43" source="#Autism" target="#ADHD" weight="1198" />
+      <edge id="44" source="#heartdisease" target="#OhioState" weight="1198" />
+      <edge id="45" source="#CCTSMtg2012" target="#CTSA" weight="5990" />
+      <edge id="46" source="#CCTSMtg2012" target="#Diabetes" weight="1198" />
+      <edge id="47" source="#obesity" target="#teens" weight="1198" />
+      <edge id="48" source="#SpaceIsLimited" target="#CTSA" weight="2396" />
+      <edge id="49" source="#HIV" target="#research" weight="1198" />
+      <edge id="50" source="#HIV" target="#CTSA" weight="1198" />
+      <edge id="51" source="#infertility" target="#research" weight="1198" />
+      <edge id="52" source="#infertility" target="#CTSA" weight="1198" />
+      <edge id="53" source="#CRISPR" target="#Vaccine" weight="1198" />
+      <edge id="54" source="#CRISPR" target="#NTD" weight="1198" />
+      <edge id="55" source="#ToolsoftheTrade" target="#Training" weight="1198" />
+      <edge id="56" source="#ToolsoftheTrade" target="#Research" weight="1198" />
+      <edge id="57" source="#ToolsoftheTrade" target="#CTSA" weight="2396" />
+      <edge id="58" source="#Community" target="#MakeUBetter" weight="1198" />
+      <edge id="59" source="#snoring" target="#Sleep" weight="1198" />
+      <edge id="60" source="#snoring" target="#snores" weight="1198" />
+      <edge id="61" source="#snoring" target="#AdviceForWomen" weight="1198" />
+      <edge id="62" source="#mother" target="#OSU" weight="1198" />
+      <edge id="63" source="#mother" target="#mothers" weight="1198" />
+      <edge id="64" source="#mother" target="#Dentistry" weight="1198" />
+      <edge id="65" source="#CCTS" target="#CTSA" weight="2396" />
+      <edge id="66" source="#CCTS" target="#Research2013" weight="1198" />
+      <edge id="67" source="#CCTS" target="#science" weight="1198" />
+      <edge id="68" source="#CCTS" target="#OSS" weight="1198" />
+      <edge id="69" source="#CCTS" target="#research" weight="9584" />
+      <edge id="70" source="#CCTS" target="#Research" weight="1198" />
+      <edge id="71" source="#CCTS" target="#CCTS" weight="7188" />
+      <edge id="72" source="#CTSA" target="#exciting" weight="1198" />
+      <edge id="73" source="#CTSA" target="#Research" weight="107820" />
+      <edge id="74" source="#CTSA" target="#SunshineAct" weight="1198" />
+      <edge id="75" source="#CTSA" target="#NCATS" weight="3594" />
+      <edge id="76" source="#CTSA" target="#Communications" weight="1198" />
+      <edge id="77" source="#CTSA" target="#Translational" weight="4792" />
+      <edge id="78" source="#CTSA" target="#Stress" weight="1198" />
+      <edge id="79" source="#CTSA" target="#Appalachia" weight="2396" />
+      <edge id="80" source="#CTSA" target="#Career" weight="1198" />
+      <edge id="81" source="#CTSA" target="#BRUTx" weight="5990" />
+      <edge id="82" source="#CTSA" target="#Cancer" weight="2396" />
+      <edge id="83" source="#CTSA" target="#RegisterOnline" weight="1198" />
+      <edge id="84" source="#CTSA" target="#BirthControl" weight="1198" />
+      <edge id="85" source="#CTSA" target="#funding" weight="1198" />
+      <edge id="86" source="#CTSA" target="#MyChart" weight="1198" />
+      <edge id="87" source="#CTSA" target="#Celebration" weight="1198" />
+      <edge id="88" source="#CTSA" target="#innovative" weight="1198" />
+      <edge id="89" source="#CTSA" target="#collaboration" weight="1198" />
+      <edge id="90" source="#CTSA" target="#ADHD" weight="2396" />
+      <edge id="91" source="#CTSA" target="#research" weight="59900" />
+      <edge id="92" source="#CTSA" target="#Scientific" weight="2396" />
+      <edge id="93" source="#CTSA" target="#patients" weight="1198" />
+      <edge id="94" source="#CTSA" target="#Funding" weight="14376" />
+      <edge id="95" source="#CTSA" target="#autism" weight="1198" />
+      <edge id="96" source="#CTSA" target="#GlobalHealth" weight="1198" />
+      <edge id="97" source="#CTSA" target="#FebruaryNewsletter" weight="1198" />
+      <edge id="98" source="#CTSA" target="#ClinicalResearchCenter" weight="1198" />
+      <edge id="99" source="#CTSA" target="#StudyNotesBlog" weight="1198" />
+      <edge id="100" source="#CTSA" target="#OhioUnion" weight="1198" />
+      <edge id="101" source="#CTSA" target="#Training" weight="1198" />
+      <edge id="102" source="#CTSA" target="#Exciting" weight="1198" />
+      <edge id="103" source="#CTSA" target="#ResearchConcierge" weight="1198" />
+      <edge id="104" source="#CTSA" target="#OSUResearchExpo" weight="1198" />
+      <edge id="105" source="#CTSA" target="#CancerResearch" weight="1198" />
+      <edge id="106" source="#CTSA" target="#checkitout" weight="1198" />
+      <edge id="107" source="#CTSA" target="#Newsletter" weight="2396" />
+      <edge id="108" source="#CTSA" target="#T2C2014" weight="1198" />
+      <edge id="109" source="#CTSA" target="#Clinical" weight="3594" />
+      <edge id="110" source="#CTSA" target="#VitaminD" weight="1198" />
+      <edge id="111" source="#CTSA" target="#MakeADifference" weight="1198" />
+      <edge id="112" source="#CTSA" target="#NationalConsortium" weight="1198" />
+      <edge id="113" source="#CTSA" target="#GoBucks" weight="1198" />
+      <edge id="114" source="#CTSA" target="#Health" weight="5990" />
+      <edge id="115" source="#CTSA" target="#regenmed" weight="1198" />
+      <edge id="116" source="#CTSA" target="#CURE" weight="1198" />
+      <edge id="117" source="#CTSA" target="#website" weight="1198" />
+      <edge id="118" source="#CTSA" target="#JamesCancerHospital" weight="1198" />
+      <edge id="119" source="#CTSA" target="#Pharmacology" weight="1198" />
+      <edge id="120" source="#CTSA" target="#participate" weight="1198" />
+      <edge id="121" source="#CTSA" target="#clinical" weight="1198" />
+      <edge id="122" source="#CTSA" target="#community" weight="1198" />
+      <edge id="123" source="#CTSA" target="#children" weight="1198" />
+      <edge id="124" source="#CTSA" target="#Ohio" weight="2396" />
+      <edge id="125" source="#CTSA" target="#Participate" weight="1198" />
+      <edge id="126" source="#CTSA" target="#RVA" weight="1198" />
+      <edge id="127" source="#CTSA" target="#OSU" weight="11980" />
+      <edge id="128" source="#CTSA" target="#science" weight="1198" />
+      <edge id="129" source="#CTSA" target="#tOSU" weight="4792" />
+      <edge id="130" source="#CTSA" target="#SciValExperts" weight="1198" />
+      <edge id="131" source="#CTSA" target="#Diabetes" weight="2396" />
+      <edge id="132" source="#CTSA" target="#Research2013" weight="1198" />
+      <edge id="133" source="#CTSA" target="#Development" weight="1198" />
+      <edge id="134" source="#CTSA" target="#StemCell" weight="1198" />
+      <edge id="135" source="#CTSA" target="#Science" weight="17970" />
+      <edge id="136" source="#CTSA" target="#Breastfeeding" weight="1198" />
+      <edge id="137" source="#CTSA" target="#neuroscience" weight="1198" />
+      <edge id="138" source="#CTSA" target="#Drug" weight="1198" />
+      <edge id="139" source="#CTSA" target="#BreastCancer" weight="1198" />
+      <edge id="140" source="#CTSA" target="#Discoveries" weight="1198" />
+      <edge id="141" source="#CTSA" target="#CER" weight="1198" />
+      <edge id="142" source="#CTSA" target="#RightNow" weight="1198" />
+      <edge id="143" source="#CTSA" target="#ClinicalTrials" weight="1198" />
+      <edge id="144" source="#CTSA" target="#Investigator" weight="1198" />
+      <edge id="145" source="#CTSA" target="#BetterHealth" weight="2396" />
+      <edge id="146" source="#CTSA" target="#Pilot" weight="1198" />
+      <edge id="147" source="#CTSA" target="#ProstateCancer" weight="1198" />
+      <edge id="148" source="#CTSA" target="#Discovery" weight="1198" />
+      <edge id="149" source="#CTSA" target="#Biostatistics" weight="1198" />
+      <edge id="150" source="#CTSA" target="#NBCAM" weight="1198" />
+      <edge id="151" source="#CTSA" target="#2012CKFC" weight="4792" />
+      <edge id="152" source="#CTSA" target="#pregnancy" weight="1198" />
+      <edge id="153" source="#CTSA" target="#StudySearch" weight="1198" />
+      <edge id="154" source="#CTSA" target="#ResearchMatch" weight="2396" />
+      <edge id="155" source="#CTSA" target="#OhioState" weight="10782" />
+      <edge id="156" source="#CTSA" target="#Kentucky" weight="1198" />
+      <edge id="157" source="#CTSA" target="#GetYourLearnOn" weight="1198" />
+      <edge id="158" source="#CTSA" target="#FutureOfHealth" weight="1198" />
+      <edge id="159" source="#CTSA" target="#innovation" weight="1198" />
+      <edge id="160" source="#CTSA" target="#ClinicalTrial" weight="1198" />
+      <edge id="161" source="#CTSA" target="#OSU_CCTS" weight="1198" />
+      <edge id="162" source="#CTSA" target="#StudyNotes" weight="1198" />
+      <edge id="163" source="#CTSA" target="#UpcomingEvents" weight="1198" />
+      <edge id="164" source="#CTSA" target="#health" weight="2396" />
+      <edge id="165" source="#CTSA" target="#HelpfulTips" weight="1198" />
+      <edge id="166" source="#CTSA" target="#diabetes" weight="2396" />
+      <edge id="167" source="#CTSA" target="#RFA" weight="5990" />
+      <edge id="168" source="#CTSA" target="#opportunities" weight="1198" />
+      <edge id="169" source="#CTSA" target="#RegisterNow" weight="1198" />
+      <edge id="170" source="#CTSA" target="#BPD" weight="1198" />
+      <edge id="171" source="#CTSA" target="#seminar" weight="1198" />
+      <edge id="172" source="#CTSA" target="#NIH" weight="3594" />
+      <edge id="173" source="#CTSA" target="#DoSomethingGreat" weight="1198" />
+      <edge id="174" source="#register" target="#informatics" weight="1198" />
+      <edge id="175" source="#register" target="#BRUTx" weight="5990" />
+      <edge id="176" source="#register" target="#diabetes" weight="1198" />
+      <edge id="177" source="#register" target="#health" weight="1198" />
+      <edge id="178" source="#register" target="#insulin" weight="1198" />
+      <edge id="179" source="#Kentucky" target="#Research" weight="1198" />
+      <edge id="180" source="#Kentucky" target="#OhioState" weight="1198" />
+      <edge id="181" source="#t2c2014" target="#strengthinnumbers" weight="1198" />
+      <edge id="182" source="#Career" target="#RFA" weight="1198" />
+      <edge id="183" source="#Career" target="#Research" weight="1198" />
+      <edge id="184" source="#Career" target="#Funding" weight="1198" />
+      <edge id="185" source="#Career" target="#Development" weight="1198" />
+      <edge id="186" source="#BRUTx" target="#pharmacists" weight="2396" />
+      <edge id="187" source="#BRUTx" target="#research" weight="1198" />
+      <edge id="188" source="#BRUTx" target="#Diabetes" weight="1198" />
+      <edge id="189" source="#BRUTx" target="#insulin" weight="1198" />
+      <edge id="190" source="#BRUTx" target="#diabetes" weight="1198" />
+      <edge id="191" source="#BRUTx" target="#LimitedSeating" weight="1198" />
+      <edge id="192" source="#BRUTx" target="#clinicaltrials" weight="1198" />
+      <edge id="193" source="#BRUTx" target="#health" weight="1198" />
+      <edge id="194" source="#BRUTx" target="#GoBucks" weight="1198" />
+      <edge id="195" source="#BRUTx" target="#OSU" weight="1198" />
+      <edge id="196" source="#BRUTx" target="#BRUTx" weight="4792" />
+      <edge id="197" source="#BRUTx" target="#informatics" weight="1198" />
+      <edge id="198" source="#BRUTx" target="#Research" weight="4792" />
+      <edge id="199" source="#BRUTx" target="#innovation" weight="1198" />
+      <edge id="200" source="#BRUTx" target="#spaceislimited" weight="1198" />
+      <edge id="201" source="#BRUTx" target="#myopia" weight="1198" />
+      <edge id="202" source="#BRUTx" target="#IdeasWorthSpreading" weight="4792" />
+      <edge id="203" source="#BRUTx" target="#Register" weight="4792" />
+      <edge id="204" source="#ThatsAwesome" target="#OneGoal" weight="1198" />
+      <edge id="205" source="#ThatsAwesome" target="#CureCancer" weight="1198" />
+      <edge id="206" source="#stemcell" target="#regenmed" weight="1198" />
+      <edge id="207" source="#stemcell" target="#woundcare" weight="1198" />
+      <edge id="208" source="#stemcell" target="#T2C2014" weight="1198" />
+      <edge id="209" source="#heart" target="#T2C2014" weight="1198" />
+      <edge id="210" source="#Cancer" target="#ComeTogether" weight="1198" />
+      <edge id="211" source="#Cancer" target="#RareDiseases" weight="1198" />
+      <edge id="212" source="#Cancer" target="#Science" weight="1198" />
+      <edge id="213" source="#Cancer" target="#Research" weight="4792" />
+      <edge id="214" source="#Cancer" target="#LearnMore" weight="1198" />
+      <edge id="215" source="#Networking" target="#Research" weight="1198" />
+      <edge id="216" source="#Buckeyes" target="#research" weight="1198" />
+      <edge id="217" source="#Buckeyes" target="#payitforward" weight="1198" />
+      <edge id="218" source="#Researchers" target="#OSU" weight="1198" />
+      <edge id="219" source="#Innovation" target="#Research" weight="1198" />
+      <edge id="220" source="#Innovation" target="#ResearchEventCalendar" weight="1198" />
+      <edge id="221" source="#OneGoal" target="#CureCancer" weight="1198" />
+      <edge id="222" source="#Education" target="#Research" weight="2396" />
+      <edge id="223" source="#Education" target="#Science" weight="1198" />
+      <edge id="224" source="#funding" target="#research" weight="2396" />
+      <edge id="225" source="#funding" target="#science" weight="1198" />
+      <edge id="226" source="#NCATS" target="#RFA" weight="1198" />
+      <edge id="227" source="#NCATS" target="#Newsletter" weight="1198" />
+      <edge id="228" source="#NCATS" target="#Appalachia" weight="1198" />
+      <edge id="229" source="#NCATS" target="#OhioState" weight="1198" />
+      <edge id="230" source="#NCATS" target="#Science" weight="1198" />
+      <edge id="231" source="#NCATS" target="#2012CKFC" weight="1198" />
+      <edge id="232" source="#NCATS" target="#Research" weight="2396" />
+      <edge id="233" source="#Celebration" target="#RightNow" weight="1198" />
+      <edge id="234" source="#Celebration" target="#Research" weight="1198" />
+      <edge id="235" source="#Celebration" target="#OhioUnion" weight="1198" />
+      <edge id="236" source="#innovative" target="#2012CKFC" weight="1198" />
+      <edge id="237" source="#PCORI" target="#research" weight="1198" />
+      <edge id="238" source="#clinicaltrials" target="#Register" weight="1198" />
+      <edge id="239" source="#clinicaltrials" target="#BIO2014" weight="1198" />
+      <edge id="240" source="#NCI" target="#osuccc" weight="1198" />
+      <edge id="241" source="#NCI" target="#FDA" weight="1198" />
+      <edge id="242" source="#collaboration" target="#research" weight="1198" />
+      <edge id="243" source="#collaboration" target="#opportunities" weight="1198" />
+      <edge id="244" source="#collaboration" target="#2012CKFC" weight="1198" />
+      <edge id="245" source="#collaboration" target="#exciting" weight="1198" />
+      <edge id="246" source="#ADHD" target="#children" weight="1198" />
+      <edge id="247" source="#ADHD" target="#Research" weight="1198" />
+      <edge id="248" source="#ADHD" target="#OSU" weight="1198" />
+      <edge id="249" source="#OSUWexMed" target="#GetMatched" weight="2396" />
+      <edge id="250" source="#OSUWexMed" target="#NewWexMedSite" weight="1198" />
+      <edge id="251" source="#OSUWexMed" target="#DiscoverResearchMatch" weight="2396" />
+      <edge id="252" source="#Exciting" target="#tOSU" weight="1198" />
+      <edge id="253" source="#Exciting" target="#OhioState" weight="1198" />
+      <edge id="254" source="#Exciting" target="#Research" weight="1198" />
+      <edge id="255" source="#research" target="#patients" weight="1198" />
+      <edge id="256" source="#research" target="#2012CKFC" weight="1198" />
+      <edge id="257" source="#research" target="#exciting" weight="1198" />
+      <edge id="258" source="#research" target="#NIHPublicAccessPolicy" weight="1198" />
+      <edge id="259" source="#research" target="#participate" weight="1198" />
+      <edge id="260" source="#research" target="#PayItForward" weight="1198" />
+      <edge id="261" source="#research" target="#OSS" weight="1198" />
+      <edge id="262" source="#research" target="#Research" weight="1198" />
+      <edge id="263" source="#research" target="#pregnancy" weight="2396" />
+      <edge id="264" source="#research" target="#cysticfibrosis" weight="1198" />
+      <edge id="265" source="#research" target="#StudySearch" weight="1198" />
+      <edge id="266" source="#research" target="#diabetes" weight="2396" />
+      <edge id="267" source="#research" target="#RVA" weight="1198" />
+      <edge id="268" source="#research" target="#OhioState" weight="2396" />
+      <edge id="269" source="#research" target="#clinical" weight="1198" />
+      <edge id="270" source="#research" target="#women" weight="1198" />
+      <edge id="271" source="#research" target="#OSU" weight="2396" />
+      <edge id="272" source="#research" target="#science" weight="2396" />
+      <edge id="273" source="#research" target="#FutureOfHealth" weight="1198" />
+      <edge id="274" source="#research" target="#innovation" weight="1198" />
+      <edge id="275" source="#research" target="#MyChart" weight="1198" />
+      <edge id="276" source="#research" target="#LearnMore" weight="1198" />
+      <edge id="277" source="#research" target="#StudyNotes" weight="1198" />
+      <edge id="278" source="#research" target="#VitaminD" weight="1198" />
+      <edge id="279" source="#research" target="#men" weight="1198" />
+      <edge id="280" source="#research" target="#LPilotApplicationWorkshop" weight="1198" />
+      <edge id="281" source="#research" target="#health" weight="3594" />
+      <edge id="282" source="#research" target="#Alzheimer" weight="1198" />
+      <edge id="283" source="#research" target="#MakeADifference" weight="1198" />
+      <edge id="284" source="#research" target="#SciValExperts" weight="1198" />
+      <edge id="285" source="#research" target="#opportunities" weight="1198" />
+      <edge id="286" source="#research" target="#GoBucks" weight="1198" />
+      <edge id="287" source="#research" target="#payitforward" weight="1198" />
+      <edge id="288" source="#research" target="#GetMatched" weight="1198" />
+      <edge id="289" source="#research" target="#community" weight="2396" />
+      <edge id="290" source="#research" target="#BetterHealth" weight="1198" />
+      <edge id="291" source="#research" target="#lupus" weight="1198" />
+      <edge id="292" source="#research" target="#asthma" weight="1198" />
+      <edge id="293" source="#research" target="#autoimmunedisease" weight="1198" />
+      <edge id="294" source="#PublicHealth" target="#Research" weight="1198" />
+      <edge id="295" source="#PublicHealth" target="#OSU" weight="1198" />
+      <edge id="296" source="#PublicHealth" target="#OnlineCourses" weight="1198" />
+      <edge id="297" source="#myopia" target="#Register" weight="1198" />
+      <edge id="298" source="#patients" target="#MyChart" weight="1198" />
+      <edge id="299" source="#patients" target="#clinical" weight="1198" />
+      <edge id="300" source="#Funding" target="#Pilot" weight="1198" />
+      <edge id="301" source="#Funding" target="#RFA" weight="3594" />
+      <edge id="302" source="#Funding" target="#Appalachia" weight="1198" />
+      <edge id="303" source="#Funding" target="#Translational" weight="1198" />
+      <edge id="304" source="#Funding" target="#Clinical" weight="1198" />
+      <edge id="305" source="#Funding" target="#Development" weight="1198" />
+      <edge id="306" source="#Funding" target="#OSU" weight="1198" />
+      <edge id="307" source="#Funding" target="#Science" weight="4792" />
+      <edge id="308" source="#Funding" target="#NIH" weight="1198" />
+      <edge id="309" source="#Funding" target="#Research" weight="14376" />
+      <edge id="310" source="#autism" target="#StudyNotesBlog" weight="1198" />
+      <edge id="311" source="#willyoubethere" target="#Research" weight="1198" />
+      <edge id="312" source="#willyoubethere" target="#Meeting" weight="1198" />
+      <edge id="313" source="#willyoubethere" target="#CCTSMtg2011" weight="1198" />
+      <edge id="314" source="#willyoubethere" target="#LearnMore" weight="1198" />
+      <edge id="315" source="#willyoubethere" target="#Scientific" weight="1198" />
+      <edge id="316" source="#2015OhioLHS" target="#DiscoverResearchMatch" weight="1198" />
+      <edge id="317" source="#OhioUnion" target="#RightNow" weight="1198" />
+      <edge id="318" source="#OhioUnion" target="#Research" weight="1198" />
+      <edge id="319" source="#Training" target="#Research" weight="1198" />
+      <edge id="320" source="#ResearchConcierge" target="#Research" weight="1198" />
+      <edge id="321" source="#osup42013" target="#technology" weight="1198" />
+      <edge id="322" source="#OSUResearchExpo" target="#Research" weight="1198" />
+      <edge id="323" source="#OSUResearchExpo" target="#tOSU" weight="1198" />
+      <edge id="324" source="#ResearchEventCalendar" target="#Research" weight="1198" />
+      <edge id="325" source="#Pharmacology" target="#Research" weight="1198" />
+      <edge id="326" source="#Pharmacology" target="#Science" weight="1198" />
+      <edge id="327" source="#NationwideChildrensHospital" target="#Type1Diabetes" weight="1198" />
+      <edge id="328" source="#checkitout" target="#OSU_CCTS" weight="1198" />
+      <edge id="329" source="#checkitout" target="#Newsletter" weight="1198" />
+      <edge id="330" source="#checkitout" target="#Research" weight="1198" />
+      <edge id="331" source="#checkitout" target="#Investigator" weight="1198" />
+      <edge id="332" source="#checkitout" target="#website" weight="1198" />
+      <edge id="333" source="#lupus" target="#autoimmune" weight="1198" />
+      <edge id="334" source="#braincancer" target="#childhoodcancer" weight="1198" />
+      <edge id="335" source="#braincancer" target="#Stop" weight="1198" />
+      <edge id="336" source="#Alzheimer" target="#MakeADifference" weight="1198" />
+      <edge id="337" source="#IdeasWorthSpreading" target="#Research" weight="4792" />
+      <edge id="338" source="#Newsletter" target="#OSU_CCTS" weight="1198" />
+      <edge id="339" source="#Newsletter" target="#OhioState" weight="1198" />
+      <edge id="340" source="#Newsletter" target="#Science" weight="1198" />
+      <edge id="341" source="#Newsletter" target="#Investigator" weight="1198" />
+      <edge id="342" source="#Newsletter" target="#Research" weight="2396" />
+      <edge id="343" source="#Newsletter" target="#website" weight="1198" />
+      <edge id="344" source="#brutx" target="#sphere" weight="1198" />
+      <edge id="345" source="#arthritis" target="#Research" weight="1198" />
+      <edge id="346" source="#RareDiseases" target="#ComeTogether" weight="1198" />
+      <edge id="347" source="#RareDiseases" target="#Research" weight="1198" />
+      <edge id="348" source="#RareDiseases" target="#Science" weight="1198" />
+      <edge id="349" source="#RareDiseases" target="#LearnMore" weight="1198" />
+      <edge id="350" source="#T2C2014" target="#regenmed" weight="3594" />
+      <edge id="351" source="#T2C2014" target="#woundcare" weight="1198" />
+      <edge id="352" source="#Clinical" target="#Translational" weight="2396" />
+      <edge id="353" source="#Clinical" target="#OhioState" weight="1198" />
+      <edge id="354" source="#Clinical" target="#OSU" weight="1198" />
+      <edge id="355" source="#Clinical" target="#Science" weight="2396" />
+      <edge id="356" source="#Clinical" target="#NIH" weight="2396" />
+      <edge id="357" source="#Clinical" target="#Research" weight="3594" />
+      <edge id="358" source="#treatment" target="#biomedicalinformatics" weight="1198" />
+      <edge id="359" source="#treatment" target="#OhioState" weight="1198" />
+      <edge id="360" source="#treatment" target="#lungcancer" weight="1198" />
+      <edge id="361" source="#Communications" target="#NIH" weight="1198" />
+      <edge id="362" source="#Communications" target="#Research" weight="1198" />
+      <edge id="363" source="#DYK" target="#PIF" weight="1198" />
+      <edge id="364" source="#MakeADifference" target="#Research" weight="2396" />
+      <edge id="365" source="#MakeADifference" target="#CURE" weight="1198" />
+      <edge id="366" source="#CCTSMtg2011" target="#Research" weight="1198" />
+      <edge id="367" source="#CCTSMtg2011" target="#Meeting" weight="2396" />
+      <edge id="368" source="#CCTSMtg2011" target="#LearnMore" weight="1198" />
+      <edge id="369" source="#CCTSMtg2011" target="#Scientific" weight="2396" />
+      <edge id="370" source="#snores" target="#Sleep" weight="1198" />
+      <edge id="371" source="#snores" target="#AdviceForWomen" weight="1198" />
+      <edge id="372" source="#FDA" target="#osuccc" weight="1198" />
+      <edge id="373" source="#NTD" target="#Vaccine" weight="1198" />
+      <edge id="374" source="#GoBucks" target="#diabetes" weight="1198" />
+      <edge id="375" source="#childhoodcancer" target="#Stop" weight="1198" />
+      <edge id="376" source="#Health" target="#Discovery" weight="1198" />
+      <edge id="377" source="#Health" target="#OhioState" weight="1198" />
+      <edge id="378" source="#Health" target="#ClinicalTrials" weight="1198" />
+      <edge id="379" source="#Health" target="#Participate" weight="1198" />
+      <edge id="380" source="#Health" target="#Science" weight="2396" />
+      <edge id="381" source="#Health" target="#Research" weight="3594" />
+      <edge id="382" source="#Health" target="#DoSomethingGreat" weight="1198" />
+      <edge id="383" source="#Health" target="#Discoveries" weight="1198" />
+      <edge id="384" source="#Health" target="#Scientific" weight="1198" />
+      <edge id="385" source="#CSTA" target="#Research" weight="1198" />
+      <edge id="386" source="#CSTA" target="#science" weight="1198" />
+      <edge id="387" source="#kidney" target="#kidneyFailure" weight="1198" />
+      <edge id="388" source="#regenmed" target="#woundcare" weight="1198" />
+      <edge id="389" source="#GetMatched" target="#DiscoverResearchMatch" weight="4792" />
+      <edge id="390" source="#Translational" target="#OhioState" weight="1198" />
+      <edge id="391" source="#Translational" target="#OSU" weight="1198" />
+      <edge id="392" source="#Translational" target="#Science" weight="1198" />
+      <edge id="393" source="#Translational" target="#NIH" weight="1198" />
+      <edge id="394" source="#Translational" target="#Research" weight="4792" />
+      <edge id="395" source="#Translational" target="#Scientific" weight="1198" />
+      <edge id="396" source="#CURE" target="#Research" weight="1198" />
+      <edge id="397" source="#website" target="#OSU_CCTS" weight="1198" />
+      <edge id="398" source="#website" target="#Research" weight="1198" />
+      <edge id="399" source="#website" target="#Investigator" weight="1198" />
+      <edge id="400" source="#Scientific" target="#Research" weight="3594" />
+      <edge id="401" source="#Scientific" target="#Meeting" weight="2396" />
+      <edge id="402" source="#Scientific" target="#LearnMore" weight="1198" />
+      <edge id="403" source="#AdviceForWomen" target="#Sleep" weight="1198" />
+      <edge id="404" source="#DiscoverResearchMatch" target="#ResearchMatch" weight="1198" />
+      <edge id="405" source="#ComeTogether" target="#Research" weight="1198" />
+      <edge id="406" source="#ComeTogether" target="#Science" weight="1198" />
+      <edge id="407" source="#ComeTogether" target="#LearnMore" weight="1198" />
+      <edge id="408" source="#exciting" target="#opportunities" weight="1198" />
+      <edge id="409" source="#exciting" target="#2012CKFC" weight="1198" />
+      <edge id="410" source="#Research" target="#Pilot" weight="1198" />
+      <edge id="411" source="#Research" target="#OSU_CCTS" weight="1198" />
+      <edge id="412" source="#Research" target="#SoLucky" weight="1198" />
+      <edge id="413" source="#Research" target="#Meeting" weight="1198" />
+      <edge id="414" source="#Research" target="#UpcomingEvents" weight="1198" />
+      <edge id="415" source="#Research" target="#diabetes" weight="2396" />
+      <edge id="416" source="#Research" target="#OhioState" weight="9584" />
+      <edge id="417" source="#Research" target="#GetYourLearnOn" weight="1198" />
+      <edge id="418" source="#Research" target="#BreastCancer" weight="1198" />
+      <edge id="419" source="#Research" target="#Appalachia" weight="2396" />
+      <edge id="420" source="#Research" target="#OSU" weight="11980" />
+      <edge id="421" source="#Research" target="#science" weight="1198" />
+      <edge id="422" source="#Research" target="#tOSU" weight="4792" />
+      <edge id="423" source="#Research" target="#ClinicalTrial" weight="1198" />
+      <edge id="424" source="#Research" target="#Discovery" weight="1198" />
+      <edge id="425" source="#Research" target="#Diabetes" weight="1198" />
+      <edge id="426" source="#Research" target="#StudyNotes" weight="1198" />
+      <edge id="427" source="#Research" target="#happiness" weight="1198" />
+      <edge id="428" source="#Research" target="#DoSomethingGreat" weight="1198" />
+      <edge id="429" source="#Research" target="#Science" weight="22762" />
+      <edge id="430" source="#Research" target="#Development" weight="1198" />
+      <edge id="431" source="#Research" target="#OnlineCourses" weight="1198" />
+      <edge id="432" source="#Research" target="#HelpfulTips" weight="1198" />
+      <edge id="433" source="#Research" target="#Breastfeeding" weight="1198" />
+      <edge id="434" source="#Research" target="#Drug" weight="1198" />
+      <edge id="435" source="#Research" target="#RFA" weight="5990" />
+      <edge id="436" source="#Research" target="#depression" weight="1198" />
+      <edge id="437" source="#Research" target="#StemCell" weight="1198" />
+      <edge id="438" source="#Research" target="#RightNow" weight="1198" />
+      <edge id="439" source="#Research" target="#LearnMore" weight="2396" />
+      <edge id="440" source="#Research" target="#RegisterNow" weight="1198" />
+      <edge id="441" source="#Research" target="#BPD" weight="1198" />
+      <edge id="442" source="#Research" target="#NIH" weight="3594" />
+      <edge id="443" source="#Research" target="#Investigator" weight="1198" />
+      <edge id="444" source="#Research" target="#BetterHealth" weight="1198" />
+      <edge id="445" source="#Research" target="#JamesCancerHospital" weight="1198" />
+      <edge id="446" source="#Research" target="#Participate" weight="1198" />
+      <edge id="447" source="#insulin" target="#diabetes" weight="1198" />
+      <edge id="448" source="#PushFor9000" target="#bday" weight="1198" />
+      <edge id="449" source="#participate" target="#StudySearch" weight="1198" />
+      <edge id="450" source="#participate" target="#diabetes" weight="1198" />
+      <edge id="451" source="#RFA" target="#Appalachia" weight="2396" />
+      <edge id="452" source="#RFA" target="#Development" weight="1198" />
+      <edge id="453" source="#children" target="#OSU" weight="1198" />
+      <edge id="454" source="#Genome" target="#Patient" weight="1198" />
+      <edge id="455" source="#Genome" target="#Lecture" weight="1198" />
+      <edge id="456" source="#women" target="#men" weight="1198" />
+      <edge id="457" source="#women" target="#science" weight="1198" />
+      <edge id="458" source="#women" target="#asthma" weight="1198" />
+      <edge id="459" source="#women" target="#LearnMore" weight="1198" />
+      <edge id="460" source="#Participate" target="#OhioState" weight="1198" />
+      <edge id="461" source="#Participate" target="#Science" weight="1198" />
+      <edge id="462" source="#Participate" target="#DoSomethingGreat" weight="1198" />
+      <edge id="463" source="#OSU" target="#diabetes" weight="1198" />
+      <edge id="464" source="#OSU" target="#biomedical" weight="1198" />
+      <edge id="465" source="#OSU" target="#UK" weight="1198" />
+      <edge id="466" source="#OSU" target="#Science" weight="1198" />
+      <edge id="467" source="#OSU" target="#mothers" weight="1198" />
+      <edge id="468" source="#OSU" target="#OnlineCourses" weight="1198" />
+      <edge id="469" source="#OSU" target="#depression" weight="1198" />
+      <edge id="470" source="#OSU" target="#CER" weight="1198" />
+      <edge id="471" source="#OSU" target="#Dentistry" weight="1198" />
+      <edge id="472" source="#OSU" target="#NIH" weight="1198" />
+      <edge id="473" source="#science" target="#men" weight="1198" />
+      <edge id="474" source="#science" target="#asthma" weight="1198" />
+      <edge id="475" source="#science" target="#LearnMore" weight="1198" />
+      <edge id="476" source="#researchers" target="#Preterm" weight="1198" />
+      <edge id="477" source="#tOSU" target="#OhioState" weight="1198" />
+      <edge id="478" source="#tOSU" target="#Science" weight="1198" />
+      <edge id="479" source="#eship" target="#innovation" weight="1198" />
+      <edge id="480" source="#eship" target="#commercialization" weight="1198" />
+      <edge id="481" source="#OhioState" target="#spinalcord" weight="1198" />
+      <edge id="482" source="#OhioState" target="#lungcancer" weight="1198" />
+      <edge id="483" source="#OhioState" target="#cysticfibrosis" weight="1198" />
+      <edge id="484" source="#OhioState" target="#Diabetes" weight="1198" />
+      <edge id="485" source="#OhioState" target="#Science" weight="3594" />
+      <edge id="486" source="#OhioState" target="#biomedicalinformatics" weight="1198" />
+      <edge id="487" source="#OhioState" target="#BPD" weight="1198" />
+      <edge id="488" source="#OhioState" target="#DoSomethingGreat" weight="1198" />
+      <edge id="489" source="#LearnMore" target="#men" weight="1198" />
+      <edge id="490" source="#LearnMore" target="#Science" weight="1198" />
+      <edge id="491" source="#LearnMore" target="#Meeting" weight="1198" />
+      <edge id="492" source="#LearnMore" target="#asthma" weight="1198" />
+      <edge id="493" source="#Discovery" target="#Science" weight="1198" />
+      <edge id="494" source="#clinical" target="#MyChart" weight="1198" />
+      <edge id="495" source="#biomedicalinformatics" target="#lungcancer" weight="1198" />
+      <edge id="496" source="#Science" target="#UpcomingEvents" weight="1198" />
+      <edge id="497" source="#Science" target="#Diabetes" weight="1198" />
+      <edge id="498" source="#Science" target="#HelpfulTips" weight="1198" />
+      <edge id="499" source="#Science" target="#Drug" weight="1198" />
+      <edge id="500" source="#Science" target="#NIH" weight="2396" />
+      <edge id="501" source="#Science" target="#DoSomethingGreat" weight="1198" />
+      <edge id="502" source="#mothers" target="#Dentistry" weight="1198" />
+      <edge id="503" source="#Breastfeeding" target="#diabetes" weight="1198" />
+      <edge id="504" source="#BreastCancer" target="#NBCAM" weight="1198" />
+      <edge id="505" source="#Resolution" target="#Senate" weight="1198" />
+      <edge id="506" source="#Resolution" target="#Disease" weight="1198" />
+      <edge id="507" source="#Resolution" target="#Rare" weight="1198" />
+      <edge id="508" source="#Discoveries" target="#ClinicalTrials" weight="1198" />
+      <edge id="509" source="#depression" target="#diabetes" weight="1198" />
+      <edge id="510" source="#commercialization" target="#innovation" weight="1198" />
+      <edge id="511" source="#Investigator" target="#OSU_CCTS" weight="1198" />
+      <edge id="512" source="#pharmacists" target="#Register" weight="2396" />
+      <edge id="513" source="#Patient" target="#Lecture" weight="1198" />
+      <edge id="514" source="#Senate" target="#Disease" weight="1198" />
+      <edge id="515" source="#Senate" target="#Rare" weight="1198" />
+      <edge id="516" source="#2012CKFC" target="#opportunities" weight="1198" />
+      <edge id="517" source="#2012CKFC" target="#ResearchMatch" weight="1198" />
+      <edge id="518" source="#pregnancy" target="#health" weight="2396" />
+      <edge id="519" source="#pregnancy" target="#StudyNotes" weight="1198" />
+      <edge id="520" source="#pregnancy" target="#diabetes" weight="1198" />
+      <edge id="521" source="#StudySearch" target="#diabetes" weight="1198" />
+      <edge id="522" source="#StudySearch" target="#ResearchMatch" weight="1198" />
+      <edge id="523" source="#diabetes" target="#health" weight="1198" />
+      <edge id="524" source="#biomedical" target="#UK" weight="1198" />
+      <edge id="525" source="#StudyNotes" target="#health" weight="1198" />
+      <edge id="526" source="#Disease" target="#Rare" weight="1198" />
+      <edge id="527" source="#men" target="#asthma" weight="1198" />
+      <edge id="528" source="#DDR" target="#MS" weight="1198" />
+    </edges>
+  </graph>
+</gexf>

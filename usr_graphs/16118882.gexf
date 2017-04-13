@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#suitandtie" label="#suitandtie" />
+      <node id="#lovelovelove" label="#lovelovelove" />
+      <node id="#sorrento" label="#sorrento" />
+      <node id="#rockyourlyrics" label="#rockyourlyrics" />
+      <node id="#fail" label="#fail" />
+      <node id="#Ouch" label="#Ouch" />
+      <node id="#yourwelcome" label="#yourwelcome" />
+      <node id="#interview" label="#interview" />
+      <node id="#concert" label="#concert" />
+      <node id="#Interview" label="#Interview" />
+      <node id="#vessel" label="#vessel" />
+      <node id="#gozags" label="#gozags" />
+      <node id="#parentingocmag" label="#parentingocmag" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#makesmemisstreehill" label="#makesmemisstreehill" />
+      <node id="#Karma" label="#Karma" />
+      <node id="#pdx" label="#pdx" />
+      <node id="#wherewemeet" label="#wherewemeet" />
+      <node id="#springtraining" label="#springtraining" />
+      <node id="#CloserThanEver" label="#CloserThanEver" />
+      <node id="#weddingtrailer" label="#weddingtrailer" />
+      <node id="#TyroneWells" label="#TyroneWells" />
+      <node id="#seabreeze" label="#seabreeze" />
+      <node id="#unbelievable" label="#unbelievable" />
+      <node id="#allsmiles" label="#allsmiles" />
+      <node id="#RamsHeadOnStage" label="#RamsHeadOnStage" />
+      <node id="#peace" label="#peace" />
+      <node id="#whoishe" label="#whoishe" />
+      <node id="#MusicMonday" label="#MusicMonday" />
+      <node id="#June" label="#June" />
+      <node id="#goldford" label="#goldford" />
+      <node id="#rollwithit" label="#rollwithit" />
+      <node id="#ComingToTheLounge" label="#ComingToTheLounge" />
+      <node id="#tyronewells" label="#tyronewells" />
+      <node id="#stylelikeyou" label="#stylelikeyou" />
+      <node id="#cubs" label="#cubs" />
+      <node id="#toogood" label="#toogood" />
+      <node id="#feelsgoodtobeabulldog" label="#feelsgoodtobeabulldog" />
+      <node id="#Crossroads" label="#Crossroads" />
+      <node id="#word" label="#word" />
+      <node id="#gettingemotional" label="#gettingemotional" />
+      <node id="#inspired" label="#inspired" />
+      <node id="#forreal" label="#forreal" />
+      <node id="#youretheone" label="#youretheone" />
+      <node id="#sogood" label="#sogood" />
+      <node id="#ChristmasAtHome" label="#ChristmasAtHome" />
+      <node id="#brewers" label="#brewers" />
+      <node id="#thislove" label="#thislove" />
+      <node id="#gottagetittogether" label="#gottagetittogether" />
+      <node id="#MPLS" label="#MPLS" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#suitandtie" target="#Crossroads" weight="3220" />
+      <edge id="1" source="#lovelovelove" target="#youretheone" weight="3220" />
+      <edge id="2" source="#lovelovelove" target="#seabreeze" weight="3220" />
+      <edge id="3" source="#sorrento" target="#allsmiles" weight="3220" />
+      <edge id="4" source="#rockyourlyrics" target="#interview" weight="3220" />
+      <edge id="5" source="#rockyourlyrics" target="#tyronewells" weight="3220" />
+      <edge id="6" source="#rockyourlyrics" target="#rollwithit" weight="3220" />
+      <edge id="7" source="#rockyourlyrics" target="#Interview" weight="3220" />
+      <edge id="8" source="#fail" target="#gottagetittogether" weight="3220" />
+      <edge id="9" source="#Ouch" target="#Karma" weight="3220" />
+      <edge id="10" source="#yourwelcome" target="#stylelikeyou" weight="3220" />
+      <edge id="11" source="#yourwelcome" target="#goldford" weight="3220" />
+      <edge id="12" source="#interview" target="#tyronewells" weight="3220" />
+      <edge id="13" source="#interview" target="#rollwithit" weight="3220" />
+      <edge id="14" source="#interview" target="#Interview" weight="3220" />
+      <edge id="15" source="#concert" target="#MPLS" weight="3220" />
+      <edge id="16" source="#Interview" target="#rollwithit" weight="3220" />
+      <edge id="17" source="#Interview" target="#tyronewells" weight="3220" />
+      <edge id="18" source="#vessel" target="#tyronewells" weight="3220" />
+      <edge id="19" source="#gozags" target="#MarchMadness" weight="3220" />
+      <edge id="20" source="#gozags" target="#feelsgoodtobeabulldog" weight="3220" />
+      <edge id="21" source="#parentingocmag" target="#June" weight="3220" />
+      <edge id="22" source="#MarchMadness" target="#feelsgoodtobeabulldog" weight="3220" />
+      <edge id="23" source="#makesmemisstreehill" target="#wherewemeet" weight="3220" />
+      <edge id="24" source="#pdx" target="#MusicMonday" weight="3220" />
+      <edge id="25" source="#pdx" target="#ComingToTheLounge" weight="3220" />
+      <edge id="26" source="#springtraining" target="#brewers" weight="3220" />
+      <edge id="27" source="#springtraining" target="#cubs" weight="3220" />
+      <edge id="28" source="#CloserThanEver" target="#RamsHeadOnStage" weight="3220" />
+      <edge id="29" source="#CloserThanEver" target="#TyroneWells" weight="3220" />
+      <edge id="30" source="#weddingtrailer" target="#inspired" weight="3220" />
+      <edge id="31" source="#TyroneWells" target="#RamsHeadOnStage" weight="3220" />
+      <edge id="32" source="#unbelievable" target="#sogood" weight="3220" />
+      <edge id="33" source="#peace" target="#toogood" weight="3220" />
+      <edge id="34" source="#whoishe" target="#word" weight="3220" />
+      <edge id="35" source="#MusicMonday" target="#ComingToTheLounge" weight="3220" />
+      <edge id="36" source="#goldford" target="#stylelikeyou" weight="3220" />
+      <edge id="37" source="#rollwithit" target="#tyronewells" weight="3220" />
+      <edge id="38" source="#tyronewells" target="#thislove" weight="3220" />
+      <edge id="39" source="#cubs" target="#brewers" weight="3220" />
+      <edge id="40" source="#gettingemotional" target="#ChristmasAtHome" weight="3220" />
+      <edge id="41" source="#forreal" target="#sogood" weight="3220" />
+    </edges>
+  </graph>
+</gexf>

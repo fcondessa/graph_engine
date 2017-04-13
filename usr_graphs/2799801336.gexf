@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OrlandoShooting" label="#OrlandoShooting" />
+      <node id="#getherealready" label="#getherealready" />
+      <node id="#Gaslight" label="#Gaslight" />
+      <node id="#Berlin" label="#Berlin" />
+      <node id="#VeganTravel" label="#VeganTravel" />
+      <node id="#vegan" label="#vegan" />
+      <node id="#herbie" label="#herbie" />
+      <node id="#SickAtWork" label="#SickAtWork" />
+      <node id="#NoLaundry" label="#NoLaundry" />
+      <node id="#detoxJanuary" label="#detoxJanuary" />
+      <node id="#NationalDogDay" label="#NationalDogDay" />
+      <node id="#HongKong" label="#HongKong" />
+      <node id="#WestEndGirls" label="#WestEndGirls" />
+      <node id="#Vegan" label="#Vegan" />
+      <node id="#mondaymotivation" label="#mondaymotivation" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#CatchSomeZzzz" label="#CatchSomeZzzz" />
+      <node id="#DameAngelaLansbury" label="#DameAngelaLansbury" />
+      <node id="#timetoswitch" label="#timetoswitch" />
+      <node id="#BEATLES" label="#BEATLES" />
+      <node id="#TheGoodWife" label="#TheGoodWife" />
+      <node id="#NoBudgetForOne" label="#NoBudgetForOne" />
+      <node id="#career" label="#career" />
+      <node id="#ADHDawareness" label="#ADHDawareness" />
+      <node id="#realparty" label="#realparty" />
+      <node id="#handicap" label="#handicap" />
+      <node id="#MiseryPolice" label="#MiseryPolice" />
+      <node id="#gofundme" label="#gofundme" />
+      <node id="#veganfood" label="#veganfood" />
+      <node id="#honeymooncountdown" label="#honeymooncountdown" />
+      <node id="#VeganVilla" label="#VeganVilla" />
+      <node id="#BETAwards2016" label="#BETAwards2016" />
+      <node id="#PrinceCelebration" label="#PrinceCelebration" />
+      <node id="#Traveling" label="#Traveling" />
+      <node id="#Cambodia" label="#Cambodia" />
+      <node id="#karmacleanse" label="#karmacleanse" />
+      <node id="#JBistheBOSS" label="#JBistheBOSS" />
+      <node id="#MondayMotivation" label="#MondayMotivation" />
+      <node id="#timechange" label="#timechange" />
+      <node id="#ADHD" label="#ADHD" />
+      <node id="#tropicalparadise" label="#tropicalparadise" />
+      <node id="#FNL" label="#FNL" />
+      <node id="#LGBT" label="#LGBT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OrlandoShooting" target="#LGBT" weight="824" />
+      <edge id="1" source="#getherealready" target="#tropicalparadise" weight="824" />
+      <edge id="2" source="#getherealready" target="#honeymooncountdown" weight="824" />
+      <edge id="3" source="#Gaslight" target="#DameAngelaLansbury" weight="824" />
+      <edge id="4" source="#Gaslight" target="#JBistheBOSS" weight="824" />
+      <edge id="5" source="#Berlin" target="#Chicago" weight="824" />
+      <edge id="6" source="#Berlin" target="#WestEndGirls" weight="824" />
+      <edge id="7" source="#VeganTravel" target="#VeganVilla" weight="824" />
+      <edge id="8" source="#VeganTravel" target="#Vegan" weight="824" />
+      <edge id="9" source="#VeganTravel" target="#Cambodia" weight="824" />
+      <edge id="10" source="#vegan" target="#Traveling" weight="824" />
+      <edge id="11" source="#vegan" target="#herbie" weight="824" />
+      <edge id="12" source="#SickAtWork" target="#MiseryPolice" weight="824" />
+      <edge id="13" source="#SickAtWork" target="#CatchSomeZzzz" weight="824" />
+      <edge id="14" source="#NoLaundry" target="#TheGoodWife" weight="824" />
+      <edge id="15" source="#detoxJanuary" target="#karmacleanse" weight="824" />
+      <edge id="16" source="#NationalDogDay" target="#NoBudgetForOne" weight="824" />
+      <edge id="17" source="#HongKong" target="#veganfood" weight="824" />
+      <edge id="18" source="#WestEndGirls" target="#Chicago" weight="824" />
+      <edge id="19" source="#Vegan" target="#VeganVilla" weight="824" />
+      <edge id="20" source="#Vegan" target="#Cambodia" weight="824" />
+      <edge id="21" source="#mondaymotivation" target="#timechange" weight="824" />
+      <edge id="22" source="#CatchSomeZzzz" target="#MiseryPolice" weight="824" />
+      <edge id="23" source="#DameAngelaLansbury" target="#JBistheBOSS" weight="824" />
+      <edge id="24" source="#timetoswitch" target="#career" weight="824" />
+      <edge id="25" source="#BEATLES" target="#MondayMotivation" weight="824" />
+      <edge id="26" source="#ADHDawareness" target="#ADHD" weight="824" />
+      <edge id="27" source="#realparty" target="#FNL" weight="824" />
+      <edge id="28" source="#handicap" target="#gofundme" weight="824" />
+      <edge id="29" source="#honeymooncountdown" target="#tropicalparadise" weight="824" />
+      <edge id="30" source="#VeganVilla" target="#Cambodia" weight="824" />
+      <edge id="31" source="#BETAwards2016" target="#PrinceCelebration" weight="1648" />
+    </edges>
+  </graph>
+</gexf>

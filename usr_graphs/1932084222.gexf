@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#freshCbusBeer" label="#freshCbusBeer" />
+      <node id="#lovelocal" label="#lovelocal" />
+      <node id="#SaveTheDate" label="#SaveTheDate" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Hofbrauhaus" label="#Hofbrauhaus" />
+      <node id="#toomanybreweriestotag" label="#toomanybreweriestotag" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#Grandview" label="#Grandview" />
+      <node id="#session71" label="#session71" />
+      <node id="#session" label="#session" />
+      <node id="#dinkupcolumbus" label="#dinkupcolumbus" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#Hullabaloo16" label="#Hullabaloo16" />
+      <node id="#ingrandview" label="#ingrandview" />
+      <node id="#cbusfoodscene" label="#cbusfoodscene" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#empty" label="#empty" />
+      <node id="#AxisMundi" label="#AxisMundi" />
+      <node id="#Summersession" label="#Summersession" />
+      <node id="#ForAllMankind" label="#ForAllMankind" />
+      <node id="#sideswipebrewing" label="#sideswipebrewing" />
+      <node id="#Hunnid" label="#Hunnid" />
+      <node id="#Recipeoftheday" label="#Recipeoftheday" />
+      <node id="#craft" label="#craft" />
+      <node id="#beercation" label="#beercation" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#Asheville" label="#Asheville" />
+      <node id="#staytuned" label="#staytuned" />
+      <node id="#DrinkLocal" label="#DrinkLocal" />
+      <node id="#ccbabeercation" label="#ccbabeercation" />
+      <node id="#homebrew" label="#homebrew" />
+      <node id="#freshclebeer" label="#freshclebeer" />
+      <node id="#recipe" label="#recipe" />
+      <node id="#OHbeer" label="#OHbeer" />
+      <node id="#highgravityhullabaloo" label="#highgravityhullabaloo" />
+      <node id="#columbusbeerweek" label="#columbusbeerweek" />
+      <node id="#beer" label="#beer" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#local" label="#local" />
+      <node id="#collab" label="#collab" />
+      <node id="#GDC" label="#GDC" />
+      <node id="#cbusbeerweek" label="#cbusbeerweek" />
+      <node id="#whalezbro" label="#whalezbro" />
+      <node id="#dank" label="#dank" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#nbc4i" label="#nbc4i" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Hullabaloo" label="#Hullabaloo" />
+      <node id="#drinkcraftbeer" label="#drinkcraftbeer" />
+      <node id="#freshcbusbeer" label="#freshcbusbeer" />
+      <node id="#KCBS" label="#KCBS" />
+      <node id="#illustration" label="#illustration" />
+      <node id="#GABF" label="#GABF" />
+      <node id="#drinkohio" label="#drinkohio" />
+      <node id="#meatlife" label="#meatlife" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#cbusaletrail" label="#cbusaletrail" />
+      <node id="#crop" label="#crop" />
+      <node id="#kindredales" label="#kindredales" />
+      <node id="#OHwx" label="#OHwx" />
+      <node id="#hullabaloo16" label="#hullabaloo16" />
+      <node id="#Summer" label="#Summer" />
+      <node id="#hops" label="#hops" />
+      <node id="#votelocal" label="#votelocal" />
+      <node id="#ohio" label="#ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#freshCbusBeer" target="#freshclebeer" weight="1340" />
+      <edge id="1" source="#freshCbusBeer" target="#collab" weight="1340" />
+      <edge id="2" source="#freshCbusBeer" target="#session71" weight="1340" />
+      <edge id="3" source="#lovelocal" target="#craftbeer" weight="1340" />
+      <edge id="4" source="#SaveTheDate" target="#lifeincbus" weight="1340" />
+      <edge id="5" source="#SaveTheDate" target="#sideswipebrewing" weight="1340" />
+      <edge id="6" source="#cbus" target="#Summersession" weight="1340" />
+      <edge id="7" source="#cbus" target="#kindredales" weight="1340" />
+      <edge id="8" source="#cbus" target="#craftbeer" weight="1340" />
+      <edge id="9" source="#Hofbrauhaus" target="#Grandview" weight="1340" />
+      <edge id="10" source="#Hofbrauhaus" target="#Ohio" weight="1340" />
+      <edge id="11" source="#toomanybreweriestotag" target="#Hullabaloo16" weight="1340" />
+      <edge id="12" source="#toomanybreweriestotag" target="#DrinkLocal" weight="1340" />
+      <edge id="13" source="#asseenincolumbus" target="#drinkupcolumbus" weight="1340" />
+      <edge id="14" source="#asseenincolumbus" target="#drinkohio" weight="1340" />
+      <edge id="15" source="#asseenincolumbus" target="#craftbeer" weight="2680" />
+      <edge id="16" source="#Grandview" target="#Ohio" weight="1340" />
+      <edge id="17" source="#session71" target="#freshclebeer" weight="1340" />
+      <edge id="18" source="#session71" target="#collab" weight="1340" />
+      <edge id="19" source="#session" target="#beer" weight="1340" />
+      <edge id="20" source="#session" target="#Summer" weight="1340" />
+      <edge id="21" source="#dinkupcolumbus" target="#craft" weight="1340" />
+      <edge id="22" source="#dinkupcolumbus" target="#ingrandview" weight="1340" />
+      <edge id="23" source="#ICYMI" target="#hops" weight="1340" />
+      <edge id="24" source="#ICYMI" target="#crop" weight="1340" />
+      <edge id="25" source="#ICYMI" target="#Ohio" weight="1340" />
+      <edge id="26" source="#Hullabaloo16" target="#DrinkLocal" weight="1340" />
+      <edge id="27" source="#Hullabaloo16" target="#GDC" weight="2680" />
+      <edge id="28" source="#Hullabaloo16" target="#Hunnid" weight="1340" />
+      <edge id="29" source="#Hullabaloo16" target="#AxisMundi" weight="1340" />
+      <edge id="30" source="#ingrandview" target="#craft" weight="1340" />
+      <edge id="31" source="#cbusfoodscene" target="#ForAllMankind" weight="1340" />
+      <edge id="32" source="#cbusfoodscene" target="#votelocal" weight="1340" />
+      <edge id="33" source="#Ohio" target="#illustration" weight="1340" />
+      <edge id="34" source="#Ohio" target="#hops" weight="1340" />
+      <edge id="35" source="#Ohio" target="#CraftBeer" weight="1340" />
+      <edge id="36" source="#Ohio" target="#crop" weight="1340" />
+      <edge id="37" source="#Ohio" target="#craftbeer" weight="2680" />
+      <edge id="38" source="#Ohio" target="#Columbus" weight="2680" />
+      <edge id="39" source="#empty" target="#highgravityhullabaloo" weight="1340" />
+      <edge id="40" source="#empty" target="#dank" weight="1340" />
+      <edge id="41" source="#empty" target="#beer" weight="1340" />
+      <edge id="42" source="#AxisMundi" target="#Hunnid" weight="1340" />
+      <edge id="43" source="#Summersession" target="#kindredales" weight="1340" />
+      <edge id="44" source="#Summersession" target="#craftbeer" weight="1340" />
+      <edge id="45" source="#ForAllMankind" target="#votelocal" weight="1340" />
+      <edge id="46" source="#sideswipebrewing" target="#lifeincbus" weight="1340" />
+      <edge id="47" source="#Recipeoftheday" target="#meatlife" weight="1340" />
+      <edge id="48" source="#Recipeoftheday" target="#recipe" weight="1340" />
+      <edge id="49" source="#beercation" target="#Asheville" weight="1340" />
+      <edge id="50" source="#beercation" target="#craftbeer" weight="1340" />
+      <edge id="51" source="#Asheville" target="#craftbeer" weight="1340" />
+      <edge id="52" source="#staytuned" target="#columbusbeerweek" weight="1340" />
+      <edge id="53" source="#staytuned" target="#craftbeer" weight="1340" />
+      <edge id="54" source="#ccbabeercation" target="#GABF" weight="1340" />
+      <edge id="55" source="#homebrew" target="#beer" weight="1340" />
+      <edge id="56" source="#freshclebeer" target="#collab" weight="1340" />
+      <edge id="57" source="#freshclebeer" target="#freshcbusbeer" weight="1340" />
+      <edge id="58" source="#recipe" target="#meatlife" weight="1340" />
+      <edge id="59" source="#OHbeer" target="#Columbus" weight="1340" />
+      <edge id="60" source="#highgravityhullabaloo" target="#dank" weight="1340" />
+      <edge id="61" source="#highgravityhullabaloo" target="#beer" weight="1340" />
+      <edge id="62" source="#columbusbeerweek" target="#craftbeer" weight="1340" />
+      <edge id="63" source="#beer" target="#dank" weight="1340" />
+      <edge id="64" source="#beer" target="#Summer" weight="1340" />
+      <edge id="65" source="#drinkupcolumbus" target="#cbusaletrail" weight="2680" />
+      <edge id="66" source="#drinkupcolumbus" target="#craftbeer" weight="1340" />
+      <edge id="67" source="#drinkupcolumbus" target="#lifeincbus" weight="1340" />
+      <edge id="68" source="#local" target="#craftbeer" weight="1340" />
+      <edge id="69" source="#cbusbeerweek" target="#cbusaletrail" weight="1340" />
+      <edge id="70" source="#whalezbro" target="#hullabaloo16" weight="1340" />
+      <edge id="71" source="#nbc4i" target="#OHwx" weight="1340" />
+      <edge id="72" source="#Columbus" target="#illustration" weight="1340" />
+      <edge id="73" source="#Columbus" target="#craftbeer" weight="1340" />
+      <edge id="74" source="#Hullabaloo" target="#KCBS" weight="1340" />
+      <edge id="75" source="#drinkcraftbeer" target="#craftbeer" weight="1340" />
+      <edge id="76" source="#drinkohio" target="#craftbeer" weight="1340" />
+      <edge id="77" source="#craftbeer" target="#hullabaloo16" weight="1340" />
+      <edge id="78" source="#craftbeer" target="#kindredales" weight="1340" />
+      <edge id="79" source="#craftbeer" target="#ohio" weight="2680" />
+      <edge id="80" source="#crop" target="#hops" weight="1340" />
+    </edges>
+  </graph>
+</gexf>

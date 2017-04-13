@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Android" label="#Android" />
+      <node id="#THELITERACYPROJECT" label="#THELITERACYPROJECT" />
+      <node id="#art" label="#art" />
+      <node id="#GameofThrones" label="#GameofThrones" />
+      <node id="#lovewins" label="#lovewins" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#books" label="#books" />
+      <node id="#TGIT" label="#TGIT" />
+      <node id="#Shireen" label="#Shireen" />
+      <node id="#loveislove" label="#loveislove" />
+      <node id="#InstagramStories" label="#InstagramStories" />
+      <node id="#nyc" label="#nyc" />
+      <node id="#marriageequality" label="#marriageequality" />
+      <node id="#fomo" label="#fomo" />
+      <node id="#columbusliteracy" label="#columbusliteracy" />
+      <node id="#BestLocalBlogger" label="#BestLocalBlogger" />
+      <node id="#travel" label="#travel" />
+      <node id="#CbusBigNightIn" label="#CbusBigNightIn" />
+      <node id="#wrong" label="#wrong" />
+      <node id="#hackedtopieces" label="#hackedtopieces" />
+      <node id="#eatingbooks" label="#eatingbooks" />
+      <node id="#kurtvonnegut" label="#kurtvonnegut" />
+      <node id="#fashion" label="#fashion" />
+      <node id="#beta" label="#beta" />
+      <node id="#amazing" label="#amazing" />
+      <node id="#ColumBEST" label="#ColumBEST" />
+      <node id="#Shoply" label="#Shoply" />
+      <node id="#food" label="#food" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#streetfood" label="#streetfood" />
+      <node id="#Giveaway" label="#Giveaway" />
+      <node id="#literature" label="#literature" />
+      <node id="#christmas" label="#christmas" />
+      <node id="#instagood" label="#instagood" />
+      <node id="#slaughterhousefive" label="#slaughterhousefive" />
+      <node id="#needtimemachine" label="#needtimemachine" />
+      <node id="#tea" label="#tea" />
+      <node id="#work" label="#work" />
+      <node id="#korean" label="#korean" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Android" target="#beta" weight="334" />
+      <edge id="1" source="#THELITERACYPROJECT" target="#columbusliteracy" weight="334" />
+      <edge id="2" source="#art" target="#travel" weight="334" />
+      <edge id="3" source="#art" target="#instagood" weight="334" />
+      <edge id="4" source="#art" target="#nyc" weight="334" />
+      <edge id="5" source="#GameofThrones" target="#Shireen" weight="334" />
+      <edge id="6" source="#lovewins" target="#loveislove" weight="334" />
+      <edge id="7" source="#lovewins" target="#marriageequality" weight="334" />
+      <edge id="8" source="#Cbus" target="#LifeInCbus" weight="334" />
+      <edge id="9" source="#Cbus" target="#Columbus" weight="334" />
+      <edge id="10" source="#books" target="#literature" weight="334" />
+      <edge id="11" source="#books" target="#christmas" weight="334" />
+      <edge id="12" source="#TGIT" target="#CbusBigNightIn" weight="334" />
+      <edge id="13" source="#loveislove" target="#marriageequality" weight="334" />
+      <edge id="14" source="#InstagramStories" target="#fomo" weight="334" />
+      <edge id="15" source="#nyc" target="#travel" weight="334" />
+      <edge id="16" source="#nyc" target="#instagood" weight="334" />
+      <edge id="17" source="#BestLocalBlogger" target="#ColumBEST" weight="334" />
+      <edge id="18" source="#travel" target="#instagood" weight="334" />
+      <edge id="19" source="#wrong" target="#hackedtopieces" weight="334" />
+      <edge id="20" source="#wrong" target="#needtimemachine" weight="334" />
+      <edge id="21" source="#hackedtopieces" target="#needtimemachine" weight="334" />
+      <edge id="22" source="#eatingbooks" target="#fashion" weight="334" />
+      <edge id="23" source="#eatingbooks" target="#slaughterhousefive" weight="334" />
+      <edge id="24" source="#eatingbooks" target="#kurtvonnegut" weight="334" />
+      <edge id="25" source="#kurtvonnegut" target="#fashion" weight="334" />
+      <edge id="26" source="#kurtvonnegut" target="#slaughterhousefive" weight="334" />
+      <edge id="27" source="#fashion" target="#slaughterhousefive" weight="334" />
+      <edge id="28" source="#amazing" target="#korean" weight="334" />
+      <edge id="29" source="#amazing" target="#food" weight="334" />
+      <edge id="30" source="#amazing" target="#streetfood" weight="334" />
+      <edge id="31" source="#Shoply" target="#Giveaway" weight="334" />
+      <edge id="32" source="#food" target="#korean" weight="334" />
+      <edge id="33" source="#food" target="#streetfood" weight="334" />
+      <edge id="34" source="#Columbus" target="#LifeInCbus" weight="334" />
+      <edge id="35" source="#streetfood" target="#korean" weight="334" />
+      <edge id="36" source="#literature" target="#christmas" weight="334" />
+      <edge id="37" source="#instagood" target="#work" weight="334" />
+      <edge id="38" source="#instagood" target="#tea" weight="334" />
+      <edge id="39" source="#tea" target="#work" weight="334" />
+    </edges>
+  </graph>
+</gexf>

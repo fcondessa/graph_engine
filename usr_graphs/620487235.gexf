@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#HaveADay" label="#HaveADay" />
+      <node id="#WeShove" label="#WeShove" />
+      <node id="#ADNenPanamericanos" label="#ADNenPanamericanos" />
+      <node id="#Lincecum" label="#Lincecum" />
+      <node id="#DubNation" label="#DubNation" />
+      <node id="#SCnotTopTen" label="#SCnotTopTen" />
+      <node id="#JuevesYTeReto" label="#JuevesYTeReto" />
+      <node id="#SomosLY" label="#SomosLY" />
+      <node id="#MothersDay" label="#MothersDay" />
+      <node id="#Priceless" label="#Priceless" />
+      <node id="#NuncaTeRindas" label="#NuncaTeRindas" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#cañeros" label="#cañeros" />
+      <node id="#RIPYogiBerra" label="#RIPYogiBerra" />
+      <node id="#GOATCatcher" label="#GOATCatcher" />
+      <node id="#UnSoloEquipo" label="#UnSoloEquipo" />
+      <node id="#Toronto" label="#Toronto" />
+      <node id="#Russo" label="#Russo" />
+      <node id="#Piquete" label="#Piquete" />
+      <node id="#viveelmomento" label="#viveelmomento" />
+      <node id="#let" label="#let" />
+      <node id="#Yankees" label="#Yankees" />
+      <node id="#Ouch" label="#Ouch" />
+      <node id="#todosSomosMexico" label="#todosSomosMexico" />
+      <node id="#ArizonaLeague" label="#ArizonaLeague" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#blink182" label="#blink182" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#milb" label="#milb" />
+      <node id="#paisanos" label="#paisanos" />
+      <node id="#Diaz" label="#Diaz" />
+      <node id="#temp20142015" label="#temp20142015" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#HaveADay" target="#WeShove" weight="2349" />
+      <edge id="1" source="#ADNenPanamericanos" target="#Toronto" weight="2349" />
+      <edge id="2" source="#Lincecum" target="#SFGiants" weight="2349" />
+      <edge id="3" source="#DubNation" target="#SFGiants" weight="2349" />
+      <edge id="4" source="#SCnotTopTen" target="#ArizonaLeague" weight="2349" />
+      <edge id="5" source="#SCnotTopTen" target="#SFGiants" weight="2349" />
+      <edge id="6" source="#SCnotTopTen" target="#Ouch" weight="2349" />
+      <edge id="7" source="#JuevesYTeReto" target="#viveelmomento" weight="2349" />
+      <edge id="8" source="#SomosLY" target="#UnSoloEquipo" weight="2349" />
+      <edge id="9" source="#MothersDay" target="#milb" weight="2349" />
+      <edge id="10" source="#Priceless" target="#NuncaTeRindas" weight="2349" />
+      <edge id="11" source="#tbt" target="#blink182" weight="2349" />
+      <edge id="12" source="#cañeros" target="#paisanos" weight="2349" />
+      <edge id="13" source="#cañeros" target="#temp20142015" weight="2349" />
+      <edge id="14" source="#RIPYogiBerra" target="#GOATCatcher" weight="2349" />
+      <edge id="15" source="#Russo" target="#Piquete" weight="2349" />
+      <edge id="16" source="#Russo" target="#Diaz" weight="2349" />
+      <edge id="17" source="#Piquete" target="#Diaz" weight="2349" />
+      <edge id="18" source="#let" target="#todosSomosMexico" weight="2349" />
+      <edge id="19" source="#Yankees" target="#MLB" weight="2349" />
+      <edge id="20" source="#Ouch" target="#ArizonaLeague" weight="2349" />
+      <edge id="21" source="#Ouch" target="#SFGiants" weight="2349" />
+      <edge id="22" source="#ArizonaLeague" target="#SFGiants" weight="2349" />
+      <edge id="23" source="#paisanos" target="#temp20142015" weight="2349" />
+    </edges>
+  </graph>
+</gexf>

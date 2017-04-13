@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#fingerscrossed" label="#fingerscrossed" />
+      <node id="#footballfacts" label="#footballfacts" />
+      <node id="#suspense" label="#suspense" />
+      <node id="#bestwishes" label="#bestwishes" />
+      <node id="#TCM" label="#TCM" />
+      <node id="#facts" label="#facts" />
+      <node id="#morehashtags" label="#morehashtags" />
+      <node id="#silent" label="#silent" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#fingerscrossed" target="#morehashtags" weight="3214" />
+      <edge id="1" source="#fingerscrossed" target="#bestwishes" weight="3214" />
+      <edge id="2" source="#footballfacts" target="#facts" weight="3214" />
+      <edge id="3" source="#suspense" target="#TCM" weight="3214" />
+      <edge id="4" source="#bestwishes" target="#morehashtags" weight="3214" />
+      <edge id="5" source="#TCM" target="#silent" weight="3214" />
+    </edges>
+  </graph>
+</gexf>

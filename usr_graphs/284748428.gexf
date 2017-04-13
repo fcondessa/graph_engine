@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#startupgrind" label="#startupgrind" />
+      <node id="#CarolinaPanthers" label="#CarolinaPanthers" />
+      <node id="#DenverBroncos" label="#DenverBroncos" />
+      <node id="#teeth" label="#teeth" />
+      <node id="#culture" label="#culture" />
+      <node id="#startup" label="#startup" />
+      <node id="#SuperBowl50" label="#SuperBowl50" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#startupgrind" target="#culture" weight="38" />
+      <edge id="1" source="#CarolinaPanthers" target="#SuperBowl50" weight="38" />
+      <edge id="2" source="#CarolinaPanthers" target="#DenverBroncos" weight="38" />
+      <edge id="3" source="#DenverBroncos" target="#SuperBowl50" weight="38" />
+      <edge id="4" source="#teeth" target="#startup" weight="38" />
+    </edges>
+  </graph>
+</gexf>

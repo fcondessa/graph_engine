@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#dentist" label="#dentist" />
+      <node id="#notifyme" label="#notifyme" />
+      <node id="#virus" label="#virus" />
+      <node id="#4thofJuly" label="#4thofJuly" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#NorthBankPark" label="#NorthBankPark" />
+      <node id="#edchat" label="#edchat" />
+      <node id="#OilUp" label="#OilUp" />
+      <node id="#comicbooks" label="#comicbooks" />
+      <node id="#DelawareO" label="#DelawareO" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#wife4life" label="#wife4life" />
+      <node id="#mastermind" label="#mastermind" />
+      <node id="#Drones" label="#Drones" />
+      <node id="#cosign" label="#cosign" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#ThinkSafe" label="#ThinkSafe" />
+      <node id="#DelOh" label="#DelOh" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#lax" label="#lax" />
+      <node id="#monarchidol2014" label="#monarchidol2014" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#realtor" label="#realtor" />
+      <node id="#Hoopla" label="#Hoopla" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#states" label="#states" />
+      <node id="#crushthecannons" label="#crushthecannons" />
+      <node id="#LCC" label="#LCC" />
+      <node id="#OhWx" label="#OhWx" />
+      <node id="#DelawareOH" label="#DelawareOH" />
+      <node id="#FF" label="#FF" />
+      <node id="#legal" label="#legal" />
+      <node id="#NatlPrep" label="#NatlPrep" />
+      <node id="#failuretolaunch" label="#failuretolaunch" />
+      <node id="#oilup" label="#oilup" />
+      <node id="#mikeyy" label="#mikeyy" />
+      <node id="#DMSinDC" label="#DMSinDC" />
+      <node id="#deloh" label="#deloh" />
+      <node id="#oh" label="#oh" />
+      <node id="#wine" label="#wine" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#AgNews" label="#AgNews" />
+      <node id="#ClipTheHawks" label="#ClipTheHawks" />
+      <node id="#PepsiRefresh" label="#PepsiRefresh" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#12westyummy" label="#12westyummy" />
+      <node id="#growthegame" label="#growthegame" />
+      <node id="#goodfriends" label="#goodfriends" />
+      <node id="#worm" label="#worm" />
+      <node id="#lccc" label="#lccc" />
+      <node id="#goodtimes" label="#goodtimes" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#edtech" label="#edtech" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#Einstein" label="#Einstein" />
+      <node id="#marysville" label="#marysville" />
+      <node id="#Spartans" label="#Spartans" />
+      <node id="#ohio" label="#ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#dentist" target="#states" weight="639" />
+      <edge id="1" source="#notifyme" target="#virus" weight="639" />
+      <edge id="2" source="#notifyme" target="#mikeyy" weight="639" />
+      <edge id="3" source="#notifyme" target="#worm" weight="639" />
+      <edge id="4" source="#virus" target="#mikeyy" weight="639" />
+      <edge id="5" source="#virus" target="#worm" weight="639" />
+      <edge id="6" source="#4thofJuly" target="#4thofJuly" weight="1278" />
+      <edge id="7" source="#realestate" target="#realtor" weight="639" />
+      <edge id="8" source="#realestate" target="#DelawareOH" weight="639" />
+      <edge id="9" source="#NorthBankPark" target="#Hoopla" weight="639" />
+      <edge id="10" source="#edchat" target="#edtech" weight="639" />
+      <edge id="11" source="#OilUp" target="#ClipTheHawks" weight="639" />
+      <edge id="12" source="#OilUp" target="#crushthecannons" weight="639" />
+      <edge id="13" source="#comicbooks" target="#FF" weight="639" />
+      <edge id="14" source="#comicbooks" target="#oh" weight="639" />
+      <edge id="15" source="#comicbooks" target="#columbus" weight="639" />
+      <edge id="16" source="#comicbooks" target="#cbus" weight="639" />
+      <edge id="17" source="#comicbooks" target="#ohio" weight="639" />
+      <edge id="18" source="#DelawareO" target="#DelOh" weight="639" />
+      <edge id="19" source="#Ohio" target="#TGIF" weight="639" />
+      <edge id="20" source="#Ohio" target="#wine" weight="639" />
+      <edge id="21" source="#wife4life" target="#awesome" weight="639" />
+      <edge id="22" source="#mastermind" target="#cosign" weight="639" />
+      <edge id="23" source="#Drones" target="#legal" weight="639" />
+      <edge id="24" source="#Drones" target="#AgNews" weight="639" />
+      <edge id="25" source="#OhioState" target="#Buckeyes" weight="639" />
+      <edge id="26" source="#OhioState" target="#Spartans" weight="639" />
+      <edge id="27" source="#OhioState" target="#GoBucks" weight="639" />
+      <edge id="28" source="#ThinkSafe" target="#NatlPrep" weight="1278" />
+      <edge id="29" source="#DelOh" target="#OhWx" weight="639" />
+      <edge id="30" source="#TGIF" target="#wine" weight="639" />
+      <edge id="31" source="#lax" target="#growthegame" weight="639" />
+      <edge id="32" source="#monarchidol2014" target="#marysville" weight="639" />
+      <edge id="33" source="#Buckeyes" target="#Spartans" weight="639" />
+      <edge id="34" source="#Buckeyes" target="#GoBucks" weight="639" />
+      <edge id="35" source="#realtor" target="#DelawareOH" weight="639" />
+      <edge id="36" source="#columbus" target="#FF" weight="639" />
+      <edge id="37" source="#columbus" target="#oh" weight="639" />
+      <edge id="38" source="#columbus" target="#cbus" weight="639" />
+      <edge id="39" source="#columbus" target="#ohio" weight="639" />
+      <edge id="40" source="#LCC" target="#PepsiRefresh" weight="639" />
+      <edge id="41" source="#FF" target="#oh" weight="639" />
+      <edge id="42" source="#FF" target="#cbus" weight="639" />
+      <edge id="43" source="#FF" target="#ohio" weight="639" />
+      <edge id="44" source="#legal" target="#AgNews" weight="639" />
+      <edge id="45" source="#failuretolaunch" target="#oilup" weight="639" />
+      <edge id="46" source="#mikeyy" target="#worm" weight="639" />
+      <edge id="47" source="#DMSinDC" target="#Einstein" weight="639" />
+      <edge id="48" source="#deloh" target="#lccc" weight="639" />
+      <edge id="49" source="#oh" target="#cbus" weight="639" />
+      <edge id="50" source="#oh" target="#ohio" weight="639" />
+      <edge id="51" source="#expcols" target="#cbus" weight="639" />
+      <edge id="52" source="#GoBucks" target="#Spartans" weight="639" />
+      <edge id="53" source="#12westyummy" target="#goodfriends" weight="639" />
+      <edge id="54" source="#12westyummy" target="#goodtimes" weight="639" />
+      <edge id="55" source="#goodfriends" target="#goodtimes" weight="639" />
+      <edge id="56" source="#cbus" target="#ohio" weight="639" />
+    </edges>
+  </graph>
+</gexf>

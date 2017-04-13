@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#CbusTech" label="#CbusTech" />
+      <node id="#sysadm" label="#sysadm" />
+      <node id="#DevOps" label="#DevOps" />
+      <node id="#CMHSummit" label="#CMHSummit" />
+      <node id="#WorkPerks" label="#WorkPerks" />
+      <node id="#linux" label="#linux" />
+      <node id="#chefconf" label="#chefconf" />
+      <node id="#BHUSA" label="#BHUSA" />
+      <node id="#socent" label="#socent" />
+      <node id="#BSidesCMH" label="#BSidesCMH" />
+      <node id="#management" label="#management" />
+      <node id="#cleveland" label="#cleveland" />
+      <node id="#CMHStartupWeek" label="#CMHStartupWeek" />
+      <node id="#devopsday" label="#devopsday" />
+      <node id="#wevdev" label="#wevdev" />
+      <node id="#devops" label="#devops" />
+      <node id="#epa" label="#epa" />
+      <node id="#Sysadmin" label="#Sysadmin" />
+      <node id="#renewal" label="#renewal" />
+      <node id="#Cbustech" label="#Cbustech" />
+      <node id="#infosec" label="#infosec" />
+      <node id="#BestPlaceToWorkInColumbus" label="#BestPlaceToWorkInColumbus" />
+      <node id="#startups" label="#startups" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Ruby" label="#Ruby" />
+      <node id="#innovative" label="#innovative" />
+      <node id="#colug" label="#colug" />
+      <node id="#techlife" label="#techlife" />
+      <node id="#pineapples" label="#pineapples" />
+      <node id="#opensource" label="#opensource" />
+      <node id="#badbusiness" label="#badbusiness" />
+      <node id="#techtomorrow" label="#techtomorrow" />
+      <node id="#devopsdc" label="#devopsdc" />
+      <node id="#ohiolinux" label="#ohiolinux" />
+      <node id="#softwarecollections" label="#softwarecollections" />
+      <node id="#foss" label="#foss" />
+      <node id="#Hadoop" label="#Hadoop" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#lisa13" label="#lisa13" />
+      <node id="#cmh" label="#cmh" />
+      <node id="#lisa14" label="#lisa14" />
+      <node id="#lisa15" label="#lisa15" />
+      <node id="#ThosePantsThough" label="#ThosePantsThough" />
+      <node id="#scaling" label="#scaling" />
+      <node id="#epicfail" label="#epicfail" />
+      <node id="#sysadmin" label="#sysadmin" />
+      <node id="#fast50" label="#fast50" />
+      <node id="#cbustech" label="#cbustech" />
+      <node id="#manta" label="#manta" />
+      <node id="#stackexchange" label="#stackexchange" />
+      <node id="#stackoverflow" label="#stackoverflow" />
+      <node id="#velocityconf" label="#velocityconf" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#ITMartini" label="#ITMartini" />
+      <node id="#notyouraveragehouseplant" label="#notyouraveragehouseplant" />
+      <node id="#dba" label="#dba" />
+      <node id="#covermymeds" label="#covermymeds" />
+      <node id="#FirstTechJob" label="#FirstTechJob" />
+      <node id="#OLOA2016" label="#OLOA2016" />
+      <node id="#hustling" label="#hustling" />
+      <node id="#StartupWeekend" label="#StartupWeekend" />
+      <node id="#culture" label="#culture" />
+      <node id="#betrayal" label="#betrayal" />
+      <node id="#sre" label="#sre" />
+      <node id="#developers" label="#developers" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#LifeinCbus" label="#LifeinCbus" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#devopsdaysohio" label="#devopsdaysohio" />
+      <node id="#BPTW" label="#BPTW" />
+      <node id="#emv" label="#emv" />
+      <node id="#rackspace" label="#rackspace" />
+      <node id="#cheffriends" label="#cheffriends" />
+      <node id="#LISA14" label="#LISA14" />
+      <node id="#fastswitch" label="#fastswitch" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#devopsdays" label="#devopsdays" />
+      <node id="#nagios" label="#nagios" />
+      <node id="#webops" label="#webops" />
+      <node id="#makingawesome" label="#makingawesome" />
+      <node id="#health" label="#health" />
+      <node id="#goldenpony" label="#goldenpony" />
+      <node id="#sysadmins" label="#sysadmins" />
+      <node id="#covermyperks" label="#covermyperks" />
+      <node id="#eship" label="#eship" />
+      <node id="#sriracha" label="#sriracha" />
+      <node id="#tech" label="#tech" />
+      <node id="#redteam" label="#redteam" />
+      <node id="#obm" label="#obm" />
+      <node id="#buildingtangiblethingsishard" label="#buildingtangiblethingsishard" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#path16" label="#path16" />
+      <node id="#kalx16" label="#kalx16" />
+      <node id="#serverfault" label="#serverfault" />
+      <node id="#creative" label="#creative" />
+      <node id="#redhat" label="#redhat" />
+      <node id="#agile" label="#agile" />
+      <node id="#derbycon" label="#derbycon" />
+      <node id="#defcon" label="#defcon" />
+      <node id="#2checkout" label="#2checkout" />
+      <node id="#Puppet" label="#Puppet" />
+      <node id="#SysAdminDay" label="#SysAdminDay" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#cmhsecsummit" label="#cmhsecsummit" />
+      <node id="#lopsa" label="#lopsa" />
+      <node id="#CloudDevConf" label="#CloudDevConf" />
+      <node id="#sequel" label="#sequel" />
+      <node id="#atlanta" label="#atlanta" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#sysadminday" label="#sysadminday" />
+      <node id="#happiness" label="#happiness" />
+      <node id="#elixir" label="#elixir" />
+      <node id="#LOPSA" label="#LOPSA" />
+      <node id="#lpi" label="#lpi" />
+      <node id="#startup" label="#startup" />
+      <node id="#oreilly" label="#oreilly" />
+      <node id="#ruby" label="#ruby" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#CoverMyYaks" label="#CoverMyYaks" />
+      <node id="#IamtheCavalry" label="#IamtheCavalry" />
+      <node id="#software" label="#software" />
+      <node id="#scl" label="#scl" />
+      <node id="#UberKITTENS" label="#UberKITTENS" />
+      <node id="#ohiolinix" label="#ohiolinix" />
+      <node id="#security" label="#security" />
+      <node id="#mysql" label="#mysql" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#growth" label="#growth" />
+      <node id="#clouddevconf" label="#clouddevconf" />
+      <node id="#CoverMyQuest" label="#CoverMyQuest" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#CbusTech" target="#startup" weight="743" />
+      <edge id="1" source="#CbusTech" target="#tech" weight="743" />
+      <edge id="2" source="#CbusTech" target="#creative" weight="743" />
+      <edge id="3" source="#sysadm" target="#lisa13" weight="743" />
+      <edge id="4" source="#sysadm" target="#lopsa" weight="2229" />
+      <edge id="5" source="#sysadm" target="#sysadminday" weight="743" />
+      <edge id="6" source="#DevOps" target="#sysadmin" weight="743" />
+      <edge id="7" source="#DevOps" target="#scaling" weight="743" />
+      <edge id="8" source="#DevOps" target="#devopsdaysohio" weight="743" />
+      <edge id="9" source="#DevOps" target="#tech" weight="743" />
+      <edge id="10" source="#DevOps" target="#lisa15" weight="743" />
+      <edge id="11" source="#CMHSummit" target="#infosec" weight="743" />
+      <edge id="12" source="#WorkPerks" target="#CoverMyYaks" weight="743" />
+      <edge id="13" source="#WorkPerks" target="#BestPlaceToWorkInColumbus" weight="743" />
+      <edge id="14" source="#linux" target="#sysadmin" weight="1486" />
+      <edge id="15" source="#linux" target="#ohiolinux" weight="2229" />
+      <edge id="16" source="#linux" target="#foss" weight="743" />
+      <edge id="17" source="#linux" target="#redhat" weight="743" />
+      <edge id="18" source="#linux" target="#ohiolinix" weight="743" />
+      <edge id="19" source="#linux" target="#devops" weight="743" />
+      <edge id="20" source="#linux" target="#opensource" weight="2229" />
+      <edge id="21" source="#linux" target="#cbustech" weight="1486" />
+      <edge id="22" source="#linux" target="#colug" weight="743" />
+      <edge id="23" source="#chefconf" target="#cheffriends" weight="743" />
+      <edge id="24" source="#BHUSA" target="#infosec" weight="743" />
+      <edge id="25" source="#BHUSA" target="#defcon" weight="1486" />
+      <edge id="26" source="#socent" target="#lifeincbus" weight="743" />
+      <edge id="27" source="#socent" target="#eship" weight="743" />
+      <edge id="28" source="#socent" target="#cbus" weight="743" />
+      <edge id="29" source="#socent" target="#Columbus" weight="743" />
+      <edge id="30" source="#socent" target="#Ohio" weight="743" />
+      <edge id="31" source="#BSidesCMH" target="#infosec" weight="743" />
+      <edge id="32" source="#management" target="#kalx16" weight="743" />
+      <edge id="33" source="#management" target="#tech" weight="743" />
+      <edge id="34" source="#management" target="#devops" weight="743" />
+      <edge id="35" source="#management" target="#sre" weight="743" />
+      <edge id="36" source="#management" target="#lisa15" weight="743" />
+      <edge id="37" source="#cleveland" target="#security" weight="743" />
+      <edge id="38" source="#cleveland" target="#cmh" weight="743" />
+      <edge id="39" source="#CMHStartupWeek" target="#Cbustech" weight="743" />
+      <edge id="40" source="#CMHStartupWeek" target="#cbustech" weight="2229" />
+      <edge id="41" source="#CMHStartupWeek" target="#entrepreneur" weight="743" />
+      <edge id="42" source="#CMHStartupWeek" target="#startups" weight="743" />
+      <edge id="43" source="#CMHStartupWeek" target="#ohio" weight="743" />
+      <edge id="44" source="#devopsday" target="#sysadmin" weight="743" />
+      <edge id="45" source="#devopsday" target="#devops" weight="743" />
+      <edge id="46" source="#devopsday" target="#tech" weight="743" />
+      <edge id="47" source="#wevdev" target="#sysadmin" weight="743" />
+      <edge id="48" source="#wevdev" target="#devops" weight="743" />
+      <edge id="49" source="#wevdev" target="#tech" weight="743" />
+      <edge id="50" source="#wevdev" target="#webops" weight="743" />
+      <edge id="51" source="#devops" target="#kalx16" weight="743" />
+      <edge id="52" source="#devops" target="#redhat" weight="743" />
+      <edge id="53" source="#devops" target="#opensource" weight="2972" />
+      <edge id="54" source="#devops" target="#clouddevconf" weight="743" />
+      <edge id="55" source="#devops" target="#sre" weight="743" />
+      <edge id="56" source="#devops" target="#developers" weight="743" />
+      <edge id="57" source="#devops" target="#SysAdminDay" weight="743" />
+      <edge id="58" source="#devops" target="#devopsdc" weight="1486" />
+      <edge id="59" source="#devops" target="#devopsdaysohio" weight="2229" />
+      <edge id="60" source="#devops" target="#ohiolinux" weight="5201" />
+      <edge id="61" source="#devops" target="#foss" weight="743" />
+      <edge id="62" source="#devops" target="#Hadoop" weight="743" />
+      <edge id="63" source="#devops" target="#infosec" weight="1486" />
+      <edge id="64" source="#devops" target="#lopsa" weight="5944" />
+      <edge id="65" source="#devops" target="#CloudDevConf" weight="743" />
+      <edge id="66" source="#devops" target="#lisa15" weight="3715" />
+      <edge id="67" source="#devops" target="#innovation" weight="1486" />
+      <edge id="68" source="#devops" target="#devopsdays" weight="8173" />
+      <edge id="69" source="#devops" target="#sysadminday" weight="2229" />
+      <edge id="70" source="#devops" target="#nagios" weight="743" />
+      <edge id="71" source="#devops" target="#sysadmin" weight="31206" />
+      <edge id="72" source="#devops" target="#webops" weight="1486" />
+      <edge id="73" source="#devops" target="#cbustech" weight="7430" />
+      <edge id="74" source="#devops" target="#ruby" weight="743" />
+      <edge id="75" source="#devops" target="#velocityconf" weight="743" />
+      <edge id="76" source="#devops" target="#dba" weight="1486" />
+      <edge id="77" source="#devops" target="#software" weight="743" />
+      <edge id="78" source="#devops" target="#tech" weight="6687" />
+      <edge id="79" source="#devops" target="#agile" weight="743" />
+      <edge id="80" source="#devops" target="#mysql" weight="743" />
+      <edge id="81" source="#devops" target="#colug" weight="743" />
+      <edge id="82" source="#devops" target="#ohio" weight="743" />
+      <edge id="83" source="#epa" target="#cbustech" weight="743" />
+      <edge id="84" source="#Sysadmin" target="#fastswitch" weight="743" />
+      <edge id="85" source="#Sysadmin" target="#lopsa" weight="743" />
+      <edge id="86" source="#renewal" target="#sysadmin" weight="743" />
+      <edge id="87" source="#renewal" target="#lopsa" weight="743" />
+      <edge id="88" source="#renewal" target="#sysadminday" weight="743" />
+      <edge id="89" source="#Cbustech" target="#ohio" weight="743" />
+      <edge id="90" source="#infosec" target="#sysadmin" weight="1486" />
+      <edge id="91" source="#infosec" target="#cbustech" weight="2229" />
+      <edge id="92" source="#infosec" target="#cmhsecsummit" weight="743" />
+      <edge id="93" source="#infosec" target="#opensource" weight="743" />
+      <edge id="94" source="#infosec" target="#derbycon" weight="743" />
+      <edge id="95" source="#infosec" target="#ruby" weight="743" />
+      <edge id="96" source="#infosec" target="#CloudDevConf" weight="743" />
+      <edge id="97" source="#infosec" target="#redteam" weight="743" />
+      <edge id="98" source="#BestPlaceToWorkInColumbus" target="#CoverMyYaks" weight="743" />
+      <edge id="99" source="#startups" target="#path16" weight="743" />
+      <edge id="100" source="#startups" target="#cbustech" weight="743" />
+      <edge id="101" source="#startups" target="#scaling" weight="743" />
+      <edge id="102" source="#startups" target="#entrepreneur" weight="743" />
+      <edge id="103" source="#startups" target="#culture" weight="743" />
+      <edge id="104" source="#cbus" target="#fast50" weight="743" />
+      <edge id="105" source="#cbus" target="#LifeinCbus" weight="743" />
+      <edge id="106" source="#cbus" target="#eship" weight="743" />
+      <edge id="107" source="#cbus" target="#cbustech" weight="743" />
+      <edge id="108" source="#cbus" target="#Columbus" weight="743" />
+      <edge id="109" source="#cbus" target="#lifeincbus" weight="743" />
+      <edge id="110" source="#cbus" target="#Ohio" weight="743" />
+      <edge id="111" source="#Ruby" target="#scl" weight="743" />
+      <edge id="112" source="#Ruby" target="#Puppet" weight="743" />
+      <edge id="113" source="#Ruby" target="#softwarecollections" weight="743" />
+      <edge id="114" source="#innovative" target="#cbustech" weight="743" />
+      <edge id="115" source="#innovative" target="#ohio" weight="743" />
+      <edge id="116" source="#colug" target="#sysadmin" weight="743" />
+      <edge id="117" source="#colug" target="#cbustech" weight="743" />
+      <edge id="118" source="#colug" target="#redhat" weight="743" />
+      <edge id="119" source="#colug" target="#ohiolinix" weight="743" />
+      <edge id="120" source="#techlife" target="#ohiolinux" weight="743" />
+      <edge id="121" source="#pineapples" target="#cbustech" weight="743" />
+      <edge id="122" source="#pineapples" target="#notyouraveragehouseplant" weight="743" />
+      <edge id="123" source="#opensource" target="#sysadmin" weight="3715" />
+      <edge id="124" source="#opensource" target="#ohiolinux" weight="4458" />
+      <edge id="125" source="#opensource" target="#webops" weight="743" />
+      <edge id="126" source="#opensource" target="#cbustech" weight="2229" />
+      <edge id="127" source="#opensource" target="#dba" weight="743" />
+      <edge id="128" source="#opensource" target="#innovation" weight="743" />
+      <edge id="129" source="#opensource" target="#foss" weight="743" />
+      <edge id="130" source="#opensource" target="#entrepreneurship" weight="743" />
+      <edge id="131" source="#badbusiness" target="#epicfail" weight="743" />
+      <edge id="132" source="#badbusiness" target="#betrayal" weight="743" />
+      <edge id="133" source="#badbusiness" target="#sriracha" weight="743" />
+      <edge id="134" source="#techtomorrow" target="#ITMartini" weight="743" />
+      <edge id="135" source="#devopsdc" target="#sysadmin" weight="743" />
+      <edge id="136" source="#ohiolinux" target="#serverfault" weight="743" />
+      <edge id="137" source="#ohiolinux" target="#redhat" weight="743" />
+      <edge id="138" source="#ohiolinux" target="#entrepreneurship" weight="1486" />
+      <edge id="139" source="#ohiolinux" target="#2checkout" weight="743" />
+      <edge id="140" source="#ohiolinux" target="#covermymeds" weight="743" />
+      <edge id="141" source="#ohiolinux" target="#foss" weight="743" />
+      <edge id="142" source="#ohiolinux" target="#rackspace" weight="743" />
+      <edge id="143" source="#ohiolinux" target="#lopsa" weight="2972" />
+      <edge id="144" source="#ohiolinux" target="#innovation" weight="1486" />
+      <edge id="145" source="#ohiolinux" target="#fastswitch" weight="743" />
+      <edge id="146" source="#ohiolinux" target="#columbus" weight="743" />
+      <edge id="147" source="#ohiolinux" target="#nagios" weight="743" />
+      <edge id="148" source="#ohiolinux" target="#sysadmin" weight="8173" />
+      <edge id="149" source="#ohiolinux" target="#cbustech" weight="3715" />
+      <edge id="150" source="#ohiolinux" target="#manta" weight="1486" />
+      <edge id="151" source="#ohiolinux" target="#lpi" weight="743" />
+      <edge id="152" source="#ohiolinux" target="#stackoverflow" weight="743" />
+      <edge id="153" source="#ohiolinux" target="#sysadmins" weight="743" />
+      <edge id="154" source="#ohiolinux" target="#stackexchange" weight="1486" />
+      <edge id="155" source="#ohiolinux" target="#tech" weight="743" />
+      <edge id="156" source="#softwarecollections" target="#Puppet" weight="743" />
+      <edge id="157" source="#softwarecollections" target="#scl" weight="743" />
+      <edge id="158" source="#foss" target="#sysadmin" weight="743" />
+      <edge id="159" source="#foss" target="#cbustech" weight="743" />
+      <edge id="160" source="#leadership" target="#kalx16" weight="743" />
+      <edge id="161" source="#leadership" target="#makingawesome" weight="743" />
+      <edge id="162" source="#lisa13" target="#lopsa" weight="743" />
+      <edge id="163" source="#cmh" target="#security" weight="743" />
+      <edge id="164" source="#lisa14" target="#sysadmin" weight="743" />
+      <edge id="165" source="#lisa15" target="#sysadmin" weight="2972" />
+      <edge id="166" source="#lisa15" target="#agile" weight="743" />
+      <edge id="167" source="#lisa15" target="#tech" weight="1486" />
+      <edge id="168" source="#lisa15" target="#sre" weight="743" />
+      <edge id="169" source="#lisa15" target="#innovation" weight="743" />
+      <edge id="170" source="#ThosePantsThough" target="#devopsdays" weight="743" />
+      <edge id="171" source="#scaling" target="#devopsdaysohio" weight="743" />
+      <edge id="172" source="#scaling" target="#path16" weight="743" />
+      <edge id="173" source="#scaling" target="#cbustech" weight="743" />
+      <edge id="174" source="#scaling" target="#culture" weight="743" />
+      <edge id="175" source="#scaling" target="#tech" weight="743" />
+      <edge id="176" source="#epicfail" target="#sriracha" weight="743" />
+      <edge id="177" source="#epicfail" target="#betrayal" weight="743" />
+      <edge id="178" source="#sysadmin" target="#redhat" weight="743" />
+      <edge id="179" source="#sysadmin" target="#clouddevconf" weight="743" />
+      <edge id="180" source="#sysadmin" target="#defcon" weight="743" />
+      <edge id="181" source="#sysadmin" target="#SysAdminDay" weight="743" />
+      <edge id="182" source="#sysadmin" target="#devopsdaysohio" weight="1486" />
+      <edge id="183" source="#sysadmin" target="#lopsa" weight="15603" />
+      <edge id="184" source="#sysadmin" target="#CloudDevConf" weight="743" />
+      <edge id="185" source="#sysadmin" target="#fastswitch" weight="743" />
+      <edge id="186" source="#sysadmin" target="#devopsdays" weight="5201" />
+      <edge id="187" source="#sysadmin" target="#sysadminday" weight="4458" />
+      <edge id="188" source="#sysadmin" target="#nagios" weight="743" />
+      <edge id="189" source="#sysadmin" target="#webops" weight="1486" />
+      <edge id="190" source="#sysadmin" target="#cbustech" weight="5944" />
+      <edge id="191" source="#sysadmin" target="#manta" weight="743" />
+      <edge id="192" source="#sysadmin" target="#LOPSA" weight="743" />
+      <edge id="193" source="#sysadmin" target="#developers" weight="743" />
+      <edge id="194" source="#sysadmin" target="#dba" weight="1486" />
+      <edge id="195" source="#sysadmin" target="#FirstTechJob" weight="743" />
+      <edge id="196" source="#sysadmin" target="#tech" weight="3715" />
+      <edge id="197" source="#sysadmin" target="#oreilly" weight="743" />
+      <edge id="198" source="#sysadmin" target="#mysql" weight="743" />
+      <edge id="199" source="#cbustech" target="#path16" weight="743" />
+      <edge id="200" source="#cbustech" target="#kalx16" weight="743" />
+      <edge id="201" source="#cbustech" target="#culture" weight="743" />
+      <edge id="202" source="#cbustech" target="#redhat" weight="743" />
+      <edge id="203" source="#cbustech" target="#entrepreneurship" weight="743" />
+      <edge id="204" source="#cbustech" target="#LifeinCbus" weight="743" />
+      <edge id="205" source="#cbustech" target="#SysAdminDay" weight="743" />
+      <edge id="206" source="#cbustech" target="#lopsa" weight="743" />
+      <edge id="207" source="#cbustech" target="#sequel" weight="743" />
+      <edge id="208" source="#cbustech" target="#innovation" weight="743" />
+      <edge id="209" source="#cbustech" target="#devopsdays" weight="2229" />
+      <edge id="210" source="#cbustech" target="#sysadminday" weight="1486" />
+      <edge id="211" source="#cbustech" target="#nagios" weight="743" />
+      <edge id="212" source="#cbustech" target="#elixir" weight="743" />
+      <edge id="213" source="#cbustech" target="#ruby" weight="1486" />
+      <edge id="214" source="#cbustech" target="#tech" weight="1486" />
+      <edge id="215" source="#cbustech" target="#notyouraveragehouseplant" weight="743" />
+      <edge id="216" source="#cbustech" target="#software" weight="743" />
+      <edge id="217" source="#cbustech" target="#ohiolinix" weight="743" />
+      <edge id="218" source="#cbustech" target="#redteam" weight="743" />
+      <edge id="219" source="#cbustech" target="#growth" weight="743" />
+      <edge id="220" source="#cbustech" target="#ohio" weight="743" />
+      <edge id="221" source="#manta" target="#serverfault" weight="743" />
+      <edge id="222" source="#manta" target="#lopsa" weight="743" />
+      <edge id="223" source="#manta" target="#stackexchange" weight="743" />
+      <edge id="224" source="#manta" target="#stackoverflow" weight="743" />
+      <edge id="225" source="#manta" target="#fastswitch" weight="1486" />
+      <edge id="226" source="#manta" target="#sysadminday" weight="743" />
+      <edge id="227" source="#stackexchange" target="#fastswitch" weight="743" />
+      <edge id="228" source="#stackexchange" target="#stackoverflow" weight="743" />
+      <edge id="229" source="#stackexchange" target="#serverfault" weight="743" />
+      <edge id="230" source="#stackoverflow" target="#fastswitch" weight="743" />
+      <edge id="231" source="#stackoverflow" target="#serverfault" weight="743" />
+      <edge id="232" source="#lifeincbus" target="#columbus" weight="743" />
+      <edge id="233" source="#lifeincbus" target="#Columbus" weight="743" />
+      <edge id="234" source="#lifeincbus" target="#atlanta" weight="743" />
+      <edge id="235" source="#lifeincbus" target="#eship" weight="743" />
+      <edge id="236" source="#lifeincbus" target="#Ohio" weight="743" />
+      <edge id="237" source="#dba" target="#webops" weight="743" />
+      <edge id="238" source="#FirstTechJob" target="#defcon" weight="743" />
+      <edge id="239" source="#OLOA2016" target="#CoverMyQuest" weight="743" />
+      <edge id="240" source="#hustling" target="#awesome" weight="743" />
+      <edge id="241" source="#hustling" target="#innovation" weight="743" />
+      <edge id="242" source="#hustling" target="#tech" weight="743" />
+      <edge id="243" source="#hustling" target="#StartupWeekend" weight="743" />
+      <edge id="244" source="#StartupWeekend" target="#awesome" weight="743" />
+      <edge id="245" source="#StartupWeekend" target="#innovation" weight="743" />
+      <edge id="246" source="#StartupWeekend" target="#tech" weight="743" />
+      <edge id="247" source="#culture" target="#path16" weight="743" />
+      <edge id="248" source="#betrayal" target="#sriracha" weight="743" />
+      <edge id="249" source="#sre" target="#tech" weight="743" />
+      <edge id="250" source="#developers" target="#clouddevconf" weight="743" />
+      <edge id="251" source="#entrepreneurship" target="#innovation" weight="2229" />
+      <edge id="252" source="#LifeinCbus" target="#Columbus" weight="743" />
+      <edge id="253" source="#Ohio" target="#eship" weight="743" />
+      <edge id="254" source="#Ohio" target="#Columbus" weight="743" />
+      <edge id="255" source="#Ohio" target="#health" weight="743" />
+      <edge id="256" source="#devopsdaysohio" target="#tech" weight="1486" />
+      <edge id="257" source="#devopsdaysohio" target="#innovation" weight="743" />
+      <edge id="258" source="#devopsdaysohio" target="#devopsdays" weight="743" />
+      <edge id="259" source="#BPTW" target="#CBUS" weight="743" />
+      <edge id="260" source="#emv" target="#buildingtangiblethingsishard" weight="743" />
+      <edge id="261" source="#LISA14" target="#goldenpony" weight="743" />
+      <edge id="262" source="#LISA14" target="#LOPSA" weight="743" />
+      <edge id="263" source="#fastswitch" target="#lopsa" weight="1486" />
+      <edge id="264" source="#fastswitch" target="#serverfault" weight="743" />
+      <edge id="265" source="#fastswitch" target="#sysadminday" weight="743" />
+      <edge id="266" source="#columbus" target="#atlanta" weight="743" />
+      <edge id="267" source="#columbus" target="#tech" weight="743" />
+      <edge id="268" source="#devopsdays" target="#lopsa" weight="1486" />
+      <edge id="269" source="#devopsdays" target="#tech" weight="743" />
+      <edge id="270" source="#devopsdays" target="#obm" weight="743" />
+      <edge id="271" source="#devopsdays" target="#ohio" weight="743" />
+      <edge id="272" source="#webops" target="#tech" weight="743" />
+      <edge id="273" source="#makingawesome" target="#kalx16" weight="743" />
+      <edge id="274" source="#sysadmins" target="#lopsa" weight="1486" />
+      <edge id="275" source="#covermyperks" target="#lopsa" weight="743" />
+      <edge id="276" source="#eship" target="#Columbus" weight="743" />
+      <edge id="277" source="#tech" target="#kalx16" weight="743" />
+      <edge id="278" source="#tech" target="#creative" weight="743" />
+      <edge id="279" source="#tech" target="#lopsa" weight="743" />
+      <edge id="280" source="#tech" target="#innovation" weight="2229" />
+      <edge id="281" source="#tech" target="#startup" weight="743" />
+      <edge id="282" source="#tech" target="#software" weight="743" />
+      <edge id="283" source="#tech" target="#agile" weight="743" />
+      <edge id="284" source="#tech" target="#awesome" weight="743" />
+      <edge id="285" source="#kalx16" target="#software" weight="743" />
+      <edge id="286" source="#creative" target="#startup" weight="743" />
+      <edge id="287" source="#redhat" target="#ohiolinix" weight="743" />
+      <edge id="288" source="#agile" target="#innovation" weight="743" />
+      <edge id="289" source="#derbycon" target="#IamtheCavalry" weight="743" />
+      <edge id="290" source="#Puppet" target="#scl" weight="743" />
+      <edge id="291" source="#lopsa" target="#oreilly" weight="743" />
+      <edge id="292" source="#lopsa" target="#mysql" weight="743" />
+      <edge id="293" source="#lopsa" target="#lopsa" weight="1486" />
+      <edge id="294" source="#lopsa" target="#sysadminday" weight="2972" />
+      <edge id="295" source="#sequel" target="#ruby" weight="743" />
+      <edge id="296" source="#innovation" target="#awesome" weight="743" />
+      <edge id="297" source="#happiness" target="#UberKITTENS" weight="743" />
+    </edges>
+  </graph>
+</gexf>

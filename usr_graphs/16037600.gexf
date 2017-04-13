@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#content" label="#content" />
+      <node id="#DoubletreeForever" label="#DoubletreeForever" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#WaybackWednesday" label="#WaybackWednesday" />
+      <node id="#brand" label="#brand" />
+      <node id="#SuckItMarriottMafia" label="#SuckItMarriottMafia" />
+      <node id="#Mets" label="#Mets" />
+      <node id="#NLDS" label="#NLDS" />
+      <node id="#Cubs" label="#Cubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#content" target="#brand" weight="3199" />
+      <edge id="1" source="#DoubletreeForever" target="#SuckItMarriottMafia" weight="3199" />
+      <edge id="2" source="#SFGiants" target="#NLDS" weight="3199" />
+      <edge id="3" source="#SFGiants" target="#Cubs" weight="3199" />
+      <edge id="4" source="#WaybackWednesday" target="#Mets" weight="3199" />
+      <edge id="5" source="#NLDS" target="#Cubs" weight="3199" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SEC" label="#SEC" />
+      <node id="#makers" label="#makers" />
+      <node id="#VCs" label="#VCs" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#nest" label="#nest" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#maker" label="#maker" />
+      <node id="#dominate" label="#dominate" />
+      <node id="#vinge" label="#vinge" />
+      <node id="#StartupsAnonymous" label="#StartupsAnonymous" />
+      <node id="#earrings" label="#earrings" />
+      <node id="#library" label="#library" />
+      <node id="#vinyl" label="#vinyl" />
+      <node id="#Sales" label="#Sales" />
+      <node id="#tesla" label="#tesla" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#women" label="#women" />
+      <node id="#wangrong" label="#wangrong" />
+      <node id="#Investing" label="#Investing" />
+      <node id="#walk" label="#walk" />
+      <node id="#ohiopolitics" label="#ohiopolitics" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#quantumcomputing" label="#quantumcomputing" />
+      <node id="#datasecurity" label="#datasecurity" />
+      <node id="#college" label="#college" />
+      <node id="#DC" label="#DC" />
+      <node id="#scalevc" label="#scalevc" />
+      <node id="#Entrepreneur" label="#Entrepreneur" />
+      <node id="#matchbox" label="#matchbox" />
+      <node id="#Incubator" label="#Incubator" />
+      <node id="#Cyberpunk" label="#Cyberpunk" />
+      <node id="#bitcoin" label="#bitcoin" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#charlesstross" label="#charlesstross" />
+      <node id="#TechweekLA" label="#TechweekLA" />
+      <node id="#Investors" label="#Investors" />
+      <node id="#scappers" label="#scappers" />
+      <node id="#singularity" label="#singularity" />
+      <node id="#funding" label="#funding" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#techstartups" label="#techstartups" />
+      <node id="#design" label="#design" />
+      <node id="#WDS2014" label="#WDS2014" />
+      <node id="#ReuseRecycle" label="#ReuseRecycle" />
+      <node id="#BusinessPitch" label="#BusinessPitch" />
+      <node id="#startups" label="#startups" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#geek" label="#geek" />
+      <node id="#vintage" label="#vintage" />
+      <node id="#employees" label="#employees" />
+      <node id="#platform" label="#platform" />
+      <node id="#LeanStartup" label="#LeanStartup" />
+      <node id="#RareEarth" label="#RareEarth" />
+      <node id="#wholefoods" label="#wholefoods" />
+      <node id="#tubestrikes" label="#tubestrikes" />
+      <node id="#neodymium" label="#neodymium" />
+      <node id="#REM" label="#REM" />
+      <node id="#EquityCrowdfunding" label="#EquityCrowdfunding" />
+      <node id="#molycorp" label="#molycorp" />
+      <node id="#REE" label="#REE" />
+      <node id="#redline" label="#redline" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#magnets" label="#magnets" />
+      <node id="#reading" label="#reading" />
+      <node id="#scrapper" label="#scrapper" />
+      <node id="#event" label="#event" />
+      <node id="#records" label="#records" />
+      <node id="#FF" label="#FF" />
+      <node id="#TortureReport" label="#TortureReport" />
+      <node id="#pulp" label="#pulp" />
+      <node id="#investor" label="#investor" />
+      <node id="#Seattle" label="#Seattle" />
+      <node id="#NEO" label="#NEO" />
+      <node id="#w3c" label="#w3c" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#midcentury" label="#midcentury" />
+      <node id="#leagues" label="#leagues" />
+      <node id="#designer" label="#designer" />
+      <node id="#madmen" label="#madmen" />
+      <node id="#Solar" label="#Solar" />
+      <node id="#Angel" label="#Angel" />
+      <node id="#Environment" label="#Environment" />
+      <node id="#Technologies" label="#Technologies" />
+      <node id="#ree" label="#ree" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#CleantechGroup" label="#CleantechGroup" />
+      <node id="#construction" label="#construction" />
+      <node id="#Blackphone" label="#Blackphone" />
+      <node id="#incubator" label="#incubator" />
+      <node id="#Ignite" label="#Ignite" />
+      <node id="#books" label="#books" />
+      <node id="#chinatown" label="#chinatown" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#bdsm" label="#bdsm" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Angels" label="#Angels" />
+      <node id="#Steampunk" label="#Steampunk" />
+      <node id="#circuitry" label="#circuitry" />
+      <node id="#jeopardy" label="#jeopardy" />
+      <node id="#angellist" label="#angellist" />
+      <node id="#Advice" label="#Advice" />
+      <node id="#growcincy" label="#growcincy" />
+      <node id="#datadestruction" label="#datadestruction" />
+      <node id="#investing" label="#investing" />
+      <node id="#hollywood" label="#hollywood" />
+      <node id="#dogerr" label="#dogerr" />
+      <node id="#leanstartup" label="#leanstartup" />
+      <node id="#neilsmw" label="#neilsmw" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#dogecoin" label="#dogecoin" />
+      <node id="#equitycrowdfunding" label="#equitycrowdfunding" />
+      <node id="#Crowdfunding" label="#Crowdfunding" />
+      <node id="#scholarships" label="#scholarships" />
+      <node id="#dogecoine" label="#dogecoine" />
+      <node id="#Minecraft" label="#Minecraft" />
+      <node id="#stylin" label="#stylin" />
+      <node id="#nkychamberEggs" label="#nkychamberEggs" />
+      <node id="#Chart" label="#Chart" />
+      <node id="#snapchat" label="#snapchat" />
+      <node id="#sec" label="#sec" />
+      <node id="#GEOINT2013" label="#GEOINT2013" />
+      <node id="#founder" label="#founder" />
+      <node id="#vc" label="#vc" />
+      <node id="#tech" label="#tech" />
+      <node id="#3dprinting" label="#3dprinting" />
+      <node id="#ContentMarketing" label="#ContentMarketing" />
+      <node id="#recycling" label="#recycling" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#ZeroWaste" label="#ZeroWaste" />
+      <node id="#scrappers" label="#scrappers" />
+      <node id="#StartupLife" label="#StartupLife" />
+      <node id="#Metals" label="#Metals" />
+      <node id="#green" label="#green" />
+      <node id="#studded" label="#studded" />
+      <node id="#dominatrix" label="#dominatrix" />
+      <node id="#business" label="#business" />
+      <node id="#Codes" label="#Codes" />
+      <node id="#kaffegeek" label="#kaffegeek" />
+      <node id="#faster" label="#faster" />
+      <node id="#rebuilding" label="#rebuilding" />
+      <node id="#CNBC" label="#CNBC" />
+      <node id="#InternetMarketing" label="#InternetMarketing" />
+      <node id="#Fantasy" label="#Fantasy" />
+      <node id="#Scrappers" label="#Scrappers" />
+      <node id="#dowhatyoulove" label="#dowhatyoulove" />
+      <node id="#biz" label="#biz" />
+      <node id="#appalachia" label="#appalachia" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#Ranking" label="#Ranking" />
+      <node id="#product" label="#product" />
+      <node id="#strataconf" label="#strataconf" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#drone" label="#drone" />
+      <node id="#WorkHard" label="#WorkHard" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#circuitboard" label="#circuitboard" />
+      <node id="#motherboard" label="#motherboard" />
+      <node id="#chickchick" label="#chickchick" />
+      <node id="#Fees" label="#Fees" />
+      <node id="#Governor" label="#Governor" />
+      <node id="#recycle" label="#recycle" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#startup" label="#startup" />
+      <node id="#angel" label="#angel" />
+      <node id="#computer" label="#computer" />
+      <node id="#textbooks" label="#textbooks" />
+      <node id="#houston" label="#houston" />
+      <node id="#klout" label="#klout" />
+      <node id="#startuplist" label="#startuplist" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#claritymember" label="#claritymember" />
+      <node id="#VC" label="#VC" />
+      <node id="#hipster" label="#hipster" />
+      <node id="#Athens" label="#Athens" />
+      <node id="#dysprosium" label="#dysprosium" />
+      <node id="#cloud" label="#cloud" />
+      <node id="#growth" label="#growth" />
+      <node id="#reuse" label="#reuse" />
+      <node id="#trainers" label="#trainers" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SEC" target="#EquityCrowdfunding" weight="1501" />
+      <edge id="1" source="#makers" target="#ree" weight="1501" />
+      <edge id="2" source="#makers" target="#scrappers" weight="1501" />
+      <edge id="3" source="#makers" target="#RareEarth" weight="1501" />
+      <edge id="4" source="#makers" target="#scappers" weight="1501" />
+      <edge id="5" source="#makers" target="#neodymium" weight="3002" />
+      <edge id="6" source="#makers" target="#recycling" weight="1501" />
+      <edge id="7" source="#VCs" target="#startup" weight="1501" />
+      <edge id="8" source="#entrepreneurs" target="#Seattle" weight="1501" />
+      <edge id="9" source="#entrepreneurs" target="#Startup" weight="1501" />
+      <edge id="10" source="#entrepreneurs" target="#startups" weight="1501" />
+      <edge id="11" source="#entrepreneurs" target="#DC" weight="1501" />
+      <edge id="12" source="#nest" target="#w3c" weight="1501" />
+      <edge id="13" source="#nest" target="#singularity" weight="1501" />
+      <edge id="14" source="#Cbus" target="#leanstartup" weight="1501" />
+      <edge id="15" source="#maker" target="#scrappers" weight="1501" />
+      <edge id="16" source="#dominate" target="#dominatrix" weight="1501" />
+      <edge id="17" source="#dominate" target="#bdsm" weight="1501" />
+      <edge id="18" source="#vinge" target="#singularity" weight="1501" />
+      <edge id="19" source="#vinge" target="#charlesstross" weight="1501" />
+      <edge id="20" source="#StartupsAnonymous" target="#StartupLife" weight="1501" />
+      <edge id="21" source="#earrings" target="#studded" weight="1501" />
+      <edge id="22" source="#earrings" target="#circuitry" weight="1501" />
+      <edge id="23" source="#earrings" target="#Cyberpunk" weight="1501" />
+      <edge id="24" source="#earrings" target="#computer" weight="1501" />
+      <edge id="25" source="#earrings" target="#geek" weight="1501" />
+      <edge id="26" source="#earrings" target="#circuitboard" weight="1501" />
+      <edge id="27" source="#earrings" target="#motherboard" weight="1501" />
+      <edge id="28" source="#library" target="#recycling" weight="1501" />
+      <edge id="29" source="#library" target="#green" weight="1501" />
+      <edge id="30" source="#vinyl" target="#hollywood" weight="1501" />
+      <edge id="31" source="#vinyl" target="#records" weight="1501" />
+      <edge id="32" source="#vinyl" target="#rebuilding" weight="1501" />
+      <edge id="33" source="#Sales" target="#VC" weight="4503" />
+      <edge id="34" source="#tesla" target="#neodymium" weight="1501" />
+      <edge id="35" source="#tesla" target="#magnets" weight="1501" />
+      <edge id="36" source="#tesla" target="#molycorp" weight="1501" />
+      <edge id="37" source="#tesla" target="#recycling" weight="1501" />
+      <edge id="38" source="#Entrepreneurs" target="#Advice" weight="1501" />
+      <edge id="39" source="#Entrepreneurs" target="#startups" weight="3002" />
+      <edge id="40" source="#Entrepreneurs" target="#employees" weight="1501" />
+      <edge id="41" source="#women" target="#startups" weight="1501" />
+      <edge id="42" source="#wangrong" target="#chickchick" weight="1501" />
+      <edge id="43" source="#Investing" target="#Technologies" weight="1501" />
+      <edge id="44" source="#Investing" target="#Metals" weight="1501" />
+      <edge id="45" source="#Investing" target="#Energy" weight="1501" />
+      <edge id="46" source="#walk" target="#trainers" weight="1501" />
+      <edge id="47" source="#walk" target="#tubestrikes" weight="1501" />
+      <edge id="48" source="#ohiopolitics" target="#appalachia" weight="3002" />
+      <edge id="49" source="#ohiopolitics" target="#ohio" weight="1501" />
+      <edge id="50" source="#Obama" target="#drone" weight="1501" />
+      <edge id="51" source="#Obama" target="#TortureReport" weight="1501" />
+      <edge id="52" source="#quantumcomputing" target="#GEOINT2013" weight="1501" />
+      <edge id="53" source="#datasecurity" target="#neodymium" weight="1501" />
+      <edge id="54" source="#datasecurity" target="#magnets" weight="1501" />
+      <edge id="55" source="#datasecurity" target="#datadestruction" weight="1501" />
+      <edge id="56" source="#datasecurity" target="#dysprosium" weight="1501" />
+      <edge id="57" source="#college" target="#scholarships" weight="3002" />
+      <edge id="58" source="#college" target="#reuse" weight="1501" />
+      <edge id="59" source="#college" target="#textbooks" weight="3002" />
+      <edge id="60" source="#DC" target="#startups" weight="1501" />
+      <edge id="61" source="#scalevc" target="#neilsmw" weight="1501" />
+      <edge id="62" source="#Entrepreneur" target="#NEO" weight="1501" />
+      <edge id="63" source="#matchbox" target="#redline" weight="1501" />
+      <edge id="64" source="#matchbox" target="#leagues" weight="1501" />
+      <edge id="65" source="#Incubator" target="#startup" weight="1501" />
+      <edge id="66" source="#Incubator" target="#angellist" weight="1501" />
+      <edge id="67" source="#Cyberpunk" target="#circuitry" weight="1501" />
+      <edge id="68" source="#Cyberpunk" target="#studded" weight="1501" />
+      <edge id="69" source="#Cyberpunk" target="#computer" weight="1501" />
+      <edge id="70" source="#Cyberpunk" target="#geek" weight="1501" />
+      <edge id="71" source="#Cyberpunk" target="#circuitboard" weight="1501" />
+      <edge id="72" source="#Cyberpunk" target="#motherboard" weight="1501" />
+      <edge id="73" source="#bitcoin" target="#jeopardy" weight="1501" />
+      <edge id="74" source="#bitcoin" target="#dogecoin" weight="1501" />
+      <edge id="75" source="#Energy" target="#Metals" weight="1501" />
+      <edge id="76" source="#Energy" target="#Technologies" weight="1501" />
+      <edge id="77" source="#charlesstross" target="#singularity" weight="1501" />
+      <edge id="78" source="#TechweekLA" target="#techstartups" weight="1501" />
+      <edge id="79" source="#Investors" target="#Angel" weight="1501" />
+      <edge id="80" source="#Investors" target="#Startup" weight="1501" />
+      <edge id="81" source="#Investors" target="#business" weight="1501" />
+      <edge id="82" source="#Investors" target="#vc" weight="1501" />
+      <edge id="83" source="#Investors" target="#Ranking" weight="1501" />
+      <edge id="84" source="#scappers" target="#neodymium" weight="1501" />
+      <edge id="85" source="#scappers" target="#RareEarth" weight="1501" />
+      <edge id="86" source="#singularity" target="#w3c" weight="1501" />
+      <edge id="87" source="#funding" target="#startup" weight="1501" />
+      <edge id="88" source="#hiring" target="#product" weight="1501" />
+      <edge id="89" source="#hiring" target="#designer" weight="1501" />
+      <edge id="90" source="#design" target="#chinatown" weight="1501" />
+      <edge id="91" source="#design" target="#construction" weight="1501" />
+      <edge id="92" source="#design" target="#dowhatyoulove" weight="1501" />
+      <edge id="93" source="#design" target="#mobile" weight="1501" />
+      <edge id="94" source="#design" target="#faster" weight="1501" />
+      <edge id="95" source="#WDS2014" target="#WDS2014" weight="3002" />
+      <edge id="96" source="#ReuseRecycle" target="#vintage" weight="1501" />
+      <edge id="97" source="#ReuseRecycle" target="#recycle" weight="1501" />
+      <edge id="98" source="#BusinessPitch" target="#Angels" weight="1501" />
+      <edge id="99" source="#startups" target="#tech" weight="1501" />
+      <edge id="100" source="#startups" target="#Advice" weight="1501" />
+      <edge id="101" source="#startups" target="#vc" weight="1501" />
+      <edge id="102" source="#startups" target="#startup" weight="1501" />
+      <edge id="103" source="#startups" target="#cbus" weight="1501" />
+      <edge id="104" source="#startups" target="#equitycrowdfunding" weight="1501" />
+      <edge id="105" source="#startups" target="#crowdfunding" weight="1501" />
+      <edge id="106" source="#startups" target="#employees" weight="1501" />
+      <edge id="107" source="#startups" target="#VC" weight="1501" />
+      <edge id="108" source="#geek" target="#circuitry" weight="1501" />
+      <edge id="109" source="#geek" target="#studded" weight="1501" />
+      <edge id="110" source="#geek" target="#computer" weight="1501" />
+      <edge id="111" source="#geek" target="#circuitboard" weight="1501" />
+      <edge id="112" source="#geek" target="#motherboard" weight="1501" />
+      <edge id="113" source="#platform" target="#twitter" weight="1501" />
+      <edge id="114" source="#LeanStartup" target="#Ignite" weight="1501" />
+      <edge id="115" source="#RareEarth" target="#neodymium" weight="1501" />
+      <edge id="116" source="#wholefoods" target="#hipster" weight="1501" />
+      <edge id="117" source="#tubestrikes" target="#trainers" weight="1501" />
+      <edge id="118" source="#neodymium" target="#scrappers" weight="3002" />
+      <edge id="119" source="#neodymium" target="#ree" weight="3002" />
+      <edge id="120" source="#neodymium" target="#magnets" weight="6004" />
+      <edge id="121" source="#neodymium" target="#recycling" weight="4503" />
+      <edge id="122" source="#neodymium" target="#3dprinting" weight="1501" />
+      <edge id="123" source="#neodymium" target="#dysprosium" weight="1501" />
+      <edge id="124" source="#neodymium" target="#molycorp" weight="1501" />
+      <edge id="125" source="#neodymium" target="#datadestruction" weight="1501" />
+      <edge id="126" source="#REM" target="#FF" weight="1501" />
+      <edge id="127" source="#REM" target="#REE" weight="1501" />
+      <edge id="128" source="#EquityCrowdfunding" target="#Crowdfunding" weight="1501" />
+      <edge id="129" source="#EquityCrowdfunding" target="#Fees" weight="1501" />
+      <edge id="130" source="#molycorp" target="#magnets" weight="1501" />
+      <edge id="131" source="#molycorp" target="#recycling" weight="1501" />
+      <edge id="132" source="#REE" target="#FF" weight="1501" />
+      <edge id="133" source="#redline" target="#leagues" weight="1501" />
+      <edge id="134" source="#venturecapital" target="#crowdfunding" weight="1501" />
+      <edge id="135" source="#venturecapital" target="#startup" weight="1501" />
+      <edge id="136" source="#venturecapital" target="#angellist" weight="1501" />
+      <edge id="137" source="#magnets" target="#scrappers" weight="1501" />
+      <edge id="138" source="#magnets" target="#recycling" weight="3002" />
+      <edge id="139" source="#magnets" target="#3dprinting" weight="1501" />
+      <edge id="140" source="#magnets" target="#dysprosium" weight="1501" />
+      <edge id="141" source="#magnets" target="#datadestruction" weight="1501" />
+      <edge id="142" source="#reading" target="#books" weight="1501" />
+      <edge id="143" source="#scrapper" target="#Scrappers" weight="1501" />
+      <edge id="144" source="#event" target="#houston" weight="1501" />
+      <edge id="145" source="#records" target="#hollywood" weight="1501" />
+      <edge id="146" source="#records" target="#rebuilding" weight="1501" />
+      <edge id="147" source="#TortureReport" target="#drone" weight="1501" />
+      <edge id="148" source="#pulp" target="#sustainability" weight="1501" />
+      <edge id="149" source="#pulp" target="#CleantechGroup" weight="1501" />
+      <edge id="150" source="#pulp" target="#recycling" weight="1501" />
+      <edge id="151" source="#pulp" target="#green" weight="1501" />
+      <edge id="152" source="#investor" target="#angel" weight="1501" />
+      <edge id="153" source="#investor" target="#claritymember" weight="1501" />
+      <edge id="154" source="#Seattle" target="#Startup" weight="1501" />
+      <edge id="155" source="#privacy" target="#Blackphone" weight="1501" />
+      <edge id="156" source="#midcentury" target="#madmen" weight="1501" />
+      <edge id="157" source="#designer" target="#product" weight="1501" />
+      <edge id="158" source="#Solar" target="#recycle" weight="1501" />
+      <edge id="159" source="#Solar" target="#Environment" weight="1501" />
+      <edge id="160" source="#Angel" target="#Startup" weight="1501" />
+      <edge id="161" source="#Angel" target="#business" weight="1501" />
+      <edge id="162" source="#Angel" target="#vc" weight="1501" />
+      <edge id="163" source="#Environment" target="#recycle" weight="1501" />
+      <edge id="164" source="#Technologies" target="#Metals" weight="1501" />
+      <edge id="165" source="#ree" target="#scrappers" weight="1501" />
+      <edge id="166" source="#ree" target="#recycling" weight="1501" />
+      <edge id="167" source="#ree" target="#investing" weight="1501" />
+      <edge id="168" source="#mobile" target="#faster" weight="1501" />
+      <edge id="169" source="#CleantechGroup" target="#sustainability" weight="1501" />
+      <edge id="170" source="#CleantechGroup" target="#recycling" weight="1501" />
+      <edge id="171" source="#CleantechGroup" target="#green" weight="1501" />
+      <edge id="172" source="#construction" target="#chinatown" weight="1501" />
+      <edge id="173" source="#construction" target="#dowhatyoulove" weight="1501" />
+      <edge id="174" source="#incubator" target="#startup" weight="1501" />
+      <edge id="175" source="#chinatown" target="#dowhatyoulove" weight="1501" />
+      <edge id="176" source="#tbt" target="#stylin" weight="1501" />
+      <edge id="177" source="#bdsm" target="#dominatrix" weight="1501" />
+      <edge id="178" source="#Ohio" target="#Governor" weight="1501" />
+      <edge id="179" source="#Steampunk" target="#Fantasy" weight="1501" />
+      <edge id="180" source="#circuitry" target="#studded" weight="1501" />
+      <edge id="181" source="#circuitry" target="#computer" weight="1501" />
+      <edge id="182" source="#circuitry" target="#circuitboard" weight="1501" />
+      <edge id="183" source="#circuitry" target="#motherboard" weight="1501" />
+      <edge id="184" source="#angellist" target="#crowdfunding" weight="1501" />
+      <edge id="185" source="#angellist" target="#startup" weight="1501" />
+      <edge id="186" source="#growcincy" target="#nkychamberEggs" weight="1501" />
+      <edge id="187" source="#datadestruction" target="#dysprosium" weight="1501" />
+      <edge id="188" source="#investing" target="#crowdfunding" weight="1501" />
+      <edge id="189" source="#investing" target="#sec" weight="1501" />
+      <edge id="190" source="#investing" target="#equitycrowdfunding" weight="1501" />
+      <edge id="191" source="#hollywood" target="#rebuilding" weight="1501" />
+      <edge id="192" source="#dogerr" target="#dogecoine" weight="3002" />
+      <edge id="193" source="#dogerr" target="#Codes" weight="3002" />
+      <edge id="194" source="#dogerr" target="#Minecraft" weight="3002" />
+      <edge id="195" source="#motivation" target="#WorkHard" weight="1501" />
+      <edge id="196" source="#equitycrowdfunding" target="#crowdfunding" weight="1501" />
+      <edge id="197" source="#equitycrowdfunding" target="#sec" weight="1501" />
+      <edge id="198" source="#Crowdfunding" target="#Fees" weight="1501" />
+      <edge id="199" source="#scholarships" target="#reuse" weight="1501" />
+      <edge id="200" source="#scholarships" target="#textbooks" weight="3002" />
+      <edge id="201" source="#dogecoine" target="#Codes" weight="3002" />
+      <edge id="202" source="#dogecoine" target="#Minecraft" weight="3002" />
+      <edge id="203" source="#Minecraft" target="#Codes" weight="3002" />
+      <edge id="204" source="#Chart" target="#CNBC" weight="1501" />
+      <edge id="205" source="#snapchat" target="#vc" weight="1501" />
+      <edge id="206" source="#sec" target="#crowdfunding" weight="1501" />
+      <edge id="207" source="#founder" target="#startup" weight="1501" />
+      <edge id="208" source="#vc" target="#Startup" weight="1501" />
+      <edge id="209" source="#vc" target="#business" weight="1501" />
+      <edge id="210" source="#tech" target="#marketing" weight="1501" />
+      <edge id="211" source="#ContentMarketing" target="#InternetMarketing" weight="1501" />
+      <edge id="212" source="#recycling" target="#sustainability" weight="1501" />
+      <edge id="213" source="#recycling" target="#green" weight="4503" />
+      <edge id="214" source="#recycling" target="#scrappers" weight="3002" />
+      <edge id="215" source="#ohio" target="#appalachia" weight="1501" />
+      <edge id="216" source="#ZeroWaste" target="#Athens" weight="1501" />
+      <edge id="217" source="#green" target="#sustainability" weight="1501" />
+      <edge id="218" source="#studded" target="#computer" weight="1501" />
+      <edge id="219" source="#studded" target="#circuitboard" weight="1501" />
+      <edge id="220" source="#studded" target="#motherboard" weight="1501" />
+      <edge id="221" source="#business" target="#Startup" weight="1501" />
+      <edge id="222" source="#kaffegeek" target="#klout" weight="1501" />
+      <edge id="223" source="#biz" target="#growth" weight="1501" />
+      <edge id="224" source="#entrepreneur" target="#startup" weight="1501" />
+      <edge id="225" source="#Startup" target="#VC" weight="1501" />
+      <edge id="226" source="#strataconf" target="#cloud" weight="1501" />
+      <edge id="227" source="#strataconf" target="#bigdata" weight="1501" />
+      <edge id="228" source="#bigdata" target="#cloud" weight="1501" />
+      <edge id="229" source="#circuitboard" target="#computer" weight="1501" />
+      <edge id="230" source="#circuitboard" target="#motherboard" weight="1501" />
+      <edge id="231" source="#motherboard" target="#computer" weight="1501" />
+      <edge id="232" source="#startup" target="#startuplist" weight="1501" />
+      <edge id="233" source="#startup" target="#VC" weight="1501" />
+      <edge id="234" source="#angel" target="#claritymember" weight="1501" />
+      <edge id="235" source="#textbooks" target="#reuse" weight="1501" />
+    </edges>
+  </graph>
+</gexf>

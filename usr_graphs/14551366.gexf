@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#stirtrek" label="#stirtrek" />
+      <node id="#Dragon" label="#Dragon" />
+      <node id="#NowOnNetflix" label="#NowOnNetflix" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#GOBUCKS" label="#GOBUCKS" />
+      <node id="#DevLink" label="#DevLink" />
+      <node id="#passvotes" label="#passvotes" />
+      <node id="#meetup" label="#meetup" />
+      <node id="#Ubuntu" label="#Ubuntu" />
+      <node id="#winbash" label="#winbash" />
+      <node id="#OpenSource" label="#OpenSource" />
+      <node id="#backup" label="#backup" />
+      <node id="#StirTrek" label="#StirTrek" />
+      <node id="#NomCom" label="#NomCom" />
+      <node id="#wsl" label="#wsl" />
+      <node id="#SQLPass" label="#SQLPass" />
+      <node id="#TheBasement" label="#TheBasement" />
+      <node id="#DealAlert" label="#DealAlert" />
+      <node id="#nonprofits" label="#nonprofits" />
+      <node id="#CodeMash" label="#CodeMash" />
+      <node id="#itsearly" label="#itsearly" />
+      <node id="#Bummer" label="#Bummer" />
+      <node id="#LookinGood" label="#LookinGood" />
+      <node id="#DontBeThatGuy" label="#DontBeThatGuy" />
+      <node id="#Fail" label="#Fail" />
+      <node id="#Purpose" label="#Purpose" />
+      <node id="#NationalChampionship" label="#NationalChampionship" />
+      <node id="#SQL" label="#SQL" />
+      <node id="#soylent" label="#soylent" />
+      <node id="#CentralOH" label="#CentralOH" />
+      <node id="#AshWednesday" label="#AshWednesday" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#VisualStudio" label="#VisualStudio" />
+      <node id="#winCP" label="#winCP" />
+      <node id="#FBI" label="#FBI" />
+      <node id="#IKEAColumbus" label="#IKEAColumbus" />
+      <node id="#lifeatimproving" label="#lifeatimproving" />
+      <node id="#ThatConference" label="#ThatConference" />
+      <node id="#Longmire" label="#Longmire" />
+      <node id="#CRS7" label="#CRS7" />
+      <node id="#Tmux" label="#Tmux" />
+      <node id="#Soylentpioneer" label="#Soylentpioneer" />
+      <node id="#brand" label="#brand" />
+      <node id="#pass24hop" label="#pass24hop" />
+      <node id="#Bash" label="#Bash" />
+      <node id="#snapmaticbooth" label="#snapmaticbooth" />
+      <node id="#epic" label="#epic" />
+      <node id="#sqlpass" label="#sqlpass" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#XboxOne" label="#XboxOne" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#Windows" label="#Windows" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#SpaceX" label="#SpaceX" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#NASA" label="#NASA" />
+      <node id="#CD1025" label="#CD1025" />
+      <node id="#ohgo" label="#ohgo" />
+      <node id="#fsharp" label="#fsharp" />
+      <node id="#win" label="#win" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#UX" label="#UX" />
+      <node id="#Catholic" label="#Catholic" />
+      <node id="#Soylent" label="#Soylent" />
+      <node id="#ArmedCockroach" label="#ArmedCockroach" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#cbustech" label="#cbustech" />
+      <node id="#PowderedFood" label="#PowderedFood" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#stirtrek" target="#itsearly" weight="3216" />
+      <edge id="1" source="#Dragon" target="#NASA" weight="3216" />
+      <edge id="2" source="#Dragon" target="#SpaceX" weight="3216" />
+      <edge id="3" source="#NowOnNetflix" target="#Longmire" weight="3216" />
+      <edge id="4" source="#jobs" target="#hiring" weight="3216" />
+      <edge id="5" source="#jobs" target="#UX" weight="3216" />
+      <edge id="6" source="#GOBUCKS" target="#NationalChampionship" weight="3216" />
+      <edge id="7" source="#DevLink" target="#epic" weight="3216" />
+      <edge id="8" source="#DevLink" target="#ThatConference" weight="3216" />
+      <edge id="9" source="#passvotes" target="#sqlpass" weight="3216" />
+      <edge id="10" source="#meetup" target="#fsharp" weight="3216" />
+      <edge id="11" source="#meetup" target="#columbus" weight="3216" />
+      <edge id="12" source="#Ubuntu" target="#Bash" weight="3216" />
+      <edge id="13" source="#Ubuntu" target="#Windows" weight="3216" />
+      <edge id="14" source="#Ubuntu" target="#wsl" weight="3216" />
+      <edge id="15" source="#Ubuntu" target="#Tmux" weight="3216" />
+      <edge id="16" source="#Ubuntu" target="#winbash" weight="3216" />
+      <edge id="17" source="#winbash" target="#Tmux" weight="3216" />
+      <edge id="18" source="#winbash" target="#Windows" weight="3216" />
+      <edge id="19" source="#winbash" target="#wsl" weight="3216" />
+      <edge id="20" source="#winbash" target="#Bash" weight="3216" />
+      <edge id="21" source="#OpenSource" target="#VisualStudio" weight="3216" />
+      <edge id="22" source="#backup" target="#win" weight="3216" />
+      <edge id="23" source="#backup" target="#winCP" weight="3216" />
+      <edge id="24" source="#StirTrek" target="#DontBeThatGuy" weight="3216" />
+      <edge id="25" source="#NomCom" target="#SQLPass" weight="3216" />
+      <edge id="26" source="#wsl" target="#Tmux" weight="3216" />
+      <edge id="27" source="#wsl" target="#Windows" weight="3216" />
+      <edge id="28" source="#wsl" target="#Bash" weight="3216" />
+      <edge id="29" source="#TheBasement" target="#CD1025" weight="3216" />
+      <edge id="30" source="#DealAlert" target="#XboxOne" weight="3216" />
+      <edge id="31" source="#nonprofits" target="#Cleveland" weight="3216" />
+      <edge id="32" source="#CodeMash" target="#ArmedCockroach" weight="3216" />
+      <edge id="33" source="#Bummer" target="#LookinGood" weight="3216" />
+      <edge id="34" source="#Fail" target="#SQL" weight="3216" />
+      <edge id="35" source="#Purpose" target="#brand" weight="3216" />
+      <edge id="36" source="#soylent" target="#PowderedFood" weight="3216" />
+      <edge id="37" source="#CentralOH" target="#ohgo" weight="3216" />
+      <edge id="38" source="#AshWednesday" target="#Catholic" weight="3216" />
+      <edge id="39" source="#Ohio" target="#IKEAColumbus" weight="3216" />
+      <edge id="40" source="#winCP" target="#win" weight="3216" />
+      <edge id="41" source="#FBI" target="#Apple" weight="3216" />
+      <edge id="42" source="#lifeatimproving" target="#cbustech" weight="3216" />
+      <edge id="43" source="#lifeatimproving" target="#snapmaticbooth" weight="3216" />
+      <edge id="44" source="#CRS7" target="#SpaceX" weight="3216" />
+      <edge id="45" source="#Tmux" target="#Windows" weight="3216" />
+      <edge id="46" source="#Tmux" target="#Bash" weight="3216" />
+      <edge id="47" source="#Soylentpioneer" target="#Soylent" weight="3216" />
+      <edge id="48" source="#pass24hop" target="#sqlpass" weight="3216" />
+      <edge id="49" source="#Bash" target="#Windows" weight="3216" />
+      <edge id="50" source="#snapmaticbooth" target="#cbustech" weight="3216" />
+      <edge id="51" source="#hiring" target="#UX" weight="3216" />
+      <edge id="52" source="#SpaceX" target="#NASA" weight="3216" />
+      <edge id="53" source="#GoBucks" target="#cbusproud" weight="3216" />
+      <edge id="54" source="#fsharp" target="#columbus" weight="3216" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#healthcareleadership" label="#healthcareleadership" />
+      <node id="#PRSAHealth" label="#PRSAHealth" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#NYFW" label="#NYFW" />
+      <node id="#prsahealthselfie" label="#prsahealthselfie" />
+      <node id="#ToryBurch" label="#ToryBurch" />
+      <node id="#WeCanICan" label="#WeCanICan" />
+      <node id="#Autism" label="#Autism" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#Alzheimers" label="#Alzheimers" />
+      <node id="#100projects100days" label="#100projects100days" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#encorechat" label="#encorechat" />
+      <node id="#health" label="#health" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#3Dprinting" label="#3Dprinting" />
+      <node id="#cureaccelerator" label="#cureaccelerator" />
+      <node id="#drugrepurposing" label="#drugrepurposing" />
+      <node id="#ToryBurchFall15" label="#ToryBurchFall15" />
+      <node id="#Solar" label="#Solar" />
+      <node id="#lymphoma" label="#lymphoma" />
+      <node id="#PR" label="#PR" />
+      <node id="#WorldCancerDay" label="#WorldCancerDay" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#healthcareleadership" target="#healthcare" weight="137" />
+      <edge id="1" source="#PRSAHealth" target="#PR" weight="137" />
+      <edge id="2" source="#PRSAHealth" target="#health" weight="137" />
+      <edge id="3" source="#entrepreneurs" target="#encorechat" weight="137" />
+      <edge id="4" source="#NYFW" target="#ToryBurch" weight="137" />
+      <edge id="5" source="#NYFW" target="#ToryBurchFall15" weight="137" />
+      <edge id="6" source="#prsahealthselfie" target="#PR" weight="137" />
+      <edge id="7" source="#ToryBurch" target="#ToryBurchFall15" weight="137" />
+      <edge id="8" source="#WeCanICan" target="#cancer" weight="137" />
+      <edge id="9" source="#WeCanICan" target="#WorldCancerDay" weight="137" />
+      <edge id="10" source="#Autism" target="#drugrepurposing" weight="137" />
+      <edge id="11" source="#Autism" target="#Alzheimers" weight="137" />
+      <edge id="12" source="#Autism" target="#cancer" weight="137" />
+      <edge id="13" source="#Autism" target="#diabetes" weight="137" />
+      <edge id="14" source="#diabetes" target="#drugrepurposing" weight="137" />
+      <edge id="15" source="#diabetes" target="#Alzheimers" weight="137" />
+      <edge id="16" source="#diabetes" target="#cancer" weight="137" />
+      <edge id="17" source="#Alzheimers" target="#drugrepurposing" weight="137" />
+      <edge id="18" source="#Alzheimers" target="#cancer" weight="137" />
+      <edge id="19" source="#100projects100days" target="#cureaccelerator" weight="137" />
+      <edge id="20" source="#100projects100days" target="#drugrepurposing" weight="137" />
+      <edge id="21" source="#100projects100days" target="#lymphoma" weight="137" />
+      <edge id="22" source="#cancer" target="#drugrepurposing" weight="137" />
+      <edge id="23" source="#cancer" target="#WorldCancerDay" weight="137" />
+      <edge id="24" source="#health" target="#PR" weight="137" />
+      <edge id="25" source="#3Dprinting" target="#Solar" weight="137" />
+      <edge id="26" source="#cureaccelerator" target="#drugrepurposing" weight="411" />
+      <edge id="27" source="#cureaccelerator" target="#lymphoma" weight="137" />
+      <edge id="28" source="#drugrepurposing" target="#lymphoma" weight="137" />
+    </edges>
+  </graph>
+</gexf>

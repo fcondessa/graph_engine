@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#RyanLochte" label="#RyanLochte" />
+      <node id="#run" label="#run" />
+      <node id="#MiamiOH" label="#MiamiOH" />
+      <node id="#GetOutandVote" label="#GetOutandVote" />
+      <node id="#baseball" label="#baseball" />
+      <node id="#FCCincy" label="#FCCincy" />
+      <node id="#miamioh" label="#miamioh" />
+      <node id="#CINvCHS" label="#CINvCHS" />
+      <node id="#running" label="#running" />
+      <node id="#beatLA" label="#beatLA" />
+      <node id="#LetsGoReds" label="#LetsGoReds" />
+      <node id="#GoBlue" label="#GoBlue" />
+      <node id="#Bills" label="#Bills" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#dodgers" label="#dodgers" />
+      <node id="#Chargers" label="#Chargers" />
+      <node id="#giants" label="#giants" />
+      <node id="#RiseTogether" label="#RiseTogether" />
+      <node id="#Brotherhood" label="#Brotherhood" />
+      <node id="#RiseUpRedHawks" label="#RiseUpRedHawks" />
+      <node id="#ProBlue" label="#ProBlue" />
+      <node id="#BREAKING" label="#BREAKING" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#RyanLochte" target="#BREAKING" weight="3223" />
+      <edge id="1" source="#run" target="#running" weight="32230" />
+      <edge id="2" source="#MiamiOH" target="#baseball" weight="3223" />
+      <edge id="3" source="#MiamiOH" target="#LetsGoReds" weight="3223" />
+      <edge id="4" source="#GetOutandVote" target="#Brotherhood" weight="3223" />
+      <edge id="5" source="#baseball" target="#LetsGoReds" weight="3223" />
+      <edge id="6" source="#FCCincy" target="#CINvCHS" weight="3223" />
+      <edge id="7" source="#FCCincy" target="#RiseTogether" weight="3223" />
+      <edge id="8" source="#miamioh" target="#RiseUpRedHawks" weight="3223" />
+      <edge id="9" source="#beatLA" target="#dodgers" weight="3223" />
+      <edge id="10" source="#beatLA" target="#giants" weight="3223" />
+      <edge id="11" source="#GoBlue" target="#ProBlue" weight="3223" />
+      <edge id="12" source="#Bills" target="#49ers" weight="3223" />
+      <edge id="13" source="#49ers" target="#Chargers" weight="3223" />
+      <edge id="14" source="#dodgers" target="#giants" weight="3223" />
+    </edges>
+  </graph>
+</gexf>

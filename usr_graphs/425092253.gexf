@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#japan" label="#japan" />
+      <node id="#HilliardProud" label="#HilliardProud" />
+      <node id="#VCs" label="#VCs" />
+      <node id="#biosortia" label="#biosortia" />
+      <node id="#Broncos" label="#Broncos" />
+      <node id="#jpm16" label="#jpm16" />
+      <node id="#JLABSSD" label="#JLABSSD" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#rossoyoungs" label="#rossoyoungs" />
+      <node id="#AVS" label="#AVS" />
+      <node id="#drugs" label="#drugs" />
+      <node id="#pharma" label="#pharma" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#GoHerd" label="#GoHerd" />
+      <node id="#JNJCulture" label="#JNJCulture" />
+      <node id="#MarineDrugs" label="#MarineDrugs" />
+      <node id="#BeatCoffman" label="#BeatCoffman" />
+      <node id="#WhyOhio" label="#WhyOhio" />
+      <node id="#CFAES" label="#CFAES" />
+      <node id="#CINvsBUF" label="#CINvsBUF" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#ToolsoftheTrade" label="#ToolsoftheTrade" />
+      <node id="#Biosortia" label="#Biosortia" />
+      <node id="#chemicals" label="#chemicals" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#JLABSTMC" label="#JLABSTMC" />
+      <node id="#medicines" label="#medicines" />
+      <node id="#JLABSCo" label="#JLABSCo" />
+      <node id="#CTSA" label="#CTSA" />
+      <node id="#team" label="#team" />
+      <node id="#EsuranceSweepstakes" label="#EsuranceSweepstakes" />
+      <node id="#Butamax" label="#Butamax" />
+      <node id="#JLABS" label="#JLABS" />
+      <node id="#BioOhioMember" label="#BioOhioMember" />
+      <node id="#spotlight" label="#spotlight" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#avlnews" label="#avlnews" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#mvp" label="#mvp" />
+      <node id="#drainmayhem" label="#drainmayhem" />
+      <node id="#RESI4" label="#RESI4" />
+      <node id="#OHSAA" label="#OHSAA" />
+      <node id="#OHSAAplayoffs" label="#OHSAAplayoffs" />
+      <node id="#JJI" label="#JJI" />
+      <node id="#BeatDarby" label="#BeatDarby" />
+      <node id="#SB50" label="#SB50" />
+      <node id="#10TV" label="#10TV" />
+      <node id="#JLABSBay" label="#JLABSBay" />
+      <node id="#RIPKosta" label="#RIPKosta" />
+      <node id="#CancerMoonShot2020" label="#CancerMoonShot2020" />
+      <node id="#OA" label="#OA" />
+      <node id="#letsroar" label="#letsroar" />
+      <node id="#SportsBrain" label="#SportsBrain" />
+      <node id="#algae" label="#algae" />
+      <node id="#espionage" label="#espionage" />
+      <node id="#research" label="#research" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#TTUN" label="#TTUN" />
+      <node id="#thunderstruck" label="#thunderstruck" />
+      <node id="#WeAintDoneYet" label="#WeAintDoneYet" />
+      <node id="#KI" label="#KI" />
+      <node id="#OBC" label="#OBC" />
+      <node id="#Toxic" label="#Toxic" />
+      <node id="#JNJ" label="#JNJ" />
+      <node id="#NBC4" label="#NBC4" />
+      <node id="#BIO2016" label="#BIO2016" />
+      <node id="#HilliardWay" label="#HilliardWay" />
+      <node id="#Amazon" label="#Amazon" />
+      <node id="#satchat" label="#satchat" />
+      <node id="#AFib" label="#AFib" />
+      <node id="#CINvsPIT" label="#CINvsPIT" />
+      <node id="#competitions" label="#competitions" />
+      <node id="#all_shots" label="#all_shots" />
+      <node id="#GoCats" label="#GoCats" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#medicaldevice" label="#medicaldevice" />
+      <node id="#OARDC" label="#OARDC" />
+      <node id="#tech" label="#tech" />
+      <node id="#breastcancer" label="#breastcancer" />
+      <node id="#ReachHigher" label="#ReachHigher" />
+      <node id="#LebronJames" label="#LebronJames" />
+      <node id="#StoriedRivals" label="#StoriedRivals" />
+      <node id="#CLSAPantheon" label="#CLSAPantheon" />
+      <node id="#CowenHealthCare" label="#CowenHealthCare" />
+      <node id="#startups" label="#startups" />
+      <node id="#SanFrancisco" label="#SanFrancisco" />
+      <node id="#print" label="#print" />
+      <node id="#jobsearch" label="#jobsearch" />
+      <node id="#sweepstakes" label="#sweepstakes" />
+      <node id="#career" label="#career" />
+      <node id="#biotech" label="#biotech" />
+      <node id="#Fact" label="#Fact" />
+      <node id="#universities" label="#universities" />
+      <node id="#SynBio" label="#SynBio" />
+      <node id="#IOC" label="#IOC" />
+      <node id="#protein" label="#protein" />
+      <node id="#immunotherapies" label="#immunotherapies" />
+      <node id="#wrestling" label="#wrestling" />
+      <node id="#gameday" label="#gameday" />
+      <node id="#finishdavidsonstrong" label="#finishdavidsonstrong" />
+      <node id="#WeAre" label="#WeAre" />
+      <node id="#JLABSToronto" label="#JLABSToronto" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#bubbleH" label="#bubbleH" />
+      <node id="#endcancer" label="#endcancer" />
+      <node id="#Bus5pride" label="#Bus5pride" />
+      <node id="#VoteNo" label="#VoteNo" />
+      <node id="#WeAreDavidson" label="#WeAreDavidson" />
+      <node id="#H" label="#H" />
+      <node id="#RNC2016" label="#RNC2016" />
+      <node id="#CanServe" label="#CanServe" />
+      <node id="#goingtobeagood" label="#goingtobeagood" />
+      <node id="#GoFlyers" label="#GoFlyers" />
+      <node id="#China" label="#China" />
+      <node id="#meetwith" label="#meetwith" />
+      <node id="#Kyprolis" label="#Kyprolis" />
+      <node id="#midwest" label="#midwest" />
+      <node id="#avlenv" label="#avlenv" />
+      <node id="#HealthTech" label="#HealthTech" />
+      <node id="#youvebeen" label="#youvebeen" />
+      <node id="#Archival" label="#Archival" />
+      <node id="#wearedavidson" label="#wearedavidson" />
+      <node id="#Machine2013" label="#Machine2013" />
+      <node id="#Algaculture" label="#Algaculture" />
+      <node id="#openscience" label="#openscience" />
+      <node id="#Heisman" label="#Heisman" />
+      <node id="#Bioactives" label="#Bioactives" />
+      <node id="#nematodes" label="#nematodes" />
+      <node id="#AHA15" label="#AHA15" />
+      <node id="#ASCO14" label="#ASCO14" />
+      <node id="#blessed" label="#blessed" />
+      <node id="#lifescience" label="#lifescience" />
+      <node id="#antibody" label="#antibody" />
+      <node id="#Office365" label="#Office365" />
+      <node id="#ATLvsCIN" label="#ATLvsCIN" />
+      <node id="#pharmaceutical" label="#pharmaceutical" />
+      <node id="#Columbus2020" label="#Columbus2020" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#algaevs" label="#algaevs" />
+      <node id="#fruits" label="#fruits" />
+      <node id="#BristolMyersSquibb" label="#BristolMyersSquibb" />
+      <node id="#SacredHeart" label="#SacredHeart" />
+      <node id="#largepharma" label="#largepharma" />
+      <node id="#presentations" label="#presentations" />
+      <node id="#risingstar" label="#risingstar" />
+      <node id="#MHVF" label="#MHVF" />
+      <node id="#omega3" label="#omega3" />
+      <node id="#science" label="#science" />
+      <node id="#batsignal" label="#batsignal" />
+      <node id="#finish" label="#finish" />
+      <node id="#lax" label="#lax" />
+      <node id="#SanDiego" label="#SanDiego" />
+      <node id="#ICV" label="#ICV" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#raffle" label="#raffle" />
+      <node id="#news" label="#news" />
+      <node id="#ChatAFib" label="#ChatAFib" />
+      <node id="#BTS14" label="#BTS14" />
+      <node id="#gobears" label="#gobears" />
+      <node id="#delawareoh" label="#delawareoh" />
+      <node id="#davidsonstrong" label="#davidsonstrong" />
+      <node id="#JLABS16" label="#JLABS16" />
+      <node id="#VoteYes" label="#VoteYes" />
+      <node id="#BreastCancer" label="#BreastCancer" />
+      <node id="#pharmaceutics" label="#pharmaceutics" />
+      <node id="#fun" label="#fun" />
+      <node id="#DiscoveryFastTrack" label="#DiscoveryFastTrack" />
+      <node id="#Teva" label="#Teva" />
+      <node id="#Rossoyoungs" label="#Rossoyoungs" />
+      <node id="#endTB" label="#endTB" />
+      <node id="#biobetters" label="#biobetters" />
+      <node id="#youthFB" label="#youthFB" />
+      <node id="#NEBvsOSU" label="#NEBvsOSU" />
+      <node id="#WeCanICan" label="#WeCanICan" />
+      <node id="#Paris" label="#Paris" />
+      <node id="#biomass" label="#biomass" />
+      <node id="#oncology" label="#oncology" />
+      <node id="#StillHungry" label="#StillHungry" />
+      <node id="#veggies" label="#veggies" />
+      <node id="#CA" label="#CA" />
+      <node id="#invest" label="#invest" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#Scotland" label="#Scotland" />
+      <node id="#Diseases" label="#Diseases" />
+      <node id="#Indy500" label="#Indy500" />
+      <node id="#Bengals" label="#Bengals" />
+      <node id="#agriculture" label="#agriculture" />
+      <node id="#green" label="#green" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#NonCommunicable" label="#NonCommunicable" />
+      <node id="#GlaxoSmithKline" label="#GlaxoSmithKline" />
+      <node id="#AcademicTrendsetters" label="#AcademicTrendsetters" />
+      <node id="#Zika" label="#Zika" />
+      <node id="#DOE" label="#DOE" />
+      <node id="#immunotherapeutic" label="#immunotherapeutic" />
+      <node id="#oldbunnys" label="#oldbunnys" />
+      <node id="#OnuAdvantagez" label="#OnuAdvantagez" />
+      <node id="#Diabetes" label="#Diabetes" />
+      <node id="#biofuels" label="#biofuels" />
+      <node id="#JPM" label="#JPM" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#treemayhem" label="#treemayhem" />
+      <node id="#relationships" label="#relationships" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#timeflies" label="#timeflies" />
+      <node id="#gohdcats" label="#gohdcats" />
+      <node id="#bc4c" label="#bc4c" />
+      <node id="#MVHF" label="#MVHF" />
+      <node id="#healthtech" label="#healthtech" />
+      <node id="#malaria" label="#malaria" />
+      <node id="#Entrepreneurship" label="#Entrepreneurship" />
+      <node id="#JPM14" label="#JPM14" />
+      <node id="#BestTeamEver" label="#BestTeamEver" />
+      <node id="#CognitiveVentures" label="#CognitiveVentures" />
+      <node id="#HM15" label="#HM15" />
+      <node id="#Seaweed" label="#Seaweed" />
+      <node id="#BD" label="#BD" />
+      <node id="#CONNECT" label="#CONNECT" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#B1GLax" label="#B1GLax" />
+      <node id="#HB" label="#HB" />
+      <node id="#JPM16" label="#JPM16" />
+      <node id="#startup" label="#startup" />
+      <node id="#potatoes" label="#potatoes" />
+      <node id="#biopharma" label="#biopharma" />
+      <node id="#biofuel" label="#biofuel" />
+      <node id="#medicine" label="#medicine" />
+      <node id="#startuplife" label="#startuplife" />
+      <node id="#biocom" label="#biocom" />
+      <node id="#humbling" label="#humbling" />
+      <node id="#Omega3" label="#Omega3" />
+      <node id="#disease" label="#disease" />
+      <node id="#biosystems" label="#biosystems" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#whodey" label="#whodey" />
+      <node id="#gno" label="#gno" />
+      <node id="#innovations" label="#innovations" />
+      <node id="#alumni" label="#alumni" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#HilliardHappenings" label="#HilliardHappenings" />
+      <node id="#LetsRoar" label="#LetsRoar" />
+      <node id="#MDPI" label="#MDPI" />
+      <node id="#plastics" label="#plastics" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#Week8" label="#Week8" />
+      <node id="#OhioHM15" label="#OhioHM15" />
+      <node id="#Partnerships" label="#Partnerships" />
+      <node id="#MDRTB" label="#MDRTB" />
+      <node id="#ILoveCrepes" label="#ILoveCrepes" />
+      <node id="#WorldCancerDay" label="#WorldCancerDay" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#mvp" weight="2696" />
+      <edge id="1" source="#truth" target="#LebronJames" weight="2696" />
+      <edge id="2" source="#japan" target="#algae" weight="2696" />
+      <edge id="3" source="#japan" target="#biofuel" weight="2696" />
+      <edge id="4" source="#HilliardProud" target="#HilliardHappenings" weight="2696" />
+      <edge id="5" source="#VCs" target="#JLABSCo" weight="2696" />
+      <edge id="6" source="#VCs" target="#JLABSSD" weight="2696" />
+      <edge id="7" source="#VCs" target="#JLABS" weight="2696" />
+      <edge id="8" source="#biosortia" target="#algaevs" weight="2696" />
+      <edge id="9" source="#biosortia" target="#JNJ" weight="2696" />
+      <edge id="10" source="#biosortia" target="#Teva" weight="2696" />
+      <edge id="11" source="#biosortia" target="#largepharma" weight="2696" />
+      <edge id="12" source="#biosortia" target="#BTS14" weight="2696" />
+      <edge id="13" source="#biosortia" target="#JLABS" weight="2696" />
+      <edge id="14" source="#biosortia" target="#MHVF" weight="2696" />
+      <edge id="15" source="#biosortia" target="#CowenHealthCare" weight="2696" />
+      <edge id="16" source="#biosortia" target="#jpm16" weight="2696" />
+      <edge id="17" source="#biosortia" target="#JPM14" weight="5392" />
+      <edge id="18" source="#biosortia" target="#rossoyoungs" weight="5392" />
+      <edge id="19" source="#biosortia" target="#AVS" weight="2696" />
+      <edge id="20" source="#Broncos" target="#Bengals" weight="2696" />
+      <edge id="21" source="#JLABSSD" target="#JLABSCo" weight="2696" />
+      <edge id="22" source="#JLABSSD" target="#biotech" weight="2696" />
+      <edge id="23" source="#JLABSSD" target="#JLABS" weight="2696" />
+      <edge id="24" source="#JLABSSD" target="#startup" weight="2696" />
+      <edge id="25" source="#JLABSSD" target="#spotlight" weight="2696" />
+      <edge id="26" source="#JLABSSD" target="#Partnerships" weight="2696" />
+      <edge id="27" source="#venturecapital" target="#MHVF" weight="2696" />
+      <edge id="28" source="#rossoyoungs" target="#Biosortia" weight="5392" />
+      <edge id="29" source="#rossoyoungs" target="#JPM14" weight="2696" />
+      <edge id="30" source="#rossoyoungs" target="#JLABS" weight="2696" />
+      <edge id="31" source="#AVS" target="#Biosortia" weight="5392" />
+      <edge id="32" source="#drugs" target="#medicine" weight="2696" />
+      <edge id="33" source="#pharma" target="#biotech" weight="2696" />
+      <edge id="34" source="#pharma" target="#Kyprolis" weight="2696" />
+      <edge id="35" source="#SuperBowl" target="#OhioState" weight="2696" />
+      <edge id="36" source="#GoHerd" target="#WeAre" weight="2696" />
+      <edge id="37" source="#JNJCulture" target="#JNJ" weight="2696" />
+      <edge id="38" source="#MarineDrugs" target="#openscience" weight="2696" />
+      <edge id="39" source="#MarineDrugs" target="#Bioactives" weight="2696" />
+      <edge id="40" source="#MarineDrugs" target="#OA" weight="2696" />
+      <edge id="41" source="#MarineDrugs" target="#NonCommunicable" weight="2696" />
+      <edge id="42" source="#MarineDrugs" target="#Seaweed" weight="2696" />
+      <edge id="43" source="#MarineDrugs" target="#MDPI" weight="2696" />
+      <edge id="44" source="#MarineDrugs" target="#Diseases" weight="2696" />
+      <edge id="45" source="#BeatCoffman" target="#H" weight="2696" />
+      <edge id="46" source="#WhyOhio" target="#OhioHM15" weight="2696" />
+      <edge id="47" source="#WhyOhio" target="#HM15" weight="2696" />
+      <edge id="48" source="#WhyOhio" target="#Ohio" weight="2696" />
+      <edge id="49" source="#CFAES" target="#OARDC" weight="2696" />
+      <edge id="50" source="#CFAES" target="#sustainability" weight="2696" />
+      <edge id="51" source="#CFAES" target="#news" weight="2696" />
+      <edge id="52" source="#CINvsBUF" target="#Bengals" weight="2696" />
+      <edge id="53" source="#Chicago" target="#innovations" weight="2696" />
+      <edge id="54" source="#Chicago" target="#healthtech" weight="2696" />
+      <edge id="55" source="#Chicago" target="#startups" weight="2696" />
+      <edge id="56" source="#Chicago" target="#universities" weight="2696" />
+      <edge id="57" source="#Chicago" target="#midwest" weight="2696" />
+      <edge id="58" source="#ToolsoftheTrade" target="#CTSA" weight="2696" />
+      <edge id="59" source="#Biosortia" target="#lifescience" weight="2696" />
+      <edge id="60" source="#Biosortia" target="#CowenHealthCare" weight="2696" />
+      <edge id="61" source="#Biosortia" target="#MHVF" weight="8088" />
+      <edge id="62" source="#Biosortia" target="#MVHF" weight="2696" />
+      <edge id="63" source="#Biosortia" target="#SanDiego" weight="2696" />
+      <edge id="64" source="#Biosortia" target="#JPM16" weight="2696" />
+      <edge id="65" source="#Biosortia" target="#ICV" weight="2696" />
+      <edge id="66" source="#Biosortia" target="#Rossoyoungs" weight="2696" />
+      <edge id="67" source="#Biosortia" target="#biocom" weight="2696" />
+      <edge id="68" source="#Biosortia" target="#JLABS" weight="5392" />
+      <edge id="69" source="#chemicals" target="#algae" weight="2696" />
+      <edge id="70" source="#chemicals" target="#plastics" weight="2696" />
+      <edge id="71" source="#cancer" target="#OhioState" weight="2696" />
+      <edge id="72" source="#cancer" target="#protein" weight="2696" />
+      <edge id="73" source="#cancer" target="#ASCO14" weight="2696" />
+      <edge id="74" source="#cancer" target="#Omega3" weight="2696" />
+      <edge id="75" source="#cancer" target="#malaria" weight="2696" />
+      <edge id="76" source="#cancer" target="#endcancer" weight="2696" />
+      <edge id="77" source="#JLABSTMC" target="#entrepreneur" weight="2696" />
+      <edge id="78" source="#JLABSTMC" target="#startups" weight="2696" />
+      <edge id="79" source="#JLABSTMC" target="#JLABS" weight="2696" />
+      <edge id="80" source="#medicines" target="#SynBio" weight="2696" />
+      <edge id="81" source="#medicines" target="#pharmaceutics" weight="2696" />
+      <edge id="82" source="#medicines" target="#biopharma" weight="2696" />
+      <edge id="83" source="#JLABSCo" target="#JLABS" weight="2696" />
+      <edge id="84" source="#team" target="#SanFrancisco" weight="2696" />
+      <edge id="85" source="#team" target="#JLABS" weight="2696" />
+      <edge id="86" source="#EsuranceSweepstakes" target="#SB50" weight="13480" />
+      <edge id="87" source="#Butamax" target="#DOE" weight="2696" />
+      <edge id="88" source="#Butamax" target="#biofuels" weight="2696" />
+      <edge id="89" source="#JLABS" target="#entrepreneur" weight="2696" />
+      <edge id="90" source="#JLABS" target="#CONNECT" weight="2696" />
+      <edge id="91" source="#JLABS" target="#startuplife" weight="2696" />
+      <edge id="92" source="#JLABS" target="#BestTeamEver" weight="2696" />
+      <edge id="93" source="#JLABS" target="#JLABS16" weight="2696" />
+      <edge id="94" source="#JLABS" target="#TGIF" weight="2696" />
+      <edge id="95" source="#JLABS" target="#startups" weight="2696" />
+      <edge id="96" source="#JLABS" target="#JLABSBay" weight="2696" />
+      <edge id="97" source="#JLABS" target="#SanDiego" weight="5392" />
+      <edge id="98" source="#JLABS" target="#JPM16" weight="5392" />
+      <edge id="99" source="#JLABS" target="#SanFrancisco" weight="2696" />
+      <edge id="100" source="#JLABS" target="#JNJ" weight="5392" />
+      <edge id="101" source="#BioOhioMember" target="#medicaldevice" weight="2696" />
+      <edge id="102" source="#BioOhioMember" target="#pharmaceutical" weight="2696" />
+      <edge id="103" source="#spotlight" target="#biotech" weight="2696" />
+      <edge id="104" source="#spotlight" target="#startup" weight="2696" />
+      <edge id="105" source="#Cancer" target="#bc4c" weight="2696" />
+      <edge id="106" source="#Cancer" target="#CanServe" weight="2696" />
+      <edge id="107" source="#Cancer" target="#TTUN" weight="2696" />
+      <edge id="108" source="#avlnews" target="#avlenv" weight="2696" />
+      <edge id="109" source="#Innovation" target="#JNJ" weight="2696" />
+      <edge id="110" source="#mvp" target="#LebronJames" weight="2696" />
+      <edge id="111" source="#drainmayhem" target="#sweepstakes" weight="2696" />
+      <edge id="112" source="#RESI4" target="#JPM" weight="2696" />
+      <edge id="113" source="#RESI4" target="#biotech" weight="2696" />
+      <edge id="114" source="#OHSAA" target="#StoriedRivals" weight="5392" />
+      <edge id="115" source="#OHSAA" target="#WeAreDavidson" weight="2696" />
+      <edge id="116" source="#OHSAAplayoffs" target="#StoriedRivals" weight="2696" />
+      <edge id="117" source="#JJI" target="#KI" weight="2696" />
+      <edge id="118" source="#BeatDarby" target="#GoCats" weight="2696" />
+      <edge id="119" source="#10TV" target="#CINvsPIT" weight="2696" />
+      <edge id="120" source="#10TV" target="#Week8" weight="2696" />
+      <edge id="121" source="#RIPKosta" target="#BuckeyeNation" weight="2696" />
+      <edge id="122" source="#CancerMoonShot2020" target="#immunotherapies" weight="2696" />
+      <edge id="123" source="#CancerMoonShot2020" target="#BreastCancer" weight="2696" />
+      <edge id="124" source="#CancerMoonShot2020" target="#breastcancer" weight="2696" />
+      <edge id="125" source="#OA" target="#openscience" weight="2696" />
+      <edge id="126" source="#OA" target="#Bioactives" weight="2696" />
+      <edge id="127" source="#OA" target="#Seaweed" weight="2696" />
+      <edge id="128" source="#OA" target="#NonCommunicable" weight="2696" />
+      <edge id="129" source="#OA" target="#Diseases" weight="2696" />
+      <edge id="130" source="#OA" target="#MDPI" weight="2696" />
+      <edge id="131" source="#letsroar" target="#whodey" weight="2696" />
+      <edge id="132" source="#SportsBrain" target="#Columbus2020" weight="2696" />
+      <edge id="133" source="#SportsBrain" target="#CognitiveVentures" weight="2696" />
+      <edge id="134" source="#algae" target="#agriculture" weight="2696" />
+      <edge id="135" source="#algae" target="#biofuels" weight="5392" />
+      <edge id="136" source="#algae" target="#science" weight="2696" />
+      <edge id="137" source="#algae" target="#Toxic" weight="2696" />
+      <edge id="138" source="#algae" target="#omega3" weight="2696" />
+      <edge id="139" source="#algae" target="#biomass" weight="2696" />
+      <edge id="140" source="#algae" target="#plastics" weight="2696" />
+      <edge id="141" source="#algae" target="#biofuel" weight="2696" />
+      <edge id="142" source="#espionage" target="#China" weight="2696" />
+      <edge id="143" source="#espionage" target="#antibody" weight="2696" />
+      <edge id="144" source="#espionage" target="#GlaxoSmithKline" weight="2696" />
+      <edge id="145" source="#espionage" target="#biobetters" weight="2696" />
+      <edge id="146" source="#research" target="#DiscoveryFastTrack" weight="2696" />
+      <edge id="147" source="#BREAKING" target="#Paris" weight="2696" />
+      <edge id="148" source="#BREAKING" target="#NBC4" weight="2696" />
+      <edge id="149" source="#TTUN" target="#bc4c" weight="2696" />
+      <edge id="150" source="#thunderstruck" target="#youvebeen" weight="2696" />
+      <edge id="151" source="#WeAintDoneYet" target="#BuckeyeNation" weight="2696" />
+      <edge id="152" source="#WeAintDoneYet" target="#GoBucks" weight="2696" />
+      <edge id="153" source="#OBC" target="#blessed" weight="2696" />
+      <edge id="154" source="#JNJ" target="#JPM14" weight="2696" />
+      <edge id="155" source="#JNJ" target="#Teva" weight="2696" />
+      <edge id="156" source="#JNJ" target="#JLABS16" weight="5392" />
+      <edge id="157" source="#JNJ" target="#JPM16" weight="5392" />
+      <edge id="158" source="#JNJ" target="#JNJ" weight="5392" />
+      <edge id="159" source="#BIO2016" target="#Zika" weight="2696" />
+      <edge id="160" source="#HilliardWay" target="#ReachHigher" weight="2696" />
+      <edge id="161" source="#Amazon" target="#Office365" weight="2696" />
+      <edge id="162" source="#satchat" target="#gameday" weight="2696" />
+      <edge id="163" source="#AFib" target="#ChatAFib" weight="2696" />
+      <edge id="164" source="#AFib" target="#DYK" weight="2696" />
+      <edge id="165" source="#AFib" target="#AHA15" weight="2696" />
+      <edge id="166" source="#CINvsPIT" target="#Week8" weight="2696" />
+      <edge id="167" source="#competitions" target="#fun" weight="2696" />
+      <edge id="168" source="#all_shots" target="#gno" weight="2696" />
+      <edge id="169" source="#Jobs" target="#career" weight="2696" />
+      <edge id="170" source="#medicaldevice" target="#pharmaceutical" weight="2696" />
+      <edge id="171" source="#OARDC" target="#biosystems" weight="2696" />
+      <edge id="172" source="#OARDC" target="#green" weight="2696" />
+      <edge id="173" source="#tech" target="#startup" weight="2696" />
+      <edge id="174" source="#tech" target="#invest" weight="2696" />
+      <edge id="175" source="#breastcancer" target="#immunotherapies" weight="2696" />
+      <edge id="176" source="#breastcancer" target="#BreastCancer" weight="2696" />
+      <edge id="177" source="#StoriedRivals" target="#wearedavidson" weight="2696" />
+      <edge id="178" source="#StoriedRivals" target="#WeAreDavidson" weight="2696" />
+      <edge id="179" source="#CLSAPantheon" target="#Fact" weight="2696" />
+      <edge id="180" source="#startups" target="#innovations" weight="2696" />
+      <edge id="181" source="#startups" target="#entrepreneur" weight="2696" />
+      <edge id="182" source="#startups" target="#midwest" weight="2696" />
+      <edge id="183" source="#startups" target="#healthtech" weight="2696" />
+      <edge id="184" source="#startups" target="#universities" weight="2696" />
+      <edge id="185" source="#print" target="#Archival" weight="2696" />
+      <edge id="186" source="#print" target="#presentations" weight="2696" />
+      <edge id="187" source="#jobsearch" target="#SanDiego" weight="5392" />
+      <edge id="188" source="#jobsearch" target="#CA" weight="5392" />
+      <edge id="189" source="#jobsearch" target="#jobs" weight="5392" />
+      <edge id="190" source="#sweepstakes" target="#treemayhem" weight="2696" />
+      <edge id="191" source="#biotech" target="#JPM" weight="2696" />
+      <edge id="192" source="#biotech" target="#startup" weight="2696" />
+      <edge id="193" source="#biotech" target="#antibody" weight="2696" />
+      <edge id="194" source="#biotech" target="#disease" weight="2696" />
+      <edge id="195" source="#universities" target="#innovations" weight="2696" />
+      <edge id="196" source="#universities" target="#healthtech" weight="2696" />
+      <edge id="197" source="#universities" target="#midwest" weight="2696" />
+      <edge id="198" source="#SynBio" target="#pharmaceutics" weight="2696" />
+      <edge id="199" source="#SynBio" target="#biopharma" weight="2696" />
+      <edge id="200" source="#IOC" target="#Olympics" weight="2696" />
+      <edge id="201" source="#IOC" target="#wrestling" weight="2696" />
+      <edge id="202" source="#protein" target="#malaria" weight="2696" />
+      <edge id="203" source="#immunotherapies" target="#BreastCancer" weight="2696" />
+      <edge id="204" source="#wrestling" target="#Olympics" weight="2696" />
+      <edge id="205" source="#finishdavidsonstrong" target="#gohdcats" weight="2696" />
+      <edge id="206" source="#JLABSToronto" target="#meetwith" weight="2696" />
+      <edge id="207" source="#DYK" target="#AHA15" weight="2696" />
+      <edge id="208" source="#bubbleH" target="#batsignal" weight="2696" />
+      <edge id="209" source="#bubbleH" target="#alumni" weight="2696" />
+      <edge id="210" source="#Bus5pride" target="#humbling" weight="2696" />
+      <edge id="211" source="#VoteNo" target="#Scotland" weight="2696" />
+      <edge id="212" source="#VoteNo" target="#VoteYes" weight="2696" />
+      <edge id="213" source="#VoteNo" target="#ohio" weight="2696" />
+      <edge id="214" source="#RNC2016" target="#Ohio" weight="2696" />
+      <edge id="215" source="#goingtobeagood" target="#gobears" weight="2696" />
+      <edge id="216" source="#GoFlyers" target="#StillHungry" weight="2696" />
+      <edge id="217" source="#China" target="#GlaxoSmithKline" weight="2696" />
+      <edge id="218" source="#China" target="#antibody" weight="2696" />
+      <edge id="219" source="#China" target="#biobetters" weight="2696" />
+      <edge id="220" source="#midwest" target="#innovations" weight="2696" />
+      <edge id="221" source="#midwest" target="#healthtech" weight="2696" />
+      <edge id="222" source="#midwest" target="#MHVF" weight="2696" />
+      <edge id="223" source="#midwest" target="#HealthTech" weight="2696" />
+      <edge id="224" source="#HealthTech" target="#MHVF" weight="2696" />
+      <edge id="225" source="#Archival" target="#presentations" weight="2696" />
+      <edge id="226" source="#Machine2013" target="#SacredHeart" weight="2696" />
+      <edge id="227" source="#Algaculture" target="#HB" weight="2696" />
+      <edge id="228" source="#openscience" target="#Diseases" weight="2696" />
+      <edge id="229" source="#openscience" target="#Bioactives" weight="2696" />
+      <edge id="230" source="#openscience" target="#NonCommunicable" weight="2696" />
+      <edge id="231" source="#openscience" target="#Seaweed" weight="2696" />
+      <edge id="232" source="#openscience" target="#MDPI" weight="2696" />
+      <edge id="233" source="#Heisman" target="#NEBvsOSU" weight="2696" />
+      <edge id="234" source="#Bioactives" target="#Seaweed" weight="2696" />
+      <edge id="235" source="#Bioactives" target="#NonCommunicable" weight="2696" />
+      <edge id="236" source="#Bioactives" target="#Diseases" weight="2696" />
+      <edge id="237" source="#Bioactives" target="#MDPI" weight="2696" />
+      <edge id="238" source="#nematodes" target="#potatoes" weight="2696" />
+      <edge id="239" source="#antibody" target="#GlaxoSmithKline" weight="2696" />
+      <edge id="240" source="#antibody" target="#biobetters" weight="2696" />
+      <edge id="241" source="#ATLvsCIN" target="#LetsRoar" weight="2696" />
+      <edge id="242" source="#Columbus2020" target="#CognitiveVentures" weight="2696" />
+      <edge id="243" source="#entrepreneurship" target="#startup" weight="2696" />
+      <edge id="244" source="#Ohio" target="#OhioHM15" weight="2696" />
+      <edge id="245" source="#Ohio" target="#HM15" weight="2696" />
+      <edge id="246" source="#fruits" target="#veggies" weight="2696" />
+      <edge id="247" source="#BristolMyersSquibb" target="#Diabetes" weight="5392" />
+      <edge id="248" source="#risingstar" target="#youthFB" weight="2696" />
+      <edge id="249" source="#science" target="#agriculture" weight="2696" />
+      <edge id="250" source="#science" target="#biomass" weight="2696" />
+      <edge id="251" source="#batsignal" target="#alumni" weight="2696" />
+      <edge id="252" source="#finish" target="#oldbunnys" weight="2696" />
+      <edge id="253" source="#finish" target="#timeflies" weight="2696" />
+      <edge id="254" source="#lax" target="#delawareoh" weight="2696" />
+      <edge id="255" source="#SanDiego" target="#jobs" weight="5392" />
+      <edge id="256" source="#SanDiego" target="#CONNECT" weight="2696" />
+      <edge id="257" source="#SanDiego" target="#CA" weight="5392" />
+      <edge id="258" source="#ICV" target="#JPM16" weight="2696" />
+      <edge id="259" source="#raffle" target="#davidsonstrong" weight="2696" />
+      <edge id="260" source="#news" target="#sustainability" weight="2696" />
+      <edge id="261" source="#JLABS16" target="#JPM16" weight="2696" />
+      <edge id="262" source="#VoteYes" target="#Scotland" weight="2696" />
+      <edge id="263" source="#VoteYes" target="#ohio" weight="2696" />
+      <edge id="264" source="#pharmaceutics" target="#biopharma" weight="2696" />
+      <edge id="265" source="#Teva" target="#JPM14" weight="2696" />
+      <edge id="266" source="#endTB" target="#MDRTB" weight="2696" />
+      <edge id="267" source="#biobetters" target="#GlaxoSmithKline" weight="2696" />
+      <edge id="268" source="#WeCanICan" target="#WorldCancerDay" weight="2696" />
+      <edge id="269" source="#biomass" target="#agriculture" weight="2696" />
+      <edge id="270" source="#oncology" target="#immunotherapeutic" weight="2696" />
+      <edge id="271" source="#CA" target="#jobs" weight="5392" />
+      <edge id="272" source="#invest" target="#startup" weight="2696" />
+      <edge id="273" source="#ohio" target="#Scotland" weight="2696" />
+      <edge id="274" source="#Diseases" target="#NonCommunicable" weight="2696" />
+      <edge id="275" source="#Diseases" target="#Seaweed" weight="2696" />
+      <edge id="276" source="#Diseases" target="#MDPI" weight="2696" />
+      <edge id="277" source="#Indy500" target="#ILoveCrepes" weight="2696" />
+      <edge id="278" source="#Bengals" target="#whodey" weight="5392" />
+      <edge id="279" source="#Bengals" target="#Bengals" weight="5392" />
+      <edge id="280" source="#green" target="#biosystems" weight="2696" />
+      <edge id="281" source="#GoBucks" target="#B1GLax" weight="2696" />
+      <edge id="282" source="#GoBucks" target="#BuckeyeNation" weight="2696" />
+      <edge id="283" source="#NonCommunicable" target="#Seaweed" weight="2696" />
+      <edge id="284" source="#NonCommunicable" target="#MDPI" weight="2696" />
+      <edge id="285" source="#AcademicTrendsetters" target="#OnuAdvantagez" weight="2696" />
+      <edge id="286" source="#DOE" target="#biofuels" weight="2696" />
+      <edge id="287" source="#oldbunnys" target="#timeflies" weight="2696" />
+      <edge id="288" source="#Diabetes" target="#Diabetes" weight="5392" />
+      <edge id="289" source="#relationships" target="#BD" weight="2696" />
+      <edge id="290" source="#healthtech" target="#innovations" weight="2696" />
+      <edge id="291" source="#Entrepreneurship" target="#startup" weight="2696" />
+      <edge id="292" source="#HM15" target="#OhioHM15" weight="2696" />
+      <edge id="293" source="#Seaweed" target="#MDPI" weight="2696" />
+      <edge id="294" source="#TGIF" target="#startuplife" weight="2696" />
+    </edges>
+  </graph>
+</gexf>

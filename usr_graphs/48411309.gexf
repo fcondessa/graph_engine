@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#homelessness" label="#homelessness" />
+      <node id="#TSWebinars" label="#TSWebinars" />
+      <node id="#MSP" label="#MSP" />
+      <node id="#stl" label="#stl" />
+      <node id="#DownSyndrome" label="#DownSyndrome" />
+      <node id="#IRS" label="#IRS" />
+      <node id="#FashionWeek" label="#FashionWeek" />
+      <node id="#Tucson" label="#Tucson" />
+      <node id="#anfchallenge" label="#anfchallenge" />
+      <node id="#cbusbuddywalk" label="#cbusbuddywalk" />
+      <node id="#Edtech" label="#Edtech" />
+      <node id="#storytelling" label="#storytelling" />
+      <node id="#InternetOfThings" label="#InternetOfThings" />
+      <node id="#generosity" label="#generosity" />
+      <node id="#SmartCities" label="#SmartCities" />
+      <node id="#strauss" label="#strauss" />
+      <node id="#Passwords" label="#Passwords" />
+      <node id="#AFP15" label="#AFP15" />
+      <node id="#prezi" label="#prezi" />
+      <node id="#nonprofit" label="#nonprofit" />
+      <node id="#Worthington" label="#Worthington" />
+      <node id="#webdesign" label="#webdesign" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#designer" label="#designer" />
+      <node id="#BWATL" label="#BWATL" />
+      <node id="#cmcforum" label="#cmcforum" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#NMTI" label="#NMTI" />
+      <node id="#IoTWF" label="#IoTWF" />
+      <node id="#newalbanyohio" label="#newalbanyohio" />
+      <node id="#Take5forDs" label="#Take5forDs" />
+      <node id="#cbusmetroclub" label="#cbusmetroclub" />
+      <node id="#broadband" label="#broadband" />
+      <node id="#NTC16" label="#NTC16" />
+      <node id="#Nonprofit" label="#Nonprofit" />
+      <node id="#AskCbus" label="#AskCbus" />
+      <node id="#philanthropy" label="#philanthropy" />
+      <node id="#BuddyWalk" label="#BuddyWalk" />
+      <node id="#ITsecurity" label="#ITsecurity" />
+      <node id="#stateofpoverty" label="#stateofpoverty" />
+      <node id="#ICFSummit" label="#ICFSummit" />
+      <node id="#WDSD16" label="#WDSD16" />
+      <node id="#CyberSecurity" label="#CyberSecurity" />
+      <node id="#franklincounty" label="#franklincounty" />
+      <node id="#16NTC" label="#16NTC" />
+      <node id="#nptech" label="#nptech" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#tech" label="#tech" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#givingback" label="#givingback" />
+      <node id="#teamalex" label="#teamalex" />
+      <node id="#Net2" label="#Net2" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#cloudcomputing" label="#cloudcomputing" />
+      <node id="#tchaikovsky" label="#tchaikovsky" />
+      <node id="#Downsyndrome" label="#Downsyndrome" />
+      <node id="#AFPFC" label="#AFPFC" />
+      <node id="#ux" label="#ux" />
+      <node id="#nonprofits" label="#nonprofits" />
+      <node id="#fightcancer" label="#fightcancer" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#IT" label="#IT" />
+      <node id="#smartcity" label="#smartcity" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#IoT" label="#IoT" />
+      <node id="#AFPeeps" label="#AFPeeps" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#homelessness" target="#stateofpoverty" weight="666" />
+      <edge id="1" source="#homelessness" target="#franklincounty" weight="666" />
+      <edge id="2" source="#TSWebinars" target="#nptech" weight="666" />
+      <edge id="3" source="#MSP" target="#ITsecurity" weight="666" />
+      <edge id="4" source="#MSP" target="#Passwords" weight="666" />
+      <edge id="5" source="#stl" target="#generosity" weight="666" />
+      <edge id="6" source="#stl" target="#fightcancer" weight="666" />
+      <edge id="7" source="#stl" target="#givingback" weight="666" />
+      <edge id="8" source="#DownSyndrome" target="#BuddyWalk" weight="666" />
+      <edge id="9" source="#IRS" target="#nonprofit" weight="666" />
+      <edge id="10" source="#IRS" target="#philanthropy" weight="666" />
+      <edge id="11" source="#FashionWeek" target="#Downsyndrome" weight="666" />
+      <edge id="12" source="#Tucson" target="#BuddyWalk" weight="666" />
+      <edge id="13" source="#anfchallenge" target="#newalbanyohio" weight="666" />
+      <edge id="14" source="#cbusbuddywalk" target="#teamalex" weight="666" />
+      <edge id="15" source="#Edtech" target="#broadband" weight="666" />
+      <edge id="16" source="#storytelling" target="#nonprofit" weight="666" />
+      <edge id="17" source="#InternetOfThings" target="#IoTWF" weight="666" />
+      <edge id="18" source="#InternetOfThings" target="#IoT" weight="666" />
+      <edge id="19" source="#InternetOfThings" target="#CyberSecurity" weight="666" />
+      <edge id="20" source="#InternetOfThings" target="#BigData" weight="666" />
+      <edge id="21" source="#generosity" target="#fightcancer" weight="666" />
+      <edge id="22" source="#generosity" target="#givingback" weight="666" />
+      <edge id="23" source="#SmartCities" target="#SmartColumbus" weight="666" />
+      <edge id="24" source="#SmartCities" target="#AskCbus" weight="666" />
+      <edge id="25" source="#strauss" target="#tchaikovsky" weight="666" />
+      <edge id="26" source="#Passwords" target="#ITsecurity" weight="666" />
+      <edge id="27" source="#AFP15" target="#AFPFC" weight="666" />
+      <edge id="28" source="#AFP15" target="#AFPeeps" weight="666" />
+      <edge id="29" source="#prezi" target="#columbus" weight="666" />
+      <edge id="30" source="#prezi" target="#socialmedia" weight="666" />
+      <edge id="31" source="#nonprofit" target="#cloudcomputing" weight="666" />
+      <edge id="32" source="#nonprofit" target="#philanthropy" weight="666" />
+      <edge id="33" source="#nonprofit" target="#IT" weight="666" />
+      <edge id="34" source="#nonprofit" target="#16NTC" weight="666" />
+      <edge id="35" source="#Worthington" target="#Net2" weight="666" />
+      <edge id="36" source="#webdesign" target="#designer" weight="666" />
+      <edge id="37" source="#webdesign" target="#tech" weight="666" />
+      <edge id="38" source="#webdesign" target="#ux" weight="666" />
+      <edge id="39" source="#SmartColumbus" target="#AskCbus" weight="666" />
+      <edge id="40" source="#designer" target="#tech" weight="666" />
+      <edge id="41" source="#designer" target="#ux" weight="666" />
+      <edge id="42" source="#BWATL" target="#BuddyWalk" weight="666" />
+      <edge id="43" source="#cmcforum" target="#cbusmetroclub" weight="666" />
+      <edge id="44" source="#socialmedia" target="#nonprofits" weight="1998" />
+      <edge id="45" source="#socialmedia" target="#columbus" weight="666" />
+      <edge id="46" source="#socialmedia" target="#analytics" weight="666" />
+      <edge id="47" source="#BigData" target="#IoTWF" weight="666" />
+      <edge id="48" source="#BigData" target="#IoT" weight="666" />
+      <edge id="49" source="#BigData" target="#CyberSecurity" weight="666" />
+      <edge id="50" source="#NMTI" target="#tech" weight="666" />
+      <edge id="51" source="#IoTWF" target="#IoT" weight="666" />
+      <edge id="52" source="#IoTWF" target="#CyberSecurity" weight="666" />
+      <edge id="53" source="#Take5forDs" target="#WDSD16" weight="666" />
+      <edge id="54" source="#NTC16" target="#16NTC" weight="1332" />
+      <edge id="55" source="#Nonprofit" target="#nptech" weight="666" />
+      <edge id="56" source="#stateofpoverty" target="#franklincounty" weight="666" />
+      <edge id="57" source="#ICFSummit" target="#Columbus" weight="666" />
+      <edge id="58" source="#CyberSecurity" target="#IoT" weight="666" />
+      <edge id="59" source="#Columbus" target="#Net2" weight="666" />
+      <edge id="60" source="#tech" target="#ux" weight="666" />
+      <edge id="61" source="#SocialMedia" target="#nonprofits" weight="666" />
+      <edge id="62" source="#givingback" target="#fightcancer" weight="666" />
+      <edge id="63" source="#cloudcomputing" target="#IT" weight="666" />
+      <edge id="64" source="#AFPFC" target="#AFPeeps" weight="666" />
+      <edge id="65" source="#cbus" target="#smartcity" weight="666" />
+    </edges>
+  </graph>
+</gexf>

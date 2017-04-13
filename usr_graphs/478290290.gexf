@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Akatsuki" label="#Akatsuki" />
+      <node id="#Snowpocalypse" label="#Snowpocalypse" />
+      <node id="#Stonewall" label="#Stonewall" />
+      <node id="#hottake" label="#hottake" />
+      <node id="#NerdAlert" label="#NerdAlert" />
+      <node id="#sndmakes" label="#sndmakes" />
+      <node id="#NICAR16" label="#NICAR16" />
+      <node id="#LGBTI" label="#LGBTI" />
+      <node id="#a11y" label="#a11y" />
+      <node id="#JAXA" label="#JAXA" />
+      <node id="#CISA" label="#CISA" />
+      <node id="#viral" label="#viral" />
+      <node id="#Snowmageddon" label="#Snowmageddon" />
+      <node id="#omnibus" label="#omnibus" />
+      <node id="#slamdunk" label="#slamdunk" />
+      <node id="#SNDSF" label="#SNDSF" />
+      <node id="#content" label="#content" />
+      <node id="#FeelTheBern" label="#FeelTheBern" />
+      <node id="#engagement" label="#engagement" />
+      <node id="#Hamiltunes" label="#Hamiltunes" />
+      <node id="#sensorjournalism" label="#sensorjournalism" />
+      <node id="#ONA16" label="#ONA16" />
+      <node id="#nicarroadtrip" label="#nicarroadtrip" />
+      <node id="#adblocker" label="#adblocker" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#ddj" label="#ddj" />
+      <node id="#tronc" label="#tronc" />
+      <node id="#OTD" label="#OTD" />
+      <node id="#security" label="#security" />
+      <node id="#brands" label="#brands" />
+      <node id="#PokemonGO" label="#PokemonGO" />
+      <node id="#dataviz" label="#dataviz" />
+      <node id="#nicar16" label="#nicar16" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Akatsuki" target="#JAXA" weight="3230" />
+      <edge id="1" source="#Snowpocalypse" target="#Snowmageddon" weight="3230" />
+      <edge id="2" source="#Stonewall" target="#LGBTI" weight="3230" />
+      <edge id="3" source="#Stonewall" target="#OTD" weight="3230" />
+      <edge id="4" source="#hottake" target="#PokemonGO" weight="3230" />
+      <edge id="5" source="#NerdAlert" target="#ONA16" weight="3230" />
+      <edge id="6" source="#sndmakes" target="#Hamiltunes" weight="3230" />
+      <edge id="7" source="#NICAR16" target="#security" weight="3230" />
+      <edge id="8" source="#NICAR16" target="#SNDSF" weight="3230" />
+      <edge id="9" source="#LGBTI" target="#OTD" weight="3230" />
+      <edge id="10" source="#a11y" target="#dataviz" weight="3230" />
+      <edge id="11" source="#CISA" target="#omnibus" weight="3230" />
+      <edge id="12" source="#viral" target="#engagement" weight="3230" />
+      <edge id="13" source="#viral" target="#brands" weight="3230" />
+      <edge id="14" source="#slamdunk" target="#adblocker" weight="3230" />
+      <edge id="15" source="#slamdunk" target="#privacy" weight="3230" />
+      <edge id="16" source="#content" target="#tronc" weight="3230" />
+      <edge id="17" source="#FeelTheBern" target="#nicarroadtrip" weight="3230" />
+      <edge id="18" source="#engagement" target="#brands" weight="3230" />
+      <edge id="19" source="#sensorjournalism" target="#ddj" weight="3230" />
+      <edge id="20" source="#nicarroadtrip" target="#nicar16" weight="3230" />
+      <edge id="21" source="#adblocker" target="#privacy" weight="3230" />
+    </edges>
+  </graph>
+</gexf>

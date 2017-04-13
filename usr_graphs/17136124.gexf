@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#CommFOOD13" label="#CommFOOD13" />
+      <node id="#oscpams" label="#oscpams" />
+      <node id="#bizexcellence" label="#bizexcellence" />
+      <node id="#asae09" label="#asae09" />
+      <node id="#scotus" label="#scotus" />
+      <node id="#CPA" label="#CPA" />
+      <node id="#munitaxreform" label="#munitaxreform" />
+      <node id="#PennState" label="#PennState" />
+      <node id="#CPAs" label="#CPAs" />
+      <node id="#taxes2009" label="#taxes2009" />
+      <node id="#twittertaxtip" label="#twittertaxtip" />
+      <node id="#accounting" label="#accounting" />
+      <node id="#AICPA" label="#AICPA" />
+      <node id="#Election2010" label="#Election2010" />
+      <node id="#interchg09" label="#interchg09" />
+      <node id="#OhioCPA" label="#OhioCPA" />
+      <node id="#bdsocial" label="#bdsocial" />
+      <node id="#Paterno" label="#Paterno" />
+      <node id="#IAS" label="#IAS" />
+      <node id="#GAAP" label="#GAAP" />
+      <node id="#taxes" label="#taxes" />
+      <node id="#FETCH" label="#FETCH" />
+      <node id="#TAX" label="#TAX" />
+      <node id="#Taxes2009" label="#Taxes2009" />
+      <node id="#commfood12" label="#commfood12" />
+      <node id="#mdsocial" label="#mdsocial" />
+      <node id="#ASAE14" label="#ASAE14" />
+      <node id="#PIU14" label="#PIU14" />
+      <node id="#fiscalcliff" label="#fiscalcliff" />
+      <node id="#ASAE13" label="#ASAE13" />
+      <node id="#LE5" label="#LE5" />
+      <node id="#COTA" label="#COTA" />
+      <node id="#asae13" label="#asae13" />
+      <node id="#IASB" label="#IASB" />
+      <node id="#OHMuniTaxReform" label="#OHMuniTaxReform" />
+      <node id="#COMMFOOD12" label="#COMMFOOD12" />
+      <node id="#AEP" label="#AEP" />
+      <node id="#INeedTheExercise" label="#INeedTheExercise" />
+      <node id="#SocialCPAs" label="#SocialCPAs" />
+      <node id="#HB5" label="#HB5" />
+      <node id="#publicrelations" label="#publicrelations" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#elginday" label="#elginday" />
+      <node id="#oscpa" label="#oscpa" />
+      <node id="#AAMKT" label="#AAMKT" />
+      <node id="#oascl" label="#oascl" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#CommFOOD13" target="#AICPA" weight="987" />
+      <edge id="1" source="#oscpams" target="#accounting" weight="987" />
+      <edge id="2" source="#bizexcellence" target="#oscpa" weight="987" />
+      <edge id="3" source="#asae09" target="#asae09" weight="1974" />
+      <edge id="4" source="#scotus" target="#ACA" weight="987" />
+      <edge id="5" source="#CPA" target="#COMMFOOD12" weight="987" />
+      <edge id="6" source="#CPA" target="#accounting" weight="987" />
+      <edge id="7" source="#CPA" target="#OhioCPA" weight="987" />
+      <edge id="8" source="#CPA" target="#Election2010" weight="987" />
+      <edge id="9" source="#CPA" target="#SocialCPAs" weight="987" />
+      <edge id="10" source="#CPA" target="#publicrelations" weight="987" />
+      <edge id="11" source="#CPA" target="#AAMKT" weight="987" />
+      <edge id="12" source="#CPA" target="#FETCH" weight="987" />
+      <edge id="13" source="#CPA" target="#taxes2009" weight="6909" />
+      <edge id="14" source="#CPA" target="#oascl" weight="987" />
+      <edge id="15" source="#CPA" target="#TAX" weight="1974" />
+      <edge id="16" source="#CPA" target="#Taxes2009" weight="2961" />
+      <edge id="17" source="#munitaxreform" target="#HB5" weight="987" />
+      <edge id="18" source="#PennState" target="#Paterno" weight="987" />
+      <edge id="19" source="#CPAs" target="#ASAE14" weight="1974" />
+      <edge id="20" source="#CPAs" target="#CPAs" weight="1974" />
+      <edge id="21" source="#CPAs" target="#commfood12" weight="987" />
+      <edge id="22" source="#twittertaxtip" target="#oscpa" weight="987" />
+      <edge id="23" source="#accounting" target="#publicrelations" weight="987" />
+      <edge id="24" source="#Election2010" target="#OhioCPA" weight="987" />
+      <edge id="25" source="#interchg09" target="#interchg09" weight="1974" />
+      <edge id="26" source="#bdsocial" target="#bdsocial" weight="1974" />
+      <edge id="27" source="#IAS" target="#GAAP" weight="987" />
+      <edge id="28" source="#IAS" target="#IASB" weight="987" />
+      <edge id="29" source="#GAAP" target="#IASB" weight="987" />
+      <edge id="30" source="#taxes" target="#commfood12" weight="1974" />
+      <edge id="31" source="#taxes" target="#fiscalcliff" weight="987" />
+      <edge id="32" source="#taxes" target="#oscpa" weight="987" />
+      <edge id="33" source="#commfood12" target="#AAMKT" weight="987" />
+      <edge id="34" source="#mdsocial" target="#elginday" weight="1974" />
+      <edge id="35" source="#PIU14" target="#OHMuniTaxReform" weight="987" />
+      <edge id="36" source="#ASAE13" target="#LE5" weight="987" />
+      <edge id="37" source="#COTA" target="#AEP" weight="987" />
+      <edge id="38" source="#asae13" target="#INeedTheExercise" weight="987" />
+      <edge id="39" source="#SocialCPAs" target="#AAMKT" weight="987" />
+    </edges>
+  </graph>
+</gexf>

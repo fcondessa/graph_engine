@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#boo" label="#boo" />
+      <node id="#myhashtagstendtolooklikethis" label="#myhashtagstendtolooklikethis" />
+      <node id="#tsa" label="#tsa" />
+      <node id="#exceptwhentheydo" label="#exceptwhentheydo" />
+      <node id="#fair" label="#fair" />
+      <node id="#christkloutgivemesometopicsalready" label="#christkloutgivemesometopicsalready" />
+      <node id="#cupcakes" label="#cupcakes" />
+      <node id="#wontsomeonethinkoftheseals" label="#wontsomeonethinkoftheseals" />
+      <node id="#hoo" label="#hoo" />
+      <node id="#truestory" label="#truestory" />
+      <node id="#whataretheyreally" label="#whataretheyreally" />
+      <node id="#nuggets" label="#nuggets" />
+      <node id="#ff" label="#ff" />
+      <node id="#unicorns" label="#unicorns" />
+      <node id="#exceptosulew" label="#exceptosulew" />
+      <node id="#everyonepityme" label="#everyonepityme" />
+      <node id="#corkscrewsdontkillpeople" label="#corkscrewsdontkillpeople" />
+      <node id="#rainbows" label="#rainbows" />
+      <node id="#puppies" label="#puppies" />
+      <node id="#fish" label="#fish" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#tsagov" label="#tsagov" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#boo" target="#myhashtagstendtolooklikethis" weight="906" />
+      <edge id="1" source="#boo" target="#unicorns" weight="906" />
+      <edge id="2" source="#boo" target="#hoo" weight="906" />
+      <edge id="3" source="#boo" target="#rainbows" weight="906" />
+      <edge id="4" source="#boo" target="#cupcakes" weight="906" />
+      <edge id="5" source="#boo" target="#puppies" weight="906" />
+      <edge id="6" source="#myhashtagstendtolooklikethis" target="#unicorns" weight="906" />
+      <edge id="7" source="#myhashtagstendtolooklikethis" target="#hoo" weight="906" />
+      <edge id="8" source="#myhashtagstendtolooklikethis" target="#rainbows" weight="906" />
+      <edge id="9" source="#myhashtagstendtolooklikethis" target="#cupcakes" weight="906" />
+      <edge id="10" source="#myhashtagstendtolooklikethis" target="#puppies" weight="906" />
+      <edge id="11" source="#tsa" target="#tsagov" weight="1812" />
+      <edge id="12" source="#exceptwhentheydo" target="#corkscrewsdontkillpeople" weight="906" />
+      <edge id="13" source="#fair" target="#christkloutgivemesometopicsalready" weight="906" />
+      <edge id="14" source="#cupcakes" target="#unicorns" weight="906" />
+      <edge id="15" source="#cupcakes" target="#hoo" weight="906" />
+      <edge id="16" source="#cupcakes" target="#rainbows" weight="906" />
+      <edge id="17" source="#cupcakes" target="#puppies" weight="906" />
+      <edge id="18" source="#wontsomeonethinkoftheseals" target="#truestory" weight="906" />
+      <edge id="19" source="#hoo" target="#unicorns" weight="906" />
+      <edge id="20" source="#hoo" target="#rainbows" weight="906" />
+      <edge id="21" source="#hoo" target="#puppies" weight="906" />
+      <edge id="22" source="#whataretheyreally" target="#fish" weight="906" />
+      <edge id="23" source="#whataretheyreally" target="#nuggets" weight="906" />
+      <edge id="24" source="#nuggets" target="#fish" weight="906" />
+      <edge id="25" source="#ff" target="#FollowFriday" weight="906" />
+      <edge id="26" source="#unicorns" target="#rainbows" weight="906" />
+      <edge id="27" source="#unicorns" target="#puppies" weight="906" />
+      <edge id="28" source="#exceptosulew" target="#everyonepityme" weight="906" />
+      <edge id="29" source="#rainbows" target="#puppies" weight="906" />
+    </edges>
+  </graph>
+</gexf>

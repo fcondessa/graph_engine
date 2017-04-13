@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Highball" label="#Highball" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#thaionhigh" label="#thaionhigh" />
+      <node id="#summer" label="#summer" />
+      <node id="#happyhour" label="#happyhour" />
+      <node id="#pride2014" label="#pride2014" />
+      <node id="#Japanese" label="#Japanese" />
+      <node id="#OSUvsPSU" label="#OSUvsPSU" />
+      <node id="#ff" label="#ff" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#padthai" label="#padthai" />
+      <node id="#sunomono" label="#sunomono" />
+      <node id="#italianvillage" label="#italianvillage" />
+      <node id="#GSWS" label="#GSWS" />
+      <node id="#nidas" label="#nidas" />
+      <node id="#FF" label="#FF" />
+      <node id="#shortnorth" label="#shortnorth" />
+      <node id="#thai" label="#thai" />
+      <node id="#osu" label="#osu" />
+      <node id="#nida" label="#nida" />
+      <node id="#laborday" label="#laborday" />
+      <node id="#takeout" label="#takeout" />
+      <node id="#ALLIN" label="#ALLIN" />
+      <node id="#fridaynight" label="#fridaynight" />
+      <node id="#sushi" label="#sushi" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#assenincolumbus" label="#assenincolumbus" />
+      <node id="#italianvillagecolumbus" label="#italianvillagecolumbus" />
+      <node id="#cbus" label="#cbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Highball" target="#OSUvsPSU" weight="441" />
+      <edge id="1" source="#asseenincolumbus" target="#sushi" weight="441" />
+      <edge id="2" source="#asseenincolumbus" target="#happyhour" weight="882" />
+      <edge id="3" source="#asseenincolumbus" target="#pride2014" weight="441" />
+      <edge id="4" source="#asseenincolumbus" target="#shortnorth" weight="1764" />
+      <edge id="5" source="#asseenincolumbus" target="#cbus" weight="441" />
+      <edge id="6" source="#asseenincolumbus" target="#thai" weight="441" />
+      <edge id="7" source="#asseenincolumbus" target="#italianvillage" weight="882" />
+      <edge id="8" source="#asseenincolumbus" target="#thaionhigh" weight="882" />
+      <edge id="9" source="#thaionhigh" target="#fridaynight" weight="441" />
+      <edge id="10" source="#thaionhigh" target="#sushi" weight="441" />
+      <edge id="11" source="#thaionhigh" target="#happyhour" weight="882" />
+      <edge id="12" source="#thaionhigh" target="#shortnorth" weight="2646" />
+      <edge id="13" source="#thaionhigh" target="#OSU" weight="441" />
+      <edge id="14" source="#thaionhigh" target="#cbus" weight="441" />
+      <edge id="15" source="#thaionhigh" target="#laborday" weight="441" />
+      <edge id="16" source="#thaionhigh" target="#thai" weight="441" />
+      <edge id="17" source="#thaionhigh" target="#italianvillage" weight="1764" />
+      <edge id="18" source="#summer" target="#sushi" weight="441" />
+      <edge id="19" source="#summer" target="#happyhour" weight="441" />
+      <edge id="20" source="#summer" target="#Japanese" weight="441" />
+      <edge id="21" source="#summer" target="#cbus" weight="441" />
+      <edge id="22" source="#summer" target="#thai" weight="441" />
+      <edge id="23" source="#summer" target="#sunomono" weight="441" />
+      <edge id="24" source="#summer" target="#columbus" weight="441" />
+      <edge id="25" source="#happyhour" target="#fridaynight" weight="441" />
+      <edge id="26" source="#happyhour" target="#sushi" weight="441" />
+      <edge id="27" source="#happyhour" target="#shortnorth" weight="1764" />
+      <edge id="28" source="#happyhour" target="#assenincolumbus" weight="441" />
+      <edge id="29" source="#happyhour" target="#OSU" weight="441" />
+      <edge id="30" source="#happyhour" target="#laborday" weight="441" />
+      <edge id="31" source="#happyhour" target="#thai" weight="441" />
+      <edge id="32" source="#happyhour" target="#italianvillage" weight="441" />
+      <edge id="33" source="#Japanese" target="#sunomono" weight="441" />
+      <edge id="34" source="#Japanese" target="#columbus" weight="441" />
+      <edge id="35" source="#Japanese" target="#cbus" weight="441" />
+      <edge id="36" source="#Japanese" target="#sushi" weight="882" />
+      <edge id="37" source="#ff" target="#FF" weight="441" />
+      <edge id="38" source="#OSU" target="#fridaynight" weight="441" />
+      <edge id="39" source="#OSU" target="#sushi" weight="441" />
+      <edge id="40" source="#OSU" target="#shortnorth" weight="441" />
+      <edge id="41" source="#OSU" target="#laborday" weight="441" />
+      <edge id="42" source="#OSU" target="#italianvillage" weight="441" />
+      <edge id="43" source="#padthai" target="#thai" weight="441" />
+      <edge id="44" source="#padthai" target="#nidas" weight="441" />
+      <edge id="45" source="#sunomono" target="#cbus" weight="441" />
+      <edge id="46" source="#sunomono" target="#columbus" weight="441" />
+      <edge id="47" source="#sunomono" target="#sushi" weight="441" />
+      <edge id="48" source="#italianvillage" target="#takeout" weight="441" />
+      <edge id="49" source="#italianvillage" target="#fridaynight" weight="441" />
+      <edge id="50" source="#italianvillage" target="#sushi" weight="441" />
+      <edge id="51" source="#italianvillage" target="#shortnorth" weight="1764" />
+      <edge id="52" source="#italianvillage" target="#osu" weight="441" />
+      <edge id="53" source="#italianvillage" target="#laborday" weight="441" />
+      <edge id="54" source="#italianvillage" target="#thai" weight="882" />
+      <edge id="55" source="#italianvillage" target="#cbus" weight="441" />
+      <edge id="56" source="#GSWS" target="#ALLIN" weight="441" />
+      <edge id="57" source="#nidas" target="#thai" weight="441" />
+      <edge id="58" source="#shortnorth" target="#fridaynight" weight="441" />
+      <edge id="59" source="#shortnorth" target="#sushi" weight="441" />
+      <edge id="60" source="#shortnorth" target="#cbus" weight="441" />
+      <edge id="61" source="#shortnorth" target="#laborday" weight="441" />
+      <edge id="62" source="#shortnorth" target="#thai" weight="441" />
+      <edge id="63" source="#thai" target="#takeout" weight="441" />
+      <edge id="64" source="#thai" target="#italianvillagecolumbus" weight="441" />
+      <edge id="65" source="#thai" target="#osu" weight="441" />
+      <edge id="66" source="#thai" target="#nida" weight="441" />
+      <edge id="67" source="#thai" target="#columbus" weight="441" />
+      <edge id="68" source="#thai" target="#cbus" weight="882" />
+      <edge id="69" source="#osu" target="#takeout" weight="441" />
+      <edge id="70" source="#laborday" target="#fridaynight" weight="441" />
+      <edge id="71" source="#laborday" target="#sushi" weight="441" />
+      <edge id="72" source="#fridaynight" target="#sushi" weight="441" />
+      <edge id="73" source="#sushi" target="#columbus" weight="441" />
+      <edge id="74" source="#sushi" target="#cbus" weight="441" />
+      <edge id="75" source="#columbus" target="#italianvillagecolumbus" weight="441" />
+      <edge id="76" source="#columbus" target="#cbus" weight="882" />
+      <edge id="77" source="#italianvillagecolumbus" target="#cbus" weight="441" />
+    </edges>
+  </graph>
+</gexf>

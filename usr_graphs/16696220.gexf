@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Tampa" label="#Tampa" />
+      <node id="#tv" label="#tv" />
+      <node id="#ygg" label="#ygg" />
+      <node id="#theresapartyinmycity" label="#theresapartyinmycity" />
+      <node id="#yogabbagabba" label="#yogabbagabba" />
+      <node id="#BristowVA" label="#BristowVA" />
+      <node id="#INplay" label="#INplay" />
+      <node id="#kids" label="#kids" />
+      <node id="#art" label="#art" />
+      <node id="#preschool" label="#preschool" />
+      <node id="#YoGabbaGabba" label="#YoGabbaGabba" />
+      <node id="#Win" label="#Win" />
+      <node id="#yogabbagabbalive" label="#yogabbagabbalive" />
+      <node id="#YGG" label="#YGG" />
+      <node id="#rochester" label="#rochester" />
+      <node id="#children" label="#children" />
+      <node id="#win" label="#win" />
+      <node id="#WebbyAwards" label="#WebbyAwards" />
+      <node id="#knockknockjokeoftheday" label="#knockknockjokeoftheday" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Tampa" target="#Win" weight="933" />
+      <edge id="1" source="#tv" target="#yogabbagabba" weight="933" />
+      <edge id="2" source="#tv" target="#children" weight="933" />
+      <edge id="3" source="#ygg" target="#preschool" weight="933" />
+      <edge id="4" source="#ygg" target="#kids" weight="933" />
+      <edge id="5" source="#theresapartyinmycity" target="#BristowVA" weight="933" />
+      <edge id="6" source="#yogabbagabba" target="#WebbyAwards" weight="933" />
+      <edge id="7" source="#yogabbagabba" target="#children" weight="933" />
+      <edge id="8" source="#yogabbagabba" target="#art" weight="933" />
+      <edge id="9" source="#INplay" target="#kids" weight="933" />
+      <edge id="10" source="#kids" target="#preschool" weight="933" />
+      <edge id="11" source="#YoGabbaGabba" target="#YGG" weight="933" />
+      <edge id="12" source="#yogabbagabbalive" target="#rochester" weight="933" />
+      <edge id="13" source="#win" target="#knockknockjokeoftheday" weight="933" />
+    </edges>
+  </graph>
+</gexf>

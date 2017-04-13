@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Parkinsons" label="#Parkinsons" />
+      <node id="#CheckYourNeighbor" label="#CheckYourNeighbor" />
+      <node id="#Job" label="#Job" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#fundraising" label="#fundraising" />
+      <node id="#Akron" label="#Akron" />
+      <node id="#IRA" label="#IRA" />
+      <node id="#Security" label="#Security" />
+      <node id="#dementia" label="#dementia" />
+      <node id="#STNAs" label="#STNAs" />
+      <node id="#aging" label="#aging" />
+      <node id="#cbusjobs" label="#cbusjobs" />
+      <node id="#FathersDay" label="#FathersDay" />
+      <node id="#socialjobs" label="#socialjobs" />
+      <node id="#columbusjobs" label="#columbusjobs" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#Alzheimers" label="#Alzheimers" />
+      <node id="#retirement" label="#retirement" />
+      <node id="#WednesdayWisdom" label="#WednesdayWisdom" />
+      <node id="#seniorliving" label="#seniorliving" />
+      <node id="#OhioWx" label="#OhioWx" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#WooHoo" label="#WooHoo" />
+      <node id="#investing" label="#investing" />
+      <node id="#Maintenance" label="#Maintenance" />
+      <node id="#payroll" label="#payroll" />
+      <node id="#OAM2016" label="#OAM2016" />
+      <node id="#Servers" label="#Servers" />
+      <node id="#Cooks" label="#Cooks" />
+      <node id="#seniors" label="#seniors" />
+      <node id="#Payroll" label="#Payroll" />
+      <node id="#Nora" label="#Nora" />
+      <node id="#polarbear" label="#polarbear" />
+      <node id="#job" label="#job" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#DooDahParade" label="#DooDahParade" />
+      <node id="#learning" label="#learning" />
+      <node id="#Hiring" label="#Hiring" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#teamwork" label="#teamwork" />
+      <node id="#OHSotS" label="#OHSotS" />
+      <node id="#AssistedLiving" label="#AssistedLiving" />
+      <node id="#fun" label="#fun" />
+      <node id="#nursing" label="#nursing" />
+      <node id="#STNA" label="#STNA" />
+      <node id="#WellBeyond60" label="#WellBeyond60" />
+      <node id="#WaltDisney" label="#WaltDisney" />
+      <node id="#GDC" label="#GDC" />
+      <node id="#Hospice" label="#Hospice" />
+      <node id="#BeSafeDriveSmart" label="#BeSafeDriveSmart" />
+      <node id="#caregivers" label="#caregivers" />
+      <node id="#hr" label="#hr" />
+      <node id="#healthyliving" label="#healthyliving" />
+      <node id="#NationalPetWeek" label="#NationalPetWeek" />
+      <node id="#OHwx" label="#OHwx" />
+      <node id="#seniorlife" label="#seniorlife" />
+      <node id="#Finance" label="#Finance" />
+      <node id="#RN" label="#RN" />
+      <node id="#besafe" label="#besafe" />
+      <node id="#grants" label="#grants" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Parkinsons" target="#DooDahParade" weight="407" />
+      <edge id="1" source="#CheckYourNeighbor" target="#WellBeyond60" weight="407" />
+      <edge id="2" source="#CheckYourNeighbor" target="#OHwx" weight="407" />
+      <edge id="3" source="#Job" target="#jobs" weight="407" />
+      <edge id="4" source="#fundraising" target="#columbusjobs" weight="407" />
+      <edge id="5" source="#fundraising" target="#grants" weight="407" />
+      <edge id="6" source="#Akron" target="#FathersDay" weight="407" />
+      <edge id="7" source="#IRA" target="#retirement" weight="407" />
+      <edge id="8" source="#IRA" target="#investing" weight="407" />
+      <edge id="9" source="#Security" target="#Maintenance" weight="814" />
+      <edge id="10" source="#Security" target="#Cooks" weight="814" />
+      <edge id="11" source="#Security" target="#Hiring" weight="814" />
+      <edge id="12" source="#Security" target="#STNA" weight="814" />
+      <edge id="13" source="#Security" target="#Servers" weight="814" />
+      <edge id="14" source="#dementia" target="#Alzheimers" weight="407" />
+      <edge id="15" source="#STNAs" target="#Hiring" weight="407" />
+      <edge id="16" source="#STNAs" target="#RN" weight="407" />
+      <edge id="17" source="#aging" target="#seniors" weight="407" />
+      <edge id="18" source="#aging" target="#healthyliving" weight="407" />
+      <edge id="19" source="#aging" target="#seniorlife" weight="407" />
+      <edge id="20" source="#cbusjobs" target="#columbusjobs" weight="407" />
+      <edge id="21" source="#cbusjobs" target="#healthcare" weight="407" />
+      <edge id="22" source="#socialjobs" target="#columbusjobs" weight="407" />
+      <edge id="23" source="#socialjobs" target="#hiring" weight="407" />
+      <edge id="24" source="#columbusjobs" target="#Payroll" weight="407" />
+      <edge id="25" source="#columbusjobs" target="#Columbus" weight="407" />
+      <edge id="26" source="#columbusjobs" target="#payroll" weight="814" />
+      <edge id="27" source="#columbusjobs" target="#Hospice" weight="407" />
+      <edge id="28" source="#columbusjobs" target="#grants" weight="407" />
+      <edge id="29" source="#columbusjobs" target="#hiring" weight="814" />
+      <edge id="30" source="#columbusjobs" target="#RN" weight="407" />
+      <edge id="31" source="#columbusjobs" target="#healthcare" weight="1628" />
+      <edge id="32" source="#lifeincbus" target="#teamwork" weight="407" />
+      <edge id="33" source="#Alzheimers" target="#caregivers" weight="407" />
+      <edge id="34" source="#retirement" target="#AssistedLiving" weight="407" />
+      <edge id="35" source="#retirement" target="#seniors" weight="407" />
+      <edge id="36" source="#retirement" target="#investing" weight="407" />
+      <edge id="37" source="#WednesdayWisdom" target="#WaltDisney" weight="407" />
+      <edge id="38" source="#seniorliving" target="#WooHoo" weight="1628" />
+      <edge id="39" source="#OhioWx" target="#GDC" weight="407" />
+      <edge id="40" source="#hiring" target="#Payroll" weight="407" />
+      <edge id="41" source="#hiring" target="#RN" weight="407" />
+      <edge id="42" source="#hiring" target="#hr" weight="407" />
+      <edge id="43" source="#hiring" target="#job" weight="1221" />
+      <edge id="44" source="#hiring" target="#nursing" weight="814" />
+      <edge id="45" source="#hiring" target="#Columbus" weight="407" />
+      <edge id="46" source="#columbus" target="#fun" weight="407" />
+      <edge id="47" source="#Maintenance" target="#Cooks" weight="814" />
+      <edge id="48" source="#Maintenance" target="#Hiring" weight="814" />
+      <edge id="49" source="#Maintenance" target="#STNA" weight="814" />
+      <edge id="50" source="#Maintenance" target="#Servers" weight="814" />
+      <edge id="51" source="#OAM2016" target="#WellBeyond60" weight="407" />
+      <edge id="52" source="#Servers" target="#Cooks" weight="814" />
+      <edge id="53" source="#Servers" target="#STNA" weight="814" />
+      <edge id="54" source="#Servers" target="#Hiring" weight="814" />
+      <edge id="55" source="#Cooks" target="#Hiring" weight="814" />
+      <edge id="56" source="#Cooks" target="#STNA" weight="814" />
+      <edge id="57" source="#seniors" target="#caregivers" weight="407" />
+      <edge id="58" source="#seniors" target="#seniorlife" weight="407" />
+      <edge id="59" source="#seniors" target="#AssistedLiving" weight="407" />
+      <edge id="60" source="#Payroll" target="#Columbus" weight="407" />
+      <edge id="61" source="#Nora" target="#polarbear" weight="407" />
+      <edge id="62" source="#job" target="#hr" weight="407" />
+      <edge id="63" source="#job" target="#nursing" weight="814" />
+      <edge id="64" source="#job" target="#RN" weight="407" />
+      <edge id="65" source="#healthcare" target="#RN" weight="407" />
+      <edge id="66" source="#healthcare" target="#Hospice" weight="407" />
+      <edge id="67" source="#learning" target="#Finance" weight="407" />
+      <edge id="68" source="#Hiring" target="#STNA" weight="814" />
+      <edge id="69" source="#OHSotS" target="#WellBeyond60" weight="407" />
+      <edge id="70" source="#nursing" target="#RN" weight="407" />
+      <edge id="71" source="#STNA" target="#RN" weight="407" />
+      <edge id="72" source="#WellBeyond60" target="#OHwx" weight="407" />
+      <edge id="73" source="#GDC" target="#NationalPetWeek" weight="407" />
+      <edge id="74" source="#Hospice" target="#RN" weight="407" />
+      <edge id="75" source="#BeSafeDriveSmart" target="#besafe" weight="407" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BuffaloForReal" label="#BuffaloForReal" />
+      <node id="#throwbackthursday" label="#throwbackthursday" />
+      <node id="#FalconHeights" label="#FalconHeights" />
+      <node id="#PopeinUS" label="#PopeinUS" />
+      <node id="#PopeinDC" label="#PopeinDC" />
+      <node id="#PhilandoCastille" label="#PhilandoCastille" />
+      <node id="#franklyamazing" label="#franklyamazing" />
+      <node id="#bestmonthever" label="#bestmonthever" />
+      <node id="#wow" label="#wow" />
+      <node id="#DonaldTrump" label="#DonaldTrump" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#Juneau" label="#Juneau" />
+      <node id="#Alaska" label="#Alaska" />
+      <node id="#mypeople" label="#mypeople" />
+      <node id="#neat" label="#neat" />
+      <node id="#UpstateAmerica" label="#UpstateAmerica" />
+      <node id="#jeb" label="#jeb" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#NewHampshire" label="#NewHampshire" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BuffaloForReal" target="#UpstateAmerica" weight="3243" />
+      <edge id="1" source="#throwbackthursday" target="#bestmonthever" weight="3243" />
+      <edge id="2" source="#throwbackthursday" target="#mypeople" weight="3243" />
+      <edge id="3" source="#throwbackthursday" target="#tbt" weight="3243" />
+      <edge id="4" source="#FalconHeights" target="#PhilandoCastille" weight="3243" />
+      <edge id="5" source="#PopeinUS" target="#PopeinDC" weight="3243" />
+      <edge id="6" source="#franklyamazing" target="#NewHampshire" weight="3243" />
+      <edge id="7" source="#bestmonthever" target="#mypeople" weight="3243" />
+      <edge id="8" source="#bestmonthever" target="#tbt" weight="3243" />
+      <edge id="9" source="#wow" target="#neat" weight="3243" />
+      <edge id="10" source="#wow" target="#jeb" weight="3243" />
+      <edge id="11" source="#DonaldTrump" target="#Chicago" weight="3243" />
+      <edge id="12" source="#tbt" target="#mypeople" weight="3243" />
+      <edge id="13" source="#Juneau" target="#Alaska" weight="3243" />
+      <edge id="14" source="#Juneau" target="#BREAKING" weight="3243" />
+      <edge id="15" source="#Alaska" target="#BREAKING" weight="3243" />
+      <edge id="16" source="#neat" target="#jeb" weight="3243" />
+    </edges>
+  </graph>
+</gexf>

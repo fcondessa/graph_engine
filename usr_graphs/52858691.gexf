@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#StopYulin" label="#StopYulin" />
+      <node id="#numbersneverlie" label="#numbersneverlie" />
+      <node id="#Phillies" label="#Phillies" />
+      <node id="#SilverSlugger" label="#SilverSlugger" />
+      <node id="#YogiMedal" label="#YogiMedal" />
+      <node id="#MadBOMB" label="#MadBOMB" />
+      <node id="#StopYuLin2015" label="#StopYuLin2015" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#VOTEMARTE" label="#VOTEMARTE" />
+      <node id="#Athletics" label="#Athletics" />
+      <node id="#Postseason" label="#Postseason" />
+      <node id="#VoteBraun" label="#VoteBraun" />
+      <node id="#math" label="#math" />
+      <node id="#MLBNow" label="#MLBNow" />
+      <node id="#StoryTime" label="#StoryTime" />
+      <node id="#Cardinals" label="#Cardinals" />
+      <node id="#VoteLamb" label="#VoteLamb" />
+      <node id="#Pirates" label="#Pirates" />
+      <node id="#FaceOfMLB" label="#FaceOfMLB" />
+      <node id="#WildCard" label="#WildCard" />
+      <node id="#ValentinesDay" label="#ValentinesDay" />
+      <node id="#peedinitanyway" label="#peedinitanyway" />
+      <node id="#ChattingCage" label="#ChattingCage" />
+      <node id="#BusterPosey" label="#BusterPosey" />
+      <node id="#TradeDeadline" label="#TradeDeadline" />
+      <node id="#OnMyWay" label="#OnMyWay" />
+      <node id="#Yankees" label="#Yankees" />
+      <node id="#SLAMgarner" label="#SLAMgarner" />
+      <node id="#BumGONER" label="#BumGONER" />
+      <node id="#Muhammad" label="#Muhammad" />
+      <node id="#ChronicleCovers" label="#ChronicleCovers" />
+      <node id="#ThrowbackThursday" label="#ThrowbackThursday" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#FerrellTakesTheField" label="#FerrellTakesTheField" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#SpringTraining" label="#SpringTraining" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#Sochi" label="#Sochi" />
+      <node id="#Tigers" label="#Tigers" />
+      <node id="#VoteBelt" label="#VoteBelt" />
+      <node id="#Cubs" label="#Cubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#RedSox" target="#Phillies" weight="3216" />
+      <edge id="1" source="#RedSox" target="#Yankees" weight="3216" />
+      <edge id="2" source="#RedSox" target="#SFGiants" weight="6432" />
+      <edge id="3" source="#RedSox" target="#Tigers" weight="3216" />
+      <edge id="4" source="#RedSox" target="#Cubs" weight="3216" />
+      <edge id="5" source="#NFL" target="#49ers" weight="3216" />
+      <edge id="6" source="#StopYulin" target="#StopYuLin2015" weight="3216" />
+      <edge id="7" source="#numbersneverlie" target="#math" weight="3216" />
+      <edge id="8" source="#Phillies" target="#Tigers" weight="3216" />
+      <edge id="9" source="#Phillies" target="#Yankees" weight="3216" />
+      <edge id="10" source="#Phillies" target="#Cubs" weight="3216" />
+      <edge id="11" source="#Phillies" target="#SFGiants" weight="3216" />
+      <edge id="12" source="#SilverSlugger" target="#SLAMgarner" weight="3216" />
+      <edge id="13" source="#SilverSlugger" target="#BumGONER" weight="3216" />
+      <edge id="14" source="#SilverSlugger" target="#MadBOMB" weight="3216" />
+      <edge id="15" source="#SilverSlugger" target="#SFGiants" weight="3216" />
+      <edge id="16" source="#YogiMedal" target="#Yankees" weight="6432" />
+      <edge id="17" source="#MadBOMB" target="#SLAMgarner" weight="3216" />
+      <edge id="18" source="#MadBOMB" target="#BumGONER" weight="3216" />
+      <edge id="19" source="#MadBOMB" target="#SFGiants" weight="3216" />
+      <edge id="20" source="#VOTEMARTE" target="#VoteBraun" weight="3216" />
+      <edge id="21" source="#VOTEMARTE" target="#VoteBelt" weight="3216" />
+      <edge id="22" source="#VOTEMARTE" target="#VoteLamb" weight="3216" />
+      <edge id="23" source="#VOTEMARTE" target="#StoryTime" weight="3216" />
+      <edge id="24" source="#Athletics" target="#SFGiants" weight="3216" />
+      <edge id="25" source="#Postseason" target="#WildCard" weight="3216" />
+      <edge id="26" source="#VoteBraun" target="#VoteLamb" weight="3216" />
+      <edge id="27" source="#VoteBraun" target="#VoteBelt" weight="3216" />
+      <edge id="28" source="#VoteBraun" target="#StoryTime" weight="3216" />
+      <edge id="29" source="#MLBNow" target="#SFGiants" weight="3216" />
+      <edge id="30" source="#StoryTime" target="#VoteBelt" weight="3216" />
+      <edge id="31" source="#StoryTime" target="#VoteLamb" weight="3216" />
+      <edge id="32" source="#Cardinals" target="#Cubs" weight="3216" />
+      <edge id="33" source="#VoteLamb" target="#VoteBelt" weight="3216" />
+      <edge id="34" source="#Pirates" target="#Giants" weight="3216" />
+      <edge id="35" source="#Pirates" target="#SFGiants" weight="3216" />
+      <edge id="36" source="#FaceOfMLB" target="#BusterPosey" weight="3216" />
+      <edge id="37" source="#WildCard" target="#postseason" weight="6432" />
+      <edge id="38" source="#ValentinesDay" target="#SFGiants" weight="3216" />
+      <edge id="39" source="#peedinitanyway" target="#Sochi" weight="3216" />
+      <edge id="40" source="#ChattingCage" target="#TradeDeadline" weight="3216" />
+      <edge id="41" source="#BusterPosey" target="#SFGiants" weight="3216" />
+      <edge id="42" source="#OnMyWay" target="#SpringTraining" weight="3216" />
+      <edge id="43" source="#Yankees" target="#SFGiants" weight="3216" />
+      <edge id="44" source="#Yankees" target="#Tigers" weight="3216" />
+      <edge id="45" source="#Yankees" target="#Cubs" weight="3216" />
+      <edge id="46" source="#SLAMgarner" target="#BumGONER" weight="3216" />
+      <edge id="47" source="#SLAMgarner" target="#SFGiants" weight="3216" />
+      <edge id="48" source="#BumGONER" target="#SFGiants" weight="3216" />
+      <edge id="49" source="#Muhammad" target="#ChronicleCovers" weight="3216" />
+      <edge id="50" source="#ThrowbackThursday" target="#SFGiants" weight="3216" />
+      <edge id="51" source="#MLB" target="#SFGiants" weight="3216" />
+      <edge id="52" source="#FerrellTakesTheField" target="#SFGiants" weight="6432" />
+      <edge id="53" source="#SFGiants" target="#Tigers" weight="3216" />
+      <edge id="54" source="#SFGiants" target="#Cubs" weight="3216" />
+      <edge id="55" source="#SFGiants" target="#SpringTraining" weight="3216" />
+      <edge id="56" source="#Tigers" target="#Cubs" weight="3216" />
+    </edges>
+  </graph>
+</gexf>

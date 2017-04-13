@@ -1,0 +1,909 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Mktg" label="#Mktg" />
+      <node id="#workcomp" label="#workcomp" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#Advertising" label="#Advertising" />
+      <node id="#cbusjobs" label="#cbusjobs" />
+      <node id="#Stats" label="#Stats" />
+      <node id="#Journos" label="#Journos" />
+      <node id="#Feedback" label="#Feedback" />
+      <node id="#howto" label="#howto" />
+      <node id="#SmallBusinessWeek" label="#SmallBusinessWeek" />
+      <node id="#Recruiting" label="#Recruiting" />
+      <node id="#SocialCents" label="#SocialCents" />
+      <node id="#pressreleases" label="#pressreleases" />
+      <node id="#beer" label="#beer" />
+      <node id="#SmallBiz" label="#SmallBiz" />
+      <node id="#brand" label="#brand" />
+      <node id="#PublicRelations" label="#PublicRelations" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#DigitalMarketing" label="#DigitalMarketing" />
+      <node id="#Gold" label="#Gold" />
+      <node id="#healthy" label="#healthy" />
+      <node id="#GIF" label="#GIF" />
+      <node id="#Humanize" label="#Humanize" />
+      <node id="#GoingGreen" label="#GoingGreen" />
+      <node id="#SmallBusiness" label="#SmallBusiness" />
+      <node id="#MWAsks" label="#MWAsks" />
+      <node id="#Yahoo" label="#Yahoo" />
+      <node id="#SanFrancisco" label="#SanFrancisco" />
+      <node id="#EmailTips" label="#EmailTips" />
+      <node id="#Webinar" label="#Webinar" />
+      <node id="#TargetAudience" label="#TargetAudience" />
+      <node id="#WritingTips" label="#WritingTips" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#reindeer" label="#reindeer" />
+      <node id="#digital" label="#digital" />
+      <node id="#Small" label="#Small" />
+      <node id="#SoMeTips" label="#SoMeTips" />
+      <node id="#Infographics" label="#Infographics" />
+      <node id="#CloudNine" label="#CloudNine" />
+      <node id="#Client" label="#Client" />
+      <node id="#SpringCleaning" label="#SpringCleaning" />
+      <node id="#productive" label="#productive" />
+      <node id="#MarketingWorks" label="#MarketingWorks" />
+      <node id="#Snapchat" label="#Snapchat" />
+      <node id="#alttext" label="#alttext" />
+      <node id="#Crowdsourcing" label="#Crowdsourcing" />
+      <node id="#internships" label="#internships" />
+      <node id="#CustomerService" label="#CustomerService" />
+      <node id="#MLKDay" label="#MLKDay" />
+      <node id="#MarketingTrends" label="#MarketingTrends" />
+      <node id="#Pitches" label="#Pitches" />
+      <node id="#Smarketing" label="#Smarketing" />
+      <node id="#Leads" label="#Leads" />
+      <node id="#content" label="#content" />
+      <node id="#TChat" label="#TChat" />
+      <node id="#BodyLanguage" label="#BodyLanguage" />
+      <node id="#OceanClub" label="#OceanClub" />
+      <node id="#sm" label="#sm" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#Brand" label="#Brand" />
+      <node id="#RWD" label="#RWD" />
+      <node id="#Slideshare" label="#Slideshare" />
+      <node id="#Akron" label="#Akron" />
+      <node id="#Intern" label="#Intern" />
+      <node id="#MeetingoftheMinds" label="#MeetingoftheMinds" />
+      <node id="#Hashtags" label="#Hashtags" />
+      <node id="#Excel" label="#Excel" />
+      <node id="#MarketingStrategy" label="#MarketingStrategy" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#FunAtWorkDay" label="#FunAtWorkDay" />
+      <node id="#B2C" label="#B2C" />
+      <node id="#B2B" label="#B2B" />
+      <node id="#PRJobs" label="#PRJobs" />
+      <node id="#LinkedInTips" label="#LinkedInTips" />
+      <node id="#Tradeshow" label="#Tradeshow" />
+      <node id="#Entrepreneurship" label="#Entrepreneurship" />
+      <node id="#blogging" label="#blogging" />
+      <node id="#Biz" label="#Biz" />
+      <node id="#PingPong" label="#PingPong" />
+      <node id="#MobileMarketing" label="#MobileMarketing" />
+      <node id="#emojification" label="#emojification" />
+      <node id="#PRStrategy" label="#PRStrategy" />
+      <node id="#Tech" label="#Tech" />
+      <node id="#HealthCare" label="#HealthCare" />
+      <node id="#CompanyCulture" label="#CompanyCulture" />
+      <node id="#Flashback" label="#Flashback" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#MilkLife" label="#MilkLife" />
+      <node id="#Google" label="#Google" />
+      <node id="#WorkerComp" label="#WorkerComp" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#B2BMarketers" label="#B2BMarketers" />
+      <node id="#Keywords" label="#Keywords" />
+      <node id="#Entrepreneur" label="#Entrepreneur" />
+      <node id="#PRTips" label="#PRTips" />
+      <node id="#millennials" label="#millennials" />
+      <node id="#FacebookTips" label="#FacebookTips" />
+      <node id="#AMA" label="#AMA" />
+      <node id="#Engagement" label="#Engagement" />
+      <node id="#internship" label="#internship" />
+      <node id="#LiveEvent" label="#LiveEvent" />
+      <node id="#Inspiration" label="#Inspiration" />
+      <node id="#OnlineMarketing" label="#OnlineMarketing" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#tradeshow" label="#tradeshow" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#MothersDay" label="#MothersDay" />
+      <node id="#SummerOnYou" label="#SummerOnYou" />
+      <node id="#Mobile" label="#Mobile" />
+      <node id="#straighttalk" label="#straighttalk" />
+      <node id="#Campaign" label="#Campaign" />
+      <node id="#Video" label="#Video" />
+      <node id="#HTML" label="#HTML" />
+      <node id="#America" label="#America" />
+      <node id="#Conversion" label="#Conversion" />
+      <node id="#TeamBuilding" label="#TeamBuilding" />
+      <node id="#InterestingRead" label="#InterestingRead" />
+      <node id="#CTAs" label="#CTAs" />
+      <node id="#GoogleAnalytics" label="#GoogleAnalytics" />
+      <node id="#appleapps" label="#appleapps" />
+      <node id="#Advocacy" label="#Advocacy" />
+      <node id="#News" label="#News" />
+      <node id="#NonProfit" label="#NonProfit" />
+      <node id="#Marketer" label="#Marketer" />
+      <node id="#Market" label="#Market" />
+      <node id="#VisualContent" label="#VisualContent" />
+      <node id="#Internship" label="#Internship" />
+      <node id="#culture" label="#culture" />
+      <node id="#MarketingTips" label="#MarketingTips" />
+      <node id="#publicrelations" label="#publicrelations" />
+      <node id="#Marketers" label="#Marketers" />
+      <node id="#YouTube" label="#YouTube" />
+      <node id="#Strategy" label="#Strategy" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#salespractices" label="#salespractices" />
+      <node id="#TEDTalks" label="#TEDTalks" />
+      <node id="#Instagram" label="#Instagram" />
+      <node id="#SocialSelling" label="#SocialSelling" />
+      <node id="#pitching" label="#pitching" />
+      <node id="#ChristmasParty" label="#ChristmasParty" />
+      <node id="#PRFail" label="#PRFail" />
+      <node id="#Hollywood" label="#Hollywood" />
+      <node id="#SummerIntern" label="#SummerIntern" />
+      <node id="#FlashBackFriday" label="#FlashBackFriday" />
+      <node id="#Millennials" label="#Millennials" />
+      <node id="#thanksgiving" label="#thanksgiving" />
+      <node id="#MarketingAutomation" label="#MarketingAutomation" />
+      <node id="#chipotle" label="#chipotle" />
+      <node id="#Raging" label="#Raging" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#QOTD" label="#QOTD" />
+      <node id="#social" label="#social" />
+      <node id="#newspaper" label="#newspaper" />
+      <node id="#BrandBowl" label="#BrandBowl" />
+      <node id="#TraditionalMedia" label="#TraditionalMedia" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#KPIs" label="#KPIs" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#blog" label="#blog" />
+      <node id="#MediaRelations" label="#MediaRelations" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#TEDTalk" label="#TEDTalk" />
+      <node id="#B2BMarketing" label="#B2BMarketing" />
+      <node id="#food" label="#food" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#intern" label="#intern" />
+      <node id="#active" label="#active" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#b2bmarketing" label="#b2bmarketing" />
+      <node id="#fun" label="#fun" />
+      <node id="#FunArticle" label="#FunArticle" />
+      <node id="#Sales" label="#Sales" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#success" label="#success" />
+      <node id="#Copywriting" label="#Copywriting" />
+      <node id="#Email" label="#Email" />
+      <node id="#webdesign" label="#webdesign" />
+      <node id="#PSA" label="#PSA" />
+      <node id="#millenials" label="#millenials" />
+      <node id="#Business" label="#Business" />
+      <node id="#NewHire" label="#NewHire" />
+      <node id="#smartestcityinOhio" label="#smartestcityinOhio" />
+      <node id="#Presentations" label="#Presentations" />
+      <node id="#SMDay" label="#SMDay" />
+      <node id="#WorldHealthDay" label="#WorldHealthDay" />
+      <node id="#BrandAmbassadors" label="#BrandAmbassadors" />
+      <node id="#Blogging" label="#Blogging" />
+      <node id="#Content" label="#Content" />
+      <node id="#tropicalhouse" label="#tropicalhouse" />
+      <node id="#VisualBranding" label="#VisualBranding" />
+      <node id="#FridayPlay" label="#FridayPlay" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#Branding" label="#Branding" />
+      <node id="#Productive" label="#Productive" />
+      <node id="#Aloha" label="#Aloha" />
+      <node id="#Blues" label="#Blues" />
+      <node id="#MarketingCampaign" label="#MarketingCampaign" />
+      <node id="#androidapps" label="#androidapps" />
+      <node id="#WorldCup" label="#WorldCup" />
+      <node id="#career" label="#career" />
+      <node id="#Bloggers" label="#Bloggers" />
+      <node id="#ValentinesDay" label="#ValentinesDay" />
+      <node id="#YouWereRight" label="#YouWereRight" />
+      <node id="#BabyBoomers" label="#BabyBoomers" />
+      <node id="#ThrowbackThursday" label="#ThrowbackThursday" />
+      <node id="#sales" label="#sales" />
+      <node id="#StaffPick" label="#StaffPick" />
+      <node id="#technology" label="#technology" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#newsfeed" label="#newsfeed" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#SMTLive" label="#SMTLive" />
+      <node id="#humpday" label="#humpday" />
+      <node id="#Culture" label="#Culture" />
+      <node id="#TriviaTuesday" label="#TriviaTuesday" />
+      <node id="#telecom" label="#telecom" />
+      <node id="#writing" label="#writing" />
+      <node id="#ABC" label="#ABC" />
+      <node id="#FridayPlaylist" label="#FridayPlaylist" />
+      <node id="#Congratulations" label="#Congratulations" />
+      <node id="#IceBucketChallenge" label="#IceBucketChallenge" />
+      <node id="#FinalSong" label="#FinalSong" />
+      <node id="#MerryChristmas" label="#MerryChristmas" />
+      <node id="#Tips" label="#Tips" />
+      <node id="#WritersBlock" label="#WritersBlock" />
+      <node id="#Visual" label="#Visual" />
+      <node id="#Benefits" label="#Benefits" />
+      <node id="#BWChat" label="#BWChat" />
+      <node id="#Creativity" label="#Creativity" />
+      <node id="#CocaCola" label="#CocaCola" />
+      <node id="#WinterBlues" label="#WinterBlues" />
+      <node id="#LeadGen" label="#LeadGen" />
+      <node id="#Selfies" label="#Selfies" />
+      <node id="#FathersDay" label="#FathersDay" />
+      <node id="#BrandBuilding" label="#BrandBuilding" />
+      <node id="#Disney" label="#Disney" />
+      <node id="#Rudolph" label="#Rudolph" />
+      <node id="#DAUF" label="#DAUF" />
+      <node id="#SocialMediaMarketing" label="#SocialMediaMarketing" />
+      <node id="#Trends" label="#Trends" />
+      <node id="#Psychology" label="#Psychology" />
+      <node id="#contentmarketing" label="#contentmarketing" />
+      <node id="#TwitterTips" label="#TwitterTips" />
+      <node id="#GooglePlus" label="#GooglePlus" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#SocialMediaDay" label="#SocialMediaDay" />
+      <node id="#F8Conference" label="#F8Conference" />
+      <node id="#Gifs" label="#Gifs" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#Analytics" label="#Analytics" />
+      <node id="#Microsoft" label="#Microsoft" />
+      <node id="#CompetitorAnalysis" label="#CompetitorAnalysis" />
+      <node id="#FridayPlayist" label="#FridayPlayist" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#mmchat" label="#mmchat" />
+      <node id="#Olympic" label="#Olympic" />
+      <node id="#Photography" label="#Photography" />
+      <node id="#PostGraduate" label="#PostGraduate" />
+      <node id="#restaurants" label="#restaurants" />
+      <node id="#Apps" label="#Apps" />
+      <node id="#RoyalFamily" label="#RoyalFamily" />
+      <node id="#Website" label="#Website" />
+      <node id="#Environmentalism" label="#Environmentalism" />
+      <node id="#Blog" label="#Blog" />
+      <node id="#Logo" label="#Logo" />
+      <node id="#rednose" label="#rednose" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#Clintonville" label="#Clintonville" />
+      <node id="#AgencyLife" label="#AgencyLife" />
+      <node id="#Social" label="#Social" />
+      <node id="#WebsiteDesign" label="#WebsiteDesign" />
+      <node id="#Blueprint" label="#Blueprint" />
+      <node id="#Starbucks" label="#Starbucks" />
+      <node id="#GraphicDesign" label="#GraphicDesign" />
+      <node id="#Career" label="#Career" />
+      <node id="#Communication" label="#Communication" />
+      <node id="#Audience" label="#Audience" />
+      <node id="#TwitterAnalytics" label="#TwitterAnalytics" />
+      <node id="#WordPress" label="#WordPress" />
+      <node id="#Brassica" label="#Brassica" />
+      <node id="#INFOGRAPHIC" label="#INFOGRAPHIC" />
+      <node id="#Messenger" label="#Messenger" />
+      <node id="#FlashbackFriday" label="#FlashbackFriday" />
+      <node id="#SocialPR" label="#SocialPR" />
+      <node id="#EmailMarketing" label="#EmailMarketing" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#Constellations" label="#Constellations" />
+      <node id="#MarketingFail" label="#MarketingFail" />
+      <node id="#Online" label="#Online" />
+      <node id="#Journalism" label="#Journalism" />
+      <node id="#Features" label="#Features" />
+      <node id="#management" label="#management" />
+      <node id="#pr" label="#pr" />
+      <node id="#Leadership" label="#Leadership" />
+      <node id="#Markets" label="#Markets" />
+      <node id="#SoMe" label="#SoMe" />
+      <node id="#LinkedIn" label="#LinkedIn" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#LeadGeneration" label="#LeadGeneration" />
+      <node id="#TrendJacking" label="#TrendJacking" />
+      <node id="#Pintrest" label="#Pintrest" />
+      <node id="#strategic" label="#strategic" />
+      <node id="#media" label="#media" />
+      <node id="#design" label="#design" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#mobilemarketing" label="#mobilemarketing" />
+      <node id="#Rebranding" label="#Rebranding" />
+      <node id="#classics" label="#classics" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#crisis" label="#crisis" />
+      <node id="#Success" label="#Success" />
+      <node id="#ROI" label="#ROI" />
+      <node id="#SharkTank" label="#SharkTank" />
+      <node id="#PRism" label="#PRism" />
+      <node id="#SocialSearch" label="#SocialSearch" />
+      <node id="#BlogTips" label="#BlogTips" />
+      <node id="#PRIUM" label="#PRIUM" />
+      <node id="#VideoMarketing" label="#VideoMarketing" />
+      <node id="#StandOut" label="#StandOut" />
+      <node id="#Holidays" label="#Holidays" />
+      <node id="#TeamTalkTuesday" label="#TeamTalkTuesday" />
+      <node id="#Networking" label="#Networking" />
+      <node id="#ContentMarketing" label="#ContentMarketing" />
+      <node id="#PR" label="#PR" />
+      <node id="#Study" label="#Study" />
+      <node id="#communications" label="#communications" />
+      <node id="#ContentMarketers" label="#ContentMarketers" />
+      <node id="#video" label="#video" />
+      <node id="#business" label="#business" />
+      <node id="#b2b" label="#b2b" />
+      <node id="#SnapChat" label="#SnapChat" />
+      <node id="#AirConnect" label="#AirConnect" />
+      <node id="#Checkherout" label="#Checkherout" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#MobileTech" label="#MobileTech" />
+      <node id="#OneSweetWorld" label="#OneSweetWorld" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#Siri" label="#Siri" />
+      <node id="#FIFA" label="#FIFA" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#branding" label="#branding" />
+      <node id="#DesignTips" label="#DesignTips" />
+      <node id="#SalesTips" label="#SalesTips" />
+      <node id="#StartUp" label="#StartUp" />
+      <node id="#MLK" label="#MLK" />
+      <node id="#CallToActions" label="#CallToActions" />
+      <node id="#Holiday" label="#Holiday" />
+      <node id="#Management" label="#Management" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Mktg" target="#MarketingFail" weight="3244" />
+      <edge id="1" source="#Mktg" target="#Marketing" weight="3244" />
+      <edge id="2" source="#Mktg" target="#SocialMedia" weight="3244" />
+      <edge id="3" source="#Mktg" target="#ContentMarketing" weight="3244" />
+      <edge id="4" source="#workcomp" target="#thanksgiving" weight="16220" />
+      <edge id="5" source="#Cbus" target="#Blog" weight="9732" />
+      <edge id="6" source="#Cbus" target="#Blues" weight="6488" />
+      <edge id="7" source="#Cbus" target="#PRJobs" weight="6488" />
+      <edge id="8" source="#Cbus" target="#jobs" weight="3244" />
+      <edge id="9" source="#Cbus" target="#PR" weight="3244" />
+      <edge id="10" source="#Advertising" target="#TraditionalMedia" weight="3244" />
+      <edge id="11" source="#cbusjobs" target="#strategic" weight="3244" />
+      <edge id="12" source="#cbusjobs" target="#communications" weight="3244" />
+      <edge id="13" source="#Stats" target="#Mobile" weight="3244" />
+      <edge id="14" source="#Journos" target="#Marketing" weight="3244" />
+      <edge id="15" source="#Feedback" target="#SoMe" weight="3244" />
+      <edge id="16" source="#howto" target="#blog" weight="3244" />
+      <edge id="17" source="#howto" target="#marketing" weight="3244" />
+      <edge id="18" source="#SmallBusinessWeek" target="#SmallBiz" weight="3244" />
+      <edge id="19" source="#Recruiting" target="#Management" weight="3244" />
+      <edge id="20" source="#SocialCents" target="#SocialMedia" weight="3244" />
+      <edge id="21" source="#pressreleases" target="#PR" weight="3244" />
+      <edge id="22" source="#beer" target="#Columbus" weight="3244" />
+      <edge id="23" source="#SmallBiz" target="#Infographic" weight="6488" />
+      <edge id="24" source="#SmallBiz" target="#Rebranding" weight="3244" />
+      <edge id="25" source="#SmallBiz" target="#MobileMarketing" weight="3244" />
+      <edge id="26" source="#SmallBiz" target="#DesignTips" weight="3244" />
+      <edge id="27" source="#SmallBiz" target="#Strategy" weight="3244" />
+      <edge id="28" source="#SmallBiz" target="#SoMe" weight="25952" />
+      <edge id="29" source="#SmallBiz" target="#KPIs" weight="3244" />
+      <edge id="30" source="#SmallBiz" target="#Facebook" weight="6488" />
+      <edge id="31" source="#SmallBiz" target="#FathersDay" weight="3244" />
+      <edge id="32" source="#SmallBiz" target="#MWAsks" weight="3244" />
+      <edge id="33" source="#SmallBiz" target="#Branding" weight="3244" />
+      <edge id="34" source="#SmallBiz" target="#OnlineMarketing" weight="3244" />
+      <edge id="35" source="#SmallBiz" target="#ContentMarketing" weight="3244" />
+      <edge id="36" source="#SmallBiz" target="#ICYMI" weight="3244" />
+      <edge id="37" source="#SmallBiz" target="#MarketingTrends" weight="3244" />
+      <edge id="38" source="#SmallBiz" target="#Blog" weight="16220" />
+      <edge id="39" source="#SmallBiz" target="#MarketingTips" weight="6488" />
+      <edge id="40" source="#SmallBiz" target="#SocialMedia" weight="3244" />
+      <edge id="41" source="#brand" target="#blog" weight="3244" />
+      <edge id="42" source="#PublicRelations" target="#PR" weight="3244" />
+      <edge id="43" source="#PublicRelations" target="#PRJobs" weight="3244" />
+      <edge id="44" source="#Innovation" target="#TEDTalk" weight="3244" />
+      <edge id="45" source="#Innovation" target="#Culture" weight="3244" />
+      <edge id="46" source="#DigitalMarketing" target="#Productive" weight="3244" />
+      <edge id="47" source="#DigitalMarketing" target="#SoMe" weight="3244" />
+      <edge id="48" source="#DigitalMarketing" target="#Creativity" weight="3244" />
+      <edge id="49" source="#Gold" target="#FridayPlaylist" weight="3244" />
+      <edge id="50" source="#healthy" target="#active" weight="3244" />
+      <edge id="51" source="#GIF" target="#Content" weight="3244" />
+      <edge id="52" source="#Humanize" target="#Brand" weight="3244" />
+      <edge id="53" source="#GoingGreen" target="#Environmentalism" weight="3244" />
+      <edge id="54" source="#SmallBusiness" target="#SocialMedia" weight="3244" />
+      <edge id="55" source="#MWAsks" target="#SoMe" weight="6488" />
+      <edge id="56" source="#Yahoo" target="#fun" weight="3244" />
+      <edge id="57" source="#SanFrancisco" target="#TriviaTuesday" weight="6488" />
+      <edge id="58" source="#EmailTips" target="#Blog" weight="3244" />
+      <edge id="59" source="#Webinar" target="#Blog" weight="3244" />
+      <edge id="60" source="#TargetAudience" target="#MarketingStrategy" weight="3244" />
+      <edge id="61" source="#WritingTips" target="#Content" weight="3244" />
+      <edge id="62" source="#TBT" target="#ThrowbackThursday" weight="3244" />
+      <edge id="63" source="#reindeer" target="#Rudolph" weight="3244" />
+      <edge id="64" source="#reindeer" target="#rednose" weight="3244" />
+      <edge id="65" source="#digital" target="#marketing" weight="3244" />
+      <edge id="66" source="#digital" target="#technology" weight="3244" />
+      <edge id="67" source="#digital" target="#media" weight="3244" />
+      <edge id="68" source="#digital" target="#telecom" weight="3244" />
+      <edge id="69" source="#digital" target="#Facebook" weight="3244" />
+      <edge id="70" source="#Small" target="#TwitterTips" weight="3244" />
+      <edge id="71" source="#SoMeTips" target="#PRTips" weight="3244" />
+      <edge id="72" source="#SoMeTips" target="#Infographic" weight="3244" />
+      <edge id="73" source="#SoMeTips" target="#SoMe" weight="9732" />
+      <edge id="74" source="#Infographics" target="#Content" weight="3244" />
+      <edge id="75" source="#Infographics" target="#Biz" weight="3244" />
+      <edge id="76" source="#Infographics" target="#SoMe" weight="3244" />
+      <edge id="77" source="#Infographics" target="#Brand" weight="3244" />
+      <edge id="78" source="#Infographics" target="#Blog" weight="6488" />
+      <edge id="79" source="#Infographics" target="#Marketing" weight="3244" />
+      <edge id="80" source="#CloudNine" target="#tropicalhouse" weight="3244" />
+      <edge id="81" source="#CloudNine" target="#Raging" weight="3244" />
+      <edge id="82" source="#CloudNine" target="#FridayPlaylist" weight="3244" />
+      <edge id="83" source="#Client" target="#Blog" weight="6488" />
+      <edge id="84" source="#SpringCleaning" target="#B2B" weight="3244" />
+      <edge id="85" source="#productive" target="#success" weight="3244" />
+      <edge id="86" source="#MarketingWorks" target="#Intern" weight="3244" />
+      <edge id="87" source="#MarketingWorks" target="#TeamTalkTuesday" weight="3244" />
+      <edge id="88" source="#Snapchat" target="#Marketing" weight="3244" />
+      <edge id="89" source="#Snapchat" target="#SocialMediaMarketing" weight="3244" />
+      <edge id="90" source="#Snapchat" target="#millenials" weight="3244" />
+      <edge id="91" source="#Snapchat" target="#DidYouKnow" weight="3244" />
+      <edge id="92" source="#alttext" target="#SEO" weight="3244" />
+      <edge id="93" source="#alttext" target="#marketing" weight="3244" />
+      <edge id="94" source="#alttext" target="#DidYouKnow" weight="3244" />
+      <edge id="95" source="#Crowdsourcing" target="#MarketingTips" weight="3244" />
+      <edge id="96" source="#internships" target="#Blog" weight="3244" />
+      <edge id="97" source="#CustomerService" target="#Twitter" weight="3244" />
+      <edge id="98" source="#MLKDay" target="#MLK" weight="3244" />
+      <edge id="99" source="#MarketingTrends" target="#SoMe" weight="6488" />
+      <edge id="100" source="#MarketingTrends" target="#HealthCare" weight="3244" />
+      <edge id="101" source="#Pitches" target="#PR" weight="3244" />
+      <edge id="102" source="#Smarketing" target="#Marketing" weight="3244" />
+      <edge id="103" source="#Smarketing" target="#Sales" weight="3244" />
+      <edge id="104" source="#Leads" target="#LeadGeneration" weight="3244" />
+      <edge id="105" source="#content" target="#blog" weight="3244" />
+      <edge id="106" source="#content" target="#Marketing" weight="3244" />
+      <edge id="107" source="#content" target="#marketing" weight="9732" />
+      <edge id="108" source="#content" target="#blogging" weight="3244" />
+      <edge id="109" source="#TChat" target="#career" weight="3244" />
+      <edge id="110" source="#BodyLanguage" target="#Communication" weight="3244" />
+      <edge id="111" source="#OceanClub" target="#StaffPick" weight="3244" />
+      <edge id="112" source="#sm" target="#mmchat" weight="3244" />
+      <edge id="113" source="#sm" target="#socialmedia" weight="3244" />
+      <edge id="114" source="#GoBucks" target="#TriviaTuesday" weight="6488" />
+      <edge id="115" source="#Brand" target="#Infographic" weight="9732" />
+      <edge id="116" source="#Brand" target="#Content" weight="3244" />
+      <edge id="117" source="#Brand" target="#Online" weight="3244" />
+      <edge id="118" source="#Brand" target="#Biz" weight="3244" />
+      <edge id="119" source="#Brand" target="#SoMe" weight="16220" />
+      <edge id="120" source="#Brand" target="#Video" weight="3244" />
+      <edge id="121" source="#Brand" target="#Blog" weight="6488" />
+      <edge id="122" source="#Brand" target="#Marketing" weight="12976" />
+      <edge id="123" source="#RWD" target="#Blog" weight="3244" />
+      <edge id="124" source="#Slideshare" target="#Trends" weight="3244" />
+      <edge id="125" source="#Slideshare" target="#SoMe" weight="3244" />
+      <edge id="126" source="#Slideshare" target="#Marketing" weight="3244" />
+      <edge id="127" source="#Slideshare" target="#OnlineMarketing" weight="3244" />
+      <edge id="128" source="#Akron" target="#TriviaTuesday" weight="3244" />
+      <edge id="129" source="#Intern" target="#Internship" weight="12976" />
+      <edge id="130" source="#Intern" target="#Marketing" weight="6488" />
+      <edge id="131" source="#Intern" target="#Blog" weight="6488" />
+      <edge id="132" source="#Intern" target="#StartUp" weight="3244" />
+      <edge id="133" source="#MeetingoftheMinds" target="#marketing" weight="3244" />
+      <edge id="134" source="#MeetingoftheMinds" target="#sales" weight="3244" />
+      <edge id="135" source="#Hashtags" target="#Blog" weight="3244" />
+      <edge id="136" source="#Hashtags" target="#Facebook" weight="3244" />
+      <edge id="137" source="#Excel" target="#Microsoft" weight="3244" />
+      <edge id="138" source="#MarketingStrategy" target="#MarketingTips" weight="3244" />
+      <edge id="139" source="#MarketingStrategy" target="#Psychology" weight="3244" />
+      <edge id="140" source="#strategy" target="#b2b" weight="3244" />
+      <edge id="141" source="#FunAtWorkDay" target="#Starbucks" weight="3244" />
+      <edge id="142" source="#B2C" target="#Marketing" weight="3244" />
+      <edge id="143" source="#B2C" target="#B2B" weight="12976" />
+      <edge id="144" source="#B2B" target="#ICYMI" weight="3244" />
+      <edge id="145" source="#B2B" target="#MarketingFail" weight="3244" />
+      <edge id="146" source="#B2B" target="#Email" weight="3244" />
+      <edge id="147" source="#B2B" target="#PRJobs" weight="6488" />
+      <edge id="148" source="#B2B" target="#SocialSelling" weight="3244" />
+      <edge id="149" source="#B2B" target="#contentmarketing" weight="6488" />
+      <edge id="150" source="#B2B" target="#marketing" weight="9732" />
+      <edge id="151" source="#B2B" target="#Instagram" weight="3244" />
+      <edge id="152" source="#B2B" target="#Tips" weight="3244" />
+      <edge id="153" source="#B2B" target="#SoMe" weight="3244" />
+      <edge id="154" source="#B2B" target="#Content" weight="9732" />
+      <edge id="155" source="#B2B" target="#millennials" weight="3244" />
+      <edge id="156" source="#B2B" target="#VideoMarketing" weight="3244" />
+      <edge id="157" source="#B2B" target="#Blog" weight="6488" />
+      <edge id="158" source="#B2B" target="#Marketing" weight="12976" />
+      <edge id="159" source="#B2B" target="#SocialMedia" weight="3244" />
+      <edge id="160" source="#B2B" target="#LinkedIn" weight="3244" />
+      <edge id="161" source="#B2B" target="#News" weight="3244" />
+      <edge id="162" source="#B2B" target="#Pintrest" weight="3244" />
+      <edge id="163" source="#B2B" target="#Marketer" weight="3244" />
+      <edge id="164" source="#B2B" target="#ContentMarketing" weight="6488" />
+      <edge id="165" source="#B2B" target="#PR" weight="3244" />
+      <edge id="166" source="#PRJobs" target="#PR" weight="9732" />
+      <edge id="167" source="#LinkedInTips" target="#Branding" weight="3244" />
+      <edge id="168" source="#Tradeshow" target="#SalesTips" weight="3244" />
+      <edge id="169" source="#Entrepreneurship" target="#Sales" weight="3244" />
+      <edge id="170" source="#blogging" target="#marketing" weight="3244" />
+      <edge id="171" source="#Biz" target="#Infographic" weight="3244" />
+      <edge id="172" source="#Biz" target="#Content" weight="6488" />
+      <edge id="173" source="#Biz" target="#GooglePlus" weight="3244" />
+      <edge id="174" source="#Biz" target="#Email" weight="3244" />
+      <edge id="175" source="#Biz" target="#SoMe" weight="12976" />
+      <edge id="176" source="#Biz" target="#SocialMediaMarketing" weight="3244" />
+      <edge id="177" source="#Biz" target="#Success" weight="3244" />
+      <edge id="178" source="#Biz" target="#Apps" weight="3244" />
+      <edge id="179" source="#Biz" target="#Strategy" weight="3244" />
+      <edge id="180" source="#Biz" target="#Startup" weight="3244" />
+      <edge id="181" source="#Biz" target="#ContentMarketing" weight="9732" />
+      <edge id="182" source="#Biz" target="#Facebook" weight="3244" />
+      <edge id="183" source="#Biz" target="#Creativity" weight="3244" />
+      <edge id="184" source="#Biz" target="#VideoMarketing" weight="3244" />
+      <edge id="185" source="#Biz" target="#Blog" weight="9732" />
+      <edge id="186" source="#Biz" target="#Marketing" weight="12976" />
+      <edge id="187" source="#Biz" target="#EmailMarketing" weight="3244" />
+      <edge id="188" source="#Biz" target="#SocialMedia" weight="9732" />
+      <edge id="189" source="#Biz" target="#Logo" weight="3244" />
+      <edge id="190" source="#PingPong" target="#B2BMarketers" weight="3244" />
+      <edge id="191" source="#MobileMarketing" target="#Strategy" weight="3244" />
+      <edge id="192" source="#MobileMarketing" target="#MarketingFail" weight="3244" />
+      <edge id="193" source="#emojification" target="#Facebook" weight="3244" />
+      <edge id="194" source="#PRStrategy" target="#Blog" weight="6488" />
+      <edge id="195" source="#PRStrategy" target="#PR" weight="3244" />
+      <edge id="196" source="#PRStrategy" target="#DAUF" weight="3244" />
+      <edge id="197" source="#Tech" target="#MobileTech" weight="3244" />
+      <edge id="198" source="#HealthCare" target="#SoMe" weight="3244" />
+      <edge id="199" source="#CompanyCulture" target="#PR" weight="3244" />
+      <edge id="200" source="#CompanyCulture" target="#Blog" weight="3244" />
+      <edge id="201" source="#CompanyCulture" target="#TeamBuilding" weight="3244" />
+      <edge id="202" source="#Flashback" target="#ValentinesDay" weight="3244" />
+      <edge id="203" source="#leadership" target="#management" weight="3244" />
+      <edge id="204" source="#MilkLife" target="#FlashbackFriday" weight="3244" />
+      <edge id="205" source="#Google" target="#Infographic" weight="3244" />
+      <edge id="206" source="#Google" target="#mobile" weight="3244" />
+      <edge id="207" source="#WorkerComp" target="#Blog" weight="3244" />
+      <edge id="208" source="#Obama" target="#Selfies" weight="3244" />
+      <edge id="209" source="#B2BMarketers" target="#SocialMedia" weight="3244" />
+      <edge id="210" source="#Keywords" target="#Blog" weight="3244" />
+      <edge id="211" source="#Keywords" target="#SEO" weight="3244" />
+      <edge id="212" source="#Entrepreneur" target="#StartUp" weight="3244" />
+      <edge id="213" source="#PRTips" target="#Blog" weight="3244" />
+      <edge id="214" source="#millennials" target="#marketing" weight="6488" />
+      <edge id="215" source="#FacebookTips" target="#F8Conference" weight="3244" />
+      <edge id="216" source="#AMA" target="#socialmedia" weight="3244" />
+      <edge id="217" source="#Engagement" target="#SoMe" weight="3244" />
+      <edge id="218" source="#Engagement" target="#Content" weight="3244" />
+      <edge id="219" source="#internship" target="#PR" weight="3244" />
+      <edge id="220" source="#internship" target="#marketing" weight="3244" />
+      <edge id="221" source="#LiveEvent" target="#SuperBowl" weight="3244" />
+      <edge id="222" source="#Inspiration" target="#Infographic" weight="3244" />
+      <edge id="223" source="#OnlineMarketing" target="#SoMe" weight="3244" />
+      <edge id="224" source="#OnlineMarketing" target="#BrandAmbassadors" weight="3244" />
+      <edge id="225" source="#OnlineMarketing" target="#Video" weight="3244" />
+      <edge id="226" source="#Facebook" target="#LinkedIn" weight="3244" />
+      <edge id="227" source="#Facebook" target="#Infographic" weight="3244" />
+      <edge id="228" source="#Facebook" target="#SocialMediaMarketing" weight="3244" />
+      <edge id="229" source="#Facebook" target="#Instagram" weight="3244" />
+      <edge id="230" source="#Facebook" target="#SoMe" weight="3244" />
+      <edge id="231" source="#Facebook" target="#newsfeed" weight="3244" />
+      <edge id="232" source="#Facebook" target="#Pinterest" weight="3244" />
+      <edge id="233" source="#Facebook" target="#Twitter" weight="12976" />
+      <edge id="234" source="#Facebook" target="#Blog" weight="6488" />
+      <edge id="235" source="#Facebook" target="#marketing" weight="9732" />
+      <edge id="236" source="#Facebook" target="#DidYouKnow" weight="3244" />
+      <edge id="237" source="#tradeshow" target="#PRIUM" weight="3244" />
+      <edge id="238" source="#ICYMI" target="#FathersDay" weight="3244" />
+      <edge id="239" source="#ICYMI" target="#Business" weight="3244" />
+      <edge id="240" source="#ICYMI" target="#Blog" weight="9732" />
+      <edge id="241" source="#ICYMI" target="#TeamBuilding" weight="3244" />
+      <edge id="242" source="#MothersDay" target="#PR" weight="3244" />
+      <edge id="243" source="#SummerOnYou" target="#FridayPlaylist" weight="3244" />
+      <edge id="244" source="#straighttalk" target="#MarketingTips" weight="3244" />
+      <edge id="245" source="#Campaign" target="#IceBucketChallenge" weight="3244" />
+      <edge id="246" source="#Video" target="#Infographic" weight="3244" />
+      <edge id="247" source="#Video" target="#SoMe" weight="3244" />
+      <edge id="248" source="#Video" target="#Creativity" weight="3244" />
+      <edge id="249" source="#Video" target="#Blog" weight="3244" />
+      <edge id="250" source="#Video" target="#Marketing" weight="3244" />
+      <edge id="251" source="#HTML" target="#Website" weight="3244" />
+      <edge id="252" source="#America" target="#Columbus" weight="3244" />
+      <edge id="253" source="#America" target="#TriviaTuesday" weight="3244" />
+      <edge id="254" source="#Conversion" target="#CallToActions" weight="3244" />
+      <edge id="255" source="#Conversion" target="#CTAs" weight="3244" />
+      <edge id="256" source="#Conversion" target="#ContentMarketing" weight="3244" />
+      <edge id="257" source="#TeamBuilding" target="#Blog" weight="3244" />
+      <edge id="258" source="#InterestingRead" target="#SoMe" weight="3244" />
+      <edge id="259" source="#CTAs" target="#CallToActions" weight="3244" />
+      <edge id="260" source="#GoogleAnalytics" target="#Blog" weight="6488" />
+      <edge id="261" source="#appleapps" target="#androidapps" weight="3244" />
+      <edge id="262" source="#appleapps" target="#Apps" weight="3244" />
+      <edge id="263" source="#appleapps" target="#SocialMedia" weight="3244" />
+      <edge id="264" source="#Advocacy" target="#MarketingTips" weight="3244" />
+      <edge id="265" source="#News" target="#Journalism" weight="3244" />
+      <edge id="266" source="#News" target="#PR" weight="3244" />
+      <edge id="267" source="#NonProfit" target="#ContentMarketing" weight="3244" />
+      <edge id="268" source="#Market" target="#Photography" weight="3244" />
+      <edge id="269" source="#Market" target="#Startup" weight="3244" />
+      <edge id="270" source="#VisualContent" target="#Twitter" weight="6488" />
+      <edge id="271" source="#VisualContent" target="#SoMe" weight="6488" />
+      <edge id="272" source="#VisualContent" target="#Blog" weight="3244" />
+      <edge id="273" source="#Internship" target="#Blog" weight="6488" />
+      <edge id="274" source="#culture" target="#WorldHealthDay" weight="3244" />
+      <edge id="275" source="#MarketingTips" target="#Sales" weight="6488" />
+      <edge id="276" source="#MarketingTips" target="#Presentations" weight="3244" />
+      <edge id="277" source="#MarketingTips" target="#SoMe" weight="16220" />
+      <edge id="278" source="#MarketingTips" target="#RoyalFamily" weight="3244" />
+      <edge id="279" source="#MarketingTips" target="#Copywriting" weight="3244" />
+      <edge id="280" source="#MarketingTips" target="#GraphicDesign" weight="3244" />
+      <edge id="281" source="#MarketingTips" target="#Marketing" weight="3244" />
+      <edge id="282" source="#MarketingTips" target="#SEO" weight="3244" />
+      <edge id="283" source="#MarketingTips" target="#Email" weight="3244" />
+      <edge id="284" source="#publicrelations" target="#PR" weight="3244" />
+      <edge id="285" source="#publicrelations" target="#marketing" weight="3244" />
+      <edge id="286" source="#publicrelations" target="#pr" weight="3244" />
+      <edge id="287" source="#Marketers" target="#Gifs" weight="3244" />
+      <edge id="288" source="#Marketers" target="#Creativity" weight="3244" />
+      <edge id="289" source="#Marketers" target="#Analytics" weight="3244" />
+      <edge id="290" source="#YouTube" target="#tbt" weight="3244" />
+      <edge id="291" source="#Strategy" target="#SoMe" weight="6488" />
+      <edge id="292" source="#Strategy" target="#ContentMarketing" weight="3244" />
+      <edge id="293" source="#Strategy" target="#Blog" weight="3244" />
+      <edge id="294" source="#SocialMedia" target="#SEO" weight="3244" />
+      <edge id="295" source="#SocialMedia" target="#Apps" weight="3244" />
+      <edge id="296" source="#SocialMedia" target="#MarketingFail" weight="6488" />
+      <edge id="297" source="#SocialMedia" target="#QOTD" weight="6488" />
+      <edge id="298" source="#SocialMedia" target="#ROI" weight="3244" />
+      <edge id="299" source="#SocialMedia" target="#androidapps" weight="3244" />
+      <edge id="300" source="#SocialMedia" target="#Infographic" weight="6488" />
+      <edge id="301" source="#SocialMedia" target="#Markets" weight="3244" />
+      <edge id="302" source="#SocialMedia" target="#SoMe" weight="38928" />
+      <edge id="303" source="#SocialMedia" target="#Content" weight="12976" />
+      <edge id="304" source="#SocialMedia" target="#Visual" weight="3244" />
+      <edge id="305" source="#SocialMedia" target="#SocialMediaDay" weight="3244" />
+      <edge id="306" source="#SocialMedia" target="#Blog" weight="16220" />
+      <edge id="307" source="#SocialMedia" target="#Marketing" weight="12976" />
+      <edge id="308" source="#SocialMedia" target="#Career" weight="3244" />
+      <edge id="309" source="#SocialMedia" target="#ContentMarketing" weight="3244" />
+      <edge id="310" source="#SocialMedia" target="#PR" weight="3244" />
+      <edge id="311" source="#salespractices" target="#classics" weight="3244" />
+      <edge id="312" source="#TEDTalks" target="#Marketing" weight="3244" />
+      <edge id="313" source="#TEDTalks" target="#Business" weight="3244" />
+      <edge id="314" source="#TEDTalks" target="#Creativity" weight="3244" />
+      <edge id="315" source="#Instagram" target="#Twitter" weight="3244" />
+      <edge id="316" source="#Instagram" target="#SoMe" weight="3244" />
+      <edge id="317" source="#Instagram" target="#Pinterest" weight="3244" />
+      <edge id="318" source="#pitching" target="#PR" weight="6488" />
+      <edge id="319" source="#pitching" target="#newspaper" weight="3244" />
+      <edge id="320" source="#ChristmasParty" target="#MerryChristmas" weight="3244" />
+      <edge id="321" source="#PRFail" target="#Infographic" weight="3244" />
+      <edge id="322" source="#Hollywood" target="#ContentMarketers" weight="3244" />
+      <edge id="323" source="#SummerIntern" target="#AgencyLife" weight="3244" />
+      <edge id="324" source="#FlashBackFriday" target="#WinterBlues" weight="3244" />
+      <edge id="325" source="#Millennials" target="#BabyBoomers" weight="3244" />
+      <edge id="326" source="#MarketingAutomation" target="#Infographic" weight="3244" />
+      <edge id="327" source="#MarketingAutomation" target="#Blog" weight="3244" />
+      <edge id="328" source="#MarketingAutomation" target="#Marketing" weight="3244" />
+      <edge id="329" source="#MarketingAutomation" target="#Sales" weight="3244" />
+      <edge id="330" source="#chipotle" target="#PR" weight="3244" />
+      <edge id="331" source="#Raging" target="#FridayPlaylist" weight="3244" />
+      <edge id="332" source="#Raging" target="#tropicalhouse" weight="3244" />
+      <edge id="333" source="#infographic" target="#innovation" weight="3244" />
+      <edge id="334" source="#infographic" target="#marketing" weight="3244" />
+      <edge id="335" source="#infographic" target="#socialmedia" weight="3244" />
+      <edge id="336" source="#infographic" target="#design" weight="3244" />
+      <edge id="337" source="#QOTD" target="#SoMe" weight="6488" />
+      <edge id="338" source="#QOTD" target="#Marketing" weight="3244" />
+      <edge id="339" source="#QOTD" target="#ContentMarketing" weight="3244" />
+      <edge id="340" source="#social" target="#LinkedIn" weight="3244" />
+      <edge id="341" source="#social" target="#PR" weight="3244" />
+      <edge id="342" source="#newspaper" target="#PR" weight="3244" />
+      <edge id="343" source="#BrandBowl" target="#SuperBowl" weight="3244" />
+      <edge id="344" source="#DidYouKnow" target="#LinkedIn" weight="3244" />
+      <edge id="345" source="#DidYouKnow" target="#technology" weight="3244" />
+      <edge id="346" source="#DidYouKnow" target="#SEO" weight="3244" />
+      <edge id="347" source="#DidYouKnow" target="#millenials" weight="3244" />
+      <edge id="348" source="#DidYouKnow" target="#PR" weight="3244" />
+      <edge id="349" source="#DidYouKnow" target="#marketing" weight="9732" />
+      <edge id="350" source="#DidYouKnow" target="#socialmedia" weight="3244" />
+      <edge id="351" source="#blog" target="#marketing" weight="3244" />
+      <edge id="352" source="#blog" target="#SEO" weight="3244" />
+      <edge id="353" source="#MediaRelations" target="#Networking" weight="3244" />
+      <edge id="354" source="#Infographic" target="#Branding" weight="3244" />
+      <edge id="355" source="#Infographic" target="#Sales" weight="6488" />
+      <edge id="356" source="#Infographic" target="#SEO" weight="3244" />
+      <edge id="357" source="#Infographic" target="#EmailMarketing" weight="6488" />
+      <edge id="358" source="#Infographic" target="#Email" weight="6488" />
+      <edge id="359" source="#Infographic" target="#SuperBowl" weight="6488" />
+      <edge id="360" source="#Infographic" target="#WebsiteDesign" weight="3244" />
+      <edge id="361" source="#Infographic" target="#ROI" weight="3244" />
+      <edge id="362" source="#Infographic" target="#SocialSearch" weight="3244" />
+      <edge id="363" source="#Infographic" target="#GooglePlus" weight="3244" />
+      <edge id="364" source="#Infographic" target="#SoMe" weight="51904" />
+      <edge id="365" source="#Infographic" target="#B2BMarketing" weight="3244" />
+      <edge id="366" source="#Infographic" target="#Blog" weight="12976" />
+      <edge id="367" source="#Infographic" target="#Marketing" weight="19464" />
+      <edge id="368" source="#Infographic" target="#Blogging" weight="3244" />
+      <edge id="369" source="#Infographic" target="#Content" weight="6488" />
+      <edge id="370" source="#Infographic" target="#Holidays" weight="3244" />
+      <edge id="371" source="#Infographic" target="#Twitter" weight="6488" />
+      <edge id="372" source="#Infographic" target="#ContentMarketing" weight="12976" />
+      <edge id="373" source="#Infographic" target="#PR" weight="3244" />
+      <edge id="374" source="#TEDTalk" target="#Culture" weight="3244" />
+      <edge id="375" source="#B2BMarketing" target="#SoMe" weight="3244" />
+      <edge id="376" source="#food" target="#StaffPick" weight="3244" />
+      <edge id="377" source="#food" target="#Columbus" weight="3244" />
+      <edge id="378" source="#Marketing" target="#mobilemarketing" weight="3244" />
+      <edge id="379" source="#Marketing" target="#RoyalFamily" weight="3244" />
+      <edge id="380" source="#Marketing" target="#Branding" weight="3244" />
+      <edge id="381" source="#Marketing" target="#MarketingFail" weight="3244" />
+      <edge id="382" source="#Marketing" target="#Sales" weight="6488" />
+      <edge id="383" source="#Marketing" target="#MarketingCampaign" weight="3244" />
+      <edge id="384" source="#Marketing" target="#TwitterTips" weight="3244" />
+      <edge id="385" source="#Marketing" target="#INFOGRAPHIC" weight="3244" />
+      <edge id="386" source="#Marketing" target="#Social" weight="3244" />
+      <edge id="387" source="#Marketing" target="#SoMe" weight="16220" />
+      <edge id="388" source="#Marketing" target="#VideoMarketing" weight="3244" />
+      <edge id="389" source="#Marketing" target="#Blog" weight="6488" />
+      <edge id="390" source="#Marketing" target="#Content" weight="6488" />
+      <edge id="391" source="#Marketing" target="#ContentMarketing" weight="3244" />
+      <edge id="392" source="#Marketing" target="#PR" weight="3244" />
+      <edge id="393" source="#Marketing" target="#Olympic" weight="3244" />
+      <edge id="394" source="#Marketing" target="#Holiday" weight="3244" />
+      <edge id="395" source="#intern" target="#Blog" weight="3244" />
+      <edge id="396" source="#Twitter" target="#LinkedIn" weight="3244" />
+      <edge id="397" source="#Twitter" target="#Study" weight="3244" />
+      <edge id="398" source="#Twitter" target="#LeadGen" weight="3244" />
+      <edge id="399" source="#Twitter" target="#SoMe" weight="9732" />
+      <edge id="400" source="#Twitter" target="#Pinterest" weight="3244" />
+      <edge id="401" source="#Twitter" target="#Twitter" weight="6488" />
+      <edge id="402" source="#Twitter" target="#TwitterAnalytics" weight="6488" />
+      <edge id="403" source="#Twitter" target="#PR" weight="3244" />
+      <edge id="404" source="#Twitter" target="#Blog" weight="19464" />
+      <edge id="405" source="#b2bmarketing" target="#socialmedia" weight="3244" />
+      <edge id="406" source="#FunArticle" target="#Content" weight="3244" />
+      <edge id="407" source="#Sales" target="#SoMe" weight="3244" />
+      <edge id="408" source="#Sales" target="#Apps" weight="3244" />
+      <edge id="409" source="#Sales" target="#Website" weight="3244" />
+      <edge id="410" source="#SEO" target="#Content" weight="6488" />
+      <edge id="411" source="#SEO" target="#Website" weight="3244" />
+      <edge id="412" source="#SEO" target="#SoMe" weight="3244" />
+      <edge id="413" source="#SEO" target="#contentmarketing" weight="3244" />
+      <edge id="414" source="#SEO" target="#WordPress" weight="3244" />
+      <edge id="415" source="#SEO" target="#ContentMarketing" weight="3244" />
+      <edge id="416" source="#SEO" target="#SocialPR" weight="3244" />
+      <edge id="417" source="#SEO" target="#PR" weight="9732" />
+      <edge id="418" source="#SEO" target="#marketing" weight="16220" />
+      <edge id="419" source="#SEO" target="#Blog" weight="12976" />
+      <edge id="420" source="#webdesign" target="#marketing" weight="6488" />
+      <edge id="421" source="#PSA" target="#Branding" weight="3244" />
+      <edge id="422" source="#Business" target="#FathersDay" weight="3244" />
+      <edge id="423" source="#Business" target="#NewHire" weight="3244" />
+      <edge id="424" source="#Business" target="#Creativity" weight="3244" />
+      <edge id="425" source="#smartestcityinOhio" target="#Columbus" weight="3244" />
+      <edge id="426" source="#SMDay" target="#SocialMediaDay" weight="6488" />
+      <edge id="427" source="#Blogging" target="#PR" weight="3244" />
+      <edge id="428" source="#Blogging" target="#SoMe" weight="3244" />
+      <edge id="429" source="#Content" target="#LinkedIn" weight="3244" />
+      <edge id="430" source="#Content" target="#Blog" weight="9732" />
+      <edge id="431" source="#Content" target="#INFOGRAPHIC" weight="3244" />
+      <edge id="432" source="#Content" target="#SoMe" weight="22708" />
+      <edge id="433" source="#Content" target="#Pinterest" weight="3244" />
+      <edge id="434" source="#Content" target="#PR" weight="3244" />
+      <edge id="435" source="#Content" target="#ContentMarketing" weight="6488" />
+      <edge id="436" source="#Content" target="#StandOut" weight="3244" />
+      <edge id="437" source="#tropicalhouse" target="#FridayPlaylist" weight="3244" />
+      <edge id="438" source="#VisualBranding" target="#Logo" weight="3244" />
+      <edge id="439" source="#FridayPlay" target="#FinalSong" weight="3244" />
+      <edge id="440" source="#Healthcare" target="#SoMe" weight="3244" />
+      <edge id="441" source="#Branding" target="#SoMe" weight="6488" />
+      <edge id="442" source="#Branding" target="#Blueprint" weight="3244" />
+      <edge id="443" source="#Branding" target="#WorldCup" weight="3244" />
+      <edge id="444" source="#Productive" target="#SoMe" weight="3244" />
+      <edge id="445" source="#Aloha" target="#FridayPlaylist" weight="3244" />
+      <edge id="446" source="#Blues" target="#Blog" weight="6488" />
+      <edge id="447" source="#MarketingCampaign" target="#PR" weight="3244" />
+      <edge id="448" source="#androidapps" target="#Apps" weight="3244" />
+      <edge id="449" source="#Bloggers" target="#Blog" weight="3244" />
+      <edge id="450" source="#YouWereRight" target="#FridayPlaylist" weight="3244" />
+      <edge id="451" source="#sales" target="#marketing" weight="6488" />
+      <edge id="452" source="#sales" target="#holiday" weight="3244" />
+      <edge id="453" source="#StaffPick" target="#Brassica" weight="3244" />
+      <edge id="454" source="#StaffPick" target="#Columbus" weight="3244" />
+      <edge id="455" source="#technology" target="#media" weight="3244" />
+      <edge id="456" source="#technology" target="#telecom" weight="3244" />
+      <edge id="457" source="#jobs" target="#PR" weight="3244" />
+      <edge id="458" source="#Pinterest" target="#Blog" weight="6488" />
+      <edge id="459" source="#SMTLive" target="#TrendJacking" weight="3244" />
+      <edge id="460" source="#humpday" target="#motivation" weight="3244" />
+      <edge id="461" source="#TriviaTuesday" target="#Columbus" weight="16220" />
+      <edge id="462" source="#TriviaTuesday" target="#TriviaTuesday" weight="6488" />
+      <edge id="463" source="#TriviaTuesday" target="#Ohio" weight="6488" />
+      <edge id="464" source="#telecom" target="#media" weight="3244" />
+      <edge id="465" source="#writing" target="#business" weight="3244" />
+      <edge id="466" source="#ABC" target="#SharkTank" weight="3244" />
+      <edge id="467" source="#FridayPlaylist" target="#OneSweetWorld" weight="3244" />
+      <edge id="468" source="#FridayPlaylist" target="#TGIF" weight="3244" />
+      <edge id="469" source="#Congratulations" target="#Checkherout" weight="3244" />
+      <edge id="470" source="#WritersBlock" target="#Blog" weight="3244" />
+      <edge id="471" source="#Benefits" target="#Features" weight="3244" />
+      <edge id="472" source="#BWChat" target="#Blog" weight="6488" />
+      <edge id="473" source="#BWChat" target="#PR" weight="6488" />
+      <edge id="474" source="#Creativity" target="#Analytics" weight="3244" />
+      <edge id="475" source="#CocaCola" target="#FlashbackFriday" weight="3244" />
+      <edge id="476" source="#LeadGen" target="#SoMe" weight="3244" />
+      <edge id="477" source="#Selfies" target="#SoMe" weight="3244" />
+      <edge id="478" source="#FathersDay" target="#Blog" weight="3244" />
+      <edge id="479" source="#BrandBuilding" target="#SoMe" weight="3244" />
+      <edge id="480" source="#Disney" target="#FlashbackFriday" weight="3244" />
+      <edge id="481" source="#Rudolph" target="#rednose" weight="3244" />
+      <edge id="482" source="#DAUF" target="#Blog" weight="3244" />
+      <edge id="483" source="#SocialMediaMarketing" target="#SoMe" weight="3244" />
+      <edge id="484" source="#Trends" target="#SoMe" weight="3244" />
+      <edge id="485" source="#contentmarketing" target="#marketing" weight="3244" />
+      <edge id="486" source="#TwitterTips" target="#SoMe" weight="3244" />
+      <edge id="487" source="#socialmedia" target="#crisis" weight="3244" />
+      <edge id="488" source="#socialmedia" target="#mmchat" weight="3244" />
+      <edge id="489" source="#socialmedia" target="#marketing" weight="32440" />
+      <edge id="490" source="#Analytics" target="#SoMe" weight="12976" />
+      <edge id="491" source="#Analytics" target="#ContentMarketing" weight="3244" />
+      <edge id="492" source="#CompetitorAnalysis" target="#Blog" weight="3244" />
+      <edge id="493" source="#FridayPlayist" target="#Constellations" weight="3244" />
+      <edge id="494" source="#PostGraduate" target="#Career" weight="3244" />
+      <edge id="495" source="#restaurants" target="#Columbus" weight="3244" />
+      <edge id="496" source="#Blog" target="#MarketingFail" weight="3244" />
+      <edge id="497" source="#Blog" target="#webinar" weight="3244" />
+      <edge id="498" source="#Blog" target="#MarchMadness" weight="6488" />
+      <edge id="499" source="#Blog" target="#WordPress" weight="3244" />
+      <edge id="500" source="#Blog" target="#PRism" weight="3244" />
+      <edge id="501" source="#Blog" target="#marketing" weight="3244" />
+      <edge id="502" source="#Blog" target="#BlogTips" weight="6488" />
+      <edge id="503" source="#Blog" target="#VideoMarketing" weight="3244" />
+      <edge id="504" source="#Blog" target="#LinkedIn" weight="9732" />
+      <edge id="505" source="#Blog" target="#Communication" weight="9732" />
+      <edge id="506" source="#Blog" target="#SoMe" weight="45416" />
+      <edge id="507" source="#Blog" target="#Leadership" weight="3244" />
+      <edge id="508" source="#Blog" target="#TwitterAnalytics" weight="6488" />
+      <edge id="509" source="#Blog" target="#Networking" weight="3244" />
+      <edge id="510" source="#Blog" target="#ContentMarketing" weight="6488" />
+      <edge id="511" source="#Blog" target="#PR" weight="9732" />
+      <edge id="512" source="#SuperBowl" target="#SoMe" weight="6488" />
+      <edge id="513" source="#tbt" target="#AirConnect" weight="3244" />
+      <edge id="514" source="#Clintonville" target="#Columbus" weight="3244" />
+      <edge id="515" source="#Communication" target="#Leadership" weight="3244" />
+      <edge id="516" source="#Audience" target="#SoMe" weight="3244" />
+      <edge id="517" source="#Messenger" target="#marketing" weight="3244" />
+      <edge id="518" source="#FlashbackFriday" target="#MarchMadness" weight="3244" />
+      <edge id="519" source="#EmailMarketing" target="#SoMe" weight="3244" />
+      <edge id="520" source="#MarketingFail" target="#SoMe" weight="12976" />
+      <edge id="521" source="#MarketingFail" target="#ContentMarketing" weight="9732" />
+      <edge id="522" source="#pr" target="#communications" weight="3244" />
+      <edge id="523" source="#pr" target="#marketing" weight="12976" />
+      <edge id="524" source="#SoMe" target="#Study" weight="3244" />
+      <edge id="525" source="#SoMe" target="#SnapChat" weight="3244" />
+      <edge id="526" source="#SoMe" target="#SoMe" weight="6488" />
+      <edge id="527" source="#SoMe" target="#ROI" weight="3244" />
+      <edge id="528" source="#SoMe" target="#StandOut" weight="3244" />
+      <edge id="529" source="#SoMe" target="#Oscars" weight="3244" />
+      <edge id="530" source="#SoMe" target="#ContentMarketing" weight="16220" />
+      <edge id="531" source="#SoMe" target="#PR" weight="3244" />
+      <edge id="532" source="#LinkedIn" target="#branding" weight="3244" />
+      <edge id="533" source="#LinkedIn" target="#marketing" weight="9732" />
+      <edge id="534" source="#strategic" target="#communications" weight="3244" />
+      <edge id="535" source="#design" target="#marketing" weight="3244" />
+      <edge id="536" source="#mobile" target="#marketing" weight="3244" />
+      <edge id="537" source="#Ohio" target="#Columbus" weight="6488" />
+      <edge id="538" source="#ROI" target="#ContentMarketing" weight="3244" />
+      <edge id="539" source="#PR" target="#video" weight="3244" />
+      <edge id="540" source="#PR" target="#FIFA" weight="3244" />
+      <edge id="541" source="#PR" target="#marketing" weight="35684" />
+      <edge id="542" source="#PR" target="#MLK" weight="3244" />
+      <edge id="543" source="#video" target="#marketing" weight="6488" />
+      <edge id="544" source="#business" target="#marketing" weight="3244" />
+      <edge id="545" source="#b2b" target="#marketing" weight="9732" />
+      <edge id="546" source="#marketing" target="#Siri" weight="3244" />
+      <edge id="547" source="#marketing" target="#holiday" weight="3244" />
+      <edge id="548" source="#marketing" target="#branding" weight="3244" />
+    </edges>
+  </graph>
+</gexf>

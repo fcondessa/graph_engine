@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DoctorsDay" label="#DoctorsDay" />
+      <node id="#creatingthefut" label="#creatingthefut" />
+      <node id="#Match2015" label="#Match2015" />
+      <node id="#Match2014" label="#Match2014" />
+      <node id="#events" label="#events" />
+      <node id="#women" label="#women" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#OSUMatch2015" label="#OSUMatch2015" />
+      <node id="#snack" label="#snack" />
+      <node id="#OSUCOM" label="#OSUCOM" />
+      <node id="#kids" label="#kids" />
+      <node id="#heart" label="#heart" />
+      <node id="#NWHW" label="#NWHW" />
+      <node id="#medicine" label="#medicine" />
+      <node id="#businessfirst" label="#businessfirst" />
+      <node id="#orthopaedic" label="#orthopaedic" />
+      <node id="#loveourOSUdocs" label="#loveourOSUdocs" />
+      <node id="#OSUMatch2014" label="#OSUMatch2014" />
+      <node id="#surgeons" label="#surgeons" />
+      <node id="#healthy" label="#healthy" />
+      <node id="#OSUWexMed" label="#OSUWexMed" />
+      <node id="#recipes" label="#recipes" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DoctorsDay" target="#loveourOSUdocs" weight="80" />
+      <edge id="1" source="#creatingthefut" target="#surgeons" weight="80" />
+      <edge id="2" source="#creatingthefut" target="#orthopaedic" weight="80" />
+      <edge id="3" source="#Match2015" target="#OSUMatch2015" weight="80" />
+      <edge id="4" source="#Match2015" target="#OSUCOM" weight="80" />
+      <edge id="5" source="#Match2014" target="#OSUMatch2014" weight="80" />
+      <edge id="6" source="#events" target="#loveourOSUdocs" weight="80" />
+      <edge id="7" source="#women" target="#NWHW" weight="80" />
+      <edge id="8" source="#OSU" target="#medicine" weight="80" />
+      <edge id="9" source="#OSU" target="#heart" weight="80" />
+      <edge id="10" source="#OSUMatch2015" target="#OSUCOM" weight="160" />
+      <edge id="11" source="#snack" target="#recipes" weight="80" />
+      <edge id="12" source="#snack" target="#healthy" weight="80" />
+      <edge id="13" source="#snack" target="#kids" weight="80" />
+      <edge id="14" source="#kids" target="#recipes" weight="80" />
+      <edge id="15" source="#kids" target="#healthy" weight="80" />
+      <edge id="16" source="#heart" target="#medicine" weight="80" />
+      <edge id="17" source="#businessfirst" target="#OSUWexMed" weight="80" />
+      <edge id="18" source="#orthopaedic" target="#surgeons" weight="80" />
+      <edge id="19" source="#healthy" target="#recipes" weight="80" />
+    </edges>
+  </graph>
+</gexf>

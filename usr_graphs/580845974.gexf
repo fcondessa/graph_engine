@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#1242MilesAway" label="#1242MilesAway" />
+      <node id="#segagenocide" label="#segagenocide" />
+      <node id="#postmathrock" label="#postmathrock" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#bratcurse" label="#bratcurse" />
+      <node id="#emilyandthecomplexes" label="#emilyandthecomplexes" />
+      <node id="#fanfiction" label="#fanfiction" />
+      <node id="#alive" label="#alive" />
+      <node id="#columbusohio" label="#columbusohio" />
+      <node id="#thisbandrules" label="#thisbandrules" />
+      <node id="#causethewave" label="#causethewave" />
+      <node id="#treebar" label="#treebar" />
+      <node id="#igavemyhearttoanewreligion" label="#igavemyhearttoanewreligion" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#HealEB" label="#HealEB" />
+      <node id="#socolumbus" label="#socolumbus" />
+      <node id="#CauseTheWaveEvent" label="#CauseTheWaveEvent" />
+      <node id="#PearlJam" label="#PearlJam" />
+      <node id="#LiveSimply" label="#LiveSimply" />
+      <node id="#healeb" label="#healeb" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#craftyfriendsmeetup" label="#craftyfriendsmeetup" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#1242MilesAway" target="#LiveSimply" weight="354" />
+      <edge id="1" source="#segagenocide" target="#bratcurse" weight="354" />
+      <edge id="2" source="#segagenocide" target="#emilyandthecomplexes" weight="354" />
+      <edge id="3" source="#segagenocide" target="#treebar" weight="354" />
+      <edge id="4" source="#segagenocide" target="#fanfiction" weight="354" />
+      <edge id="5" source="#segagenocide" target="#thisbandrules" weight="354" />
+      <edge id="6" source="#postmathrock" target="#columbus" weight="354" />
+      <edge id="7" source="#asseenincolumbus" target="#socolumbus" weight="354" />
+      <edge id="8" source="#asseenincolumbus" target="#craftyfriendsmeetup" weight="354" />
+      <edge id="9" source="#bratcurse" target="#emilyandthecomplexes" weight="354" />
+      <edge id="10" source="#bratcurse" target="#fanfiction" weight="354" />
+      <edge id="11" source="#emilyandthecomplexes" target="#fanfiction" weight="354" />
+      <edge id="12" source="#alive" target="#igavemyhearttoanewreligion" weight="354" />
+      <edge id="13" source="#columbusohio" target="#healeb" weight="354" />
+      <edge id="14" source="#columbusohio" target="#causethewave" weight="354" />
+      <edge id="15" source="#thisbandrules" target="#treebar" weight="354" />
+      <edge id="16" source="#causethewave" target="#HealEB" weight="354" />
+      <edge id="17" source="#causethewave" target="#healeb" weight="354" />
+      <edge id="18" source="#treebar" target="#cbus" weight="354" />
+      <edge id="19" source="#socolumbus" target="#craftyfriendsmeetup" weight="354" />
+      <edge id="20" source="#CauseTheWaveEvent" target="#PearlJam" weight="354" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DNCTOCBUS" label="#DNCTOCBUS" />
+      <node id="#diving" label="#diving" />
+      <node id="#ValleyProudValleyStrong" label="#ValleyProudValleyStrong" />
+      <node id="#COLUMBUS2016" label="#COLUMBUS2016" />
+      <node id="#VPDebate" label="#VPDebate" />
+      <node id="#DNCtoCBUS" label="#DNCtoCBUS" />
+      <node id="#smashingpierogies" label="#smashingpierogies" />
+      <node id="#howyadoin" label="#howyadoin" />
+      <node id="#twitterlessbill" label="#twitterlessbill" />
+      <node id="#brave" label="#brave" />
+      <node id="#likeaboss" label="#likeaboss" />
+      <node id="#ohDavey" label="#ohDavey" />
+      <node id="#dnctocbus" label="#dnctocbus" />
+      <node id="#DNCNYC" label="#DNCNYC" />
+      <node id="#BringIt" label="#BringIt" />
+      <node id="#ymb" label="#ymb" />
+      <node id="#GOP2012" label="#GOP2012" />
+      <node id="#Pelotonia" label="#Pelotonia" />
+      <node id="#OneGoal" label="#OneGoal" />
+      <node id="#GunControl" label="#GunControl" />
+      <node id="#DNC" label="#DNC" />
+      <node id="#obama" label="#obama" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#DNC2012" label="#DNC2012" />
+      <node id="#ReadyToGo" label="#ReadyToGo" />
+      <node id="#Arizona" label="#Arizona" />
+      <node id="#unitedamericanotdivided" label="#unitedamericanotdivided" />
+      <node id="#Bringit" label="#Bringit" />
+      <node id="#columbus2016" label="#columbus2016" />
+      <node id="#betras101" label="#betras101" />
+      <node id="#limitlessleague" label="#limitlessleague" />
+      <node id="#FiredUp" label="#FiredUp" />
+      <node id="#current2012" label="#current2012" />
+      <node id="#Igottafeeling" label="#Igottafeeling" />
+      <node id="#debate2012" label="#debate2012" />
+      <node id="#Newtown" label="#Newtown" />
+      <node id="#Aurora" label="#Aurora" />
+      <node id="#hipstersheek" label="#hipstersheek" />
+      <node id="#DNCtoCbus" label="#DNCtoCbus" />
+      <node id="#bringit" label="#bringit" />
+      <node id="#chicago" label="#chicago" />
+      <node id="#dnc" label="#dnc" />
+      <node id="#Columbus2016" label="#Columbus2016" />
+      <node id="#GabbyGiffords" label="#GabbyGiffords" />
+      <node id="#Current2012" label="#Current2012" />
+      <node id="#fantasyfootball" label="#fantasyfootball" />
+      <node id="#TheyDeserveAVote" label="#TheyDeserveAVote" />
+      <node id="#TeamBiden" label="#TeamBiden" />
+      <node id="#runtellthat" label="#runtellthat" />
+      <node id="#hipsterbarcrawl" label="#hipsterbarcrawl" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DNCTOCBUS" target="#dnc" weight="253" />
+      <edge id="1" source="#DNCTOCBUS" target="#DNCNYC" weight="253" />
+      <edge id="2" source="#DNCTOCBUS" target="#BringIt" weight="253" />
+      <edge id="3" source="#DNCTOCBUS" target="#COLUMBUS2016" weight="506" />
+      <edge id="4" source="#diving" target="#brave" weight="253" />
+      <edge id="5" source="#ValleyProudValleyStrong" target="#DNC2012" weight="253" />
+      <edge id="6" source="#COLUMBUS2016" target="#dnc" weight="253" />
+      <edge id="7" source="#COLUMBUS2016" target="#DNCNYC" weight="253" />
+      <edge id="8" source="#COLUMBUS2016" target="#BringIt" weight="253" />
+      <edge id="9" source="#VPDebate" target="#Current2012" weight="253" />
+      <edge id="10" source="#DNCtoCBUS" target="#DNCNYC" weight="253" />
+      <edge id="11" source="#DNCtoCBUS" target="#Bringit" weight="253" />
+      <edge id="12" source="#DNCtoCBUS" target="#Columbus2016" weight="506" />
+      <edge id="13" source="#DNCtoCBUS" target="#columbus2016" weight="253" />
+      <edge id="14" source="#DNCtoCBUS" target="#BringIt" weight="253" />
+      <edge id="15" source="#DNCtoCBUS" target="#DNC" weight="506" />
+      <edge id="16" source="#smashingpierogies" target="#hipstersheek" weight="253" />
+      <edge id="17" source="#howyadoin" target="#Pelotonia" weight="253" />
+      <edge id="18" source="#howyadoin" target="#OneGoal" weight="253" />
+      <edge id="19" source="#twitterlessbill" target="#Buckeyes" weight="253" />
+      <edge id="20" source="#likeaboss" target="#limitlessleague" weight="253" />
+      <edge id="21" source="#likeaboss" target="#fantasyfootball" weight="253" />
+      <edge id="22" source="#likeaboss" target="#TeamBiden" weight="253" />
+      <edge id="23" source="#ohDavey" target="#betras101" weight="253" />
+      <edge id="24" source="#dnctocbus" target="#bringit" weight="253" />
+      <edge id="25" source="#DNCNYC" target="#Columbus2016" weight="253" />
+      <edge id="26" source="#DNCNYC" target="#dnc" weight="253" />
+      <edge id="27" source="#BringIt" target="#DNC" weight="253" />
+      <edge id="28" source="#BringIt" target="#columbus2016" weight="253" />
+      <edge id="29" source="#ymb" target="#runtellthat" weight="253" />
+      <edge id="30" source="#GOP2012" target="#current2012" weight="253" />
+      <edge id="31" source="#Pelotonia" target="#OneGoal" weight="506" />
+      <edge id="32" source="#GunControl" target="#Aurora" weight="253" />
+      <edge id="33" source="#GunControl" target="#Arizona" weight="253" />
+      <edge id="34" source="#GunControl" target="#GabbyGiffords" weight="253" />
+      <edge id="35" source="#GunControl" target="#chicago" weight="253" />
+      <edge id="36" source="#GunControl" target="#TheyDeserveAVote" weight="253" />
+      <edge id="37" source="#GunControl" target="#Newtown" weight="253" />
+      <edge id="38" source="#DNC" target="#Columbus2016" weight="253" />
+      <edge id="39" source="#DNC" target="#Bringit" weight="253" />
+      <edge id="40" source="#DNC" target="#columbus2016" weight="253" />
+      <edge id="41" source="#obama" target="#debate2012" weight="253" />
+      <edge id="42" source="#ReadyToGo" target="#FiredUp" weight="253" />
+      <edge id="43" source="#Arizona" target="#Aurora" weight="253" />
+      <edge id="44" source="#Arizona" target="#GabbyGiffords" weight="253" />
+      <edge id="45" source="#Arizona" target="#chicago" weight="253" />
+      <edge id="46" source="#Arizona" target="#TheyDeserveAVote" weight="253" />
+      <edge id="47" source="#Arizona" target="#Newtown" weight="253" />
+      <edge id="48" source="#unitedamericanotdivided" target="#Igottafeeling" weight="253" />
+      <edge id="49" source="#Bringit" target="#Columbus2016" weight="253" />
+      <edge id="50" source="#columbus2016" target="#bringit" weight="253" />
+      <edge id="51" source="#limitlessleague" target="#fantasyfootball" weight="506" />
+      <edge id="52" source="#Newtown" target="#Aurora" weight="253" />
+      <edge id="53" source="#Newtown" target="#GabbyGiffords" weight="253" />
+      <edge id="54" source="#Newtown" target="#chicago" weight="253" />
+      <edge id="55" source="#Newtown" target="#TheyDeserveAVote" weight="253" />
+      <edge id="56" source="#Aurora" target="#GabbyGiffords" weight="253" />
+      <edge id="57" source="#Aurora" target="#chicago" weight="253" />
+      <edge id="58" source="#Aurora" target="#TheyDeserveAVote" weight="253" />
+      <edge id="59" source="#hipstersheek" target="#hipsterbarcrawl" weight="253" />
+      <edge id="60" source="#DNCtoCbus" target="#bringit" weight="253" />
+      <edge id="61" source="#chicago" target="#GabbyGiffords" weight="253" />
+      <edge id="62" source="#chicago" target="#TheyDeserveAVote" weight="253" />
+      <edge id="63" source="#GabbyGiffords" target="#TheyDeserveAVote" weight="253" />
+    </edges>
+  </graph>
+</gexf>

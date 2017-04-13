@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#tax" label="#tax" />
+      <node id="#SectionZero" label="#SectionZero" />
+      <node id="#believeland" label="#believeland" />
+      <node id="#taxpreparation" label="#taxpreparation" />
+      <node id="#ifnotusthenthem" label="#ifnotusthenthem" />
+      <node id="#quote" label="#quote" />
+      <node id="#success" label="#success" />
+      <node id="#worldseries" label="#worldseries" />
+      <node id="#culture" label="#culture" />
+      <node id="#American" label="#American" />
+      <node id="#CoreyKluber" label="#CoreyKluber" />
+      <node id="#business" label="#business" />
+      <node id="#cut4" label="#cut4" />
+      <node id="#faith" label="#faith" />
+      <node id="#ClevelandIndians" label="#ClevelandIndians" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#columbusohio" label="#columbusohio" />
+      <node id="#cmilburndesign" label="#cmilburndesign" />
+      <node id="#charliemunger" label="#charliemunger" />
+      <node id="#life" label="#life" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#journey" label="#journey" />
+      <node id="#UOvsOSU" label="#UOvsOSU" />
+      <node id="#hope" label="#hope" />
+      <node id="#America" label="#America" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#coworking" label="#coworking" />
+      <node id="#Dallas" label="#Dallas" />
+      <node id="#kristinmarloweisarockstar" label="#kristinmarloweisarockstar" />
+      <node id="#ClevelandAgainstTheWorld" label="#ClevelandAgainstTheWorld" />
+      <node id="#Ducks" label="#Ducks" />
+      <node id="#toys" label="#toys" />
+      <node id="#valuation" label="#valuation" />
+      <node id="#art" label="#art" />
+      <node id="#teeba" label="#teeba" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#toddler" label="#toddler" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#joelmokyr" label="#joelmokyr" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#tech" label="#tech" />
+      <node id="#NationalChampions" label="#NationalChampions" />
+      <node id="#cra" label="#cra" />
+      <node id="#love" label="#love" />
+      <node id="#clarus" label="#clarus" />
+      <node id="#rottenberg" label="#rottenberg" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#antifrag" label="#antifrag" />
+      <node id="#birthday" label="#birthday" />
+      <node id="#clevelandagainsttheworld" label="#clevelandagainsttheworld" />
+      <node id="#gotribe" label="#gotribe" />
+      <node id="#experience" label="#experience" />
+      <node id="#bothfansserveit" label="#bothfansserveit" />
+      <node id="#cpa" label="#cpa" />
+      <node id="#FathersDay" label="#FathersDay" />
+      <node id="#father" label="#father" />
+      <node id="#tribe" label="#tribe" />
+      <node id="#lumoscolumbus" label="#lumoscolumbus" />
+      <node id="#legacy" label="#legacy" />
+      <node id="#spon" label="#spon" />
+      <node id="#Fatherhood" label="#Fatherhood" />
+      <node id="#in" label="#in" />
+      <node id="#knowledge" label="#knowledge" />
+      <node id="#wsj" label="#wsj" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#faith" weight="216" />
+      <edge id="1" source="#tax" target="#taxpreparation" weight="216" />
+      <edge id="2" source="#tax" target="#cpa" weight="216" />
+      <edge id="3" source="#SectionZero" target="#Ducks" weight="216" />
+      <edge id="4" source="#SectionZero" target="#BuckeyeNation" weight="216" />
+      <edge id="5" source="#SectionZero" target="#spon" weight="216" />
+      <edge id="6" source="#SectionZero" target="#Dallas" weight="216" />
+      <edge id="7" source="#believeland" target="#clevelandagainsttheworld" weight="216" />
+      <edge id="8" source="#believeland" target="#tribe" weight="216" />
+      <edge id="9" source="#believeland" target="#cut4" weight="216" />
+      <edge id="10" source="#believeland" target="#CoreyKluber" weight="216" />
+      <edge id="11" source="#believeland" target="#worldseries" weight="216" />
+      <edge id="12" source="#taxpreparation" target="#cpa" weight="216" />
+      <edge id="13" source="#ifnotusthenthem" target="#gotribe" weight="216" />
+      <edge id="14" source="#ifnotusthenthem" target="#worldseries" weight="216" />
+      <edge id="15" source="#ifnotusthenthem" target="#bothfansserveit" weight="216" />
+      <edge id="16" source="#quote" target="#life" weight="216" />
+      <edge id="17" source="#quote" target="#experience" weight="216" />
+      <edge id="18" source="#quote" target="#knowledge" weight="216" />
+      <edge id="19" source="#success" target="#innovation" weight="216" />
+      <edge id="20" source="#success" target="#culture" weight="216" />
+      <edge id="21" source="#worldseries" target="#gotribe" weight="216" />
+      <edge id="22" source="#worldseries" target="#cut4" weight="216" />
+      <edge id="23" source="#worldseries" target="#CoreyKluber" weight="216" />
+      <edge id="24" source="#worldseries" target="#tribe" weight="216" />
+      <edge id="25" source="#worldseries" target="#bothfansserveit" weight="216" />
+      <edge id="26" source="#worldseries" target="#clevelandagainsttheworld" weight="216" />
+      <edge id="27" source="#culture" target="#innovation" weight="216" />
+      <edge id="28" source="#American" target="#America" weight="216" />
+      <edge id="29" source="#CoreyKluber" target="#clevelandagainsttheworld" weight="216" />
+      <edge id="30" source="#CoreyKluber" target="#tribe" weight="216" />
+      <edge id="31" source="#CoreyKluber" target="#cut4" weight="216" />
+      <edge id="32" source="#business" target="#clarus" weight="216" />
+      <edge id="33" source="#business" target="#leadership" weight="216" />
+      <edge id="34" source="#business" target="#valuation" weight="216" />
+      <edge id="35" source="#cut4" target="#clevelandagainsttheworld" weight="216" />
+      <edge id="36" source="#cut4" target="#tribe" weight="216" />
+      <edge id="37" source="#ClevelandIndians" target="#ClevelandAgainstTheWorld" weight="216" />
+      <edge id="38" source="#ClevelandIndians" target="#tribe" weight="216" />
+      <edge id="39" source="#ClevelandIndians" target="#cmilburndesign" weight="216" />
+      <edge id="40" source="#columbusohio" target="#legacy" weight="216" />
+      <edge id="41" source="#cmilburndesign" target="#ClevelandAgainstTheWorld" weight="216" />
+      <edge id="42" source="#cmilburndesign" target="#tribe" weight="216" />
+      <edge id="43" source="#charliemunger" target="#antifrag" weight="216" />
+      <edge id="44" source="#life" target="#experience" weight="216" />
+      <edge id="45" source="#life" target="#knowledge" weight="216" />
+      <edge id="46" source="#entrepreneur" target="#cra" weight="216" />
+      <edge id="47" source="#entrepreneur" target="#rottenberg" weight="216" />
+      <edge id="48" source="#journey" target="#hope" weight="216" />
+      <edge id="49" source="#journey" target="#teeba" weight="216" />
+      <edge id="50" source="#UOvsOSU" target="#GoBucks" weight="216" />
+      <edge id="51" source="#hope" target="#teeba" weight="216" />
+      <edge id="52" source="#Buckeyes" target="#GoBucks" weight="432" />
+      <edge id="53" source="#coworking" target="#Columbus" weight="216" />
+      <edge id="54" source="#Dallas" target="#Ducks" weight="216" />
+      <edge id="55" source="#Dallas" target="#spon" weight="216" />
+      <edge id="56" source="#Dallas" target="#BuckeyeNation" weight="216" />
+      <edge id="57" source="#kristinmarloweisarockstar" target="#birthday" weight="216" />
+      <edge id="58" source="#kristinmarloweisarockstar" target="#love" weight="216" />
+      <edge id="59" source="#ClevelandAgainstTheWorld" target="#tribe" weight="216" />
+      <edge id="60" source="#Ducks" target="#BuckeyeNation" weight="216" />
+      <edge id="61" source="#Ducks" target="#spon" weight="216" />
+      <edge id="62" source="#toys" target="#toddler" weight="216" />
+      <edge id="63" source="#valuation" target="#clarus" weight="216" />
+      <edge id="64" source="#art" target="#tech" weight="216" />
+      <edge id="65" source="#art" target="#lumoscolumbus" weight="216" />
+      <edge id="66" source="#BuckeyeNation" target="#spon" weight="216" />
+      <edge id="67" source="#joelmokyr" target="#wsj" weight="216" />
+      <edge id="68" source="#joelmokyr" target="#in" weight="216" />
+      <edge id="69" source="#tech" target="#lumoscolumbus" weight="216" />
+      <edge id="70" source="#NationalChampions" target="#GoBucks" weight="216" />
+      <edge id="71" source="#cra" target="#rottenberg" weight="216" />
+      <edge id="72" source="#love" target="#birthday" weight="216" />
+      <edge id="73" source="#clevelandagainsttheworld" target="#tribe" weight="216" />
+      <edge id="74" source="#gotribe" target="#bothfansserveit" weight="216" />
+      <edge id="75" source="#experience" target="#knowledge" weight="216" />
+      <edge id="76" source="#FathersDay" target="#father" weight="216" />
+      <edge id="77" source="#FathersDay" target="#Fatherhood" weight="216" />
+      <edge id="78" source="#father" target="#Fatherhood" weight="216" />
+      <edge id="79" source="#in" target="#wsj" weight="216" />
+    </edges>
+  </graph>
+</gexf>

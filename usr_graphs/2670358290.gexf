@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#craftmanship" label="#craftmanship" />
+      <node id="#webdev" label="#webdev" />
+      <node id="#aspnet" label="#aspnet" />
+      <node id="#razor" label="#razor" />
+      <node id="#mvc" label="#mvc" />
+      <node id="#meetup" label="#meetup" />
+      <node id="#MVC" label="#MVC" />
+      <node id="#devjokes" label="#devjokes" />
+      <node id="#webapi" label="#webapi" />
+      <node id="#flexigrid" label="#flexigrid" />
+      <node id="#jqgrid" label="#jqgrid" />
+      <node id="#csharp" label="#csharp" />
+      <node id="#dotnet" label="#dotnet" />
+      <node id="#SCZ" label="#SCZ" />
+      <node id="#aspnet5" label="#aspnet5" />
+      <node id="#coding" label="#coding" />
+      <node id="#ASP" label="#ASP" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#craftmanship" target="#SCZ" weight="59" />
+      <edge id="1" source="#craftmanship" target="#meetup" weight="59" />
+      <edge id="2" source="#webdev" target="#aspnet" weight="59" />
+      <edge id="3" source="#webdev" target="#razor" weight="59" />
+      <edge id="4" source="#webdev" target="#mvc" weight="59" />
+      <edge id="5" source="#webdev" target="#devjokes" weight="59" />
+      <edge id="6" source="#webdev" target="#csharp" weight="59" />
+      <edge id="7" source="#webdev" target="#coding" weight="59" />
+      <edge id="8" source="#aspnet" target="#mvc" weight="59" />
+      <edge id="9" source="#aspnet" target="#csharp" weight="59" />
+      <edge id="10" source="#aspnet" target="#coding" weight="59" />
+      <edge id="11" source="#aspnet" target="#razor" weight="59" />
+      <edge id="12" source="#razor" target="#mvc" weight="59" />
+      <edge id="13" source="#razor" target="#csharp" weight="59" />
+      <edge id="14" source="#razor" target="#coding" weight="59" />
+      <edge id="15" source="#mvc" target="#webapi" weight="59" />
+      <edge id="16" source="#mvc" target="#aspnet5" weight="59" />
+      <edge id="17" source="#mvc" target="#csharp" weight="59" />
+      <edge id="18" source="#mvc" target="#coding" weight="59" />
+      <edge id="19" source="#meetup" target="#SCZ" weight="59" />
+      <edge id="20" source="#MVC" target="#dotnet" weight="59" />
+      <edge id="21" source="#MVC" target="#ASP" weight="59" />
+      <edge id="22" source="#webapi" target="#aspnet5" weight="59" />
+      <edge id="23" source="#flexigrid" target="#jqgrid" weight="59" />
+      <edge id="24" source="#csharp" target="#coding" weight="59" />
+      <edge id="25" source="#dotnet" target="#ASP" weight="59" />
+    </edges>
+  </graph>
+</gexf>

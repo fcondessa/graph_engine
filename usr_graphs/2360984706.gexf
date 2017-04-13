@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#PrayfortheWorld" label="#PrayfortheWorld" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#holographic" label="#holographic" />
+      <node id="#titanfail" label="#titanfail" />
+      <node id="#CLINCHED‌" label="#CLINCHED‌" />
+      <node id="#StayClassy" label="#StayClassy" />
+      <node id="#hometownheroes" label="#hometownheroes" />
+      <node id="#OSUvsMICH" label="#OSUvsMICH" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#TweetOrDie" label="#TweetOrDie" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#ALLin216" label="#ALLin216" />
+      <node id="#PrayforParis" label="#PrayforParis" />
+      <node id="#art" label="#art" />
+      <node id="#TheGame" label="#TheGame" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#Inbound14" label="#Inbound14" />
+      <node id="#XboxOne" label="#XboxOne" />
+      <node id="#Cavaliers" label="#Cavaliers" />
+      <node id="#electionnight" label="#electionnight" />
+      <node id="#MirrorLakeJump" label="#MirrorLakeJump" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#deerintheheadlights" label="#deerintheheadlights" />
+      <node id="#partylikeajournalist" label="#partylikeajournalist" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#nofilter" target="#Inbound14" weight="757" />
+      <edge id="1" source="#PrayfortheWorld" target="#PrayforParis" weight="757" />
+      <edge id="2" source="#WorldSeries" target="#CLINCHED‌" weight="757" />
+      <edge id="3" source="#holographic" target="#art" weight="757" />
+      <edge id="4" source="#titanfail" target="#XboxOne" weight="757" />
+      <edge id="5" source="#StayClassy" target="#TweetOrDie" weight="757" />
+      <edge id="6" source="#hometownheroes" target="#deerintheheadlights" weight="757" />
+      <edge id="7" source="#OSUvsMICH" target="#TheGame" weight="757" />
+      <edge id="8" source="#OhioState" target="#Buckeyes" weight="757" />
+      <edge id="9" source="#NBAFinals" target="#ALLin216" weight="757" />
+      <edge id="10" source="#Buckeyes" target="#MirrorLakeJump" weight="757" />
+      <edge id="11" source="#marketing" target="#socialmedia" weight="757" />
+      <edge id="12" source="#Cavaliers" target="#cbus" weight="757" />
+      <edge id="13" source="#electionnight" target="#partylikeajournalist" weight="757" />
+    </edges>
+  </graph>
+</gexf>

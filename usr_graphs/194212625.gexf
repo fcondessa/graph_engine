@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#homebrewing" label="#homebrewing" />
+      <node id="#FF" label="#FF" />
+      <node id="#Beer" label="#Beer" />
+      <node id="#cheese" label="#cheese" />
+      <node id="#fb" label="#fb" />
+      <node id="#ladiesthathomebrew" label="#ladiesthathomebrew" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#beer" label="#beer" />
+      <node id="#craftbeerdreams" label="#craftbeerdreams" />
+      <node id="#homebrew" label="#homebrew" />
+      <node id="#TheNuptials" label="#TheNuptials" />
+      <node id="#brewquote" label="#brewquote" />
+      <node id="#beerpeopleRgoodpeople" label="#beerpeopleRgoodpeople" />
+      <node id="#HomeBrew" label="#HomeBrew" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#homebrewing" target="#homebrew" weight="886" />
+      <edge id="1" source="#FF" target="#beerpeopleRgoodpeople" weight="443" />
+      <edge id="2" source="#Beer" target="#HomeBrew" weight="443" />
+      <edge id="3" source="#Beer" target="#craftbeer" weight="443" />
+      <edge id="4" source="#cheese" target="#TheNuptials" weight="443" />
+      <edge id="5" source="#cheese" target="#beer" weight="443" />
+      <edge id="6" source="#fb" target="#homebrew" weight="443" />
+      <edge id="7" source="#ladiesthathomebrew" target="#homebrew" weight="443" />
+      <edge id="8" source="#craftbeer" target="#homebrew" weight="2215" />
+      <edge id="9" source="#craftbeer" target="#brewquote" weight="443" />
+      <edge id="10" source="#craftbeer" target="#HomeBrew" weight="886" />
+      <edge id="11" source="#beer" target="#TheNuptials" weight="443" />
+      <edge id="12" source="#beer" target="#homebrew" weight="443" />
+      <edge id="13" source="#craftbeerdreams" target="#homebrew" weight="443" />
+      <edge id="14" source="#homebrew" target="#brewquote" weight="443" />
+    </edges>
+  </graph>
+</gexf>

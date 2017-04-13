@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#mamamimis" label="#mamamimis" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#holidays" label="#holidays" />
+      <node id="#yum" label="#yum" />
+      <node id="#fresh" label="#fresh" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#mamamimis" target="#holidays" weight="332" />
+      <edge id="1" source="#mamamimis" target="#yum" weight="332" />
+      <edge id="2" source="#delicious" target="#fresh" weight="332" />
+      <edge id="3" source="#holidays" target="#yum" weight="332" />
+    </edges>
+  </graph>
+</gexf>

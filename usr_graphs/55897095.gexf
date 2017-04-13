@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#justsayin" label="#justsayin" />
+      <node id="#HTC" label="#HTC" />
+      <node id="#camp" label="#camp" />
+      <node id="#HTCOne" label="#HTCOne" />
+      <node id="#24HFR" label="#24HFR" />
+      <node id="#school" label="#school" />
+      <node id="#iPad2" label="#iPad2" />
+      <node id="#win" label="#win" />
+      <node id="#DroidDNA" label="#DroidDNA" />
+      <node id="#Apple" label="#Apple" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#justsayin" target="#HTCOne" weight="217" />
+      <edge id="1" source="#HTC" target="#DroidDNA" weight="217" />
+      <edge id="2" source="#camp" target="#school" weight="217" />
+      <edge id="3" source="#HTCOne" target="#24HFR" weight="217" />
+      <edge id="4" source="#HTCOne" target="#HTCOne" weight="1302" />
+      <edge id="5" source="#iPad2" target="#win" weight="434" />
+      <edge id="6" source="#iPad2" target="#Apple" weight="434" />
+      <edge id="7" source="#win" target="#Apple" weight="434" />
+    </edges>
+  </graph>
+</gexf>

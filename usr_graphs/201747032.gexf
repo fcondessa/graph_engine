@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#longtermcare" label="#longtermcare" />
+      <node id="#Disability" label="#Disability" />
+      <node id="#LTCFinancing" label="#LTCFinancing" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#LTCfinancing" label="#LTCfinancing" />
+      <node id="#Doctors" label="#Doctors" />
+      <node id="#family" label="#family" />
+      <node id="#LTCollaborative" label="#LTCollaborative" />
+      <node id="#AgingNow" label="#AgingNow" />
+      <node id="#WHCOA" label="#WHCOA" />
+      <node id="#Liberals" label="#Liberals" />
+      <node id="#healthpolicy" label="#healthpolicy" />
+      <node id="#LTCFinanc" label="#LTCFinanc" />
+      <node id="#OAA" label="#OAA" />
+      <node id="#RedTapeTower" label="#RedTapeTower" />
+      <node id="#SocialSecurity" label="#SocialSecurity" />
+      <node id="#ltcfinancing" label="#ltcfinancing" />
+      <node id="#money" label="#money" />
+      <node id="#LTSS" label="#LTSS" />
+      <node id="#women" label="#women" />
+      <node id="#OnThisDay" label="#OnThisDay" />
+      <node id="#America" label="#America" />
+      <node id="#Hospitals" label="#Hospitals" />
+      <node id="#Aging" label="#Aging" />
+      <node id="#taxes" label="#taxes" />
+      <node id="#HealthCareQuality" label="#HealthCareQuality" />
+      <node id="#InfluencingAging" label="#InfluencingAging" />
+      <node id="#Georgia" label="#Georgia" />
+      <node id="#bi" label="#bi" />
+      <node id="#AiA16" label="#AiA16" />
+      <node id="#DC" label="#DC" />
+      <node id="#grantmaking" label="#grantmaking" />
+      <node id="#Romneycare" label="#Romneycare" />
+      <node id="#convergencefixes" label="#convergencefixes" />
+      <node id="#ohtcot" label="#ohtcot" />
+      <node id="#Conservatives" label="#Conservatives" />
+      <node id="#BPClive" label="#BPClive" />
+      <node id="#Exchanges" label="#Exchanges" />
+      <node id="#antitrust" label="#antitrust" />
+      <node id="#caregiving" label="#caregiving" />
+      <node id="#parents" label="#parents" />
+      <node id="#NGA2016" label="#NGA2016" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#CLASS" label="#CLASS" />
+      <node id="#socialchange" label="#socialchange" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#advancedchroniccare" label="#advancedchroniccare" />
+      <node id="#plantoageOhio" label="#plantoageOhio" />
+      <node id="#LongTermCare" label="#LongTermCare" />
+      <node id="#SeniorCareGap" label="#SeniorCareGap" />
+      <node id="#dietstudy" label="#dietstudy" />
+      <node id="#leadingchangeinamerica" label="#leadingchangeinamerica" />
+      <node id="#LTC" label="#LTC" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#TransformingHealthcare" label="#TransformingHealthcare" />
+      <node id="#obamacare" label="#obamacare" />
+      <node id="#financial" label="#financial" />
+      <node id="#Caregiving" label="#Caregiving" />
+      <node id="#gamechanging" label="#gamechanging" />
+      <node id="#CoordinatedCare" label="#CoordinatedCare" />
+      <node id="#caregivers" label="#caregivers" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#mhealth" label="#mhealth" />
+      <node id="#utpol" label="#utpol" />
+      <node id="#olderadults" label="#olderadults" />
+      <node id="#OH" label="#OH" />
+      <node id="#mortgages" label="#mortgages" />
+      <node id="#families" label="#families" />
+      <node id="#ACSdata" label="#ACSdata" />
+      <node id="#aarp" label="#aarp" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#longtermcare" target="#LTSS" weight="896" />
+      <edge id="1" source="#longtermcare" target="#caregivers" weight="896" />
+      <edge id="2" source="#longtermcare" target="#America" weight="896" />
+      <edge id="3" source="#longtermcare" target="#LTCollaborative" weight="1792" />
+      <edge id="4" source="#longtermcare" target="#WHCOA" weight="1792" />
+      <edge id="5" source="#Disability" target="#SocialSecurity" weight="896" />
+      <edge id="6" source="#LTCFinancing" target="#LTSS" weight="8064" />
+      <edge id="7" source="#LTCFinancing" target="#AiA16" weight="3584" />
+      <edge id="8" source="#LTCFinancing" target="#LTCollaborative" weight="27776" />
+      <edge id="9" source="#LTCFinancing" target="#families" weight="896" />
+      <edge id="10" source="#LTCFinancing" target="#caregiving" weight="896" />
+      <edge id="11" source="#LTCFinancing" target="#BPClive" weight="896" />
+      <edge id="12" source="#LTCFinancing" target="#Caregiving" weight="896" />
+      <edge id="13" source="#LTCFinancing" target="#CoordinatedCare" weight="896" />
+      <edge id="14" source="#LTCFinancing" target="#women" weight="1792" />
+      <edge id="15" source="#LTCFinancing" target="#healthcare" weight="896" />
+      <edge id="16" source="#LTCFinancing" target="#mhealth" weight="896" />
+      <edge id="17" source="#LTCFinancing" target="#WHCOA" weight="896" />
+      <edge id="18" source="#LTCFinancing" target="#olderadults" weight="5376" />
+      <edge id="19" source="#LTCFinancing" target="#AgingNow" weight="896" />
+      <edge id="20" source="#LTCFinancing" target="#aarp" weight="896" />
+      <edge id="21" source="#LTCFinancing" target="#HealthCareQuality" weight="896" />
+      <edge id="22" source="#Obamacare" target="#RedTapeTower" weight="1792" />
+      <edge id="23" source="#Obamacare" target="#Obamacare" weight="1792" />
+      <edge id="24" source="#insurance" target="#financial" weight="896" />
+      <edge id="25" source="#insurance" target="#healthcare" weight="896" />
+      <edge id="26" source="#LTCfinancing" target="#plantoageOhio" weight="896" />
+      <edge id="27" source="#LTCfinancing" target="#LTCollaborative" weight="1792" />
+      <edge id="28" source="#Doctors" target="#Hospitals" weight="896" />
+      <edge id="29" source="#family" target="#caregivers" weight="896" />
+      <edge id="30" source="#LTCollaborative" target="#AiA16" weight="3584" />
+      <edge id="31" source="#LTCollaborative" target="#convergencefixes" weight="896" />
+      <edge id="32" source="#LTCollaborative" target="#WHCOA" weight="2688" />
+      <edge id="33" source="#LTCollaborative" target="#Caregiving" weight="896" />
+      <edge id="34" source="#LTCollaborative" target="#leadingchangeinamerica" weight="896" />
+      <edge id="35" source="#LTCollaborative" target="#LTSS" weight="8064" />
+      <edge id="36" source="#LTCollaborative" target="#caregivers" weight="896" />
+      <edge id="37" source="#LTCollaborative" target="#America" weight="896" />
+      <edge id="38" source="#LTCollaborative" target="#LTC" weight="1792" />
+      <edge id="39" source="#LTCollaborative" target="#CLASS" weight="896" />
+      <edge id="40" source="#AgingNow" target="#Caregiving" weight="1792" />
+      <edge id="41" source="#WHCOA" target="#LTSS" weight="1792" />
+      <edge id="42" source="#WHCOA" target="#caregivers" weight="896" />
+      <edge id="43" source="#WHCOA" target="#America" weight="896" />
+      <edge id="44" source="#Liberals" target="#LongTermCare" weight="896" />
+      <edge id="45" source="#Liberals" target="#Conservatives" weight="896" />
+      <edge id="46" source="#healthpolicy" target="#healthcare" weight="896" />
+      <edge id="47" source="#LTCFinanc" target="#olderadults" weight="896" />
+      <edge id="48" source="#LTCFinanc" target="#caregivers" weight="896" />
+      <edge id="49" source="#OAA" target="#AiA16" weight="896" />
+      <edge id="50" source="#SocialSecurity" target="#Medicare" weight="896" />
+      <edge id="51" source="#ltcfinancing" target="#DC" weight="896" />
+      <edge id="52" source="#money" target="#mortgages" weight="896" />
+      <edge id="53" source="#money" target="#taxes" weight="896" />
+      <edge id="54" source="#money" target="#parents" weight="896" />
+      <edge id="55" source="#LTSS" target="#America" weight="896" />
+      <edge id="56" source="#LTSS" target="#olderadults" weight="4480" />
+      <edge id="57" source="#women" target="#caregiving" weight="896" />
+      <edge id="58" source="#OnThisDay" target="#ACSdata" weight="896" />
+      <edge id="59" source="#Aging" target="#SeniorCareGap" weight="896" />
+      <edge id="60" source="#taxes" target="#mortgages" weight="896" />
+      <edge id="61" source="#taxes" target="#parents" weight="896" />
+      <edge id="62" source="#HealthCareQuality" target="#CoordinatedCare" weight="896" />
+      <edge id="63" source="#InfluencingAging" target="#caregiving" weight="896" />
+      <edge id="64" source="#Georgia" target="#Columbus" weight="896" />
+      <edge id="65" source="#bi" target="#advancedchroniccare" weight="896" />
+      <edge id="66" source="#grantmaking" target="#socialchange" weight="896" />
+      <edge id="67" source="#Romneycare" target="#tcot" weight="896" />
+      <edge id="68" source="#Romneycare" target="#hcr" weight="896" />
+      <edge id="69" source="#ohtcot" target="#tcot" weight="896" />
+      <edge id="70" source="#ohtcot" target="#OH" weight="896" />
+      <edge id="71" source="#Conservatives" target="#LongTermCare" weight="896" />
+      <edge id="72" source="#Exchanges" target="#tcot" weight="896" />
+      <edge id="73" source="#Exchanges" target="#obamacare" weight="896" />
+      <edge id="74" source="#Exchanges" target="#ACA" weight="896" />
+      <edge id="75" source="#Exchanges" target="#hcr" weight="896" />
+      <edge id="76" source="#antitrust" target="#healthcare" weight="896" />
+      <edge id="77" source="#caregiving" target="#LTC" weight="896" />
+      <edge id="78" source="#parents" target="#mortgages" weight="896" />
+      <edge id="79" source="#NGA2016" target="#utpol" weight="896" />
+      <edge id="80" source="#healthcare" target="#financial" weight="896" />
+      <edge id="81" source="#healthcare" target="#mhealth" weight="896" />
+      <edge id="82" source="#hcr" target="#tcot" weight="1792" />
+      <edge id="83" source="#hcr" target="#obamacare" weight="896" />
+      <edge id="84" source="#hcr" target="#ACA" weight="896" />
+      <edge id="85" source="#CLASS" target="#LTC" weight="896" />
+      <edge id="86" source="#dietstudy" target="#gamechanging" weight="896" />
+      <edge id="87" source="#tcot" target="#obamacare" weight="896" />
+      <edge id="88" source="#tcot" target="#ACA" weight="896" />
+      <edge id="89" source="#tcot" target="#OH" weight="896" />
+      <edge id="90" source="#TransformingHealthcare" target="#olderadults" weight="896" />
+      <edge id="91" source="#obamacare" target="#ACA" weight="896" />
+      <edge id="92" source="#caregivers" target="#olderadults" weight="896" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#IRS" label="#IRS" />
+      <node id="#fraudwatch" label="#fraudwatch" />
+      <node id="#TakeBackDay" label="#TakeBackDay" />
+      <node id="#phone" label="#phone" />
+      <node id="#ohioag" label="#ohioag" />
+      <node id="#charges" label="#charges" />
+      <node id="#MiamiOH" label="#MiamiOH" />
+      <node id="#icecream" label="#icecream" />
+      <node id="#stopthinkconnect" label="#stopthinkconnect" />
+      <node id="#Wanted" label="#Wanted" />
+      <node id="#OhioProtects" label="#OhioProtects" />
+      <node id="#Ironton" label="#Ironton" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#consumer" label="#consumer" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#USMNT" label="#USMNT" />
+      <node id="#FocusOnTheGoal" label="#FocusOnTheGoal" />
+      <node id="#dea" label="#dea" />
+      <node id="#ConsumerProtection" label="#ConsumerProtection" />
+      <node id="#Graeters" label="#Graeters" />
+      <node id="#scams" label="#scams" />
+      <node id="#1a" label="#1a" />
+      <node id="#CyberAware" label="#CyberAware" />
+      <node id="#OSBAConvention" label="#OSBAConvention" />
+      <node id="#SunshineExpress" label="#SunshineExpress" />
+      <node id="#kasichforohio" label="#kasichforohio" />
+      <node id="#mikedewine" label="#mikedewine" />
+      <node id="#law" label="#law" />
+      <node id="#NCSAM" label="#NCSAM" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#RiseUpRedHawks" label="#RiseUpRedHawks" />
+      <node id="#painmedication" label="#painmedication" />
+      <node id="#allforohio" label="#allforohio" />
+      <node id="#Scams" label="#Scams" />
+      <node id="#ALLin216" label="#ALLin216" />
+      <node id="#consumerprotection" label="#consumerprotection" />
+      <node id="#HealthCareFraud" label="#HealthCareFraud" />
+      <node id="#ktfo14" label="#ktfo14" />
+      <node id="#ohpec" label="#ohpec" />
+      <node id="#Alert" label="#Alert" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#SugarBowl" label="#SugarBowl" />
+      <node id="#ConsumerAlert" label="#ConsumerAlert" />
+      <node id="#PrescriptionDrug" label="#PrescriptionDrug" />
+      <node id="#Retweet" label="#Retweet" />
+      <node id="#Chocolate" label="#Chocolate" />
+      <node id="#Scam" label="#Scam" />
+      <node id="#USAvsBEL" label="#USAvsBEL" />
+      <node id="#AG" label="#AG" />
+      <node id="#Lorain" label="#Lorain" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#IRS" target="#scams" weight="490" />
+      <edge id="1" source="#IRS" target="#phone" weight="490" />
+      <edge id="2" source="#fraudwatch" target="#ohpec" weight="490" />
+      <edge id="3" source="#TakeBackDay" target="#PrescriptionDrug" weight="490" />
+      <edge id="4" source="#phone" target="#scams" weight="490" />
+      <edge id="5" source="#ohioag" target="#mikedewine" weight="490" />
+      <edge id="6" source="#charges" target="#painmedication" weight="490" />
+      <edge id="7" source="#MiamiOH" target="#RiseUpRedHawks" weight="490" />
+      <edge id="8" source="#icecream" target="#Retweet" weight="490" />
+      <edge id="9" source="#icecream" target="#Chocolate" weight="490" />
+      <edge id="10" source="#icecream" target="#Graeters" weight="490" />
+      <edge id="11" source="#stopthinkconnect" target="#NCSAM" weight="490" />
+      <edge id="12" source="#Wanted" target="#Ohio" weight="490" />
+      <edge id="13" source="#OhioProtects" target="#CyberAware" weight="490" />
+      <edge id="14" source="#OhioProtects" target="#ConsumerProtection" weight="490" />
+      <edge id="15" source="#OhioProtects" target="#allforohio" weight="490" />
+      <edge id="16" source="#Ironton" target="#Scam" weight="490" />
+      <edge id="17" source="#Ironton" target="#ConsumerProtection" weight="490" />
+      <edge id="18" source="#Ironton" target="#Ohio" weight="490" />
+      <edge id="19" source="#NBAFinals" target="#Cleveland" weight="490" />
+      <edge id="20" source="#NBAFinals" target="#ALLin216" weight="490" />
+      <edge id="21" source="#consumer" target="#AG" weight="490" />
+      <edge id="22" source="#consumer" target="#OSBAConvention" weight="490" />
+      <edge id="23" source="#consumer" target="#consumerprotection" weight="490" />
+      <edge id="24" source="#Ohio" target="#Cleveland" weight="490" />
+      <edge id="25" source="#Ohio" target="#Alert" weight="490" />
+      <edge id="26" source="#Ohio" target="#Scams" weight="490" />
+      <edge id="27" source="#Ohio" target="#ConsumerProtection" weight="490" />
+      <edge id="28" source="#Ohio" target="#ConsumerAlert" weight="490" />
+      <edge id="29" source="#Ohio" target="#Lorain" weight="490" />
+      <edge id="30" source="#Ohio" target="#HealthCareFraud" weight="490" />
+      <edge id="31" source="#Ohio" target="#SugarBowl" weight="490" />
+      <edge id="32" source="#Ohio" target="#Scam" weight="980" />
+      <edge id="33" source="#Ohio" target="#Cincinnati" weight="490" />
+      <edge id="34" source="#USMNT" target="#USAvsBEL" weight="490" />
+      <edge id="35" source="#FocusOnTheGoal" target="#Trump" weight="490" />
+      <edge id="36" source="#dea" target="#mikedewine" weight="490" />
+      <edge id="37" source="#ConsumerProtection" target="#Scam" weight="490" />
+      <edge id="38" source="#Graeters" target="#Retweet" weight="490" />
+      <edge id="39" source="#Graeters" target="#Chocolate" weight="490" />
+      <edge id="40" source="#1a" target="#law" weight="490" />
+      <edge id="41" source="#1a" target="#SCOTUS" weight="490" />
+      <edge id="42" source="#OSBAConvention" target="#AG" weight="490" />
+      <edge id="43" source="#OSBAConvention" target="#consumerprotection" weight="490" />
+      <edge id="44" source="#SunshineExpress" target="#TBT" weight="490" />
+      <edge id="45" source="#kasichforohio" target="#ktfo14" weight="490" />
+      <edge id="46" source="#law" target="#SCOTUS" weight="490" />
+      <edge id="47" source="#Scams" target="#SugarBowl" weight="490" />
+      <edge id="48" source="#Scams" target="#ConsumerAlert" weight="490" />
+      <edge id="49" source="#ALLin216" target="#Cleveland" weight="490" />
+      <edge id="50" source="#consumerprotection" target="#AG" weight="490" />
+      <edge id="51" source="#HealthCareFraud" target="#Cincinnati" weight="490" />
+      <edge id="52" source="#Alert" target="#Scam" weight="490" />
+      <edge id="53" source="#SugarBowl" target="#ConsumerAlert" weight="490" />
+      <edge id="54" source="#Retweet" target="#Chocolate" weight="490" />
+    </edges>
+  </graph>
+</gexf>

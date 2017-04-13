@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#TheGrinder" label="#TheGrinder" />
+      <node id="#wsu" label="#wsu" />
+      <node id="#Fallout" label="#Fallout" />
+      <node id="#PJWRIGLEY" label="#PJWRIGLEY" />
+      <node id="#degardebrewing" label="#degardebrewing" />
+      <node id="#Immortality" label="#Immortality" />
+      <node id="#PJGiveaway" label="#PJGiveaway" />
+      <node id="#Radiohead" label="#Radiohead" />
+      <node id="#deschutesbrewery" label="#deschutesbrewery" />
+      <node id="#pearljam" label="#pearljam" />
+      <node id="#Lolla" label="#Lolla" />
+      <node id="#BowlEligible" label="#BowlEligible" />
+      <node id="#TOUCHDOWN" label="#TOUCHDOWN" />
+      <node id="#wavetheflag" label="#wavetheflag" />
+      <node id="#Pipbox" label="#Pipbox" />
+      <node id="#FutureisBright" label="#FutureisBright" />
+      <node id="#XboxOneEleven" label="#XboxOneEleven" />
+      <node id="#TheMostDramatic" label="#TheMostDramatic" />
+      <node id="#Swimming" label="#Swimming" />
+      <node id="#streetpub" label="#streetpub" />
+      <node id="#DallasPoliceShooting" label="#DallasPoliceShooting" />
+      <node id="#Traffic" label="#Traffic" />
+      <node id="#GlobalGoals" label="#GlobalGoals" />
+      <node id="#globalcitizen" label="#globalcitizen" />
+      <node id="#GoCougs" label="#GoCougs" />
+      <node id="#GlobalCitizen" label="#GlobalCitizen" />
+      <node id="#wrigley" label="#wrigley" />
+      <node id="#sourbeer" label="#sourbeer" />
+      <node id="#AltonSterling" label="#AltonSterling" />
+      <node id="#FlyTheW" label="#FlyTheW" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#upshow" label="#upshow" />
+      <node id="#MIA2012" label="#MIA2012" />
+      <node id="#Free" label="#Free" />
+      <node id="#ThankAVet" label="#ThankAVet" />
+      <node id="#murphysbleachers" label="#murphysbleachers" />
+      <node id="#WaveTheFlag" label="#WaveTheFlag" />
+      <node id="#women4wash" label="#women4wash" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#TheGrinder" target="#TheMostDramatic" weight="139" />
+      <edge id="1" source="#wsu" target="#GoCougs" weight="139" />
+      <edge id="2" source="#Fallout" target="#XboxOneEleven" weight="139" />
+      <edge id="3" source="#Fallout" target="#Pipbox" weight="139" />
+      <edge id="4" source="#PJWRIGLEY" target="#FlyTheW" weight="139" />
+      <edge id="5" source="#degardebrewing" target="#sourbeer" weight="139" />
+      <edge id="6" source="#Immortality" target="#Swimming" weight="139" />
+      <edge id="7" source="#PJGiveaway" target="#MIA2012" weight="278" />
+      <edge id="8" source="#Radiohead" target="#Lolla" weight="139" />
+      <edge id="9" source="#deschutesbrewery" target="#streetpub" weight="139" />
+      <edge id="10" source="#pearljam" target="#wrigley" weight="139" />
+      <edge id="11" source="#BowlEligible" target="#GoCougs" weight="139" />
+      <edge id="12" source="#TOUCHDOWN" target="#GoCougs" weight="139" />
+      <edge id="13" source="#wavetheflag" target="#GoCougs" weight="139" />
+      <edge id="14" source="#Pipbox" target="#XboxOneEleven" weight="139" />
+      <edge id="15" source="#FutureisBright" target="#GoCougs" weight="139" />
+      <edge id="16" source="#DallasPoliceShooting" target="#AltonSterling" weight="139" />
+      <edge id="17" source="#Traffic" target="#Columbus" weight="139" />
+      <edge id="18" source="#GlobalGoals" target="#GlobalCitizen" weight="139" />
+      <edge id="19" source="#globalcitizen" target="#women4wash" weight="139" />
+      <edge id="20" source="#GoCougs" target="#WaveTheFlag" weight="278" />
+      <edge id="21" source="#holiday" target="#Free" weight="139" />
+      <edge id="22" source="#upshow" target="#murphysbleachers" weight="278" />
+      <edge id="23" source="#ThankAVet" target="#ThankAVet" weight="278" />
+    </edges>
+  </graph>
+</gexf>

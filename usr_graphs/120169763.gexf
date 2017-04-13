@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SB47" label="#SB47" />
+      <node id="#oops" label="#oops" />
+      <node id="#MNF" label="#MNF" />
+      <node id="#suckstosuck" label="#suckstosuck" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#comebacksummer" label="#comebacksummer" />
+      <node id="#theyrenotfashionable" label="#theyrenotfashionable" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#SJFLY923" label="#SJFLY923" />
+      <node id="#ThingsIDoWhenImDrunk" label="#ThingsIDoWhenImDrunk" />
+      <node id="#PINKNATIONAPP" label="#PINKNATIONAPP" />
+      <node id="#THATbitch" label="#THATbitch" />
+      <node id="#WOWME" label="#WOWME" />
+      <node id="#togaproblems" label="#togaproblems" />
+      <node id="#SawyerFredericks" label="#SawyerFredericks" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SB47" target="#49ers" weight="265" />
+      <edge id="1" source="#oops" target="#ThingsIDoWhenImDrunk" weight="265" />
+      <edge id="2" source="#MNF" target="#49ers" weight="530" />
+      <edge id="3" source="#suckstosuck" target="#THATbitch" weight="265" />
+      <edge id="4" source="#comebacksummer" target="#togaproblems" weight="265" />
+      <edge id="5" source="#theyrenotfashionable" target="#togaproblems" weight="265" />
+      <edge id="6" source="#Periscope" target="#SJFLY923" weight="265" />
+      <edge id="7" source="#Periscope" target="#SawyerFredericks" weight="265" />
+      <edge id="8" source="#SJFLY923" target="#SawyerFredericks" weight="265" />
+      <edge id="9" source="#PINKNATIONAPP" target="#WOWME" weight="530" />
+    </edges>
+  </graph>
+</gexf>

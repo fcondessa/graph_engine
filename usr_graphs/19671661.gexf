@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#delicious" label="#delicious" />
+      <node id="#ihavemissedyou" label="#ihavemissedyou" />
+      <node id="#KEEPCMLSTRONG" label="#KEEPCMLSTRONG" />
+      <node id="#nap" label="#nap" />
+      <node id="#threemore" label="#threemore" />
+      <node id="#ShortNorth" label="#ShortNorth" />
+      <node id="#vegan" label="#vegan" />
+      <node id="#twomore" label="#twomore" />
+      <node id="#allthepumpkinthings" label="#allthepumpkinthings" />
+      <node id="#comfortfood" label="#comfortfood" />
+      <node id="#megatroubles" label="#megatroubles" />
+      <node id="#saltycaramelcake" label="#saltycaramelcake" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#food" label="#food" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#delicious" target="#saltycaramelcake" weight="3189" />
+      <edge id="1" source="#delicious" target="#allthepumpkinthings" weight="3189" />
+      <edge id="2" source="#ihavemissedyou" target="#megatroubles" weight="3189" />
+      <edge id="3" source="#KEEPCMLSTRONG" target="#KEEPCMLSTRONG" weight="19134" />
+      <edge id="4" source="#nap" target="#comfortfood" weight="3189" />
+      <edge id="5" source="#threemore" target="#twomore" weight="3189" />
+      <edge id="6" source="#ShortNorth" target="#vegan" weight="3189" />
+      <edge id="7" source="#ShortNorth" target="#Columbus" weight="3189" />
+      <edge id="8" source="#Columbus" target="#food" weight="3189" />
+    </edges>
+  </graph>
+</gexf>

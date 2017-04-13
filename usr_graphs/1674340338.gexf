@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#crazyhops" label="#crazyhops" />
+      <node id="#socent" label="#socent" />
+      <node id="#Cato2016" label="#Cato2016" />
+      <node id="#smh" label="#smh" />
+      <node id="#tennisball" label="#tennisball" />
+      <node id="#GetBuckets" label="#GetBuckets" />
+      <node id="#Heat" label="#Heat" />
+      <node id="#osuinnovates" label="#osuinnovates" />
+      <node id="#apte2016" label="#apte2016" />
+      <node id="#BrOHio" label="#BrOHio" />
+      <node id="#WUSU" label="#WUSU" />
+      <node id="#GOPdebate" label="#GOPdebate" />
+      <node id="#KaperneckiArms" label="#KaperneckiArms" />
+      <node id="#tgif" label="#tgif" />
+      <node id="#GTL" label="#GTL" />
+      <node id="#Movember" label="#Movember" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#yolo" label="#yolo" />
+      <node id="#fml" label="#fml" />
+      <node id="#RollTribe" label="#RollTribe" />
+      <node id="#medinashore" label="#medinashore" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#crazyhops" target="#yolo" weight="73" />
+      <edge id="1" source="#crazyhops" target="#tennisball" weight="73" />
+      <edge id="2" source="#socent" target="#apte2016" weight="73" />
+      <edge id="3" source="#Cato2016" target="#GOPdebate" weight="73" />
+      <edge id="4" source="#smh" target="#fml" weight="73" />
+      <edge id="5" source="#smh" target="#tgif" weight="73" />
+      <edge id="6" source="#smh" target="#yolo" weight="73" />
+      <edge id="7" source="#tennisball" target="#yolo" weight="73" />
+      <edge id="8" source="#GetBuckets" target="#Cavs" weight="73" />
+      <edge id="9" source="#Heat" target="#Cavs" weight="73" />
+      <edge id="10" source="#osuinnovates" target="#WUSU" weight="73" />
+      <edge id="11" source="#BrOHio" target="#RollTribe" weight="73" />
+      <edge id="12" source="#KaperneckiArms" target="#GTL" weight="73" />
+      <edge id="13" source="#KaperneckiArms" target="#medinashore" weight="73" />
+      <edge id="14" source="#tgif" target="#fml" weight="73" />
+      <edge id="15" source="#tgif" target="#yolo" weight="73" />
+      <edge id="16" source="#GTL" target="#medinashore" weight="73" />
+      <edge id="17" source="#Movember" target="#Cavs" weight="73" />
+      <edge id="18" source="#yolo" target="#fml" weight="73" />
+    </edges>
+  </graph>
+</gexf>

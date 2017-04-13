@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#FeelTheBern" label="#FeelTheBern" />
+      <node id="#natives" label="#natives" />
+      <node id="#FF" label="#FF" />
+      <node id="#DrunkFeeding" label="#DrunkFeeding" />
+      <node id="#SolidBros" label="#SolidBros" />
+      <node id="#BernFeeler" label="#BernFeeler" />
+      <node id="#YOLO" label="#YOLO" />
+      <node id="#columbus" label="#columbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#FeelTheBern" target="#BernFeeler" weight="3227" />
+      <edge id="1" source="#natives" target="#columbus" weight="3227" />
+      <edge id="2" source="#FF" target="#FF" weight="6454" />
+      <edge id="3" source="#DrunkFeeding" target="#YOLO" weight="3227" />
+      <edge id="4" source="#SolidBros" target="#YOLO" weight="3227" />
+    </edges>
+  </graph>
+</gexf>

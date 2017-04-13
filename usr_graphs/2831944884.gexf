@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#code" label="#code" />
+      <node id="#education" label="#education" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#programming" label="#programming" />
+      <node id="#nonprofit" label="#nonprofit" />
+      <node id="#learn" label="#learn" />
+      <node id="#inclusion" label="#inclusion" />
+      <node id="#development" label="#development" />
+      <node id="#Diversity" label="#Diversity" />
+      <node id="#startupcbus" label="#startupcbus" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#cbustech" label="#cbustech" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#inequality" label="#inequality" />
+      <node id="#blackfounders" label="#blackfounders" />
+      <node id="#webdevelopment" label="#webdevelopment" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#diversityintech" label="#diversityintech" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#femalefounders" label="#femalefounders" />
+      <node id="#SiliconValley" label="#SiliconValley" />
+      <node id="#webdev" label="#webdev" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#techdiversity" label="#techdiversity" />
+      <node id="#learning" label="#learning" />
+      <node id="#genderdiversity" label="#genderdiversity" />
+      <node id="#CIO" label="#CIO" />
+      <node id="#DiversityInTech" label="#DiversityInTech" />
+      <node id="#tech" label="#tech" />
+      <node id="#startups" label="#startups" />
+      <node id="#CTO" label="#CTO" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#code" target="#learning" weight="114" />
+      <edge id="1" source="#education" target="#startups" weight="114" />
+      <edge id="2" source="#education" target="#leadership" weight="114" />
+      <edge id="3" source="#Cbus" target="#startupcbus" weight="114" />
+      <edge id="4" source="#Cbus" target="#lifeincbus" weight="114" />
+      <edge id="5" source="#Cbus" target="#cbustech" weight="114" />
+      <edge id="6" source="#leadership" target="#tech" weight="114" />
+      <edge id="7" source="#leadership" target="#startups" weight="114" />
+      <edge id="8" source="#leadership" target="#development" weight="114" />
+      <edge id="9" source="#programming" target="#learn" weight="114" />
+      <edge id="10" source="#nonprofit" target="#CBUS" weight="114" />
+      <edge id="11" source="#inclusion" target="#inequality" weight="114" />
+      <edge id="12" source="#inclusion" target="#diversity" weight="114" />
+      <edge id="13" source="#development" target="#tech" weight="114" />
+      <edge id="14" source="#Diversity" target="#SiliconValley" weight="114" />
+      <edge id="15" source="#Diversity" target="#DiversityInTech" weight="114" />
+      <edge id="16" source="#startupcbus" target="#cbustech" weight="114" />
+      <edge id="17" source="#startupcbus" target="#lifeincbus" weight="114" />
+      <edge id="18" source="#lifeincbus" target="#cbustech" weight="114" />
+      <edge id="19" source="#CBUS" target="#cbusproud" weight="114" />
+      <edge id="20" source="#inequality" target="#diversity" weight="114" />
+      <edge id="21" source="#blackfounders" target="#femalefounders" weight="114" />
+      <edge id="22" source="#webdevelopment" target="#webdev" weight="114" />
+      <edge id="23" source="#diversity" target="#diversityintech" weight="114" />
+      <edge id="24" source="#diversity" target="#tech" weight="114" />
+      <edge id="25" source="#diversity" target="#techdiversity" weight="228" />
+      <edge id="26" source="#SiliconValley" target="#DiversityInTech" weight="114" />
+      <edge id="27" source="#Columbus" target="#CTO" weight="114" />
+      <edge id="28" source="#Columbus" target="#CIO" weight="114" />
+      <edge id="29" source="#techdiversity" target="#genderdiversity" weight="228" />
+      <edge id="30" source="#CIO" target="#CTO" weight="114" />
+    </edges>
+  </graph>
+</gexf>

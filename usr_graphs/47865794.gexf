@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#bengieissoslow" label="#bengieissoslow" />
+      <node id="#mlb" label="#mlb" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#Braves" label="#Braves" />
+      <node id="#sjgiants" label="#sjgiants" />
+      <node id="#astros" label="#astros" />
+      <node id="#failedwesterns" label="#failedwesterns" />
+      <node id="#votekinsler" label="#votekinsler" />
+      <node id="#voteSandoval" label="#voteSandoval" />
+      <node id="#MagicOrangeNikes" label="#MagicOrangeNikes" />
+      <node id="#sandoval" label="#sandoval" />
+      <node id="#livingsocialmonkey" label="#livingsocialmonkey" />
+      <node id="#pablosandoval" label="#pablosandoval" />
+      <node id="#LetsGoGiants" label="#LetsGoGiants" />
+      <node id="#timlincecum" label="#timlincecum" />
+      <node id="#BaySickClothing" label="#BaySickClothing" />
+      <node id="#duckthefodgers" label="#duckthefodgers" />
+      <node id="#random" label="#random" />
+      <node id="#Rangers" label="#Rangers" />
+      <node id="#BEATLA" label="#BEATLA" />
+      <node id="#finalvote" label="#finalvote" />
+      <node id="#votesandoval" label="#votesandoval" />
+      <node id="#Sandoval" label="#Sandoval" />
+      <node id="#SFgiants" label="#SFgiants" />
+      <node id="#smoke" label="#smoke" />
+      <node id="#dodgers" label="#dodgers" />
+      <node id="#votepanda" label="#votepanda" />
+      <node id="#busterposey" label="#busterposey" />
+      <node id="#rangers" label="#rangers" />
+      <node id="#votevictorino" label="#votevictorino" />
+      <node id="#giants" label="#giants" />
+      <node id="#beatla" label="#beatla" />
+      <node id="#riprallypumpkin" label="#riprallypumpkin" />
+      <node id="#BusterPosey" label="#BusterPosey" />
+      <node id="#voteforpablo" label="#voteforpablo" />
+      <node id="#SANDOVAL" label="#SANDOVAL" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#votepablo" label="#votepablo" />
+      <node id="#mlbdraft" label="#mlbdraft" />
+      <node id="#kinsler" label="#kinsler" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#voteKinsler" label="#voteKinsler" />
+      <node id="#phillies" label="#phillies" />
+      <node id="#Mets" label="#Mets" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#bengieissoslow" target="#sfgiants" weight="2412" />
+      <edge id="1" source="#mlb" target="#failedwesterns" weight="804" />
+      <edge id="2" source="#mlb" target="#giants" weight="804" />
+      <edge id="3" source="#mlb" target="#sfgiants" weight="1608" />
+      <edge id="4" source="#sfgiants" target="#sjgiants" weight="804" />
+      <edge id="5" source="#sfgiants" target="#rangers" weight="3216" />
+      <edge id="6" source="#sfgiants" target="#voteSandoval" weight="8040" />
+      <edge id="7" source="#sfgiants" target="#MagicOrangeNikes" weight="804" />
+      <edge id="8" source="#sfgiants" target="#timlincecum" weight="804" />
+      <edge id="9" source="#sfgiants" target="#duckthefodgers" weight="804" />
+      <edge id="10" source="#sfgiants" target="#random" weight="804" />
+      <edge id="11" source="#sfgiants" target="#votepanda" weight="804" />
+      <edge id="12" source="#sfgiants" target="#beatla" weight="1608" />
+      <edge id="13" source="#sfgiants" target="#finalvote" weight="804" />
+      <edge id="14" source="#sfgiants" target="#votesandoval" weight="3216" />
+      <edge id="15" source="#sfgiants" target="#Sandoval" weight="804" />
+      <edge id="16" source="#sfgiants" target="#smoke" weight="804" />
+      <edge id="17" source="#sfgiants" target="#giants" weight="9648" />
+      <edge id="18" source="#sfgiants" target="#BEATLA" weight="4020" />
+      <edge id="19" source="#sfgiants" target="#riprallypumpkin" weight="1608" />
+      <edge id="20" source="#sfgiants" target="#livingsocialmonkey" weight="804" />
+      <edge id="21" source="#sfgiants" target="#SANDOVAL" weight="1608" />
+      <edge id="22" source="#sfgiants" target="#votepablo" weight="1608" />
+      <edge id="23" source="#sfgiants" target="#mlbdraft" weight="804" />
+      <edge id="24" source="#sfgiants" target="#voteKinsler" weight="4020" />
+      <edge id="25" source="#Braves" target="#voteSandoval" weight="804" />
+      <edge id="26" source="#astros" target="#dodgers" weight="804" />
+      <edge id="27" source="#votekinsler" target="#votesandoval" weight="804" />
+      <edge id="28" source="#voteSandoval" target="#pablosandoval" weight="1608" />
+      <edge id="29" source="#voteSandoval" target="#SFGiants" weight="804" />
+      <edge id="30" source="#voteSandoval" target="#votepablo" weight="804" />
+      <edge id="31" source="#voteSandoval" target="#voteKinsler" weight="4020" />
+      <edge id="32" source="#voteSandoval" target="#rangers" weight="2412" />
+      <edge id="33" source="#voteSandoval" target="#Mets" weight="1608" />
+      <edge id="34" source="#sandoval" target="#kinsler" weight="804" />
+      <edge id="35" source="#pablosandoval" target="#SFGiants" weight="804" />
+      <edge id="36" source="#LetsGoGiants" target="#SFgiants" weight="804" />
+      <edge id="37" source="#BaySickClothing" target="#BusterPosey" weight="804" />
+      <edge id="38" source="#BaySickClothing" target="#SFGiants" weight="804" />
+      <edge id="39" source="#Rangers" target="#Giants" weight="804" />
+      <edge id="40" source="#finalvote" target="#SANDOVAL" weight="804" />
+      <edge id="41" source="#finalvote" target="#giants" weight="804" />
+      <edge id="42" source="#votesandoval" target="#voteforpablo" weight="804" />
+      <edge id="43" source="#votesandoval" target="#votepablo" weight="804" />
+      <edge id="44" source="#votesandoval" target="#votepanda" weight="804" />
+      <edge id="45" source="#votesandoval" target="#phillies" weight="804" />
+      <edge id="46" source="#votesandoval" target="#Mets" weight="804" />
+      <edge id="47" source="#Sandoval" target="#rangers" weight="804" />
+      <edge id="48" source="#votepanda" target="#votepablo" weight="804" />
+      <edge id="49" source="#busterposey" target="#busterposey" weight="1608" />
+      <edge id="50" source="#rangers" target="#voteKinsler" weight="2412" />
+      <edge id="51" source="#votevictorino" target="#phillies" weight="1608" />
+      <edge id="52" source="#giants" target="#SANDOVAL" weight="1608" />
+      <edge id="53" source="#BusterPosey" target="#SFGiants" weight="804" />
+    </edges>
+  </graph>
+</gexf>

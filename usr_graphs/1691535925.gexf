@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#MAGA" label="#MAGA" />
+      <node id="#PowerBreakfast" label="#PowerBreakfast" />
+      <node id="#HockeyFightsCancer" label="#HockeyFightsCancer" />
+      <node id="#DarkAndStormyNight" label="#DarkAndStormyNight" />
+      <node id="#irememberby" label="#irememberby" />
+      <node id="#FirkinFriday" label="#FirkinFriday" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#WildLights" label="#WildLights" />
+      <node id="#USHMM" label="#USHMM" />
+      <node id="#Libeskind" label="#Libeskind" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#fourdeadinOhio" label="#fourdeadinOhio" />
+      <node id="#electric" label="#electric" />
+      <node id="#WednesdayWisdom" label="#WednesdayWisdom" />
+      <node id="#CardinalWeather" label="#CardinalWeather" />
+      <node id="#RaganaYaga" label="#RaganaYaga" />
+      <node id="#KentState" label="#KentState" />
+      <node id="#GIBill" label="#GIBill" />
+      <node id="#OhioWx" label="#OhioWx" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#OhioStatehouse" label="#OhioStatehouse" />
+      <node id="#bwbf" label="#bwbf" />
+      <node id="#CSPAN" label="#CSPAN" />
+      <node id="#StateOfNature" label="#StateOfNature" />
+      <node id="#beer" label="#beer" />
+      <node id="#AsSeenInColumbus" label="#AsSeenInColumbus" />
+      <node id="#FDR" label="#FDR" />
+      <node id="#worldrecord" label="#worldrecord" />
+      <node id="#greatbeer" label="#greatbeer" />
+      <node id="#NCSL" label="#NCSL" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#AWrinkleInTime" label="#AWrinkleInTime" />
+      <node id="#HBD" label="#HBD" />
+      <node id="#Starwarsday" label="#Starwarsday" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#StuffTheTruck" label="#StuffTheTruck" />
+      <node id="#ChronAM" label="#ChronAM" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#memory2action" label="#memory2action" />
+      <node id="#CBJHFC" label="#CBJHFC" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#AsSeenInOhio" label="#AsSeenInOhio" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#MAGA" target="#Trump" weight="3213" />
+      <edge id="1" source="#PowerBreakfast" target="#Columbus" weight="3213" />
+      <edge id="2" source="#HockeyFightsCancer" target="#CBJ" weight="3213" />
+      <edge id="3" source="#HockeyFightsCancer" target="#CBJHFC" weight="3213" />
+      <edge id="4" source="#DarkAndStormyNight" target="#AWrinkleInTime" weight="3213" />
+      <edge id="5" source="#irememberby" target="#memory2action" weight="3213" />
+      <edge id="6" source="#FirkinFriday" target="#drinkupcolumbus" weight="3213" />
+      <edge id="7" source="#FirkinFriday" target="#lifeincbus" weight="3213" />
+      <edge id="8" source="#drinkupcolumbus" target="#lifeincbus" weight="3213" />
+      <edge id="9" source="#WildLights" target="#StuffTheTruck" weight="3213" />
+      <edge id="10" source="#USHMM" target="#OhioStatehouse" weight="3213" />
+      <edge id="11" source="#USHMM" target="#CSPAN" weight="3213" />
+      <edge id="12" source="#USHMM" target="#Libeskind" weight="3213" />
+      <edge id="13" source="#USHMM" target="#AsSeenInColumbus" weight="3213" />
+      <edge id="14" source="#USHMM" target="#NCSL" weight="3213" />
+      <edge id="15" source="#USHMM" target="#LifeInCbus" weight="3213" />
+      <edge id="16" source="#USHMM" target="#AsSeenInOhio" weight="3213" />
+      <edge id="17" source="#Libeskind" target="#OhioStatehouse" weight="3213" />
+      <edge id="18" source="#Libeskind" target="#CSPAN" weight="3213" />
+      <edge id="19" source="#Libeskind" target="#AsSeenInColumbus" weight="3213" />
+      <edge id="20" source="#Libeskind" target="#NCSL" weight="3213" />
+      <edge id="21" source="#Libeskind" target="#LifeInCbus" weight="3213" />
+      <edge id="22" source="#Libeskind" target="#AsSeenInOhio" weight="3213" />
+      <edge id="23" source="#fourdeadinOhio" target="#Starwarsday" weight="3213" />
+      <edge id="24" source="#fourdeadinOhio" target="#KentState" weight="3213" />
+      <edge id="25" source="#electric" target="#worldrecord" weight="3213" />
+      <edge id="26" source="#electric" target="#GoBucks" weight="3213" />
+      <edge id="27" source="#WednesdayWisdom" target="#StateOfNature" weight="3213" />
+      <edge id="28" source="#CardinalWeather" target="#OhioWx" weight="3213" />
+      <edge id="29" source="#RaganaYaga" target="#craftbeer" weight="3213" />
+      <edge id="30" source="#KentState" target="#Starwarsday" weight="3213" />
+      <edge id="31" source="#GIBill" target="#FDR" weight="3213" />
+      <edge id="32" source="#CBJ" target="#CBJHFC" weight="3213" />
+      <edge id="33" source="#OhioStatehouse" target="#CSPAN" weight="3213" />
+      <edge id="34" source="#OhioStatehouse" target="#AsSeenInColumbus" weight="6426" />
+      <edge id="35" source="#OhioStatehouse" target="#NCSL" weight="3213" />
+      <edge id="36" source="#OhioStatehouse" target="#LifeInCbus" weight="9639" />
+      <edge id="37" source="#OhioStatehouse" target="#AsSeenInOhio" weight="6426" />
+      <edge id="38" source="#bwbf" target="#cbus" weight="3213" />
+      <edge id="39" source="#CSPAN" target="#AsSeenInColumbus" weight="3213" />
+      <edge id="40" source="#CSPAN" target="#NCSL" weight="3213" />
+      <edge id="41" source="#CSPAN" target="#LifeInCbus" weight="3213" />
+      <edge id="42" source="#CSPAN" target="#AsSeenInOhio" weight="3213" />
+      <edge id="43" source="#beer" target="#Cincinnati" weight="3213" />
+      <edge id="44" source="#beer" target="#craftbeer" weight="3213" />
+      <edge id="45" source="#AsSeenInColumbus" target="#NCSL" weight="3213" />
+      <edge id="46" source="#AsSeenInColumbus" target="#LifeInCbus" weight="6426" />
+      <edge id="47" source="#AsSeenInColumbus" target="#AsSeenInOhio" weight="6426" />
+      <edge id="48" source="#worldrecord" target="#GoBucks" weight="3213" />
+      <edge id="49" source="#greatbeer" target="#craftbeer" weight="3213" />
+      <edge id="50" source="#NCSL" target="#LifeInCbus" weight="3213" />
+      <edge id="51" source="#NCSL" target="#AsSeenInOhio" weight="3213" />
+      <edge id="52" source="#HBD" target="#ChronAM" weight="3213" />
+      <edge id="53" source="#craftbeer" target="#Cincinnati" weight="3213" />
+      <edge id="54" source="#AsSeenInOhio" target="#LifeInCbus" weight="6426" />
+    </edges>
+  </graph>
+</gexf>

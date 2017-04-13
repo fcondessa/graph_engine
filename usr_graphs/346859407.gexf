@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Buckeye" label="#Buckeye" />
+      <node id="#green" label="#green" />
+      <node id="#49ners" label="#49ners" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#buckeyes" label="#buckeyes" />
+      <node id="#sweet16" label="#sweet16" />
+      <node id="#food" label="#food" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#finance" label="#finance" />
+      <node id="#Homes" label="#Homes" />
+      <node id="#ncaa" label="#ncaa" />
+      <node id="#money" label="#money" />
+      <node id="#housing" label="#housing" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#buying" label="#buying" />
+      <node id="#basketball" label="#basketball" />
+      <node id="#houses" label="#houses" />
+      <node id="#accessories" label="#accessories" />
+      <node id="#Kansas" label="#Kansas" />
+      <node id="#newhomes" label="#newhomes" />
+      <node id="#holidays" label="#holidays" />
+      <node id="#Kentucky" label="#Kentucky" />
+      <node id="#saving" label="#saving" />
+      <node id="#Ravens" label="#Ravens" />
+      <node id="#environment" label="#environment" />
+      <node id="#knowledge" label="#knowledge" />
+      <node id="#cincinnati" label="#cincinnati" />
+      <node id="#home" label="#home" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#family" label="#family" />
+      <node id="#rightnow" label="#rightnow" />
+      <node id="#selling" label="#selling" />
+      <node id="#homes" label="#homes" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#bunny" label="#bunny" />
+      <node id="#homebuying" label="#homebuying" />
+      <node id="#Home" label="#Home" />
+      <node id="#football" label="#football" />
+      <node id="#Patriots" label="#Patriots" />
+      <node id="#ohio" label="#ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Buckeye" target="#OSU" weight="368" />
+      <edge id="1" source="#green" target="#Columbus" weight="368" />
+      <edge id="2" source="#green" target="#buying" weight="368" />
+      <edge id="3" source="#green" target="#environment" weight="368" />
+      <edge id="4" source="#green" target="#Ohio" weight="368" />
+      <edge id="5" source="#49ners" target="#Patriots" weight="368" />
+      <edge id="6" source="#49ners" target="#football" weight="368" />
+      <edge id="7" source="#49ners" target="#Giants" weight="368" />
+      <edge id="8" source="#49ners" target="#Ravens" weight="368" />
+      <edge id="9" source="#realestate" target="#selling" weight="368" />
+      <edge id="10" source="#realestate" target="#Ohio" weight="368" />
+      <edge id="11" source="#Thanksgiving" target="#family" weight="368" />
+      <edge id="12" source="#Thanksgiving" target="#food" weight="368" />
+      <edge id="13" source="#buckeyes" target="#ncaa" weight="368" />
+      <edge id="14" source="#buckeyes" target="#basketball" weight="368" />
+      <edge id="15" source="#sweet16" target="#Ohio" weight="368" />
+      <edge id="16" source="#sweet16" target="#basketball" weight="368" />
+      <edge id="17" source="#sweet16" target="#ncaa" weight="368" />
+      <edge id="18" source="#food" target="#family" weight="736" />
+      <edge id="19" source="#food" target="#holidays" weight="368" />
+      <edge id="20" source="#food" target="#bunny" weight="368" />
+      <edge id="21" source="#food" target="#ohio" weight="368" />
+      <edge id="22" source="#Ohio" target="#houses" weight="736" />
+      <edge id="23" source="#Ohio" target="#Home" weight="368" />
+      <edge id="24" source="#Ohio" target="#Homes" weight="368" />
+      <edge id="25" source="#Ohio" target="#selling" weight="368" />
+      <edge id="26" source="#Ohio" target="#ncaa" weight="368" />
+      <edge id="27" source="#Ohio" target="#homes" weight="368" />
+      <edge id="28" source="#Ohio" target="#housing" weight="368" />
+      <edge id="29" source="#Ohio" target="#saving" weight="368" />
+      <edge id="30" source="#Ohio" target="#buying" weight="736" />
+      <edge id="31" source="#Ohio" target="#basketball" weight="368" />
+      <edge id="32" source="#Ohio" target="#knowledge" weight="368" />
+      <edge id="33" source="#Ohio" target="#home" weight="368" />
+      <edge id="34" source="#Ohio" target="#finance" weight="368" />
+      <edge id="35" source="#Ohio" target="#Columbus" weight="5520" />
+      <edge id="36" source="#Ohio" target="#money" weight="368" />
+      <edge id="37" source="#Ohio" target="#accessories" weight="368" />
+      <edge id="38" source="#finance" target="#buying" weight="368" />
+      <edge id="39" source="#finance" target="#home" weight="368" />
+      <edge id="40" source="#finance" target="#money" weight="368" />
+      <edge id="41" source="#finance" target="#Columbus" weight="368" />
+      <edge id="42" source="#Homes" target="#Columbus" weight="368" />
+      <edge id="43" source="#ncaa" target="#basketball" weight="736" />
+      <edge id="44" source="#money" target="#Columbus" weight="368" />
+      <edge id="45" source="#money" target="#home" weight="368" />
+      <edge id="46" source="#money" target="#buying" weight="368" />
+      <edge id="47" source="#housing" target="#Columbus" weight="368" />
+      <edge id="48" source="#buying" target="#home" weight="368" />
+      <edge id="49" source="#buying" target="#Columbus" weight="736" />
+      <edge id="50" source="#houses" target="#rightnow" weight="368" />
+      <edge id="51" source="#houses" target="#accessories" weight="368" />
+      <edge id="52" source="#houses" target="#homebuying" weight="736" />
+      <edge id="53" source="#houses" target="#home" weight="368" />
+      <edge id="54" source="#houses" target="#Columbus" weight="736" />
+      <edge id="55" source="#houses" target="#ohio" weight="368" />
+      <edge id="56" source="#accessories" target="#Columbus" weight="368" />
+      <edge id="57" source="#Kansas" target="#Kentucky" weight="368" />
+      <edge id="58" source="#newhomes" target="#cincinnati" weight="368" />
+      <edge id="59" source="#holidays" target="#family" weight="368" />
+      <edge id="60" source="#saving" target="#homes" weight="368" />
+      <edge id="61" source="#saving" target="#Columbus" weight="368" />
+      <edge id="62" source="#Ravens" target="#Giants" weight="368" />
+      <edge id="63" source="#Ravens" target="#football" weight="368" />
+      <edge id="64" source="#Ravens" target="#Patriots" weight="368" />
+      <edge id="65" source="#knowledge" target="#Columbus" weight="368" />
+      <edge id="66" source="#home" target="#homebuying" weight="368" />
+      <edge id="67" source="#home" target="#Columbus" weight="368" />
+      <edge id="68" source="#Columbus" target="#Home" weight="368" />
+      <edge id="69" source="#Columbus" target="#homes" weight="368" />
+      <edge id="70" source="#Giants" target="#football" weight="368" />
+      <edge id="71" source="#Giants" target="#Patriots" weight="368" />
+      <edge id="72" source="#bunny" target="#ohio" weight="368" />
+      <edge id="73" source="#football" target="#Patriots" weight="368" />
+    </edges>
+  </graph>
+</gexf>

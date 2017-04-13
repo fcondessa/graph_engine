@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#casemanagement" label="#casemanagement" />
+      <node id="#urology" label="#urology" />
+      <node id="#workerscomp" label="#workerscomp" />
+      <node id="#providers" label="#providers" />
+      <node id="#increase" label="#increase" />
+      <node id="#vbr" label="#vbr" />
+      <node id="#Opioid" label="#Opioid" />
+      <node id="#Medical" label="#Medical" />
+      <node id="#peerreview" label="#peerreview" />
+      <node id="#patientcentricity" label="#patientcentricity" />
+      <node id="#efficiency" label="#efficiency" />
+      <node id="#ExternalAppeals" label="#ExternalAppeals" />
+      <node id="#MedicaidReform" label="#MedicaidReform" />
+      <node id="#BehavioralHealth" label="#BehavioralHealth" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#Claim" label="#Claim" />
+      <node id="#qualitydata" label="#qualitydata" />
+      <node id="#valuebased" label="#valuebased" />
+      <node id="#NC" label="#NC" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#partnership" label="#partnership" />
+      <node id="#Hospitals" label="#Hospitals" />
+      <node id="#free" label="#free" />
+      <node id="#ManagedCare" label="#ManagedCare" />
+      <node id="#ICD10" label="#ICD10" />
+      <node id="#BehavioralHealthIntegration" label="#BehavioralHealthIntegration" />
+      <node id="#healthplan" label="#healthplan" />
+      <node id="#PeerReview" label="#PeerReview" />
+      <node id="#biosimilar" label="#biosimilar" />
+      <node id="#NCQA" label="#NCQA" />
+      <node id="#healthsystems" label="#healthsystems" />
+      <node id="#OpioidEpidemic" label="#OpioidEpidemic" />
+      <node id="#PaymentModels" label="#PaymentModels" />
+      <node id="#Engagement" label="#Engagement" />
+      <node id="#WorkersCompensation" label="#WorkersCompensation" />
+      <node id="#healthplans" label="#healthplans" />
+      <node id="#CIO" label="#CIO" />
+      <node id="#HeartMonth" label="#HeartMonth" />
+      <node id="#readmissions" label="#readmissions" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#patient" label="#patient" />
+      <node id="#Accreditation" label="#Accreditation" />
+      <node id="#Webinar" label="#Webinar" />
+      <node id="#reducecost" label="#reducecost" />
+      <node id="#rcm" label="#rcm" />
+      <node id="#DataManagement" label="#DataManagement" />
+      <node id="#Payer" label="#Payer" />
+      <node id="#opioid" label="#opioid" />
+      <node id="#Patient" label="#Patient" />
+      <node id="#HealthPlan" label="#HealthPlan" />
+      <node id="#reducecosts" label="#reducecosts" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#trends" label="#trends" />
+      <node id="#live" label="#live" />
+      <node id="#cms" label="#cms" />
+      <node id="#improve" label="#improve" />
+      <node id="#Concierge" label="#Concierge" />
+      <node id="#accredited" label="#accredited" />
+      <node id="#denialmangement" label="#denialmangement" />
+      <node id="#Pharma" label="#Pharma" />
+      <node id="#safety" label="#safety" />
+      <node id="#cdc" label="#cdc" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#CadillacTax" label="#CadillacTax" />
+      <node id="#Claims" label="#Claims" />
+      <node id="#Centricity" label="#Centricity" />
+      <node id="#Appeals" label="#Appeals" />
+      <node id="#PCMH" label="#PCMH" />
+      <node id="#opioidaddiction" label="#opioidaddiction" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#specialtyrx" label="#specialtyrx" />
+      <node id="#Specialty" label="#Specialty" />
+      <node id="#iros" label="#iros" />
+      <node id="#urac" label="#urac" />
+      <node id="#integration" label="#integration" />
+      <node id="#addiction" label="#addiction" />
+      <node id="#MedicalDirectors" label="#MedicalDirectors" />
+      <node id="#Health" label="#Health" />
+      <node id="#pharmacies" label="#pharmacies" />
+      <node id="#denials" label="#denials" />
+      <node id="#ruralhealth" label="#ruralhealth" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#AD" label="#AD" />
+      <node id="#NPHWchat" label="#NPHWchat" />
+      <node id="#Telemedicine" label="#Telemedicine" />
+      <node id="#biosimilars" label="#biosimilars" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#ACOs" label="#ACOs" />
+      <node id="#CRM" label="#CRM" />
+      <node id="#Readmissions" label="#Readmissions" />
+      <node id="#data" label="#data" />
+      <node id="#aco" label="#aco" />
+      <node id="#drugcosts" label="#drugcosts" />
+      <node id="#IRO" label="#IRO" />
+      <node id="#URAC" label="#URAC" />
+      <node id="#Act" label="#Act" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#Executives" label="#Executives" />
+      <node id="#quality" label="#quality" />
+      <node id="#Providers" label="#Providers" />
+      <node id="#Insurance" label="#Insurance" />
+      <node id="#claims" label="#claims" />
+      <node id="#pharmacy" label="#pharmacy" />
+      <node id="#telemedicine" label="#telemedicine" />
+      <node id="#ROI" label="#ROI" />
+      <node id="#paymentreform" label="#paymentreform" />
+      <node id="#MentalHealth" label="#MentalHealth" />
+      <node id="#consulting" label="#consulting" />
+      <node id="#macra" label="#macra" />
+      <node id="#DenialManagement" label="#DenialManagement" />
+      <node id="#Physician" label="#Physician" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#accreditation" label="#accreditation" />
+      <node id="#CMS" label="#CMS" />
+      <node id="#revenuecycle" label="#revenuecycle" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#cybersecurity" label="#cybersecurity" />
+      <node id="#USDA" label="#USDA" />
+      <node id="#Humana" label="#Humana" />
+      <node id="#Reform" label="#Reform" />
+      <node id="#medicaid" label="#medicaid" />
+      <node id="#medicalcoding" label="#medicalcoding" />
+      <node id="#ahip" label="#ahip" />
+      <node id="#healthcaretrends" label="#healthcaretrends" />
+      <node id="#opioidepidemic" label="#opioidepidemic" />
+      <node id="#patientcenteredcare" label="#patientcenteredcare" />
+      <node id="#physicianburnout" label="#physicianburnout" />
+      <node id="#LimitedSpace" label="#LimitedSpace" />
+      <node id="#brainweek" label="#brainweek" />
+      <node id="#Aetna" label="#Aetna" />
+      <node id="#mhealth" label="#mhealth" />
+      <node id="#casestudy" label="#casestudy" />
+      <node id="#SpecialtyPharmacy" label="#SpecialtyPharmacy" />
+      <node id="#HIMSS16" label="#HIMSS16" />
+      <node id="#iro" label="#iro" />
+      <node id="#whitepaper" label="#whitepaper" />
+      <node id="#pharmacists" label="#pharmacists" />
+      <node id="#Payment" label="#Payment" />
+      <node id="#Hospital" label="#Hospital" />
+      <node id="#Insurers" label="#Insurers" />
+      <node id="#mcos" label="#mcos" />
+      <node id="#ATA2016" label="#ATA2016" />
+      <node id="#PatientCentricity" label="#PatientCentricity" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#Mentalhealth" label="#Mentalhealth" />
+      <node id="#Addiction" label="#Addiction" />
+      <node id="#mentalhealthmonth" label="#mentalhealthmonth" />
+      <node id="#dignity" label="#dignity" />
+      <node id="#Quality" label="#Quality" />
+      <node id="#Prescription" label="#Prescription" />
+      <node id="#HITSMIND" label="#HITSMIND" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#communitycare" label="#communitycare" />
+      <node id="#Trends" label="#Trends" />
+      <node id="#InfoSec" label="#InfoSec" />
+      <node id="#Data" label="#Data" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#costofcare" label="#costofcare" />
+      <node id="#Telehealth" label="#Telehealth" />
+      <node id="#Clinicians" label="#Clinicians" />
+      <node id="#Pharmacy" label="#Pharmacy" />
+      <node id="#BHM" label="#BHM" />
+      <node id="#specialtypharmacy" label="#specialtypharmacy" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#mHealth" label="#mHealth" />
+      <node id="#valuebasedpayments" label="#valuebasedpayments" />
+      <node id="#patientcentered" label="#patientcentered" />
+      <node id="#external" label="#external" />
+      <node id="#ACO" label="#ACO" />
+      <node id="#PrimaryCare" label="#PrimaryCare" />
+      <node id="#behavioralhealth" label="#behavioralhealth" />
+      <node id="#Policy" label="#Policy" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#DigitalHealth" label="#DigitalHealth" />
+      <node id="#Biosimilar" label="#Biosimilar" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#Necessity" label="#Necessity" />
+      <node id="#Medicare" label="#Medicare" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#casemanagement" target="#healthcare" weight="6430" />
+      <edge id="1" source="#urology" target="#patientcentered" weight="3215" />
+      <edge id="2" source="#urology" target="#telemedicine" weight="3215" />
+      <edge id="3" source="#urology" target="#mhealth" weight="3215" />
+      <edge id="4" source="#workerscomp" target="#WorkersCompensation" weight="12860" />
+      <edge id="5" source="#workerscomp" target="#healthcare" weight="6430" />
+      <edge id="6" source="#workerscomp" target="#Claims" weight="25720" />
+      <edge id="7" source="#providers" target="#Payer" weight="3215" />
+      <edge id="8" source="#providers" target="#data" weight="3215" />
+      <edge id="9" source="#providers" target="#Trends" weight="3215" />
+      <edge id="10" source="#providers" target="#healthplans" weight="3215" />
+      <edge id="11" source="#providers" target="#valuebased" weight="3215" />
+      <edge id="12" source="#providers" target="#healthcare" weight="3215" />
+      <edge id="13" source="#providers" target="#cybersecurity" weight="3215" />
+      <edge id="14" source="#increase" target="#healthplans" weight="12860" />
+      <edge id="15" source="#increase" target="#reducecost" weight="19290" />
+      <edge id="16" source="#increase" target="#improve" weight="3215" />
+      <edge id="17" source="#increase" target="#efficiency" weight="16075" />
+      <edge id="18" source="#vbr" target="#healthcare" weight="3215" />
+      <edge id="19" source="#Opioid" target="#DataManagement" weight="6430" />
+      <edge id="20" source="#Opioid" target="#cdc" weight="9645" />
+      <edge id="21" source="#Opioid" target="#pharmacy" weight="54655" />
+      <edge id="22" source="#Opioid" target="#Healthcare" weight="9645" />
+      <edge id="23" source="#Opioid" target="#ROI" weight="6430" />
+      <edge id="24" source="#Opioid" target="#healthcare" weight="64300" />
+      <edge id="25" source="#Opioid" target="#Addiction" weight="3215" />
+      <edge id="26" source="#Opioid" target="#webinar" weight="6430" />
+      <edge id="27" source="#Medical" target="#Necessity" weight="6430" />
+      <edge id="28" source="#Medical" target="#healthcare" weight="9645" />
+      <edge id="29" source="#peerreview" target="#iro" weight="3215" />
+      <edge id="30" source="#peerreview" target="#healthcare" weight="3215" />
+      <edge id="31" source="#patientcentricity" target="#patientcentered" weight="9645" />
+      <edge id="32" source="#patientcentricity" target="#Quality" weight="3215" />
+      <edge id="33" source="#patientcentricity" target="#Healthcare" weight="3215" />
+      <edge id="34" source="#patientcentricity" target="#quality" weight="3215" />
+      <edge id="35" source="#efficiency" target="#reducecosts" weight="6430" />
+      <edge id="36" source="#efficiency" target="#healthplans" weight="19290" />
+      <edge id="37" source="#efficiency" target="#reducecost" weight="16075" />
+      <edge id="38" source="#efficiency" target="#iros" weight="6430" />
+      <edge id="39" source="#ExternalAppeals" target="#HealthPlan" weight="6430" />
+      <edge id="40" source="#MedicaidReform" target="#free" weight="3215" />
+      <edge id="41" source="#MedicaidReform" target="#pharmacy" weight="28935" />
+      <edge id="42" source="#MedicaidReform" target="#healthcare" weight="35365" />
+      <edge id="43" source="#MedicaidReform" target="#webinar" weight="19290" />
+      <edge id="44" source="#BehavioralHealth" target="#ACOs" weight="3215" />
+      <edge id="45" source="#BehavioralHealth" target="#brainweek" weight="19290" />
+      <edge id="46" source="#BehavioralHealth" target="#PrimaryCare" weight="3215" />
+      <edge id="47" source="#BehavioralHealth" target="#healthcare" weight="19290" />
+      <edge id="48" source="#BehavioralHealth" target="#mentalhealth" weight="41795" />
+      <edge id="49" source="#BehavioralHealth" target="#webinar" weight="28935" />
+      <edge id="50" source="#HIT" target="#HealthIT" weight="3215" />
+      <edge id="51" source="#Claim" target="#medicalcoding" weight="3215" />
+      <edge id="52" source="#Claim" target="#ICD10" weight="3215" />
+      <edge id="53" source="#Claim" target="#CMS" weight="3215" />
+      <edge id="54" source="#qualitydata" target="#healthcare" weight="3215" />
+      <edge id="55" source="#qualitydata" target="#Data" weight="3215" />
+      <edge id="56" source="#valuebased" target="#Payer" weight="3215" />
+      <edge id="57" source="#valuebased" target="#cybersecurity" weight="3215" />
+      <edge id="58" source="#valuebased" target="#Trends" weight="3215" />
+      <edge id="59" source="#valuebased" target="#healthplans" weight="3215" />
+      <edge id="60" source="#valuebased" target="#healthcare" weight="3215" />
+      <edge id="61" source="#valuebased" target="#data" weight="3215" />
+      <edge id="62" source="#NC" target="#Mentalhealth" weight="3215" />
+      <edge id="63" source="#NC" target="#behavioralhealth" weight="3215" />
+      <edge id="64" source="#NC" target="#healthcare" weight="3215" />
+      <edge id="65" source="#Obama" target="#Medicaid" weight="3215" />
+      <edge id="66" source="#Obama" target="#insurance" weight="3215" />
+      <edge id="67" source="#partnership" target="#IRO" weight="3215" />
+      <edge id="68" source="#partnership" target="#webinar" weight="3215" />
+      <edge id="69" source="#Hospitals" target="#Readmissions" weight="3215" />
+      <edge id="70" source="#free" target="#physicianburnout" weight="6430" />
+      <edge id="71" source="#free" target="#pharmacy" weight="3215" />
+      <edge id="72" source="#free" target="#BehavioralHealthIntegration" weight="6430" />
+      <edge id="73" source="#free" target="#HealthPlan" weight="3215" />
+      <edge id="74" source="#free" target="#webinar" weight="22505" />
+      <edge id="75" source="#ManagedCare" target="#mcos" weight="3215" />
+      <edge id="76" source="#ManagedCare" target="#Medicaid" weight="6430" />
+      <edge id="77" source="#ManagedCare" target="#healthcare" weight="3215" />
+      <edge id="78" source="#ICD10" target="#medicalcoding" weight="3215" />
+      <edge id="79" source="#ICD10" target="#CMS" weight="3215" />
+      <edge id="80" source="#BehavioralHealthIntegration" target="#webinar" weight="6430" />
+      <edge id="81" source="#healthplan" target="#insurance" weight="6430" />
+      <edge id="82" source="#healthplan" target="#pharmacy" weight="9645" />
+      <edge id="83" source="#healthplan" target="#healthcare" weight="9645" />
+      <edge id="84" source="#healthplan" target="#Policy" weight="6430" />
+      <edge id="85" source="#healthplan" target="#Accreditation" weight="9645" />
+      <edge id="86" source="#healthplan" target="#NCQA" weight="64300" />
+      <edge id="87" source="#PeerReview" target="#MedicalDirectors" weight="3215" />
+      <edge id="88" source="#PeerReview" target="#healthcare" weight="6430" />
+      <edge id="89" source="#biosimilar" target="#bigdata" weight="3215" />
+      <edge id="90" source="#biosimilar" target="#Healthcare" weight="3215" />
+      <edge id="91" source="#biosimilar" target="#costofcare" weight="3215" />
+      <edge id="92" source="#NCQA" target="#BHM" weight="3215" />
+      <edge id="93" source="#NCQA" target="#URAC" weight="70730" />
+      <edge id="94" source="#healthsystems" target="#Trends" weight="3215" />
+      <edge id="95" source="#healthsystems" target="#valuebasedpayments" weight="3215" />
+      <edge id="96" source="#healthsystems" target="#Payer" weight="3215" />
+      <edge id="97" source="#healthsystems" target="#healthcare" weight="3215" />
+      <edge id="98" source="#healthsystems" target="#data" weight="3215" />
+      <edge id="99" source="#OpioidEpidemic" target="#Insurance" weight="6430" />
+      <edge id="100" source="#OpioidEpidemic" target="#Health" weight="6430" />
+      <edge id="101" source="#OpioidEpidemic" target="#healthcare" weight="16075" />
+      <edge id="102" source="#OpioidEpidemic" target="#Data" weight="3215" />
+      <edge id="103" source="#OpioidEpidemic" target="#bigdata" weight="3215" />
+      <edge id="104" source="#OpioidEpidemic" target="#addiction" weight="3215" />
+      <edge id="105" source="#PaymentModels" target="#Healthcare" weight="3215" />
+      <edge id="106" source="#Engagement" target="#healthcare" weight="19290" />
+      <edge id="107" source="#Engagement" target="#Physician" weight="38580" />
+      <edge id="108" source="#WorkersCompensation" target="#healthcare" weight="6430" />
+      <edge id="109" source="#WorkersCompensation" target="#Claims" weight="16075" />
+      <edge id="110" source="#healthplans" target="#iros" weight="6430" />
+      <edge id="111" source="#healthplans" target="#Payer" weight="3215" />
+      <edge id="112" source="#healthplans" target="#data" weight="3215" />
+      <edge id="113" source="#healthplans" target="#Trends" weight="3215" />
+      <edge id="114" source="#healthplans" target="#reducecost" weight="12860" />
+      <edge id="115" source="#healthplans" target="#ACA" weight="3215" />
+      <edge id="116" source="#healthplans" target="#healthcare" weight="3215" />
+      <edge id="117" source="#healthplans" target="#cybersecurity" weight="3215" />
+      <edge id="118" source="#healthplans" target="#reducecosts" weight="6430" />
+      <edge id="119" source="#CIO" target="#Healthcare" weight="3215" />
+      <edge id="120" source="#HeartMonth" target="#ruralhealth" weight="3215" />
+      <edge id="121" source="#readmissions" target="#Healthcare" weight="3215" />
+      <edge id="122" source="#readmissions" target="#hospitals" weight="3215" />
+      <edge id="123" source="#Healthcare" target="#biosimilars" weight="3215" />
+      <edge id="124" source="#Healthcare" target="#PatientCentricity" weight="6430" />
+      <edge id="125" source="#Healthcare" target="#hospitals" weight="3215" />
+      <edge id="126" source="#Healthcare" target="#drugcosts" weight="3215" />
+      <edge id="127" source="#Healthcare" target="#webinar" weight="3215" />
+      <edge id="128" source="#Healthcare" target="#communitycare" weight="3215" />
+      <edge id="129" source="#Healthcare" target="#pharmacy" weight="12860" />
+      <edge id="130" source="#Healthcare" target="#BigData" weight="3215" />
+      <edge id="131" source="#Healthcare" target="#Webinar" weight="3215" />
+      <edge id="132" source="#Healthcare" target="#Infographic" weight="3215" />
+      <edge id="133" source="#Healthcare" target="#mhealth" weight="3215" />
+      <edge id="134" source="#Healthcare" target="#Quality" weight="22505" />
+      <edge id="135" source="#Healthcare" target="#costofcare" weight="3215" />
+      <edge id="136" source="#Healthcare" target="#cdc" weight="9645" />
+      <edge id="137" source="#Healthcare" target="#bigdata" weight="6430" />
+      <edge id="138" source="#Healthcare" target="#healthcare" weight="70730" />
+      <edge id="139" source="#Healthcare" target="#Reform" weight="16075" />
+      <edge id="140" source="#Healthcare" target="#Marketing" weight="6430" />
+      <edge id="141" source="#Healthcare" target="#patientcenteredcare" weight="6430" />
+      <edge id="142" source="#Healthcare" target="#patient" weight="6430" />
+      <edge id="143" source="#Healthcare" target="#Medicaid" weight="16075" />
+      <edge id="144" source="#Healthcare" target="#mentalhealth" weight="3215" />
+      <edge id="145" source="#Accreditation" target="#Pharmacy" weight="6430" />
+      <edge id="146" source="#Accreditation" target="#insurance" weight="6430" />
+      <edge id="147" source="#Accreditation" target="#pharmacy" weight="12860" />
+      <edge id="148" source="#Accreditation" target="#healthcare" weight="93235" />
+      <edge id="149" source="#Accreditation" target="#Policy" weight="6430" />
+      <edge id="150" source="#Accreditation" target="#urac" weight="3215" />
+      <edge id="151" source="#Webinar" target="#PatientCentricity" weight="3215" />
+      <edge id="152" source="#Webinar" target="#Quality" weight="3215" />
+      <edge id="153" source="#reducecost" target="#improve" weight="3215" />
+      <edge id="154" source="#rcm" target="#revenuecycle" weight="70730" />
+      <edge id="155" source="#rcm" target="#denialmangement" weight="70730" />
+      <edge id="156" source="#DataManagement" target="#pharmacy" weight="3215" />
+      <edge id="157" source="#DataManagement" target="#healthcare" weight="3215" />
+      <edge id="158" source="#Payer" target="#data" weight="6430" />
+      <edge id="159" source="#Payer" target="#Trends" weight="6430" />
+      <edge id="160" source="#Payer" target="#healthcare" weight="6430" />
+      <edge id="161" source="#Payer" target="#cybersecurity" weight="3215" />
+      <edge id="162" source="#Payer" target="#valuebasedpayments" weight="3215" />
+      <edge id="163" source="#opioid" target="#addiction" weight="3215" />
+      <edge id="164" source="#Patient" target="#Centricity" weight="3215" />
+      <edge id="165" source="#Patient" target="#Pharmacy" weight="6430" />
+      <edge id="166" source="#Patient" target="#patientcentered" weight="6430" />
+      <edge id="167" source="#Patient" target="#healthcare" weight="12860" />
+      <edge id="168" source="#HealthPlan" target="#Executives" weight="3215" />
+      <edge id="169" source="#HealthPlan" target="#live" weight="3215" />
+      <edge id="170" source="#HealthPlan" target="#Clinicians" weight="3215" />
+      <edge id="171" source="#HealthPlan" target="#Appeals" weight="16075" />
+      <edge id="172" source="#HealthPlan" target="#external" weight="6430" />
+      <edge id="173" source="#HealthPlan" target="#webinar" weight="9645" />
+      <edge id="174" source="#reducecosts" target="#iros" weight="6430" />
+      <edge id="175" source="#webinar" target="#Quality" weight="3215" />
+      <edge id="176" source="#webinar" target="#physicianburnout" weight="6430" />
+      <edge id="177" source="#webinar" target="#LimitedSpace" weight="3215" />
+      <edge id="178" source="#webinar" target="#pharmacy" weight="22505" />
+      <edge id="179" source="#webinar" target="#Appeals" weight="3215" />
+      <edge id="180" source="#webinar" target="#PatientCentricity" weight="9645" />
+      <edge id="181" source="#webinar" target="#healthcare" weight="3215" />
+      <edge id="182" source="#webinar" target="#medicaid" weight="12860" />
+      <edge id="183" source="#trends" target="#pharmacy" weight="3215" />
+      <edge id="184" source="#trends" target="#healthcare" weight="3215" />
+      <edge id="185" source="#trends" target="#bigdata" weight="3215" />
+      <edge id="186" source="#cms" target="#Hospital" weight="3215" />
+      <edge id="187" source="#cms" target="#healthcare" weight="3215" />
+      <edge id="188" source="#cms" target="#ahip" weight="3215" />
+      <edge id="189" source="#Concierge" target="#hospitals" weight="3215" />
+      <edge id="190" source="#accredited" target="#pharmacy" weight="3215" />
+      <edge id="191" source="#denialmangement" target="#revenuecycle" weight="141460" />
+      <edge id="192" source="#Pharma" target="#DigitalHealth" weight="3215" />
+      <edge id="193" source="#safety" target="#dignity" weight="3215" />
+      <edge id="194" source="#safety" target="#quality" weight="3215" />
+      <edge id="195" source="#safety" target="#integration" weight="3215" />
+      <edge id="196" source="#cdc" target="#pharmacy" weight="9645" />
+      <edge id="197" source="#HealthIT" target="#InfoSec" weight="3215" />
+      <edge id="198" source="#CadillacTax" target="#healthcare" weight="3215" />
+      <edge id="199" source="#Claims" target="#healthcare" weight="6430" />
+      <edge id="200" source="#Claims" target="#Data" weight="3215" />
+      <edge id="201" source="#PCMH" target="#healthcare" weight="3215" />
+      <edge id="202" source="#opioidaddiction" target="#mentalhealth" weight="3215" />
+      <edge id="203" source="#opioidaddiction" target="#healthcare" weight="3215" />
+      <edge id="204" source="#opioidaddiction" target="#mentalhealthmonth" weight="3215" />
+      <edge id="205" source="#hcr" target="#revenuecycle" weight="70730" />
+      <edge id="206" source="#specialtyrx" target="#pharmacy" weight="3215" />
+      <edge id="207" source="#Specialty" target="#Pharmacy" weight="6430" />
+      <edge id="208" source="#urac" target="#healthcare" weight="3215" />
+      <edge id="209" source="#integration" target="#quality" weight="3215" />
+      <edge id="210" source="#integration" target="#dignity" weight="3215" />
+      <edge id="211" source="#addiction" target="#healthcare" weight="3215" />
+      <edge id="212" source="#MedicalDirectors" target="#healthcare" weight="3215" />
+      <edge id="213" source="#Health" target="#opioidepidemic" weight="3215" />
+      <edge id="214" source="#Health" target="#Providers" weight="9645" />
+      <edge id="215" source="#Health" target="#Insurance" weight="6430" />
+      <edge id="216" source="#Health" target="#Insurers" weight="9645" />
+      <edge id="217" source="#Health" target="#healthcare" weight="22505" />
+      <edge id="218" source="#pharmacies" target="#pharmacy" weight="3215" />
+      <edge id="219" source="#denials" target="#healthcare" weight="64300" />
+      <edge id="220" source="#mentalhealth" target="#biosimilars" weight="3215" />
+      <edge id="221" source="#mentalhealth" target="#communitycare" weight="3215" />
+      <edge id="222" source="#mentalhealth" target="#bigdata" weight="3215" />
+      <edge id="223" source="#mentalhealth" target="#brainweek" weight="3215" />
+      <edge id="224" source="#mentalhealth" target="#healthcare" weight="12860" />
+      <edge id="225" source="#AD" target="#HIMSS16" weight="3215" />
+      <edge id="226" source="#AD" target="#CRM" weight="3215" />
+      <edge id="227" source="#AD" target="#mHealth" weight="3215" />
+      <edge id="228" source="#NPHWchat" target="#Pharmacy" weight="3215" />
+      <edge id="229" source="#NPHWchat" target="#MentalHealth" weight="3215" />
+      <edge id="230" source="#Telemedicine" target="#ATA2016" weight="3215" />
+      <edge id="231" source="#biosimilars" target="#communitycare" weight="3215" />
+      <edge id="232" source="#biosimilars" target="#bigdata" weight="3215" />
+      <edge id="233" source="#insurance" target="#pharmacy" weight="6430" />
+      <edge id="234" source="#insurance" target="#healthcare" weight="6430" />
+      <edge id="235" source="#insurance" target="#Policy" weight="6430" />
+      <edge id="236" source="#insurance" target="#Medicaid" weight="3215" />
+      <edge id="237" source="#ACOs" target="#pharmacy" weight="3215" />
+      <edge id="238" source="#ACOs" target="#healthcare" weight="12860" />
+      <edge id="239" source="#ACOs" target="#Payment" weight="3215" />
+      <edge id="240" source="#ACOs" target="#whitepaper" weight="3215" />
+      <edge id="241" source="#CRM" target="#HIMSS16" weight="3215" />
+      <edge id="242" source="#CRM" target="#mHealth" weight="3215" />
+      <edge id="243" source="#data" target="#Trends" weight="6430" />
+      <edge id="244" source="#data" target="#claims" weight="3215" />
+      <edge id="245" source="#data" target="#healthcare" weight="9645" />
+      <edge id="246" source="#data" target="#cybersecurity" weight="3215" />
+      <edge id="247" source="#data" target="#valuebasedpayments" weight="3215" />
+      <edge id="248" source="#data" target="#Medicare" weight="3215" />
+      <edge id="249" source="#aco" target="#healthcare" weight="6430" />
+      <edge id="250" source="#drugcosts" target="#pharmacy" weight="3215" />
+      <edge id="251" source="#drugcosts" target="#mhealth" weight="3215" />
+      <edge id="252" source="#URAC" target="#paymentreform" weight="3215" />
+      <edge id="253" source="#URAC" target="#macra" weight="3215" />
+      <edge id="254" source="#Act" target="#MentalHealth" weight="3215" />
+      <edge id="255" source="#Act" target="#behavioralhealth" weight="3215" />
+      <edge id="256" source="#Act" target="#healthcare" weight="3215" />
+      <edge id="257" source="#Marketing" target="#patientcenteredcare" weight="6430" />
+      <edge id="258" source="#Marketing" target="#PatientCentricity" weight="3215" />
+      <edge id="259" source="#Marketing" target="#hcsm" weight="3215" />
+      <edge id="260" source="#Executives" target="#Clinicians" weight="3215" />
+      <edge id="261" source="#quality" target="#dignity" weight="3215" />
+      <edge id="262" source="#Providers" target="#healthcare" weight="9645" />
+      <edge id="263" source="#Providers" target="#Insurers" weight="9645" />
+      <edge id="264" source="#Insurance" target="#healthcare" weight="6430" />
+      <edge id="265" source="#claims" target="#healthcare" weight="6430" />
+      <edge id="266" source="#claims" target="#Medicare" weight="3215" />
+      <edge id="267" source="#pharmacy" target="#pharmacists" weight="3215" />
+      <edge id="268" source="#pharmacy" target="#bigdata" weight="3215" />
+      <edge id="269" source="#pharmacy" target="#specialtypharmacy" weight="3215" />
+      <edge id="270" source="#pharmacy" target="#healthcare" weight="45010" />
+      <edge id="271" source="#pharmacy" target="#Policy" weight="6430" />
+      <edge id="272" source="#pharmacy" target="#mhealth" weight="3215" />
+      <edge id="273" source="#pharmacy" target="#Biosimilar" weight="3215" />
+      <edge id="274" source="#telemedicine" target="#patientcentered" weight="3215" />
+      <edge id="275" source="#telemedicine" target="#mhealth" weight="3215" />
+      <edge id="276" source="#telemedicine" target="#USDA" weight="3215" />
+      <edge id="277" source="#paymentreform" target="#macra" weight="3215" />
+      <edge id="278" source="#MentalHealth" target="#behavioralhealth" weight="3215" />
+      <edge id="279" source="#MentalHealth" target="#Pharmacy" weight="3215" />
+      <edge id="280" source="#MentalHealth" target="#SpecialtyPharmacy" weight="3215" />
+      <edge id="281" source="#MentalHealth" target="#healthcare" weight="6430" />
+      <edge id="282" source="#consulting" target="#BHM" weight="3215" />
+      <edge id="283" source="#consulting" target="#healthcare" weight="427595" />
+      <edge id="284" source="#DenialManagement" target="#healthcare" weight="3215" />
+      <edge id="285" source="#Physician" target="#healthcare" weight="38580" />
+      <edge id="286" source="#accreditation" target="#healthcare" weight="131815" />
+      <edge id="287" source="#CMS" target="#medicalcoding" weight="3215" />
+      <edge id="288" source="#revenuecycle" target="#healthcare" weight="70730" />
+      <edge id="289" source="#cybersecurity" target="#Trends" weight="3215" />
+      <edge id="290" source="#cybersecurity" target="#healthcare" weight="6430" />
+      <edge id="291" source="#Humana" target="#Aetna" weight="3215" />
+      <edge id="292" source="#Humana" target="#healthcare" weight="3215" />
+      <edge id="293" source="#Reform" target="#Medicaid" weight="41795" />
+      <edge id="294" source="#Reform" target="#healthcare" weight="16075" />
+      <edge id="295" source="#healthcaretrends" target="#healthcare" weight="67515" />
+      <edge id="296" source="#patientcenteredcare" target="#PatientCentricity" weight="3215" />
+      <edge id="297" source="#Aetna" target="#healthcare" weight="3215" />
+      <edge id="298" source="#mhealth" target="#patientcentered" weight="3215" />
+      <edge id="299" source="#casestudy" target="#healthcare" weight="3215" />
+      <edge id="300" source="#HIMSS16" target="#HITSMIND" weight="3215" />
+      <edge id="301" source="#HIMSS16" target="#mHealth" weight="6430" />
+      <edge id="302" source="#iro" target="#healthcare" weight="80375" />
+      <edge id="303" source="#whitepaper" target="#healthcare" weight="3215" />
+      <edge id="304" source="#whitepaper" target="#Payment" weight="3215" />
+      <edge id="305" source="#pharmacists" target="#healthcare" weight="3215" />
+      <edge id="306" source="#Payment" target="#healthcare" weight="3215" />
+      <edge id="307" source="#Hospital" target="#healthcare" weight="3215" />
+      <edge id="308" source="#Insurers" target="#healthcare" weight="9645" />
+      <edge id="309" source="#mcos" target="#Medicaid" weight="3215" />
+      <edge id="310" source="#mcos" target="#healthcare" weight="3215" />
+      <edge id="311" source="#PatientCentricity" target="#Quality" weight="3215" />
+      <edge id="312" source="#Mentalhealth" target="#behavioralhealth" weight="3215" />
+      <edge id="313" source="#Mentalhealth" target="#healthcare" weight="3215" />
+      <edge id="314" source="#Prescription" target="#Medicare" weight="3215" />
+      <edge id="315" source="#analytics" target="#innovation" weight="3215" />
+      <edge id="316" source="#analytics" target="#healthcare" weight="3215" />
+      <edge id="317" source="#communitycare" target="#bigdata" weight="3215" />
+      <edge id="318" source="#Trends" target="#healthcare" weight="6430" />
+      <edge id="319" source="#Trends" target="#valuebasedpayments" weight="3215" />
+      <edge id="320" source="#Data" target="#bigdata" weight="6430" />
+      <edge id="321" source="#Data" target="#healthcare" weight="12860" />
+      <edge id="322" source="#bigdata" target="#costofcare" weight="3215" />
+      <edge id="323" source="#bigdata" target="#healthcare" weight="12860" />
+      <edge id="324" source="#innovation" target="#healthcare" weight="3215" />
+      <edge id="325" source="#Telehealth" target="#healthcare" weight="3215" />
+      <edge id="326" source="#Pharmacy" target="#healthcare" weight="9645" />
+      <edge id="327" source="#Pharmacy" target="#patientcentered" weight="6430" />
+      <edge id="328" source="#BHM" target="#healthcare" weight="3215" />
+      <edge id="329" source="#healthcare" target="#valuebasedpayments" weight="3215" />
+      <edge id="330" source="#healthcare" target="#Policy" weight="6430" />
+      <edge id="331" source="#healthcare" target="#patientcentered" weight="6430" />
+      <edge id="332" source="#healthcare" target="#Medicaid" weight="19290" />
+      <edge id="333" source="#healthcare" target="#PrimaryCare" weight="3215" />
+      <edge id="334" source="#healthcare" target="#Necessity" weight="9645" />
+      <edge id="335" source="#healthcare" target="#behavioralhealth" weight="6430" />
+      <edge id="336" source="#healthcare" target="#ACO" weight="3215" />
+      <edge id="337" source="#healthcare" target="#Medicare" weight="3215" />
+      <edge id="338" source="#ACA" target="#Medicaid" weight="3215" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#PAnthers" label="#PAnthers" />
+      <node id="#OpenHouse" label="#OpenHouse" />
+      <node id="#MBA" label="#MBA" />
+      <node id="#physicianassistant" label="#physicianassistant" />
+      <node id="#FAFSA" label="#FAFSA" />
+      <node id="#earlyadmission" label="#earlyadmission" />
+      <node id="#graduation" label="#graduation" />
+      <node id="#RNjobs" label="#RNjobs" />
+      <node id="#panther15" label="#panther15" />
+      <node id="#ODUPanther" label="#ODUPanther" />
+      <node id="#PAweek" label="#PAweek" />
+      <node id="#OhioDominican" label="#OhioDominican" />
+      <node id="#NationalCatDay" label="#NationalCatDay" />
+      <node id="#PantherNation" label="#PantherNation" />
+      <node id="#ODU" label="#ODU" />
+      <node id="#BackToSchool" label="#BackToSchool" />
+      <node id="#SpringForward" label="#SpringForward" />
+      <node id="#welcomeback" label="#welcomeback" />
+      <node id="#congratsgrad" label="#congratsgrad" />
+      <node id="#OCEA" label="#OCEA" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#Cardiology" label="#Cardiology" />
+      <node id="#ODUArchives" label="#ODUArchives" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#PantherPride" label="#PantherPride" />
+      <node id="#ohiodominican" label="#ohiodominican" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#VirtualOpenHouse" label="#VirtualOpenHouse" />
+      <node id="#degree" label="#degree" />
+      <node id="#Panthers" label="#Panthers" />
+      <node id="#AskODUGrad" label="#AskODUGrad" />
+      <node id="#GraduateAdmissions" label="#GraduateAdmissions" />
+      <node id="#ohiowx" label="#ohiowx" />
+      <node id="#MSinSportManagement" label="#MSinSportManagement" />
+      <node id="#edhumor" label="#edhumor" />
+      <node id="#NSHMBAcbus" label="#NSHMBAcbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#PAnthers" target="#PAweek" weight="738" />
+      <edge id="1" source="#PAnthers" target="#ODU" weight="738" />
+      <edge id="2" source="#OpenHouse" target="#GraduateAdmissions" weight="1476" />
+      <edge id="3" source="#MBA" target="#VirtualOpenHouse" weight="3690" />
+      <edge id="4" source="#MBA" target="#ODU" weight="738" />
+      <edge id="5" source="#MBA" target="#MSinSportManagement" weight="738" />
+      <edge id="6" source="#MBA" target="#AskODUGrad" weight="738" />
+      <edge id="7" source="#physicianassistant" target="#earlyadmission" weight="738" />
+      <edge id="8" source="#FAFSA" target="#ODU" weight="1476" />
+      <edge id="9" source="#graduation" target="#ODU" weight="738" />
+      <edge id="10" source="#RNjobs" target="#Cardiology" weight="738" />
+      <edge id="11" source="#panther15" target="#congratsgrad" weight="738" />
+      <edge id="12" source="#ODUPanther" target="#NationalCatDay" weight="738" />
+      <edge id="13" source="#ODUPanther" target="#OhioDominican" weight="738" />
+      <edge id="14" source="#PAweek" target="#ODU" weight="738" />
+      <edge id="15" source="#OhioDominican" target="#NationalCatDay" weight="738" />
+      <edge id="16" source="#OhioDominican" target="#Panthers" weight="738" />
+      <edge id="17" source="#OhioDominican" target="#NSHMBAcbus" weight="738" />
+      <edge id="18" source="#PantherNation" target="#PantherPride" weight="738" />
+      <edge id="19" source="#ODU" target="#SpringForward" weight="738" />
+      <edge id="20" source="#BackToSchool" target="#edhumor" weight="738" />
+      <edge id="21" source="#welcomeback" target="#ohiodominican" weight="738" />
+      <edge id="22" source="#OCEA" target="#AskODUGrad" weight="738" />
+      <edge id="23" source="#TGIF" target="#ohiowx" weight="738" />
+      <edge id="24" source="#TGIF" target="#lifeincbus" weight="738" />
+      <edge id="25" source="#ODUArchives" target="#TBT" weight="738" />
+      <edge id="26" source="#motivation" target="#degree" weight="738" />
+      <edge id="27" source="#lifeincbus" target="#ohiowx" weight="1476" />
+      <edge id="28" source="#AskODUGrad" target="#MSinSportManagement" weight="738" />
+    </edges>
+  </graph>
+</gexf>

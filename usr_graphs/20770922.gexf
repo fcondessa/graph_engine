@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#indie" label="#indie" />
+      <node id="#PIPA" label="#PIPA" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#SOPA" label="#SOPA" />
+      <node id="#music" label="#music" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#indie" target="#columbus" weight="579" />
+      <edge id="1" source="#indie" target="#music" weight="579" />
+      <edge id="2" source="#PIPA" target="#SOPA" weight="1158" />
+      <edge id="3" source="#columbus" target="#music" weight="579" />
+    </edges>
+  </graph>
+</gexf>

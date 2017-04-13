@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Android" label="#Android" />
+      <node id="#platform" label="#platform" />
+      <node id="#impact" label="#impact" />
+      <node id="#TitleIII" label="#TitleIII" />
+      <node id="#securitylaws" label="#securitylaws" />
+      <node id="#Oregon" label="#Oregon" />
+      <node id="#JOBSAct" label="#JOBSAct" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#DCDemoDay" label="#DCDemoDay" />
+      <node id="#business" label="#business" />
+      <node id="#TED2013" label="#TED2013" />
+      <node id="#Roths" label="#Roths" />
+      <node id="#Startups" label="#Startups" />
+      <node id="#Convention" label="#Convention" />
+      <node id="#RealCapPittsburgh" label="#RealCapPittsburgh" />
+      <node id="#RealEstateCrowdfunding" label="#RealEstateCrowdfunding" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#indiegogo" label="#indiegogo" />
+      <node id="#BusinessDevelopmentCompany" label="#BusinessDevelopmentCompany" />
+      <node id="#Letstalkabout" label="#Letstalkabout" />
+      <node id="#realestateinvesting" label="#realestateinvesting" />
+      <node id="#Saves" label="#Saves" />
+      <node id="#StudentEntrepreneurship" label="#StudentEntrepreneurship" />
+      <node id="#JobsAct" label="#JobsAct" />
+      <node id="#segment" label="#segment" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#smallbusiness" label="#smallbusiness" />
+      <node id="#FF" label="#FF" />
+      <node id="#Kickstarter" label="#Kickstarter" />
+      <node id="#Business" label="#Business" />
+      <node id="#localeconomies" label="#localeconomies" />
+      <node id="#email" label="#email" />
+      <node id="#Plan" label="#Plan" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#Entrepreneurship" label="#Entrepreneurship" />
+      <node id="#ios" label="#ios" />
+      <node id="#placemaking" label="#placemaking" />
+      <node id="#CRM" label="#CRM" />
+      <node id="#crowdsourcing" label="#crowdsourcing" />
+      <node id="#Norway" label="#Norway" />
+      <node id="#free" label="#free" />
+      <node id="#crowdsource" label="#crowdsource" />
+      <node id="#JOBSact" label="#JOBSact" />
+      <node id="#e" label="#e" />
+      <node id="#equity" label="#equity" />
+      <node id="#resources" label="#resources" />
+      <node id="#crowdfund" label="#crowdfund" />
+      <node id="#startup" label="#startup" />
+      <node id="#fund" label="#fund" />
+      <node id="#angel" label="#angel" />
+      <node id="#Incubator" label="#Incubator" />
+      <node id="#socialentrepreneurship" label="#socialentrepreneurship" />
+      <node id="#investors" label="#investors" />
+      <node id="#Crowdfunding" label="#Crowdfunding" />
+      <node id="#BabyBoomers" label="#BabyBoomers" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#tax" label="#tax" />
+      <node id="#p2plending" label="#p2plending" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#Advisor" label="#Advisor" />
+      <node id="#crowdsourced" label="#crowdsourced" />
+      <node id="#san" label="#san" />
+      <node id="#kindnessofstrangers" label="#kindnessofstrangers" />
+      <node id="#jobsact" label="#jobsact" />
+      <node id="#download" label="#download" />
+      <node id="#crowdfinance2013" label="#crowdfinance2013" />
+      <node id="#506c" label="#506c" />
+      <node id="#nonprofits" label="#nonprofits" />
+      <node id="#startups" label="#startups" />
+      <node id="#wibiya" label="#wibiya" />
+      <node id="#CPAs" label="#CPAs" />
+      <node id="#Morningstar" label="#Morningstar" />
+      <node id="#rated" label="#rated" />
+      <node id="#network" label="#network" />
+      <node id="#VC" label="#VC" />
+      <node id="#app" label="#app" />
+      <node id="#capital" label="#capital" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Android" target="#ios" weight="3250" />
+      <edge id="1" source="#Android" target="#app" weight="3250" />
+      <edge id="2" source="#platform" target="#rated" weight="48750" />
+      <edge id="3" source="#impact" target="#TED2013" weight="3250" />
+      <edge id="4" source="#impact" target="#socialentrepreneurship" weight="3250" />
+      <edge id="5" source="#TitleIII" target="#crowdfunding" weight="3250" />
+      <edge id="6" source="#TitleIII" target="#DCDemoDay" weight="3250" />
+      <edge id="7" source="#securitylaws" target="#crowdfunding" weight="3250" />
+      <edge id="8" source="#securitylaws" target="#fund" weight="3250" />
+      <edge id="9" source="#securitylaws" target="#capital" weight="3250" />
+      <edge id="10" source="#securitylaws" target="#JOBSAct" weight="3250" />
+      <edge id="11" source="#Oregon" target="#Crowdfunding" weight="3250" />
+      <edge id="12" source="#Oregon" target="#DCDemoDay" weight="3250" />
+      <edge id="13" source="#JOBSAct" target="#crowdfunding" weight="3250" />
+      <edge id="14" source="#JOBSAct" target="#fund" weight="3250" />
+      <edge id="15" source="#JOBSAct" target="#capital" weight="3250" />
+      <edge id="16" source="#smallbiz" target="#crowdfunding" weight="3250" />
+      <edge id="17" source="#DCDemoDay" target="#crowdfunding" weight="3250" />
+      <edge id="18" source="#DCDemoDay" target="#Crowdfunding" weight="3250" />
+      <edge id="19" source="#business" target="#tax" weight="321750" />
+      <edge id="20" source="#business" target="#CPAs" weight="321750" />
+      <edge id="21" source="#TED2013" target="#socialentrepreneurship" weight="3250" />
+      <edge id="22" source="#Roths" target="#Letstalkabout" weight="3250" />
+      <edge id="23" source="#Startups" target="#Business" weight="620750" />
+      <edge id="24" source="#Startups" target="#Plan" weight="620750" />
+      <edge id="25" source="#Convention" target="#Crowdfunding" weight="3250" />
+      <edge id="26" source="#RealCapPittsburgh" target="#RealEstateCrowdfunding" weight="3250" />
+      <edge id="27" source="#Entrepreneurs" target="#Crowdfunding" weight="3250" />
+      <edge id="28" source="#Entrepreneurs" target="#jobsact" weight="3250" />
+      <edge id="29" source="#indiegogo" target="#crowdfunding" weight="3250" />
+      <edge id="30" source="#BusinessDevelopmentCompany" target="#Crowdfunding" weight="3250" />
+      <edge id="31" source="#realestateinvesting" target="#Crowdfunding" weight="3250" />
+      <edge id="32" source="#Saves" target="#resources" weight="715000" />
+      <edge id="33" source="#StudentEntrepreneurship" target="#Crowdfunding" weight="3250" />
+      <edge id="34" source="#JobsAct" target="#Crowdfunding" weight="3250" />
+      <edge id="35" source="#segment" target="#marketing" weight="705250" />
+      <edge id="36" source="#venturecapital" target="#506c" weight="3250" />
+      <edge id="37" source="#venturecapital" target="#crowdfunding" weight="3250" />
+      <edge id="38" source="#venturecapital" target="#jobsact" weight="3250" />
+      <edge id="39" source="#smallbusiness" target="#BabyBoomers" weight="3250" />
+      <edge id="40" source="#FF" target="#Crowdfunding" weight="3250" />
+      <edge id="41" source="#Kickstarter" target="#Crowdfunding" weight="3250" />
+      <edge id="42" source="#Business" target="#Plan" weight="620750" />
+      <edge id="43" source="#localeconomies" target="#placemaking" weight="3250" />
+      <edge id="44" source="#email" target="#marketing" weight="708500" />
+      <edge id="45" source="#crowdfunding" target="#entrepreneurs" weight="3250" />
+      <edge id="46" source="#crowdfunding" target="#506c" weight="3250" />
+      <edge id="47" source="#crowdfunding" target="#crowdfunding" weight="6500" />
+      <edge id="48" source="#crowdfunding" target="#Norway" weight="3250" />
+      <edge id="49" source="#crowdfunding" target="#crowdsource" weight="3250" />
+      <edge id="50" source="#crowdfunding" target="#equity" weight="6500" />
+      <edge id="51" source="#crowdfunding" target="#investors" weight="6500" />
+      <edge id="52" source="#crowdfunding" target="#startup" weight="3250" />
+      <edge id="53" source="#crowdfunding" target="#fund" weight="3250" />
+      <edge id="54" source="#crowdfunding" target="#angel" weight="3250" />
+      <edge id="55" source="#crowdfunding" target="#capital" weight="3250" />
+      <edge id="56" source="#crowdfunding" target="#san" weight="3250" />
+      <edge id="57" source="#crowdfunding" target="#kindnessofstrangers" weight="3250" />
+      <edge id="58" source="#crowdfunding" target="#jobsact" weight="3250" />
+      <edge id="59" source="#crowdfunding" target="#download" weight="3250" />
+      <edge id="60" source="#crowdfunding" target="#crowdfinance2013" weight="3250" />
+      <edge id="61" source="#crowdfunding" target="#nonprofits" weight="3250" />
+      <edge id="62" source="#crowdfunding" target="#startups" weight="3250" />
+      <edge id="63" source="#crowdfunding" target="#crowdsourcing" weight="3250" />
+      <edge id="64" source="#crowdfunding" target="#network" weight="3250" />
+      <edge id="65" source="#Entrepreneurship" target="#Crowdfunding" weight="3250" />
+      <edge id="66" source="#ios" target="#app" weight="3250" />
+      <edge id="67" source="#CRM" target="#free" weight="55250" />
+      <edge id="68" source="#crowdsourcing" target="#crowdsource" weight="9750" />
+      <edge id="69" source="#crowdsourcing" target="#Crowdfunding" weight="3250" />
+      <edge id="70" source="#crowdsourcing" target="#crowdsourced" weight="3250" />
+      <edge id="71" source="#crowdsource" target="#Crowdfunding" weight="3250" />
+      <edge id="72" source="#crowdsource" target="#crowdsourced" weight="3250" />
+      <edge id="73" source="#JOBSact" target="#Crowdfunding" weight="3250" />
+      <edge id="74" source="#e" target="#marketing" weight="52000" />
+      <edge id="75" source="#crowdfund" target="#VC" weight="3250" />
+      <edge id="76" source="#startup" target="#network" weight="3250" />
+      <edge id="77" source="#fund" target="#capital" weight="3250" />
+      <edge id="78" source="#Incubator" target="#Crowdfunding" weight="3250" />
+      <edge id="79" source="#investors" target="#entrepreneurs" weight="3250" />
+      <edge id="80" source="#Crowdfunding" target="#p2plending" weight="3250" />
+      <edge id="81" source="#Crowdfunding" target="#jobsact" weight="3250" />
+      <edge id="82" source="#Crowdfunding" target="#wibiya" weight="3250" />
+      <edge id="83" source="#tax" target="#CPAs" weight="321750" />
+      <edge id="84" source="#Advisor" target="#Morningstar" weight="715000" />
+      <edge id="85" source="#jobsact" target="#506c" weight="3250" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#MAGA" label="#MAGA" />
+      <node id="#bookstore" label="#bookstore" />
+      <node id="#font" label="#font" />
+      <node id="#Harris2016" label="#Harris2016" />
+      <node id="#PTSD" label="#PTSD" />
+      <node id="#916day" label="#916day" />
+      <node id="#OctoberSurprise" label="#OctoberSurprise" />
+      <node id="#FirstDog" label="#FirstDog" />
+      <node id="#Catholic" label="#Catholic" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#Zika" label="#Zika" />
+      <node id="#hate" label="#hate" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#orthodox" label="#orthodox" />
+      <node id="#GoodBoy" label="#GoodBoy" />
+      <node id="#atheism" label="#atheism" />
+      <node id="#climatechange" label="#climatechange" />
+      <node id="#bears" label="#bears" />
+      <node id="#bearpocalypse" label="#bearpocalypse" />
+      <node id="#piegate" label="#piegate" />
+      <node id="#farmtofist" label="#farmtofist" />
+      <node id="#name" label="#name" />
+      <node id="#dab" label="#dab" />
+      <node id="#SacramentoProud" label="#SacramentoProud" />
+      <node id="#Olympics2016" label="#Olympics2016" />
+      <node id="#atheist" label="#atheist" />
+      <node id="#JulianAssange" label="#JulianAssange" />
+      <node id="#cuddles" label="#cuddles" />
+      <node id="#MRA" label="#MRA" />
+      <node id="#prisons" label="#prisons" />
+      <node id="#content" label="#content" />
+      <node id="#thank" label="#thank" />
+      <node id="#Christian" label="#Christian" />
+      <node id="#OctoberSuprise" label="#OctoberSuprise" />
+      <node id="#relatable" label="#relatable" />
+      <node id="#EndlessApps" label="#EndlessApps" />
+      <node id="#doc" label="#doc" />
+      <node id="#incarceration" label="#incarceration" />
+      <node id="#WikiLeaks" label="#WikiLeaks" />
+      <node id="#OpeningCeremony" label="#OpeningCeremony" />
+      <node id="#atheistsin4words" label="#atheistsin4words" />
+      <node id="#love" label="#love" />
+      <node id="#rebrand" label="#rebrand" />
+      <node id="#landscapes" label="#landscapes" />
+      <node id="#pond" label="#pond" />
+      <node id="#Harambe" label="#Harambe" />
+      <node id="#PuertoRico" label="#PuertoRico" />
+      <node id="#friend" label="#friend" />
+      <node id="#USA" label="#USA" />
+      <node id="#SwimU" label="#SwimU" />
+      <node id="#TooMuchTooDrink" label="#TooMuchTooDrink" />
+      <node id="#CalBearsInRio" label="#CalBearsInRio" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#intersectional" label="#intersectional" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#nofilter" target="#pond" weight="3216" />
+      <edge id="1" source="#MAGA" target="#ImWithHer" weight="3216" />
+      <edge id="2" source="#MAGA" target="#OctoberSurprise" weight="3216" />
+      <edge id="3" source="#bookstore" target="#Christian" weight="3216" />
+      <edge id="4" source="#font" target="#thank" weight="3216" />
+      <edge id="5" source="#font" target="#friend" weight="3216" />
+      <edge id="6" source="#font" target="#name" weight="3216" />
+      <edge id="7" source="#Harris2016" target="#dab" weight="3216" />
+      <edge id="8" source="#PTSD" target="#Trump" weight="3216" />
+      <edge id="9" source="#916day" target="#SacramentoProud" weight="3216" />
+      <edge id="10" source="#OctoberSurprise" target="#ImWithHer" weight="3216" />
+      <edge id="11" source="#FirstDog" target="#GoodBoy" weight="3216" />
+      <edge id="12" source="#Catholic" target="#orthodox" weight="3216" />
+      <edge id="13" source="#Catholic" target="#rebrand" weight="3216" />
+      <edge id="14" source="#Catholic" target="#MRA" weight="3216" />
+      <edge id="15" source="#Congress" target="#USA" weight="3216" />
+      <edge id="16" source="#Congress" target="#PuertoRico" weight="3216" />
+      <edge id="17" source="#Congress" target="#Zika" weight="3216" />
+      <edge id="18" source="#Zika" target="#USA" weight="3216" />
+      <edge id="19" source="#Zika" target="#PuertoRico" weight="3216" />
+      <edge id="20" source="#hate" target="#love" weight="3216" />
+      <edge id="21" source="#orthodox" target="#rebrand" weight="3216" />
+      <edge id="22" source="#orthodox" target="#MRA" weight="3216" />
+      <edge id="23" source="#atheism" target="#intersectional" weight="3216" />
+      <edge id="24" source="#atheism" target="#cuddles" weight="3216" />
+      <edge id="25" source="#climatechange" target="#EndlessApps" weight="3216" />
+      <edge id="26" source="#bears" target="#bearpocalypse" weight="3216" />
+      <edge id="27" source="#piegate" target="#farmtofist" weight="6432" />
+      <edge id="28" source="#name" target="#thank" weight="3216" />
+      <edge id="29" source="#name" target="#friend" weight="3216" />
+      <edge id="30" source="#Olympics2016" target="#OpeningCeremony" weight="3216" />
+      <edge id="31" source="#atheist" target="#atheistsin4words" weight="3216" />
+      <edge id="32" source="#JulianAssange" target="#OctoberSuprise" weight="3216" />
+      <edge id="33" source="#JulianAssange" target="#WikiLeaks" weight="3216" />
+      <edge id="34" source="#cuddles" target="#intersectional" weight="3216" />
+      <edge id="35" source="#MRA" target="#rebrand" weight="3216" />
+      <edge id="36" source="#prisons" target="#incarceration" weight="3216" />
+      <edge id="37" source="#prisons" target="#landscapes" weight="3216" />
+      <edge id="38" source="#content" target="#relatable" weight="3216" />
+      <edge id="39" source="#thank" target="#friend" weight="3216" />
+      <edge id="40" source="#thank" target="#doc" weight="3216" />
+      <edge id="41" source="#OctoberSuprise" target="#WikiLeaks" weight="3216" />
+      <edge id="42" source="#incarceration" target="#landscapes" weight="3216" />
+      <edge id="43" source="#Harambe" target="#TooMuchTooDrink" weight="3216" />
+      <edge id="44" source="#PuertoRico" target="#USA" weight="3216" />
+      <edge id="45" source="#SwimU" target="#CalBearsInRio" weight="3216" />
+    </edges>
+  </graph>
+</gexf>

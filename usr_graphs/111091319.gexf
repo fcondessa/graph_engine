@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#MeanGirls" label="#MeanGirls" />
+      <node id="#betternj" label="#betternj" />
+      <node id="#ArtsEd" label="#ArtsEd" />
+      <node id="#artseducation" label="#artseducation" />
+      <node id="#artsednow" label="#artsednow" />
+      <node id="#October3rd" label="#October3rd" />
+      <node id="#ArtsEdNJ" label="#ArtsEdNJ" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#MeanGirls" target="#October3rd" weight="120" />
+      <edge id="1" source="#betternj" target="#artsednow" weight="120" />
+      <edge id="2" source="#betternj" target="#ArtsEd" weight="120" />
+      <edge id="3" source="#artseducation" target="#artsednow" weight="120" />
+      <edge id="4" source="#artseducation" target="#ArtsEdNJ" weight="120" />
+      <edge id="5" source="#artsednow" target="#ArtsEdNJ" weight="120" />
+    </edges>
+  </graph>
+</gexf>

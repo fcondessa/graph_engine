@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Botany" label="#Botany" />
+      <node id="#PickawayCounty" label="#PickawayCounty" />
+      <node id="#Pizza" label="#Pizza" />
+      <node id="#fish" label="#fish" />
+      <node id="#industrial" label="#industrial" />
+      <node id="#CNG" label="#CNG" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#twinsburg" label="#twinsburg" />
+      <node id="#Mfg" label="#Mfg" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#events" label="#events" />
+      <node id="#BirdsRule" label="#BirdsRule" />
+      <node id="#Marcellus" label="#Marcellus" />
+      <node id="#plants" label="#plants" />
+      <node id="#NaturalGas" label="#NaturalGas" />
+      <node id="#EnvirotechOnline" label="#EnvirotechOnline" />
+      <node id="#energy" label="#energy" />
+      <node id="#streams" label="#streams" />
+      <node id="#AmericanEnergy" label="#AmericanEnergy" />
+      <node id="#CLESPARX" label="#CLESPARX" />
+      <node id="#water" label="#water" />
+      <node id="#B1G" label="#B1G" />
+      <node id="#LaborDay" label="#LaborDay" />
+      <node id="#wastewater" label="#wastewater" />
+      <node id="#backtoschool" label="#backtoschool" />
+      <node id="#OSUserves" label="#OSUserves" />
+      <node id="#WorldWaterDay" label="#WorldWaterDay" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#Greenbuild" label="#Greenbuild" />
+      <node id="#GreenInfrastructure" label="#GreenInfrastructure" />
+      <node id="#SoExcited" label="#SoExcited" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#work" label="#work" />
+      <node id="#summitmetroparks" label="#summitmetroparks" />
+      <node id="#carbon" label="#carbon" />
+      <node id="#GBIG" label="#GBIG" />
+      <node id="#Building" label="#Building" />
+      <node id="#WingedPlanet" label="#WingedPlanet" />
+      <node id="#wetlands" label="#wetlands" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Botany" target="#plants" weight="532" />
+      <edge id="1" source="#Botany" target="#PickawayCounty" weight="532" />
+      <edge id="2" source="#PickawayCounty" target="#plants" weight="532" />
+      <edge id="3" source="#Pizza" target="#Marcellus" weight="532" />
+      <edge id="4" source="#Pizza" target="#NaturalGas" weight="532" />
+      <edge id="5" source="#Pizza" target="#CNG" weight="532" />
+      <edge id="6" source="#fish" target="#water" weight="532" />
+      <edge id="7" source="#industrial" target="#water" weight="532" />
+      <edge id="8" source="#CNG" target="#NaturalGas" weight="532" />
+      <edge id="9" source="#CNG" target="#Marcellus" weight="532" />
+      <edge id="10" source="#CLE" target="#CLESPARX" weight="532" />
+      <edge id="11" source="#twinsburg" target="#summitmetroparks" weight="532" />
+      <edge id="12" source="#Mfg" target="#AmericanEnergy" weight="532" />
+      <edge id="13" source="#Mfg" target="#Marcellus" weight="532" />
+      <edge id="14" source="#Mfg" target="#Jobs" weight="532" />
+      <edge id="15" source="#Jobs" target="#NaturalGas" weight="532" />
+      <edge id="16" source="#Jobs" target="#Marcellus" weight="1064" />
+      <edge id="17" source="#Jobs" target="#AmericanEnergy" weight="1064" />
+      <edge id="18" source="#events" target="#OSUserves" weight="532" />
+      <edge id="19" source="#events" target="#GoBucks" weight="532" />
+      <edge id="20" source="#BirdsRule" target="#SoExcited" weight="532" />
+      <edge id="21" source="#BirdsRule" target="#WingedPlanet" weight="532" />
+      <edge id="22" source="#Marcellus" target="#AmericanEnergy" weight="1064" />
+      <edge id="23" source="#Marcellus" target="#NaturalGas" weight="1064" />
+      <edge id="24" source="#NaturalGas" target="#AmericanEnergy" weight="532" />
+      <edge id="25" source="#EnvirotechOnline" target="#wastewater" weight="532" />
+      <edge id="26" source="#energy" target="#Building" weight="532" />
+      <edge id="27" source="#streams" target="#wetlands" weight="532" />
+      <edge id="28" source="#water" target="#carbon" weight="532" />
+      <edge id="29" source="#B1G" target="#OSU" weight="532" />
+      <edge id="30" source="#LaborDay" target="#backtoschool" weight="532" />
+      <edge id="31" source="#LaborDay" target="#work" weight="532" />
+      <edge id="32" source="#backtoschool" target="#work" weight="532" />
+      <edge id="33" source="#OSUserves" target="#GoBucks" weight="532" />
+      <edge id="34" source="#WorldWaterDay" target="#GreenInfrastructure" weight="532" />
+      <edge id="35" source="#Greenbuild" target="#GBIG" weight="1064" />
+      <edge id="36" source="#SoExcited" target="#WingedPlanet" weight="532" />
+      <edge id="37" source="#GBIG" target="#GBIG" weight="1064" />
+    </edges>
+  </graph>
+</gexf>

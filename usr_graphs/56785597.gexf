@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#throwbackThursday" label="#throwbackThursday" />
+      <node id="#TheLorax" label="#TheLorax" />
+      <node id="#Weisenbach" label="#Weisenbach" />
+      <node id="#earthday" label="#earthday" />
+      <node id="#GreenColumbus" label="#GreenColumbus" />
+      <node id="#FoamFacts" label="#FoamFacts" />
+      <node id="#ZeroWaste" label="#ZeroWaste" />
+      <node id="#GreenGiant" label="#GreenGiant" />
+      <node id="#Westgate" label="#Westgate" />
+      <node id="#organic" label="#organic" />
+      <node id="#WNA" label="#WNA" />
+      <node id="#Recycling" label="#Recycling" />
+      <node id="#USZWBC" label="#USZWBC" />
+      <node id="#Polystyrene" label="#Polystyrene" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#constantcontact" label="#constantcontact" />
+      <node id="#Dart" label="#Dart" />
+      <node id="#KAB" label="#KAB" />
+      <node id="#styrofoam" label="#styrofoam" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#Nature" label="#Nature" />
+      <node id="#DartContainer" label="#DartContainer" />
+      <node id="#DrSeuss" label="#DrSeuss" />
+      <node id="#recycle" label="#recycle" />
+      <node id="#ecology" label="#ecology" />
+      <node id="#DART" label="#DART" />
+      <node id="#GreenAwards" label="#GreenAwards" />
+      <node id="#NatureConservancy" label="#NatureConservancy" />
+      <node id="#capslockday" label="#capslockday" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Recycled" label="#Recycled" />
+      <node id="#MadeInUSA" label="#MadeInUSA" />
+      <node id="#KOB2013" label="#KOB2013" />
+      <node id="#volunteer" label="#volunteer" />
+      <node id="#capsrecyclingday" label="#capsrecyclingday" />
+      <node id="#EPS" label="#EPS" />
+      <node id="#Recycle" label="#Recycle" />
+      <node id="#pickitup" label="#pickitup" />
+      <node id="#crarecyclingconference" label="#crarecyclingconference" />
+      <node id="#RecyclingisCool" label="#RecyclingisCool" />
+      <node id="#Update2010" label="#Update2010" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#throwbackThursday" target="#ecology" weight="873" />
+      <edge id="1" source="#TheLorax" target="#DrSeuss" weight="873" />
+      <edge id="2" source="#Weisenbach" target="#MadeInUSA" weight="873" />
+      <edge id="3" source="#Weisenbach" target="#DART" weight="873" />
+      <edge id="4" source="#Weisenbach" target="#EPS" weight="873" />
+      <edge id="5" source="#Weisenbach" target="#Recycle" weight="1746" />
+      <edge id="6" source="#Weisenbach" target="#FoamFacts" weight="1746" />
+      <edge id="7" source="#Weisenbach" target="#Dart" weight="873" />
+      <edge id="8" source="#Weisenbach" target="#styrofoam" weight="2619" />
+      <edge id="9" source="#Weisenbach" target="#DartContainer" weight="873" />
+      <edge id="10" source="#earthday" target="#Update2010" weight="873" />
+      <edge id="11" source="#GreenColumbus" target="#WNA" weight="873" />
+      <edge id="12" source="#GreenColumbus" target="#EarthDay" weight="873" />
+      <edge id="13" source="#GreenColumbus" target="#Westgate" weight="873" />
+      <edge id="14" source="#FoamFacts" target="#EPS" weight="873" />
+      <edge id="15" source="#FoamFacts" target="#Recycle" weight="873" />
+      <edge id="16" source="#FoamFacts" target="#DART" weight="873" />
+      <edge id="17" source="#FoamFacts" target="#styrofoam" weight="1746" />
+      <edge id="18" source="#FoamFacts" target="#DartContainer" weight="873" />
+      <edge id="19" source="#ZeroWaste" target="#USZWBC" weight="873" />
+      <edge id="20" source="#ZeroWaste" target="#Recycling" weight="873" />
+      <edge id="21" source="#GreenGiant" target="#GreenAwards" weight="873" />
+      <edge id="22" source="#Westgate" target="#WNA" weight="873" />
+      <edge id="23" source="#Westgate" target="#EarthDay" weight="873" />
+      <edge id="24" source="#organic" target="#organic" weight="1746" />
+      <edge id="25" source="#WNA" target="#EarthDay" weight="873" />
+      <edge id="26" source="#Recycling" target="#USZWBC" weight="873" />
+      <edge id="27" source="#Recycling" target="#Polystyrene" weight="873" />
+      <edge id="28" source="#Recycling" target="#KAB" weight="873" />
+      <edge id="29" source="#Recycling" target="#EPS" weight="873" />
+      <edge id="30" source="#Polystyrene" target="#KAB" weight="873" />
+      <edge id="31" source="#Polystyrene" target="#EPS" weight="873" />
+      <edge id="32" source="#constantcontact" target="#crarecyclingconference" weight="873" />
+      <edge id="33" source="#Dart" target="#styrofoam" weight="873" />
+      <edge id="34" source="#Dart" target="#Recycle" weight="873" />
+      <edge id="35" source="#KAB" target="#EPS" weight="873" />
+      <edge id="36" source="#KAB" target="#Recycle" weight="873" />
+      <edge id="37" source="#KAB" target="#RecyclingisCool" weight="873" />
+      <edge id="38" source="#KAB" target="#pickitup" weight="2619" />
+      <edge id="39" source="#KAB" target="#KOB2013" weight="873" />
+      <edge id="40" source="#styrofoam" target="#DART" weight="873" />
+      <edge id="41" source="#styrofoam" target="#EPS" weight="873" />
+      <edge id="42" source="#styrofoam" target="#Recycle" weight="1746" />
+      <edge id="43" source="#styrofoam" target="#DartContainer" weight="873" />
+      <edge id="44" source="#columbus" target="#volunteer" weight="873" />
+      <edge id="45" source="#Nature" target="#NatureConservancy" weight="873" />
+      <edge id="46" source="#DartContainer" target="#EPS" weight="873" />
+      <edge id="47" source="#recycle" target="#Columbus" weight="873" />
+      <edge id="48" source="#DART" target="#Recycle" weight="873" />
+      <edge id="49" source="#capslockday" target="#capsrecyclingday" weight="873" />
+      <edge id="50" source="#Recycled" target="#MadeInUSA" weight="1746" />
+      <edge id="51" source="#KOB2013" target="#RecyclingisCool" weight="873" />
+      <edge id="52" source="#KOB2013" target="#Recycle" weight="873" />
+      <edge id="53" source="#Recycle" target="#RecyclingisCool" weight="873" />
+    </edges>
+  </graph>
+</gexf>

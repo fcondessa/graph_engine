@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#CPG" label="#CPG" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#TechPitch" label="#TechPitch" />
+      <node id="#Macedonia" label="#Macedonia" />
+      <node id="#whatif" label="#whatif" />
+      <node id="#rev1venturenext" label="#rev1venturenext" />
+      <node id="#safeliteworks" label="#safeliteworks" />
+      <node id="#TradePromotion" label="#TradePromotion" />
+      <node id="#startuplife" label="#startuplife" />
+      <node id="#trade" label="#trade" />
+      <node id="#katch" label="#katch" />
+      <node id="#rev1ventutes" label="#rev1ventutes" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#whyizip" label="#whyizip" />
+      <node id="#Rev1DemoDay" label="#Rev1DemoDay" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#startupadvice" label="#startupadvice" />
+      <node id="#healthyyroster" label="#healthyyroster" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#startups" label="#startups" />
+      <node id="#rev1demoday" label="#rev1demoday" />
+      <node id="#Periscope" label="#Periscope" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#CPG" target="#TradePromotion" weight="104" />
+      <edge id="1" source="#smallbiz" target="#whyizip" weight="104" />
+      <edge id="2" source="#entrepreneurs" target="#startupadvice" weight="104" />
+      <edge id="3" source="#entrepreneurs" target="#startups" weight="104" />
+      <edge id="4" source="#TechPitch" target="#Startup" weight="104" />
+      <edge id="5" source="#Macedonia" target="#trade" weight="104" />
+      <edge id="6" source="#whatif" target="#cbusproud" weight="208" />
+      <edge id="7" source="#rev1venturenext" target="#rev1demoday" weight="104" />
+      <edge id="8" source="#safeliteworks" target="#rev1ventutes" weight="104" />
+      <edge id="9" source="#startuplife" target="#lifeincbus" weight="104" />
+      <edge id="10" source="#katch" target="#Rev1DemoDay" weight="104" />
+      <edge id="11" source="#katch" target="#Periscope" weight="104" />
+      <edge id="12" source="#Rev1DemoDay" target="#Periscope" weight="104" />
+      <edge id="13" source="#startupadvice" target="#startups" weight="104" />
+      <edge id="14" source="#healthyyroster" target="#rev1demoday" weight="104" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#goodnews" label="#goodnews" />
+      <node id="#brandarmy" label="#brandarmy" />
+      <node id="#zmot" label="#zmot" />
+      <node id="#TheTwitterCall" label="#TheTwitterCall" />
+      <node id="#campaign" label="#campaign" />
+      <node id="#search" label="#search" />
+      <node id="#GoRed" label="#GoRed" />
+      <node id="#NetBaseLive" label="#NetBaseLive" />
+      <node id="#blue" label="#blue" />
+      <node id="#facebookalgorithms" label="#facebookalgorithms" />
+      <node id="#goodread" label="#goodread" />
+      <node id="#releases" label="#releases" />
+      <node id="#interesting" label="#interesting" />
+      <node id="#Nmdchat" label="#Nmdchat" />
+      <node id="#day48" label="#day48" />
+      <node id="#BestRockSong" label="#BestRockSong" />
+      <node id="#PIPA" label="#PIPA" />
+      <node id="#CFPChampionship" label="#CFPChampionship" />
+      <node id="#higheredmarketing" label="#higheredmarketing" />
+      <node id="#cityscape" label="#cityscape" />
+      <node id="#viral" label="#viral" />
+      <node id="#day45" label="#day45" />
+      <node id="#in" label="#in" />
+      <node id="#howto" label="#howto" />
+      <node id="#cmworld" label="#cmworld" />
+      <node id="#ai" label="#ai" />
+      <node id="#BuckeyeForLife" label="#BuckeyeForLife" />
+      <node id="#FinFree" label="#FinFree" />
+      <node id="#365project" label="#365project" />
+      <node id="#socialanalytics" label="#socialanalytics" />
+      <node id="#frenchfries" label="#frenchfries" />
+      <node id="#apple" label="#apple" />
+      <node id="#rain" label="#rain" />
+      <node id="#SharkFest" label="#SharkFest" />
+      <node id="#instagramhub" label="#instagramhub" />
+      <node id="#newyears" label="#newyears" />
+      <node id="#toolkit" label="#toolkit" />
+      <node id="#lost" label="#lost" />
+      <node id="#GetGlue" label="#GetGlue" />
+      <node id="#beer" label="#beer" />
+      <node id="#IUvsMICH" label="#IUvsMICH" />
+      <node id="#winning" label="#winning" />
+      <node id="#sunset" label="#sunset" />
+      <node id="#animals" label="#animals" />
+      <node id="#sharkmen" label="#sharkmen" />
+      <node id="#change" label="#change" />
+      <node id="#kipcamp" label="#kipcamp" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#day79" label="#day79" />
+      <node id="#study" label="#study" />
+      <node id="#nice" label="#nice" />
+      <node id="#cougartown" label="#cougartown" />
+      <node id="#KarlLagerfeld" label="#KarlLagerfeld" />
+      <node id="#apps" label="#apps" />
+      <node id="#communitymanagement" label="#communitymanagement" />
+      <node id="#win" label="#win" />
+      <node id="#hashtags" label="#hashtags" />
+      <node id="#timeline" label="#timeline" />
+      <node id="#amazeballs" label="#amazeballs" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#smm" label="#smm" />
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#tippingpoint" label="#tippingpoint" />
+      <node id="#project365" label="#project365" />
+      <node id="#blogs" label="#blogs" />
+      <node id="#HeyEverybody" label="#HeyEverybody" />
+      <node id="#boy" label="#boy" />
+      <node id="#personalstyle" label="#personalstyle" />
+      <node id="#city" label="#city" />
+      <node id="#day63" label="#day63" />
+      <node id="#nyfw" label="#nyfw" />
+      <node id="#measurement" label="#measurement" />
+      <node id="#morning" label="#morning" />
+      <node id="#day69" label="#day69" />
+      <node id="#day68" label="#day68" />
+      <node id="#SharkWeek" label="#SharkWeek" />
+      <node id="#beautiful" label="#beautiful" />
+      <node id="#NYE" label="#NYE" />
+      <node id="#sendingmylovetojames" label="#sendingmylovetojames" />
+      <node id="#trends" label="#trends" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#facebook" label="#facebook" />
+      <node id="#socialmediamarketing" label="#socialmediamarketing" />
+      <node id="#hahafacebook" label="#hahafacebook" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#policy" label="#policy" />
+      <node id="#identitythief" label="#identitythief" />
+      <node id="#shocker" label="#shocker" />
+      <node id="#tweets4toys" label="#tweets4toys" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#epicfail" label="#epicfail" />
+      <node id="#365daysofsky" label="#365daysofsky" />
+      <node id="#FF" label="#FF" />
+      <node id="#FB" label="#FB" />
+      <node id="#d" label="#d" />
+      <node id="#casestudy" label="#casestudy" />
+      <node id="#digital" label="#digital" />
+      <node id="#tumblr" label="#tumblr" />
+      <node id="#tressel" label="#tressel" />
+      <node id="#WhatNotToWear" label="#WhatNotToWear" />
+      <node id="#OnWisconsin" label="#OnWisconsin" />
+      <node id="#day16" label="#day16" />
+      <node id="#day17" label="#day17" />
+      <node id="#kentuckyderby" label="#kentuckyderby" />
+      <node id="#indy500" label="#indy500" />
+      <node id="#Glee" label="#Glee" />
+      <node id="#epicwin" label="#epicwin" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#instagram" label="#instagram" />
+      <node id="#PRfortheWin" label="#PRfortheWin" />
+      <node id="#USA" label="#USA" />
+      <node id="#fall" label="#fall" />
+      <node id="#healthyliving" label="#healthyliving" />
+      <node id="#copywriting" label="#copywriting" />
+      <node id="#day1" label="#day1" />
+      <node id="#terms" label="#terms" />
+      <node id="#day40" label="#day40" />
+      <node id="#voice" label="#voice" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#church" label="#church" />
+      <node id="#nmdchat" label="#nmdchat" />
+      <node id="#email" label="#email" />
+      <node id="#NMDayton" label="#NMDayton" />
+      <node id="#sitbythisguyatnmdayton" label="#sitbythisguyatnmdayton" />
+      <node id="#drawing" label="#drawing" />
+      <node id="#Snapchat" label="#Snapchat" />
+      <node id="#cantdecide" label="#cantdecide" />
+      <node id="#laws" label="#laws" />
+      <node id="#customerservice" label="#customerservice" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#clouds" label="#clouds" />
+      <node id="#culture" label="#culture" />
+      <node id="#sky" label="#sky" />
+      <node id="#styleguide" label="#styleguide" />
+      <node id="#SpringRTW2011" label="#SpringRTW2011" />
+      <node id="#darkbeer" label="#darkbeer" />
+      <node id="#day84" label="#day84" />
+      <node id="#baby" label="#baby" />
+      <node id="#crisiscommunication" label="#crisiscommunication" />
+      <node id="#food" label="#food" />
+      <node id="#writing" label="#writing" />
+      <node id="#osama" label="#osama" />
+      <node id="#sharkweek" label="#sharkweek" />
+      <node id="#memorial" label="#memorial" />
+      <node id="#SOPA" label="#SOPA" />
+      <node id="#influencers" label="#influencers" />
+      <node id="#campaigns" label="#campaigns" />
+      <node id="#storm" label="#storm" />
+      <node id="#MSUvsMICH" label="#MSUvsMICH" />
+      <node id="#americanidol" label="#americanidol" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#rw11" label="#rw11" />
+      <node id="#giveaway" label="#giveaway" />
+      <node id="#socialnerd" label="#socialnerd" />
+      <node id="#news" label="#news" />
+      <node id="#metrics" label="#metrics" />
+      <node id="#fashion" label="#fashion" />
+      <node id="#tweetchat" label="#tweetchat" />
+      <node id="#starbucks" label="#starbucks" />
+      <node id="#fashionweek" label="#fashionweek" />
+      <node id="#filterbubble" label="#filterbubble" />
+      <node id="#SummitUp" label="#SummitUp" />
+      <node id="#B1G" label="#B1G" />
+      <node id="#socialgraph" label="#socialgraph" />
+      <node id="#roi" label="#roi" />
+      <node id="#highered" label="#highered" />
+      <node id="#AmericanIdol" label="#AmericanIdol" />
+      <node id="#day30" label="#day30" />
+      <node id="#day32" label="#day32" />
+      <node id="#day33" label="#day33" />
+      <node id="#day38" label="#day38" />
+      <node id="#seo" label="#seo" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#troll" label="#troll" />
+      <node id="#WarmBodies" label="#WarmBodies" />
+      <node id="#wordpress" label="#wordpress" />
+      <node id="#AMNHTweetup" label="#AMNHTweetup" />
+      <node id="#day53" label="#day53" />
+      <node id="#obl" label="#obl" />
+      <node id="#Chanel" label="#Chanel" />
+      <node id="#Celine" label="#Celine" />
+      <node id="#google" label="#google" />
+      <node id="#goals" label="#goals" />
+      <node id="#car" label="#car" />
+      <node id="#ohiodrivers" label="#ohiodrivers" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#legal" label="#legal" />
+      <node id="#ShutTheFrontDoor" label="#ShutTheFrontDoor" />
+      <node id="#braggingwrights" label="#braggingwrights" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#hefe" label="#hefe" />
+      <node id="#sitnexttithisgutatnmdayton" label="#sitnexttithisgutatnmdayton" />
+      <node id="#socialmediatrends" label="#socialmediatrends" />
+      <node id="#music" label="#music" />
+      <node id="#day29" label="#day29" />
+      <node id="#addingittothelist" label="#addingittothelist" />
+      <node id="#day26" label="#day26" />
+      <node id="#day24" label="#day24" />
+      <node id="#GoRedForWomen" label="#GoRedForWomen" />
+      <node id="#day20" label="#day20" />
+      <node id="#fb" label="#fb" />
+      <node id="#contentmarketing" label="#contentmarketing" />
+      <node id="#BuckeyeLove" label="#BuckeyeLove" />
+      <node id="#blog" label="#blog" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#iphone5" label="#iphone5" />
+      <node id="#dust" label="#dust" />
+      <node id="#blogging" label="#blogging" />
+      <node id="#googleplus" label="#googleplus" />
+      <node id="#idol" label="#idol" />
+      <node id="#Friday" label="#Friday" />
+      <node id="#BrandArmy" label="#BrandArmy" />
+      <node id="#MusicMonday" label="#MusicMonday" />
+      <node id="#golf" label="#golf" />
+      <node id="#springRTW" label="#springRTW" />
+      <node id="#kids" label="#kids" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#megalodon" label="#megalodon" />
+      <node id="#gettingexcited" label="#gettingexcited" />
+      <node id="#PFY" label="#PFY" />
+      <node id="#cultureMASH" label="#cultureMASH" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#social" label="#social" />
+      <node id="#photography" label="#photography" />
+      <node id="#day58" label="#day58" />
+      <node id="#day59" label="#day59" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#GRAMMYs" label="#GRAMMYs" />
+      <node id="#day52" label="#day52" />
+      <node id="#wedding" label="#wedding" />
+      <node id="#Indie" label="#Indie" />
+      <node id="#loveit" label="#loveit" />
+      <node id="#pinterest" label="#pinterest" />
+      <node id="#socialgood" label="#socialgood" />
+      <node id="#sunrise" label="#sunrise" />
+      <node id="#ConfabEDU" label="#ConfabEDU" />
+      <node id="#day77" label="#day77" />
+      <node id="#impact" label="#impact" />
+      <node id="#GoBuckeyes" label="#GoBuckeyes" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#goodnews" target="#marketing" weight="2115" />
+      <edge id="1" source="#goodnews" target="#socialmedia" weight="2115" />
+      <edge id="2" source="#brandarmy" target="#sxsw" weight="2115" />
+      <edge id="3" source="#zmot" target="#cmworld" weight="2115" />
+      <edge id="4" source="#TheTwitterCall" target="#HeyEverybody" weight="2115" />
+      <edge id="5" source="#campaign" target="#socialmedia" weight="2115" />
+      <edge id="6" source="#search" target="#socialmedia" weight="2115" />
+      <edge id="7" source="#GoRed" target="#BuckeyeLove" weight="2115" />
+      <edge id="8" source="#GoRed" target="#GoRedForWomen" weight="2115" />
+      <edge id="9" source="#NetBaseLive" target="#culture" weight="2115" />
+      <edge id="10" source="#blue" target="#wedding" weight="2115" />
+      <edge id="11" source="#blue" target="#sky" weight="2115" />
+      <edge id="12" source="#blue" target="#day48" weight="2115" />
+      <edge id="13" source="#facebookalgorithms" target="#ConfabEDU" weight="2115" />
+      <edge id="14" source="#goodread" target="#socialmediamarketing" weight="2115" />
+      <edge id="15" source="#releases" target="#fall" weight="2115" />
+      <edge id="16" source="#releases" target="#gettingexcited" weight="2115" />
+      <edge id="17" source="#releases" target="#music" weight="2115" />
+      <edge id="18" source="#interesting" target="#filterbubble" weight="2115" />
+      <edge id="19" source="#Nmdchat" target="#hashtags" weight="2115" />
+      <edge id="20" source="#Nmdchat" target="#tweetchat" weight="2115" />
+      <edge id="21" source="#Nmdchat" target="#sitnexttithisgutatnmdayton" weight="2115" />
+      <edge id="22" source="#day48" target="#wedding" weight="2115" />
+      <edge id="23" source="#day48" target="#sky" weight="2115" />
+      <edge id="24" source="#day48" target="#car" weight="2115" />
+      <edge id="25" source="#BestRockSong" target="#GRAMMYs" weight="2115" />
+      <edge id="26" source="#PIPA" target="#SOPA" weight="2115" />
+      <edge id="27" source="#CFPChampionship" target="#GoBucks" weight="2115" />
+      <edge id="28" source="#higheredmarketing" target="#braggingwrights" weight="2115" />
+      <edge id="29" source="#cityscape" target="#instagramhub" weight="2115" />
+      <edge id="30" source="#cityscape" target="#day53" weight="2115" />
+      <edge id="31" source="#cityscape" target="#city" weight="2115" />
+      <edge id="32" source="#cityscape" target="#sunrise" weight="2115" />
+      <edge id="33" source="#cityscape" target="#sky" weight="2115" />
+      <edge id="34" source="#cityscape" target="#morning" weight="2115" />
+      <edge id="35" source="#viral" target="#marketing" weight="2115" />
+      <edge id="36" source="#viral" target="#socialmedia" weight="2115" />
+      <edge id="37" source="#day45" target="#nyfw" weight="4230" />
+      <edge id="38" source="#in" target="#cougartown" weight="2115" />
+      <edge id="39" source="#in" target="#FB" weight="2115" />
+      <edge id="40" source="#in" target="#fb" weight="21150" />
+      <edge id="41" source="#in" target="#SummitUp" weight="4230" />
+      <edge id="42" source="#in" target="#ai" weight="2115" />
+      <edge id="43" source="#in" target="#socialmedia" weight="2115" />
+      <edge id="44" source="#howto" target="#pinterest" weight="2115" />
+      <edge id="45" source="#howto" target="#socialmedia" weight="2115" />
+      <edge id="46" source="#cmworld" target="#blogs" weight="2115" />
+      <edge id="47" source="#ai" target="#fb" weight="2115" />
+      <edge id="48" source="#BuckeyeForLife" target="#B1G" weight="2115" />
+      <edge id="49" source="#BuckeyeForLife" target="#impact" weight="2115" />
+      <edge id="50" source="#FinFree" target="#SharkWeek" weight="2115" />
+      <edge id="51" source="#365project" target="#day63" weight="2115" />
+      <edge id="52" source="#365project" target="#coffee" weight="2115" />
+      <edge id="53" source="#365project" target="#starbucks" weight="2115" />
+      <edge id="54" source="#socialanalytics" target="#analytics" weight="2115" />
+      <edge id="55" source="#frenchfries" target="#instagramhub" weight="4230" />
+      <edge id="56" source="#apple" target="#iphone5" weight="8460" />
+      <edge id="57" source="#apple" target="#apple" weight="4230" />
+      <edge id="58" source="#rain" target="#sky" weight="2115" />
+      <edge id="59" source="#rain" target="#day68" weight="2115" />
+      <edge id="60" source="#SharkFest" target="#SharkFest" weight="4230" />
+      <edge id="61" source="#SharkFest" target="#SharkWeek" weight="4230" />
+      <edge id="62" source="#instagramhub" target="#day30" weight="4230" />
+      <edge id="63" source="#instagramhub" target="#day17" weight="2115" />
+      <edge id="64" source="#instagramhub" target="#day32" weight="4230" />
+      <edge id="65" source="#instagramhub" target="#day33" weight="4230" />
+      <edge id="66" source="#instagramhub" target="#photography" weight="2115" />
+      <edge id="67" source="#instagramhub" target="#day29" weight="4230" />
+      <edge id="68" source="#instagramhub" target="#day38" weight="4230" />
+      <edge id="69" source="#instagramhub" target="#day53" weight="2115" />
+      <edge id="70" source="#instagramhub" target="#day24" weight="4230" />
+      <edge id="71" source="#instagramhub" target="#day16" weight="4230" />
+      <edge id="72" source="#instagramhub" target="#city" weight="2115" />
+      <edge id="73" source="#instagramhub" target="#sunrise" weight="6345" />
+      <edge id="74" source="#instagramhub" target="#sky" weight="6345" />
+      <edge id="75" source="#instagramhub" target="#drawing" weight="4230" />
+      <edge id="76" source="#instagramhub" target="#day26" weight="4230" />
+      <edge id="77" source="#instagramhub" target="#morning" weight="2115" />
+      <edge id="78" source="#instagramhub" target="#day20" weight="4230" />
+      <edge id="79" source="#newyears" target="#NYE" weight="2115" />
+      <edge id="80" source="#toolkit" target="#voice" weight="2115" />
+      <edge id="81" source="#toolkit" target="#socialmedia" weight="2115" />
+      <edge id="82" source="#lost" target="#fb" weight="6345" />
+      <edge id="83" source="#GetGlue" target="#identitythief" weight="2115" />
+      <edge id="84" source="#GetGlue" target="#SharkWeek" weight="4230" />
+      <edge id="85" source="#GetGlue" target="#megalodon" weight="2115" />
+      <edge id="86" source="#GetGlue" target="#sharkweek" weight="2115" />
+      <edge id="87" source="#GetGlue" target="#WarmBodies" weight="2115" />
+      <edge id="88" source="#beer" target="#day77" weight="2115" />
+      <edge id="89" source="#IUvsMICH" target="#GoBucks" weight="2115" />
+      <edge id="90" source="#winning" target="#amazeballs" weight="2115" />
+      <edge id="91" source="#sunset" target="#project365" weight="2115" />
+      <edge id="92" source="#sunset" target="#day69" weight="2115" />
+      <edge id="93" source="#sunset" target="#day77" weight="2115" />
+      <edge id="94" source="#sunset" target="#sky" weight="6345" />
+      <edge id="95" source="#animals" target="#sky" weight="4230" />
+      <edge id="96" source="#sharkmen" target="#amazeballs" weight="2115" />
+      <edge id="97" source="#change" target="#socialmedia" weight="2115" />
+      <edge id="98" source="#kipcamp" target="#troll" weight="2115" />
+      <edge id="99" source="#kipcamp" target="#socialmedia" weight="2115" />
+      <edge id="100" source="#BuckeyeNation" target="#GoBuckeyes" weight="2115" />
+      <edge id="101" source="#day79" target="#sunrise" weight="2115" />
+      <edge id="102" source="#day79" target="#project365" weight="2115" />
+      <edge id="103" source="#day79" target="#sky" weight="2115" />
+      <edge id="104" source="#day79" target="#columbus" weight="2115" />
+      <edge id="105" source="#study" target="#trends" weight="2115" />
+      <edge id="106" source="#study" target="#socialmedia" weight="2115" />
+      <edge id="107" source="#nice" target="#sharkweek" weight="2115" />
+      <edge id="108" source="#cougartown" target="#fb" weight="2115" />
+      <edge id="109" source="#KarlLagerfeld" target="#Chanel" weight="2115" />
+      <edge id="110" source="#KarlLagerfeld" target="#fashionweek" weight="2115" />
+      <edge id="111" source="#KarlLagerfeld" target="#springRTW" weight="2115" />
+      <edge id="112" source="#apps" target="#facebook" weight="2115" />
+      <edge id="113" source="#apps" target="#campaigns" weight="4230" />
+      <edge id="114" source="#communitymanagement" target="#facebook" weight="2115" />
+      <edge id="115" source="#win" target="#contentmarketing" weight="2115" />
+      <edge id="116" source="#timeline" target="#strategy" weight="2115" />
+      <edge id="117" source="#timeline" target="#facebook" weight="2115" />
+      <edge id="118" source="#amazeballs" target="#fb" weight="4230" />
+      <edge id="119" source="#amazeballs" target="#sky" weight="2115" />
+      <edge id="120" source="#amazeballs" target="#healthyliving" weight="2115" />
+      <edge id="121" source="#amazeballs" target="#WhatNotToWear" weight="2115" />
+      <edge id="122" source="#amazeballs" target="#ShutTheFrontDoor" weight="2115" />
+      <edge id="123" source="#Cbus" target="#Dayton" weight="2115" />
+      <edge id="124" source="#Cbus" target="#Cincinnati" weight="2115" />
+      <edge id="125" source="#smm" target="#socialmediatrends" weight="2115" />
+      <edge id="126" source="#smm" target="#facebook" weight="2115" />
+      <edge id="127" source="#smm" target="#socialmedia" weight="2115" />
+      <edge id="128" source="#tippingpoint" target="#crisiscommunication" weight="2115" />
+      <edge id="129" source="#tippingpoint" target="#socialmedia" weight="2115" />
+      <edge id="130" source="#project365" target="#sunrise" weight="2115" />
+      <edge id="131" source="#project365" target="#sky" weight="4230" />
+      <edge id="132" source="#project365" target="#day84" weight="2115" />
+      <edge id="133" source="#project365" target="#day69" weight="2115" />
+      <edge id="134" source="#project365" target="#columbus" weight="2115" />
+      <edge id="135" source="#blogs" target="#wordpress" weight="2115" />
+      <edge id="136" source="#blogs" target="#blogging" weight="2115" />
+      <edge id="137" source="#boy" target="#day52" weight="2115" />
+      <edge id="138" source="#boy" target="#baby" weight="2115" />
+      <edge id="139" source="#boy" target="#kids" weight="2115" />
+      <edge id="140" source="#boy" target="#food" weight="2115" />
+      <edge id="141" source="#personalstyle" target="#fashion" weight="2115" />
+      <edge id="142" source="#personalstyle" target="#addingittothelist" weight="2115" />
+      <edge id="143" source="#city" target="#day53" weight="2115" />
+      <edge id="144" source="#city" target="#sunrise" weight="2115" />
+      <edge id="145" source="#city" target="#sky" weight="2115" />
+      <edge id="146" source="#city" target="#morning" weight="2115" />
+      <edge id="147" source="#day63" target="#coffee" weight="2115" />
+      <edge id="148" source="#day63" target="#starbucks" weight="2115" />
+      <edge id="149" source="#nyfw" target="#fb" weight="2115" />
+      <edge id="150" source="#measurement" target="#analytics" weight="4230" />
+      <edge id="151" source="#measurement" target="#socialmedia" weight="2115" />
+      <edge id="152" source="#measurement" target="#roi" weight="2115" />
+      <edge id="153" source="#morning" target="#day40" weight="2115" />
+      <edge id="154" source="#morning" target="#sunrise" weight="4230" />
+      <edge id="155" source="#morning" target="#sky" weight="4230" />
+      <edge id="156" source="#morning" target="#day53" weight="2115" />
+      <edge id="157" source="#day69" target="#sky" weight="2115" />
+      <edge id="158" source="#day68" target="#sky" weight="2115" />
+      <edge id="159" source="#SharkWeek" target="#megalodon" weight="2115" />
+      <edge id="160" source="#SharkWeek" target="#sharkweek" weight="2115" />
+      <edge id="161" source="#beautiful" target="#sky" weight="2115" />
+      <edge id="162" source="#beautiful" target="#365daysofsky" weight="2115" />
+      <edge id="163" source="#beautiful" target="#hefe" weight="2115" />
+      <edge id="164" source="#beautiful" target="#day1" weight="2115" />
+      <edge id="165" source="#beautiful" target="#clouds" weight="2115" />
+      <edge id="166" source="#sendingmylovetojames" target="#AmericanIdol" weight="2115" />
+      <edge id="167" source="#sendingmylovetojames" target="#fb" weight="2115" />
+      <edge id="168" source="#trends" target="#strategy" weight="2115" />
+      <edge id="169" source="#trends" target="#socialmedia" weight="10575" />
+      <edge id="170" source="#trends" target="#highered" weight="2115" />
+      <edge id="171" source="#BlackFriday" target="#loveit" weight="2115" />
+      <edge id="172" source="#facebook" target="#news" weight="2115" />
+      <edge id="173" source="#facebook" target="#campaigns" weight="2115" />
+      <edge id="174" source="#facebook" target="#strategy" weight="2115" />
+      <edge id="175" source="#facebook" target="#policy" weight="2115" />
+      <edge id="176" source="#facebook" target="#contentmarketing" weight="2115" />
+      <edge id="177" source="#facebook" target="#highered" weight="2115" />
+      <edge id="178" source="#facebook" target="#socialmedia" weight="19035" />
+      <edge id="179" source="#hahafacebook" target="#marketing" weight="2115" />
+      <edge id="180" source="#hahafacebook" target="#socialmedia" weight="2115" />
+      <edge id="181" source="#coffee" target="#starbucks" weight="2115" />
+      <edge id="182" source="#policy" target="#socialmedia" weight="2115" />
+      <edge id="183" source="#shocker" target="#marketing" weight="2115" />
+      <edge id="184" source="#shocker" target="#socialmedia" weight="2115" />
+      <edge id="185" source="#tweets4toys" target="#giveaway" weight="2115" />
+      <edge id="186" source="#analytics" target="#metrics" weight="2115" />
+      <edge id="187" source="#analytics" target="#google" weight="2115" />
+      <edge id="188" source="#analytics" target="#roi" weight="2115" />
+      <edge id="189" source="#analytics" target="#socialmedia" weight="8460" />
+      <edge id="190" source="#epicfail" target="#epicwin" weight="2115" />
+      <edge id="191" source="#365daysofsky" target="#sky" weight="2115" />
+      <edge id="192" source="#365daysofsky" target="#hefe" weight="2115" />
+      <edge id="193" source="#365daysofsky" target="#day1" weight="2115" />
+      <edge id="194" source="#365daysofsky" target="#clouds" weight="2115" />
+      <edge id="195" source="#FF" target="#NMDayton" weight="4230" />
+      <edge id="196" source="#FF" target="#sitbythisguyatnmdayton" weight="2115" />
+      <edge id="197" source="#FF" target="#darkbeer" weight="2115" />
+      <edge id="198" source="#FB" target="#SummitUp" weight="2115" />
+      <edge id="199" source="#FB" target="#Indie" weight="2115" />
+      <edge id="200" source="#FB" target="#MusicMonday" weight="2115" />
+      <edge id="201" source="#d" target="#wedding" weight="2115" />
+      <edge id="202" source="#d" target="#church" weight="2115" />
+      <edge id="203" source="#casestudy" target="#socialmedia" weight="2115" />
+      <edge id="204" source="#digital" target="#copywriting" weight="2115" />
+      <edge id="205" source="#tumblr" target="#marketing" weight="2115" />
+      <edge id="206" source="#tumblr" target="#socialmedia" weight="2115" />
+      <edge id="207" source="#tressel" target="#fb" weight="2115" />
+      <edge id="208" source="#OnWisconsin" target="#B1G" weight="2115" />
+      <edge id="209" source="#day16" target="#drawing" weight="4230" />
+      <edge id="210" source="#kentuckyderby" target="#fb" weight="2115" />
+      <edge id="211" source="#indy500" target="#fb" weight="2115" />
+      <edge id="212" source="#Glee" target="#Friday" weight="2115" />
+      <edge id="213" source="#GoBucks" target="#MSUvsMICH" weight="2115" />
+      <edge id="214" source="#instagram" target="#marketing" weight="2115" />
+      <edge id="215" source="#instagram" target="#socialmedia" weight="2115" />
+      <edge id="216" source="#PRfortheWin" target="#BrandArmy" weight="2115" />
+      <edge id="217" source="#USA" target="#sharkweek" weight="2115" />
+      <edge id="218" source="#fall" target="#music" weight="2115" />
+      <edge id="219" source="#fall" target="#gettingexcited" weight="2115" />
+      <edge id="220" source="#day1" target="#sky" weight="2115" />
+      <edge id="221" source="#day1" target="#hefe" weight="2115" />
+      <edge id="222" source="#day1" target="#clouds" weight="2115" />
+      <edge id="223" source="#terms" target="#socialmedia" weight="2115" />
+      <edge id="224" source="#day40" target="#sunrise" weight="2115" />
+      <edge id="225" source="#day40" target="#sky" weight="2115" />
+      <edge id="226" source="#voice" target="#socialmedia" weight="2115" />
+      <edge id="227" source="#Cincinnati" target="#Dayton" weight="2115" />
+      <edge id="228" source="#church" target="#wedding" weight="2115" />
+      <edge id="229" source="#nmdchat" target="#socialnerd" weight="2115" />
+      <edge id="230" source="#nmdchat" target="#highered" weight="14805" />
+      <edge id="231" source="#nmdchat" target="#nmdchat" weight="8460" />
+      <edge id="232" source="#email" target="#marketing" weight="2115" />
+      <edge id="233" source="#NMDayton" target="#darkbeer" weight="2115" />
+      <edge id="234" source="#Snapchat" target="#SocialMedia" weight="2115" />
+      <edge id="235" source="#cantdecide" target="#fb" weight="2115" />
+      <edge id="236" source="#laws" target="#legal" weight="2115" />
+      <edge id="237" source="#customerservice" target="#social" weight="2115" />
+      <edge id="238" source="#Pinterest" target="#strategy" weight="2115" />
+      <edge id="239" source="#clouds" target="#sky" weight="4230" />
+      <edge id="240" source="#clouds" target="#storm" weight="2115" />
+      <edge id="241" source="#clouds" target="#hefe" weight="2115" />
+      <edge id="242" source="#sky" target="#hefe" weight="2115" />
+      <edge id="243" source="#sky" target="#day33" weight="4230" />
+      <edge id="244" source="#sky" target="#storm" weight="2115" />
+      <edge id="245" source="#sky" target="#columbus" weight="2115" />
+      <edge id="246" source="#sky" target="#day77" weight="2115" />
+      <edge id="247" source="#sky" target="#day58" weight="2115" />
+      <edge id="248" source="#sky" target="#day59" weight="2115" />
+      <edge id="249" source="#sky" target="#day53" weight="2115" />
+      <edge id="250" source="#sky" target="#sunrise" weight="10575" />
+      <edge id="251" source="#sky" target="#wedding" weight="2115" />
+      <edge id="252" source="#styleguide" target="#strategy" weight="2115" />
+      <edge id="253" source="#styleguide" target="#goals" weight="2115" />
+      <edge id="254" source="#SpringRTW2011" target="#fashionweek" weight="2115" />
+      <edge id="255" source="#SpringRTW2011" target="#Celine" weight="2115" />
+      <edge id="256" source="#baby" target="#day52" weight="2115" />
+      <edge id="257" source="#baby" target="#food" weight="2115" />
+      <edge id="258" source="#baby" target="#kids" weight="2115" />
+      <edge id="259" source="#crisiscommunication" target="#socialmedia" weight="2115" />
+      <edge id="260" source="#food" target="#day52" weight="2115" />
+      <edge id="261" source="#food" target="#day58" weight="2115" />
+      <edge id="262" source="#food" target="#kids" weight="2115" />
+      <edge id="263" source="#writing" target="#contentmarketing" weight="2115" />
+      <edge id="264" source="#osama" target="#obl" weight="2115" />
+      <edge id="265" source="#sharkweek" target="#fb" weight="2115" />
+      <edge id="266" source="#sharkweek" target="#megalodon" weight="2115" />
+      <edge id="267" source="#memorial" target="#golf" weight="2115" />
+      <edge id="268" source="#memorial" target="#fb" weight="2115" />
+      <edge id="269" source="#influencers" target="#socialmedia" weight="2115" />
+      <edge id="270" source="#influencers" target="#socialgraph" weight="2115" />
+      <edge id="271" source="#campaigns" target="#socialmedia" weight="2115" />
+      <edge id="272" source="#americanidol" target="#idol" weight="2115" />
+      <edge id="273" source="#columbus" target="#sunrise" weight="2115" />
+      <edge id="274" source="#rw11" target="#fb" weight="4230" />
+      <edge id="275" source="#socialnerd" target="#highered" weight="2115" />
+      <edge id="276" source="#news" target="#highered" weight="2115" />
+      <edge id="277" source="#news" target="#socialmedia" weight="2115" />
+      <edge id="278" source="#news" target="#contentmarketing" weight="2115" />
+      <edge id="279" source="#metrics" target="#socialmedia" weight="2115" />
+      <edge id="280" source="#fashion" target="#blog" weight="2115" />
+      <edge id="281" source="#fashion" target="#addingittothelist" weight="2115" />
+      <edge id="282" source="#fashionweek" target="#springRTW" weight="2115" />
+      <edge id="283" source="#fashionweek" target="#Celine" weight="2115" />
+      <edge id="284" source="#fashionweek" target="#Chanel" weight="2115" />
+      <edge id="285" source="#SummitUp" target="#fb" weight="2115" />
+      <edge id="286" source="#socialgraph" target="#socialmedia" weight="2115" />
+      <edge id="287" source="#roi" target="#socialmedia" weight="2115" />
+      <edge id="288" source="#highered" target="#SocialMedia" weight="2115" />
+      <edge id="289" source="#highered" target="#socialmedia" weight="8460" />
+      <edge id="290" source="#highered" target="#marketing" weight="4230" />
+      <edge id="291" source="#AmericanIdol" target="#fb" weight="2115" />
+      <edge id="292" source="#day33" target="#sunrise" weight="4230" />
+      <edge id="293" source="#seo" target="#google" weight="2115" />
+      <edge id="294" source="#seo" target="#socialmedia" weight="2115" />
+      <edge id="295" source="#seo" target="#contentmarketing" weight="2115" />
+      <edge id="296" source="#Oscars" target="#dust" weight="2115" />
+      <edge id="297" source="#wordpress" target="#blogging" weight="2115" />
+      <edge id="298" source="#AMNHTweetup" target="#fb" weight="2115" />
+      <edge id="299" source="#day53" target="#sunrise" weight="2115" />
+      <edge id="300" source="#Chanel" target="#springRTW" weight="2115" />
+      <edge id="301" source="#google" target="#google" weight="4230" />
+      <edge id="302" source="#google" target="#googleplus" weight="4230" />
+      <edge id="303" source="#google" target="#socialmedia" weight="4230" />
+      <edge id="304" source="#goals" target="#strategy" weight="2115" />
+      <edge id="305" source="#ohiodrivers" target="#fb" weight="2115" />
+      <edge id="306" source="#strategy" target="#marketing" weight="2115" />
+      <edge id="307" source="#strategy" target="#socialmedia" weight="4230" />
+      <edge id="308" source="#music" target="#gettingexcited" weight="2115" />
+      <edge id="309" source="#GoRedForWomen" target="#BuckeyeLove" weight="2115" />
+      <edge id="310" source="#fb" target="#idol" weight="2115" />
+      <edge id="311" source="#fb" target="#golf" weight="2115" />
+      <edge id="312" source="#fb" target="#PFY" weight="2115" />
+      <edge id="313" source="#fb" target="#socialmedia" weight="4230" />
+      <edge id="314" source="#contentmarketing" target="#socialmedia" weight="2115" />
+      <edge id="315" source="#marketing" target="#pinterest" weight="2115" />
+      <edge id="316" source="#marketing" target="#socialmedia" weight="19035" />
+      <edge id="317" source="#iphone5" target="#iphone5" weight="4230" />
+      <edge id="318" source="#MusicMonday" target="#Indie" weight="2115" />
+      <edge id="319" source="#kids" target="#day52" weight="2115" />
+      <edge id="320" source="#twitter" target="#socialmedia" weight="2115" />
+      <edge id="321" source="#cultureMASH" target="#socialgood" weight="2115" />
+      <edge id="322" source="#socialmedia" target="#pinterest" weight="4230" />
+    </edges>
+  </graph>
+</gexf>

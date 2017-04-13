@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#wholefoods" label="#wholefoods" />
+      <node id="#Savor" label="#Savor" />
+      <node id="#savor" label="#savor" />
+      <node id="#livingsocial" label="#livingsocial" />
+      <node id="#marissa" label="#marissa" />
+      <node id="#stonebrewco" label="#stonebrewco" />
+      <node id="#churchkeydc" label="#churchkeydc" />
+      <node id="#brooklyninvasion" label="#brooklyninvasion" />
+      <node id="#homebrew" label="#homebrew" />
+      <node id="#dcbrews" label="#dcbrews" />
+      <node id="#homebrewing" label="#homebrewing" />
+      <node id="#FF" label="#FF" />
+      <node id="#DCbrews" label="#DCbrews" />
+      <node id="#beer" label="#beer" />
+      <node id="#stonegreg" label="#stonegreg" />
+      <node id="#dcinvadesaustin" label="#dcinvadesaustin" />
+      <node id="#epic" label="#epic" />
+      <node id="#cannedcraft" label="#cannedcraft" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#brewery" label="#brewery" />
+      <node id="#americanbeerweek" label="#americanbeerweek" />
+      <node id="#teamfriday" label="#teamfriday" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#wholefoods" target="#livingsocial" weight="248" />
+      <edge id="1" source="#Savor" target="#craftbeer" weight="496" />
+      <edge id="2" source="#savor" target="#teamfriday" weight="248" />
+      <edge id="3" source="#marissa" target="#dcinvadesaustin" weight="248" />
+      <edge id="4" source="#marissa" target="#epic" weight="248" />
+      <edge id="5" source="#stonebrewco" target="#churchkeydc" weight="248" />
+      <edge id="6" source="#stonebrewco" target="#stonegreg" weight="496" />
+      <edge id="7" source="#brooklyninvasion" target="#cannedcraft" weight="248" />
+      <edge id="8" source="#homebrew" target="#FF" weight="496" />
+      <edge id="9" source="#homebrew" target="#dcbrews" weight="992" />
+      <edge id="10" source="#homebrew" target="#beer" weight="248" />
+      <edge id="11" source="#dcbrews" target="#craftbeer" weight="496" />
+      <edge id="12" source="#dcbrews" target="#beer" weight="248" />
+      <edge id="13" source="#dcbrews" target="#homebrewing" weight="992" />
+      <edge id="14" source="#homebrewing" target="#beer" weight="248" />
+      <edge id="15" source="#DCbrews" target="#beer" weight="248" />
+      <edge id="16" source="#beer" target="#craftbeer" weight="496" />
+      <edge id="17" source="#dcinvadesaustin" target="#epic" weight="248" />
+      <edge id="18" source="#craftbeer" target="#brewery" weight="248" />
+      <edge id="19" source="#craftbeer" target="#americanbeerweek" weight="248" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BigOmaha" label="#BigOmaha" />
+      <node id="#StirTrek" label="#StirTrek" />
+      <node id="#SWCbus" label="#SWCbus" />
+      <node id="#LeanStartup" label="#LeanStartup" />
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#tsa" label="#tsa" />
+      <node id="#JOBSAct" label="#JOBSAct" />
+      <node id="#navmp" label="#navmp" />
+      <node id="#LBS" label="#LBS" />
+      <node id="#heug" label="#heug" />
+      <node id="#baconbar" label="#baconbar" />
+      <node id="#DevOps" label="#DevOps" />
+      <node id="#D11" label="#D11" />
+      <node id="#Kony2012" label="#Kony2012" />
+      <node id="#Amazon" label="#Amazon" />
+      <node id="#codeyear" label="#codeyear" />
+      <node id="#NavMP" label="#NavMP" />
+      <node id="#clojure" label="#clojure" />
+      <node id="#foursquare" label="#foursquare" />
+      <node id="#mindblown" label="#mindblown" />
+      <node id="#CodeMash" label="#CodeMash" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#howtopaythebills" label="#howtopaythebills" />
+      <node id="#goldenseedsACA" label="#goldenseedsACA" />
+      <node id="#contest" label="#contest" />
+      <node id="#eCommerce" label="#eCommerce" />
+      <node id="#GoWalla" label="#GoWalla" />
+      <node id="#didntknowmychildsSSN" label="#didntknowmychildsSSN" />
+      <node id="#yam" label="#yam" />
+      <node id="#Agile" label="#Agile" />
+      <node id="#TSAprecheck" label="#TSAprecheck" />
+      <node id="#polaris" label="#polaris" />
+      <node id="#gsb2012" label="#gsb2012" />
+      <node id="#MRC2010" label="#MRC2010" />
+      <node id="#startups" label="#startups" />
+      <node id="#bacon" label="#bacon" />
+      <node id="#nfjs" label="#nfjs" />
+      <node id="#datomic" label="#datomic" />
+      <node id="#giveaway" label="#giveaway" />
+      <node id="#sweepstakes" label="#sweepstakes" />
+      <node id="#Magento" label="#Magento" />
+      <node id="#Agile2015" label="#Agile2015" />
+      <node id="#macappstore" label="#macappstore" />
+      <node id="#Loopt" label="#Loopt" />
+      <node id="#leanstartup" label="#leanstartup" />
+      <node id="#applestore" label="#applestore" />
+      <node id="#GSB2012" label="#GSB2012" />
+      <node id="#InternetTrends" label="#InternetTrends" />
+      <node id="#fb" label="#fb" />
+      <node id="#FourSquare" label="#FourSquare" />
+      <node id="#VC" label="#VC" />
+      <node id="#startup" label="#startup" />
+      <node id="#BigTen" label="#BigTen" />
+      <node id="#CMH" label="#CMH" />
+      <node id="#communitybitches" label="#communitybitches" />
+      <node id="#mrc2010" label="#mrc2010" />
+      <node id="#continuousdelivery" label="#continuousdelivery" />
+      <node id="#ACASummit" label="#ACASummit" />
+      <node id="#SOPA" label="#SOPA" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#codemash" label="#codemash" />
+      <node id="#sxswi" label="#sxswi" />
+      <node id="#word" label="#word" />
+      <node id="#HR" label="#HR" />
+      <node id="#personaltechnologyradar" label="#personaltechnologyradar" />
+      <node id="#pricingtesting" label="#pricingtesting" />
+      <node id="#investor" label="#investor" />
+      <node id="#KualiDays" label="#KualiDays" />
+      <node id="#kualidays" label="#kualidays" />
+      <node id="#MR" label="#MR" />
+      <node id="#rejectedbigtendivisionnames" label="#rejectedbigtendivisionnames" />
+      <node id="#Angel" label="#Angel" />
+      <node id="#Scrum" label="#Scrum" />
+      <node id="#alliance12" label="#alliance12" />
+      <node id="#ultimatetwitterstudy" label="#ultimatetwitterstudy" />
+      <node id="#EverythingSucks" label="#EverythingSucks" />
+      <node id="#Austin" label="#Austin" />
+      <node id="#POS" label="#POS" />
+      <node id="#pinterest" label="#pinterest" />
+      <node id="#in" label="#in" />
+      <node id="#Management" label="#Management" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BigOmaha" target="#EverythingSucks" weight="1734" />
+      <edge id="1" source="#StirTrek" target="#mindblown" weight="1734" />
+      <edge id="2" source="#SWCbus" target="#gsb2012" weight="3468" />
+      <edge id="3" source="#LeanStartup" target="#sxsw" weight="1734" />
+      <edge id="4" source="#sxsw" target="#MRC2010" weight="1734" />
+      <edge id="5" source="#sxsw" target="#yam" weight="1734" />
+      <edge id="6" source="#sxsw" target="#communitybitches" weight="1734" />
+      <edge id="7" source="#sxsw" target="#howtopaythebills" weight="1734" />
+      <edge id="8" source="#tsa" target="#CMH" weight="1734" />
+      <edge id="9" source="#JOBSAct" target="#Kony2012" weight="1734" />
+      <edge id="10" source="#JOBSAct" target="#SOPA" weight="1734" />
+      <edge id="11" source="#navmp" target="#kualidays" weight="1734" />
+      <edge id="12" source="#LBS" target="#GoWalla" weight="1734" />
+      <edge id="13" source="#LBS" target="#Loopt" weight="1734" />
+      <edge id="14" source="#LBS" target="#FourSquare" weight="1734" />
+      <edge id="15" source="#heug" target="#alliance12" weight="1734" />
+      <edge id="16" source="#baconbar" target="#codemash" weight="1734" />
+      <edge id="17" source="#DevOps" target="#Agile2015" weight="1734" />
+      <edge id="18" source="#D11" target="#InternetTrends" weight="1734" />
+      <edge id="19" source="#Kony2012" target="#SOPA" weight="1734" />
+      <edge id="20" source="#Amazon" target="#Magento" weight="1734" />
+      <edge id="21" source="#codeyear" target="#codemash" weight="1734" />
+      <edge id="22" source="#NavMP" target="#KualiDays" weight="10404" />
+      <edge id="23" source="#NavMP" target="#kualidays" weight="1734" />
+      <edge id="24" source="#clojure" target="#continuousdelivery" weight="1734" />
+      <edge id="25" source="#clojure" target="#personaltechnologyradar" weight="1734" />
+      <edge id="26" source="#clojure" target="#datomic" weight="1734" />
+      <edge id="27" source="#clojure" target="#nfjs" weight="1734" />
+      <edge id="28" source="#foursquare" target="#sxswi" weight="1734" />
+      <edge id="29" source="#foursquare" target="#howtopaythebills" weight="1734" />
+      <edge id="30" source="#CodeMash" target="#bacon" weight="1734" />
+      <edge id="31" source="#swcbus" target="#GSB2012" weight="1734" />
+      <edge id="32" source="#swcbus" target="#gsb2012" weight="3468" />
+      <edge id="33" source="#howtopaythebills" target="#yam" weight="1734" />
+      <edge id="34" source="#howtopaythebills" target="#sxswi" weight="1734" />
+      <edge id="35" source="#goldenseedsACA" target="#ACASummit" weight="1734" />
+      <edge id="36" source="#contest" target="#sweepstakes" weight="1734" />
+      <edge id="37" source="#contest" target="#giveaway" weight="1734" />
+      <edge id="38" source="#eCommerce" target="#POS" weight="1734" />
+      <edge id="39" source="#GoWalla" target="#Loopt" weight="1734" />
+      <edge id="40" source="#GoWalla" target="#FourSquare" weight="1734" />
+      <edge id="41" source="#didntknowmychildsSSN" target="#TSAprecheck" weight="1734" />
+      <edge id="42" source="#Agile" target="#Scrum" weight="3468" />
+      <edge id="43" source="#polaris" target="#applestore" weight="1734" />
+      <edge id="44" source="#MRC2010" target="#MR" weight="1734" />
+      <edge id="45" source="#startups" target="#VC" weight="1734" />
+      <edge id="46" source="#nfjs" target="#continuousdelivery" weight="1734" />
+      <edge id="47" source="#nfjs" target="#datomic" weight="1734" />
+      <edge id="48" source="#nfjs" target="#personaltechnologyradar" weight="1734" />
+      <edge id="49" source="#datomic" target="#continuousdelivery" weight="1734" />
+      <edge id="50" source="#datomic" target="#personaltechnologyradar" weight="1734" />
+      <edge id="51" source="#giveaway" target="#sweepstakes" weight="1734" />
+      <edge id="52" source="#macappstore" target="#pricingtesting" weight="1734" />
+      <edge id="53" source="#Loopt" target="#FourSquare" weight="1734" />
+      <edge id="54" source="#leanstartup" target="#word" weight="1734" />
+      <edge id="55" source="#fb" target="#in" weight="1734" />
+      <edge id="56" source="#startup" target="#investor" weight="3468" />
+      <edge id="57" source="#startup" target="#Angel" weight="3468" />
+      <edge id="58" source="#BigTen" target="#rejectedbigtendivisionnames" weight="1734" />
+      <edge id="59" source="#mrc2010" target="#ultimatetwitterstudy" weight="1734" />
+      <edge id="60" source="#continuousdelivery" target="#personaltechnologyradar" weight="1734" />
+      <edge id="61" source="#ACASummit" target="#Austin" weight="1734" />
+      <edge id="62" source="#socialmedia" target="#pinterest" weight="1734" />
+      <edge id="63" source="#HR" target="#Management" weight="1734" />
+      <edge id="64" source="#investor" target="#Angel" weight="3468" />
+    </edges>
+  </graph>
+</gexf>

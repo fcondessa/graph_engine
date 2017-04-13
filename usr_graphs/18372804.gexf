@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NBAFinals2015" label="#NBAFinals2015" />
+      <node id="#jrsmiss" label="#jrsmiss" />
+      <node id="#jrsmith" label="#jrsmith" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NBAFinals2015" target="#jrsmiss" weight="69" />
+      <edge id="1" source="#NBAFinals2015" target="#jrsmith" weight="69" />
+      <edge id="2" source="#jrsmiss" target="#jrsmith" weight="69" />
+    </edges>
+  </graph>
+</gexf>

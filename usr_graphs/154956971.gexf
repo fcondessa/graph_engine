@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SoxSocial" label="#SoxSocial" />
+      <node id="#BiggerThanBaseball" label="#BiggerThanBaseball" />
+      <node id="#AintEvenMad" label="#AintEvenMad" />
+      <node id="#IrisWestToCatCo" label="#IrisWestToCatCo" />
+      <node id="#NLCS" label="#NLCS" />
+      <node id="#GoSox837" label="#GoSox837" />
+      <node id="#OTD" label="#OTD" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#GoSox358" label="#GoSox358" />
+      <node id="#FlyTheW" label="#FlyTheW" />
+      <node id="#HireIris" label="#HireIris" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SoxSocial" target="#GoSox837" weight="3204" />
+      <edge id="1" source="#SoxSocial" target="#GoSox358" weight="3204" />
+      <edge id="2" source="#BiggerThanBaseball" target="#AintEvenMad" weight="3204" />
+      <edge id="3" source="#IrisWestToCatCo" target="#HireIris" weight="3204" />
+      <edge id="4" source="#NLCS" target="#FlyTheW" weight="3204" />
+      <edge id="5" source="#OTD" target="#WorldSeries" weight="3204" />
+    </edges>
+  </graph>
+</gexf>

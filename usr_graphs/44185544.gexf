@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Freefont" label="#Freefont" />
+      <node id="#utoledo" label="#utoledo" />
+      <node id="#Airbag" label="#Airbag" />
+      <node id="#DLM" label="#DLM" />
+      <node id="#xfactor" label="#xfactor" />
+      <node id="#shrzngr" label="#shrzngr" />
+      <node id="#dcm13" label="#dcm13" />
+      <node id="#ref" label="#ref" />
+      <node id="#callallthemoms" label="#callallthemoms" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Freefont" target="#Airbag" weight="92" />
+      <edge id="1" source="#utoledo" target="#ref" weight="92" />
+      <edge id="2" source="#DLM" target="#dcm13" weight="92" />
+      <edge id="3" source="#xfactor" target="#callallthemoms" weight="92" />
+      <edge id="4" source="#xfactor" target="#shrzngr" weight="92" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#emptyglasscity" label="#emptyglasscity" />
+      <node id="#WeWontForget" label="#WeWontForget" />
+      <node id="#watercrisis" label="#watercrisis" />
+      <node id="#donkeycon" label="#donkeycon" />
+      <node id="#SB5" label="#SB5" />
+      <node id="#OurVoiceOurVote" label="#OurVoiceOurVote" />
+      <node id="#Issue2" label="#Issue2" />
+      <node id="#H2O4TOLEDO" label="#H2O4TOLEDO" />
+      <node id="#ThankYou" label="#ThankYou" />
+      <node id="#h2o4Toledo" label="#h2o4Toledo" />
+      <node id="#Toledo" label="#Toledo" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Ohio" target="#donkeycon" weight="88" />
+      <edge id="1" source="#emptyglasscity" target="#h2o4Toledo" weight="88" />
+      <edge id="2" source="#emptyglasscity" target="#Toledo" weight="88" />
+      <edge id="3" source="#WeWontForget" target="#OurVoiceOurVote" weight="88" />
+      <edge id="4" source="#watercrisis" target="#H2O4TOLEDO" weight="88" />
+      <edge id="5" source="#watercrisis" target="#Toledo" weight="88" />
+      <edge id="6" source="#SB5" target="#Issue2" weight="88" />
+      <edge id="7" source="#H2O4TOLEDO" target="#ThankYou" weight="88" />
+      <edge id="8" source="#H2O4TOLEDO" target="#Toledo" weight="176" />
+      <edge id="9" source="#ThankYou" target="#Toledo" weight="88" />
+      <edge id="10" source="#h2o4Toledo" target="#Toledo" weight="88" />
+    </edges>
+  </graph>
+</gexf>

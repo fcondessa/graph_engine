@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#groomsmendab" label="#groomsmendab" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#HealthyCBus" label="#HealthyCBus" />
+      <node id="#local" label="#local" />
+      <node id="#northmarket" label="#northmarket" />
+      <node id="#columbusthiscouldbeyoubutyouplayin" label="#columbusthiscouldbeyoubutyouplayin" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#agnerd" label="#agnerd" />
+      <node id="#alwaysimportant" label="#alwaysimportant" />
+      <node id="#TED" label="#TED" />
+      <node id="#gippsland" label="#gippsland" />
+      <node id="#dairylove" label="#dairylove" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#ootd" label="#ootd" />
+      <node id="#craft" label="#craft" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#MrMrsConley2015" label="#MrMrsConley2015" />
+      <node id="#in" label="#in" />
+      <node id="#whatif" label="#whatif" />
+      <node id="#demoday" label="#demoday" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#GetFresh" label="#GetFresh" />
+      <node id="#RogerEbert" label="#RogerEbert" />
+      <node id="#Eberthardatwork" label="#Eberthardatwork" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#ngtradar" label="#ngtradar" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#MH370" label="#MH370" />
+      <node id="#fb" label="#fb" />
+      <node id="#cbushelp" label="#cbushelp" />
+      <node id="#InstagramVideo" label="#InstagramVideo" />
+      <node id="#startup" label="#startup" />
+      <node id="#tbex" label="#tbex" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#wiwtd" label="#wiwtd" />
+      <node id="#Fatherhood" label="#Fatherhood" />
+      <node id="#10XDemoDay" label="#10XDemoDay" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#jobopportunities" label="#jobopportunities" />
+      <node id="#photos" label="#photos" />
+      <node id="#alwaysbusy" label="#alwaysbusy" />
+      <node id="#ShareTheNews" label="#ShareTheNews" />
+      <node id="#milk" label="#milk" />
+      <node id="#osu" label="#osu" />
+      <node id="#midwest" label="#midwest" />
+      <node id="#help" label="#help" />
+      <node id="#tech" label="#tech" />
+      <node id="#AirQuality" label="#AirQuality" />
+      <node id="#startups" label="#startups" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Parenting" label="#Parenting" />
+      <node id="#Columbus200" label="#Columbus200" />
+      <node id="#Yellowstone" label="#Yellowstone" />
+      <node id="#instgram" label="#instgram" />
+      <node id="#lp" label="#lp" />
+      <node id="#Reasons2GoVegan" label="#Reasons2GoVegan" />
+      <node id="#foodie" label="#foodie" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#groomsmendab" target="#MrMrsConley2015" weight="3201" />
+      <edge id="1" source="#jobs" target="#agnerd" weight="3201" />
+      <edge id="2" source="#jobs" target="#Ohio" weight="3201" />
+      <edge id="3" source="#HealthyCBus" target="#ShareTheNews" weight="3201" />
+      <edge id="4" source="#HealthyCBus" target="#GetFresh" weight="3201" />
+      <edge id="5" source="#local" target="#dairylove" weight="3201" />
+      <edge id="6" source="#northmarket" target="#cbus" weight="3201" />
+      <edge id="7" source="#columbusthiscouldbeyoubutyouplayin" target="#lifeincbus" weight="3201" />
+      <edge id="8" source="#entrepreneurs" target="#columbus" weight="3201" />
+      <edge id="9" source="#entrepreneurs" target="#startup" weight="3201" />
+      <edge id="10" source="#entrepreneurs" target="#fb" weight="3201" />
+      <edge id="11" source="#entrepreneurs" target="#in" weight="3201" />
+      <edge id="12" source="#entrepreneurs" target="#midwest" weight="3201" />
+      <edge id="13" source="#agnerd" target="#Ohio" weight="3201" />
+      <edge id="14" source="#alwaysimportant" target="#alwaysbusy" weight="3201" />
+      <edge id="15" source="#TED" target="#TED" weight="6402" />
+      <edge id="16" source="#gippsland" target="#MH370" weight="3201" />
+      <edge id="17" source="#Ohio" target="#tech" weight="3201" />
+      <edge id="18" source="#Ohio" target="#entrepreneur" weight="3201" />
+      <edge id="19" source="#Ohio" target="#milk" weight="3201" />
+      <edge id="20" source="#ootd" target="#wiwtd" weight="3201" />
+      <edge id="21" source="#craft" target="#Columbus" weight="6402" />
+      <edge id="22" source="#entrepreneur" target="#tech" weight="3201" />
+      <edge id="23" source="#in" target="#fb" weight="3201" />
+      <edge id="24" source="#in" target="#startup" weight="3201" />
+      <edge id="25" source="#in" target="#columbus" weight="3201" />
+      <edge id="26" source="#in" target="#midwest" weight="3201" />
+      <edge id="27" source="#whatif" target="#cbusproud" weight="3201" />
+      <edge id="28" source="#demoday" target="#10XDemoDay" weight="3201" />
+      <edge id="29" source="#demoday" target="#startups" weight="3201" />
+      <edge id="30" source="#Chicago" target="#Columbus" weight="3201" />
+      <edge id="31" source="#GetFresh" target="#ShareTheNews" weight="3201" />
+      <edge id="32" source="#RogerEbert" target="#Eberthardatwork" weight="3201" />
+      <edge id="33" source="#columbus" target="#fb" weight="3201" />
+      <edge id="34" source="#columbus" target="#midwest" weight="3201" />
+      <edge id="35" source="#columbus" target="#help" weight="6402" />
+      <edge id="36" source="#columbus" target="#startup" weight="3201" />
+      <edge id="37" source="#columbus" target="#cbus" weight="16005" />
+      <edge id="38" source="#ngtradar" target="#tbex" weight="3201" />
+      <edge id="39" source="#ngtradar" target="#lp" weight="3201" />
+      <edge id="40" source="#Energy" target="#jobopportunities" weight="3201" />
+      <edge id="41" source="#Energy" target="#AirQuality" weight="3201" />
+      <edge id="42" source="#EarthDay" target="#Reasons2GoVegan" weight="3201" />
+      <edge id="43" source="#fb" target="#startup" weight="3201" />
+      <edge id="44" source="#fb" target="#midwest" weight="3201" />
+      <edge id="45" source="#cbushelp" target="#cbus" weight="3201" />
+      <edge id="46" source="#InstagramVideo" target="#instgram" weight="3201" />
+      <edge id="47" source="#startup" target="#midwest" weight="3201" />
+      <edge id="48" source="#startup" target="#cbus" weight="3201" />
+      <edge id="49" source="#tbex" target="#lp" weight="3201" />
+      <edge id="50" source="#Fatherhood" target="#Parenting" weight="3201" />
+      <edge id="51" source="#10XDemoDay" target="#startups" weight="3201" />
+      <edge id="52" source="#Columbus" target="#cbus" weight="6402" />
+      <edge id="53" source="#Columbus" target="#Columbus200" weight="3201" />
+      <edge id="54" source="#Columbus" target="#foodie" weight="3201" />
+      <edge id="55" source="#jobopportunities" target="#AirQuality" weight="3201" />
+      <edge id="56" source="#photos" target="#Yellowstone" weight="3201" />
+      <edge id="57" source="#osu" target="#cbus" weight="3201" />
+      <edge id="58" source="#help" target="#cbus" weight="6402" />
+    </edges>
+  </graph>
+</gexf>

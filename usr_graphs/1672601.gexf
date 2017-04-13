@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#aspirational" label="#aspirational" />
+      <node id="#alsothetags" label="#alsothetags" />
+      <node id="#lettersandsodas" label="#lettersandsodas" />
+      <node id="#onejob" label="#onejob" />
+      <node id="#loyalty" label="#loyalty" />
+      <node id="#Slaughterhouse90210" label="#Slaughterhouse90210" />
+      <node id="#prophet" label="#prophet" />
+      <node id="#wowinagoodway" label="#wowinagoodway" />
+      <node id="#badsister" label="#badsister" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#goop" label="#goop" />
+      <node id="#brands" label="#brands" />
+      <node id="#itworked" label="#itworked" />
+      <node id="#creepy" label="#creepy" />
+      <node id="#TheClasp" label="#TheClasp" />
+      <node id="#butwhataboutafterapps" label="#butwhataboutafterapps" />
+      <node id="#aarp" label="#aarp" />
+      <node id="#chills" label="#chills" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#aspirational" target="#goop" weight="3237" />
+      <edge id="1" source="#alsothetags" target="#wowinagoodway" weight="3237" />
+      <edge id="2" source="#alsothetags" target="#butwhataboutafterapps" weight="3237" />
+      <edge id="3" source="#alsothetags" target="#prophet" weight="3237" />
+      <edge id="4" source="#lettersandsodas" target="#lettersandsodas" weight="6474" />
+      <edge id="5" source="#onejob" target="#badsister" weight="3237" />
+      <edge id="6" source="#loyalty" target="#brands" weight="3237" />
+      <edge id="7" source="#loyalty" target="#socialmedia" weight="3237" />
+      <edge id="8" source="#Slaughterhouse90210" target="#TheClasp" weight="3237" />
+      <edge id="9" source="#prophet" target="#wowinagoodway" weight="3237" />
+      <edge id="10" source="#prophet" target="#butwhataboutafterapps" weight="3237" />
+      <edge id="11" source="#wowinagoodway" target="#butwhataboutafterapps" weight="3237" />
+      <edge id="12" source="#socialmedia" target="#brands" weight="3237" />
+      <edge id="13" source="#itworked" target="#aarp" weight="3237" />
+      <edge id="14" source="#creepy" target="#chills" weight="3237" />
+    </edges>
+  </graph>
+</gexf>

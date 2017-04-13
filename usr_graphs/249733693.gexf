@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#earth" label="#earth" />
+      <node id="#ecochic" label="#ecochic" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#Stauff" label="#Stauff" />
+      <node id="#Grandview" label="#Grandview" />
+      <node id="#artist" label="#artist" />
+      <node id="#etsy" label="#etsy" />
+      <node id="#clintonville" label="#clintonville" />
+      <node id="#recycle" label="#recycle" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#etsyteamcbus" label="#etsyteamcbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#earth" target="#ecochic" weight="228" />
+      <edge id="1" source="#earth" target="#recycle" weight="228" />
+      <edge id="2" source="#earth" target="#artist" weight="228" />
+      <edge id="3" source="#earth" target="#etsy" weight="228" />
+      <edge id="4" source="#earth" target="#clintonville" weight="228" />
+      <edge id="5" source="#earth" target="#columbus" weight="228" />
+      <edge id="6" source="#ecochic" target="#recycle" weight="228" />
+      <edge id="7" source="#ecochic" target="#artist" weight="228" />
+      <edge id="8" source="#ecochic" target="#etsy" weight="228" />
+      <edge id="9" source="#ecochic" target="#clintonville" weight="228" />
+      <edge id="10" source="#ecochic" target="#columbus" weight="228" />
+      <edge id="11" source="#ecochic" target="#etsyteamcbus" weight="1596" />
+      <edge id="12" source="#coffee" target="#Stauff" weight="228" />
+      <edge id="13" source="#coffee" target="#Grandview" weight="228" />
+      <edge id="14" source="#Stauff" target="#Grandview" weight="228" />
+      <edge id="15" source="#artist" target="#recycle" weight="228" />
+      <edge id="16" source="#artist" target="#etsy" weight="228" />
+      <edge id="17" source="#artist" target="#clintonville" weight="228" />
+      <edge id="18" source="#artist" target="#columbus" weight="228" />
+      <edge id="19" source="#etsy" target="#recycle" weight="228" />
+      <edge id="20" source="#etsy" target="#clintonville" weight="228" />
+      <edge id="21" source="#etsy" target="#columbus" weight="228" />
+      <edge id="22" source="#clintonville" target="#recycle" weight="228" />
+      <edge id="23" source="#clintonville" target="#columbus" weight="228" />
+      <edge id="24" source="#recycle" target="#columbus" weight="228" />
+    </edges>
+  </graph>
+</gexf>

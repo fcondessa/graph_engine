@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#PassionPurposeProfit" label="#PassionPurposeProfit" />
+      <node id="#ShortNorth" label="#ShortNorth" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#giveback" label="#giveback" />
+      <node id="#investment" label="#investment" />
+      <node id="#kindnessheals" label="#kindnessheals" />
+      <node id="#greenspoonarmy" label="#greenspoonarmy" />
+      <node id="#socent" label="#socent" />
+      <node id="#MOOC" label="#MOOC" />
+      <node id="#CMHStartupWeek" label="#CMHStartupWeek" />
+      <node id="#awesomeideas" label="#awesomeideas" />
+      <node id="#smiles" label="#smiles" />
+      <node id="#FeedTheNeed" label="#FeedTheNeed" />
+      <node id="#ideas" label="#ideas" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#SWcbus" label="#SWcbus" />
+      <node id="#AccelerateNEO" label="#AccelerateNEO" />
+      <node id="#brainfood" label="#brainfood" />
+      <node id="#startups" label="#startups" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#APTE2016" label="#APTE2016" />
+      <node id="#hackohio" label="#hackohio" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+      <node id="#Repost" label="#Repost" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#cmhstartupweek" label="#cmhstartupweek" />
+      <node id="#pivot2016" label="#pivot2016" />
+      <node id="#tech" label="#tech" />
+      <node id="#thisiscbus" label="#thisiscbus" />
+      <node id="#PurposeDriven" label="#PurposeDriven" />
+      <node id="#APTE2015" label="#APTE2015" />
+      <node id="#bacon" label="#bacon" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#chasebasecamp" label="#chasebasecamp" />
+      <node id="#cbustech" label="#cbustech" />
+      <node id="#hydrationisreal" label="#hydrationisreal" />
+      <node id="#OSUideafest15" label="#OSUideafest15" />
+      <node id="#tweetception" label="#tweetception" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#impactinvesting" label="#impactinvesting" />
+      <node id="#ArtMakesCbus" label="#ArtMakesCbus" />
+      <node id="#StartupScaleup" label="#StartupScaleup" />
+      <node id="#wakeupstartup" label="#wakeupstartup" />
+      <node id="#SocEnt" label="#SocEnt" />
+      <node id="#chickentakeover" label="#chickentakeover" />
+      <node id="#OSUIdeafest15" label="#OSUIdeafest15" />
+      <node id="#impact" label="#impact" />
+      <node id="#ditchpoverty" label="#ditchpoverty" />
+      <node id="#community" label="#community" />
+      <node id="#OSUIdeaFest15" label="#OSUIdeaFest15" />
+      <node id="#AbesKitchen" label="#AbesKitchen" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#LifeinCbus" label="#LifeinCbus" />
+      <node id="#GiveBackHack" label="#GiveBackHack" />
+      <node id="#FeelTheNeed" label="#FeelTheNeed" />
+      <node id="#WakeupStartup" label="#WakeupStartup" />
+      <node id="#science" label="#science" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#givebackhack" label="#givebackhack" />
+      <node id="#grassroots" label="#grassroots" />
+      <node id="#ChaseBasecamp" label="#ChaseBasecamp" />
+      <node id="#health" label="#health" />
+      <node id="#socolumbus" label="#socolumbus" />
+      <node id="#HackCle" label="#HackCle" />
+      <node id="#independent" label="#independent" />
+      <node id="#peerpressure" label="#peerpressure" />
+      <node id="#id15" label="#id15" />
+      <node id="#eship" label="#eship" />
+      <node id="#busstopmoves" label="#busstopmoves" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#Aspire2015" label="#Aspire2015" />
+      <node id="#wusu" label="#wusu" />
+      <node id="#kiva" label="#kiva" />
+      <node id="#passionpurposeprofit" label="#passionpurposeprofit" />
+      <node id="#gbh2016" label="#gbh2016" />
+      <node id="#dogood" label="#dogood" />
+      <node id="#dev" label="#dev" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#startwithart" label="#startwithart" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#GBH15teams" label="#GBH15teams" />
+      <node id="#wcw" label="#wcw" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#socialgood" label="#socialgood" />
+      <node id="#swcolumbus" label="#swcolumbus" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#awesomecoffee" label="#awesomecoffee" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#PassionPurposeProfit" target="#columbus" weight="685" />
+      <edge id="1" source="#PassionPurposeProfit" target="#GiveBackHack" weight="685" />
+      <edge id="2" source="#ShortNorth" target="#startwithart" weight="685" />
+      <edge id="3" source="#Cbus" target="#passionpurposeprofit" weight="685" />
+      <edge id="4" source="#Cbus" target="#LifeinCbus" weight="685" />
+      <edge id="5" source="#Cbus" target="#health" weight="685" />
+      <edge id="6" source="#Cbus" target="#socent" weight="2055" />
+      <edge id="7" source="#Cbus" target="#entrepreneurship" weight="685" />
+      <edge id="8" source="#Cbus" target="#Ohio" weight="1370" />
+      <edge id="9" source="#Cbus" target="#eship" weight="685" />
+      <edge id="10" source="#Cbus" target="#givebackhack" weight="685" />
+      <edge id="11" source="#giveback" target="#columbus" weight="685" />
+      <edge id="12" source="#giveback" target="#cbus" weight="685" />
+      <edge id="13" source="#investment" target="#socent" weight="685" />
+      <edge id="14" source="#investment" target="#dogood" weight="685" />
+      <edge id="15" source="#investment" target="#impactinvesting" weight="685" />
+      <edge id="16" source="#kindnessheals" target="#science" weight="685" />
+      <edge id="17" source="#greenspoonarmy" target="#socent" weight="685" />
+      <edge id="18" source="#greenspoonarmy" target="#LifeinCbus" weight="685" />
+      <edge id="19" source="#greenspoonarmy" target="#cbus" weight="1370" />
+      <edge id="20" source="#greenspoonarmy" target="#Ohio" weight="685" />
+      <edge id="21" source="#socent" target="#wusu" weight="685" />
+      <edge id="22" source="#socent" target="#CLE" weight="685" />
+      <edge id="23" source="#socent" target="#GiveBackHack" weight="6165" />
+      <edge id="24" source="#socent" target="#passionpurposeprofit" weight="1370" />
+      <edge id="25" source="#socent" target="#gbh2016" weight="4795" />
+      <edge id="26" source="#socent" target="#dogood" weight="685" />
+      <edge id="27" source="#socent" target="#lifeincbus" weight="3425" />
+      <edge id="28" source="#socent" target="#MOOC" weight="685" />
+      <edge id="29" source="#socent" target="#Ohio" weight="1370" />
+      <edge id="30" source="#socent" target="#eship" weight="4795" />
+      <edge id="31" source="#socent" target="#givebackhack" weight="1370" />
+      <edge id="32" source="#socent" target="#awesomeideas" weight="685" />
+      <edge id="33" source="#socent" target="#OSUideafest15" weight="685" />
+      <edge id="34" source="#socent" target="#Columbus" weight="2740" />
+      <edge id="35" source="#socent" target="#impactinvesting" weight="2055" />
+      <edge id="36" source="#socent" target="#StartupScaleup" weight="685" />
+      <edge id="37" source="#socent" target="#Cleveland" weight="685" />
+      <edge id="38" source="#socent" target="#columbus" weight="4795" />
+      <edge id="39" source="#socent" target="#ArtMakesCbus" weight="685" />
+      <edge id="40" source="#socent" target="#tech" weight="685" />
+      <edge id="41" source="#socent" target="#startups" weight="1370" />
+      <edge id="42" source="#socent" target="#cbus" weight="30825" />
+      <edge id="43" source="#socent" target="#APTE2016" weight="685" />
+      <edge id="44" source="#socent" target="#awesomecoffee" weight="685" />
+      <edge id="45" source="#socent" target="#LifeInCbus" weight="685" />
+      <edge id="46" source="#socent" target="#ohio" weight="1370" />
+      <edge id="47" source="#CMHStartupWeek" target="#ChaseBasecamp" weight="685" />
+      <edge id="48" source="#awesomeideas" target="#awesomecoffee" weight="685" />
+      <edge id="49" source="#smiles" target="#ideas" weight="685" />
+      <edge id="50" source="#smiles" target="#community" weight="685" />
+      <edge id="51" source="#FeedTheNeed" target="#givebackhack" weight="685" />
+      <edge id="52" source="#ideas" target="#community" weight="685" />
+      <edge id="53" source="#Cleveland" target="#Startup" weight="685" />
+      <edge id="54" source="#Cleveland" target="#CLE" weight="685" />
+      <edge id="55" source="#Cleveland" target="#StartupScaleup" weight="685" />
+      <edge id="56" source="#Cleveland" target="#PurposeDriven" weight="685" />
+      <edge id="57" source="#SWcbus" target="#GiveBackHack" weight="685" />
+      <edge id="58" source="#AccelerateNEO" target="#busstopmoves" weight="685" />
+      <edge id="59" source="#AccelerateNEO" target="#GiveBackHack" weight="685" />
+      <edge id="60" source="#brainfood" target="#bacon" weight="685" />
+      <edge id="61" source="#startups" target="#columbus" weight="685" />
+      <edge id="62" source="#startups" target="#tech" weight="685" />
+      <edge id="63" source="#startups" target="#cbus" weight="685" />
+      <edge id="64" source="#startups" target="#GiveBackHack" weight="685" />
+      <edge id="65" source="#startups" target="#eship" weight="685" />
+      <edge id="66" source="#startups" target="#givebackhack" weight="685" />
+      <edge id="67" source="#cbus" target="#kiva" weight="685" />
+      <edge id="68" source="#cbus" target="#wusu" weight="685" />
+      <edge id="69" source="#cbus" target="#OSUIdeaFest15" weight="1370" />
+      <edge id="70" source="#cbus" target="#LifeinCbus" weight="685" />
+      <edge id="71" source="#cbus" target="#GiveBackHack" weight="5480" />
+      <edge id="72" source="#cbus" target="#passionpurposeprofit" weight="1370" />
+      <edge id="73" source="#cbus" target="#cmhstartupweek" weight="685" />
+      <edge id="74" source="#cbus" target="#swcolumbus" weight="685" />
+      <edge id="75" source="#cbus" target="#Columbus" weight="4110" />
+      <edge id="76" source="#cbus" target="#thisiscbus" weight="2055" />
+      <edge id="77" source="#cbus" target="#dev" weight="685" />
+      <edge id="78" source="#cbus" target="#columbus" weight="8220" />
+      <edge id="79" source="#cbus" target="#givebackhack" weight="2740" />
+      <edge id="80" source="#cbus" target="#cbustech" weight="685" />
+      <edge id="81" source="#cbus" target="#OSUideafest15" weight="685" />
+      <edge id="82" source="#cbus" target="#lifeincbus" weight="4795" />
+      <edge id="83" source="#cbus" target="#independent" weight="685" />
+      <edge id="84" source="#cbus" target="#eship" weight="6165" />
+      <edge id="85" source="#cbus" target="#wakeupstartup" weight="685" />
+      <edge id="86" source="#cbus" target="#SocEnt" weight="685" />
+      <edge id="87" source="#cbus" target="#tech" weight="1370" />
+      <edge id="88" source="#cbus" target="#APTE2015" weight="685" />
+      <edge id="89" source="#cbus" target="#OSUIdeafest15" weight="685" />
+      <edge id="90" source="#cbus" target="#LifeInCbus" weight="685" />
+      <edge id="91" source="#cbus" target="#ohio" weight="3425" />
+      <edge id="92" source="#APTE2016" target="#GiveBackHack" weight="685" />
+      <edge id="93" source="#hackohio" target="#tech" weight="685" />
+      <edge id="94" source="#hackohio" target="#ohio" weight="685" />
+      <edge id="95" source="#Repost" target="#wcw" weight="685" />
+      <edge id="96" source="#CLE" target="#eship" weight="685" />
+      <edge id="97" source="#CLE" target="#StartupScaleup" weight="1370" />
+      <edge id="98" source="#swcbus" target="#crowdfunding" weight="685" />
+      <edge id="99" source="#cmhstartupweek" target="#chasebasecamp" weight="685" />
+      <edge id="100" source="#pivot2016" target="#Columbus" weight="685" />
+      <edge id="101" source="#pivot2016" target="#givebackhack" weight="685" />
+      <edge id="102" source="#tech" target="#dev" weight="685" />
+      <edge id="103" source="#tech" target="#ohio" weight="685" />
+      <edge id="104" source="#tech" target="#columbus" weight="1370" />
+      <edge id="105" source="#tech" target="#givebackhack" weight="685" />
+      <edge id="106" source="#thisiscbus" target="#givebackhack" weight="685" />
+      <edge id="107" source="#thisiscbus" target="#GiveBackHack" weight="685" />
+      <edge id="108" source="#thisiscbus" target="#columbus" weight="685" />
+      <edge id="109" source="#thisiscbus" target="#independent" weight="685" />
+      <edge id="110" source="#PurposeDriven" target="#Startup" weight="685" />
+      <edge id="111" source="#APTE2015" target="#chickentakeover" weight="685" />
+      <edge id="112" source="#Ohio" target="#LifeinCbus" weight="685" />
+      <edge id="113" source="#Ohio" target="#health" weight="685" />
+      <edge id="114" source="#Ohio" target="#entrepreneurship" weight="685" />
+      <edge id="115" source="#Ohio" target="#Columbus" weight="685" />
+      <edge id="116" source="#cbustech" target="#lifeincbus" weight="685" />
+      <edge id="117" source="#hydrationisreal" target="#givebackhack" weight="685" />
+      <edge id="118" source="#OSUideafest15" target="#eship" weight="685" />
+      <edge id="119" source="#OSUideafest15" target="#GiveBackHack" weight="685" />
+      <edge id="120" source="#tweetception" target="#GiveBackHack" weight="685" />
+      <edge id="121" source="#lifeincbus" target="#Columbus" weight="1370" />
+      <edge id="122" source="#lifeincbus" target="#ohio" weight="685" />
+      <edge id="123" source="#lifeincbus" target="#columbus" weight="685" />
+      <edge id="124" source="#lifeincbus" target="#GiveBackHack" weight="1370" />
+      <edge id="125" source="#impactinvesting" target="#dogood" weight="685" />
+      <edge id="126" source="#StartupScaleup" target="#eship" weight="685" />
+      <edge id="127" source="#SocEnt" target="#peerpressure" weight="685" />
+      <edge id="128" source="#SocEnt" target="#CBUS" weight="685" />
+      <edge id="129" source="#impact" target="#Columbus" weight="685" />
+      <edge id="130" source="#impact" target="#socialgood" weight="685" />
+      <edge id="131" source="#ditchpoverty" target="#AbesKitchen" weight="685" />
+      <edge id="132" source="#ditchpoverty" target="#GiveBackHack" weight="685" />
+      <edge id="133" source="#OSUIdeaFest15" target="#eship" weight="1370" />
+      <edge id="134" source="#AbesKitchen" target="#GiveBackHack" weight="685" />
+      <edge id="135" source="#entrepreneurship" target="#LifeinCbus" weight="685" />
+      <edge id="136" source="#entrepreneurship" target="#health" weight="685" />
+      <edge id="137" source="#LifeinCbus" target="#id15" weight="685" />
+      <edge id="138" source="#LifeinCbus" target="#health" weight="685" />
+      <edge id="139" source="#LifeinCbus" target="#GiveBackHack" weight="685" />
+      <edge id="140" source="#GiveBackHack" target="#FeelTheNeed" weight="685" />
+      <edge id="141" source="#GiveBackHack" target="#eship" weight="1370" />
+      <edge id="142" source="#GiveBackHack" target="#columbus" weight="2055" />
+      <edge id="143" source="#GiveBackHack" target="#WakeupStartup" weight="685" />
+      <edge id="144" source="#GiveBackHack" target="#HackCle" weight="685" />
+      <edge id="145" source="#GiveBackHack" target="#busstopmoves" weight="685" />
+      <edge id="146" source="#GiveBackHack" target="#Columbus" weight="1370" />
+      <edge id="147" source="#columbus" target="#independent" weight="685" />
+      <edge id="148" source="#columbus" target="#ohio" weight="685" />
+      <edge id="149" source="#columbus" target="#dev" weight="685" />
+      <edge id="150" source="#columbus" target="#givebackhack" weight="685" />
+      <edge id="151" source="#givebackhack" target="#passionpurposeprofit" weight="685" />
+      <edge id="152" source="#givebackhack" target="#GBH15teams" weight="685" />
+      <edge id="153" source="#grassroots" target="#crowdfunding" weight="685" />
+      <edge id="154" source="#socolumbus" target="#expcols" weight="685" />
+      <edge id="155" source="#peerpressure" target="#CBUS" weight="685" />
+      <edge id="156" source="#eship" target="#Aspire2015" weight="685" />
+      <edge id="157" source="#eship" target="#Columbus" weight="685" />
+      <edge id="158" source="#ohio" target="#Columbus" weight="685" />
+      <edge id="159" source="#Aspire2015" target="#Columbus" weight="685" />
+      <edge id="160" source="#Columbus" target="#socialgood" weight="685" />
+    </edges>
+  </graph>
+</gexf>

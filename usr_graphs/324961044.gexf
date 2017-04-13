@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NIHinYourState" label="#NIHinYourState" />
+      <node id="#autism" label="#autism" />
+      <node id="#Alzheimer" label="#Alzheimer" />
+      <node id="#OSUNews" label="#OSUNews" />
+      <node id="#Phoenix" label="#Phoenix" />
+      <node id="#OSUontheroad" label="#OSUontheroad" />
+      <node id="#DOE" label="#DOE" />
+      <node id="#VBB3" label="#VBB3" />
+      <node id="#FCCatOSU" label="#FCCatOSU" />
+      <node id="#astronomy" label="#astronomy" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#OSUGrad12" label="#OSUGrad12" />
+      <node id="#news" label="#news" />
+      <node id="#dementia" label="#dementia" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#samesex" label="#samesex" />
+      <node id="#Research" label="#Research" />
+      <node id="#BuckeyePride" label="#BuckeyePride" />
+      <node id="#TheJames" label="#TheJames" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#spinalcordinjury" label="#spinalcordinjury" />
+      <node id="#botulism" label="#botulism" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#abcDrBchat" label="#abcDrBchat" />
+      <node id="#ObamaOSU" label="#ObamaOSU" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#NewYear" label="#NewYear" />
+      <node id="#OSU10000" label="#OSU10000" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#CFBPlayoff" label="#CFBPlayoff" />
+      <node id="#FCC" label="#FCC" />
+      <node id="#CFAES" label="#CFAES" />
+      <node id="#sciwri14" label="#sciwri14" />
+      <node id="#WiEGrow" label="#WiEGrow" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#StandWithOrlando" label="#StandWithOrlando" />
+      <node id="#running" label="#running" />
+      <node id="#Entrepreneurship" label="#Entrepreneurship" />
+      <node id="#GirlsinSTEM" label="#GirlsinSTEM" />
+      <node id="#outreach" label="#outreach" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#agricultural" label="#agricultural" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#resolution" label="#resolution" />
+      <node id="#CTSA" label="#CTSA" />
+      <node id="#BattleOfTheBands" label="#BattleOfTheBands" />
+      <node id="#HCS" label="#HCS" />
+      <node id="#climatechange" label="#climatechange" />
+      <node id="#OSU2020Vision" label="#OSU2020Vision" />
+      <node id="#energy" label="#energy" />
+      <node id="#StanleyCup" label="#StanleyCup" />
+      <node id="#health" label="#health" />
+      <node id="#vaccine" label="#vaccine" />
+      <node id="#AMA" label="#AMA" />
+      <node id="#DenmanForum" label="#DenmanForum" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#OhioStateUniversity" label="#OhioStateUniversity" />
+      <node id="#highered" label="#highered" />
+      <node id="#CleanCoal" label="#CleanCoal" />
+      <node id="#BuckeyeBus" label="#BuckeyeBus" />
+      <node id="#OSUExtension" label="#OSUExtension" />
+      <node id="#cognitivehealth" label="#cognitivehealth" />
+      <node id="#research" label="#research" />
+      <node id="#OSUnewprez" label="#OSUnewprez" />
+      <node id="#OSUnews" label="#OSUnews" />
+      <node id="#AAAS" label="#AAAS" />
+      <node id="#FOXonReddit" label="#FOXonReddit" />
+      <node id="#Prop8" label="#Prop8" />
+      <node id="#events" label="#events" />
+      <node id="#SpringExpo" label="#SpringExpo" />
+      <node id="#OhioStateTour" label="#OhioStateTour" />
+      <node id="#LakeErie" label="#LakeErie" />
+      <node id="#flu" label="#flu" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#UOregon" label="#UOregon" />
+      <node id="#OSUWexMed" label="#OSUWexMed" />
+      <node id="#ColumbusStrong" label="#ColumbusStrong" />
+      <node id="#planets" label="#planets" />
+      <node id="#ACL" label="#ACL" />
+      <node id="#AAU" label="#AAU" />
+      <node id="#football" label="#football" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NIHinYourState" target="#Ohio" weight="1725" />
+      <edge id="1" source="#autism" target="#Alzheimer" weight="1725" />
+      <edge id="2" source="#Alzheimer" target="#news" weight="1725" />
+      <edge id="3" source="#Alzheimer" target="#cognitivehealth" weight="1725" />
+      <edge id="4" source="#Alzheimer" target="#dementia" weight="1725" />
+      <edge id="5" source="#OSUNews" target="#CFBPlayoff" weight="1725" />
+      <edge id="6" source="#Phoenix" target="#BuckeyeNation" weight="1725" />
+      <edge id="7" source="#OSUontheroad" target="#Ohio" weight="1725" />
+      <edge id="8" source="#DOE" target="#CleanCoal" weight="1725" />
+      <edge id="9" source="#DOE" target="#news" weight="1725" />
+      <edge id="10" source="#VBB3" target="#OSUnews" weight="1725" />
+      <edge id="11" source="#FCCatOSU" target="#FCC" weight="1725" />
+      <edge id="12" source="#astronomy" target="#news" weight="1725" />
+      <edge id="13" source="#astronomy" target="#planets" weight="1725" />
+      <edge id="14" source="#GoBucks" target="#news" weight="1725" />
+      <edge id="15" source="#OSUGrad12" target="#OSU10000" weight="1725" />
+      <edge id="16" source="#news" target="#spinalcordinjury" weight="1725" />
+      <edge id="17" source="#news" target="#cognitivehealth" weight="1725" />
+      <edge id="18" source="#news" target="#vaccine" weight="1725" />
+      <edge id="19" source="#news" target="#cancer" weight="1725" />
+      <edge id="20" source="#news" target="#dementia" weight="1725" />
+      <edge id="21" source="#news" target="#CleanCoal" weight="1725" />
+      <edge id="22" source="#news" target="#planets" weight="1725" />
+      <edge id="23" source="#dementia" target="#cognitivehealth" weight="1725" />
+      <edge id="24" source="#hospitals" target="#Columbus" weight="1725" />
+      <edge id="25" source="#hospitals" target="#OSUWexMed" weight="1725" />
+      <edge id="26" source="#samesex" target="#Prop8" weight="1725" />
+      <edge id="27" source="#samesex" target="#SCOTUS" weight="1725" />
+      <edge id="28" source="#Research" target="#CTSA" weight="1725" />
+      <edge id="29" source="#Research" target="#Cancer" weight="1725" />
+      <edge id="30" source="#BuckeyePride" target="#BattleOfTheBands" weight="1725" />
+      <edge id="31" source="#TheJames" target="#abcDrBchat" weight="1725" />
+      <edge id="32" source="#Ohio" target="#CFAES" weight="3450" />
+      <edge id="33" source="#botulism" target="#CFAES" weight="1725" />
+      <edge id="34" source="#ObamaOSU" target="#energy" weight="3450" />
+      <edge id="35" source="#ObamaOSU" target="#Obama" weight="5175" />
+      <edge id="36" source="#obesity" target="#running" weight="1725" />
+      <edge id="37" source="#NewYear" target="#resolution" weight="1725" />
+      <edge id="38" source="#SCOTUS" target="#Prop8" weight="1725" />
+      <edge id="39" source="#CFBPlayoff" target="#UOregon" weight="1725" />
+      <edge id="40" source="#CFAES" target="#climatechange" weight="3450" />
+      <edge id="41" source="#CFAES" target="#LakeErie" weight="1725" />
+      <edge id="42" source="#CFAES" target="#OhioState" weight="3450" />
+      <edge id="43" source="#CFAES" target="#OhioStateUniversity" weight="1725" />
+      <edge id="44" source="#CFAES" target="#sciwri14" weight="1725" />
+      <edge id="45" source="#CFAES" target="#HCS" weight="1725" />
+      <edge id="46" source="#CFAES" target="#AAAS" weight="1725" />
+      <edge id="47" source="#CFAES" target="#OSUExtension" weight="3450" />
+      <edge id="48" source="#CFAES" target="#football" weight="1725" />
+      <edge id="49" source="#CFAES" target="#agricultural" weight="1725" />
+      <edge id="50" source="#sciwri14" target="#OSUnews" weight="1725" />
+      <edge id="51" source="#WiEGrow" target="#GirlsinSTEM" weight="1725" />
+      <edge id="52" source="#Innovation" target="#Entrepreneurship" weight="1725" />
+      <edge id="53" source="#StandWithOrlando" target="#ColumbusStrong" weight="1725" />
+      <edge id="54" source="#outreach" target="#health" weight="1725" />
+      <edge id="55" source="#agricultural" target="#football" weight="1725" />
+      <edge id="56" source="#cancer" target="#vaccine" weight="1725" />
+      <edge id="57" source="#NBA" target="#ACL" weight="1725" />
+      <edge id="58" source="#CTSA" target="#Cancer" weight="1725" />
+      <edge id="59" source="#OSU2020Vision" target="#highered" weight="1725" />
+      <edge id="60" source="#energy" target="#Obama" weight="3450" />
+      <edge id="61" source="#StanleyCup" target="#NHLAllStar" weight="1725" />
+      <edge id="62" source="#vaccine" target="#research" weight="1725" />
+      <edge id="63" source="#vaccine" target="#flu" weight="1725" />
+      <edge id="64" source="#AMA" target="#FOXonReddit" weight="1725" />
+      <edge id="65" source="#DenmanForum" target="#SpringExpo" weight="1725" />
+      <edge id="66" source="#BuckeyeBus" target="#OhioStateTour" weight="1725" />
+      <edge id="67" source="#research" target="#flu" weight="1725" />
+      <edge id="68" source="#OSUnewprez" target="#AAU" weight="1725" />
+      <edge id="69" source="#OSUnewprez" target="#events" weight="1725" />
+    </edges>
+  </graph>
+</gexf>

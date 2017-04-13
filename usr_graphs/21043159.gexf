@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#24hrs" label="#24hrs" />
+      <node id="#icedtea" label="#icedtea" />
+      <node id="#farmerstan" label="#farmerstan" />
+      <node id="#cbusbeer" label="#cbusbeer" />
+      <node id="#brut" label="#brut" />
+      <node id="#crimsoncup" label="#crimsoncup" />
+      <node id="#Backroom" label="#Backroom" />
+      <node id="#tannotstan" label="#tannotstan" />
+      <node id="#localbiz" label="#localbiz" />
+      <node id="#GoBearcats" label="#GoBearcats" />
+      <node id="#follow" label="#follow" />
+      <node id="#bubbles" label="#bubbles" />
+      <node id="#cravecbus" label="#cravecbus" />
+      <node id="#wine" label="#wine" />
+      <node id="#FF" label="#FF" />
+      <node id="#icedcoffee" label="#icedcoffee" />
+      <node id="#wexclock" label="#wexclock" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#beerbus" label="#beerbus" />
+      <node id="#love" label="#love" />
+      <node id="#hwtasting" label="#hwtasting" />
+      <node id="#HappyHour" label="#HappyHour" />
+      <node id="#hops" label="#hops" />
+      <node id="#WeddingWednesday" label="#WeddingWednesday" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#ipa" label="#ipa" />
+      <node id="#beercbus" label="#beercbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#24hrs" target="#wexclock" weight="3201" />
+      <edge id="1" source="#icedtea" target="#crimsoncup" weight="3201" />
+      <edge id="2" source="#icedtea" target="#icedcoffee" weight="3201" />
+      <edge id="3" source="#farmerstan" target="#tannotstan" weight="3201" />
+      <edge id="4" source="#cbusbeer" target="#beerbus" weight="3201" />
+      <edge id="5" source="#cbusbeer" target="#beercbus" weight="3201" />
+      <edge id="6" source="#brut" target="#bubbles" weight="3201" />
+      <edge id="7" source="#brut" target="#wine" weight="3201" />
+      <edge id="8" source="#crimsoncup" target="#icedcoffee" weight="3201" />
+      <edge id="9" source="#Backroom" target="#HappyHour" weight="3201" />
+      <edge id="10" source="#localbiz" target="#FF" weight="3201" />
+      <edge id="11" source="#GoBearcats" target="#Columbus" weight="3201" />
+      <edge id="12" source="#follow" target="#WeddingWednesday" weight="3201" />
+      <edge id="13" source="#bubbles" target="#wine" weight="3201" />
+      <edge id="14" source="#cravecbus" target="#ipa" weight="3201" />
+      <edge id="15" source="#cravecbus" target="#craftbeer" weight="3201" />
+      <edge id="16" source="#beerbus" target="#beercbus" weight="3201" />
+      <edge id="17" source="#love" target="#hwtasting" weight="3201" />
+      <edge id="18" source="#hops" target="#craftbeer" weight="3201" />
+      <edge id="19" source="#craftbeer" target="#ipa" weight="3201" />
+    </edges>
+  </graph>
+</gexf>

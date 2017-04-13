@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BlackManJoy" label="#BlackManJoy" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#pulseshooting" label="#pulseshooting" />
+      <node id="#PhilandoCastile" label="#PhilandoCastile" />
+      <node id="#FalconHeightsShooting" label="#FalconHeightsShooting" />
+      <node id="#CarefreeBlackKids2k16" label="#CarefreeBlackKids2k16" />
+      <node id="#TEXAS" label="#TEXAS" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#FreeDeray" label="#FreeDeray" />
+      <node id="#muslims" label="#muslims" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BlackManJoy" target="#CarefreeBlackKids2k16" weight="3230" />
+      <edge id="1" source="#SCOTUS" target="#TEXAS" weight="3230" />
+      <edge id="2" source="#pulseshooting" target="#muslims" weight="3230" />
+      <edge id="3" source="#PhilandoCastile" target="#FalconHeightsShooting" weight="3230" />
+      <edge id="4" source="#BlackLivesMatter" target="#FreeDeray" weight="3230" />
+    </edges>
+  </graph>
+</gexf>

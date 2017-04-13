@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#cigar" label="#cigar" />
+      <node id="#sculpture" label="#sculpture" />
+      <node id="#Design" label="#Design" />
+      <node id="#awesomehistory" label="#awesomehistory" />
+      <node id="#DCmetroBeer" label="#DCmetroBeer" />
+      <node id="#BEER" label="#BEER" />
+      <node id="#blogg" label="#blogg" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#Craftbeer" label="#Craftbeer" />
+      <node id="#washington_dc_area" label="#washington_dc_area" />
+      <node id="#fixies" label="#fixies" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#DCCBW" label="#DCCBW" />
+      <node id="#BrewYork" label="#BrewYork" />
+      <node id="#FLABeer" label="#FLABeer" />
+      <node id="#FlaBrew" label="#FlaBrew" />
+      <node id="#BrewDC" label="#BrewDC" />
+      <node id="#brewing" label="#brewing" />
+      <node id="#ladiesofcraftbeer" label="#ladiesofcraftbeer" />
+      <node id="#PhillyBeer" label="#PhillyBeer" />
+      <node id="#DCBrews" label="#DCBrews" />
+      <node id="#BitchSession" label="#BitchSession" />
+      <node id="#NY" label="#NY" />
+      <node id="#csr" label="#csr" />
+      <node id="#longboarding" label="#longboarding" />
+      <node id="#brewyork" label="#brewyork" />
+      <node id="#TweetUp" label="#TweetUp" />
+      <node id="#Melbourne" label="#Melbourne" />
+      <node id="#homebrew" label="#homebrew" />
+      <node id="#FLAbeer" label="#FLAbeer" />
+      <node id="#furniture" label="#furniture" />
+      <node id="#homebrewing" label="#homebrewing" />
+      <node id="#DC" label="#DC" />
+      <node id="#FF" label="#FF" />
+      <node id="#DCBeergade" label="#DCBeergade" />
+      <node id="#planet" label="#planet" />
+      <node id="#dcbrews" label="#dcbrews" />
+      <node id="#beer" label="#beer" />
+      <node id="#beerblogger" label="#beerblogger" />
+      <node id="#Brewyork" label="#Brewyork" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#iPad" label="#iPad" />
+      <node id="#bloggers" label="#bloggers" />
+      <node id="#breweries" label="#breweries" />
+      <node id="#DMVBeer" label="#DMVBeer" />
+      <node id="#beergeek" label="#beergeek" />
+      <node id="#atl" label="#atl" />
+      <node id="#washingtondc" label="#washingtondc" />
+      <node id="#bars" label="#bars" />
+      <node id="#hopslam" label="#hopslam" />
+      <node id="#DCcraftbeer" label="#DCcraftbeer" />
+      <node id="#DBACaskFest" label="#DBACaskFest" />
+      <node id="#green" label="#green" />
+      <node id="#indecision" label="#indecision" />
+      <node id="#Beer" label="#Beer" />
+      <node id="#PackagingDesign" label="#PackagingDesign" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#iknewit" label="#iknewit" />
+      <node id="#dc" label="#dc" />
+      <node id="#beerdrinker" label="#beerdrinker" />
+      <node id="#tweetup" label="#tweetup" />
+      <node id="#apple" label="#apple" />
+      <node id="#design" label="#design" />
+      <node id="#pubs" label="#pubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#cigar" target="#FF" weight="1045" />
+      <edge id="1" source="#sculpture" target="#furniture" weight="1045" />
+      <edge id="2" source="#sculpture" target="#fixies" weight="1045" />
+      <edge id="3" source="#sculpture" target="#longboarding" weight="1045" />
+      <edge id="4" source="#sculpture" target="#brewing" weight="1045" />
+      <edge id="5" source="#sculpture" target="#design" weight="1045" />
+      <edge id="6" source="#Design" target="#PackagingDesign" weight="1045" />
+      <edge id="7" source="#awesomehistory" target="#iknewit" weight="1045" />
+      <edge id="8" source="#DCmetroBeer" target="#DCBeergade" weight="1045" />
+      <edge id="9" source="#DCmetroBeer" target="#BrewDC" weight="1045" />
+      <edge id="10" source="#DCmetroBeer" target="#DCcraftbeer" weight="1045" />
+      <edge id="11" source="#DCmetroBeer" target="#DMVBeer" weight="1045" />
+      <edge id="12" source="#BEER" target="#FF" weight="1045" />
+      <edge id="13" source="#blogg" target="#beerdrinker" weight="1045" />
+      <edge id="14" source="#blogg" target="#beergeek" weight="1045" />
+      <edge id="15" source="#blogg" target="#washington_dc_area" weight="1045" />
+      <edge id="16" source="#blogg" target="#beer" weight="1045" />
+      <edge id="17" source="#blogg" target="#beerblogger" weight="1045" />
+      <edge id="18" source="#Facebook" target="#DCBrews" weight="1045" />
+      <edge id="19" source="#Craftbeer" target="#DC" weight="1045" />
+      <edge id="20" source="#washington_dc_area" target="#beerdrinker" weight="1045" />
+      <edge id="21" source="#washington_dc_area" target="#beergeek" weight="1045" />
+      <edge id="22" source="#washington_dc_area" target="#beer" weight="1045" />
+      <edge id="23" source="#washington_dc_area" target="#beerblogger" weight="1045" />
+      <edge id="24" source="#fixies" target="#furniture" weight="1045" />
+      <edge id="25" source="#fixies" target="#longboarding" weight="1045" />
+      <edge id="26" source="#fixies" target="#brewing" weight="1045" />
+      <edge id="27" source="#fixies" target="#design" weight="1045" />
+      <edge id="28" source="#CraftBeer" target="#FlaBrew" weight="1045" />
+      <edge id="29" source="#CraftBeer" target="#BrewYork" weight="1045" />
+      <edge id="30" source="#CraftBeer" target="#PhillyBeer" weight="1045" />
+      <edge id="31" source="#CraftBeer" target="#DCBrews" weight="2090" />
+      <edge id="32" source="#CraftBeer" target="#DC" weight="1045" />
+      <edge id="33" source="#DCCBW" target="#DCBrews" weight="1045" />
+      <edge id="34" source="#BrewYork" target="#FLABeer" weight="1045" />
+      <edge id="35" source="#BrewYork" target="#FlaBrew" weight="2090" />
+      <edge id="36" source="#BrewYork" target="#ladiesofcraftbeer" weight="1045" />
+      <edge id="37" source="#BrewYork" target="#DC" weight="1045" />
+      <edge id="38" source="#BrewYork" target="#FF" weight="4180" />
+      <edge id="39" source="#BrewYork" target="#DCBrews" weight="4180" />
+      <edge id="40" source="#BrewYork" target="#craftbeer" weight="1045" />
+      <edge id="41" source="#BrewYork" target="#PhillyBeer" weight="4180" />
+      <edge id="42" source="#FLABeer" target="#DCBrews" weight="1045" />
+      <edge id="43" source="#FLABeer" target="#PhillyBeer" weight="1045" />
+      <edge id="44" source="#FLABeer" target="#craftbeer" weight="1045" />
+      <edge id="45" source="#FlaBrew" target="#FF" weight="1045" />
+      <edge id="46" source="#FlaBrew" target="#DCBrews" weight="2090" />
+      <edge id="47" source="#FlaBrew" target="#PhillyBeer" weight="2090" />
+      <edge id="48" source="#BrewDC" target="#DCBeergade" weight="1045" />
+      <edge id="49" source="#BrewDC" target="#DCcraftbeer" weight="1045" />
+      <edge id="50" source="#BrewDC" target="#DMVBeer" weight="1045" />
+      <edge id="51" source="#brewing" target="#furniture" weight="1045" />
+      <edge id="52" source="#brewing" target="#longboarding" weight="1045" />
+      <edge id="53" source="#brewing" target="#design" weight="1045" />
+      <edge id="54" source="#ladiesofcraftbeer" target="#DC" weight="1045" />
+      <edge id="55" source="#PhillyBeer" target="#FF" weight="1045" />
+      <edge id="56" source="#PhillyBeer" target="#DCBrews" weight="4180" />
+      <edge id="57" source="#PhillyBeer" target="#craftbeer" weight="1045" />
+      <edge id="58" source="#DCBrews" target="#BitchSession" weight="2090" />
+      <edge id="59" source="#DCBrews" target="#DC" weight="8360" />
+      <edge id="60" source="#DCBrews" target="#FF" weight="10450" />
+      <edge id="61" source="#DCBrews" target="#beer" weight="1045" />
+      <edge id="62" source="#DCBrews" target="#craftbeer" weight="4180" />
+      <edge id="63" source="#DCBrews" target="#tweetup" weight="1045" />
+      <edge id="64" source="#DCBrews" target="#homebrew" weight="1045" />
+      <edge id="65" source="#BitchSession" target="#TweetUp" weight="1045" />
+      <edge id="66" source="#BitchSession" target="#DC" weight="5225" />
+      <edge id="67" source="#NY" target="#csr" weight="1045" />
+      <edge id="68" source="#NY" target="#green" weight="1045" />
+      <edge id="69" source="#csr" target="#green" weight="1045" />
+      <edge id="70" source="#longboarding" target="#furniture" weight="1045" />
+      <edge id="71" source="#longboarding" target="#design" weight="1045" />
+      <edge id="72" source="#brewyork" target="#FF" weight="1045" />
+      <edge id="73" source="#brewyork" target="#beer" weight="1045" />
+      <edge id="74" source="#TweetUp" target="#DC" weight="1045" />
+      <edge id="75" source="#Melbourne" target="#homebrewing" weight="1045" />
+      <edge id="76" source="#homebrew" target="#dcbrews" weight="1045" />
+      <edge id="77" source="#FLAbeer" target="#craftbeer" weight="1045" />
+      <edge id="78" source="#furniture" target="#design" weight="1045" />
+      <edge id="79" source="#DC" target="#bars" weight="1045" />
+      <edge id="80" source="#DC" target="#bloggers" weight="1045" />
+      <edge id="81" source="#DC" target="#FF" weight="7315" />
+      <edge id="82" source="#DC" target="#craftbeer" weight="4180" />
+      <edge id="83" source="#DC" target="#beer" weight="7315" />
+      <edge id="84" source="#DC" target="#Brewyork" weight="1045" />
+      <edge id="85" source="#FF" target="#bars" weight="1045" />
+      <edge id="86" source="#FF" target="#Brewyork" weight="2090" />
+      <edge id="87" source="#FF" target="#Beer" weight="8360" />
+      <edge id="88" source="#FF" target="#DBACaskFest" weight="1045" />
+      <edge id="89" source="#FF" target="#beer" weight="24035" />
+      <edge id="90" source="#FF" target="#craftbeer" weight="15675" />
+      <edge id="91" source="#FF" target="#breweries" weight="3135" />
+      <edge id="92" source="#FF" target="#awesome" weight="1045" />
+      <edge id="93" source="#DCBeergade" target="#DCcraftbeer" weight="1045" />
+      <edge id="94" source="#DCBeergade" target="#DMVBeer" weight="1045" />
+      <edge id="95" source="#planet" target="#beer" weight="1045" />
+      <edge id="96" source="#dcbrews" target="#indecision" weight="1045" />
+      <edge id="97" source="#dcbrews" target="#washingtondc" weight="1045" />
+      <edge id="98" source="#dcbrews" target="#dc" weight="1045" />
+      <edge id="99" source="#dcbrews" target="#craftbeer" weight="1045" />
+      <edge id="100" source="#beer" target="#beergeek" weight="1045" />
+      <edge id="101" source="#beer" target="#bars" weight="1045" />
+      <edge id="102" source="#beer" target="#hopslam" weight="1045" />
+      <edge id="103" source="#beer" target="#beer" weight="2090" />
+      <edge id="104" source="#beer" target="#atl" weight="1045" />
+      <edge id="105" source="#beer" target="#beerblogger" weight="1045" />
+      <edge id="106" source="#beer" target="#Brewyork" weight="1045" />
+      <edge id="107" source="#beer" target="#dc" weight="1045" />
+      <edge id="108" source="#beer" target="#beerdrinker" weight="1045" />
+      <edge id="109" source="#beer" target="#pubs" weight="2090" />
+      <edge id="110" source="#beerblogger" target="#beerdrinker" weight="1045" />
+      <edge id="111" source="#beerblogger" target="#beergeek" weight="1045" />
+      <edge id="112" source="#Brewyork" target="#craftbeer" weight="1045" />
+      <edge id="113" source="#iPad" target="#apple" weight="1045" />
+      <edge id="114" source="#bloggers" target="#craftbeer" weight="1045" />
+      <edge id="115" source="#DMVBeer" target="#DCcraftbeer" weight="1045" />
+      <edge id="116" source="#beergeek" target="#beerdrinker" weight="1045" />
+      <edge id="117" source="#washingtondc" target="#dc" weight="1045" />
+      <edge id="118" source="#hopslam" target="#dc" weight="1045" />
+    </edges>
+  </graph>
+</gexf>

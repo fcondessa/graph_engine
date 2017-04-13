@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#forsale" label="#forsale" />
+      <node id="#LochteGate" label="#LochteGate" />
+      <node id="#AbolitionistPlunge" label="#AbolitionistPlunge" />
+      <node id="#pinchflat" label="#pinchflat" />
+      <node id="#TacoTrucksOnEveryCorner" label="#TacoTrucksOnEveryCorner" />
+      <node id="#WithHer" label="#WithHer" />
+      <node id="#nerfbattles" label="#nerfbattles" />
+      <node id="#adamlowephoto" label="#adamlowephoto" />
+      <node id="#weezer" label="#weezer" />
+      <node id="#IStandWithAhmed" label="#IStandWithAhmed" />
+      <node id="#Apocalypse" label="#Apocalypse" />
+      <node id="#XFiles" label="#XFiles" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#minecraft" label="#minecraft" />
+      <node id="#Solidarity" label="#Solidarity" />
+      <node id="#Xmen" label="#Xmen" />
+      <node id="#adamlowephotography" label="#adamlowephotography" />
+      <node id="#neighbor" label="#neighbor" />
+      <node id="#CSM" label="#CSM" />
+      <node id="#capstylemag" label="#capstylemag" />
+      <node id="#rockclimbingvideos" label="#rockclimbingvideos" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#LochMess" label="#LochMess" />
+      <node id="#SoDevastating" label="#SoDevastating" />
+      <node id="#choosewisely" label="#choosewisely" />
+      <node id="#Jesus" label="#Jesus" />
+      <node id="#design" label="#design" />
+      <node id="#TheOriginals" label="#TheOriginals" />
+      <node id="#5WordDealBreakers" label="#5WordDealBreakers" />
+      <node id="#ux" label="#ux" />
+      <node id="#InterVarsity" label="#InterVarsity" />
+      <node id="#instagramlogo" label="#instagramlogo" />
+      <node id="#ui" label="#ui" />
+      <node id="#theweezercruise" label="#theweezercruise" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#GivingTuesday" target="#choosewisely" weight="3216" />
+      <edge id="1" source="#realestate" target="#columbus" weight="3216" />
+      <edge id="2" source="#realestate" target="#forsale" weight="3216" />
+      <edge id="3" source="#forsale" target="#columbus" weight="3216" />
+      <edge id="4" source="#LochteGate" target="#LochMess" weight="3216" />
+      <edge id="5" source="#AbolitionistPlunge" target="#InterVarsity" weight="3216" />
+      <edge id="6" source="#pinchflat" target="#columbus" weight="3216" />
+      <edge id="7" source="#TacoTrucksOnEveryCorner" target="#WithHer" weight="3216" />
+      <edge id="8" source="#nerfbattles" target="#minecraft" weight="3216" />
+      <edge id="9" source="#nerfbattles" target="#rockclimbingvideos" weight="3216" />
+      <edge id="10" source="#adamlowephoto" target="#adamlowephotography" weight="3216" />
+      <edge id="11" source="#weezer" target="#theweezercruise" weight="3216" />
+      <edge id="12" source="#IStandWithAhmed" target="#Solidarity" weight="3216" />
+      <edge id="13" source="#Apocalypse" target="#SoDevastating" weight="3216" />
+      <edge id="14" source="#Apocalypse" target="#Xmen" weight="3216" />
+      <edge id="15" source="#XFiles" target="#CSM" weight="3216" />
+      <edge id="16" source="#minecraft" target="#rockclimbingvideos" weight="3216" />
+      <edge id="17" source="#Xmen" target="#SoDevastating" weight="3216" />
+      <edge id="18" source="#neighbor" target="#Jesus" weight="3216" />
+      <edge id="19" source="#capstylemag" target="#Columbus" weight="3216" />
+      <edge id="20" source="#design" target="#ui" weight="3216" />
+      <edge id="21" source="#design" target="#instagramlogo" weight="3216" />
+      <edge id="22" source="#design" target="#ux" weight="3216" />
+      <edge id="23" source="#TheOriginals" target="#5WordDealBreakers" weight="3216" />
+      <edge id="24" source="#ux" target="#instagramlogo" weight="3216" />
+      <edge id="25" source="#ux" target="#ui" weight="3216" />
+      <edge id="26" source="#instagramlogo" target="#ui" weight="3216" />
+    </edges>
+  </graph>
+</gexf>

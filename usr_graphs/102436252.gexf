@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Supermoon" label="#Supermoon" />
+      <node id="#HartleyHawks" label="#HartleyHawks" />
+      <node id="#BelmontStakes" label="#BelmontStakes" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#StateChamps" label="#StateChamps" />
+      <node id="#foxlakemanhunt" label="#foxlakemanhunt" />
+      <node id="#jbOpen" label="#jbOpen" />
+      <node id="#cbusrmeetup" label="#cbusrmeetup" />
+      <node id="#TripleCrown" label="#TripleCrown" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#MissionMainSt" label="#MissionMainSt" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#golf" label="#golf" />
+      <node id="#thesocialfirm" label="#thesocialfirm" />
+      <node id="#osu" label="#osu" />
+      <node id="#SuperBloodMoon" label="#SuperBloodMoon" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#gasprices" label="#gasprices" />
+      <node id="#FoxLake" label="#FoxLake" />
+      <node id="#ThePitch" label="#ThePitch" />
+      <node id="#tweetup" label="#tweetup" />
+      <node id="#football" label="#football" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Supermoon" target="#columbus" weight="214" />
+      <edge id="1" source="#Supermoon" target="#SuperBloodMoon" weight="214" />
+      <edge id="2" source="#Supermoon" target="#Ohio" weight="214" />
+      <edge id="3" source="#HartleyHawks" target="#StateChamps" weight="214" />
+      <edge id="4" source="#HartleyHawks" target="#football" weight="214" />
+      <edge id="5" source="#BelmontStakes" target="#TripleCrown" weight="214" />
+      <edge id="6" source="#Ohio" target="#SuperBloodMoon" weight="214" />
+      <edge id="7" source="#Ohio" target="#columbus" weight="214" />
+      <edge id="8" source="#StateChamps" target="#football" weight="214" />
+      <edge id="9" source="#foxlakemanhunt" target="#FoxLake" weight="214" />
+      <edge id="10" source="#jbOpen" target="#golf" weight="214" />
+      <edge id="11" source="#cbusrmeetup" target="#tweetup" weight="214" />
+      <edge id="12" source="#columbus" target="#SuperBloodMoon" weight="214" />
+      <edge id="13" source="#MissionMainSt" target="#thesocialfirm" weight="214" />
+      <edge id="14" source="#TGIF" target="#Columbus" weight="214" />
+      <edge id="15" source="#osu" target="#BuckeyeNation" weight="214" />
+      <edge id="16" source="#Marketing" target="#ThePitch" weight="214" />
+      <edge id="17" source="#Columbus" target="#gasprices" weight="214" />
+    </edges>
+  </graph>
+</gexf>

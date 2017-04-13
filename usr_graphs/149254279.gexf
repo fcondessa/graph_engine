@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#HURRICANE" label="#HURRICANE" />
+      <node id="#RRBC" label="#RRBC" />
+      <node id="#ClevelandOhio" label="#ClevelandOhio" />
+      <node id="#BEER" label="#BEER" />
+      <node id="#CLEbeer" label="#CLEbeer" />
+      <node id="#santaslittlehelper" label="#santaslittlehelper" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#VoteMorneau" label="#VoteMorneau" />
+      <node id="#punchinthenuts" label="#punchinthenuts" />
+      <node id="#happyincle" label="#happyincle" />
+      <node id="#thisisCLE" label="#thisisCLE" />
+      <node id="#drinkohiobeer" label="#drinkohiobeer" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#patiolife" label="#patiolife" />
+      <node id="#RobotsinDisguise" label="#RobotsinDisguise" />
+      <node id="#Windians" label="#Windians" />
+      <node id="#FF" label="#FF" />
+      <node id="#beer" label="#beer" />
+      <node id="#CBC14" label="#CBC14" />
+      <node id="#CraftBeerCLE" label="#CraftBeerCLE" />
+      <node id="#local" label="#local" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#VoteKluber" label="#VoteKluber" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#rockyriver" label="#rockyriver" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#cle" label="#cle" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#HURRICANE" target="#beer" weight="669" />
+      <edge id="1" source="#RRBC" target="#Windians" weight="669" />
+      <edge id="2" source="#RRBC" target="#beer" weight="1338" />
+      <edge id="3" source="#ClevelandOhio" target="#CraftBeerCLE" weight="669" />
+      <edge id="4" source="#ClevelandOhio" target="#CLEbeer" weight="669" />
+      <edge id="5" source="#BEER" target="#RobotsinDisguise" weight="669" />
+      <edge id="6" source="#CLEbeer" target="#CraftBeerCLE" weight="669" />
+      <edge id="7" source="#santaslittlehelper" target="#punchinthenuts" weight="669" />
+      <edge id="8" source="#CLE" target="#FF" weight="669" />
+      <edge id="9" source="#CLE" target="#beer" weight="669" />
+      <edge id="10" source="#NBAFinals" target="#patiolife" weight="669" />
+      <edge id="11" source="#VoteMorneau" target="#BuckeyeNation" weight="669" />
+      <edge id="12" source="#VoteMorneau" target="#VoteKluber" weight="669" />
+      <edge id="13" source="#happyincle" target="#thisisCLE" weight="669" />
+      <edge id="14" source="#drinkohiobeer" target="#craftbeer" weight="669" />
+      <edge id="15" source="#Cavs" target="#beer" weight="669" />
+      <edge id="16" source="#Windians" target="#beer" weight="669" />
+      <edge id="17" source="#FF" target="#CBC14" weight="669" />
+      <edge id="18" source="#beer" target="#rockyriver" weight="1338" />
+      <edge id="19" source="#beer" target="#cle" weight="2676" />
+      <edge id="20" source="#local" target="#Cleveland" weight="669" />
+      <edge id="21" source="#local" target="#cle" weight="669" />
+      <edge id="22" source="#BuckeyeNation" target="#VoteKluber" weight="669" />
+      <edge id="23" source="#Cleveland" target="#cle" weight="669" />
+    </edges>
+  </graph>
+</gexf>

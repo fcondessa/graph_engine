@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Bulls" label="#Bulls" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#9sports" label="#9sports" />
+      <node id="#ELIAS" label="#ELIAS" />
+      <node id="#Jays" label="#Jays" />
+      <node id="#MikeAndMike" label="#MikeAndMike" />
+      <node id="#FRA" label="#FRA" />
+      <node id="#Brewers" label="#Brewers" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#Osemele" label="#Osemele" />
+      <node id="#SilenceTheBlues" label="#SilenceTheBlues" />
+      <node id="#Rockets" label="#Rockets" />
+      <node id="#NBADraft" label="#NBADraft" />
+      <node id="#Athletics" label="#Athletics" />
+      <node id="#LetsTalkSports" label="#LetsTalkSports" />
+      <node id="#Rangers" label="#Rangers" />
+      <node id="#Cowboys" label="#Cowboys" />
+      <node id="#Reds" label="#Reds" />
+      <node id="#RoadToRio" label="#RoadToRio" />
+      <node id="#Chargers" label="#Chargers" />
+      <node id="#JohnnyDoskow" label="#JohnnyDoskow" />
+      <node id="#Rockies" label="#Rockies" />
+      <node id="#StanleyCupPlayoffs" label="#StanleyCupPlayoffs" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#MLBTradeDeadline" label="#MLBTradeDeadline" />
+      <node id="#Kaepernick" label="#Kaepernick" />
+      <node id="#MLBAllStarGame" label="#MLBAllStarGame" />
+      <node id="#NFLSunday" label="#NFLSunday" />
+      <node id="#Broncos" label="#Broncos" />
+      <node id="#NationalPuppyDay" label="#NationalPuppyDay" />
+      <node id="#KevinDurant" label="#KevinDurant" />
+      <node id="#RiverCats" label="#RiverCats" />
+      <node id="#Spurs" label="#Spurs" />
+      <node id="#SharksTalk" label="#SharksTalk" />
+      <node id="#TWolves" label="#TWolves" />
+      <node id="#NBAFreeAgency" label="#NBAFreeAgency" />
+      <node id="#Redsox" label="#Redsox" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#Blues" label="#Blues" />
+      <node id="#AsTalk" label="#AsTalk" />
+      <node id="#NFLTrainingCamp" label="#NFLTrainingCamp" />
+      <node id="#Blazers" label="#Blazers" />
+      <node id="#BestInTheBiz" label="#BestInTheBiz" />
+      <node id="#Lions" label="#Lions" />
+      <node id="#welcomeback" label="#welcomeback" />
+      <node id="#Knicks" label="#Knicks" />
+      <node id="#NBASummer" label="#NBASummer" />
+      <node id="#NLWildCard" label="#NLWildCard" />
+      <node id="#AintGonnaHappen" label="#AintGonnaHappen" />
+      <node id="#Grizzlies" label="#Grizzlies" />
+      <node id="#WarriorsTalk" label="#WarriorsTalk" />
+      <node id="#AZCardinals" label="#AZCardinals" />
+      <node id="#Rams" label="#Rams" />
+      <node id="#OpeningDay" label="#OpeningDay" />
+      <node id="#Padres" label="#Padres" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#NFLDraft" label="#NFLDraft" />
+      <node id="#Bees" label="#Bees" />
+      <node id="#Plural" label="#Plural" />
+      <node id="#USA" label="#USA" />
+      <node id="#Stanford" label="#Stanford" />
+      <node id="#Kickoff2016" label="#Kickoff2016" />
+      <node id="#LAKings" label="#LAKings" />
+      <node id="#Thunder" label="#Thunder" />
+      <node id="#SJSharks" label="#SJSharks" />
+      <node id="#Browns" label="#Browns" />
+      <node id="#WalkOff" label="#WalkOff" />
+      <node id="#WhiteSox" label="#WhiteSox" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#49ersTalk" label="#49ersTalk" />
+      <node id="#Jazz" label="#Jazz" />
+      <node id="#StephCurry" label="#StephCurry" />
+      <node id="#CalBears" label="#CalBears" />
+      <node id="#Arco" label="#Arco" />
+      <node id="#Marlins" label="#Marlins" />
+      <node id="#Angels" label="#Angels" />
+      <node id="#Jets" label="#Jets" />
+      <node id="#DubNation" label="#DubNation" />
+      <node id="#Penguins" label="#Penguins" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#Walkoff" label="#Walkoff" />
+      <node id="#SacramentoKings" label="#SacramentoKings" />
+      <node id="#Rays" label="#Rays" />
+      <node id="#Lakers" label="#Lakers" />
+      <node id="#TeamUSA" label="#TeamUSA" />
+      <node id="#NBADLeague" label="#NBADLeague" />
+      <node id="#UNITE" label="#UNITE" />
+      <node id="#RaidersTalk" label="#RaidersTalk" />
+      <node id="#HOF" label="#HOF" />
+      <node id="#Panthers" label="#Panthers" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#Sharks" label="#Sharks" />
+      <node id="#HRDerby" label="#HRDerby" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#Titans" label="#Titans" />
+      <node id="#DraymondGreen" label="#DraymondGreen" />
+      <node id="#Yankees" label="#Yankees" />
+      <node id="#NFLFreeAgency" label="#NFLFreeAgency" />
+      <node id="#NBAPlayoffs" label="#NBAPlayoffs" />
+      <node id="#RaiderNation" label="#RaiderNation" />
+      <node id="#sactown" label="#sactown" />
+      <node id="#StanleyCupFinal" label="#StanleyCupFinal" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#YearInSpace" label="#YearInSpace" />
+      <node id="#Cubs" label="#Cubs" />
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#Bucs" label="#Bucs" />
+      <node id="#StrengthInNumbers" label="#StrengthInNumbers" />
+      <node id="#ClawsUp" label="#ClawsUp" />
+      <node id="#SleepTrain" label="#SleepTrain" />
+      <node id="#NLDS" label="#NLDS" />
+      <node id="#Nats" label="#Nats" />
+      <node id="#TheRiseGuys" label="#TheRiseGuys" />
+      <node id="#NBAKings" label="#NBAKings" />
+      <node id="#Dbacks" label="#Dbacks" />
+      <node id="#Raiders" label="#Raiders" />
+      <node id="#Seahawks" label="#Seahawks" />
+      <node id="#NFLPreseason" label="#NFLPreseason" />
+      <node id="#BroadcastLegends" label="#BroadcastLegends" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#NLCS" label="#NLCS" />
+      <node id="#energy" label="#energy" />
+      <node id="#MichiganState" label="#MichiganState" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#SacKings" label="#SacKings" />
+      <node id="#Pirates" label="#Pirates" />
+      <node id="#Australia" label="#Australia" />
+      <node id="#NYG" label="#NYG" />
+      <node id="#LetsGo" label="#LetsGo" />
+      <node id="#KingsTalk" label="#KingsTalk" />
+      <node id="#AllStarGame" label="#AllStarGame" />
+      <node id="#VoiceOfTheRiverCats" label="#VoiceOfTheRiverCats" />
+      <node id="#Melo" label="#Melo" />
+      <node id="#UnanimousMVP" label="#UnanimousMVP" />
+      <node id="#SacRivercats" label="#SacRivercats" />
+      <node id="#Texans" label="#Texans" />
+      <node id="#Mavericks" label="#Mavericks" />
+      <node id="#SJSHARKS" label="#SJSHARKS" />
+      <node id="#RiseGuys" label="#RiseGuys" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#RioOlympics2016" label="#RioOlympics2016" />
+      <node id="#GiantsTalk" label="#GiantsTalk" />
+      <node id="#Sixers" label="#Sixers" />
+      <node id="#9news" label="#9news" />
+      <node id="#Mets" label="#Mets" />
+      <node id="#USABMNT" label="#USABMNT" />
+      <node id="#NowPlaying" label="#NowPlaying" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Bulls" target="#NBA" weight="9612" />
+      <edge id="1" source="#Bulls" target="#KingsTalk" weight="3204" />
+      <edge id="2" source="#Bulls" target="#Warriors" weight="3204" />
+      <edge id="3" source="#Bulls" target="#SacKings" weight="6408" />
+      <edge id="4" source="#Bulls" target="#WarriorsTalk" weight="3204" />
+      <edge id="5" source="#NHL" target="#Penguins" weight="3204" />
+      <edge id="6" source="#NHL" target="#StanleyCupPlayoffs" weight="3204" />
+      <edge id="7" source="#NHL" target="#SJSharks" weight="6408" />
+      <edge id="8" source="#NHL" target="#LAKings" weight="3204" />
+      <edge id="9" source="#9sports" target="#9news" weight="3204" />
+      <edge id="10" source="#ELIAS" target="#NBAPlayoffs" weight="3204" />
+      <edge id="11" source="#Jays" target="#Indians" weight="3204" />
+      <edge id="12" source="#Jays" target="#Redsox" weight="3204" />
+      <edge id="13" source="#MikeAndMike" target="#HOF" weight="3204" />
+      <edge id="14" source="#FRA" target="#USA" weight="3204" />
+      <edge id="15" source="#Brewers" target="#Dodgers" weight="3204" />
+      <edge id="16" source="#NBAFinals" target="#Warriors" weight="3204" />
+      <edge id="17" source="#NBAFinals" target="#DubNation" weight="9612" />
+      <edge id="18" source="#NBAFinals" target="#NowPlaying" weight="3204" />
+      <edge id="19" source="#NBAFinals" target="#Cavs" weight="3204" />
+      <edge id="20" source="#NBA" target="#KevinDurant" weight="3204" />
+      <edge id="21" source="#NBA" target="#Spurs" weight="6408" />
+      <edge id="22" source="#NBA" target="#TWolves" weight="3204" />
+      <edge id="23" source="#NBA" target="#NBAFreeAgency" weight="3204" />
+      <edge id="24" source="#NBA" target="#StephCurry" weight="6408" />
+      <edge id="25" source="#NBA" target="#SacKings" weight="70488" />
+      <edge id="26" source="#NBA" target="#NBASummer" weight="3204" />
+      <edge id="27" source="#NBA" target="#Lakers" weight="9612" />
+      <edge id="28" source="#NBA" target="#Olympics" weight="3204" />
+      <edge id="29" source="#NBA" target="#DubNation" weight="3204" />
+      <edge id="30" source="#NBA" target="#NBADraft" weight="3204" />
+      <edge id="31" source="#NBA" target="#Blazers" weight="3204" />
+      <edge id="32" source="#NBA" target="#Cavs" weight="6408" />
+      <edge id="33" source="#NBA" target="#NBADLeague" weight="3204" />
+      <edge id="34" source="#NBA" target="#Knicks" weight="3204" />
+      <edge id="35" source="#NBA" target="#KingsTalk" weight="35244" />
+      <edge id="36" source="#NBA" target="#Warriors" weight="48060" />
+      <edge id="37" source="#NBA" target="#UnanimousMVP" weight="3204" />
+      <edge id="38" source="#NBA" target="#DraymondGreen" weight="6408" />
+      <edge id="39" source="#NBA" target="#Jazz" weight="3204" />
+      <edge id="40" source="#NBA" target="#Mavericks" weight="6408" />
+      <edge id="41" source="#NBA" target="#NBAPlayoffs" weight="3204" />
+      <edge id="42" source="#NBA" target="#Grizzlies" weight="3204" />
+      <edge id="43" source="#NBA" target="#WarriorsTalk" weight="9612" />
+      <edge id="44" source="#NBA" target="#Thunder" weight="6408" />
+      <edge id="45" source="#Osemele" target="#Raiders" weight="3204" />
+      <edge id="46" source="#SilenceTheBlues" target="#SJSHARKS" weight="3204" />
+      <edge id="47" source="#Rockets" target="#StephCurry" weight="3204" />
+      <edge id="48" source="#Rockets" target="#NBAPlayoffs" weight="3204" />
+      <edge id="49" source="#Rockets" target="#Warriors" weight="3204" />
+      <edge id="50" source="#NBADraft" target="#StephCurry" weight="6408" />
+      <edge id="51" source="#NBADraft" target="#Warriors" weight="3204" />
+      <edge id="52" source="#Athletics" target="#MLB" weight="9612" />
+      <edge id="53" source="#Athletics" target="#OpeningDay" weight="3204" />
+      <edge id="54" source="#Athletics" target="#Padres" weight="3204" />
+      <edge id="55" source="#Athletics" target="#WhiteSox" weight="3204" />
+      <edge id="56" source="#Athletics" target="#AsTalk" weight="9612" />
+      <edge id="57" source="#Athletics" target="#MLBAllStarGame" weight="3204" />
+      <edge id="58" source="#Athletics" target="#RedSox" weight="3204" />
+      <edge id="59" source="#LetsTalkSports" target="#welcomeback" weight="3204" />
+      <edge id="60" source="#LetsTalkSports" target="#TheRiseGuys" weight="3204" />
+      <edge id="61" source="#Rangers" target="#Mets" weight="3204" />
+      <edge id="62" source="#Rangers" target="#Reds" weight="3204" />
+      <edge id="63" source="#Rangers" target="#SFGiants" weight="3204" />
+      <edge id="64" source="#Cowboys" target="#49ers" weight="3204" />
+      <edge id="65" source="#Reds" target="#MLBTradeDeadline" weight="3204" />
+      <edge id="66" source="#Reds" target="#Mets" weight="6408" />
+      <edge id="67" source="#Reds" target="#SFGiants" weight="9612" />
+      <edge id="68" source="#RoadToRio" target="#UNITE" weight="3204" />
+      <edge id="69" source="#RoadToRio" target="#USABMNT" weight="3204" />
+      <edge id="70" source="#Chargers" target="#49ers" weight="3204" />
+      <edge id="71" source="#Chargers" target="#NFL" weight="3204" />
+      <edge id="72" source="#Chargers" target="#49ersTalk" weight="3204" />
+      <edge id="73" source="#JohnnyDoskow" target="#VoiceOfTheRiverCats" weight="3204" />
+      <edge id="74" source="#Rockies" target="#Pirates" weight="3204" />
+      <edge id="75" source="#StanleyCupPlayoffs" target="#SJSharks" weight="3204" />
+      <edge id="76" source="#StanleyCupPlayoffs" target="#LAKings" weight="3204" />
+      <edge id="77" source="#NFL" target="#Seahawks" weight="3204" />
+      <edge id="78" source="#NFL" target="#RaidersTalk" weight="9612" />
+      <edge id="79" source="#NFL" target="#Raiders" weight="25632" />
+      <edge id="80" source="#NFL" target="#Jets" weight="3204" />
+      <edge id="81" source="#NFL" target="#NFLDraft" weight="6408" />
+      <edge id="82" source="#NFL" target="#49ers" weight="118548" />
+      <edge id="83" source="#NFL" target="#NFLPreseason" weight="6408" />
+      <edge id="84" source="#NFL" target="#Browns" weight="3204" />
+      <edge id="85" source="#NFL" target="#Rams" weight="6408" />
+      <edge id="86" source="#NFL" target="#Kaepernick" weight="6408" />
+      <edge id="87" source="#NFL" target="#NFLFreeAgency" weight="9612" />
+      <edge id="88" source="#NFL" target="#NFLTrainingCamp" weight="6408" />
+      <edge id="89" source="#NFL" target="#RaiderNation" weight="3204" />
+      <edge id="90" source="#NFL" target="#49ersTalk" weight="35244" />
+      <edge id="91" source="#NFL" target="#Texans" weight="6408" />
+      <edge id="92" source="#NFL" target="#AZCardinals" weight="3204" />
+      <edge id="93" source="#NFL" target="#NFLSunday" weight="3204" />
+      <edge id="94" source="#NFL" target="#Panthers" weight="6408" />
+      <edge id="95" source="#MLBTradeDeadline" target="#Dodgers" weight="3204" />
+      <edge id="96" source="#MLBTradeDeadline" target="#Mets" weight="3204" />
+      <edge id="97" source="#MLBTradeDeadline" target="#SFGiants" weight="6408" />
+      <edge id="98" source="#Kaepernick" target="#49ers" weight="6408" />
+      <edge id="99" source="#MLBAllStarGame" target="#SFGiants" weight="3204" />
+      <edge id="100" source="#NFLSunday" target="#49ers" weight="3204" />
+      <edge id="101" source="#NFLSunday" target="#49ersTalk" weight="3204" />
+      <edge id="102" source="#Broncos" target="#49ers" weight="9612" />
+      <edge id="103" source="#Broncos" target="#Kickoff2016" weight="3204" />
+      <edge id="104" source="#Broncos" target="#Jets" weight="3204" />
+      <edge id="105" source="#Broncos" target="#Browns" weight="6408" />
+      <edge id="106" source="#NationalPuppyDay" target="#DubNation" weight="3204" />
+      <edge id="107" source="#KevinDurant" target="#NBASummer" weight="3204" />
+      <edge id="108" source="#KevinDurant" target="#Warriors" weight="3204" />
+      <edge id="109" source="#RiverCats" target="#WalkOff" weight="3204" />
+      <edge id="110" source="#RiverCats" target="#Bees" weight="3204" />
+      <edge id="111" source="#RiverCats" target="#ClawsUp" weight="9612" />
+      <edge id="112" source="#RiverCats" target="#SFGiants" weight="3204" />
+      <edge id="113" source="#Spurs" target="#KingsTalk" weight="6408" />
+      <edge id="114" source="#Spurs" target="#SacKings" weight="9612" />
+      <edge id="115" source="#Spurs" target="#Warriors" weight="3204" />
+      <edge id="116" source="#SharksTalk" target="#SJSharks" weight="3204" />
+      <edge id="117" source="#SharksTalk" target="#StanleyCupFinal" weight="3204" />
+      <edge id="118" source="#TWolves" target="#KingsTalk" weight="3204" />
+      <edge id="119" source="#TWolves" target="#SacKings" weight="6408" />
+      <edge id="120" source="#TWolves" target="#Warriors" weight="3204" />
+      <edge id="121" source="#NBAFreeAgency" target="#Jazz" weight="3204" />
+      <edge id="122" source="#NBAFreeAgency" target="#SacKings" weight="3204" />
+      <edge id="123" source="#Redsox" target="#Indians" weight="3204" />
+      <edge id="124" source="#Olympics" target="#DraymondGreen" weight="3204" />
+      <edge id="125" source="#Olympics" target="#Warriors" weight="3204" />
+      <edge id="126" source="#Blues" target="#Sharks" weight="3204" />
+      <edge id="127" source="#AsTalk" target="#RedSox" weight="3204" />
+      <edge id="128" source="#AsTalk" target="#MLB" weight="9612" />
+      <edge id="129" source="#AsTalk" target="#Padres" weight="3204" />
+      <edge id="130" source="#NFLTrainingCamp" target="#49ers" weight="3204" />
+      <edge id="131" source="#NFLTrainingCamp" target="#Raiders" weight="3204" />
+      <edge id="132" source="#Blazers" target="#SacKings" weight="3204" />
+      <edge id="133" source="#Blazers" target="#NBAPlayoffs" weight="3204" />
+      <edge id="134" source="#Blazers" target="#Warriors" weight="3204" />
+      <edge id="135" source="#BestInTheBiz" target="#RiseGuys" weight="3204" />
+      <edge id="136" source="#Lions" target="#NYG" weight="3204" />
+      <edge id="137" source="#Lions" target="#Seahawks" weight="3204" />
+      <edge id="138" source="#welcomeback" target="#TheRiseGuys" weight="3204" />
+      <edge id="139" source="#Knicks" target="#KingsTalk" weight="3204" />
+      <edge id="140" source="#Knicks" target="#Warriors" weight="3204" />
+      <edge id="141" source="#Knicks" target="#Melo" weight="3204" />
+      <edge id="142" source="#Knicks" target="#SacKings" weight="3204" />
+      <edge id="143" source="#NBASummer" target="#Warriors" weight="3204" />
+      <edge id="144" source="#NLWildCard" target="#SFGiants" weight="12816" />
+      <edge id="145" source="#AintGonnaHappen" target="#NBAKings" weight="3204" />
+      <edge id="146" source="#WarriorsTalk" target="#Thunder" weight="3204" />
+      <edge id="147" source="#WarriorsTalk" target="#Lakers" weight="3204" />
+      <edge id="148" source="#WarriorsTalk" target="#Warriors" weight="12816" />
+      <edge id="149" source="#AZCardinals" target="#49ers" weight="3204" />
+      <edge id="150" source="#Rams" target="#49ers" weight="9612" />
+      <edge id="151" source="#Rams" target="#CalBears" weight="3204" />
+      <edge id="152" source="#Rams" target="#49ersTalk" weight="3204" />
+      <edge id="153" source="#OpeningDay" target="#WhiteSox" weight="3204" />
+      <edge id="154" source="#OpeningDay" target="#MLB" weight="3204" />
+      <edge id="155" source="#Padres" target="#MLB" weight="6408" />
+      <edge id="156" source="#Padres" target="#RedSox" weight="3204" />
+      <edge id="157" source="#Padres" target="#SFGiants" weight="6408" />
+      <edge id="158" source="#Dodgers" target="#Marlins" weight="3204" />
+      <edge id="159" source="#Dodgers" target="#MLB" weight="9612" />
+      <edge id="160" source="#Dodgers" target="#SFGiants" weight="19224" />
+      <edge id="161" source="#Dodgers" target="#GiantsTalk" weight="9612" />
+      <edge id="162" source="#NFLDraft" target="#49ers" weight="6408" />
+      <edge id="163" source="#NFLDraft" target="#Raiders" weight="3204" />
+      <edge id="164" source="#NFLDraft" target="#MichiganState" weight="3204" />
+      <edge id="165" source="#Bees" target="#ClawsUp" weight="3204" />
+      <edge id="166" source="#Plural" target="#BroadcastLegends" weight="3204" />
+      <edge id="167" source="#Stanford" target="#49ers" weight="3204" />
+      <edge id="168" source="#LAKings" target="#SJSharks" weight="3204" />
+      <edge id="169" source="#Thunder" target="#KingsTalk" weight="3204" />
+      <edge id="170" source="#Thunder" target="#SacKings" weight="3204" />
+      <edge id="171" source="#Thunder" target="#Warriors" weight="9612" />
+      <edge id="172" source="#SJSharks" target="#Penguins" weight="3204" />
+      <edge id="173" source="#SJSharks" target="#StanleyCupFinal" weight="3204" />
+      <edge id="174" source="#Browns" target="#Jets" weight="3204" />
+      <edge id="175" source="#Browns" target="#49ers" weight="9612" />
+      <edge id="176" source="#Browns" target="#MichiganState" weight="3204" />
+      <edge id="177" source="#Browns" target="#Texans" weight="3204" />
+      <edge id="178" source="#Browns" target="#Titans" weight="3204" />
+      <edge id="179" source="#WalkOff" target="#ClawsUp" weight="3204" />
+      <edge id="180" source="#WhiteSox" target="#MLB" weight="3204" />
+      <edge id="181" source="#postseason" target="#NLCS" weight="3204" />
+      <edge id="182" source="#49ersTalk" target="#Jets" weight="3204" />
+      <edge id="183" source="#49ersTalk" target="#49ers" weight="41652" />
+      <edge id="184" source="#StephCurry" target="#NBAPlayoffs" weight="6408" />
+      <edge id="185" source="#StephCurry" target="#Warriors" weight="9612" />
+      <edge id="186" source="#StephCurry" target="#UnanimousMVP" weight="3204" />
+      <edge id="187" source="#CalBears" target="#49ers" weight="3204" />
+      <edge id="188" source="#Arco" target="#SleepTrain" weight="3204" />
+      <edge id="189" source="#Arco" target="#RiseGuys" weight="3204" />
+      <edge id="190" source="#Marlins" target="#MLB" weight="9612" />
+      <edge id="191" source="#Marlins" target="#SFGiants" weight="6408" />
+      <edge id="192" source="#Marlins" target="#LetsGo" weight="3204" />
+      <edge id="193" source="#Marlins" target="#Walkoff" weight="3204" />
+      <edge id="194" source="#Marlins" target="#HRDerby" weight="3204" />
+      <edge id="195" source="#Marlins" target="#GiantsTalk" weight="6408" />
+      <edge id="196" source="#Marlins" target="#Cubs" weight="6408" />
+      <edge id="197" source="#Angels" target="#GiantsTalk" weight="9612" />
+      <edge id="198" source="#Angels" target="#Rays" weight="3204" />
+      <edge id="199" source="#Angels" target="#MLB" weight="9612" />
+      <edge id="200" source="#Angels" target="#SFGiants" weight="12816" />
+      <edge id="201" source="#Jets" target="#49ers" weight="6408" />
+      <edge id="202" source="#DubNation" target="#Warriors" weight="3204" />
+      <edge id="203" source="#DubNation" target="#StrengthInNumbers" weight="3204" />
+      <edge id="204" source="#DubNation" target="#Cavs" weight="6408" />
+      <edge id="205" source="#DubNation" target="#NowPlaying" weight="3204" />
+      <edge id="206" source="#MarchMadness" target="#energy" weight="3204" />
+      <edge id="207" source="#MarchMadness" target="#YearInSpace" weight="3204" />
+      <edge id="208" source="#Walkoff" target="#LetsGo" weight="3204" />
+      <edge id="209" source="#Walkoff" target="#Cubs" weight="6408" />
+      <edge id="210" source="#SacramentoKings" target="#Sixers" weight="3204" />
+      <edge id="211" source="#Rays" target="#GiantsTalk" weight="6408" />
+      <edge id="212" source="#Rays" target="#MLB" weight="6408" />
+      <edge id="213" source="#Rays" target="#SFGiants" weight="6408" />
+      <edge id="214" source="#Lakers" target="#KingsTalk" weight="3204" />
+      <edge id="215" source="#Lakers" target="#Warriors" weight="6408" />
+      <edge id="216" source="#Lakers" target="#SacKings" weight="3204" />
+      <edge id="217" source="#TeamUSA" target="#RioOlympics2016" weight="3204" />
+      <edge id="218" source="#TeamUSA" target="#SacKings" weight="3204" />
+      <edge id="219" source="#TeamUSA" target="#Australia" weight="3204" />
+      <edge id="220" source="#TeamUSA" target="#Warriors" weight="3204" />
+      <edge id="221" source="#NBADLeague" target="#SacKings" weight="3204" />
+      <edge id="222" source="#UNITE" target="#USABMNT" weight="3204" />
+      <edge id="223" source="#RaidersTalk" target="#Raiders" weight="9612" />
+      <edge id="224" source="#RaidersTalk" target="#Seahawks" weight="3204" />
+      <edge id="225" source="#Panthers" target="#49ers" weight="6408" />
+      <edge id="226" source="#49ers" target="#NFLFreeAgency" weight="12816" />
+      <edge id="227" source="#49ers" target="#Texans" weight="3204" />
+      <edge id="228" source="#49ers" target="#Raiders" weight="6408" />
+      <edge id="229" source="#49ers" target="#NFLPreseason" weight="6408" />
+      <edge id="230" source="#HRDerby" target="#GiantsTalk" weight="3204" />
+      <edge id="231" source="#HRDerby" target="#MLB" weight="3204" />
+      <edge id="232" source="#HRDerby" target="#SFGiants" weight="3204" />
+      <edge id="233" source="#Warriors" target="#Cavs" weight="6408" />
+      <edge id="234" source="#Warriors" target="#SacKings" weight="3204" />
+      <edge id="235" source="#Warriors" target="#Australia" weight="3204" />
+      <edge id="236" source="#Warriors" target="#UnanimousMVP" weight="3204" />
+      <edge id="237" source="#Warriors" target="#DraymondGreen" weight="6408" />
+      <edge id="238" source="#Warriors" target="#RioOlympics2016" weight="3204" />
+      <edge id="239" source="#Warriors" target="#NBAPlayoffs" weight="12816" />
+      <edge id="240" source="#Titans" target="#MichiganState" weight="3204" />
+      <edge id="241" source="#Yankees" target="#SFGiants" weight="3204" />
+      <edge id="242" source="#NFLFreeAgency" target="#Raiders" weight="3204" />
+      <edge id="243" source="#NBAPlayoffs" target="#UnanimousMVP" weight="3204" />
+      <edge id="244" source="#RaiderNation" target="#Raiders" weight="3204" />
+      <edge id="245" source="#RaiderNation" target="#Texans" weight="3204" />
+      <edge id="246" source="#sactown" target="#SFGiants" weight="3204" />
+      <edge id="247" source="#YearInSpace" target="#energy" weight="3204" />
+      <edge id="248" source="#Cubs" target="#LetsGo" weight="6408" />
+      <edge id="249" source="#Cubs" target="#Cubs" weight="6408" />
+      <edge id="250" source="#RedSox" target="#MLB" weight="3204" />
+      <edge id="251" source="#RedSox" target="#SFGiants" weight="3204" />
+      <edge id="252" source="#Bucs" target="#Seahawks" weight="3204" />
+      <edge id="253" source="#ClawsUp" target="#SFGiants" weight="3204" />
+      <edge id="254" source="#SleepTrain" target="#RiseGuys" weight="3204" />
+      <edge id="255" source="#NLDS" target="#Giants" weight="3204" />
+      <edge id="256" source="#Nats" target="#MLB" weight="3204" />
+      <edge id="257" source="#Nats" target="#SFGiants" weight="3204" />
+      <edge id="258" source="#Dbacks" target="#GiantsTalk" weight="3204" />
+      <edge id="259" source="#Dbacks" target="#MLB" weight="6408" />
+      <edge id="260" source="#Dbacks" target="#SFGiants" weight="9612" />
+      <edge id="261" source="#Raiders" target="#Seahawks" weight="3204" />
+      <edge id="262" source="#Raiders" target="#NFLPreseason" weight="3204" />
+      <edge id="263" source="#Raiders" target="#MichiganState" weight="3204" />
+      <edge id="264" source="#Raiders" target="#Texans" weight="3204" />
+      <edge id="265" source="#Seahawks" target="#NYG" weight="3204" />
+      <edge id="266" source="#SacKings" target="#Mavericks" weight="9612" />
+      <edge id="267" source="#SacKings" target="#KingsTalk" weight="38448" />
+      <edge id="268" source="#SacKings" target="#RioOlympics2016" weight="3204" />
+      <edge id="269" source="#SacKings" target="#Australia" weight="3204" />
+      <edge id="270" source="#Australia" target="#RioOlympics2016" weight="3204" />
+      <edge id="271" source="#KingsTalk" target="#Mavericks" weight="6408" />
+      <edge id="272" source="#AllStarGame" target="#SFGiants" weight="3204" />
+      <edge id="273" source="#SacRivercats" target="#SFGiants" weight="3204" />
+      <edge id="274" source="#RiseGuys" target="#SFGiants" weight="3204" />
+      <edge id="275" source="#MLB" target="#GiantsTalk" weight="38448" />
+      <edge id="276" source="#MLB" target="#SFGiants" weight="76896" />
+      <edge id="277" source="#SFGiants" target="#GiantsTalk" weight="54468" />
+      <edge id="278" source="#SFGiants" target="#Mets" weight="9612" />
+      <edge id="279" source="#GiantsTalk" target="#Mets" weight="3204" />
+    </edges>
+  </graph>
+</gexf>

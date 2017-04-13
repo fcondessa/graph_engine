@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#pro" label="#pro" />
+      <node id="#acbw" label="#acbw" />
+      <node id="#OCBM16" label="#OCBM16" />
+      <node id="#Enjoyby" label="#Enjoyby" />
+      <node id="#onerate" label="#onerate" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#brewing" label="#brewing" />
+      <node id="#BreakfastOfChampions" label="#BreakfastOfChampions" />
+      <node id="#craft" label="#craft" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#ad" label="#ad" />
+      <node id="#FIREFLY" label="#FIREFLY" />
+      <node id="#ACBW" label="#ACBW" />
+      <node id="#beer" label="#beer" />
+      <node id="#OregonCraftBeer" label="#OregonCraftBeer" />
+      <node id="#whatwouldyouship" label="#whatwouldyouship" />
+      <node id="#craftorwater" label="#craftorwater" />
+      <node id="#YouCantTakeTheSkyFromMe" label="#YouCantTakeTheSkyFromMe" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#EnjoyBy" label="#EnjoyBy" />
+      <node id="#ohiocraftbeer" label="#ohiocraftbeer" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#pro" target="#brewing" weight="783" />
+      <edge id="1" source="#pro" target="#craftbeer" weight="783" />
+      <edge id="2" source="#acbw" target="#CraftBeer" weight="783" />
+      <edge id="3" source="#OCBM16" target="#OregonCraftBeer" weight="783" />
+      <edge id="4" source="#Enjoyby" target="#Cincinnati" weight="783" />
+      <edge id="5" source="#onerate" target="#whatwouldyouship" weight="783" />
+      <edge id="6" source="#onerate" target="#ad" weight="783" />
+      <edge id="7" source="#Ohio" target="#ohiocraftbeer" weight="783" />
+      <edge id="8" source="#Ohio" target="#beer" weight="783" />
+      <edge id="9" source="#Ohio" target="#craftorwater" weight="783" />
+      <edge id="10" source="#Ohio" target="#BreakfastOfChampions" weight="783" />
+      <edge id="11" source="#Ohio" target="#CraftBeer" weight="783" />
+      <edge id="12" source="#brewing" target="#craftbeer" weight="783" />
+      <edge id="13" source="#BreakfastOfChampions" target="#ohiocraftbeer" weight="783" />
+      <edge id="14" source="#BreakfastOfChampions" target="#craftorwater" weight="783" />
+      <edge id="15" source="#BreakfastOfChampions" target="#beer" weight="783" />
+      <edge id="16" source="#BreakfastOfChampions" target="#CraftBeer" weight="783" />
+      <edge id="17" source="#craft" target="#beer" weight="783" />
+      <edge id="18" source="#CraftBeer" target="#ACBW" weight="1566" />
+      <edge id="19" source="#CraftBeer" target="#beer" weight="783" />
+      <edge id="20" source="#CraftBeer" target="#craftorwater" weight="783" />
+      <edge id="21" source="#CraftBeer" target="#ohiocraftbeer" weight="783" />
+      <edge id="22" source="#ad" target="#whatwouldyouship" weight="783" />
+      <edge id="23" source="#FIREFLY" target="#YouCantTakeTheSkyFromMe" weight="783" />
+      <edge id="24" source="#beer" target="#craftorwater" weight="783" />
+      <edge id="25" source="#beer" target="#ohiocraftbeer" weight="783" />
+      <edge id="26" source="#craftorwater" target="#ohiocraftbeer" weight="783" />
+      <edge id="27" source="#EnjoyBy" target="#Cincinnati" weight="783" />
+    </edges>
+  </graph>
+</gexf>

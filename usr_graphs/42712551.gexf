@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#amexnews" label="#amexnews" />
+      <node id="#FashionWeek" label="#FashionWeek" />
+      <node id="#Nashville" label="#Nashville" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#SaltLakeCity" label="#SaltLakeCity" />
+      <node id="#EEEEEATS" label="#EEEEEATS" />
+      <node id="#amextrade" label="#amextrade" />
+      <node id="#NJDevils" label="#NJDevils" />
+      <node id="#NY" label="#NY" />
+      <node id="#ad" label="#ad" />
+      <node id="#Indianapolis" label="#Indianapolis" />
+      <node id="#Portland" label="#Portland" />
+      <node id="#IlluminateWorldTour" label="#IlluminateWorldTour" />
+      <node id="#Soul2Soul" label="#Soul2Soul" />
+      <node id="#amextravel" label="#amextravel" />
+      <node id="#BargeLife" label="#BargeLife" />
+      <node id="#AmexTennis" label="#AmexTennis" />
+      <node id="#AmexGold" label="#AmexGold" />
+      <node id="#AmexBestBuy" label="#AmexBestBuy" />
+      <node id="#Detroit" label="#Detroit" />
+      <node id="#VoteYourPark" label="#VoteYourPark" />
+      <node id="#GHC16" label="#GHC16" />
+      <node id="#fwclassic" label="#fwclassic" />
+      <node id="#AmexSeahawks" label="#AmexSeahawks" />
+      <node id="#AmexTravel" label="#AmexTravel" />
+      <node id="#AmexOffers" label="#AmexOffers" />
+      <node id="#NatGeoLive" label="#NatGeoLive" />
+      <node id="#AmexAmbassador" label="#AmexAmbassador" />
+      <node id="#AmexPlatinum" label="#AmexPlatinum" />
+      <node id="#AmexNike" label="#AmexNike" />
+      <node id="#AmexHGI" label="#AmexHGI" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#amexambassador" label="#amexambassador" />
+      <node id="#MembershipRewards" label="#MembershipRewards" />
+      <node id="#FindYourPark" label="#FindYourPark" />
+      <node id="#EpicNightIn" label="#EpicNightIn" />
+      <node id="#FormationWorldTour" label="#FormationWorldTour" />
+      <node id="#nationalparks" label="#nationalparks" />
+      <node id="#DeltaAmexPerks" label="#DeltaAmexPerks" />
+      <node id="#Minneapolis" label="#Minneapolis" />
+      <node id="#findyourpark" label="#findyourpark" />
+      <node id="#BeyHive" label="#BeyHive" />
+      <node id="#AmexPresale" label="#AmexPresale" />
+      <node id="#BlueCashEveryday" label="#BlueCashEveryday" />
+      <node id="#AmexGift" label="#AmexGift" />
+      <node id="#Seattle" label="#Seattle" />
+      <node id="#FWClassic" label="#FWClassic" />
+      <node id="#NPSCentennial" label="#NPSCentennial" />
+      <node id="#AmexLevis" label="#AmexLevis" />
+      <node id="#AmexAccess" label="#AmexAccess" />
+      <node id="#Raleigh" label="#Raleigh" />
+      <node id="#LAKings" label="#LAKings" />
+      <node id="#AmexBliss" label="#AmexBliss" />
+      <node id="#DangerousWomanTour" label="#DangerousWomanTour" />
+      <node id="#NationalParks" label="#NationalParks" />
+      <node id="#BottleRock" label="#BottleRock" />
+      <node id="#AmexWarriors" label="#AmexWarriors" />
+      <node id="#AmexNBA" label="#AmexNBA" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#AmexBBB" label="#AmexBBB" />
+      <node id="#ExpressLove" label="#ExpressLove" />
+      <node id="#TIDALX1015" label="#TIDALX1015" />
+      <node id="#shopsmall" label="#shopsmall" />
+      <node id="#ABITopCos" label="#ABITopCos" />
+      <node id="#ThisHouseIsNotForSale" label="#ThisHouseIsNotForSale" />
+      <node id="#PanoramaNYC" label="#PanoramaNYC" />
+      <node id="#spgamex" label="#spgamex" />
+      <node id="#AmexTrade" label="#AmexTrade" />
+      <node id="#NBAPlayoffs" label="#NBAPlayoffs" />
+      <node id="#Durham" label="#Durham" />
+      <node id="#tech" label="#tech" />
+      <node id="#AMEXPresale" label="#AMEXPresale" />
+      <node id="#sp" label="#sp" />
+      <node id="#NatGeoLIve" label="#NatGeoLIve" />
+      <node id="#AmexTech" label="#AmexTech" />
+      <node id="#ForbesUnder30Summit" label="#ForbesUnder30Summit" />
+      <node id="#USOpen" label="#USOpen" />
+      <node id="#AMEXSEAHAWKS" label="#AMEXSEAHAWKS" />
+      <node id="#AmexBoxed" label="#AmexBoxed" />
+      <node id="#GoHawks" label="#GoHawks" />
+      <node id="#LA" label="#LA" />
+      <node id="#AmexASICS" label="#AmexASICS" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#CSR" label="#CSR" />
+      <node id="#SPGAmex" label="#SPGAmex" />
+      <node id="#nps100" label="#nps100" />
+      <node id="#CateBlanchett" label="#CateBlanchett" />
+      <node id="#Nationalparks" label="#Nationalparks" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#amexnews" target="#shopsmall" weight="3234" />
+      <edge id="1" source="#FashionWeek" target="#AmexAccess" weight="3234" />
+      <edge id="2" source="#Nashville" target="#Raleigh" weight="3234" />
+      <edge id="3" source="#Nashville" target="#Durham" weight="3234" />
+      <edge id="4" source="#Nashville" target="#DeltaAmexPerks" weight="9702" />
+      <edge id="5" source="#Nashville" target="#NY" weight="3234" />
+      <edge id="6" source="#leadership" target="#CSR" weight="3234" />
+      <edge id="7" source="#leadership" target="#sustainability" weight="3234" />
+      <edge id="8" source="#SaltLakeCity" target="#DeltaAmexPerks" weight="9702" />
+      <edge id="9" source="#EEEEEATS" target="#AmexGold" weight="3234" />
+      <edge id="10" source="#EEEEEATS" target="#sp" weight="3234" />
+      <edge id="11" source="#amextrade" target="#fwclassic" weight="35574" />
+      <edge id="12" source="#amextrade" target="#AmexTrade" weight="3234" />
+      <edge id="13" source="#amextrade" target="#FWClassic" weight="3234" />
+      <edge id="14" source="#NJDevils" target="#AmexPresale" weight="3234" />
+      <edge id="15" source="#NY" target="#DeltaAmexPerks" weight="12936" />
+      <edge id="16" source="#ad" target="#AmexGold" weight="9702" />
+      <edge id="17" source="#Indianapolis" target="#DeltaAmexPerks" weight="9702" />
+      <edge id="18" source="#Portland" target="#Seattle" weight="3234" />
+      <edge id="19" source="#Portland" target="#DeltaAmexPerks" weight="6468" />
+      <edge id="20" source="#IlluminateWorldTour" target="#AmexPresale" weight="6468" />
+      <edge id="21" source="#Soul2Soul" target="#AmexPresale" weight="9702" />
+      <edge id="22" source="#amextravel" target="#nationalparks" weight="3234" />
+      <edge id="23" source="#amextravel" target="#findyourpark" weight="3234" />
+      <edge id="24" source="#BargeLife" target="#AMEXSEAHAWKS" weight="3234" />
+      <edge id="25" source="#AmexTennis" target="#spgamex" weight="3234" />
+      <edge id="26" source="#AmexTennis" target="#USOpen" weight="35574" />
+      <edge id="27" source="#AmexBestBuy" target="#AmexOffers" weight="3234" />
+      <edge id="28" source="#Detroit" target="#Minneapolis" weight="3234" />
+      <edge id="29" source="#Detroit" target="#DeltaAmexPerks" weight="6468" />
+      <edge id="30" source="#VoteYourPark" target="#CSR" weight="6468" />
+      <edge id="31" source="#VoteYourPark" target="#NPSCentennial" weight="3234" />
+      <edge id="32" source="#VoteYourPark" target="#NatGeoLive" weight="16170" />
+      <edge id="33" source="#GHC16" target="#ABITopCos" weight="3234" />
+      <edge id="34" source="#fwclassic" target="#SPGAmex" weight="3234" />
+      <edge id="35" source="#fwclassic" target="#AmexTrade" weight="16170" />
+      <edge id="36" source="#fwclassic" target="#amexambassador" weight="3234" />
+      <edge id="37" source="#fwclassic" target="#AmexAccess" weight="3234" />
+      <edge id="38" source="#AmexSeahawks" target="#GoHawks" weight="3234" />
+      <edge id="39" source="#AmexTravel" target="#nationalparks" weight="3234" />
+      <edge id="40" source="#AmexTravel" target="#MembershipRewards" weight="3234" />
+      <edge id="41" source="#AmexTravel" target="#NatGeoLive" weight="3234" />
+      <edge id="42" source="#AmexOffers" target="#AmexBoxed" weight="3234" />
+      <edge id="43" source="#AmexOffers" target="#AmexGift" weight="3234" />
+      <edge id="44" source="#AmexOffers" target="#AmexBliss" weight="3234" />
+      <edge id="45" source="#AmexOffers" target="#AmexNike" weight="3234" />
+      <edge id="46" source="#AmexOffers" target="#AmexBBB" weight="3234" />
+      <edge id="47" source="#AmexOffers" target="#AmexHGI" weight="3234" />
+      <edge id="48" source="#AmexOffers" target="#AmexLevis" weight="3234" />
+      <edge id="49" source="#AmexOffers" target="#AmexASICS" weight="3234" />
+      <edge id="50" source="#NatGeoLive" target="#nationalparks" weight="3234" />
+      <edge id="51" source="#NatGeoLive" target="#NPSCentennial" weight="3234" />
+      <edge id="52" source="#NatGeoLive" target="#FindYourPark" weight="3234" />
+      <edge id="53" source="#AmexAmbassador" target="#AmexTrade" weight="9702" />
+      <edge id="54" source="#AmexAmbassador" target="#PanoramaNYC" weight="3234" />
+      <edge id="55" source="#AmexAmbassador" target="#AmexAccess" weight="3234" />
+      <edge id="56" source="#AmexPlatinum" target="#ForbesUnder30Summit" weight="3234" />
+      <edge id="57" source="#AmexPlatinum" target="#amexambassador" weight="3234" />
+      <edge id="58" source="#AmexPlatinum" target="#FWClassic" weight="3234" />
+      <edge id="59" source="#AmexPlatinum" target="#AmexAccess" weight="3234" />
+      <edge id="60" source="#NBAFinals" target="#AmexNBA" weight="6468" />
+      <edge id="61" source="#FindYourPark" target="#CSR" weight="3234" />
+      <edge id="62" source="#FindYourPark" target="#Nationalparks" weight="3234" />
+      <edge id="63" source="#FindYourPark" target="#NationalParks" weight="3234" />
+      <edge id="64" source="#FindYourPark" target="#NatGeoLIve" weight="3234" />
+      <edge id="65" source="#EpicNightIn" target="#BlueCashEveryday" weight="3234" />
+      <edge id="66" source="#FormationWorldTour" target="#BeyHive" weight="16170" />
+      <edge id="67" source="#nationalparks" target="#findyourpark" weight="3234" />
+      <edge id="68" source="#DeltaAmexPerks" target="#LA" weight="12936" />
+      <edge id="69" source="#DeltaAmexPerks" target="#Durham" weight="9702" />
+      <edge id="70" source="#DeltaAmexPerks" target="#Seattle" weight="12936" />
+      <edge id="71" source="#DeltaAmexPerks" target="#Minneapolis" weight="16170" />
+      <edge id="72" source="#DeltaAmexPerks" target="#Raleigh" weight="6468" />
+      <edge id="73" source="#findyourpark" target="#nps100" weight="3234" />
+      <edge id="74" source="#AmexPresale" target="#ThisHouseIsNotForSale" weight="6468" />
+      <edge id="75" source="#AmexPresale" target="#CateBlanchett" weight="3234" />
+      <edge id="76" source="#AmexPresale" target="#DangerousWomanTour" weight="3234" />
+      <edge id="77" source="#AmexPresale" target="#TIDALX1015" weight="3234" />
+      <edge id="78" source="#AmexPresale" target="#AmexAccess" weight="6468" />
+      <edge id="79" source="#AmexPresale" target="#AmexWarriors" weight="3234" />
+      <edge id="80" source="#FWClassic" target="#SPGAmex" weight="6468" />
+      <edge id="81" source="#FWClassic" target="#AmexTrade" weight="9702" />
+      <edge id="82" source="#FWClassic" target="#AmexAccess" weight="3234" />
+      <edge id="83" source="#AmexAccess" target="#PanoramaNYC" weight="3234" />
+      <edge id="84" source="#Raleigh" target="#Durham" weight="6468" />
+      <edge id="85" source="#LAKings" target="#AMEXPresale" weight="3234" />
+      <edge id="86" source="#BottleRock" target="#SPGAmex" weight="9702" />
+      <edge id="87" source="#AmexNBA" target="#NBAPlayoffs" weight="6468" />
+      <edge id="88" source="#sustainability" target="#CSR" weight="3234" />
+      <edge id="89" source="#ExpressLove" target="#NYC" weight="3234" />
+      <edge id="90" source="#tech" target="#AmexTech" weight="3234" />
+    </edges>
+  </graph>
+</gexf>

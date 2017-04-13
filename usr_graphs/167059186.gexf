@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#whoops" label="#whoops" />
+      <node id="#beach" label="#beach" />
+      <node id="#nerd" label="#nerd" />
+      <node id="#Sparty" label="#Sparty" />
+      <node id="#MichiganAwesome" label="#MichiganAwesome" />
+      <node id="#betatesters" label="#betatesters" />
+      <node id="#Superbowl" label="#Superbowl" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#buzzwords" label="#buzzwords" />
+      <node id="#makeitcount" label="#makeitcount" />
+      <node id="#Wolverines" label="#Wolverines" />
+      <node id="#keepthefaith" label="#keepthefaith" />
+      <node id="#michiganbound" label="#michiganbound" />
+      <node id="#nikeplus" label="#nikeplus" />
+      <node id="#prettyrad" label="#prettyrad" />
+      <node id="#yum" label="#yum" />
+      <node id="#ecommerce" label="#ecommerce" />
+      <node id="#OutbackBowl" label="#OutbackBowl" />
+      <node id="#Eminem" label="#Eminem" />
+      <node id="#chrysler" label="#chrysler" />
+      <node id="#Airstream" label="#Airstream" />
+      <node id="#tistheseason" label="#tistheseason" />
+      <node id="#bouncingoffthewall" label="#bouncingoffthewall" />
+      <node id="#town" label="#town" />
+      <node id="#homehasneverfeltbetter" label="#homehasneverfeltbetter" />
+      <node id="#FunFriday" label="#FunFriday" />
+      <node id="#MSUMICH" label="#MSUMICH" />
+      <node id="#michigan" label="#michigan" />
+      <node id="#nbd" label="#nbd" />
+      <node id="#extraolives" label="#extraolives" />
+      <node id="#fb" label="#fb" />
+      <node id="#Midwest" label="#Midwest" />
+      <node id="#SugarBowl" label="#SugarBowl" />
+      <node id="#90sgirlproblems" label="#90sgirlproblems" />
+      <node id="#Michigan" label="#Michigan" />
+      <node id="#glimpseconf" label="#glimpseconf" />
+      <node id="#FindItFirst" label="#FindItFirst" />
+      <node id="#goodfriends" label="#goodfriends" />
+      <node id="#illgethim" label="#illgethim" />
+      <node id="#MidwestMafia" label="#MidwestMafia" />
+      <node id="#iphone" label="#iphone" />
+      <node id="#goodtimes" label="#goodtimes" />
+      <node id="#Lions" label="#Lions" />
+      <node id="#Tigers" label="#Tigers" />
+      <node id="#shopping" label="#shopping" />
+      <node id="#Detroit" label="#Detroit" />
+      <node id="#Spartans" label="#Spartans" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#whoops" target="#90sgirlproblems" weight="1921" />
+      <edge id="1" source="#beach" target="#town" weight="1921" />
+      <edge id="2" source="#nerd" target="#nbd" weight="1921" />
+      <edge id="3" source="#Sparty" target="#OutbackBowl" weight="1921" />
+      <edge id="4" source="#MichiganAwesome" target="#Tigers" weight="1921" />
+      <edge id="5" source="#betatesters" target="#shopping" weight="1921" />
+      <edge id="6" source="#betatesters" target="#iphone" weight="1921" />
+      <edge id="7" source="#betatesters" target="#ecommerce" weight="1921" />
+      <edge id="8" source="#Superbowl" target="#chrysler" weight="1921" />
+      <edge id="9" source="#Superbowl" target="#Eminem" weight="1921" />
+      <edge id="10" source="#WorldSeries" target="#Tigers" weight="1921" />
+      <edge id="11" source="#WorldSeries" target="#keepthefaith" weight="1921" />
+      <edge id="12" source="#buzzwords" target="#glimpseconf" weight="1921" />
+      <edge id="13" source="#makeitcount" target="#nikeplus" weight="1921" />
+      <edge id="14" source="#Wolverines" target="#Tigers" weight="1921" />
+      <edge id="15" source="#Wolverines" target="#Lions" weight="1921" />
+      <edge id="16" source="#Wolverines" target="#Spartans" weight="1921" />
+      <edge id="17" source="#keepthefaith" target="#Tigers" weight="1921" />
+      <edge id="18" source="#michiganbound" target="#illgethim" weight="1921" />
+      <edge id="19" source="#prettyrad" target="#MSUMICH" weight="1921" />
+      <edge id="20" source="#yum" target="#extraolives" weight="1921" />
+      <edge id="21" source="#ecommerce" target="#iphone" weight="1921" />
+      <edge id="22" source="#ecommerce" target="#shopping" weight="1921" />
+      <edge id="23" source="#OutbackBowl" target="#SugarBowl" weight="1921" />
+      <edge id="24" source="#Eminem" target="#chrysler" weight="1921" />
+      <edge id="25" source="#Airstream" target="#FindItFirst" weight="1921" />
+      <edge id="26" source="#tistheseason" target="#bouncingoffthewall" weight="1921" />
+      <edge id="27" source="#homehasneverfeltbetter" target="#michigan" weight="1921" />
+      <edge id="28" source="#FunFriday" target="#MidwestMafia" weight="1921" />
+      <edge id="29" source="#FunFriday" target="#Midwest" weight="1921" />
+      <edge id="30" source="#fb" target="#SugarBowl" weight="1921" />
+      <edge id="31" source="#fb" target="#Michigan" weight="1921" />
+      <edge id="32" source="#Midwest" target="#MidwestMafia" weight="1921" />
+      <edge id="33" source="#SugarBowl" target="#Michigan" weight="1921" />
+      <edge id="34" source="#goodfriends" target="#goodtimes" weight="1921" />
+      <edge id="35" source="#iphone" target="#shopping" weight="1921" />
+      <edge id="36" source="#Lions" target="#Tigers" weight="1921" />
+      <edge id="37" source="#Lions" target="#Spartans" weight="1921" />
+      <edge id="38" source="#Tigers" target="#Spartans" weight="1921" />
+      <edge id="39" source="#Tigers" target="#Detroit" weight="1921" />
+    </edges>
+  </graph>
+</gexf>

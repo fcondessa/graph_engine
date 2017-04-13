@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Illustrator" label="#Illustrator" />
+      <node id="#Posters" label="#Posters" />
+      <node id="#clintonreno" label="#clintonreno" />
+      <node id="#Artist" label="#Artist" />
+      <node id="#merkins" label="#merkins" />
+      <node id="#C2E2" label="#C2E2" />
+      <node id="#cowgirlfall" label="#cowgirlfall" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Illustrator" target="#Artist" weight="690" />
+      <edge id="1" source="#Illustrator" target="#Posters" weight="690" />
+      <edge id="2" source="#Posters" target="#Artist" weight="690" />
+      <edge id="3" source="#clintonreno" target="#C2E2" weight="690" />
+      <edge id="4" source="#merkins" target="#cowgirlfall" weight="690" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#beerforgood" label="#beerforgood" />
+      <node id="#FridayBeerTasting" label="#FridayBeerTasting" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#cannonfest" label="#cannonfest" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#cbusaletrail" label="#cbusaletrail" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#cbj" label="#cbj" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#drinkbeermadehere" label="#drinkbeermadehere" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#drinkupcolumbus" target="#cbusaletrail" weight="996" />
+      <edge id="1" source="#drinkupcolumbus" target="#FridayBeerTasting" weight="249" />
+      <edge id="2" source="#drinkupcolumbus" target="#asseenincolumbus" weight="249" />
+      <edge id="3" source="#drinkupcolumbus" target="#beerforgood" weight="249" />
+      <edge id="4" source="#drinkupcolumbus" target="#lifeincbus" weight="249" />
+      <edge id="5" source="#drinkupcolumbus" target="#drinkbeermadehere" weight="249" />
+      <edge id="6" source="#beerforgood" target="#asseenincolumbus" weight="249" />
+      <edge id="7" source="#beerforgood" target="#FridayBeerTasting" weight="249" />
+      <edge id="8" source="#FridayBeerTasting" target="#asseenincolumbus" weight="249" />
+      <edge id="9" source="#cannonfest" target="#cbj" weight="249" />
+      <edge id="10" source="#craftbeer" target="#cbus" weight="249" />
+      <edge id="11" source="#cbusaletrail" target="#lifeincbus" weight="249" />
+      <edge id="12" source="#cbusaletrail" target="#drinkbeermadehere" weight="249" />
+    </edges>
+  </graph>
+</gexf>

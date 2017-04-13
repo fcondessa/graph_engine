@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#patients" label="#patients" />
+      <node id="#rallyforwellness" label="#rallyforwellness" />
+      <node id="#RitzyRose" label="#RitzyRose" />
+      <node id="#blood" label="#blood" />
+      <node id="#alrightjackets" label="#alrightjackets" />
+      <node id="#Buckeye" label="#Buckeye" />
+      <node id="#GiveIn" label="#GiveIn" />
+      <node id="#OSUevents" label="#OSUevents" />
+      <node id="#BeatMichigan" label="#BeatMichigan" />
+      <node id="#interns" label="#interns" />
+      <node id="#DontEverGiveUp" label="#DontEverGiveUp" />
+      <node id="#savingliveseveryday" label="#savingliveseveryday" />
+      <node id="#puppylove" label="#puppylove" />
+      <node id="#lifesaver" label="#lifesaver" />
+      <node id="#ChooseYourDay" label="#ChooseYourDay" />
+      <node id="#RPAC" label="#RPAC" />
+      <node id="#osuevents" label="#osuevents" />
+      <node id="#BloodDrive" label="#BloodDrive" />
+      <node id="#RedCross" label="#RedCross" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#SuburbanPropaneCares" label="#SuburbanPropaneCares" />
+      <node id="#HeatSafety" label="#HeatSafety" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#gybexpo" label="#gybexpo" />
+      <node id="#lifeofaneventplanner" label="#lifeofaneventplanner" />
+      <node id="#bloodbattle" label="#bloodbattle" />
+      <node id="#PSU" label="#PSU" />
+      <node id="#SkullSession" label="#SkullSession" />
+      <node id="#Give" label="#Give" />
+      <node id="#Lifesaver" label="#Lifesaver" />
+      <node id="#homeoffice" label="#homeoffice" />
+      <node id="#iron" label="#iron" />
+      <node id="#personalbrand" label="#personalbrand" />
+      <node id="#WeigelHall" label="#WeigelHall" />
+      <node id="#JimmyV" label="#JimmyV" />
+      <node id="#motivates" label="#motivates" />
+      <node id="#socialselling" label="#socialselling" />
+      <node id="#WalkInsWelcome" label="#WalkInsWelcome" />
+      <node id="#broochbouquet" label="#broochbouquet" />
+      <node id="#savelives" label="#savelives" />
+      <node id="#osu" label="#osu" />
+      <node id="#job" label="#job" />
+      <node id="#digital" label="#digital" />
+      <node id="#familyfirst" label="#familyfirst" />
+      <node id="#BuckeyesBeatLions" label="#BuckeyesBeatLions" />
+      <node id="#LinkedIn" label="#LinkedIn" />
+      <node id="#BloodDonors" label="#BloodDonors" />
+      <node id="#design" label="#design" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#givenow" label="#givenow" />
+      <node id="#overtimebaby" label="#overtimebaby" />
+      <node id="#blooddrive" label="#blooddrive" />
+      <node id="#BloodBattle" label="#BloodBattle" />
+      <node id="#UrgentNeed" label="#UrgentNeed" />
+      <node id="#officebuddy" label="#officebuddy" />
+      <node id="#RestockTheShelves" label="#RestockTheShelves" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#patients" target="#givenow" weight="214" />
+      <edge id="1" source="#patients" target="#blood" weight="214" />
+      <edge id="2" source="#rallyforwellness" target="#osu" weight="214" />
+      <edge id="3" source="#RitzyRose" target="#broochbouquet" weight="214" />
+      <edge id="4" source="#blood" target="#givenow" weight="214" />
+      <edge id="5" source="#blood" target="#iron" weight="214" />
+      <edge id="6" source="#blood" target="#BeatMichigan" weight="214" />
+      <edge id="7" source="#blood" target="#BloodBattle" weight="214" />
+      <edge id="8" source="#alrightjackets" target="#overtimebaby" weight="214" />
+      <edge id="9" source="#Buckeye" target="#BeatMichigan" weight="214" />
+      <edge id="10" source="#Buckeye" target="#BloodBattle" weight="214" />
+      <edge id="11" source="#GiveIn" target="#Lifesaver" weight="214" />
+      <edge id="12" source="#OSUevents" target="#WeigelHall" weight="214" />
+      <edge id="13" source="#OSUevents" target="#lifesaver" weight="214" />
+      <edge id="14" source="#BeatMichigan" target="#BloodBattle" weight="428" />
+      <edge id="15" source="#interns" target="#givenow" weight="214" />
+      <edge id="16" source="#DontEverGiveUp" target="#JimmyV" weight="214" />
+      <edge id="17" source="#savingliveseveryday" target="#homeoffice" weight="214" />
+      <edge id="18" source="#puppylove" target="#officebuddy" weight="214" />
+      <edge id="19" source="#puppylove" target="#homeoffice" weight="214" />
+      <edge id="20" source="#lifesaver" target="#BloodDrive" weight="428" />
+      <edge id="21" source="#lifesaver" target="#RedCross" weight="428" />
+      <edge id="22" source="#lifesaver" target="#OSU" weight="214" />
+      <edge id="23" source="#lifesaver" target="#WeigelHall" weight="214" />
+      <edge id="24" source="#ChooseYourDay" target="#SuburbanPropaneCares" weight="214" />
+      <edge id="25" source="#RPAC" target="#blooddrive" weight="214" />
+      <edge id="26" source="#RPAC" target="#UrgentNeed" weight="214" />
+      <edge id="27" source="#osuevents" target="#bloodbattle" weight="214" />
+      <edge id="28" source="#osuevents" target="#savelives" weight="214" />
+      <edge id="29" source="#BloodDrive" target="#RedCross" weight="428" />
+      <edge id="30" source="#BloodDrive" target="#OSU" weight="214" />
+      <edge id="31" source="#BloodDrive" target="#OhioState" weight="214" />
+      <edge id="32" source="#RedCross" target="#HeatSafety" weight="214" />
+      <edge id="33" source="#RedCross" target="#givenow" weight="214" />
+      <edge id="34" source="#RedCross" target="#OSU" weight="214" />
+      <edge id="35" source="#RedCross" target="#RestockTheShelves" weight="214" />
+      <edge id="36" source="#OSU" target="#givenow" weight="214" />
+      <edge id="37" source="#OSU" target="#PSU" weight="214" />
+      <edge id="38" source="#gybexpo" target="#lifeofaneventplanner" weight="214" />
+      <edge id="39" source="#SkullSession" target="#GoBucks" weight="214" />
+      <edge id="40" source="#Give" target="#BloodDonors" weight="214" />
+      <edge id="41" source="#homeoffice" target="#officebuddy" weight="214" />
+      <edge id="42" source="#personalbrand" target="#socialselling" weight="214" />
+      <edge id="43" source="#personalbrand" target="#LinkedIn" weight="214" />
+      <edge id="44" source="#motivates" target="#familyfirst" weight="214" />
+      <edge id="45" source="#socialselling" target="#LinkedIn" weight="214" />
+      <edge id="46" source="#WalkInsWelcome" target="#BuckeyesBeatLions" weight="214" />
+      <edge id="47" source="#job" target="#digital" weight="214" />
+      <edge id="48" source="#job" target="#design" weight="214" />
+      <edge id="49" source="#digital" target="#design" weight="214" />
+      <edge id="50" source="#blooddrive" target="#UrgentNeed" weight="214" />
+    </edges>
+  </graph>
+</gexf>

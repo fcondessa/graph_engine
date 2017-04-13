@@ -1,0 +1,777 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuperMobility" label="#SuperMobility" />
+      <node id="#appdev" label="#appdev" />
+      <node id="#pay" label="#pay" />
+      <node id="#SecPlusDD" label="#SecPlusDD" />
+      <node id="#Integration" label="#Integration" />
+      <node id="#AllDone" label="#AllDone" />
+      <node id="#CIOs" label="#CIOs" />
+      <node id="#retail" label="#retail" />
+      <node id="#Apps" label="#Apps" />
+      <node id="#GRC" label="#GRC" />
+      <node id="#IBMCloudSummit" label="#IBMCloudSummit" />
+      <node id="#Mobility" label="#Mobility" />
+      <node id="#DevOps" label="#DevOps" />
+      <node id="#Startups" label="#Startups" />
+      <node id="#SmartStat" label="#SmartStat" />
+      <node id="#Cloud" label="#Cloud" />
+      <node id="#Research" label="#Research" />
+      <node id="#MSIgnite" label="#MSIgnite" />
+      <node id="#ECM" label="#ECM" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#MAXCC" label="#MAXCC" />
+      <node id="#LTE" label="#LTE" />
+      <node id="#CAAS" label="#CAAS" />
+      <node id="#ITJobs" label="#ITJobs" />
+      <node id="#StarWarsDay" label="#StarWarsDay" />
+      <node id="#AppDev" label="#AppDev" />
+      <node id="#channelcon15" label="#channelcon15" />
+      <node id="#Google" label="#Google" />
+      <node id="#PaaS" label="#PaaS" />
+      <node id="#government" label="#government" />
+      <node id="#OpenStack" label="#OpenStack" />
+      <node id="#ReThinkIt" label="#ReThinkIt" />
+      <node id="#Transformation" label="#Transformation" />
+      <node id="#epicfailure" label="#epicfailure" />
+      <node id="#Windows10" label="#Windows10" />
+      <node id="#CodeCon" label="#CodeCon" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#boomer" label="#boomer" />
+      <node id="#Linux" label="#Linux" />
+      <node id="#ITchannel" label="#ITchannel" />
+      <node id="#CDLive2016" label="#CDLive2016" />
+      <node id="#Uber" label="#Uber" />
+      <node id="#MobileCon" label="#MobileCon" />
+      <node id="#notready" label="#notready" />
+      <node id="#ChannelCon" label="#ChannelCon" />
+      <node id="#CIOChat" label="#CIOChat" />
+      <node id="#Entrepreneur" label="#Entrepreneur" />
+      <node id="#fb" label="#fb" />
+      <node id="#navsmbchat" label="#navsmbchat" />
+      <node id="#cognitive" label="#cognitive" />
+      <node id="#NoMoreJitters" label="#NoMoreJitters" />
+      <node id="#millennials" label="#millennials" />
+      <node id="#Dell" label="#Dell" />
+      <node id="#metroplextbc" label="#metroplextbc" />
+      <node id="#tigerpaw14" label="#tigerpaw14" />
+      <node id="#TechConvergence" label="#TechConvergence" />
+      <node id="#Build2015" label="#Build2015" />
+      <node id="#malware" label="#malware" />
+      <node id="#infonomics" label="#infonomics" />
+      <node id="#cpexpo" label="#cpexpo" />
+      <node id="#Lords" label="#Lords" />
+      <node id="#Channelcon16" label="#Channelcon16" />
+      <node id="#CompTIAperks" label="#CompTIAperks" />
+      <node id="#comptiaperks" label="#comptiaperks" />
+      <node id="#Docker" label="#Docker" />
+      <node id="#OpenShift" label="#OpenShift" />
+      <node id="#CIO" label="#CIO" />
+      <node id="#millennial" label="#millennial" />
+      <node id="#WebRTC" label="#WebRTC" />
+      <node id="#mobility" label="#mobility" />
+      <node id="#M2M" label="#M2M" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#Cybersecurity" label="#Cybersecurity" />
+      <node id="#Microservices" label="#Microservices" />
+      <node id="#IoT" label="#IoT" />
+      <node id="#MPLS" label="#MPLS" />
+      <node id="#Airbnb" label="#Airbnb" />
+      <node id="#autism" label="#autism" />
+      <node id="#ChannelCon16" label="#ChannelCon16" />
+      <node id="#CPExpo" label="#CPExpo" />
+      <node id="#gettingold" label="#gettingold" />
+      <node id="#winugly" label="#winugly" />
+      <node id="#CES2015" label="#CES2015" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#HCIS" label="#HCIS" />
+      <node id="#CS16" label="#CS16" />
+      <node id="#EMM" label="#EMM" />
+      <node id="#OpenSource" label="#OpenSource" />
+      <node id="#DigitalOrganizations" label="#DigitalOrganizations" />
+      <node id="#trustx2016" label="#trustx2016" />
+      <node id="#urban" label="#urban" />
+      <node id="#Containers" label="#Containers" />
+      <node id="#Mobile" label="#Mobile" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#iPhone5S" label="#iPhone5S" />
+      <node id="#WelcomeHomeCoach" label="#WelcomeHomeCoach" />
+      <node id="#newwaytowork" label="#newwaytowork" />
+      <node id="#Hadoop" label="#Hadoop" />
+      <node id="#Expedia" label="#Expedia" />
+      <node id="#HP" label="#HP" />
+      <node id="#THR0921" label="#THR0921" />
+      <node id="#genx" label="#genx" />
+      <node id="#Forrester" label="#Forrester" />
+      <node id="#talent" label="#talent" />
+      <node id="#Intranet" label="#Intranet" />
+      <node id="#5k" label="#5k" />
+      <node id="#GartnerDC" label="#GartnerDC" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#CES2016" label="#CES2016" />
+      <node id="#ChannelByte" label="#ChannelByte" />
+      <node id="#CES2014" label="#CES2014" />
+      <node id="#Networking" label="#Networking" />
+      <node id="#cisco" label="#cisco" />
+      <node id="#SMBs" label="#SMBs" />
+      <node id="#cloud" label="#cloud" />
+      <node id="#DattoCon15" label="#DattoCon15" />
+      <node id="#GartnerSYM" label="#GartnerSYM" />
+      <node id="#wearables" label="#wearables" />
+      <node id="#CloudPlus" label="#CloudPlus" />
+      <node id="#LongLiveIT" label="#LongLiveIT" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#digital" label="#digital" />
+      <node id="#futurebiz" label="#futurebiz" />
+      <node id="#feminism" label="#feminism" />
+      <node id="#AWS" label="#AWS" />
+      <node id="#SMB" label="#SMB" />
+      <node id="#IOT" label="#IOT" />
+      <node id="#SAPLumira" label="#SAPLumira" />
+      <node id="#digitaltransformation" label="#digitaltransformation" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#ForrForum" label="#ForrForum" />
+      <node id="#Moble" label="#Moble" />
+      <node id="#AskTheAnalyst" label="#AskTheAnalyst" />
+      <node id="#cloudcomputing" label="#cloudcomputing" />
+      <node id="#gamechanger" label="#gamechanger" />
+      <node id="#CompTIA" label="#CompTIA" />
+      <node id="#IT" label="#IT" />
+      <node id="#MSP" label="#MSP" />
+      <node id="#AI" label="#AI" />
+      <node id="#Track4Techs" label="#Track4Techs" />
+      <node id="#API" label="#API" />
+      <node id="#day2" label="#day2" />
+      <node id="#edtech" label="#edtech" />
+      <node id="#BabyBoomers" label="#BabyBoomers" />
+      <node id="#RHsummit" label="#RHsummit" />
+      <node id="#goblue" label="#goblue" />
+      <node id="#ccevent" label="#ccevent" />
+      <node id="#Verizon" label="#Verizon" />
+      <node id="#Security" label="#Security" />
+      <node id="#ButApparentlyTheWeekIsNotOver" label="#ButApparentlyTheWeekIsNotOver" />
+      <node id="#4WebinarsIn8Days" label="#4WebinarsIn8Days" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#FutureOfWork" label="#FutureOfWork" />
+      <node id="#machines" label="#machines" />
+      <node id="#AMM16" label="#AMM16" />
+      <node id="#indyref" label="#indyref" />
+      <node id="#virtualization" label="#virtualization" />
+      <node id="#RedHat" label="#RedHat" />
+      <node id="#Samsung" label="#Samsung" />
+      <node id="#managedservices" label="#managedservices" />
+      <node id="#MPs" label="#MPs" />
+      <node id="#data" label="#data" />
+      <node id="#NoSQL" label="#NoSQL" />
+      <node id="#InternetOfThings" label="#InternetOfThings" />
+      <node id="#ITFlyIn" label="#ITFlyIn" />
+      <node id="#Framework" label="#Framework" />
+      <node id="#4biz" label="#4biz" />
+      <node id="#ProductivityEverywhere" label="#ProductivityEverywhere" />
+      <node id="#smartcities" label="#smartcities" />
+      <node id="#IBMandBox" label="#IBMandBox" />
+      <node id="#ebusiness" label="#ebusiness" />
+      <node id="#technology" label="#technology" />
+      <node id="#ChannelCon15" label="#ChannelCon15" />
+      <node id="#GartnerCAT" label="#GartnerCAT" />
+      <node id="#HTML5" label="#HTML5" />
+      <node id="#ITExpo" label="#ITExpo" />
+      <node id="#CSPs" label="#CSPs" />
+      <node id="#Leadingin3D" label="#Leadingin3D" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#Shift" label="#Shift" />
+      <node id="#GirlsinSTEM" label="#GirlsinSTEM" />
+      <node id="#Analytics" label="#Analytics" />
+      <node id="#GoBlue" label="#GoBlue" />
+      <node id="#MSFT" label="#MSFT" />
+      <node id="#mrx" label="#mrx" />
+      <node id="#CTIA" label="#CTIA" />
+      <node id="#COPE" label="#COPE" />
+      <node id="#toast" label="#toast" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#social" label="#social" />
+      <node id="#hybrid" label="#hybrid" />
+      <node id="#socbiz" label="#socbiz" />
+      <node id="#infrastructure" label="#infrastructure" />
+      <node id="#datacenter" label="#datacenter" />
+      <node id="#BYOD" label="#BYOD" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#cybersecurity" label="#cybersecurity" />
+      <node id="#AELPCon15" label="#AELPCon15" />
+      <node id="#APIs" label="#APIs" />
+      <node id="#ibm" label="#ibm" />
+      <node id="#NCSLSummit" label="#NCSLSummit" />
+      <node id="#sillyAmerican" label="#sillyAmerican" />
+      <node id="#WPC15" label="#WPC15" />
+      <node id="#geekgirl" label="#geekgirl" />
+      <node id="#CDLive2015" label="#CDLive2015" />
+      <node id="#DDoS" label="#DDoS" />
+      <node id="#CX" label="#CX" />
+      <node id="#CES" label="#CES" />
+      <node id="#CloudComputing" label="#CloudComputing" />
+      <node id="#SDN" label="#SDN" />
+      <node id="#IBMWatson" label="#IBMWatson" />
+      <node id="#IBM" label="#IBM" />
+      <node id="#IaaS" label="#IaaS" />
+      <node id="#MSPs" label="#MSPs" />
+      <node id="#tech" label="#tech" />
+      <node id="#Millennials" label="#Millennials" />
+      <node id="#WOTC14" label="#WOTC14" />
+      <node id="#AR" label="#AR" />
+      <node id="#MoralVictory" label="#MoralVictory" />
+      <node id="#InternetofThings" label="#InternetofThings" />
+      <node id="#apple" label="#apple" />
+      <node id="#SMAC" label="#SMAC" />
+      <node id="#CloudStack" label="#CloudStack" />
+      <node id="#Digitaltransformation" label="#Digitaltransformation" />
+      <node id="#tax" label="#tax" />
+      <node id="#Blockchain" label="#Blockchain" />
+      <node id="#Futurebiz" label="#Futurebiz" />
+      <node id="#Tigerpaw14" label="#Tigerpaw14" />
+      <node id="#andthenchat" label="#andthenchat" />
+      <node id="#channelcon" label="#channelcon" />
+      <node id="#google" label="#google" />
+      <node id="#iot" label="#iot" />
+      <node id="#MarketingStrategy" label="#MarketingStrategy" />
+      <node id="#behavioral" label="#behavioral" />
+      <node id="#ChannelBytes" label="#ChannelBytes" />
+      <node id="#mBaaS" label="#mBaaS" />
+      <node id="#mobileapps" label="#mobileapps" />
+      <node id="#socialera" label="#socialera" />
+      <node id="#marathon" label="#marathon" />
+      <node id="#Aruba" label="#Aruba" />
+      <node id="#VAR" label="#VAR" />
+      <node id="#Alphabet" label="#Alphabet" />
+      <node id="#FreeCommunityCollege" label="#FreeCommunityCollege" />
+      <node id="#AskCompTIA" label="#AskCompTIA" />
+      <node id="#PowerofPrecisionChat" label="#PowerofPrecisionChat" />
+      <node id="#Webroot" label="#Webroot" />
+      <node id="#SaaS" label="#SaaS" />
+      <node id="#UX" label="#UX" />
+      <node id="#GartnerBI" label="#GartnerBI" />
+      <node id="#free" label="#free" />
+      <node id="#OfficeLens" label="#OfficeLens" />
+      <node id="#RackspaceSolve" label="#RackspaceSolve" />
+      <node id="#skills" label="#skills" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#channel" label="#channel" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#ITsecurity" label="#ITsecurity" />
+      <node id="#convergence" label="#convergence" />
+      <node id="#DevSecOps" label="#DevSecOps" />
+      <node id="#IDCatCES2016" label="#IDCatCES2016" />
+      <node id="#AppleEvent" label="#AppleEvent" />
+      <node id="#openstack" label="#openstack" />
+      <node id="#brightandearly" label="#brightandearly" />
+      <node id="#FutureLeaders" label="#FutureLeaders" />
+      <node id="#human" label="#human" />
+      <node id="#IAMCP" label="#IAMCP" />
+      <node id="#SAPCDW" label="#SAPCDW" />
+      <node id="#TC100" label="#TC100" />
+      <node id="#IoTE2016" label="#IoTE2016" />
+      <node id="#VR" label="#VR" />
+      <node id="#CloudPartners" label="#CloudPartners" />
+      <node id="#JBoss" label="#JBoss" />
+      <node id="#github" label="#github" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#cvexpo" label="#cvexpo" />
+      <node id="#ces2015" label="#ces2015" />
+      <node id="#Microsoft" label="#Microsoft" />
+      <node id="#SecurityPlus" label="#SecurityPlus" />
+      <node id="#comptia" label="#comptia" />
+      <node id="#mainframe" label="#mainframe" />
+      <node id="#MAXIQ" label="#MAXIQ" />
+      <node id="#CDO" label="#CDO" />
+      <node id="#iPhone" label="#iPhone" />
+      <node id="#security" label="#security" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#Surface" label="#Surface" />
+      <node id="#CE16" label="#CE16" />
+      <node id="#askCompTIA" label="#askCompTIA" />
+      <node id="#DigitalWorkplace" label="#DigitalWorkplace" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuperMobility" target="#CTIA" weight="6392" />
+      <edge id="1" source="#SuperMobility" target="#mobility" weight="3196" />
+      <edge id="2" source="#SuperMobility" target="#MobileCon" weight="3196" />
+      <edge id="3" source="#appdev" target="#CIO" weight="3196" />
+      <edge id="4" source="#pay" target="#MSPs" weight="3196" />
+      <edge id="5" source="#pay" target="#ChannelCon16" weight="3196" />
+      <edge id="6" source="#SecPlusDD" target="#Security" weight="3196" />
+      <edge id="7" source="#SecPlusDD" target="#technology" weight="3196" />
+      <edge id="8" source="#SecPlusDD" target="#CompTIA" weight="3196" />
+      <edge id="9" source="#SecPlusDD" target="#tech" weight="3196" />
+      <edge id="10" source="#SecPlusDD" target="#edtech" weight="3196" />
+      <edge id="11" source="#Integration" target="#RedHat" weight="3196" />
+      <edge id="12" source="#Integration" target="#Healthcare" weight="3196" />
+      <edge id="13" source="#Integration" target="#JBoss" weight="3196" />
+      <edge id="14" source="#AllDone" target="#security" weight="3196" />
+      <edge id="15" source="#AllDone" target="#ChannelBytes" weight="3196" />
+      <edge id="16" source="#AllDone" target="#ChannelCon" weight="3196" />
+      <edge id="17" source="#CIOs" target="#security" weight="3196" />
+      <edge id="18" source="#CIOs" target="#mobileapps" weight="6392" />
+      <edge id="19" source="#retail" target="#mobility" weight="3196" />
+      <edge id="20" source="#retail" target="#cpexpo" weight="3196" />
+      <edge id="21" source="#Apps" target="#Cloud" weight="3196" />
+      <edge id="22" source="#GRC" target="#EMM" weight="3196" />
+      <edge id="23" source="#GRC" target="#IBMandBox" weight="3196" />
+      <edge id="24" source="#GRC" target="#ECM" weight="3196" />
+      <edge id="25" source="#GRC" target="#mobileapps" weight="3196" />
+      <edge id="26" source="#GRC" target="#analytics" weight="3196" />
+      <edge id="27" source="#IBMCloudSummit" target="#Blockchain" weight="3196" />
+      <edge id="28" source="#IBMCloudSummit" target="#IoT" weight="3196" />
+      <edge id="29" source="#Mobility" target="#Cloud" weight="6392" />
+      <edge id="30" source="#Mobility" target="#DattoCon15" weight="3196" />
+      <edge id="31" source="#Mobility" target="#DigitalOrganizations" weight="3196" />
+      <edge id="32" source="#Mobility" target="#ChannelCon15" weight="3196" />
+      <edge id="33" source="#DevOps" target="#DevSecOps" weight="3196" />
+      <edge id="34" source="#DevOps" target="#M2M" weight="3196" />
+      <edge id="35" source="#DevOps" target="#security" weight="3196" />
+      <edge id="36" source="#DevOps" target="#API" weight="3196" />
+      <edge id="37" source="#DevOps" target="#Microservices" weight="3196" />
+      <edge id="38" source="#DevOps" target="#IoT" weight="3196" />
+      <edge id="39" source="#Startups" target="#MarketingStrategy" weight="3196" />
+      <edge id="40" source="#Startups" target="#Entrepreneur" weight="3196" />
+      <edge id="41" source="#SmartStat" target="#CompTIA" weight="6392" />
+      <edge id="42" source="#SmartStat" target="#IoT" weight="3196" />
+      <edge id="43" source="#Cloud" target="#WPC15" weight="3196" />
+      <edge id="44" source="#Cloud" target="#DattoCon15" weight="3196" />
+      <edge id="45" source="#Cloud" target="#ChannelCon15" weight="3196" />
+      <edge id="46" source="#Cloud" target="#DigitalOrganizations" weight="3196" />
+      <edge id="47" source="#Cloud" target="#MSP" weight="3196" />
+      <edge id="48" source="#Cloud" target="#ChannelCon" weight="3196" />
+      <edge id="49" source="#Cloud" target="#cloudcomputing" weight="3196" />
+      <edge id="50" source="#Cloud" target="#OpenStack" weight="3196" />
+      <edge id="51" source="#Cloud" target="#IaaS" weight="3196" />
+      <edge id="52" source="#Cloud" target="#M2M" weight="3196" />
+      <edge id="53" source="#Cloud" target="#API" weight="3196" />
+      <edge id="54" source="#Cloud" target="#BigData" weight="3196" />
+      <edge id="55" source="#Cloud" target="#AWS" weight="3196" />
+      <edge id="56" source="#Cloud" target="#GartnerCAT" weight="3196" />
+      <edge id="57" source="#Cloud" target="#CloudPlus" weight="3196" />
+      <edge id="58" source="#Cloud" target="#IoT" weight="3196" />
+      <edge id="59" source="#Research" target="#CompTIA" weight="3196" />
+      <edge id="60" source="#Research" target="#socialmedia" weight="3196" />
+      <edge id="61" source="#MSIgnite" target="#Microsoft" weight="3196" />
+      <edge id="62" source="#MSIgnite" target="#THR0921" weight="3196" />
+      <edge id="63" source="#MSIgnite" target="#Transformation" weight="3196" />
+      <edge id="64" source="#MSIgnite" target="#Shift" weight="3196" />
+      <edge id="65" source="#MSIgnite" target="#ProductivityEverywhere" weight="3196" />
+      <edge id="66" source="#MSIgnite" target="#iPhone" weight="3196" />
+      <edge id="67" source="#ECM" target="#IBMandBox" weight="3196" />
+      <edge id="68" source="#ECM" target="#EMM" weight="3196" />
+      <edge id="69" source="#ECM" target="#analytics" weight="3196" />
+      <edge id="70" source="#ECM" target="#mobileapps" weight="3196" />
+      <edge id="71" source="#leadership" target="#socbiz" weight="3196" />
+      <edge id="72" source="#leadership" target="#DigitalWorkplace" weight="3196" />
+      <edge id="73" source="#MAXCC" target="#tigerpaw14" weight="3196" />
+      <edge id="74" source="#MAXCC" target="#ChannelCon" weight="3196" />
+      <edge id="75" source="#MAXCC" target="#MSP" weight="3196" />
+      <edge id="76" source="#MAXCC" target="#MAXIQ" weight="3196" />
+      <edge id="77" source="#MAXCC" target="#managedservices" weight="3196" />
+      <edge id="78" source="#MAXCC" target="#CloudPartners" weight="9588" />
+      <edge id="79" source="#MAXCC" target="#SMAC" weight="3196" />
+      <edge id="80" source="#LTE" target="#machines" weight="3196" />
+      <edge id="81" source="#LTE" target="#security" weight="3196" />
+      <edge id="82" source="#LTE" target="#CPExpo" weight="3196" />
+      <edge id="83" source="#LTE" target="#IOT" weight="3196" />
+      <edge id="84" source="#CAAS" target="#CodeCon" weight="3196" />
+      <edge id="85" source="#ITJobs" target="#FreeCommunityCollege" weight="3196" />
+      <edge id="86" source="#StarWarsDay" target="#CompTIA" weight="3196" />
+      <edge id="87" source="#AppDev" target="#CDLive2015" weight="3196" />
+      <edge id="88" source="#AppDev" target="#IoT" weight="3196" />
+      <edge id="89" source="#AppDev" target="#BigData" weight="3196" />
+      <edge id="90" source="#channelcon15" target="#askCompTIA" weight="3196" />
+      <edge id="91" source="#channelcon15" target="#iot" weight="3196" />
+      <edge id="92" source="#Google" target="#OfficeLens" weight="3196" />
+      <edge id="93" source="#Google" target="#Microsoft" weight="3196" />
+      <edge id="94" source="#Google" target="#Alphabet" weight="3196" />
+      <edge id="95" source="#PaaS" target="#mobility" weight="3196" />
+      <edge id="96" source="#PaaS" target="#mBaaS" weight="3196" />
+      <edge id="97" source="#government" target="#cloud" weight="3196" />
+      <edge id="98" source="#OpenStack" target="#Verizon" weight="3196" />
+      <edge id="99" source="#OpenStack" target="#RedHat" weight="6392" />
+      <edge id="100" source="#OpenStack" target="#OpenSource" weight="3196" />
+      <edge id="101" source="#OpenStack" target="#Docker" weight="3196" />
+      <edge id="102" source="#OpenStack" target="#CloudStack" weight="3196" />
+      <edge id="103" source="#OpenStack" target="#Dell" weight="3196" />
+      <edge id="104" source="#OpenStack" target="#cloud" weight="3196" />
+      <edge id="105" source="#ReThinkIt" target="#SocialMedia" weight="3196" />
+      <edge id="106" source="#Transformation" target="#iPhone" weight="3196" />
+      <edge id="107" source="#Transformation" target="#Microsoft" weight="3196" />
+      <edge id="108" source="#Transformation" target="#ProductivityEverywhere" weight="3196" />
+      <edge id="109" source="#Transformation" target="#Shift" weight="3196" />
+      <edge id="110" source="#epicfailure" target="#IoT" weight="3196" />
+      <edge id="111" source="#Windows10" target="#Build2015" weight="3196" />
+      <edge id="112" source="#healthcare" target="#security" weight="3196" />
+      <edge id="113" source="#Apple" target="#Samsung" weight="3196" />
+      <edge id="114" source="#boomer" target="#genx" weight="3196" />
+      <edge id="115" source="#boomer" target="#millennial" weight="3196" />
+      <edge id="116" source="#Linux" target="#security" weight="3196" />
+      <edge id="117" source="#Linux" target="#ChannelCon16" weight="6392" />
+      <edge id="118" source="#Linux" target="#Track4Techs" weight="3196" />
+      <edge id="119" source="#Linux" target="#CompTIA" weight="3196" />
+      <edge id="120" source="#ITchannel" target="#technology" weight="3196" />
+      <edge id="121" source="#ITchannel" target="#SMBs" weight="3196" />
+      <edge id="122" source="#CDLive2016" target="#IT" weight="3196" />
+      <edge id="123" source="#Uber" target="#Airbnb" weight="3196" />
+      <edge id="124" source="#Uber" target="#Expedia" weight="3196" />
+      <edge id="125" source="#Uber" target="#Facebook" weight="3196" />
+      <edge id="126" source="#MobileCon" target="#CTIA" weight="3196" />
+      <edge id="127" source="#notready" target="#gettingold" weight="3196" />
+      <edge id="128" source="#ChannelCon" target="#tigerpaw14" weight="3196" />
+      <edge id="129" source="#ChannelCon" target="#convergence" weight="3196" />
+      <edge id="130" source="#ChannelCon" target="#Tigerpaw14" weight="3196" />
+      <edge id="131" source="#ChannelCon" target="#social" weight="3196" />
+      <edge id="132" source="#ChannelCon" target="#mobility" weight="12784" />
+      <edge id="133" source="#ChannelCon" target="#MSP" weight="3196" />
+      <edge id="134" source="#ChannelCon" target="#ChannelBytes" weight="3196" />
+      <edge id="135" source="#ChannelCon" target="#BigData" weight="3196" />
+      <edge id="136" source="#ChannelCon" target="#behavioral" weight="3196" />
+      <edge id="137" source="#ChannelCon" target="#CloudComputing" weight="3196" />
+      <edge id="138" source="#ChannelCon" target="#BYOD" weight="3196" />
+      <edge id="139" source="#ChannelCon" target="#cloud" weight="12784" />
+      <edge id="140" source="#ChannelCon" target="#bigdata" weight="3196" />
+      <edge id="141" source="#ChannelCon" target="#CloudPartners" weight="3196" />
+      <edge id="142" source="#ChannelCon" target="#TechConvergence" weight="3196" />
+      <edge id="143" source="#ChannelCon" target="#5k" weight="3196" />
+      <edge id="144" source="#ChannelCon" target="#security" weight="6392" />
+      <edge id="145" source="#ChannelCon" target="#SMAC" weight="3196" />
+      <edge id="146" source="#CIOChat" target="#CIO" weight="3196" />
+      <edge id="147" source="#Entrepreneur" target="#MarketingStrategy" weight="3196" />
+      <edge id="148" source="#fb" target="#goblue" weight="3196" />
+      <edge id="149" source="#fb" target="#GoBlue" weight="6392" />
+      <edge id="150" source="#navsmbchat" target="#smallbiz" weight="3196" />
+      <edge id="151" source="#cognitive" target="#GartnerSYM" weight="3196" />
+      <edge id="152" source="#NoMoreJitters" target="#GoBlue" weight="3196" />
+      <edge id="153" source="#millennials" target="#channel" weight="6392" />
+      <edge id="154" source="#Dell" target="#RedHat" weight="3196" />
+      <edge id="155" source="#Dell" target="#cloud" weight="3196" />
+      <edge id="156" source="#Dell" target="#Verizon" weight="3196" />
+      <edge id="157" source="#metroplextbc" target="#cybersecurity" weight="3196" />
+      <edge id="158" source="#tigerpaw14" target="#CloudPartners" weight="3196" />
+      <edge id="159" source="#tigerpaw14" target="#SMAC" weight="3196" />
+      <edge id="160" source="#malware" target="#ChannelCon16" weight="3196" />
+      <edge id="161" source="#malware" target="#Track4Techs" weight="3196" />
+      <edge id="162" source="#malware" target="#security" weight="3196" />
+      <edge id="163" source="#infonomics" target="#GartnerBI" weight="3196" />
+      <edge id="164" source="#cpexpo" target="#AMM16" weight="3196" />
+      <edge id="165" source="#cpexpo" target="#mobility" weight="9588" />
+      <edge id="166" source="#cpexpo" target="#BYOD" weight="6392" />
+      <edge id="167" source="#cpexpo" target="#security" weight="6392" />
+      <edge id="168" source="#cpexpo" target="#IoT" weight="6392" />
+      <edge id="169" source="#Lords" target="#MPs" weight="3196" />
+      <edge id="170" source="#Lords" target="#jobs" weight="3196" />
+      <edge id="171" source="#Lords" target="#skills" weight="3196" />
+      <edge id="172" source="#Lords" target="#IT" weight="3196" />
+      <edge id="173" source="#Channelcon16" target="#free" weight="3196" />
+      <edge id="174" source="#CompTIAperks" target="#GirlsinSTEM" weight="3196" />
+      <edge id="175" source="#comptiaperks" target="#mobility" weight="3196" />
+      <edge id="176" source="#Docker" target="#Microsoft" weight="3196" />
+      <edge id="177" source="#OpenShift" target="#Containers" weight="3196" />
+      <edge id="178" source="#OpenShift" target="#RHsummit" weight="3196" />
+      <edge id="179" source="#CIO" target="#IT" weight="3196" />
+      <edge id="180" source="#millennial" target="#genx" weight="3196" />
+      <edge id="181" source="#WebRTC" target="#ITExpo" weight="3196" />
+      <edge id="182" source="#mobility" target="#CPExpo" weight="3196" />
+      <edge id="183" source="#mobility" target="#channelcon" weight="3196" />
+      <edge id="184" source="#mobility" target="#ChannelByte" weight="6392" />
+      <edge id="185" source="#mobility" target="#Security" weight="3196" />
+      <edge id="186" source="#mobility" target="#mBaaS" weight="3196" />
+      <edge id="187" source="#mobility" target="#FutureLeaders" weight="6392" />
+      <edge id="188" source="#mobility" target="#ChannelCon15" weight="15980" />
+      <edge id="189" source="#mobility" target="#BigData" weight="3196" />
+      <edge id="190" source="#mobility" target="#convergence" weight="3196" />
+      <edge id="191" source="#mobility" target="#CES2014" weight="3196" />
+      <edge id="192" source="#mobility" target="#bigdata" weight="6392" />
+      <edge id="193" source="#mobility" target="#GartnerSYM" weight="3196" />
+      <edge id="194" source="#mobility" target="#BYOD" weight="9588" />
+      <edge id="195" source="#mobility" target="#gamechanger" weight="3196" />
+      <edge id="196" source="#mobility" target="#security" weight="3196" />
+      <edge id="197" source="#mobility" target="#ITsecurity" weight="3196" />
+      <edge id="198" source="#mobility" target="#cloud" weight="63920" />
+      <edge id="199" source="#M2M" target="#BigData" weight="9588" />
+      <edge id="200" source="#M2M" target="#API" weight="9588" />
+      <edge id="201" source="#M2M" target="#Microservices" weight="6392" />
+      <edge id="202" source="#M2M" target="#IoT" weight="12784" />
+      <edge id="203" source="#Healthcare" target="#RedHat" weight="3196" />
+      <edge id="204" source="#Healthcare" target="#JBoss" weight="3196" />
+      <edge id="205" source="#Cybersecurity" target="#AskCompTIA" weight="3196" />
+      <edge id="206" source="#Microservices" target="#IoT" weight="6392" />
+      <edge id="207" source="#Microservices" target="#API" weight="3196" />
+      <edge id="208" source="#Microservices" target="#BigData" weight="3196" />
+      <edge id="209" source="#IoT" target="#Blockchain" weight="3196" />
+      <edge id="210" source="#IoT" target="#ChannelCon16" weight="3196" />
+      <edge id="211" source="#IoT" target="#ChannelCon15" weight="15980" />
+      <edge id="212" source="#IoT" target="#OpenSource" weight="3196" />
+      <edge id="213" source="#IoT" target="#4biz" weight="3196" />
+      <edge id="214" source="#IoT" target="#IDCatCES2016" weight="3196" />
+      <edge id="215" source="#IoT" target="#AMM16" weight="3196" />
+      <edge id="216" source="#IoT" target="#ebusiness" weight="3196" />
+      <edge id="217" source="#IoT" target="#skills" weight="3196" />
+      <edge id="218" source="#IoT" target="#bigdata" weight="3196" />
+      <edge id="219" source="#IoT" target="#channel" weight="3196" />
+      <edge id="220" source="#IoT" target="#CES2016" weight="3196" />
+      <edge id="221" source="#IoT" target="#CES2015" weight="3196" />
+      <edge id="222" source="#IoT" target="#futurebiz" weight="15980" />
+      <edge id="223" source="#IoT" target="#wearables" weight="3196" />
+      <edge id="224" source="#IoT" target="#BigData" weight="25568" />
+      <edge id="225" source="#IoT" target="#IoTE2016" weight="3196" />
+      <edge id="226" source="#IoT" target="#AELPCon15" weight="3196" />
+      <edge id="227" source="#IoT" target="#smartcities" weight="3196" />
+      <edge id="228" source="#IoT" target="#APIs" weight="3196" />
+      <edge id="229" source="#IoT" target="#CDLive2015" weight="3196" />
+      <edge id="230" source="#IoT" target="#DDoS" weight="3196" />
+      <edge id="231" source="#IoT" target="#Futurebiz" weight="3196" />
+      <edge id="232" source="#IoT" target="#CompTIA" weight="3196" />
+      <edge id="233" source="#IoT" target="#security" weight="12784" />
+      <edge id="234" source="#IoT" target="#API" weight="9588" />
+      <edge id="235" source="#IoT" target="#cloud" weight="9588" />
+      <edge id="236" source="#IoT" target="#InternetofThings" weight="3196" />
+      <edge id="237" source="#IoT" target="#mobile" weight="3196" />
+      <edge id="238" source="#MPLS" target="#SDN" weight="3196" />
+      <edge id="239" source="#Airbnb" target="#Expedia" weight="3196" />
+      <edge id="240" source="#Airbnb" target="#Facebook" weight="3196" />
+      <edge id="241" source="#autism" target="#AI" weight="3196" />
+      <edge id="242" source="#ChannelCon16" target="#Moble" weight="3196" />
+      <edge id="243" source="#ChannelCon16" target="#CompTIA" weight="3196" />
+      <edge id="244" source="#ChannelCon16" target="#MSPs" weight="3196" />
+      <edge id="245" source="#ChannelCon16" target="#Track4Techs" weight="38352" />
+      <edge id="246" source="#ChannelCon16" target="#security" weight="6392" />
+      <edge id="247" source="#ChannelCon16" target="#cloud" weight="6392" />
+      <edge id="248" source="#ChannelCon16" target="#Mobile" weight="3196" />
+      <edge id="249" source="#CPExpo" target="#machines" weight="3196" />
+      <edge id="250" source="#CPExpo" target="#CompTIA" weight="3196" />
+      <edge id="251" source="#CPExpo" target="#security" weight="3196" />
+      <edge id="252" source="#CPExpo" target="#cloud" weight="3196" />
+      <edge id="253" source="#CPExpo" target="#IOT" weight="3196" />
+      <edge id="254" source="#winugly" target="#GoBlue" weight="3196" />
+      <edge id="255" source="#smallbiz" target="#ITFlyIn" weight="3196" />
+      <edge id="256" source="#smallbiz" target="#tax" weight="3196" />
+      <edge id="257" source="#HCIS" target="#GartnerDC" weight="3196" />
+      <edge id="258" source="#CS16" target="#cloud" weight="6392" />
+      <edge id="259" source="#EMM" target="#analytics" weight="3196" />
+      <edge id="260" source="#EMM" target="#mobileapps" weight="3196" />
+      <edge id="261" source="#EMM" target="#IBMandBox" weight="3196" />
+      <edge id="262" source="#OpenSource" target="#ChannelCon15" weight="3196" />
+      <edge id="263" source="#OpenSource" target="#cloud" weight="3196" />
+      <edge id="264" source="#OpenSource" target="#security" weight="3196" />
+      <edge id="265" source="#OpenSource" target="#NoSQL" weight="3196" />
+      <edge id="266" source="#OpenSource" target="#github" weight="3196" />
+      <edge id="267" source="#DigitalOrganizations" target="#DattoCon15" weight="3196" />
+      <edge id="268" source="#DigitalOrganizations" target="#ChannelCon15" weight="6392" />
+      <edge id="269" source="#trustx2016" target="#security" weight="3196" />
+      <edge id="270" source="#urban" target="#IT" weight="3196" />
+      <edge id="271" source="#Containers" target="#RHsummit" weight="3196" />
+      <edge id="272" source="#webinar" target="#Intranet" weight="3196" />
+      <edge id="273" source="#iPhone5S" target="#security" weight="3196" />
+      <edge id="274" source="#WelcomeHomeCoach" target="#GoBlue" weight="3196" />
+      <edge id="275" source="#newwaytowork" target="#socialera" weight="3196" />
+      <edge id="276" source="#Hadoop" target="#BigData" weight="3196" />
+      <edge id="277" source="#Hadoop" target="#Forrester" weight="3196" />
+      <edge id="278" source="#Hadoop" target="#Analytics" weight="3196" />
+      <edge id="279" source="#Expedia" target="#Facebook" weight="3196" />
+      <edge id="280" source="#HP" target="#SaaS" weight="3196" />
+      <edge id="281" source="#HP" target="#Aruba" weight="3196" />
+      <edge id="282" source="#Forrester" target="#BigData" weight="3196" />
+      <edge id="283" source="#Forrester" target="#Analytics" weight="3196" />
+      <edge id="284" source="#talent" target="#cloud" weight="3196" />
+      <edge id="285" source="#talent" target="#MSP" weight="3196" />
+      <edge id="286" source="#GartnerDC" target="#cloud" weight="3196" />
+      <edge id="287" source="#analytics" target="#IBMandBox" weight="3196" />
+      <edge id="288" source="#analytics" target="#mobileapps" weight="3196" />
+      <edge id="289" source="#analytics" target="#BigData" weight="3196" />
+      <edge id="290" source="#CES2016" target="#IDCatCES2016" weight="3196" />
+      <edge id="291" source="#CES2014" target="#gamechanger" weight="3196" />
+      <edge id="292" source="#Networking" target="#BigData" weight="3196" />
+      <edge id="293" source="#Networking" target="#CompTIA" weight="3196" />
+      <edge id="294" source="#Networking" target="#ChannelCon15" weight="3196" />
+      <edge id="295" source="#cisco" target="#AWS" weight="3196" />
+      <edge id="296" source="#cisco" target="#ccevent" weight="3196" />
+      <edge id="297" source="#SMBs" target="#technology" weight="3196" />
+      <edge id="298" source="#SMBs" target="#Webroot" weight="3196" />
+      <edge id="299" source="#SMBs" target="#SAPLumira" weight="3196" />
+      <edge id="300" source="#SMBs" target="#MSPs" weight="3196" />
+      <edge id="301" source="#SMBs" target="#security" weight="3196" />
+      <edge id="302" source="#SMBs" target="#bigdata" weight="3196" />
+      <edge id="303" source="#SMBs" target="#SAPCDW" weight="3196" />
+      <edge id="304" source="#cloud" target="#Verizon" weight="3196" />
+      <edge id="305" source="#cloud" target="#ChannelCon15" weight="12784" />
+      <edge id="306" source="#cloud" target="#google" weight="3196" />
+      <edge id="307" source="#cloud" target="#RedHat" weight="6392" />
+      <edge id="308" source="#cloud" target="#Security" weight="3196" />
+      <edge id="309" source="#cloud" target="#NoSQL" weight="3196" />
+      <edge id="310" source="#cloud" target="#openstack" weight="3196" />
+      <edge id="311" source="#cloud" target="#RackspaceSolve" weight="3196" />
+      <edge id="312" source="#cloud" target="#AMM16" weight="3196" />
+      <edge id="313" source="#cloud" target="#CSPs" weight="3196" />
+      <edge id="314" source="#cloud" target="#FutureLeaders" weight="6392" />
+      <edge id="315" source="#cloud" target="#channelcon" weight="3196" />
+      <edge id="316" source="#cloud" target="#CE16" weight="3196" />
+      <edge id="317" source="#cloud" target="#bigdata" weight="19176" />
+      <edge id="318" source="#cloud" target="#convergence" weight="3196" />
+      <edge id="319" source="#cloud" target="#BigData" weight="3196" />
+      <edge id="320" source="#cloud" target="#TC100" weight="6392" />
+      <edge id="321" source="#cloud" target="#cybersecurity" weight="3196" />
+      <edge id="322" source="#cloud" target="#github" weight="3196" />
+      <edge id="323" source="#cloud" target="#hybrid" weight="3196" />
+      <edge id="324" source="#cloud" target="#Microsoft" weight="6392" />
+      <edge id="325" source="#cloud" target="#APIs" weight="3196" />
+      <edge id="326" source="#cloud" target="#MSP" weight="3196" />
+      <edge id="327" source="#cloud" target="#VR" weight="3196" />
+      <edge id="328" source="#cloud" target="#security" weight="15980" />
+      <edge id="329" source="#cloud" target="#ITsecurity" weight="3196" />
+      <edge id="330" source="#cloud" target="#CloudPartners" weight="3196" />
+      <edge id="331" source="#cloud" target="#mobile" weight="12784" />
+      <edge id="332" source="#cloud" target="#ccevent" weight="3196" />
+      <edge id="333" source="#DattoCon15" target="#CompTIA" weight="3196" />
+      <edge id="334" source="#wearables" target="#ebusiness" weight="3196" />
+      <edge id="335" source="#wearables" target="#ces2015" weight="3196" />
+      <edge id="336" source="#wearables" target="#social" weight="6392" />
+      <edge id="337" source="#CloudPlus" target="#cloudcomputing" weight="3196" />
+      <edge id="338" source="#LongLiveIT" target="#security" weight="3196" />
+      <edge id="339" source="#Brexit" target="#MSP" weight="3196" />
+      <edge id="340" source="#digital" target="#CDO" weight="3196" />
+      <edge id="341" source="#feminism" target="#geekgirl" weight="3196" />
+      <edge id="342" source="#feminism" target="#WOTC14" weight="3196" />
+      <edge id="343" source="#AWS" target="#infrastructure" weight="3196" />
+      <edge id="344" source="#AWS" target="#ccevent" weight="3196" />
+      <edge id="345" source="#SMB" target="#security" weight="6392" />
+      <edge id="346" source="#SMB" target="#technology" weight="3196" />
+      <edge id="347" source="#SMB" target="#Security" weight="3196" />
+      <edge id="348" source="#SMB" target="#CompTIA" weight="3196" />
+      <edge id="349" source="#IOT" target="#machines" weight="3196" />
+      <edge id="350" source="#IOT" target="#security" weight="3196" />
+      <edge id="351" source="#SAPLumira" target="#SAPCDW" weight="3196" />
+      <edge id="352" source="#SAPLumira" target="#bigdata" weight="3196" />
+      <edge id="353" source="#digitaltransformation" target="#innovation" weight="3196" />
+      <edge id="354" source="#digitaltransformation" target="#tech" weight="3196" />
+      <edge id="355" source="#digitaltransformation" target="#Futurebiz" weight="3196" />
+      <edge id="356" source="#privacy" target="#AppleEvent" weight="3196" />
+      <edge id="357" source="#ForrForum" target="#CX" weight="3196" />
+      <edge id="358" source="#AskTheAnalyst" target="#ChannelCon15" weight="6392" />
+      <edge id="359" source="#CompTIA" target="#technology" weight="6392" />
+      <edge id="360" source="#CompTIA" target="#SecurityPlus" weight="3196" />
+      <edge id="361" source="#CompTIA" target="#ChannelCon15" weight="3196" />
+      <edge id="362" source="#CompTIA" target="#BigData" weight="3196" />
+      <edge id="363" source="#CompTIA" target="#tech" weight="3196" />
+      <edge id="364" source="#CompTIA" target="#Security" weight="3196" />
+      <edge id="365" source="#CompTIA" target="#edtech" weight="3196" />
+      <edge id="366" source="#CompTIA" target="#AskCompTIA" weight="3196" />
+      <edge id="367" source="#CompTIA" target="#socialmedia" weight="3196" />
+      <edge id="368" source="#IT" target="#Framework" weight="3196" />
+      <edge id="369" source="#IT" target="#jobs" weight="3196" />
+      <edge id="370" source="#IT" target="#Leadingin3D" weight="3196" />
+      <edge id="371" source="#IT" target="#UX" weight="3196" />
+      <edge id="372" source="#IT" target="#MPs" weight="3196" />
+      <edge id="373" source="#IT" target="#skills" weight="3196" />
+      <edge id="374" source="#MSP" target="#VAR" weight="3196" />
+      <edge id="375" source="#MSP" target="#managedservices" weight="3196" />
+      <edge id="376" source="#Track4Techs" target="#security" weight="3196" />
+      <edge id="377" source="#API" target="#BigData" weight="6392" />
+      <edge id="378" source="#day2" target="#brightandearly" weight="3196" />
+      <edge id="379" source="#day2" target="#channelcon" weight="3196" />
+      <edge id="380" source="#edtech" target="#tech" weight="3196" />
+      <edge id="381" source="#edtech" target="#Security" weight="3196" />
+      <edge id="382" source="#edtech" target="#technology" weight="3196" />
+      <edge id="383" source="#BabyBoomers" target="#Millennials" weight="3196" />
+      <edge id="384" source="#ccevent" target="#bigdata" weight="6392" />
+      <edge id="385" source="#Verizon" target="#RedHat" weight="3196" />
+      <edge id="386" source="#Security" target="#technology" weight="3196" />
+      <edge id="387" source="#Security" target="#AMM16" weight="3196" />
+      <edge id="388" source="#Security" target="#ChannelCon15" weight="3196" />
+      <edge id="389" source="#Security" target="#BigData" weight="3196" />
+      <edge id="390" source="#Security" target="#tech" weight="3196" />
+      <edge id="391" source="#ButApparentlyTheWeekIsNotOver" target="#toast" weight="3196" />
+      <edge id="392" source="#ButApparentlyTheWeekIsNotOver" target="#4WebinarsIn8Days" weight="3196" />
+      <edge id="393" source="#4WebinarsIn8Days" target="#toast" weight="3196" />
+      <edge id="394" source="#jobs" target="#MPs" weight="3196" />
+      <edge id="395" source="#jobs" target="#skills" weight="3196" />
+      <edge id="396" source="#FutureOfWork" target="#Digitaltransformation" weight="3196" />
+      <edge id="397" source="#FutureOfWork" target="#human" weight="3196" />
+      <edge id="398" source="#machines" target="#security" weight="3196" />
+      <edge id="399" source="#AMM16" target="#security" weight="6392" />
+      <edge id="400" source="#indyref" target="#sillyAmerican" weight="3196" />
+      <edge id="401" source="#virtualization" target="#cybersecurity" weight="3196" />
+      <edge id="402" source="#RedHat" target="#hybrid" weight="3196" />
+      <edge id="403" source="#RedHat" target="#Microsoft" weight="3196" />
+      <edge id="404" source="#RedHat" target="#JBoss" weight="3196" />
+      <edge id="405" source="#MPs" target="#skills" weight="3196" />
+      <edge id="406" source="#data" target="#security" weight="3196" />
+      <edge id="407" source="#NoSQL" target="#security" weight="3196" />
+      <edge id="408" source="#NoSQL" target="#github" weight="3196" />
+      <edge id="409" source="#InternetOfThings" target="#BigData" weight="3196" />
+      <edge id="410" source="#ITFlyIn" target="#tax" weight="3196" />
+      <edge id="411" source="#4biz" target="#smartcities" weight="3196" />
+      <edge id="412" source="#ProductivityEverywhere" target="#Microsoft" weight="3196" />
+      <edge id="413" source="#ProductivityEverywhere" target="#Shift" weight="3196" />
+      <edge id="414" source="#ProductivityEverywhere" target="#iPhone" weight="3196" />
+      <edge id="415" source="#IBMandBox" target="#mobileapps" weight="3196" />
+      <edge id="416" source="#technology" target="#comptia" weight="3196" />
+      <edge id="417" source="#technology" target="#tech" weight="3196" />
+      <edge id="418" source="#ChannelCon15" target="#askCompTIA" weight="3196" />
+      <edge id="419" source="#ChannelCon15" target="#FutureLeaders" weight="9588" />
+      <edge id="420" source="#ChannelCon15" target="#BigData" weight="6392" />
+      <edge id="421" source="#ChannelCon15" target="#AskCompTIA" weight="22372" />
+      <edge id="422" source="#GartnerCAT" target="#IaaS" weight="3196" />
+      <edge id="423" source="#HTML5" target="#ITExpo" weight="3196" />
+      <edge id="424" source="#ITExpo" target="#cvexpo" weight="3196" />
+      <edge id="425" source="#CSPs" target="#TC100" weight="3196" />
+      <edge id="426" source="#Leadingin3D" target="#UX" weight="3196" />
+      <edge id="427" source="#Shift" target="#Microsoft" weight="3196" />
+      <edge id="428" source="#Shift" target="#iPhone" weight="3196" />
+      <edge id="429" source="#Analytics" target="#BigData" weight="3196" />
+      <edge id="430" source="#GoBlue" target="#MoralVictory" weight="3196" />
+      <edge id="431" source="#MSFT" target="#IAMCP" weight="3196" />
+      <edge id="432" source="#mrx" target="#bigdata" weight="3196" />
+      <edge id="433" source="#COPE" target="#BYOD" weight="3196" />
+      <edge id="434" source="#BigData" target="#channelcon" weight="3196" />
+      <edge id="435" source="#BigData" target="#BYOD" weight="3196" />
+      <edge id="436" source="#BigData" target="#CDLive2015" weight="3196" />
+      <edge id="437" source="#BigData" target="#CloudComputing" weight="3196" />
+      <edge id="438" source="#social" target="#behavioral" weight="3196" />
+      <edge id="439" source="#social" target="#mobile" weight="6392" />
+      <edge id="440" source="#hybrid" target="#Microsoft" weight="3196" />
+      <edge id="441" source="#socbiz" target="#DigitalWorkplace" weight="3196" />
+      <edge id="442" source="#datacenter" target="#security" weight="3196" />
+      <edge id="443" source="#BYOD" target="#CloudComputing" weight="3196" />
+      <edge id="444" source="#cybersecurity" target="#security" weight="3196" />
+      <edge id="445" source="#cybersecurity" target="#AskCompTIA" weight="15980" />
+      <edge id="446" source="#AELPCon15" target="#security" weight="3196" />
+      <edge id="447" source="#APIs" target="#mobile" weight="3196" />
+      <edge id="448" source="#APIs" target="#bigdata" weight="3196" />
+      <edge id="449" source="#ibm" target="#apple" weight="3196" />
+      <edge id="450" source="#NCSLSummit" target="#security" weight="3196" />
+      <edge id="451" source="#geekgirl" target="#WOTC14" weight="3196" />
+      <edge id="452" source="#CES" target="#CES" weight="6392" />
+      <edge id="453" source="#IBMWatson" target="#IBM" weight="3196" />
+      <edge id="454" source="#MSPs" target="#security" weight="3196" />
+      <edge id="455" source="#MSPs" target="#Webroot" weight="3196" />
+      <edge id="456" source="#tech" target="#mainframe" weight="3196" />
+      <edge id="457" source="#tech" target="#innovation" weight="3196" />
+      <edge id="458" source="#AR" target="#VR" weight="3196" />
+      <edge id="459" source="#SMAC" target="#CloudPartners" weight="3196" />
+      <edge id="460" source="#Digitaltransformation" target="#human" weight="3196" />
+      <edge id="461" source="#andthenchat" target="#marathon" weight="3196" />
+      <edge id="462" source="#channelcon" target="#brightandearly" weight="3196" />
+      <edge id="463" source="#channelcon" target="#security" weight="3196" />
+      <edge id="464" source="#ChannelBytes" target="#security" weight="3196" />
+      <edge id="465" source="#Aruba" target="#SaaS" weight="3196" />
+      <edge id="466" source="#PowerofPrecisionChat" target="#bigdata" weight="3196" />
+      <edge id="467" source="#Webroot" target="#security" weight="3196" />
+      <edge id="468" source="#OfficeLens" target="#Microsoft" weight="3196" />
+      <edge id="469" source="#bigdata" target="#SAPCDW" weight="3196" />
+      <edge id="470" source="#bigdata" target="#security" weight="3196" />
+      <edge id="471" source="#bigdata" target="#mobile" weight="3196" />
+      <edge id="472" source="#channel" target="#security" weight="3196" />
+      <edge id="473" source="#DevSecOps" target="#security" weight="3196" />
+      <edge id="474" source="#openstack" target="#Microsoft" weight="3196" />
+      <edge id="475" source="#github" target="#security" weight="3196" />
+      <edge id="476" source="#Microsoft" target="#iPhone" weight="3196" />
+      <edge id="477" source="#Microsoft" target="#Surface" weight="3196" />
+    </edges>
+  </graph>
+</gexf>

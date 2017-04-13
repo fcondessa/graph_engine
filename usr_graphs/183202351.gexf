@@ -1,0 +1,1049 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#recession" label="#recession" />
+      <node id="#Farmers" label="#Farmers" />
+      <node id="#schoollunch" label="#schoollunch" />
+      <node id="#HEAP" label="#HEAP" />
+      <node id="#drought12" label="#drought12" />
+      <node id="#211day" label="#211day" />
+      <node id="#SFSP" label="#SFSP" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#Stand4Service" label="#Stand4Service" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#FARRM" label="#FARRM" />
+      <node id="#Americorps" label="#Americorps" />
+      <node id="#hungerseder2015" label="#hungerseder2015" />
+      <node id="#GoOrange" label="#GoOrange" />
+      <node id="#infographics" label="#infographics" />
+      <node id="#ag" label="#ag" />
+      <node id="#FreeTaxHelp" label="#FreeTaxHelp" />
+      <node id="#Turkey" label="#Turkey" />
+      <node id="#ACAWorks" label="#ACAWorks" />
+      <node id="#Elyria" label="#Elyria" />
+      <node id="#CuyahogaCounty" label="#CuyahogaCounty" />
+      <node id="#StoptheBlock" label="#StoptheBlock" />
+      <node id="#thankful" label="#thankful" />
+      <node id="#PartnerSummit" label="#PartnerSummit" />
+      <node id="#save" label="#save" />
+      <node id="#beef" label="#beef" />
+      <node id="#Easy" label="#Easy" />
+      <node id="#SpreadSomeGood" label="#SpreadSomeGood" />
+      <node id="#FriendsofService" label="#FriendsofService" />
+      <node id="#StopHunger" label="#StopHunger" />
+      <node id="#foodstamp" label="#foodstamp" />
+      <node id="#MilkDrive" label="#MilkDrive" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#MLKDay" label="#MLKDay" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#HelpCenter" label="#HelpCenter" />
+      <node id="#HungerActionMonth" label="#HungerActionMonth" />
+      <node id="#MLKDAY" label="#MLKDAY" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#RealPeople" label="#RealPeople" />
+      <node id="#FF" label="#FF" />
+      <node id="#fiscalcliff" label="#fiscalcliff" />
+      <node id="#OhioEITC" label="#OhioEITC" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#Ohioans" label="#Ohioans" />
+      <node id="#HungerFighters" label="#HungerFighters" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#saveservice" label="#saveservice" />
+      <node id="#backtoschool" label="#backtoschool" />
+      <node id="#tax" label="#tax" />
+      <node id="#HungerU" label="#HungerU" />
+      <node id="#NMM" label="#NMM" />
+      <node id="#ohiobenefitbank" label="#ohiobenefitbank" />
+      <node id="#Toyota" label="#Toyota" />
+      <node id="#Free" label="#Free" />
+      <node id="#sharedharvest" label="#sharedharvest" />
+      <node id="#FarmMktWeek" label="#FarmMktWeek" />
+      <node id="#RepresentativeWCarltonWeddington" label="#RepresentativeWCarltonWeddington" />
+      <node id="#childpoverty" label="#childpoverty" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#feedingamerica" label="#feedingamerica" />
+      <node id="#IamVISTA" label="#IamVISTA" />
+      <node id="#NoSNAPcuts" label="#NoSNAPcuts" />
+      <node id="#HeretoHelp" label="#HeretoHelp" />
+      <node id="#SFSP2016" label="#SFSP2016" />
+      <node id="#census" label="#census" />
+      <node id="#FiscalCliff" label="#FiscalCliff" />
+      <node id="#SNAPmyths" label="#SNAPmyths" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#OBB" label="#OBB" />
+      <node id="#WIC" label="#WIC" />
+      <node id="#seniorhunger" label="#seniorhunger" />
+      <node id="#EndChildHunger" label="#EndChildHunger" />
+      <node id="#pork" label="#pork" />
+      <node id="#areyoucoveredoh" label="#areyoucoveredoh" />
+      <node id="#advocacy" label="#advocacy" />
+      <node id="#education" label="#education" />
+      <node id="#Youngstown" label="#Youngstown" />
+      <node id="#foodbank" label="#foodbank" />
+      <node id="#kids" label="#kids" />
+      <node id="#health" label="#health" />
+      <node id="#Golden" label="#Golden" />
+      <node id="#StopTheCuts" label="#StopTheCuts" />
+      <node id="#MealGap" label="#MealGap" />
+      <node id="#CNR2016" label="#CNR2016" />
+      <node id="#BobEvans" label="#BobEvans" />
+      <node id="#OhioNonprofitWeek" label="#OhioNonprofitWeek" />
+      <node id="#Hilliard" label="#Hilliard" />
+      <node id="#hungeractionmonth" label="#hungeractionmonth" />
+      <node id="#OBB2015" label="#OBB2015" />
+      <node id="#taxes" label="#taxes" />
+      <node id="#SaveService" label="#SaveService" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#Akron" label="#Akron" />
+      <node id="#budget" label="#budget" />
+      <node id="#FoodBank" label="#FoodBank" />
+      <node id="#sequestration" label="#sequestration" />
+      <node id="#no1hungry" label="#no1hungry" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#Enrollment365" label="#Enrollment365" />
+      <node id="#Documentary" label="#Documentary" />
+      <node id="#talkpoverty" label="#talkpoverty" />
+      <node id="#farmbillconference" label="#farmbillconference" />
+      <node id="#hunger" label="#hunger" />
+      <node id="#HungerCliff" label="#HungerCliff" />
+      <node id="#Warren" label="#Warren" />
+      <node id="#raisethecaps" label="#raisethecaps" />
+      <node id="#VeteransDay" label="#VeteransDay" />
+      <node id="#endhungernow" label="#endhungernow" />
+      <node id="#share" label="#share" />
+      <node id="#produce" label="#produce" />
+      <node id="#shf" label="#shf" />
+      <node id="#acalums" label="#acalums" />
+      <node id="#passionpurposeprofit" label="#passionpurposeprofit" />
+      <node id="#BacktoSchool" label="#BacktoSchool" />
+      <node id="#ThankYou" label="#ThankYou" />
+      <node id="#givegallons" label="#givegallons" />
+      <node id="#OHIOSHS" label="#OHIOSHS" />
+      <node id="#protectSNAP" label="#protectSNAP" />
+      <node id="#GDC" label="#GDC" />
+      <node id="#NCLRChats" label="#NCLRChats" />
+      <node id="#dayton" label="#dayton" />
+      <node id="#GoRedWearRed" label="#GoRedWearRed" />
+      <node id="#FranklinCo" label="#FranklinCo" />
+      <node id="#ACSData" label="#ACSData" />
+      <node id="#summermeals" label="#summermeals" />
+      <node id="#EndHunger" label="#EndHunger" />
+      <node id="#GoOrangeDay" label="#GoOrangeDay" />
+      <node id="#SNAPcuts" label="#SNAPcuts" />
+      <node id="#MarchonWashington" label="#MarchonWashington" />
+      <node id="#StampOutHunger" label="#StampOutHunger" />
+      <node id="#HungerHero" label="#HungerHero" />
+      <node id="#InspireSomeone" label="#InspireSomeone" />
+      <node id="#Ohsenate" label="#Ohsenate" />
+      <node id="#inspirationalquote" label="#inspirationalquote" />
+      <node id="#cybermonday" label="#cybermonday" />
+      <node id="#Hunger" label="#Hunger" />
+      <node id="#paperplate" label="#paperplate" />
+      <node id="#AprilFool" label="#AprilFool" />
+      <node id="#allpeoplearepriorities" label="#allpeoplearepriorities" />
+      <node id="#noSNAPcuts" label="#noSNAPcuts" />
+      <node id="#volunteer" label="#volunteer" />
+      <node id="#9onyourside" label="#9onyourside" />
+      <node id="#ohbudget" label="#ohbudget" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Backtoschool" label="#Backtoschool" />
+      <node id="#northolmsted" label="#northolmsted" />
+      <node id="#nutrition" label="#nutrition" />
+      <node id="#getcovered" label="#getcovered" />
+      <node id="#ACWeek" label="#ACWeek" />
+      <node id="#SenatorCharletaTavares" label="#SenatorCharletaTavares" />
+      <node id="#distributed" label="#distributed" />
+      <node id="#BrownBagDay" label="#BrownBagDay" />
+      <node id="#InternationalDayoftheGirl" label="#InternationalDayoftheGirl" />
+      <node id="#EggMonth" label="#EggMonth" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#vetsday" label="#vetsday" />
+      <node id="#ServiceEmployers" label="#ServiceEmployers" />
+      <node id="#Spoontember" label="#Spoontember" />
+      <node id="#TeamBuilding" label="#TeamBuilding" />
+      <node id="#Talkpoverty" label="#Talkpoverty" />
+      <node id="#Farm" label="#Farm" />
+      <node id="#Save4all" label="#Save4all" />
+      <node id="#KINDSummit" label="#KINDSummit" />
+      <node id="#EachOneTeachOne" label="#EachOneTeachOne" />
+      <node id="#OH" label="#OH" />
+      <node id="#Advocacy" label="#Advocacy" />
+      <node id="#AgNews" label="#AgNews" />
+      <node id="#farmers" label="#farmers" />
+      <node id="#NationalAgDay" label="#NationalAgDay" />
+      <node id="#RDR2013" label="#RDR2013" />
+      <node id="#Income" label="#Income" />
+      <node id="#hungrychildren" label="#hungrychildren" />
+      <node id="#foodstamps" label="#foodstamps" />
+      <node id="#Welfare" label="#Welfare" />
+      <node id="#winter" label="#winter" />
+      <node id="#startover394" label="#startover394" />
+      <node id="#community" label="#community" />
+      <node id="#YouTube" label="#YouTube" />
+      <node id="#blackfriday" label="#blackfriday" />
+      <node id="#paczki" label="#paczki" />
+      <node id="#AllAgencyExchange" label="#AllAgencyExchange" />
+      <node id="#OHbudget" label="#OHbudget" />
+      <node id="#paperplates" label="#paperplates" />
+      <node id="#911Day" label="#911Day" />
+      <node id="#TANF" label="#TANF" />
+      <node id="#childobesity" label="#childobesity" />
+      <node id="#OhioNonprofitConference" label="#OhioNonprofitConference" />
+      <node id="#takeyourplace" label="#takeyourplace" />
+      <node id="#EndHungerNow" label="#EndHungerNow" />
+      <node id="#ServiceYear" label="#ServiceYear" />
+      <node id="#neighborhoods" label="#neighborhoods" />
+      <node id="#Westerville" label="#Westerville" />
+      <node id="#americorpsworks" label="#americorpsworks" />
+      <node id="#thanksgiving" label="#thanksgiving" />
+      <node id="#APlaceattheTable" label="#APlaceattheTable" />
+      <node id="#WaronPoverty" label="#WaronPoverty" />
+      <node id="#VoteToEndHunger" label="#VoteToEndHunger" />
+      <node id="#SNAPOutreach" label="#SNAPOutreach" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#begreat12" label="#begreat12" />
+      <node id="#NationalService" label="#NationalService" />
+      <node id="#WorldFoodDay" label="#WorldFoodDay" />
+      <node id="#GetCoveredNow" label="#GetCoveredNow" />
+      <node id="#shutdown" label="#shutdown" />
+      <node id="#BiggestLoser" label="#BiggestLoser" />
+      <node id="#DreamDay" label="#DreamDay" />
+      <node id="#taxfiling" label="#taxfiling" />
+      <node id="#Twitterversary" label="#Twitterversary" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#chopped" label="#chopped" />
+      <node id="#GetCoveredOhio" label="#GetCoveredOhio" />
+      <node id="#areyoucoveredOH" label="#areyoucoveredOH" />
+      <node id="#snapworks" label="#snapworks" />
+      <node id="#specialenrollment" label="#specialenrollment" />
+      <node id="#hungry" label="#hungry" />
+      <node id="#aap14" label="#aap14" />
+      <node id="#MDDY11" label="#MDDY11" />
+      <node id="#obb2014" label="#obb2014" />
+      <node id="#food" label="#food" />
+      <node id="#veteran" label="#veteran" />
+      <node id="#foodpolicy" label="#foodpolicy" />
+      <node id="#9wakeup" label="#9wakeup" />
+      <node id="#Foodbank" label="#Foodbank" />
+      <node id="#RoundUp" label="#RoundUp" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#whogoeshungry" label="#whogoeshungry" />
+      <node id="#statebudget" label="#statebudget" />
+      <node id="#SNAP" label="#SNAP" />
+      <node id="#FranklinProject" label="#FranklinProject" />
+      <node id="#AmeriCorps" label="#AmeriCorps" />
+      <node id="#DayoftheA" label="#DayoftheA" />
+      <node id="#HomeEnergy" label="#HomeEnergy" />
+      <node id="#4thofJuly" label="#4thofJuly" />
+      <node id="#summermeal" label="#summermeal" />
+      <node id="#cincinnati" label="#cincinnati" />
+      <node id="#twodollarsaday" label="#twodollarsaday" />
+      <node id="#OHsots" label="#OHsots" />
+      <node id="#nonprofit" label="#nonprofit" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#TuSaludYObama" label="#TuSaludYObama" />
+      <node id="#Share_Story" label="#Share_Story" />
+      <node id="#KeepYourFullRefund" label="#KeepYourFullRefund" />
+      <node id="#poor" label="#poor" />
+      <node id="#CharityTuesday" label="#CharityTuesday" />
+      <node id="#ExtendSNAP" label="#ExtendSNAP" />
+      <node id="#COTW" label="#COTW" />
+      <node id="#povertydata2013" label="#povertydata2013" />
+      <node id="#onceaday" label="#onceaday" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#Shutdown" label="#Shutdown" />
+      <node id="#OHdrought12" label="#OHdrought12" />
+      <node id="#ohiofamilies" label="#ohiofamilies" />
+      <node id="#afterschool" label="#afterschool" />
+      <node id="#myfarmbill" label="#myfarmbill" />
+      <node id="#TeamNKH" label="#TeamNKH" />
+      <node id="#action" label="#action" />
+      <node id="#MDDay" label="#MDDay" />
+      <node id="#nerdland" label="#nerdland" />
+      <node id="#film" label="#film" />
+      <node id="#acsdata" label="#acsdata" />
+      <node id="#caterer" label="#caterer" />
+      <node id="#Fridaythe13th" label="#Fridaythe13th" />
+      <node id="#FreeMyRefundDay" label="#FreeMyRefundDay" />
+      <node id="#VISTA" label="#VISTA" />
+      <node id="#service" label="#service" />
+      <node id="#foodbanks" label="#foodbanks" />
+      <node id="#GettingThingsDone" label="#GettingThingsDone" />
+      <node id="#seniors" label="#seniors" />
+      <node id="#FamilyWellnessMonth" label="#FamilyWellnessMonth" />
+      <node id="#fighthunger" label="#fighthunger" />
+      <node id="#foodandbeveragepeople" label="#foodandbeveragepeople" />
+      <node id="#Ebola" label="#Ebola" />
+      <node id="#LetterCarrier" label="#LetterCarrier" />
+      <node id="#ThrowbackThursday" label="#ThrowbackThursday" />
+      <node id="#TaxDay" label="#TaxDay" />
+      <node id="#TalkPoverty" label="#TalkPoverty" />
+      <node id="#Health" label="#Health" />
+      <node id="#help" label="#help" />
+      <node id="#FoodForThought" label="#FoodForThought" />
+      <node id="#OurSalud" label="#OurSalud" />
+      <node id="#September" label="#September" />
+      <node id="#eggs" label="#eggs" />
+      <node id="#VirtualFoodDrive" label="#VirtualFoodDrive" />
+      <node id="#MDDAY" label="#MDDAY" />
+      <node id="#homelessness" label="#homelessness" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#quotes" label="#quotes" />
+      <node id="#foodtrucks" label="#foodtrucks" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#CNNdebate" label="#CNNdebate" />
+      <node id="#NoKidHungry" label="#NoKidHungry" />
+      <node id="#snowdays" label="#snowdays" />
+      <node id="#AreYouCoveredOH" label="#AreYouCoveredOH" />
+      <node id="#SOE2015" label="#SOE2015" />
+      <node id="#OhioBenefitBank" label="#OhioBenefitBank" />
+      <node id="#AmeriCorps20" label="#AmeriCorps20" />
+      <node id="#SNAPWorks" label="#SNAPWorks" />
+      <node id="#RoundUpForHunger" label="#RoundUpForHunger" />
+      <node id="#SNAPmatters" label="#SNAPmatters" />
+      <node id="#FoodStamps" label="#FoodStamps" />
+      <node id="#HungryKate" label="#HungryKate" />
+      <node id="#HungerActionDay" label="#HungerActionDay" />
+      <node id="#healthymeals" label="#healthymeals" />
+      <node id="#OhioFoodProgram" label="#OhioFoodProgram" />
+      <node id="#WorldGratitudeDay" label="#WorldGratitudeDay" />
+      <node id="#taxreturn" label="#taxreturn" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#911day" label="#911day" />
+      <node id="#refund" label="#refund" />
+      <node id="#FreeFoodTruck" label="#FreeFoodTruck" />
+      <node id="#coat" label="#coat" />
+      <node id="#ThursdayTidbits" label="#ThursdayTidbits" />
+      <node id="#AffordableHousing" label="#AffordableHousing" />
+      <node id="#rallytogether" label="#rallytogether" />
+      <node id="#HungerAction" label="#HungerAction" />
+      <node id="#FoodD" label="#FoodD" />
+      <node id="#DayofService" label="#DayofService" />
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#givingtuesday" label="#givingtuesday" />
+      <node id="#Worthington" label="#Worthington" />
+      <node id="#CincinnatiCOOKS" label="#CincinnatiCOOKS" />
+      <node id="#VISTA50" label="#VISTA50" />
+      <node id="#childnutrition" label="#childnutrition" />
+      <node id="#bipartisan" label="#bipartisan" />
+      <node id="#POTUS" label="#POTUS" />
+      <node id="#LFW13" label="#LFW13" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#Nothing" label="#Nothing" />
+      <node id="#nokidhungry" label="#nokidhungry" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#nutritious" label="#nutritious" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#militaryhunger" label="#militaryhunger" />
+      <node id="#snapchallenge" label="#snapchallenge" />
+      <node id="#FightHunger" label="#FightHunger" />
+      <node id="#Poverty" label="#Poverty" />
+      <node id="#hungerpc16" label="#hungerpc16" />
+      <node id="#openquestion" label="#openquestion" />
+      <node id="#FeedOhio" label="#FeedOhio" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#GradingDC" label="#GradingDC" />
+      <node id="#Stateline" label="#Stateline" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#OpFeed" label="#OpFeed" />
+      <node id="#Infants" label="#Infants" />
+      <node id="#FridayFact" label="#FridayFact" />
+      <node id="#KYF2" label="#KYF2" />
+      <node id="#FREE" label="#FREE" />
+      <node id="#HA2016" label="#HA2016" />
+      <node id="#WaronPoverty50" label="#WaronPoverty50" />
+      <node id="#apply4snap" label="#apply4snap" />
+      <node id="#eviction" label="#eviction" />
+      <node id="#ProtectGiving" label="#ProtectGiving" />
+      <node id="#thankyou" label="#thankyou" />
+      <node id="#windians" label="#windians" />
+      <node id="#OhioFoodbanks" label="#OhioFoodbanks" />
+      <node id="#Budget" label="#Budget" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#housingohio16" label="#housingohio16" />
+      <node id="#oursalud" label="#oursalud" />
+      <node id="#foodinsecurity" label="#foodinsecurity" />
+      <node id="#NH" label="#NH" />
+      <node id="#areyoucovered" label="#areyoucovered" />
+      <node id="#Wildlights" label="#Wildlights" />
+      <node id="#ohioshs" label="#ohioshs" />
+      <node id="#livingwage" label="#livingwage" />
+      <node id="#SeenOn9" label="#SeenOn9" />
+      <node id="#ourohio" label="#ourohio" />
+      <node id="#BBQ" label="#BBQ" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#akron" label="#akron" />
+      <node id="#schoolmeals" label="#schoolmeals" />
+      <node id="#sotu" label="#sotu" />
+      <node id="#ServeAmericaAct" label="#ServeAmericaAct" />
+      <node id="#FightPoverty" label="#FightPoverty" />
+      <node id="#SASsummit" label="#SASsummit" />
+      <node id="#1in4" label="#1in4" />
+      <node id="#StuffTheTrucks" label="#StuffTheTrucks" />
+      <node id="#solveseniorhunger" label="#solveseniorhunger" />
+      <node id="#harvestforhunger" label="#harvestforhunger" />
+      <node id="#Foodbanks" label="#Foodbanks" />
+      <node id="#RealImpact" label="#RealImpact" />
+      <node id="#Evicted" label="#Evicted" />
+      <node id="#StayCovered" label="#StayCovered" />
+      <node id="#Marketplace" label="#Marketplace" />
+      <node id="#antihungerpc16" label="#antihungerpc16" />
+      <node id="#sequester" label="#sequester" />
+      <node id="#Unemployment" label="#Unemployment" />
+      <node id="#holidayseason" label="#holidayseason" />
+      <node id="#AmeriCorpsWorks" label="#AmeriCorpsWorks" />
+      <node id="#FileFree" label="#FileFree" />
+      <node id="#SolveHunger" label="#SolveHunger" />
+      <node id="#justvote" label="#justvote" />
+      <node id="#BTS" label="#BTS" />
+      <node id="#100Cars" label="#100Cars" />
+      <node id="#Serve2014" label="#Serve2014" />
+      <node id="#CTC" label="#CTC" />
+      <node id="#p2" label="#p2" />
+      <node id="#workingfamilycredits" label="#workingfamilycredits" />
+      <node id="#poorwhileworking" label="#poorwhileworking" />
+      <node id="#CSFP" label="#CSFP" />
+      <node id="#safetynet" label="#safetynet" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#WarehouseWednesday" label="#WarehouseWednesday" />
+      <node id="#OpenEnrollment" label="#OpenEnrollment" />
+      <node id="#malnutrition" label="#malnutrition" />
+      <node id="#SaveSchoolMeals" label="#SaveSchoolMeals" />
+      <node id="#spreadsomegood" label="#spreadsomegood" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#LatinoHealth" label="#LatinoHealth" />
+      <node id="#GoBrowns" label="#GoBrowns" />
+      <node id="#endhunger" label="#endhunger" />
+      <node id="#philanthropy" label="#philanthropy" />
+      <node id="#LRLM" label="#LRLM" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#TogetherWeCan" label="#TogetherWeCan" />
+      <node id="#ThisIsSNAP" label="#ThisIsSNAP" />
+      <node id="#gardeners" label="#gardeners" />
+      <node id="#SummerMeals" label="#SummerMeals" />
+      <node id="#nonprofitjobs" label="#nonprofitjobs" />
+      <node id="#nationalservice" label="#nationalservice" />
+      <node id="#Logan" label="#Logan" />
+      <node id="#Harvest" label="#Harvest" />
+      <node id="#tnwofb" label="#tnwofb" />
+      <node id="#BigGive" label="#BigGive" />
+      <node id="#farmbill" label="#farmbill" />
+      <node id="#AudreyRowe" label="#AudreyRowe" />
+      <node id="#snap" label="#snap" />
+      <node id="#OhioAgClearance" label="#OhioAgClearance" />
+      <node id="#hungeraction" label="#hungeraction" />
+      <node id="#fighthungwer" label="#fighthungwer" />
+      <node id="#youthvoices" label="#youthvoices" />
+      <node id="#video" label="#video" />
+      <node id="#MotivationMonday" label="#MotivationMonday" />
+      <node id="#BasicNeeds" label="#BasicNeeds" />
+      <node id="#TheRealTANF" label="#TheRealTANF" />
+      <node id="#EITC" label="#EITC" />
+      <node id="#FarmBill" label="#FarmBill" />
+      <node id="#nunsonthebus" label="#nunsonthebus" />
+      <node id="#30WaysIn30Days" label="#30WaysIn30Days" />
+      <node id="#Homeless" label="#Homeless" />
+      <node id="#Americans" label="#Americans" />
+      <node id="#RandomActsOfKindnessDay" label="#RandomActsOfKindnessDay" />
+      <node id="#hungercliff" label="#hungercliff" />
+      <node id="#poverty" label="#poverty" />
+      <node id="#lorain" label="#lorain" />
+      <node id="#garden" label="#garden" />
+      <node id="#H4Hunger" label="#H4Hunger" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#foodstampchallenge" label="#foodstampchallenge" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#SNAPworks" label="#SNAPworks" />
+      <node id="#AAFP" label="#AAFP" />
+      <node id="#hungerrelief" label="#hungerrelief" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#money" label="#money" />
+      <node id="#BelowTheLine" label="#BelowTheLine" />
+      <node id="#DoGood" label="#DoGood" />
+      <node id="#MLK" label="#MLK" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#LiveHealthy" label="#LiveHealthy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#recession" target="#ACSData" weight="3211" />
+      <edge id="1" source="#Farmers" target="#hunger" weight="3211" />
+      <edge id="2" source="#Farmers" target="#ag" weight="3211" />
+      <edge id="3" source="#Farmers" target="#Ohio" weight="3211" />
+      <edge id="4" source="#schoollunch" target="#chopped" weight="3211" />
+      <edge id="5" source="#HEAP" target="#HomeEnergy" weight="3211" />
+      <edge id="6" source="#drought12" target="#OHdrought12" weight="3211" />
+      <edge id="7" source="#211day" target="#help" weight="3211" />
+      <edge id="8" source="#SFSP" target="#summermeals" weight="3211" />
+      <edge id="9" source="#Cbus" target="#OpFeed" weight="3211" />
+      <edge id="10" source="#Stand4Service" target="#bipartisan" weight="3211" />
+      <edge id="11" source="#Stand4Service" target="#NH" weight="3211" />
+      <edge id="12" source="#Thanksgiving" target="#Cleveland" weight="3211" />
+      <edge id="13" source="#Thanksgiving" target="#Farm" weight="3211" />
+      <edge id="14" source="#Thanksgiving" target="#thankful" weight="6422" />
+      <edge id="15" source="#Thanksgiving" target="#Foodbanks" weight="3211" />
+      <edge id="16" source="#Thanksgiving" target="#Ohio" weight="6422" />
+      <edge id="17" source="#Thanksgiving" target="#Turkey" weight="3211" />
+      <edge id="18" source="#Thanksgiving" target="#workingfamilycredits" weight="3211" />
+      <edge id="19" source="#FARRM" target="#FarmBill" weight="3211" />
+      <edge id="20" source="#Americorps" target="#Americans" weight="3211" />
+      <edge id="21" source="#Americorps" target="#action" weight="3211" />
+      <edge id="22" source="#hungerseder2015" target="#EndChildHunger" weight="3211" />
+      <edge id="23" source="#GoOrange" target="#HungerActionMonth" weight="6422" />
+      <edge id="24" source="#GoOrange" target="#fighthunger" weight="3211" />
+      <edge id="25" source="#GoOrange" target="#30WaysIn30Days" weight="3211" />
+      <edge id="26" source="#GoOrange" target="#fighthungwer" weight="3211" />
+      <edge id="27" source="#GoOrange" target="#HungerAction" weight="9633" />
+      <edge id="28" source="#GoOrange" target="#HungerActionDay" weight="3211" />
+      <edge id="29" source="#infographics" target="#SNAP" weight="3211" />
+      <edge id="30" source="#ag" target="#Ohio" weight="3211" />
+      <edge id="31" source="#ag" target="#farmers" weight="3211" />
+      <edge id="32" source="#FreeTaxHelp" target="#OhioBenefitBank" weight="3211" />
+      <edge id="33" source="#Turkey" target="#Ohio" weight="3211" />
+      <edge id="34" source="#Turkey" target="#Foodbanks" weight="3211" />
+      <edge id="35" source="#ACAWorks" target="#GetCoveredNow" weight="3211" />
+      <edge id="36" source="#Elyria" target="#hunger" weight="3211" />
+      <edge id="37" source="#Elyria" target="#paczki" weight="3211" />
+      <edge id="38" source="#Elyria" target="#harvestforhunger" weight="3211" />
+      <edge id="39" source="#Elyria" target="#lorain" weight="3211" />
+      <edge id="40" source="#CuyahogaCounty" target="#SNAP" weight="3211" />
+      <edge id="41" source="#StoptheBlock" target="#CNR2016" weight="3211" />
+      <edge id="42" source="#thankful" target="#Farm" weight="3211" />
+      <edge id="43" source="#thankful" target="#Ohio" weight="3211" />
+      <edge id="44" source="#PartnerSummit" target="#Advocacy" weight="3211" />
+      <edge id="45" source="#save" target="#FREE" weight="3211" />
+      <edge id="46" source="#save" target="#OhioBenefitBank" weight="3211" />
+      <edge id="47" source="#save" target="#tax" weight="3211" />
+      <edge id="48" source="#save" target="#money" weight="3211" />
+      <edge id="49" source="#beef" target="#BBQ" weight="3211" />
+      <edge id="50" source="#beef" target="#4thofJuly" weight="3211" />
+      <edge id="51" source="#Easy" target="#DoGood" weight="3211" />
+      <edge id="52" source="#Easy" target="#RoundUp" weight="3211" />
+      <edge id="53" source="#SpreadSomeGood" target="#hunger" weight="3211" />
+      <edge id="54" source="#SpreadSomeGood" target="#Ohio" weight="3211" />
+      <edge id="55" source="#FriendsofService" target="#nationalservice" weight="3211" />
+      <edge id="56" source="#StopHunger" target="#ExtendSNAP" weight="3211" />
+      <edge id="57" source="#foodstamp" target="#FarmBill" weight="3211" />
+      <edge id="58" source="#foodstamp" target="#SNAP" weight="3211" />
+      <edge id="59" source="#foodstamp" target="#kids" weight="3211" />
+      <edge id="60" source="#MilkDrive" target="#givegallons" weight="3211" />
+      <edge id="61" source="#CLE" target="#windians" weight="3211" />
+      <edge id="62" source="#CLE" target="#garden" weight="3211" />
+      <edge id="63" source="#CLE" target="#nutrition" weight="3211" />
+      <edge id="64" source="#CLE" target="#quotes" weight="3211" />
+      <edge id="65" source="#CLE" target="#foodtrucks" weight="3211" />
+      <edge id="66" source="#CLE" target="#911Day" weight="3211" />
+      <edge id="67" source="#CLE" target="#HelpCenter" weight="3211" />
+      <edge id="68" source="#CLE" target="#rallytogether" weight="3211" />
+      <edge id="69" source="#CLE" target="#foodbank" weight="3211" />
+      <edge id="70" source="#CLE" target="#Foodbank" weight="41743" />
+      <edge id="71" source="#CLE" target="#RoundUpForHunger" weight="3211" />
+      <edge id="72" source="#CLE" target="#Twitter" weight="3211" />
+      <edge id="73" source="#CLE" target="#HungerActionMonth" weight="3211" />
+      <edge id="74" source="#CLE" target="#H4Hunger" weight="3211" />
+      <edge id="75" source="#CLE" target="#Toledo" weight="3211" />
+      <edge id="76" source="#CLE" target="#September" weight="3211" />
+      <edge id="77" source="#CLE" target="#OH" weight="3211" />
+      <edge id="78" source="#CLE" target="#GoBrowns" weight="3211" />
+      <edge id="79" source="#CLE" target="#911day" weight="3211" />
+      <edge id="80" source="#CLE" target="#YouTube" weight="3211" />
+      <edge id="81" source="#CLE" target="#FridayFact" weight="3211" />
+      <edge id="82" source="#MLKDay" target="#service" weight="3211" />
+      <edge id="83" source="#MLKDay" target="#infographic" weight="3211" />
+      <edge id="84" source="#MLKDay" target="#DayofService" weight="3211" />
+      <edge id="85" source="#MLKDay" target="#begreat12" weight="3211" />
+      <edge id="86" source="#BlackFriday" target="#GivingTuesday" weight="3211" />
+      <edge id="87" source="#BlackFriday" target="#CyberMonday" weight="3211" />
+      <edge id="88" source="#HelpCenter" target="#Foodbank" weight="3211" />
+      <edge id="89" source="#HelpCenter" target="#YouTube" weight="3211" />
+      <edge id="90" source="#HungerActionMonth" target="#September" weight="3211" />
+      <edge id="91" source="#HungerActionMonth" target="#FF" weight="3211" />
+      <edge id="92" source="#HungerActionMonth" target="#Spoontember" weight="3211" />
+      <edge id="93" source="#HungerActionMonth" target="#Foodbank" weight="3211" />
+      <edge id="94" source="#HungerActionMonth" target="#fighthunger" weight="3211" />
+      <edge id="95" source="#HungerActionMonth" target="#DYK" weight="3211" />
+      <edge id="96" source="#HungerActionMonth" target="#fighthungwer" weight="3211" />
+      <edge id="97" source="#HungerActionMonth" target="#TeamBuilding" weight="3211" />
+      <edge id="98" source="#HungerActionMonth" target="#HungerActionDay" weight="3211" />
+      <edge id="99" source="#MLKDAY" target="#begreat12" weight="3211" />
+      <edge id="100" source="#teachers" target="#backtoschool" weight="3211" />
+      <edge id="101" source="#teachers" target="#education" weight="3211" />
+      <edge id="102" source="#RealPeople" target="#FoodForThought" weight="3211" />
+      <edge id="103" source="#RealPeople" target="#RealImpact" weight="3211" />
+      <edge id="104" source="#FF" target="#paperplate" weight="3211" />
+      <edge id="105" source="#FF" target="#ohiobenefitbank" weight="6422" />
+      <edge id="106" source="#FF" target="#HungerAction" weight="6422" />
+      <edge id="107" source="#fiscalcliff" target="#safetynet" weight="3211" />
+      <edge id="108" source="#fiscalcliff" target="#childpoverty" weight="3211" />
+      <edge id="109" source="#fiscalcliff" target="#endhunger" weight="3211" />
+      <edge id="110" source="#OhioEITC" target="#EITC" weight="3211" />
+      <edge id="111" source="#TBT" target="#allpeoplearepriorities" weight="3211" />
+      <edge id="112" source="#Ohioans" target="#NationalService" weight="3211" />
+      <edge id="113" source="#HungerFighters" target="#NoKidHungry" weight="3211" />
+      <edge id="114" source="#DYK" target="#eggs" weight="3211" />
+      <edge id="115" source="#saveservice" target="#MDDay" weight="3211" />
+      <edge id="116" source="#backtoschool" target="#education" weight="3211" />
+      <edge id="117" source="#tax" target="#OhioBenefitBank" weight="9633" />
+      <edge id="118" source="#tax" target="#FREE" weight="3211" />
+      <edge id="119" source="#tax" target="#onceaday" weight="3211" />
+      <edge id="120" source="#tax" target="#money" weight="3211" />
+      <edge id="121" source="#tax" target="#refund" weight="6422" />
+      <edge id="122" source="#tax" target="#Cleveland" weight="3211" />
+      <edge id="123" source="#HungerU" target="#OhioState" weight="3211" />
+      <edge id="124" source="#NMM" target="#AmeriCorps20" weight="3211" />
+      <edge id="125" source="#ohiobenefitbank" target="#seniorhunger" weight="3211" />
+      <edge id="126" source="#ohiobenefitbank" target="#ohiofamilies" weight="3211" />
+      <edge id="127" source="#ohiobenefitbank" target="#HungerAction" weight="3211" />
+      <edge id="128" source="#ohiobenefitbank" target="#ohiobenefitbank" weight="6422" />
+      <edge id="129" source="#Toyota" target="#100Cars" weight="3211" />
+      <edge id="130" source="#Free" target="#taxes" weight="3211" />
+      <edge id="131" source="#Free" target="#OhioBenefitBank" weight="3211" />
+      <edge id="132" source="#sharedharvest" target="#shf" weight="3211" />
+      <edge id="133" source="#sharedharvest" target="#solveseniorhunger" weight="3211" />
+      <edge id="134" source="#FarmMktWeek" target="#Infographic" weight="3211" />
+      <edge id="135" source="#FarmMktWeek" target="#KYF2" weight="3211" />
+      <edge id="136" source="#RepresentativeWCarltonWeddington" target="#SenatorCharletaTavares" weight="3211" />
+      <edge id="137" source="#RepresentativeWCarltonWeddington" target="#OHIOSHS" weight="3211" />
+      <edge id="138" source="#childpoverty" target="#safetynet" weight="3211" />
+      <edge id="139" source="#childpoverty" target="#Talkpoverty" weight="3211" />
+      <edge id="140" source="#childpoverty" target="#hunger" weight="3211" />
+      <edge id="141" source="#Cincinnati" target="#CincinnatiCOOKS" weight="3211" />
+      <edge id="142" source="#Cincinnati" target="#caterer" weight="3211" />
+      <edge id="143" source="#Cincinnati" target="#Cleveland" weight="3211" />
+      <edge id="144" source="#feedingamerica" target="#tnwofb" weight="3211" />
+      <edge id="145" source="#IamVISTA" target="#VISTA50" weight="3211" />
+      <edge id="146" source="#NoSNAPcuts" target="#SNAPmatters" weight="3211" />
+      <edge id="147" source="#HeretoHelp" target="#OH" weight="3211" />
+      <edge id="148" source="#HeretoHelp" target="#GetCovered" weight="3211" />
+      <edge id="149" source="#HeretoHelp" target="#StayCovered" weight="3211" />
+      <edge id="150" source="#SFSP2016" target="#nokidhungry" weight="3211" />
+      <edge id="151" source="#census" target="#Ohio" weight="3211" />
+      <edge id="152" source="#FiscalCliff" target="#SNAPworks" weight="3211" />
+      <edge id="153" source="#FiscalCliff" target="#SNAP" weight="3211" />
+      <edge id="154" source="#SNAPmyths" target="#FoodStamps" weight="3211" />
+      <edge id="155" source="#SNAPmyths" target="#SNAP" weight="3211" />
+      <edge id="156" source="#Congress" target="#foodbank" weight="3211" />
+      <edge id="157" source="#Congress" target="#SNAPWorks" weight="3211" />
+      <edge id="158" source="#Congress" target="#sequestration" weight="3211" />
+      <edge id="159" source="#Congress" target="#hunger" weight="3211" />
+      <edge id="160" source="#Congress" target="#HungerCliff" weight="6422" />
+      <edge id="161" source="#Congress" target="#SNAP" weight="6422" />
+      <edge id="162" source="#Congress" target="#StopTheCuts" weight="3211" />
+      <edge id="163" source="#Congress" target="#raisethecaps" weight="3211" />
+      <edge id="164" source="#OBB" target="#KeepYourFullRefund" weight="3211" />
+      <edge id="165" source="#OBB" target="#FileFree" weight="3211" />
+      <edge id="166" source="#WIC" target="#justvote" weight="3211" />
+      <edge id="167" source="#WIC" target="#shutdown" weight="6422" />
+      <edge id="168" source="#WIC" target="#SNAPworks" weight="3211" />
+      <edge id="169" source="#WIC" target="#AAFP" weight="3211" />
+      <edge id="170" source="#WIC" target="#SNAP" weight="3211" />
+      <edge id="171" source="#WIC" target="#Medicaid" weight="3211" />
+      <edge id="172" source="#pork" target="#Ohio" weight="3211" />
+      <edge id="173" source="#areyoucoveredoh" target="#Medicaid" weight="3211" />
+      <edge id="174" source="#areyoucoveredoh" target="#getcovered" weight="3211" />
+      <edge id="175" source="#advocacy" target="#hunger" weight="3211" />
+      <edge id="176" source="#Youngstown" target="#Warren" weight="3211" />
+      <edge id="177" source="#foodbank" target="#CharityTuesday" weight="3211" />
+      <edge id="178" source="#foodbank" target="#H4Hunger" weight="3211" />
+      <edge id="179" source="#foodbank" target="#hungeractionmonth" weight="3211" />
+      <edge id="180" source="#foodbank" target="#foodtrucks" weight="3211" />
+      <edge id="181" source="#foodbank" target="#northolmsted" weight="3211" />
+      <edge id="182" source="#foodbank" target="#dayton" weight="3211" />
+      <edge id="183" source="#foodbank" target="#healthymeals" weight="3211" />
+      <edge id="184" source="#kids" target="#1in4" weight="3211" />
+      <edge id="185" source="#kids" target="#AllAgencyExchange" weight="3211" />
+      <edge id="186" source="#kids" target="#SNAP" weight="3211" />
+      <edge id="187" source="#kids" target="#poor" weight="3211" />
+      <edge id="188" source="#kids" target="#FarmBill" weight="3211" />
+      <edge id="189" source="#health" target="#foodstamps" weight="3211" />
+      <edge id="190" source="#health" target="#SNAP" weight="3211" />
+      <edge id="191" source="#Golden" target="#OhioBenefitBank" weight="3211" />
+      <edge id="192" source="#MealGap" target="#hunger" weight="9633" />
+      <edge id="193" source="#MealGap" target="#TogetherWeCan" weight="3211" />
+      <edge id="194" source="#MealGap" target="#SolveHunger" weight="3211" />
+      <edge id="195" source="#CNR2016" target="#SaveSchoolMeals" weight="3211" />
+      <edge id="196" source="#BobEvans" target="#Logan" weight="3211" />
+      <edge id="197" source="#OhioNonprofitWeek" target="#FightHunger" weight="3211" />
+      <edge id="198" source="#OhioNonprofitWeek" target="#FightPoverty" weight="3211" />
+      <edge id="199" source="#Hilliard" target="#Westerville" weight="3211" />
+      <edge id="200" source="#Hilliard" target="#Dublin" weight="3211" />
+      <edge id="201" source="#Hilliard" target="#Worthington" weight="3211" />
+      <edge id="202" source="#hungeractionmonth" target="#dayton" weight="3211" />
+      <edge id="203" source="#OBB2015" target="#passionpurposeprofit" weight="3211" />
+      <edge id="204" source="#taxes" target="#Ohio" weight="6422" />
+      <edge id="205" source="#taxes" target="#OhioBenefitBank" weight="6422" />
+      <edge id="206" source="#taxes" target="#FREE" weight="3211" />
+      <edge id="207" source="#taxes" target="#taxfiling" weight="3211" />
+      <edge id="208" source="#taxes" target="#EITC" weight="6422" />
+      <edge id="209" source="#SaveService" target="#NationalService" weight="3211" />
+      <edge id="210" source="#SaveService" target="#AmeriCorps" weight="3211" />
+      <edge id="211" source="#ohio" target="#obb2014" weight="3211" />
+      <edge id="212" source="#ohio" target="#ACA" weight="3211" />
+      <edge id="213" source="#ohio" target="#fighthunger" weight="3211" />
+      <edge id="214" source="#Akron" target="#Jobs" weight="3211" />
+      <edge id="215" source="#Akron" target="#jobs" weight="3211" />
+      <edge id="216" source="#budget" target="#nutrition" weight="3211" />
+      <edge id="217" source="#budget" target="#SNAPworks" weight="3211" />
+      <edge id="218" source="#budget" target="#poverty" weight="6422" />
+      <edge id="219" source="#FoodBank" target="#Cleveland" weight="3211" />
+      <edge id="220" source="#FoodBank" target="#FridayFact" weight="3211" />
+      <edge id="221" source="#sequestration" target="#raisethecaps" weight="6422" />
+      <edge id="222" source="#no1hungry" target="#NationalAgDay" weight="3211" />
+      <edge id="223" source="#Dayton" target="#hunger" weight="3211" />
+      <edge id="224" source="#Dayton" target="#ohbudget" weight="3211" />
+      <edge id="225" source="#Enrollment365" target="#HA2016" weight="3211" />
+      <edge id="226" source="#Documentary" target="#film" weight="3211" />
+      <edge id="227" source="#Documentary" target="#foodinsecurity" weight="3211" />
+      <edge id="228" source="#talkpoverty" target="#EndHungerNow" weight="6422" />
+      <edge id="229" source="#talkpoverty" target="#endhungernow" weight="3211" />
+      <edge id="230" source="#talkpoverty" target="#Poverty" weight="3211" />
+      <edge id="231" source="#talkpoverty" target="#safetynet" weight="3211" />
+      <edge id="232" source="#talkpoverty" target="#Budget" weight="3211" />
+      <edge id="233" source="#talkpoverty" target="#WaronPoverty50" weight="3211" />
+      <edge id="234" source="#talkpoverty" target="#foodstamps" weight="3211" />
+      <edge id="235" source="#talkpoverty" target="#SOTU" weight="6422" />
+      <edge id="236" source="#talkpoverty" target="#SNAP" weight="3211" />
+      <edge id="237" source="#talkpoverty" target="#poverty" weight="3211" />
+      <edge id="238" source="#talkpoverty" target="#APlaceattheTable" weight="3211" />
+      <edge id="239" source="#talkpoverty" target="#WaronPoverty" weight="3211" />
+      <edge id="240" source="#farmbillconference" target="#snapworks" weight="3211" />
+      <edge id="241" source="#hunger" target="#NoKidHungry" weight="3211" />
+      <edge id="242" source="#hunger" target="#harvestforhunger" weight="3211" />
+      <edge id="243" source="#hunger" target="#snowdays" weight="3211" />
+      <edge id="244" source="#hunger" target="#summermeal" weight="3211" />
+      <edge id="245" source="#hunger" target="#childnutrition" weight="3211" />
+      <edge id="246" source="#hunger" target="#Ohio" weight="3211" />
+      <edge id="247" source="#hunger" target="#produce" weight="3211" />
+      <edge id="248" source="#hunger" target="#obesity" weight="3211" />
+      <edge id="249" source="#hunger" target="#paczki" weight="3211" />
+      <edge id="250" source="#hunger" target="#shutdown" weight="3211" />
+      <edge id="251" source="#hunger" target="#lorain" weight="3211" />
+      <edge id="252" source="#hunger" target="#Talkpoverty" weight="3211" />
+      <edge id="253" source="#hunger" target="#poverty" weight="12844" />
+      <edge id="254" source="#hunger" target="#seniors" weight="3211" />
+      <edge id="255" source="#hunger" target="#NCLRChats" weight="3211" />
+      <edge id="256" source="#hunger" target="#childobesity" weight="3211" />
+      <edge id="257" source="#hunger" target="#farmers" weight="3211" />
+      <edge id="258" source="#hunger" target="#schoolmeals" weight="3211" />
+      <edge id="259" source="#hunger" target="#thanksgiving" weight="3211" />
+      <edge id="260" source="#hunger" target="#malnutrition" weight="3211" />
+      <edge id="261" source="#hunger" target="#HungerAction" weight="3211" />
+      <edge id="262" source="#hunger" target="#FridayFact" weight="3211" />
+      <edge id="263" source="#HungerCliff" target="#SNAP" weight="6422" />
+      <edge id="264" source="#VeteransDay" target="#ThankYou" weight="3211" />
+      <edge id="265" source="#endhungernow" target="#WorldFoodDay" weight="3211" />
+      <edge id="266" source="#endhungernow" target="#SOTU" weight="3211" />
+      <edge id="267" source="#endhungernow" target="#SNAPworks" weight="3211" />
+      <edge id="268" source="#share" target="#LFW13" weight="3211" />
+      <edge id="269" source="#share" target="#gardeners" weight="3211" />
+      <edge id="270" source="#shf" target="#solveseniorhunger" weight="3211" />
+      <edge id="271" source="#acalums" target="#AmeriCorps" weight="3211" />
+      <edge id="272" source="#BacktoSchool" target="#nutritious" weight="3211" />
+      <edge id="273" source="#BacktoSchool" target="#afterschool" weight="3211" />
+      <edge id="274" source="#OHIOSHS" target="#SenatorCharletaTavares" weight="3211" />
+      <edge id="275" source="#protectSNAP" target="#infographic" weight="3211" />
+      <edge id="276" source="#protectSNAP" target="#FarmBill" weight="3211" />
+      <edge id="277" source="#protectSNAP" target="#SNAP" weight="3211" />
+      <edge id="278" source="#GDC" target="#SNAP" weight="3211" />
+      <edge id="279" source="#NCLRChats" target="#childobesity" weight="3211" />
+      <edge id="280" source="#GoRedWearRed" target="#LiveHealthy" weight="3211" />
+      <edge id="281" source="#FranklinCo" target="#HungerAction" weight="3211" />
+      <edge id="282" source="#EndHunger" target="#RandomActsOfKindnessDay" weight="3211" />
+      <edge id="283" source="#EndHunger" target="#MotivationMonday" weight="3211" />
+      <edge id="284" source="#GoOrangeDay" target="#HungerAction" weight="3211" />
+      <edge id="285" source="#SNAPcuts" target="#myfarmbill" weight="3211" />
+      <edge id="286" source="#SNAPcuts" target="#hungercliff" weight="3211" />
+      <edge id="287" source="#MarchonWashington" target="#MLK" weight="3211" />
+      <edge id="288" source="#MarchonWashington" target="#DreamDay" weight="3211" />
+      <edge id="289" source="#StampOutHunger" target="#HungerHero" weight="3211" />
+      <edge id="290" source="#StampOutHunger" target="#LetterCarrier" weight="3211" />
+      <edge id="291" source="#InspireSomeone" target="#OhioNonprofitConference" weight="3211" />
+      <edge id="292" source="#Ohsenate" target="#OHbudget" weight="3211" />
+      <edge id="293" source="#inspirationalquote" target="#Pinterest" weight="3211" />
+      <edge id="294" source="#cybermonday" target="#blackfriday" weight="3211" />
+      <edge id="295" source="#cybermonday" target="#givingtuesday" weight="3211" />
+      <edge id="296" source="#Hunger" target="#ohioshs" weight="3211" />
+      <edge id="297" source="#Hunger" target="#Unemployment" weight="3211" />
+      <edge id="298" source="#Hunger" target="#RDR2013" weight="3211" />
+      <edge id="299" source="#Hunger" target="#Income" weight="3211" />
+      <edge id="300" source="#Hunger" target="#KINDSummit" weight="3211" />
+      <edge id="301" source="#Hunger" target="#Poverty" weight="3211" />
+      <edge id="302" source="#Hunger" target="#Infants" weight="3211" />
+      <edge id="303" source="#Hunger" target="#Ohio" weight="6422" />
+      <edge id="304" source="#paperplate" target="#acsdata" weight="3211" />
+      <edge id="305" source="#paperplate" target="#HungerAction" weight="3211" />
+      <edge id="306" source="#AprilFool" target="#foodbanks" weight="3211" />
+      <edge id="307" source="#noSNAPcuts" target="#FarmBill" weight="3211" />
+      <edge id="308" source="#volunteer" target="#Columbus" weight="3211" />
+      <edge id="309" source="#9onyourside" target="#GetCovered" weight="3211" />
+      <edge id="310" source="#cbus" target="#CBJ" weight="3211" />
+      <edge id="311" source="#cbus" target="#911day" weight="3211" />
+      <edge id="312" source="#cbus" target="#nonprofit" weight="3211" />
+      <edge id="313" source="#cbus" target="#jobs" weight="3211" />
+      <edge id="314" source="#Backtoschool" target="#BTS" weight="3211" />
+      <edge id="315" source="#Backtoschool" target="#NoKidHungry" weight="3211" />
+      <edge id="316" source="#nutrition" target="#quotes" weight="3211" />
+      <edge id="317" source="#nutrition" target="#SNAPworks" weight="3211" />
+      <edge id="318" source="#getcovered" target="#oursalud" weight="3211" />
+      <edge id="319" source="#getcovered" target="#ACA" weight="6422" />
+      <edge id="320" source="#ACWeek" target="#AmeriCorpsWorks" weight="3211" />
+      <edge id="321" source="#distributed" target="#WarehouseWednesday" weight="3211" />
+      <edge id="322" source="#BrownBagDay" target="#BrownBagDay" weight="6422" />
+      <edge id="323" source="#InternationalDayoftheGirl" target="#HungryKate" weight="3211" />
+      <edge id="324" source="#EggMonth" target="#eggs" weight="3211" />
+      <edge id="325" source="#EggMonth" target="#farmers" weight="3211" />
+      <edge id="326" source="#vetsday" target="#veteran" weight="3211" />
+      <edge id="327" source="#vetsday" target="#jobs" weight="3211" />
+      <edge id="328" source="#ServiceEmployers" target="#VISTA50" weight="3211" />
+      <edge id="329" source="#ServiceEmployers" target="#SASsummit" weight="3211" />
+      <edge id="330" source="#Farm" target="#Ohio" weight="3211" />
+      <edge id="331" source="#Save4all" target="#foodstampchallenge" weight="3211" />
+      <edge id="332" source="#Save4all" target="#SNAP" weight="3211" />
+      <edge id="333" source="#KINDSummit" target="#Infants" weight="3211" />
+      <edge id="334" source="#EachOneTeachOne" target="#ThursdayTidbits" weight="3211" />
+      <edge id="335" source="#OH" target="#TANF" weight="3211" />
+      <edge id="336" source="#OH" target="#GetCovered" weight="3211" />
+      <edge id="337" source="#OH" target="#HungerAction" weight="3211" />
+      <edge id="338" source="#OH" target="#StayCovered" weight="3211" />
+      <edge id="339" source="#AgNews" target="#hungrychildren" weight="3211" />
+      <edge id="340" source="#farmers" target="#foodbanks" weight="3211" />
+      <edge id="341" source="#farmers" target="#ourohio" weight="3211" />
+      <edge id="342" source="#farmers" target="#food" weight="3211" />
+      <edge id="343" source="#farmers" target="#Ohio" weight="19266" />
+      <edge id="344" source="#Income" target="#Unemployment" weight="3211" />
+      <edge id="345" source="#Income" target="#Poverty" weight="3211" />
+      <edge id="346" source="#Income" target="#Ohio" weight="3211" />
+      <edge id="347" source="#foodstamps" target="#SNAP" weight="12844" />
+      <edge id="348" source="#foodstamps" target="#farmbill" weight="12844" />
+      <edge id="349" source="#foodstamps" target="#COTW" weight="3211" />
+      <edge id="350" source="#Welfare" target="#Poverty" weight="3211" />
+      <edge id="351" source="#winter" target="#coat" weight="3211" />
+      <edge id="352" source="#startover394" target="#poorwhileworking" weight="3211" />
+      <edge id="353" source="#community" target="#VirtualFoodDrive" weight="3211" />
+      <edge id="354" source="#YouTube" target="#Foodbank" weight="3211" />
+      <edge id="355" source="#blackfriday" target="#givingtuesday" weight="3211" />
+      <edge id="356" source="#paczki" target="#harvestforhunger" weight="3211" />
+      <edge id="357" source="#paczki" target="#lorain" weight="3211" />
+      <edge id="358" source="#AllAgencyExchange" target="#1in4" weight="3211" />
+      <edge id="359" source="#paperplates" target="#HungerAction" weight="3211" />
+      <edge id="360" source="#911Day" target="#AmeriCorps" weight="3211" />
+      <edge id="361" source="#takeyourplace" target="#OhioBenefitBank" weight="3211" />
+      <edge id="362" source="#EndHungerNow" target="#FarmBill" weight="3211" />
+      <edge id="363" source="#EndHungerNow" target="#TalkPoverty" weight="3211" />
+      <edge id="364" source="#EndHungerNow" target="#SNAPworks" weight="3211" />
+      <edge id="365" source="#EndHungerNow" target="#WaronPoverty50" weight="3211" />
+      <edge id="366" source="#EndHungerNow" target="#APlaceattheTable" weight="3211" />
+      <edge id="367" source="#EndHungerNow" target="#SOTU" weight="6422" />
+      <edge id="368" source="#EndHungerNow" target="#SNAP" weight="3211" />
+      <edge id="369" source="#ServiceYear" target="#FranklinProject" weight="3211" />
+      <edge id="370" source="#ServiceYear" target="#Serve2014" weight="3211" />
+      <edge id="371" source="#neighborhoods" target="#Cleveland" weight="3211" />
+      <edge id="372" source="#neighborhoods" target="#poverty" weight="3211" />
+      <edge id="373" source="#Westerville" target="#Dublin" weight="6422" />
+      <edge id="374" source="#Westerville" target="#Worthington" weight="3211" />
+      <edge id="375" source="#americorpsworks" target="#DayoftheA" weight="3211" />
+      <edge id="376" source="#VoteToEndHunger" target="#antihungerpc16" weight="3211" />
+      <edge id="377" source="#SNAPOutreach" target="#OhioBenefitBank" weight="3211" />
+      <edge id="378" source="#GivingTuesday" target="#CyberMonday" weight="3211" />
+      <edge id="379" source="#begreat12" target="#infographic" weight="3211" />
+      <edge id="380" source="#begreat12" target="#AmeriCorps" weight="3211" />
+      <edge id="381" source="#NationalService" target="#MDDAY" weight="3211" />
+      <edge id="382" source="#NationalService" target="#AmeriCorps" weight="3211" />
+      <edge id="383" source="#NationalService" target="#VISTA" weight="3211" />
+      <edge id="384" source="#WorldFoodDay" target="#SNAPworks" weight="3211" />
+      <edge id="385" source="#shutdown" target="#justvote" weight="3211" />
+      <edge id="386" source="#shutdown" target="#SNAPworks" weight="3211" />
+      <edge id="387" source="#shutdown" target="#AAFP" weight="3211" />
+      <edge id="388" source="#shutdown" target="#nerdland" weight="3211" />
+      <edge id="389" source="#BiggestLoser" target="#OpFeed" weight="3211" />
+      <edge id="390" source="#DreamDay" target="#MLK" weight="3211" />
+      <edge id="391" source="#Twitterversary" target="#FoodForThought" weight="3211" />
+      <edge id="392" source="#Infographic" target="#KYF2" weight="3211" />
+      <edge id="393" source="#GetCoveredOhio" target="#Medicaid" weight="3211" />
+      <edge id="394" source="#areyoucoveredOH" target="#FridayFact" weight="3211" />
+      <edge id="395" source="#specialenrollment" target="#GetCovered" weight="3211" />
+      <edge id="396" source="#hungry" target="#video" weight="3211" />
+      <edge id="397" source="#aap14" target="#youthvoices" weight="3211" />
+      <edge id="398" source="#aap14" target="#poverty" weight="3211" />
+      <edge id="399" source="#MDDY11" target="#VISTA" weight="3211" />
+      <edge id="400" source="#obb2014" target="#ACA" weight="3211" />
+      <edge id="401" source="#obb2014" target="#OhioBenefitBank" weight="6422" />
+      <edge id="402" source="#obb2014" target="#Ohio" weight="3211" />
+      <edge id="403" source="#food" target="#SNAP" weight="3211" />
+      <edge id="404" source="#food" target="#farmbill" weight="3211" />
+      <edge id="405" source="#veteran" target="#jobs" weight="3211" />
+      <edge id="406" source="#foodpolicy" target="#snapchallenge" weight="3211" />
+      <edge id="407" source="#9wakeup" target="#SeenOn9" weight="3211" />
+      <edge id="408" source="#Foodbank" target="#Twitter" weight="3211" />
+      <edge id="409" source="#Foodbank" target="#farmbill" weight="3211" />
+      <edge id="410" source="#Foodbank" target="#GoBrowns" weight="3211" />
+      <edge id="411" source="#Foodbank" target="#Pinterest" weight="3211" />
+      <edge id="412" source="#Foodbank" target="#holidayseason" weight="6422" />
+      <edge id="413" source="#Foodbank" target="#garden" weight="3211" />
+      <edge id="414" source="#Foodbank" target="#September" weight="3211" />
+      <edge id="415" source="#Foodbank" target="#FridayFact" weight="6422" />
+      <edge id="416" source="#Foodbank" target="#Cleveland" weight="32110" />
+      <edge id="417" source="#RoundUp" target="#DoGood" weight="3211" />
+      <edge id="418" source="#whogoeshungry" target="#FarmBill" weight="3211" />
+      <edge id="419" source="#whogoeshungry" target="#SNAP" weight="6422" />
+      <edge id="420" source="#statebudget" target="#Ohio" weight="3211" />
+      <edge id="421" source="#SNAP" target="#infographic" weight="3211" />
+      <edge id="422" source="#SNAP" target="#POTUS" weight="6422" />
+      <edge id="423" source="#SNAP" target="#FarmBill" weight="12844" />
+      <edge id="424" source="#SNAP" target="#FoodStamps" weight="3211" />
+      <edge id="425" source="#SNAP" target="#ThisIsSNAP" weight="3211" />
+      <edge id="426" source="#SNAP" target="#BelowTheLine" weight="3211" />
+      <edge id="427" source="#SNAP" target="#COTW" weight="3211" />
+      <edge id="428" source="#SNAP" target="#foodstampchallenge" weight="6422" />
+      <edge id="429" source="#SNAP" target="#SNAPworks" weight="9633" />
+      <edge id="430" source="#SNAP" target="#farmbill" weight="9633" />
+      <edge id="431" source="#SNAP" target="#Cleveland" weight="3211" />
+      <edge id="432" source="#SNAP" target="#TalkPoverty" weight="3211" />
+      <edge id="433" source="#SNAP" target="#Medicaid" weight="3211" />
+      <edge id="434" source="#FranklinProject" target="#Serve2014" weight="3211" />
+      <edge id="435" source="#AmeriCorps" target="#VISTA" weight="3211" />
+      <edge id="436" source="#AmeriCorps" target="#endhunger" weight="3211" />
+      <edge id="437" source="#AmeriCorps" target="#AmeriCorpsWorks" weight="3211" />
+      <edge id="438" source="#AmeriCorps" target="#LRLM" weight="3211" />
+      <edge id="439" source="#DayoftheA" target="#AmeriCorpsWorks" weight="3211" />
+      <edge id="440" source="#4thofJuly" target="#BBQ" weight="3211" />
+      <edge id="441" source="#summermeal" target="#childnutrition" weight="3211" />
+      <edge id="442" source="#cincinnati" target="#Share_Story" weight="3211" />
+      <edge id="443" source="#twodollarsaday" target="#housingohio16" weight="3211" />
+      <edge id="444" source="#OHsots" target="#OHsots" weight="6422" />
+      <edge id="445" source="#nonprofit" target="#jobs" weight="3211" />
+      <edge id="446" source="#TuSaludYObama" target="#ACA" weight="3211" />
+      <edge id="447" source="#KeepYourFullRefund" target="#FileFree" weight="3211" />
+      <edge id="448" source="#povertydata2013" target="#livingwage" weight="3211" />
+      <edge id="449" source="#onceaday" target="#refund" weight="3211" />
+      <edge id="450" source="#GetCovered" target="#OurSalud" weight="3211" />
+      <edge id="451" source="#GetCovered" target="#LatinoHealth" weight="3211" />
+      <edge id="452" source="#GetCovered" target="#Obamacare" weight="3211" />
+      <edge id="453" source="#GetCovered" target="#OpenEnrollment" weight="3211" />
+      <edge id="454" source="#GetCovered" target="#StayCovered" weight="6422" />
+      <edge id="455" source="#GetCovered" target="#Fridaythe13th" weight="3211" />
+      <edge id="456" source="#GetCovered" target="#SOE2015" weight="3211" />
+      <edge id="457" source="#Shutdown" target="#hungerrelief" weight="3211" />
+      <edge id="458" source="#afterschool" target="#nutritious" weight="3211" />
+      <edge id="459" source="#myfarmbill" target="#hungercliff" weight="3211" />
+      <edge id="460" source="#TeamNKH" target="#NoKidHungry" weight="6422" />
+      <edge id="461" source="#action" target="#Americans" weight="3211" />
+      <edge id="462" source="#nerdland" target="#BelowTheLine" weight="3211" />
+      <edge id="463" source="#film" target="#foodinsecurity" weight="3211" />
+      <edge id="464" source="#caterer" target="#CincinnatiCOOKS" weight="3211" />
+      <edge id="465" source="#FreeMyRefundDay" target="#OhioBenefitBank" weight="3211" />
+      <edge id="466" source="#foodbanks" target="#foodandbeveragepeople" weight="3211" />
+      <edge id="467" source="#foodbanks" target="#Ohio" weight="3211" />
+      <edge id="468" source="#GettingThingsDone" target="#AmeriCorps20" weight="3211" />
+      <edge id="469" source="#seniors" target="#Ohio" weight="3211" />
+      <edge id="470" source="#FamilyWellnessMonth" target="#FridayFact" weight="3211" />
+      <edge id="471" source="#fighthunger" target="#HungerActionDay" weight="3211" />
+      <edge id="472" source="#Ebola" target="#Poverty" weight="3211" />
+      <edge id="473" source="#ThrowbackThursday" target="#tbt" weight="3211" />
+      <edge id="474" source="#TaxDay" target="#OhioBenefitBank" weight="3211" />
+      <edge id="475" source="#TalkPoverty" target="#BelowTheLine" weight="3211" />
+      <edge id="476" source="#TalkPoverty" target="#SOTU" weight="6422" />
+      <edge id="477" source="#TalkPoverty" target="#hungerpc16" weight="3211" />
+      <edge id="478" source="#TalkPoverty" target="#EITC" weight="3211" />
+      <edge id="479" source="#Health" target="#healthcare" weight="3211" />
+      <edge id="480" source="#FoodForThought" target="#RealImpact" weight="3211" />
+      <edge id="481" source="#OurSalud" target="#LatinoHealth" weight="3211" />
+      <edge id="482" source="#homelessness" target="#eviction" weight="3211" />
+      <edge id="483" source="#homelessness" target="#poverty" weight="3211" />
+      <edge id="484" source="#jobs" target="#akron" weight="3211" />
+      <edge id="485" source="#foodtrucks" target="#H4Hunger" weight="3211" />
+      <edge id="486" source="#Pinterest" target="#Cleveland" weight="3211" />
+      <edge id="487" source="#CNNdebate" target="#openquestion" weight="3211" />
+      <edge id="488" source="#NoKidHungry" target="#BTS" weight="3211" />
+      <edge id="489" source="#NoKidHungry" target="#SummerMeals" weight="3211" />
+      <edge id="490" source="#snowdays" target="#schoolmeals" weight="3211" />
+      <edge id="491" source="#AreYouCoveredOH" target="#Marketplace" weight="3211" />
+      <edge id="492" source="#AreYouCoveredOH" target="#ACA" weight="3211" />
+      <edge id="493" source="#OhioBenefitBank" target="#Cleveland" weight="3211" />
+      <edge id="494" source="#OhioBenefitBank" target="#money" weight="3211" />
+      <edge id="495" source="#OhioBenefitBank" target="#FREE" weight="6422" />
+      <edge id="496" source="#OhioBenefitBank" target="#Columbus" weight="3211" />
+      <edge id="497" source="#OhioBenefitBank" target="#EITC" weight="3211" />
+      <edge id="498" source="#SNAPWorks" target="#FarmBill" weight="3211" />
+      <edge id="499" source="#OhioFoodProgram" target="#OhioAgClearance" weight="3211" />
+      <edge id="500" source="#WorldGratitudeDay" target="#thankyou" weight="3211" />
+      <edge id="501" source="#taxreturn" target="#FREE" weight="3211" />
+      <edge id="502" source="#taxreturn" target="#money" weight="3211" />
+      <edge id="503" source="#911day" target="#CBJ" weight="3211" />
+      <edge id="504" source="#FreeFoodTruck" target="#apply4snap" weight="3211" />
+      <edge id="505" source="#AffordableHousing" target="#Homeless" weight="3211" />
+      <edge id="506" source="#rallytogether" target="#windians" weight="3211" />
+      <edge id="507" source="#HungerAction" target="#FeedOhio" weight="3211" />
+      <edge id="508" source="#HungerAction" target="#30WaysIn30Days" weight="6422" />
+      <edge id="509" source="#HungerAction" target="#TGIF" weight="3211" />
+      <edge id="510" source="#HungerAction" target="#Harvest" weight="3211" />
+      <edge id="511" source="#HungerAction" target="#HungerAction" weight="6422" />
+      <edge id="512" source="#FoodD" target="#sustainability" weight="3211" />
+      <edge id="513" source="#Dublin" target="#Worthington" weight="3211" />
+      <edge id="514" source="#VISTA50" target="#SASsummit" weight="6422" />
+      <edge id="515" source="#bipartisan" target="#NH" weight="3211" />
+      <edge id="516" source="#LFW13" target="#gardeners" weight="3211" />
+      <edge id="517" source="#Nothing" target="#Nothing" weight="12844" />
+      <edge id="518" source="#Nothing" target="#philanthropy" weight="3211" />
+      <edge id="519" source="#nokidhungry" target="#infographic" weight="3211" />
+      <edge id="520" source="#nokidhungry" target="#sotu" weight="3211" />
+      <edge id="521" source="#hiring" target="#nonprofitjobs" weight="6422" />
+      <edge id="522" source="#hiring" target="#Ohio" weight="6422" />
+      <edge id="523" source="#veterans" target="#militaryhunger" weight="3211" />
+      <edge id="524" source="#infographic" target="#TheRealTANF" weight="3211" />
+      <edge id="525" source="#infographic" target="#FarmBill" weight="3211" />
+      <edge id="526" source="#militaryhunger" target="#foodinsecurity" weight="3211" />
+      <edge id="527" source="#FightHunger" target="#FightPoverty" weight="3211" />
+      <edge id="528" source="#Poverty" target="#Budget" weight="3211" />
+      <edge id="529" source="#Poverty" target="#Unemployment" weight="3211" />
+      <edge id="530" source="#Poverty" target="#Ohio" weight="6422" />
+      <edge id="531" source="#GradingDC" target="#ServeAmericaAct" weight="3211" />
+      <edge id="532" source="#Stateline" target="#snap" weight="3211" />
+      <edge id="533" source="#Stateline" target="#Ohio" weight="3211" />
+      <edge id="534" source="#SOTU" target="#WaronPoverty50" weight="3211" />
+      <edge id="535" source="#Medicaid" target="#Medicaid" weight="6422" />
+      <edge id="536" source="#FridayFact" target="#Cleveland" weight="6422" />
+      <edge id="537" source="#FREE" target="#money" weight="6422" />
+      <edge id="538" source="#FREE" target="#EITC" weight="3211" />
+      <edge id="539" source="#ProtectGiving" target="#SNAPworks" weight="3211" />
+      <edge id="540" source="#ProtectGiving" target="#Foodbanks" weight="3211" />
+      <edge id="541" source="#OhioFoodbanks" target="#Ohio" weight="3211" />
+      <edge id="542" source="#housingohio16" target="#Evicted" weight="3211" />
+      <edge id="543" source="#oursalud" target="#ACA" weight="3211" />
+      <edge id="544" source="#areyoucovered" target="#ACA" weight="6422" />
+      <edge id="545" source="#areyoucovered" target="#healthcare" weight="3211" />
+      <edge id="546" source="#Wildlights" target="#StuffTheTrucks" weight="3211" />
+      <edge id="547" source="#ohioshs" target="#CSFP" weight="3211" />
+      <edge id="548" source="#ohioshs" target="#Ohio" weight="3211" />
+      <edge id="549" source="#Cleveland" target="#holidayseason" weight="6422" />
+      <edge id="550" source="#Cleveland" target="#poverty" weight="3211" />
+      <edge id="551" source="#Cleveland" target="#farmbill" weight="3211" />
+      <edge id="552" source="#harvestforhunger" target="#lorain" weight="3211" />
+      <edge id="553" source="#Foodbanks" target="#Ohio" weight="3211" />
+      <edge id="554" source="#Foodbanks" target="#SNAPworks" weight="9633" />
+      <edge id="555" source="#Marketplace" target="#ACA" weight="3211" />
+      <edge id="556" source="#sequester" target="#sequester" weight="6422" />
+      <edge id="557" source="#Unemployment" target="#Ohio" weight="3211" />
+      <edge id="558" source="#SolveHunger" target="#TogetherWeCan" weight="3211" />
+      <edge id="559" source="#justvote" target="#SNAPworks" weight="3211" />
+      <edge id="560" source="#CTC" target="#EITC" weight="9633" />
+      <edge id="561" source="#p2" target="#poverty" weight="3211" />
+      <edge id="562" source="#Obamacare" target="#ACA" weight="3211" />
+      <edge id="563" source="#spreadsomegood" target="#hungeraction" weight="3211" />
+      <edge id="564" source="#Ohio" target="#nunsonthebus" weight="3211" />
+      <edge id="565" source="#Ohio" target="#poverty" weight="6422" />
+      <edge id="566" source="#Ohio" target="#nonprofitjobs" weight="6422" />
+      <edge id="567" source="#endhunger" target="#LRLM" weight="3211" />
+      <edge id="568" source="#endhunger" target="#CyberMonday" weight="3211" />
+      <edge id="569" source="#SummerMeals" target="#AudreyRowe" weight="3211" />
+      <edge id="570" source="#BigGive" target="#BasicNeeds" weight="3211" />
+      <edge id="571" source="#youthvoices" target="#poverty" weight="3211" />
+      <edge id="572" source="#EITC" target="#poverty" weight="3211" />
+      <edge id="573" source="#FarmBill" target="#SNAPworks" weight="3211" />
+      <edge id="574" source="#healthcare" target="#ACA" weight="3211" />
+    </edges>
+  </graph>
+</gexf>

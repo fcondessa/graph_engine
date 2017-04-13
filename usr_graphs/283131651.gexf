@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Ichiro" label="#Ichiro" />
+      <node id="#Phillies" label="#Phillies" />
+      <node id="#Cosby" label="#Cosby" />
+      <node id="#nyc" label="#nyc" />
+      <node id="#STLCards" label="#STLCards" />
+      <node id="#cleveland" label="#cleveland" />
+      <node id="#travel" label="#travel" />
+      <node id="#pitchin4DV" label="#pitchin4DV" />
+      <node id="#Westworld" label="#Westworld" />
+      <node id="#Rockies" label="#Rockies" />
+      <node id="#RELIVE1996" label="#RELIVE1996" />
+      <node id="#Russia" label="#Russia" />
+      <node id="#Tigers" label="#Tigers" />
+      <node id="#YouGoWeGo" label="#YouGoWeGo" />
+      <node id="#FantasyBaseball" label="#FantasyBaseball" />
+      <node id="#FlashbackFriday" label="#FlashbackFriday" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#DontDrinkAnd_____" label="#DontDrinkAnd_____" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#orioles" label="#orioles" />
+      <node id="#Royals" label="#Royals" />
+      <node id="#BlueJays" label="#BlueJays" />
+      <node id="#AlecBaldwin" label="#AlecBaldwin" />
+      <node id="#LGM" label="#LGM" />
+      <node id="#BreakingNews" label="#BreakingNews" />
+      <node id="#sandiego" label="#sandiego" />
+      <node id="#SmallWonder" label="#SmallWonder" />
+      <node id="#Timeless" label="#Timeless" />
+      <node id="#Angels" label="#Angels" />
+      <node id="#GoCubsGo" label="#GoCubsGo" />
+      <node id="#Padres" label="#Padres" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#Aleppo" label="#Aleppo" />
+      <node id="#spshow" label="#spshow" />
+      <node id="#Hannibal" label="#Hannibal" />
+      <node id="#TimTebow" label="#TimTebow" />
+      <node id="#TheFlash" label="#TheFlash" />
+      <node id="#PERFECTILLUSION" label="#PERFECTILLUSION" />
+      <node id="#WeAreGiant" label="#WeAreGiant" />
+      <node id="#ClementeDay" label="#ClementeDay" />
+      <node id="#Tronc" label="#Tronc" />
+      <node id="#ItsHappening" label="#ItsHappening" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#CentralPark" label="#CentralPark" />
+      <node id="#NYY" label="#NYY" />
+      <node id="#Nationals" label="#Nationals" />
+      <node id="#Marlins" label="#Marlins" />
+      <node id="#Tonight" label="#Tonight" />
+      <node id="#IronMan" label="#IronMan" />
+      <node id="#RobertoClemente" label="#RobertoClemente" />
+      <node id="#Yankees" label="#Yankees" />
+      <node id="#FlyTheW" label="#FlyTheW" />
+      <node id="#Colorado" label="#Colorado" />
+      <node id="#ATTPark" label="#ATTPark" />
+      <node id="#Believeland" label="#Believeland" />
+      <node id="#perfectparent" label="#perfectparent" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#OPACY" label="#OPACY" />
+      <node id="#Cubs" label="#Cubs" />
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#PNCPark" label="#PNCPark" />
+      <node id="#NYClife" label="#NYClife" />
+      <node id="#KCRoyals" label="#KCRoyals" />
+      <node id="#NLDS" label="#NLDS" />
+      <node id="#pirates" label="#pirates" />
+      <node id="#EnoughAlready" label="#EnoughAlready" />
+      <node id="#Vacation" label="#Vacation" />
+      <node id="#SABR46" label="#SABR46" />
+      <node id="#Astros" label="#Astros" />
+      <node id="#NLCS" label="#NLCS" />
+      <node id="#WrigleyField" label="#WrigleyField" />
+      <node id="#Hoboken" label="#Hoboken" />
+      <node id="#OrioleWay" label="#OrioleWay" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#Orioles" label="#Orioles" />
+      <node id="#Baseball" label="#Baseball" />
+      <node id="#California" label="#California" />
+      <node id="#LukeCage" label="#LukeCage" />
+      <node id="#ForeverRoyal" label="#ForeverRoyal" />
+      <node id="#TiffanyBrissette" label="#TiffanyBrissette" />
+      <node id="#MookieMania" label="#MookieMania" />
+      <node id="#MLBPlayoffs" label="#MLBPlayoffs" />
+      <node id="#Kindle" label="#Kindle" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#JohnnyCarson" label="#JohnnyCarson" />
+      <node id="#millennials" label="#millennials" />
+      <node id="#BaltimoreBaseballPilgrimage" label="#BaltimoreBaseballPilgrimage" />
+      <node id="#Mets" label="#Mets" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Ichiro" target="#MLB" weight="3245" />
+      <edge id="1" source="#Phillies" target="#KCRoyals" weight="3245" />
+      <edge id="2" source="#Cosby" target="#California" weight="3245" />
+      <edge id="3" source="#nyc" target="#CentralPark" weight="3245" />
+      <edge id="4" source="#STLCards" target="#Marlins" weight="3245" />
+      <edge id="5" source="#cleveland" target="#Baseball" weight="3245" />
+      <edge id="6" source="#cleveland" target="#WorldSeries" weight="3245" />
+      <edge id="7" source="#travel" target="#millennials" weight="6490" />
+      <edge id="8" source="#travel" target="#Vacation" weight="6490" />
+      <edge id="9" source="#pitchin4DV" target="#Cubs" weight="3245" />
+      <edge id="10" source="#Westworld" target="#LukeCage" weight="3245" />
+      <edge id="11" source="#Rockies" target="#Nationals" weight="3245" />
+      <edge id="12" source="#RELIVE1996" target="#Yankees" weight="3245" />
+      <edge id="13" source="#Russia" target="#Aleppo" weight="3245" />
+      <edge id="14" source="#Tigers" target="#Indians" weight="3245" />
+      <edge id="15" source="#Tigers" target="#Padres" weight="3245" />
+      <edge id="16" source="#Tigers" target="#Yankees" weight="3245" />
+      <edge id="17" source="#YouGoWeGo" target="#Cubs" weight="3245" />
+      <edge id="18" source="#FantasyBaseball" target="#RedSox" weight="3245" />
+      <edge id="19" source="#FlashbackFriday" target="#NYY" weight="3245" />
+      <edge id="20" source="#FlashbackFriday" target="#MLB" weight="3245" />
+      <edge id="21" source="#FlashbackFriday" target="#Yankees" weight="3245" />
+      <edge id="22" source="#WorldSeries" target="#Indians" weight="3245" />
+      <edge id="23" source="#WorldSeries" target="#Baseball" weight="3245" />
+      <edge id="24" source="#WorldSeries" target="#Believeland" weight="3245" />
+      <edge id="25" source="#WorldSeries" target="#Cubs" weight="6490" />
+      <edge id="26" source="#DontDrinkAnd_____" target="#orioles" weight="3245" />
+      <edge id="27" source="#ICYMI" target="#Cubs" weight="3245" />
+      <edge id="28" source="#orioles" target="#OPACY" weight="3245" />
+      <edge id="29" source="#Royals" target="#ForeverRoyal" weight="3245" />
+      <edge id="30" source="#Royals" target="#MLBPlayoffs" weight="3245" />
+      <edge id="31" source="#BlueJays" target="#Orioles" weight="3245" />
+      <edge id="32" source="#AlecBaldwin" target="#NYClife" weight="3245" />
+      <edge id="33" source="#LGM" target="#Mets" weight="3245" />
+      <edge id="34" source="#BreakingNews" target="#Hoboken" weight="3245" />
+      <edge id="35" source="#sandiego" target="#Tronc" weight="3245" />
+      <edge id="36" source="#SmallWonder" target="#TiffanyBrissette" weight="3245" />
+      <edge id="37" source="#Timeless" target="#TheFlash" weight="3245" />
+      <edge id="38" source="#Angels" target="#Angels" weight="6490" />
+      <edge id="39" source="#GoCubsGo" target="#FlyTheW" weight="3245" />
+      <edge id="40" source="#Dodgers" target="#MLB" weight="3245" />
+      <edge id="41" source="#Dodgers" target="#postseason" weight="6490" />
+      <edge id="42" source="#Dodgers" target="#EnoughAlready" weight="3245" />
+      <edge id="43" source="#Dodgers" target="#NLDS" weight="6490" />
+      <edge id="44" source="#Dodgers" target="#Hannibal" weight="3245" />
+      <edge id="45" source="#Dodgers" target="#Cubs" weight="3245" />
+      <edge id="46" source="#spshow" target="#Kindle" weight="6490" />
+      <edge id="47" source="#TimTebow" target="#Mets" weight="3245" />
+      <edge id="48" source="#PERFECTILLUSION" target="#perfectparent" weight="3245" />
+      <edge id="49" source="#WeAreGiant" target="#ATTPark" weight="3245" />
+      <edge id="50" source="#WeAreGiant" target="#SFGiants" weight="3245" />
+      <edge id="51" source="#ClementeDay" target="#RobertoClemente" weight="3245" />
+      <edge id="52" source="#ItsHappening" target="#Colorado" weight="3245" />
+      <edge id="53" source="#CentralPark" target="#NYC" weight="3245" />
+      <edge id="54" source="#NYY" target="#Yankees" weight="3245" />
+      <edge id="55" source="#NYY" target="#MLB" weight="3245" />
+      <edge id="56" source="#Marlins" target="#SABR46" weight="3245" />
+      <edge id="57" source="#Tonight" target="#JohnnyCarson" weight="3245" />
+      <edge id="58" source="#IronMan" target="#OrioleWay" weight="3245" />
+      <edge id="59" source="#Yankees" target="#MLB" weight="3245" />
+      <edge id="60" source="#Yankees" target="#Indians" weight="3245" />
+      <edge id="61" source="#FlyTheW" target="#NLCS" weight="3245" />
+      <edge id="62" source="#ATTPark" target="#SFGiants" weight="3245" />
+      <edge id="63" source="#Believeland" target="#Indians" weight="3245" />
+      <edge id="64" source="#Cubs" target="#WrigleyField" weight="6490" />
+      <edge id="65" source="#RedSox" target="#MookieMania" weight="3245" />
+      <edge id="66" source="#PNCPark" target="#Orioles" weight="6490" />
+      <edge id="67" source="#PNCPark" target="#pirates" weight="3245" />
+      <edge id="68" source="#Vacation" target="#millennials" weight="6490" />
+      <edge id="69" source="#Astros" target="#Mets" weight="3245" />
+      <edge id="70" source="#Orioles" target="#BaltimoreBaseballPilgrimage" weight="3245" />
+      <edge id="71" source="#MLB" target="#Mets" weight="3245" />
+      <edge id="72" source="#SFGiants" target="#Mets" weight="3245" />
+    </edges>
+  </graph>
+</gexf>

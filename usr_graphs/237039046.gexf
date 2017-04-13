@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#PGA" label="#PGA" />
+      <node id="#FantasyBaseball" label="#FantasyBaseball" />
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#WorksTwoWays" label="#WorksTwoWays" />
+      <node id="#BaseballFootballError" label="#BaseballFootballError" />
+      <node id="#ButDFSIsPredatroy" label="#ButDFSIsPredatroy" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#Joking" label="#Joking" />
+      <node id="#Bills" label="#Bills" />
+      <node id="#Whoops" label="#Whoops" />
+      <node id="#freelancer" label="#freelancer" />
+      <node id="#HotFireTake" label="#HotFireTake" />
+      <node id="#Beastly" label="#Beastly" />
+      <node id="#RealTalk" label="#RealTalk" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#DeepThoughts" label="#DeepThoughts" />
+      <node id="#CaneloKhan" label="#CaneloKhan" />
+      <node id="#ChrisJones" label="#ChrisJones" />
+      <node id="#UpAndIn" label="#UpAndIn" />
+      <node id="#Truth" label="#Truth" />
+      <node id="#WinningTeam" label="#WinningTeam" />
+      <node id="#Mariners" label="#Mariners" />
+      <node id="#Insanity" label="#Insanity" />
+      <node id="#TepidTake" label="#TepidTake" />
+      <node id="#Chargers" label="#Chargers" />
+      <node id="#FollowBackDoe" label="#FollowBackDoe" />
+      <node id="#MississippiSt" label="#MississippiSt" />
+      <node id="#DFS" label="#DFS" />
+      <node id="#NotReally" label="#NotReally" />
+      <node id="#TheMasters" label="#TheMasters" />
+      <node id="#DirtyPolitician" label="#DirtyPolitician" />
+      <node id="#SoDamnGood" label="#SoDamnGood" />
+      <node id="#MakeAmericaCoolAgain" label="#MakeAmericaCoolAgain" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#Eagles" label="#Eagles" />
+      <node id="#Canelo" label="#Canelo" />
+      <node id="#cyboard" label="#cyboard" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#JordanSpieth" label="#JordanSpieth" />
+      <node id="#hoverboard" label="#hoverboard" />
+      <node id="#WhatIsHappening" label="#WhatIsHappening" />
+      <node id="#RIPJssonAndSarge" label="#RIPJssonAndSarge" />
+      <node id="#NewEraCap" label="#NewEraCap" />
+      <node id="#ITweetTooMuch" label="#ITweetTooMuch" />
+      <node id="#ToBeClear" label="#ToBeClear" />
+      <node id="#ChiefsDraft" label="#ChiefsDraft" />
+      <node id="#KBS" label="#KBS" />
+      <node id="#milantyson" label="#milantyson" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#PGA" target="#DFS" weight="3238" />
+      <edge id="1" source="#FantasyBaseball" target="#DFS" weight="3238" />
+      <edge id="2" source="#FantasyBaseball" target="#MLB" weight="3238" />
+      <edge id="3" source="#RedSox" target="#MLB" weight="3238" />
+      <edge id="4" source="#WorksTwoWays" target="#MakeAmericaCoolAgain" weight="3238" />
+      <edge id="5" source="#BaseballFootballError" target="#Whoops" weight="3238" />
+      <edge id="6" source="#ButDFSIsPredatroy" target="#DirtyPolitician" weight="3238" />
+      <edge id="7" source="#NFL" target="#DFS" weight="9714" />
+      <edge id="8" source="#Joking" target="#ToBeClear" weight="3238" />
+      <edge id="9" source="#Bills" target="#NewEraCap" weight="3238" />
+      <edge id="10" source="#freelancer" target="#Chicago" weight="3238" />
+      <edge id="11" source="#freelancer" target="#socialmedia" weight="3238" />
+      <edge id="12" source="#HotFireTake" target="#TepidTake" weight="3238" />
+      <edge id="13" source="#Beastly" target="#Truth" weight="3238" />
+      <edge id="14" source="#RealTalk" target="#ITweetTooMuch" weight="3238" />
+      <edge id="15" source="#Chicago" target="#socialmedia" weight="3238" />
+      <edge id="16" source="#DeepThoughts" target="#NotReally" weight="3238" />
+      <edge id="17" source="#CaneloKhan" target="#Canelo" weight="3238" />
+      <edge id="18" source="#ChrisJones" target="#ChiefsDraft" weight="3238" />
+      <edge id="19" source="#ChrisJones" target="#MississippiSt" weight="3238" />
+      <edge id="20" source="#UpAndIn" target="#RIPJssonAndSarge" weight="3238" />
+      <edge id="21" source="#WinningTeam" target="#FollowBackDoe" weight="3238" />
+      <edge id="22" source="#Mariners" target="#SFGiants" weight="3238" />
+      <edge id="23" source="#Insanity" target="#WhatIsHappening" weight="3238" />
+      <edge id="24" source="#Chargers" target="#Eagles" weight="3238" />
+      <edge id="25" source="#MississippiSt" target="#ChiefsDraft" weight="3238" />
+      <edge id="26" source="#DFS" target="#MLB" weight="12952" />
+      <edge id="27" source="#TheMasters" target="#JordanSpieth" weight="3238" />
+      <edge id="28" source="#SoDamnGood" target="#KBS" weight="3238" />
+      <edge id="29" source="#cyboard" target="#hoverboard" weight="3238" />
+      <edge id="30" source="#cyboard" target="#milantyson" weight="3238" />
+      <edge id="31" source="#hoverboard" target="#milantyson" weight="3238" />
+    </edges>
+  </graph>
+</gexf>

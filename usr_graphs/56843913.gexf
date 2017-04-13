@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#entourage" label="#entourage" />
+      <node id="#FrankieGoes2Washington" label="#FrankieGoes2Washington" />
+      <node id="#WalterScott" label="#WalterScott" />
+      <node id="#lonelyinmymancave" label="#lonelyinmymancave" />
+      <node id="#KennyvsSpenny" label="#KennyvsSpenny" />
+      <node id="#notallantichoicers" label="#notallantichoicers" />
+      <node id="#touching" label="#touching" />
+      <node id="#papajohns" label="#papajohns" />
+      <node id="#cheese" label="#cheese" />
+      <node id="#HesBack" label="#HesBack" />
+      <node id="#KeepItClean" label="#KeepItClean" />
+      <node id="#yesallplannedparenthoods" label="#yesallplannedparenthoods" />
+      <node id="#DylannRoof" label="#DylannRoof" />
+      <node id="#NiceOnTheNet" label="#NiceOnTheNet" />
+      <node id="#newcheese" label="#newcheese" />
+      <node id="#kvs" label="#kvs" />
+      <node id="#butt" label="#butt" />
+      <node id="#shotofsmirnoff" label="#shotofsmirnoff" />
+      <node id="#hetero" label="#hetero" />
+      <node id="#StayTuned" label="#StayTuned" />
+      <node id="#nailedit" label="#nailedit" />
+      <node id="#cheeseupdate" label="#cheeseupdate" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#entourage" target="#lonelyinmymancave" weight="3197" />
+      <edge id="1" source="#entourage" target="#nailedit" weight="3197" />
+      <edge id="2" source="#FrankieGoes2Washington" target="#HesBack" weight="3197" />
+      <edge id="3" source="#FrankieGoes2Washington" target="#StayTuned" weight="3197" />
+      <edge id="4" source="#WalterScott" target="#DylannRoof" weight="3197" />
+      <edge id="5" source="#lonelyinmymancave" target="#nailedit" weight="3197" />
+      <edge id="6" source="#KennyvsSpenny" target="#kvs" weight="3197" />
+      <edge id="7" source="#notallantichoicers" target="#yesallplannedparenthoods" weight="3197" />
+      <edge id="8" source="#touching" target="#butt" weight="3197" />
+      <edge id="9" source="#touching" target="#hetero" weight="3197" />
+      <edge id="10" source="#papajohns" target="#shotofsmirnoff" weight="3197" />
+      <edge id="11" source="#cheese" target="#newcheese" weight="9591" />
+      <edge id="12" source="#cheese" target="#cheeseupdate" weight="9591" />
+      <edge id="13" source="#HesBack" target="#StayTuned" weight="3197" />
+      <edge id="14" source="#KeepItClean" target="#NiceOnTheNet" weight="3197" />
+      <edge id="15" source="#newcheese" target="#cheeseupdate" weight="9591" />
+      <edge id="16" source="#butt" target="#hetero" weight="3197" />
+    </edges>
+  </graph>
+</gexf>

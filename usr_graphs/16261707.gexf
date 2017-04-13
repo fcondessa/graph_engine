@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#weathertweets" label="#weathertweets" />
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#cars" label="#cars" />
+      <node id="#autonomous" label="#autonomous" />
+      <node id="#Corporates" label="#Corporates" />
+      <node id="#serenawilliams" label="#serenawilliams" />
+      <node id="#Fortune500" label="#Fortune500" />
+      <node id="#FortuneTech" label="#FortuneTech" />
+      <node id="#wimbledon" label="#wimbledon" />
+      <node id="#Tech" label="#Tech" />
+      <node id="#seasonbrags" label="#seasonbrags" />
+      <node id="#Startups" label="#Startups" />
+      <node id="#Broadsheet" label="#Broadsheet" />
+      <node id="#brands" label="#brands" />
+      <node id="#Autos" label="#Autos" />
+      <node id="#Internet" label="#Internet" />
+      <node id="#slatepitch" label="#slatepitch" />
+      <node id="#sued" label="#sued" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#weathertweets" target="#seasonbrags" weight="3221" />
+      <edge id="1" source="#superbowl" target="#sued" weight="3221" />
+      <edge id="2" source="#superbowl" target="#brands" weight="3221" />
+      <edge id="3" source="#cars" target="#autonomous" weight="3221" />
+      <edge id="4" source="#Corporates" target="#Startups" weight="3221" />
+      <edge id="5" source="#serenawilliams" target="#wimbledon" weight="3221" />
+      <edge id="6" source="#Fortune500" target="#Broadsheet" weight="3221" />
+      <edge id="7" source="#FortuneTech" target="#Internet" weight="3221" />
+      <edge id="8" source="#Tech" target="#Autos" weight="3221" />
+      <edge id="9" source="#brands" target="#sued" weight="3221" />
+      <edge id="10" source="#slatepitch" target="#slatepitch" weight="6442" />
+    </edges>
+  </graph>
+</gexf>

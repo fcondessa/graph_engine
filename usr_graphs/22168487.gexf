@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Kyrgyzstan" label="#Kyrgyzstan" />
+      <node id="#UpcomingReleases" label="#UpcomingReleases" />
+      <node id="#Persona5" label="#Persona5" />
+      <node id="#ペルソナ5" label="#ペルソナ5" />
+      <node id="#CascadeMallShooting" label="#CascadeMallShooting" />
+      <node id="#rationality" label="#rationality" />
+      <node id="#ByeMilo" label="#ByeMilo" />
+      <node id="#programming" label="#programming" />
+      <node id="#ポケモンGO" label="#ポケモンGO" />
+      <node id="#FreePalestine" label="#FreePalestine" />
+      <node id="#Archers" label="#Archers" />
+      <node id="#EmperorsNewGroove" label="#EmperorsNewGroove" />
+      <node id="#mtgcn2" label="#mtgcn2" />
+      <node id="#Nomad" label="#Nomad" />
+      <node id="#お台場" label="#お台場" />
+      <node id="#PHP" label="#PHP" />
+      <node id="#JustSayin" label="#JustSayin" />
+      <node id="#skepticism" label="#skepticism" />
+      <node id="#3DS" label="#3DS" />
+      <node id="#hillary2016" label="#hillary2016" />
+      <node id="#NintendoDirect" label="#NintendoDirect" />
+      <node id="#YookaLaylee" label="#YookaLaylee" />
+      <node id="#ModernAmazons" label="#ModernAmazons" />
+      <node id="#PodestaEmails" label="#PodestaEmails" />
+      <node id="#DemConvention" label="#DemConvention" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#Gamescom" label="#Gamescom" />
+      <node id="#デジモン" label="#デジモン" />
+      <node id="#Pikmin" label="#Pikmin" />
+      <node id="#FreeMilo" label="#FreeMilo" />
+      <node id="#Amazons" label="#Amazons" />
+      <node id="#regressiveleft" label="#regressiveleft" />
+      <node id="#IntelGroup" label="#IntelGroup" />
+      <node id="#FreeRaif" label="#FreeRaif" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#imwithher" label="#imwithher" />
+      <node id="#PachaMeme" label="#PachaMeme" />
+      <node id="#WotCStaff" label="#WotCStaff" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Kyrgyzstan" target="#Amazons" weight="3217" />
+      <edge id="1" source="#Kyrgyzstan" target="#ModernAmazons" weight="3217" />
+      <edge id="2" source="#Kyrgyzstan" target="#Nomad" weight="3217" />
+      <edge id="3" source="#Kyrgyzstan" target="#Archers" weight="3217" />
+      <edge id="4" source="#UpcomingReleases" target="#NintendoDirect" weight="3217" />
+      <edge id="5" source="#UpcomingReleases" target="#3DS" weight="3217" />
+      <edge id="6" source="#UpcomingReleases" target="#Pikmin" weight="3217" />
+      <edge id="7" source="#Persona5" target="#ポケモンGO" weight="3217" />
+      <edge id="8" source="#Persona5" target="#ペルソナ5" weight="3217" />
+      <edge id="9" source="#ペルソナ5" target="#ポケモンGO" weight="3217" />
+      <edge id="10" source="#CascadeMallShooting" target="#JustSayin" weight="3217" />
+      <edge id="11" source="#rationality" target="#regressiveleft" weight="3217" />
+      <edge id="12" source="#rationality" target="#skepticism" weight="3217" />
+      <edge id="13" source="#ByeMilo" target="#FreeMilo" weight="3217" />
+      <edge id="14" source="#programming" target="#PHP" weight="3217" />
+      <edge id="15" source="#FreePalestine" target="#PodestaEmails" weight="3217" />
+      <edge id="16" source="#FreePalestine" target="#IntelGroup" weight="3217" />
+      <edge id="17" source="#Archers" target="#Nomad" weight="3217" />
+      <edge id="18" source="#Archers" target="#ModernAmazons" weight="3217" />
+      <edge id="19" source="#Archers" target="#Amazons" weight="3217" />
+      <edge id="20" source="#EmperorsNewGroove" target="#PachaMeme" weight="3217" />
+      <edge id="21" source="#mtgcn2" target="#WotCStaff" weight="3217" />
+      <edge id="22" source="#Nomad" target="#Amazons" weight="3217" />
+      <edge id="23" source="#Nomad" target="#ModernAmazons" weight="3217" />
+      <edge id="24" source="#お台場" target="#デジモン" weight="3217" />
+      <edge id="25" source="#skepticism" target="#regressiveleft" weight="3217" />
+      <edge id="26" source="#3DS" target="#NintendoDirect" weight="3217" />
+      <edge id="27" source="#3DS" target="#Pikmin" weight="3217" />
+      <edge id="28" source="#hillary2016" target="#imwithher" weight="3217" />
+      <edge id="29" source="#NintendoDirect" target="#Pikmin" weight="3217" />
+      <edge id="30" source="#YookaLaylee" target="#Gamescom" weight="3217" />
+      <edge id="31" source="#ModernAmazons" target="#Amazons" weight="3217" />
+      <edge id="32" source="#PodestaEmails" target="#IntelGroup" weight="3217" />
+      <edge id="33" source="#DemConvention" target="#DemsInPhilly" weight="6434" />
+      <edge id="34" source="#DemsInPhilly" target="#BlackLivesMatter" weight="3217" />
+      <edge id="35" source="#FreeMilo" target="#FreeRaif" weight="3217" />
+    </edges>
+  </graph>
+</gexf>

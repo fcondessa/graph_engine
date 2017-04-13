@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#read" label="#read" />
+      <node id="#NeverForget" label="#NeverForget" />
+      <node id="#novel" label="#novel" />
+      <node id="#writers" label="#writers" />
+      <node id="#bookrecs" label="#bookrecs" />
+      <node id="#book" label="#book" />
+      <node id="#madmenseason7" label="#madmenseason7" />
+      <node id="#PerPetterson" label="#PerPetterson" />
+      <node id="#bookculture" label="#bookculture" />
+      <node id="#publicradio" label="#publicradio" />
+      <node id="#NewBookTuesday" label="#NewBookTuesday" />
+      <node id="#onegoal" label="#onegoal" />
+      <node id="#mondaymotivation" label="#mondaymotivation" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#voicesavechris" label="#voicesavechris" />
+      <node id="#BuckeyeForLife" label="#BuckeyeForLife" />
+      <node id="#bookevents" label="#bookevents" />
+      <node id="#readers" label="#readers" />
+      <node id="#booklovers" label="#booklovers" />
+      <node id="#convocation" label="#convocation" />
+      <node id="#alwayslearning" label="#alwayslearning" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#reality" label="#reality" />
+      <node id="#mustread" label="#mustread" />
+      <node id="#WWII" label="#WWII" />
+      <node id="#Goodreads" label="#Goodreads" />
+      <node id="#writerslife" label="#writerslife" />
+      <node id="#lifeandliterature" label="#lifeandliterature" />
+      <node id="#Jewlit" label="#Jewlit" />
+      <node id="#DraftsandDrafts" label="#DraftsandDrafts" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#LikeARollingStone" label="#LikeARollingStone" />
+      <node id="#DREAM" label="#DREAM" />
+      <node id="#MeBeforeYou" label="#MeBeforeYou" />
+      <node id="#TheBookClub" label="#TheBookClub" />
+      <node id="#cbusedu" label="#cbusedu" />
+      <node id="#Edu" label="#Edu" />
+      <node id="#hopeful" label="#hopeful" />
+      <node id="#publish" label="#publish" />
+      <node id="#bookstores" label="#bookstores" />
+      <node id="#booklaunch" label="#booklaunch" />
+      <node id="#FTW" label="#FTW" />
+      <node id="#Holocaust" label="#Holocaust" />
+      <node id="#bookgiveaway" label="#bookgiveaway" />
+      <node id="#FearStreet" label="#FearStreet" />
+      <node id="#Bookoholic" label="#Bookoholic" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#LateOneNight" label="#LateOneNight" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#fridayreads" label="#fridayreads" />
+      <node id="#reading" label="#reading" />
+      <node id="#newbookrelease" label="#newbookrelease" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#pubdate" label="#pubdate" />
+      <node id="#TheBookThatMattersMost" label="#TheBookThatMattersMost" />
+      <node id="#Book" label="#Book" />
+      <node id="#Poetry221" label="#Poetry221" />
+      <node id="#goodreadsgiveaway" label="#goodreadsgiveaway" />
+      <node id="#booksellers" label="#booksellers" />
+      <node id="#bookclub" label="#bookclub" />
+      <node id="#bookstoread" label="#bookstoread" />
+      <node id="#jewlit" label="#jewlit" />
+      <node id="#Ohioans" label="#Ohioans" />
+      <node id="#mindsetff" label="#mindsetff" />
+      <node id="#endcancer" label="#endcancer" />
+      <node id="#publishers" label="#publishers" />
+      <node id="#earlylearning" label="#earlylearning" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#bookshelf" label="#bookshelf" />
+      <node id="#newwriting" label="#newwriting" />
+      <node id="#minimumwage" label="#minimumwage" />
+      <node id="#HistFic" label="#HistFic" />
+      <node id="#Stories" label="#Stories" />
+      <node id="#BeatBama" label="#BeatBama" />
+      <node id="#beachreads" label="#beachreads" />
+      <node id="#bookstore" label="#bookstore" />
+      <node id="#amreading" label="#amreading" />
+      <node id="#newbook" label="#newbook" />
+      <node id="#historicalfiction" label="#historicalfiction" />
+      <node id="#books" label="#books" />
+      <node id="#TheRocks" label="#TheRocks" />
+      <node id="#demvoices" label="#demvoices" />
+      <node id="#writing" label="#writing" />
+      <node id="#FictionFriday" label="#FictionFriday" />
+      <node id="#new" label="#new" />
+      <node id="#fightpovertycbus" label="#fightpovertycbus" />
+      <node id="#tbtreads" label="#tbtreads" />
+      <node id="#story" label="#story" />
+      <node id="#latebloomer" label="#latebloomer" />
+      <node id="#newbooks" label="#newbooks" />
+      <node id="#LovetoRead" label="#LovetoRead" />
+      <node id="#indiebooksellers" label="#indiebooksellers" />
+      <node id="#Bexley" label="#Bexley" />
+      <node id="#Writer" label="#Writer" />
+      <node id="#pelotonia13" label="#pelotonia13" />
+      <node id="#YALIT" label="#YALIT" />
+      <node id="#TasasSong" label="#TasasSong" />
+      <node id="#WWIIfiction" label="#WWIIfiction" />
+      <node id="#PleasedToMeetYou" label="#PleasedToMeetYou" />
+      <node id="#TheLakeHouse" label="#TheLakeHouse" />
+      <node id="#povertyline" label="#povertyline" />
+      <node id="#newnovelist" label="#newnovelist" />
+      <node id="#lovebooks" label="#lovebooks" />
+      <node id="#lovereading" label="#lovereading" />
+      <node id="#TheGirlOnTheTrain" label="#TheGirlOnTheTrain" />
+      <node id="#author" label="#author" />
+      <node id="#grateful" label="#grateful" />
+      <node id="#booksigning" label="#booksigning" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#poetry" label="#poetry" />
+      <node id="#booklover" label="#booklover" />
+      <node id="#BookLaunch" label="#BookLaunch" />
+      <node id="#education" label="#education" />
+      <node id="#yoga" label="#yoga" />
+      <node id="#bookpromo" label="#bookpromo" />
+      <node id="#JewLit" label="#JewLit" />
+      <node id="#excited" label="#excited" />
+      <node id="#Publishing" label="#Publishing" />
+      <node id="#Myrockhall" label="#Myrockhall" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#kipcamp" label="#kipcamp" />
+      <node id="#authors" label="#authors" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#greatbooks" label="#greatbooks" />
+      <node id="#NationalBookLoversDay" label="#NationalBookLoversDay" />
+      <node id="#BEA16" label="#BEA16" />
+      <node id="#Apalachicola" label="#Apalachicola" />
+      <node id="#creativity" label="#creativity" />
+      <node id="#newauthor" label="#newauthor" />
+      <node id="#booktour" label="#booktour" />
+      <node id="#DIYauthor" label="#DIYauthor" />
+      <node id="#Hamilton" label="#Hamilton" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#bookrecommendations" label="#bookrecommendations" />
+      <node id="#viewfrommywindow" label="#viewfrommywindow" />
+      <node id="#amwriting" label="#amwriting" />
+      <node id="#freebook" label="#freebook" />
+      <node id="#madmen" label="#madmen" />
+      <node id="#indiebookstore" label="#indiebookstore" />
+      <node id="#survival" label="#survival" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Giveaway" label="#Giveaway" />
+      <node id="#goosebumps" label="#goosebumps" />
+      <node id="#novelist" label="#novelist" />
+      <node id="#ThursdayThoughts" label="#ThursdayThoughts" />
+      <node id="#publishing" label="#publishing" />
+      <node id="#musician" label="#musician" />
+      <node id="#WritersLife" label="#WritersLife" />
+      <node id="#amlistening" label="#amlistening" />
+      <node id="#Diversity" label="#Diversity" />
+      <node id="#histfic" label="#histfic" />
+      <node id="#rockhall2014" label="#rockhall2014" />
+      <node id="#firstnovel" label="#firstnovel" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#read" target="#books" weight="666" />
+      <edge id="1" source="#read" target="#bookshelf" weight="666" />
+      <edge id="2" source="#read" target="#reading" weight="666" />
+      <edge id="3" source="#NeverForget" target="#Holocaust" weight="666" />
+      <edge id="4" source="#novel" target="#musician" weight="2664" />
+      <edge id="5" source="#novel" target="#amwriting" weight="666" />
+      <edge id="6" source="#novel" target="#WWII" weight="2664" />
+      <edge id="7" source="#novel" target="#author" weight="666" />
+      <edge id="8" source="#writers" target="#booklover" weight="666" />
+      <edge id="9" source="#bookrecs" target="#TasasSong" weight="666" />
+      <edge id="10" source="#bookrecs" target="#newbook" weight="666" />
+      <edge id="11" source="#book" target="#TasasSong" weight="1332" />
+      <edge id="12" source="#book" target="#indiebookstore" weight="666" />
+      <edge id="13" source="#book" target="#new" weight="666" />
+      <edge id="14" source="#book" target="#goodreadsgiveaway" weight="666" />
+      <edge id="15" source="#book" target="#freebook" weight="666" />
+      <edge id="16" source="#madmenseason7" target="#madmen" weight="666" />
+      <edge id="17" source="#PerPetterson" target="#tbtreads" weight="666" />
+      <edge id="18" source="#bookculture" target="#lovebooks" weight="666" />
+      <edge id="19" source="#bookculture" target="#writerslife" weight="666" />
+      <edge id="20" source="#publicradio" target="#Jewlit" weight="666" />
+      <edge id="21" source="#publicradio" target="#WWII" weight="666" />
+      <edge id="22" source="#publicradio" target="#histfic" weight="666" />
+      <edge id="23" source="#NewBookTuesday" target="#TheBookThatMattersMost" weight="666" />
+      <edge id="24" source="#onegoal" target="#endcancer" weight="666" />
+      <edge id="25" source="#onegoal" target="#pelotonia13" weight="666" />
+      <edge id="26" source="#onegoal" target="#gobucks" weight="666" />
+      <edge id="27" source="#mondaymotivation" target="#amwriting" weight="666" />
+      <edge id="28" source="#tbt" target="#books" weight="666" />
+      <edge id="29" source="#tbt" target="#BEA16" weight="666" />
+      <edge id="30" source="#tbt" target="#ThursdayThoughts" weight="666" />
+      <edge id="31" source="#voicesavechris" target="#demvoices" weight="666" />
+      <edge id="32" source="#voicesavechris" target="#cbus" weight="666" />
+      <edge id="33" source="#voicesavechris" target="#ohio" weight="666" />
+      <edge id="34" source="#BuckeyeForLife" target="#TasasSong" weight="666" />
+      <edge id="35" source="#bookevents" target="#TasasSong" weight="666" />
+      <edge id="36" source="#bookevents" target="#NYC" weight="666" />
+      <edge id="37" source="#readers" target="#TasasSong" weight="666" />
+      <edge id="38" source="#readers" target="#amwriting" weight="666" />
+      <edge id="39" source="#booklovers" target="#TasasSong" weight="1332" />
+      <edge id="40" source="#booklovers" target="#Goodreads" weight="666" />
+      <edge id="41" source="#booklovers" target="#amreading" weight="666" />
+      <edge id="42" source="#booklovers" target="#newbook" weight="666" />
+      <edge id="43" source="#booklovers" target="#BEA16" weight="666" />
+      <edge id="44" source="#booklovers" target="#historicalfiction" weight="666" />
+      <edge id="45" source="#booklovers" target="#Giveaway" weight="666" />
+      <edge id="46" source="#convocation" target="#Columbus" weight="1332" />
+      <edge id="47" source="#alwayslearning" target="#writerslife" weight="666" />
+      <edge id="48" source="#alwayslearning" target="#viewfrommywindow" weight="666" />
+      <edge id="49" source="#BuckeyeNation" target="#GoBucks" weight="666" />
+      <edge id="50" source="#reality" target="#writing" weight="666" />
+      <edge id="51" source="#reality" target="#Stories" weight="666" />
+      <edge id="52" source="#reality" target="#amwriting" weight="666" />
+      <edge id="53" source="#mustread" target="#bookclub" weight="666" />
+      <edge id="54" source="#mustread" target="#amreading" weight="666" />
+      <edge id="55" source="#WWII" target="#TasasSong" weight="666" />
+      <edge id="56" source="#WWII" target="#booklover" weight="666" />
+      <edge id="57" source="#WWII" target="#amreading" weight="666" />
+      <edge id="58" source="#WWII" target="#newbook" weight="666" />
+      <edge id="59" source="#WWII" target="#Jewlit" weight="666" />
+      <edge id="60" source="#WWII" target="#musician" weight="2664" />
+      <edge id="61" source="#WWII" target="#histfic" weight="666" />
+      <edge id="62" source="#WWII" target="#survival" weight="666" />
+      <edge id="63" source="#WWII" target="#firstnovel" weight="666" />
+      <edge id="64" source="#Goodreads" target="#TasasSong" weight="666" />
+      <edge id="65" source="#Goodreads" target="#Giveaway" weight="666" />
+      <edge id="66" source="#writerslife" target="#goosebumps" weight="666" />
+      <edge id="67" source="#writerslife" target="#writing" weight="666" />
+      <edge id="68" source="#writerslife" target="#bookpromo" weight="666" />
+      <edge id="69" source="#writerslife" target="#grateful" weight="666" />
+      <edge id="70" source="#writerslife" target="#viewfrommywindow" weight="666" />
+      <edge id="71" source="#writerslife" target="#amwriting" weight="1332" />
+      <edge id="72" source="#writerslife" target="#amreading" weight="666" />
+      <edge id="73" source="#writerslife" target="#TasasSong" weight="1332" />
+      <edge id="74" source="#writerslife" target="#lovebooks" weight="666" />
+      <edge id="75" source="#writerslife" target="#BEA16" weight="666" />
+      <edge id="76" source="#writerslife" target="#histfic" weight="666" />
+      <edge id="77" source="#writerslife" target="#newbookrelease" weight="666" />
+      <edge id="78" source="#lifeandliterature" target="#TasasSong" weight="666" />
+      <edge id="79" source="#lifeandliterature" target="#LateOneNight" weight="666" />
+      <edge id="80" source="#Jewlit" target="#TasasSong" weight="666" />
+      <edge id="81" source="#Jewlit" target="#bookstoread" weight="666" />
+      <edge id="82" source="#Jewlit" target="#histfic" weight="666" />
+      <edge id="83" source="#DraftsandDrafts" target="#WritersLife" weight="666" />
+      <edge id="84" source="#cbus" target="#demvoices" weight="666" />
+      <edge id="85" source="#cbus" target="#amreading" weight="666" />
+      <edge id="86" source="#cbus" target="#ohio" weight="666" />
+      <edge id="87" source="#LikeARollingStone" target="#PleasedToMeetYou" weight="666" />
+      <edge id="88" source="#DREAM" target="#Edu" weight="666" />
+      <edge id="89" source="#MeBeforeYou" target="#TasasSong" weight="666" />
+      <edge id="90" source="#MeBeforeYou" target="#TheLakeHouse" weight="666" />
+      <edge id="91" source="#MeBeforeYou" target="#TheRocks" weight="666" />
+      <edge id="92" source="#MeBeforeYou" target="#TheGirlOnTheTrain" weight="666" />
+      <edge id="93" source="#TheBookClub" target="#TasasSong" weight="666" />
+      <edge id="94" source="#cbusedu" target="#education" weight="666" />
+      <edge id="95" source="#hopeful" target="#Buckeyes" weight="666" />
+      <edge id="96" source="#hopeful" target="#excited" weight="666" />
+      <edge id="97" source="#hopeful" target="#BeatBama" weight="666" />
+      <edge id="98" source="#publish" target="#publishing" weight="666" />
+      <edge id="99" source="#bookstores" target="#TasasSong" weight="666" />
+      <edge id="100" source="#bookstores" target="#books" weight="666" />
+      <edge id="101" source="#booklaunch" target="#TasasSong" weight="1332" />
+      <edge id="102" source="#FTW" target="#Holocaust" weight="666" />
+      <edge id="103" source="#bookgiveaway" target="#FictionFriday" weight="666" />
+      <edge id="104" source="#bookgiveaway" target="#LovetoRead" weight="666" />
+      <edge id="105" source="#bookgiveaway" target="#DIYauthor" weight="666" />
+      <edge id="106" source="#FearStreet" target="#books" weight="666" />
+      <edge id="107" source="#FearStreet" target="#reading" weight="666" />
+      <edge id="108" source="#FearStreet" target="#YALIT" weight="666" />
+      <edge id="109" source="#FearStreet" target="#Writer" weight="666" />
+      <edge id="110" source="#Bookoholic" target="#newnovelist" weight="666" />
+      <edge id="111" source="#Bookoholic" target="#amreading" weight="666" />
+      <edge id="112" source="#LateOneNight" target="#TasasSong" weight="666" />
+      <edge id="113" source="#leadership" target="#Columbus" weight="666" />
+      <edge id="114" source="#fridayreads" target="#bookrecommendations" weight="666" />
+      <edge id="115" source="#fridayreads" target="#amreading" weight="666" />
+      <edge id="116" source="#reading" target="#Writer" weight="666" />
+      <edge id="117" source="#reading" target="#bookshelf" weight="666" />
+      <edge id="118" source="#reading" target="#YALIT" weight="666" />
+      <edge id="119" source="#reading" target="#books" weight="1332" />
+      <edge id="120" source="#newbookrelease" target="#TasasSong" weight="666" />
+      <edge id="121" source="#newbookrelease" target="#histfic" weight="666" />
+      <edge id="122" source="#Buckeyes" target="#GoBucks" weight="666" />
+      <edge id="123" source="#Buckeyes" target="#excited" weight="666" />
+      <edge id="124" source="#Buckeyes" target="#BeatBama" weight="666" />
+      <edge id="125" source="#pubdate" target="#TasasSong" weight="666" />
+      <edge id="126" source="#pubdate" target="#bookstore" weight="666" />
+      <edge id="127" source="#Book" target="#Diversity" weight="666" />
+      <edge id="128" source="#Book" target="#Publishing" weight="666" />
+      <edge id="129" source="#Poetry221" target="#poetry" weight="666" />
+      <edge id="130" source="#goodreadsgiveaway" target="#TasasSong" weight="666" />
+      <edge id="131" source="#goodreadsgiveaway" target="#new" weight="666" />
+      <edge id="132" source="#goodreadsgiveaway" target="#freebook" weight="666" />
+      <edge id="133" source="#booksellers" target="#authors" weight="666" />
+      <edge id="134" source="#booksellers" target="#publishers" weight="666" />
+      <edge id="135" source="#bookclub" target="#TasasSong" weight="666" />
+      <edge id="136" source="#bookclub" target="#JewLit" weight="666" />
+      <edge id="137" source="#bookclub" target="#amreading" weight="666" />
+      <edge id="138" source="#bookclub" target="#HistFic" weight="666" />
+      <edge id="139" source="#bookstoread" target="#TasasSong" weight="666" />
+      <edge id="140" source="#jewlit" target="#TasasSong" weight="666" />
+      <edge id="141" source="#jewlit" target="#newbooks" weight="666" />
+      <edge id="142" source="#jewlit" target="#histfic" weight="666" />
+      <edge id="143" source="#Ohioans" target="#fightpovertycbus" weight="666" />
+      <edge id="144" source="#mindsetff" target="#kipcamp" weight="666" />
+      <edge id="145" source="#publishers" target="#authors" weight="666" />
+      <edge id="146" source="#earlylearning" target="#books" weight="666" />
+      <edge id="147" source="#bookshelf" target="#books" weight="666" />
+      <edge id="148" source="#newwriting" target="#TasasSong" weight="666" />
+      <edge id="149" source="#newwriting" target="#historicalfiction" weight="666" />
+      <edge id="150" source="#minimumwage" target="#povertyline" weight="666" />
+      <edge id="151" source="#HistFic" target="#TasasSong" weight="666" />
+      <edge id="152" source="#HistFic" target="#JewLit" weight="666" />
+      <edge id="153" source="#Stories" target="#writing" weight="666" />
+      <edge id="154" source="#Stories" target="#amwriting" weight="666" />
+      <edge id="155" source="#BeatBama" target="#excited" weight="666" />
+      <edge id="156" source="#beachreads" target="#TasasSong" weight="666" />
+      <edge id="157" source="#beachreads" target="#booksigning" weight="666" />
+      <edge id="158" source="#bookstore" target="#TasasSong" weight="666" />
+      <edge id="159" source="#amreading" target="#poetry" weight="666" />
+      <edge id="160" source="#amreading" target="#booklover" weight="1998" />
+      <edge id="161" source="#amreading" target="#bookpromo" weight="666" />
+      <edge id="162" source="#amreading" target="#newbook" weight="666" />
+      <edge id="163" source="#amreading" target="#NationalBookLoversDay" weight="666" />
+      <edge id="164" source="#amreading" target="#EarthDay" weight="666" />
+      <edge id="165" source="#amreading" target="#BEA16" weight="1332" />
+      <edge id="166" source="#amreading" target="#indiebooksellers" weight="666" />
+      <edge id="167" source="#amreading" target="#Hamilton" weight="666" />
+      <edge id="168" source="#amreading" target="#amwriting" weight="1998" />
+      <edge id="169" source="#amreading" target="#TasasSong" weight="1332" />
+      <edge id="170" source="#amreading" target="#newnovelist" weight="666" />
+      <edge id="171" source="#amreading" target="#amlistening" weight="666" />
+      <edge id="172" source="#amreading" target="#lovebooks" weight="2664" />
+      <edge id="173" source="#amreading" target="#firstnovel" weight="666" />
+      <edge id="174" source="#newbook" target="#booklover" weight="666" />
+      <edge id="175" source="#newbook" target="#BEA16" weight="666" />
+      <edge id="176" source="#newbook" target="#TasasSong" weight="1998" />
+      <edge id="177" source="#newbook" target="#historicalfiction" weight="666" />
+      <edge id="178" source="#newbook" target="#histfic" weight="666" />
+      <edge id="179" source="#newbook" target="#firstnovel" weight="666" />
+      <edge id="180" source="#historicalfiction" target="#TasasSong" weight="1332" />
+      <edge id="181" source="#historicalfiction" target="#BEA16" weight="666" />
+      <edge id="182" source="#books" target="#Writer" weight="666" />
+      <edge id="183" source="#books" target="#ThursdayThoughts" weight="666" />
+      <edge id="184" source="#books" target="#YALIT" weight="666" />
+      <edge id="185" source="#TheRocks" target="#TasasSong" weight="666" />
+      <edge id="186" source="#TheRocks" target="#TheLakeHouse" weight="666" />
+      <edge id="187" source="#TheRocks" target="#TheGirlOnTheTrain" weight="666" />
+      <edge id="188" source="#demvoices" target="#ohio" weight="666" />
+      <edge id="189" source="#writing" target="#booklover" weight="666" />
+      <edge id="190" source="#writing" target="#amwriting" weight="666" />
+      <edge id="191" source="#writing" target="#creativity" weight="666" />
+      <edge id="192" source="#FictionFriday" target="#LovetoRead" weight="666" />
+      <edge id="193" source="#FictionFriday" target="#DIYauthor" weight="666" />
+      <edge id="194" source="#new" target="#TasasSong" weight="666" />
+      <edge id="195" source="#new" target="#freebook" weight="666" />
+      <edge id="196" source="#story" target="#TasasSong" weight="666" />
+      <edge id="197" source="#latebloomer" target="#newauthor" weight="666" />
+      <edge id="198" source="#newbooks" target="#TasasSong" weight="666" />
+      <edge id="199" source="#newbooks" target="#booktour" weight="666" />
+      <edge id="200" source="#newbooks" target="#histfic" weight="666" />
+      <edge id="201" source="#LovetoRead" target="#DIYauthor" weight="666" />
+      <edge id="202" source="#Bexley" target="#author" weight="1332" />
+      <edge id="203" source="#Writer" target="#YALIT" weight="666" />
+      <edge id="204" source="#TasasSong" target="#bookpromo" weight="666" />
+      <edge id="205" source="#TasasSong" target="#JewLit" weight="666" />
+      <edge id="206" source="#TasasSong" target="#novelist" weight="666" />
+      <edge id="207" source="#TasasSong" target="#lovebooks" weight="666" />
+      <edge id="208" source="#TasasSong" target="#greatbooks" weight="666" />
+      <edge id="209" source="#TasasSong" target="#BEA16" weight="2664" />
+      <edge id="210" source="#TasasSong" target="#Apalachicola" weight="666" />
+      <edge id="211" source="#TasasSong" target="#histfic" weight="3330" />
+      <edge id="212" source="#TasasSong" target="#amwriting" weight="666" />
+      <edge id="213" source="#TasasSong" target="#NYC" weight="666" />
+      <edge id="214" source="#TasasSong" target="#freebook" weight="666" />
+      <edge id="215" source="#TasasSong" target="#BookLaunch" weight="666" />
+      <edge id="216" source="#TasasSong" target="#survival" weight="666" />
+      <edge id="217" source="#TasasSong" target="#WWIIfiction" weight="666" />
+      <edge id="218" source="#TasasSong" target="#Giveaway" weight="666" />
+      <edge id="219" source="#TasasSong" target="#TheLakeHouse" weight="666" />
+      <edge id="220" source="#TasasSong" target="#amlistening" weight="666" />
+      <edge id="221" source="#TasasSong" target="#TheGirlOnTheTrain" weight="666" />
+      <edge id="222" source="#TasasSong" target="#lovereading" weight="666" />
+      <edge id="223" source="#TasasSong" target="#firstnovel" weight="666" />
+      <edge id="224" source="#TasasSong" target="#booksigning" weight="1332" />
+      <edge id="225" source="#WWIIfiction" target="#firstnovel" weight="666" />
+      <edge id="226" source="#TheLakeHouse" target="#TheGirlOnTheTrain" weight="666" />
+      <edge id="227" source="#lovebooks" target="#amwriting" weight="1998" />
+      <edge id="228" source="#lovereading" target="#BEA16" weight="666" />
+      <edge id="229" source="#author" target="#amwriting" weight="666" />
+      <edge id="230" source="#booksigning" target="#Apalachicola" weight="666" />
+      <edge id="231" source="#booksigning" target="#novelist" weight="666" />
+      <edge id="232" source="#booksigning" target="#histfic" weight="666" />
+      <edge id="233" source="#poetry" target="#amwriting" weight="666" />
+      <edge id="234" source="#booklover" target="#EarthDay" weight="666" />
+      <edge id="235" source="#booklover" target="#firstnovel" weight="666" />
+      <edge id="236" source="#yoga" target="#infographic" weight="666" />
+      <edge id="237" source="#yoga" target="#amwriting" weight="666" />
+      <edge id="238" source="#bookpromo" target="#BEA16" weight="666" />
+      <edge id="239" source="#Publishing" target="#Diversity" weight="666" />
+      <edge id="240" source="#Myrockhall" target="#rockhall2014" weight="666" />
+      <edge id="241" source="#infographic" target="#amwriting" weight="666" />
+      <edge id="242" source="#Apalachicola" target="#novelist" weight="666" />
+      <edge id="243" source="#Apalachicola" target="#histfic" weight="666" />
+      <edge id="244" source="#Columbus" target="#Columbus" weight="1332" />
+      <edge id="245" source="#novelist" target="#histfic" weight="666" />
+    </edges>
+  </graph>
+</gexf>

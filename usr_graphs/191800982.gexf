@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#buckeyesabroad" label="#buckeyesabroad" />
+      <node id="#OhioHigherEd" label="#OhioHigherEd" />
+      <node id="#OSUgrad" label="#OSUgrad" />
+      <node id="#cool" label="#cool" />
+      <node id="#loveLiverpool" label="#loveLiverpool" />
+      <node id="#xxeeeeer" label="#xxeeeeer" />
+      <node id="#OSUdad" label="#OSUdad" />
+      <node id="#cavernclub" label="#cavernclub" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#previoustweet" label="#previoustweet" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#buckeyesabroad" target="#loveLiverpool" weight="49" />
+      <edge id="1" source="#buckeyesabroad" target="#cavernclub" weight="49" />
+      <edge id="2" source="#OhioHigherEd" target="#xxeeeeer" weight="49" />
+      <edge id="3" source="#OSUgrad" target="#OSUdad" weight="49" />
+      <edge id="4" source="#OSUgrad" target="#previoustweet" weight="49" />
+      <edge id="5" source="#cool" target="#lifeincbus" weight="49" />
+      <edge id="6" source="#loveLiverpool" target="#cavernclub" weight="49" />
+      <edge id="7" source="#OSUdad" target="#previoustweet" weight="49" />
+    </edges>
+  </graph>
+</gexf>

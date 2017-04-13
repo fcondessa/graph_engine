@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#thewalkingdead" label="#thewalkingdead" />
+      <node id="#thisiscolumbus" label="#thisiscolumbus" />
+      <node id="#lovethem" label="#lovethem" />
+      <node id="#Keith" label="#Keith" />
+      <node id="#zombieevacuationplan" label="#zombieevacuationplan" />
+      <node id="#Seth" label="#Seth" />
+      <node id="#yum" label="#yum" />
+      <node id="#allthepumpkinthings" label="#allthepumpkinthings" />
+      <node id="#bikelanes" label="#bikelanes" />
+      <node id="#bacon" label="#bacon" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#beerchaser" label="#beerchaser" />
+      <node id="#amazing" label="#amazing" />
+      <node id="#SuperCool" label="#SuperCool" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#snacks" label="#snacks" />
+      <node id="#HappyHalloween" label="#HappyHalloween" />
+      <node id="#ComfortFood" label="#ComfortFood" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#bestincolumbus" label="#bestincolumbus" />
+      <node id="#photography" label="#photography" />
+      <node id="#greeneggsandham" label="#greeneggsandham" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#saltycaramelcake" label="#saltycaramelcake" />
+      <node id="#ConnecttheCore" label="#ConnecttheCore" />
+      <node id="#happynewyear" label="#happynewyear" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#thewalkingdead" target="#zombieevacuationplan" weight="3224" />
+      <edge id="1" source="#thisiscolumbus" target="#bestincolumbus" weight="3224" />
+      <edge id="2" source="#lovethem" target="#amazing" weight="3224" />
+      <edge id="3" source="#Keith" target="#Seth" weight="3224" />
+      <edge id="4" source="#yum" target="#bestincolumbus" weight="3224" />
+      <edge id="5" source="#allthepumpkinthings" target="#delicious" weight="3224" />
+      <edge id="6" source="#bikelanes" target="#ConnecttheCore" weight="3224" />
+      <edge id="7" source="#bacon" target="#snacks" weight="3224" />
+      <edge id="8" source="#bacon" target="#beerchaser" weight="3224" />
+      <edge id="9" source="#columbus" target="#cbus" weight="3224" />
+      <edge id="10" source="#beerchaser" target="#snacks" weight="3224" />
+      <edge id="11" source="#SuperCool" target="#ComfortFood" weight="3224" />
+      <edge id="12" source="#delicious" target="#saltycaramelcake" weight="3224" />
+      <edge id="13" source="#HappyHalloween" target="#cbus" weight="3224" />
+      <edge id="14" source="#Columbus" target="#photography" weight="3224" />
+      <edge id="15" source="#greeneggsandham" target="#happynewyear" weight="3224" />
+    </edges>
+  </graph>
+</gexf>

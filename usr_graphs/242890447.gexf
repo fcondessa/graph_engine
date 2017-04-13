@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#unfollow" label="#unfollow" />
+      <node id="#GiggleTalk" label="#GiggleTalk" />
+      <node id="#impactisgood" label="#impactisgood" />
+      <node id="#FF" label="#FF" />
+      <node id="#itsneverok" label="#itsneverok" />
+      <node id="#pepsisucks" label="#pepsisucks" />
+      <node id="#dnc" label="#dnc" />
+      <node id="#obama" label="#obama" />
+      <node id="#impactnation15" label="#impactnation15" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#unfollow" target="#FF" weight="2937" />
+      <edge id="1" source="#GiggleTalk" target="#GiggleTalk" weight="5874" />
+      <edge id="2" source="#impactisgood" target="#impactnation15" weight="5874" />
+      <edge id="3" source="#itsneverok" target="#pepsisucks" weight="2937" />
+      <edge id="4" source="#dnc" target="#obama" weight="2937" />
+    </edges>
+  </graph>
+</gexf>

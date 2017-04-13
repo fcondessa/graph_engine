@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SummerBreak" label="#SummerBreak" />
+      <node id="#cbuswaw" label="#cbuswaw" />
+      <node id="#WhyILoveColumbus" label="#WhyILoveColumbus" />
+      <node id="#NeverForget" label="#NeverForget" />
+      <node id="#MeigsCountyGold" label="#MeigsCountyGold" />
+      <node id="#artmakescbus" label="#artmakescbus" />
+      <node id="#NerdWallet" label="#NerdWallet" />
+      <node id="#SMB" label="#SMB" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#OhioStatehouse" label="#OhioStatehouse" />
+      <node id="#StandUp4Transportation" label="#StandUp4Transportation" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#Chambers" label="#Chambers" />
+      <node id="#KauffmanIndex" label="#KauffmanIndex" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#cirquedusoleil" label="#cirquedusoleil" />
+      <node id="#OnlyInSF" label="#OnlyInSF" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#columbuscastings" label="#columbuscastings" />
+      <node id="#BeatTheDucks" label="#BeatTheDucks" />
+      <node id="#LifeinCBUS" label="#LifeinCBUS" />
+      <node id="#americansteel" label="#americansteel" />
+      <node id="#ACCE2015" label="#ACCE2015" />
+      <node id="#CMHStartupWeek" label="#CMHStartupWeek" />
+      <node id="#new2OSU" label="#new2OSU" />
+      <node id="#AsSeenInColumbus" label="#AsSeenInColumbus" />
+      <node id="#americanmanufacturing" label="#americanmanufacturing" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#Podcast" label="#Podcast" />
+      <node id="#cbuzz" label="#cbuzz" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#techtomorrow" label="#techtomorrow" />
+      <node id="#PodcastDay" label="#PodcastDay" />
+      <node id="#SU4T" label="#SU4T" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#love4jenis" label="#love4jenis" />
+      <node id="#GCACawards" label="#GCACawards" />
+      <node id="#greif" label="#greif" />
+      <node id="#CbusRox" label="#CbusRox" />
+      <node id="#MondayMotivation" label="#MondayMotivation" />
+      <node id="#GovtDay" label="#GovtDay" />
+      <node id="#jenis" label="#jenis" />
+      <node id="#tech" label="#tech" />
+      <node id="#kooza" label="#kooza" />
+      <node id="#CrewSC" label="#CrewSC" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#ForColumbus" label="#ForColumbus" />
+      <node id="#cmcforum" label="#cmcforum" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+      <node id="#Peets" label="#Peets" />
+      <node id="#packh2o" label="#packh2o" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SummerBreak" target="#OhioStatehouse" weight="429" />
+      <edge id="1" source="#SummerBreak" target="#AsSeenInColumbus" weight="429" />
+      <edge id="2" source="#SummerBreak" target="#LifeInCbus" weight="429" />
+      <edge id="3" source="#SummerBreak" target="#Ohio" weight="429" />
+      <edge id="4" source="#cbuswaw" target="#Periscope" weight="429" />
+      <edge id="5" source="#WhyILoveColumbus" target="#cbusproud" weight="429" />
+      <edge id="6" source="#NeverForget" target="#MeigsCountyGold" weight="429" />
+      <edge id="7" source="#artmakescbus" target="#GCACawards" weight="429" />
+      <edge id="8" source="#NerdWallet" target="#tech" weight="429" />
+      <edge id="9" source="#NerdWallet" target="#LifeinCBUS" weight="429" />
+      <edge id="10" source="#SMB" target="#Chambers" weight="429" />
+      <edge id="11" source="#Ohio" target="#OhioStatehouse" weight="429" />
+      <edge id="12" source="#Ohio" target="#AsSeenInColumbus" weight="429" />
+      <edge id="13" source="#Ohio" target="#LifeInCbus" weight="429" />
+      <edge id="14" source="#OhioStatehouse" target="#AsSeenInColumbus" weight="429" />
+      <edge id="15" source="#OhioStatehouse" target="#LifeInCbus" weight="429" />
+      <edge id="16" source="#StandUp4Transportation" target="#lifeincbus" weight="429" />
+      <edge id="17" source="#StandUp4Transportation" target="#SU4T" weight="858" />
+      <edge id="18" source="#lifeincbus" target="#OSU" weight="429" />
+      <edge id="19" source="#lifeincbus" target="#BuckeyeNation" weight="429" />
+      <edge id="20" source="#lifeincbus" target="#SU4T" weight="429" />
+      <edge id="21" source="#lifeincbus" target="#BeatTheDucks" weight="429" />
+      <edge id="22" source="#KauffmanIndex" target="#cbusproud" weight="429" />
+      <edge id="23" source="#OSU" target="#BuckeyeNation" weight="429" />
+      <edge id="24" source="#OSU" target="#BeatTheDucks" weight="429" />
+      <edge id="25" source="#cirquedusoleil" target="#kooza" weight="429" />
+      <edge id="26" source="#OnlyInSF" target="#Peets" weight="429" />
+      <edge id="27" source="#Buckeyes" target="#new2OSU" weight="429" />
+      <edge id="28" source="#columbuscastings" target="#americansteel" weight="429" />
+      <edge id="29" source="#columbuscastings" target="#americanmanufacturing" weight="429" />
+      <edge id="30" source="#columbuscastings" target="#CbusRox" weight="429" />
+      <edge id="31" source="#BeatTheDucks" target="#BuckeyeNation" weight="429" />
+      <edge id="32" source="#LifeinCBUS" target="#tech" weight="429" />
+      <edge id="33" source="#americansteel" target="#CbusRox" weight="429" />
+      <edge id="34" source="#americansteel" target="#americanmanufacturing" weight="429" />
+      <edge id="35" source="#ACCE2015" target="#cbusproud" weight="429" />
+      <edge id="36" source="#CMHStartupWeek" target="#Periscope" weight="429" />
+      <edge id="37" source="#CMHStartupWeek" target="#GovtDay" weight="429" />
+      <edge id="38" source="#AsSeenInColumbus" target="#cbusproud" weight="429" />
+      <edge id="39" source="#AsSeenInColumbus" target="#LifeInCbus" weight="429" />
+      <edge id="40" source="#americanmanufacturing" target="#CbusRox" weight="429" />
+      <edge id="41" source="#cbusproud" target="#love4jenis" weight="429" />
+      <edge id="42" source="#cbusproud" target="#Podcast" weight="429" />
+      <edge id="43" source="#Podcast" target="#cbuzz" weight="429" />
+      <edge id="44" source="#cbuzz" target="#PodcastDay" weight="429" />
+      <edge id="45" source="#cbuzz" target="#MondayMotivation" weight="858" />
+      <edge id="46" source="#techtomorrow" target="#greif" weight="429" />
+      <edge id="47" source="#techtomorrow" target="#packh2o" weight="429" />
+      <edge id="48" source="#Cleveland" target="#GovtDay" weight="429" />
+      <edge id="49" source="#greif" target="#packh2o" weight="429" />
+      <edge id="50" source="#jenis" target="#cmcforum" weight="429" />
+      <edge id="51" source="#CrewSC" target="#ForColumbus" weight="429" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#foodissues" label="#foodissues" />
+      <node id="#chihuahua" label="#chihuahua" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#asseenincbus" label="#asseenincbus" />
+      <node id="#happyfathersday" label="#happyfathersday" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#madeupword" label="#madeupword" />
+      <node id="#justchillin" label="#justchillin" />
+      <node id="#TrumpCantSwim" label="#TrumpCantSwim" />
+      <node id="#art" label="#art" />
+      <node id="#trumpsniff" label="#trumpsniff" />
+      <node id="#suitetickets" label="#suitetickets" />
+      <node id="#deeznuts" label="#deeznuts" />
+      <node id="#spring" label="#spring" />
+      <node id="#bestdad" label="#bestdad" />
+      <node id="#osugolfclub" label="#osugolfclub" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#grammar" label="#grammar" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#foodissues" target="#chihuahua" weight="78" />
+      <edge id="1" source="#GivingTuesday" target="#grammar" weight="78" />
+      <edge id="2" source="#asseenincbus" target="#deeznuts" weight="78" />
+      <edge id="3" source="#happyfathersday" target="#bestdad" weight="78" />
+      <edge id="4" source="#gobucks" target="#osugolfclub" weight="78" />
+      <edge id="5" source="#gobucks" target="#suitetickets" weight="78" />
+      <edge id="6" source="#madeupword" target="#trumpsniff" weight="78" />
+      <edge id="7" source="#justchillin" target="#spring" weight="78" />
+      <edge id="8" source="#TrumpCantSwim" target="#TrumpCantSwim" weight="156" />
+      <edge id="9" source="#art" target="#Columbus" weight="78" />
+      <edge id="10" source="#art" target="#Ohio" weight="78" />
+      <edge id="11" source="#suitetickets" target="#osugolfclub" weight="78" />
+      <edge id="12" source="#Columbus" target="#Ohio" weight="78" />
+    </edges>
+  </graph>
+</gexf>

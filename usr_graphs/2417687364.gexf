@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#professional" label="#professional" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#psychology" label="#psychology" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#whynotwednesday" label="#whynotwednesday" />
+      <node id="#whatif" label="#whatif" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#hoyasaxa" label="#hoyasaxa" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#angelinvesting" label="#angelinvesting" />
+      <node id="#tech" label="#tech" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#innovationstartshere" label="#innovationstartshere" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#eship" label="#eship" />
+      <node id="#education" label="#education" />
+      <node id="#startupweekend" label="#startupweekend" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#startupstorytellers" label="#startupstorytellers" />
+      <node id="#startup" label="#startup" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#capital" label="#capital" />
+      <node id="#adulthood" label="#adulthood" />
+      <node id="#relevant" label="#relevant" />
+      <node id="#feedback" label="#feedback" />
+      <node id="#Thingsgotworsewhen" label="#Thingsgotworsewhen" />
+      <node id="#sales" label="#sales" />
+      <node id="#Expert" label="#Expert" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#lunchofchampions" label="#lunchofchampions" />
+      <node id="#girlpower" label="#girlpower" />
+      <node id="#Valuation" label="#Valuation" />
+      <node id="#millennial" label="#millennial" />
+      <node id="#advice" label="#advice" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#Georgetown" label="#Georgetown" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#politics" label="#politics" />
+      <node id="#email" label="#email" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#entrepreneurs" target="#startup" weight="79" />
+      <edge id="1" source="#entrepreneurs" target="#cbusproud" weight="79" />
+      <edge id="2" source="#entrepreneurs" target="#innovationstartshere" weight="79" />
+      <edge id="3" source="#professional" target="#feedback" weight="79" />
+      <edge id="4" source="#strategy" target="#innovation" weight="79" />
+      <edge id="5" source="#psychology" target="#education" weight="79" />
+      <edge id="6" source="#psychology" target="#politics" weight="79" />
+      <edge id="7" source="#entrepreneurship" target="#Thingsgotworsewhen" weight="79" />
+      <edge id="8" source="#entrepreneurship" target="#diversity" weight="79" />
+      <edge id="9" source="#entrepreneurship" target="#millennial" weight="79" />
+      <edge id="10" source="#whynotwednesday" target="#adulthood" weight="79" />
+      <edge id="11" source="#whynotwednesday" target="#lunchofchampions" weight="79" />
+      <edge id="12" source="#whatif" target="#cbusproud" weight="79" />
+      <edge id="13" source="#infographic" target="#marketing" weight="79" />
+      <edge id="14" source="#infographic" target="#email" weight="79" />
+      <edge id="15" source="#hoyasaxa" target="#Georgetown" weight="79" />
+      <edge id="16" source="#swcbus" target="#columbus" weight="79" />
+      <edge id="17" source="#swcbus" target="#startupweekend" weight="79" />
+      <edge id="18" source="#swcbus" target="#eship" weight="79" />
+      <edge id="19" source="#swcbus" target="#cbus" weight="79" />
+      <edge id="20" source="#entrepreneur" target="#advice" weight="79" />
+      <edge id="21" source="#entrepreneur" target="#startupstorytellers" weight="79" />
+      <edge id="22" source="#entrepreneur" target="#startup" weight="79" />
+      <edge id="23" source="#angelinvesting" target="#girlpower" weight="79" />
+      <edge id="24" source="#tech" target="#startup" weight="79" />
+      <edge id="25" source="#tech" target="#capital" weight="79" />
+      <edge id="26" source="#venturecapital" target="#innovation" weight="79" />
+      <edge id="27" source="#innovation" target="#startup" weight="79" />
+      <edge id="28" source="#innovation" target="#capital" weight="79" />
+      <edge id="29" source="#marketing" target="#email" weight="79" />
+      <edge id="30" source="#marketing" target="#sales" weight="79" />
+      <edge id="31" source="#eship" target="#startupweekend" weight="79" />
+      <edge id="32" source="#eship" target="#columbus" weight="79" />
+      <edge id="33" source="#eship" target="#cbus" weight="79" />
+      <edge id="34" source="#education" target="#politics" weight="79" />
+      <edge id="35" source="#startupweekend" target="#columbus" weight="79" />
+      <edge id="36" source="#startupweekend" target="#cbus" weight="79" />
+      <edge id="37" source="#startupstorytellers" target="#startup" weight="79" />
+      <edge id="38" source="#startup" target="#cbusproud" weight="79" />
+      <edge id="39" source="#startup" target="#capital" weight="79" />
+      <edge id="40" source="#adulthood" target="#lunchofchampions" weight="79" />
+      <edge id="41" source="#relevant" target="#Expert" weight="79" />
+      <edge id="42" source="#columbus" target="#cbus" weight="79" />
+      <edge id="43" source="#Valuation" target="#Startup" weight="79" />
+    </edges>
+  </graph>
+</gexf>

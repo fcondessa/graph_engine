@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#IAHSP" label="#IAHSP" />
+      <node id="#DesignSponge" label="#DesignSponge" />
+      <node id="#Pia" label="#Pia" />
+      <node id="#ick" label="#ick" />
+      <node id="#Lobster" label="#Lobster" />
+      <node id="#Clintonville" label="#Clintonville" />
+      <node id="#Chillibowl" label="#Chillibowl" />
+      <node id="#Columbus" label="#Columbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#IAHSP" target="#Columbus" weight="263" />
+      <edge id="1" source="#DesignSponge" target="#Pia" weight="263" />
+      <edge id="2" source="#DesignSponge" target="#Lobster" weight="263" />
+      <edge id="3" source="#Pia" target="#Lobster" weight="263" />
+      <edge id="4" source="#ick" target="#ick" weight="1578" />
+      <edge id="5" source="#Clintonville" target="#Chillibowl" weight="263" />
+    </edges>
+  </graph>
+</gexf>

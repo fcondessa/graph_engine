@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#AskOUrPros" label="#AskOUrPros" />
+      <node id="#prsa" label="#prsa" />
+      <node id="#PR" label="#PR" />
+      <node id="#speaker" label="#speaker" />
+      <node id="#scrippsPRSSA" label="#scrippsPRSSA" />
+      <node id="#PRstudchat" label="#PRstudchat" />
+      <node id="#AskOUrPRos" label="#AskOUrPRos" />
+      <node id="#BlackoutTemple" label="#BlackoutTemple" />
+      <node id="#PRSSAtoNYC" label="#PRSSAtoNYC" />
+      <node id="#ReachHigher" label="#ReachHigher" />
+      <node id="#HR" label="#HR" />
+      <node id="#PRSSA" label="#PRSSA" />
+      <node id="#Storytelling" label="#Storytelling" />
+      <node id="#pr" label="#pr" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#PR20" label="#PR20" />
+      <node id="#COPRSA" label="#COPRSA" />
+      <node id="#wtf" label="#wtf" />
+      <node id="#news" label="#news" />
+      <node id="#socmed" label="#socmed" />
+      <node id="#bobcats" label="#bobcats" />
+      <node id="#MediaRelations" label="#MediaRelations" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#prsa_leaders" label="#prsa_leaders" />
+      <node id="#Management" label="#Management" />
+      <node id="#networking" label="#networking" />
+      <node id="#prsa_ic" label="#prsa_ic" />
+      <node id="#LeaderSpark" label="#LeaderSpark" />
+      <node id="#FirstTweet" label="#FirstTweet" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#prstudchat" label="#prstudchat" />
+      <node id="#ScrippsPRSSA" label="#ScrippsPRSSA" />
+      <node id="#Mikey" label="#Mikey" />
+      <node id="#PRSSANC" label="#PRSSANC" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#summernetworking" label="#summernetworking" />
+      <node id="#worm" label="#worm" />
+      <node id="#coach" label="#coach" />
+      <node id="#politics" label="#politics" />
+      <node id="#Hiring" label="#Hiring" />
+      <node id="#StudentOrgTraining" label="#StudentOrgTraining" />
+      <node id="#pr_leaders" label="#pr_leaders" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#AskOUrPros" target="#ScrippsPRSSA" weight="2394" />
+      <edge id="1" source="#prsa" target="#prsa_ic" weight="2394" />
+      <edge id="2" source="#prsa" target="#pr_leaders" weight="2394" />
+      <edge id="3" source="#PR" target="#PRstudchat" weight="2394" />
+      <edge id="4" source="#PR" target="#MediaRelations" weight="2394" />
+      <edge id="5" source="#PR" target="#prstudchat" weight="2394" />
+      <edge id="6" source="#PR" target="#PR20" weight="2394" />
+      <edge id="7" source="#speaker" target="#coach" weight="2394" />
+      <edge id="8" source="#speaker" target="#pr" weight="2394" />
+      <edge id="9" source="#scrippsPRSSA" target="#StudentOrgTraining" weight="2394" />
+      <edge id="10" source="#PRstudchat" target="#MediaRelations" weight="2394" />
+      <edge id="11" source="#PRstudchat" target="#PR20" weight="2394" />
+      <edge id="12" source="#AskOUrPRos" target="#summernetworking" weight="2394" />
+      <edge id="13" source="#BlackoutTemple" target="#bobcats" weight="2394" />
+      <edge id="14" source="#PRSSAtoNYC" target="#networking" weight="2394" />
+      <edge id="15" source="#ReachHigher" target="#LeaderSpark" weight="2394" />
+      <edge id="16" source="#HR" target="#Hiring" weight="2394" />
+      <edge id="17" source="#HR" target="#Management" weight="2394" />
+      <edge id="18" source="#PRSSA" target="#COPRSA" weight="2394" />
+      <edge id="19" source="#Storytelling" target="#PRSSANC" weight="2394" />
+      <edge id="20" source="#pr" target="#twitter" weight="2394" />
+      <edge id="21" source="#pr" target="#coach" weight="2394" />
+      <edge id="22" source="#marketing" target="#FirstTweet" weight="2394" />
+      <edge id="23" source="#marketing" target="#socialmedia" weight="2394" />
+      <edge id="24" source="#PR20" target="#MediaRelations" weight="2394" />
+      <edge id="25" source="#wtf" target="#news" weight="2394" />
+      <edge id="26" source="#socmed" target="#hcsm" weight="2394" />
+      <edge id="27" source="#prsa_leaders" target="#prsa_ic" weight="2394" />
+      <edge id="28" source="#Management" target="#Hiring" weight="2394" />
+      <edge id="29" source="#prsa_ic" target="#pr_leaders" weight="2394" />
+      <edge id="30" source="#Mikey" target="#worm" weight="2394" />
+      <edge id="31" source="#tcot" target="#politics" weight="2394" />
+    </edges>
+  </graph>
+</gexf>

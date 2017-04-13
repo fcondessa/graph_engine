@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#whitecoats" label="#whitecoats" />
+      <node id="#Kasich4Us" label="#Kasich4Us" />
+      <node id="#agriculture" label="#agriculture" />
+      <node id="#GM" label="#GM" />
+      <node id="#Match2013" label="#Match2013" />
+      <node id="#Match2015" label="#Match2015" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#Fisher100" label="#Fisher100" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#TeachingHospitals" label="#TeachingHospitals" />
+      <node id="#CFAES" label="#CFAES" />
+      <node id="#amahighered" label="#amahighered" />
+      <node id="#ET21" label="#ET21" />
+      <node id="#BuckeyeForLife" label="#BuckeyeForLife" />
+      <node id="#MatchDay" label="#MatchDay" />
+      <node id="#DC" label="#DC" />
+      <node id="#BHAC" label="#BHAC" />
+      <node id="#ThisIsOhioState" label="#ThisIsOhioState" />
+      <node id="#childhood" label="#childhood" />
+      <node id="#heart" label="#heart" />
+      <node id="#ACManOfSteal" label="#ACManOfSteal" />
+      <node id="#Illini" label="#Illini" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#agingwell" label="#agingwell" />
+      <node id="#OSUvsND" label="#OSUvsND" />
+      <node id="#OSUnews" label="#OSUnews" />
+      <node id="#osumatch" label="#osumatch" />
+      <node id="#OH" label="#OH" />
+      <node id="#patients" label="#patients" />
+      <node id="#edm14" label="#edm14" />
+      <node id="#CNNHeroes" label="#CNNHeroes" />
+      <node id="#Ford" label="#Ford" />
+      <node id="#TandC" label="#TandC" />
+      <node id="#Match2014" label="#Match2014" />
+      <node id="#runningshoesforall" label="#runningshoesforall" />
+      <node id="#morereasonstowalk" label="#morereasonstowalk" />
+      <node id="#BuckeyesAbroad" label="#BuckeyesAbroad" />
+      <node id="#ThrowbackOSU" label="#ThrowbackOSU" />
+      <node id="#OSU2020Vision" label="#OSU2020Vision" />
+      <node id="#Bears" label="#Bears" />
+      <node id="#OSUengages" label="#OSUengages" />
+      <node id="#research" label="#research" />
+      <node id="#OSUMatch2015" label="#OSUMatch2015" />
+      <node id="#OSUMatch2014" label="#OSUMatch2014" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#arm14" label="#arm14" />
+      <node id="#cookie" label="#cookie" />
+      <node id="#AAMC14" label="#AAMC14" />
+      <node id="#DDAY" label="#DDAY" />
+      <node id="#pediatric" label="#pediatric" />
+      <node id="#colleges" label="#colleges" />
+      <node id="#WellnessonWheels" label="#WellnessonWheels" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#AZPPartners" label="#AZPPartners" />
+      <node id="#changingtheworld" label="#changingtheworld" />
+      <node id="#Boston" label="#Boston" />
+      <node id="#CNNHero" label="#CNNHero" />
+      <node id="#CityClub" label="#CityClub" />
+      <node id="#TEDx" label="#TEDx" />
+      <node id="#OSUCOM100" label="#OSUCOM100" />
+      <node id="#BFF" label="#BFF" />
+      <node id="#highered" label="#highered" />
+      <node id="#osumatch2014" label="#osumatch2014" />
+      <node id="#BNL" label="#BNL" />
+      <node id="#electricvehicles" label="#electricvehicles" />
+      <node id="#matchday" label="#matchday" />
+      <node id="#PR" label="#PR" />
+      <node id="#BuckeyeHearts" label="#BuckeyeHearts" />
+      <node id="#Buckeye" label="#Buckeye" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#superbugs" label="#superbugs" />
+      <node id="#prjobs" label="#prjobs" />
+      <node id="#AC360" label="#AC360" />
+      <node id="#BrandJournalism" label="#BrandJournalism" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#NSF" label="#NSF" />
+      <node id="#studyabroad" label="#studyabroad" />
+      <node id="#poverty" label="#poverty" />
+      <node id="#ThursdaywithThad" label="#ThursdaywithThad" />
+      <node id="#OSUCOM" label="#OSUCOM" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#medicine" label="#medicine" />
+      <node id="#YourVoteMattas" label="#YourVoteMattas" />
+      <node id="#UIAinnovation" label="#UIAinnovation" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#cookies" label="#cookies" />
+      <node id="#LSOE2013" label="#LSOE2013" />
+      <node id="#aamc12" label="#aamc12" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#congrats" label="#congrats" />
+      <node id="#MRSA" label="#MRSA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#whitecoats" target="#OhioState" weight="322" />
+      <edge id="1" source="#Kasich4Us" target="#SOTU" weight="322" />
+      <edge id="2" source="#agriculture" target="#AZPPartners" weight="322" />
+      <edge id="3" source="#agriculture" target="#leadership" weight="322" />
+      <edge id="4" source="#agriculture" target="#CFAES" weight="322" />
+      <edge id="5" source="#GM" target="#NSF" weight="322" />
+      <edge id="6" source="#GM" target="#electricvehicles" weight="322" />
+      <edge id="7" source="#GM" target="#Ford" weight="322" />
+      <edge id="8" source="#GM" target="#OSUnews" weight="322" />
+      <edge id="9" source="#Match2013" target="#MatchDay" weight="322" />
+      <edge id="10" source="#Match2015" target="#OSUMatch2015" weight="322" />
+      <edge id="11" source="#Match2015" target="#OSUCOM" weight="322" />
+      <edge id="12" source="#leadership" target="#AZPPartners" weight="322" />
+      <edge id="13" source="#leadership" target="#CFAES" weight="322" />
+      <edge id="14" source="#heartdisease" target="#WellnessonWheels" weight="322" />
+      <edge id="15" source="#Fisher100" target="#ThrowbackOSU" weight="322" />
+      <edge id="16" source="#obesity" target="#childhood" weight="322" />
+      <edge id="17" source="#TeachingHospitals" target="#pediatric" weight="322" />
+      <edge id="18" source="#TeachingHospitals" target="#Boston" weight="322" />
+      <edge id="19" source="#CFAES" target="#AZPPartners" weight="322" />
+      <edge id="20" source="#amahighered" target="#highered" weight="322" />
+      <edge id="21" source="#ET21" target="#GoBucks" weight="322" />
+      <edge id="22" source="#BuckeyeForLife" target="#GoBucks" weight="322" />
+      <edge id="23" source="#DC" target="#CNNHeroes" weight="322" />
+      <edge id="24" source="#DC" target="#poverty" weight="322" />
+      <edge id="25" source="#DC" target="#CNNHero" weight="322" />
+      <edge id="26" source="#BHAC" target="#OhioState" weight="322" />
+      <edge id="27" source="#ThisIsOhioState" target="#Buckeye" weight="322" />
+      <edge id="28" source="#heart" target="#infographic" weight="322" />
+      <edge id="29" source="#heart" target="#BuckeyeHearts" weight="322" />
+      <edge id="30" source="#ACManOfSteal" target="#GoBucks" weight="322" />
+      <edge id="31" source="#Illini" target="#Bears" weight="322" />
+      <edge id="32" source="#BuckeyeNation" target="#YourVoteMattas" weight="322" />
+      <edge id="33" source="#BuckeyeNation" target="#ThursdaywithThad" weight="322" />
+      <edge id="34" source="#agingwell" target="#morereasonstowalk" weight="322" />
+      <edge id="35" source="#agingwell" target="#runningshoesforall" weight="322" />
+      <edge id="36" source="#OSUvsND" target="#GoBucks" weight="322" />
+      <edge id="37" source="#OSUnews" target="#NSF" weight="322" />
+      <edge id="38" source="#OSUnews" target="#electricvehicles" weight="322" />
+      <edge id="39" source="#OSUnews" target="#Ford" weight="322" />
+      <edge id="40" source="#osumatch" target="#matchday" weight="322" />
+      <edge id="41" source="#OH" target="#GoBucks" weight="322" />
+      <edge id="42" source="#patients" target="#aamc12" weight="322" />
+      <edge id="43" source="#patients" target="#healthcare" weight="322" />
+      <edge id="44" source="#edm14" target="#arm14" weight="322" />
+      <edge id="45" source="#CNNHeroes" target="#poverty" weight="322" />
+      <edge id="46" source="#CNNHeroes" target="#CNNHero" weight="322" />
+      <edge id="47" source="#Ford" target="#NSF" weight="322" />
+      <edge id="48" source="#Ford" target="#electricvehicles" weight="322" />
+      <edge id="49" source="#TandC" target="#OSU" weight="322" />
+      <edge id="50" source="#TandC" target="#TEDx" weight="322" />
+      <edge id="51" source="#Match2014" target="#osumatch2014" weight="322" />
+      <edge id="52" source="#Match2014" target="#OSUMatch2014" weight="322" />
+      <edge id="53" source="#runningshoesforall" target="#morereasonstowalk" weight="322" />
+      <edge id="54" source="#BuckeyesAbroad" target="#studyabroad" weight="322" />
+      <edge id="55" source="#OSU2020Vision" target="#OSUengages" weight="322" />
+      <edge id="56" source="#OSU2020Vision" target="#CityClub" weight="322" />
+      <edge id="57" source="#research" target="#AAMC14" weight="322" />
+      <edge id="58" source="#OSUMatch2015" target="#OSUCOM" weight="322" />
+      <edge id="59" source="#cookie" target="#cookies" weight="322" />
+      <edge id="60" source="#cookie" target="#OSUCOM100" weight="322" />
+      <edge id="61" source="#DDAY" target="#AC360" weight="322" />
+      <edge id="62" source="#pediatric" target="#Boston" weight="322" />
+      <edge id="63" source="#colleges" target="#UIAinnovation" weight="322" />
+      <edge id="64" source="#OSU" target="#TEDx" weight="322" />
+      <edge id="65" source="#changingtheworld" target="#congrats" weight="322" />
+      <edge id="66" source="#CNNHero" target="#poverty" weight="322" />
+      <edge id="67" source="#OSUCOM100" target="#cookies" weight="322" />
+      <edge id="68" source="#BFF" target="#BNL" weight="322" />
+      <edge id="69" source="#BFF" target="#LSOE2013" weight="322" />
+      <edge id="70" source="#BNL" target="#LSOE2013" weight="322" />
+      <edge id="71" source="#electricvehicles" target="#NSF" weight="322" />
+      <edge id="72" source="#PR" target="#BrandJournalism" weight="322" />
+      <edge id="73" source="#PR" target="#prjobs" weight="322" />
+      <edge id="74" source="#BuckeyeHearts" target="#infographic" weight="322" />
+      <edge id="75" source="#superbugs" target="#MRSA" weight="322" />
+      <edge id="76" source="#prjobs" target="#BrandJournalism" weight="322" />
+      <edge id="77" source="#ThursdaywithThad" target="#YourVoteMattas" weight="322" />
+      <edge id="78" source="#healthcare" target="#aamc12" weight="322" />
+      <edge id="79" source="#medicine" target="#aamc12" weight="322" />
+      <edge id="80" source="#medicine" target="#socialmedia" weight="322" />
+      <edge id="81" source="#socialmedia" target="#aamc12" weight="322" />
+    </edges>
+  </graph>
+</gexf>

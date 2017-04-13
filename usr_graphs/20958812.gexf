@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Design" label="#Design" />
+      <node id="#rwd" label="#rwd" />
+      <node id="#Inspirational" label="#Inspirational" />
+      <node id="#newyear" label="#newyear" />
+      <node id="#nowwhat" label="#nowwhat" />
+      <node id="#Showcase" label="#Showcase" />
+      <node id="#takebackpolitics" label="#takebackpolitics" />
+      <node id="#css" label="#css" />
+      <node id="#Business" label="#Business" />
+      <node id="#freebies" label="#freebies" />
+      <node id="#metasandwichtweet" label="#metasandwichtweet" />
+      <node id="#totallyscrewed" label="#totallyscrewed" />
+      <node id="#useful" label="#useful" />
+      <node id="#movies" label="#movies" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#design" label="#design" />
+      <node id="#CES" label="#CES" />
+      <node id="#convergese" label="#convergese" />
+      <node id="#WeTheLobby" label="#WeTheLobby" />
+      <node id="#sad" label="#sad" />
+      <node id="#security" label="#security" />
+      <node id="#games" label="#games" />
+      <node id="#Article" label="#Article" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Design" target="#Inspirational" weight="970" />
+      <edge id="1" source="#Design" target="#Business" weight="970" />
+      <edge id="2" source="#Design" target="#Showcase" weight="970" />
+      <edge id="3" source="#Design" target="#Article" weight="970" />
+      <edge id="4" source="#rwd" target="#css" weight="970" />
+      <edge id="5" source="#rwd" target="#useful" weight="970" />
+      <edge id="6" source="#Inspirational" target="#Showcase" weight="970" />
+      <edge id="7" source="#newyear" target="#games" weight="970" />
+      <edge id="8" source="#newyear" target="#movies" weight="970" />
+      <edge id="9" source="#nowwhat" target="#totallyscrewed" weight="970" />
+      <edge id="10" source="#takebackpolitics" target="#WeTheLobby" weight="970" />
+      <edge id="11" source="#css" target="#useful" weight="970" />
+      <edge id="12" source="#Business" target="#Article" weight="970" />
+      <edge id="13" source="#freebies" target="#design" weight="970" />
+      <edge id="14" source="#metasandwichtweet" target="#convergese" weight="970" />
+      <edge id="15" source="#movies" target="#games" weight="970" />
+      <edge id="16" source="#privacy" target="#security" weight="970" />
+      <edge id="17" source="#CES" target="#sad" weight="970" />
+    </edges>
+  </graph>
+</gexf>

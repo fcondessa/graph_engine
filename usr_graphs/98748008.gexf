@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DietCoke" label="#DietCoke" />
+      <node id="#jimmywaynejourney" label="#jimmywaynejourney" />
+      <node id="#MinuteMaidEasyLunch" label="#MinuteMaidEasyLunch" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#MCRFreezerFun" label="#MCRFreezerFun" />
+      <node id="#TBLightning" label="#TBLightning" />
+      <node id="#walktobeautifulcoke" label="#walktobeautifulcoke" />
+      <node id="#WatchWeekly" label="#WatchWeekly" />
+      <node id="#FreeWiz" label="#FreeWiz" />
+      <node id="#TrueFan" label="#TrueFan" />
+      <node id="#doingood" label="#doingood" />
+      <node id="#DetermineTheDrink" label="#DetermineTheDrink" />
+      <node id="#MinuteMaid" label="#MinuteMaid" />
+      <node id="#NHL" label="#NHL" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DietCoke" target="#DetermineTheDrink" weight="153" />
+      <edge id="1" source="#jimmywaynejourney" target="#walktobeautifulcoke" weight="153" />
+      <edge id="2" source="#MinuteMaidEasyLunch" target="#doingood" weight="153" />
+      <edge id="3" source="#CBJ" target="#FreeWiz" weight="153" />
+      <edge id="4" source="#CBJ" target="#TrueFan" weight="153" />
+      <edge id="5" source="#CBJ" target="#TBLightning" weight="153" />
+      <edge id="6" source="#CBJ" target="#NHL" weight="306" />
+      <edge id="7" source="#MCRFreezerFun" target="#MinuteMaid" weight="306" />
+      <edge id="8" source="#TBLightning" target="#NHL" weight="153" />
+      <edge id="9" source="#WatchWeekly" target="#WatchWeekly" weight="306" />
+      <edge id="10" source="#FreeWiz" target="#TrueFan" weight="153" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#BasicEconomicDevelopmentCourse" label="#BasicEconomicDevelopmentCourse" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#shovelready" label="#shovelready" />
+      <node id="#Businessgrowshere" label="#Businessgrowshere" />
+      <node id="#NXTWORK" label="#NXTWORK" />
+      <node id="#everythingrowshere" label="#everythingrowshere" />
+      <node id="#MemorialTournament" label="#MemorialTournament" />
+      <node id="#toydrive" label="#toydrive" />
+      <node id="#CrossroadsAreaPlan" label="#CrossroadsAreaPlan" />
+      <node id="#Dublinishome" label="#Dublinishome" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Technology" label="#Technology" />
+      <node id="#econdev" label="#econdev" />
+      <node id="#BPTW" label="#BPTW" />
+      <node id="#EconDevWeek" label="#EconDevWeek" />
+      <node id="#ITPathways" label="#ITPathways" />
+      <node id="#Dublink" label="#Dublink" />
+      <node id="#SiteSelection" label="#SiteSelection" />
+      <node id="#becauseweplan" label="#becauseweplan" />
+      <node id="#DublinIsHome" label="#DublinIsHome" />
+      <node id="#IrishFestival" label="#IrishFestival" />
+      <node id="#middlemarket" label="#middlemarket" />
+      <node id="#Nestle" label="#Nestle" />
+      <node id="#SmartCity" label="#SmartCity" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#talentacquisition" label="#talentacquisition" />
+      <node id="#ICFinstitute" label="#ICFinstitute" />
+      <node id="#theMemorial" label="#theMemorial" />
+      <node id="#winningintheamericas" label="#winningintheamericas" />
+      <node id="#bestplacestowork" label="#bestplacestowork" />
+      <node id="#YearofEconDev" label="#YearofEconDev" />
+      <node id="#EconomicDevelopment" label="#EconomicDevelopment" />
+      <node id="#DublinSOTC" label="#DublinSOTC" />
+      <node id="#realfungeeks" label="#realfungeeks" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#IT" label="#IT" />
+      <node id="#ExactHackathon" label="#ExactHackathon" />
+      <node id="#WeekendReading" label="#WeekendReading" />
+      <node id="#FDI" label="#FDI" />
+      <node id="#FirefightersForToys" label="#FirefightersForToys" />
+      <node id="#Rev1DemoDay" label="#Rev1DemoDay" />
+      <node id="#SmartBusiness" label="#SmartBusiness" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#startupcbus" label="#startupcbus" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#EconDev" label="#EconDev" />
+      <node id="#GolfandGigabits" label="#GolfandGigabits" />
+      <node id="#Fast50" label="#Fast50" />
+      <node id="#DesignThinking" label="#DesignThinking" />
+      <node id="#workforce" label="#workforce" />
+      <node id="#fiberoptics" label="#fiberoptics" />
+      <node id="#economicdevelopment" label="#economicdevelopment" />
+      <node id="#dublinohio" label="#dublinohio" />
+      <node id="#MidWest" label="#MidWest" />
+      <node id="#US33Corridor" label="#US33Corridor" />
+      <node id="#DublinOhioEconDev" label="#DublinOhioEconDev" />
+      <node id="#firedept" label="#firedept" />
+      <node id="#BridgeStreetDistrict" label="#BridgeStreetDistrict" />
+      <node id="#IEDCCleveland" label="#IEDCCleveland" />
+      <node id="#PACE" label="#PACE" />
+      <node id="#fiber" label="#fiber" />
+      <node id="#dublinishome" label="#dublinishome" />
+      <node id="#FoodSafety" label="#FoodSafety" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Dublin" target="#Nestle" weight="243" />
+      <edge id="1" source="#Dublin" target="#everythingrowshere" weight="243" />
+      <edge id="2" source="#BasicEconomicDevelopmentCourse" target="#EconomicDevelopment" weight="243" />
+      <edge id="3" source="#jobs" target="#Technology" weight="243" />
+      <edge id="4" source="#jobs" target="#hiring" weight="243" />
+      <edge id="5" source="#jobs" target="#Columbus" weight="243" />
+      <edge id="6" source="#jobs" target="#IT" weight="243" />
+      <edge id="7" source="#shovelready" target="#DublinOhioEconDev" weight="243" />
+      <edge id="8" source="#shovelready" target="#economicdevelopment" weight="243" />
+      <edge id="9" source="#Businessgrowshere" target="#MidWest" weight="243" />
+      <edge id="10" source="#Businessgrowshere" target="#Ohio" weight="243" />
+      <edge id="11" source="#NXTWORK" target="#Dublink" weight="243" />
+      <edge id="12" source="#MemorialTournament" target="#IrishFestival" weight="243" />
+      <edge id="13" source="#toydrive" target="#FirefightersForToys" weight="243" />
+      <edge id="14" source="#toydrive" target="#firedept" weight="243" />
+      <edge id="15" source="#CrossroadsAreaPlan" target="#US33Corridor" weight="243" />
+      <edge id="16" source="#Dublinishome" target="#SmartBusiness" weight="243" />
+      <edge id="17" source="#Ohio" target="#MidWest" weight="243" />
+      <edge id="18" source="#Technology" target="#hiring" weight="243" />
+      <edge id="19" source="#Technology" target="#Columbus" weight="243" />
+      <edge id="20" source="#Technology" target="#IT" weight="243" />
+      <edge id="21" source="#econdev" target="#Rev1DemoDay" weight="243" />
+      <edge id="22" source="#econdev" target="#startupcbus" weight="243" />
+      <edge id="23" source="#BPTW" target="#DublinOhioEconDev" weight="486" />
+      <edge id="24" source="#EconDevWeek" target="#YearofEconDev" weight="243" />
+      <edge id="25" source="#ITPathways" target="#DesignThinking" weight="486" />
+      <edge id="26" source="#Dublink" target="#fiberoptics" weight="486" />
+      <edge id="27" source="#Dublink" target="#DublinSOTC" weight="243" />
+      <edge id="28" source="#Dublink" target="#economicdevelopment" weight="243" />
+      <edge id="29" source="#SiteSelection" target="#FDI" weight="243" />
+      <edge id="30" source="#SiteSelection" target="#IEDCCleveland" weight="243" />
+      <edge id="31" source="#becauseweplan" target="#socialmedia" weight="243" />
+      <edge id="32" source="#DublinIsHome" target="#STEM" weight="243" />
+      <edge id="33" source="#DublinIsHome" target="#Fast50" weight="243" />
+      <edge id="34" source="#middlemarket" target="#winningintheamericas" weight="243" />
+      <edge id="35" source="#SmartCity" target="#BridgeStreetDistrict" weight="243" />
+      <edge id="36" source="#hiring" target="#Columbus" weight="243" />
+      <edge id="37" source="#hiring" target="#IT" weight="243" />
+      <edge id="38" source="#talentacquisition" target="#workforce" weight="243" />
+      <edge id="39" source="#ICFinstitute" target="#dublinohio" weight="243" />
+      <edge id="40" source="#theMemorial" target="#GolfandGigabits" weight="243" />
+      <edge id="41" source="#bestplacestowork" target="#dublinishome" weight="243" />
+      <edge id="42" source="#EconomicDevelopment" target="#fiber" weight="243" />
+      <edge id="43" source="#EconomicDevelopment" target="#DublinOhioEconDev" weight="243" />
+      <edge id="44" source="#EconomicDevelopment" target="#PACE" weight="243" />
+      <edge id="45" source="#DublinSOTC" target="#fiberoptics" weight="243" />
+      <edge id="46" source="#DublinSOTC" target="#economicdevelopment" weight="243" />
+      <edge id="47" source="#realfungeeks" target="#Fast50" weight="243" />
+      <edge id="48" source="#IT" target="#Columbus" weight="243" />
+      <edge id="49" source="#ExactHackathon" target="#EconDev" weight="243" />
+      <edge id="50" source="#WeekendReading" target="#FoodSafety" weight="243" />
+      <edge id="51" source="#FDI" target="#IEDCCleveland" weight="243" />
+      <edge id="52" source="#FirefightersForToys" target="#firedept" weight="243" />
+      <edge id="53" source="#Rev1DemoDay" target="#startupcbus" weight="243" />
+      <edge id="54" source="#Fast50" target="#DublinOhioEconDev" weight="486" />
+      <edge id="55" source="#fiberoptics" target="#economicdevelopment" weight="243" />
+      <edge id="56" source="#economicdevelopment" target="#DublinOhioEconDev" weight="243" />
+      <edge id="57" source="#DublinOhioEconDev" target="#PACE" weight="243" />
+      <edge id="58" source="#DublinOhioEconDev" target="#dublinishome" weight="243" />
+    </edges>
+  </graph>
+</gexf>

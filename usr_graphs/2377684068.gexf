@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Inventin" label="#Inventin" />
+      <node id="#bots" label="#bots" />
+      <node id="#dacadoo" label="#dacadoo" />
+      <node id="#patientcare" label="#patientcare" />
+      <node id="#Medical" label="#Medical" />
+      <node id="#flying" label="#flying" />
+      <node id="#stress" label="#stress" />
+      <node id="#ehealth" label="#ehealth" />
+      <node id="#Whitepaper" label="#Whitepaper" />
+      <node id="#MCCSM" label="#MCCSM" />
+      <node id="#InsurTech" label="#InsurTech" />
+      <node id="#MedicalDevice" label="#MedicalDevice" />
+      <node id="#HITsecurity" label="#HITsecurity" />
+      <node id="#telehealth" label="#telehealth" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#MHealth" label="#MHealth" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#patientsafety" label="#patientsafety" />
+      <node id="#datasecurity" label="#datasecurity" />
+      <node id="#client" label="#client" />
+      <node id="#Data" label="#Data" />
+      <node id="#healthdata" label="#healthdata" />
+      <node id="#SmallBiz" label="#SmallBiz" />
+      <node id="#hcmktg" label="#hcmktg" />
+      <node id="#MobileHealth" label="#MobileHealth" />
+      <node id="#PatientsRights" label="#PatientsRights" />
+      <node id="#ICD10" label="#ICD10" />
+      <node id="#phone" label="#phone" />
+      <node id="#jpm16" label="#jpm16" />
+      <node id="#KareoChat" label="#KareoChat" />
+      <node id="#malware" label="#malware" />
+      <node id="#Hackathon" label="#Hackathon" />
+      <node id="#Tigertext" label="#Tigertext" />
+      <node id="#design" label="#design" />
+      <node id="#DataScience" label="#DataScience" />
+      <node id="#healthy" label="#healthy" />
+      <node id="#violations" label="#violations" />
+      <node id="#apps" label="#apps" />
+      <node id="#workSecurely" label="#workSecurely" />
+      <node id="#infosec" label="#infosec" />
+      <node id="#corruption" label="#corruption" />
+      <node id="#PTSD" label="#PTSD" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#hacked" label="#hacked" />
+      <node id="#Pagers" label="#Pagers" />
+      <node id="#IoT" label="#IoT" />
+      <node id="#InfoActivityReview" label="#InfoActivityReview" />
+      <node id="#Genetics" label="#Genetics" />
+      <node id="#encryption" label="#encryption" />
+      <node id="#healthapps" label="#healthapps" />
+      <node id="#Workforce" label="#Workforce" />
+      <node id="#Audits" label="#Audits" />
+      <node id="#biopri" label="#biopri" />
+      <node id="#brain" label="#brain" />
+      <node id="#HITsm" label="#HITsm" />
+      <node id="#kuwait" label="#kuwait" />
+      <node id="#LAtech" label="#LAtech" />
+      <node id="#HHS" label="#HHS" />
+      <node id="#NTSB" label="#NTSB" />
+      <node id="#medicalscience" label="#medicalscience" />
+      <node id="#Mobile" label="#Mobile" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#Technology" label="#Technology" />
+      <node id="#PHI" label="#PHI" />
+      <node id="#trends" label="#trends" />
+      <node id="#live" label="#live" />
+      <node id="#ewaste" label="#ewaste" />
+      <node id="#DellSMBChat" label="#DellSMBChat" />
+      <node id="#aviation" label="#aviation" />
+      <node id="#drug" label="#drug" />
+      <node id="#WEBINAR" label="#WEBINAR" />
+      <node id="#Antiaging" label="#Antiaging" />
+      <node id="#mhealth" label="#mhealth" />
+      <node id="#seniors" label="#seniors" />
+      <node id="#medtech" label="#medtech" />
+      <node id="#wearables" label="#wearables" />
+      <node id="#bribery" label="#bribery" />
+      <node id="#designtechnology" label="#designtechnology" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#HITECH" label="#HITECH" />
+      <node id="#FDA" label="#FDA" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#avgeek" label="#avgeek" />
+      <node id="#SecuredMessaging" label="#SecuredMessaging" />
+      <node id="#PII" label="#PII" />
+      <node id="#Wearables" label="#Wearables" />
+      <node id="#IT" label="#IT" />
+      <node id="#hcitexpert" label="#hcitexpert" />
+      <node id="#TigerConnect" label="#TigerConnect" />
+      <node id="#VC" label="#VC" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#HIMS15" label="#HIMS15" />
+      <node id="#Privacy" label="#Privacy" />
+      <node id="#technology" label="#technology" />
+      <node id="#Messaging" label="#Messaging" />
+      <node id="#mHealth" label="#mHealth" />
+      <node id="#HIMS" label="#HIMS" />
+      <node id="#usa" label="#usa" />
+      <node id="#WearableTech" label="#WearableTech" />
+      <node id="#data" label="#data" />
+      <node id="#breach" label="#breach" />
+      <node id="#FAA" label="#FAA" />
+      <node id="#new" label="#new" />
+      <node id="#DataBreach" label="#DataBreach" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#Hacking" label="#Hacking" />
+      <node id="#desserts" label="#desserts" />
+      <node id="#DOT" label="#DOT" />
+      <node id="#science" label="#science" />
+      <node id="#digitalhealth" label="#digitalhealth" />
+      <node id="#telemedicine" label="#telemedicine" />
+      <node id="#compliance" label="#compliance" />
+      <node id="#medicaltechnology" label="#medicaltechnology" />
+      <node id="#ict4d" label="#ict4d" />
+      <node id="#rights" label="#rights" />
+      <node id="#BYOW" label="#BYOW" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#doctors20" label="#doctors20" />
+      <node id="#health" label="#health" />
+      <node id="#WorkSecurely" label="#WorkSecurely" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#mobilehealth" label="#mobilehealth" />
+      <node id="#messaging" label="#messaging" />
+      <node id="#BYOD" label="#BYOD" />
+      <node id="#cybersecurity" label="#cybersecurity" />
+      <node id="#Multiplesclerosis" label="#Multiplesclerosis" />
+      <node id="#healthcareit" label="#healthcareit" />
+      <node id="#depression" label="#depression" />
+      <node id="#Interoperability" label="#Interoperability" />
+      <node id="#Amerigroup" label="#Amerigroup" />
+      <node id="#tech" label="#tech" />
+      <node id="#hcldr" label="#hcldr" />
+      <node id="#Liv360" label="#Liv360" />
+      <node id="#TXFM" label="#TXFM" />
+      <node id="#InternetofThings" label="#InternetofThings" />
+      <node id="#HIMSS16" label="#HIMSS16" />
+      <node id="#HIMSS15" label="#HIMSS15" />
+      <node id="#office" label="#office" />
+      <node id="#PILOTS" label="#PILOTS" />
+      <node id="#healthbehavior" label="#healthbehavior" />
+      <node id="#tigertext" label="#tigertext" />
+      <node id="#Security" label="#Security" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#wellness" label="#wellness" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#meaningfuluse" label="#meaningfuluse" />
+      <node id="#patientaccess" label="#patientaccess" />
+      <node id="#healthit" label="#healthit" />
+      <node id="#hitsm" label="#hitsm" />
+      <node id="#EMRs" label="#EMRs" />
+      <node id="#CentricityLIVE" label="#CentricityLIVE" />
+      <node id="#Virtualization" label="#Virtualization" />
+      <node id="#InfoSec" label="#InfoSec" />
+      <node id="#aviationnation" label="#aviationnation" />
+      <node id="#TryThis" label="#TryThis" />
+      <node id="#Hospitals" label="#Hospitals" />
+      <node id="#ux" label="#ux" />
+      <node id="#HITSMIND" label="#HITSMIND" />
+      <node id="#techpr" label="#techpr" />
+      <node id="#eHealth" label="#eHealth" />
+      <node id="#DigitalHealth" label="#DigitalHealth" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#TigerText" label="#TigerText" />
+      <node id="#OCR" label="#OCR" />
+      <node id="#AssetDisposal" label="#AssetDisposal" />
+      <node id="#HIPPA" label="#HIPPA" />
+      <node id="#Telehealth" label="#Telehealth" />
+      <node id="#Solutions" label="#Solutions" />
+      <node id="#startup" label="#startup" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Telemedicine" label="#Telemedicine" />
+      <node id="#SittingIsKillingYou" label="#SittingIsKillingYou" />
+      <node id="#InfoGraphic" label="#InfoGraphic" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#HIPAA" label="#HIPAA" />
+      <node id="#ransomware" label="#ransomware" />
+      <node id="#Discover" label="#Discover" />
+      <node id="#medical" label="#medical" />
+      <node id="#caregivers" label="#caregivers" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#security" label="#security" />
+      <node id="#moonshot" label="#moonshot" />
+      <node id="#cloud" label="#cloud" />
+      <node id="#patientengagement" label="#patientengagement" />
+      <node id="#estimote" label="#estimote" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Inventin" target="#office" weight="484" />
+      <edge id="1" source="#Inventin" target="#medical" weight="484" />
+      <edge id="2" source="#Inventin" target="#technology" weight="968" />
+      <edge id="3" source="#Inventin" target="#new" weight="484" />
+      <edge id="4" source="#Inventin" target="#kuwait" weight="484" />
+      <edge id="5" source="#Inventin" target="#usa" weight="484" />
+      <edge id="6" source="#Inventin" target="#startup" weight="484" />
+      <edge id="7" source="#Inventin" target="#estimote" weight="484" />
+      <edge id="8" source="#bots" target="#client" weight="484" />
+      <edge id="9" source="#bots" target="#techpr" weight="484" />
+      <edge id="10" source="#bots" target="#LAtech" weight="484" />
+      <edge id="11" source="#bots" target="#SecuredMessaging" weight="484" />
+      <edge id="12" source="#dacadoo" target="#Privacy" weight="484" />
+      <edge id="13" source="#dacadoo" target="#mHealth" weight="484" />
+      <edge id="14" source="#patientcare" target="#HITsecurity" weight="484" />
+      <edge id="15" source="#patientcare" target="#Virtualization" weight="484" />
+      <edge id="16" source="#Medical" target="#trends" weight="484" />
+      <edge id="17" source="#Medical" target="#Technology" weight="484" />
+      <edge id="18" source="#Medical" target="#technology" weight="484" />
+      <edge id="19" source="#flying" target="#FAA" weight="484" />
+      <edge id="20" source="#flying" target="#avgeek" weight="484" />
+      <edge id="21" source="#flying" target="#HIPAA" weight="484" />
+      <edge id="22" source="#flying" target="#PILOTS" weight="484" />
+      <edge id="23" source="#flying" target="#DOT" weight="484" />
+      <edge id="24" source="#flying" target="#violations" weight="484" />
+      <edge id="25" source="#flying" target="#HIMS" weight="484" />
+      <edge id="26" source="#flying" target="#aviationnation" weight="484" />
+      <edge id="27" source="#flying" target="#NTSB" weight="484" />
+      <edge id="28" source="#flying" target="#aviation" weight="484" />
+      <edge id="29" source="#flying" target="#rights" weight="484" />
+      <edge id="30" source="#stress" target="#healthy" weight="484" />
+      <edge id="31" source="#stress" target="#Liv360" weight="484" />
+      <edge id="32" source="#ehealth" target="#BigData" weight="484" />
+      <edge id="33" source="#Whitepaper" target="#InternetofThings" weight="484" />
+      <edge id="34" source="#Whitepaper" target="#IoT" weight="484" />
+      <edge id="35" source="#Whitepaper" target="#HIPAA" weight="968" />
+      <edge id="36" source="#MCCSM" target="#hcmktg" weight="484" />
+      <edge id="37" source="#MCCSM" target="#hcsm" weight="484" />
+      <edge id="38" source="#InsurTech" target="#DigitalHealth" weight="484" />
+      <edge id="39" source="#InsurTech" target="#mHealth" weight="484" />
+      <edge id="40" source="#InsurTech" target="#VC" weight="484" />
+      <edge id="41" source="#MedicalDevice" target="#HIPAA" weight="484" />
+      <edge id="42" source="#HITsecurity" target="#Virtualization" weight="484" />
+      <edge id="43" source="#telehealth" target="#biopri" weight="484" />
+      <edge id="44" source="#telehealth" target="#medtech" weight="484" />
+      <edge id="45" source="#telehealth" target="#HIMSS16" weight="484" />
+      <edge id="46" source="#telehealth" target="#mhealth" weight="968" />
+      <edge id="47" source="#telehealth" target="#telemedicine" weight="484" />
+      <edge id="48" source="#HIT" target="#healthIT" weight="484" />
+      <edge id="49" source="#MHealth" target="#DigitalHealth" weight="484" />
+      <edge id="50" source="#cancer" target="#moonshot" weight="484" />
+      <edge id="51" source="#cancer" target="#BigData" weight="484" />
+      <edge id="52" source="#patientsafety" target="#mobilehealth" weight="484" />
+      <edge id="53" source="#patientsafety" target="#patientengagement" weight="484" />
+      <edge id="54" source="#datasecurity" target="#patientengagement" weight="484" />
+      <edge id="55" source="#datasecurity" target="#HIPAA" weight="484" />
+      <edge id="56" source="#datasecurity" target="#mHealth" weight="484" />
+      <edge id="57" source="#datasecurity" target="#EMRs" weight="484" />
+      <edge id="58" source="#client" target="#SecuredMessaging" weight="484" />
+      <edge id="59" source="#client" target="#techpr" weight="484" />
+      <edge id="60" source="#client" target="#LAtech" weight="484" />
+      <edge id="61" source="#Data" target="#HIPAA" weight="484" />
+      <edge id="62" source="#healthdata" target="#mobile" weight="484" />
+      <edge id="63" source="#healthdata" target="#HIMSS16" weight="484" />
+      <edge id="64" source="#healthdata" target="#HIPAA" weight="484" />
+      <edge id="65" source="#healthdata" target="#mHealth" weight="484" />
+      <edge id="66" source="#SmallBiz" target="#DellSMBChat" weight="484" />
+      <edge id="67" source="#hcmktg" target="#hcsm" weight="484" />
+      <edge id="68" source="#MobileHealth" target="#mHealth" weight="484" />
+      <edge id="69" source="#MobileHealth" target="#hitsm" weight="484" />
+      <edge id="70" source="#MobileHealth" target="#Wearables" weight="484" />
+      <edge id="71" source="#MobileHealth" target="#healthbehavior" weight="484" />
+      <edge id="72" source="#MobileHealth" target="#hcsm" weight="484" />
+      <edge id="73" source="#MobileHealth" target="#Healthcare" weight="484" />
+      <edge id="74" source="#MobileHealth" target="#mhealth" weight="1452" />
+      <edge id="75" source="#MobileHealth" target="#IoT" weight="484" />
+      <edge id="76" source="#PatientsRights" target="#HIPAA" weight="484" />
+      <edge id="77" source="#ICD10" target="#HIPAA" weight="484" />
+      <edge id="78" source="#phone" target="#depression" weight="484" />
+      <edge id="79" source="#jpm16" target="#hcsm" weight="484" />
+      <edge id="80" source="#jpm16" target="#infosec" weight="484" />
+      <edge id="81" source="#jpm16" target="#hitsm" weight="484" />
+      <edge id="82" source="#jpm16" target="#mhealth" weight="484" />
+      <edge id="83" source="#KareoChat" target="#HIPAA" weight="484" />
+      <edge id="84" source="#malware" target="#Privacy" weight="484" />
+      <edge id="85" source="#malware" target="#PHI" weight="484" />
+      <edge id="86" source="#malware" target="#HIPAA" weight="484" />
+      <edge id="87" source="#malware" target="#PII" weight="484" />
+      <edge id="88" source="#malware" target="#ransomware" weight="484" />
+      <edge id="89" source="#malware" target="#breach" weight="484" />
+      <edge id="90" source="#Hackathon" target="#brain" weight="484" />
+      <edge id="91" source="#Tigertext" target="#messaging" weight="484" />
+      <edge id="92" source="#Tigertext" target="#HIPAA" weight="484" />
+      <edge id="93" source="#design" target="#mhealth" weight="484" />
+      <edge id="94" source="#design" target="#data" weight="484" />
+      <edge id="95" source="#design" target="#health" weight="484" />
+      <edge id="96" source="#design" target="#ux" weight="484" />
+      <edge id="97" source="#DataScience" target="#HITSMIND" weight="484" />
+      <edge id="98" source="#violations" target="#FAA" weight="484" />
+      <edge id="99" source="#violations" target="#avgeek" weight="484" />
+      <edge id="100" source="#violations" target="#HIPAA" weight="484" />
+      <edge id="101" source="#violations" target="#PILOTS" weight="484" />
+      <edge id="102" source="#violations" target="#DOT" weight="484" />
+      <edge id="103" source="#violations" target="#HIMS" weight="484" />
+      <edge id="104" source="#violations" target="#aviationnation" weight="484" />
+      <edge id="105" source="#violations" target="#rights" weight="484" />
+      <edge id="106" source="#violations" target="#NTSB" weight="484" />
+      <edge id="107" source="#violations" target="#aviation" weight="484" />
+      <edge id="108" source="#apps" target="#digitalhealth" weight="484" />
+      <edge id="109" source="#apps" target="#mhealth" weight="484" />
+      <edge id="110" source="#workSecurely" target="#HIPAA" weight="484" />
+      <edge id="111" source="#infosec" target="#privacy" weight="484" />
+      <edge id="112" source="#infosec" target="#mhealth" weight="484" />
+      <edge id="113" source="#infosec" target="#HIPAA" weight="484" />
+      <edge id="114" source="#infosec" target="#hitsm" weight="484" />
+      <edge id="115" source="#infosec" target="#hcsm" weight="484" />
+      <edge id="116" source="#infosec" target="#cybersecurity" weight="1452" />
+      <edge id="117" source="#infosec" target="#hacked" weight="484" />
+      <edge id="118" source="#infosec" target="#IoT" weight="968" />
+      <edge id="119" source="#corruption" target="#bribery" weight="484" />
+      <edge id="120" source="#corruption" target="#compliance" weight="484" />
+      <edge id="121" source="#PTSD" target="#mentalhealth" weight="484" />
+      <edge id="122" source="#PTSD" target="#DigitalHealth" weight="484" />
+      <edge id="123" source="#PTSD" target="#mHealth" weight="484" />
+      <edge id="124" source="#Healthcare" target="#mHealth" weight="484" />
+      <edge id="125" source="#Healthcare" target="#HIPAA" weight="484" />
+      <edge id="126" source="#Healthcare" target="#HITsm" weight="484" />
+      <edge id="127" source="#Healthcare" target="#mobilehealth" weight="484" />
+      <edge id="128" source="#Healthcare" target="#security" weight="484" />
+      <edge id="129" source="#Healthcare" target="#Telemedicine" weight="484" />
+      <edge id="130" source="#Healthcare" target="#IoT" weight="484" />
+      <edge id="131" source="#Pagers" target="#hospitals" weight="484" />
+      <edge id="132" source="#IoT" target="#privacy" weight="484" />
+      <edge id="133" source="#IoT" target="#TigerConnect" weight="968" />
+      <edge id="134" source="#IoT" target="#mHealth" weight="1452" />
+      <edge id="135" source="#IoT" target="#HIPAA" weight="968" />
+      <edge id="136" source="#IoT" target="#digitalhealth" weight="484" />
+      <edge id="137" source="#IoT" target="#WorkSecurely" weight="484" />
+      <edge id="138" source="#IoT" target="#tech" weight="484" />
+      <edge id="139" source="#IoT" target="#BYOD" weight="484" />
+      <edge id="140" source="#IoT" target="#DigitalHealth" weight="484" />
+      <edge id="141" source="#IoT" target="#mhealth" weight="1452" />
+      <edge id="142" source="#IoT" target="#InternetofThings" weight="1452" />
+      <edge id="143" source="#IoT" target="#wearables" weight="484" />
+      <edge id="144" source="#IoT" target="#eHealth" weight="484" />
+      <edge id="145" source="#InfoActivityReview" target="#HIPAA" weight="484" />
+      <edge id="146" source="#Genetics" target="#HIPAA" weight="484" />
+      <edge id="147" source="#encryption" target="#HIPAA" weight="484" />
+      <edge id="148" source="#healthapps" target="#HIPAA" weight="484" />
+      <edge id="149" source="#Workforce" target="#HIPAA" weight="484" />
+      <edge id="150" source="#Audits" target="#HIPAA" weight="484" />
+      <edge id="151" source="#biopri" target="#medtech" weight="484" />
+      <edge id="152" source="#biopri" target="#mhealth" weight="484" />
+      <edge id="153" source="#biopri" target="#telemedicine" weight="484" />
+      <edge id="154" source="#kuwait" target="#office" weight="484" />
+      <edge id="155" source="#kuwait" target="#medical" weight="484" />
+      <edge id="156" source="#kuwait" target="#technology" weight="968" />
+      <edge id="157" source="#kuwait" target="#new" weight="484" />
+      <edge id="158" source="#kuwait" target="#usa" weight="484" />
+      <edge id="159" source="#kuwait" target="#startup" weight="484" />
+      <edge id="160" source="#kuwait" target="#estimote" weight="484" />
+      <edge id="161" source="#LAtech" target="#SecuredMessaging" weight="484" />
+      <edge id="162" source="#LAtech" target="#techpr" weight="484" />
+      <edge id="163" source="#HHS" target="#HIPAA" weight="484" />
+      <edge id="164" source="#NTSB" target="#PILOTS" weight="484" />
+      <edge id="165" source="#NTSB" target="#rights" weight="484" />
+      <edge id="166" source="#NTSB" target="#HIPAA" weight="484" />
+      <edge id="167" source="#NTSB" target="#FAA" weight="484" />
+      <edge id="168" source="#NTSB" target="#DOT" weight="484" />
+      <edge id="169" source="#NTSB" target="#HIMS" weight="484" />
+      <edge id="170" source="#NTSB" target="#avgeek" weight="484" />
+      <edge id="171" source="#NTSB" target="#aviationnation" weight="484" />
+      <edge id="172" source="#NTSB" target="#aviation" weight="484" />
+      <edge id="173" source="#medicalscience" target="#live" weight="484" />
+      <edge id="174" source="#medicalscience" target="#science" weight="484" />
+      <edge id="175" source="#medicalscience" target="#drug" weight="484" />
+      <edge id="176" source="#medicalscience" target="#Antiaging" weight="484" />
+      <edge id="177" source="#Mobile" target="#HIPAA" weight="484" />
+      <edge id="178" source="#Mobile" target="#WorkSecurely" weight="484" />
+      <edge id="179" source="#webinar" target="#HIPAA" weight="484" />
+      <edge id="180" source="#PHI" target="#Privacy" weight="484" />
+      <edge id="181" source="#PHI" target="#TigerText" weight="968" />
+      <edge id="182" source="#PHI" target="#HIPAA" weight="1452" />
+      <edge id="183" source="#PHI" target="#ransomware" weight="484" />
+      <edge id="184" source="#PHI" target="#HIPPA" weight="484" />
+      <edge id="185" source="#PHI" target="#PII" weight="484" />
+      <edge id="186" source="#PHI" target="#WorkSecurely" weight="484" />
+      <edge id="187" source="#PHI" target="#Amerigroup" weight="484" />
+      <edge id="188" source="#PHI" target="#messaging" weight="484" />
+      <edge id="189" source="#PHI" target="#breach" weight="484" />
+      <edge id="190" source="#trends" target="#technology" weight="484" />
+      <edge id="191" source="#live" target="#science" weight="484" />
+      <edge id="192" source="#live" target="#drug" weight="484" />
+      <edge id="193" source="#live" target="#Antiaging" weight="484" />
+      <edge id="194" source="#ewaste" target="#security" weight="484" />
+      <edge id="195" source="#ewaste" target="#AssetDisposal" weight="484" />
+      <edge id="196" source="#ewaste" target="#cybersecurity" weight="484" />
+      <edge id="197" source="#aviation" target="#PILOTS" weight="484" />
+      <edge id="198" source="#aviation" target="#avgeek" weight="484" />
+      <edge id="199" source="#aviation" target="#HIPAA" weight="484" />
+      <edge id="200" source="#aviation" target="#FAA" weight="484" />
+      <edge id="201" source="#aviation" target="#DOT" weight="484" />
+      <edge id="202" source="#aviation" target="#HIMS" weight="484" />
+      <edge id="203" source="#aviation" target="#aviationnation" weight="484" />
+      <edge id="204" source="#aviation" target="#rights" weight="484" />
+      <edge id="205" source="#drug" target="#science" weight="484" />
+      <edge id="206" source="#drug" target="#Antiaging" weight="484" />
+      <edge id="207" source="#WEBINAR" target="#Messaging" weight="484" />
+      <edge id="208" source="#Antiaging" target="#science" weight="484" />
+      <edge id="209" source="#mhealth" target="#healthbehavior" weight="484" />
+      <edge id="210" source="#mhealth" target="#data" weight="484" />
+      <edge id="211" source="#mhealth" target="#infographic" weight="484" />
+      <edge id="212" source="#mhealth" target="#hitsm" weight="968" />
+      <edge id="213" source="#mhealth" target="#tech" weight="484" />
+      <edge id="214" source="#mhealth" target="#digitalhealth" weight="2420" />
+      <edge id="215" source="#mhealth" target="#telemedicine" weight="484" />
+      <edge id="216" source="#mhealth" target="#medtech" weight="484" />
+      <edge id="217" source="#mhealth" target="#health" weight="484" />
+      <edge id="218" source="#mhealth" target="#wearables" weight="484" />
+      <edge id="219" source="#mhealth" target="#hcsm" weight="968" />
+      <edge id="220" source="#mhealth" target="#SittingIsKillingYou" weight="484" />
+      <edge id="221" source="#mhealth" target="#HIPAA" weight="968" />
+      <edge id="222" source="#mhealth" target="#ux" weight="484" />
+      <edge id="223" source="#mhealth" target="#DigitalHealth" weight="484" />
+      <edge id="224" source="#mhealth" target="#HIMSS16" weight="484" />
+      <edge id="225" source="#seniors" target="#caregivers" weight="484" />
+      <edge id="226" source="#medtech" target="#telemedicine" weight="484" />
+      <edge id="227" source="#wearables" target="#technology" weight="484" />
+      <edge id="228" source="#wearables" target="#medical" weight="484" />
+      <edge id="229" source="#wearables" target="#tech" weight="484" />
+      <edge id="230" source="#wearables" target="#digitalhealth" weight="484" />
+      <edge id="231" source="#bribery" target="#compliance" weight="484" />
+      <edge id="232" source="#designtechnology" target="#medicaltechnology" weight="484" />
+      <edge id="233" source="#HealthIT" target="#HIMSS16" weight="484" />
+      <edge id="234" source="#HITECH" target="#cloud" weight="484" />
+      <edge id="235" source="#HITECH" target="#compliance" weight="484" />
+      <edge id="236" source="#HITECH" target="#healthcare" weight="484" />
+      <edge id="237" source="#HITECH" target="#HIPAA" weight="484" />
+      <edge id="238" source="#FDA" target="#HIPAA" weight="484" />
+      <edge id="239" source="#privacy" target="#HIPAA" weight="968" />
+      <edge id="240" source="#privacy" target="#tech" weight="484" />
+      <edge id="241" source="#privacy" target="#security" weight="484" />
+      <edge id="242" source="#privacy" target="#data" weight="484" />
+      <edge id="243" source="#avgeek" target="#FAA" weight="484" />
+      <edge id="244" source="#avgeek" target="#rights" weight="484" />
+      <edge id="245" source="#avgeek" target="#HIPAA" weight="484" />
+      <edge id="246" source="#avgeek" target="#PILOTS" weight="484" />
+      <edge id="247" source="#avgeek" target="#DOT" weight="484" />
+      <edge id="248" source="#avgeek" target="#HIMS" weight="484" />
+      <edge id="249" source="#avgeek" target="#aviationnation" weight="484" />
+      <edge id="250" source="#SecuredMessaging" target="#techpr" weight="484" />
+      <edge id="251" source="#PII" target="#Privacy" weight="484" />
+      <edge id="252" source="#PII" target="#HIPAA" weight="484" />
+      <edge id="253" source="#PII" target="#ransomware" weight="484" />
+      <edge id="254" source="#PII" target="#breach" weight="484" />
+      <edge id="255" source="#Wearables" target="#mHealth" weight="484" />
+      <edge id="256" source="#IT" target="#healthcare" weight="484" />
+      <edge id="257" source="#IT" target="#HIPAA" weight="968" />
+      <edge id="258" source="#hcitexpert" target="#HITSMIND" weight="484" />
+      <edge id="259" source="#TigerConnect" target="#InternetofThings" weight="484" />
+      <edge id="260" source="#TigerConnect" target="#BYOD" weight="484" />
+      <edge id="261" source="#TigerConnect" target="#HIPAA" weight="484" />
+      <edge id="262" source="#TigerConnect" target="#WorkSecurely" weight="484" />
+      <edge id="263" source="#VC" target="#DigitalHealth" weight="484" />
+      <edge id="264" source="#VC" target="#mHealth" weight="484" />
+      <edge id="265" source="#mobile" target="#mobilehealth" weight="484" />
+      <edge id="266" source="#mobile" target="#HIMSS16" weight="484" />
+      <edge id="267" source="#mobile" target="#mHealth" weight="484" />
+      <edge id="268" source="#mobile" target="#HIPAA" weight="484" />
+      <edge id="269" source="#HIMS15" target="#TigerText" weight="484" />
+      <edge id="270" source="#Privacy" target="#healthIT" weight="484" />
+      <edge id="271" source="#Privacy" target="#HIPAA" weight="1452" />
+      <edge id="272" source="#Privacy" target="#ransomware" weight="484" />
+      <edge id="273" source="#Privacy" target="#security" weight="484" />
+      <edge id="274" source="#Privacy" target="#mHealth" weight="484" />
+      <edge id="275" source="#Privacy" target="#Security" weight="484" />
+      <edge id="276" source="#Privacy" target="#breach" weight="484" />
+      <edge id="277" source="#technology" target="#office" weight="968" />
+      <edge id="278" source="#technology" target="#usa" weight="968" />
+      <edge id="279" source="#technology" target="#technology" weight="968" />
+      <edge id="280" source="#technology" target="#new" weight="968" />
+      <edge id="281" source="#technology" target="#medical" weight="1452" />
+      <edge id="282" source="#technology" target="#startup" weight="968" />
+      <edge id="283" source="#technology" target="#digitalhealth" weight="484" />
+      <edge id="284" source="#technology" target="#estimote" weight="968" />
+      <edge id="285" source="#Messaging" target="#InfoGraphic" weight="484" />
+      <edge id="286" source="#Messaging" target="#HIPAA" weight="484" />
+      <edge id="287" source="#mHealth" target="#hospitals" weight="484" />
+      <edge id="288" source="#mHealth" target="#Hacking" weight="484" />
+      <edge id="289" source="#mHealth" target="#EMRs" weight="484" />
+      <edge id="290" source="#mHealth" target="#digitalhealth" weight="2420" />
+      <edge id="291" source="#mHealth" target="#telemedicine" weight="484" />
+      <edge id="292" source="#mHealth" target="#BigData" weight="968" />
+      <edge id="293" source="#mHealth" target="#eHealth" weight="1452" />
+      <edge id="294" source="#mHealth" target="#Infographic" weight="484" />
+      <edge id="295" source="#mHealth" target="#ict4d" weight="484" />
+      <edge id="296" source="#mHealth" target="#Hospitals" weight="484" />
+      <edge id="297" source="#mHealth" target="#healthcare" weight="484" />
+      <edge id="298" source="#mHealth" target="#Telemedicine" weight="484" />
+      <edge id="299" source="#mHealth" target="#messaging" weight="968" />
+      <edge id="300" source="#mHealth" target="#HIPAA" weight="2904" />
+      <edge id="301" source="#mHealth" target="#EHR" weight="484" />
+      <edge id="302" source="#mHealth" target="#DigitalHealth" weight="2420" />
+      <edge id="303" source="#mHealth" target="#InternetofThings" weight="484" />
+      <edge id="304" source="#mHealth" target="#mentalhealth" weight="484" />
+      <edge id="305" source="#mHealth" target="#HIMSS16" weight="1452" />
+      <edge id="306" source="#mHealth" target="#patientengagement" weight="484" />
+      <edge id="307" source="#HIMS" target="#FAA" weight="484" />
+      <edge id="308" source="#HIMS" target="#rights" weight="484" />
+      <edge id="309" source="#HIMS" target="#HIPAA" weight="484" />
+      <edge id="310" source="#HIMS" target="#PILOTS" weight="484" />
+      <edge id="311" source="#HIMS" target="#DOT" weight="484" />
+      <edge id="312" source="#HIMS" target="#aviationnation" weight="484" />
+      <edge id="313" source="#usa" target="#office" weight="484" />
+      <edge id="314" source="#usa" target="#new" weight="484" />
+      <edge id="315" source="#usa" target="#medical" weight="484" />
+      <edge id="316" source="#usa" target="#startup" weight="484" />
+      <edge id="317" source="#usa" target="#estimote" weight="484" />
+      <edge id="318" source="#WearableTech" target="#DigitalHealth" weight="484" />
+      <edge id="319" source="#data" target="#HIPAA" weight="484" />
+      <edge id="320" source="#data" target="#health" weight="484" />
+      <edge id="321" source="#data" target="#ux" weight="484" />
+      <edge id="322" source="#data" target="#tech" weight="484" />
+      <edge id="323" source="#data" target="#security" weight="484" />
+      <edge id="324" source="#breach" target="#HIPAA" weight="484" />
+      <edge id="325" source="#breach" target="#ransomware" weight="484" />
+      <edge id="326" source="#FAA" target="#PILOTS" weight="484" />
+      <edge id="327" source="#FAA" target="#HIPAA" weight="484" />
+      <edge id="328" source="#FAA" target="#DOT" weight="484" />
+      <edge id="329" source="#FAA" target="#aviationnation" weight="484" />
+      <edge id="330" source="#FAA" target="#rights" weight="484" />
+      <edge id="331" source="#new" target="#office" weight="484" />
+      <edge id="332" source="#new" target="#medical" weight="484" />
+      <edge id="333" source="#new" target="#startup" weight="484" />
+      <edge id="334" source="#new" target="#estimote" weight="484" />
+      <edge id="335" source="#DataBreach" target="#HIPAA" weight="484" />
+      <edge id="336" source="#healthIT" target="#HIPAA" weight="484" />
+      <edge id="337" source="#healthIT" target="#hitsm" weight="484" />
+      <edge id="338" source="#healthIT" target="#security" weight="484" />
+      <edge id="339" source="#healthIT" target="#eHealth" weight="484" />
+      <edge id="340" source="#Hacking" target="#EHR" weight="484" />
+      <edge id="341" source="#desserts" target="#TryThis" weight="484" />
+      <edge id="342" source="#DOT" target="#rights" weight="484" />
+      <edge id="343" source="#DOT" target="#HIPAA" weight="484" />
+      <edge id="344" source="#DOT" target="#PILOTS" weight="484" />
+      <edge id="345" source="#DOT" target="#aviationnation" weight="484" />
+      <edge id="346" source="#digitalhealth" target="#HIPAA" weight="968" />
+      <edge id="347" source="#digitalhealth" target="#medical" weight="484" />
+      <edge id="348" source="#digitalhealth" target="#hcsm" weight="484" />
+      <edge id="349" source="#telemedicine" target="#healthcare" weight="484" />
+      <edge id="350" source="#telemedicine" target="#HIMSS16" weight="484" />
+      <edge id="351" source="#compliance" target="#HIPAA" weight="484" />
+      <edge id="352" source="#compliance" target="#healthcare" weight="484" />
+      <edge id="353" source="#compliance" target="#cloud" weight="484" />
+      <edge id="354" source="#rights" target="#HIPAA" weight="484" />
+      <edge id="355" source="#rights" target="#PILOTS" weight="484" />
+      <edge id="356" source="#rights" target="#aviationnation" weight="484" />
+      <edge id="357" source="#BYOW" target="#BYOD" weight="484" />
+      <edge id="358" source="#BigData" target="#moonshot" weight="484" />
+      <edge id="359" source="#BigData" target="#eHealth" weight="484" />
+      <edge id="360" source="#BigData" target="#DigitalHealth" weight="968" />
+      <edge id="361" source="#doctors20" target="#Multiplesclerosis" weight="484" />
+      <edge id="362" source="#health" target="#wellness" weight="484" />
+      <edge id="363" source="#health" target="#ux" weight="484" />
+      <edge id="364" source="#health" target="#Discover" weight="484" />
+      <edge id="365" source="#WorkSecurely" target="#TigerText" weight="968" />
+      <edge id="366" source="#WorkSecurely" target="#HIPAA" weight="3872" />
+      <edge id="367" source="#WorkSecurely" target="#BYOD" weight="484" />
+      <edge id="368" source="#hcsm" target="#hitsm" weight="484" />
+      <edge id="369" source="#mobilehealth" target="#patientengagement" weight="484" />
+      <edge id="370" source="#messaging" target="#TigerText" weight="1452" />
+      <edge id="371" source="#messaging" target="#HIPAA" weight="1936" />
+      <edge id="372" source="#messaging" target="#HIPPA" weight="484" />
+      <edge id="373" source="#messaging" target="#Amerigroup" weight="484" />
+      <edge id="374" source="#BYOD" target="#HIPAA" weight="484" />
+      <edge id="375" source="#cybersecurity" target="#AssetDisposal" weight="484" />
+      <edge id="376" source="#cybersecurity" target="#HIPAA" weight="484" />
+      <edge id="377" source="#cybersecurity" target="#hitsm" weight="484" />
+      <edge id="378" source="#cybersecurity" target="#CentricityLIVE" weight="484" />
+      <edge id="379" source="#cybersecurity" target="#security" weight="484" />
+      <edge id="380" source="#cybersecurity" target="#healthcare" weight="484" />
+      <edge id="381" source="#healthcareit" target="#healthcare" weight="1452" />
+      <edge id="382" source="#Interoperability" target="#meaningfuluse" weight="484" />
+      <edge id="383" source="#Amerigroup" target="#HIPPA" weight="484" />
+      <edge id="384" source="#Amerigroup" target="#TigerText" weight="484" />
+      <edge id="385" source="#tech" target="#HIPAA" weight="484" />
+      <edge id="386" source="#tech" target="#startup" weight="484" />
+      <edge id="387" source="#hcldr" target="#HITSMIND" weight="484" />
+      <edge id="388" source="#TXFM" target="#HIPAA" weight="484" />
+      <edge id="389" source="#HIMSS16" target="#HIPAA" weight="484" />
+      <edge id="390" source="#HIMSS16" target="#healthcare" weight="484" />
+      <edge id="391" source="#HIMSS15" target="#patientaccess" weight="484" />
+      <edge id="392" source="#office" target="#medical" weight="484" />
+      <edge id="393" source="#office" target="#startup" weight="484" />
+      <edge id="394" source="#office" target="#estimote" weight="484" />
+      <edge id="395" source="#PILOTS" target="#HIPAA" weight="484" />
+      <edge id="396" source="#PILOTS" target="#aviationnation" weight="484" />
+      <edge id="397" source="#tigertext" target="#HIPAA" weight="484" />
+      <edge id="398" source="#Security" target="#Solutions" weight="484" />
+      <edge id="399" source="#Security" target="#HIPAA" weight="1936" />
+      <edge id="400" source="#infographic" target="#SittingIsKillingYou" weight="484" />
+      <edge id="401" source="#healthit" target="#HIPAA" weight="484" />
+      <edge id="402" source="#hitsm" target="#HIPAA" weight="484" />
+      <edge id="403" source="#hitsm" target="#CentricityLIVE" weight="484" />
+      <edge id="404" source="#hitsm" target="#healthcare" weight="484" />
+      <edge id="405" source="#EMRs" target="#HIPAA" weight="484" />
+      <edge id="406" source="#EMRs" target="#patientengagement" weight="484" />
+      <edge id="407" source="#CentricityLIVE" target="#HIPAA" weight="484" />
+      <edge id="408" source="#CentricityLIVE" target="#healthcare" weight="484" />
+      <edge id="409" source="#InfoSec" target="#security" weight="484" />
+      <edge id="410" source="#aviationnation" target="#HIPAA" weight="484" />
+      <edge id="411" source="#HITSMIND" target="#Telehealth" weight="484" />
+      <edge id="412" source="#HITSMIND" target="#Telemedicine" weight="484" />
+      <edge id="413" source="#eHealth" target="#DigitalHealth" weight="968" />
+      <edge id="414" source="#DigitalHealth" target="#mentalhealth" weight="484" />
+      <edge id="415" source="#Infographic" target="#HIPAA" weight="484" />
+      <edge id="416" source="#TigerText" target="#HIPAA" weight="484" />
+      <edge id="417" source="#TigerText" target="#HIPPA" weight="484" />
+      <edge id="418" source="#OCR" target="#EHR" weight="484" />
+      <edge id="419" source="#OCR" target="#HIPAA" weight="968" />
+      <edge id="420" source="#AssetDisposal" target="#security" weight="484" />
+      <edge id="421" source="#HIPPA" target="#Telehealth" weight="484" />
+      <edge id="422" source="#Telehealth" target="#Telemedicine" weight="484" />
+      <edge id="423" source="#Solutions" target="#HIPAA" weight="484" />
+      <edge id="424" source="#startup" target="#medical" weight="484" />
+      <edge id="425" source="#startup" target="#estimote" weight="484" />
+      <edge id="426" source="#healthcare" target="#HIPAA" weight="2420" />
+      <edge id="427" source="#healthcare" target="#cloud" weight="484" />
+      <edge id="428" source="#Telemedicine" target="#HIPAA" weight="484" />
+      <edge id="429" source="#Telemedicine" target="#security" weight="484" />
+      <edge id="430" source="#InfoGraphic" target="#HIPAA" weight="484" />
+      <edge id="431" source="#HIPAA" target="#ransomware" weight="484" />
+      <edge id="432" source="#HIPAA" target="#HIPAA" weight="968" />
+      <edge id="433" source="#HIPAA" target="#EHR" weight="484" />
+      <edge id="434" source="#HIPAA" target="#security" weight="1452" />
+      <edge id="435" source="#HIPAA" target="#cloud" weight="484" />
+      <edge id="436" source="#HIPAA" target="#patientengagement" weight="484" />
+      <edge id="437" source="#medical" target="#estimote" weight="484" />
+    </edges>
+  </graph>
+</gexf>

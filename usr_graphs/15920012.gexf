@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#sturgeon" label="#sturgeon" />
+      <node id="#Palmetto" label="#Palmetto" />
+      <node id="#archaeology" label="#archaeology" />
+      <node id="#Volusia" label="#Volusia" />
+      <node id="#Florida" label="#Florida" />
+      <node id="#copper" label="#copper" />
+      <node id="#shipwreck" label="#shipwreck" />
+      <node id="#jellyfish" label="#jellyfish" />
+      <node id="#foreclosure" label="#foreclosure" />
+      <node id="#hoax" label="#hoax" />
+      <node id="#daytona" label="#daytona" />
+      <node id="#NASCAR" label="#NASCAR" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#Daytona" label="#Daytona" />
+      <node id="#fish" label="#fish" />
+      <node id="#Hilton" label="#Hilton" />
+      <node id="#Pierson" label="#Pierson" />
+      <node id="#caviar" label="#caviar" />
+      <node id="#gunshop" label="#gunshop" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#sturgeon" target="#fish" weight="42" />
+      <edge id="1" source="#sturgeon" target="#caviar" weight="42" />
+      <edge id="2" source="#sturgeon" target="#Pierson" weight="42" />
+      <edge id="3" source="#sturgeon" target="#Florida" weight="42" />
+      <edge id="4" source="#Palmetto" target="#Florida" weight="42" />
+      <edge id="5" source="#archaeology" target="#shipwreck" weight="42" />
+      <edge id="6" source="#Volusia" target="#foreclosure" weight="42" />
+      <edge id="7" source="#Volusia" target="#Daytona" weight="42" />
+      <edge id="8" source="#Volusia" target="#copper" weight="42" />
+      <edge id="9" source="#Florida" target="#fish" weight="42" />
+      <edge id="10" source="#Florida" target="#Pierson" weight="42" />
+      <edge id="11" source="#Florida" target="#caviar" weight="42" />
+      <edge id="12" source="#copper" target="#Daytona" weight="42" />
+      <edge id="13" source="#jellyfish" target="#daytona" weight="42" />
+      <edge id="14" source="#hoax" target="#gunshop" weight="42" />
+      <edge id="15" source="#NASCAR" target="#Daytona" weight="42" />
+      <edge id="16" source="#realestate" target="#Daytona" weight="42" />
+      <edge id="17" source="#Daytona" target="#Hilton" weight="42" />
+      <edge id="18" source="#fish" target="#caviar" weight="42" />
+      <edge id="19" source="#fish" target="#Pierson" weight="42" />
+      <edge id="20" source="#Pierson" target="#caviar" weight="42" />
+    </edges>
+  </graph>
+</gexf>

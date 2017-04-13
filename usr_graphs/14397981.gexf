@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#RHOBH" label="#RHOBH" />
+      <node id="#houseofcards" label="#houseofcards" />
+      <node id="#beyonceandpressreleasesgowelltogether" label="#beyonceandpressreleasesgowelltogether" />
+      <node id="#SNL" label="#SNL" />
+      <node id="#CognitiveDress" label="#CognitiveDress" />
+      <node id="#flawless" label="#flawless" />
+      <node id="#MissyElliott" label="#MissyElliott" />
+      <node id="#childrenoflawyers" label="#childrenoflawyers" />
+      <node id="#Ti" label="#Ti" />
+      <node id="#Drake" label="#Drake" />
+      <node id="#Rihanna" label="#Rihanna" />
+      <node id="#NBC" label="#NBC" />
+      <node id="#random" label="#random" />
+      <node id="#WORK" label="#WORK" />
+      <node id="#TinaAndAmy" label="#TinaAndAmy" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#MetGala" label="#MetGala" />
+      <node id="#fdasm" label="#fdasm" />
+      <node id="#NBC4i" label="#NBC4i" />
+      <node id="#suspendingdisbelief" label="#suspendingdisbelief" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#superbowl" target="#childrenoflawyers" weight="308" />
+      <edge id="1" source="#RHOBH" target="#random" weight="308" />
+      <edge id="2" source="#houseofcards" target="#suspendingdisbelief" weight="308" />
+      <edge id="3" source="#beyonceandpressreleasesgowelltogether" target="#flawless" weight="308" />
+      <edge id="4" source="#SNL" target="#TinaAndAmy" weight="308" />
+      <edge id="5" source="#CognitiveDress" target="#MetGala" weight="308" />
+      <edge id="6" source="#MissyElliott" target="#Ti" weight="308" />
+      <edge id="7" source="#Drake" target="#WORK" weight="308" />
+      <edge id="8" source="#Drake" target="#Rihanna" weight="308" />
+      <edge id="9" source="#Rihanna" target="#WORK" weight="308" />
+      <edge id="10" source="#NBC" target="#NBC4i" weight="308" />
+      <edge id="11" source="#innovation" target="#fdasm" weight="308" />
+    </edges>
+  </graph>
+</gexf>

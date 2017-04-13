@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Beyonce" label="#Beyonce" />
+      <node id="#ballerstatus" label="#ballerstatus" />
+      <node id="#Lemonade" label="#Lemonade" />
+      <node id="#whollyhealthy" label="#whollyhealthy" />
+      <node id="#newbeginnings" label="#newbeginnings" />
+      <node id="#CapCityHalf" label="#CapCityHalf" />
+      <node id="#withdrawal" label="#withdrawal" />
+      <node id="#bffs" label="#bffs" />
+      <node id="#Crew96" label="#Crew96" />
+      <node id="#workingmom" label="#workingmom" />
+      <node id="#swish" label="#swish" />
+      <node id="#beachbound" label="#beachbound" />
+      <node id="#moms" label="#moms" />
+      <node id="#m3s" label="#m3s" />
+      <node id="#emeraldcitymarathon" label="#emeraldcitymarathon" />
+      <node id="#WhollyHealthy" label="#WhollyHealthy" />
+      <node id="#capcitystars" label="#capcitystars" />
+      <node id="#MomsDaily" label="#MomsDaily" />
+      <node id="#ohioheath" label="#ohioheath" />
+      <node id="#cousins" label="#cousins" />
+      <node id="#FirstonFirst" label="#FirstonFirst" />
+      <node id="#awesomemoms" label="#awesomemoms" />
+      <node id="#ballers" label="#ballers" />
+      <node id="#beachbum" label="#beachbum" />
+      <node id="#ofaccolumbus" label="#ofaccolumbus" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#runchat" label="#runchat" />
+      <node id="#hoofit" label="#hoofit" />
+      <node id="#roadtrip" label="#roadtrip" />
+      <node id="#earlymornings" label="#earlymornings" />
+      <node id="#familytraditions" label="#familytraditions" />
+      <node id="#pumpkinshowweek" label="#pumpkinshowweek" />
+      <node id="#capcityhalf" label="#capcityhalf" />
+      <node id="#highschool" label="#highschool" />
+      <node id="#crew96" label="#crew96" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Beyonce" target="#Lemonade" weight="257" />
+      <edge id="1" source="#ballerstatus" target="#swish" weight="257" />
+      <edge id="2" source="#whollyhealthy" target="#lifeincbus" weight="257" />
+      <edge id="3" source="#whollyhealthy" target="#crew96" weight="257" />
+      <edge id="4" source="#whollyhealthy" target="#capcityhalf" weight="257" />
+      <edge id="5" source="#newbeginnings" target="#highschool" weight="257" />
+      <edge id="6" source="#CapCityHalf" target="#runchat" weight="257" />
+      <edge id="7" source="#CapCityHalf" target="#FirstonFirst" weight="257" />
+      <edge id="8" source="#withdrawal" target="#beachbum" weight="257" />
+      <edge id="9" source="#bffs" target="#ballers" weight="257" />
+      <edge id="10" source="#Crew96" target="#WhollyHealthy" weight="257" />
+      <edge id="11" source="#workingmom" target="#MomsDaily" weight="257" />
+      <edge id="12" source="#workingmom" target="#moms" weight="257" />
+      <edge id="13" source="#beachbound" target="#roadtrip" weight="257" />
+      <edge id="14" source="#moms" target="#MomsDaily" weight="257" />
+      <edge id="15" source="#m3s" target="#emeraldcitymarathon" weight="257" />
+      <edge id="16" source="#WhollyHealthy" target="#crew96" weight="257" />
+      <edge id="17" source="#capcitystars" target="#ballers" weight="257" />
+      <edge id="18" source="#ohioheath" target="#ofaccolumbus" weight="257" />
+      <edge id="19" source="#ohioheath" target="#hoofit" weight="257" />
+      <edge id="20" source="#cousins" target="#familytraditions" weight="257" />
+      <edge id="21" source="#awesomemoms" target="#pumpkinshowweek" weight="257" />
+      <edge id="22" source="#ofaccolumbus" target="#hoofit" weight="514" />
+      <edge id="23" source="#lifeincbus" target="#capcityhalf" weight="257" />
+      <edge id="24" source="#earlymornings" target="#highschool" weight="257" />
+    </edges>
+  </graph>
+</gexf>

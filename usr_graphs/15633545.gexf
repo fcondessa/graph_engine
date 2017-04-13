@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Tradition" label="#Tradition" />
+      <node id="#butseriouslyhappybirthday" label="#butseriouslyhappybirthday" />
+      <node id="#pmot" label="#pmot" />
+      <node id="#FromTheField" label="#FromTheField" />
+      <node id="#webpm" label="#webpm" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#Luddite" label="#Luddite" />
+      <node id="#fb" label="#fb" />
+      <node id="#GoEagles" label="#GoEagles" />
+      <node id="#webfiend" label="#webfiend" />
+      <node id="#iHatePurple" label="#iHatePurple" />
+      <node id="#highSchoolFootball" label="#highSchoolFootball" />
+      <node id="#birthdayslam" label="#birthdayslam" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Tradition" target="#iHatePurple" weight="935" />
+      <edge id="1" source="#Tradition" target="#highSchoolFootball" weight="935" />
+      <edge id="2" source="#Tradition" target="#fb" weight="935" />
+      <edge id="3" source="#Tradition" target="#GoEagles" weight="935" />
+      <edge id="4" source="#butseriouslyhappybirthday" target="#birthdayslam" weight="935" />
+      <edge id="5" source="#pmot" target="#webpm" weight="935" />
+      <edge id="6" source="#FromTheField" target="#marketing" weight="935" />
+      <edge id="7" source="#Luddite" target="#webfiend" weight="935" />
+      <edge id="8" source="#fb" target="#iHatePurple" weight="935" />
+      <edge id="9" source="#fb" target="#highSchoolFootball" weight="935" />
+      <edge id="10" source="#fb" target="#GoEagles" weight="935" />
+      <edge id="11" source="#GoEagles" target="#highSchoolFootball" weight="935" />
+      <edge id="12" source="#GoEagles" target="#iHatePurple" weight="935" />
+      <edge id="13" source="#iHatePurple" target="#highSchoolFootball" weight="935" />
+    </edges>
+  </graph>
+</gexf>

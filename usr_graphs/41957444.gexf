@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#innovationcenter" label="#innovationcenter" />
+      <node id="#People" label="#People" />
+      <node id="#OrangeRoom" label="#OrangeRoom" />
+      <node id="#50Faves" label="#50Faves" />
+      <node id="#EWSOM" label="#EWSOM" />
+      <node id="#newyear" label="#newyear" />
+      <node id="#smpsbb15" label="#smpsbb15" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#generations" label="#generations" />
+      <node id="#puppyparty" label="#puppyparty" />
+      <node id="#smithbrothersbuilding" label="#smithbrothersbuilding" />
+      <node id="#theforge" label="#theforge" />
+      <node id="#bikes" label="#bikes" />
+      <node id="#baggage" label="#baggage" />
+      <node id="#Product" label="#Product" />
+      <node id="#AIA" label="#AIA" />
+      <node id="#TheSoundOfMusicLive" label="#TheSoundOfMusicLive" />
+      <node id="#membersonly" label="#membersonly" />
+      <node id="#smpscolumbus" label="#smpscolumbus" />
+      <node id="#architects" label="#architects" />
+      <node id="#motoristsinsurance" label="#motoristsinsurance" />
+      <node id="#Silas" label="#Silas" />
+      <node id="#winnerwinner" label="#winnerwinner" />
+      <node id="#schillerpark" label="#schillerpark" />
+      <node id="#Process" label="#Process" />
+      <node id="#workplace" label="#workplace" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#innovationcenter" target="#motoristsinsurance" weight="303" />
+      <edge id="1" source="#People" target="#Product" weight="303" />
+      <edge id="2" source="#People" target="#Process" weight="303" />
+      <edge id="3" source="#OrangeRoom" target="#puppyparty" weight="303" />
+      <edge id="4" source="#OrangeRoom" target="#Silas" weight="303" />
+      <edge id="5" source="#50Faves" target="#50Faves" weight="606" />
+      <edge id="6" source="#EWSOM" target="#TheSoundOfMusicLive" weight="303" />
+      <edge id="7" source="#newyear" target="#baggage" weight="303" />
+      <edge id="8" source="#smpsbb15" target="#winnerwinner" weight="303" />
+      <edge id="9" source="#webinar" target="#membersonly" weight="303" />
+      <edge id="10" source="#generations" target="#workplace" weight="303" />
+      <edge id="11" source="#puppyparty" target="#Silas" weight="303" />
+      <edge id="12" source="#smithbrothersbuilding" target="#theforge" weight="303" />
+      <edge id="13" source="#bikes" target="#schillerpark" weight="303" />
+      <edge id="14" source="#Product" target="#Process" weight="303" />
+      <edge id="15" source="#AIA" target="#architects" weight="303" />
+      <edge id="16" source="#smpscolumbus" target="#smpscolumbus" weight="606" />
+    </edges>
+  </graph>
+</gexf>

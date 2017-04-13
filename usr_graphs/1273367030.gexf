@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#youngtreps" label="#youngtreps" />
+      <node id="#TCDisrupt" label="#TCDisrupt" />
+      <node id="#GalaxyNote10" label="#GalaxyNote10" />
+      <node id="#technews" label="#technews" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#kickstarter" label="#kickstarter" />
+      <node id="#SavetheChargers" label="#SavetheChargers" />
+      <node id="#QuoteOfTheDay" label="#QuoteOfTheDay" />
+      <node id="#grinding" label="#grinding" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Youngtreps" label="#Youngtreps" />
+      <node id="#CES" label="#CES" />
+      <node id="#startupbattlefield" label="#startupbattlefield" />
+      <node id="#Vegas" label="#Vegas" />
+      <node id="#Kickstarter" label="#Kickstarter" />
+      <node id="#MakingMoves" label="#MakingMoves" />
+      <node id="#MadeInAmerica" label="#MadeInAmerica" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#alldayeveryday" label="#alldayeveryday" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#FaceOfMLB" label="#FaceOfMLB" />
+      <node id="#bbcmafia" label="#bbcmafia" />
+      <node id="#CES2015" label="#CES2015" />
+      <node id="#DesignedInAmerica" label="#DesignedInAmerica" />
+      <node id="#twitternoob" label="#twitternoob" />
+      <node id="#deathtostock" label="#deathtostock" />
+      <node id="#startuplife" label="#startuplife" />
+      <node id="#DTLV" label="#DTLV" />
+      <node id="#OSUinnovates" label="#OSUinnovates" />
+      <node id="#teamworkFTW" label="#teamworkFTW" />
+      <node id="#success" label="#success" />
+      <node id="#startup" label="#startup" />
+      <node id="#sundayfunday" label="#sundayfunday" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#youngtrep" label="#youngtrep" />
+      <node id="#officeanimals" label="#officeanimals" />
+      <node id="#road2ces" label="#road2ces" />
+      <node id="#prototypes" label="#prototypes" />
+      <node id="#firstclass" label="#firstclass" />
+      <node id="#chemistry" label="#chemistry" />
+      <node id="#31k" label="#31k" />
+      <node id="#boatlife" label="#boatlife" />
+      <node id="#tech" label="#tech" />
+      <node id="#neckrollpillow" label="#neckrollpillow" />
+      <node id="#startups" label="#startups" />
+      <node id="#ToddFrazier" label="#ToddFrazier" />
+      <node id="#obsessed" label="#obsessed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#nofilter" target="#prototypes" weight="119" />
+      <edge id="1" source="#youngtreps" target="#startup" weight="119" />
+      <edge id="2" source="#TCDisrupt" target="#startupbattlefield" weight="119" />
+      <edge id="3" source="#GalaxyNote10" target="#obsessed" weight="119" />
+      <edge id="4" source="#technews" target="#CES2015" weight="119" />
+      <edge id="5" source="#asseenincolumbus" target="#crowdfunding" weight="119" />
+      <edge id="6" source="#asseenincolumbus" target="#startup" weight="119" />
+      <edge id="7" source="#asseenincolumbus" target="#Kickstarter" weight="119" />
+      <edge id="8" source="#kickstarter" target="#grinding" weight="119" />
+      <edge id="9" source="#kickstarter" target="#startup" weight="238" />
+      <edge id="10" source="#kickstarter" target="#Columbus" weight="119" />
+      <edge id="11" source="#SavetheChargers" target="#CES2015" weight="119" />
+      <edge id="12" source="#SavetheChargers" target="#startup" weight="119" />
+      <edge id="13" source="#QuoteOfTheDay" target="#deathtostock" weight="119" />
+      <edge id="14" source="#grinding" target="#startup" weight="119" />
+      <edge id="15" source="#Ohio" target="#MadeInAmerica" weight="119" />
+      <edge id="16" source="#Ohio" target="#DesignedInAmerica" weight="119" />
+      <edge id="17" source="#Youngtreps" target="#startup" weight="119" />
+      <edge id="18" source="#CES" target="#CES2015" weight="238" />
+      <edge id="19" source="#Vegas" target="#CES2015" weight="119" />
+      <edge id="20" source="#Vegas" target="#DTLV" weight="119" />
+      <edge id="21" source="#Vegas" target="#tech" weight="119" />
+      <edge id="22" source="#Kickstarter" target="#crowdfunding" weight="119" />
+      <edge id="23" source="#Kickstarter" target="#startup" weight="119" />
+      <edge id="24" source="#MakingMoves" target="#startup" weight="119" />
+      <edge id="25" source="#MadeInAmerica" target="#DesignedInAmerica" weight="119" />
+      <edge id="26" source="#crowdfunding" target="#startup" weight="476" />
+      <edge id="27" source="#crowdfunding" target="#twitternoob" weight="119" />
+      <edge id="28" source="#crowdfunding" target="#success" weight="119" />
+      <edge id="29" source="#crowdfunding" target="#31k" weight="119" />
+      <edge id="30" source="#crowdfunding" target="#columbus" weight="119" />
+      <edge id="31" source="#crowdfunding" target="#Columbus" weight="119" />
+      <edge id="32" source="#alldayeveryday" target="#startup" weight="119" />
+      <edge id="33" source="#columbus" target="#startup" weight="119" />
+      <edge id="34" source="#columbus" target="#success" weight="119" />
+      <edge id="35" source="#columbus" target="#31k" weight="119" />
+      <edge id="36" source="#FaceOfMLB" target="#ToddFrazier" weight="119" />
+      <edge id="37" source="#bbcmafia" target="#startups" weight="119" />
+      <edge id="38" source="#CES2015" target="#DTLV" weight="119" />
+      <edge id="39" source="#CES2015" target="#tech" weight="119" />
+      <edge id="40" source="#CES2015" target="#startup" weight="119" />
+      <edge id="41" source="#twitternoob" target="#youngtrep" weight="119" />
+      <edge id="42" source="#startuplife" target="#officeanimals" weight="119" />
+      <edge id="43" source="#startuplife" target="#teamworkFTW" weight="119" />
+      <edge id="44" source="#startuplife" target="#Columbus" weight="119" />
+      <edge id="45" source="#DTLV" target="#tech" weight="119" />
+      <edge id="46" source="#OSUinnovates" target="#chemistry" weight="119" />
+      <edge id="47" source="#success" target="#31k" weight="119" />
+      <edge id="48" source="#success" target="#startup" weight="119" />
+      <edge id="49" source="#startup" target="#31k" weight="119" />
+      <edge id="50" source="#startup" target="#youngtrep" weight="119" />
+      <edge id="51" source="#startup" target="#Columbus" weight="238" />
+      <edge id="52" source="#sundayfunday" target="#boatlife" weight="119" />
+      <edge id="53" source="#road2ces" target="#neckrollpillow" weight="119" />
+      <edge id="54" source="#road2ces" target="#firstclass" weight="119" />
+      <edge id="55" source="#firstclass" target="#neckrollpillow" weight="119" />
+    </edges>
+  </graph>
+</gexf>

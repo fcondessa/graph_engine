@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ohed" label="#ohed" />
+      <node id="#ohioed" label="#ohioed" />
+      <node id="#edleadchat" label="#edleadchat" />
+      <node id="#BeNice" label="#BeNice" />
+      <node id="#ieta14" label="#ieta14" />
+      <node id="#ohedchat" label="#ohedchat" />
+      <node id="#Neuroplasticity" label="#Neuroplasticity" />
+      <node id="#edchat" label="#edchat" />
+      <node id="#elearning" label="#elearning" />
+      <node id="#momslegacy" label="#momslegacy" />
+      <node id="#HB410" label="#HB410" />
+      <node id="#specialed" label="#specialed" />
+      <node id="#cpchat" label="#cpchat" />
+      <node id="#mom" label="#mom" />
+      <node id="#education" label="#education" />
+      <node id="#losingmom" label="#losingmom" />
+      <node id="#growthmindset" label="#growthmindset" />
+      <node id="#suptchat" label="#suptchat" />
+      <node id="#rememberthegood" label="#rememberthegood" />
+      <node id="#edleadership" label="#edleadership" />
+      <node id="#specialedchat" label="#specialedchat" />
+      <node id="#newassessments" label="#newassessments" />
+      <node id="#learning" label="#learning" />
+      <node id="#afterschool" label="#afterschool" />
+      <node id="#edtechchat" label="#edtechchat" />
+      <node id="#truancy" label="#truancy" />
+      <node id="#edu" label="#edu" />
+      <node id="#edtech" label="#edtech" />
+      <node id="#cancersucks" label="#cancersucks" />
+      <node id="#TEDEd" label="#TEDEd" />
+      <node id="#specialeducation" label="#specialeducation" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ohed" target="#HB410" weight="70" />
+      <edge id="1" source="#ohed" target="#truancy" weight="70" />
+      <edge id="2" source="#ohioed" target="#newassessments" weight="70" />
+      <edge id="3" source="#ohioed" target="#edleadership" weight="70" />
+      <edge id="4" source="#edleadchat" target="#elearning" weight="70" />
+      <edge id="5" source="#edleadchat" target="#edtechchat" weight="70" />
+      <edge id="6" source="#BeNice" target="#edchat" weight="70" />
+      <edge id="7" source="#BeNice" target="#specialeducation" weight="70" />
+      <edge id="8" source="#ieta14" target="#edtech" weight="70" />
+      <edge id="9" source="#ohedchat" target="#cpchat" weight="70" />
+      <edge id="10" source="#Neuroplasticity" target="#edu" weight="70" />
+      <edge id="11" source="#Neuroplasticity" target="#learning" weight="70" />
+      <edge id="12" source="#edchat" target="#education" weight="140" />
+      <edge id="13" source="#edchat" target="#afterschool" weight="70" />
+      <edge id="14" source="#edchat" target="#edtechchat" weight="70" />
+      <edge id="15" source="#edchat" target="#specialeducation" weight="70" />
+      <edge id="16" source="#edchat" target="#growthmindset" weight="70" />
+      <edge id="17" source="#edchat" target="#suptchat" weight="70" />
+      <edge id="18" source="#edchat" target="#specialed" weight="70" />
+      <edge id="19" source="#edchat" target="#edtech" weight="70" />
+      <edge id="20" source="#edchat" target="#TEDEd" weight="70" />
+      <edge id="21" source="#edchat" target="#specialedchat" weight="70" />
+      <edge id="22" source="#elearning" target="#edtechchat" weight="70" />
+      <edge id="23" source="#momslegacy" target="#rememberthegood" weight="70" />
+      <edge id="24" source="#HB410" target="#truancy" weight="70" />
+      <edge id="25" source="#mom" target="#cancersucks" weight="70" />
+      <edge id="26" source="#mom" target="#edleadership" weight="70" />
+      <edge id="27" source="#education" target="#growthmindset" weight="70" />
+      <edge id="28" source="#losingmom" target="#cancersucks" weight="70" />
+      <edge id="29" source="#edleadership" target="#cancersucks" weight="70" />
+      <edge id="30" source="#learning" target="#edu" weight="70" />
+    </edges>
+  </graph>
+</gexf>

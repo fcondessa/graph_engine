@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Canucks" label="#Canucks" />
+      <node id="#Atheism" label="#Atheism" />
+      <node id="#Thrashers" label="#Thrashers" />
+      <node id="#Seahawks" label="#Seahawks" />
+      <node id="#probowl" label="#probowl" />
+      <node id="#Capitals" label="#Capitals" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#Oilers" label="#Oilers" />
+      <node id="#pens" label="#pens" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#SU" label="#SU" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Canucks" target="#NHL" weight="3214" />
+      <edge id="1" source="#Atheism" target="#SU" weight="3214" />
+      <edge id="2" source="#Thrashers" target="#NHL" weight="3214" />
+      <edge id="3" source="#Seahawks" target="#NFL" weight="3214" />
+      <edge id="4" source="#probowl" target="#NFL" weight="3214" />
+      <edge id="5" source="#Capitals" target="#NHL" weight="3214" />
+      <edge id="6" source="#Oilers" target="#NHL" weight="3214" />
+      <edge id="7" source="#pens" target="#NHL" weight="3214" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#theapprentice" label="#theapprentice" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#neighsayers" label="#neighsayers" />
+      <node id="#LoveWins" label="#LoveWins" />
+      <node id="#Halbach" label="#Halbach" />
+      <node id="#LochteGate" label="#LochteGate" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#Dassey" label="#Dassey" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#FOIA" label="#FOIA" />
+      <node id="#Makingofamurderer" label="#Makingofamurderer" />
+      <node id="#TheConfession" label="#TheConfession" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#factcheck2016" label="#factcheck2016" />
+      <node id="#ActuallyAutistic" label="#ActuallyAutistic" />
+      <node id="#Milwaukee" label="#Milwaukee" />
+      <node id="#nytrnc" label="#nytrnc" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#ArnaldoRios" label="#ArnaldoRios" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#SanBernardino" label="#SanBernardino" />
+      <node id="#Gitmo" label="#Gitmo" />
+      <node id="#CharlotteUprising" label="#CharlotteUprising" />
+      <node id="#DOJ" label="#DOJ" />
+      <node id="#t1d" label="#t1d" />
+      <node id="#voterintimidation" label="#voterintimidation" />
+      <node id="#AltonSterling" label="#AltonSterling" />
+      <node id="#blacklivesmatter" label="#blacklivesmatter" />
+      <node id="#hostage" label="#hostage" />
+      <node id="#KeithLamontScott" label="#KeithLamontScott" />
+      <node id="#LochMess" label="#LochMess" />
+      <node id="#oregonunderattack" label="#oregonunderattack" />
+      <node id="#trumptapes" label="#trumptapes" />
+      <node id="#votersuppression" label="#votersuppression" />
+      <node id="#ChakaFattah" label="#ChakaFattah" />
+      <node id="#CharlesKinsey" label="#CharlesKinsey" />
+      <node id="#oregonstandoff" label="#oregonstandoff" />
+      <node id="#Philadelphia" label="#Philadelphia" />
+      <node id="#Mikebrown" label="#Mikebrown" />
+      <node id="#PoliceLivesMatter" label="#PoliceLivesMatter" />
+      <node id="#consentdecree" label="#consentdecree" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#ferguson" label="#ferguson" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#CharlotteProtests" label="#CharlotteProtests" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#theapprentice" target="#trumptapes" weight="3245" />
+      <edge id="1" source="#RNCinCLE" target="#neighsayers" weight="3245" />
+      <edge id="2" source="#RNCinCLE" target="#nytrnc" weight="3245" />
+      <edge id="3" source="#SCOTUS" target="#SanBernardino" weight="3245" />
+      <edge id="4" source="#LoveWins" target="#Ferguson" weight="3245" />
+      <edge id="5" source="#LoveWins" target="#blacklivesmatter" weight="3245" />
+      <edge id="6" source="#Halbach" target="#Dassey" weight="3245" />
+      <edge id="7" source="#Halbach" target="#Makingofamurderer" weight="3245" />
+      <edge id="8" source="#Halbach" target="#Milwaukee" weight="3245" />
+      <edge id="9" source="#LochteGate" target="#LochMess" weight="3245" />
+      <edge id="10" source="#Ferguson" target="#BlackLivesMatter" weight="3245" />
+      <edge id="11" source="#Ferguson" target="#consentdecree" weight="6490" />
+      <edge id="12" source="#Ferguson" target="#blacklivesmatter" weight="3245" />
+      <edge id="13" source="#Dassey" target="#Makingofamurderer" weight="3245" />
+      <edge id="14" source="#Dassey" target="#Milwaukee" weight="3245" />
+      <edge id="15" source="#diabetes" target="#t1d" weight="3245" />
+      <edge id="16" source="#FOIA" target="#FOIA" weight="6490" />
+      <edge id="17" source="#Makingofamurderer" target="#Milwaukee" weight="3245" />
+      <edge id="18" source="#TheConfession" target="#Gitmo" weight="3245" />
+      <edge id="19" source="#Chicago" target="#hostage" weight="3245" />
+      <edge id="20" source="#factcheck2016" target="#debatenight" weight="3245" />
+      <edge id="21" source="#ActuallyAutistic" target="#CharlesKinsey" weight="3245" />
+      <edge id="22" source="#ActuallyAutistic" target="#ArnaldoRios" weight="3245" />
+      <edge id="23" source="#Trump" target="#voterintimidation" weight="3245" />
+      <edge id="24" source="#Trump" target="#votersuppression" weight="3245" />
+      <edge id="25" source="#ArnaldoRios" target="#CharlesKinsey" weight="3245" />
+      <edge id="26" source="#CharlotteUprising" target="#KeithLamontScott" weight="3245" />
+      <edge id="27" source="#CharlotteUprising" target="#CharlotteProtests" weight="3245" />
+      <edge id="28" source="#DOJ" target="#ferguson" weight="3245" />
+      <edge id="29" source="#DOJ" target="#Mikebrown" weight="3245" />
+      <edge id="30" source="#voterintimidation" target="#votersuppression" weight="3245" />
+      <edge id="31" source="#AltonSterling" target="#BREAKING" weight="3245" />
+      <edge id="32" source="#oregonunderattack" target="#oregonstandoff" weight="3245" />
+      <edge id="33" source="#ChakaFattah" target="#BREAKING" weight="3245" />
+      <edge id="34" source="#ChakaFattah" target="#Philadelphia" weight="3245" />
+      <edge id="35" source="#Philadelphia" target="#BREAKING" weight="3245" />
+      <edge id="36" source="#Mikebrown" target="#ferguson" weight="3245" />
+      <edge id="37" source="#PoliceLivesMatter" target="#BlackLivesMatter" weight="6490" />
+    </edges>
+  </graph>
+</gexf>

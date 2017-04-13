@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Flint" label="#Flint" />
+      <node id="#LittleMissFlint" label="#LittleMissFlint" />
+      <node id="#nintendobooks" label="#nintendobooks" />
+      <node id="#DarrenSeals" label="#DarrenSeals" />
+      <node id="#SymoneMarshall" label="#SymoneMarshall" />
+      <node id="#FlintWaterCrisis" label="#FlintWaterCrisis" />
+      <node id="#SandraBland" label="#SandraBland" />
+      <node id="#cheesebooks" label="#cheesebooks" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#SayHerName" label="#SayHerName" />
+      <node id="#trump" label="#trump" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Flint" target="#FlintWaterCrisis" weight="3217" />
+      <edge id="1" source="#Flint" target="#LittleMissFlint" weight="3217" />
+      <edge id="2" source="#Flint" target="#trump" weight="3217" />
+      <edge id="3" source="#LittleMissFlint" target="#FlintWaterCrisis" weight="3217" />
+      <edge id="4" source="#LittleMissFlint" target="#trump" weight="3217" />
+      <edge id="5" source="#nintendobooks" target="#cheesebooks" weight="3217" />
+      <edge id="6" source="#DarrenSeals" target="#BlackLivesMatter" weight="3217" />
+      <edge id="7" source="#SymoneMarshall" target="#SandraBland" weight="3217" />
+      <edge id="8" source="#FlintWaterCrisis" target="#trump" weight="3217" />
+      <edge id="9" source="#SandraBland" target="#SayHerName" weight="3217" />
+    </edges>
+  </graph>
+</gexf>

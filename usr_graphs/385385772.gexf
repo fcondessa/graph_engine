@@ -1,0 +1,799 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#gogreen" label="#gogreen" />
+      <node id="#Sales" label="#Sales" />
+      <node id="#ILMiddleMarket" label="#ILMiddleMarket" />
+      <node id="#success" label="#success" />
+      <node id="#retail" label="#retail" />
+      <node id="#speech" label="#speech" />
+      <node id="#midmarket" label="#midmarket" />
+      <node id="#economy" label="#economy" />
+      <node id="#CPI" label="#CPI" />
+      <node id="#twcbcemp" label="#twcbcemp" />
+      <node id="#plan" label="#plan" />
+      <node id="#Illinois" label="#Illinois" />
+      <node id="#Exports" label="#Exports" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#employee" label="#employee" />
+      <node id="#Globalization" label="#Globalization" />
+      <node id="#Export" label="#Export" />
+      <node id="#CFO" label="#CFO" />
+      <node id="#companies" label="#companies" />
+      <node id="#Exit" label="#Exit" />
+      <node id="#future" label="#future" />
+      <node id="#customers" label="#customers" />
+      <node id="#Middle" label="#Middle" />
+      <node id="#onboard" label="#onboard" />
+      <node id="#MidMarket" label="#MidMarket" />
+      <node id="#info" label="#info" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#women" label="#women" />
+      <node id="#SMEs" label="#SMEs" />
+      <node id="#Business" label="#Business" />
+      <node id="#clientservices" label="#clientservices" />
+      <node id="#businessgrowth" label="#businessgrowth" />
+      <node id="#lawsuit" label="#lawsuit" />
+      <node id="#AlternativeInvestment" label="#AlternativeInvestment" />
+      <node id="#influence" label="#influence" />
+      <node id="#risk" label="#risk" />
+      <node id="#office" label="#office" />
+      <node id="#employerbrand" label="#employerbrand" />
+      <node id="#NewPost" label="#NewPost" />
+      <node id="#engaged" label="#engaged" />
+      <node id="#goals" label="#goals" />
+      <node id="#Prioritizing" label="#Prioritizing" />
+      <node id="#SalesBySize" label="#SalesBySize" />
+      <node id="#improv" label="#improv" />
+      <node id="#brand" label="#brand" />
+      <node id="#relocating" label="#relocating" />
+      <node id="#change" label="#change" />
+      <node id="#Lean" label="#Lean" />
+      <node id="#topinnovators" label="#topinnovators" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#HealthcareMidMrkt" label="#HealthcareMidMrkt" />
+      <node id="#finance" label="#finance" />
+      <node id="#ElectionYear" label="#ElectionYear" />
+      <node id="#WebSecurity" label="#WebSecurity" />
+      <node id="#cloud" label="#cloud" />
+      <node id="#funding" label="#funding" />
+      <node id="#Recruiting" label="#Recruiting" />
+      <node id="#Regulation" label="#Regulation" />
+      <node id="#volunteer" label="#volunteer" />
+      <node id="#salesperson" label="#salesperson" />
+      <node id="#OSUnews" label="#OSUnews" />
+      <node id="#Government" label="#Government" />
+      <node id="#MiddleMarket" label="#MiddleMarket" />
+      <node id="#apps" label="#apps" />
+      <node id="#infosec" label="#infosec" />
+      <node id="#invest" label="#invest" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#Confidence" label="#Confidence" />
+      <node id="#HowToGrowYourBusiness" label="#HowToGrowYourBusiness" />
+      <node id="#research" label="#research" />
+      <node id="#WinningintheAmericas" label="#WinningintheAmericas" />
+      <node id="#employees" label="#employees" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#stackranking" label="#stackranking" />
+      <node id="#LocalGov" label="#LocalGov" />
+      <node id="#Gazelle" label="#Gazelle" />
+      <node id="#compliance" label="#compliance" />
+      <node id="#OHmiddlemarket" label="#OHmiddlemarket" />
+      <node id="#PE" label="#PE" />
+      <node id="#Coaching" label="#Coaching" />
+      <node id="#middlemarketgrowth" label="#middlemarketgrowth" />
+      <node id="#peformance" label="#peformance" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#companyculture" label="#companyculture" />
+      <node id="#consultants" label="#consultants" />
+      <node id="#Exporting" label="#Exporting" />
+      <node id="#middlemarketretail" label="#middlemarketretail" />
+      <node id="#evacuation" label="#evacuation" />
+      <node id="#disruptiveinnovation" label="#disruptiveinnovation" />
+      <node id="#Construction" label="#Construction" />
+      <node id="#futureofwork" label="#futureofwork" />
+      <node id="#midmarekt" label="#midmarekt" />
+      <node id="#FinancialServices" label="#FinancialServices" />
+      <node id="#meetings" label="#meetings" />
+      <node id="#mistakes" label="#mistakes" />
+      <node id="#tradeshow" label="#tradeshow" />
+      <node id="#GovServices" label="#GovServices" />
+      <node id="#benefits" label="#benefits" />
+      <node id="#financing" label="#financing" />
+      <node id="#management" label="#management" />
+      <node id="#event" label="#event" />
+      <node id="#talent" label="#talent" />
+      <node id="#Investment" label="#Investment" />
+      <node id="#Leadership" label="#Leadership" />
+      <node id="#Webinar" label="#Webinar" />
+      <node id="#priorities" label="#priorities" />
+      <node id="#mentoring" label="#mentoring" />
+      <node id="#BusinessGrowth" label="#BusinessGrowth" />
+      <node id="#Midmarket" label="#Midmarket" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#onboarding" label="#onboarding" />
+      <node id="#Middlemarket" label="#Middlemarket" />
+      <node id="#Wholesale" label="#Wholesale" />
+      <node id="#Financing" label="#Financing" />
+      <node id="#digital" label="#digital" />
+      <node id="#environment" label="#environment" />
+      <node id="#daycare" label="#daycare" />
+      <node id="#skilled" label="#skilled" />
+      <node id="#winningintheamericas" label="#winningintheamericas" />
+      <node id="#tax" label="#tax" />
+      <node id="#FLMiddleMarket" label="#FLMiddleMarket" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#wage" label="#wage" />
+      <node id="#rebrand" label="#rebrand" />
+      <node id="#bank" label="#bank" />
+      <node id="#adoption" label="#adoption" />
+      <node id="#HR" label="#HR" />
+      <node id="#mightymiddle" label="#mightymiddle" />
+      <node id="#Human" label="#Human" />
+      <node id="#VP" label="#VP" />
+      <node id="#IL" label="#IL" />
+      <node id="#coaching" label="#coaching" />
+      <node id="#strategic" label="#strategic" />
+      <node id="#topteam" label="#topteam" />
+      <node id="#OhioMiddleMarket" label="#OhioMiddleMarket" />
+      <node id="#Manufacturing" label="#Manufacturing" />
+      <node id="#brands" label="#brands" />
+      <node id="#CAMiddleMarket" label="#CAMiddleMarket" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#website" label="#website" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#Entrepreneurship" label="#Entrepreneurship" />
+      <node id="#technology" label="#technology" />
+      <node id="#viral" label="#viral" />
+      <node id="#construction" label="#construction" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#GovernmentServices" label="#GovernmentServices" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#weather" label="#weather" />
+      <node id="#culture" label="#culture" />
+      <node id="#family" label="#family" />
+      <node id="#MidMarketGrowth" label="#MidMarketGrowth" />
+      <node id="#cyber" label="#cyber" />
+      <node id="#development" label="#development" />
+      <node id="#data" label="#data" />
+      <node id="#books" label="#books" />
+      <node id="#commission" label="#commission" />
+      <node id="#image" label="#image" />
+      <node id="#FT" label="#FT" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Conflict" label="#Conflict" />
+      <node id="#sotu2015" label="#sotu2015" />
+      <node id="#Economy" label="#Economy" />
+      <node id="#gcpartnership" label="#gcpartnership" />
+      <node id="#crisis" label="#crisis" />
+      <node id="#keynote" label="#keynote" />
+      <node id="#MiddleMarketGrowth" label="#MiddleMarketGrowth" />
+      <node id="#customer" label="#customer" />
+      <node id="#charities" label="#charities" />
+      <node id="#expansion" label="#expansion" />
+      <node id="#Strategy" label="#Strategy" />
+      <node id="#audit" label="#audit" />
+      <node id="#personal" label="#personal" />
+      <node id="#Bloomberg" label="#Bloomberg" />
+      <node id="#MidMktGrowth" label="#MidMktGrowth" />
+      <node id="#hacked" label="#hacked" />
+      <node id="#Digitization" label="#Digitization" />
+      <node id="#presentation" label="#presentation" />
+      <node id="#Chicagoland" label="#Chicagoland" />
+      <node id="#Offer" label="#Offer" />
+      <node id="#content" label="#content" />
+      <node id="#PREsuasion" label="#PREsuasion" />
+      <node id="#operations" label="#operations" />
+      <node id="#NYMiddleMarket" label="#NYMiddleMarket" />
+      <node id="#LatinAmerica" label="#LatinAmerica" />
+      <node id="#ServiceCompanies" label="#ServiceCompanies" />
+      <node id="#Gov" label="#Gov" />
+      <node id="#networking" label="#networking" />
+      <node id="#StartUp" label="#StartUp" />
+      <node id="#branding" label="#branding" />
+      <node id="#value" label="#value" />
+      <node id="#video" label="#video" />
+      <node id="#cybersecurity" label="#cybersecurity" />
+      <node id="#exporting" label="#exporting" />
+      <node id="#middlemarketindicator" label="#middlemarketindicator" />
+      <node id="#Talent" label="#Talent" />
+      <node id="#middlemarketcenter" label="#middlemarketcenter" />
+      <node id="#nextradegroup" label="#nextradegroup" />
+      <node id="#review" label="#review" />
+      <node id="#Success" label="#Success" />
+      <node id="#learning" label="#learning" />
+      <node id="#salestips" label="#salestips" />
+      <node id="#WebDesign" label="#WebDesign" />
+      <node id="#recruiting" label="#recruiting" />
+      <node id="#digitalutilization" label="#digitalutilization" />
+      <node id="#global" label="#global" />
+      <node id="#growth" label="#growth" />
+      <node id="#taxes" label="#taxes" />
+      <node id="#performance" label="#performance" />
+      <node id="#MiddleMarketIndicator" label="#MiddleMarketIndicator" />
+      <node id="#CEO" label="#CEO" />
+      <node id="#bonuses" label="#bonuses" />
+      <node id="#telecommute" label="#telecommute" />
+      <node id="#logo" label="#logo" />
+      <node id="#supplychain" label="#supplychain" />
+      <node id="#export" label="#export" />
+      <node id="#MnA" label="#MnA" />
+      <node id="#banks" label="#banks" />
+      <node id="#middlemakretindicator" label="#middlemakretindicator" />
+      <node id="#company" label="#company" />
+      <node id="#GCPartnership" label="#GCPartnership" />
+      <node id="#budget" label="#budget" />
+      <node id="#devices" label="#devices" />
+      <node id="#green" label="#green" />
+      <node id="#SalesForceEffectiveness" label="#SalesForceEffectiveness" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#recruitment" label="#recruitment" />
+      <node id="#legal" label="#legal" />
+      <node id="#Health" label="#Health" />
+      <node id="#Growth" label="#Growth" />
+      <node id="#business" label="#business" />
+      <node id="#digitization" label="#digitization" />
+      <node id="#MidMarketTrade" label="#MidMarketTrade" />
+      <node id="#Interview" label="#Interview" />
+      <node id="#MidMkt" label="#MidMkt" />
+      <node id="#NCMM" label="#NCMM" />
+      <node id="#executives" label="#executives" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#communication" label="#communication" />
+      <node id="#social" label="#social" />
+      <node id="#biz" label="#biz" />
+      <node id="#TXMiddleMarket" label="#TXMiddleMarket" />
+      <node id="#MidMarketCenter" label="#MidMarketCenter" />
+      <node id="#Taxes" label="#Taxes" />
+      <node id="#xmas" label="#xmas" />
+      <node id="#Retail" label="#Retail" />
+      <node id="#MMI" label="#MMI" />
+      <node id="#sotu" label="#sotu" />
+      <node id="#product" label="#product" />
+      <node id="#middlemarket" label="#middlemarket" />
+      <node id="#Results" label="#Results" />
+      <node id="#exports" label="#exports" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#productivity" label="#productivity" />
+      <node id="#contentmarketing" label="#contentmarketing" />
+      <node id="#travel" label="#travel" />
+      <node id="#MidMarketIndicator" label="#MidMarketIndicator" />
+      <node id="#blog" label="#blog" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#revenue" label="#revenue" />
+      <node id="#changes" label="#changes" />
+      <node id="#MidMrktGrowth" label="#MidMrktGrowth" />
+      <node id="#security" label="#security" />
+      <node id="#middlemarketinnovation" label="#middlemarketinnovation" />
+      <node id="#grow" label="#grow" />
+      <node id="#mentor" label="#mentor" />
+      <node id="#trade" label="#trade" />
+      <node id="#IT" label="#IT" />
+      <node id="#reviews" label="#reviews" />
+      <node id="#salary" label="#salary" />
+      <node id="#toptalent" label="#toptalent" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#employment" label="#employment" />
+      <node id="#job" label="#job" />
+      <node id="#capital" label="#capital" />
+      <node id="#SunTrust" label="#SunTrust" />
+      <node id="#Internet" label="#Internet" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#midsized" label="#midsized" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#leader" label="#leader" />
+      <node id="#openinnovation" label="#openinnovation" />
+      <node id="#listings" label="#listings" />
+      <node id="#SalesTips" label="#SalesTips" />
+      <node id="#ChristmasMiracle" label="#ChristmasMiracle" />
+      <node id="#TXmiddlemarket" label="#TXmiddlemarket" />
+      <node id="#Trade" label="#Trade" />
+      <node id="#MightyMiddle" label="#MightyMiddle" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#tuition" label="#tuition" />
+      <node id="#flexibility" label="#flexibility" />
+      <node id="#Job" label="#Job" />
+      <node id="#MidMarketCaucus" label="#MidMarketCaucus" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#Digital" label="#Digital" />
+      <node id="#community" label="#community" />
+      <node id="#survey" label="#survey" />
+      <node id="#BYOD" label="#BYOD" />
+      <node id="#corpgov" label="#corpgov" />
+      <node id="#midmarkettrade" label="#midmarkettrade" />
+      <node id="#report" label="#report" />
+      <node id="#local" label="#local" />
+      <node id="#sales" label="#sales" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#gogreen" target="#midmarket" weight="38976" />
+      <edge id="1" source="#Sales" target="#Globalization" weight="3248" />
+      <edge id="2" source="#Sales" target="#salestips" weight="6496" />
+      <edge id="3" source="#Sales" target="#SalesBySize" weight="3248" />
+      <edge id="4" source="#Sales" target="#Success" weight="3248" />
+      <edge id="5" source="#Sales" target="#MidMarket" weight="19488" />
+      <edge id="6" source="#Sales" target="#commission" weight="3248" />
+      <edge id="7" source="#Sales" target="#SalesForceEffectiveness" weight="3248" />
+      <edge id="8" source="#Sales" target="#clientservices" weight="3248" />
+      <edge id="9" source="#Sales" target="#SalesTips" weight="3248" />
+      <edge id="10" source="#ILMiddleMarket" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="11" source="#success" target="#disruptiveinnovation" weight="3248" />
+      <edge id="12" source="#success" target="#strategy" weight="3248" />
+      <edge id="13" source="#success" target="#midmarket" weight="3248" />
+      <edge id="14" source="#success" target="#MMI" weight="3248" />
+      <edge id="15" source="#success" target="#MidMarket" weight="6496" />
+      <edge id="16" source="#success" target="#product" weight="3248" />
+      <edge id="17" source="#success" target="#MiddleMarket" weight="3248" />
+      <edge id="18" source="#success" target="#Business" weight="3248" />
+      <edge id="19" source="#success" target="#management" weight="3248" />
+      <edge id="20" source="#success" target="#growth" weight="6496" />
+      <edge id="21" source="#retail" target="#midmarket" weight="6496" />
+      <edge id="22" source="#retail" target="#digital" weight="3248" />
+      <edge id="23" source="#speech" target="#midmarket" weight="12992" />
+      <edge id="24" source="#midmarket" target="#midmarket" weight="12992" />
+      <edge id="25" source="#midmarket" target="#economy" weight="9744" />
+      <edge id="26" source="#midmarket" target="#twcbcemp" weight="3248" />
+      <edge id="27" source="#midmarket" target="#plan" weight="6496" />
+      <edge id="28" source="#midmarket" target="#value" weight="3248" />
+      <edge id="29" source="#midmarket" target="#Illinois" weight="61712" />
+      <edge id="30" source="#midmarket" target="#priorities" weight="6496" />
+      <edge id="31" source="#midmarket" target="#HR" weight="6496" />
+      <edge id="32" source="#midmarket" target="#women" weight="3248" />
+      <edge id="33" source="#midmarket" target="#Recruiting" weight="6496" />
+      <edge id="34" source="#midmarket" target="#Business" weight="3248" />
+      <edge id="35" source="#midmarket" target="#businessgrowth" weight="3248" />
+      <edge id="36" source="#midmarket" target="#lawsuit" weight="3248" />
+      <edge id="37" source="#midmarket" target="#security" weight="19488" />
+      <edge id="38" source="#midmarket" target="#office" weight="16240" />
+      <edge id="39" source="#midmarket" target="#employerbrand" weight="3248" />
+      <edge id="40" source="#midmarket" target="#engaged" weight="48720" />
+      <edge id="41" source="#midmarket" target="#goals" weight="9744" />
+      <edge id="42" source="#midmarket" target="#improv" weight="58464" />
+      <edge id="43" source="#midmarket" target="#brand" weight="51968" />
+      <edge id="44" source="#midmarket" target="#relocating" weight="9744" />
+      <edge id="45" source="#midmarket" target="#change" weight="6496" />
+      <edge id="46" source="#midmarket" target="#Lean" weight="6496" />
+      <edge id="47" source="#midmarket" target="#finance" weight="3248" />
+      <edge id="48" source="#midmarket" target="#WebSecurity" weight="3248" />
+      <edge id="49" source="#midmarket" target="#funding" weight="9744" />
+      <edge id="50" source="#midmarket" target="#marketing" weight="16240" />
+      <edge id="51" source="#midmarket" target="#volunteer" weight="48720" />
+      <edge id="52" source="#midmarket" target="#salesperson" weight="51968" />
+      <edge id="53" source="#midmarket" target="#OSUnews" weight="3248" />
+      <edge id="54" source="#midmarket" target="#apps" weight="22736" />
+      <edge id="55" source="#midmarket" target="#operations" weight="42224" />
+      <edge id="56" source="#midmarket" target="#invest" weight="3248" />
+      <edge id="57" source="#midmarket" target="#sotu" weight="22736" />
+      <edge id="58" source="#midmarket" target="#hacked" weight="16240" />
+      <edge id="59" source="#midmarket" target="#cyber" weight="3248" />
+      <edge id="60" source="#midmarket" target="#employees" weight="25984" />
+      <edge id="61" source="#midmarket" target="#stackranking" weight="3248" />
+      <edge id="62" source="#midmarket" target="#employment" weight="6496" />
+      <edge id="63" source="#midmarket" target="#compliance" weight="3248" />
+      <edge id="64" source="#midmarket" target="#presentation" weight="3248" />
+      <edge id="65" source="#midmarket" target="#review" weight="3248" />
+      <edge id="66" source="#midmarket" target="#recruiting" weight="3248" />
+      <edge id="67" source="#midmarket" target="#tradeshow" weight="6496" />
+      <edge id="68" source="#midmarket" target="#companyculture" weight="3248" />
+      <edge id="69" source="#midmarket" target="#consultants" weight="3248" />
+      <edge id="70" source="#midmarket" target="#salary" weight="6496" />
+      <edge id="71" source="#midmarket" target="#disruptiveinnovation" weight="3248" />
+      <edge id="72" source="#midmarket" target="#futureofwork" weight="3248" />
+      <edge id="73" source="#midmarket" target="#mistakes" weight="3248" />
+      <edge id="74" source="#midmarket" target="#benefits" weight="12992" />
+      <edge id="75" source="#midmarket" target="#financing" weight="6496" />
+      <edge id="76" source="#midmarket" target="#management" weight="3248" />
+      <edge id="77" source="#midmarket" target="#trade" weight="3248" />
+      <edge id="78" source="#midmarket" target="#talent" weight="77952" />
+      <edge id="79" source="#midmarket" target="#analytics" weight="12992" />
+      <edge id="80" source="#midmarket" target="#mentoring" weight="3248" />
+      <edge id="81" source="#midmarket" target="#Midmarket" weight="9744" />
+      <edge id="82" source="#midmarket" target="#diversity" weight="3248" />
+      <edge id="83" source="#midmarket" target="#onboarding" weight="6496" />
+      <edge id="84" source="#midmarket" target="#topteam" weight="3248" />
+      <edge id="85" source="#midmarket" target="#Brexit" weight="3248" />
+      <edge id="86" source="#midmarket" target="#digital" weight="3248" />
+      <edge id="87" source="#midmarket" target="#environment" weight="3248" />
+      <edge id="88" source="#midmarket" target="#research" weight="6496" />
+      <edge id="89" source="#midmarket" target="#daycare" weight="3248" />
+      <edge id="90" source="#midmarket" target="#tax" weight="42224" />
+      <edge id="91" source="#midmarket" target="#wage" weight="12992" />
+      <edge id="92" source="#midmarket" target="#bank" weight="3248" />
+      <edge id="93" source="#midmarket" target="#sales" weight="6496" />
+      <edge id="94" source="#midmarket" target="#mightymiddle" weight="3248" />
+      <edge id="95" source="#midmarket" target="#coaching" weight="3248" />
+      <edge id="96" source="#midmarket" target="#strategic" weight="3248" />
+      <edge id="97" source="#midmarket" target="#survey" weight="71456" />
+      <edge id="98" source="#midmarket" target="#Internet" weight="3248" />
+      <edge id="99" source="#midmarket" target="#website" weight="19488" />
+      <edge id="100" source="#midmarket" target="#mobile" weight="6496" />
+      <edge id="101" source="#midmarket" target="#construction" weight="16240" />
+      <edge id="102" source="#midmarket" target="#jobs" weight="6496" />
+      <edge id="103" source="#midmarket" target="#insurance" weight="3248" />
+      <edge id="104" source="#midmarket" target="#weather" weight="22736" />
+      <edge id="105" source="#midmarket" target="#culture" weight="3248" />
+      <edge id="106" source="#midmarket" target="#community" weight="6496" />
+      <edge id="107" source="#midmarket" target="#development" weight="3248" />
+      <edge id="108" source="#midmarket" target="#data" weight="3248" />
+      <edge id="109" source="#midmarket" target="#image" weight="3248" />
+      <edge id="110" source="#midmarket" target="#Ohio" weight="9744" />
+      <edge id="111" source="#midmarket" target="#Conflict" weight="3248" />
+      <edge id="112" source="#midmarket" target="#sotu2015" weight="22736" />
+      <edge id="113" source="#midmarket" target="#middlemarket" weight="3248" />
+      <edge id="114" source="#midmarket" target="#crisis" weight="6496" />
+      <edge id="115" source="#midmarket" target="#keynote" weight="3248" />
+      <edge id="116" source="#midmarket" target="#personal" weight="9744" />
+      <edge id="117" source="#midmarket" target="#customer" weight="12992" />
+      <edge id="118" source="#midmarket" target="#charities" weight="51968" />
+      <edge id="119" source="#midmarket" target="#expansion" weight="3248" />
+      <edge id="120" source="#midmarket" target="#audit" weight="42224" />
+      <edge id="121" source="#midmarket" target="#exporting" weight="3248" />
+      <edge id="122" source="#midmarket" target="#Chicagoland" weight="9744" />
+      <edge id="123" source="#midmarket" target="#content" weight="19488" />
+      <edge id="124" source="#midmarket" target="#customers" weight="29232" />
+      <edge id="125" source="#midmarket" target="#local" weight="3248" />
+      <edge id="126" source="#midmarket" target="#BYOD" weight="9744" />
+      <edge id="127" source="#midmarket" target="#cybersecurity" weight="9744" />
+      <edge id="128" source="#midmarket" target="#learning" weight="3248" />
+      <edge id="129" source="#midmarket" target="#global" weight="25984" />
+      <edge id="130" source="#midmarket" target="#performance" weight="9744" />
+      <edge id="131" source="#midmarket" target="#legal" weight="12992" />
+      <edge id="132" source="#midmarket" target="#bonuses" weight="3248" />
+      <edge id="133" source="#midmarket" target="#telecommute" weight="3248" />
+      <edge id="134" source="#midmarket" target="#logo" weight="12992" />
+      <edge id="135" source="#midmarket" target="#export" weight="3248" />
+      <edge id="136" source="#midmarket" target="#banks" weight="32480" />
+      <edge id="137" source="#midmarket" target="#company" weight="3248" />
+      <edge id="138" source="#midmarket" target="#budget" weight="3248" />
+      <edge id="139" source="#midmarket" target="#devices" weight="9744" />
+      <edge id="140" source="#midmarket" target="#green" weight="19488" />
+      <edge id="141" source="#midmarket" target="#strategy" weight="3248" />
+      <edge id="142" source="#midmarket" target="#recruitment" weight="25984" />
+      <edge id="143" source="#midmarket" target="#business" weight="113680" />
+      <edge id="144" source="#midmarket" target="#communication" weight="68208" />
+      <edge id="145" source="#midmarket" target="#social" weight="9744" />
+      <edge id="146" source="#midmarket" target="#biz" weight="3248" />
+      <edge id="147" source="#midmarket" target="#xmas" weight="3248" />
+      <edge id="148" source="#midmarket" target="#MMI" weight="6496" />
+      <edge id="149" source="#midmarket" target="#product" weight="3248" />
+      <edge id="150" source="#midmarket" target="#future" weight="6496" />
+      <edge id="151" source="#midmarket" target="#DidYouKnow" weight="19488" />
+      <edge id="152" source="#midmarket" target="#contentmarketing" weight="19488" />
+      <edge id="153" source="#midmarket" target="#travel" weight="6496" />
+      <edge id="154" source="#midmarket" target="#innovation" weight="19488" />
+      <edge id="155" source="#midmarket" target="#blog" weight="3248" />
+      <edge id="156" source="#midmarket" target="#hiring" weight="25984" />
+      <edge id="157" source="#midmarket" target="#middlemarketinnovation" weight="3248" />
+      <edge id="158" source="#midmarket" target="#grow" weight="12992" />
+      <edge id="159" source="#midmarket" target="#supplychain" weight="19488" />
+      <edge id="160" source="#midmarket" target="#toptalent" weight="48720" />
+      <edge id="161" source="#midmarket" target="#job" weight="3248" />
+      <edge id="162" source="#midmarket" target="#capital" weight="3248" />
+      <edge id="163" source="#midmarket" target="#ChristmasMiracle" weight="3248" />
+      <edge id="164" source="#midmarket" target="#socialmedia" weight="42224" />
+      <edge id="165" source="#midmarket" target="#leader" weight="3248" />
+      <edge id="166" source="#midmarket" target="#openinnovation" weight="3248" />
+      <edge id="167" source="#midmarket" target="#branding" weight="3248" />
+      <edge id="168" source="#midmarket" target="#sustainability" weight="16240" />
+      <edge id="169" source="#midmarket" target="#flexibility" weight="58464" />
+      <edge id="170" source="#midmarket" target="#evacuation" weight="12992" />
+      <edge id="171" source="#midmarket" target="#MidMarketCaucus" weight="3248" />
+      <edge id="172" source="#midmarket" target="#ACA" weight="3248" />
+      <edge id="173" source="#midmarket" target="#cloud" weight="25984" />
+      <edge id="174" source="#midmarket" target="#growth" weight="3248" />
+      <edge id="175" source="#midmarket" target="#tuition" weight="16240" />
+      <edge id="176" source="#economy" target="#mightymiddle" weight="16240" />
+      <edge id="177" source="#economy" target="#Midmarket" weight="3248" />
+      <edge id="178" source="#CPI" target="#Prioritizing" weight="3248" />
+      <edge id="179" source="#CPI" target="#Digital" weight="3248" />
+      <edge id="180" source="#Exports" target="#MiddleMarket" weight="3248" />
+      <edge id="181" source="#Exports" target="#MidMarket" weight="6496" />
+      <edge id="182" source="#Exports" target="#Trade" weight="6496" />
+      <edge id="183" source="#leadership" target="#future" weight="3248" />
+      <edge id="184" source="#employee" target="#talent" weight="19488" />
+      <edge id="185" source="#employee" target="#midsized" weight="19488" />
+      <edge id="186" source="#employee" target="#salary" weight="6496" />
+      <edge id="187" source="#Globalization" target="#MidMarket" weight="3248" />
+      <edge id="188" source="#Export" target="#LatinAmerica" weight="3248" />
+      <edge id="189" source="#CFO" target="#corpgov" weight="3248" />
+      <edge id="190" source="#CFO" target="#CEO" weight="3248" />
+      <edge id="191" source="#CFO" target="#MnA" weight="3248" />
+      <edge id="192" source="#CFO" target="#PE" weight="3248" />
+      <edge id="193" source="#companies" target="#MiddleMarket" weight="3248" />
+      <edge id="194" source="#companies" target="#Brexit" weight="3248" />
+      <edge id="195" source="#companies" target="#disruptiveinnovation" weight="3248" />
+      <edge id="196" source="#companies" target="#MidMarket" weight="3248" />
+      <edge id="197" source="#Exit" target="#Entrepreneurs" weight="3248" />
+      <edge id="198" source="#customers" target="#brand" weight="3248" />
+      <edge id="199" source="#customers" target="#blog" weight="25984" />
+      <edge id="200" source="#customers" target="#contentmarketing" weight="19488" />
+      <edge id="201" source="#Middle" target="#Entrepreneurship" weight="3248" />
+      <edge id="202" source="#Middle" target="#entrepreneurship" weight="3248" />
+      <edge id="203" source="#Middle" target="#NewPost" weight="3248" />
+      <edge id="204" source="#Middle" target="#MidMarket" weight="6496" />
+      <edge id="205" source="#onboard" target="#executives" weight="22736" />
+      <edge id="206" source="#MidMarket" target="#technology" weight="3248" />
+      <edge id="207" source="#MidMarket" target="#LocalGov" weight="3248" />
+      <edge id="208" source="#MidMarket" target="#GovernmentServices" weight="6496" />
+      <edge id="209" source="#MidMarket" target="#SalesForceEffectiveness" weight="3248" />
+      <edge id="210" source="#MidMarket" target="#Taxes" weight="12992" />
+      <edge id="211" source="#MidMarket" target="#employment" weight="3248" />
+      <edge id="212" source="#MidMarket" target="#Innovation" weight="6496" />
+      <edge id="213" source="#MidMarket" target="#Growth" weight="3248" />
+      <edge id="214" source="#MidMarket" target="#entrepreneurship" weight="3248" />
+      <edge id="215" source="#MidMarket" target="#digitization" weight="6496" />
+      <edge id="216" source="#MidMarket" target="#Talent" weight="3248" />
+      <edge id="217" source="#MidMarket" target="#NewPost" weight="3248" />
+      <edge id="218" source="#MidMarket" target="#infographic" weight="9744" />
+      <edge id="219" source="#MidMarket" target="#disruptiveinnovation" weight="25984" />
+      <edge id="220" source="#MidMarket" target="#MiddleMarket" weight="38976" />
+      <edge id="221" source="#MidMarket" target="#MidMarketTrade" weight="12992" />
+      <edge id="222" source="#MidMarket" target="#Success" weight="9744" />
+      <edge id="223" source="#MidMarket" target="#Offer" weight="3248" />
+      <edge id="224" source="#MidMarket" target="#MMI" weight="3248" />
+      <edge id="225" source="#MidMarket" target="#commission" weight="3248" />
+      <edge id="226" source="#MidMarket" target="#GovServices" weight="3248" />
+      <edge id="227" source="#MidMarket" target="#Results" weight="3248" />
+      <edge id="228" source="#MidMarket" target="#Business" weight="3248" />
+      <edge id="229" source="#MidMarket" target="#clientservices" weight="3248" />
+      <edge id="230" source="#MidMarket" target="#productivity" weight="3248" />
+      <edge id="231" source="#MidMarket" target="#Entrepreneurship" weight="6496" />
+      <edge id="232" source="#MidMarket" target="#Digitization" weight="6496" />
+      <edge id="233" source="#MidMarket" target="#Leadership" weight="3248" />
+      <edge id="234" source="#MidMarket" target="#Digital" weight="6496" />
+      <edge id="235" source="#MidMarket" target="#NCMM" weight="3248" />
+      <edge id="236" source="#MidMarket" target="#SalesBySize" weight="3248" />
+      <edge id="237" source="#MidMarket" target="#Government" weight="3248" />
+      <edge id="238" source="#MidMarket" target="#MidMarketCaucus" weight="3248" />
+      <edge id="239" source="#MidMarket" target="#listings" weight="3248" />
+      <edge id="240" source="#MidMarket" target="#StartUp" weight="3248" />
+      <edge id="241" source="#MidMarket" target="#Brexit" weight="9744" />
+      <edge id="242" source="#MidMarket" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="243" source="#MidMarket" target="#Exporting" weight="3248" />
+      <edge id="244" source="#MidMarket" target="#FT" weight="3248" />
+      <edge id="245" source="#MidMarket" target="#Gov" weight="3248" />
+      <edge id="246" source="#MidMarket" target="#SalesTips" weight="3248" />
+      <edge id="247" source="#MidMarket" target="#Regulation" weight="6496" />
+      <edge id="248" source="#MidMarket" target="#salestips" weight="6496" />
+      <edge id="249" source="#MidMarket" target="#adoption" weight="3248" />
+      <edge id="250" source="#MidMarket" target="#WebDesign" weight="3248" />
+      <edge id="251" source="#MidMarket" target="#Trade" weight="6496" />
+      <edge id="252" source="#MidMarket" target="#PE" weight="3248" />
+      <edge id="253" source="#MidMarket" target="#MidMarketIndicator" weight="6496" />
+      <edge id="254" source="#MidMarket" target="#growth" weight="6496" />
+      <edge id="255" source="#MidMarket" target="#OhioMiddleMarket" weight="3248" />
+      <edge id="256" source="#MidMarket" target="#revenue" weight="3248" />
+      <edge id="257" source="#MidMarket" target="#Confidence" weight="3248" />
+      <edge id="258" source="#MidMarket" target="#BusinessGrowth" weight="3248" />
+      <edge id="259" source="#MidMarket" target="#HowToGrowYourBusiness" weight="6496" />
+      <edge id="260" source="#MidMarket" target="#Financing" weight="3248" />
+      <edge id="261" source="#MidMarket" target="#CEO" weight="3248" />
+      <edge id="262" source="#info" target="#talent" weight="3248" />
+      <edge id="263" source="#info" target="#Midmarket" weight="3248" />
+      <edge id="264" source="#SMEs" target="#Columbus" weight="3248" />
+      <edge id="265" source="#Business" target="#MiddleMarket" weight="3248" />
+      <edge id="266" source="#Business" target="#PE" weight="3248" />
+      <edge id="267" source="#Business" target="#Growth" weight="3248" />
+      <edge id="268" source="#Business" target="#Strategy" weight="3248" />
+      <edge id="269" source="#Business" target="#management" weight="3248" />
+      <edge id="270" source="#Business" target="#businessgrowth" weight="3248" />
+      <edge id="271" source="#Business" target="#MiddleMarketIndicator" weight="6496" />
+      <edge id="272" source="#Business" target="#Investment" weight="6496" />
+      <edge id="273" source="#Business" target="#Offer" weight="3248" />
+      <edge id="274" source="#clientservices" target="#salestips" weight="3248" />
+      <edge id="275" source="#AlternativeInvestment" target="#MiddleMarket" weight="3248" />
+      <edge id="276" source="#influence" target="#PREsuasion" weight="6496" />
+      <edge id="277" source="#risk" target="#Midmarket" weight="9744" />
+      <edge id="278" source="#office" target="#talent" weight="12992" />
+      <edge id="279" source="#office" target="#insurance" weight="16240" />
+      <edge id="280" source="#office" target="#Health" weight="16240" />
+      <edge id="281" source="#employerbrand" target="#toptalent" weight="6496" />
+      <edge id="282" source="#NewPost" target="#entrepreneurship" weight="3248" />
+      <edge id="283" source="#engaged" target="#volunteer" weight="48720" />
+      <edge id="284" source="#goals" target="#flexibility" weight="9744" />
+      <edge id="285" source="#Prioritizing" target="#Digital" weight="3248" />
+      <edge id="286" source="#SalesBySize" target="#SalesTips" weight="3248" />
+      <edge id="287" source="#brand" target="#image" weight="3248" />
+      <edge id="288" source="#brand" target="#middlemarket" weight="3248" />
+      <edge id="289" source="#brand" target="#legal" weight="9744" />
+      <edge id="290" source="#brand" target="#business" weight="6496" />
+      <edge id="291" source="#brand" target="#blog" weight="3248" />
+      <edge id="292" source="#brand" target="#marketing" weight="3248" />
+      <edge id="293" source="#brand" target="#employees" weight="3248" />
+      <edge id="294" source="#brand" target="#talent" weight="9744" />
+      <edge id="295" source="#brand" target="#socialmedia" weight="3248" />
+      <edge id="296" source="#brand" target="#logo" weight="12992" />
+      <edge id="297" source="#topinnovators" target="#middlemarketinnovation" weight="77952" />
+      <edge id="298" source="#Innovation" target="#MiddleMarket" weight="12992" />
+      <edge id="299" source="#Innovation" target="#middlemarket" weight="3248" />
+      <edge id="300" source="#Innovation" target="#business" weight="3248" />
+      <edge id="301" source="#Innovation" target="#Webinar" weight="9744" />
+      <edge id="302" source="#HealthcareMidMrkt" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="303" source="#HealthcareMidMrkt" target="#invest" weight="3248" />
+      <edge id="304" source="#HealthcareMidMrkt" target="#Healthcare" weight="3248" />
+      <edge id="305" source="#finance" target="#funding" weight="3248" />
+      <edge id="306" source="#ElectionYear" target="#MiddleMarketIndicator" weight="6496" />
+      <edge id="307" source="#cloud" target="#infosec" weight="3248" />
+      <edge id="308" source="#cloud" target="#Midmarket" weight="12992" />
+      <edge id="309" source="#cloud" target="#VP" weight="3248" />
+      <edge id="310" source="#cloud" target="#IT" weight="9744" />
+      <edge id="311" source="#Regulation" target="#MidMarketIndicator" weight="6496" />
+      <edge id="312" source="#Government" target="#MiddleMarket" weight="6496" />
+      <edge id="313" source="#Government" target="#Confidence" weight="3248" />
+      <edge id="314" source="#MiddleMarket" target="#Brexit" weight="3248" />
+      <edge id="315" source="#MiddleMarket" target="#Financing" weight="3248" />
+      <edge id="316" source="#MiddleMarket" target="#PE" weight="3248" />
+      <edge id="317" source="#MiddleMarket" target="#Trade" weight="3248" />
+      <edge id="318" source="#MiddleMarket" target="#OhioMiddleMarket" weight="3248" />
+      <edge id="319" source="#MiddleMarket" target="#Economy" weight="3248" />
+      <edge id="320" source="#MiddleMarket" target="#Offer" weight="3248" />
+      <edge id="321" source="#MiddleMarket" target="#productivity" weight="3248" />
+      <edge id="322" source="#MiddleMarket" target="#Confidence" weight="3248" />
+      <edge id="323" source="#MiddleMarket" target="#CEO" weight="3248" />
+      <edge id="324" source="#MiddleMarket" target="#WinningintheAmericas" weight="3248" />
+      <edge id="325" source="#MiddleMarket" target="#Talent" weight="3248" />
+      <edge id="326" source="#MiddleMarket" target="#Webinar" weight="12992" />
+      <edge id="327" source="#infosec" target="#Midmarket" weight="3248" />
+      <edge id="328" source="#invest" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="329" source="#invest" target="#Healthcare" weight="3248" />
+      <edge id="330" source="#Healthcare" target="#MiddleMarketIndicator" weight="9744" />
+      <edge id="331" source="#WinningintheAmericas" target="#Economy" weight="3248" />
+      <edge id="332" source="#employees" target="#meetings" weight="6496" />
+      <edge id="333" source="#employees" target="#video" weight="3248" />
+      <edge id="334" source="#employees" target="#business" weight="3248" />
+      <edge id="335" source="#employees" target="#performance" weight="3248" />
+      <edge id="336" source="#employees" target="#tuition" weight="16240" />
+      <edge id="337" source="#sustainability" target="#green" weight="9744" />
+      <edge id="338" source="#Gazelle" target="#growth" weight="3248" />
+      <edge id="339" source="#Gazelle" target="#middlemarket" weight="3248" />
+      <edge id="340" source="#OHmiddlemarket" target="#middlemakretindicator" weight="6496" />
+      <edge id="341" source="#PE" target="#corpgov" weight="3248" />
+      <edge id="342" source="#PE" target="#MnA" weight="3248" />
+      <edge id="343" source="#PE" target="#Offer" weight="3248" />
+      <edge id="344" source="#PE" target="#CEO" weight="3248" />
+      <edge id="345" source="#Coaching" target="#biz" weight="3248" />
+      <edge id="346" source="#middlemarketgrowth" target="#middlemarketindicator" weight="9744" />
+      <edge id="347" source="#middlemarketgrowth" target="#MMI" weight="16240" />
+      <edge id="348" source="#peformance" target="#review" weight="19488" />
+      <edge id="349" source="#peformance" target="#salary" weight="19488" />
+      <edge id="350" source="#consultants" target="#value" weight="3248" />
+      <edge id="351" source="#middlemarketretail" target="#middlemarketindicator" weight="3248" />
+      <edge id="352" source="#disruptiveinnovation" target="#adoption" weight="3248" />
+      <edge id="353" source="#disruptiveinnovation" target="#technology" weight="3248" />
+      <edge id="354" source="#disruptiveinnovation" target="#NCMM" weight="3248" />
+      <edge id="355" source="#disruptiveinnovation" target="#middlemarket" weight="3248" />
+      <edge id="356" source="#disruptiveinnovation" target="#strategy" weight="3248" />
+      <edge id="357" source="#disruptiveinnovation" target="#business" weight="3248" />
+      <edge id="358" source="#Construction" target="#MiddleMarketIndicator" weight="6496" />
+      <edge id="359" source="#futureofwork" target="#MightyMiddle" weight="3248" />
+      <edge id="360" source="#futureofwork" target="#Midmarket" weight="3248" />
+      <edge id="361" source="#midmarekt" target="#revenue" weight="3248" />
+      <edge id="362" source="#FinancialServices" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="363" source="#mistakes" target="#marketing" weight="3248" />
+      <edge id="364" source="#mistakes" target="#business" weight="3248" />
+      <edge id="365" source="#benefits" target="#bonuses" weight="3248" />
+      <edge id="366" source="#management" target="#talent" weight="3248" />
+      <edge id="367" source="#event" target="#networking" weight="3248" />
+      <edge id="368" source="#talent" target="#Midmarket" weight="51968" />
+      <edge id="369" source="#talent" target="#family" weight="3248" />
+      <edge id="370" source="#talent" target="#middlemarket" weight="3248" />
+      <edge id="371" source="#talent" target="#HR" weight="3248" />
+      <edge id="372" source="#talent" target="#skilled" weight="3248" />
+      <edge id="373" source="#talent" target="#local" weight="3248" />
+      <edge id="374" source="#talent" target="#midsized" weight="22736" />
+      <edge id="375" source="#talent" target="#mentor" weight="12992" />
+      <edge id="376" source="#Investment" target="#MiddleMarketIndicator" weight="6496" />
+      <edge id="377" source="#Midmarket" target="#technology" weight="6496" />
+      <edge id="378" source="#Midmarket" target="#marketing" weight="12992" />
+      <edge id="379" source="#Midmarket" target="#toptalent" weight="3248" />
+      <edge id="380" source="#Midmarket" target="#HR" weight="3248" />
+      <edge id="381" source="#Midmarket" target="#IT" weight="9744" />
+      <edge id="382" source="#Midmarket" target="#mentor" weight="12992" />
+      <edge id="383" source="#Midmarket" target="#mobile" weight="6496" />
+      <edge id="384" source="#diversity" target="#culture" weight="9744" />
+      <edge id="385" source="#Middlemarket" target="#midmarkettrade" weight="3248" />
+      <edge id="386" source="#Wholesale" target="#MiddleMarketIndicator" weight="6496" />
+      <edge id="387" source="#winningintheamericas" target="#middlemarket" weight="3248" />
+      <edge id="388" source="#winningintheamericas" target="#middlemarketcenter" weight="3248" />
+      <edge id="389" source="#tax" target="#audit" weight="42224" />
+      <edge id="390" source="#FLMiddleMarket" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="391" source="#motivation" target="#HR" weight="22736" />
+      <edge id="392" source="#rebrand" target="#company" weight="3248" />
+      <edge id="393" source="#adoption" target="#technology" weight="3248" />
+      <edge id="394" source="#mightymiddle" target="#report" weight="3248" />
+      <edge id="395" source="#mightymiddle" target="#construction" weight="3248" />
+      <edge id="396" source="#mightymiddle" target="#MMI" weight="3248" />
+      <edge id="397" source="#Human" target="#business" weight="3248" />
+      <edge id="398" source="#IL" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="399" source="#Manufacturing" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="400" source="#brands" target="#marketing" weight="3248" />
+      <edge id="401" source="#CAMiddleMarket" target="#MiddleMarketIndicator" weight="6496" />
+      <edge id="402" source="#Brexit" target="#middlemarket" weight="3248" />
+      <edge id="403" source="#Brexit" target="#Bloomberg" weight="3248" />
+      <edge id="404" source="#Brexit" target="#data" weight="6496" />
+      <edge id="405" source="#Brexit" target="#FT" weight="3248" />
+      <edge id="406" source="#mobile" target="#technology" weight="6496" />
+      <edge id="407" source="#viral" target="#video" weight="3248" />
+      <edge id="408" source="#jobs" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="409" source="#jobs" target="#MidMarketGrowth" weight="3248" />
+      <edge id="410" source="#jobs" target="#job" weight="3248" />
+      <edge id="411" source="#jobs" target="#employment" weight="3248" />
+      <edge id="412" source="#GovernmentServices" target="#Taxes" weight="6496" />
+      <edge id="413" source="#insurance" target="#Health" weight="16240" />
+      <edge id="414" source="#family" target="#midsized" weight="3248" />
+      <edge id="415" source="#MidMarketGrowth" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="416" source="#data" target="#analytics" weight="3248" />
+      <edge id="417" source="#books" target="#business" weight="3248" />
+      <edge id="418" source="#commission" target="#salestips" weight="3248" />
+      <edge id="419" source="#gcpartnership" target="#MidMarketCenter" weight="3248" />
+      <edge id="420" source="#crisis" target="#strategy" weight="3248" />
+      <edge id="421" source="#crisis" target="#socialmedia" weight="3248" />
+      <edge id="422" source="#keynote" target="#presentation" weight="3248" />
+      <edge id="423" source="#MiddleMarketGrowth" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="424" source="#MiddleMarketGrowth" target="#MMI" weight="3248" />
+      <edge id="425" source="#MiddleMarketGrowth" target="#MidMkt" weight="3248" />
+      <edge id="426" source="#Strategy" target="#Growth" weight="3248" />
+      <edge id="427" source="#personal" target="#BYOD" weight="9744" />
+      <edge id="428" source="#personal" target="#devices" weight="9744" />
+      <edge id="429" source="#MidMktGrowth" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="430" source="#content" target="#socialmedia" weight="19488" />
+      <edge id="431" source="#NYMiddleMarket" target="#MiddleMarketIndicator" weight="6496" />
+      <edge id="432" source="#ServiceCompanies" target="#MiddleMarketIndicator" weight="3248" />
+      <edge id="433" source="#StartUp" target="#Success" weight="3248" />
+      <edge id="434" source="#StartUp" target="#WebDesign" weight="3248" />
+      <edge id="435" source="#cybersecurity" target="#MidMarketCaucus" weight="6496" />
+      <edge id="436" source="#middlemarketindicator" target="#MMI" weight="9744" />
+      <edge id="437" source="#Talent" target="#CEO" weight="3248" />
+      <edge id="438" source="#nextradegroup" target="#digitalutilization" weight="35728" />
+      <edge id="439" source="#nextradegroup" target="#middlemarket" weight="3248" />
+      <edge id="440" source="#nextradegroup" target="#midmarkettrade" weight="6496" />
+      <edge id="441" source="#review" target="#salary" weight="19488" />
+      <edge id="442" source="#Success" target="#infographic" weight="3248" />
+      <edge id="443" source="#Success" target="#WebDesign" weight="3248" />
+      <edge id="444" source="#digitalutilization" target="#infographic" weight="22736" />
+      <edge id="445" source="#growth" target="#middlemarket" weight="3248" />
+      <edge id="446" source="#taxes" target="#exports" weight="3248" />
+      <edge id="447" source="#MiddleMarketIndicator" target="#Retail" weight="3248" />
+      <edge id="448" source="#MiddleMarketIndicator" target="#Growth" weight="9744" />
+      <edge id="449" source="#MiddleMarketIndicator" target="#MidMkt" weight="3248" />
+      <edge id="450" source="#MiddleMarketIndicator" target="#TXMiddleMarket" weight="6496" />
+      <edge id="451" source="#MiddleMarketIndicator" target="#MMI" weight="6496" />
+      <edge id="452" source="#MiddleMarketIndicator" target="#MidMrktGrowth" weight="9744" />
+      <edge id="453" source="#CEO" target="#corpgov" weight="3248" />
+      <edge id="454" source="#CEO" target="#MnA" weight="3248" />
+      <edge id="455" source="#MnA" target="#corpgov" weight="3248" />
+      <edge id="456" source="#MnA" target="#report" weight="3248" />
+      <edge id="457" source="#middlemakretindicator" target="#TXmiddlemarket" weight="6496" />
+      <edge id="458" source="#GCPartnership" target="#middlemarket" weight="3248" />
+      <edge id="459" source="#devices" target="#BYOD" weight="9744" />
+      <edge id="460" source="#strategy" target="#flexibility" weight="3248" />
+      <edge id="461" source="#strategy" target="#socialmedia" weight="3248" />
+      <edge id="462" source="#recruitment" target="#hiring" weight="3248" />
+      <edge id="463" source="#legal" target="#communication" weight="3248" />
+      <edge id="464" source="#business" target="#communication" weight="12992" />
+      <edge id="465" source="#business" target="#middlemarket" weight="3248" />
+      <edge id="466" source="#business" target="#blog" weight="3248" />
+      <edge id="467" source="#business" target="#marketing" weight="3248" />
+      <edge id="468" source="#business" target="#reviews" weight="3248" />
+      <edge id="469" source="#digitization" target="#Digital" weight="6496" />
+      <edge id="470" source="#Interview" target="#Job" weight="6496" />
+      <edge id="471" source="#MidMkt" target="#MMI" weight="3248" />
+      <edge id="472" source="#infographic" target="#middlemarketinnovation" weight="12992" />
+      <edge id="473" source="#communication" target="#changes" weight="3248" />
+      <edge id="474" source="#social" target="#Internet" weight="3248" />
+      <edge id="475" source="#social" target="#community" weight="6496" />
+      <edge id="476" source="#xmas" target="#ChristmasMiracle" weight="3248" />
+      <edge id="477" source="#MMI" target="#middlemarket" weight="3248" />
+      <edge id="478" source="#middlemarket" target="#SunTrust" weight="3248" />
+      <edge id="479" source="#middlemarket" target="#productivity" weight="3248" />
+      <edge id="480" source="#middlemarket" target="#midmarkettrade" weight="25984" />
+      <edge id="481" source="#productivity" target="#revenue" weight="3248" />
+      <edge id="482" source="#productivity" target="#employment" weight="3248" />
+      <edge id="483" source="#hiring" target="#ACA" weight="3248" />
+      <edge id="484" source="#revenue" target="#employment" weight="3248" />
+      <edge id="485" source="#trade" target="#marketing" weight="3248" />
+    </edges>
+  </graph>
+</gexf>

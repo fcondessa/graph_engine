@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#tracyjordan" label="#tracyjordan" />
+      <node id="#LochMess" label="#LochMess" />
+      <node id="#Bills" label="#Bills" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#fohlenelf" label="#fohlenelf" />
+      <node id="#UCL" label="#UCL" />
+      <node id="#LochteGate" label="#LochteGate" />
+      <node id="#CELBMG" label="#CELBMG" />
+      <node id="#30rock" label="#30rock" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#tracyjordan" target="#30rock" weight="3215" />
+      <edge id="1" source="#LochMess" target="#LochteGate" weight="3215" />
+      <edge id="2" source="#Bills" target="#49ers" weight="3215" />
+      <edge id="3" source="#fohlenelf" target="#UCL" weight="3215" />
+      <edge id="4" source="#fohlenelf" target="#CELBMG" weight="3215" />
+      <edge id="5" source="#UCL" target="#CELBMG" weight="3215" />
+    </edges>
+  </graph>
+</gexf>

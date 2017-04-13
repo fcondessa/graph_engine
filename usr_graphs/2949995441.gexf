@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#mnf" label="#mnf" />
+      <node id="#Burgers" label="#Burgers" />
+      <node id="#bluebuffaloburger" label="#bluebuffaloburger" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#FREEBURGERS" label="#FREEBURGERS" />
+      <node id="#nationalburgerday" label="#nationalburgerday" />
+      <node id="#Singers" label="#Singers" />
+      <node id="#gourmet" label="#gourmet" />
+      <node id="#cavs" label="#cavs" />
+      <node id="#buckeyes" label="#buckeyes" />
+      <node id="#westernburger" label="#westernburger" />
+      <node id="#Karaoke" label="#Karaoke" />
+      <node id="#burgerandbeerweek" label="#burgerandbeerweek" />
+      <node id="#breakfastburger" label="#breakfastburger" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#Thirstday" label="#Thirstday" />
+      <node id="#burgersbarandmore" label="#burgersbarandmore" />
+      <node id="#free" label="#free" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#CornyHashtags" label="#CornyHashtags" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#chopshop614" label="#chopshop614" />
+      <node id="#giveaway" label="#giveaway" />
+      <node id="#nba" label="#nba" />
+      <node id="#tinroom" label="#tinroom" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#thetinroom" label="#thetinroom" />
+      <node id="#gameday" label="#gameday" />
+      <node id="#osu" label="#osu" />
+      <node id="#LETSGO" label="#LETSGO" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#eat614" label="#eat614" />
+      <node id="#champs" label="#champs" />
+      <node id="#ColumbusOhio" label="#ColumbusOhio" />
+      <node id="#ALLIN" label="#ALLIN" />
+      <node id="#wokeuplikethis" label="#wokeuplikethis" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#Thursday" label="#Thursday" />
+      <node id="#burgers" label="#burgers" />
+      <node id="#MondayMotivation" label="#MondayMotivation" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#ChopShopGivesBack" label="#ChopShopGivesBack" />
+      <node id="#EAT614" label="#EAT614" />
+      <node id="#HYDE" label="#HYDE" />
+      <node id="#ohio" label="#ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#nofilter" target="#breakfastburger" weight="108" />
+      <edge id="1" source="#mnf" target="#osu" weight="108" />
+      <edge id="2" source="#mnf" target="#tinroom" weight="108" />
+      <edge id="3" source="#mnf" target="#burgers" weight="108" />
+      <edge id="4" source="#Burgers" target="#burgersbarandmore" weight="108" />
+      <edge id="5" source="#Burgers" target="#OSU" weight="108" />
+      <edge id="6" source="#Burgers" target="#MondayMotivation" weight="108" />
+      <edge id="7" source="#Burgers" target="#gourmet" weight="108" />
+      <edge id="8" source="#Burgers" target="#craftbeer" weight="108" />
+      <edge id="9" source="#bluebuffaloburger" target="#chopshop614" weight="108" />
+      <edge id="10" source="#asseenincolumbus" target="#free" weight="108" />
+      <edge id="11" source="#asseenincolumbus" target="#giveaway" weight="108" />
+      <edge id="12" source="#FREEBURGERS" target="#ChopShopGivesBack" weight="108" />
+      <edge id="13" source="#FREEBURGERS" target="#CornyHashtags" weight="108" />
+      <edge id="14" source="#nationalburgerday" target="#chopshop614" weight="108" />
+      <edge id="15" source="#Singers" target="#Thursday" weight="108" />
+      <edge id="16" source="#Singers" target="#ColumbusOhio" weight="108" />
+      <edge id="17" source="#Singers" target="#OSU" weight="108" />
+      <edge id="18" source="#Singers" target="#Karaoke" weight="108" />
+      <edge id="19" source="#Singers" target="#Thirstday" weight="108" />
+      <edge id="20" source="#gourmet" target="#MondayMotivation" weight="108" />
+      <edge id="21" source="#cavs" target="#nba" weight="108" />
+      <edge id="22" source="#cavs" target="#champs" weight="108" />
+      <edge id="23" source="#buckeyes" target="#osu" weight="108" />
+      <edge id="24" source="#buckeyes" target="#gobucks" weight="216" />
+      <edge id="25" source="#buckeyes" target="#ohio" weight="108" />
+      <edge id="26" source="#westernburger" target="#chopshop614" weight="108" />
+      <edge id="27" source="#Karaoke" target="#Thursday" weight="108" />
+      <edge id="28" source="#Karaoke" target="#ColumbusOhio" weight="108" />
+      <edge id="29" source="#Karaoke" target="#OSU" weight="108" />
+      <edge id="30" source="#Karaoke" target="#Thirstday" weight="108" />
+      <edge id="31" source="#burgerandbeerweek" target="#EAT614" weight="108" />
+      <edge id="32" source="#gobucks" target="#osu" weight="216" />
+      <edge id="33" source="#gobucks" target="#gameday" weight="108" />
+      <edge id="34" source="#gobucks" target="#ohio" weight="216" />
+      <edge id="35" source="#Thirstday" target="#Thursday" weight="108" />
+      <edge id="36" source="#Thirstday" target="#ColumbusOhio" weight="108" />
+      <edge id="37" source="#Thirstday" target="#OSU" weight="108" />
+      <edge id="38" source="#burgersbarandmore" target="#OSU" weight="108" />
+      <edge id="39" source="#burgersbarandmore" target="#craftbeer" weight="108" />
+      <edge id="40" source="#free" target="#chopshop614" weight="108" />
+      <edge id="41" source="#free" target="#giveaway" weight="216" />
+      <edge id="42" source="#OSU" target="#ColumbusOhio" weight="108" />
+      <edge id="43" source="#OSU" target="#Thursday" weight="108" />
+      <edge id="44" source="#OSU" target="#craftbeer" weight="108" />
+      <edge id="45" source="#OSU" target="#49ers" weight="108" />
+      <edge id="46" source="#OSU" target="#BuckeyeNation" weight="108" />
+      <edge id="47" source="#OSU" target="#HYDE" weight="108" />
+      <edge id="48" source="#CornyHashtags" target="#ChopShopGivesBack" weight="108" />
+      <edge id="49" source="#Cavs" target="#LETSGO" weight="108" />
+      <edge id="50" source="#Cavs" target="#ALLIN" weight="108" />
+      <edge id="51" source="#Buckeyes" target="#GoBucks" weight="108" />
+      <edge id="52" source="#chopshop614" target="#wokeuplikethis" weight="108" />
+      <edge id="53" source="#chopshop614" target="#EAT614" weight="108" />
+      <edge id="54" source="#chopshop614" target="#thetinroom" weight="108" />
+      <edge id="55" source="#chopshop614" target="#eat614" weight="108" />
+      <edge id="56" source="#chopshop614" target="#giveaway" weight="108" />
+      <edge id="57" source="#nba" target="#champs" weight="108" />
+      <edge id="58" source="#tinroom" target="#osu" weight="108" />
+      <edge id="59" source="#tinroom" target="#burgers" weight="108" />
+      <edge id="60" source="#49ers" target="#BuckeyeNation" weight="108" />
+      <edge id="61" source="#49ers" target="#HYDE" weight="108" />
+      <edge id="62" source="#gameday" target="#osu" weight="108" />
+      <edge id="63" source="#gameday" target="#ohio" weight="108" />
+      <edge id="64" source="#osu" target="#burgers" weight="108" />
+      <edge id="65" source="#osu" target="#ohio" weight="216" />
+      <edge id="66" source="#LETSGO" target="#ALLIN" weight="108" />
+      <edge id="67" source="#BuckeyeNation" target="#HYDE" weight="108" />
+      <edge id="68" source="#ColumbusOhio" target="#Thursday" weight="108" />
+    </edges>
+  </graph>
+</gexf>

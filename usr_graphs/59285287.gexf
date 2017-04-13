@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#KD" label="#KD" />
+      <node id="#repealthe19th" label="#repealthe19th" />
+      <node id="#PitchersWhoRake" label="#PitchersWhoRake" />
+      <node id="#Plagiarism" label="#Plagiarism" />
+      <node id="#DubNation" label="#DubNation" />
+      <node id="#WinItForDray" label="#WinItForDray" />
+      <node id="#TeachableMoment" label="#TeachableMoment" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#FucktheDH" label="#FucktheDH" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#FreeDraymond" label="#FreeDraymond" />
+      <node id="#BAYseball" label="#BAYseball" />
+      <node id="#JustUS" label="#JustUS" />
+      <node id="#Pray4Popeye" label="#Pray4Popeye" />
+      <node id="#ThreeGod" label="#ThreeGod" />
+      <node id="#THANKYOUBELT" label="#THANKYOUBELT" />
+      <node id="#SPLASH69" label="#SPLASH69" />
+      <node id="#Pray4Johnny" label="#Pray4Johnny" />
+      <node id="#Threezus" label="#Threezus" />
+      <node id="#NextFakeTrumpVictim" label="#NextFakeTrumpVictim" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#KD" target="#Warriors" weight="3245" />
+      <edge id="1" source="#repealthe19th" target="#NextFakeTrumpVictim" weight="3245" />
+      <edge id="2" source="#PitchersWhoRake" target="#FucktheDH" weight="3245" />
+      <edge id="3" source="#Plagiarism" target="#TeachableMoment" weight="3245" />
+      <edge id="4" source="#DubNation" target="#JustUS" weight="3245" />
+      <edge id="5" source="#WinItForDray" target="#FreeDraymond" weight="3245" />
+      <edge id="6" source="#postseason" target="#BAYseball" weight="3245" />
+      <edge id="7" source="#Pray4Popeye" target="#Pray4Johnny" weight="3245" />
+      <edge id="8" source="#ThreeGod" target="#Threezus" weight="3245" />
+      <edge id="9" source="#THANKYOUBELT" target="#SPLASH69" weight="3245" />
+    </edges>
+  </graph>
+</gexf>

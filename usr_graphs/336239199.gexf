@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#cookingproblems" label="#cookingproblems" />
+      <node id="#fleamarket" label="#fleamarket" />
+      <node id="#WWE" label="#WWE" />
+      <node id="#GRE" label="#GRE" />
+      <node id="#WoeIsMe" label="#WoeIsMe" />
+      <node id="#OldDominionUniversity" label="#OldDominionUniversity" />
+      <node id="#fleamarkets" label="#fleamarkets" />
+      <node id="#CyYoung" label="#CyYoung" />
+      <node id="#RealLife" label="#RealLife" />
+      <node id="#Brewers" label="#Brewers" />
+      <node id="#marathon" label="#marathon" />
+      <node id="#boston" label="#boston" />
+      <node id="#mlb" label="#mlb" />
+      <node id="#Royals" label="#Royals" />
+      <node id="#OaklandAthletics" label="#OaklandAthletics" />
+      <node id="#Rays" label="#Rays" />
+      <node id="#Beisebol" label="#Beisebol" />
+      <node id="#MVPosey" label="#MVPosey" />
+      <node id="#slyandthefamilystone" label="#slyandthefamilystone" />
+      <node id="#Cardinals" label="#Cardinals" />
+      <node id="#bayarea" label="#bayarea" />
+      <node id="#Pirates" label="#Pirates" />
+      <node id="#fantasybaseball" label="#fantasybaseball" />
+      <node id="#Greenjackets" label="#Greenjackets" />
+      <node id="#fortunecookie" label="#fortunecookie" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#cactus" label="#cactus" />
+      <node id="#Panama" label="#Panama" />
+      <node id="#chinesefood" label="#chinesefood" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#SJGiants" label="#SJGiants" />
+      <node id="#WBC" label="#WBC" />
+      <node id="#WorldBaseballClassic" label="#WorldBaseballClassic" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#Thunder" label="#Thunder" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#cookingproblems" target="#WoeIsMe" weight="671" />
+      <edge id="1" source="#fleamarket" target="#cactus" weight="671" />
+      <edge id="2" source="#fleamarket" target="#bayarea" weight="4026" />
+      <edge id="3" source="#WWE" target="#RNC" weight="671" />
+      <edge id="4" source="#GRE" target="#RealLife" weight="671" />
+      <edge id="5" source="#GRE" target="#OldDominionUniversity" weight="671" />
+      <edge id="6" source="#OldDominionUniversity" target="#RealLife" weight="671" />
+      <edge id="7" source="#fleamarkets" target="#bayarea" weight="671" />
+      <edge id="8" source="#CyYoung" target="#Rays" weight="671" />
+      <edge id="9" source="#Brewers" target="#SFGiants" weight="671" />
+      <edge id="10" source="#marathon" target="#boston" weight="671" />
+      <edge id="11" source="#mlb" target="#fantasybaseball" weight="671" />
+      <edge id="12" source="#Royals" target="#Rays" weight="1342" />
+      <edge id="13" source="#OaklandAthletics" target="#Pirates" weight="671" />
+      <edge id="14" source="#Beisebol" target="#WorldBaseballClassic" weight="671" />
+      <edge id="15" source="#Beisebol" target="#Panama" weight="671" />
+      <edge id="16" source="#Beisebol" target="#WBC" weight="671" />
+      <edge id="17" source="#MVPosey" target="#SFGiants" weight="671" />
+      <edge id="18" source="#slyandthefamilystone" target="#chinesefood" weight="671" />
+      <edge id="19" source="#slyandthefamilystone" target="#fortunecookie" weight="671" />
+      <edge id="20" source="#Cardinals" target="#Dodgers" weight="671" />
+      <edge id="21" source="#bayarea" target="#cactus" weight="671" />
+      <edge id="22" source="#Greenjackets" target="#SJGiants" weight="671" />
+      <edge id="23" source="#fortunecookie" target="#chinesefood" weight="671" />
+      <edge id="24" source="#49ers" target="#SFGiants" weight="671" />
+      <edge id="25" source="#Panama" target="#WorldBaseballClassic" weight="671" />
+      <edge id="26" source="#Panama" target="#WBC" weight="671" />
+      <edge id="27" source="#SFGiants" target="#Thunder" weight="671" />
+      <edge id="28" source="#WBC" target="#WorldBaseballClassic" weight="671" />
+    </edges>
+  </graph>
+</gexf>

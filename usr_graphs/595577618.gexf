@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#scavengerhunt" label="#scavengerhunt" />
+      <node id="#cava" label="#cava" />
+      <node id="#Alcohol" label="#Alcohol" />
+      <node id="#wine" label="#wine" />
+      <node id="#Drink" label="#Drink" />
+      <node id="#WineLovers" label="#WineLovers" />
+      <node id="#competiton" label="#competiton" />
+      <node id="#Win" label="#Win" />
+      <node id="#FreixenetFriday" label="#FreixenetFriday" />
+      <node id="#winelovers" label="#winelovers" />
+      <node id="#competition" label="#competition" />
+      <node id="#Drinks" label="#Drinks" />
+      <node id="#WineSociety" label="#WineSociety" />
+      <node id="#WW" label="#WW" />
+      <node id="#win" label="#win" />
+      <node id="#Wine" label="#Wine" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#scavengerhunt" target="#wine" weight="598" />
+      <edge id="1" source="#cava" target="#win" weight="299" />
+      <edge id="2" source="#cava" target="#FreixenetFriday" weight="598" />
+      <edge id="3" source="#Alcohol" target="#Drinks" weight="299" />
+      <edge id="4" source="#Alcohol" target="#WineSociety" weight="299" />
+      <edge id="5" source="#Alcohol" target="#WineLovers" weight="299" />
+      <edge id="6" source="#Alcohol" target="#Drink" weight="1495" />
+      <edge id="7" source="#wine" target="#winelovers" weight="299" />
+      <edge id="8" source="#wine" target="#competiton" weight="299" />
+      <edge id="9" source="#wine" target="#FreixenetFriday" weight="299" />
+      <edge id="10" source="#wine" target="#WineLovers" weight="299" />
+      <edge id="11" source="#wine" target="#competition" weight="299" />
+      <edge id="12" source="#wine" target="#WineSociety" weight="299" />
+      <edge id="13" source="#Drink" target="#WineLovers" weight="299" />
+      <edge id="14" source="#WineLovers" target="#Wine" weight="299" />
+      <edge id="15" source="#competiton" target="#FreixenetFriday" weight="299" />
+      <edge id="16" source="#Win" target="#FreixenetFriday" weight="299" />
+      <edge id="17" source="#FreixenetFriday" target="#win" weight="299" />
+      <edge id="18" source="#WW" target="#Wine" weight="299" />
+    </edges>
+  </graph>
+</gexf>

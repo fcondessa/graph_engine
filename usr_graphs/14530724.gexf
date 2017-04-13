@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NBAFinalsVote" label="#NBAFinalsVote" />
+      <node id="#warriordash" label="#warriordash" />
+      <node id="#downtowncolumbus" label="#downtowncolumbus" />
+      <node id="#UnitedAgainstHate" label="#UnitedAgainstHate" />
+      <node id="#manup" label="#manup" />
+      <node id="#USMNT" label="#USMNT" />
+      <node id="#columbusohio" label="#columbusohio" />
+      <node id="#putalidonit" label="#putalidonit" />
+      <node id="#onegoal" label="#onegoal" />
+      <node id="#lovemycity" label="#lovemycity" />
+      <node id="#StrongerTogether" label="#StrongerTogether" />
+      <node id="#LookAlike" label="#LookAlike" />
+      <node id="#Nationalchampions" label="#Nationalchampions" />
+      <node id="#GoBulls" label="#GoBulls" />
+      <node id="#oldnorth" label="#oldnorth" />
+      <node id="#DealMeIn" label="#DealMeIn" />
+      <node id="#columbusdispatch" label="#columbusdispatch" />
+      <node id="#TruliHome" label="#TruliHome" />
+      <node id="#ALLin216" label="#ALLin216" />
+      <node id="#olentangygreenwaytrail" label="#olentangygreenwaytrail" />
+      <node id="#BiketoWorkWeek" label="#BiketoWorkWeek" />
+      <node id="#speakout" label="#speakout" />
+      <node id="#endcancer" label="#endcancer" />
+      <node id="#Giveaway" label="#Giveaway" />
+      <node id="#USAvGHA" label="#USAvGHA" />
+      <node id="#halfmarathon" label="#halfmarathon" />
+      <node id="#bikehelmetsafetyawarenessweek" label="#bikehelmetsafetyawarenessweek" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#WomensWorldCup" label="#WomensWorldCup" />
+      <node id="#USWNT" label="#USWNT" />
+      <node id="#mendzlywedding2014" label="#mendzlywedding2014" />
+      <node id="#GoGrizz" label="#GoGrizz" />
+      <node id="#GoGasol" label="#GoGasol" />
+      <node id="#ProudAmerican" label="#ProudAmerican" />
+      <node id="#RWB" label="#RWB" />
+      <node id="#Keystone" label="#Keystone" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NBAFinalsVote" target="#ALLin216" weight="174" />
+      <edge id="1" source="#warriordash" target="#halfmarathon" weight="174" />
+      <edge id="2" source="#downtowncolumbus" target="#BiketoWorkWeek" weight="174" />
+      <edge id="3" source="#downtowncolumbus" target="#oldnorth" weight="174" />
+      <edge id="4" source="#UnitedAgainstHate" target="#ProudAmerican" weight="174" />
+      <edge id="5" source="#manup" target="#speakout" weight="174" />
+      <edge id="6" source="#USMNT" target="#USAvGHA" weight="174" />
+      <edge id="7" source="#columbusohio" target="#lovemycity" weight="174" />
+      <edge id="8" source="#putalidonit" target="#bikehelmetsafetyawarenessweek" weight="174" />
+      <edge id="9" source="#onegoal" target="#endcancer" weight="174" />
+      <edge id="10" source="#StrongerTogether" target="#DealMeIn" weight="174" />
+      <edge id="11" source="#LookAlike" target="#GoGasol" weight="174" />
+      <edge id="12" source="#LookAlike" target="#GoBulls" weight="174" />
+      <edge id="13" source="#LookAlike" target="#GoGrizz" weight="174" />
+      <edge id="14" source="#Nationalchampions" target="#columbusdispatch" weight="174" />
+      <edge id="15" source="#Nationalchampions" target="#GoBucks" weight="174" />
+      <edge id="16" source="#GoBulls" target="#GoGasol" weight="174" />
+      <edge id="17" source="#GoBulls" target="#GoGrizz" weight="174" />
+      <edge id="18" source="#oldnorth" target="#BiketoWorkWeek" weight="174" />
+      <edge id="19" source="#columbusdispatch" target="#GoBucks" weight="174" />
+      <edge id="20" source="#TruliHome" target="#Giveaway" weight="174" />
+      <edge id="21" source="#olentangygreenwaytrail" target="#RWB" weight="174" />
+      <edge id="22" source="#WomensWorldCup" target="#USWNT" weight="174" />
+      <edge id="23" source="#mendzlywedding2014" target="#Keystone" weight="174" />
+      <edge id="24" source="#GoGrizz" target="#GoGasol" weight="174" />
+    </edges>
+  </graph>
+</gexf>

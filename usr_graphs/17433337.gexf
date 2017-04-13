@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#nopants" label="#nopants" />
+      <node id="#goingdeepwithdavidrees" label="#goingdeepwithdavidrees" />
+      <node id="#RIPLaika" label="#RIPLaika" />
+      <node id="#pitbull" label="#pitbull" />
+      <node id="#daisyjdog" label="#daisyjdog" />
+      <node id="#GoPeeDebate" label="#GoPeeDebate" />
+      <node id="#CatShamingWeek" label="#CatShamingWeek" />
+      <node id="#muttsfuncon" label="#muttsfuncon" />
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#BestShowForLife" label="#BestShowForLife" />
+      <node id="#catsarestupid" label="#catsarestupid" />
+      <node id="#GDDR" label="#GDDR" />
+      <node id="#FatShamingWeek" label="#FatShamingWeek" />
+      <node id="#maxfurcon" label="#maxfurcon" />
+      <node id="#gif" label="#gif" />
+      <node id="#cinemagraph" label="#cinemagraph" />
+      <node id="#hatecats" label="#hatecats" />
+      <node id="#ignoretheflipflop" label="#ignoretheflipflop" />
+      <node id="#SarcasticDog" label="#SarcasticDog" />
+      <node id="#dogpants" label="#dogpants" />
+      <node id="#14andahalfyears" label="#14andahalfyears" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#BestShowSelfie" label="#BestShowSelfie" />
+      <node id="#onlyfoods" label="#onlyfoods" />
+      <node id="#dogpuns" label="#dogpuns" />
+      <node id="#BestShowWFMU" label="#BestShowWFMU" />
+      <node id="#twibbon" label="#twibbon" />
+      <node id="#WFMU" label="#WFMU" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#nopants" target="#dogpants" weight="2924" />
+      <edge id="1" source="#nopants" target="#onlyfoods" weight="2924" />
+      <edge id="2" source="#goingdeepwithdavidrees" target="#RIPLaika" weight="2924" />
+      <edge id="3" source="#goingdeepwithdavidrees" target="#GDDR" weight="20468" />
+      <edge id="4" source="#RIPLaika" target="#GDDR" weight="2924" />
+      <edge id="5" source="#pitbull" target="#daisyjdog" weight="2924" />
+      <edge id="6" source="#pitbull" target="#ignoretheflipflop" weight="2924" />
+      <edge id="7" source="#pitbull" target="#14andahalfyears" weight="2924" />
+      <edge id="8" source="#daisyjdog" target="#ignoretheflipflop" weight="2924" />
+      <edge id="9" source="#daisyjdog" target="#14andahalfyears" weight="2924" />
+      <edge id="10" source="#GoPeeDebate" target="#GOPDebate" weight="2924" />
+      <edge id="11" source="#CatShamingWeek" target="#FatShamingWeek" weight="2924" />
+      <edge id="12" source="#muttsfuncon" target="#maxfurcon" weight="2924" />
+      <edge id="13" source="#muttsfuncon" target="#dogpuns" weight="2924" />
+      <edge id="14" source="#BestShowForLife" target="#BestShowWFMU" weight="2924" />
+      <edge id="15" source="#catsarestupid" target="#hatecats" weight="2924" />
+      <edge id="16" source="#maxfurcon" target="#dogpuns" weight="2924" />
+      <edge id="17" source="#gif" target="#cinemagraph" weight="2924" />
+      <edge id="18" source="#ignoretheflipflop" target="#14andahalfyears" weight="2924" />
+      <edge id="19" source="#SarcasticDog" target="#Oscars" weight="2924" />
+      <edge id="20" source="#dogpants" target="#onlyfoods" weight="2924" />
+      <edge id="21" source="#BestShowSelfie" target="#BestShowWFMU" weight="2924" />
+      <edge id="22" source="#twibbon" target="#WFMU" weight="2924" />
+    </edges>
+  </graph>
+</gexf>

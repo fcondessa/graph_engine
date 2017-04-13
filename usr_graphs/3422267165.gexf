@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#LettertotheEditor" label="#LettertotheEditor" />
+      <node id="#2016Election" label="#2016Election" />
+      <node id="#voters" label="#voters" />
+      <node id="#paycheck" label="#paycheck" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#GoVote" label="#GoVote" />
+      <node id="#Opinion" label="#Opinion" />
+      <node id="#ShimmyWithHer" label="#ShimmyWithHer" />
+      <node id="#OHHillYes" label="#OHHillYes" />
+      <node id="#DNCplatform" label="#DNCplatform" />
+      <node id="#family" label="#family" />
+      <node id="#PaidFamilyLeave" label="#PaidFamilyLeave" />
+      <node id="#energy" label="#energy" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#OH" label="#OH" />
+      <node id="#WorkersRising" label="#WorkersRising" />
+      <node id="#energyefficiency" label="#energyefficiency" />
+      <node id="#Take15for15" label="#Take15for15" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#LettertotheEditor" target="#Opinion" weight="111" />
+      <edge id="1" source="#2016Election" target="#GoVote" weight="111" />
+      <edge id="2" source="#voters" target="#family" weight="111" />
+      <edge id="3" source="#voters" target="#paycheck" weight="111" />
+      <edge id="4" source="#paycheck" target="#family" weight="111" />
+      <edge id="5" source="#Columbus" target="#OH" weight="111" />
+      <edge id="6" source="#ShimmyWithHer" target="#OHHillYes" weight="222" />
+      <edge id="7" source="#DNCplatform" target="#PaidFamilyLeave" weight="111" />
+      <edge id="8" source="#DNCplatform" target="#DidYouKnow" weight="111" />
+      <edge id="9" source="#PaidFamilyLeave" target="#DidYouKnow" weight="111" />
+      <edge id="10" source="#energy" target="#energyefficiency" weight="111" />
+      <edge id="11" source="#WorkersRising" target="#Take15for15" weight="111" />
+    </edges>
+  </graph>
+</gexf>

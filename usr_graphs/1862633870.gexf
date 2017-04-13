@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#braininjury" label="#braininjury" />
+      <node id="#kindness" label="#kindness" />
+      <node id="#AlwaysKeepFighting" label="#AlwaysKeepFighting" />
+      <node id="#Depression" label="#Depression" />
+      <node id="#SemicolonProject416" label="#SemicolonProject416" />
+      <node id="#LakeErie" label="#LakeErie" />
+      <node id="#toxicalgae" label="#toxicalgae" />
+      <node id="#loveyouall" label="#loveyouall" />
+      <node id="#SemicolonProject" label="#SemicolonProject" />
+      <node id="#Michigan" label="#Michigan" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#ProjectSemicolon" label="#ProjectSemicolon" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#braininjury" target="#kindness" weight="113" />
+      <edge id="1" source="#braininjury" target="#mentalhealth" weight="113" />
+      <edge id="2" source="#braininjury" target="#Depression" weight="113" />
+      <edge id="3" source="#kindness" target="#mentalhealth" weight="113" />
+      <edge id="4" source="#kindness" target="#Depression" weight="113" />
+      <edge id="5" source="#AlwaysKeepFighting" target="#SemicolonProject" weight="113" />
+      <edge id="6" source="#Depression" target="#mentalhealth" weight="113" />
+      <edge id="7" source="#SemicolonProject416" target="#ProjectSemicolon" weight="226" />
+      <edge id="8" source="#LakeErie" target="#toxicalgae" weight="113" />
+      <edge id="9" source="#LakeErie" target="#Michigan" weight="113" />
+      <edge id="10" source="#LakeErie" target="#Ohio" weight="113" />
+      <edge id="11" source="#toxicalgae" target="#Michigan" weight="113" />
+      <edge id="12" source="#toxicalgae" target="#Ohio" weight="113" />
+      <edge id="13" source="#loveyouall" target="#CBJ" weight="113" />
+      <edge id="14" source="#Michigan" target="#Ohio" weight="113" />
+    </edges>
+  </graph>
+</gexf>

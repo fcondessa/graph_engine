@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#dontjudgeme" label="#dontjudgeme" />
+      <node id="#govote" label="#govote" />
+      <node id="#cgnow" label="#cgnow" />
+      <node id="#HeartofAfrica" label="#HeartofAfrica" />
+      <node id="#ohapme2016" label="#ohapme2016" />
+      <node id="#clownmystery" label="#clownmystery" />
+      <node id="#newgannett" label="#newgannett" />
+      <node id="#SharkWeek" label="#SharkWeek" />
+      <node id="#PokemonGo" label="#PokemonGo" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#partylikeajournalist" label="#partylikeajournalist" />
+      <node id="#pokerface" label="#pokerface" />
+      <node id="#hotrodpowertour" label="#hotrodpowertour" />
+      <node id="#pamperedchick" label="#pamperedchick" />
+      <node id="#trnow" label="#trnow" />
+      <node id="#arteducation" label="#arteducation" />
+      <node id="#lanfest" label="#lanfest" />
+      <node id="#thirstypig" label="#thirstypig" />
+      <node id="#egsnow" label="#egsnow" />
+      <node id="#WorldElephantDay" label="#WorldElephantDay" />
+      <node id="#watchdog" label="#watchdog" />
+      <node id="#camel" label="#camel" />
+      <node id="#theplacetobe" label="#theplacetobe" />
+      <node id="#nanow" label="#nanow" />
+      <node id="#ihatethedentist" label="#ihatethedentist" />
+      <node id="#imharmless" label="#imharmless" />
+      <node id="#summer" label="#summer" />
+      <node id="#8thgradeart" label="#8thgradeart" />
+      <node id="#ohioblackbear" label="#ohioblackbear" />
+      <node id="#DontCatchAndDrive" label="#DontCatchAndDrive" />
+      <node id="#pinterestwin" label="#pinterestwin" />
+      <node id="#ilovemyjob" label="#ilovemyjob" />
+      <node id="#fairfieldcountyfair" label="#fairfieldcountyfair" />
+      <node id="#mudhousemansion" label="#mudhousemansion" />
+      <node id="#egnow" label="#egnow" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#dontjudgeme" target="#imharmless" weight="3200" />
+      <edge id="1" source="#govote" target="#egnow" weight="3200" />
+      <edge id="2" source="#cgnow" target="#egnow" weight="3200" />
+      <edge id="3" source="#HeartofAfrica" target="#camel" weight="3200" />
+      <edge id="4" source="#ohapme2016" target="#egnow" weight="6400" />
+      <edge id="5" source="#clownmystery" target="#ilovemyjob" weight="3200" />
+      <edge id="6" source="#newgannett" target="#partylikeajournalist" weight="3200" />
+      <edge id="7" source="#SharkWeek" target="#WorldElephantDay" weight="3200" />
+      <edge id="8" source="#PokemonGo" target="#DontCatchAndDrive" weight="3200" />
+      <edge id="9" source="#Ohio" target="#summer" weight="3200" />
+      <edge id="10" source="#pokerface" target="#ihatethedentist" weight="3200" />
+      <edge id="11" source="#hotrodpowertour" target="#egnow" weight="6400" />
+      <edge id="12" source="#pamperedchick" target="#egnow" weight="3200" />
+      <edge id="13" source="#trnow" target="#nanow" weight="6400" />
+      <edge id="14" source="#trnow" target="#egnow" weight="19200" />
+      <edge id="15" source="#arteducation" target="#8thgradeart" weight="3200" />
+      <edge id="16" source="#arteducation" target="#theplacetobe" weight="3200" />
+      <edge id="17" source="#lanfest" target="#egnow" weight="25600" />
+      <edge id="18" source="#thirstypig" target="#egnow" weight="3200" />
+      <edge id="19" source="#egsnow" target="#egnow" weight="6400" />
+      <edge id="20" source="#watchdog" target="#pinterestwin" weight="3200" />
+      <edge id="21" source="#theplacetobe" target="#8thgradeart" weight="3200" />
+      <edge id="22" source="#nanow" target="#egnow" weight="70400" />
+      <edge id="23" source="#ohioblackbear" target="#egnow" weight="3200" />
+      <edge id="24" source="#fairfieldcountyfair" target="#egnow" weight="9600" />
+      <edge id="25" source="#mudhousemansion" target="#egnow" weight="28800" />
+      <edge id="26" source="#egnow" target="#egnow" weight="6400" />
+    </edges>
+  </graph>
+</gexf>

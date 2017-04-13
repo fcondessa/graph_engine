@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NotoEU" label="#NotoEU" />
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#Trumptapes" label="#Trumptapes" />
+      <node id="#data" label="#data" />
+      <node id="#EUreferendum" label="#EUreferendum" />
+      <node id="#VPDebate" label="#VPDebate" />
+      <node id="#election2016" label="#election2016" />
+      <node id="#sentimentanalysis" label="#sentimentanalysis" />
+      <node id="#dessert" label="#dessert" />
+      <node id="#NeverTrump" label="#NeverTrump" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#freetoagoodhome" label="#freetoagoodhome" />
+      <node id="#debate" label="#debate" />
+      <node id="#nature" label="#nature" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#homesweethome" label="#homesweethome" />
+      <node id="#Bremain" label="#Bremain" />
+      <node id="#semanticweb" label="#semanticweb" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#Election2016" label="#Election2016" />
+      <node id="#debates" label="#debates" />
+      <node id="#EURef" label="#EURef" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#Olympics2016" label="#Olympics2016" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#gopconvention" label="#gopconvention" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#dogs" label="#dogs" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#sentiment" label="#sentiment" />
+      <node id="#startup" label="#startup" />
+      <node id="#2A" label="#2A" />
+      <node id="#accelerator" label="#accelerator" />
+      <node id="#semantic" label="#semantic" />
+      <node id="#realdonaldtrump" label="#realdonaldtrump" />
+      <node id="#Kiribati" label="#Kiribati" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#geography" label="#geography" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#VirtualReality" label="#VirtualReality" />
+      <node id="#columbusOHIO" label="#columbusOHIO" />
+      <node id="#DYTstartupweek" label="#DYTstartupweek" />
+      <node id="#DNCConvention" label="#DNCConvention" />
+      <node id="#Elections2016" label="#Elections2016" />
+      <node id="#Twitris" label="#Twitris" />
+      <node id="#HillaryClinton" label="#HillaryClinton" />
+      <node id="#Alibaba" label="#Alibaba" />
+      <node id="#China" label="#China" />
+      <node id="#DataAnalytics" label="#DataAnalytics" />
+      <node id="#PE" label="#PE" />
+      <node id="#Pence" label="#Pence" />
+      <node id="#tech" label="#tech" />
+      <node id="#SocialMediaDay" label="#SocialMediaDay" />
+      <node id="#startups" label="#startups" />
+      <node id="#MachineLearning" label="#MachineLearning" />
+      <node id="#roadtrip" label="#roadtrip" />
+      <node id="#S" label="#S" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#Tencent" label="#Tencent" />
+      <node id="#trumptaxes" label="#trumptaxes" />
+      <node id="#machinelearning" label="#machinelearning" />
+      <node id="#VC" label="#VC" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NotoEU" target="#EURef" weight="140" />
+      <edge id="1" source="#NotoEU" target="#Bremain" weight="140" />
+      <edge id="2" source="#NotoEU" target="#Brexit" weight="140" />
+      <edge id="3" source="#Debates2016" target="#NeverTrump" weight="140" />
+      <edge id="4" source="#Trumptapes" target="#Twitris" weight="140" />
+      <edge id="5" source="#data" target="#debatenight" weight="140" />
+      <edge id="6" source="#data" target="#debate" weight="140" />
+      <edge id="7" source="#data" target="#analytics" weight="140" />
+      <edge id="8" source="#EUreferendum" target="#Brexit" weight="140" />
+      <edge id="9" source="#VPDebate" target="#Twitris" weight="280" />
+      <edge id="10" source="#VPDebate" target="#VPDebate" weight="280" />
+      <edge id="11" source="#VPDebate" target="#Election2016" weight="140" />
+      <edge id="12" source="#VPDebate" target="#Pence" weight="280" />
+      <edge id="13" source="#VPDebate" target="#trumptaxes" weight="140" />
+      <edge id="14" source="#VPDebate" target="#Trump" weight="280" />
+      <edge id="15" source="#election2016" target="#Dayton" weight="140" />
+      <edge id="16" source="#election2016" target="#startup" weight="140" />
+      <edge id="17" source="#election2016" target="#debates" weight="140" />
+      <edge id="18" source="#sentimentanalysis" target="#Brexit" weight="140" />
+      <edge id="19" source="#sentimentanalysis" target="#BigData" weight="140" />
+      <edge id="20" source="#dessert" target="#entrepreneurship" weight="140" />
+      <edge id="21" source="#dessert" target="#startups" weight="140" />
+      <edge id="22" source="#entrepreneurship" target="#startups" weight="140" />
+      <edge id="23" source="#freetoagoodhome" target="#dogs" weight="140" />
+      <edge id="24" source="#freetoagoodhome" target="#nature" weight="140" />
+      <edge id="25" source="#debate" target="#sentiment" weight="140" />
+      <edge id="26" source="#debate" target="#Election2016" weight="140" />
+      <edge id="27" source="#debate" target="#analytics" weight="140" />
+      <edge id="28" source="#nature" target="#dogs" weight="140" />
+      <edge id="29" source="#Ohio" target="#columbusOHIO" weight="140" />
+      <edge id="30" source="#Ohio" target="#startups" weight="140" />
+      <edge id="31" source="#Ohio" target="#VC" weight="140" />
+      <edge id="32" source="#Ohio" target="#homesweethome" weight="140" />
+      <edge id="33" source="#Dayton" target="#startup" weight="140" />
+      <edge id="34" source="#Dayton" target="#debates" weight="140" />
+      <edge id="35" source="#homesweethome" target="#columbusOHIO" weight="140" />
+      <edge id="36" source="#Bremain" target="#EURef" weight="140" />
+      <edge id="37" source="#Bremain" target="#Brexit" weight="280" />
+      <edge id="38" source="#semanticweb" target="#MachineLearning" weight="140" />
+      <edge id="39" source="#semanticweb" target="#Election2016" weight="140" />
+      <edge id="40" source="#semanticweb" target="#startup" weight="140" />
+      <edge id="41" source="#semanticweb" target="#Brexit" weight="140" />
+      <edge id="42" source="#semanticweb" target="#machinelearning" weight="140" />
+      <edge id="43" source="#semanticweb" target="#socialmedia" weight="140" />
+      <edge id="44" source="#entrepreneur" target="#startup" weight="280" />
+      <edge id="45" source="#entrepreneur" target="#Columbus" weight="140" />
+      <edge id="46" source="#entrepreneur" target="#DYTstartupweek" weight="140" />
+      <edge id="47" source="#Election2016" target="#MachineLearning" weight="140" />
+      <edge id="48" source="#debates" target="#startup" weight="140" />
+      <edge id="49" source="#EURef" target="#Brexit" weight="140" />
+      <edge id="50" source="#BigData" target="#Brexit" weight="140" />
+      <edge id="51" source="#Olympics2016" target="#geography" weight="140" />
+      <edge id="52" source="#Olympics2016" target="#Kiribati" weight="140" />
+      <edge id="53" source="#CBUS" target="#startup" weight="140" />
+      <edge id="54" source="#gopconvention" target="#DNCConvention" weight="140" />
+      <edge id="55" source="#gopconvention" target="#Elections2016" weight="140" />
+      <edge id="56" source="#debatenight" target="#2A" weight="140" />
+      <edge id="57" source="#Trump" target="#Pence" weight="140" />
+      <edge id="58" source="#Trump" target="#Twitris" weight="140" />
+      <edge id="59" source="#startup" target="#DYTstartupweek" weight="140" />
+      <edge id="60" source="#startup" target="#semantic" weight="140" />
+      <edge id="61" source="#startup" target="#SocialMediaDay" weight="140" />
+      <edge id="62" source="#startup" target="#Brexit" weight="140" />
+      <edge id="63" source="#startup" target="#accelerator" weight="140" />
+      <edge id="64" source="#startup" target="#Columbus" weight="280" />
+      <edge id="65" source="#semantic" target="#DataAnalytics" weight="140" />
+      <edge id="66" source="#semantic" target="#Brexit" weight="140" />
+      <edge id="67" source="#semantic" target="#SocialMediaDay" weight="140" />
+      <edge id="68" source="#realdonaldtrump" target="#HillaryClinton" weight="140" />
+      <edge id="69" source="#realdonaldtrump" target="#Brexit" weight="140" />
+      <edge id="70" source="#Kiribati" target="#geography" weight="140" />
+      <edge id="71" source="#Columbus" target="#startups" weight="140" />
+      <edge id="72" source="#socialmedia" target="#HillaryClinton" weight="140" />
+      <edge id="73" source="#socialmedia" target="#machinelearning" weight="140" />
+      <edge id="74" source="#VirtualReality" target="#roadtrip" weight="140" />
+      <edge id="75" source="#DNCConvention" target="#Elections2016" weight="140" />
+      <edge id="76" source="#Twitris" target="#Pence" weight="140" />
+      <edge id="77" source="#HillaryClinton" target="#Brexit" weight="140" />
+      <edge id="78" source="#Alibaba" target="#Tencent" weight="140" />
+      <edge id="79" source="#Alibaba" target="#China" weight="140" />
+      <edge id="80" source="#Alibaba" target="#tech" weight="140" />
+      <edge id="81" source="#China" target="#Tencent" weight="140" />
+      <edge id="82" source="#China" target="#tech" weight="140" />
+      <edge id="83" source="#DataAnalytics" target="#Brexit" weight="140" />
+      <edge id="84" source="#PE" target="#S" weight="140" />
+      <edge id="85" source="#PE" target="#VC" weight="140" />
+      <edge id="86" source="#tech" target="#Tencent" weight="140" />
+      <edge id="87" source="#startups" target="#VC" weight="140" />
+      <edge id="88" source="#S" target="#VC" weight="140" />
+    </edges>
+  </graph>
+</gexf>

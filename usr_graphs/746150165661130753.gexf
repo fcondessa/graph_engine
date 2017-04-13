@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#bars" label="#bars" />
+      <node id="#solidarity" label="#solidarity" />
+      <node id="#ThursdayThoughts" label="#ThursdayThoughts" />
+      <node id="#brookland" label="#brookland" />
+      <node id="#JacobLawrence" label="#JacobLawrence" />
+      <node id="#girlcat" label="#girlcat" />
+      <node id="#MigrationSeries" label="#MigrationSeries" />
+      <node id="#edgewood" label="#edgewood" />
+      <node id="#caturday" label="#caturday" />
+      <node id="#Mathew" label="#Mathew" />
+      <node id="#WeAreNotThis" label="#WeAreNotThis" />
+      <node id="#StopTheHate" label="#StopTheHate" />
+      <node id="#fitbottomedzen" label="#fitbottomedzen" />
+      <node id="#LGBTQ" label="#LGBTQ" />
+      <node id="#HurricaneMatthew" label="#HurricaneMatthew" />
+      <node id="#FBGAntiDiet" label="#FBGAntiDiet" />
+      <node id="#callseanhannity" label="#callseanhannity" />
+      <node id="#HB2" label="#HB2" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Debates2016" target="#callseanhannity" weight="3239" />
+      <edge id="1" source="#bars" target="#brookland" weight="3239" />
+      <edge id="2" source="#bars" target="#edgewood" weight="3239" />
+      <edge id="3" source="#solidarity" target="#caturday" weight="3239" />
+      <edge id="4" source="#ThursdayThoughts" target="#FBGAntiDiet" weight="3239" />
+      <edge id="5" source="#ThursdayThoughts" target="#fitbottomedzen" weight="3239" />
+      <edge id="6" source="#brookland" target="#edgewood" weight="3239" />
+      <edge id="7" source="#JacobLawrence" target="#MigrationSeries" weight="3239" />
+      <edge id="8" source="#girlcat" target="#caturday" weight="3239" />
+      <edge id="9" source="#Mathew" target="#HurricaneMatthew" weight="3239" />
+      <edge id="10" source="#WeAreNotThis" target="#LGBTQ" weight="3239" />
+      <edge id="11" source="#WeAreNotThis" target="#StopTheHate" weight="3239" />
+      <edge id="12" source="#WeAreNotThis" target="#HB2" weight="3239" />
+      <edge id="13" source="#StopTheHate" target="#LGBTQ" weight="3239" />
+      <edge id="14" source="#StopTheHate" target="#HB2" weight="3239" />
+      <edge id="15" source="#fitbottomedzen" target="#FBGAntiDiet" weight="3239" />
+      <edge id="16" source="#LGBTQ" target="#HB2" weight="3239" />
+    </edges>
+  </graph>
+</gexf>

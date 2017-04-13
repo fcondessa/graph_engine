@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#jerseycity" label="#jerseycity" />
+      <node id="#tingles" label="#tingles" />
+      <node id="#anaglyph" label="#anaglyph" />
+      <node id="#loveall" label="#loveall" />
+      <node id="#primaverasound" label="#primaverasound" />
+      <node id="#SinglesGoingSteady" label="#SinglesGoingSteady" />
+      <node id="#justforoneday" label="#justforoneday" />
+      <node id="#rock" label="#rock" />
+      <node id="#3d" label="#3d" />
+      <node id="#weatherporn" label="#weatherporn" />
+      <node id="#radio" label="#radio" />
+      <node id="#voidoids" label="#voidoids" />
+      <node id="#hyperlapse" label="#hyperlapse" />
+      <node id="#IvanJulian" label="#IvanJulian" />
+      <node id="#RichardHell" label="#RichardHell" />
+      <node id="#roku" label="#roku" />
+      <node id="#music" label="#music" />
+      <node id="#animals" label="#animals" />
+      <node id="#SquirrelAppreciationDay" label="#SquirrelAppreciationDay" />
+      <node id="#BlackMirror" label="#BlackMirror" />
+      <node id="#singlesgoingsteady" label="#singlesgoingsteady" />
+      <node id="#Serial" label="#Serial" />
+      <node id="#BestShow4Life" label="#BestShow4Life" />
+      <node id="#NewRekkid" label="#NewRekkid" />
+      <node id="#BestShow2014" label="#BestShow2014" />
+      <node id="#SinglesGoingSteadyWeek" label="#SinglesGoingSteadyWeek" />
+      <node id="#WFMU" label="#WFMU" />
+      <node id="#Television" label="#Television" />
+      <node id="#RNC2016" label="#RNC2016" />
+      <node id="#punk" label="#punk" />
+      <node id="#asmr" label="#asmr" />
+      <node id="#OG" label="#OG" />
+      <node id="#snudgementday" label="#snudgementday" />
+      <node id="#wfmu" label="#wfmu" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#jerseycity" target="#wfmu" weight="3241" />
+      <edge id="1" source="#tingles" target="#asmr" weight="3241" />
+      <edge id="2" source="#anaglyph" target="#3d" weight="3241" />
+      <edge id="3" source="#loveall" target="#punk" weight="3241" />
+      <edge id="4" source="#loveall" target="#SquirrelAppreciationDay" weight="3241" />
+      <edge id="5" source="#loveall" target="#animals" weight="3241" />
+      <edge id="6" source="#loveall" target="#rock" weight="3241" />
+      <edge id="7" source="#loveall" target="#music" weight="3241" />
+      <edge id="8" source="#primaverasound" target="#hyperlapse" weight="3241" />
+      <edge id="9" source="#SinglesGoingSteady" target="#NewRekkid" weight="16205" />
+      <edge id="10" source="#justforoneday" target="#WFMU" weight="3241" />
+      <edge id="11" source="#rock" target="#punk" weight="3241" />
+      <edge id="12" source="#rock" target="#SquirrelAppreciationDay" weight="3241" />
+      <edge id="13" source="#rock" target="#animals" weight="3241" />
+      <edge id="14" source="#rock" target="#music" weight="3241" />
+      <edge id="15" source="#weatherporn" target="#snudgementday" weight="3241" />
+      <edge id="16" source="#radio" target="#roku" weight="3241" />
+      <edge id="17" source="#radio" target="#music" weight="3241" />
+      <edge id="18" source="#voidoids" target="#RichardHell" weight="3241" />
+      <edge id="19" source="#voidoids" target="#OG" weight="3241" />
+      <edge id="20" source="#voidoids" target="#IvanJulian" weight="3241" />
+      <edge id="21" source="#IvanJulian" target="#RichardHell" weight="3241" />
+      <edge id="22" source="#IvanJulian" target="#OG" weight="3241" />
+      <edge id="23" source="#RichardHell" target="#OG" weight="3241" />
+      <edge id="24" source="#roku" target="#music" weight="3241" />
+      <edge id="25" source="#music" target="#animals" weight="3241" />
+      <edge id="26" source="#music" target="#punk" weight="3241" />
+      <edge id="27" source="#music" target="#SquirrelAppreciationDay" weight="3241" />
+      <edge id="28" source="#animals" target="#punk" weight="3241" />
+      <edge id="29" source="#animals" target="#SquirrelAppreciationDay" weight="3241" />
+      <edge id="30" source="#SquirrelAppreciationDay" target="#punk" weight="3241" />
+      <edge id="31" source="#BlackMirror" target="#Television" weight="3241" />
+      <edge id="32" source="#singlesgoingsteady" target="#NewRekkid" weight="3241" />
+      <edge id="33" source="#Serial" target="#BestShow4Life" weight="3241" />
+      <edge id="34" source="#Serial" target="#BestShow2014" weight="3241" />
+      <edge id="35" source="#BestShow4Life" target="#BestShow2014" weight="3241" />
+      <edge id="36" source="#NewRekkid" target="#SinglesGoingSteadyWeek" weight="12964" />
+      <edge id="37" source="#WFMU" target="#RNC2016" weight="3241" />
+    </edges>
+  </graph>
+</gexf>

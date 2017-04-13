@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#614Day2016" label="#614Day2016" />
+      <node id="#ilovecoffee" label="#ilovecoffee" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#business" label="#business" />
+      <node id="#visualsoflife" label="#visualsoflife" />
+      <node id="#gourmet" label="#gourmet" />
+      <node id="#Marketers" label="#Marketers" />
+      <node id="#ilovemom" label="#ilovemom" />
+      <node id="#GMO" label="#GMO" />
+      <node id="#stone2cbus" label="#stone2cbus" />
+      <node id="#OhioDairy" label="#OhioDairy" />
+      <node id="#goodmorningmom" label="#goodmorningmom" />
+      <node id="#beerfest" label="#beerfest" />
+      <node id="#starspangledbanner" label="#starspangledbanner" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#columbusfoodtruckfest" label="#columbusfoodtruckfest" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#ohioriver" label="#ohioriver" />
+      <node id="#natural" label="#natural" />
+      <node id="#mom" label="#mom" />
+      <node id="#liveauthentic" label="#liveauthentic" />
+      <node id="#Instagram" label="#Instagram" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#igcbus" label="#igcbus" />
+      <node id="#Productivity" label="#Productivity" />
+      <node id="#coffeeportrait" label="#coffeeportrait" />
+      <node id="#Blog" label="#Blog" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#4thofjuly" label="#4thofjuly" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#Blogging" label="#Blogging" />
+      <node id="#Content" label="#Content" />
+      <node id="#PokémonGO" label="#PokémonGO" />
+      <node id="#igcbus_thewex" label="#igcbus_thewex" />
+      <node id="#onthetable" label="#onthetable" />
+      <node id="#ilovesilverbridge" label="#ilovesilverbridge" />
+      <node id="#silverbridgecoffee" label="#silverbridgecoffee" />
+      <node id="#columbuscoffee" label="#columbuscoffee" />
+      <node id="#lifeincbus_shortnorth" label="#lifeincbus_shortnorth" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#instameet" label="#instameet" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#614Day2016" target="#igcbus" weight="422" />
+      <edge id="1" source="#614Day2016" target="#lifeincbus" weight="422" />
+      <edge id="2" source="#614Day2016" target="#lifeincbus_shortnorth" weight="422" />
+      <edge id="3" source="#ilovecoffee" target="#onthetable" weight="422" />
+      <edge id="4" source="#ilovecoffee" target="#silverbridgecoffee" weight="1266" />
+      <edge id="5" source="#ilovecoffee" target="#ohioriver" weight="422" />
+      <edge id="6" source="#ilovecoffee" target="#asseenincolumbus" weight="422" />
+      <edge id="7" source="#ilovecoffee" target="#columbuscoffee" weight="422" />
+      <edge id="8" source="#ilovecoffee" target="#coffee" weight="844" />
+      <edge id="9" source="#ilovecoffee" target="#coffeeportrait" weight="422" />
+      <edge id="10" source="#SEO" target="#Marketing" weight="422" />
+      <edge id="11" source="#SEO" target="#marketing" weight="422" />
+      <edge id="12" source="#SEO" target="#PokémonGO" weight="422" />
+      <edge id="13" source="#asseenincolumbus" target="#coffee" weight="422" />
+      <edge id="14" source="#asseenincolumbus" target="#silverbridgecoffee" weight="422" />
+      <edge id="15" source="#Pinterest" target="#Marketers" weight="422" />
+      <edge id="16" source="#business" target="#GMO" weight="422" />
+      <edge id="17" source="#visualsoflife" target="#starspangledbanner" weight="422" />
+      <edge id="18" source="#visualsoflife" target="#liveauthentic" weight="422" />
+      <edge id="19" source="#visualsoflife" target="#4thofjuly" weight="422" />
+      <edge id="20" source="#gourmet" target="#columbusfoodtruckfest" weight="422" />
+      <edge id="21" source="#ilovemom" target="#mom" weight="422" />
+      <edge id="22" source="#ilovemom" target="#coffee" weight="422" />
+      <edge id="23" source="#ilovemom" target="#silverbridgecoffee" weight="422" />
+      <edge id="24" source="#ilovemom" target="#ilovesilverbridge" weight="422" />
+      <edge id="25" source="#ilovemom" target="#goodmorningmom" weight="422" />
+      <edge id="26" source="#stone2cbus" target="#beerfest" weight="422" />
+      <edge id="27" source="#OhioDairy" target="#natural" weight="422" />
+      <edge id="28" source="#goodmorningmom" target="#coffee" weight="422" />
+      <edge id="29" source="#goodmorningmom" target="#silverbridgecoffee" weight="422" />
+      <edge id="30" source="#goodmorningmom" target="#mom" weight="422" />
+      <edge id="31" source="#goodmorningmom" target="#ilovesilverbridge" weight="422" />
+      <edge id="32" source="#starspangledbanner" target="#liveauthentic" weight="422" />
+      <edge id="33" source="#starspangledbanner" target="#4thofjuly" weight="422" />
+      <edge id="34" source="#socialmedia" target="#marketing" weight="844" />
+      <edge id="35" source="#ohioriver" target="#coffeeportrait" weight="422" />
+      <edge id="36" source="#ohioriver" target="#silverbridgecoffee" weight="422" />
+      <edge id="37" source="#ohioriver" target="#onthetable" weight="422" />
+      <edge id="38" source="#mom" target="#coffee" weight="422" />
+      <edge id="39" source="#mom" target="#silverbridgecoffee" weight="422" />
+      <edge id="40" source="#mom" target="#ilovesilverbridge" weight="422" />
+      <edge id="41" source="#liveauthentic" target="#4thofjuly" weight="422" />
+      <edge id="42" source="#Instagram" target="#Marketing" weight="422" />
+      <edge id="43" source="#Instagram" target="#SocialMedia" weight="422" />
+      <edge id="44" source="#coffee" target="#ilovesilverbridge" weight="422" />
+      <edge id="45" source="#coffee" target="#silverbridgecoffee" weight="1266" />
+      <edge id="46" source="#coffee" target="#columbuscoffee" weight="422" />
+      <edge id="47" source="#igcbus" target="#lifeincbus" weight="422" />
+      <edge id="48" source="#igcbus" target="#lifeincbus_shortnorth" weight="422" />
+      <edge id="49" source="#Productivity" target="#Twitter" weight="422" />
+      <edge id="50" source="#coffeeportrait" target="#onthetable" weight="422" />
+      <edge id="51" source="#coffeeportrait" target="#silverbridgecoffee" weight="422" />
+      <edge id="52" source="#Blog" target="#Blogging" weight="422" />
+      <edge id="53" source="#Marketing" target="#SocialMedia" weight="844" />
+      <edge id="54" source="#Marketing" target="#Content" weight="422" />
+      <edge id="55" source="#Marketing" target="#PokémonGO" weight="422" />
+      <edge id="56" source="#lifeincbus" target="#lifeincbus_shortnorth" weight="422" />
+      <edge id="57" source="#igcbus_thewex" target="#instameet" weight="422" />
+      <edge id="58" source="#onthetable" target="#silverbridgecoffee" weight="422" />
+      <edge id="59" source="#ilovesilverbridge" target="#silverbridgecoffee" weight="422" />
+      <edge id="60" source="#silverbridgecoffee" target="#columbuscoffee" weight="422" />
+    </edges>
+  </graph>
+</gexf>

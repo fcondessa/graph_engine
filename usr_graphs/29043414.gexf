@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#iwantone" label="#iwantone" />
+      <node id="#blues" label="#blues" />
+      <node id="#bostonspizza" label="#bostonspizza" />
+      <node id="#prime9" label="#prime9" />
+      <node id="#MascotFail" label="#MascotFail" />
+      <node id="#YouTube" label="#YouTube" />
+      <node id="#yuuup" label="#yuuup" />
+      <node id="#csi" label="#csi" />
+      <node id="#Blues" label="#Blues" />
+      <node id="#starbucks" label="#starbucks" />
+      <node id="#gossipgirl" label="#gossipgirl" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#boomer" label="#boomer" />
+      <node id="#thevampirediaries" label="#thevampirediaries" />
+      <node id="#mysupersweetsixteen" label="#mysupersweetsixteen" />
+      <node id="#carrytheflag" label="#carrytheflag" />
+      <node id="#iMovie" label="#iMovie" />
+      <node id="#Bruins" label="#Bruins" />
+      <node id="#ummhmm" label="#ummhmm" />
+      <node id="#Satan" label="#Satan" />
+      <node id="#youtuber" label="#youtuber" />
+      <node id="#cbj" label="#cbj" />
+      <node id="#calgary" label="#calgary" />
+      <node id="#rbar" label="#rbar" />
+      <node id="#socute" label="#socute" />
+      <node id="#bieberfever" label="#bieberfever" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#ThatAwkwardMoment" label="#ThatAwkwardMoment" />
+      <node id="#outsourced" label="#outsourced" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#iwantone" target="#socute" weight="1849" />
+      <edge id="1" source="#blues" target="#cbj" weight="1849" />
+      <edge id="2" source="#bostonspizza" target="#starbucks" weight="1849" />
+      <edge id="3" source="#prime9" target="#MLB" weight="1849" />
+      <edge id="4" source="#MascotFail" target="#CBJ" weight="3698" />
+      <edge id="5" source="#YouTube" target="#iMovie" weight="1849" />
+      <edge id="6" source="#yuuup" target="#ummhmm" weight="1849" />
+      <edge id="7" source="#csi" target="#outsourced" weight="1849" />
+      <edge id="8" source="#csi" target="#bieberfever" weight="1849" />
+      <edge id="9" source="#Blues" target="#cbj" weight="1849" />
+      <edge id="10" source="#gossipgirl" target="#thevampirediaries" weight="1849" />
+      <edge id="11" source="#CBJ" target="#Bruins" weight="1849" />
+      <edge id="12" source="#boomer" target="#cbj" weight="3698" />
+      <edge id="13" source="#mysupersweetsixteen" target="#Satan" weight="1849" />
+      <edge id="14" source="#carrytheflag" target="#cbj" weight="1849" />
+      <edge id="15" source="#youtuber" target="#ThatAwkwardMoment" weight="1849" />
+      <edge id="16" source="#cbj" target="#calgary" weight="3698" />
+      <edge id="17" source="#cbj" target="#rbar" weight="1849" />
+    </edges>
+  </graph>
+</gexf>

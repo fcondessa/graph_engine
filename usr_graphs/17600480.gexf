@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#caffeineaddict" label="#caffeineaddict" />
+      <node id="#latte" label="#latte" />
+      <node id="#Grandview" label="#Grandview" />
+      <node id="#inGrandview" label="#inGrandview" />
+      <node id="#GeekStampOfApproval" label="#GeekStampOfApproval" />
+      <node id="#writers" label="#writers" />
+      <node id="#yarnporn" label="#yarnporn" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#localcoffee" label="#localcoffee" />
+      <node id="#TheHalloweenArmy" label="#TheHalloweenArmy" />
+      <node id="#coldbrew" label="#coldbrew" />
+      <node id="#lastlegaldrug" label="#lastlegaldrug" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#amwriting" label="#amwriting" />
+      <node id="#JossWhedon" label="#JossWhedon" />
+      <node id="#caffeine" label="#caffeine" />
+      <node id="#sundayfunday" label="#sundayfunday" />
+      <node id="#flight" label="#flight" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#writerslife" label="#writerslife" />
+      <node id="#coffeeshops" label="#coffeeshops" />
+      <node id="#EzekielElliott" label="#EzekielElliott" />
+      <node id="#cbuscoffee" label="#cbuscoffee" />
+      <node id="#neighborlylove" label="#neighborlylove" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#caffeineaddict" target="#writerslife" weight="901" />
+      <edge id="1" source="#caffeineaddict" target="#amwriting" weight="901" />
+      <edge id="2" source="#caffeineaddict" target="#writers" weight="901" />
+      <edge id="3" source="#latte" target="#TheHalloweenArmy" weight="901" />
+      <edge id="4" source="#Grandview" target="#sundayfunday" weight="901" />
+      <edge id="5" source="#Grandview" target="#yarnporn" weight="901" />
+      <edge id="6" source="#inGrandview" target="#coffee" weight="901" />
+      <edge id="7" source="#inGrandview" target="#Columbus" weight="901" />
+      <edge id="8" source="#inGrandview" target="#cbuscoffee" weight="1802" />
+      <edge id="9" source="#GeekStampOfApproval" target="#coffee" weight="901" />
+      <edge id="10" source="#GeekStampOfApproval" target="#JossWhedon" weight="901" />
+      <edge id="11" source="#writers" target="#writerslife" weight="901" />
+      <edge id="12" source="#writers" target="#amwriting" weight="901" />
+      <edge id="13" source="#yarnporn" target="#sundayfunday" weight="901" />
+      <edge id="14" source="#OhioState" target="#EzekielElliott" weight="901" />
+      <edge id="15" source="#localcoffee" target="#neighborlylove" weight="901" />
+      <edge id="16" source="#coldbrew" target="#caffeine" weight="901" />
+      <edge id="17" source="#coldbrew" target="#lastlegaldrug" weight="901" />
+      <edge id="18" source="#lastlegaldrug" target="#caffeine" weight="901" />
+      <edge id="19" source="#coffee" target="#amwriting" weight="901" />
+      <edge id="20" source="#coffee" target="#JossWhedon" weight="901" />
+      <edge id="21" source="#coffee" target="#coffeeshops" weight="901" />
+      <edge id="22" source="#coffee" target="#Columbus" weight="901" />
+      <edge id="23" source="#coffee" target="#cbuscoffee" weight="901" />
+      <edge id="24" source="#amwriting" target="#writerslife" weight="901" />
+      <edge id="25" source="#flight" target="#Columbus" weight="901" />
+      <edge id="26" source="#Columbus" target="#cbuscoffee" weight="901" />
+    </edges>
+  </graph>
+</gexf>

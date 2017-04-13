@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#NorthCarolina" label="#NorthCarolina" />
+      <node id="#whitefeminism" label="#whitefeminism" />
+      <node id="#micdrop" label="#micdrop" />
+      <node id="#HRC" label="#HRC" />
+      <node id="#HB2" label="#HB2" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#debates" label="#debates" />
+      <node id="#supportlocalperformingarts" label="#supportlocalperformingarts" />
+      <node id="#PlannedParenthood" label="#PlannedParenthood" />
+      <node id="#takeitdown" label="#takeitdown" />
+      <node id="#NativeLivesMatter" label="#NativeLivesMatter" />
+      <node id="#birther" label="#birther" />
+      <node id="#LTYM" label="#LTYM" />
+      <node id="#sheslays" label="#sheslays" />
+      <node id="#MKE" label="#MKE" />
+      <node id="#LTYMshow" label="#LTYMshow" />
+      <node id="#WhitePrivilege" label="#WhitePrivilege" />
+      <node id="#povertyporn" label="#povertyporn" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#racism" label="#racism" />
+      <node id="#Emmys" label="#Emmys" />
+      <node id="#queerfamilies" label="#queerfamilies" />
+      <node id="#SallieMae" label="#SallieMae" />
+      <node id="#GoldenGlobes" label="#GoldenGlobes" />
+      <node id="#TrumpBookReport" label="#TrumpBookReport" />
+      <node id="#shameonNC" label="#shameonNC" />
+      <node id="#ashleymadisonhack" label="#ashleymadisonhack" />
+      <node id="#parenting" label="#parenting" />
+      <node id="#devpix" label="#devpix" />
+      <node id="#OITNB" label="#OITNB" />
+      <node id="#nastywoman" label="#nastywoman" />
+      <node id="#copyrightabuse" label="#copyrightabuse" />
+      <node id="#Suffragette" label="#Suffragette" />
+      <node id="#dmca" label="#dmca" />
+      <node id="#goodproblem" label="#goodproblem" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#trans" label="#trans" />
+      <node id="#LGBT" label="#LGBT" />
+      <node id="#racisminamerica" label="#racisminamerica" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Debates2016" target="#micdrop" weight="924" />
+      <edge id="1" source="#Debates2016" target="#birther" weight="462" />
+      <edge id="2" source="#NorthCarolina" target="#trans" weight="462" />
+      <edge id="3" source="#NorthCarolina" target="#HB2" weight="462" />
+      <edge id="4" source="#NorthCarolina" target="#shameonNC" weight="462" />
+      <edge id="5" source="#whitefeminism" target="#Suffragette" weight="462" />
+      <edge id="6" source="#HRC" target="#ImWithHer" weight="462" />
+      <edge id="7" source="#HB2" target="#trans" weight="462" />
+      <edge id="8" source="#HB2" target="#shameonNC" weight="462" />
+      <edge id="9" source="#ImWithHer" target="#sheslays" weight="462" />
+      <edge id="10" source="#ImWithHer" target="#debatenight" weight="462" />
+      <edge id="11" source="#debates" target="#debatenight" weight="462" />
+      <edge id="12" source="#supportlocalperformingarts" target="#LTYMshow" weight="462" />
+      <edge id="13" source="#PlannedParenthood" target="#BlackLivesMatter" weight="462" />
+      <edge id="14" source="#takeitdown" target="#racism" weight="462" />
+      <edge id="15" source="#NativeLivesMatter" target="#racism" weight="462" />
+      <edge id="16" source="#NativeLivesMatter" target="#racisminamerica" weight="462" />
+      <edge id="17" source="#LTYM" target="#MKE" weight="462" />
+      <edge id="18" source="#sheslays" target="#debatenight" weight="462" />
+      <edge id="19" source="#WhitePrivilege" target="#BlackLivesMatter" weight="462" />
+      <edge id="20" source="#povertyporn" target="#devpix" weight="462" />
+      <edge id="21" source="#Emmys" target="#OITNB" weight="462" />
+      <edge id="22" source="#queerfamilies" target="#LGBT" weight="462" />
+      <edge id="23" source="#queerfamilies" target="#parenting" weight="462" />
+      <edge id="24" source="#SallieMae" target="#ashleymadisonhack" weight="462" />
+      <edge id="25" source="#GoldenGlobes" target="#goodproblem" weight="462" />
+      <edge id="26" source="#TrumpBookReport" target="#nastywoman" weight="1386" />
+      <edge id="27" source="#shameonNC" target="#trans" weight="462" />
+      <edge id="28" source="#parenting" target="#LGBT" weight="462" />
+      <edge id="29" source="#copyrightabuse" target="#dmca" weight="462" />
+    </edges>
+  </graph>
+</gexf>

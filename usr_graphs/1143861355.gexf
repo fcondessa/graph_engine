@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#CaliforniaPrimary" label="#CaliforniaPrimary" />
+      <node id="#DALvsPHI" label="#DALvsPHI" />
+      <node id="#TomBrady" label="#TomBrady" />
+      <node id="#NotreDamevsKentucky" label="#NotreDamevsKentucky" />
+      <node id="#NFLKickoff" label="#NFLKickoff" />
+      <node id="#Standup" label="#Standup" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#comedian" label="#comedian" />
+      <node id="#LoveWins" label="#LoveWins" />
+      <node id="#Oscars2015" label="#Oscars2015" />
+      <node id="#QuoteOfTheDay" label="#QuoteOfTheDay" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#DeflateGate" label="#DeflateGate" />
+      <node id="#USAvJPN" label="#USAvJPN" />
+      <node id="#SNL40" label="#SNL40" />
+      <node id="#benevolentkobe" label="#benevolentkobe" />
+      <node id="#PITvsNE" label="#PITvsNE" />
+      <node id="#pride2016" label="#pride2016" />
+      <node id="#SF" label="#SF" />
+      <node id="#Sacramento" label="#Sacramento" />
+      <node id="#StudiOMG" label="#StudiOMG" />
+      <node id="#Comedian" label="#Comedian" />
+      <node id="#midngight" label="#midngight" />
+      <node id="#Comedy" label="#Comedy" />
+      <node id="#Quote" label="#Quote" />
+      <node id="#USAvCOL" label="#USAvCOL" />
+      <node id="#nflsunday" label="#nflsunday" />
+      <node id="#Life" label="#Life" />
+      <node id="#CalmEddy" label="#CalmEddy" />
+      <node id="#SoundOfMusic" label="#SoundOfMusic" />
+      <node id="#HOUvsGSW" label="#HOUvsGSW" />
+      <node id="#PointsMe" label="#PointsMe" />
+      <node id="#BeforeTwitterI" label="#BeforeTwitterI" />
+      <node id="#WorldCup" label="#WorldCup" />
+      <node id="#TrustTheProcess" label="#TrustTheProcess" />
+      <node id="#Career" label="#Career" />
+      <node id="#FathersDay" label="#FathersDay" />
+      <node id="#finale" label="#finale" />
+      <node id="#Podcast" label="#Podcast" />
+      <node id="#iVoted" label="#iVoted" />
+      <node id="#CopaAmerica" label="#CopaAmerica" />
+      <node id="#Instellar" label="#Instellar" />
+      <node id="#StandupRoast" label="#StandupRoast" />
+      <node id="#Birdman" label="#Birdman" />
+      <node id="#veteran" label="#veteran" />
+      <node id="#RejectedWeirdAlSongs" label="#RejectedWeirdAlSongs" />
+      <node id="#TheWalkingDead" label="#TheWalkingDead" />
+      <node id="#YesAllWomen" label="#YesAllWomen" />
+      <node id="#Comix" label="#Comix" />
+      <node id="#USWNT" label="#USWNT" />
+      <node id="#NBAPlayoffs" label="#NBAPlayoffs" />
+      <node id="#LastManOnEarth" label="#LastManOnEarth" />
+      <node id="#standup" label="#standup" />
+      <node id="#Boyhood" label="#Boyhood" />
+      <node id="#GameOfThrones" label="#GameOfThrones" />
+      <node id="#manu" label="#manu" />
+      <node id="#notnowdad" label="#notnowdad" />
+      <node id="#MILvsCHI" label="#MILvsCHI" />
+      <node id="#USAvsBEL" label="#USAvsBEL" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#CaliforniaPrimary" target="#iVoted" weight="1641" />
+      <edge id="1" source="#DALvsPHI" target="#NFL" weight="1641" />
+      <edge id="2" source="#DALvsPHI" target="#nflsunday" weight="1641" />
+      <edge id="3" source="#TomBrady" target="#DeflateGate" weight="1641" />
+      <edge id="4" source="#NotreDamevsKentucky" target="#MarchMadness" weight="1641" />
+      <edge id="5" source="#NFLKickoff" target="#PITvsNE" weight="3282" />
+      <edge id="6" source="#Standup" target="#Career" weight="1641" />
+      <edge id="7" source="#Standup" target="#Comedian" weight="1641" />
+      <edge id="8" source="#Standup" target="#Comedy" weight="1641" />
+      <edge id="9" source="#NFL" target="#nflsunday" weight="1641" />
+      <edge id="10" source="#comedian" target="#veteran" weight="1641" />
+      <edge id="11" source="#LoveWins" target="#USWNT" weight="3282" />
+      <edge id="12" source="#Oscars2015" target="#Boyhood" weight="1641" />
+      <edge id="13" source="#Oscars2015" target="#Instellar" weight="1641" />
+      <edge id="14" source="#Oscars2015" target="#SNL40" weight="1641" />
+      <edge id="15" source="#Oscars2015" target="#Birdman" weight="1641" />
+      <edge id="16" source="#Oscars2015" target="#SoundOfMusic" weight="1641" />
+      <edge id="17" source="#QuoteOfTheDay" target="#Life" weight="1641" />
+      <edge id="18" source="#QuoteOfTheDay" target="#Quote" weight="1641" />
+      <edge id="19" source="#NBAFinals" target="#FathersDay" weight="1641" />
+      <edge id="20" source="#NBAFinals" target="#manu" weight="1641" />
+      <edge id="21" source="#USAvJPN" target="#USWNT" weight="4923" />
+      <edge id="22" source="#benevolentkobe" target="#TrustTheProcess" weight="1641" />
+      <edge id="23" source="#pride2016" target="#SF" weight="1641" />
+      <edge id="24" source="#Sacramento" target="#StudiOMG" weight="1641" />
+      <edge id="25" source="#Sacramento" target="#StandupRoast" weight="1641" />
+      <edge id="26" source="#Sacramento" target="#CalmEddy" weight="1641" />
+      <edge id="27" source="#Sacramento" target="#Podcast" weight="1641" />
+      <edge id="28" source="#StudiOMG" target="#CalmEddy" weight="1641" />
+      <edge id="29" source="#Comedian" target="#Career" weight="1641" />
+      <edge id="30" source="#Comedian" target="#Comedy" weight="1641" />
+      <edge id="31" source="#midngight" target="#RejectedWeirdAlSongs" weight="1641" />
+      <edge id="32" source="#Comedy" target="#Career" weight="1641" />
+      <edge id="33" source="#Comedy" target="#standup" weight="1641" />
+      <edge id="34" source="#Comedy" target="#Comix" weight="1641" />
+      <edge id="35" source="#Quote" target="#Life" weight="1641" />
+      <edge id="36" source="#USAvCOL" target="#CopaAmerica" weight="1641" />
+      <edge id="37" source="#HOUvsGSW" target="#NBAPlayoffs" weight="1641" />
+      <edge id="38" source="#PointsMe" target="#BeforeTwitterI" weight="1641" />
+      <edge id="39" source="#BeforeTwitterI" target="#YesAllWomen" weight="1641" />
+      <edge id="40" source="#WorldCup" target="#USWNT" weight="1641" />
+      <edge id="41" source="#WorldCup" target="#USAvsBEL" weight="1641" />
+      <edge id="42" source="#FathersDay" target="#manu" weight="1641" />
+      <edge id="43" source="#finale" target="#GameOfThrones" weight="1641" />
+      <edge id="44" source="#finale" target="#notnowdad" weight="1641" />
+      <edge id="45" source="#TheWalkingDead" target="#LastManOnEarth" weight="1641" />
+      <edge id="46" source="#NBAPlayoffs" target="#MILvsCHI" weight="1641" />
+      <edge id="47" source="#GameOfThrones" target="#notnowdad" weight="1641" />
+    </edges>
+  </graph>
+</gexf>

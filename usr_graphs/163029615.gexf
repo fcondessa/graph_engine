@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#Kasich4Us" label="#Kasich4Us" />
+      <node id="#pig" label="#pig" />
+      <node id="#harvest13" label="#harvest13" />
+      <node id="#drought12" label="#drought12" />
+      <node id="#MaddenCurse" label="#MaddenCurse" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#luv" label="#luv" />
+      <node id="#SB47" label="#SB47" />
+      <node id="#AgIsCool" label="#AgIsCool" />
+      <node id="#Dannon" label="#Dannon" />
+      <node id="#locallove" label="#locallove" />
+      <node id="#CFAES" label="#CFAES" />
+      <node id="#Sweet16" label="#Sweet16" />
+      <node id="#PRwin" label="#PRwin" />
+      <node id="#ag" label="#ag" />
+      <node id="#ThankAFarmer" label="#ThankAFarmer" />
+      <node id="#fallohio" label="#fallohio" />
+      <node id="#thankyouculvers" label="#thankyouculvers" />
+      <node id="#beef" label="#beef" />
+      <node id="#kasich" label="#kasich" />
+      <node id="#shale" label="#shale" />
+      <node id="#breadandmilk" label="#breadandmilk" />
+      <node id="#Touchdown" label="#Touchdown" />
+      <node id="#Kasich4us" label="#Kasich4us" />
+      <node id="#StrongerOhio" label="#StrongerOhio" />
+      <node id="#BeyonceBowl" label="#BeyonceBowl" />
+      <node id="#politics" label="#politics" />
+      <node id="#MaddenCover" label="#MaddenCover" />
+      <node id="#OhioAgDay" label="#OhioAgDay" />
+      <node id="#OhioVMA" label="#OhioVMA" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#OneMoreWin" label="#OneMoreWin" />
+      <node id="#OH15" label="#OH15" />
+      <node id="#review" label="#review" />
+      <node id="#WinterInOhio" label="#WinterInOhio" />
+      <node id="#Boom16" label="#Boom16" />
+      <node id="#OREvsFSU" label="#OREvsFSU" />
+      <node id="#plant13" label="#plant13" />
+      <node id="#OARDC" label="#OARDC" />
+      <node id="#BALvsDEN" label="#BALvsDEN" />
+      <node id="#Farmer" label="#Farmer" />
+      <node id="#footballbeformarriage" label="#footballbeformarriage" />
+      <node id="#CSLewis" label="#CSLewis" />
+      <node id="#cultured" label="#cultured" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#DisneyClassic" label="#DisneyClassic" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#Boom" label="#Boom" />
+      <node id="#columbusdriver" label="#columbusdriver" />
+      <node id="#fiscalcliff" label="#fiscalcliff" />
+      <node id="#forthebest" label="#forthebest" />
+      <node id="#GoEagles" label="#GoEagles" />
+      <node id="#Ag" label="#Ag" />
+      <node id="#Eagles" label="#Eagles" />
+      <node id="#TheWalkingDead" label="#TheWalkingDead" />
+      <node id="#jetsvsteelers" label="#jetsvsteelers" />
+      <node id="#Shale" label="#Shale" />
+      <node id="#superbowlsunday" label="#superbowlsunday" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#USA" label="#USA" />
+      <node id="#HOUvsPIT" label="#HOUvsPIT" />
+      <node id="#Ashtabula" label="#Ashtabula" />
+      <node id="#youngfarmer" label="#youngfarmer" />
+      <node id="#gas" label="#gas" />
+      <node id="#grrr" label="#grrr" />
+      <node id="#Awesome" label="#Awesome" />
+      <node id="#antoniobrown" label="#antoniobrown" />
+      <node id="#agfact" label="#agfact" />
+      <node id="#PITvsCIN" label="#PITvsCIN" />
+      <node id="#wannabe" label="#wannabe" />
+      <node id="#snow" label="#snow" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#OhioProud" label="#OhioProud" />
+      <node id="#JustSayin" label="#JustSayin" />
+      <node id="#ice" label="#ice" />
+      <node id="#drought" label="#drought" />
+      <node id="#safeholidays" label="#safeholidays" />
+      <node id="#ToysforTots" label="#ToysforTots" />
+      <node id="#downwithbeantown" label="#downwithbeantown" />
+      <node id="#flooding" label="#flooding" />
+      <node id="#milk" label="#milk" />
+      <node id="#nevergiveup" label="#nevergiveup" />
+      <node id="#school" label="#school" />
+      <node id="#SteelersNation" label="#SteelersNation" />
+      <node id="#BGS2014" label="#BGS2014" />
+      <node id="#Superbowlcommercials" label="#Superbowlcommercials" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#SharkNado" label="#SharkNado" />
+      <node id="#canigetanamen" label="#canigetanamen" />
+      <node id="#farmland" label="#farmland" />
+      <node id="#Journo" label="#Journo" />
+      <node id="#GMO" label="#GMO" />
+      <node id="#DidWeJustBecomeBestFriends" label="#DidWeJustBecomeBestFriends" />
+      <node id="#lions" label="#lions" />
+      <node id="#RIPChuckNoll" label="#RIPChuckNoll" />
+      <node id="#OLC11" label="#OLC11" />
+      <node id="#ODOTsafe" label="#ODOTsafe" />
+      <node id="#AgHOF" label="#AgHOF" />
+      <node id="#TheGame" label="#TheGame" />
+      <node id="#timeforsomecoffee" label="#timeforsomecoffee" />
+      <node id="#Packers" label="#Packers" />
+      <node id="#ButterCow" label="#ButterCow" />
+      <node id="#ScrewYouRain" label="#ScrewYouRain" />
+      <node id="#Kasich2016" label="#Kasich2016" />
+      <node id="#ohiostateextension" label="#ohiostateextension" />
+      <node id="#columbusgirlatheart" label="#columbusgirlatheart" />
+      <node id="#careers" label="#careers" />
+      <node id="#ranchers" label="#ranchers" />
+      <node id="#chicken" label="#chicken" />
+      <node id="#agriculture" label="#agriculture" />
+      <node id="#relic" label="#relic" />
+      <node id="#snowquester" label="#snowquester" />
+      <node id="#Communications" label="#Communications" />
+      <node id="#Agriculture" label="#Agriculture" />
+      <node id="#GOPdebate" label="#GOPdebate" />
+      <node id="#GoTSeason4" label="#GoTSeason4" />
+      <node id="#thankyoufarmers" label="#thankyoufarmers" />
+      <node id="#dairy" label="#dairy" />
+      <node id="#ALPower" label="#ALPower" />
+      <node id="#OLCS" label="#OLCS" />
+      <node id="#agday2014" label="#agday2014" />
+      <node id="#ALLDAY" label="#ALLDAY" />
+      <node id="#HateThePatriots" label="#HateThePatriots" />
+      <node id="#TheBus" label="#TheBus" />
+      <node id="#sb47" label="#sb47" />
+      <node id="#iquit" label="#iquit" />
+      <node id="#SB50" label="#SB50" />
+      <node id="#Chili" label="#Chili" />
+      <node id="#Steelers" label="#Steelers" />
+      <node id="#CNNDebate" label="#CNNDebate" />
+      <node id="#nobouncepasses" label="#nobouncepasses" />
+      <node id="#win" label="#win" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Odot" label="#Odot" />
+      <node id="#Catfish" label="#Catfish" />
+      <node id="#football" label="#football" />
+      <node id="#Jets" label="#Jets" />
+      <node id="#SuperBowl2013" label="#SuperBowl2013" />
+      <node id="#Fall" label="#Fall" />
+      <node id="#taxcuts" label="#taxcuts" />
+      <node id="#STIVERSCOUNTRY" label="#STIVERSCOUNTRY" />
+      <node id="#RecipeOfTheDay" label="#RecipeOfTheDay" />
+      <node id="#DETvsPHI" label="#DETvsPHI" />
+      <node id="#fracking" label="#fracking" />
+      <node id="#Lions" label="#Lions" />
+      <node id="#thingsineverthoughtiwouldsay" label="#thingsineverthoughtiwouldsay" />
+      <node id="#herewego" label="#herewego" />
+      <node id="#Farm" label="#Farm" />
+      <node id="#GSD" label="#GSD" />
+      <node id="#FSR11" label="#FSR11" />
+      <node id="#OHVets" label="#OHVets" />
+      <node id="#leftovers" label="#leftovers" />
+      <node id="#Carson" label="#Carson" />
+      <node id="#DrPhil" label="#DrPhil" />
+      <node id="#UFB" label="#UFB" />
+      <node id="#Michigan" label="#Michigan" />
+      <node id="#farmers" label="#farmers" />
+      <node id="#turkey" label="#turkey" />
+      <node id="#tigerblood" label="#tigerblood" />
+      <node id="#hotpockets" label="#hotpockets" />
+      <node id="#threecheersforsmallvictories" label="#threecheersforsmallvictories" />
+      <node id="#NYJvsNE" label="#NYJvsNE" />
+      <node id="#pittsburghgirlbybirth" label="#pittsburghgirlbybirth" />
+      <node id="#agchat" label="#agchat" />
+      <node id="#newday" label="#newday" />
+      <node id="#brohio" label="#brohio" />
+      <node id="#livemas" label="#livemas" />
+      <node id="#Wolverines" label="#Wolverines" />
+      <node id="#SFvsATL" label="#SFvsATL" />
+      <node id="#SNF" label="#SNF" />
+      <node id="#openingday" label="#openingday" />
+      <node id="#ohplant11" label="#ohplant11" />
+      <node id="#film" label="#film" />
+      <node id="#NASCAR" label="#NASCAR" />
+      <node id="#Titans" label="#Titans" />
+      <node id="#foodsafety" label="#foodsafety" />
+      <node id="#HEREWEGO" label="#HEREWEGO" />
+      <node id="#FGCU" label="#FGCU" />
+      <node id="#GoodFriday" label="#GoodFriday" />
+      <node id="#SteelersGame" label="#SteelersGame" />
+      <node id="#PITvsBAL" label="#PITvsBAL" />
+      <node id="#FFA" label="#FFA" />
+      <node id="#GameOfThrones" label="#GameOfThrones" />
+      <node id="#OhioStateFair" label="#OhioStateFair" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#Bengals" label="#Bengals" />
+      <node id="#CHIEFS" label="#CHIEFS" />
+      <node id="#utica" label="#utica" />
+      <node id="#Ohgo" label="#Ohgo" />
+      <node id="#perfect" label="#perfect" />
+      <node id="#nhl14bobrovsky" label="#nhl14bobrovsky" />
+      <node id="#Sanchez" label="#Sanchez" />
+      <node id="#shutdown" label="#shutdown" />
+      <node id="#NCAA" label="#NCAA" />
+      <node id="#OnToTheNextOne" label="#OnToTheNextOne" />
+      <node id="#CruzSexScandal" label="#CruzSexScandal" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#ASG" label="#ASG" />
+      <node id="#TurkeyTip" label="#TurkeyTip" />
+      <node id="#pleasewin" label="#pleasewin" />
+      <node id="#Tebow" label="#Tebow" />
+      <node id="#gameday" label="#gameday" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#PITvsCAR" label="#PITvsCAR" />
+      <node id="#DETvsMIN" label="#DETvsMIN" />
+      <node id="#food" label="#food" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#OHAgDay" label="#OHAgDay" />
+      <node id="#intern" label="#intern" />
+      <node id="#microbrew" label="#microbrew" />
+      <node id="#classy" label="#classy" />
+      <node id="#OhioFamilyFun" label="#OhioFamilyFun" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#GoT" label="#GoT" />
+      <node id="#AshtabulaCounty" label="#AshtabulaCounty" />
+      <node id="#Saints" label="#Saints" />
+      <node id="#intervention" label="#intervention" />
+      <node id="#Beyonce" label="#Beyonce" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#Hayescity" label="#Hayescity" />
+      <node id="#farmer" label="#farmer" />
+      <node id="#BALvsNE" label="#BALvsNE" />
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#AndyAndyAndy" label="#AndyAndyAndy" />
+      <node id="#CLEvsPIT" label="#CLEvsPIT" />
+      <node id="#megabracketbust" label="#megabracketbust" />
+      <node id="#farm" label="#farm" />
+      <node id="#FamilyDay" label="#FamilyDay" />
+      <node id="#StepBrothers" label="#StepBrothers" />
+      <node id="#touchdown" label="#touchdown" />
+      <node id="#RedCrossMonth" label="#RedCrossMonth" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#TWDFinale" label="#TWDFinale" />
+      <node id="#OSUvsORE" label="#OSUvsORE" />
+      <node id="#beastmode" label="#beastmode" />
+      <node id="#severeweather" label="#severeweather" />
+      <node id="#saints" label="#saints" />
+      <node id="#MNF" label="#MNF" />
+      <node id="#toooldforthis" label="#toooldforthis" />
+      <node id="#OUBobcats" label="#OUBobcats" />
+      <node id="#CNBCGOPDebate" label="#CNBCGOPDebate" />
+      <node id="#Rubio2016" label="#Rubio2016" />
+      <node id="#filiblizzard" label="#filiblizzard" />
+      <node id="#afcchampionship" label="#afcchampionship" />
+      <node id="#WalkingDead" label="#WalkingDead" />
+      <node id="#hardcore" label="#hardcore" />
+      <node id="#90sChildAtHeart" label="#90sChildAtHeart" />
+      <node id="#OhioTalksTurkey" label="#OhioTalksTurkey" />
+      <node id="#notgood" label="#notgood" />
+      <node id="#ofbf" label="#ofbf" />
+      <node id="#PRfail" label="#PRfail" />
+      <node id="#DairyMonth" label="#DairyMonth" />
+      <node id="#SaveTheTrees" label="#SaveTheTrees" />
+      <node id="#HOF36" label="#HOF36" />
+      <node id="#nightgame" label="#nightgame" />
+      <node id="#bacon" label="#bacon" />
+      <node id="#familytravel" label="#familytravel" />
+      <node id="#ValentinesDay" label="#ValentinesDay" />
+      <node id="#OUvsOSU" label="#OUvsOSU" />
+      <node id="#girlpower" label="#girlpower" />
+      <node id="#ACMAwards" label="#ACMAwards" />
+      <node id="#ohiostatefair" label="#ohiostatefair" />
+      <node id="#PR" label="#PR" />
+      <node id="#ILoveBacon" label="#ILoveBacon" />
+      <node id="#poultryiscool" label="#poultryiscool" />
+      <node id="#OpeningDay" label="#OpeningDay" />
+      <node id="#614Day" label="#614Day" />
+      <node id="#ohiogram" label="#ohiogram" />
+      <node id="#OLCSB" label="#OLCSB" />
+      <node id="#fall" label="#fall" />
+      <node id="#PrinceRIP" label="#PrinceRIP" />
+      <node id="#familyday" label="#familyday" />
+      <node id="#WrestleMania" label="#WrestleMania" />
+      <node id="#Kasich" label="#Kasich" />
+      <node id="#Patriots" label="#Patriots" />
+      <node id="#getaways" label="#getaways" />
+      <node id="#Veteran" label="#Veteran" />
+      <node id="#lifewithatoddler" label="#lifewithatoddler" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#Browns" label="#Browns" />
+      <node id="#TinyHouseNation" label="#TinyHouseNation" />
+      <node id="#marcellus" label="#marcellus" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#osf13" label="#osf13" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#JobsOhio" label="#JobsOhio" />
+      <node id="#IfItsSunday" label="#IfItsSunday" />
+      <node id="#quote" label="#quote" />
+      <node id="#cows" label="#cows" />
+      <node id="#OHagweek" label="#OHagweek" />
+      <node id="#Marlins" label="#Marlins" />
+      <node id="#Megatron" label="#Megatron" />
+      <node id="#HereWeGo" label="#HereWeGo" />
+      <node id="#killingcancer" label="#killingcancer" />
+      <node id="#Chipotle" label="#Chipotle" />
+      <node id="#HarbaughBowl" label="#HarbaughBowl" />
+      <node id="#science" label="#science" />
+      <node id="#canthandleit" label="#canthandleit" />
+      <node id="#MerryChristmas" label="#MerryChristmas" />
+      <node id="#itsfunnybecauseitstrue" label="#itsfunnybecauseitstrue" />
+      <node id="#HOF" label="#HOF" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#HRDerby" label="#HRDerby" />
+      <node id="#OhioModel" label="#OhioModel" />
+      <node id="#AutismDay2015" label="#AutismDay2015" />
+      <node id="#cbj" label="#cbj" />
+      <node id="#FoxNews" label="#FoxNews" />
+      <node id="#OHAgWeek" label="#OHAgWeek" />
+      <node id="#Tourism" label="#Tourism" />
+      <node id="#OSF15" label="#OSF15" />
+      <node id="#OSF11" label="#OSF11" />
+      <node id="#Ext100years" label="#Ext100years" />
+      <node id="#Omaha" label="#Omaha" />
+      <node id="#MINvsNYG" label="#MINvsNYG" />
+      <node id="#FoodD" label="#FoodD" />
+      <node id="#SEAvsATL" label="#SEAvsATL" />
+      <node id="#SmokeyBear" label="#SmokeyBear" />
+      <node id="#canigetanAMEN" label="#canigetanAMEN" />
+      <node id="#Steeler" label="#Steeler" />
+      <node id="#thatelfiscreepy" label="#thatelfiscreepy" />
+      <node id="#BALvsPIT" label="#BALvsPIT" />
+      <node id="#winterinohio" label="#winterinohio" />
+      <node id="#tailgate" label="#tailgate" />
+      <node id="#KCvsSD" label="#KCvsSD" />
+      <node id="#typicalmillemial" label="#typicalmillemial" />
+      <node id="#idhavetoputonpantsforthat" label="#idhavetoputonpantsforthat" />
+      <node id="#isitfridayyet" label="#isitfridayyet" />
+      <node id="#Trump2016" label="#Trump2016" />
+      <node id="#Superbowl" label="#Superbowl" />
+      <node id="#Funthingstodo" label="#Funthingstodo" />
+      <node id="#StrongerFarms" label="#StrongerFarms" />
+      <node id="#Hostess" label="#Hostess" />
+      <node id="#clippers" label="#clippers" />
+      <node id="#findmyhappyplace" label="#findmyhappyplace" />
+      <node id="#farming" label="#farming" />
+      <node id="#B1GTEN" label="#B1GTEN" />
+      <node id="#SOTS" label="#SOTS" />
+      <node id="#Mets" label="#Mets" />
+      <node id="#Space" label="#Space" />
+      <node id="#NoWords" label="#NoWords" />
+      <node id="#FrenchFryDay" label="#FrenchFryDay" />
+      <node id="#bracket" label="#bracket" />
+      <node id="#Broncos" label="#Broncos" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#HeatWave" label="#HeatWave" />
+      <node id="#NBD" label="#NBD" />
+      <node id="#traffic" label="#traffic" />
+      <node id="#WIldCard" label="#WIldCard" />
+      <node id="#baseball" label="#baseball" />
+      <node id="#NFLPlayoffs" label="#NFLPlayoffs" />
+      <node id="#Idol" label="#Idol" />
+      <node id="#GBvsDET" label="#GBvsDET" />
+      <node id="#StrongerFamilies" label="#StrongerFamilies" />
+      <node id="#thedirt" label="#thedirt" />
+      <node id="#mythoughts" label="#mythoughts" />
+      <node id="#SugarBowl" label="#SugarBowl" />
+      <node id="#HateTheRavens" label="#HateTheRavens" />
+      <node id="#livetoon" label="#livetoon" />
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#bromageddon" label="#bromageddon" />
+      <node id="#nfl" label="#nfl" />
+      <node id="#LIUB" label="#LIUB" />
+      <node id="#sots" label="#sots" />
+      <node id="#bromance" label="#bromance" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+      <node id="#HazMat" label="#HazMat" />
+      <node id="#agblog" label="#agblog" />
+      <node id="#RIPWhitney" label="#RIPWhitney" />
+      <node id="#BaltimoreBowl" label="#BaltimoreBowl" />
+      <node id="#gratitude" label="#gratitude" />
+      <node id="#ExperienceMatters" label="#ExperienceMatters" />
+      <node id="#JobFair" label="#JobFair" />
+      <node id="#holycrap" label="#holycrap" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#corn" label="#corn" />
+      <node id="#Bears" label="#Bears" />
+      <node id="#steelers" label="#steelers" />
+      <node id="#AUWBB" label="#AUWBB" />
+      <node id="#contest" label="#contest" />
+      <node id="#bicentennial" label="#bicentennial" />
+      <node id="#edu" label="#edu" />
+      <node id="#RNC2016" label="#RNC2016" />
+      <node id="#ridiculous" label="#ridiculous" />
+      <node id="#OHplant11" label="#OHplant11" />
+      <node id="#SBXLVII" label="#SBXLVII" />
+      <node id="#EagleNation" label="#EagleNation" />
+      <node id="#FullHouse" label="#FullHouse" />
+      <node id="#farmblog" label="#farmblog" />
+      <node id="#hissyfit" label="#hissyfit" />
+      <node id="#ffaweek" label="#ffaweek" />
+      <node id="#weather" label="#weather" />
+      <node id="#NFLDraft2016" label="#NFLDraft2016" />
+      <node id="#Ram" label="#Ram" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#history" label="#history" />
+      <node id="#econdev" label="#econdev" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#ThisIsFarming" label="#ThisIsFarming" />
+      <node id="#1400Jobs" label="#1400Jobs" />
+      <node id="#Twinkies" label="#Twinkies" />
+      <node id="#NEvsDEN" label="#NEvsDEN" />
+      <node id="#TripleCrown" label="#TripleCrown" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#severewx" label="#severewx" />
+      <node id="#SteelerNation" label="#SteelerNation" />
+      <node id="#MLSCup" label="#MLSCup" />
+      <node id="#fashion" label="#fashion" />
+      <node id="#fairtastic" label="#fairtastic" />
+      <node id="#thingsjohnmaddenwouldsay" label="#thingsjohnmaddenwouldsay" />
+      <node id="#ODNR" label="#ODNR" />
+      <node id="#Ravens" label="#Ravens" />
+      <node id="#OHdroughtready" label="#OHdroughtready" />
+      <node id="#4H" label="#4H" />
+      <node id="#pointsarepoints" label="#pointsarepoints" />
+      <node id="#OSUvMICHIGAN" label="#OSUvMICHIGAN" />
+      <node id="#farmbill" label="#farmbill" />
+      <node id="#buckleup" label="#buckleup" />
+      <node id="#likeaboss" label="#likeaboss" />
+      <node id="#Drought" label="#Drought" />
+      <node id="#Vikings" label="#Vikings" />
+      <node id="#tech" label="#tech" />
+      <node id="#WeDey" label="#WeDey" />
+      <node id="#OHwx" label="#OHwx" />
+      <node id="#agribusiness" label="#agribusiness" />
+      <node id="#Fire" label="#Fire" />
+      <node id="#RayLewis" label="#RayLewis" />
+      <node id="#wishfulthinking" label="#wishfulthinking" />
+      <node id="#MantiTeo" label="#MantiTeo" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#communications" label="#communications" />
+      <node id="#AgDay" label="#AgDay" />
+      <node id="#Exp34" label="#Exp34" />
+      <node id="#Labor" label="#Labor" />
+      <node id="#pandacam" label="#pandacam" />
+      <node id="#Turnovers" label="#Turnovers" />
+      <node id="#NFCChampionship" label="#NFCChampionship" />
+      <node id="#theotherside" label="#theotherside" />
+      <node id="#idol" label="#idol" />
+      <node id="#playoffs" label="#playoffs" />
+      <node id="#Chiefs" label="#Chiefs" />
+      <node id="#SFvsSEA" label="#SFvsSEA" />
+      <node id="#FoxDebate" label="#FoxDebate" />
+      <node id="#LetItSnow" label="#LetItSnow" />
+      <node id="#stewardship" label="#stewardship" />
+      <node id="#babysteps" label="#babysteps" />
+      <node id="#kasich4us" label="#kasich4us" />
+      <node id="#Freudianslip" label="#Freudianslip" />
+      <node id="#ISS" label="#ISS" />
+      <node id="#noicannothearyounow" label="#noicannothearyounow" />
+      <node id="#AgChat" label="#AgChat" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#brandbowl" label="#brandbowl" />
+      <node id="#AshlandUniversity" label="#AshlandUniversity" />
+      <node id="#Falcons" label="#Falcons" />
+      <node id="#CowboysUK" label="#CowboysUK" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#LUV" label="#LUV" />
+      <node id="#Holiday" label="#Holiday" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#bacon" weight="3235" />
+      <edge id="1" source="#truth" target="#FoodD" weight="3235" />
+      <edge id="2" source="#Kasich4Us" target="#Kasich2016" weight="3235" />
+      <edge id="3" source="#Kasich4Us" target="#GOPdebate" weight="3235" />
+      <edge id="4" source="#Kasich4Us" target="#USA" weight="3235" />
+      <edge id="5" source="#Kasich4Us" target="#GOPDebate" weight="3235" />
+      <edge id="6" source="#Kasich4Us" target="#ExperienceMatters" weight="3235" />
+      <edge id="7" source="#Kasich4Us" target="#Trump2016" weight="3235" />
+      <edge id="8" source="#Kasich4Us" target="#Rubio2016" weight="3235" />
+      <edge id="9" source="#pig" target="#farm" weight="3235" />
+      <edge id="10" source="#harvest13" target="#farming" weight="3235" />
+      <edge id="11" source="#harvest13" target="#relic" weight="3235" />
+      <edge id="12" source="#drought12" target="#ag" weight="3235" />
+      <edge id="13" source="#drought12" target="#notgood" weight="3235" />
+      <edge id="14" source="#drought12" target="#Ohio" weight="3235" />
+      <edge id="15" source="#MaddenCurse" target="#MaddenCover" weight="3235" />
+      <edge id="16" source="#Thanksgiving" target="#OhioTalksTurkey" weight="6470" />
+      <edge id="17" source="#Thanksgiving" target="#foodsafety" weight="3235" />
+      <edge id="18" source="#Thanksgiving" target="#leftovers" weight="3235" />
+      <edge id="19" source="#luv" target="#LUV" weight="3235" />
+      <edge id="20" source="#SB47" target="#Superbowlcommercials" weight="3235" />
+      <edge id="21" source="#AgIsCool" target="#poultryiscool" weight="3235" />
+      <edge id="22" source="#AgIsCool" target="#familyday" weight="3235" />
+      <edge id="23" source="#AgIsCool" target="#teachers" weight="3235" />
+      <edge id="24" source="#AgIsCool" target="#FamilyDay" weight="6470" />
+      <edge id="25" source="#Dannon" target="#brandbowl" weight="3235" />
+      <edge id="26" source="#Dannon" target="#FullHouse" weight="3235" />
+      <edge id="27" source="#locallove" target="#Columbus" weight="3235" />
+      <edge id="28" source="#locallove" target="#asseenincolumbus" weight="3235" />
+      <edge id="29" source="#locallove" target="#Ohio" weight="3235" />
+      <edge id="30" source="#CFAES" target="#ffaweek" weight="3235" />
+      <edge id="31" source="#Sweet16" target="#Buckeyes" weight="3235" />
+      <edge id="32" source="#Sweet16" target="#NCAA" weight="3235" />
+      <edge id="33" source="#PRwin" target="#Turnovers" weight="3235" />
+      <edge id="34" source="#PRwin" target="#OREvsFSU" weight="3235" />
+      <edge id="35" source="#ag" target="#agriculture" weight="3235" />
+      <edge id="36" source="#ag" target="#film" weight="3235" />
+      <edge id="37" source="#ag" target="#review" weight="3235" />
+      <edge id="38" source="#ag" target="#notgood" weight="3235" />
+      <edge id="39" source="#ag" target="#cows" weight="3235" />
+      <edge id="40" source="#ag" target="#GMO" weight="3235" />
+      <edge id="41" source="#ag" target="#Ohio" weight="6470" />
+      <edge id="42" source="#ag" target="#Agriculture" weight="3235" />
+      <edge id="43" source="#ag" target="#farm" weight="38820" />
+      <edge id="44" source="#ag" target="#shutdown" weight="3235" />
+      <edge id="45" source="#ag" target="#science" weight="3235" />
+      <edge id="46" source="#ag" target="#dairy" weight="3235" />
+      <edge id="47" source="#ag" target="#OLC11" weight="3235" />
+      <edge id="48" source="#ag" target="#OHagweek" weight="3235" />
+      <edge id="49" source="#ag" target="#ThankAFarmer" weight="3235" />
+      <edge id="50" source="#ag" target="#AgDay" weight="3235" />
+      <edge id="51" source="#ag" target="#STEM" weight="3235" />
+      <edge id="52" source="#ag" target="#drought" weight="3235" />
+      <edge id="53" source="#ag" target="#girlpower" weight="3235" />
+      <edge id="54" source="#ag" target="#agchat" weight="6470" />
+      <edge id="55" source="#ag" target="#beef" weight="3235" />
+      <edge id="56" source="#ag" target="#food" weight="6470" />
+      <edge id="57" source="#ag" target="#stewardship" weight="3235" />
+      <edge id="58" source="#ag" target="#microbrew" weight="3235" />
+      <edge id="59" source="#ag" target="#OLCSB" weight="6470" />
+      <edge id="60" source="#ag" target="#edu" weight="3235" />
+      <edge id="61" source="#ag" target="#careers" weight="3235" />
+      <edge id="62" source="#ag" target="#ohio" weight="3235" />
+      <edge id="63" source="#ThankAFarmer" target="#agday2014" weight="3235" />
+      <edge id="64" source="#ThankAFarmer" target="#Ag" weight="3235" />
+      <edge id="65" source="#ThankAFarmer" target="#agchat" weight="6470" />
+      <edge id="66" source="#ThankAFarmer" target="#FFA" weight="3235" />
+      <edge id="67" source="#ThankAFarmer" target="#Ram" weight="3235" />
+      <edge id="68" source="#ThankAFarmer" target="#OHAgWeek" weight="3235" />
+      <edge id="69" source="#fallohio" target="#Ashtabula" weight="3235" />
+      <edge id="70" source="#fallohio" target="#fall" weight="3235" />
+      <edge id="71" source="#fallohio" target="#Ohio" weight="3235" />
+      <edge id="72" source="#thankyouculvers" target="#thankyoufarmers" weight="3235" />
+      <edge id="73" source="#beef" target="#farm" weight="3235" />
+      <edge id="74" source="#beef" target="#food" weight="3235" />
+      <edge id="75" source="#beef" target="#Ohio" weight="3235" />
+      <edge id="76" source="#kasich" target="#newday" weight="3235" />
+      <edge id="77" source="#kasich" target="#kasich4us" weight="3235" />
+      <edge id="78" source="#shale" target="#marcellus" weight="3235" />
+      <edge id="79" source="#shale" target="#fracking" weight="3235" />
+      <edge id="80" source="#shale" target="#gas" weight="3235" />
+      <edge id="81" source="#shale" target="#utica" weight="3235" />
+      <edge id="82" source="#breadandmilk" target="#OHwx" weight="3235" />
+      <edge id="83" source="#Touchdown" target="#Steelers" weight="3235" />
+      <edge id="84" source="#Touchdown" target="#HereWeGo" weight="3235" />
+      <edge id="85" source="#Kasich4us" target="#GOPDebate" weight="3235" />
+      <edge id="86" source="#StrongerOhio" target="#StrongerFarms" weight="3235" />
+      <edge id="87" source="#StrongerOhio" target="#StrongerFamilies" weight="3235" />
+      <edge id="88" source="#BeyonceBowl" target="#SBXLVII" weight="3235" />
+      <edge id="89" source="#BeyonceBowl" target="#BaltimoreBowl" weight="3235" />
+      <edge id="90" source="#politics" target="#NFL" weight="3235" />
+      <edge id="91" source="#OhioAgDay" target="#NASCAR" weight="3235" />
+      <edge id="92" source="#OhioAgDay" target="#agchat" weight="3235" />
+      <edge id="93" source="#OhioVMA" target="#OSF11" weight="3235" />
+      <edge id="94" source="#SCOTUS" target="#ACA" weight="3235" />
+      <edge id="95" source="#OneMoreWin" target="#UFB" weight="3235" />
+      <edge id="96" source="#OneMoreWin" target="#EagleNation" weight="3235" />
+      <edge id="97" source="#OneMoreWin" target="#AUWBB" weight="3235" />
+      <edge id="98" source="#OH15" target="#STIVERSCOUNTRY" weight="3235" />
+      <edge id="99" source="#review" target="#film" weight="3235" />
+      <edge id="100" source="#WinterInOhio" target="#HeatWave" weight="3235" />
+      <edge id="101" source="#WinterInOhio" target="#weather" weight="3235" />
+      <edge id="102" source="#Boom16" target="#wannabe" weight="3235" />
+      <edge id="103" source="#OREvsFSU" target="#Turnovers" weight="3235" />
+      <edge id="104" source="#plant13" target="#Ohio" weight="3235" />
+      <edge id="105" source="#OARDC" target="#OLCSB" weight="3235" />
+      <edge id="106" source="#BALvsDEN" target="#NFL" weight="6470" />
+      <edge id="107" source="#BALvsDEN" target="#classy" weight="3235" />
+      <edge id="108" source="#Farmer" target="#Ag" weight="3235" />
+      <edge id="109" source="#footballbeformarriage" target="#Steelers" weight="3235" />
+      <edge id="110" source="#CSLewis" target="#MerryChristmas" weight="3235" />
+      <edge id="111" source="#cultured" target="#asseenincolumbus" weight="3235" />
+      <edge id="112" source="#Buckeyes" target="#NCAA" weight="3235" />
+      <edge id="113" source="#Buckeyes" target="#notgood" weight="3235" />
+      <edge id="114" source="#DisneyClassic" target="#Awesome" weight="3235" />
+      <edge id="115" source="#Boom" target="#RayLewis" weight="3235" />
+      <edge id="116" source="#columbusdriver" target="#intervention" weight="3235" />
+      <edge id="117" source="#fiscalcliff" target="#farmbill" weight="3235" />
+      <edge id="118" source="#forthebest" target="#lifewithatoddler" weight="3235" />
+      <edge id="119" source="#GoEagles" target="#AshlandUniversity" weight="3235" />
+      <edge id="120" source="#GoEagles" target="#MarchMadness" weight="3235" />
+      <edge id="121" source="#GoEagles" target="#Eagles" weight="3235" />
+      <edge id="122" source="#GoEagles" target="#AUWBB" weight="3235" />
+      <edge id="123" source="#GoEagles" target="#FGCU" weight="3235" />
+      <edge id="124" source="#Ag" target="#Infographic" weight="3235" />
+      <edge id="125" source="#Ag" target="#FFA" weight="3235" />
+      <edge id="126" source="#Ag" target="#Farm" weight="6470" />
+      <edge id="127" source="#Ag" target="#Drought" weight="3235" />
+      <edge id="128" source="#Ag" target="#Labor" weight="3235" />
+      <edge id="129" source="#Ag" target="#youngfarmer" weight="3235" />
+      <edge id="130" source="#Ag" target="#agchat" weight="3235" />
+      <edge id="131" source="#Ag" target="#Ram" weight="3235" />
+      <edge id="132" source="#Ag" target="#4H" weight="3235" />
+      <edge id="133" source="#Ag" target="#OHAgWeek" weight="3235" />
+      <edge id="134" source="#Eagles" target="#Falcons" weight="3235" />
+      <edge id="135" source="#Eagles" target="#MarchMadness" weight="3235" />
+      <edge id="136" source="#Eagles" target="#FGCU" weight="3235" />
+      <edge id="137" source="#Eagles" target="#AshlandUniversity" weight="3235" />
+      <edge id="138" source="#Eagles" target="#AUWBB" weight="3235" />
+      <edge id="139" source="#TheWalkingDead" target="#GameOfThrones" weight="3235" />
+      <edge id="140" source="#jetsvsteelers" target="#afcchampionship" weight="3235" />
+      <edge id="141" source="#Shale" target="#farmland" weight="3235" />
+      <edge id="142" source="#superbowlsunday" target="#gameday" weight="3235" />
+      <edge id="143" source="#craftbeer" target="#microbrew" weight="3235" />
+      <edge id="144" source="#USA" target="#ExperienceMatters" weight="3235" />
+      <edge id="145" source="#HOUvsPIT" target="#HEREWEGO" weight="3235" />
+      <edge id="146" source="#Ashtabula" target="#fall" weight="3235" />
+      <edge id="147" source="#Ashtabula" target="#Ohio" weight="3235" />
+      <edge id="148" source="#gas" target="#marcellus" weight="3235" />
+      <edge id="149" source="#gas" target="#utica" weight="3235" />
+      <edge id="150" source="#grrr" target="#iquit" weight="3235" />
+      <edge id="151" source="#antoniobrown" target="#CLEvsPIT" weight="3235" />
+      <edge id="152" source="#agfact" target="#corn" weight="3235" />
+      <edge id="153" source="#agfact" target="#OHAgWeek" weight="6470" />
+      <edge id="154" source="#PITvsCIN" target="#SteelersNation" weight="3235" />
+      <edge id="155" source="#PITvsCIN" target="#Steelers" weight="3235" />
+      <edge id="156" source="#PITvsCIN" target="#HereWeGo" weight="3235" />
+      <edge id="157" source="#snow" target="#findmyhappyplace" weight="3235" />
+      <edge id="158" source="#snow" target="#traffic" weight="3235" />
+      <edge id="159" source="#columbus" target="#baseball" weight="3235" />
+      <edge id="160" source="#columbus" target="#nightgame" weight="3235" />
+      <edge id="161" source="#columbus" target="#clippers" weight="3235" />
+      <edge id="162" source="#columbus" target="#ohio" weight="3235" />
+      <edge id="163" source="#OhioProud" target="#OHAgWeek" weight="3235" />
+      <edge id="164" source="#JustSayin" target="#Idol" weight="3235" />
+      <edge id="165" source="#ice" target="#winterinohio" weight="3235" />
+      <edge id="166" source="#drought" target="#farm" weight="3235" />
+      <edge id="167" source="#drought" target="#OHdroughtready" weight="3235" />
+      <edge id="168" source="#safeholidays" target="#foodsafety" weight="3235" />
+      <edge id="169" source="#ToysforTots" target="#Ohio" weight="3235" />
+      <edge id="170" source="#downwithbeantown" target="#Giants" weight="3235" />
+      <edge id="171" source="#flooding" target="#Columbus" weight="3235" />
+      <edge id="172" source="#milk" target="#farm" weight="3235" />
+      <edge id="173" source="#nevergiveup" target="#theotherside" weight="3235" />
+      <edge id="174" source="#school" target="#Kasich" weight="3235" />
+      <edge id="175" source="#SteelersNation" target="#Steelers" weight="3235" />
+      <edge id="176" source="#SteelersNation" target="#HereWeGo" weight="3235" />
+      <edge id="177" source="#SteelersNation" target="#SteelersGame" weight="3235" />
+      <edge id="178" source="#BGS2014" target="#Hayescity" weight="3235" />
+      <edge id="179" source="#Superbowlcommercials" target="#livemas" weight="3235" />
+      <edge id="180" source="#ohio" target="#farm" weight="3235" />
+      <edge id="181" source="#ohio" target="#microbrew" weight="3235" />
+      <edge id="182" source="#ohio" target="#clippers" weight="3235" />
+      <edge id="183" source="#ohio" target="#weather" weight="3235" />
+      <edge id="184" source="#ohio" target="#nightgame" weight="3235" />
+      <edge id="185" source="#ohio" target="#baseball" weight="3235" />
+      <edge id="186" source="#SharkNado" target="#NoWords" weight="3235" />
+      <edge id="187" source="#canigetanamen" target="#typicalmillemial" weight="3235" />
+      <edge id="188" source="#Journo" target="#PR" weight="3235" />
+      <edge id="189" source="#GMO" target="#FoodD" weight="3235" />
+      <edge id="190" source="#DidWeJustBecomeBestFriends" target="#StepBrothers" weight="3235" />
+      <edge id="191" source="#lions" target="#saints" weight="3235" />
+      <edge id="192" source="#RIPChuckNoll" target="#Steelers" weight="3235" />
+      <edge id="193" source="#RIPChuckNoll" target="#SteelerNation" weight="3235" />
+      <edge id="194" source="#OLC11" target="#Ohio" weight="3235" />
+      <edge id="195" source="#ODOTsafe" target="#SB50" weight="3235" />
+      <edge id="196" source="#AgHOF" target="#Ohio" weight="3235" />
+      <edge id="197" source="#TheGame" target="#OSUvMICHIGAN" weight="3235" />
+      <edge id="198" source="#timeforsomecoffee" target="#SugarBowl" weight="3235" />
+      <edge id="199" source="#Packers" target="#GBvsDET" weight="3235" />
+      <edge id="200" source="#Packers" target="#Lions" weight="3235" />
+      <edge id="201" source="#ButterCow" target="#OhioFamilyFun" weight="3235" />
+      <edge id="202" source="#ButterCow" target="#SmokeyBear" weight="3235" />
+      <edge id="203" source="#ScrewYouRain" target="#Christmas" weight="3235" />
+      <edge id="204" source="#ohiostateextension" target="#Ext100years" weight="3235" />
+      <edge id="205" source="#columbusgirlatheart" target="#pittsburghgirlbybirth" weight="3235" />
+      <edge id="206" source="#careers" target="#Agriculture" weight="3235" />
+      <edge id="207" source="#ranchers" target="#Superbowl" weight="3235" />
+      <edge id="208" source="#ranchers" target="#farmers" weight="3235" />
+      <edge id="209" source="#chicken" target="#Chili" weight="3235" />
+      <edge id="210" source="#chicken" target="#SuperBowl" weight="3235" />
+      <edge id="211" source="#agriculture" target="#farm" weight="3235" />
+      <edge id="212" source="#agriculture" target="#SOTS" weight="3235" />
+      <edge id="213" source="#agriculture" target="#agchat" weight="3235" />
+      <edge id="214" source="#agriculture" target="#agribusiness" weight="3235" />
+      <edge id="215" source="#relic" target="#farming" weight="3235" />
+      <edge id="216" source="#snowquester" target="#filiblizzard" weight="3235" />
+      <edge id="217" source="#Communications" target="#Marketing" weight="3235" />
+      <edge id="218" source="#Agriculture" target="#Kasich" weight="3235" />
+      <edge id="219" source="#Agriculture" target="#sots" weight="3235" />
+      <edge id="220" source="#GoTSeason4" target="#GoT" weight="3235" />
+      <edge id="221" source="#dairy" target="#farm" weight="3235" />
+      <edge id="222" source="#dairy" target="#communications" weight="3235" />
+      <edge id="223" source="#dairy" target="#intern" weight="3235" />
+      <edge id="224" source="#ALPower" target="#ASG" weight="3235" />
+      <edge id="225" source="#ALPower" target="#HRDerby" weight="3235" />
+      <edge id="226" source="#OLCS" target="#threecheersforsmallvictories" weight="3235" />
+      <edge id="227" source="#ALLDAY" target="#beastmode" weight="3235" />
+      <edge id="228" source="#HateThePatriots" target="#49ers" weight="3235" />
+      <edge id="229" source="#HateThePatriots" target="#SFvsATL" weight="3235" />
+      <edge id="230" source="#HateThePatriots" target="#HateTheRavens" weight="6470" />
+      <edge id="231" source="#HateThePatriots" target="#NFLPlayoffs" weight="3235" />
+      <edge id="232" source="#HateThePatriots" target="#BALvsNE" weight="3235" />
+      <edge id="233" source="#TheBus" target="#beastmode" weight="3235" />
+      <edge id="234" source="#TheBus" target="#HOF" weight="3235" />
+      <edge id="235" source="#TheBus" target="#HOF36" weight="6470" />
+      <edge id="236" source="#sb47" target="#nfl" weight="3235" />
+      <edge id="237" source="#sb47" target="#SuperBowl" weight="3235" />
+      <edge id="238" source="#sb47" target="#farmers" weight="3235" />
+      <edge id="239" source="#sb47" target="#Beyonce" weight="3235" />
+      <edge id="240" source="#Steelers" target="#Lions" weight="3235" />
+      <edge id="241" source="#Steelers" target="#touchdown" weight="3235" />
+      <edge id="242" source="#Steelers" target="#herewego" weight="6470" />
+      <edge id="243" source="#Steelers" target="#HereWeGo" weight="19410" />
+      <edge id="244" source="#Steelers" target="#canthandleit" weight="3235" />
+      <edge id="245" source="#Steelers" target="#Chiefs" weight="6470" />
+      <edge id="246" source="#Steelers" target="#KCvsSD" weight="3235" />
+      <edge id="247" source="#Steelers" target="#NFL" weight="6470" />
+      <edge id="248" source="#Steelers" target="#win" weight="3235" />
+      <edge id="249" source="#Steelers" target="#Broncos" weight="3235" />
+      <edge id="250" source="#Steelers" target="#WeDey" weight="3235" />
+      <edge id="251" source="#Steelers" target="#Titans" weight="3235" />
+      <edge id="252" source="#Steelers" target="#NYJvsNE" weight="3235" />
+      <edge id="253" source="#Steelers" target="#CHIEFS" weight="3235" />
+      <edge id="254" source="#Steelers" target="#Patriots" weight="6470" />
+      <edge id="255" source="#Steelers" target="#Ravens" weight="3235" />
+      <edge id="256" source="#CNNDebate" target="#GOPDebate" weight="3235" />
+      <edge id="257" source="#CNNDebate" target="#livetoon" weight="3235" />
+      <edge id="258" source="#nobouncepasses" target="#PITvsBAL" weight="3235" />
+      <edge id="259" source="#win" target="#contest" weight="3235" />
+      <edge id="260" source="#win" target="#Ohio" weight="3235" />
+      <edge id="261" source="#win" target="#getaways" weight="3235" />
+      <edge id="262" source="#cbus" target="#LetItSnow" weight="3235" />
+      <edge id="263" source="#Odot" target="#Ohgo" weight="3235" />
+      <edge id="264" source="#Odot" target="#traffic" weight="3235" />
+      <edge id="265" source="#Catfish" target="#MantiTeo" weight="3235" />
+      <edge id="266" source="#Catfish" target="#DrPhil" weight="3235" />
+      <edge id="267" source="#football" target="#Patriots" weight="3235" />
+      <edge id="268" source="#Jets" target="#Tebow" weight="3235" />
+      <edge id="269" source="#Jets" target="#Jets" weight="6470" />
+      <edge id="270" source="#SuperBowl2013" target="#49ers" weight="6470" />
+      <edge id="271" source="#SuperBowl2013" target="#nfl" weight="6470" />
+      <edge id="272" source="#SuperBowl2013" target="#SuperBowl2013" weight="6470" />
+      <edge id="273" source="#Fall" target="#Fall" weight="6470" />
+      <edge id="274" source="#Fall" target="#Ohio" weight="6470" />
+      <edge id="275" source="#taxcuts" target="#jobs" weight="3235" />
+      <edge id="276" source="#RecipeOfTheDay" target="#bacon" weight="3235" />
+      <edge id="277" source="#DETvsPHI" target="#Lions" weight="3235" />
+      <edge id="278" source="#Lions" target="#GBvsDET" weight="3235" />
+      <edge id="279" source="#Lions" target="#herewego" weight="3235" />
+      <edge id="280" source="#Lions" target="#openingday" weight="3235" />
+      <edge id="281" source="#Lions" target="#thingsjohnmaddenwouldsay" weight="3235" />
+      <edge id="282" source="#Lions" target="#TripleCrown" weight="3235" />
+      <edge id="283" source="#Lions" target="#Vikings" weight="3235" />
+      <edge id="284" source="#Lions" target="#DETvsMIN" weight="3235" />
+      <edge id="285" source="#Lions" target="#Titans" weight="3235" />
+      <edge id="286" source="#thingsineverthoughtiwouldsay" target="#idol" weight="3235" />
+      <edge id="287" source="#Farm" target="#Labor" weight="3235" />
+      <edge id="288" source="#GSD" target="#Kasich" weight="3235" />
+      <edge id="289" source="#GSD" target="#buckleup" weight="3235" />
+      <edge id="290" source="#FSR11" target="#Kasich" weight="3235" />
+      <edge id="291" source="#OHVets" target="#OhioStateFair" weight="3235" />
+      <edge id="292" source="#OHVets" target="#gratitude" weight="3235" />
+      <edge id="293" source="#Carson" target="#Kasich" weight="3235" />
+      <edge id="294" source="#Carson" target="#IfItsSunday" weight="3235" />
+      <edge id="295" source="#DrPhil" target="#MantiTeo" weight="3235" />
+      <edge id="296" source="#UFB" target="#EagleNation" weight="3235" />
+      <edge id="297" source="#UFB" target="#AUWBB" weight="3235" />
+      <edge id="298" source="#Michigan" target="#OUBobcats" weight="3235" />
+      <edge id="299" source="#Michigan" target="#MarchMadness" weight="3235" />
+      <edge id="300" source="#Michigan" target="#B1GTEN" weight="3235" />
+      <edge id="301" source="#Michigan" target="#Wolverines" weight="3235" />
+      <edge id="302" source="#Michigan" target="#bracket" weight="3235" />
+      <edge id="303" source="#farmers" target="#Superbowl" weight="3235" />
+      <edge id="304" source="#farmers" target="#nfl" weight="3235" />
+      <edge id="305" source="#farmers" target="#SuperBowl" weight="3235" />
+      <edge id="306" source="#farmers" target="#agblog" weight="3235" />
+      <edge id="307" source="#farmers" target="#agchat" weight="3235" />
+      <edge id="308" source="#turkey" target="#TurkeyTip" weight="3235" />
+      <edge id="309" source="#tigerblood" target="#RedCrossMonth" weight="3235" />
+      <edge id="310" source="#hotpockets" target="#idhavetoputonpantsforthat" weight="3235" />
+      <edge id="311" source="#NYJvsNE" target="#Patriots" weight="3235" />
+      <edge id="312" source="#agchat" target="#FFA" weight="3235" />
+      <edge id="313" source="#agchat" target="#SOTS" weight="3235" />
+      <edge id="314" source="#agchat" target="#science" weight="3235" />
+      <edge id="315" source="#agchat" target="#agblog" weight="3235" />
+      <edge id="316" source="#agchat" target="#Ram" weight="3235" />
+      <edge id="317" source="#agchat" target="#food" weight="3235" />
+      <edge id="318" source="#newday" target="#kasich4us" weight="3235" />
+      <edge id="319" source="#brohio" target="#bromance" weight="3235" />
+      <edge id="320" source="#brohio" target="#bromageddon" weight="3235" />
+      <edge id="321" source="#Wolverines" target="#B1GTEN" weight="3235" />
+      <edge id="322" source="#SFvsATL" target="#49ers" weight="6470" />
+      <edge id="323" source="#SFvsATL" target="#HateTheRavens" weight="6470" />
+      <edge id="324" source="#SFvsATL" target="#hissyfit" weight="3235" />
+      <edge id="325" source="#SNF" target="#toooldforthis" weight="3235" />
+      <edge id="326" source="#openingday" target="#Vikings" weight="3235" />
+      <edge id="327" source="#openingday" target="#DETvsMIN" weight="3235" />
+      <edge id="328" source="#ohplant11" target="#Columbus" weight="3235" />
+      <edge id="329" source="#Titans" target="#NFL" weight="3235" />
+      <edge id="330" source="#foodsafety" target="#OhioTalksTurkey" weight="3235" />
+      <edge id="331" source="#foodsafety" target="#severeweather" weight="3235" />
+      <edge id="332" source="#FGCU" target="#ridiculous" weight="3235" />
+      <edge id="333" source="#FGCU" target="#MarchMadness" weight="3235" />
+      <edge id="334" source="#FGCU" target="#AshlandUniversity" weight="3235" />
+      <edge id="335" source="#FGCU" target="#AUWBB" weight="3235" />
+      <edge id="336" source="#GoodFriday" target="#CruzSexScandal" weight="3235" />
+      <edge id="337" source="#SteelersGame" target="#MNF" weight="3235" />
+      <edge id="338" source="#FFA" target="#Ram" weight="3235" />
+      <edge id="339" source="#OhioStateFair" target="#OSF15" weight="3235" />
+      <edge id="340" source="#OhioStateFair" target="#gratitude" weight="3235" />
+      <edge id="341" source="#OhioStateFair" target="#OpeningDay" weight="3235" />
+      <edge id="342" source="#sustainability" target="#FoodD" weight="3235" />
+      <edge id="343" source="#Bengals" target="#Browns" weight="3235" />
+      <edge id="344" source="#CHIEFS" target="#HereWeGo" weight="3235" />
+      <edge id="345" source="#utica" target="#marcellus" weight="3235" />
+      <edge id="346" source="#Ohgo" target="#traffic" weight="3235" />
+      <edge id="347" source="#perfect" target="#PrinceRIP" weight="3235" />
+      <edge id="348" source="#nhl14bobrovsky" target="#cbj" weight="3235" />
+      <edge id="349" source="#Sanchez" target="#Idol" weight="3235" />
+      <edge id="350" source="#Sanchez" target="#Holiday" weight="3235" />
+      <edge id="351" source="#shutdown" target="#farm" weight="3235" />
+      <edge id="352" source="#shutdown" target="#pandacam" weight="3235" />
+      <edge id="353" source="#OnToTheNextOne" target="#SEAvsATL" weight="3235" />
+      <edge id="354" source="#OnToTheNextOne" target="#NFLPlayoffs" weight="3235" />
+      <edge id="355" source="#DidYouKnow" target="#FrenchFryDay" weight="3235" />
+      <edge id="356" source="#ASG" target="#HRDerby" weight="3235" />
+      <edge id="357" source="#pleasewin" target="#steelers" weight="3235" />
+      <edge id="358" source="#pleasewin" target="#playoffs" weight="3235" />
+      <edge id="359" source="#NHLAllStar" target="#CBJ" weight="3235" />
+      <edge id="360" source="#PITvsCAR" target="#pointsarepoints" weight="3235" />
+      <edge id="361" source="#PITvsCAR" target="#steelers" weight="3235" />
+      <edge id="362" source="#DETvsMIN" target="#Vikings" weight="3235" />
+      <edge id="363" source="#food" target="#farm" weight="3235" />
+      <edge id="364" source="#food" target="#science" weight="3235" />
+      <edge id="365" source="#OHAgDay" target="#OHAgWeek" weight="3235" />
+      <edge id="366" source="#intern" target="#communications" weight="3235" />
+      <edge id="367" source="#microbrew" target="#farm" weight="3235" />
+      <edge id="368" source="#OhioFamilyFun" target="#SmokeyBear" weight="3235" />
+      <edge id="369" source="#awesome" target="#SaveTheTrees" weight="3235" />
+      <edge id="370" source="#AshtabulaCounty" target="#OHwx" weight="3235" />
+      <edge id="371" source="#AshtabulaCounty" target="#Tourism" weight="3235" />
+      <edge id="372" source="#AshtabulaCounty" target="#Funthingstodo" weight="3235" />
+      <edge id="373" source="#Saints" target="#Browns" weight="3235" />
+      <edge id="374" source="#Beyonce" target="#SuperBowl" weight="3235" />
+      <edge id="375" source="#farmer" target="#Ohio" weight="3235" />
+      <edge id="376" source="#BALvsNE" target="#HarbaughBowl" weight="3235" />
+      <edge id="377" source="#BALvsNE" target="#HateTheRavens" weight="3235" />
+      <edge id="378" source="#BALvsNE" target="#NFLPlayoffs" weight="6470" />
+      <edge id="379" source="#GOPDebate" target="#FoxDebate" weight="3235" />
+      <edge id="380" source="#GOPDebate" target="#CNBCGOPDebate" weight="3235" />
+      <edge id="381" source="#GOPDebate" target="#livetoon" weight="3235" />
+      <edge id="382" source="#AndyAndyAndy" target="#NFLDraft2016" weight="3235" />
+      <edge id="383" source="#megabracketbust" target="#bracket" weight="3235" />
+      <edge id="384" source="#farm" target="#stewardship" weight="3235" />
+      <edge id="385" source="#farm" target="#bicentennial" weight="3235" />
+      <edge id="386" source="#farm" target="#ValentinesDay" weight="3235" />
+      <edge id="387" source="#farm" target="#girlpower" weight="3235" />
+      <edge id="388" source="#farm" target="#agblog" weight="3235" />
+      <edge id="389" source="#farm" target="#Ohio" weight="9705" />
+      <edge id="390" source="#farm" target="#cows" weight="3235" />
+      <edge id="391" source="#touchdown" target="#HereWeGo" weight="3235" />
+      <edge id="392" source="#STEM" target="#edu" weight="3235" />
+      <edge id="393" source="#TWDFinale" target="#WrestleMania" weight="3235" />
+      <edge id="394" source="#TWDFinale" target="#ACMAwards" weight="3235" />
+      <edge id="395" source="#OSUvsORE" target="#OUvsOSU" weight="3235" />
+      <edge id="396" source="#beastmode" target="#HOF" weight="3235" />
+      <edge id="397" source="#beastmode" target="#HOF36" weight="3235" />
+      <edge id="398" source="#severeweather" target="#OHwx" weight="6470" />
+      <edge id="399" source="#MNF" target="#MINvsNYG" weight="3235" />
+      <edge id="400" source="#OUBobcats" target="#bracket" weight="3235" />
+      <edge id="401" source="#Rubio2016" target="#Trump2016" weight="3235" />
+      <edge id="402" source="#WalkingDead" target="#holycrap" weight="3235" />
+      <edge id="403" source="#hardcore" target="#MLSCup" weight="3235" />
+      <edge id="404" source="#90sChildAtHeart" target="#holiday" weight="3235" />
+      <edge id="405" source="#ofbf" target="#osf13" weight="3235" />
+      <edge id="406" source="#PRfail" target="#isitfridayyet" weight="3235" />
+      <edge id="407" source="#PRfail" target="#Freudianslip" weight="3235" />
+      <edge id="408" source="#DairyMonth" target="#Ohio" weight="3235" />
+      <edge id="409" source="#HOF36" target="#HOF" weight="3235" />
+      <edge id="410" source="#nightgame" target="#clippers" weight="3235" />
+      <edge id="411" source="#nightgame" target="#baseball" weight="3235" />
+      <edge id="412" source="#bacon" target="#canigetanAMEN" weight="3235" />
+      <edge id="413" source="#familytravel" target="#Ohio" weight="3235" />
+      <edge id="414" source="#ValentinesDay" target="#agblog" weight="3235" />
+      <edge id="415" source="#ValentinesDay" target="#Ohio" weight="3235" />
+      <edge id="416" source="#girlpower" target="#Ohio" weight="3235" />
+      <edge id="417" source="#ACMAwards" target="#WrestleMania" weight="3235" />
+      <edge id="418" source="#ohiostatefair" target="#fairtastic" weight="3235" />
+      <edge id="419" source="#ohiostatefair" target="#osf13" weight="6470" />
+      <edge id="420" source="#PR" target="#MantiTeo" weight="3235" />
+      <edge id="421" source="#ILoveBacon" target="#Pinterest" weight="3235" />
+      <edge id="422" source="#poultryiscool" target="#familyday" weight="3235" />
+      <edge id="423" source="#OpeningDay" target="#OSF15" weight="3235" />
+      <edge id="424" source="#614Day" target="#LifeInCbus" weight="3235" />
+      <edge id="425" source="#ohiogram" target="#Ohio" weight="3235" />
+      <edge id="426" source="#ohiogram" target="#OHAgWeek" weight="3235" />
+      <edge id="427" source="#OLCSB" target="#OLCSB" weight="6470" />
+      <edge id="428" source="#OLCSB" target="#noicannothearyounow" weight="3235" />
+      <edge id="429" source="#OLCSB" target="#mythoughts" weight="3235" />
+      <edge id="430" source="#OLCSB" target="#Ohio" weight="3235" />
+      <edge id="431" source="#fall" target="#Ohio" weight="3235" />
+      <edge id="432" source="#Kasich" target="#buckleup" weight="3235" />
+      <edge id="433" source="#Kasich" target="#sots" weight="3235" />
+      <edge id="434" source="#Kasich" target="#IfItsSunday" weight="3235" />
+      <edge id="435" source="#Kasich" target="#ODNR" weight="3235" />
+      <edge id="436" source="#Patriots" target="#Ravens" weight="3235" />
+      <edge id="437" source="#getaways" target="#contest" weight="3235" />
+      <edge id="438" source="#getaways" target="#Ohio" weight="3235" />
+      <edge id="439" source="#Veteran" target="#JobFair" weight="3235" />
+      <edge id="440" source="#Browns" target="#NFL" weight="3235" />
+      <edge id="441" source="#Browns" target="#HereWeGo" weight="3235" />
+      <edge id="442" source="#Browns" target="#SteelerNation" weight="3235" />
+      <edge id="443" source="#TinyHouseNation" target="#RNC2016" weight="3235" />
+      <edge id="444" source="#osf13" target="#fairtastic" weight="3235" />
+      <edge id="445" source="#NFL" target="#tailgate" weight="3235" />
+      <edge id="446" source="#NFL" target="#Chiefs" weight="3235" />
+      <edge id="447" source="#NFL" target="#SteelerNation" weight="3235" />
+      <edge id="448" source="#JobsOhio" target="#OhioModel" weight="3235" />
+      <edge id="449" source="#JobsOhio" target="#1400Jobs" weight="3235" />
+      <edge id="450" source="#quote" target="#fashion" weight="3235" />
+      <edge id="451" source="#cows" target="#stewardship" weight="3235" />
+      <edge id="452" source="#OHagweek" target="#AgDay" weight="3235" />
+      <edge id="453" source="#Marlins" target="#Mets" weight="3235" />
+      <edge id="454" source="#Megatron" target="#nfl" weight="3235" />
+      <edge id="455" source="#HereWeGo" target="#WeDey" weight="3235" />
+      <edge id="456" source="#HereWeGo" target="#SteelerNation" weight="3235" />
+      <edge id="457" source="#HereWeGo" target="#Steeler" weight="3235" />
+      <edge id="458" source="#killingcancer" target="#likeaboss" weight="3235" />
+      <edge id="459" source="#Chipotle" target="#Chipotle" weight="19410" />
+      <edge id="460" source="#HarbaughBowl" target="#NFLPlayoffs" weight="3235" />
+      <edge id="461" source="#itsfunnybecauseitstrue" target="#CowboysUK" weight="3235" />
+      <edge id="462" source="#49ers" target="#SuperBowl" weight="6470" />
+      <edge id="463" source="#49ers" target="#nfl" weight="3235" />
+      <edge id="464" source="#49ers" target="#HateTheRavens" weight="6470" />
+      <edge id="465" source="#49ers" target="#babysteps" weight="3235" />
+      <edge id="466" source="#OhioModel" target="#1400Jobs" weight="3235" />
+      <edge id="467" source="#AutismDay2015" target="#LIUB" weight="3235" />
+      <edge id="468" source="#FoxNews" target="#RIPWhitney" weight="3235" />
+      <edge id="469" source="#OHAgWeek" target="#4H" weight="3235" />
+      <edge id="470" source="#OHAgWeek" target="#Ohio" weight="3235" />
+      <edge id="471" source="#Tourism" target="#Funthingstodo" weight="3235" />
+      <edge id="472" source="#Omaha" target="#NEvsDEN" weight="3235" />
+      <edge id="473" source="#FoodD" target="#FoodD" weight="6470" />
+      <edge id="474" source="#SEAvsATL" target="#NFLPlayoffs" weight="6470" />
+      <edge id="475" source="#thatelfiscreepy" target="#wishfulthinking" weight="3235" />
+      <edge id="476" source="#BALvsPIT" target="#WIldCard" weight="3235" />
+      <edge id="477" source="#KCvsSD" target="#Chiefs" weight="3235" />
+      <edge id="478" source="#isitfridayyet" target="#Freudianslip" weight="3235" />
+      <edge id="479" source="#StrongerFarms" target="#StrongerFamilies" weight="3235" />
+      <edge id="480" source="#Hostess" target="#Twinkies" weight="3235" />
+      <edge id="481" source="#clippers" target="#baseball" weight="3235" />
+      <edge id="482" source="#findmyhappyplace" target="#traffic" weight="3235" />
+      <edge id="483" source="#farming" target="#history" weight="3235" />
+      <edge id="484" source="#Space" target="#AgChat" weight="3235" />
+      <edge id="485" source="#Broncos" target="#Ravens" weight="3235" />
+      <edge id="486" source="#SuperBowl" target="#nfl" weight="3235" />
+      <edge id="487" source="#SuperBowl" target="#babysteps" weight="3235" />
+      <edge id="488" source="#NBD" target="#superbowl" weight="3235" />
+      <edge id="489" source="#traffic" target="#Columbus" weight="3235" />
+      <edge id="490" source="#NFLPlayoffs" target="#HateTheRavens" weight="3235" />
+      <edge id="491" source="#Idol" target="#Holiday" weight="3235" />
+      <edge id="492" source="#thedirt" target="#farmblog" weight="3235" />
+      <edge id="493" source="#thedirt" target="#agblog" weight="3235" />
+      <edge id="494" source="#bromageddon" target="#bromance" weight="3235" />
+      <edge id="495" source="#nfl" target="#Bears" weight="3235" />
+      <edge id="496" source="#HazMat" target="#Fire" weight="6470" />
+      <edge id="497" source="#agblog" target="#farmblog" weight="3235" />
+      <edge id="498" source="#agblog" target="#Ohio" weight="3235" />
+      <edge id="499" source="#BaltimoreBowl" target="#SBXLVII" weight="3235" />
+      <edge id="500" source="#corn" target="#OHplant11" weight="3235" />
+      <edge id="501" source="#steelers" target="#pointsarepoints" weight="3235" />
+      <edge id="502" source="#steelers" target="#playoffs" weight="3235" />
+      <edge id="503" source="#AUWBB" target="#EagleNation" weight="9705" />
+      <edge id="504" source="#AUWBB" target="#MarchMadness" weight="3235" />
+      <edge id="505" source="#AUWBB" target="#AshlandUniversity" weight="6470" />
+      <edge id="506" source="#contest" target="#Ohio" weight="3235" />
+      <edge id="507" source="#EagleNation" target="#AshlandUniversity" weight="3235" />
+      <edge id="508" source="#FullHouse" target="#brandbowl" weight="3235" />
+      <edge id="509" source="#Ohio" target="#asseenincolumbus" weight="3235" />
+      <edge id="510" source="#Ohio" target="#ThisIsFarming" weight="3235" />
+      <edge id="511" source="#Ohio" target="#Columbus" weight="3235" />
+      <edge id="512" source="#econdev" target="#tech" weight="3235" />
+      <edge id="513" source="#MarchMadness" target="#AshlandUniversity" weight="3235" />
+      <edge id="514" source="#severewx" target="#OHwx" weight="3235" />
+      <edge id="515" source="#OHdroughtready" target="#OHwx" weight="3235" />
+      <edge id="516" source="#asseenincolumbus" target="#Columbus" weight="3235" />
+      <edge id="517" source="#Exp34" target="#ISS" weight="3235" />
+      <edge id="518" source="#NFCChampionship" target="#SFvsSEA" weight="3235" />
+    </edges>
+  </graph>
+</gexf>

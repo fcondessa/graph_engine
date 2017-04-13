@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#stirtrek" label="#stirtrek" />
+      <node id="#whichcraft" label="#whichcraft" />
+      <node id="#callforhelp" label="#callforhelp" />
+      <node id="#DivideAndConquerStrategy" label="#DivideAndConquerStrategy" />
+      <node id="#IxDA" label="#IxDA" />
+      <node id="#FOMO" label="#FOMO" />
+      <node id="#M3Conf" label="#M3Conf" />
+      <node id="#DSW" label="#DSW" />
+      <node id="#interactive" label="#interactive" />
+      <node id="#Fitbit" label="#Fitbit" />
+      <node id="#eyecandy" label="#eyecandy" />
+      <node id="#DNC2012" label="#DNC2012" />
+      <node id="#WindowsAzure" label="#WindowsAzure" />
+      <node id="#developer" label="#developer" />
+      <node id="#FF" label="#FF" />
+      <node id="#ADDY" label="#ADDY" />
+      <node id="#whatwasthat" label="#whatwasthat" />
+      <node id="#fb" label="#fb" />
+      <node id="#FeelingNice" label="#FeelingNice" />
+      <node id="#nominate" label="#nominate" />
+      <node id="#midlifecrisis" label="#midlifecrisis" />
+      <node id="#shoelover" label="#shoelover" />
+      <node id="#m3conf" label="#m3conf" />
+      <node id="#blindimpression" label="#blindimpression" />
+      <node id="#letterpress" label="#letterpress" />
+      <node id="#bestwestern" label="#bestwestern" />
+      <node id="#mobile" label="#mobile" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#stirtrek" target="#DivideAndConquerStrategy" weight="1870" />
+      <edge id="1" source="#whichcraft" target="#m3conf" weight="1870" />
+      <edge id="2" source="#callforhelp" target="#midlifecrisis" weight="1870" />
+      <edge id="3" source="#IxDA" target="#FeelingNice" weight="1870" />
+      <edge id="4" source="#FOMO" target="#Fitbit" weight="1870" />
+      <edge id="5" source="#M3Conf" target="#fb" weight="1870" />
+      <edge id="6" source="#M3Conf" target="#WindowsAzure" weight="1870" />
+      <edge id="7" source="#DSW" target="#shoelover" weight="1870" />
+      <edge id="8" source="#interactive" target="#developer" weight="1870" />
+      <edge id="9" source="#eyecandy" target="#bestwestern" weight="1870" />
+      <edge id="10" source="#eyecandy" target="#ADDY" weight="1870" />
+      <edge id="11" source="#DNC2012" target="#nominate" weight="1870" />
+      <edge id="12" source="#FF" target="#m3conf" weight="1870" />
+      <edge id="13" source="#FF" target="#mobile" weight="1870" />
+      <edge id="14" source="#ADDY" target="#bestwestern" weight="1870" />
+      <edge id="15" source="#whatwasthat" target="#m3conf" weight="1870" />
+      <edge id="16" source="#m3conf" target="#m3conf" weight="3740" />
+      <edge id="17" source="#m3conf" target="#mobile" weight="1870" />
+      <edge id="18" source="#blindimpression" target="#letterpress" weight="1870" />
+    </edges>
+  </graph>
+</gexf>

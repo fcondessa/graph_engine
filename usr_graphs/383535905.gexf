@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Neiman" label="#Neiman" />
+      <node id="#MagentoImagine" label="#MagentoImagine" />
+      <node id="#Startups" label="#Startups" />
+      <node id="#Commercism" label="#Commercism" />
+      <node id="#magento" label="#magento" />
+      <node id="#500strong" label="#500strong" />
+      <node id="#DF15" label="#DF15" />
+      <node id="#ecommerce" label="#ecommerce" />
+      <node id="#SageLive" label="#SageLive" />
+      <node id="#IRCE2014" label="#IRCE2014" />
+      <node id="#Magentoimagine" label="#Magentoimagine" />
+      <node id="#SpotTheStation" label="#SpotTheStation" />
+      <node id="#content" label="#content" />
+      <node id="#Amazon" label="#Amazon" />
+      <node id="#Ecommerce" label="#Ecommerce" />
+      <node id="#SmallBiz" label="#SmallBiz" />
+      <node id="#PreImagine" label="#PreImagine" />
+      <node id="#marketer" label="#marketer" />
+      <node id="#ISS" label="#ISS" />
+      <node id="#MSFT" label="#MSFT" />
+      <node id="#nChannelcloud" label="#nChannelcloud" />
+      <node id="#omnichannel" label="#omnichannel" />
+      <node id="#retailers" label="#retailers" />
+      <node id="#merchandising" label="#merchandising" />
+      <node id="#NetSuite" label="#NetSuite" />
+      <node id="#multichannelsimplified" label="#multichannelsimplified" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Neiman" target="#retailers" weight="164" />
+      <edge id="1" source="#Neiman" target="#merchandising" weight="164" />
+      <edge id="2" source="#MagentoImagine" target="#PreImagine" weight="164" />
+      <edge id="3" source="#Startups" target="#SmallBiz" weight="164" />
+      <edge id="4" source="#Commercism" target="#500strong" weight="164" />
+      <edge id="5" source="#magento" target="#PreImagine" weight="164" />
+      <edge id="6" source="#DF15" target="#SageLive" weight="164" />
+      <edge id="7" source="#ecommerce" target="#content" weight="164" />
+      <edge id="8" source="#ecommerce" target="#marketer" weight="164" />
+      <edge id="9" source="#IRCE2014" target="#omnichannel" weight="164" />
+      <edge id="10" source="#IRCE2014" target="#Ecommerce" weight="164" />
+      <edge id="11" source="#Magentoimagine" target="#multichannelsimplified" weight="164" />
+      <edge id="12" source="#SpotTheStation" target="#ISS" weight="164" />
+      <edge id="13" source="#content" target="#marketer" weight="164" />
+      <edge id="14" source="#Amazon" target="#nChannelcloud" weight="164" />
+      <edge id="15" source="#Ecommerce" target="#omnichannel" weight="164" />
+      <edge id="16" source="#MSFT" target="#NetSuite" weight="164" />
+      <edge id="17" source="#retailers" target="#merchandising" weight="164" />
+    </edges>
+  </graph>
+</gexf>

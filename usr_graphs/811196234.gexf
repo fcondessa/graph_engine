@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#MoonlightMarket" label="#MoonlightMarket" />
+      <node id="#ohiostate" label="#ohiostate" />
+      <node id="#cbushistory" label="#cbushistory" />
+      <node id="#LEEDOhio" label="#LEEDOhio" />
+      <node id="#ColumbiaGasOhio" label="#ColumbiaGasOhio" />
+      <node id="#spring" label="#spring" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#art" label="#art" />
+      <node id="#Saturday" label="#Saturday" />
+      <node id="#CLEAResult" label="#CLEAResult" />
+      <node id="#ItsEasyBeingGreen" label="#ItsEasyBeingGreen" />
+      <node id="#FPCDoorsToANewEra" label="#FPCDoorsToANewEra" />
+      <node id="#LivingWall" label="#LivingWall" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#compost" label="#compost" />
+      <node id="#culturaldistrict" label="#culturaldistrict" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#longstreet" label="#longstreet" />
+      <node id="#aminahrobinson" label="#aminahrobinson" />
+      <node id="#weareone" label="#weareone" />
+      <node id="#caughtgreenhanded" label="#caughtgreenhanded" />
+      <node id="#fooddeserts" label="#fooddeserts" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#CFAES" label="#CFAES" />
+      <node id="#zerowaste" label="#zerowaste" />
+      <node id="#AASHE2014" label="#AASHE2014" />
+      <node id="#hawthorneparkcolumbus" label="#hawthorneparkcolumbus" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#sustainable" label="#sustainable" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#mater" label="#mater" />
+      <node id="#news" label="#news" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#Pelotonia14" label="#Pelotonia14" />
+      <node id="#artconsulting" label="#artconsulting" />
+      <node id="#plastic" label="#plastic" />
+      <node id="#recycle" label="#recycle" />
+      <node id="#socolumbus" label="#socolumbus" />
+      <node id="#sunset" label="#sunset" />
+      <node id="#interiordesign" label="#interiordesign" />
+      <node id="#DonateLife" label="#DonateLife" />
+      <node id="#GiveBack" label="#GiveBack" />
+      <node id="#OSUExtension" label="#OSUExtension" />
+      <node id="#EnergyEfficiency" label="#EnergyEfficiency" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#energyefficient" label="#energyefficient" />
+      <node id="#BuckeyeLove" label="#BuckeyeLove" />
+      <node id="#OSUnewprez" label="#OSUnewprez" />
+      <node id="#Incentives" label="#Incentives" />
+      <node id="#GreenAppleDay" label="#GreenAppleDay" />
+      <node id="#DNVGL" label="#DNVGL" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#IIDA" label="#IIDA" />
+      <node id="#coca" label="#coca" />
+      <node id="#greenosu" label="#greenosu" />
+      <node id="#LUNCHandLEADERS" label="#LUNCHandLEADERS" />
+      <node id="#ZeroWaste" label="#ZeroWaste" />
+      <node id="#competition" label="#competition" />
+      <node id="#USGBC" label="#USGBC" />
+      <node id="#reuse" label="#reuse" />
+      <node id="#upcycle" label="#upcycle" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#MoonlightMarket" target="#socolumbus" weight="164" />
+      <edge id="1" source="#MoonlightMarket" target="#sunset" weight="164" />
+      <edge id="2" source="#ohiostate" target="#Buckeyes" weight="164" />
+      <edge id="3" source="#cbushistory" target="#EarthDay" weight="164" />
+      <edge id="4" source="#cbushistory" target="#Columbus" weight="164" />
+      <edge id="5" source="#cbushistory" target="#tbt" weight="164" />
+      <edge id="6" source="#LEEDOhio" target="#EnergyEfficiency" weight="164" />
+      <edge id="7" source="#LEEDOhio" target="#LUNCHandLEADERS" weight="164" />
+      <edge id="8" source="#LEEDOhio" target="#Incentives" weight="164" />
+      <edge id="9" source="#ColumbiaGasOhio" target="#CLEAResult" weight="164" />
+      <edge id="10" source="#ColumbiaGasOhio" target="#DNVGL" weight="164" />
+      <edge id="11" source="#spring" target="#expcols" weight="164" />
+      <edge id="12" source="#spring" target="#hawthorneparkcolumbus" weight="164" />
+      <edge id="13" source="#asseenincolumbus" target="#longstreet" weight="164" />
+      <edge id="14" source="#asseenincolumbus" target="#aminahrobinson" weight="164" />
+      <edge id="15" source="#asseenincolumbus" target="#culturaldistrict" weight="164" />
+      <edge id="16" source="#art" target="#IIDA" weight="164" />
+      <edge id="17" source="#art" target="#interiordesign" weight="164" />
+      <edge id="18" source="#Saturday" target="#GiveBack" weight="164" />
+      <edge id="19" source="#Saturday" target="#GreenAppleDay" weight="164" />
+      <edge id="20" source="#CLEAResult" target="#DNVGL" weight="164" />
+      <edge id="21" source="#ItsEasyBeingGreen" target="#ZeroWaste" weight="164" />
+      <edge id="22" source="#ItsEasyBeingGreen" target="#compost" weight="164" />
+      <edge id="23" source="#FPCDoorsToANewEra" target="#LivingWall" weight="164" />
+      <edge id="24" source="#tbt" target="#EarthDay" weight="164" />
+      <edge id="25" source="#tbt" target="#Columbus" weight="164" />
+      <edge id="26" source="#compost" target="#zerowaste" weight="164" />
+      <edge id="27" source="#compost" target="#OSUnewprez" weight="164" />
+      <edge id="28" source="#compost" target="#recycle" weight="164" />
+      <edge id="29" source="#compost" target="#ZeroWaste" weight="164" />
+      <edge id="30" source="#culturaldistrict" target="#aminahrobinson" weight="164" />
+      <edge id="31" source="#culturaldistrict" target="#longstreet" weight="164" />
+      <edge id="32" source="#Ohio" target="#USGBC" weight="164" />
+      <edge id="33" source="#longstreet" target="#aminahrobinson" weight="164" />
+      <edge id="34" source="#weareone" target="#caughtgreenhanded" weight="164" />
+      <edge id="35" source="#fooddeserts" target="#OSUExtension" weight="164" />
+      <edge id="36" source="#fooddeserts" target="#CFAES" weight="164" />
+      <edge id="37" source="#EarthDay" target="#OhioState" weight="164" />
+      <edge id="38" source="#EarthDay" target="#Columbus" weight="164" />
+      <edge id="39" source="#CFAES" target="#OSUExtension" weight="164" />
+      <edge id="40" source="#zerowaste" target="#OSUnewprez" weight="164" />
+      <edge id="41" source="#zerowaste" target="#recycle" weight="164" />
+      <edge id="42" source="#AASHE2014" target="#sustainable" weight="164" />
+      <edge id="43" source="#hawthorneparkcolumbus" target="#expcols" weight="164" />
+      <edge id="44" source="#OhioState" target="#reuse" weight="164" />
+      <edge id="45" source="#mater" target="#competition" weight="164" />
+      <edge id="46" source="#mater" target="#coca" weight="164" />
+      <edge id="47" source="#news" target="#energyefficient" weight="164" />
+      <edge id="48" source="#Pelotonia14" target="#BuckeyeLove" weight="164" />
+      <edge id="49" source="#artconsulting" target="#Columbus" weight="164" />
+      <edge id="50" source="#plastic" target="#upcycle" weight="164" />
+      <edge id="51" source="#recycle" target="#OSUnewprez" weight="164" />
+      <edge id="52" source="#socolumbus" target="#sunset" weight="164" />
+      <edge id="53" source="#interiordesign" target="#IIDA" weight="164" />
+      <edge id="54" source="#DonateLife" target="#DonateLife" weight="328" />
+      <edge id="55" source="#GiveBack" target="#GreenAppleDay" weight="164" />
+      <edge id="56" source="#EnergyEfficiency" target="#LUNCHandLEADERS" weight="164" />
+      <edge id="57" source="#EnergyEfficiency" target="#Incentives" weight="164" />
+      <edge id="58" source="#Incentives" target="#LUNCHandLEADERS" weight="164" />
+      <edge id="59" source="#sustainability" target="#greenosu" weight="164" />
+      <edge id="60" source="#coca" target="#competition" weight="164" />
+    </edges>
+  </graph>
+</gexf>

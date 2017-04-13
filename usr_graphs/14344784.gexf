@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#teaparty" label="#teaparty" />
+      <node id="#JeremyBanks" label="#JeremyBanks" />
+      <node id="#MichelleOConnell" label="#MichelleOConnell" />
+      <node id="#tlot" label="#tlot" />
+      <node id="#Verdict" label="#Verdict" />
+      <node id="#stdantibiotics" label="#stdantibiotics" />
+      <node id="#coworking" label="#coworking" />
+      <node id="#MRA" label="#MRA" />
+      <node id="#sextech" label="#sextech" />
+      <node id="#InternationalMensDay" label="#InternationalMensDay" />
+      <node id="#FF" label="#FF" />
+      <node id="#actualconversation" label="#actualconversation" />
+      <node id="#PornProtest" label="#PornProtest" />
+      <node id="#d1ck" label="#d1ck" />
+      <node id="#whoneedsMagicMike" label="#whoneedsMagicMike" />
+      <node id="#blacklivesmatter" label="#blacklivesmatter" />
+      <node id="#feminism" label="#feminism" />
+      <node id="#HuffPostLive" label="#HuffPostLive" />
+      <node id="#Game" label="#Game" />
+      <node id="#Labrie" label="#Labrie" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#CarlyFiorina" label="#CarlyFiorina" />
+      <node id="#pu55y" label="#pu55y" />
+      <node id="#trans" label="#trans" />
+      <node id="#p2" label="#p2" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#GOPDebate" target="#CarlyFiorina" weight="3222" />
+      <edge id="1" source="#teaparty" target="#tcot" weight="3222" />
+      <edge id="2" source="#teaparty" target="#p2" weight="3222" />
+      <edge id="3" source="#teaparty" target="#tlot" weight="3222" />
+      <edge id="4" source="#JeremyBanks" target="#MichelleOConnell" weight="3222" />
+      <edge id="5" source="#tlot" target="#tcot" weight="3222" />
+      <edge id="6" source="#tlot" target="#p2" weight="3222" />
+      <edge id="7" source="#Verdict" target="#Labrie" weight="3222" />
+      <edge id="8" source="#stdantibiotics" target="#HuffPostLive" weight="6444" />
+      <edge id="9" source="#coworking" target="#FF" weight="3222" />
+      <edge id="10" source="#MRA" target="#InternationalMensDay" weight="3222" />
+      <edge id="11" source="#sextech" target="#Game" weight="3222" />
+      <edge id="12" source="#sextech" target="#PornProtest" weight="3222" />
+      <edge id="13" source="#actualconversation" target="#whoneedsMagicMike" weight="3222" />
+      <edge id="14" source="#PornProtest" target="#Game" weight="3222" />
+      <edge id="15" source="#d1ck" target="#pu55y" weight="3222" />
+      <edge id="16" source="#blacklivesmatter" target="#feminism" weight="3222" />
+      <edge id="17" source="#blacklivesmatter" target="#trans" weight="3222" />
+      <edge id="18" source="#feminism" target="#trans" weight="3222" />
+      <edge id="19" source="#tcot" target="#p2" weight="3222" />
+    </edges>
+  </graph>
+</gexf>

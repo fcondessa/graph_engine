@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#good" label="#good" />
+      <node id="#dark" label="#dark" />
+      <node id="#cyber" label="#cyber" />
+      <node id="#echopark" label="#echopark" />
+      <node id="#duh" label="#duh" />
+      <node id="#goth" label="#goth" />
+      <node id="#bias" label="#bias" />
+      <node id="#nolabels" label="#nolabels" />
+      <node id="#RelicsOfTheAncientHebrews" label="#RelicsOfTheAncientHebrews" />
+      <node id="#social" label="#social" />
+      <node id="#hero" label="#hero" />
+      <node id="#strat" label="#strat" />
+      <node id="#cardigan" label="#cardigan" />
+      <node id="#cardiganlife" label="#cardiganlife" />
+      <node id="#skills" label="#skills" />
+      <node id="#content" label="#content" />
+      <node id="#cardiganselfie" label="#cardiganselfie" />
+      <node id="#YHWH" label="#YHWH" />
+      <node id="#madness" label="#madness" />
+      <node id="#beauty" label="#beauty" />
+      <node id="#tools" label="#tools" />
+      <node id="#butch" label="#butch" />
+      <node id="#barron" label="#barron" />
+      <node id="#allaboutthatcardiganlife" label="#allaboutthatcardiganlife" />
+      <node id="#inspired" label="#inspired" />
+      <node id="#FaceMelt" label="#FaceMelt" />
+      <node id="#um" label="#um" />
+      <node id="#CoreStrong" label="#CoreStrong" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#good" target="#content" weight="3237" />
+      <edge id="1" source="#dark" target="#goth" weight="3237" />
+      <edge id="2" source="#cyber" target="#barron" weight="3237" />
+      <edge id="3" source="#echopark" target="#madness" weight="3237" />
+      <edge id="4" source="#duh" target="#um" weight="3237" />
+      <edge id="5" source="#bias" target="#nolabels" weight="3237" />
+      <edge id="6" source="#RelicsOfTheAncientHebrews" target="#YHWH" weight="3237" />
+      <edge id="7" source="#RelicsOfTheAncientHebrews" target="#FaceMelt" weight="3237" />
+      <edge id="8" source="#RelicsOfTheAncientHebrews" target="#CoreStrong" weight="3237" />
+      <edge id="9" source="#social" target="#strat" weight="3237" />
+      <edge id="10" source="#hero" target="#skills" weight="3237" />
+      <edge id="11" source="#hero" target="#tools" weight="3237" />
+      <edge id="12" source="#hero" target="#butch" weight="3237" />
+      <edge id="13" source="#cardigan" target="#cardiganselfie" weight="3237" />
+      <edge id="14" source="#cardigan" target="#allaboutthatcardiganlife" weight="3237" />
+      <edge id="15" source="#cardigan" target="#cardiganlife" weight="3237" />
+      <edge id="16" source="#cardiganlife" target="#cardiganselfie" weight="3237" />
+      <edge id="17" source="#cardiganlife" target="#allaboutthatcardiganlife" weight="3237" />
+      <edge id="18" source="#skills" target="#tools" weight="3237" />
+      <edge id="19" source="#skills" target="#butch" weight="3237" />
+      <edge id="20" source="#cardiganselfie" target="#allaboutthatcardiganlife" weight="3237" />
+      <edge id="21" source="#YHWH" target="#FaceMelt" weight="3237" />
+      <edge id="22" source="#YHWH" target="#CoreStrong" weight="3237" />
+      <edge id="23" source="#beauty" target="#inspired" weight="3237" />
+      <edge id="24" source="#tools" target="#butch" weight="3237" />
+      <edge id="25" source="#FaceMelt" target="#CoreStrong" weight="3237" />
+    </edges>
+  </graph>
+</gexf>

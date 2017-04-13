@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#AWP16" label="#AWP16" />
+      <node id="#fromtheslushpile" label="#fromtheslushpile" />
+      <node id="#LauraHitt" label="#LauraHitt" />
+      <node id="#DELETE" label="#DELETE" />
+      <node id="#SaraMajka" label="#SaraMajka" />
+      <node id="#Thoreau" label="#Thoreau" />
+      <node id="#PaulHarding" label="#PaulHarding" />
+      <node id="#AndreDubusIII" label="#AndreDubusIII" />
+      <node id="#Steinbeck" label="#Steinbeck" />
+      <node id="#Language" label="#Language" />
+      <node id="#fiction" label="#fiction" />
+      <node id="#writing" label="#writing" />
+      <node id="#longing" label="#longing" />
+      <node id="#ElizabethI" label="#ElizabethI" />
+      <node id="#Shakespeare400" label="#Shakespeare400" />
+      <node id="#BobDylan" label="#BobDylan" />
+      <node id="#authors" label="#authors" />
+      <node id="#NotOK" label="#NotOK" />
+      <node id="#notfunny" label="#notfunny" />
+      <node id="#JonathanWeinert" label="#JonathanWeinert" />
+      <node id="#Hemingway" label="#Hemingway" />
+      <node id="#niceline" label="#niceline" />
+      <node id="#toughlife" label="#toughlife" />
+      <node id="#FavPo" label="#FavPo" />
+      <node id="#RobertLowell" label="#RobertLowell" />
+      <node id="#NobelPrizeLiterature" label="#NobelPrizeLiterature" />
+      <node id="#highfive" label="#highfive" />
+      <node id="#lifewithnigel" label="#lifewithnigel" />
+      <node id="#HR45" label="#HR45" />
+      <node id="#Jupiter" label="#Jupiter" />
+      <node id="#SeanPrentiss" label="#SeanPrentiss" />
+      <node id="#flaubert" label="#flaubert" />
+      <node id="#amwriting" label="#amwriting" />
+      <node id="#VeronicaFranco" label="#VeronicaFranco" />
+      <node id="#CracktheSpine" label="#CracktheSpine" />
+      <node id="#Flaubert" label="#Flaubert" />
+      <node id="#CTRLF" label="#CTRLF" />
+      <node id="#MarinaTsvetaeva" label="#MarinaTsvetaeva" />
+      <node id="#HubbleHangout" label="#HubbleHangout" />
+      <node id="#ColinKohler" label="#ColinKohler" />
+      <node id="#writer" label="#writer" />
+      <node id="#Sentences" label="#Sentences" />
+      <node id="#MaryseMeijer" label="#MaryseMeijer" />
+      <node id="#JhumpaLahiri" label="#JhumpaLahiri" />
+      <node id="#funny" label="#funny" />
+      <node id="#dontvotetrump" label="#dontvotetrump" />
+      <node id="#SlushPileMag" label="#SlushPileMag" />
+      <node id="#ShakespeareLives" label="#ShakespeareLives" />
+      <node id="#fromthebookshelf" label="#fromthebookshelf" />
+      <node id="#Fitzgerald" label="#Fitzgerald" />
+      <node id="#planes" label="#planes" />
+      <node id="#TheNamesake" label="#TheNamesake" />
+      <node id="#Roomba" label="#Roomba" />
+      <node id="#SlushPile" label="#SlushPile" />
+      <node id="#sex" label="#sex" />
+      <node id="#SlushPileMagazine" label="#SlushPileMagazine" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#AWP16" target="#writer" weight="428" />
+      <edge id="1" source="#AWP16" target="#SeanPrentiss" weight="428" />
+      <edge id="2" source="#AWP16" target="#LauraHitt" weight="428" />
+      <edge id="3" source="#AWP16" target="#JonathanWeinert" weight="428" />
+      <edge id="4" source="#AWP16" target="#SlushPile" weight="428" />
+      <edge id="5" source="#AWP16" target="#SlushPileMagazine" weight="2996" />
+      <edge id="6" source="#AWP16" target="#MaryseMeijer" weight="428" />
+      <edge id="7" source="#fromtheslushpile" target="#niceline" weight="856" />
+      <edge id="8" source="#DELETE" target="#CTRLF" weight="428" />
+      <edge id="9" source="#SaraMajka" target="#SlushPileMag" weight="428" />
+      <edge id="10" source="#Thoreau" target="#niceline" weight="428" />
+      <edge id="11" source="#PaulHarding" target="#fromthebookshelf" weight="428" />
+      <edge id="12" source="#PaulHarding" target="#niceline" weight="428" />
+      <edge id="13" source="#AndreDubusIII" target="#niceline" weight="428" />
+      <edge id="14" source="#Steinbeck" target="#fromthebookshelf" weight="428" />
+      <edge id="15" source="#Steinbeck" target="#niceline" weight="856" />
+      <edge id="16" source="#Language" target="#Sentences" weight="428" />
+      <edge id="17" source="#fiction" target="#authors" weight="428" />
+      <edge id="18" source="#fiction" target="#writing" weight="428" />
+      <edge id="19" source="#writing" target="#authors" weight="428" />
+      <edge id="20" source="#writing" target="#amwriting" weight="428" />
+      <edge id="21" source="#longing" target="#lifewithnigel" weight="428" />
+      <edge id="22" source="#ElizabethI" target="#VeronicaFranco" weight="428" />
+      <edge id="23" source="#Shakespeare400" target="#ShakespeareLives" weight="428" />
+      <edge id="24" source="#BobDylan" target="#NobelPrizeLiterature" weight="428" />
+      <edge id="25" source="#BobDylan" target="#NotOK" weight="428" />
+      <edge id="26" source="#NotOK" target="#NobelPrizeLiterature" weight="428" />
+      <edge id="27" source="#notfunny" target="#funny" weight="428" />
+      <edge id="28" source="#JonathanWeinert" target="#FavPo" weight="428" />
+      <edge id="29" source="#JonathanWeinert" target="#RobertLowell" weight="428" />
+      <edge id="30" source="#JonathanWeinert" target="#SlushPileMagazine" weight="428" />
+      <edge id="31" source="#Hemingway" target="#fromthebookshelf" weight="428" />
+      <edge id="32" source="#Hemingway" target="#niceline" weight="856" />
+      <edge id="33" source="#niceline" target="#HR45" weight="428" />
+      <edge id="34" source="#niceline" target="#Flaubert" weight="428" />
+      <edge id="35" source="#niceline" target="#fromthebookshelf" weight="1712" />
+      <edge id="36" source="#niceline" target="#Fitzgerald" weight="428" />
+      <edge id="37" source="#niceline" target="#flaubert" weight="428" />
+      <edge id="38" source="#niceline" target="#MarinaTsvetaeva" weight="428" />
+      <edge id="39" source="#niceline" target="#RobertLowell" weight="428" />
+      <edge id="40" source="#toughlife" target="#lifewithnigel" weight="428" />
+      <edge id="41" source="#FavPo" target="#RobertLowell" weight="428" />
+      <edge id="42" source="#highfive" target="#dontvotetrump" weight="428" />
+      <edge id="43" source="#Jupiter" target="#HubbleHangout" weight="428" />
+      <edge id="44" source="#CracktheSpine" target="#SlushPileMagazine" weight="428" />
+      <edge id="45" source="#MarinaTsvetaeva" target="#fromthebookshelf" weight="428" />
+      <edge id="46" source="#ColinKohler" target="#Roomba" weight="428" />
+      <edge id="47" source="#MaryseMeijer" target="#SlushPileMagazine" weight="428" />
+      <edge id="48" source="#JhumpaLahiri" target="#TheNamesake" weight="428" />
+      <edge id="49" source="#planes" target="#sex" weight="428" />
+    </edges>
+  </graph>
+</gexf>

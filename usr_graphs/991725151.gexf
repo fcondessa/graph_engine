@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BWBF" label="#BWBF" />
+      <node id="#CBFselfie" label="#CBFselfie" />
+      <node id="#AmericanBank" label="#AmericanBank" />
+      <node id="#bptw" label="#bptw" />
+      <node id="#brandjournalism" label="#brandjournalism" />
+      <node id="#BPTW" label="#BPTW" />
+      <node id="#MyTeam" label="#MyTeam" />
+      <node id="#myteam" label="#myteam" />
+      <node id="#SMSC" label="#SMSC" />
+      <node id="#YouThinkYouKnow" label="#YouThinkYouKnow" />
+      <node id="#PR" label="#PR" />
+      <node id="#cbuscoffee" label="#cbuscoffee" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BWBF" target="#CBFselfie" weight="81" />
+      <edge id="1" source="#BWBF" target="#cbuscoffee" weight="81" />
+      <edge id="2" source="#CBFselfie" target="#cbuscoffee" weight="81" />
+      <edge id="3" source="#AmericanBank" target="#BPTW" weight="81" />
+      <edge id="4" source="#bptw" target="#myteam" weight="81" />
+      <edge id="5" source="#brandjournalism" target="#PR" weight="81" />
+      <edge id="6" source="#brandjournalism" target="#MyTeam" weight="81" />
+      <edge id="7" source="#brandjournalism" target="#BPTW" weight="81" />
+      <edge id="8" source="#BPTW" target="#BPTW" weight="162" />
+      <edge id="9" source="#BPTW" target="#myteam" weight="162" />
+      <edge id="10" source="#BPTW" target="#MyTeam" weight="162" />
+      <edge id="11" source="#BPTW" target="#PR" weight="81" />
+      <edge id="12" source="#MyTeam" target="#PR" weight="81" />
+      <edge id="13" source="#SMSC" target="#YouThinkYouKnow" weight="81" />
+    </edges>
+  </graph>
+</gexf>

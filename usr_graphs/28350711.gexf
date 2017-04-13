@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Bengals" label="#Bengals" />
+      <node id="#hypocrites" label="#hypocrites" />
+      <node id="#enablers" label="#enablers" />
+      <node id="#JohnnyFootball" label="#JohnnyFootball" />
+      <node id="#JEREMYFOOTBALL" label="#JEREMYFOOTBALL" />
+      <node id="#nomovewalt" label="#nomovewalt" />
+      <node id="#Crew96" label="#Crew96" />
+      <node id="#moveonwalt" label="#moveonwalt" />
+      <node id="#Dusty" label="#Dusty" />
+      <node id="#Crew" label="#Crew" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#Reds" label="#Reds" />
+      <node id="#Marvin" label="#Marvin" />
+      <node id="#Ravens" label="#Ravens" />
+      <node id="#SlapShots" label="#SlapShots" />
+      <node id="#Pryor" label="#Pryor" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Steelers" label="#Steelers" />
+      <node id="#OTD" label="#OTD" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#Bearcats" label="#Bearcats" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Bengals" target="#Steelers" weight="1277" />
+      <edge id="1" source="#Bengals" target="#Ravens" weight="1277" />
+      <edge id="2" source="#Bengals" target="#Cincinnati" weight="1277" />
+      <edge id="3" source="#Bengals" target="#Bearcats" weight="1277" />
+      <edge id="4" source="#Bengals" target="#Reds" weight="2554" />
+      <edge id="5" source="#Bengals" target="#Marvin" weight="1277" />
+      <edge id="6" source="#hypocrites" target="#enablers" weight="1277" />
+      <edge id="7" source="#JohnnyFootball" target="#JEREMYFOOTBALL" weight="1277" />
+      <edge id="8" source="#nomovewalt" target="#moveonwalt" weight="1277" />
+      <edge id="9" source="#Crew96" target="#Crew" weight="1277" />
+      <edge id="10" source="#Dusty" target="#Reds" weight="1277" />
+      <edge id="11" source="#OSU" target="#Pryor" weight="1277" />
+      <edge id="12" source="#CBJ" target="#SlapShots" weight="1277" />
+      <edge id="13" source="#Reds" target="#OTD" weight="1277" />
+      <edge id="14" source="#Reds" target="#Cincinnati" weight="1277" />
+      <edge id="15" source="#Reds" target="#Bearcats" weight="1277" />
+      <edge id="16" source="#Ravens" target="#Steelers" weight="1277" />
+      <edge id="17" source="#MLB" target="#SFGiants" weight="1277" />
+    </edges>
+  </graph>
+</gexf>

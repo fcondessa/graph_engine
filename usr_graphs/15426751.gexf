@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#TheShoe" label="#TheShoe" />
+      <node id="#cancerfreeworld" label="#cancerfreeworld" />
+      <node id="#100GreatHospitals" label="#100GreatHospitals" />
+      <node id="#LoveandHonor" label="#LoveandHonor" />
+      <node id="#NewWexMedSite" label="#NewWexMedSite" />
+      <node id="#BecauseItsTheCup" label="#BecauseItsTheCup" />
+      <node id="#MiamiOH" label="#MiamiOH" />
+      <node id="#business" label="#business" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#TheJames" label="#TheJames" />
+      <node id="#ALSIceBucketChallenge" label="#ALSIceBucketChallenge" />
+      <node id="#healthyOSU" label="#healthyOSU" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#BrandJournalism" label="#BrandJournalism" />
+      <node id="#OSUNews" label="#OSUNews" />
+      <node id="#GoBucks125" label="#GoBucks125" />
+      <node id="#ThinkRed" label="#ThinkRed" />
+      <node id="#PRism" label="#PRism" />
+      <node id="#TeamUSA" label="#TeamUSA" />
+      <node id="#ArchieGriffinDay" label="#ArchieGriffinDay" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#MentalHealth" label="#MentalHealth" />
+      <node id="#HeartHealthy" label="#HeartHealthy" />
+      <node id="#StrikeOutALS" label="#StrikeOutALS" />
+      <node id="#OSUinnovates" label="#OSUinnovates" />
+      <node id="#OSUCOM" label="#OSUCOM" />
+      <node id="#businessfirst" label="#businessfirst" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#BuckeyeBabies" label="#BuckeyeBabies" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#WearRedDay" label="#WearRedDay" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#nbc4i" label="#nbc4i" />
+      <node id="#ronburgundy" label="#ronburgundy" />
+      <node id="#WRChamps" label="#WRChamps" />
+      <node id="#nbc4" label="#nbc4" />
+      <node id="#GoogleGlass" label="#GoogleGlass" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#brandjournalism" label="#brandjournalism" />
+      <node id="#BuckeyeVoices" label="#BuckeyeVoices" />
+      <node id="#events" label="#events" />
+      <node id="#OSUWexMed" label="#OSUWexMed" />
+      <node id="#GoRed" label="#GoRed" />
+      <node id="#BuckeyeHearts" label="#BuckeyeHearts" />
+      <node id="#MHM2015" label="#MHM2015" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#TheShoe" target="#GoBucks" weight="210" />
+      <edge id="1" source="#cancerfreeworld" target="#TheJames" weight="210" />
+      <edge id="2" source="#100GreatHospitals" target="#OSUWexMed" weight="210" />
+      <edge id="3" source="#LoveandHonor" target="#MiamiOH" weight="210" />
+      <edge id="4" source="#NewWexMedSite" target="#OSUWexMed" weight="210" />
+      <edge id="5" source="#BecauseItsTheCup" target="#CBJ" weight="210" />
+      <edge id="6" source="#MiamiOH" target="#business" weight="210" />
+      <edge id="7" source="#hospitals" target="#Columbus" weight="210" />
+      <edge id="8" source="#ALSIceBucketChallenge" target="#BuckeyeNation" weight="210" />
+      <edge id="9" source="#ALSIceBucketChallenge" target="#GoBucks125" weight="210" />
+      <edge id="10" source="#ALSIceBucketChallenge" target="#StrikeOutALS" weight="210" />
+      <edge id="11" source="#healthyOSU" target="#events" weight="210" />
+      <edge id="12" source="#gobucks" target="#BuckeyeBabies" weight="210" />
+      <edge id="13" source="#gobucks" target="#OSUWexMed" weight="210" />
+      <edge id="14" source="#BrandJournalism" target="#PRism" weight="210" />
+      <edge id="15" source="#OSUNews" target="#OSUCOM" weight="210" />
+      <edge id="16" source="#ThinkRed" target="#GoRed" weight="210" />
+      <edge id="17" source="#ThinkRed" target="#BuckeyeHearts" weight="210" />
+      <edge id="18" source="#ThinkRed" target="#nbc4i" weight="210" />
+      <edge id="19" source="#TeamUSA" target="#WRChamps" weight="210" />
+      <edge id="20" source="#ArchieGriffinDay" target="#GoBucks" weight="210" />
+      <edge id="21" source="#MentalHealth" target="#MHM2015" weight="210" />
+      <edge id="22" source="#HeartHealthy" target="#WearRedDay" weight="210" />
+      <edge id="23" source="#OSUinnovates" target="#GoogleGlass" weight="210" />
+      <edge id="24" source="#businessfirst" target="#OSUWexMed" weight="210" />
+      <edge id="25" source="#motivation" target="#nbc4" weight="210" />
+      <edge id="26" source="#BuckeyeBabies" target="#OSUWexMed" weight="210" />
+      <edge id="27" source="#healthcare" target="#brandjournalism" weight="210" />
+      <edge id="28" source="#healthcare" target="#ronburgundy" weight="210" />
+      <edge id="29" source="#nbc4i" target="#GoRed" weight="210" />
+      <edge id="30" source="#nbc4i" target="#BuckeyeHearts" weight="210" />
+      <edge id="31" source="#ronburgundy" target="#brandjournalism" weight="210" />
+      <edge id="32" source="#BuckeyeVoices" target="#OSUWexMed" weight="210" />
+      <edge id="33" source="#GoRed" target="#BuckeyeHearts" weight="210" />
+    </edges>
+  </graph>
+</gexf>

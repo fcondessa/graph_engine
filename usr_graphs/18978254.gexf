@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#manhunt" label="#manhunt" />
+      <node id="#vote" label="#vote" />
+      <node id="#SpiritofCCS" label="#SpiritofCCS" />
+      <node id="#FirstDayCCS" label="#FirstDayCCS" />
+      <node id="#myvotingbooth" label="#myvotingbooth" />
+      <node id="#watertown" label="#watertown" />
+      <node id="#Back2School" label="#Back2School" />
+      <node id="#boston" label="#boston" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#manhunt" target="#watertown" weight="108" />
+      <edge id="1" source="#manhunt" target="#boston" weight="108" />
+      <edge id="2" source="#vote" target="#myvotingbooth" weight="108" />
+      <edge id="3" source="#SpiritofCCS" target="#FirstDayCCS" weight="108" />
+      <edge id="4" source="#SpiritofCCS" target="#Back2School" weight="108" />
+      <edge id="5" source="#FirstDayCCS" target="#Back2School" weight="108" />
+      <edge id="6" source="#watertown" target="#boston" weight="108" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#soexcited" label="#soexcited" />
+      <node id="#CbusChic" label="#CbusChic" />
+      <node id="#launchparty" label="#launchparty" />
+      <node id="#youliveandyoulearn" label="#youliveandyoulearn" />
+      <node id="#fail" label="#fail" />
+      <node id="#quote" label="#quote" />
+      <node id="#NativeColdPressed" label="#NativeColdPressed" />
+      <node id="#creativebabes" label="#creativebabes" />
+      <node id="#Interview" label="#Interview" />
+      <node id="#beautiful" label="#beautiful" />
+      <node id="#fitcolumbus" label="#fitcolumbus" />
+      <node id="#columbusohio" label="#columbusohio" />
+      <node id="#osuPR" label="#osuPR" />
+      <node id="#NationalRaspberryCakeDay" label="#NationalRaspberryCakeDay" />
+      <node id="#PowerCouple" label="#PowerCouple" />
+      <node id="#DynamicDuo" label="#DynamicDuo" />
+      <node id="#typography" label="#typography" />
+      <node id="#PureMichigan" label="#PureMichigan" />
+      <node id="#LifeHacks" label="#LifeHacks" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#PureGenious" label="#PureGenious" />
+      <node id="#babesfordays" label="#babesfordays" />
+      <node id="#creativebabescolumbus" label="#creativebabescolumbus" />
+      <node id="#primal" label="#primal" />
+      <node id="#teamLehman" label="#teamLehman" />
+      <node id="#foodtype" label="#foodtype" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#rustic" label="#rustic" />
+      <node id="#Productivity" label="#Productivity" />
+      <node id="#beauty" label="#beauty" />
+      <node id="#quoteoftheday" label="#quoteoftheday" />
+      <node id="#food" label="#food" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#orfiguratively" label="#orfiguratively" />
+      <node id="#design" label="#design" />
+      <node id="#RT" label="#RT" />
+      <node id="#PureNick" label="#PureNick" />
+      <node id="#grandview" label="#grandview" />
+      <node id="#wmcfest" label="#wmcfest" />
+      <node id="#etsy" label="#etsy" />
+      <node id="#literally" label="#literally" />
+      <node id="#PR" label="#PR" />
+      <node id="#bound" label="#bound" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#soexcited" target="#creativebabes" weight="824" />
+      <edge id="1" source="#soexcited" target="#creativebabescolumbus" weight="824" />
+      <edge id="2" source="#CbusChic" target="#babesfordays" weight="824" />
+      <edge id="3" source="#CbusChic" target="#launchparty" weight="824" />
+      <edge id="4" source="#launchparty" target="#babesfordays" weight="824" />
+      <edge id="5" source="#youliveandyoulearn" target="#fail" weight="824" />
+      <edge id="6" source="#quote" target="#motivation" weight="824" />
+      <edge id="7" source="#quote" target="#quoteoftheday" weight="824" />
+      <edge id="8" source="#NativeColdPressed" target="#RT" weight="824" />
+      <edge id="9" source="#creativebabes" target="#creativebabescolumbus" weight="824" />
+      <edge id="10" source="#Interview" target="#Columbus" weight="824" />
+      <edge id="11" source="#Interview" target="#PowerCouple" weight="824" />
+      <edge id="12" source="#beautiful" target="#rustic" weight="824" />
+      <edge id="13" source="#beautiful" target="#foodtype" weight="1648" />
+      <edge id="14" source="#fitcolumbus" target="#columbusohio" weight="824" />
+      <edge id="15" source="#fitcolumbus" target="#primal" weight="824" />
+      <edge id="16" source="#columbusohio" target="#primal" weight="824" />
+      <edge id="17" source="#osuPR" target="#PR" weight="824" />
+      <edge id="18" source="#NationalRaspberryCakeDay" target="#typography" weight="824" />
+      <edge id="19" source="#PowerCouple" target="#Columbus" weight="824" />
+      <edge id="20" source="#DynamicDuo" target="#teamLehman" weight="824" />
+      <edge id="21" source="#typography" target="#food" weight="824" />
+      <edge id="22" source="#typography" target="#design" weight="824" />
+      <edge id="23" source="#PureMichigan" target="#PureNick" weight="824" />
+      <edge id="24" source="#PureMichigan" target="#PureGenious" weight="824" />
+      <edge id="25" source="#LifeHacks" target="#Productivity" weight="824" />
+      <edge id="26" source="#columbus" target="#wmcfest" weight="824" />
+      <edge id="27" source="#columbus" target="#grandview" weight="824" />
+      <edge id="28" source="#PureGenious" target="#PureNick" weight="824" />
+      <edge id="29" source="#foodtype" target="#rustic" weight="1648" />
+      <edge id="30" source="#foodtype" target="#foodtype" weight="1648" />
+      <edge id="31" source="#motivation" target="#quoteoftheday" weight="824" />
+      <edge id="32" source="#beauty" target="#etsy" weight="824" />
+      <edge id="33" source="#food" target="#design" weight="824" />
+      <edge id="34" source="#Columbus" target="#bound" weight="824" />
+      <edge id="35" source="#orfiguratively" target="#literally" weight="824" />
+    </edges>
+  </graph>
+</gexf>

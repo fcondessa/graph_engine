@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Okay" label="#Okay" />
+      <node id="#theapprentice" label="#theapprentice" />
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#ya" label="#ya" />
+      <node id="#BeliEVEN" label="#BeliEVEN" />
+      <node id="#Nationals" label="#Nationals" />
+      <node id="#debate" label="#debate" />
+      <node id="#filibuster" label="#filibuster" />
+      <node id="#Angels" label="#Angels" />
+      <node id="#DubNation" label="#DubNation" />
+      <node id="#EvenYearBullshit" label="#EvenYearBullshit" />
+      <node id="#BlueJays" label="#BlueJays" />
+      <node id="#Puns" label="#Puns" />
+      <node id="#mullethead" label="#mullethead" />
+      <node id="#WarriorsHaiku" label="#WarriorsHaiku" />
+      <node id="#Athletics" label="#Athletics" />
+      <node id="#TeamOfDestiny" label="#TeamOfDestiny" />
+      <node id="#BanTheDH" label="#BanTheDH" />
+      <node id="#Filibuster" label="#Filibuster" />
+      <node id="#LockIn" label="#LockIn" />
+      <node id="#haiku" label="#haiku" />
+      <node id="#LetsGo" label="#LetsGo" />
+      <node id="#PunsWhoRake" label="#PunsWhoRake" />
+      <node id="#NLLeagueBestLeague" label="#NLLeagueBestLeague" />
+      <node id="#enough" label="#enough" />
+      <node id="#holdthefloor" label="#holdthefloor" />
+      <node id="#Dubnation" label="#Dubnation" />
+      <node id="#BeatLA" label="#BeatLA" />
+      <node id="#mets" label="#mets" />
+      <node id="#trumptapes" label="#trumptapes" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#PitchersWhoRake" label="#PitchersWhoRake" />
+      <node id="#Enough" label="#Enough" />
+      <node id="#FreeDraymond" label="#FreeDraymond" />
+      <node id="#Vogelstrong" label="#Vogelstrong" />
+      <node id="#FamousMelaniaTrumpQuotes" label="#FamousMelaniaTrumpQuotes" />
+      <node id="#WewillNOTbesilenced" label="#WewillNOTbesilenced" />
+      <node id="#Blacklivesmatter" label="#Blacklivesmatter" />
+      <node id="#CupcakeWars" label="#CupcakeWars" />
+      <node id="#VoteBelt" label="#VoteBelt" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Okay" target="#BlueJays" weight="3214" />
+      <edge id="1" source="#theapprentice" target="#trumptapes" weight="3214" />
+      <edge id="2" source="#RedSox" target="#Angels" weight="3214" />
+      <edge id="3" source="#RedSox" target="#Nationals" weight="3214" />
+      <edge id="4" source="#RedSox" target="#SFGiants" weight="3214" />
+      <edge id="5" source="#sfgiants" target="#mets" weight="3214" />
+      <edge id="6" source="#ya" target="#mullethead" weight="3214" />
+      <edge id="7" source="#BeliEVEN" target="#SFGiants" weight="3214" />
+      <edge id="8" source="#Nationals" target="#Angels" weight="3214" />
+      <edge id="9" source="#Nationals" target="#SFGiants" weight="3214" />
+      <edge id="10" source="#debate" target="#haiku" weight="3214" />
+      <edge id="11" source="#filibuster" target="#enough" weight="3214" />
+      <edge id="12" source="#filibuster" target="#holdthefloor" weight="6428" />
+      <edge id="13" source="#Angels" target="#SFGiants" weight="3214" />
+      <edge id="14" source="#DubNation" target="#FreeDraymond" weight="3214" />
+      <edge id="15" source="#DubNation" target="#WarriorsHaiku" weight="3214" />
+      <edge id="16" source="#EvenYearBullshit" target="#TeamOfDestiny" weight="3214" />
+      <edge id="17" source="#Puns" target="#PunsWhoRake" weight="3214" />
+      <edge id="18" source="#Puns" target="#CupcakeWars" weight="3214" />
+      <edge id="19" source="#WarriorsHaiku" target="#FreeDraymond" weight="3214" />
+      <edge id="20" source="#Athletics" target="#MLB" weight="3214" />
+      <edge id="21" source="#Athletics" target="#SFGiants" weight="3214" />
+      <edge id="22" source="#BanTheDH" target="#PitchersWhoRake" weight="3214" />
+      <edge id="23" source="#BanTheDH" target="#NLLeagueBestLeague" weight="3214" />
+      <edge id="24" source="#Filibuster" target="#Enough" weight="3214" />
+      <edge id="25" source="#LockIn" target="#LetsGo" weight="3214" />
+      <edge id="26" source="#LockIn" target="#BeatLA" weight="3214" />
+      <edge id="27" source="#LockIn" target="#Vogelstrong" weight="3214" />
+      <edge id="28" source="#LetsGo" target="#BeatLA" weight="3214" />
+      <edge id="29" source="#LetsGo" target="#Vogelstrong" weight="3214" />
+      <edge id="30" source="#PunsWhoRake" target="#CupcakeWars" weight="3214" />
+      <edge id="31" source="#NLLeagueBestLeague" target="#PitchersWhoRake" weight="3214" />
+      <edge id="32" source="#enough" target="#holdthefloor" weight="3214" />
+      <edge id="33" source="#Dubnation" target="#FamousMelaniaTrumpQuotes" weight="3214" />
+      <edge id="34" source="#BeatLA" target="#Vogelstrong" weight="3214" />
+      <edge id="35" source="#MLB" target="#SFGiants" weight="3214" />
+      <edge id="36" source="#SFGiants" target="#VoteBelt" weight="3214" />
+      <edge id="37" source="#WewillNOTbesilenced" target="#Blacklivesmatter" weight="3214" />
+    </edges>
+  </graph>
+</gexf>

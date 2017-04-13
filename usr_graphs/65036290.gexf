@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#LifesBetterTogether" label="#LifesBetterTogether" />
+      <node id="#sponsored" label="#sponsored" />
+      <node id="#halloween" label="#halloween" />
+      <node id="#kids" label="#kids" />
+      <node id="#costume" label="#costume" />
+      <node id="#makersinresidence" label="#makersinresidence" />
+      <node id="#SWPaintingWeek" label="#SWPaintingWeek" />
+      <node id="#sp" label="#sp" />
+      <node id="#EviteParty" label="#EviteParty" />
+      <node id="#BeThere" label="#BeThere" />
+      <node id="#DIYyourSummer" label="#DIYyourSummer" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#ColoroftheMonth" label="#ColoroftheMonth" />
+      <node id="#ad" label="#ad" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#LifesBetterTogether" target="#BeThere" weight="3219" />
+      <edge id="1" source="#LifesBetterTogether" target="#sp" weight="3219" />
+      <edge id="2" source="#sponsored" target="#SWPaintingWeek" weight="6438" />
+      <edge id="3" source="#halloween" target="#costume" weight="3219" />
+      <edge id="4" source="#kids" target="#Halloween" weight="3219" />
+      <edge id="5" source="#makersinresidence" target="#sp" weight="3219" />
+      <edge id="6" source="#sp" target="#BeThere" weight="3219" />
+      <edge id="7" source="#EviteParty" target="#ad" weight="3219" />
+      <edge id="8" source="#DIYyourSummer" target="#ColoroftheMonth" weight="3219" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Buccaneers" label="#Buccaneers" />
+      <node id="#JetsCamp" label="#JetsCamp" />
+      <node id="#Broncos" label="#Broncos" />
+      <node id="#Dolphins" label="#Dolphins" />
+      <node id="#FreeAgency" label="#FreeAgency" />
+      <node id="#nyj" label="#nyj" />
+      <node id="#DarronLee" label="#DarronLee" />
+      <node id="#MarkSanchez" label="#MarkSanchez" />
+      <node id="#eagles" label="#eagles" />
+      <node id="#Bills" label="#Bills" />
+      <node id="#SEAvsNYJ" label="#SEAvsNYJ" />
+      <node id="#jetsdraft" label="#jetsdraft" />
+      <node id="#FatKid" label="#FatKid" />
+      <node id="#Chargers" label="#Chargers" />
+      <node id="#ERICDECKER" label="#ERICDECKER" />
+      <node id="#sportsbusiness" label="#sportsbusiness" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#Fitzmagic" label="#Fitzmagic" />
+      <node id="#nfl" label="#nfl" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#jetstasteoftgenfl" label="#jetstasteoftgenfl" />
+      <node id="#Nyjets" label="#Nyjets" />
+      <node id="#Jets" label="#Jets" />
+      <node id="#jetsrewards" label="#jetsrewards" />
+      <node id="#Steelers" label="#Steelers" />
+      <node id="#freeagencyfrenzy" label="#freeagencyfrenzy" />
+      <node id="#EricDecker" label="#EricDecker" />
+      <node id="#jetup" label="#jetup" />
+      <node id="#nyjetstownhall" label="#nyjetstownhall" />
+      <node id="#mailbag" label="#mailbag" />
+      <node id="#DenverBroncos" label="#DenverBroncos" />
+      <node id="#Tasteofthejets" label="#Tasteofthejets" />
+      <node id="#JetsNation" label="#JetsNation" />
+      <node id="#NYJ" label="#NYJ" />
+      <node id="#Lions" label="#Lions" />
+      <node id="#jetsmetlife" label="#jetsmetlife" />
+      <node id="#JETSARMY" label="#JETSARMY" />
+      <node id="#Bears" label="#Bears" />
+      <node id="#JetsFansProblems" label="#JetsFansProblems" />
+      <node id="#Eagles" label="#Eagles" />
+      <node id="#NYJvsBAL" label="#NYJvsBAL" />
+      <node id="#NFLdraft" label="#NFLdraft" />
+      <node id="#MikeGlennon" label="#MikeGlennon" />
+      <node id="#jetsdraftparty" label="#jetsdraftparty" />
+      <node id="#NewYorkJets" label="#NewYorkJets" />
+      <node id="#Patriots" label="#Patriots" />
+      <node id="#tasteofthejets" label="#tasteofthejets" />
+      <node id="#Browns" label="#Browns" />
+      <node id="#MattForte" label="#MattForte" />
+      <node id="#NFLDraft2016" label="#NFLDraft2016" />
+      <node id="#Jetsnation" label="#Jetsnation" />
+      <node id="#DerrickHenry" label="#DerrickHenry" />
+      <node id="#WhiteOut" label="#WhiteOut" />
+      <node id="#TOJ" label="#TOJ" />
+      <node id="#NFLDraft" label="#NFLDraft" />
+      <node id="#NYJvsPIT" label="#NYJvsPIT" />
+      <node id="#Titans" label="#Titans" />
+      <node id="#Nyjetstownhall" label="#Nyjetstownhall" />
+      <node id="#nyjets" label="#nyjets" />
+      <node id="#Cardinals" label="#Cardinals" />
+      <node id="#Falcons" label="#Falcons" />
+      <node id="#weyid" label="#weyid" />
+      <node id="#jetnation" label="#jetnation" />
+      <node id="#JetUp" label="#JetUp" />
+      <node id="#NYJETS" label="#NYJETS" />
+      <node id="#roadtrip" label="#roadtrip" />
+      <node id="#Leader" label="#Leader" />
+      <node id="#Bengals" label="#Bengals" />
+      <node id="#RyanFitzpatrick" label="#RyanFitzpatrick" />
+      <node id="#Bucs" label="#Bucs" />
+      <node id="#party" label="#party" />
+      <node id="#dancerlife" label="#dancerlife" />
+      <node id="#JaceAmaro" label="#JaceAmaro" />
+      <node id="#Seahawks" label="#Seahawks" />
+      <node id="#tasteofthenfl" label="#tasteofthenfl" />
+      <node id="#NYJvsPHI" label="#NYJvsPHI" />
+      <node id="#MarshallvsRevis" label="#MarshallvsRevis" />
+      <node id="#GoJets" label="#GoJets" />
+      <node id="#jetstownhall" label="#jetstownhall" />
+      <node id="#FitzMagic" label="#FitzMagic" />
+      <node id="#NYGiants" label="#NYGiants" />
+      <node id="#2016NFLDraft" label="#2016NFLDraft" />
+      <node id="#metlife" label="#metlife" />
+      <node id="#jets" label="#jets" />
+      <node id="#nfldraft" label="#nfldraft" />
+      <node id="#funcamp" label="#funcamp" />
+      <node id="#SAVAGE" label="#SAVAGE" />
+      <node id="#OTAs" label="#OTAs" />
+      <node id="#PracticeMakesPerfect" label="#PracticeMakesPerfect" />
+      <node id="#bunhead" label="#bunhead" />
+      <node id="#NYJets" label="#NYJets" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Buccaneers" target="#NYJets" weight="3228" />
+      <edge id="1" source="#JetsCamp" target="#Jets" weight="3228" />
+      <edge id="2" source="#Broncos" target="#nyj" weight="6456" />
+      <edge id="3" source="#Broncos" target="#Jets" weight="6456" />
+      <edge id="4" source="#Broncos" target="#Eagles" weight="3228" />
+      <edge id="5" source="#Dolphins" target="#Jets" weight="3228" />
+      <edge id="6" source="#Dolphins" target="#Bills" weight="3228" />
+      <edge id="7" source="#Dolphins" target="#Patriots" weight="3228" />
+      <edge id="8" source="#FreeAgency" target="#Jets" weight="3228" />
+      <edge id="9" source="#nyj" target="#tasteofthejets" weight="3228" />
+      <edge id="10" source="#nyj" target="#Bengals" weight="3228" />
+      <edge id="11" source="#nyj" target="#jets" weight="12912" />
+      <edge id="12" source="#nyj" target="#MarshallvsRevis" weight="3228" />
+      <edge id="13" source="#nyj" target="#Bills" weight="3228" />
+      <edge id="14" source="#nyj" target="#Steelers" weight="3228" />
+      <edge id="15" source="#nyj" target="#Jets" weight="19368" />
+      <edge id="16" source="#nyj" target="#FitzMagic" weight="3228" />
+      <edge id="17" source="#nyj" target="#NFLDraft2016" weight="3228" />
+      <edge id="18" source="#nyj" target="#nfl" weight="9684" />
+      <edge id="19" source="#nyj" target="#ERICDECKER" weight="3228" />
+      <edge id="20" source="#nyj" target="#mailbag" weight="3228" />
+      <edge id="21" source="#nyj" target="#Lions" weight="3228" />
+      <edge id="22" source="#nyj" target="#nyjets" weight="6456" />
+      <edge id="23" source="#DarronLee" target="#NewYorkJets" weight="3228" />
+      <edge id="24" source="#DarronLee" target="#NYJets" weight="3228" />
+      <edge id="25" source="#MarkSanchez" target="#NFL" weight="3228" />
+      <edge id="26" source="#MarkSanchez" target="#DenverBroncos" weight="3228" />
+      <edge id="27" source="#eagles" target="#nfl" weight="3228" />
+      <edge id="28" source="#eagles" target="#jets" weight="3228" />
+      <edge id="29" source="#Bills" target="#Patriots" weight="3228" />
+      <edge id="30" source="#Bills" target="#Jets" weight="6456" />
+      <edge id="31" source="#SEAvsNYJ" target="#JetUp" weight="6456" />
+      <edge id="32" source="#SEAvsNYJ" target="#WhiteOut" weight="3228" />
+      <edge id="33" source="#SEAvsNYJ" target="#Jets" weight="3228" />
+      <edge id="34" source="#jetsdraft" target="#jetsmetlife" weight="3228" />
+      <edge id="35" source="#jetsdraft" target="#jetsdraftparty" weight="6456" />
+      <edge id="36" source="#jetsdraft" target="#metlife" weight="3228" />
+      <edge id="37" source="#jetsdraft" target="#jets" weight="6456" />
+      <edge id="38" source="#jetsdraft" target="#nfldraft" weight="3228" />
+      <edge id="39" source="#FatKid" target="#jets" weight="3228" />
+      <edge id="40" source="#Chargers" target="#Jets" weight="3228" />
+      <edge id="41" source="#sportsbusiness" target="#NFL" weight="3228" />
+      <edge id="42" source="#NFL" target="#Jets" weight="22596" />
+      <edge id="43" source="#NFL" target="#jets" weight="29052" />
+      <edge id="44" source="#NFL" target="#DenverBroncos" weight="3228" />
+      <edge id="45" source="#NFL" target="#NYJ" weight="12912" />
+      <edge id="46" source="#NFL" target="#NFLDraft" weight="3228" />
+      <edge id="47" source="#NFL" target="#nyjets" weight="22596" />
+      <edge id="48" source="#NFL" target="#NFLDraft2016" weight="3228" />
+      <edge id="49" source="#NFL" target="#MikeGlennon" weight="3228" />
+      <edge id="50" source="#NFL" target="#RyanFitzpatrick" weight="3228" />
+      <edge id="51" source="#NFL" target="#NewYorkJets" weight="12912" />
+      <edge id="52" source="#NFL" target="#NYJets" weight="6456" />
+      <edge id="53" source="#Fitzmagic" target="#jets" weight="3228" />
+      <edge id="54" source="#nfl" target="#FitzMagic" weight="3228" />
+      <edge id="55" source="#nfl" target="#jets" weight="22596" />
+      <edge id="56" source="#Giants" target="#Jets" weight="3228" />
+      <edge id="57" source="#jetstasteoftgenfl" target="#Tasteofthejets" weight="3228" />
+      <edge id="58" source="#jetstasteoftgenfl" target="#tasteofthenfl" weight="3228" />
+      <edge id="59" source="#jetstasteoftgenfl" target="#jets" weight="3228" />
+      <edge id="60" source="#Nyjets" target="#jets" weight="22596" />
+      <edge id="61" source="#Nyjets" target="#jetsrewards" weight="6456" />
+      <edge id="62" source="#Nyjets" target="#NYJ" weight="3228" />
+      <edge id="63" source="#Nyjets" target="#jetstownhall" weight="6456" />
+      <edge id="64" source="#Nyjets" target="#jetnation" weight="3228" />
+      <edge id="65" source="#Nyjets" target="#jetup" weight="3228" />
+      <edge id="66" source="#Nyjets" target="#nyjetstownhall" weight="3228" />
+      <edge id="67" source="#Nyjets" target="#Nyjetstownhall" weight="3228" />
+      <edge id="68" source="#Jets" target="#Bengals" weight="3228" />
+      <edge id="69" source="#Jets" target="#Browns" weight="3228" />
+      <edge id="70" source="#Jets" target="#Bucs" weight="3228" />
+      <edge id="71" source="#Jets" target="#NFLDraft2016" weight="3228" />
+      <edge id="72" source="#Jets" target="#freeagencyfrenzy" weight="3228" />
+      <edge id="73" source="#Jets" target="#TOJ" weight="3228" />
+      <edge id="74" source="#Jets" target="#Seahawks" weight="3228" />
+      <edge id="75" source="#Jets" target="#Titans" weight="3228" />
+      <edge id="76" source="#Jets" target="#Eagles" weight="3228" />
+      <edge id="77" source="#Jets" target="#Cardinals" weight="3228" />
+      <edge id="78" source="#Jets" target="#GoJets" weight="3228" />
+      <edge id="79" source="#Jets" target="#Lions" weight="6456" />
+      <edge id="80" source="#Jets" target="#Falcons" weight="3228" />
+      <edge id="81" source="#Jets" target="#NYJ" weight="6456" />
+      <edge id="82" source="#Jets" target="#FitzMagic" weight="3228" />
+      <edge id="83" source="#Jets" target="#JetUp" weight="6456" />
+      <edge id="84" source="#Jets" target="#nyjets" weight="6456" />
+      <edge id="85" source="#Jets" target="#NYGiants" weight="3228" />
+      <edge id="86" source="#Jets" target="#2016NFLDraft" weight="3228" />
+      <edge id="87" source="#Jets" target="#jets" weight="3228" />
+      <edge id="88" source="#Jets" target="#Jetsnation" weight="3228" />
+      <edge id="89" source="#Jets" target="#Bears" weight="3228" />
+      <edge id="90" source="#Jets" target="#NFLDraft" weight="3228" />
+      <edge id="91" source="#Jets" target="#Steelers" weight="6456" />
+      <edge id="92" source="#Jets" target="#JetsNation" weight="3228" />
+      <edge id="93" source="#Jets" target="#NYJvsPHI" weight="3228" />
+      <edge id="94" source="#Jets" target="#Leader" weight="3228" />
+      <edge id="95" source="#Jets" target="#NewYorkJets" weight="3228" />
+      <edge id="96" source="#Jets" target="#Patriots" weight="3228" />
+      <edge id="97" source="#Jets" target="#NYJets" weight="9684" />
+      <edge id="98" source="#jetsrewards" target="#Nyjetstownhall" weight="3228" />
+      <edge id="99" source="#jetsrewards" target="#nyjetstownhall" weight="3228" />
+      <edge id="100" source="#jetsrewards" target="#jets" weight="6456" />
+      <edge id="101" source="#jetsrewards" target="#jetstownhall" weight="3228" />
+      <edge id="102" source="#EricDecker" target="#NewYorkJets" weight="3228" />
+      <edge id="103" source="#EricDecker" target="#NYJ" weight="3228" />
+      <edge id="104" source="#jetup" target="#NYJ" weight="3228" />
+      <edge id="105" source="#jetup" target="#jetstownhall" weight="3228" />
+      <edge id="106" source="#jetup" target="#jetnation" weight="3228" />
+      <edge id="107" source="#jetup" target="#jets" weight="3228" />
+      <edge id="108" source="#nyjetstownhall" target="#jetstownhall" weight="3228" />
+      <edge id="109" source="#nyjetstownhall" target="#jets" weight="3228" />
+      <edge id="110" source="#Tasteofthejets" target="#tasteofthenfl" weight="3228" />
+      <edge id="111" source="#Tasteofthejets" target="#jets" weight="3228" />
+      <edge id="112" source="#JetsNation" target="#NewYorkJets" weight="6456" />
+      <edge id="113" source="#JetsNation" target="#Bucs" weight="3228" />
+      <edge id="114" source="#JetsNation" target="#MattForte" weight="3228" />
+      <edge id="115" source="#JetsNation" target="#JetUp" weight="3228" />
+      <edge id="116" source="#JetsNation" target="#NYJ" weight="6456" />
+      <edge id="117" source="#JetsNation" target="#NYJets" weight="6456" />
+      <edge id="118" source="#NYJ" target="#jets" weight="6456" />
+      <edge id="119" source="#NYJ" target="#NewYorkJets" weight="22596" />
+      <edge id="120" source="#NYJ" target="#MattForte" weight="3228" />
+      <edge id="121" source="#NYJ" target="#jetstownhall" weight="3228" />
+      <edge id="122" source="#NYJ" target="#NFLDraft2016" weight="3228" />
+      <edge id="123" source="#NYJ" target="#jetnation" weight="3228" />
+      <edge id="124" source="#NYJ" target="#JaceAmaro" weight="3228" />
+      <edge id="125" source="#NYJ" target="#RyanFitzpatrick" weight="3228" />
+      <edge id="126" source="#NYJ" target="#NYJets" weight="9684" />
+      <edge id="127" source="#Lions" target="#Cardinals" weight="3228" />
+      <edge id="128" source="#jetsmetlife" target="#jetsdraftparty" weight="3228" />
+      <edge id="129" source="#jetsmetlife" target="#metlife" weight="3228" />
+      <edge id="130" source="#jetsmetlife" target="#jets" weight="3228" />
+      <edge id="131" source="#jetsmetlife" target="#nfldraft" weight="3228" />
+      <edge id="132" source="#JETSARMY" target="#JetUp" weight="3228" />
+      <edge id="133" source="#JETSARMY" target="#NYJETS" weight="3228" />
+      <edge id="134" source="#JETSARMY" target="#SAVAGE" weight="3228" />
+      <edge id="135" source="#JETSARMY" target="#NYJvsBAL" weight="3228" />
+      <edge id="136" source="#JETSARMY" target="#NYJvsPIT" weight="3228" />
+      <edge id="137" source="#Bears" target="#NYJets" weight="3228" />
+      <edge id="138" source="#JetsFansProblems" target="#NFLDraft" weight="3228" />
+      <edge id="139" source="#Eagles" target="#NYJets" weight="3228" />
+      <edge id="140" source="#NYJvsBAL" target="#SAVAGE" weight="3228" />
+      <edge id="141" source="#NFLdraft" target="#jetsdraftparty" weight="3228" />
+      <edge id="142" source="#NFLdraft" target="#jets" weight="3228" />
+      <edge id="143" source="#NFLdraft" target="#nyjets" weight="3228" />
+      <edge id="144" source="#MikeGlennon" target="#NewYorkJets" weight="3228" />
+      <edge id="145" source="#MikeGlennon" target="#NYJets" weight="3228" />
+      <edge id="146" source="#jetsdraftparty" target="#metlife" weight="3228" />
+      <edge id="147" source="#jetsdraftparty" target="#jets" weight="12912" />
+      <edge id="148" source="#jetsdraftparty" target="#nfldraft" weight="6456" />
+      <edge id="149" source="#jetsdraftparty" target="#nyjets" weight="3228" />
+      <edge id="150" source="#NewYorkJets" target="#Bucs" weight="3228" />
+      <edge id="151" source="#NewYorkJets" target="#NFLDraft2016" weight="3228" />
+      <edge id="152" source="#NewYorkJets" target="#JaceAmaro" weight="3228" />
+      <edge id="153" source="#NewYorkJets" target="#JetUp" weight="3228" />
+      <edge id="154" source="#NewYorkJets" target="#RyanFitzpatrick" weight="6456" />
+      <edge id="155" source="#NewYorkJets" target="#NYJets" weight="19368" />
+      <edge id="156" source="#tasteofthejets" target="#jets" weight="12912" />
+      <edge id="157" source="#tasteofthejets" target="#nyjets" weight="3228" />
+      <edge id="158" source="#Browns" target="#jets" weight="3228" />
+      <edge id="159" source="#MattForte" target="#NYJets" weight="3228" />
+      <edge id="160" source="#NFLDraft2016" target="#NFLDraft" weight="3228" />
+      <edge id="161" source="#Jetsnation" target="#GoJets" weight="3228" />
+      <edge id="162" source="#Jetsnation" target="#NYJvsPHI" weight="3228" />
+      <edge id="163" source="#DerrickHenry" target="#NFLDraft" weight="3228" />
+      <edge id="164" source="#WhiteOut" target="#JetUp" weight="3228" />
+      <edge id="165" source="#NYJvsPIT" target="#NYJETS" weight="3228" />
+      <edge id="166" source="#Nyjetstownhall" target="#jets" weight="3228" />
+      <edge id="167" source="#nyjets" target="#jets" weight="29052" />
+      <edge id="168" source="#nyjets" target="#Bengals" weight="3228" />
+      <edge id="169" source="#weyid" target="#jets" weight="3228" />
+      <edge id="170" source="#jetnation" target="#jets" weight="3228" />
+      <edge id="171" source="#jetnation" target="#jetstownhall" weight="3228" />
+      <edge id="172" source="#JetUp" target="#Bucs" weight="3228" />
+      <edge id="173" source="#JetUp" target="#OTAs" weight="3228" />
+      <edge id="174" source="#JetUp" target="#NYJets" weight="3228" />
+      <edge id="175" source="#NYJETS" target="#party" weight="3228" />
+      <edge id="176" source="#roadtrip" target="#jets" weight="3228" />
+      <edge id="177" source="#RyanFitzpatrick" target="#jets" weight="3228" />
+      <edge id="178" source="#Bucs" target="#NYJets" weight="3228" />
+      <edge id="179" source="#dancerlife" target="#bunhead" weight="3228" />
+      <edge id="180" source="#dancerlife" target="#PracticeMakesPerfect" weight="3228" />
+      <edge id="181" source="#JaceAmaro" target="#NYJets" weight="3228" />
+      <edge id="182" source="#tasteofthenfl" target="#jets" weight="6456" />
+      <edge id="183" source="#NYJvsPHI" target="#GoJets" weight="3228" />
+      <edge id="184" source="#jetstownhall" target="#jets" weight="6456" />
+      <edge id="185" source="#FitzMagic" target="#jets" weight="3228" />
+      <edge id="186" source="#metlife" target="#jets" weight="3228" />
+      <edge id="187" source="#metlife" target="#nfldraft" weight="3228" />
+      <edge id="188" source="#jets" target="#nfldraft" weight="6456" />
+      <edge id="189" source="#jets" target="#funcamp" weight="3228" />
+      <edge id="190" source="#PracticeMakesPerfect" target="#bunhead" weight="3228" />
+    </edges>
+  </graph>
+</gexf>

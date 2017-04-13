@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BestHospitals" label="#BestHospitals" />
+      <node id="#hospital" label="#hospital" />
+      <node id="#columbus" label="#columbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BestHospitals" target="#hospital" weight="36" />
+      <edge id="1" source="#BestHospitals" target="#columbus" weight="36" />
+      <edge id="2" source="#hospital" target="#columbus" weight="36" />
+    </edges>
+  </graph>
+</gexf>

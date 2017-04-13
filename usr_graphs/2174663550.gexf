@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NIHinYourState" label="#NIHinYourState" />
+      <node id="#OSUevents" label="#OSUevents" />
+      <node id="#statistics" label="#statistics" />
+      <node id="#NHPC15" label="#NHPC15" />
+      <node id="#Stata" label="#Stata" />
+      <node id="#opiate" label="#opiate" />
+      <node id="#UMassMed" label="#UMassMed" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#RWJF1stFri" label="#RWJF1stFri" />
+      <node id="#OHMedtapp" label="#OHMedtapp" />
+      <node id="#qualityimprovement" label="#qualityimprovement" />
+      <node id="#statistical" label="#statistical" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#stata2015" label="#stata2015" />
+      <node id="#HealthMatters" label="#HealthMatters" />
+      <node id="#InvestedOSU" label="#InvestedOSU" />
+      <node id="#OHBeacon" label="#OHBeacon" />
+      <node id="#HealthRankings" label="#HealthRankings" />
+      <node id="#discoverresearch" label="#discoverresearch" />
+      <node id="#Stata2015" label="#Stata2015" />
+      <node id="#OH" label="#OH" />
+      <node id="#Medicaid" label="#Medicaid" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NIHinYourState" target="#Ohio" weight="783" />
+      <edge id="1" source="#OSUevents" target="#discoverresearch" weight="783" />
+      <edge id="2" source="#OSUevents" target="#InvestedOSU" weight="783" />
+      <edge id="3" source="#statistics" target="#Stata2015" weight="783" />
+      <edge id="4" source="#statistics" target="#stata2015" weight="783" />
+      <edge id="5" source="#statistics" target="#Stata" weight="783" />
+      <edge id="6" source="#NHPC15" target="#UMassMed" weight="783" />
+      <edge id="7" source="#Stata" target="#Stata2015" weight="1566" />
+      <edge id="8" source="#Stata" target="#statistical" weight="783" />
+      <edge id="9" source="#opiate" target="#OH" weight="783" />
+      <edge id="10" source="#UMassMed" target="#Medicaid" weight="1566" />
+      <edge id="11" source="#UMassMed" target="#healthcare" weight="783" />
+      <edge id="12" source="#Ohio" target="#HealthRankings" weight="783" />
+      <edge id="13" source="#RWJF1stFri" target="#HealthMatters" weight="783" />
+      <edge id="14" source="#OHMedtapp" target="#qualityimprovement" weight="783" />
+      <edge id="15" source="#OHMedtapp" target="#OHBeacon" weight="5481" />
+      <edge id="16" source="#statistical" target="#Stata2015" weight="783" />
+      <edge id="17" source="#healthcare" target="#Medicaid" weight="783" />
+    </edges>
+  </graph>
+</gexf>

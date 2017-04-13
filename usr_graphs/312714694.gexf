@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ASCDL2L" label="#ASCDL2L" />
+      <node id="#ASCA" label="#ASCA" />
+      <node id="#2015GACTEReception" label="#2015GACTEReception" />
+      <node id="#teacherhappiness" label="#teacherhappiness" />
+      <node id="#captureeducation" label="#captureeducation" />
+      <node id="#gtchat" label="#gtchat" />
+      <node id="#Capture" label="#Capture" />
+      <node id="#WhitePaper" label="#WhitePaper" />
+      <node id="#ilchat" label="#ilchat" />
+      <node id="#edldrchat" label="#edldrchat" />
+      <node id="#ISTE2015" label="#ISTE2015" />
+      <node id="#edchat" label="#edchat" />
+      <node id="#EarlyCollege" label="#EarlyCollege" />
+      <node id="#julysboe" label="#julysboe" />
+      <node id="#CTE" label="#CTE" />
+      <node id="#ACTE" label="#ACTE" />
+      <node id="#GradNation" label="#GradNation" />
+      <node id="#cte" label="#cte" />
+      <node id="#RTI" label="#RTI" />
+      <node id="#educhat" label="#educhat" />
+      <node id="#Vote2Adopt" label="#Vote2Adopt" />
+      <node id="#CHA" label="#CHA" />
+      <node id="#edreform" label="#edreform" />
+      <node id="#Counselor" label="#Counselor" />
+      <node id="#relationships" label="#relationships" />
+      <node id="#NASSP" label="#NASSP" />
+      <node id="#schedulesmart" label="#schedulesmart" />
+      <node id="#acte" label="#acte" />
+      <node id="#counselors" label="#counselors" />
+      <node id="#edleader" label="#edleader" />
+      <node id="#psug" label="#psug" />
+      <node id="#SCACTE" label="#SCACTE" />
+      <node id="#Enrollment" label="#Enrollment" />
+      <node id="#cpchat" label="#cpchat" />
+      <node id="#naesp" label="#naesp" />
+      <node id="#gacte" label="#gacte" />
+      <node id="#energybus" label="#energybus" />
+      <node id="#education" label="#education" />
+      <node id="#wblworks" label="#wblworks" />
+      <node id="#CaptureEducation" label="#CaptureEducation" />
+      <node id="#edchatldr" label="#edchatldr" />
+      <node id="#achievementgap" label="#achievementgap" />
+      <node id="#nassp" label="#nassp" />
+      <node id="#edbeat" label="#edbeat" />
+      <node id="#GrowthMindset" label="#GrowthMindset" />
+      <node id="#equity" label="#equity" />
+      <node id="#Arizona" label="#Arizona" />
+      <node id="#collegecredit" label="#collegecredit" />
+      <node id="#suptchat" label="#suptchat" />
+      <node id="#Counselors" label="#Counselors" />
+      <node id="#ECHS" label="#ECHS" />
+      <node id="#OPS" label="#OPS" />
+      <node id="#SREBcommission" label="#SREBcommission" />
+      <node id="#PowerSchool" label="#PowerSchool" />
+      <node id="#PathwayandCareer" label="#PathwayandCareer" />
+      <node id="#FirstGeneration" label="#FirstGeneration" />
+      <node id="#Education" label="#Education" />
+      <node id="#tapsnap" label="#tapsnap" />
+      <node id="#edadmin" label="#edadmin" />
+      <node id="#GACTE" label="#GACTE" />
+      <node id="#StandUp4Science" label="#StandUp4Science" />
+      <node id="#PSUG" label="#PSUG" />
+      <node id="#leadupchat" label="#leadupchat" />
+      <node id="#EVIT" label="#EVIT" />
+      <node id="#satchatwc" label="#satchatwc" />
+      <node id="#gagrown" label="#gagrown" />
+      <node id="#oaesa" label="#oaesa" />
+      <node id="#txeduchat" label="#txeduchat" />
+      <node id="#CaptureEduction" label="#CaptureEduction" />
+      <node id="#edtech" label="#edtech" />
+      <node id="#datadrivenschedule" label="#datadrivenschedule" />
+      <node id="#studentsuccess" label="#studentsuccess" />
+      <node id="#WeAreEVIT" label="#WeAreEVIT" />
+      <node id="#rural" label="#rural" />
+      <node id="#CTAE" label="#CTAE" />
+      <node id="#modernclassroom" label="#modernclassroom" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ASCDL2L" target="#GrowthMindset" weight="435" />
+      <edge id="1" source="#ASCA" target="#CTE" weight="435" />
+      <edge id="2" source="#2015GACTEReception" target="#tapsnap" weight="435" />
+      <edge id="3" source="#teacherhappiness" target="#datadrivenschedule" weight="435" />
+      <edge id="4" source="#teacherhappiness" target="#studentsuccess" weight="435" />
+      <edge id="5" source="#captureeducation" target="#schedulesmart" weight="435" />
+      <edge id="6" source="#gtchat" target="#counselors" weight="435" />
+      <edge id="7" source="#gtchat" target="#edchat" weight="435" />
+      <edge id="8" source="#Capture" target="#Education" weight="435" />
+      <edge id="9" source="#WhitePaper" target="#EarlyCollege" weight="435" />
+      <edge id="10" source="#ilchat" target="#edleader" weight="435" />
+      <edge id="11" source="#ilchat" target="#psug" weight="435" />
+      <edge id="12" source="#ilchat" target="#PSUG" weight="435" />
+      <edge id="13" source="#edldrchat" target="#edchat" weight="435" />
+      <edge id="14" source="#ISTE2015" target="#edtech" weight="435" />
+      <edge id="15" source="#edchat" target="#cte" weight="1305" />
+      <edge id="16" source="#edchat" target="#edreform" weight="435" />
+      <edge id="17" source="#edchat" target="#relationships" weight="435" />
+      <edge id="18" source="#edchat" target="#ACTE" weight="435" />
+      <edge id="19" source="#edchat" target="#counselors" weight="6960" />
+      <edge id="20" source="#edchat" target="#PSUG" weight="435" />
+      <edge id="21" source="#edchat" target="#cpchat" weight="3045" />
+      <edge id="22" source="#edchat" target="#naesp" weight="435" />
+      <edge id="23" source="#edchat" target="#education" weight="5655" />
+      <edge id="24" source="#edchat" target="#edchatldr" weight="435" />
+      <edge id="25" source="#edchat" target="#edbeat" weight="435" />
+      <edge id="26" source="#edchat" target="#equity" weight="435" />
+      <edge id="27" source="#edchat" target="#Counselors" weight="1740" />
+      <edge id="28" source="#edchat" target="#edadmin" weight="1305" />
+      <edge id="29" source="#edchat" target="#leadupchat" weight="2610" />
+      <edge id="30" source="#edchat" target="#oaesa" weight="435" />
+      <edge id="31" source="#edchat" target="#energybus" weight="435" />
+      <edge id="32" source="#edchat" target="#edtech" weight="870" />
+      <edge id="33" source="#edchat" target="#achievementgap" weight="435" />
+      <edge id="34" source="#edchat" target="#CTE" weight="870" />
+      <edge id="35" source="#julysboe" target="#CTAE" weight="435" />
+      <edge id="36" source="#CTE" target="#Arizona" weight="870" />
+      <edge id="37" source="#CTE" target="#GACTE" weight="1305" />
+      <edge id="38" source="#CTE" target="#education" weight="435" />
+      <edge id="39" source="#CTE" target="#EVIT" weight="870" />
+      <edge id="40" source="#CTE" target="#ACTE" weight="1305" />
+      <edge id="41" source="#CTE" target="#SREBcommission" weight="435" />
+      <edge id="42" source="#CTE" target="#Enrollment" weight="435" />
+      <edge id="43" source="#CTE" target="#PathwayandCareer" weight="435" />
+      <edge id="44" source="#CTE" target="#WeAreEVIT" weight="435" />
+      <edge id="45" source="#GradNation" target="#CHA" weight="435" />
+      <edge id="46" source="#cte" target="#education" weight="1305" />
+      <edge id="47" source="#cte" target="#counselors" weight="2175" />
+      <edge id="48" source="#cte" target="#gacte" weight="435" />
+      <edge id="49" source="#cte" target="#acte" weight="435" />
+      <edge id="50" source="#RTI" target="#OPS" weight="435" />
+      <edge id="51" source="#educhat" target="#education" weight="435" />
+      <edge id="52" source="#Vote2Adopt" target="#StandUp4Science" weight="435" />
+      <edge id="53" source="#Counselor" target="#FirstGeneration" weight="435" />
+      <edge id="54" source="#relationships" target="#oaesa" weight="435" />
+      <edge id="55" source="#relationships" target="#naesp" weight="435" />
+      <edge id="56" source="#relationships" target="#energybus" weight="435" />
+      <edge id="57" source="#NASSP" target="#Counselors" weight="435" />
+      <edge id="58" source="#acte" target="#counselors" weight="435" />
+      <edge id="59" source="#counselors" target="#education" weight="870" />
+      <edge id="60" source="#counselors" target="#edadmin" weight="435" />
+      <edge id="61" source="#counselors" target="#leadupchat" weight="1305" />
+      <edge id="62" source="#counselors" target="#cpchat" weight="1740" />
+      <edge id="63" source="#edleader" target="#PSUG" weight="435" />
+      <edge id="64" source="#psug" target="#cpchat" weight="435" />
+      <edge id="65" source="#psug" target="#edadmin" weight="435" />
+      <edge id="66" source="#psug" target="#edtech" weight="435" />
+      <edge id="67" source="#SCACTE" target="#PSUG" weight="435" />
+      <edge id="68" source="#SCACTE" target="#GACTE" weight="435" />
+      <edge id="69" source="#cpchat" target="#edadmin" weight="3480" />
+      <edge id="70" source="#cpchat" target="#nassp" weight="435" />
+      <edge id="71" source="#cpchat" target="#suptchat" weight="435" />
+      <edge id="72" source="#cpchat" target="#edtech" weight="435" />
+      <edge id="73" source="#naesp" target="#oaesa" weight="435" />
+      <edge id="74" source="#naesp" target="#energybus" weight="435" />
+      <edge id="75" source="#energybus" target="#oaesa" weight="435" />
+      <edge id="76" source="#education" target="#edadmin" weight="435" />
+      <edge id="77" source="#education" target="#edchatldr" weight="435" />
+      <edge id="78" source="#education" target="#leadupchat" weight="435" />
+      <edge id="79" source="#education" target="#Counselors" weight="435" />
+      <edge id="80" source="#education" target="#rural" weight="435" />
+      <edge id="81" source="#wblworks" target="#gagrown" weight="435" />
+      <edge id="82" source="#CaptureEducation" target="#PowerSchool" weight="435" />
+      <edge id="83" source="#Arizona" target="#WeAreEVIT" weight="435" />
+      <edge id="84" source="#Arizona" target="#EVIT" weight="870" />
+      <edge id="85" source="#collegecredit" target="#ECHS" weight="435" />
+      <edge id="86" source="#suptchat" target="#edadmin" weight="435" />
+      <edge id="87" source="#PowerSchool" target="#PSUG" weight="1305" />
+      <edge id="88" source="#PowerSchool" target="#CaptureEduction" weight="435" />
+      <edge id="89" source="#edadmin" target="#edtech" weight="435" />
+      <edge id="90" source="#GACTE" target="#PSUG" weight="435" />
+      <edge id="91" source="#PSUG" target="#edtech" weight="870" />
+      <edge id="92" source="#leadupchat" target="#satchatwc" weight="435" />
+      <edge id="93" source="#leadupchat" target="#txeduchat" weight="435" />
+      <edge id="94" source="#EVIT" target="#WeAreEVIT" weight="435" />
+      <edge id="95" source="#satchatwc" target="#txeduchat" weight="435" />
+      <edge id="96" source="#edtech" target="#modernclassroom" weight="435" />
+      <edge id="97" source="#datadrivenschedule" target="#studentsuccess" weight="435" />
+    </edges>
+  </graph>
+</gexf>

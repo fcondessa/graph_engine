@@ -1,0 +1,772 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#gridlock" label="#gridlock" />
+      <node id="#himss" label="#himss" />
+      <node id="#AppleWatch" label="#AppleWatch" />
+      <node id="#believe" label="#believe" />
+      <node id="#success" label="#success" />
+      <node id="#technology" label="#technology" />
+      <node id="#dontfollow" label="#dontfollow" />
+      <node id="#chicago" label="#chicago" />
+      <node id="#kiosk" label="#kiosk" />
+      <node id="#DevOps" label="#DevOps" />
+      <node id="#amazing" label="#amazing" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#MuhammadAli" label="#MuhammadAli" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#trump" label="#trump" />
+      <node id="#nostraightline" label="#nostraightline" />
+      <node id="#Clarity" label="#Clarity" />
+      <node id="#apply" label="#apply" />
+      <node id="#startuptalk" label="#startuptalk" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#future" label="#future" />
+      <node id="#WhiskeyWednesday" label="#WhiskeyWednesday" />
+      <node id="#telehealth" label="#telehealth" />
+      <node id="#healthcareIT" label="#healthcareIT" />
+      <node id="#NPIDchallenge" label="#NPIDchallenge" />
+      <node id="#persistence" label="#persistence" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#weaksauce" label="#weaksauce" />
+      <node id="#badass" label="#badass" />
+      <node id="#Business" label="#Business" />
+      <node id="#CIO15" label="#CIO15" />
+      <node id="#sorta" label="#sorta" />
+      <node id="#RyderCup2016" label="#RyderCup2016" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Doc" label="#Doc" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#ehrlich" label="#ehrlich" />
+      <node id="#booya" label="#booya" />
+      <node id="#goals" label="#goals" />
+      <node id="#free" label="#free" />
+      <node id="#alibaba" label="#alibaba" />
+      <node id="#Entrepreneur" label="#Entrepreneur" />
+      <node id="#love" label="#love" />
+      <node id="#seriesB" label="#seriesB" />
+      <node id="#Saturdaynight" label="#Saturdaynight" />
+      <node id="#devops" label="#devops" />
+      <node id="#ThugLife" label="#ThugLife" />
+      <node id="#SiliconValley" label="#SiliconValley" />
+      <node id="#detroit" label="#detroit" />
+      <node id="#scotch" label="#scotch" />
+      <node id="#Need" label="#Need" />
+      <node id="#IoH" label="#IoH" />
+      <node id="#breakfast" label="#breakfast" />
+      <node id="#medicalIDtheft" label="#medicalIDtheft" />
+      <node id="#MillionaireMindset" label="#MillionaireMindset" />
+      <node id="#lead" label="#lead" />
+      <node id="#HastaLaVistaToMyQueen" label="#HastaLaVistaToMyQueen" />
+      <node id="#confidence" label="#confidence" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#crownroyal" label="#crownroyal" />
+      <node id="#StarWars" label="#StarWars" />
+      <node id="#hashtag" label="#hashtag" />
+      <node id="#billionaire" label="#billionaire" />
+      <node id="#AfterLaborDay" label="#AfterLaborDay" />
+      <node id="#ChessDay" label="#ChessDay" />
+      <node id="#ThurmanGuerrero" label="#ThurmanGuerrero" />
+      <node id="#HealthcareIT" label="#HealthcareIT" />
+      <node id="#awesomesauce" label="#awesomesauce" />
+      <node id="#neverstopneversettle" label="#neverstopneversettle" />
+      <node id="#HIMMS15" label="#HIMMS15" />
+      <node id="#EMR" label="#EMR" />
+      <node id="#project" label="#project" />
+      <node id="#IHeartHIT" label="#IHeartHIT" />
+      <node id="#recruiting" label="#recruiting" />
+      <node id="#relaxation" label="#relaxation" />
+      <node id="#life" label="#life" />
+      <node id="#DrEmmettLBrown" label="#DrEmmettLBrown" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#uber" label="#uber" />
+      <node id="#betterliving" label="#betterliving" />
+      <node id="#challenge" label="#challenge" />
+      <node id="#tech" label="#tech" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#diet" label="#diet" />
+      <node id="#JoeDirt2" label="#JoeDirt2" />
+      <node id="#NoContest" label="#NoContest" />
+      <node id="#QuadrupleRainbow" label="#QuadrupleRainbow" />
+      <node id="#opportunity" label="#opportunity" />
+      <node id="#progress" label="#progress" />
+      <node id="#Tebow" label="#Tebow" />
+      <node id="#persistant" label="#persistant" />
+      <node id="#startups" label="#startups" />
+      <node id="#WorkHardPlayHarder" label="#WorkHardPlayHarder" />
+      <node id="#Now" label="#Now" />
+      <node id="#HealthcareInnovation" label="#HealthcareInnovation" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#sopumped" label="#sopumped" />
+      <node id="#records" label="#records" />
+      <node id="#IveGotAFew" label="#IveGotAFew" />
+      <node id="#IdentityTheft" label="#IdentityTheft" />
+      <node id="#ValentinesDay" label="#ValentinesDay" />
+      <node id="#getmyswoleon" label="#getmyswoleon" />
+      <node id="#EndOfTheWorld" label="#EndOfTheWorld" />
+      <node id="#burrito" label="#burrito" />
+      <node id="#nordic" label="#nordic" />
+      <node id="#BOXINGonNBC" label="#BOXINGonNBC" />
+      <node id="#addvalue" label="#addvalue" />
+      <node id="#BeastMode" label="#BeastMode" />
+      <node id="#crosschx" label="#crosschx" />
+      <node id="#BackToTheFuture" label="#BackToTheFuture" />
+      <node id="#HIMSSselfie" label="#HIMSSselfie" />
+      <node id="#timemachine" label="#timemachine" />
+      <node id="#Clinton" label="#Clinton" />
+      <node id="#jalapenoCornbreadChorizoGravy" label="#jalapenoCornbreadChorizoGravy" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#idfraud" label="#idfraud" />
+      <node id="#pumped" label="#pumped" />
+      <node id="#Michigan" label="#Michigan" />
+      <node id="#neverstopexploring" label="#neverstopexploring" />
+      <node id="#sales" label="#sales" />
+      <node id="#regrets" label="#regrets" />
+      <node id="#startup" label="#startup" />
+      <node id="#record" label="#record" />
+      <node id="#USA" label="#USA" />
+      <node id="#macallan" label="#macallan" />
+      <node id="#biometrics" label="#biometrics" />
+      <node id="#HIMMS2015" label="#HIMMS2015" />
+      <node id="#CROSSCHX" label="#CROSSCHX" />
+      <node id="#HIStalking" label="#HIStalking" />
+      <node id="#believeinyourself" label="#believeinyourself" />
+      <node id="#Heisman" label="#Heisman" />
+      <node id="#wisdom" label="#wisdom" />
+      <node id="#ScotchWars" label="#ScotchWars" />
+      <node id="#Falcon9" label="#Falcon9" />
+      <node id="#JohnOliver" label="#JohnOliver" />
+      <node id="#homegym" label="#homegym" />
+      <node id="#gym" label="#gym" />
+      <node id="#magic" label="#magic" />
+      <node id="#patent" label="#patent" />
+      <node id="#backtothefuture" label="#backtothefuture" />
+      <node id="#momentum" label="#momentum" />
+      <node id="#discipline" label="#discipline" />
+      <node id="#grubbin" label="#grubbin" />
+      <node id="#NeverStop" label="#NeverStop" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#MadMoney" label="#MadMoney" />
+      <node id="#drinkscotch" label="#drinkscotch" />
+      <node id="#BringIt" label="#BringIt" />
+      <node id="#WrongTurn" label="#WrongTurn" />
+      <node id="#Chipotle" label="#Chipotle" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#engineer" label="#engineer" />
+      <node id="#designateddriver" label="#designateddriver" />
+      <node id="#DocBrown" label="#DocBrown" />
+      <node id="#Ops" label="#Ops" />
+      <node id="#womenintech" label="#womenintech" />
+      <node id="#chitown" label="#chitown" />
+      <node id="#losing" label="#losing" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#dieonmars" label="#dieonmars" />
+      <node id="#AwesomeSauce" label="#AwesomeSauce" />
+      <node id="#NoHR" label="#NoHR" />
+      <node id="#mancrush" label="#mancrush" />
+      <node id="#DSCOVR" label="#DSCOVR" />
+      <node id="#Relax" label="#Relax" />
+      <node id="#Tesla" label="#Tesla" />
+      <node id="#blantons" label="#blantons" />
+      <node id="#CrossChx" label="#CrossChx" />
+      <node id="#PaleProblems" label="#PaleProblems" />
+      <node id="#WhenAmericaWasAStartup" label="#WhenAmericaWasAStartup" />
+      <node id="#brunch" label="#brunch" />
+      <node id="#SundayFunday" label="#SundayFunday" />
+      <node id="#Talent" label="#Talent" />
+      <node id="#Ghostbusters" label="#Ghostbusters" />
+      <node id="#DeLorean" label="#DeLorean" />
+      <node id="#NewVP" label="#NewVP" />
+      <node id="#DuffMan" label="#DuffMan" />
+      <node id="#Goals" label="#Goals" />
+      <node id="#SpeakinTruth" label="#SpeakinTruth" />
+      <node id="#imagine" label="#imagine" />
+      <node id="#ImJealous" label="#ImJealous" />
+      <node id="#JackMa" label="#JackMa" />
+      <node id="#TheViewUpHere" label="#TheViewUpHere" />
+      <node id="#banking" label="#banking" />
+      <node id="#STARTUP" label="#STARTUP" />
+      <node id="#growth" label="#growth" />
+      <node id="#NewBeginning" label="#NewBeginning" />
+      <node id="#medicalIdTheft" label="#medicalIdTheft" />
+      <node id="#wait" label="#wait" />
+      <node id="#workhard" label="#workhard" />
+      <node id="#focus" label="#focus" />
+      <node id="#ElonMusk" label="#ElonMusk" />
+      <node id="#parenthood" label="#parenthood" />
+      <node id="#HIMSS15" label="#HIMSS15" />
+      <node id="#PizzaDelivery" label="#PizzaDelivery" />
+      <node id="#Breakfast" label="#Breakfast" />
+      <node id="#identitytheft" label="#identitytheft" />
+      <node id="#lunch" label="#lunch" />
+      <node id="#ebbandflow" label="#ebbandflow" />
+      <node id="#PUMPED" label="#PUMPED" />
+      <node id="#SundayBrunch" label="#SundayBrunch" />
+      <node id="#McRib" label="#McRib" />
+      <node id="#Security" label="#Security" />
+      <node id="#11States" label="#11States" />
+      <node id="#can" label="#can" />
+      <node id="#carbs" label="#carbs" />
+      <node id="#Biometrics" label="#Biometrics" />
+      <node id="#business" label="#business" />
+      <node id="#ArtisanButter" label="#ArtisanButter" />
+      <node id="#not" label="#not" />
+      <node id="#NoCommas" label="#NoCommas" />
+      <node id="#volvo" label="#volvo" />
+      <node id="#LeadershipUniversity" label="#LeadershipUniversity" />
+      <node id="#learn" label="#learn" />
+      <node id="#legacy" label="#legacy" />
+      <node id="#ArnoldVsCheng" label="#ArnoldVsCheng" />
+      <node id="#Valentine" label="#Valentine" />
+      <node id="#SteveJobs" label="#SteveJobs" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#BurritoWars" label="#BurritoWars" />
+      <node id="#EasterBunny" label="#EasterBunny" />
+      <node id="#MentalToughness" label="#MentalToughness" />
+      <node id="#heaven" label="#heaven" />
+      <node id="#burritobowl" label="#burritobowl" />
+      <node id="#cheatday" label="#cheatday" />
+      <node id="#AmIDiversified" label="#AmIDiversified" />
+      <node id="#ManCard" label="#ManCard" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#ILikeQuotes" label="#ILikeQuotes" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#KillingIt" label="#KillingIt" />
+      <node id="#StartupGrind" label="#StartupGrind" />
+      <node id="#BTTF" label="#BTTF" />
+      <node id="#AppleEvent" label="#AppleEvent" />
+      <node id="#winning" label="#winning" />
+      <node id="#owned" label="#owned" />
+      <node id="#88mph" label="#88mph" />
+      <node id="#NeedAdventure" label="#NeedAdventure" />
+      <node id="#tanning" label="#tanning" />
+      <node id="#Epic" label="#Epic" />
+      <node id="#mindset" label="#mindset" />
+      <node id="#Crosschx" label="#Crosschx" />
+      <node id="#experience" label="#experience" />
+      <node id="#bigreveal" label="#bigreveal" />
+      <node id="#medicalidtheft" label="#medicalidtheft" />
+      <node id="#Hungover" label="#Hungover" />
+      <node id="#keepmoving" label="#keepmoving" />
+      <node id="#officespace" label="#officespace" />
+      <node id="#Alabama" label="#Alabama" />
+      <node id="#Elon" label="#Elon" />
+      <node id="#keepgoing" label="#keepgoing" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#beastmode" label="#beastmode" />
+      <node id="#bebetterthanthat" label="#bebetterthanthat" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#rapid" label="#rapid" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#startup" weight="487" />
+      <edge id="1" source="#truth" target="#recruiting" weight="487" />
+      <edge id="2" source="#gridlock" target="#Columbus" weight="487" />
+      <edge id="3" source="#himss" target="#BTTF" weight="487" />
+      <edge id="4" source="#himss" target="#DocBrown" weight="487" />
+      <edge id="5" source="#himss" target="#chicago" weight="487" />
+      <edge id="6" source="#himss" target="#chitown" weight="487" />
+      <edge id="7" source="#himss" target="#crosschx" weight="487" />
+      <edge id="8" source="#himss" target="#DrEmmettLBrown" weight="487" />
+      <edge id="9" source="#himss" target="#DeLorean" weight="487" />
+      <edge id="10" source="#AppleWatch" target="#AppleEvent" weight="487" />
+      <edge id="11" source="#believe" target="#ElonMusk" weight="487" />
+      <edge id="12" source="#success" target="#ebbandflow" weight="487" />
+      <edge id="13" source="#success" target="#nostraightline" weight="487" />
+      <edge id="14" source="#success" target="#startup" weight="487" />
+      <edge id="15" source="#success" target="#life" weight="487" />
+      <edge id="16" source="#success" target="#opportunity" weight="487" />
+      <edge id="17" source="#technology" target="#AwesomeSauce" weight="487" />
+      <edge id="18" source="#technology" target="#jobs" weight="487" />
+      <edge id="19" source="#technology" target="#patent" weight="487" />
+      <edge id="20" source="#technology" target="#startup" weight="487" />
+      <edge id="21" source="#technology" target="#betterliving" weight="487" />
+      <edge id="22" source="#technology" target="#columbus" weight="487" />
+      <edge id="23" source="#dontfollow" target="#startups" weight="487" />
+      <edge id="24" source="#chicago" target="#BTTF" weight="487" />
+      <edge id="25" source="#chicago" target="#DocBrown" weight="487" />
+      <edge id="26" source="#chicago" target="#chitown" weight="487" />
+      <edge id="27" source="#chicago" target="#crosschx" weight="487" />
+      <edge id="28" source="#chicago" target="#DrEmmettLBrown" weight="487" />
+      <edge id="29" source="#chicago" target="#DeLorean" weight="487" />
+      <edge id="30" source="#kiosk" target="#startup" weight="487" />
+      <edge id="31" source="#kiosk" target="#Healthcare" weight="487" />
+      <edge id="32" source="#kiosk" target="#CrossChx" weight="487" />
+      <edge id="33" source="#DevOps" target="#Talent" weight="487" />
+      <edge id="34" source="#DevOps" target="#CrossChx" weight="487" />
+      <edge id="35" source="#DevOps" target="#Startup" weight="487" />
+      <edge id="36" source="#DevOps" target="#Jobs" weight="487" />
+      <edge id="37" source="#DevOps" target="#Healthcare" weight="487" />
+      <edge id="38" source="#amazing" target="#startups" weight="487" />
+      <edge id="39" source="#amazing" target="#QuadrupleRainbow" weight="487" />
+      <edge id="40" source="#amazing" target="#pumped" weight="487" />
+      <edge id="41" source="#Cbus" target="#DeLorean" weight="974" />
+      <edge id="42" source="#Cbus" target="#HIMSS15" weight="974" />
+      <edge id="43" source="#MuhammadAli" target="#startup" weight="487" />
+      <edge id="44" source="#MuhammadAli" target="#entrepreneur" weight="487" />
+      <edge id="45" source="#MuhammadAli" target="#business" weight="487" />
+      <edge id="46" source="#leadership" target="#MentalToughness" weight="487" />
+      <edge id="47" source="#leadership" target="#love" weight="974" />
+      <edge id="48" source="#leadership" target="#MillionaireMindset" weight="487" />
+      <edge id="49" source="#leadership" target="#keepmoving" weight="487" />
+      <edge id="50" source="#leadership" target="#sales" weight="487" />
+      <edge id="51" source="#leadership" target="#keepgoing" weight="487" />
+      <edge id="52" source="#leadership" target="#wisdom" weight="487" />
+      <edge id="53" source="#leadership" target="#entrepreneur" weight="974" />
+      <edge id="54" source="#leadership" target="#progress" weight="487" />
+      <edge id="55" source="#leadership" target="#motivation" weight="487" />
+      <edge id="56" source="#leadership" target="#startups" weight="487" />
+      <edge id="57" source="#leadership" target="#startup" weight="3896" />
+      <edge id="58" source="#leadership" target="#business" weight="974" />
+      <edge id="59" source="#leadership" target="#growth" weight="974" />
+      <edge id="60" source="#leadership" target="#rapid" weight="487" />
+      <edge id="61" source="#leadership" target="#mindset" weight="487" />
+      <edge id="62" source="#leadership" target="#focus" weight="487" />
+      <edge id="63" source="#trump" target="#Clinton" weight="487" />
+      <edge id="64" source="#nostraightline" target="#ebbandflow" weight="487" />
+      <edge id="65" source="#Clarity" target="#confidence" weight="487" />
+      <edge id="66" source="#apply" target="#detroit" weight="487" />
+      <edge id="67" source="#apply" target="#HealthcareInnovation" weight="487" />
+      <edge id="68" source="#startuptalk" target="#NoHR" weight="487" />
+      <edge id="69" source="#jobs" target="#badass" weight="487" />
+      <edge id="70" source="#jobs" target="#columbus" weight="487" />
+      <edge id="71" source="#jobs" target="#project" weight="487" />
+      <edge id="72" source="#jobs" target="#startup" weight="974" />
+      <edge id="73" source="#jobs" target="#healthcare" weight="487" />
+      <edge id="74" source="#jobs" target="#Columbus" weight="487" />
+      <edge id="75" source="#future" target="#Breakfast" weight="487" />
+      <edge id="76" source="#future" target="#entrepreneur" weight="487" />
+      <edge id="77" source="#future" target="#crosschx" weight="487" />
+      <edge id="78" source="#future" target="#awesomesauce" weight="487" />
+      <edge id="79" source="#future" target="#timemachine" weight="487" />
+      <edge id="80" source="#future" target="#HIMSS15" weight="487" />
+      <edge id="81" source="#WhiskeyWednesday" target="#scotch" weight="487" />
+      <edge id="82" source="#WhiskeyWednesday" target="#diet" weight="487" />
+      <edge id="83" source="#WhiskeyWednesday" target="#sorta" weight="487" />
+      <edge id="84" source="#WhiskeyWednesday" target="#Relax" weight="487" />
+      <edge id="85" source="#telehealth" target="#BackToTheFuture" weight="487" />
+      <edge id="86" source="#telehealth" target="#HIMSS15" weight="487" />
+      <edge id="87" source="#healthcareIT" target="#HIStalking" weight="487" />
+      <edge id="88" source="#healthcareIT" target="#healthcare" weight="487" />
+      <edge id="89" source="#NPIDchallenge" target="#HIMSSselfie" weight="487" />
+      <edge id="90" source="#NPIDchallenge" target="#CrossChx" weight="487" />
+      <edge id="91" source="#NPIDchallenge" target="#CIO15" weight="487" />
+      <edge id="92" source="#NPIDchallenge" target="#HIMSS15" weight="487" />
+      <edge id="93" source="#persistence" target="#startup" weight="487" />
+      <edge id="94" source="#persistence" target="#NeverStop" weight="487" />
+      <edge id="95" source="#persistence" target="#healthcare" weight="487" />
+      <edge id="96" source="#Chicago" target="#entrepreneur" weight="974" />
+      <edge id="97" source="#Chicago" target="#88mph" weight="487" />
+      <edge id="98" source="#Chicago" target="#backtothefuture" weight="487" />
+      <edge id="99" source="#Chicago" target="#Epic" weight="487" />
+      <edge id="100" source="#Chicago" target="#HIMSS15" weight="1461" />
+      <edge id="101" source="#Chicago" target="#Trump" weight="487" />
+      <edge id="102" source="#weaksauce" target="#JoeDirt2" weight="487" />
+      <edge id="103" source="#badass" target="#startup" weight="487" />
+      <edge id="104" source="#badass" target="#Columbus" weight="487" />
+      <edge id="105" source="#badass" target="#project" weight="487" />
+      <edge id="106" source="#badass" target="#healthcare" weight="487" />
+      <edge id="107" source="#Business" target="#growth" weight="487" />
+      <edge id="108" source="#Business" target="#startup" weight="487" />
+      <edge id="109" source="#Business" target="#entrepreneur" weight="487" />
+      <edge id="110" source="#Business" target="#uber" weight="487" />
+      <edge id="111" source="#CIO15" target="#HIMSSselfie" weight="487" />
+      <edge id="112" source="#CIO15" target="#CrossChx" weight="487" />
+      <edge id="113" source="#CIO15" target="#HIMSS15" weight="487" />
+      <edge id="114" source="#sorta" target="#scotch" weight="487" />
+      <edge id="115" source="#sorta" target="#diet" weight="487" />
+      <edge id="116" source="#sorta" target="#Relax" weight="487" />
+      <edge id="117" source="#RyderCup2016" target="#USA" weight="487" />
+      <edge id="118" source="#healthcare" target="#HIStalking" weight="487" />
+      <edge id="119" source="#healthcare" target="#awesomesauce" weight="487" />
+      <edge id="120" source="#healthcare" target="#project" weight="487" />
+      <edge id="121" source="#healthcare" target="#backtothefuture" weight="974" />
+      <edge id="122" source="#healthcare" target="#momentum" weight="974" />
+      <edge id="123" source="#healthcare" target="#Biometrics" weight="487" />
+      <edge id="124" source="#healthcare" target="#NeverStop" weight="487" />
+      <edge id="125" source="#healthcare" target="#challenge" weight="487" />
+      <edge id="126" source="#healthcare" target="#medicalidtheft" weight="487" />
+      <edge id="127" source="#healthcare" target="#entrepreneur" weight="1948" />
+      <edge id="128" source="#healthcare" target="#engineer" weight="487" />
+      <edge id="129" source="#healthcare" target="#innovation" weight="487" />
+      <edge id="130" source="#healthcare" target="#ILikeQuotes" weight="487" />
+      <edge id="131" source="#healthcare" target="#columbus" weight="974" />
+      <edge id="132" source="#healthcare" target="#HealthcareInnovation" weight="974" />
+      <edge id="133" source="#healthcare" target="#free" weight="487" />
+      <edge id="134" source="#healthcare" target="#Entrepreneur" weight="487" />
+      <edge id="135" source="#healthcare" target="#seriesB" weight="487" />
+      <edge id="136" source="#healthcare" target="#startup" weight="5844" />
+      <edge id="137" source="#healthcare" target="#crosschx" weight="2435" />
+      <edge id="138" source="#healthcare" target="#biometrics" weight="1461" />
+      <edge id="139" source="#healthcare" target="#timemachine" weight="974" />
+      <edge id="140" source="#healthcare" target="#Columbus" weight="1461" />
+      <edge id="141" source="#healthcare" target="#medicalIdTheft" weight="487" />
+      <edge id="142" source="#healthcare" target="#idfraud" weight="487" />
+      <edge id="143" source="#healthcare" target="#medicalIDtheft" weight="487" />
+      <edge id="144" source="#healthcare" target="#Healthcare" weight="487" />
+      <edge id="145" source="#healthcare" target="#hashtag" weight="487" />
+      <edge id="146" source="#healthcare" target="#HIMSS15" weight="2435" />
+      <edge id="147" source="#healthcare" target="#CrossChx" weight="2435" />
+      <edge id="148" source="#Doc" target="#HIMMS15" weight="487" />
+      <edge id="149" source="#Doc" target="#Security" weight="487" />
+      <edge id="150" source="#Doc" target="#Healthcare" weight="487" />
+      <edge id="151" source="#Doc" target="#DeLorean" weight="487" />
+      <edge id="152" source="#Halloween" target="#DuffMan" weight="487" />
+      <edge id="153" source="#ehrlich" target="#McRib" weight="487" />
+      <edge id="154" source="#ehrlich" target="#SiliconValley" weight="487" />
+      <edge id="155" source="#ehrlich" target="#PUMPED" weight="487" />
+      <edge id="156" source="#booya" target="#BurritoWars" weight="487" />
+      <edge id="157" source="#goals" target="#getmyswoleon" weight="487" />
+      <edge id="158" source="#free" target="#momentum" weight="487" />
+      <edge id="159" source="#free" target="#startup" weight="487" />
+      <edge id="160" source="#free" target="#medicalIdTheft" weight="487" />
+      <edge id="161" source="#alibaba" target="#JackMa" weight="487" />
+      <edge id="162" source="#Entrepreneur" target="#awesomesauce" weight="487" />
+      <edge id="163" source="#Entrepreneur" target="#crosschx" weight="974" />
+      <edge id="164" source="#Entrepreneur" target="#backtothefuture" weight="487" />
+      <edge id="165" source="#Entrepreneur" target="#startup" weight="974" />
+      <edge id="166" source="#Entrepreneur" target="#Healthcare" weight="974" />
+      <edge id="167" source="#Entrepreneur" target="#timemachine" weight="487" />
+      <edge id="168" source="#Entrepreneur" target="#HIMSS15" weight="974" />
+      <edge id="169" source="#love" target="#business" weight="487" />
+      <edge id="170" source="#love" target="#EndOfTheWorld" weight="487" />
+      <edge id="171" source="#love" target="#NewBeginning" weight="487" />
+      <edge id="172" source="#seriesB" target="#startup" weight="487" />
+      <edge id="173" source="#seriesB" target="#entrepreneur" weight="487" />
+      <edge id="174" source="#seriesB" target="#CrossChx" weight="487" />
+      <edge id="175" source="#Saturdaynight" target="#heaven" weight="487" />
+      <edge id="176" source="#Saturdaynight" target="#drinkscotch" weight="487" />
+      <edge id="177" source="#devops" target="#startup" weight="487" />
+      <edge id="178" source="#ThugLife" target="#AfterLaborDay" weight="487" />
+      <edge id="179" source="#SiliconValley" target="#billionaire" weight="487" />
+      <edge id="180" source="#SiliconValley" target="#PUMPED" weight="487" />
+      <edge id="181" source="#SiliconValley" target="#WrongTurn" weight="487" />
+      <edge id="182" source="#SiliconValley" target="#McRib" weight="487" />
+      <edge id="183" source="#SiliconValley" target="#ArtisanButter" weight="487" />
+      <edge id="184" source="#SiliconValley" target="#NoCommas" weight="487" />
+      <edge id="185" source="#detroit" target="#HealthcareInnovation" weight="487" />
+      <edge id="186" source="#scotch" target="#Relax" weight="487" />
+      <edge id="187" source="#scotch" target="#relaxation" weight="487" />
+      <edge id="188" source="#scotch" target="#diet" weight="487" />
+      <edge id="189" source="#scotch" target="#macallan" weight="487" />
+      <edge id="190" source="#Need" target="#Now" weight="487" />
+      <edge id="191" source="#Need" target="#JohnOliver" weight="487" />
+      <edge id="192" source="#IoH" target="#CrossChx" weight="487" />
+      <edge id="193" source="#breakfast" target="#BurritoWars" weight="487" />
+      <edge id="194" source="#breakfast" target="#cbus" weight="487" />
+      <edge id="195" source="#medicalIDtheft" target="#records" weight="974" />
+      <edge id="196" source="#medicalIDtheft" target="#Crosschx" weight="487" />
+      <edge id="197" source="#medicalIDtheft" target="#Alabama" weight="487" />
+      <edge id="198" source="#medicalIDtheft" target="#record" weight="487" />
+      <edge id="199" source="#medicalIDtheft" target="#startup" weight="2922" />
+      <edge id="200" source="#medicalIDtheft" target="#Healthcare" weight="487" />
+      <edge id="201" source="#medicalIDtheft" target="#11States" weight="487" />
+      <edge id="202" source="#medicalIDtheft" target="#innovation" weight="487" />
+      <edge id="203" source="#medicalIDtheft" target="#momentum" weight="1461" />
+      <edge id="204" source="#medicalIDtheft" target="#biometrics" weight="487" />
+      <edge id="205" source="#lead" target="#Ops" weight="487" />
+      <edge id="206" source="#lead" target="#startup" weight="487" />
+      <edge id="207" source="#lead" target="#WhenAmericaWasAStartup" weight="487" />
+      <edge id="208" source="#HastaLaVistaToMyQueen" target="#ChessDay" weight="487" />
+      <edge id="209" source="#HastaLaVistaToMyQueen" target="#ArnoldVsCheng" weight="487" />
+      <edge id="210" source="#HastaLaVistaToMyQueen" target="#Columbus" weight="487" />
+      <edge id="211" source="#Healthcare" target="#awesomesauce" weight="487" />
+      <edge id="212" source="#Healthcare" target="#HIMMS15" weight="487" />
+      <edge id="213" source="#Healthcare" target="#Security" weight="487" />
+      <edge id="214" source="#Healthcare" target="#11States" weight="487" />
+      <edge id="215" source="#Healthcare" target="#backtothefuture" weight="1461" />
+      <edge id="216" source="#Healthcare" target="#Jobs" weight="487" />
+      <edge id="217" source="#Healthcare" target="#crosschx" weight="1461" />
+      <edge id="218" source="#Healthcare" target="#entrepreneur" weight="1948" />
+      <edge id="219" source="#Healthcare" target="#CrossChx" weight="1461" />
+      <edge id="220" source="#Healthcare" target="#innovation" weight="487" />
+      <edge id="221" source="#Healthcare" target="#IdentityTheft" weight="487" />
+      <edge id="222" source="#Healthcare" target="#startup" weight="2435" />
+      <edge id="223" source="#Healthcare" target="#Talent" weight="487" />
+      <edge id="224" source="#Healthcare" target="#timemachine" weight="487" />
+      <edge id="225" source="#Healthcare" target="#DeLorean" weight="487" />
+      <edge id="226" source="#Healthcare" target="#Alabama" weight="487" />
+      <edge id="227" source="#Healthcare" target="#Startup" weight="487" />
+      <edge id="228" source="#Healthcare" target="#Crosschx" weight="487" />
+      <edge id="229" source="#Healthcare" target="#HIMSS15" weight="1948" />
+      <edge id="230" source="#crownroyal" target="#awesomesauce" weight="487" />
+      <edge id="231" source="#StarWars" target="#wait" weight="487" />
+      <edge id="232" source="#StarWars" target="#not" weight="487" />
+      <edge id="233" source="#StarWars" target="#can" weight="487" />
+      <edge id="234" source="#hashtag" target="#Columbus" weight="487" />
+      <edge id="235" source="#hashtag" target="#challenge" weight="487" />
+      <edge id="236" source="#hashtag" target="#engineer" weight="487" />
+      <edge id="237" source="#hashtag" target="#crosschx" weight="487" />
+      <edge id="238" source="#billionaire" target="#WrongTurn" weight="487" />
+      <edge id="239" source="#billionaire" target="#NoCommas" weight="487" />
+      <edge id="240" source="#ChessDay" target="#ArnoldVsCheng" weight="487" />
+      <edge id="241" source="#ChessDay" target="#Columbus" weight="487" />
+      <edge id="242" source="#ThurmanGuerrero" target="#BOXINGonNBC" weight="974" />
+      <edge id="243" source="#HealthcareIT" target="#HIMSS15" weight="487" />
+      <edge id="244" source="#HealthcareIT" target="#crosschx" weight="487" />
+      <edge id="245" source="#HealthcareIT" target="#EMR" weight="487" />
+      <edge id="246" source="#awesomesauce" target="#jalapenoCornbreadChorizoGravy" weight="487" />
+      <edge id="247" source="#awesomesauce" target="#idfraud" weight="487" />
+      <edge id="248" source="#awesomesauce" target="#medicalidtheft" weight="487" />
+      <edge id="249" source="#awesomesauce" target="#crosschx" weight="974" />
+      <edge id="250" source="#awesomesauce" target="#entrepreneur" weight="974" />
+      <edge id="251" source="#awesomesauce" target="#startup" weight="974" />
+      <edge id="252" source="#awesomesauce" target="#CrossChx" weight="487" />
+      <edge id="253" source="#awesomesauce" target="#backtothefuture" weight="487" />
+      <edge id="254" source="#awesomesauce" target="#brunch" weight="487" />
+      <edge id="255" source="#awesomesauce" target="#biometrics" weight="974" />
+      <edge id="256" source="#awesomesauce" target="#timemachine" weight="487" />
+      <edge id="257" source="#awesomesauce" target="#Columbus" weight="487" />
+      <edge id="258" source="#awesomesauce" target="#HIMSS15" weight="1461" />
+      <edge id="259" source="#neverstopneversettle" target="#NeedAdventure" weight="487" />
+      <edge id="260" source="#HIMMS15" target="#Security" weight="487" />
+      <edge id="261" source="#HIMMS15" target="#CrossChx" weight="487" />
+      <edge id="262" source="#HIMMS15" target="#DeLorean" weight="487" />
+      <edge id="263" source="#EMR" target="#crosschx" weight="487" />
+      <edge id="264" source="#EMR" target="#HIMSS15" weight="487" />
+      <edge id="265" source="#project" target="#startup" weight="487" />
+      <edge id="266" source="#project" target="#Columbus" weight="487" />
+      <edge id="267" source="#IHeartHIT" target="#CrossChx" weight="487" />
+      <edge id="268" source="#IHeartHIT" target="#HIMSS15" weight="487" />
+      <edge id="269" source="#recruiting" target="#startup" weight="487" />
+      <edge id="270" source="#relaxation" target="#macallan" weight="487" />
+      <edge id="271" source="#life" target="#startup" weight="487" />
+      <edge id="272" source="#DrEmmettLBrown" target="#BTTF" weight="487" />
+      <edge id="273" source="#DrEmmettLBrown" target="#DocBrown" weight="487" />
+      <edge id="274" source="#DrEmmettLBrown" target="#chitown" weight="487" />
+      <edge id="275" source="#DrEmmettLBrown" target="#crosschx" weight="487" />
+      <edge id="276" source="#DrEmmettLBrown" target="#DeLorean" weight="487" />
+      <edge id="277" source="#webinar" target="#identitytheft" weight="487" />
+      <edge id="278" source="#uber" target="#growth" weight="487" />
+      <edge id="279" source="#betterliving" target="#AwesomeSauce" weight="487" />
+      <edge id="280" source="#betterliving" target="#patent" weight="487" />
+      <edge id="281" source="#challenge" target="#Columbus" weight="487" />
+      <edge id="282" source="#challenge" target="#engineer" weight="487" />
+      <edge id="283" source="#challenge" target="#crosschx" weight="487" />
+      <edge id="284" source="#tech" target="#Elon" weight="487" />
+      <edge id="285" source="#Jobs" target="#Startup" weight="487" />
+      <edge id="286" source="#Jobs" target="#Talent" weight="487" />
+      <edge id="287" source="#Jobs" target="#CrossChx" weight="487" />
+      <edge id="288" source="#diet" target="#Relax" weight="487" />
+      <edge id="289" source="#NoContest" target="#ScotchWars" weight="487" />
+      <edge id="290" source="#progress" target="#startup" weight="487" />
+      <edge id="291" source="#progress" target="#keepmoving" weight="487" />
+      <edge id="292" source="#Tebow" target="#Heisman" weight="487" />
+      <edge id="293" source="#persistant" target="#startup" weight="487" />
+      <edge id="294" source="#persistant" target="#mancrush" weight="487" />
+      <edge id="295" source="#startups" target="#keepgoing" weight="487" />
+      <edge id="296" source="#startups" target="#pumped" weight="487" />
+      <edge id="297" source="#WorkHardPlayHarder" target="#addvalue" weight="487" />
+      <edge id="298" source="#WorkHardPlayHarder" target="#startup" weight="487" />
+      <edge id="299" source="#WorkHardPlayHarder" target="#BringIt" weight="487" />
+      <edge id="300" source="#Now" target="#JohnOliver" weight="487" />
+      <edge id="301" source="#HealthcareInnovation" target="#Columbus" weight="487" />
+      <edge id="302" source="#HealthcareInnovation" target="#startup" weight="1461" />
+      <edge id="303" source="#HealthcareInnovation" target="#biometrics" weight="487" />
+      <edge id="304" source="#HealthcareInnovation" target="#CrossChx" weight="487" />
+      <edge id="305" source="#cbus" target="#burritobowl" weight="487" />
+      <edge id="306" source="#cbus" target="#BurritoWars" weight="487" />
+      <edge id="307" source="#cbus" target="#startup" weight="487" />
+      <edge id="308" source="#cbus" target="#burrito" weight="487" />
+      <edge id="309" source="#sopumped" target="#volvo" weight="487" />
+      <edge id="310" source="#sopumped" target="#designateddriver" weight="487" />
+      <edge id="311" source="#records" target="#momentum" weight="974" />
+      <edge id="312" source="#records" target="#startup" weight="974" />
+      <edge id="313" source="#IveGotAFew" target="#Chipotle" weight="487" />
+      <edge id="314" source="#IveGotAFew" target="#regrets" weight="487" />
+      <edge id="315" source="#IdentityTheft" target="#startup" weight="487" />
+      <edge id="316" source="#IdentityTheft" target="#entrepreneur" weight="487" />
+      <edge id="317" source="#ValentinesDay" target="#PizzaDelivery" weight="487" />
+      <edge id="318" source="#ValentinesDay" target="#Ohio" weight="487" />
+      <edge id="319" source="#EndOfTheWorld" target="#NewBeginning" weight="487" />
+      <edge id="320" source="#burrito" target="#burritobowl" weight="487" />
+      <edge id="321" source="#nordic" target="#HIMSS15" weight="487" />
+      <edge id="322" source="#addvalue" target="#experience" weight="487" />
+      <edge id="323" source="#addvalue" target="#workhard" weight="487" />
+      <edge id="324" source="#addvalue" target="#startup" weight="487" />
+      <edge id="325" source="#addvalue" target="#BringIt" weight="487" />
+      <edge id="326" source="#BeastMode" target="#Goals" weight="487" />
+      <edge id="327" source="#BeastMode" target="#Valentine" weight="487" />
+      <edge id="328" source="#BeastMode" target="#winning" weight="487" />
+      <edge id="329" source="#BeastMode" target="#carbs" weight="487" />
+      <edge id="330" source="#BeastMode" target="#discipline" weight="487" />
+      <edge id="331" source="#BeastMode" target="#losing" weight="487" />
+      <edge id="332" source="#crosschx" target="#backtothefuture" weight="974" />
+      <edge id="333" source="#crosschx" target="#Biometrics" weight="487" />
+      <edge id="334" source="#crosschx" target="#healthIT" weight="487" />
+      <edge id="335" source="#crosschx" target="#engineer" weight="487" />
+      <edge id="336" source="#crosschx" target="#DocBrown" weight="487" />
+      <edge id="337" source="#crosschx" target="#chitown" weight="487" />
+      <edge id="338" source="#crosschx" target="#BTTF" weight="487" />
+      <edge id="339" source="#crosschx" target="#entrepreneur" weight="1948" />
+      <edge id="340" source="#crosschx" target="#startup" weight="974" />
+      <edge id="341" source="#crosschx" target="#biometrics" weight="487" />
+      <edge id="342" source="#crosschx" target="#timemachine" weight="974" />
+      <edge id="343" source="#crosschx" target="#Columbus" weight="487" />
+      <edge id="344" source="#crosschx" target="#DeLorean" weight="487" />
+      <edge id="345" source="#crosschx" target="#idfraud" weight="487" />
+      <edge id="346" source="#crosschx" target="#HIMSS15" weight="3896" />
+      <edge id="347" source="#BackToTheFuture" target="#HIMSS15" weight="487" />
+      <edge id="348" source="#HIMSSselfie" target="#HIMSS15" weight="487" />
+      <edge id="349" source="#HIMSSselfie" target="#CrossChx" weight="487" />
+      <edge id="350" source="#timemachine" target="#entrepreneur" weight="487" />
+      <edge id="351" source="#timemachine" target="#startup" weight="487" />
+      <edge id="352" source="#timemachine" target="#CrossChx" weight="487" />
+      <edge id="353" source="#timemachine" target="#backtothefuture" weight="487" />
+      <edge id="354" source="#timemachine" target="#HIMMS2015" weight="487" />
+      <edge id="355" source="#timemachine" target="#HIMSS15" weight="1461" />
+      <edge id="356" source="#jalapenoCornbreadChorizoGravy" target="#brunch" weight="487" />
+      <edge id="357" source="#jalapenoCornbreadChorizoGravy" target="#Columbus" weight="487" />
+      <edge id="358" source="#motivation" target="#startup" weight="487" />
+      <edge id="359" source="#idfraud" target="#biometrics" weight="487" />
+      <edge id="360" source="#Michigan" target="#Tesla" weight="487" />
+      <edge id="361" source="#neverstopexploring" target="#dieonmars" weight="487" />
+      <edge id="362" source="#neverstopexploring" target="#legacy" weight="487" />
+      <edge id="363" source="#sales" target="#Startup" weight="487" />
+      <edge id="364" source="#sales" target="#entrepreneur" weight="487" />
+      <edge id="365" source="#sales" target="#learn" weight="487" />
+      <edge id="366" source="#regrets" target="#Chipotle" weight="487" />
+      <edge id="367" source="#startup" target="#BurritoWars" weight="487" />
+      <edge id="368" source="#startup" target="#lunch" weight="487" />
+      <edge id="369" source="#startup" target="#wisdom" weight="487" />
+      <edge id="370" source="#startup" target="#business" weight="487" />
+      <edge id="371" source="#startup" target="#backtothefuture" weight="1461" />
+      <edge id="372" source="#startup" target="#momentum" weight="2435" />
+      <edge id="373" source="#startup" target="#LeadershipUniversity" weight="487" />
+      <edge id="374" source="#startup" target="#grubbin" weight="487" />
+      <edge id="375" source="#startup" target="#NeverStop" weight="487" />
+      <edge id="376" source="#startup" target="#medicalIdTheft" weight="487" />
+      <edge id="377" source="#startup" target="#Ghostbusters" weight="487" />
+      <edge id="378" source="#startup" target="#entrepreneur" weight="4870" />
+      <edge id="379" source="#startup" target="#MentalToughness" weight="487" />
+      <edge id="380" source="#startup" target="#Ops" weight="487" />
+      <edge id="381" source="#startup" target="#womenintech" weight="487" />
+      <edge id="382" source="#startup" target="#BringIt" weight="487" />
+      <edge id="383" source="#startup" target="#CrossChx" weight="2922" />
+      <edge id="384" source="#startup" target="#ILikeQuotes" weight="487" />
+      <edge id="385" source="#startup" target="#NewVP" weight="487" />
+      <edge id="386" source="#startup" target="#magic" weight="487" />
+      <edge id="387" source="#startup" target="#banking" weight="487" />
+      <edge id="388" source="#startup" target="#KillingIt" weight="487" />
+      <edge id="389" source="#startup" target="#StartupGrind" weight="487" />
+      <edge id="390" source="#startup" target="#AwesomeSauce" weight="487" />
+      <edge id="391" source="#startup" target="#mancrush" weight="487" />
+      <edge id="392" source="#startup" target="#rapid" weight="487" />
+      <edge id="393" source="#startup" target="#Columbus" weight="1461" />
+      <edge id="394" source="#startup" target="#keepmoving" weight="487" />
+      <edge id="395" source="#startup" target="#columbus" weight="974" />
+      <edge id="396" source="#startup" target="#officespace" weight="487" />
+      <edge id="397" source="#startup" target="#record" weight="487" />
+      <edge id="398" source="#startup" target="#TheViewUpHere" weight="487" />
+      <edge id="399" source="#startup" target="#growth" weight="974" />
+      <edge id="400" source="#startup" target="#biometrics" weight="974" />
+      <edge id="401" source="#startup" target="#focus" weight="487" />
+      <edge id="402" source="#startup" target="#HIMSS15" weight="1948" />
+      <edge id="403" source="#record" target="#momentum" weight="487" />
+      <edge id="404" source="#biometrics" target="#medicalidtheft" weight="487" />
+      <edge id="405" source="#biometrics" target="#CrossChx" weight="487" />
+      <edge id="406" source="#CROSSCHX" target="#HIMSS15" weight="974" />
+      <edge id="407" source="#believeinyourself" target="#gym" weight="487" />
+      <edge id="408" source="#believeinyourself" target="#beastmode" weight="487" />
+      <edge id="409" source="#believeinyourself" target="#homegym" weight="487" />
+      <edge id="410" source="#wisdom" target="#growth" weight="487" />
+      <edge id="411" source="#Falcon9" target="#DSCOVR" weight="487" />
+      <edge id="412" source="#homegym" target="#gym" weight="487" />
+      <edge id="413" source="#homegym" target="#beastmode" weight="487" />
+      <edge id="414" source="#gym" target="#beastmode" weight="487" />
+      <edge id="415" source="#magic" target="#AwesomeSauce" weight="487" />
+      <edge id="416" source="#patent" target="#AwesomeSauce" weight="487" />
+      <edge id="417" source="#backtothefuture" target="#entrepreneur" weight="1948" />
+      <edge id="418" source="#backtothefuture" target="#88mph" weight="487" />
+      <edge id="419" source="#backtothefuture" target="#CrossChx" weight="487" />
+      <edge id="420" source="#backtothefuture" target="#HIMSS15" weight="2922" />
+      <edge id="421" source="#momentum" target="#columbus" weight="487" />
+      <edge id="422" source="#momentum" target="#medicalIdTheft" weight="487" />
+      <edge id="423" source="#discipline" target="#Valentine" weight="487" />
+      <edge id="424" source="#discipline" target="#Goals" weight="487" />
+      <edge id="425" source="#grubbin" target="#lunch" weight="487" />
+      <edge id="426" source="#Ohio" target="#PizzaDelivery" weight="487" />
+      <edge id="427" source="#MadMoney" target="#AmIDiversified" weight="487" />
+      <edge id="428" source="#drinkscotch" target="#heaven" weight="487" />
+      <edge id="429" source="#WrongTurn" target="#NoCommas" weight="487" />
+      <edge id="430" source="#Columbus" target="#SundayBrunch" weight="487" />
+      <edge id="431" source="#Columbus" target="#ArnoldVsCheng" weight="487" />
+      <edge id="432" source="#Columbus" target="#medicalidtheft" weight="487" />
+      <edge id="433" source="#Columbus" target="#engineer" weight="487" />
+      <edge id="434" source="#Columbus" target="#CrossChx" weight="974" />
+      <edge id="435" source="#Columbus" target="#brunch" weight="487" />
+      <edge id="436" source="#Columbus" target="#SundayFunday" weight="487" />
+      <edge id="437" source="#Columbus" target="#officespace" weight="487" />
+      <edge id="438" source="#Columbus" target="#TheViewUpHere" weight="487" />
+      <edge id="439" source="#healthIT" target="#HIMSS15" weight="487" />
+      <edge id="440" source="#designateddriver" target="#volvo" weight="487" />
+      <edge id="441" source="#DocBrown" target="#BTTF" weight="487" />
+      <edge id="442" source="#DocBrown" target="#chitown" weight="487" />
+      <edge id="443" source="#DocBrown" target="#DeLorean" weight="487" />
+      <edge id="444" source="#chitown" target="#BTTF" weight="487" />
+      <edge id="445" source="#chitown" target="#DeLorean" weight="487" />
+      <edge id="446" source="#losing" target="#carbs" weight="487" />
+      <edge id="447" source="#losing" target="#winning" weight="487" />
+      <edge id="448" source="#columbus" target="#innovation" weight="487" />
+      <edge id="449" source="#Trump" target="#entrepreneur" weight="487" />
+      <edge id="450" source="#Trump" target="#HIMSS15" weight="487" />
+      <edge id="451" source="#dieonmars" target="#legacy" weight="487" />
+      <edge id="452" source="#blantons" target="#Hungover" weight="487" />
+      <edge id="453" source="#blantons" target="#cheatday" weight="487" />
+      <edge id="454" source="#CrossChx" target="#medicalidtheft" weight="487" />
+      <edge id="455" source="#CrossChx" target="#entrepreneur" weight="974" />
+      <edge id="456" source="#CrossChx" target="#Talent" weight="487" />
+      <edge id="457" source="#CrossChx" target="#bigreveal" weight="487" />
+      <edge id="458" source="#CrossChx" target="#Startup" weight="487" />
+      <edge id="459" source="#CrossChx" target="#HIMSS15" weight="2435" />
+      <edge id="460" source="#PaleProblems" target="#tanning" weight="487" />
+      <edge id="461" source="#PaleProblems" target="#ManCard" weight="487" />
+      <edge id="462" source="#SundayFunday" target="#SundayBrunch" weight="487" />
+      <edge id="463" source="#Talent" target="#Startup" weight="487" />
+      <edge id="464" source="#DeLorean" target="#BTTF" weight="487" />
+      <edge id="465" source="#DeLorean" target="#Security" weight="487" />
+      <edge id="466" source="#DeLorean" target="#HIMSS15" weight="974" />
+      <edge id="467" source="#NewVP" target="#KillingIt" weight="487" />
+      <edge id="468" source="#Goals" target="#Valentine" weight="487" />
+      <edge id="469" source="#SpeakinTruth" target="#ImJealous" weight="487" />
+      <edge id="470" source="#imagine" target="#EasterBunny" weight="487" />
+      <edge id="471" source="#TheViewUpHere" target="#officespace" weight="487" />
+      <edge id="472" source="#banking" target="#business" weight="487" />
+      <edge id="473" source="#STARTUP" target="#CBUS" weight="487" />
+      <edge id="474" source="#growth" target="#rapid" weight="487" />
+      <edge id="475" source="#growth" target="#focus" weight="487" />
+      <edge id="476" source="#wait" target="#not" weight="487" />
+      <edge id="477" source="#wait" target="#can" weight="487" />
+      <edge id="478" source="#workhard" target="#experience" weight="487" />
+      <edge id="479" source="#focus" target="#rapid" weight="487" />
+      <edge id="480" source="#parenthood" target="#owned" weight="487" />
+      <edge id="481" source="#HIMSS15" target="#Biometrics" weight="487" />
+      <edge id="482" source="#HIMSS15" target="#entrepreneur" weight="3409" />
+      <edge id="483" source="#HIMSS15" target="#88mph" weight="487" />
+      <edge id="484" source="#HIMSS15" target="#Epic" weight="487" />
+      <edge id="485" source="#PUMPED" target="#McRib" weight="487" />
+      <edge id="486" source="#11States" target="#innovation" weight="487" />
+      <edge id="487" source="#11States" target="#Crosschx" weight="487" />
+      <edge id="488" source="#11States" target="#Alabama" weight="487" />
+      <edge id="489" source="#can" target="#not" weight="487" />
+      <edge id="490" source="#carbs" target="#winning" weight="487" />
+      <edge id="491" source="#Biometrics" target="#entrepreneur" weight="487" />
+      <edge id="492" source="#learn" target="#Startup" weight="487" />
+      <edge id="493" source="#learn" target="#entrepreneur" weight="487" />
+      <edge id="494" source="#SteveJobs" target="#entrepreneur" weight="487" />
+      <edge id="495" source="#entrepreneur" target="#88mph" weight="487" />
+      <edge id="496" source="#entrepreneur" target="#Startup" weight="487" />
+      <edge id="497" source="#entrepreneur" target="#bebetterthanthat" weight="487" />
+      <edge id="498" source="#entrepreneur" target="#awesome" weight="487" />
+      <edge id="499" source="#cheatday" target="#Hungover" weight="487" />
+      <edge id="500" source="#ManCard" target="#tanning" weight="487" />
+      <edge id="501" source="#innovation" target="#Alabama" weight="487" />
+      <edge id="502" source="#innovation" target="#Crosschx" weight="487" />
+      <edge id="503" source="#Crosschx" target="#Alabama" weight="487" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,1714 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#3D" label="#3D" />
+      <node id="#malaria" label="#malaria" />
+      <node id="#PhRMA" label="#PhRMA" />
+      <node id="#Cle" label="#Cle" />
+      <node id="#pharma" label="#pharma" />
+      <node id="#MedicalDevice" label="#MedicalDevice" />
+      <node id="#stroke" label="#stroke" />
+      <node id="#MakeSafeHappen" label="#MakeSafeHappen" />
+      <node id="#prostatecancer" label="#prostatecancer" />
+      <node id="#HumanResources" label="#HumanResources" />
+      <node id="#4jobs" label="#4jobs" />
+      <node id="#stemcell" label="#stemcell" />
+      <node id="#BioOhioMember" label="#BioOhioMember" />
+      <node id="#pathology" label="#pathology" />
+      <node id="#CompanyCulture" label="#CompanyCulture" />
+      <node id="#schools" label="#schools" />
+      <node id="#biosciences" label="#biosciences" />
+      <node id="#DeepBrainStimulation" label="#DeepBrainStimulation" />
+      <node id="#WinterIsComing" label="#WinterIsComing" />
+      <node id="#Biotechnology" label="#Biotechnology" />
+      <node id="#HeartMonth" label="#HeartMonth" />
+      <node id="#MasonOh" label="#MasonOh" />
+      <node id="#patient" label="#patient" />
+      <node id="#buckeye" label="#buckeye" />
+      <node id="#probiotic" label="#probiotic" />
+      <node id="#Startups" label="#Startups" />
+      <node id="#executives" label="#executives" />
+      <node id="#MedTech" label="#MedTech" />
+      <node id="#BioScience" label="#BioScience" />
+      <node id="#durability" label="#durability" />
+      <node id="#BIO2014" label="#BIO2014" />
+      <node id="#BIO2015" label="#BIO2015" />
+      <node id="#sensors" label="#sensors" />
+      <node id="#Training" label="#Training" />
+      <node id="#Enrolled" label="#Enrolled" />
+      <node id="#Technology" label="#Technology" />
+      <node id="#Laboratory" label="#Laboratory" />
+      <node id="#HR" label="#HR" />
+      <node id="#toledo" label="#toledo" />
+      <node id="#newagegirls" label="#newagegirls" />
+      <node id="#talent" label="#talent" />
+      <node id="#raredisease" label="#raredisease" />
+      <node id="#Korea" label="#Korea" />
+      <node id="#biotech" label="#biotech" />
+      <node id="#pneumonia" label="#pneumonia" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#medtech" label="#medtech" />
+      <node id="#wearables" label="#wearables" />
+      <node id="#europeanunion" label="#europeanunion" />
+      <node id="#AdditiveManufacturing" label="#AdditiveManufacturing" />
+      <node id="#clemedicalcapital" label="#clemedicalcapital" />
+      <node id="#tax" label="#tax" />
+      <node id="#bipolardisorder" label="#bipolardisorder" />
+      <node id="#CRBard" label="#CRBard" />
+      <node id="#Liberty" label="#Liberty" />
+      <node id="#FoodSafety" label="#FoodSafety" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#exciting" label="#exciting" />
+      <node id="#BuckeyeEngineering" label="#BuckeyeEngineering" />
+      <node id="#REDIzone" label="#REDIzone" />
+      <node id="#devicetax" label="#devicetax" />
+      <node id="#hearthealth" label="#hearthealth" />
+      <node id="#WomenInBio" label="#WomenInBio" />
+      <node id="#SteveKeverline" label="#SteveKeverline" />
+      <node id="#gas" label="#gas" />
+      <node id="#faith" label="#faith" />
+      <node id="#momentum" label="#momentum" />
+      <node id="#WhyMason" label="#WhyMason" />
+      <node id="#biofuels" label="#biofuels" />
+      <node id="#Pediatric" label="#Pediatric" />
+      <node id="#Compliance" label="#Compliance" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#patent" label="#patent" />
+      <node id="#VentureCapital" label="#VentureCapital" />
+      <node id="#cellculture" label="#cellculture" />
+      <node id="#advocacy" label="#advocacy" />
+      <node id="#pediatrics" label="#pediatrics" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#scholarship" label="#scholarship" />
+      <node id="#BigIDEAs4Health" label="#BigIDEAs4Health" />
+      <node id="#kids" label="#kids" />
+      <node id="#HBAImpact" label="#HBAImpact" />
+      <node id="#Biomedical" label="#Biomedical" />
+      <node id="#3Dprinting" label="#3Dprinting" />
+      <node id="#StartupCincy" label="#StartupCincy" />
+      <node id="#neuroscience" label="#neuroscience" />
+      <node id="#learning" label="#learning" />
+      <node id="#ClinicalTrials" label="#ClinicalTrials" />
+      <node id="#Biopharma" label="#Biopharma" />
+      <node id="#scichat" label="#scichat" />
+      <node id="#3dprinting" label="#3dprinting" />
+      <node id="#casestudy" label="#casestudy" />
+      <node id="#selfie" label="#selfie" />
+      <node id="#cardio" label="#cardio" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#Akron" label="#Akron" />
+      <node id="#BuckeyeEngineers" label="#BuckeyeEngineers" />
+      <node id="#Zika" label="#Zika" />
+      <node id="#mobileapps" label="#mobileapps" />
+      <node id="#skeleton" label="#skeleton" />
+      <node id="#probiotics" label="#probiotics" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#B2B" label="#B2B" />
+      <node id="#hearthealthy" label="#hearthealthy" />
+      <node id="#Pharmacists" label="#Pharmacists" />
+      <node id="#golf" label="#golf" />
+      <node id="#Engineer" label="#Engineer" />
+      <node id="#Bio" label="#Bio" />
+      <node id="#CFTR" label="#CFTR" />
+      <node id="#HIPAA" label="#HIPAA" />
+      <node id="#SBIR" label="#SBIR" />
+      <node id="#rollover" label="#rollover" />
+      <node id="#careers" label="#careers" />
+      <node id="#plastics" label="#plastics" />
+      <node id="#NIH" label="#NIH" />
+      <node id="#catheter" label="#catheter" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#KidsHealth" label="#KidsHealth" />
+      <node id="#bucketlist" label="#bucketlist" />
+      <node id="#agriculture" label="#agriculture" />
+      <node id="#bioworkforce" label="#bioworkforce" />
+      <node id="#accelerate" label="#accelerate" />
+      <node id="#Gahanna" label="#Gahanna" />
+      <node id="#stress" label="#stress" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#Research" label="#Research" />
+      <node id="#Antitumor" label="#Antitumor" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#LegalServices" label="#LegalServices" />
+      <node id="#Communications" label="#Communications" />
+      <node id="#BioInYourBackyard" label="#BioInYourBackyard" />
+      <node id="#Agriculture" label="#Agriculture" />
+      <node id="#health" label="#health" />
+      <node id="#genomics" label="#genomics" />
+      <node id="#women" label="#women" />
+      <node id="#chemicals" label="#chemicals" />
+      <node id="#powerofpersonal" label="#powerofpersonal" />
+      <node id="#cleveland" label="#cleveland" />
+      <node id="#AcademicAwesome" label="#AcademicAwesome" />
+      <node id="#Women" label="#Women" />
+      <node id="#aquaculture" label="#aquaculture" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#innovator" label="#innovator" />
+      <node id="#accounting" label="#accounting" />
+      <node id="#Cancerous" label="#Cancerous" />
+      <node id="#Education" label="#Education" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#SME" label="#SME" />
+      <node id="#Gases" label="#Gases" />
+      <node id="#AtriCure" label="#AtriCure" />
+      <node id="#pain" label="#pain" />
+      <node id="#CVS" label="#CVS" />
+      <node id="#pipeline" label="#pipeline" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Scientists" label="#Scientists" />
+      <node id="#PeaceDay" label="#PeaceDay" />
+      <node id="#data" label="#data" />
+      <node id="#IntellirodSpine" label="#IntellirodSpine" />
+      <node id="#compliance" label="#compliance" />
+      <node id="#pharmaceutical" label="#pharmaceutical" />
+      <node id="#logistics" label="#logistics" />
+      <node id="#fish" label="#fish" />
+      <node id="#orthopedics" label="#orthopedics" />
+      <node id="#Plastics" label="#Plastics" />
+      <node id="#Patient" label="#Patient" />
+      <node id="#MEDNext" label="#MEDNext" />
+      <node id="#MasonOH" label="#MasonOH" />
+      <node id="#Vivitrol" label="#Vivitrol" />
+      <node id="#Cryoanalgesia" label="#Cryoanalgesia" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#medicaldevice" label="#medicaldevice" />
+      <node id="#CDC" label="#CDC" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#womeninbio" label="#womeninbio" />
+      <node id="#America" label="#America" />
+      <node id="#Investment" label="#Investment" />
+      <node id="#MedicalTechnology" label="#MedicalTechnology" />
+      <node id="#anxiety" label="#anxiety" />
+      <node id="#clinicaltrial" label="#clinicaltrial" />
+      <node id="#WashingtonDC" label="#WashingtonDC" />
+      <node id="#NEOhio" label="#NEOhio" />
+      <node id="#research" label="#research" />
+      <node id="#Advocacy" label="#Advocacy" />
+      <node id="#hepatocyte" label="#hepatocyte" />
+      <node id="#Patents" label="#Patents" />
+      <node id="#lifesciences" label="#lifesciences" />
+      <node id="#Mentoring" label="#Mentoring" />
+      <node id="#Firefighters" label="#Firefighters" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#Parkinsons" label="#Parkinsons" />
+      <node id="#pediatric" label="#pediatric" />
+      <node id="#Midwest" label="#Midwest" />
+      <node id="#CRO" label="#CRO" />
+      <node id="#lifescience" label="#lifescience" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#Japan" label="#Japan" />
+      <node id="#LifeSciences" label="#LifeSciences" />
+      <node id="#meds" label="#meds" />
+      <node id="#whatif" label="#whatif" />
+      <node id="#510k" label="#510k" />
+      <node id="#foodsafety" label="#foodsafety" />
+      <node id="#LifeScience" label="#LifeScience" />
+      <node id="#biohealth" label="#biohealth" />
+      <node id="#commercialization" label="#commercialization" />
+      <node id="#recovery" label="#recovery" />
+      <node id="#RepealDeviceTax" label="#RepealDeviceTax" />
+      <node id="#MDMWest" label="#MDMWest" />
+      <node id="#Millennials" label="#Millennials" />
+      <node id="#glutenfree" label="#glutenfree" />
+      <node id="#BIO2016" label="#BIO2016" />
+      <node id="#Technician" label="#Technician" />
+      <node id="#VentureOhio" label="#VentureOhio" />
+      <node id="#BrainHealth" label="#BrainHealth" />
+      <node id="#elastomer" label="#elastomer" />
+      <node id="#biomarkers" label="#biomarkers" />
+      <node id="#Mason" label="#Mason" />
+      <node id="#PartD" label="#PartD" />
+      <node id="#Pifconf2014" label="#Pifconf2014" />
+      <node id="#Congrats" label="#Congrats" />
+      <node id="#mfg" label="#mfg" />
+      <node id="#medicaldevicetax" label="#medicaldevicetax" />
+      <node id="#students" label="#students" />
+      <node id="#Reynoldsburg" label="#Reynoldsburg" />
+      <node id="#biomedical" label="#biomedical" />
+      <node id="#electronics" label="#electronics" />
+      <node id="#regulatory" label="#regulatory" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#NICU" label="#NICU" />
+      <node id="#ASG" label="#ASG" />
+      <node id="#LabServices" label="#LabServices" />
+      <node id="#Pittcon" label="#Pittcon" />
+      <node id="#engineering" label="#engineering" />
+      <node id="#startup" label="#startup" />
+      <node id="#biofuel" label="#biofuel" />
+      <node id="#MCMid" label="#MCMid" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#veteran" label="#veteran" />
+      <node id="#toxicology" label="#toxicology" />
+      <node id="#Engineering" label="#Engineering" />
+      <node id="#Medtech" label="#Medtech" />
+      <node id="#babies" label="#babies" />
+      <node id="#sunrise" label="#sunrise" />
+      <node id="#HIPAACompliance" label="#HIPAACompliance" />
+      <node id="#DigitalHealth" label="#DigitalHealth" />
+      <node id="#fluorometer" label="#fluorometer" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#cincy" label="#cincy" />
+      <node id="#CerviLenz" label="#CerviLenz" />
+      <node id="#DeviceTax" label="#DeviceTax" />
+      <node id="#surgery" label="#surgery" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#Pipeline" label="#Pipeline" />
+      <node id="#Therapeutics" label="#Therapeutics" />
+      <node id="#NewAgeGirls" label="#NewAgeGirls" />
+      <node id="#breastcancer" label="#breastcancer" />
+      <node id="#drugs" label="#drugs" />
+      <node id="#discovery" label="#discovery" />
+      <node id="#millenials" label="#millenials" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#Sterilization" label="#Sterilization" />
+      <node id="#WEF" label="#WEF" />
+      <node id="#OHinnovation" label="#OHinnovation" />
+      <node id="#app" label="#app" />
+      <node id="#biochemistry" label="#biochemistry" />
+      <node id="#biotechnology" label="#biotechnology" />
+      <node id="#AdvaMed2014" label="#AdvaMed2014" />
+      <node id="#legislators" label="#legislators" />
+      <node id="#microbiology" label="#microbiology" />
+      <node id="#workforce" label="#workforce" />
+      <node id="#GrandOpening" label="#GrandOpening" />
+      <node id="#Packaging" label="#Packaging" />
+      <node id="#clinicaltrials" label="#clinicaltrials" />
+      <node id="#GoRed" label="#GoRed" />
+      <node id="#collaboration" label="#collaboration" />
+      <node id="#nonprofits" label="#nonprofits" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#Cybersecurity" label="#Cybersecurity" />
+      <node id="#reimbursement" label="#reimbursement" />
+      <node id="#OH" label="#OH" />
+      <node id="#CincyBio" label="#CincyBio" />
+      <node id="#Finance" label="#Finance" />
+      <node id="#DataManagement" label="#DataManagement" />
+      <node id="#PTSD" label="#PTSD" />
+      <node id="#MedicalDeviceTax" label="#MedicalDeviceTax" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#Probiotic" label="#Probiotic" />
+      <node id="#3Dprinted" label="#3Dprinted" />
+      <node id="#Washington" label="#Washington" />
+      <node id="#cardiology" label="#cardiology" />
+      <node id="#financing" label="#financing" />
+      <node id="#cyclotron" label="#cyclotron" />
+      <node id="#fitness" label="#fitness" />
+      <node id="#ca" label="#ca" />
+      <node id="#micrOHscope" label="#micrOHscope" />
+      <node id="#Pharma" label="#Pharma" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#Chemicals" label="#Chemicals" />
+      <node id="#seniors" label="#seniors" />
+      <node id="#agribusiness" label="#agribusiness" />
+      <node id="#ClinicalSciencesBuilding" label="#ClinicalSciencesBuilding" />
+      <node id="#rareopportunity" label="#rareopportunity" />
+      <node id="#Ebola" label="#Ebola" />
+      <node id="#CleanRooms" label="#CleanRooms" />
+      <node id="#Silicone" label="#Silicone" />
+      <node id="#JohnLewis" label="#JohnLewis" />
+      <node id="#DougBoyd" label="#DougBoyd" />
+      <node id="#CysticFibrosis" label="#CysticFibrosis" />
+      <node id="#BioMotiv" label="#BioMotiv" />
+      <node id="#vaccines" label="#vaccines" />
+      <node id="#highschool" label="#highschool" />
+      <node id="#asthma" label="#asthma" />
+      <node id="#enzymes" label="#enzymes" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#Prototyping" label="#Prototyping" />
+      <node id="#investor" label="#investor" />
+      <node id="#MHVF" label="#MHVF" />
+      <node id="#BIOCEO15" label="#BIOCEO15" />
+      <node id="#science" label="#science" />
+      <node id="#researchers" label="#researchers" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#PhRMA14" label="#PhRMA14" />
+      <node id="#walk" label="#walk" />
+      <node id="#Crowdfunding" label="#Crowdfunding" />
+      <node id="#Talent" label="#Talent" />
+      <node id="#HeartHealth" label="#HeartHealth" />
+      <node id="#UDI" label="#UDI" />
+      <node id="#chemistry" label="#chemistry" />
+      <node id="#OH16" label="#OH16" />
+      <node id="#oncology" label="#oncology" />
+      <node id="#CEO" label="#CEO" />
+      <node id="#fda" label="#fda" />
+      <node id="#BioOhio" label="#BioOhio" />
+      <node id="#MedicalDevices" label="#MedicalDevices" />
+      <node id="#MiamiOH" label="#MiamiOH" />
+      <node id="#Additive" label="#Additive" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#ProductDevelopment" label="#ProductDevelopment" />
+      <node id="#bipartisan" label="#bipartisan" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#creativity" label="#creativity" />
+      <node id="#bio2015" label="#bio2015" />
+      <node id="#STTR" label="#STTR" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#job" label="#job" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#dayton" label="#dayton" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#diseases" label="#diseases" />
+      <node id="#Additives" label="#Additives" />
+      <node id="#farming" label="#farming" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#TheMemorialTournament" label="#TheMemorialTournament" />
+      <node id="#personalizedmedicine" label="#personalizedmedicine" />
+      <node id="#competition" label="#competition" />
+      <node id="#MedsInDev" label="#MedsInDev" />
+      <node id="#technology" label="#technology" />
+      <node id="#MasonOHPartners" label="#MasonOHPartners" />
+      <node id="#bioscience" label="#bioscience" />
+      <node id="#investment" label="#investment" />
+      <node id="#soy" label="#soy" />
+      <node id="#military" label="#military" />
+      <node id="#NSF" label="#NSF" />
+      <node id="#Mansfield" label="#Mansfield" />
+      <node id="#Davos" label="#Davos" />
+      <node id="#WhatIf" label="#WhatIf" />
+      <node id="#NHLBIShowcase" label="#NHLBIShowcase" />
+      <node id="#infection" label="#infection" />
+      <node id="#agbio" label="#agbio" />
+      <node id="#Bioscience" label="#Bioscience" />
+      <node id="#biology" label="#biology" />
+      <node id="#newborn" label="#newborn" />
+      <node id="#bobsled" label="#bobsled" />
+      <node id="#Career" label="#Career" />
+      <node id="#Amylin" label="#Amylin" />
+      <node id="#medicaldevices" label="#medicaldevices" />
+      <node id="#Regulatory" label="#Regulatory" />
+      <node id="#finance" label="#finance" />
+      <node id="#funding" label="#funding" />
+      <node id="#polymer" label="#polymer" />
+      <node id="#cancerresearch" label="#cancerresearch" />
+      <node id="#meddevice" label="#meddevice" />
+      <node id="#startups" label="#startups" />
+      <node id="#Afib" label="#Afib" />
+      <node id="#PHYCOCYANIN" label="#PHYCOCYANIN" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#Validation" label="#Validation" />
+      <node id="#Africa" label="#Africa" />
+      <node id="#DOD" label="#DOD" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#PersonalBranding" label="#PersonalBranding" />
+      <node id="#prevention" label="#prevention" />
+      <node id="#Formulations" label="#Formulations" />
+      <node id="#3DPrinting" label="#3DPrinting" />
+      <node id="#cure" label="#cure" />
+      <node id="#equity" label="#equity" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#warningletters" label="#warningletters" />
+      <node id="#networking" label="#networking" />
+      <node id="#FDA" label="#FDA" />
+      <node id="#4repeal" label="#4repeal" />
+      <node id="#Biotech" label="#Biotech" />
+      <node id="#China" label="#China" />
+      <node id="#wow" label="#wow" />
+      <node id="#ZikaVirus" label="#ZikaVirus" />
+      <node id="#ionchannels" label="#ionchannels" />
+      <node id="#mentalheath" label="#mentalheath" />
+      <node id="#RareDiseaseDay" label="#RareDiseaseDay" />
+      <node id="#Manufacturing" label="#Manufacturing" />
+      <node id="#Inventors" label="#Inventors" />
+      <node id="#design" label="#design" />
+      <node id="#MiamiBioCon" label="#MiamiBioCon" />
+      <node id="#ZMapp" label="#ZMapp" />
+      <node id="#simulation" label="#simulation" />
+      <node id="#laboratory" label="#laboratory" />
+      <node id="#distribution" label="#distribution" />
+      <node id="#OHGOP" label="#OHGOP" />
+      <node id="#RettSyndrome" label="#RettSyndrome" />
+      <node id="#MBA" label="#MBA" />
+      <node id="#IPLaw" label="#IPLaw" />
+      <node id="#employment" label="#employment" />
+      <node id="#fundraising" label="#fundraising" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#quality" label="#quality" />
+      <node id="#Success" label="#Success" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#digitalhealth" label="#digitalhealth" />
+      <node id="#MentalHealth" label="#MentalHealth" />
+      <node id="#Procurement" label="#Procurement" />
+      <node id="#Quality" label="#Quality" />
+      <node id="#OhioBioExpo" label="#OhioBioExpo" />
+      <node id="#Prevention" label="#Prevention" />
+      <node id="#maumee" label="#maumee" />
+      <node id="#stemcells" label="#stemcells" />
+      <node id="#tech" label="#tech" />
+      <node id="#congress" label="#congress" />
+      <node id="#Networking" label="#Networking" />
+      <node id="#30Under30" label="#30Under30" />
+      <node id="#Machining" label="#Machining" />
+      <node id="#concussion" label="#concussion" />
+      <node id="#SanfilippoSyndrome" label="#SanfilippoSyndrome" />
+      <node id="#education" label="#education" />
+      <node id="#biomedicalCLE" label="#biomedicalCLE" />
+      <node id="#ALS" label="#ALS" />
+      <node id="#Solon" label="#Solon" />
+      <node id="#BlueAsh" label="#BlueAsh" />
+      <node id="#Sanfilippo" label="#Sanfilippo" />
+      <node id="#Insurance" label="#Insurance" />
+      <node id="#Philadelphia" label="#Philadelphia" />
+      <node id="#Omnicare" label="#Omnicare" />
+      <node id="#BIOKoozieRoadTrip" label="#BIOKoozieRoadTrip" />
+      <node id="#educators" label="#educators" />
+      <node id="#WillSmith" label="#WillSmith" />
+      <node id="#STEMM" label="#STEMM" />
+      <node id="#cysticfibrosis" label="#cysticfibrosis" />
+      <node id="#bio" label="#bio" />
+      <node id="#Pharmaceutical" label="#Pharmaceutical" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#patents" label="#patents" />
+      <node id="#doctors" label="#doctors" />
+      <node id="#Careers" label="#Careers" />
+      <node id="#Reagents" label="#Reagents" />
+      <node id="#RiskManagement" label="#RiskManagement" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#branding" label="#branding" />
+      <node id="#Biomimicry" label="#Biomimicry" />
+      <node id="#MasonLovesBio" label="#MasonLovesBio" />
+      <node id="#wellness" label="#wellness" />
+      <node id="#medical" label="#medical" />
+      <node id="#Parkinson" label="#Parkinson" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#3D" target="#Ohio" weight="1510" />
+      <edge id="1" source="#malaria" target="#research" weight="1510" />
+      <edge id="2" source="#malaria" target="#science" weight="1510" />
+      <edge id="3" source="#malaria" target="#cancer" weight="1510" />
+      <edge id="4" source="#malaria" target="#Ohio" weight="1510" />
+      <edge id="5" source="#PhRMA" target="#Innovation" weight="1510" />
+      <edge id="6" source="#PhRMA" target="#pipeline" weight="1510" />
+      <edge id="7" source="#Cle" target="#meddevice" weight="1510" />
+      <edge id="8" source="#Cle" target="#FDA" weight="1510" />
+      <edge id="9" source="#pharma" target="#networking" weight="9060" />
+      <edge id="10" source="#pharma" target="#jobs" weight="1510" />
+      <edge id="11" source="#pharma" target="#BIO2016" weight="1510" />
+      <edge id="12" source="#pharma" target="#lifescience" weight="1510" />
+      <edge id="13" source="#pharma" target="#WomenInBio" weight="1510" />
+      <edge id="14" source="#pharma" target="#bioscience" weight="6040" />
+      <edge id="15" source="#pharma" target="#Scientists" weight="1510" />
+      <edge id="16" source="#pharma" target="#reimbursement" weight="1510" />
+      <edge id="17" source="#pharma" target="#Washington" weight="1510" />
+      <edge id="18" source="#pharma" target="#webinar" weight="1510" />
+      <edge id="19" source="#pharma" target="#Pharmacists" weight="1510" />
+      <edge id="20" source="#pharma" target="#Vivitrol" weight="3020" />
+      <edge id="21" source="#pharma" target="#patent" weight="1510" />
+      <edge id="22" source="#pharma" target="#bio" weight="7550" />
+      <edge id="23" source="#pharma" target="#financing" weight="1510" />
+      <edge id="24" source="#pharma" target="#cure" weight="1510" />
+      <edge id="25" source="#pharma" target="#talent" weight="1510" />
+      <edge id="26" source="#pharma" target="#Ohio" weight="61910" />
+      <edge id="27" source="#pharma" target="#biotech" weight="13590" />
+      <edge id="28" source="#pharma" target="#BigIDEAs4Health" weight="1510" />
+      <edge id="29" source="#pharma" target="#medtech" weight="40770" />
+      <edge id="30" source="#pharma" target="#funding" weight="1510" />
+      <edge id="31" source="#pharma" target="#startup" weight="1510" />
+      <edge id="32" source="#pharma" target="#Bio" weight="12080" />
+      <edge id="33" source="#pharma" target="#innovator" weight="1510" />
+      <edge id="34" source="#pharma" target="#Ebola" weight="1510" />
+      <edge id="35" source="#pharma" target="#finance" weight="1510" />
+      <edge id="36" source="#pharma" target="#Career" weight="1510" />
+      <edge id="37" source="#pharma" target="#diseases" weight="1510" />
+      <edge id="38" source="#pharma" target="#Cleveland" weight="3020" />
+      <edge id="39" source="#pharma" target="#recovery" weight="1510" />
+      <edge id="40" source="#pharma" target="#manufacturing" weight="1510" />
+      <edge id="41" source="#pharma" target="#BioOhioMember" weight="21140" />
+      <edge id="42" source="#pharma" target="#BioMotiv" weight="1510" />
+      <edge id="43" source="#pharma" target="#meddevice" weight="1510" />
+      <edge id="44" source="#pharma" target="#startups" weight="1510" />
+      <edge id="45" source="#pharma" target="#research" weight="4530" />
+      <edge id="46" source="#pharma" target="#Cincinnati" weight="3020" />
+      <edge id="47" source="#pharma" target="#Bioscience" weight="1510" />
+      <edge id="48" source="#pharma" target="#pediatrics" weight="1510" />
+      <edge id="49" source="#pharma" target="#healthcare" weight="1510" />
+      <edge id="50" source="#MedicalDevice" target="#Quality" weight="1510" />
+      <edge id="51" source="#MedicalDevice" target="#medtech" weight="1510" />
+      <edge id="52" source="#MedicalDevice" target="#BioOhioMember" weight="1510" />
+      <edge id="53" source="#MedicalDevice" target="#510k" weight="1510" />
+      <edge id="54" source="#MedicalDevice" target="#Regulatory" weight="1510" />
+      <edge id="55" source="#MedicalDevice" target="#FDA" weight="1510" />
+      <edge id="56" source="#MedicalDevice" target="#Ohio" weight="1510" />
+      <edge id="57" source="#stroke" target="#BioOhioMember" weight="1510" />
+      <edge id="58" source="#stroke" target="#Japan" weight="1510" />
+      <edge id="59" source="#stroke" target="#Ohio" weight="1510" />
+      <edge id="60" source="#MakeSafeHappen" target="#kids" weight="1510" />
+      <edge id="61" source="#MakeSafeHappen" target="#pediatrics" weight="1510" />
+      <edge id="62" source="#MakeSafeHappen" target="#Ohio" weight="3020" />
+      <edge id="63" source="#prostatecancer" target="#golf" weight="1510" />
+      <edge id="64" source="#HumanResources" target="#talent" weight="1510" />
+      <edge id="65" source="#HumanResources" target="#Ohio" weight="1510" />
+      <edge id="66" source="#4jobs" target="#bipartisan" weight="1510" />
+      <edge id="67" source="#4jobs" target="#innovation" weight="1510" />
+      <edge id="68" source="#4jobs" target="#RepealDeviceTax" weight="1510" />
+      <edge id="69" source="#stemcell" target="#BioOhioMember" weight="1510" />
+      <edge id="70" source="#stemcell" target="#bioscience" weight="1510" />
+      <edge id="71" source="#stemcell" target="#Ohio" weight="1510" />
+      <edge id="72" source="#BioOhioMember" target="#surgery" weight="1510" />
+      <edge id="73" source="#BioOhioMember" target="#bioscience" weight="7550" />
+      <edge id="74" source="#BioOhioMember" target="#leadership" weight="1510" />
+      <edge id="75" source="#BioOhioMember" target="#discovery" weight="1510" />
+      <edge id="76" source="#BioOhioMember" target="#accounting" weight="1510" />
+      <edge id="77" source="#BioOhioMember" target="#infection" weight="1510" />
+      <edge id="78" source="#BioOhioMember" target="#electronics" weight="1510" />
+      <edge id="79" source="#BioOhioMember" target="#biology" weight="1510" />
+      <edge id="80" source="#BioOhioMember" target="#STEM" weight="1510" />
+      <edge id="81" source="#BioOhioMember" target="#Midwest" weight="1510" />
+      <edge id="82" source="#BioOhioMember" target="#finance" weight="1510" />
+      <edge id="83" source="#BioOhioMember" target="#Education" weight="1510" />
+      <edge id="84" source="#BioOhioMember" target="#funding" weight="1510" />
+      <edge id="85" source="#BioOhioMember" target="#Cleveland" weight="6040" />
+      <edge id="86" source="#BioOhioMember" target="#design" weight="1510" />
+      <edge id="87" source="#BioOhioMember" target="#clinicaltrials" weight="4530" />
+      <edge id="88" source="#BioOhioMember" target="#pain" weight="1510" />
+      <edge id="89" source="#BioOhioMember" target="#startups" weight="4530" />
+      <edge id="90" source="#BioOhioMember" target="#Startups" weight="1510" />
+      <edge id="91" source="#BioOhioMember" target="#gas" weight="1510" />
+      <edge id="92" source="#BioOhioMember" target="#MedTech" weight="1510" />
+      <edge id="93" source="#BioOhioMember" target="#durability" weight="1510" />
+      <edge id="94" source="#BioOhioMember" target="#Africa" weight="1510" />
+      <edge id="95" source="#BioOhioMember" target="#BIO2015" weight="1510" />
+      <edge id="96" source="#BioOhioMember" target="#webinar" weight="3020" />
+      <edge id="97" source="#BioOhioMember" target="#Vivitrol" weight="1510" />
+      <edge id="98" source="#BioOhioMember" target="#Jobs" weight="9060" />
+      <edge id="99" source="#BioOhioMember" target="#Laboratory" weight="1510" />
+      <edge id="100" source="#BioOhioMember" target="#medicaldevice" weight="3020" />
+      <edge id="101" source="#BioOhioMember" target="#cardiology" weight="1510" />
+      <edge id="102" source="#BioOhioMember" target="#financing" weight="1510" />
+      <edge id="103" source="#BioOhioMember" target="#talent" weight="3020" />
+      <edge id="104" source="#BioOhioMember" target="#clinicaltrial" weight="3020" />
+      <edge id="105" source="#BioOhioMember" target="#biotech" weight="7550" />
+      <edge id="106" source="#BioOhioMember" target="#REDIzone" weight="1510" />
+      <edge id="107" source="#BioOhioMember" target="#HealthIT" weight="1510" />
+      <edge id="108" source="#BioOhioMember" target="#wearables" weight="1510" />
+      <edge id="109" source="#BioOhioMember" target="#hearthealth" weight="3020" />
+      <edge id="110" source="#BioOhioMember" target="#Ebola" weight="4530" />
+      <edge id="111" source="#BioOhioMember" target="#research" weight="12080" />
+      <edge id="112" source="#BioOhioMember" target="#tax" weight="1510" />
+      <edge id="113" source="#BioOhioMember" target="#CysticFibrosis" weight="1510" />
+      <edge id="114" source="#BioOhioMember" target="#FoodSafety" weight="1510" />
+      <edge id="115" source="#BioOhioMember" target="#Cincinnati" weight="4530" />
+      <edge id="116" source="#BioOhioMember" target="#highschool" weight="1510" />
+      <edge id="117" source="#BioOhioMember" target="#healthcare" weight="9060" />
+      <edge id="118" source="#BioOhioMember" target="#simulation" weight="1510" />
+      <edge id="119" source="#BioOhioMember" target="#jobs" weight="9060" />
+      <edge id="120" source="#BioOhioMember" target="#laboratory" weight="1510" />
+      <edge id="121" source="#BioOhioMember" target="#pediatric" weight="1510" />
+      <edge id="122" source="#BioOhioMember" target="#Akron" weight="1510" />
+      <edge id="123" source="#BioOhioMember" target="#medicaldevices" weight="1510" />
+      <edge id="124" source="#BioOhioMember" target="#CRO" weight="3020" />
+      <edge id="125" source="#BioOhioMember" target="#lifescience" weight="3020" />
+      <edge id="126" source="#BioOhioMember" target="#WomenInBio" weight="1510" />
+      <edge id="127" source="#BioOhioMember" target="#cardio" weight="4530" />
+      <edge id="128" source="#BioOhioMember" target="#data" weight="4530" />
+      <edge id="129" source="#BioOhioMember" target="#pharmaceutical" weight="1510" />
+      <edge id="130" source="#BioOhioMember" target="#Ohio" weight="143450" />
+      <edge id="131" source="#BioOhioMember" target="#Japan" weight="1510" />
+      <edge id="132" source="#BioOhioMember" target="#quality" weight="1510" />
+      <edge id="133" source="#BioOhioMember" target="#biofuels" weight="1510" />
+      <edge id="134" source="#BioOhioMember" target="#healthIT" weight="1510" />
+      <edge id="135" source="#BioOhioMember" target="#VentureCapital" weight="1510" />
+      <edge id="136" source="#BioOhioMember" target="#BIOCEO15" weight="1510" />
+      <edge id="137" source="#BioOhioMember" target="#advocacy" weight="1510" />
+      <edge id="138" source="#BioOhioMember" target="#MBA" weight="1510" />
+      <edge id="139" source="#BioOhioMember" target="#education" weight="7550" />
+      <edge id="140" source="#BioOhioMember" target="#Quality" weight="1510" />
+      <edge id="141" source="#BioOhioMember" target="#neuroscience" weight="1510" />
+      <edge id="142" source="#BioOhioMember" target="#UDI" weight="1510" />
+      <edge id="143" source="#BioOhioMember" target="#recovery" weight="1510" />
+      <edge id="144" source="#BioOhioMember" target="#chemistry" weight="1510" />
+      <edge id="145" source="#BioOhioMember" target="#tech" weight="1510" />
+      <edge id="146" source="#BioOhioMember" target="#Millennials" weight="1510" />
+      <edge id="147" source="#BioOhioMember" target="#30Under30" weight="1510" />
+      <edge id="148" source="#BioOhioMember" target="#Technician" weight="1510" />
+      <edge id="149" source="#BioOhioMember" target="#SanfilippoSyndrome" weight="1510" />
+      <edge id="150" source="#BioOhioMember" target="#sustainability" weight="1510" />
+      <edge id="151" source="#BioOhioMember" target="#elastomer" weight="1510" />
+      <edge id="152" source="#BioOhioMember" target="#Sanfilippo" weight="1510" />
+      <edge id="153" source="#BioOhioMember" target="#Dayton" weight="3020" />
+      <edge id="154" source="#BioOhioMember" target="#medical" weight="1510" />
+      <edge id="155" source="#BioOhioMember" target="#Reynoldsburg" weight="1510" />
+      <edge id="156" source="#BioOhioMember" target="#probiotics" weight="1510" />
+      <edge id="157" source="#BioOhioMember" target="#bio" weight="16610" />
+      <edge id="158" source="#BioOhioMember" target="#Bioscience" weight="1510" />
+      <edge id="159" source="#BioOhioMember" target="#bigdata" weight="1510" />
+      <edge id="160" source="#BioOhioMember" target="#innovation" weight="4530" />
+      <edge id="161" source="#BioOhioMember" target="#Pittcon" weight="1510" />
+      <edge id="162" source="#BioOhioMember" target="#Engineer" weight="1510" />
+      <edge id="163" source="#BioOhioMember" target="#startup" weight="4530" />
+      <edge id="164" source="#BioOhioMember" target="#Bio" weight="4530" />
+      <edge id="165" source="#BioOhioMember" target="#manufacturing" weight="4530" />
+      <edge id="166" source="#BioOhioMember" target="#medtech" weight="37750" />
+      <edge id="167" source="#BioOhioMember" target="#Columbus" weight="1510" />
+      <edge id="168" source="#BioOhioMember" target="#farming" weight="1510" />
+      <edge id="169" source="#BioOhioMember" target="#Medtech" weight="1510" />
+      <edge id="170" source="#BioOhioMember" target="#Philadelphia" weight="1510" />
+      <edge id="171" source="#BioOhioMember" target="#sunrise" weight="1510" />
+      <edge id="172" source="#BioOhioMember" target="#pediatrics" weight="1510" />
+      <edge id="173" source="#pathology" target="#toxicology" weight="1510" />
+      <edge id="174" source="#pathology" target="#ZikaVirus" weight="1510" />
+      <edge id="175" source="#pathology" target="#Ohio" weight="1510" />
+      <edge id="176" source="#CompanyCulture" target="#HR" weight="1510" />
+      <edge id="177" source="#schools" target="#education" weight="1510" />
+      <edge id="178" source="#schools" target="#Ohio" weight="1510" />
+      <edge id="179" source="#biosciences" target="#medtech" weight="1510" />
+      <edge id="180" source="#biosciences" target="#healthcare" weight="1510" />
+      <edge id="181" source="#biosciences" target="#Ohio" weight="1510" />
+      <edge id="182" source="#DeepBrainStimulation" target="#Parkinson" weight="1510" />
+      <edge id="183" source="#WinterIsComing" target="#Ohio" weight="1510" />
+      <edge id="184" source="#Biotechnology" target="#Cincinnati" weight="1510" />
+      <edge id="185" source="#Biotechnology" target="#Columbus" weight="1510" />
+      <edge id="186" source="#Biotechnology" target="#Cleveland" weight="1510" />
+      <edge id="187" source="#HeartMonth" target="#Ohio" weight="1510" />
+      <edge id="188" source="#MasonOh" target="#exciting" weight="1510" />
+      <edge id="189" source="#MasonOh" target="#MedTech" weight="1510" />
+      <edge id="190" source="#MasonOh" target="#MasonLovesBio" weight="1510" />
+      <edge id="191" source="#MasonOh" target="#science" weight="1510" />
+      <edge id="192" source="#MasonOh" target="#innovation" weight="1510" />
+      <edge id="193" source="#MasonOh" target="#Talent" weight="1510" />
+      <edge id="194" source="#MasonOh" target="#biohealth" weight="1510" />
+      <edge id="195" source="#patient" target="#Medicare" weight="1510" />
+      <edge id="196" source="#buckeye" target="#bio" weight="1510" />
+      <edge id="197" source="#buckeye" target="#Ohio" weight="1510" />
+      <edge id="198" source="#probiotic" target="#glutenfree" weight="1510" />
+      <edge id="199" source="#probiotic" target="#Ohio" weight="1510" />
+      <edge id="200" source="#Startups" target="#Medtech" weight="1510" />
+      <edge id="201" source="#Startups" target="#WomenInBio" weight="1510" />
+      <edge id="202" source="#Startups" target="#Networking" weight="1510" />
+      <edge id="203" source="#Startups" target="#Ohio" weight="3020" />
+      <edge id="204" source="#Startups" target="#Pharma" weight="1510" />
+      <edge id="205" source="#executives" target="#BIOCEO15" weight="1510" />
+      <edge id="206" source="#executives" target="#biotech" weight="1510" />
+      <edge id="207" source="#MedTech" target="#Quality" weight="1510" />
+      <edge id="208" source="#MedTech" target="#Jobs" weight="1510" />
+      <edge id="209" source="#MedTech" target="#devicetax" weight="1510" />
+      <edge id="210" source="#MedTech" target="#ClinicalTrials" weight="1510" />
+      <edge id="211" source="#MedTech" target="#Engineer" weight="1510" />
+      <edge id="212" source="#MedTech" target="#MasonLovesBio" weight="1510" />
+      <edge id="213" source="#MedTech" target="#FDA" weight="1510" />
+      <edge id="214" source="#MedTech" target="#innovation" weight="1510" />
+      <edge id="215" source="#MedTech" target="#Talent" weight="1510" />
+      <edge id="216" source="#MedTech" target="#Ohio" weight="3020" />
+      <edge id="217" source="#BioScience" target="#MasonOH" weight="1510" />
+      <edge id="218" source="#durability" target="#elastomer" weight="1510" />
+      <edge id="219" source="#durability" target="#quality" weight="1510" />
+      <edge id="220" source="#durability" target="#Ohio" weight="1510" />
+      <edge id="221" source="#BIO2014" target="#BIOKoozieRoadTrip" weight="3020" />
+      <edge id="222" source="#BIO2014" target="#biotech" weight="1510" />
+      <edge id="223" source="#BIO2014" target="#bioscience" weight="1510" />
+      <edge id="224" source="#BIO2014" target="#TheMemorialTournament" weight="1510" />
+      <edge id="225" source="#BIO2014" target="#Ohio" weight="1510" />
+      <edge id="226" source="#BIO2015" target="#Philadelphia" weight="1510" />
+      <edge id="227" source="#BIO2015" target="#medtech" weight="1510" />
+      <edge id="228" source="#BIO2015" target="#Ohio" weight="3020" />
+      <edge id="229" source="#sensors" target="#Ohio" weight="1510" />
+      <edge id="230" source="#Training" target="#Talent" weight="1510" />
+      <edge id="231" source="#Training" target="#Millennials" weight="1510" />
+      <edge id="232" source="#Enrolled" target="#Cryoanalgesia" weight="1510" />
+      <edge id="233" source="#Enrolled" target="#Patient" weight="1510" />
+      <edge id="234" source="#Technology" target="#Innovation" weight="1510" />
+      <edge id="235" source="#Technology" target="#Inventors" weight="1510" />
+      <edge id="236" source="#Laboratory" target="#Technician" weight="1510" />
+      <edge id="237" source="#Laboratory" target="#jobs" weight="1510" />
+      <edge id="238" source="#Laboratory" target="#Ohio" weight="1510" />
+      <edge id="239" source="#toledo" target="#agribusiness" weight="1510" />
+      <edge id="240" source="#toledo" target="#agbio" weight="1510" />
+      <edge id="241" source="#toledo" target="#maumee" weight="1510" />
+      <edge id="242" source="#toledo" target="#Ohio" weight="1510" />
+      <edge id="243" source="#newagegirls" target="#science" weight="1510" />
+      <edge id="244" source="#talent" target="#medtech" weight="1510" />
+      <edge id="245" source="#talent" target="#Philadelphia" weight="1510" />
+      <edge id="246" source="#talent" target="#bio" weight="1510" />
+      <edge id="247" source="#talent" target="#Bioscience" weight="1510" />
+      <edge id="248" source="#talent" target="#networking" weight="1510" />
+      <edge id="249" source="#talent" target="#powerofpersonal" weight="1510" />
+      <edge id="250" source="#talent" target="#leadership" weight="1510" />
+      <edge id="251" source="#talent" target="#Ohio" weight="6040" />
+      <edge id="252" source="#raredisease" target="#RareDiseaseDay" weight="1510" />
+      <edge id="253" source="#Korea" target="#medtech" weight="1510" />
+      <edge id="254" source="#Korea" target="#Cleveland" weight="1510" />
+      <edge id="255" source="#biotech" target="#enzymes" weight="1510" />
+      <edge id="256" source="#biotech" target="#jobs" weight="4530" />
+      <edge id="257" source="#biotech" target="#Jobs" weight="1510" />
+      <edge id="258" source="#biotech" target="#MedicalDeviceTax" weight="1510" />
+      <edge id="259" source="#biotech" target="#bioscience" weight="3020" />
+      <edge id="260" source="#biotech" target="#womeninbio" weight="1510" />
+      <edge id="261" source="#biotech" target="#momentum" weight="1510" />
+      <edge id="262" source="#biotech" target="#Ohio" weight="43790" />
+      <edge id="263" source="#biotech" target="#students" weight="1510" />
+      <edge id="264" source="#biotech" target="#BIOCEO15" weight="1510" />
+      <edge id="265" source="#biotech" target="#science" weight="3020" />
+      <edge id="266" source="#biotech" target="#Bioscience" weight="3020" />
+      <edge id="267" source="#biotech" target="#bio2015" weight="1510" />
+      <edge id="268" source="#biotech" target="#patents" weight="1510" />
+      <edge id="269" source="#biotech" target="#education" weight="1510" />
+      <edge id="270" source="#biotech" target="#STEM" weight="1510" />
+      <edge id="271" source="#biotech" target="#medtech" weight="16610" />
+      <edge id="272" source="#biotech" target="#funding" weight="1510" />
+      <edge id="273" source="#biotech" target="#manufacturing" weight="1510" />
+      <edge id="274" source="#biotech" target="#networking" weight="6040" />
+      <edge id="275" source="#biotech" target="#cincy" weight="1510" />
+      <edge id="276" source="#biotech" target="#Columbus" weight="4530" />
+      <edge id="277" source="#biotech" target="#Cincinnati" weight="1510" />
+      <edge id="278" source="#biotech" target="#Career" weight="1510" />
+      <edge id="279" source="#biotech" target="#microbiology" weight="1510" />
+      <edge id="280" source="#biotech" target="#learning" weight="1510" />
+      <edge id="281" source="#biotech" target="#Cleveland" weight="4530" />
+      <edge id="282" source="#biotech" target="#Medtech" weight="1510" />
+      <edge id="283" source="#biotech" target="#wow" weight="1510" />
+      <edge id="284" source="#biotech" target="#pain" weight="1510" />
+      <edge id="285" source="#biotech" target="#collaboration" weight="1510" />
+      <edge id="286" source="#biotech" target="#stemcells" weight="1510" />
+      <edge id="287" source="#biotech" target="#startups" weight="1510" />
+      <edge id="288" source="#biotech" target="#3dprinting" weight="1510" />
+      <edge id="289" source="#biotech" target="#BIO2016" weight="1510" />
+      <edge id="290" source="#biotech" target="#CincyBio" weight="1510" />
+      <edge id="291" source="#biotech" target="#ohio" weight="1510" />
+      <edge id="292" source="#pneumonia" target="#asthma" weight="1510" />
+      <edge id="293" source="#pneumonia" target="#pediatrics" weight="1510" />
+      <edge id="294" source="#pneumonia" target="#Ohio" weight="1510" />
+      <edge id="295" source="#coffee" target="#probiotics" weight="1510" />
+      <edge id="296" source="#coffee" target="#Ohio" weight="1510" />
+      <edge id="297" source="#medtech" target="#simulation" weight="1510" />
+      <edge id="298" source="#medtech" target="#jobs" weight="7550" />
+      <edge id="299" source="#medtech" target="#laboratory" weight="1510" />
+      <edge id="300" source="#medtech" target="#pediatric" weight="1510" />
+      <edge id="301" source="#medtech" target="#reimbursement" weight="1510" />
+      <edge id="302" source="#medtech" target="#surgery" weight="1510" />
+      <edge id="303" source="#medtech" target="#infection" weight="1510" />
+      <edge id="304" source="#medtech" target="#MedicalDeviceTax" weight="1510" />
+      <edge id="305" source="#medtech" target="#orthopedics" weight="1510" />
+      <edge id="306" source="#medtech" target="#WomenInBio" weight="3020" />
+      <edge id="307" source="#medtech" target="#bioscience" weight="9060" />
+      <edge id="308" source="#medtech" target="#pharmaceutical" weight="1510" />
+      <edge id="309" source="#medtech" target="#Dayton" weight="6040" />
+      <edge id="310" source="#medtech" target="#Philadelphia" weight="1510" />
+      <edge id="311" source="#medtech" target="#webinar" weight="1510" />
+      <edge id="312" source="#medtech" target="#mfg" weight="1510" />
+      <edge id="313" source="#medtech" target="#Washington" weight="1510" />
+      <edge id="314" source="#medtech" target="#Ohio" weight="138920" />
+      <edge id="315" source="#medtech" target="#medicaldevicetax" weight="1510" />
+      <edge id="316" source="#medtech" target="#Japan" weight="1510" />
+      <edge id="317" source="#medtech" target="#networking" weight="13590" />
+      <edge id="318" source="#medtech" target="#medicaldevice" weight="7550" />
+      <edge id="319" source="#medtech" target="#healthIT" weight="1510" />
+      <edge id="320" source="#medtech" target="#dayton" weight="1510" />
+      <edge id="321" source="#medtech" target="#Entrepreneurs" weight="1510" />
+      <edge id="322" source="#medtech" target="#Chicago" weight="1510" />
+      <edge id="323" source="#medtech" target="#womeninbio" weight="1510" />
+      <edge id="324" source="#medtech" target="#electronics" weight="3020" />
+      <edge id="325" source="#medtech" target="#digitalhealth" weight="1510" />
+      <edge id="326" source="#medtech" target="#regulatory" weight="1510" />
+      <edge id="327" source="#medtech" target="#advocacy" weight="1510" />
+      <edge id="328" source="#medtech" target="#cure" weight="1510" />
+      <edge id="329" source="#medtech" target="#military" weight="1510" />
+      <edge id="330" source="#medtech" target="#foodsafety" weight="1510" />
+      <edge id="331" source="#medtech" target="#BigIDEAs4Health" weight="1510" />
+      <edge id="332" source="#medtech" target="#Quality" weight="1510" />
+      <edge id="333" source="#medtech" target="#STEM" weight="1510" />
+      <edge id="334" source="#medtech" target="#HealthIT" weight="1510" />
+      <edge id="335" source="#medtech" target="#Career" weight="1510" />
+      <edge id="336" source="#medtech" target="#AdvaMed2014" weight="1510" />
+      <edge id="337" source="#medtech" target="#wearables" weight="1510" />
+      <edge id="338" source="#medtech" target="#hearthealth" weight="1510" />
+      <edge id="339" source="#medtech" target="#startups" weight="1510" />
+      <edge id="340" source="#medtech" target="#startup" weight="7550" />
+      <edge id="341" source="#medtech" target="#Bio" weight="12080" />
+      <edge id="342" source="#medtech" target="#catheter" weight="1510" />
+      <edge id="343" source="#medtech" target="#manufacturing" weight="9060" />
+      <edge id="344" source="#medtech" target="#Ebola" weight="1510" />
+      <edge id="345" source="#medtech" target="#innovation" weight="3020" />
+      <edge id="346" source="#medtech" target="#finance" weight="1510" />
+      <edge id="347" source="#medtech" target="#lifescience" weight="4530" />
+      <edge id="348" source="#medtech" target="#UDI" weight="1510" />
+      <edge id="349" source="#medtech" target="#FDA" weight="1510" />
+      <edge id="350" source="#medtech" target="#polymer" weight="1510" />
+      <edge id="351" source="#medtech" target="#veteran" weight="1510" />
+      <edge id="352" source="#medtech" target="#Cleveland" weight="9060" />
+      <edge id="353" source="#medtech" target="#design" weight="1510" />
+      <edge id="354" source="#medtech" target="#Mason" weight="1510" />
+      <edge id="355" source="#medtech" target="#sustainability" weight="1510" />
+      <edge id="356" source="#medtech" target="#clinicaltrials" weight="3020" />
+      <edge id="357" source="#medtech" target="#BIO2016" weight="1510" />
+      <edge id="358" source="#medtech" target="#pain" weight="1510" />
+      <edge id="359" source="#medtech" target="#chemicals" weight="1510" />
+      <edge id="360" source="#medtech" target="#MDMWest" weight="6040" />
+      <edge id="361" source="#medtech" target="#rollover" weight="1510" />
+      <edge id="362" source="#medtech" target="#congress" weight="1510" />
+      <edge id="363" source="#medtech" target="#Afib" weight="1510" />
+      <edge id="364" source="#medtech" target="#ALS" weight="1510" />
+      <edge id="365" source="#medtech" target="#research" weight="3020" />
+      <edge id="366" source="#medtech" target="#Cincinnati" weight="7550" />
+      <edge id="367" source="#medtech" target="#Bioscience" weight="1510" />
+      <edge id="368" source="#medtech" target="#bio" weight="19630" />
+      <edge id="369" source="#medtech" target="#fda" weight="1510" />
+      <edge id="370" source="#medtech" target="#healthcare" weight="7550" />
+      <edge id="371" source="#wearables" target="#bucketlist" weight="1510" />
+      <edge id="372" source="#wearables" target="#wow" weight="1510" />
+      <edge id="373" source="#wearables" target="#America" weight="1510" />
+      <edge id="374" source="#wearables" target="#walk" weight="1510" />
+      <edge id="375" source="#europeanunion" target="#kids" weight="1510" />
+      <edge id="376" source="#europeanunion" target="#Ohio" weight="1510" />
+      <edge id="377" source="#AdditiveManufacturing" target="#MEDNext" weight="4530" />
+      <edge id="378" source="#AdditiveManufacturing" target="#Cleveland" weight="1510" />
+      <edge id="379" source="#AdditiveManufacturing" target="#Ohio" weight="1510" />
+      <edge id="380" source="#clemedicalcapital" target="#NEOhio" weight="1510" />
+      <edge id="381" source="#clemedicalcapital" target="#startups" weight="1510" />
+      <edge id="382" source="#clemedicalcapital" target="#equity" weight="1510" />
+      <edge id="383" source="#clemedicalcapital" target="#biomedical" weight="1510" />
+      <edge id="384" source="#tax" target="#finance" weight="1510" />
+      <edge id="385" source="#tax" target="#accounting" weight="1510" />
+      <edge id="386" source="#bipolardisorder" target="#mentalheath" weight="1510" />
+      <edge id="387" source="#bipolardisorder" target="#anxiety" weight="1510" />
+      <edge id="388" source="#CRBard" target="#Medtech" weight="1510" />
+      <edge id="389" source="#CRBard" target="#3DPrinting" weight="3020" />
+      <edge id="390" source="#Liberty" target="#cyclotron" weight="1510" />
+      <edge id="391" source="#FoodSafety" target="#bio" weight="1510" />
+      <edge id="392" source="#Cincinnati" target="#jobs" weight="1510" />
+      <edge id="393" source="#Cincinnati" target="#CRO" weight="1510" />
+      <edge id="394" source="#Cincinnati" target="#BlueAsh" weight="1510" />
+      <edge id="395" source="#Cincinnati" target="#WomenInBio" weight="3020" />
+      <edge id="396" source="#Cincinnati" target="#bioscience" weight="1510" />
+      <edge id="397" source="#Cincinnati" target="#Research" weight="1510" />
+      <edge id="398" source="#Cincinnati" target="#leadership" weight="1510" />
+      <edge id="399" source="#Cincinnati" target="#Ohio" weight="31710" />
+      <edge id="400" source="#Cincinnati" target="#Omnicare" weight="1510" />
+      <edge id="401" source="#Cincinnati" target="#cardiology" weight="1510" />
+      <edge id="402" source="#Cincinnati" target="#bio" weight="3020" />
+      <edge id="403" source="#Cincinnati" target="#cancer" weight="1510" />
+      <edge id="404" source="#Cincinnati" target="#innovation" weight="1510" />
+      <edge id="405" source="#Cincinnati" target="#Pharma" weight="1510" />
+      <edge id="406" source="#Cincinnati" target="#patents" weight="1510" />
+      <edge id="407" source="#Cincinnati" target="#ASG" weight="1510" />
+      <edge id="408" source="#Cincinnati" target="#startups" weight="1510" />
+      <edge id="409" source="#Cincinnati" target="#Bio" weight="1510" />
+      <edge id="410" source="#Cincinnati" target="#catheter" weight="1510" />
+      <edge id="411" source="#Cincinnati" target="#manufacturing" weight="1510" />
+      <edge id="412" source="#Cincinnati" target="#networking" weight="7550" />
+      <edge id="413" source="#Cincinnati" target="#Columbus" weight="3020" />
+      <edge id="414" source="#Cincinnati" target="#Cleveland" weight="3020" />
+      <edge id="415" source="#Cincinnati" target="#Mason" weight="1510" />
+      <edge id="416" source="#Cincinnati" target="#CVS" weight="1510" />
+      <edge id="417" source="#Cincinnati" target="#careers" weight="1510" />
+      <edge id="418" source="#Cincinnati" target="#CincyBio" weight="1510" />
+      <edge id="419" source="#Cincinnati" target="#pediatrics" weight="3020" />
+      <edge id="420" source="#exciting" target="#innovation" weight="1510" />
+      <edge id="421" source="#exciting" target="#science" weight="1510" />
+      <edge id="422" source="#BuckeyeEngineering" target="#OhioState" weight="1510" />
+      <edge id="423" source="#REDIzone" target="#LifeScience" weight="3020" />
+      <edge id="424" source="#REDIzone" target="#investment" weight="1510" />
+      <edge id="425" source="#REDIzone" target="#financing" weight="1510" />
+      <edge id="426" source="#REDIzone" target="#Ohio" weight="1510" />
+      <edge id="427" source="#devicetax" target="#innovation" weight="1510" />
+      <edge id="428" source="#hearthealth" target="#education" weight="1510" />
+      <edge id="429" source="#hearthealth" target="#cardiology" weight="1510" />
+      <edge id="430" source="#hearthealth" target="#medical" weight="1510" />
+      <edge id="431" source="#hearthealth" target="#cardio" weight="1510" />
+      <edge id="432" source="#hearthealth" target="#innovation" weight="1510" />
+      <edge id="433" source="#hearthealth" target="#Afib" weight="1510" />
+      <edge id="434" source="#hearthealth" target="#Ohio" weight="1510" />
+      <edge id="435" source="#WomenInBio" target="#Medtech" weight="1510" />
+      <edge id="436" source="#WomenInBio" target="#STEMM" weight="1510" />
+      <edge id="437" source="#WomenInBio" target="#STEM" weight="1510" />
+      <edge id="438" source="#WomenInBio" target="#Mentoring" weight="1510" />
+      <edge id="439" source="#WomenInBio" target="#Careers" weight="1510" />
+      <edge id="440" source="#WomenInBio" target="#VentureCapital" weight="1510" />
+      <edge id="441" source="#WomenInBio" target="#PersonalBranding" weight="1510" />
+      <edge id="442" source="#WomenInBio" target="#careers" weight="1510" />
+      <edge id="443" source="#WomenInBio" target="#manufacturing" weight="1510" />
+      <edge id="444" source="#WomenInBio" target="#Networking" weight="1510" />
+      <edge id="445" source="#WomenInBio" target="#NewAgeGirls" weight="1510" />
+      <edge id="446" source="#WomenInBio" target="#Ohio" weight="12080" />
+      <edge id="447" source="#WomenInBio" target="#leadership" weight="1510" />
+      <edge id="448" source="#WomenInBio" target="#Pharma" weight="1510" />
+      <edge id="449" source="#SteveKeverline" target="#meddevice" weight="1510" />
+      <edge id="450" source="#SteveKeverline" target="#DougBoyd" weight="1510" />
+      <edge id="451" source="#SteveKeverline" target="#JohnLewis" weight="1510" />
+      <edge id="452" source="#SteveKeverline" target="#FDA" weight="1510" />
+      <edge id="453" source="#gas" target="#Ohio" weight="1510" />
+      <edge id="454" source="#faith" target="#concussion" weight="1510" />
+      <edge id="455" source="#faith" target="#science" weight="1510" />
+      <edge id="456" source="#faith" target="#BIO2016" weight="1510" />
+      <edge id="457" source="#faith" target="#ohio" weight="1510" />
+      <edge id="458" source="#momentum" target="#collaboration" weight="1510" />
+      <edge id="459" source="#momentum" target="#bio2015" weight="1510" />
+      <edge id="460" source="#WhyMason" target="#innovation" weight="1510" />
+      <edge id="461" source="#WhyMason" target="#bio" weight="1510" />
+      <edge id="462" source="#WhyMason" target="#MasonOH" weight="1510" />
+      <edge id="463" source="#WhyMason" target="#Afib" weight="1510" />
+      <edge id="464" source="#biofuels" target="#Ohio" weight="3020" />
+      <edge id="465" source="#Pediatric" target="#kids" weight="1510" />
+      <edge id="466" source="#Pediatric" target="#Ohio" weight="1510" />
+      <edge id="467" source="#Compliance" target="#Regulatory" weight="1510" />
+      <edge id="468" source="#healthIT" target="#Cleveland" weight="1510" />
+      <edge id="469" source="#healthIT" target="#pediatric" weight="1510" />
+      <edge id="470" source="#healthIT" target="#clinicaltrials" weight="1510" />
+      <edge id="471" source="#healthIT" target="#app" weight="1510" />
+      <edge id="472" source="#healthIT" target="#startup" weight="1510" />
+      <edge id="473" source="#healthIT" target="#CRO" weight="1510" />
+      <edge id="474" source="#healthIT" target="#healthcare" weight="1510" />
+      <edge id="475" source="#healthIT" target="#3dprinting" weight="1510" />
+      <edge id="476" source="#healthIT" target="#Ohio" weight="6040" />
+      <edge id="477" source="#healthIT" target="#FDA" weight="1510" />
+      <edge id="478" source="#healthIT" target="#webinar" weight="1510" />
+      <edge id="479" source="#patent" target="#bio" weight="1510" />
+      <edge id="480" source="#patent" target="#Ohio" weight="1510" />
+      <edge id="481" source="#VentureCapital" target="#Mentoring" weight="1510" />
+      <edge id="482" source="#VentureCapital" target="#Midwest" weight="1510" />
+      <edge id="483" source="#VentureCapital" target="#tech" weight="1510" />
+      <edge id="484" source="#VentureCapital" target="#Careers" weight="1510" />
+      <edge id="485" source="#cellculture" target="#stemcells" weight="1510" />
+      <edge id="486" source="#cellculture" target="#hepatocyte" weight="1510" />
+      <edge id="487" source="#advocacy" target="#nonprofits" weight="1510" />
+      <edge id="488" source="#advocacy" target="#bio" weight="1510" />
+      <edge id="489" source="#advocacy" target="#bioscience" weight="1510" />
+      <edge id="490" source="#advocacy" target="#fundraising" weight="1510" />
+      <edge id="491" source="#advocacy" target="#Ohio" weight="6040" />
+      <edge id="492" source="#pediatrics" target="#kids" weight="1510" />
+      <edge id="493" source="#pediatrics" target="#cancer" weight="1510" />
+      <edge id="494" source="#pediatrics" target="#Ohio" weight="13590" />
+      <edge id="495" source="#pediatrics" target="#micrOHscope" weight="1510" />
+      <edge id="496" source="#pediatrics" target="#asthma" weight="1510" />
+      <edge id="497" source="#columbus" target="#startup" weight="1510" />
+      <edge id="498" source="#columbus" target="#investment" weight="1510" />
+      <edge id="499" source="#scholarship" target="#research" weight="1510" />
+      <edge id="500" source="#scholarship" target="#creativity" weight="1510" />
+      <edge id="501" source="#scholarship" target="#Ohio" weight="1510" />
+      <edge id="502" source="#BigIDEAs4Health" target="#Ohio" weight="1510" />
+      <edge id="503" source="#kids" target="#newborn" weight="1510" />
+      <edge id="504" source="#kids" target="#genomics" weight="1510" />
+      <edge id="505" source="#kids" target="#Ohio" weight="9060" />
+      <edge id="506" source="#HBAImpact" target="#Cleveland" weight="1510" />
+      <edge id="507" source="#Biomedical" target="#jobs" weight="9060" />
+      <edge id="508" source="#Biomedical" target="#bio" weight="3020" />
+      <edge id="509" source="#Biomedical" target="#Pharmaceutical" weight="4530" />
+      <edge id="510" source="#Biomedical" target="#Pharma" weight="4530" />
+      <edge id="511" source="#Biomedical" target="#Columbus" weight="3020" />
+      <edge id="512" source="#Biomedical" target="#Ohio" weight="10570" />
+      <edge id="513" source="#3Dprinting" target="#OhioState" weight="1510" />
+      <edge id="514" source="#StartupCincy" target="#MiamiOH" weight="1510" />
+      <edge id="515" source="#learning" target="#students" weight="1510" />
+      <edge id="516" source="#ClinicalTrials" target="#Dayton" weight="1510" />
+      <edge id="517" source="#ClinicalTrials" target="#Quality" weight="1510" />
+      <edge id="518" source="#ClinicalTrials" target="#cancer" weight="1510" />
+      <edge id="519" source="#ClinicalTrials" target="#Research" weight="1510" />
+      <edge id="520" source="#ClinicalTrials" target="#research" weight="1510" />
+      <edge id="521" source="#ClinicalTrials" target="#Ohio" weight="1510" />
+      <edge id="522" source="#Biopharma" target="#LifeSciences" weight="1510" />
+      <edge id="523" source="#Biopharma" target="#webinar" weight="1510" />
+      <edge id="524" source="#scichat" target="#competition" weight="1510" />
+      <edge id="525" source="#scichat" target="#students" weight="1510" />
+      <edge id="526" source="#3dprinting" target="#Ohio" weight="1510" />
+      <edge id="527" source="#3dprinting" target="#wow" weight="1510" />
+      <edge id="528" source="#3dprinting" target="#ohio" weight="1510" />
+      <edge id="529" source="#casestudy" target="#whatif" weight="1510" />
+      <edge id="530" source="#selfie" target="#BIO2016" weight="1510" />
+      <edge id="531" source="#selfie" target="#DigitalHealth" weight="1510" />
+      <edge id="532" source="#cardio" target="#innovation" weight="1510" />
+      <edge id="533" source="#cardio" target="#Ohio" weight="3020" />
+      <edge id="534" source="#ohio" target="#concussion" weight="1510" />
+      <edge id="535" source="#ohio" target="#wow" weight="1510" />
+      <edge id="536" source="#ohio" target="#science" weight="1510" />
+      <edge id="537" source="#ohio" target="#bioscience" weight="1510" />
+      <edge id="538" source="#ohio" target="#BIO2016" weight="3020" />
+      <edge id="539" source="#Akron" target="#Ohio" weight="3020" />
+      <edge id="540" source="#Akron" target="#Cleveland" weight="1510" />
+      <edge id="541" source="#Akron" target="#manufacturing" weight="1510" />
+      <edge id="542" source="#BuckeyeEngineers" target="#Bio" weight="1510" />
+      <edge id="543" source="#BuckeyeEngineers" target="#BioOhio" weight="1510" />
+      <edge id="544" source="#BuckeyeEngineers" target="#Ohio" weight="1510" />
+      <edge id="545" source="#Zika" target="#CDC" weight="1510" />
+      <edge id="546" source="#mobileapps" target="#medical" weight="1510" />
+      <edge id="547" source="#mobileapps" target="#webinar" weight="1510" />
+      <edge id="548" source="#skeleton" target="#bobsled" weight="1510" />
+      <edge id="549" source="#probiotics" target="#bio" weight="1510" />
+      <edge id="550" source="#probiotics" target="#Ohio" weight="1510" />
+      <edge id="551" source="#STEM" target="#education" weight="1510" />
+      <edge id="552" source="#STEM" target="#students" weight="1510" />
+      <edge id="553" source="#STEM" target="#Reynoldsburg" weight="1510" />
+      <edge id="554" source="#STEM" target="#micrOHscope" weight="1510" />
+      <edge id="555" source="#STEM" target="#tech" weight="1510" />
+      <edge id="556" source="#STEM" target="#healthcare" weight="1510" />
+      <edge id="557" source="#STEM" target="#biofuel" weight="1510" />
+      <edge id="558" source="#STEM" target="#NewAgeGirls" weight="1510" />
+      <edge id="559" source="#STEM" target="#Ohio" weight="7550" />
+      <edge id="560" source="#STEM" target="#highschool" weight="1510" />
+      <edge id="561" source="#STEM" target="#bio" weight="1510" />
+      <edge id="562" source="#STEM" target="#WashingtonDC" weight="1510" />
+      <edge id="563" source="#B2B" target="#DataManagement" weight="1510" />
+      <edge id="564" source="#B2B" target="#Procurement" weight="1510" />
+      <edge id="565" source="#B2B" target="#LabServices" weight="1510" />
+      <edge id="566" source="#B2B" target="#Ohio" weight="1510" />
+      <edge id="567" source="#hearthealthy" target="#prevention" weight="1510" />
+      <edge id="568" source="#hearthealthy" target="#GoRed" weight="1510" />
+      <edge id="569" source="#Pharmacists" target="#Ohio" weight="1510" />
+      <edge id="570" source="#Engineer" target="#Jobs" weight="1510" />
+      <edge id="571" source="#Engineer" target="#Ohio" weight="1510" />
+      <edge id="572" source="#Bio" target="#BioOhio" weight="1510" />
+      <edge id="573" source="#Bio" target="#jobs" weight="3020" />
+      <edge id="574" source="#Bio" target="#Jobs" weight="1510" />
+      <edge id="575" source="#Bio" target="#students" weight="1510" />
+      <edge id="576" source="#Bio" target="#lifescience" weight="1510" />
+      <edge id="577" source="#Bio" target="#bio" weight="1510" />
+      <edge id="578" source="#Bio" target="#startups" weight="1510" />
+      <edge id="579" source="#Bio" target="#Ohio" weight="18120" />
+      <edge id="580" source="#Bio" target="#networking" weight="4530" />
+      <edge id="581" source="#Bio" target="#reimbursement" weight="1510" />
+      <edge id="582" source="#Bio" target="#Pharma" weight="1510" />
+      <edge id="583" source="#CFTR" target="#cysticfibrosis" weight="1510" />
+      <edge id="584" source="#CFTR" target="#ionchannels" weight="1510" />
+      <edge id="585" source="#HIPAA" target="#HIPAACompliance" weight="1510" />
+      <edge id="586" source="#SBIR" target="#Parkinsons" weight="1510" />
+      <edge id="587" source="#SBIR" target="#funding" weight="1510" />
+      <edge id="588" source="#SBIR" target="#cancerresearch" weight="1510" />
+      <edge id="589" source="#SBIR" target="#NSF" weight="1510" />
+      <edge id="590" source="#SBIR" target="#DOD" weight="1510" />
+      <edge id="591" source="#SBIR" target="#NIH" weight="1510" />
+      <edge id="592" source="#SBIR" target="#STTR" weight="3020" />
+      <edge id="593" source="#rollover" target="#Ohio" weight="1510" />
+      <edge id="594" source="#careers" target="#bio" weight="1510" />
+      <edge id="595" source="#careers" target="#jobs" weight="1510" />
+      <edge id="596" source="#careers" target="#networking" weight="1510" />
+      <edge id="597" source="#careers" target="#leadership" weight="3020" />
+      <edge id="598" source="#careers" target="#Ohio" weight="1510" />
+      <edge id="599" source="#plastics" target="#agbio" weight="1510" />
+      <edge id="600" source="#plastics" target="#soy" weight="1510" />
+      <edge id="601" source="#NIH" target="#DOD" weight="1510" />
+      <edge id="602" source="#NIH" target="#NSF" weight="1510" />
+      <edge id="603" source="#NIH" target="#STTR" weight="1510" />
+      <edge id="604" source="#catheter" target="#innovation" weight="1510" />
+      <edge id="605" source="#catheter" target="#bioscience" weight="1510" />
+      <edge id="606" source="#catheter" target="#Ohio" weight="1510" />
+      <edge id="607" source="#Medicare" target="#PartD" weight="3020" />
+      <edge id="608" source="#Medicare" target="#seniors" weight="1510" />
+      <edge id="609" source="#KidsHealth" target="#ClinicalSciencesBuilding" weight="1510" />
+      <edge id="610" source="#bucketlist" target="#walk" weight="1510" />
+      <edge id="611" source="#bucketlist" target="#wow" weight="1510" />
+      <edge id="612" source="#bucketlist" target="#America" weight="1510" />
+      <edge id="613" source="#agriculture" target="#fish" weight="1510" />
+      <edge id="614" source="#agriculture" target="#innovation" weight="1510" />
+      <edge id="615" source="#agriculture" target="#aquaculture" weight="1510" />
+      <edge id="616" source="#agriculture" target="#sustainability" weight="1510" />
+      <edge id="617" source="#agriculture" target="#Ohio" weight="1510" />
+      <edge id="618" source="#bioworkforce" target="#BioOhio" weight="3020" />
+      <edge id="619" source="#accelerate" target="#WhatIf" weight="1510" />
+      <edge id="620" source="#accelerate" target="#Ohio" weight="1510" />
+      <edge id="621" source="#Gahanna" target="#Columbus" weight="3020" />
+      <edge id="622" source="#Gahanna" target="#networking" weight="1510" />
+      <edge id="623" source="#Gahanna" target="#Ohio" weight="3020" />
+      <edge id="624" source="#stress" target="#Firefighters" weight="1510" />
+      <edge id="625" source="#stress" target="#biomarkers" weight="1510" />
+      <edge id="626" source="#Innovation" target="#Success" weight="1510" />
+      <edge id="627" source="#Innovation" target="#MiamiOH" weight="3020" />
+      <edge id="628" source="#Innovation" target="#Bioscience" weight="4530" />
+      <edge id="629" source="#Innovation" target="#Inventors" weight="1510" />
+      <edge id="630" source="#Innovation" target="#Probiotic" weight="1510" />
+      <edge id="631" source="#Innovation" target="#Research" weight="1510" />
+      <edge id="632" source="#Innovation" target="#Talent" weight="1510" />
+      <edge id="633" source="#Innovation" target="#Ohio" weight="3020" />
+      <edge id="634" source="#Research" target="#LabServices" weight="1510" />
+      <edge id="635" source="#Research" target="#Quality" weight="1510" />
+      <edge id="636" source="#Research" target="#Success" weight="1510" />
+      <edge id="637" source="#Research" target="#Talent" weight="1510" />
+      <edge id="638" source="#Research" target="#Ohio" weight="1510" />
+      <edge id="639" source="#Antitumor" target="#biotechnology" weight="1510" />
+      <edge id="640" source="#Antitumor" target="#Cancerous" weight="1510" />
+      <edge id="641" source="#leadership" target="#networking" weight="1510" />
+      <edge id="642" source="#leadership" target="#Ohio" weight="1510" />
+      <edge id="643" source="#LegalServices" target="#IPLaw" weight="1510" />
+      <edge id="644" source="#Communications" target="#Marketing" weight="1510" />
+      <edge id="645" source="#BioInYourBackyard" target="#MasonOHPartners" weight="1510" />
+      <edge id="646" source="#Agriculture" target="#Ohio" weight="1510" />
+      <edge id="647" source="#health" target="#startup" weight="1510" />
+      <edge id="648" source="#health" target="#Ohio" weight="1510" />
+      <edge id="649" source="#health" target="#Columbus" weight="1510" />
+      <edge id="650" source="#health" target="#wellness" weight="1510" />
+      <edge id="651" source="#genomics" target="#Ohio" weight="1510" />
+      <edge id="652" source="#women" target="#bioscience" weight="1510" />
+      <edge id="653" source="#chemicals" target="#MDMWest" weight="1510" />
+      <edge id="654" source="#chemicals" target="#lifescience" weight="1510" />
+      <edge id="655" source="#chemicals" target="#polymer" weight="1510" />
+      <edge id="656" source="#chemicals" target="#Ohio" weight="1510" />
+      <edge id="657" source="#cleveland" target="#networking" weight="1510" />
+      <edge id="658" source="#AcademicAwesome" target="#Ohio" weight="1510" />
+      <edge id="659" source="#Women" target="#Ohio" weight="1510" />
+      <edge id="660" source="#Women" target="#Bioscience" weight="1510" />
+      <edge id="661" source="#Women" target="#Pharma" weight="1510" />
+      <edge id="662" source="#aquaculture" target="#fish" weight="1510" />
+      <edge id="663" source="#aquaculture" target="#innovation" weight="1510" />
+      <edge id="664" source="#aquaculture" target="#sustainability" weight="1510" />
+      <edge id="665" source="#aquaculture" target="#Ohio" weight="1510" />
+      <edge id="666" source="#Cancer" target="#Prevention" weight="1510" />
+      <edge id="667" source="#innovator" target="#BioMotiv" weight="1510" />
+      <edge id="668" source="#innovator" target="#Ohio" weight="1510" />
+      <edge id="669" source="#accounting" target="#finance" weight="1510" />
+      <edge id="670" source="#Cancerous" target="#biotechnology" weight="1510" />
+      <edge id="671" source="#Education" target="#biology" weight="1510" />
+      <edge id="672" source="#Education" target="#chemistry" weight="1510" />
+      <edge id="673" source="#Education" target="#Bioscience" weight="1510" />
+      <edge id="674" source="#Education" target="#Ohio" weight="3020" />
+      <edge id="675" source="#Cleveland" target="#Medtech" weight="3020" />
+      <edge id="676" source="#Cleveland" target="#networking" weight="4530" />
+      <edge id="677" source="#Cleveland" target="#biomedicalCLE" weight="1510" />
+      <edge id="678" source="#Cleveland" target="#MedicalDevices" weight="3020" />
+      <edge id="679" source="#Cleveland" target="#entrepreneurs" weight="1510" />
+      <edge id="680" source="#Cleveland" target="#BlueAsh" weight="1510" />
+      <edge id="681" source="#Cleveland" target="#meddevice" weight="1510" />
+      <edge id="682" source="#Cleveland" target="#bioscience" weight="4530" />
+      <edge id="683" source="#Cleveland" target="#investment" weight="1510" />
+      <edge id="684" source="#Cleveland" target="#diabetes" weight="1510" />
+      <edge id="685" source="#Cleveland" target="#millenials" weight="1510" />
+      <edge id="686" source="#Cleveland" target="#bio" weight="1510" />
+      <edge id="687" source="#Cleveland" target="#crowdfunding" weight="1510" />
+      <edge id="688" source="#Cleveland" target="#Ohio" weight="30200" />
+      <edge id="689" source="#Cleveland" target="#micrOHscope" weight="3020" />
+      <edge id="690" source="#Cleveland" target="#Regulatory" weight="3020" />
+      <edge id="691" source="#Cleveland" target="#Columbus" weight="3020" />
+      <edge id="692" source="#Cleveland" target="#UDI" weight="1510" />
+      <edge id="693" source="#Cleveland" target="#FDA" weight="3020" />
+      <edge id="694" source="#Cleveland" target="#Mason" weight="1510" />
+      <edge id="695" source="#Cleveland" target="#SME" weight="1510" />
+      <edge id="696" source="#Cleveland" target="#China" weight="1510" />
+      <edge id="697" source="#Cleveland" target="#pain" weight="1510" />
+      <edge id="698" source="#Cleveland" target="#stemcells" weight="3020" />
+      <edge id="699" source="#Cleveland" target="#startups" weight="3020" />
+      <edge id="700" source="#Cleveland" target="#CEO" weight="1510" />
+      <edge id="701" source="#SME" target="#crowdfunding" weight="1510" />
+      <edge id="702" source="#Gases" target="#Manufacturing" weight="1510" />
+      <edge id="703" source="#AtriCure" target="#BioOhio" weight="1510" />
+      <edge id="704" source="#pain" target="#Ohio" weight="1510" />
+      <edge id="705" source="#CVS" target="#Omnicare" weight="1510" />
+      <edge id="706" source="#CVS" target="#Ohio" weight="1510" />
+      <edge id="707" source="#pipeline" target="#seniors" weight="1510" />
+      <edge id="708" source="#pipeline" target="#meds" weight="1510" />
+      <edge id="709" source="#pipeline" target="#MedsInDev" weight="1510" />
+      <edge id="710" source="#cbus" target="#SocialMedia" weight="1510" />
+      <edge id="711" source="#PeaceDay" target="#researchers" weight="1510" />
+      <edge id="712" source="#PeaceDay" target="#doctors" weight="1510" />
+      <edge id="713" source="#PeaceDay" target="#Ohio" weight="1510" />
+      <edge id="714" source="#data" target="#clinicaltrials" weight="1510" />
+      <edge id="715" source="#data" target="#clinicaltrial" weight="1510" />
+      <edge id="716" source="#data" target="#webinar" weight="1510" />
+      <edge id="717" source="#IntellirodSpine" target="#CerviLenz" weight="1510" />
+      <edge id="718" source="#IntellirodSpine" target="#medicaldevices" weight="1510" />
+      <edge id="719" source="#IntellirodSpine" target="#reimbursement" weight="1510" />
+      <edge id="720" source="#compliance" target="#medicaldevices" weight="1510" />
+      <edge id="721" source="#compliance" target="#Regulatory" weight="1510" />
+      <edge id="722" source="#compliance" target="#FDA" weight="1510" />
+      <edge id="723" source="#pharmaceutical" target="#medicaldevice" weight="1510" />
+      <edge id="724" source="#pharmaceutical" target="#Ohio" weight="3020" />
+      <edge id="725" source="#logistics" target="#distribution" weight="1510" />
+      <edge id="726" source="#fish" target="#innovation" weight="1510" />
+      <edge id="727" source="#fish" target="#sustainability" weight="1510" />
+      <edge id="728" source="#fish" target="#Ohio" weight="1510" />
+      <edge id="729" source="#orthopedics" target="#venturecapital" weight="1510" />
+      <edge id="730" source="#orthopedics" target="#innovation" weight="1510" />
+      <edge id="731" source="#orthopedics" target="#bio" weight="1510" />
+      <edge id="732" source="#orthopedics" target="#Ohio" weight="3020" />
+      <edge id="733" source="#Plastics" target="#Packaging" weight="1510" />
+      <edge id="734" source="#Patient" target="#Cryoanalgesia" weight="1510" />
+      <edge id="735" source="#MasonOH" target="#tech" weight="1510" />
+      <edge id="736" source="#MasonOH" target="#bio" weight="3020" />
+      <edge id="737" source="#MasonOH" target="#innovation" weight="1510" />
+      <edge id="738" source="#MasonOH" target="#GrandOpening" weight="1510" />
+      <edge id="739" source="#MasonOH" target="#Afib" weight="1510" />
+      <edge id="740" source="#Vivitrol" target="#Ohio" weight="1510" />
+      <edge id="741" source="#Vivitrol" target="#recovery" weight="1510" />
+      <edge id="742" source="#Vivitrol" target="#bioscience" weight="1510" />
+      <edge id="743" source="#Jobs" target="#Ohio" weight="12080" />
+      <edge id="744" source="#medicaldevice" target="#Medtech" weight="1510" />
+      <edge id="745" source="#medicaldevice" target="#startup" weight="4530" />
+      <edge id="746" source="#medicaldevice" target="#bio" weight="1510" />
+      <edge id="747" source="#medicaldevice" target="#Regulatory" weight="1510" />
+      <edge id="748" source="#medicaldevice" target="#FDA" weight="1510" />
+      <edge id="749" source="#medicaldevice" target="#Ohio" weight="7550" />
+      <edge id="750" source="#venturecapital" target="#innovation" weight="1510" />
+      <edge id="751" source="#venturecapital" target="#Ohio" weight="1510" />
+      <edge id="752" source="#womeninbio" target="#bioscience" weight="1510" />
+      <edge id="753" source="#womeninbio" target="#networking" weight="1510" />
+      <edge id="754" source="#womeninbio" target="#Ohio" weight="1510" />
+      <edge id="755" source="#America" target="#walk" weight="1510" />
+      <edge id="756" source="#America" target="#wow" weight="1510" />
+      <edge id="757" source="#Investment" target="#VentureOhio" weight="1510" />
+      <edge id="758" source="#MedicalTechnology" target="#DeviceTax" weight="1510" />
+      <edge id="759" source="#anxiety" target="#mentalheath" weight="1510" />
+      <edge id="760" source="#clinicaltrial" target="#research" weight="1510" />
+      <edge id="761" source="#clinicaltrial" target="#RettSyndrome" weight="1510" />
+      <edge id="762" source="#clinicaltrial" target="#Ohio" weight="3020" />
+      <edge id="763" source="#WashingtonDC" target="#Ohio" weight="1510" />
+      <edge id="764" source="#WashingtonDC" target="#biofuel" weight="1510" />
+      <edge id="765" source="#NEOhio" target="#equity" weight="1510" />
+      <edge id="766" source="#NEOhio" target="#biomedical" weight="4530" />
+      <edge id="767" source="#NEOhio" target="#bioscience" weight="1510" />
+      <edge id="768" source="#NEOhio" target="#Networking" weight="3020" />
+      <edge id="769" source="#NEOhio" target="#startups" weight="1510" />
+      <edge id="770" source="#research" target="#jobs" weight="1510" />
+      <edge id="771" source="#research" target="#education" weight="1510" />
+      <edge id="772" source="#research" target="#clinicaltrials" weight="1510" />
+      <edge id="773" source="#research" target="#smallbiz" weight="1510" />
+      <edge id="774" source="#research" target="#bioscience" weight="1510" />
+      <edge id="775" source="#research" target="#employment" weight="1510" />
+      <edge id="776" source="#research" target="#Dayton" weight="3020" />
+      <edge id="777" source="#research" target="#webinar" weight="1510" />
+      <edge id="778" source="#research" target="#discovery" weight="1510" />
+      <edge id="779" source="#research" target="#science" weight="3020" />
+      <edge id="780" source="#research" target="#cancer" weight="3020" />
+      <edge id="781" source="#research" target="#creativity" weight="1510" />
+      <edge id="782" source="#research" target="#Ohio" weight="21140" />
+      <edge id="783" source="#research" target="#startups" weight="1510" />
+      <edge id="784" source="#research" target="#diseases" weight="1510" />
+      <edge id="785" source="#research" target="#CysticFibrosis" weight="1510" />
+      <edge id="786" source="#research" target="#oncology" weight="1510" />
+      <edge id="787" source="#research" target="#bio" weight="1510" />
+      <edge id="788" source="#Advocacy" target="#Ohio" weight="1510" />
+      <edge id="789" source="#hepatocyte" target="#stemcells" weight="1510" />
+      <edge id="790" source="#Patents" target="#IPLaw" weight="1510" />
+      <edge id="791" source="#lifesciences" target="#Ohio" weight="1510" />
+      <edge id="792" source="#lifesciences" target="#Pharma" weight="1510" />
+      <edge id="793" source="#Mentoring" target="#Careers" weight="1510" />
+      <edge id="794" source="#Firefighters" target="#biomarkers" weight="1510" />
+      <edge id="795" source="#mentalhealth" target="#personalizedmedicine" weight="1510" />
+      <edge id="796" source="#mentalhealth" target="#veterans" weight="1510" />
+      <edge id="797" source="#mentalhealth" target="#PTSD" weight="1510" />
+      <edge id="798" source="#pediatric" target="#cancer" weight="3020" />
+      <edge id="799" source="#pediatric" target="#innovation" weight="1510" />
+      <edge id="800" source="#pediatric" target="#Columbus" weight="1510" />
+      <edge id="801" source="#pediatric" target="#micrOHscope" weight="1510" />
+      <edge id="802" source="#pediatric" target="#Ohio" weight="4530" />
+      <edge id="803" source="#Midwest" target="#tech" weight="1510" />
+      <edge id="804" source="#CRO" target="#clinicaltrials" weight="1510" />
+      <edge id="805" source="#CRO" target="#Ohio" weight="3020" />
+      <edge id="806" source="#lifescience" target="#laboratory" weight="1510" />
+      <edge id="807" source="#lifescience" target="#polymer" weight="1510" />
+      <edge id="808" source="#lifescience" target="#MDMWest" weight="1510" />
+      <edge id="809" source="#lifescience" target="#healthcare" weight="1510" />
+      <edge id="810" source="#lifescience" target="#reimbursement" weight="1510" />
+      <edge id="811" source="#lifescience" target="#startups" weight="1510" />
+      <edge id="812" source="#lifescience" target="#Ohio" weight="1510" />
+      <edge id="813" source="#entrepreneurship" target="#startups" weight="1510" />
+      <edge id="814" source="#Japan" target="#Ohio" weight="3020" />
+      <edge id="815" source="#LifeSciences" target="#webinar" weight="1510" />
+      <edge id="816" source="#meds" target="#seniors" weight="1510" />
+      <edge id="817" source="#meds" target="#MedsInDev" weight="1510" />
+      <edge id="818" source="#510k" target="#FDA" weight="1510" />
+      <edge id="819" source="#510k" target="#Regulatory" weight="1510" />
+      <edge id="820" source="#foodsafety" target="#Ohio" weight="1510" />
+      <edge id="821" source="#LifeScience" target="#financing" weight="1510" />
+      <edge id="822" source="#biohealth" target="#innovation" weight="4530" />
+      <edge id="823" source="#biohealth" target="#BIO2016" weight="6040" />
+      <edge id="824" source="#biohealth" target="#Ohio" weight="10570" />
+      <edge id="825" source="#commercialization" target="#startup" weight="1510" />
+      <edge id="826" source="#recovery" target="#Ohio" weight="1510" />
+      <edge id="827" source="#RepealDeviceTax" target="#4repeal" weight="1510" />
+      <edge id="828" source="#RepealDeviceTax" target="#innovation" weight="1510" />
+      <edge id="829" source="#RepealDeviceTax" target="#bipartisan" weight="1510" />
+      <edge id="830" source="#MDMWest" target="#manufacturing" weight="1510" />
+      <edge id="831" source="#MDMWest" target="#Ohio" weight="12080" />
+      <edge id="832" source="#MDMWest" target="#polymer" weight="1510" />
+      <edge id="833" source="#Millennials" target="#Talent" weight="1510" />
+      <edge id="834" source="#Millennials" target="#Columbus" weight="1510" />
+      <edge id="835" source="#glutenfree" target="#Ohio" weight="1510" />
+      <edge id="836" source="#BIO2016" target="#concussion" weight="1510" />
+      <edge id="837" source="#BIO2016" target="#BrainHealth" weight="1510" />
+      <edge id="838" source="#BIO2016" target="#WillSmith" weight="1510" />
+      <edge id="839" source="#BIO2016" target="#science" weight="1510" />
+      <edge id="840" source="#BIO2016" target="#DigitalHealth" weight="1510" />
+      <edge id="841" source="#BIO2016" target="#innovation" weight="4530" />
+      <edge id="842" source="#BIO2016" target="#Ohio" weight="10570" />
+      <edge id="843" source="#Technician" target="#Ohio" weight="1510" />
+      <edge id="844" source="#Technician" target="#jobs" weight="1510" />
+      <edge id="845" source="#BrainHealth" target="#WillSmith" weight="1510" />
+      <edge id="846" source="#elastomer" target="#quality" weight="1510" />
+      <edge id="847" source="#elastomer" target="#Ohio" weight="1510" />
+      <edge id="848" source="#Mason" target="#BlueAsh" weight="1510" />
+      <edge id="849" source="#Mason" target="#Columbus" weight="1510" />
+      <edge id="850" source="#Mason" target="#Ohio" weight="3020" />
+      <edge id="851" source="#Pifconf2014" target="#bioscience" weight="1510" />
+      <edge id="852" source="#Pifconf2014" target="#healthcare" weight="1510" />
+      <edge id="853" source="#Congrats" target="#micrOHscope" weight="1510" />
+      <edge id="854" source="#mfg" target="#Ohio" weight="1510" />
+      <edge id="855" source="#medicaldevicetax" target="#Ohio" weight="1510" />
+      <edge id="856" source="#students" target="#educators" weight="1510" />
+      <edge id="857" source="#students" target="#science" weight="3020" />
+      <edge id="858" source="#students" target="#competition" weight="1510" />
+      <edge id="859" source="#students" target="#Ohio" weight="6040" />
+      <edge id="860" source="#Reynoldsburg" target="#highschool" weight="1510" />
+      <edge id="861" source="#Reynoldsburg" target="#Ohio" weight="1510" />
+      <edge id="862" source="#biomedical" target="#Networking" weight="1510" />
+      <edge id="863" source="#biomedical" target="#engineering" weight="1510" />
+      <edge id="864" source="#biomedical" target="#equity" weight="1510" />
+      <edge id="865" source="#biomedical" target="#startups" weight="1510" />
+      <edge id="866" source="#biomedical" target="#networking" weight="1510" />
+      <edge id="867" source="#biomedical" target="#Ohio" weight="1510" />
+      <edge id="868" source="#electronics" target="#manufacturing" weight="1510" />
+      <edge id="869" source="#electronics" target="#jobs" weight="1510" />
+      <edge id="870" source="#electronics" target="#Ohio" weight="3020" />
+      <edge id="871" source="#regulatory" target="#meddevice" weight="1510" />
+      <edge id="872" source="#regulatory" target="#bioscience" weight="1510" />
+      <edge id="873" source="#bigdata" target="#bioscience" weight="1510" />
+      <edge id="874" source="#bigdata" target="#healthcare" weight="3020" />
+      <edge id="875" source="#bigdata" target="#Ohio" weight="3020" />
+      <edge id="876" source="#innovation" target="#bioscience" weight="1510" />
+      <edge id="877" source="#innovation" target="#Ohio" weight="21140" />
+      <edge id="878" source="#innovation" target="#bipartisan" weight="1510" />
+      <edge id="879" source="#innovation" target="#science" weight="1510" />
+      <edge id="880" source="#innovation" target="#micrOHscope" weight="1510" />
+      <edge id="881" source="#innovation" target="#Columbus" weight="1510" />
+      <edge id="882" source="#innovation" target="#design" weight="1510" />
+      <edge id="883" source="#innovation" target="#Engineering" weight="1510" />
+      <edge id="884" source="#innovation" target="#Afib" weight="1510" />
+      <edge id="885" source="#innovation" target="#sustainability" weight="3020" />
+      <edge id="886" source="#innovation" target="#tech" weight="1510" />
+      <edge id="887" source="#innovation" target="#Healthcare" weight="1510" />
+      <edge id="888" source="#innovation" target="#bio" weight="1510" />
+      <edge id="889" source="#NICU" target="#babies" weight="1510" />
+      <edge id="890" source="#ASG" target="#Ohio" weight="1510" />
+      <edge id="891" source="#LabServices" target="#Quality" weight="1510" />
+      <edge id="892" source="#LabServices" target="#DataManagement" weight="1510" />
+      <edge id="893" source="#Pittcon" target="#startup" weight="1510" />
+      <edge id="894" source="#Pittcon" target="#Ohio" weight="1510" />
+      <edge id="895" source="#startup" target="#funding" weight="3020" />
+      <edge id="896" source="#startup" target="#investment" weight="1510" />
+      <edge id="897" source="#startup" target="#Columbus" weight="1510" />
+      <edge id="898" source="#startup" target="#congress" weight="1510" />
+      <edge id="899" source="#startup" target="#bio" weight="1510" />
+      <edge id="900" source="#startup" target="#infection" weight="1510" />
+      <edge id="901" source="#startup" target="#digitalhealth" weight="1510" />
+      <edge id="902" source="#startup" target="#Dayton" weight="1510" />
+      <edge id="903" source="#startup" target="#fitness" weight="1510" />
+      <edge id="904" source="#startup" target="#Ohio" weight="19630" />
+      <edge id="905" source="#startup" target="#FDA" weight="1510" />
+      <edge id="906" source="#biofuel" target="#Ohio" weight="1510" />
+      <edge id="907" source="#MCMid" target="#Healthcare" weight="1510" />
+      <edge id="908" source="#toxicology" target="#ZikaVirus" weight="1510" />
+      <edge id="909" source="#toxicology" target="#Ohio" weight="1510" />
+      <edge id="910" source="#Engineering" target="#Healthcare" weight="1510" />
+      <edge id="911" source="#Engineering" target="#Ohio" weight="1510" />
+      <edge id="912" source="#Medtech" target="#Networking" weight="6040" />
+      <edge id="913" source="#Medtech" target="#jobs" weight="1510" />
+      <edge id="914" source="#Medtech" target="#medicaldevices" weight="1510" />
+      <edge id="915" source="#Medtech" target="#3DPrinting" weight="3020" />
+      <edge id="916" source="#Medtech" target="#MedicalDeviceTax" weight="1510" />
+      <edge id="917" source="#Medtech" target="#MedicalDevices" weight="3020" />
+      <edge id="918" source="#Medtech" target="#Regulatory" weight="4530" />
+      <edge id="919" source="#Medtech" target="#Ohio" weight="9060" />
+      <edge id="920" source="#Medtech" target="#FDA" weight="3020" />
+      <edge id="921" source="#Medtech" target="#Pharma" weight="6040" />
+      <edge id="922" source="#fluorometer" target="#PHYCOCYANIN" weight="1510" />
+      <edge id="923" source="#awesome" target="#rareopportunity" weight="1510" />
+      <edge id="924" source="#cincy" target="#science" weight="1510" />
+      <edge id="925" source="#cincy" target="#Ohio" weight="1510" />
+      <edge id="926" source="#CerviLenz" target="#medicaldevices" weight="1510" />
+      <edge id="927" source="#CerviLenz" target="#reimbursement" weight="1510" />
+      <edge id="928" source="#surgery" target="#simulation" weight="1510" />
+      <edge id="929" source="#entrepreneurs" target="#investment" weight="1510" />
+      <edge id="930" source="#entrepreneurs" target="#startups" weight="1510" />
+      <edge id="931" source="#entrepreneurs" target="#Ohio" weight="3020" />
+      <edge id="932" source="#Pipeline" target="#MedsInDev" weight="1510" />
+      <edge id="933" source="#Therapeutics" target="#Biotech" weight="1510" />
+      <edge id="934" source="#breastcancer" target="#micrOHscope" weight="1510" />
+      <edge id="935" source="#drugs" target="#medical" weight="1510" />
+      <edge id="936" source="#drugs" target="#vaccines" weight="1510" />
+      <edge id="937" source="#discovery" target="#education" weight="1510" />
+      <edge id="938" source="#discovery" target="#Ohio" weight="1510" />
+      <edge id="939" source="#millenials" target="#Ohio" weight="1510" />
+      <edge id="940" source="#Entrepreneurs" target="#Ohio" weight="1510" />
+      <edge id="941" source="#Chicago" target="#AdvaMed2014" weight="1510" />
+      <edge id="942" source="#Chicago" target="#Ohio" weight="1510" />
+      <edge id="943" source="#Sterilization" target="#Packaging" weight="1510" />
+      <edge id="944" source="#WEF" target="#Davos" weight="1510" />
+      <edge id="945" source="#OHinnovation" target="#micrOHscope" weight="1510" />
+      <edge id="946" source="#app" target="#healthcare" weight="1510" />
+      <edge id="947" source="#app" target="#FDA" weight="1510" />
+      <edge id="948" source="#app" target="#webinar" weight="1510" />
+      <edge id="949" source="#biochemistry" target="#Ohio" weight="1510" />
+      <edge id="950" source="#AdvaMed2014" target="#Ohio" weight="1510" />
+      <edge id="951" source="#legislators" target="#Ohio" weight="1510" />
+      <edge id="952" source="#microbiology" target="#enzymes" weight="1510" />
+      <edge id="953" source="#microbiology" target="#medicaldevices" weight="3020" />
+      <edge id="954" source="#workforce" target="#education" weight="1510" />
+      <edge id="955" source="#workforce" target="#jobs" weight="1510" />
+      <edge id="956" source="#workforce" target="#Ohio" weight="1510" />
+      <edge id="957" source="#clinicaltrials" target="#bio" weight="3020" />
+      <edge id="958" source="#clinicaltrials" target="#Ohio" weight="7550" />
+      <edge id="959" source="#GoRed" target="#prevention" weight="1510" />
+      <edge id="960" source="#collaboration" target="#bio2015" weight="1510" />
+      <edge id="961" source="#nonprofits" target="#fundraising" weight="1510" />
+      <edge id="962" source="#nonprofits" target="#Ohio" weight="1510" />
+      <edge id="963" source="#Healthcare" target="#HealthIT" weight="3020" />
+      <edge id="964" source="#Healthcare" target="#Ohio" weight="1510" />
+      <edge id="965" source="#Cybersecurity" target="#Ohio" weight="1510" />
+      <edge id="966" source="#reimbursement" target="#medicaldevices" weight="1510" />
+      <edge id="967" source="#reimbursement" target="#startups" weight="1510" />
+      <edge id="968" source="#OH" target="#BioOhio" weight="1510" />
+      <edge id="969" source="#CincyBio" target="#patents" weight="1510" />
+      <edge id="970" source="#CincyBio" target="#Ohio" weight="1510" />
+      <edge id="971" source="#Finance" target="#Ohio" weight="1510" />
+      <edge id="972" source="#PTSD" target="#veterans" weight="1510" />
+      <edge id="973" source="#MedicalDeviceTax" target="#jobs" weight="1510" />
+      <edge id="974" source="#MedicalDeviceTax" target="#manufacturing" weight="1510" />
+      <edge id="975" source="#MedicalDeviceTax" target="#Ohio" weight="4530" />
+      <edge id="976" source="#teachers" target="#educators" weight="1510" />
+      <edge id="977" source="#teachers" target="#science" weight="1510" />
+      <edge id="978" source="#teachers" target="#Ohio" weight="1510" />
+      <edge id="979" source="#3Dprinted" target="#OhioBioExpo" weight="1510" />
+      <edge id="980" source="#3Dprinted" target="#Ohio" weight="1510" />
+      <edge id="981" source="#Washington" target="#Ohio" weight="1510" />
+      <edge id="982" source="#cardiology" target="#education" weight="1510" />
+      <edge id="983" source="#cardiology" target="#medical" weight="1510" />
+      <edge id="984" source="#cardiology" target="#Ohio" weight="1510" />
+      <edge id="985" source="#financing" target="#Ohio" weight="1510" />
+      <edge id="986" source="#fitness" target="#Ohio" weight="1510" />
+      <edge id="987" source="#ca" target="#micrOHscope" weight="1510" />
+      <edge id="988" source="#micrOHscope" target="#Solon" weight="1510" />
+      <edge id="989" source="#micrOHscope" target="#Ohio" weight="6040" />
+      <edge id="990" source="#Pharma" target="#Networking" weight="6040" />
+      <edge id="991" source="#Pharma" target="#jobs" weight="6040" />
+      <edge id="992" source="#Pharma" target="#startups" weight="1510" />
+      <edge id="993" source="#Pharma" target="#Regulatory" weight="1510" />
+      <edge id="994" source="#Pharma" target="#Bioscience" weight="1510" />
+      <edge id="995" source="#Pharma" target="#bio" weight="1510" />
+      <edge id="996" source="#Pharma" target="#Ohio" weight="13590" />
+      <edge id="997" source="#HealthIT" target="#Ohio" weight="7550" />
+      <edge id="998" source="#Chemicals" target="#Additives" weight="1510" />
+      <edge id="999" source="#Chemicals" target="#Reagents" weight="1510" />
+      <edge id="1000" source="#seniors" target="#MedsInDev" weight="1510" />
+      <edge id="1001" source="#agribusiness" target="#agbio" weight="1510" />
+      <edge id="1002" source="#agribusiness" target="#maumee" weight="1510" />
+      <edge id="1003" source="#agribusiness" target="#Ohio" weight="1510" />
+      <edge id="1004" source="#Ebola" target="#ZMapp" weight="1510" />
+      <edge id="1005" source="#Ebola" target="#bioscience" weight="1510" />
+      <edge id="1006" source="#Ebola" target="#Africa" weight="1510" />
+      <edge id="1007" source="#Ebola" target="#Ohio" weight="4530" />
+      <edge id="1008" source="#CleanRooms" target="#Manufacturing" weight="1510" />
+      <edge id="1009" source="#Silicone" target="#Formulations" weight="1510" />
+      <edge id="1010" source="#JohnLewis" target="#meddevice" weight="1510" />
+      <edge id="1011" source="#JohnLewis" target="#DougBoyd" weight="1510" />
+      <edge id="1012" source="#JohnLewis" target="#FDA" weight="1510" />
+      <edge id="1013" source="#DougBoyd" target="#FDA" weight="1510" />
+      <edge id="1014" source="#DougBoyd" target="#meddevice" weight="1510" />
+      <edge id="1015" source="#CysticFibrosis" target="#Ohio" weight="1510" />
+      <edge id="1016" source="#BioMotiv" target="#Ohio" weight="1510" />
+      <edge id="1017" source="#vaccines" target="#medical" weight="1510" />
+      <edge id="1018" source="#highschool" target="#Ohio" weight="1510" />
+      <edge id="1019" source="#asthma" target="#Ohio" weight="1510" />
+      <edge id="1020" source="#jobs" target="#employment" weight="1510" />
+      <edge id="1021" source="#jobs" target="#Dayton" weight="4530" />
+      <edge id="1022" source="#jobs" target="#science" weight="1510" />
+      <edge id="1023" source="#jobs" target="#Bioscience" weight="1510" />
+      <edge id="1024" source="#jobs" target="#Pharmaceutical" weight="4530" />
+      <edge id="1025" source="#jobs" target="#Ohio" weight="30200" />
+      <edge id="1026" source="#jobs" target="#education" weight="3020" />
+      <edge id="1027" source="#jobs" target="#healthcare" weight="1510" />
+      <edge id="1028" source="#jobs" target="#Columbus" weight="3020" />
+      <edge id="1029" source="#jobs" target="#Career" weight="1510" />
+      <edge id="1030" source="#jobs" target="#Biotech" weight="1510" />
+      <edge id="1031" source="#jobs" target="#bio" weight="7550" />
+      <edge id="1032" source="#jobs" target="#manufacturing" weight="4530" />
+      <edge id="1033" source="#Prototyping" target="#ProductDevelopment" weight="1510" />
+      <edge id="1034" source="#investor" target="#NHLBIShowcase" weight="1510" />
+      <edge id="1035" source="#investor" target="#smallbiz" weight="1510" />
+      <edge id="1036" source="#MHVF" target="#funding" weight="1510" />
+      <edge id="1037" source="#MHVF" target="#startups" weight="1510" />
+      <edge id="1038" source="#science" target="#concussion" weight="1510" />
+      <edge id="1039" source="#science" target="#educators" weight="3020" />
+      <edge id="1040" source="#science" target="#cancer" weight="1510" />
+      <edge id="1041" source="#science" target="#Ohio" weight="15100" />
+      <edge id="1042" source="#researchers" target="#doctors" weight="1510" />
+      <edge id="1043" source="#researchers" target="#Ohio" weight="1510" />
+      <edge id="1044" source="#Toledo" target="#networking" weight="1510" />
+      <edge id="1045" source="#Toledo" target="#Ohio" weight="3020" />
+      <edge id="1046" source="#PhRMA14" target="#BioOhio" weight="1510" />
+      <edge id="1047" source="#walk" target="#wow" weight="1510" />
+      <edge id="1048" source="#Crowdfunding" target="#startups" weight="1510" />
+      <edge id="1049" source="#Crowdfunding" target="#Mansfield" weight="1510" />
+      <edge id="1050" source="#Crowdfunding" target="#Ohio" weight="1510" />
+      <edge id="1051" source="#Talent" target="#Success" weight="1510" />
+      <edge id="1052" source="#Talent" target="#MasonLovesBio" weight="1510" />
+      <edge id="1053" source="#HeartHealth" target="#FDA" weight="1510" />
+      <edge id="1054" source="#HeartHealth" target="#Ohio" weight="1510" />
+      <edge id="1055" source="#UDI" target="#Ohio" weight="1510" />
+      <edge id="1056" source="#chemistry" target="#biology" weight="1510" />
+      <edge id="1057" source="#chemistry" target="#Ohio" weight="1510" />
+      <edge id="1058" source="#OH16" target="#OHGOP" weight="1510" />
+      <edge id="1059" source="#CEO" target="#Ohio" weight="1510" />
+      <edge id="1060" source="#fda" target="#bio" weight="3020" />
+      <edge id="1061" source="#fda" target="#networking" weight="1510" />
+      <edge id="1062" source="#fda" target="#Ohio" weight="3020" />
+      <edge id="1063" source="#BioOhio" target="#Amylin" weight="1510" />
+      <edge id="1064" source="#BioOhio" target="#CLE" weight="1510" />
+      <edge id="1065" source="#BioOhio" target="#Ohio" weight="4530" />
+      <edge id="1066" source="#MedicalDevices" target="#FDA" weight="3020" />
+      <edge id="1067" source="#MedicalDevices" target="#Regulatory" weight="3020" />
+      <edge id="1068" source="#MiamiOH" target="#Bioscience" weight="3020" />
+      <edge id="1069" source="#Additive" target="#Manufacturing" weight="1510" />
+      <edge id="1070" source="#Additive" target="#FDA" weight="1510" />
+      <edge id="1071" source="#Dayton" target="#education" weight="1510" />
+      <edge id="1072" source="#Dayton" target="#funding" weight="1510" />
+      <edge id="1073" source="#Dayton" target="#manufacturing" weight="1510" />
+      <edge id="1074" source="#Dayton" target="#smallbiz" weight="1510" />
+      <edge id="1075" source="#Dayton" target="#bio" weight="1510" />
+      <edge id="1076" source="#Dayton" target="#cancer" weight="1510" />
+      <edge id="1077" source="#Dayton" target="#healthcare" weight="1510" />
+      <edge id="1078" source="#Dayton" target="#Ohio" weight="12080" />
+      <edge id="1079" source="#cancer" target="#Ohio" weight="6040" />
+      <edge id="1080" source="#creativity" target="#Ohio" weight="1510" />
+      <edge id="1081" source="#STTR" target="#NSF" weight="1510" />
+      <edge id="1082" source="#STTR" target="#funding" weight="1510" />
+      <edge id="1083" source="#STTR" target="#DOD" weight="1510" />
+      <edge id="1084" source="#job" target="#Ohio" weight="1510" />
+      <edge id="1085" source="#manufacturing" target="#30Under30" weight="1510" />
+      <edge id="1086" source="#manufacturing" target="#bio" weight="1510" />
+      <edge id="1087" source="#manufacturing" target="#Ohio" weight="15100" />
+      <edge id="1088" source="#dayton" target="#Ohio" weight="1510" />
+      <edge id="1089" source="#diseases" target="#Ohio" weight="1510" />
+      <edge id="1090" source="#Additives" target="#Reagents" weight="1510" />
+      <edge id="1091" source="#farming" target="#Ohio" weight="1510" />
+      <edge id="1092" source="#sustainability" target="#design" weight="1510" />
+      <edge id="1093" source="#sustainability" target="#Ohio" weight="4530" />
+      <edge id="1094" source="#TheMemorialTournament" target="#BIOKoozieRoadTrip" weight="1510" />
+      <edge id="1095" source="#MedsInDev" target="#MentalHealth" weight="1510" />
+      <edge id="1096" source="#technology" target="#diversity" weight="1510" />
+      <edge id="1097" source="#technology" target="#Ohio" weight="1510" />
+      <edge id="1098" source="#bioscience" target="#networking" weight="6040" />
+      <edge id="1099" source="#bioscience" target="#BIOKoozieRoadTrip" weight="1510" />
+      <edge id="1100" source="#bioscience" target="#OSU" weight="1510" />
+      <edge id="1101" source="#bioscience" target="#bio" weight="1510" />
+      <edge id="1102" source="#bioscience" target="#Ohio" weight="46810" />
+      <edge id="1103" source="#bioscience" target="#healthcare" weight="3020" />
+      <edge id="1104" source="#bioscience" target="#Columbus" weight="1510" />
+      <edge id="1105" source="#bioscience" target="#startups" weight="1510" />
+      <edge id="1106" source="#bioscience" target="#Networking" weight="3020" />
+      <edge id="1107" source="#bioscience" target="#MiamiBioCon" weight="1510" />
+      <edge id="1108" source="#investment" target="#bio" weight="1510" />
+      <edge id="1109" source="#investment" target="#startups" weight="3020" />
+      <edge id="1110" source="#investment" target="#Ohio" weight="4530" />
+      <edge id="1111" source="#soy" target="#agbio" weight="1510" />
+      <edge id="1112" source="#NSF" target="#DOD" weight="1510" />
+      <edge id="1113" source="#Mansfield" target="#startups" weight="1510" />
+      <edge id="1114" source="#Mansfield" target="#Ohio" weight="1510" />
+      <edge id="1115" source="#WhatIf" target="#Ohio" weight="1510" />
+      <edge id="1116" source="#NHLBIShowcase" target="#smallbiz" weight="1510" />
+      <edge id="1117" source="#infection" target="#Ohio" weight="1510" />
+      <edge id="1118" source="#agbio" target="#maumee" weight="1510" />
+      <edge id="1119" source="#agbio" target="#OhioBioExpo" weight="1510" />
+      <edge id="1120" source="#agbio" target="#Ohio" weight="3020" />
+      <edge id="1121" source="#Bioscience" target="#education" weight="1510" />
+      <edge id="1122" source="#Bioscience" target="#Career" weight="1510" />
+      <edge id="1123" source="#Bioscience" target="#networking" weight="1510" />
+      <edge id="1124" source="#Bioscience" target="#bio" weight="1510" />
+      <edge id="1125" source="#Bioscience" target="#Networking" weight="1510" />
+      <edge id="1126" source="#Bioscience" target="#Columbus" weight="1510" />
+      <edge id="1127" source="#Bioscience" target="#Ohio" weight="19630" />
+      <edge id="1128" source="#biology" target="#Ohio" weight="1510" />
+      <edge id="1129" source="#newborn" target="#Ohio" weight="1510" />
+      <edge id="1130" source="#Career" target="#Ohio" weight="1510" />
+      <edge id="1131" source="#medicaldevices" target="#Regulatory" weight="1510" />
+      <edge id="1132" source="#medicaldevices" target="#FDA" weight="1510" />
+      <edge id="1133" source="#Regulatory" target="#Ohio" weight="3020" />
+      <edge id="1134" source="#Regulatory" target="#networking" weight="1510" />
+      <edge id="1135" source="#Regulatory" target="#Networking" weight="3020" />
+      <edge id="1136" source="#Regulatory" target="#warningletters" weight="1510" />
+      <edge id="1137" source="#Regulatory" target="#Columbus" weight="3020" />
+      <edge id="1138" source="#Regulatory" target="#FDA" weight="7550" />
+      <edge id="1139" source="#finance" target="#Ohio" weight="1510" />
+      <edge id="1140" source="#finance" target="#funding" weight="1510" />
+      <edge id="1141" source="#finance" target="#bio" weight="1510" />
+      <edge id="1142" source="#funding" target="#Ohio" weight="4530" />
+      <edge id="1143" source="#funding" target="#bio" weight="1510" />
+      <edge id="1144" source="#funding" target="#startups" weight="4530" />
+      <edge id="1145" source="#polymer" target="#Ohio" weight="1510" />
+      <edge id="1146" source="#meddevice" target="#FDA" weight="3020" />
+      <edge id="1147" source="#startups" target="#Ohio" weight="19630" />
+      <edge id="1148" source="#startups" target="#bio" weight="6040" />
+      <edge id="1149" source="#startups" target="#equity" weight="1510" />
+      <edge id="1150" source="#startups" target="#tech" weight="1510" />
+      <edge id="1151" source="#Afib" target="#bio" weight="1510" />
+      <edge id="1152" source="#Afib" target="#Ohio" weight="1510" />
+      <edge id="1153" source="#smallbiz" target="#Ohio" weight="1510" />
+      <edge id="1154" source="#Validation" target="#Quality" weight="1510" />
+      <edge id="1155" source="#Africa" target="#Ohio" weight="1510" />
+      <edge id="1156" source="#webinar" target="#marketing" weight="3020" />
+      <edge id="1157" source="#webinar" target="#medical" weight="1510" />
+      <edge id="1158" source="#webinar" target="#bio" weight="1510" />
+      <edge id="1159" source="#webinar" target="#healthcare" weight="1510" />
+      <edge id="1160" source="#webinar" target="#branding" weight="3020" />
+      <edge id="1161" source="#webinar" target="#FDA" weight="1510" />
+      <edge id="1162" source="#webinar" target="#Ohio" weight="1510" />
+      <edge id="1163" source="#3DPrinting" target="#Manufacturing" weight="1510" />
+      <edge id="1164" source="#cure" target="#healthcare" weight="1510" />
+      <edge id="1165" source="#diversity" target="#Ohio" weight="1510" />
+      <edge id="1166" source="#warningletters" target="#FDA" weight="1510" />
+      <edge id="1167" source="#networking" target="#bio" weight="6040" />
+      <edge id="1168" source="#networking" target="#Columbus" weight="4530" />
+      <edge id="1169" source="#networking" target="#Ohio" weight="33220" />
+      <edge id="1170" source="#FDA" target="#Sanfilippo" weight="1510" />
+      <edge id="1171" source="#FDA" target="#Ohio" weight="4530" />
+      <edge id="1172" source="#FDA" target="#RareDiseaseDay" weight="1510" />
+      <edge id="1173" source="#FDA" target="#Manufacturing" weight="1510" />
+      <edge id="1174" source="#FDA" target="#healthcare" weight="1510" />
+      <edge id="1175" source="#Biotech" target="#Ohio" weight="1510" />
+      <edge id="1176" source="#China" target="#Ohio" weight="1510" />
+      <edge id="1177" source="#ZikaVirus" target="#Ohio" weight="1510" />
+      <edge id="1178" source="#ionchannels" target="#cysticfibrosis" weight="1510" />
+      <edge id="1179" source="#RareDiseaseDay" target="#Sanfilippo" weight="1510" />
+      <edge id="1180" source="#Manufacturing" target="#Machining" weight="1510" />
+      <edge id="1181" source="#Manufacturing" target="#Ohio" weight="1510" />
+      <edge id="1182" source="#design" target="#Ohio" weight="1510" />
+      <edge id="1183" source="#MiamiBioCon" target="#Ohio" weight="1510" />
+      <edge id="1184" source="#laboratory" target="#healthcare" weight="1510" />
+      <edge id="1185" source="#RettSyndrome" target="#Ohio" weight="1510" />
+      <edge id="1186" source="#MBA" target="#healthcare" weight="1510" />
+      <edge id="1187" source="#MBA" target="#Ohio" weight="1510" />
+      <edge id="1188" source="#fundraising" target="#Ohio" weight="1510" />
+      <edge id="1189" source="#Ohio" target="#maumee" weight="1510" />
+      <edge id="1190" source="#Ohio" target="#Pharmaceutical" weight="6040" />
+      <edge id="1191" source="#Ohio" target="#30Under30" weight="1510" />
+      <edge id="1192" source="#Ohio" target="#Networking" weight="6040" />
+      <edge id="1193" source="#Ohio" target="#doctors" weight="1510" />
+      <edge id="1194" source="#Ohio" target="#ALS" weight="1510" />
+      <edge id="1195" source="#Ohio" target="#healthcare" weight="9060" />
+      <edge id="1196" source="#Ohio" target="#Ohio" weight="24160" />
+      <edge id="1197" source="#Ohio" target="#quality" weight="1510" />
+      <edge id="1198" source="#Ohio" target="#OSU" weight="1510" />
+      <edge id="1199" source="#Ohio" target="#digitalhealth" weight="3020" />
+      <edge id="1200" source="#Ohio" target="#Procurement" weight="1510" />
+      <edge id="1201" source="#Ohio" target="#education" weight="12080" />
+      <edge id="1202" source="#Ohio" target="#Quality" weight="1510" />
+      <edge id="1203" source="#Ohio" target="#OhioBioExpo" weight="1510" />
+      <edge id="1204" source="#Ohio" target="#BlueAsh" weight="1510" />
+      <edge id="1205" source="#Ohio" target="#stemcells" weight="3020" />
+      <edge id="1206" source="#Ohio" target="#tech" weight="3020" />
+      <edge id="1207" source="#Ohio" target="#congress" weight="1510" />
+      <edge id="1208" source="#Ohio" target="#Sanfilippo" weight="1510" />
+      <edge id="1209" source="#Ohio" target="#Omnicare" weight="1510" />
+      <edge id="1210" source="#Ohio" target="#bio" weight="64930" />
+      <edge id="1211" source="#Ohio" target="#patents" weight="1510" />
+      <edge id="1212" source="#Ohio" target="#Columbus" weight="22650" />
+      <edge id="1213" source="#Ohio" target="#Biomimicry" weight="1510" />
+      <edge id="1214" source="#Ohio" target="#Philadelphia" weight="1510" />
+      <edge id="1215" source="#Ohio" target="#educators" weight="3020" />
+      <edge id="1216" source="#stemcells" target="#Columbus" weight="1510" />
+      <edge id="1217" source="#tech" target="#bio" weight="4530" />
+      <edge id="1218" source="#Networking" target="#Columbus" weight="1510" />
+      <edge id="1219" source="#education" target="#medical" weight="1510" />
+      <edge id="1220" source="#education" target="#bio" weight="1510" />
+      <edge id="1221" source="#education" target="#healthcare" weight="1510" />
+      <edge id="1222" source="#BlueAsh" target="#Columbus" weight="1510" />
+      <edge id="1223" source="#Insurance" target="#RiskManagement" weight="1510" />
+      <edge id="1224" source="#bio" target="#Pharmaceutical" weight="3020" />
+      <edge id="1225" source="#bio" target="#Columbus" weight="3020" />
+      <edge id="1226" source="#bio" target="#Biomimicry" weight="1510" />
+      <edge id="1227" source="#Pharmaceutical" target="#Columbus" weight="3020" />
+      <edge id="1228" source="#marketing" target="#branding" weight="3020" />
+    </edges>
+  </graph>
+</gexf>

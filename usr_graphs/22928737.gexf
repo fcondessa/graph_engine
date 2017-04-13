@@ -1,0 +1,872 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#cybersecurity" label="#cybersecurity" />
+      <node id="#schoollunch" label="#schoollunch" />
+      <node id="#PiDay" label="#PiDay" />
+      <node id="#balancethebudget" label="#balancethebudget" />
+      <node id="#NRCSRangers" label="#NRCSRangers" />
+      <node id="#firsttimer" label="#firsttimer" />
+      <node id="#DataBook" label="#DataBook" />
+      <node id="#WILDSchoolSites" label="#WILDSchoolSites" />
+      <node id="#OSBACC" label="#OSBACC" />
+      <node id="#booksbymail" label="#booksbymail" />
+      <node id="#schoolyear" label="#schoolyear" />
+      <node id="#OhioEdu" label="#OhioEdu" />
+      <node id="#specialed" label="#specialed" />
+      <node id="#kindergartners" label="#kindergartners" />
+      <node id="#parentteacher" label="#parentteacher" />
+      <node id="#SchoolsofHonor" label="#SchoolsofHonor" />
+      <node id="#schools" label="#schools" />
+      <node id="#teaching" label="#teaching" />
+      <node id="#oldschool" label="#oldschool" />
+      <node id="#Teachers" label="#Teachers" />
+      <node id="#bingewatching" label="#bingewatching" />
+      <node id="#payraises" label="#payraises" />
+      <node id="#bullying" label="#bullying" />
+      <node id="#superheroes" label="#superheroes" />
+      <node id="#ohedchat" label="#ohedchat" />
+      <node id="#JustSayNo" label="#JustSayNo" />
+      <node id="#ELmag" label="#ELmag" />
+      <node id="#Passion" label="#Passion" />
+      <node id="#NoChildLeftBehind" label="#NoChildLeftBehind" />
+      <node id="#nationaltests" label="#nationaltests" />
+      <node id="#confederate" label="#confederate" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#ecigs" label="#ecigs" />
+      <node id="#powerpoint" label="#powerpoint" />
+      <node id="#BuddStrong" label="#BuddStrong" />
+      <node id="#digital" label="#digital" />
+      <node id="#heatdays" label="#heatdays" />
+      <node id="#backtoschool" label="#backtoschool" />
+      <node id="#distracteddriving" label="#distracteddriving" />
+      <node id="#classroom" label="#classroom" />
+      <node id="#eddata" label="#eddata" />
+      <node id="#vaccinations" label="#vaccinations" />
+      <node id="#buddybench" label="#buddybench" />
+      <node id="#CEFpresForum" label="#CEFpresForum" />
+      <node id="#attendancematters" label="#attendancematters" />
+      <node id="#finedchat" label="#finedchat" />
+      <node id="#studentachievement" label="#studentachievement" />
+      <node id="#HourofCode" label="#HourofCode" />
+      <node id="#Snapchat" label="#Snapchat" />
+      <node id="#homeless" label="#homeless" />
+      <node id="#blizzard2016" label="#blizzard2016" />
+      <node id="#balancingact" label="#balancingact" />
+      <node id="#top10" label="#top10" />
+      <node id="#homework" label="#homework" />
+      <node id="#education" label="#education" />
+      <node id="#graduationrate" label="#graduationrate" />
+      <node id="#graduationrates" label="#graduationrates" />
+      <node id="#charterschool" label="#charterschool" />
+      <node id="#health" label="#health" />
+      <node id="#iPad" label="#iPad" />
+      <node id="#Math" label="#Math" />
+      <node id="#BiketoSchool" label="#BiketoSchool" />
+      <node id="#standardizedtests" label="#standardizedtests" />
+      <node id="#Minecraft" label="#Minecraft" />
+      <node id="#Scholarship" label="#Scholarship" />
+      <node id="#learning" label="#learning" />
+      <node id="#edtechchat" label="#edtechchat" />
+      <node id="#highschoolers" label="#highschoolers" />
+      <node id="#school" label="#school" />
+      <node id="#schoolfunding" label="#schoolfunding" />
+      <node id="#centralOhio" label="#centralOhio" />
+      <node id="#gendergap" label="#gendergap" />
+      <node id="#TaketheDigitalLeap" label="#TaketheDigitalLeap" />
+      <node id="#PresidentsDay" label="#PresidentsDay" />
+      <node id="#ESSA" label="#ESSA" />
+      <node id="#Opinion" label="#Opinion" />
+      <node id="#Election2016" label="#Election2016" />
+      <node id="#Cyberbullying" label="#Cyberbullying" />
+      <node id="#RuralEdForum" label="#RuralEdForum" />
+      <node id="#grants" label="#grants" />
+      <node id="#BacktoSchool" label="#BacktoSchool" />
+      <node id="#LandLab" label="#LandLab" />
+      <node id="#youthmovement" label="#youthmovement" />
+      <node id="#Chromebook" label="#Chromebook" />
+      <node id="#chronicabsenteeism" label="#chronicabsenteeism" />
+      <node id="#via" label="#via" />
+      <node id="#paytoplay" label="#paytoplay" />
+      <node id="#Vday" label="#Vday" />
+      <node id="#ESEA" label="#ESEA" />
+      <node id="#agriculture" label="#agriculture" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#MfgDay16" label="#MfgDay16" />
+      <node id="#thevoice" label="#thevoice" />
+      <node id="#videogames" label="#videogames" />
+      <node id="#GoOpen" label="#GoOpen" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#CharterSchools" label="#CharterSchools" />
+      <node id="#marchingband" label="#marchingband" />
+      <node id="#PreK" label="#PreK" />
+      <node id="#publicschools" label="#publicschools" />
+      <node id="#Appalachia" label="#Appalachia" />
+      <node id="#grandparents" label="#grandparents" />
+      <node id="#recognition" label="#recognition" />
+      <node id="#millennials" label="#millennials" />
+      <node id="#OSBASAF" label="#OSBASAF" />
+      <node id="#antibullying" label="#antibullying" />
+      <node id="#vote4ed" label="#vote4ed" />
+      <node id="#TrailBlazer" label="#TrailBlazer" />
+      <node id="#Education" label="#Education" />
+      <node id="#College" label="#College" />
+      <node id="#OhioBreakfastChallenge" label="#OhioBreakfastChallenge" />
+      <node id="#busdrivers" label="#busdrivers" />
+      <node id="#skinnyjeans" label="#skinnyjeans" />
+      <node id="#Backtoschool" label="#Backtoschool" />
+      <node id="#nutrition" label="#nutrition" />
+      <node id="#IowaCaucus" label="#IowaCaucus" />
+      <node id="#WasteNotWantNot" label="#WasteNotWantNot" />
+      <node id="#tradeshow" label="#tradeshow" />
+      <node id="#ReachHigher" label="#ReachHigher" />
+      <node id="#math" label="#math" />
+      <node id="#reading" label="#reading" />
+      <node id="#kindergarten" label="#kindergarten" />
+      <node id="#CharterSchool" label="#CharterSchool" />
+      <node id="#AED" label="#AED" />
+      <node id="#Bullying" label="#Bullying" />
+      <node id="#AdvocacyInstitute15" label="#AdvocacyInstitute15" />
+      <node id="#OhioReportCard" label="#OhioReportCard" />
+      <node id="#salestax" label="#salestax" />
+      <node id="#ConstitutionDay" label="#ConstitutionDay" />
+      <node id="#ETPI" label="#ETPI" />
+      <node id="#robotics" label="#robotics" />
+      <node id="#schoolbreakfast" label="#schoolbreakfast" />
+      <node id="#edtech" label="#edtech" />
+      <node id="#tablets" label="#tablets" />
+      <node id="#headaches" label="#headaches" />
+      <node id="#online" label="#online" />
+      <node id="#handson" label="#handson" />
+      <node id="#KennedyCenter" label="#KennedyCenter" />
+      <node id="#OhioGeneralAssembly" label="#OhioGeneralAssembly" />
+      <node id="#FoodFight" label="#FoodFight" />
+      <node id="#community" label="#community" />
+      <node id="#BlackHistoryMonth" label="#BlackHistoryMonth" />
+      <node id="#computerscience" label="#computerscience" />
+      <node id="#dropouts" label="#dropouts" />
+      <node id="#TitleIX" label="#TitleIX" />
+      <node id="#NSBAAI16" label="#NSBAAI16" />
+      <node id="#superlice" label="#superlice" />
+      <node id="#paper" label="#paper" />
+      <node id="#Newtown" label="#Newtown" />
+      <node id="#inspire" label="#inspire" />
+      <node id="#physed" label="#physed" />
+      <node id="#deweysystem" label="#deweysystem" />
+      <node id="#heroin" label="#heroin" />
+      <node id="#schoolplan" label="#schoolplan" />
+      <node id="#CC2015" label="#CC2015" />
+      <node id="#Edtech" label="#Edtech" />
+      <node id="#opiodepidemic" label="#opiodepidemic" />
+      <node id="#students" label="#students" />
+      <node id="#GED" label="#GED" />
+      <node id="#prek" label="#prek" />
+      <node id="#team" label="#team" />
+      <node id="#eduation" label="#eduation" />
+      <node id="#BrusselsAttacks" label="#BrusselsAttacks" />
+      <node id="#911anniversary" label="#911anniversary" />
+      <node id="#RapidRoundup" label="#RapidRoundup" />
+      <node id="#preK" label="#preK" />
+      <node id="#spellingbee" label="#spellingbee" />
+      <node id="#bestfriend" label="#bestfriend" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#educators" label="#educators" />
+      <node id="#achievementgap" label="#achievementgap" />
+      <node id="#Socktober" label="#Socktober" />
+      <node id="#ohioed" label="#ohioed" />
+      <node id="#credentials" label="#credentials" />
+      <node id="#stem" label="#stem" />
+      <node id="#ImAFirecracker" label="#ImAFirecracker" />
+      <node id="#statetests" label="#statetests" />
+      <node id="#PARCC" label="#PARCC" />
+      <node id="#teachforthestars" label="#teachforthestars" />
+      <node id="#farm" label="#farm" />
+      <node id="#braindrain" label="#braindrain" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#zerotolerance" label="#zerotolerance" />
+      <node id="#commoncore" label="#commoncore" />
+      <node id="#shareideas" label="#shareideas" />
+      <node id="#college" label="#college" />
+      <node id="#schooltowork" label="#schooltowork" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#Signlanguage" label="#Signlanguage" />
+      <node id="#mobiledevices" label="#mobiledevices" />
+      <node id="#severeweather" label="#severeweather" />
+      <node id="#arrivealive" label="#arrivealive" />
+      <node id="#survivor" label="#survivor" />
+      <node id="#afterschool" label="#afterschool" />
+      <node id="#ADHD" label="#ADHD" />
+      <node id="#StarWars" label="#StarWars" />
+      <node id="#highschoolfootball" label="#highschoolfootball" />
+      <node id="#cerebralpalsy" label="#cerebralpalsy" />
+      <node id="#specialeducation" label="#specialeducation" />
+      <node id="#autism" label="#autism" />
+      <node id="#destressing" label="#destressing" />
+      <node id="#PrimaryElection" label="#PrimaryElection" />
+      <node id="#NCLB" label="#NCLB" />
+      <node id="#EdVote16" label="#EdVote16" />
+      <node id="#k12" label="#k12" />
+      <node id="#schoolsafety" label="#schoolsafety" />
+      <node id="#SchoolofInovation" label="#SchoolofInovation" />
+      <node id="#StateTests" label="#StateTests" />
+      <node id="#earlylearning" label="#earlylearning" />
+      <node id="#LeadershipForLearning" label="#LeadershipForLearning" />
+      <node id="#SaySomething" label="#SaySomething" />
+      <node id="#parenting" label="#parenting" />
+      <node id="#PAP" label="#PAP" />
+      <node id="#ECWeek16" label="#ECWeek16" />
+      <node id="#StartWithHello" label="#StartWithHello" />
+      <node id="#copsandkids" label="#copsandkids" />
+      <node id="#sleepdeprivation" label="#sleepdeprivation" />
+      <node id="#SpecialEducation" label="#SpecialEducation" />
+      <node id="#LifeLine" label="#LifeLine" />
+      <node id="#fieldtrips" label="#fieldtrips" />
+      <node id="#ColtNation" label="#ColtNation" />
+      <node id="#virtual3D" label="#virtual3D" />
+      <node id="#reportcard" label="#reportcard" />
+      <node id="#NSBSW" label="#NSBSW" />
+      <node id="#ArtEd" label="#ArtEd" />
+      <node id="#snowdays" label="#snowdays" />
+      <node id="#SAT" label="#SAT" />
+      <node id="#mlearning" label="#mlearning" />
+      <node id="#K12" label="#K12" />
+      <node id="#trauma" label="#trauma" />
+      <node id="#blendedlearning" label="#blendedlearning" />
+      <node id="#nationalmerit" label="#nationalmerit" />
+      <node id="#wifi" label="#wifi" />
+      <node id="#highered" label="#highered" />
+      <node id="#StraightAFund" label="#StraightAFund" />
+      <node id="#workready" label="#workready" />
+      <node id="#Charterschool" label="#Charterschool" />
+      <node id="#plainpride" label="#plainpride" />
+      <node id="#StraightA" label="#StraightA" />
+      <node id="#standupforohiopublicschools" label="#standupforohiopublicschools" />
+      <node id="#Selma" label="#Selma" />
+      <node id="#google" label="#google" />
+      <node id="#suicideprevention" label="#suicideprevention" />
+      <node id="#firstdayofschool" label="#firstdayofschool" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#cyberbullying" label="#cyberbullying" />
+      <node id="#charterschools" label="#charterschools" />
+      <node id="#FarmtoSchool" label="#FarmtoSchool" />
+      <node id="#BlackCaucus" label="#BlackCaucus" />
+      <node id="#summerbreak" label="#summerbreak" />
+      <node id="#Storify" label="#Storify" />
+      <node id="#RedRibbonWeek" label="#RedRibbonWeek" />
+      <node id="#NEDAwareness" label="#NEDAwareness" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#textbooks" label="#textbooks" />
+      <node id="#SummerLearning" label="#SummerLearning" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#artprograms" label="#artprograms" />
+      <node id="#mathchat" label="#mathchat" />
+      <node id="#highschool" label="#highschool" />
+      <node id="#SandyHook" label="#SandyHook" />
+      <node id="#LearningSessions" label="#LearningSessions" />
+      <node id="#bodycameras" label="#bodycameras" />
+      <node id="#CollegeCreditPlus" label="#CollegeCreditPlus" />
+      <node id="#GlenOak" label="#GlenOak" />
+      <node id="#middleschool" label="#middleschool" />
+      <node id="#bandwidth" label="#bandwidth" />
+      <node id="#educate" label="#educate" />
+      <node id="#Millennial" label="#Millennial" />
+      <node id="#emptynesters" label="#emptynesters" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#charters" label="#charters" />
+      <node id="#SchoolsofPromise" label="#SchoolsofPromise" />
+      <node id="#ElectionDay" label="#ElectionDay" />
+      <node id="#baseball" label="#baseball" />
+      <node id="#childhoodobesity" label="#childhoodobesity" />
+      <node id="#LEED" label="#LEED" />
+      <node id="#foodinsecurity" label="#foodinsecurity" />
+      <node id="#CommonCore" label="#CommonCore" />
+      <node id="#ISTE2016" label="#ISTE2016" />
+      <node id="#OhioReportCards" label="#OhioReportCards" />
+      <node id="#childhood" label="#childhood" />
+      <node id="#SmokeAlarms" label="#SmokeAlarms" />
+      <node id="#ESSAOhio" label="#ESSAOhio" />
+      <node id="#ruralschools" label="#ruralschools" />
+      <node id="#cellphone" label="#cellphone" />
+      <node id="#PublicEd" label="#PublicEd" />
+      <node id="#givethanks" label="#givethanks" />
+      <node id="#databreaches" label="#databreaches" />
+      <node id="#earlyvote" label="#earlyvote" />
+      <node id="#preschool" label="#preschool" />
+      <node id="#MagnaAwards" label="#MagnaAwards" />
+      <node id="#earlybirdworkshop" label="#earlybirdworkshop" />
+      <node id="#basketball" label="#basketball" />
+      <node id="#earlyed" label="#earlyed" />
+      <node id="#Leadership" label="#Leadership" />
+      <node id="#CES2016" label="#CES2016" />
+      <node id="#juniorhigh" label="#juniorhigh" />
+      <node id="#BLI2016" label="#BLI2016" />
+      <node id="#networking" label="#networking" />
+      <node id="#lowincome" label="#lowincome" />
+      <node id="#RNC2016" label="#RNC2016" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#squarerootday" label="#squarerootday" />
+      <node id="#CCSS" label="#CCSS" />
+      <node id="#hightech" label="#hightech" />
+      <node id="#CTE" label="#CTE" />
+      <node id="#OhioEd" label="#OhioEd" />
+      <node id="#ccp" label="#ccp" />
+      <node id="#InternationalPeaceDay" label="#InternationalPeaceDay" />
+      <node id="#HonorFlight" label="#HonorFlight" />
+      <node id="#centralohio" label="#centralohio" />
+      <node id="#edchat" label="#edchat" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#OhioED" label="#OhioED" />
+      <node id="#transgender" label="#transgender" />
+      <node id="#PublicEducation" label="#PublicEducation" />
+      <node id="#TopHighSchools2015" label="#TopHighSchools2015" />
+      <node id="#RNCinCleve" label="#RNCinCleve" />
+      <node id="#costsaving" label="#costsaving" />
+      <node id="#cpchat" label="#cpchat" />
+      <node id="#OhioPrimary" label="#OhioPrimary" />
+      <node id="#phones" label="#phones" />
+      <node id="#taxpayers" label="#taxpayers" />
+      <node id="#PokemonGo" label="#PokemonGo" />
+      <node id="#teacher" label="#teacher" />
+      <node id="#SamsungSolve" label="#SamsungSolve" />
+      <node id="#OHstandards" label="#OHstandards" />
+      <node id="#homeworkgap" label="#homeworkgap" />
+      <node id="#MentorNSBA" label="#MentorNSBA" />
+      <node id="#nationalweekofmaking" label="#nationalweekofmaking" />
+      <node id="#tech" label="#tech" />
+      <node id="#substituteteacher" label="#substituteteacher" />
+      <node id="#childliteracy" label="#childliteracy" />
+      <node id="#MedalofHonor" label="#MedalofHonor" />
+      <node id="#EveryChildAchieves" label="#EveryChildAchieves" />
+      <node id="#schoollunches" label="#schoollunches" />
+      <node id="#parisattacks" label="#parisattacks" />
+      <node id="#AgDay" label="#AgDay" />
+      <node id="#safetysummit" label="#safetysummit" />
+      <node id="#EAP" label="#EAP" />
+      <node id="#CPR" label="#CPR" />
+      <node id="#NAEP" label="#NAEP" />
+      <node id="#DigitalAge" label="#DigitalAge" />
+      <node id="#Ohioed" label="#Ohioed" />
+      <node id="#cellphones" label="#cellphones" />
+      <node id="#mentalillness" label="#mentalillness" />
+      <node id="#bringyourowndevice" label="#bringyourowndevice" />
+      <node id="#student" label="#student" />
+      <node id="#poverty" label="#poverty" />
+      <node id="#ohspra15" label="#ohspra15" />
+      <node id="#broadband" label="#broadband" />
+      <node id="#Reading" label="#Reading" />
+      <node id="#ACT" label="#ACT" />
+      <node id="#OSBA" label="#OSBA" />
+      <node id="#burnout" label="#burnout" />
+      <node id="#middleschoolers" label="#middleschoolers" />
+      <node id="#schoolboard" label="#schoolboard" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#cybersecurity" target="#Edtech" weight="3203" />
+      <edge id="1" source="#schoollunch" target="#edchat" weight="3203" />
+      <edge id="2" source="#PiDay" target="#edchat" weight="3203" />
+      <edge id="3" source="#balancethebudget" target="#edchat" weight="3203" />
+      <edge id="4" source="#NRCSRangers" target="#BLI2016" weight="3203" />
+      <edge id="5" source="#firsttimer" target="#OSBACC" weight="3203" />
+      <edge id="6" source="#DataBook" target="#OhioEd" weight="3203" />
+      <edge id="7" source="#WILDSchoolSites" target="#K12" weight="3203" />
+      <edge id="8" source="#OSBACC" target="#education" weight="3203" />
+      <edge id="9" source="#OSBACC" target="#OhioEd" weight="51248" />
+      <edge id="10" source="#OSBACC" target="#inspire" weight="3203" />
+      <edge id="11" source="#OSBACC" target="#LeadershipForLearning" weight="3203" />
+      <edge id="12" source="#OSBACC" target="#K12" weight="6406" />
+      <edge id="13" source="#OSBACC" target="#ETPI" weight="28827" />
+      <edge id="14" source="#OSBACC" target="#LearningSessions" weight="3203" />
+      <edge id="15" source="#OSBACC" target="#earlybirdworkshop" weight="3203" />
+      <edge id="16" source="#OSBACC" target="#tradeshow" weight="3203" />
+      <edge id="17" source="#OSBACC" target="#Storify" weight="3203" />
+      <edge id="18" source="#OSBACC" target="#OSBASAF" weight="3203" />
+      <edge id="19" source="#OSBACC" target="#BlackCaucus" weight="3203" />
+      <edge id="20" source="#OSBACC" target="#Apple" weight="3203" />
+      <edge id="21" source="#booksbymail" target="#childliteracy" weight="3203" />
+      <edge id="22" source="#schoolyear" target="#K12" weight="3203" />
+      <edge id="23" source="#OhioEdu" target="#Scholarship" weight="3203" />
+      <edge id="24" source="#specialed" target="#edchat" weight="3203" />
+      <edge id="25" source="#kindergartners" target="#education" weight="3203" />
+      <edge id="26" source="#kindergartners" target="#K12" weight="3203" />
+      <edge id="27" source="#parentteacher" target="#K12" weight="6406" />
+      <edge id="28" source="#SchoolsofHonor" target="#SchoolsofPromise" weight="3203" />
+      <edge id="29" source="#SchoolsofHonor" target="#OhioEd" weight="3203" />
+      <edge id="30" source="#schools" target="#K12" weight="9609" />
+      <edge id="31" source="#schools" target="#edtech" weight="3203" />
+      <edge id="32" source="#teaching" target="#education" weight="6406" />
+      <edge id="33" source="#teaching" target="#edchat" weight="9609" />
+      <edge id="34" source="#oldschool" target="#K12" weight="3203" />
+      <edge id="35" source="#oldschool" target="#edtech" weight="3203" />
+      <edge id="36" source="#Teachers" target="#edchat" weight="3203" />
+      <edge id="37" source="#bingewatching" target="#edchat" weight="3203" />
+      <edge id="38" source="#payraises" target="#edchat" weight="3203" />
+      <edge id="39" source="#bullying" target="#OhioEd" weight="3203" />
+      <edge id="40" source="#bullying" target="#edchat" weight="6406" />
+      <edge id="41" source="#superheroes" target="#K12" weight="3203" />
+      <edge id="42" source="#ohedchat" target="#OhioEd" weight="3203" />
+      <edge id="43" source="#JustSayNo" target="#K12" weight="3203" />
+      <edge id="44" source="#ELmag" target="#education" weight="3203" />
+      <edge id="45" source="#ELmag" target="#K12" weight="3203" />
+      <edge id="46" source="#Passion" target="#PublicEducation" weight="3203" />
+      <edge id="47" source="#NoChildLeftBehind" target="#education" weight="3203" />
+      <edge id="48" source="#NoChildLeftBehind" target="#K12" weight="12812" />
+      <edge id="49" source="#nationaltests" target="#K12" weight="3203" />
+      <edge id="50" source="#confederate" target="#edchat" weight="3203" />
+      <edge id="51" source="#teachers" target="#K12" weight="6406" />
+      <edge id="52" source="#teachers" target="#edchat" weight="9609" />
+      <edge id="53" source="#ecigs" target="#OhioEd" weight="3203" />
+      <edge id="54" source="#powerpoint" target="#edchat" weight="3203" />
+      <edge id="55" source="#BuddStrong" target="#OhioEd" weight="3203" />
+      <edge id="56" source="#digital" target="#K12" weight="3203" />
+      <edge id="57" source="#digital" target="#edtech" weight="3203" />
+      <edge id="58" source="#heatdays" target="#snowdays" weight="3203" />
+      <edge id="59" source="#backtoschool" target="#education" weight="3203" />
+      <edge id="60" source="#backtoschool" target="#OhioEd" weight="9609" />
+      <edge id="61" source="#backtoschool" target="#K12" weight="12812" />
+      <edge id="62" source="#backtoschool" target="#edchat" weight="9609" />
+      <edge id="63" source="#backtoschool" target="#copsandkids" weight="3203" />
+      <edge id="64" source="#backtoschool" target="#salestax" weight="3203" />
+      <edge id="65" source="#distracteddriving" target="#arrivealive" weight="3203" />
+      <edge id="66" source="#classroom" target="#edchat" weight="3203" />
+      <edge id="67" source="#classroom" target="#edtech" weight="6406" />
+      <edge id="68" source="#eddata" target="#education" weight="3203" />
+      <edge id="69" source="#vaccinations" target="#OhioEd" weight="3203" />
+      <edge id="70" source="#buddybench" target="#K12" weight="3203" />
+      <edge id="71" source="#CEFpresForum" target="#K12" weight="3203" />
+      <edge id="72" source="#attendancematters" target="#K12" weight="3203" />
+      <edge id="73" source="#finedchat" target="#edchat" weight="3203" />
+      <edge id="74" source="#studentachievement" target="#K12" weight="3203" />
+      <edge id="75" source="#studentachievement" target="#MagnaAwards" weight="3203" />
+      <edge id="76" source="#HourofCode" target="#edtech" weight="3203" />
+      <edge id="77" source="#Snapchat" target="#K12" weight="3203" />
+      <edge id="78" source="#homeless" target="#K12" weight="3203" />
+      <edge id="79" source="#blizzard2016" target="#K12" weight="3203" />
+      <edge id="80" source="#balancingact" target="#K12" weight="3203" />
+      <edge id="81" source="#top10" target="#education" weight="3203" />
+      <edge id="82" source="#top10" target="#K12" weight="3203" />
+      <edge id="83" source="#top10" target="#edtech" weight="3203" />
+      <edge id="84" source="#homework" target="#K12" weight="6406" />
+      <edge id="85" source="#education" target="#OhioEd" weight="48045" />
+      <edge id="86" source="#education" target="#middleschool" weight="3203" />
+      <edge id="87" source="#education" target="#agriculture" weight="3203" />
+      <edge id="88" source="#education" target="#stem" weight="3203" />
+      <edge id="89" source="#education" target="#SummerLearning" weight="3203" />
+      <edge id="90" source="#education" target="#GoBucks" weight="3203" />
+      <edge id="91" source="#education" target="#EdVote16" weight="16015" />
+      <edge id="92" source="#education" target="#k12" weight="6406" />
+      <edge id="93" source="#education" target="#edchat" weight="355533" />
+      <edge id="94" source="#education" target="#GoOpen" weight="3203" />
+      <edge id="95" source="#education" target="#suicideprevention" weight="3203" />
+      <edge id="96" source="#education" target="#SAT" weight="6406" />
+      <edge id="97" source="#education" target="#NAEP" weight="3203" />
+      <edge id="98" source="#education" target="#PresidentsDay" weight="3203" />
+      <edge id="99" source="#education" target="#Ohioed" weight="3203" />
+      <edge id="100" source="#education" target="#CharterSchools" weight="3203" />
+      <edge id="101" source="#education" target="#Election2016" weight="3203" />
+      <edge id="102" source="#education" target="#dropouts" weight="3203" />
+      <edge id="103" source="#education" target="#K12" weight="371548" />
+      <edge id="104" source="#education" target="#foodinsecurity" weight="3203" />
+      <edge id="105" source="#education" target="#NSBAAI16" weight="3203" />
+      <edge id="106" source="#education" target="#CommonCore" weight="3203" />
+      <edge id="107" source="#education" target="#marchingband" weight="3203" />
+      <edge id="108" source="#education" target="#ESSA" weight="6406" />
+      <edge id="109" source="#education" target="#Appalachia" weight="3203" />
+      <edge id="110" source="#education" target="#STEM" weight="3203" />
+      <edge id="111" source="#education" target="#RapidRoundup" weight="3203" />
+      <edge id="112" source="#education" target="#Millennial" weight="3203" />
+      <edge id="113" source="#education" target="#DemsInPhilly" weight="3203" />
+      <edge id="114" source="#education" target="#learning" weight="3203" />
+      <edge id="115" source="#education" target="#RNC2016" weight="3203" />
+      <edge id="116" source="#education" target="#physed" weight="6406" />
+      <edge id="117" source="#education" target="#ConstitutionDay" weight="3203" />
+      <edge id="118" source="#education" target="#spellingbee" weight="3203" />
+      <edge id="119" source="#education" target="#preschool" weight="3203" />
+      <edge id="120" source="#education" target="#survivor" weight="3203" />
+      <edge id="121" source="#education" target="#edtech" weight="92887" />
+      <edge id="122" source="#education" target="#CCSS" weight="3203" />
+      <edge id="123" source="#education" target="#student" weight="3203" />
+      <edge id="124" source="#education" target="#specialeducation" weight="3203" />
+      <edge id="125" source="#graduationrate" target="#K12" weight="3203" />
+      <edge id="126" source="#graduationrates" target="#K12" weight="6406" />
+      <edge id="127" source="#charterschool" target="#OhioEd" weight="51248" />
+      <edge id="128" source="#charterschool" target="#K12" weight="32030" />
+      <edge id="129" source="#charterschool" target="#edchat" weight="3203" />
+      <edge id="130" source="#charterschool" target="#OhioGeneralAssembly" weight="3203" />
+      <edge id="131" source="#health" target="#Ohio" weight="3203" />
+      <edge id="132" source="#iPad" target="#edtech" weight="3203" />
+      <edge id="133" source="#Math" target="#K12" weight="3203" />
+      <edge id="134" source="#BiketoSchool" target="#OhioEd" weight="3203" />
+      <edge id="135" source="#BiketoSchool" target="#K12" weight="3203" />
+      <edge id="136" source="#standardizedtests" target="#K12" weight="3203" />
+      <edge id="137" source="#Minecraft" target="#K12" weight="12812" />
+      <edge id="138" source="#Minecraft" target="#edtech" weight="19218" />
+      <edge id="139" source="#edtechchat" target="#edchat" weight="3203" />
+      <edge id="140" source="#highschoolers" target="#edchat" weight="3203" />
+      <edge id="141" source="#school" target="#edchat" weight="3203" />
+      <edge id="142" source="#schoolfunding" target="#OhioEd" weight="3203" />
+      <edge id="143" source="#schoolfunding" target="#K12" weight="6406" />
+      <edge id="144" source="#schoolfunding" target="#edchat" weight="3203" />
+      <edge id="145" source="#centralOhio" target="#K12" weight="3203" />
+      <edge id="146" source="#gendergap" target="#edtech" weight="3203" />
+      <edge id="147" source="#TaketheDigitalLeap" target="#edtech" weight="3203" />
+      <edge id="148" source="#PresidentsDay" target="#K12" weight="3203" />
+      <edge id="149" source="#ESSA" target="#OhioEd" weight="32030" />
+      <edge id="150" source="#ESSA" target="#K12" weight="99293" />
+      <edge id="151" source="#ESSA" target="#edchat" weight="35233" />
+      <edge id="152" source="#ESSA" target="#edtech" weight="3203" />
+      <edge id="153" source="#Opinion" target="#K12" weight="3203" />
+      <edge id="154" source="#Election2016" target="#EdVote16" weight="6406" />
+      <edge id="155" source="#Election2016" target="#K12" weight="3203" />
+      <edge id="156" source="#Election2016" target="#earlyvote" weight="3203" />
+      <edge id="157" source="#Cyberbullying" target="#edtech" weight="3203" />
+      <edge id="158" source="#RuralEdForum" target="#OhioEd" weight="3203" />
+      <edge id="159" source="#grants" target="#OhioEd" weight="3203" />
+      <edge id="160" source="#BacktoSchool" target="#K12" weight="3203" />
+      <edge id="161" source="#LandLab" target="#K12" weight="3203" />
+      <edge id="162" source="#youthmovement" target="#K12" weight="3203" />
+      <edge id="163" source="#Chromebook" target="#educators" weight="3203" />
+      <edge id="164" source="#Chromebook" target="#edtech" weight="3203" />
+      <edge id="165" source="#chronicabsenteeism" target="#K12" weight="3203" />
+      <edge id="166" source="#via" target="#edchat" weight="3203" />
+      <edge id="167" source="#via" target="#edtech" weight="3203" />
+      <edge id="168" source="#paytoplay" target="#OhioEd" weight="3203" />
+      <edge id="169" source="#paytoplay" target="#K12" weight="3203" />
+      <edge id="170" source="#Vday" target="#OhioEd" weight="3203" />
+      <edge id="171" source="#ESEA" target="#EveryChildAchieves" weight="3203" />
+      <edge id="172" source="#ESEA" target="#NCLB" weight="3203" />
+      <edge id="173" source="#EarthDay" target="#K12" weight="3203" />
+      <edge id="174" source="#MfgDay16" target="#credentials" weight="3203" />
+      <edge id="175" source="#MfgDay16" target="#manufacturing" weight="3203" />
+      <edge id="176" source="#thevoice" target="#OhioEd" weight="3203" />
+      <edge id="177" source="#videogames" target="#edtech" weight="3203" />
+      <edge id="178" source="#leadership" target="#OhioEd" weight="3203" />
+      <edge id="179" source="#leadership" target="#K12" weight="3203" />
+      <edge id="180" source="#leadership" target="#edchat" weight="12812" />
+      <edge id="181" source="#PreK" target="#edchat" weight="9609" />
+      <edge id="182" source="#publicschools" target="#K12" weight="3203" />
+      <edge id="183" source="#grandparents" target="#K12" weight="3203" />
+      <edge id="184" source="#recognition" target="#networking" weight="3203" />
+      <edge id="185" source="#millennials" target="#K12" weight="3203" />
+      <edge id="186" source="#antibullying" target="#K12" weight="16015" />
+      <edge id="187" source="#vote4ed" target="#OhioEd" weight="3203" />
+      <edge id="188" source="#TrailBlazer" target="#K12" weight="3203" />
+      <edge id="189" source="#Education" target="#OhioEd" weight="3203" />
+      <edge id="190" source="#Education" target="#edchat" weight="3203" />
+      <edge id="191" source="#College" target="#edchat" weight="3203" />
+      <edge id="192" source="#OhioBreakfastChallenge" target="#K12" weight="3203" />
+      <edge id="193" source="#busdrivers" target="#K12" weight="3203" />
+      <edge id="194" source="#skinnyjeans" target="#K12" weight="3203" />
+      <edge id="195" source="#Backtoschool" target="#K12" weight="3203" />
+      <edge id="196" source="#Backtoschool" target="#edchat" weight="3203" />
+      <edge id="197" source="#nutrition" target="#OhioEd" weight="3203" />
+      <edge id="198" source="#IowaCaucus" target="#K12" weight="3203" />
+      <edge id="199" source="#WasteNotWantNot" target="#K12" weight="3203" />
+      <edge id="200" source="#ReachHigher" target="#K12" weight="3203" />
+      <edge id="201" source="#math" target="#K12" weight="3203" />
+      <edge id="202" source="#math" target="#edtech" weight="3203" />
+      <edge id="203" source="#reading" target="#edchat" weight="6406" />
+      <edge id="204" source="#kindergarten" target="#earlyed" weight="3203" />
+      <edge id="205" source="#CharterSchool" target="#OhioEd" weight="6406" />
+      <edge id="206" source="#CharterSchool" target="#K12" weight="6406" />
+      <edge id="207" source="#AED" target="#PAP" weight="3203" />
+      <edge id="208" source="#AED" target="#EAP" weight="3203" />
+      <edge id="209" source="#AED" target="#CPR" weight="3203" />
+      <edge id="210" source="#Bullying" target="#edchat" weight="3203" />
+      <edge id="211" source="#AdvocacyInstitute15" target="#OhioEd" weight="3203" />
+      <edge id="212" source="#OhioReportCard" target="#OhioEd" weight="12812" />
+      <edge id="213" source="#salestax" target="#OhioEd" weight="3203" />
+      <edge id="214" source="#salestax" target="#K12" weight="3203" />
+      <edge id="215" source="#robotics" target="#edtech" weight="3203" />
+      <edge id="216" source="#schoolbreakfast" target="#K12" weight="3203" />
+      <edge id="217" source="#edtech" target="#ccp" weight="3203" />
+      <edge id="218" source="#edtech" target="#CES2016" weight="3203" />
+      <edge id="219" source="#edtech" target="#handson" weight="3203" />
+      <edge id="220" source="#edtech" target="#google" weight="3203" />
+      <edge id="221" source="#edtech" target="#LifeLine" weight="3203" />
+      <edge id="222" source="#edtech" target="#OhioEd" weight="105699" />
+      <edge id="223" source="#edtech" target="#virtual3D" weight="3203" />
+      <edge id="224" source="#edtech" target="#k12" weight="12812" />
+      <edge id="225" source="#edtech" target="#edchat" weight="409984" />
+      <edge id="226" source="#edtech" target="#computerscience" weight="6406" />
+      <edge id="227" source="#edtech" target="#databreaches" weight="3203" />
+      <edge id="228" source="#edtech" target="#cyberbullying" weight="3203" />
+      <edge id="229" source="#edtech" target="#DigitalAge" weight="3203" />
+      <edge id="230" source="#edtech" target="#cellphones" weight="3203" />
+      <edge id="231" source="#edtech" target="#college" weight="6406" />
+      <edge id="232" source="#edtech" target="#mathchat" weight="3203" />
+      <edge id="233" source="#edtech" target="#baseball" weight="3203" />
+      <edge id="234" source="#edtech" target="#braindrain" weight="3203" />
+      <edge id="235" source="#edtech" target="#mlearning" weight="3203" />
+      <edge id="236" source="#edtech" target="#bandwidth" weight="3203" />
+      <edge id="237" source="#edtech" target="#K12" weight="422796" />
+      <edge id="238" source="#edtech" target="#blendedlearning" weight="3203" />
+      <edge id="239" source="#edtech" target="#SchoolofInovation" weight="3203" />
+      <edge id="240" source="#edtech" target="#ISTE2016" weight="3203" />
+      <edge id="241" source="#edtech" target="#broadband" weight="3203" />
+      <edge id="242" source="#edtech" target="#STEM" weight="9609" />
+      <edge id="243" source="#edtech" target="#mobiledevices" weight="6406" />
+      <edge id="244" source="#edtech" target="#wifi" weight="3203" />
+      <edge id="245" source="#edtech" target="#juniorhigh" weight="3203" />
+      <edge id="246" source="#edtech" target="#PokemonGo" weight="3203" />
+      <edge id="247" source="#edtech" target="#socialmedia" weight="3203" />
+      <edge id="248" source="#edtech" target="#cpchat" weight="3203" />
+      <edge id="249" source="#edtech" target="#homeworkgap" weight="3203" />
+      <edge id="250" source="#edtech" target="#MentorNSBA" weight="3203" />
+      <edge id="251" source="#edtech" target="#physed" weight="3203" />
+      <edge id="252" source="#edtech" target="#Twitter" weight="3203" />
+      <edge id="253" source="#edtech" target="#educators" weight="3203" />
+      <edge id="254" source="#edtech" target="#StarWars" weight="3203" />
+      <edge id="255" source="#edtech" target="#CCSS" weight="6406" />
+      <edge id="256" source="#edtech" target="#student" weight="3203" />
+      <edge id="257" source="#edtech" target="#bodycameras" weight="3203" />
+      <edge id="258" source="#edtech" target="#hightech" weight="3203" />
+      <edge id="259" source="#tablets" target="#phones" weight="3203" />
+      <edge id="260" source="#headaches" target="#K12" weight="3203" />
+      <edge id="261" source="#online" target="#paper" weight="3203" />
+      <edge id="262" source="#handson" target="#OhioEd" weight="3203" />
+      <edge id="263" source="#handson" target="#K12" weight="3203" />
+      <edge id="264" source="#KennedyCenter" target="#K12" weight="3203" />
+      <edge id="265" source="#OhioGeneralAssembly" target="#OhioEd" weight="3203" />
+      <edge id="266" source="#OhioGeneralAssembly" target="#K12" weight="22421" />
+      <edge id="267" source="#OhioGeneralAssembly" target="#charterschools" weight="3203" />
+      <edge id="268" source="#FoodFight" target="#K12" weight="3203" />
+      <edge id="269" source="#community" target="#K12" weight="3203" />
+      <edge id="270" source="#BlackHistoryMonth" target="#K12" weight="3203" />
+      <edge id="271" source="#TitleIX" target="#OhioEd" weight="3203" />
+      <edge id="272" source="#superlice" target="#OhioEd" weight="3203" />
+      <edge id="273" source="#Newtown" target="#K12" weight="3203" />
+      <edge id="274" source="#Newtown" target="#edchat" weight="3203" />
+      <edge id="275" source="#physed" target="#K12" weight="16015" />
+      <edge id="276" source="#deweysystem" target="#K12" weight="3203" />
+      <edge id="277" source="#heroin" target="#K12" weight="3203" />
+      <edge id="278" source="#schoolplan" target="#OhioEd" weight="3203" />
+      <edge id="279" source="#schoolplan" target="#K12" weight="3203" />
+      <edge id="280" source="#CC2015" target="#OhioEd" weight="3203" />
+      <edge id="281" source="#CC2015" target="#OSBA" weight="3203" />
+      <edge id="282" source="#Edtech" target="#K12" weight="3203" />
+      <edge id="283" source="#opiodepidemic" target="#edchat" weight="3203" />
+      <edge id="284" source="#students" target="#OhioEd" weight="3203" />
+      <edge id="285" source="#students" target="#K12" weight="6406" />
+      <edge id="286" source="#students" target="#edchat" weight="3203" />
+      <edge id="287" source="#GED" target="#OhioEd" weight="3203" />
+      <edge id="288" source="#prek" target="#edchat" weight="3203" />
+      <edge id="289" source="#team" target="#K12" weight="3203" />
+      <edge id="290" source="#eduation" target="#K12" weight="3203" />
+      <edge id="291" source="#BrusselsAttacks" target="#OhioEd" weight="3203" />
+      <edge id="292" source="#BrusselsAttacks" target="#K12" weight="3203" />
+      <edge id="293" source="#911anniversary" target="#K12" weight="3203" />
+      <edge id="294" source="#preK" target="#earlylearning" weight="3203" />
+      <edge id="295" source="#preK" target="#OhioEd" weight="3203" />
+      <edge id="296" source="#spellingbee" target="#K12" weight="3203" />
+      <edge id="297" source="#bestfriend" target="#K12" weight="3203" />
+      <edge id="298" source="#Twitter" target="#edchat" weight="3203" />
+      <edge id="299" source="#achievementgap" target="#K12" weight="3203" />
+      <edge id="300" source="#achievementgap" target="#edchat" weight="3203" />
+      <edge id="301" source="#Socktober" target="#OhioEd" weight="3203" />
+      <edge id="302" source="#ohioed" target="#edchat" weight="3203" />
+      <edge id="303" source="#credentials" target="#manufacturing" weight="3203" />
+      <edge id="304" source="#ImAFirecracker" target="#OhioEd" weight="3203" />
+      <edge id="305" source="#statetests" target="#OhioEd" weight="9609" />
+      <edge id="306" source="#statetests" target="#K12" weight="12812" />
+      <edge id="307" source="#PARCC" target="#OhioEd" weight="3203" />
+      <edge id="308" source="#PARCC" target="#K12" weight="3203" />
+      <edge id="309" source="#PARCC" target="#edchat" weight="6406" />
+      <edge id="310" source="#PARCC" target="#ColtNation" weight="3203" />
+      <edge id="311" source="#teachforthestars" target="#plainpride" weight="3203" />
+      <edge id="312" source="#farm" target="#K12" weight="3203" />
+      <edge id="313" source="#braindrain" target="#K12" weight="6406" />
+      <edge id="314" source="#braindrain" target="#edchat" weight="3203" />
+      <edge id="315" source="#zerotolerance" target="#OhioEd" weight="3203" />
+      <edge id="316" source="#zerotolerance" target="#K12" weight="3203" />
+      <edge id="317" source="#commoncore" target="#K12" weight="3203" />
+      <edge id="318" source="#shareideas" target="#K12" weight="3203" />
+      <edge id="319" source="#shareideas" target="#networking" weight="3203" />
+      <edge id="320" source="#college" target="#OhioEd" weight="16015" />
+      <edge id="321" source="#college" target="#edchat" weight="25624" />
+      <edge id="322" source="#schooltowork" target="#OhioEd" weight="3203" />
+      <edge id="323" source="#schooltowork" target="#K12" weight="3203" />
+      <edge id="324" source="#STEM" target="#OhioEd" weight="6406" />
+      <edge id="325" source="#STEM" target="#K12" weight="3203" />
+      <edge id="326" source="#STEM" target="#edchat" weight="16015" />
+      <edge id="327" source="#Signlanguage" target="#K12" weight="3203" />
+      <edge id="328" source="#severeweather" target="#K12" weight="6406" />
+      <edge id="329" source="#afterschool" target="#K12" weight="3203" />
+      <edge id="330" source="#ADHD" target="#K12" weight="6406" />
+      <edge id="331" source="#ADHD" target="#edchat" weight="6406" />
+      <edge id="332" source="#highschoolfootball" target="#K12" weight="3203" />
+      <edge id="333" source="#cerebralpalsy" target="#K12" weight="3203" />
+      <edge id="334" source="#specialeducation" target="#K12" weight="6406" />
+      <edge id="335" source="#specialeducation" target="#edchat" weight="3203" />
+      <edge id="336" source="#autism" target="#K12" weight="6406" />
+      <edge id="337" source="#destressing" target="#OhioEd" weight="3203" />
+      <edge id="338" source="#destressing" target="#K12" weight="3203" />
+      <edge id="339" source="#PrimaryElection" target="#K12" weight="3203" />
+      <edge id="340" source="#NCLB" target="#OhioEd" weight="3203" />
+      <edge id="341" source="#NCLB" target="#EveryChildAchieves" weight="3203" />
+      <edge id="342" source="#NCLB" target="#edchat" weight="12812" />
+      <edge id="343" source="#EdVote16" target="#DemsInPhilly" weight="3203" />
+      <edge id="344" source="#EdVote16" target="#earlyvote" weight="3203" />
+      <edge id="345" source="#EdVote16" target="#RNC2016" weight="3203" />
+      <edge id="346" source="#k12" target="#OhioEd" weight="9609" />
+      <edge id="347" source="#k12" target="#edchat" weight="6406" />
+      <edge id="348" source="#schoolsafety" target="#OhioEd" weight="3203" />
+      <edge id="349" source="#schoolsafety" target="#edchat" weight="3203" />
+      <edge id="350" source="#SchoolofInovation" target="#K12" weight="3203" />
+      <edge id="351" source="#StateTests" target="#K12" weight="3203" />
+      <edge id="352" source="#SaySomething" target="#K12" weight="3203" />
+      <edge id="353" source="#parenting" target="#edchat" weight="3203" />
+      <edge id="354" source="#PAP" target="#EAP" weight="3203" />
+      <edge id="355" source="#PAP" target="#CPR" weight="3203" />
+      <edge id="356" source="#ECWeek16" target="#K12" weight="3203" />
+      <edge id="357" source="#StartWithHello" target="#K12" weight="12812" />
+      <edge id="358" source="#copsandkids" target="#K12" weight="3203" />
+      <edge id="359" source="#sleepdeprivation" target="#K12" weight="3203" />
+      <edge id="360" source="#SpecialEducation" target="#K12" weight="3203" />
+      <edge id="361" source="#fieldtrips" target="#K12" weight="3203" />
+      <edge id="362" source="#reportcard" target="#lowincome" weight="3203" />
+      <edge id="363" source="#reportcard" target="#OhioEd" weight="3203" />
+      <edge id="364" source="#reportcard" target="#K12" weight="3203" />
+      <edge id="365" source="#NSBSW" target="#K12" weight="3203" />
+      <edge id="366" source="#ArtEd" target="#edchat" weight="3203" />
+      <edge id="367" source="#SAT" target="#OhioEd" weight="3203" />
+      <edge id="368" source="#SAT" target="#K12" weight="12812" />
+      <edge id="369" source="#SAT" target="#ACT" weight="3203" />
+      <edge id="370" source="#K12" target="#educate" weight="6406" />
+      <edge id="371" source="#K12" target="#Millennial" weight="3203" />
+      <edge id="372" source="#K12" target="#emptynesters" weight="3203" />
+      <edge id="373" source="#K12" target="#teacher" weight="3203" />
+      <edge id="374" source="#K12" target="#baseball" weight="3203" />
+      <edge id="375" source="#K12" target="#foodinsecurity" weight="3203" />
+      <edge id="376" source="#K12" target="#childhood" weight="3203" />
+      <edge id="377" source="#K12" target="#SmokeAlarms" weight="3203" />
+      <edge id="378" source="#K12" target="#nationalmerit" weight="3203" />
+      <edge id="379" source="#K12" target="#preschool" weight="12812" />
+      <edge id="380" source="#K12" target="#ESSAOhio" weight="3203" />
+      <edge id="381" source="#K12" target="#RNCinCLE" weight="3203" />
+      <edge id="382" source="#K12" target="#Leadership" weight="3203" />
+      <edge id="383" source="#K12" target="#substituteteacher" weight="3203" />
+      <edge id="384" source="#K12" target="#networking" weight="3203" />
+      <edge id="385" source="#K12" target="#hightech" weight="6406" />
+      <edge id="386" source="#K12" target="#OhioEd" weight="1511816" />
+      <edge id="387" source="#K12" target="#childhoodobesity" weight="3203" />
+      <edge id="388" source="#K12" target="#HonorFlight" weight="3203" />
+      <edge id="389" source="#K12" target="#centralohio" weight="3203" />
+      <edge id="390" source="#K12" target="#edchat" weight="534901" />
+      <edge id="391" source="#K12" target="#RNCinCleve" weight="3203" />
+      <edge id="392" source="#K12" target="#Ohio" weight="9609" />
+      <edge id="393" source="#K12" target="#costsaving" weight="3203" />
+      <edge id="394" source="#K12" target="#trauma" weight="3203" />
+      <edge id="395" source="#K12" target="#blendedlearning" weight="6406" />
+      <edge id="396" source="#K12" target="#mentalillness" weight="3203" />
+      <edge id="397" source="#K12" target="#taxpayers" weight="3203" />
+      <edge id="398" source="#K12" target="#StraightAFund" weight="3203" />
+      <edge id="399" source="#K12" target="#PokemonGo" weight="3203" />
+      <edge id="400" source="#K12" target="#workready" weight="3203" />
+      <edge id="401" source="#K12" target="#nationalweekofmaking" weight="3203" />
+      <edge id="402" source="#K12" target="#tech" weight="3203" />
+      <edge id="403" source="#K12" target="#standupforohiopublicschools" weight="3203" />
+      <edge id="404" source="#K12" target="#CommonCore" weight="9609" />
+      <edge id="405" source="#K12" target="#squarerootday" weight="3203" />
+      <edge id="406" source="#K12" target="#parisattacks" weight="3203" />
+      <edge id="407" source="#K12" target="#AgDay" weight="3203" />
+      <edge id="408" source="#K12" target="#firstdayofschool" weight="3203" />
+      <edge id="409" source="#K12" target="#safetysummit" weight="3203" />
+      <edge id="410" source="#K12" target="#cellphone" weight="3203" />
+      <edge id="411" source="#K12" target="#DigitalAge" weight="3203" />
+      <edge id="412" source="#K12" target="#Ohioed" weight="3203" />
+      <edge id="413" source="#K12" target="#charterschools" weight="22421" />
+      <edge id="414" source="#K12" target="#bringyourowndevice" weight="3203" />
+      <edge id="415" source="#K12" target="#FarmtoSchool" weight="3203" />
+      <edge id="416" source="#K12" target="#student" weight="6406" />
+      <edge id="417" source="#K12" target="#SandyHook" weight="6406" />
+      <edge id="418" source="#K12" target="#summerbreak" weight="3203" />
+      <edge id="419" source="#K12" target="#RedRibbonWeek" weight="3203" />
+      <edge id="420" source="#K12" target="#NEDAwareness" weight="3203" />
+      <edge id="421" source="#K12" target="#textbooks" weight="3203" />
+      <edge id="422" source="#K12" target="#InternationalPeaceDay" weight="3203" />
+      <edge id="423" source="#K12" target="#SummerLearning" weight="3203" />
+      <edge id="424" source="#K12" target="#artprograms" weight="3203" />
+      <edge id="425" source="#K12" target="#burnout" weight="3203" />
+      <edge id="426" source="#K12" target="#highschool" weight="12812" />
+      <edge id="427" source="#K12" target="#middleschoolers" weight="3203" />
+      <edge id="428" source="#K12" target="#schoolboard" weight="6406" />
+      <edge id="429" source="#K12" target="#CollegeCreditPlus" weight="3203" />
+      <edge id="430" source="#blendedlearning" target="#OhioEd" weight="3203" />
+      <edge id="431" source="#blendedlearning" target="#CommonCore" weight="3203" />
+      <edge id="432" source="#blendedlearning" target="#Ohio" weight="3203" />
+      <edge id="433" source="#highered" target="#OhioEd" weight="19218" />
+      <edge id="434" source="#highered" target="#edchat" weight="12812" />
+      <edge id="435" source="#StraightAFund" target="#OhioEd" weight="3203" />
+      <edge id="436" source="#StraightAFund" target="#costsaving" weight="3203" />
+      <edge id="437" source="#Charterschool" target="#OhioEd" weight="3203" />
+      <edge id="438" source="#StraightA" target="#OhioEd" weight="3203" />
+      <edge id="439" source="#Selma" target="#OhioEd" weight="3203" />
+      <edge id="440" source="#Dayton" target="#schoolboard" weight="3203" />
+      <edge id="441" source="#Dayton" target="#Ohio" weight="3203" />
+      <edge id="442" source="#cyberbullying" target="#edchat" weight="6406" />
+      <edge id="443" source="#charterschools" target="#OhioEd" weight="32030" />
+      <edge id="444" source="#charterschools" target="#edchat" weight="9609" />
+      <edge id="445" source="#charterschools" target="#CommonCore" weight="3203" />
+      <edge id="446" source="#charterschools" target="#Ohio" weight="3203" />
+      <edge id="447" source="#RedRibbonWeek" target="#OhioEd" weight="3203" />
+      <edge id="448" source="#socialmedia" target="#OhioEd" weight="3203" />
+      <edge id="449" source="#socialmedia" target="#edchat" weight="3203" />
+      <edge id="450" source="#mathchat" target="#edchat" weight="6406" />
+      <edge id="451" source="#highschool" target="#OhioEd" weight="3203" />
+      <edge id="452" source="#highschool" target="#edchat" weight="3203" />
+      <edge id="453" source="#bodycameras" target="#edchat" weight="3203" />
+      <edge id="454" source="#CollegeCreditPlus" target="#OhioEd" weight="12812" />
+      <edge id="455" source="#GlenOak" target="#ACT" weight="3203" />
+      <edge id="456" source="#RNCinCLE" target="#OhioEd" weight="3203" />
+      <edge id="457" source="#charters" target="#OhioEd" weight="3203" />
+      <edge id="458" source="#charters" target="#OhioED" weight="3203" />
+      <edge id="459" source="#SchoolsofPromise" target="#OhioEd" weight="3203" />
+      <edge id="460" source="#ElectionDay" target="#OhioEd" weight="3203" />
+      <edge id="461" source="#LEED" target="#OhioEd" weight="3203" />
+      <edge id="462" source="#CommonCore" target="#OhioEd" weight="12812" />
+      <edge id="463" source="#OhioReportCards" target="#OhioEd" weight="3203" />
+      <edge id="464" source="#ESSAOhio" target="#OhioEd" weight="22421" />
+      <edge id="465" source="#ESSAOhio" target="#edchat" weight="3203" />
+      <edge id="466" source="#ruralschools" target="#edchat" weight="3203" />
+      <edge id="467" source="#PublicEd" target="#edchat" weight="3203" />
+      <edge id="468" source="#givethanks" target="#OhioEd" weight="6406" />
+      <edge id="469" source="#preschool" target="#OhioEd" weight="12812" />
+      <edge id="470" source="#preschool" target="#edchat" weight="3203" />
+      <edge id="471" source="#basketball" target="#OhioEd" weight="3203" />
+      <edge id="472" source="#BLI2016" target="#OhioEd" weight="6406" />
+      <edge id="473" source="#lowincome" target="#OhioEd" weight="3203" />
+      <edge id="474" source="#CCSS" target="#OHstandards" weight="3203" />
+      <edge id="475" source="#CCSS" target="#OhioEd" weight="38436" />
+      <edge id="476" source="#CCSS" target="#edchat" weight="32030" />
+      <edge id="477" source="#CTE" target="#OhioEd" weight="3203" />
+      <edge id="478" source="#OhioEd" target="#centralohio" weight="3203" />
+      <edge id="479" source="#OhioEd" target="#edchat" weight="422796" />
+      <edge id="480" source="#OhioEd" target="#Ohio" weight="9609" />
+      <edge id="481" source="#OhioEd" target="#TopHighSchools2015" weight="3203" />
+      <edge id="482" source="#OhioEd" target="#RNCinCleve" weight="3203" />
+      <edge id="483" source="#OhioEd" target="#OhioPrimary" weight="3203" />
+      <edge id="484" source="#OhioEd" target="#taxpayers" weight="3203" />
+      <edge id="485" source="#OhioEd" target="#PokemonGo" weight="3203" />
+      <edge id="486" source="#OhioEd" target="#SamsungSolve" weight="3203" />
+      <edge id="487" source="#OhioEd" target="#MedalofHonor" weight="3203" />
+      <edge id="488" source="#OhioEd" target="#ohspra15" weight="3203" />
+      <edge id="489" source="#OhioEd" target="#ACT" weight="6406" />
+      <edge id="490" source="#OhioEd" target="#OSBA" weight="3203" />
+      <edge id="491" source="#OhioEd" target="#schoolboard" weight="3203" />
+      <edge id="492" source="#edchat" target="#schoollunches" weight="3203" />
+      <edge id="493" source="#edchat" target="#edchat" weight="6406" />
+      <edge id="494" source="#edchat" target="#cpchat" weight="22421" />
+      <edge id="495" source="#edchat" target="#poverty" weight="3203" />
+      <edge id="496" source="#edchat" target="#Reading" weight="3203" />
+      <edge id="497" source="#edchat" target="#transgender" weight="6406" />
+      <edge id="498" source="#edchat" target="#substituteteacher" weight="3203" />
+      <edge id="499" source="#edchat" target="#teacher" weight="3203" />
+      <edge id="500" source="#edchat" target="#mentalillness" weight="3203" />
+      <edge id="501" source="#edchat" target="#homeworkgap" weight="3203" />
+      <edge id="502" source="#Ohio" target="#schoolboard" weight="3203" />
+      <edge id="503" source="#EAP" target="#CPR" weight="3203" />
+    </edges>
+  </graph>
+</gexf>

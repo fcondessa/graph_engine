@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#cysticfibrosis" label="#cysticfibrosis" />
+      <node id="#Lost" label="#Lost" />
+      <node id="#Scanned" label="#Scanned" />
+      <node id="#CFAwarenessMonth" label="#CFAwarenessMonth" />
+      <node id="#Reunite" label="#Reunite" />
+      <node id="#GoDaddyPuppy" label="#GoDaddyPuppy" />
+      <node id="#Dog" label="#Dog" />
+      <node id="#NoDaddy" label="#NoDaddy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#cysticfibrosis" target="#CFAwarenessMonth" weight="89" />
+      <edge id="1" source="#Lost" target="#Dog" weight="89" />
+      <edge id="2" source="#Lost" target="#Scanned" weight="89" />
+      <edge id="3" source="#Lost" target="#Reunite" weight="89" />
+      <edge id="4" source="#Scanned" target="#Dog" weight="89" />
+      <edge id="5" source="#Scanned" target="#Reunite" weight="89" />
+      <edge id="6" source="#Reunite" target="#Dog" weight="89" />
+      <edge id="7" source="#GoDaddyPuppy" target="#NoDaddy" weight="89" />
+    </edges>
+  </graph>
+</gexf>

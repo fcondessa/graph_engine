@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#LunchPailD" label="#LunchPailD" />
+      <node id="#Sandman16" label="#Sandman16" />
+      <node id="#buctober" label="#buctober" />
+      <node id="#StartJumping" label="#StartJumping" />
+      <node id="#saturdaysareforthebuckeyes" label="#saturdaysareforthebuckeyes" />
+      <node id="#PailSmack" label="#PailSmack" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#nattytour" label="#nattytour" />
+      <node id="#Hokies" label="#Hokies" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#ItsGood2Be" label="#ItsGood2Be" />
+      <node id="#TheBus" label="#TheBus" />
+      <node id="#raiseit" label="#raiseit" />
+      <node id="#Pittsburgh" label="#Pittsburgh" />
+      <node id="#DBLock" label="#DBLock" />
+      <node id="#WPXI" label="#WPXI" />
+      <node id="#VirginiaTech" label="#VirginiaTech" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#LunchPailD" target="#PailSmack" weight="135" />
+      <edge id="1" source="#LunchPailD" target="#StartJumping" weight="135" />
+      <edge id="2" source="#LunchPailD" target="#DBLock" weight="135" />
+      <edge id="3" source="#Sandman16" target="#Hokies" weight="135" />
+      <edge id="4" source="#buctober" target="#raiseit" weight="135" />
+      <edge id="5" source="#StartJumping" target="#PailSmack" weight="135" />
+      <edge id="6" source="#saturdaysareforthebuckeyes" target="#nattytour" weight="135" />
+      <edge id="7" source="#OhioState" target="#Hokies" weight="135" />
+      <edge id="8" source="#OhioState" target="#VirginiaTech" weight="135" />
+      <edge id="9" source="#Hokies" target="#ItsGood2Be" weight="135" />
+      <edge id="10" source="#Hokies" target="#VirginiaTech" weight="135" />
+      <edge id="11" source="#NFL" target="#WPXI" weight="135" />
+      <edge id="12" source="#TheBus" target="#Pittsburgh" weight="135" />
+    </edges>
+  </graph>
+</gexf>

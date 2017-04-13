@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#agefriendly" label="#agefriendly" />
+      <node id="#PovertyCosts" label="#PovertyCosts" />
+      <node id="#peoplenotpolitics" label="#peoplenotpolitics" />
+      <node id="#register2vote" label="#register2vote" />
+      <node id="#PiDay" label="#PiDay" />
+      <node id="#OpioidEpidemic" label="#OpioidEpidemic" />
+      <node id="#NationalNutritionMonth" label="#NationalNutritionMonth" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#aging" label="#aging" />
+      <node id="#fiscal" label="#fiscal" />
+      <node id="#bigimpact" label="#bigimpact" />
+      <node id="#DataBook" label="#DataBook" />
+      <node id="#BetterLives" label="#BetterLives" />
+      <node id="#localgov" label="#localgov" />
+      <node id="#Healthcare4OH" label="#Healthcare4OH" />
+      <node id="#Election2016" label="#Election2016" />
+      <node id="#affordablehousing" label="#affordablehousing" />
+      <node id="#give4OH" label="#give4OH" />
+      <node id="#housingohio16" label="#housingohio16" />
+      <node id="#HealthyOhio" label="#HealthyOhio" />
+      <node id="#Akron" label="#Akron" />
+      <node id="#ProtectOhioSeniors" label="#ProtectOhioSeniors" />
+      <node id="#medicaidexpansion" label="#medicaidexpansion" />
+      <node id="#worksupport" label="#worksupport" />
+      <node id="#StrongCommunities" label="#StrongCommunities" />
+      <node id="#CCSMedicaid" label="#CCSMedicaid" />
+      <node id="#WorkingFamily" label="#WorkingFamily" />
+      <node id="#CommonCore" label="#CommonCore" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#DD" label="#DD" />
+      <node id="#dentalaccess" label="#dentalaccess" />
+      <node id="#dentalcare" label="#dentalcare" />
+      <node id="#smallchange" label="#smallchange" />
+      <node id="#FoodBanks" label="#FoodBanks" />
+      <node id="#GoogleAlerts" label="#GoogleAlerts" />
+      <node id="#pjnet" label="#pjnet" />
+      <node id="#poverty" label="#poverty" />
+      <node id="#oh4me" label="#oh4me" />
+      <node id="#InvestinKids" label="#InvestinKids" />
+      <node id="#Monroe" label="#Monroe" />
+      <node id="#allpeoplearepriorities" label="#allpeoplearepriorities" />
+      <node id="#HSC" label="#HSC" />
+      <node id="#2million" label="#2million" />
+      <node id="#kasich" label="#kasich" />
+      <node id="#WeFeedCLE" label="#WeFeedCLE" />
+      <node id="#AcceleratedBenefits" label="#AcceleratedBenefits" />
+      <node id="#toughjob" label="#toughjob" />
+      <node id="#povertydata" label="#povertydata" />
+      <node id="#DentalAccessNow" label="#DentalAccessNow" />
+      <node id="#peoplearepriorities" label="#peoplearepriorities" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#RenewUI" label="#RenewUI" />
+      <node id="#innovative" label="#innovative" />
+      <node id="#FoodFri" label="#FoodFri" />
+      <node id="#HealthyStart" label="#HealthyStart" />
+      <node id="#protectseniors" label="#protectseniors" />
+      <node id="#give4oh" label="#give4oh" />
+      <node id="#ohbudget" label="#ohbudget" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#stopthecuts" label="#stopthecuts" />
+      <node id="#OH" label="#OH" />
+      <node id="#jfs" label="#jfs" />
+      <node id="#HealthCare" label="#HealthCare" />
+      <node id="#health4oh" label="#health4oh" />
+      <node id="#MedicaidNow" label="#MedicaidNow" />
+      <node id="#protectOHseniors" label="#protectOHseniors" />
+      <node id="#infantmortality" label="#infantmortality" />
+      <node id="#BuildOnTheTrust" label="#BuildOnTheTrust" />
+      <node id="#HealthServices" label="#HealthServices" />
+      <node id="#followers" label="#followers" />
+      <node id="#talkpovertylive" label="#talkpovertylive" />
+      <node id="#Census2016" label="#Census2016" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#farmersmarkets" label="#farmersmarkets" />
+      <node id="#AdvocacyWins" label="#AdvocacyWins" />
+      <node id="#preschool" label="#preschool" />
+      <node id="#hungry" label="#hungry" />
+      <node id="#AffordableCareAct" label="#AffordableCareAct" />
+      <node id="#Census" label="#Census" />
+      <node id="#Ohioleads" label="#Ohioleads" />
+      <node id="#opportunity" label="#opportunity" />
+      <node id="#HungerActionMonth" label="#HungerActionMonth" />
+      <node id="#healthyohio" label="#healthyohio" />
+      <node id="#strongcommunities" label="#strongcommunities" />
+      <node id="#betterlives" label="#betterlives" />
+      <node id="#Spoontember" label="#Spoontember" />
+      <node id="#dotherightthingOGA" label="#dotherightthingOGA" />
+      <node id="#Children" label="#Children" />
+      <node id="#AgeFriendly" label="#AgeFriendly" />
+      <node id="#Childcare" label="#Childcare" />
+      <node id="#health4OH" label="#health4OH" />
+      <node id="#FF" label="#FF" />
+      <node id="#safekids" label="#safekids" />
+      <node id="#PourItForward" label="#PourItForward" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#Medina" label="#Medina" />
+      <node id="#childpoverty" label="#childpoverty" />
+      <node id="#StopHB394" label="#StopHB394" />
+      <node id="#Thankful" label="#Thankful" />
+      <node id="#SpeakUpCLE" label="#SpeakUpCLE" />
+      <node id="#Follow" label="#Follow" />
+      <node id="#StateOfTheState" label="#StateOfTheState" />
+      <node id="#TalkPoverty" label="#TalkPoverty" />
+      <node id="#KeepOhioansSafeandHealthy" label="#KeepOhioansSafeandHealthy" />
+      <node id="#EITCday" label="#EITCday" />
+      <node id="#BlackHistory" label="#BlackHistory" />
+      <node id="#ProtectOHSeniors" label="#ProtectOHSeniors" />
+      <node id="#statebudget" label="#statebudget" />
+      <node id="#stateofpoverty" label="#stateofpoverty" />
+      <node id="#OHSOP15" label="#OHSOP15" />
+      <node id="#Kasich" label="#Kasich" />
+      <node id="#p2" label="#p2" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#startover394" label="#startover394" />
+      <node id="#me4oh" label="#me4oh" />
+      <node id="#AgeFriendlyCbus" label="#AgeFriendlyCbus" />
+      <node id="#275kohioans" label="#275kohioans" />
+      <node id="#homelessness" label="#homelessness" />
+      <node id="#poorwhileworking" label="#poorwhileworking" />
+      <node id="#Farmbill" label="#Farmbill" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#homeless" label="#homeless" />
+      <node id="#healthcare4oh" label="#healthcare4oh" />
+      <node id="#bridgefarbetter" label="#bridgefarbetter" />
+      <node id="#Cleve" label="#Cleve" />
+      <node id="#SNAPWorks" label="#SNAPWorks" />
+      <node id="#incomeinequality" label="#incomeinequality" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#data" label="#data" />
+      <node id="#Cincy" label="#Cincy" />
+      <node id="#controllingboard" label="#controllingboard" />
+      <node id="#StayCovered" label="#StayCovered" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#history" label="#history" />
+      <node id="#MOW50" label="#MOW50" />
+      <node id="#blackfriday" label="#blackfriday" />
+      <node id="#allOHpeoplearepriorities" label="#allOHpeoplearepriorities" />
+      <node id="#naswswag" label="#naswswag" />
+      <node id="#OhioHouse" label="#OhioHouse" />
+      <node id="#cliff" label="#cliff" />
+      <node id="#SotS" label="#SotS" />
+      <node id="#OHbudget" label="#OHbudget" />
+      <node id="#ohaarp" label="#ohaarp" />
+      <node id="#APforum2014" label="#APforum2014" />
+      <node id="#30WaysIn30Days" label="#30WaysIn30Days" />
+      <node id="#MentalHealth" label="#MentalHealth" />
+      <node id="#elderly" label="#elderly" />
+      <node id="#getcovered" label="#getcovered" />
+      <node id="#fightpoverty" label="#fightpoverty" />
+      <node id="#CivilRights" label="#CivilRights" />
+      <node id="#NotHealthy4Ohio" label="#NotHealthy4Ohio" />
+      <node id="#wearblue" label="#wearblue" />
+      <node id="#OhioBudget" label="#OhioBudget" />
+      <node id="#TANF" label="#TANF" />
+      <node id="#healthcare4OH" label="#healthcare4OH" />
+      <node id="#agefriendlycle" label="#agefriendlycle" />
+      <node id="#SupplementalPovertyMeasure" label="#SupplementalPovertyMeasure" />
+      <node id="#SNAPworks" label="#SNAPworks" />
+      <node id="#health" label="#health" />
+      <node id="#MedicaidExpansion" label="#MedicaidExpansion" />
+      <node id="#StopTheCuts" label="#StopTheCuts" />
+      <node id="#Medicaidexpansion" label="#Medicaidexpansion" />
+      <node id="#HealthyOH" label="#HealthyOH" />
+      <node id="#medicaid" label="#medicaid" />
+      <node id="#Wayne" label="#Wayne" />
+      <node id="#census" label="#census" />
+      <node id="#behavioralhealth" label="#behavioralhealth" />
+      <node id="#PovertyinOhio" label="#PovertyinOhio" />
+      <node id="#RealOhio" label="#RealOhio" />
+      <node id="#london" label="#london" />
+      <node id="#juvenilejustice" label="#juvenilejustice" />
+      <node id="#hb153" label="#hb153" />
+      <node id="#AffordableHousing" label="#AffordableHousing" />
+      <node id="#nextupOhio" label="#nextupOhio" />
+      <node id="#taxes" label="#taxes" />
+      <node id="#investinpeople" label="#investinpeople" />
+      <node id="#PregnancyAndInfantLossRemembranceDay" label="#PregnancyAndInfantLossRemembranceDay" />
+      <node id="#workforcedevelopment" label="#workforcedevelopment" />
+      <node id="#SalsaLabs" label="#SalsaLabs" />
+      <node id="#StartOver394" label="#StartOver394" />
+      <node id="#HungerAction" label="#HungerAction" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#FFE" label="#FFE" />
+      <node id="#CelebrateNVRD" label="#CelebrateNVRD" />
+      <node id="#BrighterTomorrow" label="#BrighterTomorrow" />
+      <node id="#Appalachian" label="#Appalachian" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#HHS" label="#HHS" />
+      <node id="#safeseniors" label="#safeseniors" />
+      <node id="#budget" label="#budget" />
+      <node id="#OHTF" label="#OHTF" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#ControllingBoard" label="#ControllingBoard" />
+      <node id="#Addiction" label="#Addiction" />
+      <node id="#EITC" label="#EITC" />
+      <node id="#OHSOTS" label="#OHSOTS" />
+      <node id="#childcare" label="#childcare" />
+      <node id="#MedicaidInstitue" label="#MedicaidInstitue" />
+      <node id="#YJAM" label="#YJAM" />
+      <node id="#PeopleNotPolitics" label="#PeopleNotPolitics" />
+      <node id="#HB410" label="#HB410" />
+      <node id="#ohiorally" label="#ohiorally" />
+      <node id="#heathcareworks" label="#heathcareworks" />
+      <node id="#hunger" label="#hunger" />
+      <node id="#HealthyCommunities" label="#HealthyCommunities" />
+      <node id="#OnThisDay" label="#OnThisDay" />
+      <node id="#Trumbull" label="#Trumbull" />
+      <node id="#oralhealth" label="#oralhealth" />
+      <node id="#DreamDay" label="#DreamDay" />
+      <node id="#supportwork" label="#supportwork" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#deepfreeze" label="#deepfreeze" />
+      <node id="#StandUpSpeakOut" label="#StandUpSpeakOut" />
+      <node id="#pauseforachild" label="#pauseforachild" />
+      <node id="#ProtectOHKids" label="#ProtectOHKids" />
+      <node id="#PinwheelSelfie" label="#PinwheelSelfie" />
+      <node id="#OHcoverage" label="#OHcoverage" />
+      <node id="#OH4ME" label="#OH4ME" />
+      <node id="#supporttheworkforce" label="#supporttheworkforce" />
+      <node id="#Housing" label="#Housing" />
+      <node id="#WEAAD2015" label="#WEAAD2015" />
+      <node id="#BHM" label="#BHM" />
+      <node id="#OHBudget" label="#OHBudget" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Poverty" label="#Poverty" />
+      <node id="#WEmatter" label="#WEmatter" />
+      <node id="#Julyiscoming" label="#Julyiscoming" />
+      <node id="#FOODBANKfresh" label="#FOODBANKfresh" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#saveOHTF" label="#saveOHTF" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#OHSotS" label="#OHSotS" />
+      <node id="#StateoftheState" label="#StateoftheState" />
+      <node id="#HungerAwareness" label="#HungerAwareness" />
+      <node id="#ECE" label="#ECE" />
+      <node id="#ChildAbuse" label="#ChildAbuse" />
+      <node id="#Veto4ME" label="#Veto4ME" />
+      <node id="#Call211" label="#Call211" />
+      <node id="#APS" label="#APS" />
+      <node id="#haircutsforstories" label="#haircutsforstories" />
+      <node id="#275kOhioans" label="#275kOhioans" />
+      <node id="#SNAP" label="#SNAP" />
+      <node id="#cincy" label="#cincy" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#FridayFact" label="#FridayFact" />
+      <node id="#senior" label="#senior" />
+      <node id="#HB59" label="#HB59" />
+      <node id="#OurStory" label="#OurStory" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#agefriendly" target="#agefriendlycle" weight="2884" />
+      <edge id="1" source="#PovertyCosts" target="#TalkPoverty" weight="2884" />
+      <edge id="2" source="#PovertyCosts" target="#Census" weight="149968" />
+      <edge id="3" source="#PovertyCosts" target="#Census2016" weight="190344" />
+      <edge id="4" source="#peoplenotpolitics" target="#medicaid" weight="2884" />
+      <edge id="5" source="#peoplenotpolitics" target="#health4OH" weight="2884" />
+      <edge id="6" source="#register2vote" target="#CelebrateNVRD" weight="5768" />
+      <edge id="7" source="#register2vote" target="#Election2016" weight="2884" />
+      <edge id="8" source="#PiDay" target="#NotHealthy4Ohio" weight="2884" />
+      <edge id="9" source="#OpioidEpidemic" target="#Ohio" weight="2884" />
+      <edge id="10" source="#NationalNutritionMonth" target="#HealthyStart" weight="2884" />
+      <edge id="11" source="#Cbus" target="#Columbus" weight="2884" />
+      <edge id="12" source="#aging" target="#Follow" weight="2884" />
+      <edge id="13" source="#fiscal" target="#cliff" weight="2884" />
+      <edge id="14" source="#bigimpact" target="#smallchange" weight="2884" />
+      <edge id="15" source="#DataBook" target="#OH" weight="2884" />
+      <edge id="16" source="#BetterLives" target="#StrongCommunities" weight="2884" />
+      <edge id="17" source="#localgov" target="#Medicaid" weight="2884" />
+      <edge id="18" source="#localgov" target="#OHbudget" weight="2884" />
+      <edge id="19" source="#localgov" target="#OH4ME" weight="2884" />
+      <edge id="20" source="#Healthcare4OH" target="#MedicaidExpansion" weight="2884" />
+      <edge id="21" source="#Healthcare4OH" target="#Cleve" weight="2884" />
+      <edge id="22" source="#Election2016" target="#CelebrateNVRD" weight="2884" />
+      <edge id="23" source="#affordablehousing" target="#poorwhileworking" weight="8652" />
+      <edge id="24" source="#affordablehousing" target="#BuildOnTheTrust" weight="2884" />
+      <edge id="25" source="#affordablehousing" target="#OHTF" weight="2884" />
+      <edge id="26" source="#affordablehousing" target="#Ohio" weight="2884" />
+      <edge id="27" source="#give4OH" target="#GivingTuesday" weight="8652" />
+      <edge id="28" source="#housingohio16" target="#poorwhileworking" weight="2884" />
+      <edge id="29" source="#HealthyOhio" target="#poorwhileworking" weight="2884" />
+      <edge id="30" source="#HealthyOhio" target="#poverty" weight="2884" />
+      <edge id="31" source="#HealthyOhio" target="#infantmortality" weight="2884" />
+      <edge id="32" source="#HealthyOhio" target="#healthcare" weight="2884" />
+      <edge id="33" source="#HealthyOhio" target="#oralhealth" weight="2884" />
+      <edge id="34" source="#HealthyOhio" target="#ProtectOhioSeniors" weight="2884" />
+      <edge id="35" source="#HealthyOhio" target="#Medicaid" weight="25956" />
+      <edge id="36" source="#HealthyOhio" target="#DentalAccessNow" weight="2884" />
+      <edge id="37" source="#HealthyOhio" target="#ProtectOHSeniors" weight="2884" />
+      <edge id="38" source="#Akron" target="#jfs" weight="2884" />
+      <edge id="39" source="#Akron" target="#mentalhealth" weight="2884" />
+      <edge id="40" source="#Akron" target="#ohbudget" weight="2884" />
+      <edge id="41" source="#Akron" target="#Cleveland" weight="2884" />
+      <edge id="42" source="#medicaidexpansion" target="#medicaid" weight="2884" />
+      <edge id="43" source="#medicaidexpansion" target="#controllingboard" weight="2884" />
+      <edge id="44" source="#medicaidexpansion" target="#health4oh" weight="2884" />
+      <edge id="45" source="#medicaidexpansion" target="#275kohioans" weight="2884" />
+      <edge id="46" source="#medicaidexpansion" target="#Cleveland" weight="2884" />
+      <edge id="47" source="#worksupport" target="#OHSOTS" weight="2884" />
+      <edge id="48" source="#worksupport" target="#Childcare" weight="5768" />
+      <edge id="49" source="#StrongCommunities" target="#supportwork" weight="2884" />
+      <edge id="50" source="#CCSMedicaid" target="#Medicaid" weight="2884" />
+      <edge id="51" source="#CCSMedicaid" target="#MedicaidInstitue" weight="2884" />
+      <edge id="52" source="#WorkingFamily" target="#poorwhileworking" weight="2884" />
+      <edge id="53" source="#CommonCore" target="#Ohio" weight="2884" />
+      <edge id="54" source="#DidYouKnow" target="#WEAAD2015" weight="2884" />
+      <edge id="55" source="#DD" target="#healthyohio" weight="2884" />
+      <edge id="56" source="#dentalaccess" target="#dentalcare" weight="2884" />
+      <edge id="57" source="#dentalcare" target="#healthcare" weight="2884" />
+      <edge id="58" source="#dentalcare" target="#health" weight="2884" />
+      <edge id="59" source="#FoodBanks" target="#SNAPworks" weight="2884" />
+      <edge id="60" source="#GoogleAlerts" target="#elderly" weight="2884" />
+      <edge id="61" source="#pjnet" target="#history" weight="2884" />
+      <edge id="62" source="#pjnet" target="#OnThisDay" weight="2884" />
+      <edge id="63" source="#poverty" target="#poorwhileworking" weight="2884" />
+      <edge id="64" source="#poverty" target="#census" weight="2884" />
+      <edge id="65" source="#poverty" target="#StopTheCuts" weight="5768" />
+      <edge id="66" source="#poverty" target="#childpoverty" weight="2884" />
+      <edge id="67" source="#poverty" target="#Census" weight="2884" />
+      <edge id="68" source="#poverty" target="#Cincy" weight="2884" />
+      <edge id="69" source="#poverty" target="#Medicaid" weight="2884" />
+      <edge id="70" source="#poverty" target="#Ohio" weight="5768" />
+      <edge id="71" source="#oh4me" target="#mentalhealth" weight="2884" />
+      <edge id="72" source="#InvestinKids" target="#TalkPoverty" weight="2884" />
+      <edge id="73" source="#Monroe" target="#cincy" weight="2884" />
+      <edge id="74" source="#Monroe" target="#health4oh" weight="2884" />
+      <edge id="75" source="#Monroe" target="#Cleveland" weight="2884" />
+      <edge id="76" source="#Monroe" target="#london" weight="2884" />
+      <edge id="77" source="#Monroe" target="#Trumbull" weight="2884" />
+      <edge id="78" source="#allpeoplearepriorities" target="#dotherightthingOGA" weight="14420" />
+      <edge id="79" source="#allpeoplearepriorities" target="#APS" weight="2884" />
+      <edge id="80" source="#allpeoplearepriorities" target="#statebudget" weight="2884" />
+      <edge id="81" source="#allpeoplearepriorities" target="#HealthyOH" weight="2884" />
+      <edge id="82" source="#allpeoplearepriorities" target="#saveOHTF" weight="2884" />
+      <edge id="83" source="#allpeoplearepriorities" target="#TBT" weight="2884" />
+      <edge id="84" source="#HSC" target="#AcceleratedBenefits" weight="2884" />
+      <edge id="85" source="#2million" target="#RenewUI" weight="2884" />
+      <edge id="86" source="#kasich" target="#budget" weight="2884" />
+      <edge id="87" source="#kasich" target="#ohbudget" weight="2884" />
+      <edge id="88" source="#WeFeedCLE" target="#HungerActionMonth" weight="2884" />
+      <edge id="89" source="#toughjob" target="#OHbudget" weight="2884" />
+      <edge id="90" source="#povertydata" target="#poorwhileworking" weight="2884" />
+      <edge id="91" source="#peoplearepriorities" target="#investinpeople" weight="2884" />
+      <edge id="92" source="#Cleveland" target="#health4oh" weight="2884" />
+      <edge id="93" source="#Cleveland" target="#london" weight="2884" />
+      <edge id="94" source="#Cleveland" target="#Trumbull" weight="2884" />
+      <edge id="95" source="#Cleveland" target="#SpeakUpCLE" weight="2884" />
+      <edge id="96" source="#Cleveland" target="#cincy" weight="2884" />
+      <edge id="97" source="#Cleveland" target="#socialmedia" weight="2884" />
+      <edge id="98" source="#Cleveland" target="#FridayFact" weight="2884" />
+      <edge id="99" source="#innovative" target="#haircutsforstories" weight="2884" />
+      <edge id="100" source="#FoodFri" target="#hunger" weight="2884" />
+      <edge id="101" source="#protectseniors" target="#budget" weight="2884" />
+      <edge id="102" source="#give4oh" target="#GivingTuesday" weight="5768" />
+      <edge id="103" source="#ohbudget" target="#Wayne" weight="2884" />
+      <edge id="104" source="#ohbudget" target="#jobs" weight="2884" />
+      <edge id="105" source="#ohbudget" target="#me4oh" weight="2884" />
+      <edge id="106" source="#ohbudget" target="#budget" weight="2884" />
+      <edge id="107" source="#ohbudget" target="#Medina" weight="2884" />
+      <edge id="108" source="#ohbudget" target="#Dayton" weight="2884" />
+      <edge id="109" source="#ohbudget" target="#medicaid" weight="2884" />
+      <edge id="110" source="#ohbudget" target="#mentalhealth" weight="2884" />
+      <edge id="111" source="#ohbudget" target="#hb153" weight="5768" />
+      <edge id="112" source="#ohbudget" target="#ohio" weight="2884" />
+      <edge id="113" source="#Healthcare" target="#Medicaid" weight="2884" />
+      <edge id="114" source="#stopthecuts" target="#poorwhileworking" weight="2884" />
+      <edge id="115" source="#HealthCare" target="#275kOhioans" weight="2884" />
+      <edge id="116" source="#health4oh" target="#london" weight="2884" />
+      <edge id="117" source="#health4oh" target="#Trumbull" weight="2884" />
+      <edge id="118" source="#health4oh" target="#cincy" weight="2884" />
+      <edge id="119" source="#health4oh" target="#heathcareworks" weight="2884" />
+      <edge id="120" source="#health4oh" target="#275kohioans" weight="8652" />
+      <edge id="121" source="#MedicaidNow" target="#Medicaid" weight="2884" />
+      <edge id="122" source="#MedicaidNow" target="#PeopleNotPolitics" weight="2884" />
+      <edge id="123" source="#protectOHseniors" target="#poorwhileworking" weight="5768" />
+      <edge id="124" source="#infantmortality" target="#PregnancyAndInfantLossRemembranceDay" weight="2884" />
+      <edge id="125" source="#BuildOnTheTrust" target="#Ohio" weight="2884" />
+      <edge id="126" source="#HealthServices" target="#Housing" weight="2884" />
+      <edge id="127" source="#followers" target="#data" weight="2884" />
+      <edge id="128" source="#talkpovertylive" target="#WEmatter" weight="2884" />
+      <edge id="129" source="#talkpovertylive" target="#TANF" weight="2884" />
+      <edge id="130" source="#CLE" target="#MedicaidExpansion" weight="2884" />
+      <edge id="131" source="#CLE" target="#HealthyCommunities" weight="2884" />
+      <edge id="132" source="#ICYMI" target="#juvenilejustice" weight="2884" />
+      <edge id="133" source="#ICYMI" target="#StartOver394" weight="2884" />
+      <edge id="134" source="#ICYMI" target="#StateoftheState" weight="2884" />
+      <edge id="135" source="#farmersmarkets" target="#Ohio" weight="2884" />
+      <edge id="136" source="#AdvocacyWins" target="#p2" weight="2884" />
+      <edge id="137" source="#AdvocacyWins" target="#Medicaid" weight="2884" />
+      <edge id="138" source="#preschool" target="#childcare" weight="2884" />
+      <edge id="139" source="#hungry" target="#SNAPWorks" weight="2884" />
+      <edge id="140" source="#AffordableCareAct" target="#getcovered" weight="2884" />
+      <edge id="141" source="#Ohioleads" target="#YJAM" weight="2884" />
+      <edge id="142" source="#opportunity" target="#health" weight="2884" />
+      <edge id="143" source="#HungerActionMonth" target="#FF" weight="2884" />
+      <edge id="144" source="#HungerActionMonth" target="#Spoontember" weight="2884" />
+      <edge id="145" source="#strongcommunities" target="#budget" weight="2884" />
+      <edge id="146" source="#strongcommunities" target="#betterlives" weight="2884" />
+      <edge id="147" source="#betterlives" target="#budget" weight="2884" />
+      <edge id="148" source="#dotherightthingOGA" target="#saveOHTF" weight="14420" />
+      <edge id="149" source="#dotherightthingOGA" target="#TBT" weight="2884" />
+      <edge id="150" source="#dotherightthingOGA" target="#allOHpeoplearepriorities" weight="2884" />
+      <edge id="151" source="#Children" target="#Appalachian" weight="2884" />
+      <edge id="152" source="#AgeFriendly" target="#AgeFriendlyCbus" weight="2884" />
+      <edge id="153" source="#Childcare" target="#OHSOTS" weight="2884" />
+      <edge id="154" source="#Childcare" target="#childcare" weight="2884" />
+      <edge id="155" source="#health4OH" target="#ohaarp" weight="2884" />
+      <edge id="156" source="#FF" target="#HungerAction" weight="2884" />
+      <edge id="157" source="#safekids" target="#safeseniors" weight="2884" />
+      <edge id="158" source="#safekids" target="#Ohio" weight="2884" />
+      <edge id="159" source="#PourItForward" target="#HungerAction" weight="2884" />
+      <edge id="160" source="#Medina" target="#Wayne" weight="2884" />
+      <edge id="161" source="#childpoverty" target="#Ohio" weight="2884" />
+      <edge id="162" source="#StopHB394" target="#poorwhileworking" weight="8652" />
+      <edge id="163" source="#Thankful" target="#MedicaidExpansion" weight="2884" />
+      <edge id="164" source="#SpeakUpCLE" target="#NotHealthy4Ohio" weight="2884" />
+      <edge id="165" source="#StateOfTheState" target="#SotS" weight="2884" />
+      <edge id="166" source="#KeepOhioansSafeandHealthy" target="#HealthyOH" weight="2884" />
+      <edge id="167" source="#EITCday" target="#EITC" weight="2884" />
+      <edge id="168" source="#BlackHistory" target="#CivilRights" weight="2884" />
+      <edge id="169" source="#BlackHistory" target="#BHM" weight="2884" />
+      <edge id="170" source="#ProtectOHSeniors" target="#healthcare" weight="2884" />
+      <edge id="171" source="#stateofpoverty" target="#incomeinequality" weight="2884" />
+      <edge id="172" source="#OHSOP15" target="#poorwhileworking" weight="5768" />
+      <edge id="173" source="#Kasich" target="#Dayton" weight="2884" />
+      <edge id="174" source="#Kasich" target="#OH4ME" weight="2884" />
+      <edge id="175" source="#Kasich" target="#OHbudget" weight="2884" />
+      <edge id="176" source="#Kasich" target="#Medicaid" weight="2884" />
+      <edge id="177" source="#p2" target="#Medicaid" weight="2884" />
+      <edge id="178" source="#mentalhealth" target="#Medicaid" weight="2884" />
+      <edge id="179" source="#startover394" target="#Ohio" weight="2884" />
+      <edge id="180" source="#startover394" target="#naswswag" weight="2884" />
+      <edge id="181" source="#startover394" target="#bridgefarbetter" weight="2884" />
+      <edge id="182" source="#275kohioans" target="#Columbus" weight="2884" />
+      <edge id="183" source="#275kohioans" target="#ohiorally" weight="2884" />
+      <edge id="184" source="#homelessness" target="#juvenilejustice" weight="2884" />
+      <edge id="185" source="#homelessness" target="#healthcare" weight="2884" />
+      <edge id="186" source="#poorwhileworking" target="#OHSOTS" weight="5768" />
+      <edge id="187" source="#poorwhileworking" target="#StopTheCuts" weight="5768" />
+      <edge id="188" source="#poorwhileworking" target="#AffordableHousing" weight="2884" />
+      <edge id="189" source="#poorwhileworking" target="#SupplementalPovertyMeasure" weight="2884" />
+      <edge id="190" source="#poorwhileworking" target="#Medicaid" weight="5768" />
+      <edge id="191" source="#poorwhileworking" target="#Ohio" weight="5768" />
+      <edge id="192" source="#Farmbill" target="#SNAP" weight="2884" />
+      <edge id="193" source="#jobs" target="#ohio" weight="2884" />
+      <edge id="194" source="#homeless" target="#fightpoverty" weight="2884" />
+      <edge id="195" source="#healthcare4oh" target="#Medicaidexpansion" weight="5768" />
+      <edge id="196" source="#Congress" target="#StopTheCuts" weight="2884" />
+      <edge id="197" source="#StayCovered" target="#GetCovered" weight="2884" />
+      <edge id="198" source="#Ohio" target="#FFE" weight="2884" />
+      <edge id="199" source="#Ohio" target="#APforum2014" weight="2884" />
+      <edge id="200" source="#Ohio" target="#safeseniors" weight="2884" />
+      <edge id="201" source="#Ohio" target="#Poverty" weight="5768" />
+      <edge id="202" source="#Ohio" target="#MedicaidExpansion" weight="2884" />
+      <edge id="203" source="#Ohio" target="#Medicaid" weight="8652" />
+      <edge id="204" source="#Ohio" target="#MentalHealth" weight="2884" />
+      <edge id="205" source="#Ohio" target="#Addiction" weight="2884" />
+      <edge id="206" source="#Ohio" target="#OhioHouse" weight="2884" />
+      <edge id="207" source="#history" target="#OnThisDay" weight="2884" />
+      <edge id="208" source="#MOW50" target="#DreamDay" weight="2884" />
+      <edge id="209" source="#blackfriday" target="#GivingTuesday" weight="2884" />
+      <edge id="210" source="#OHbudget" target="#PeopleNotPolitics" weight="2884" />
+      <edge id="211" source="#OHbudget" target="#OH4ME" weight="5768" />
+      <edge id="212" source="#OHbudget" target="#275kOhioans" weight="2884" />
+      <edge id="213" source="#OHbudget" target="#HHS" weight="5768" />
+      <edge id="214" source="#OHbudget" target="#Dayton" weight="2884" />
+      <edge id="215" source="#OHbudget" target="#Medicaidexpansion" weight="2884" />
+      <edge id="216" source="#OHbudget" target="#Julyiscoming" weight="2884" />
+      <edge id="217" source="#OHbudget" target="#Medicaid" weight="5768" />
+      <edge id="218" source="#OHbudget" target="#senior" weight="2884" />
+      <edge id="219" source="#OHbudget" target="#HB59" weight="2884" />
+      <edge id="220" source="#30WaysIn30Days" target="#HungerAwareness" weight="2884" />
+      <edge id="221" source="#MentalHealth" target="#Addiction" weight="2884" />
+      <edge id="222" source="#CivilRights" target="#BHM" weight="2884" />
+      <edge id="223" source="#NotHealthy4Ohio" target="#StandUpSpeakOut" weight="2884" />
+      <edge id="224" source="#NotHealthy4Ohio" target="#Medicaid" weight="43260" />
+      <edge id="225" source="#wearblue" target="#pauseforachild" weight="2884" />
+      <edge id="226" source="#OhioBudget" target="#MedicaidExpansion" weight="2884" />
+      <edge id="227" source="#TANF" target="#WEmatter" weight="2884" />
+      <edge id="228" source="#healthcare4OH" target="#MedicaidExpansion" weight="5768" />
+      <edge id="229" source="#healthcare4OH" target="#Medicaidexpansion" weight="5768" />
+      <edge id="230" source="#healthcare4OH" target="#Medicaid" weight="2884" />
+      <edge id="231" source="#health" target="#Medicaid" weight="11536" />
+      <edge id="232" source="#MedicaidExpansion" target="#Veto4ME" weight="2884" />
+      <edge id="233" source="#MedicaidExpansion" target="#HealthyCommunities" weight="2884" />
+      <edge id="234" source="#MedicaidExpansion" target="#OHBudget" weight="2884" />
+      <edge id="235" source="#MedicaidExpansion" target="#ControllingBoard" weight="2884" />
+      <edge id="236" source="#HealthyOH" target="#ProtectOHKids" weight="2884" />
+      <edge id="237" source="#HealthyOH" target="#behavioralhealth" weight="2884" />
+      <edge id="238" source="#HealthyOH" target="#healthcare" weight="2884" />
+      <edge id="239" source="#HealthyOH" target="#Medicaid" weight="5768" />
+      <edge id="240" source="#medicaid" target="#Dayton" weight="2884" />
+      <edge id="241" source="#PovertyinOhio" target="#supporttheworkforce" weight="2884" />
+      <edge id="242" source="#RealOhio" target="#OHSotS" weight="2884" />
+      <edge id="243" source="#london" target="#cincy" weight="2884" />
+      <edge id="244" source="#london" target="#Trumbull" weight="2884" />
+      <edge id="245" source="#juvenilejustice" target="#HB410" weight="2884" />
+      <edge id="246" source="#juvenilejustice" target="#healthcare" weight="2884" />
+      <edge id="247" source="#nextupOhio" target="#Medicaid" weight="2884" />
+      <edge id="248" source="#taxes" target="#EITC" weight="2884" />
+      <edge id="249" source="#workforcedevelopment" target="#SNAP" weight="2884" />
+      <edge id="250" source="#SalsaLabs" target="#GivingTuesday" weight="2884" />
+      <edge id="251" source="#BrighterTomorrow" target="#ECE" weight="2884" />
+      <edge id="252" source="#OHSOTS" target="#Medicaid" weight="2884" />
+      <edge id="253" source="#MedicaidInstitue" target="#Medicaid" weight="2884" />
+      <edge id="254" source="#PeopleNotPolitics" target="#Medicaid" weight="2884" />
+      <edge id="255" source="#Trumbull" target="#cincy" weight="2884" />
+      <edge id="256" source="#deepfreeze" target="#Call211" weight="2884" />
+      <edge id="257" source="#PinwheelSelfie" target="#ChildAbuse" weight="2884" />
+      <edge id="258" source="#OHcoverage" target="#Medicaid" weight="2884" />
+      <edge id="259" source="#OH4ME" target="#Medicaid" weight="5768" />
+      <edge id="260" source="#OHBudget" target="#Veto4ME" weight="2884" />
+      <edge id="261" source="#FOODBANKfresh" target="#OurStory" weight="2884" />
+      <edge id="262" source="#Medicaid" target="#Medicaid" weight="5768" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,638 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#hud" label="#hud" />
+      <node id="#alisonparker" label="#alisonparker" />
+      <node id="#brownfield" label="#brownfield" />
+      <node id="#mcconnell" label="#mcconnell" />
+      <node id="#RailJobs" label="#RailJobs" />
+      <node id="#carinsurance" label="#carinsurance" />
+      <node id="#BernieSanders" label="#BernieSanders" />
+      <node id="#recession" label="#recession" />
+      <node id="#foxnews" label="#foxnews" />
+      <node id="#economy" label="#economy" />
+      <node id="#economicrecovery" label="#economicrecovery" />
+      <node id="#campaign2016" label="#campaign2016" />
+      <node id="#SanBernadino" label="#SanBernadino" />
+      <node id="#foreigntrade" label="#foreigntrade" />
+      <node id="#CNN" label="#CNN" />
+      <node id="#cars" label="#cars" />
+      <node id="#trump" label="#trump" />
+      <node id="#housing" label="#housing" />
+      <node id="#Recession" label="#Recession" />
+      <node id="#TedCruz" label="#TedCruz" />
+      <node id="#politicalleadership" label="#politicalleadership" />
+      <node id="#vw" label="#vw" />
+      <node id="#noneoftheabove" label="#noneoftheabove" />
+      <node id="#millenials" label="#millenials" />
+      <node id="#FlintWaterCrisis" label="#FlintWaterCrisis" />
+      <node id="#affordablehousing" label="#affordablehousing" />
+      <node id="#wvu" label="#wvu" />
+      <node id="#innercity" label="#innercity" />
+      <node id="#shameonthemedia" label="#shameonthemedia" />
+      <node id="#downtown" label="#downtown" />
+      <node id="#Sick" label="#Sick" />
+      <node id="#apple" label="#apple" />
+      <node id="#rail" label="#rail" />
+      <node id="#EconomicCollapse" label="#EconomicCollapse" />
+      <node id="#Sanders" label="#Sanders" />
+      <node id="#taxcredits" label="#taxcredits" />
+      <node id="#civictech" label="#civictech" />
+      <node id="#retail" label="#retail" />
+      <node id="#egotistical" label="#egotistical" />
+      <node id="#vacantproperties" label="#vacantproperties" />
+      <node id="#millennials" label="#millennials" />
+      <node id="#foodwaste" label="#foodwaste" />
+      <node id="#Municipal" label="#Municipal" />
+      <node id="#well" label="#well" />
+      <node id="#Cruz2016" label="#Cruz2016" />
+      <node id="#schools" label="#schools" />
+      <node id="#SanBernadinoShooting" label="#SanBernadinoShooting" />
+      <node id="#TSA" label="#TSA" />
+      <node id="#clinton2015" label="#clinton2015" />
+      <node id="#communitydevelopment" label="#communitydevelopment" />
+      <node id="#economicoutlook" label="#economicoutlook" />
+      <node id="#neighborhoods" label="#neighborhoods" />
+      <node id="#JobsOhio" label="#JobsOhio" />
+      <node id="#publicengagement" label="#publicengagement" />
+      <node id="#waste" label="#waste" />
+      <node id="#politics" label="#politics" />
+      <node id="#Msnbc" label="#Msnbc" />
+      <node id="#cnn" label="#cnn" />
+      <node id="#urbanism" label="#urbanism" />
+      <node id="#lyft" label="#lyft" />
+      <node id="#reid" label="#reid" />
+      <node id="#localism" label="#localism" />
+      <node id="#kraft" label="#kraft" />
+      <node id="#film" label="#film" />
+      <node id="#planning" label="#planning" />
+      <node id="#Hillary2016" label="#Hillary2016" />
+      <node id="#urbanplanning" label="#urbanplanning" />
+      <node id="#PublicEd" label="#PublicEd" />
+      <node id="#healthinsurance" label="#healthinsurance" />
+      <node id="#corporatewelfare" label="#corporatewelfare" />
+      <node id="#federalbudget" label="#federalbudget" />
+      <node id="#teaparty" label="#teaparty" />
+      <node id="#LASchools" label="#LASchools" />
+      <node id="#corporategreed" label="#corporategreed" />
+      <node id="#patriotism" label="#patriotism" />
+      <node id="#urban" label="#urban" />
+      <node id="#jobcreation" label="#jobcreation" />
+      <node id="#uber" label="#uber" />
+      <node id="#gentrification" label="#gentrification" />
+      <node id="#incentives" label="#incentives" />
+      <node id="#BrettFavre" label="#BrettFavre" />
+      <node id="#wtf" label="#wtf" />
+      <node id="#hero" label="#hero" />
+      <node id="#deniro" label="#deniro" />
+      <node id="#opportunity" label="#opportunity" />
+      <node id="#freight" label="#freight" />
+      <node id="#caraccidents" label="#caraccidents" />
+      <node id="#unemployed" label="#unemployed" />
+      <node id="#scandal" label="#scandal" />
+      <node id="#2016Contest" label="#2016Contest" />
+      <node id="#water" label="#water" />
+      <node id="#livingwages" label="#livingwages" />
+      <node id="#goodeducation" label="#goodeducation" />
+      <node id="#lowincomehousing" label="#lowincomehousing" />
+      <node id="#highwaysafety" label="#highwaysafety" />
+      <node id="#volkswagenscandal" label="#volkswagenscandal" />
+      <node id="#discovery" label="#discovery" />
+      <node id="#gigeconomy" label="#gigeconomy" />
+      <node id="#china" label="#china" />
+      <node id="#equity" label="#equity" />
+      <node id="#volkswagen" label="#volkswagen" />
+      <node id="#MerrickGarland" label="#MerrickGarland" />
+      <node id="#crisismanagement" label="#crisismanagement" />
+      <node id="#facts" label="#facts" />
+      <node id="#foreigncorrespondent" label="#foreigncorrespondent" />
+      <node id="#glitzglammour" label="#glitzglammour" />
+      <node id="#foreignimports" label="#foreignimports" />
+      <node id="#Clinton" label="#Clinton" />
+      <node id="#movies" label="#movies" />
+      <node id="#landgrant" label="#landgrant" />
+      <node id="#filmmaking" label="#filmmaking" />
+      <node id="#whycan" label="#whycan" />
+      <node id="#imports" label="#imports" />
+      <node id="#cruz" label="#cruz" />
+      <node id="#floorflght" label="#floorflght" />
+      <node id="#goodjobsfirst" label="#goodjobsfirst" />
+      <node id="#dysfunction" label="#dysfunction" />
+      <node id="#columbus2020" label="#columbus2020" />
+      <node id="#democracy" label="#democracy" />
+      <node id="#media" label="#media" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#layoffs" label="#layoffs" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#heinz" label="#heinz" />
+      <node id="#census" label="#census" />
+      <node id="#deckthehalls" label="#deckthehalls" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#urbandevelopment" label="#urbandevelopment" />
+      <node id="#unemployment" label="#unemployment" />
+      <node id="#glennbeck" label="#glennbeck" />
+      <node id="#URBANPLANNING" label="#URBANPLANNING" />
+      <node id="#incomeinequality" label="#incomeinequality" />
+      <node id="#EuropeanUnion" label="#EuropeanUnion" />
+      <node id="#MSNBC" label="#MSNBC" />
+      <node id="#SmackCam" label="#SmackCam" />
+      <node id="#andreamitchell" label="#andreamitchell" />
+      <node id="#Millenial" label="#Millenial" />
+      <node id="#indiefilm" label="#indiefilm" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#insulting" label="#insulting" />
+      <node id="#WATCHOUT" label="#WATCHOUT" />
+      <node id="#Flint" label="#Flint" />
+      <node id="#moviequote" label="#moviequote" />
+      <node id="#Bernie2016" label="#Bernie2016" />
+      <node id="#cities" label="#cities" />
+      <node id="#garmentindustry" label="#garmentindustry" />
+      <node id="#fox" label="#fox" />
+      <node id="#space" label="#space" />
+      <node id="#education" label="#education" />
+      <node id="#Kresge" label="#Kresge" />
+      <node id="#economicinclusion" label="#economicinclusion" />
+      <node id="#CDBG" label="#CDBG" />
+      <node id="#flysafe" label="#flysafe" />
+      <node id="#hillary" label="#hillary" />
+      <node id="#kids" label="#kids" />
+      <node id="#adviseandconsent" label="#adviseandconsent" />
+      <node id="#itsashame" label="#itsashame" />
+      <node id="#autosafety" label="#autosafety" />
+      <node id="#driverless" label="#driverless" />
+      <node id="#taxincentives" label="#taxincentives" />
+      <node id="#goodjosfirst" label="#goodjosfirst" />
+      <node id="#cdbg" label="#cdbg" />
+      <node id="#MillennialTalk" label="#MillennialTalk" />
+      <node id="#Kasich2016" label="#Kasich2016" />
+      <node id="#COTA" label="#COTA" />
+      <node id="#johnglenn" label="#johnglenn" />
+      <node id="#MargeGunderson" label="#MargeGunderson" />
+      <node id="#2016elections" label="#2016elections" />
+      <node id="#canwecompete" label="#canwecompete" />
+      <node id="#steviewonder" label="#steviewonder" />
+      <node id="#BartStarr" label="#BartStarr" />
+      <node id="#school" label="#school" />
+      <node id="#darrengoforth" label="#darrengoforth" />
+      <node id="#tech" label="#tech" />
+      <node id="#complacency" label="#complacency" />
+      <node id="#congress" label="#congress" />
+      <node id="#workforcedevelopment" label="#workforcedevelopment" />
+      <node id="#Trump2016" label="#Trump2016" />
+      <node id="#movie" label="#movie" />
+      <node id="#transit" label="#transit" />
+      <node id="#FederalBudget" label="#FederalBudget" />
+      <node id="#autonomous" label="#autonomous" />
+      <node id="#inequality" label="#inequality" />
+      <node id="#google" label="#google" />
+      <node id="#transportation" label="#transportation" />
+      <node id="#andraday" label="#andraday" />
+      <node id="#bankruptcy" label="#bankruptcy" />
+      <node id="#classy" label="#classy" />
+      <node id="#GlennBeck" label="#GlennBeck" />
+      <node id="#brownfields" label="#brownfields" />
+      <node id="#reshoring" label="#reshoring" />
+      <node id="#LAUSD" label="#LAUSD" />
+      <node id="#sanbernadino" label="#sanbernadino" />
+      <node id="#CDFA" label="#CDFA" />
+      <node id="#trump2016" label="#trump2016" />
+      <node id="#shame" label="#shame" />
+      <node id="#HillaryClinton" label="#HillaryClinton" />
+      <node id="#conspiracytheory" label="#conspiracytheory" />
+      <node id="#economicdevelopment" label="#economicdevelopment" />
+      <node id="#taxabatement" label="#taxabatement" />
+      <node id="#Hillary" label="#Hillary" />
+      <node id="#vwscandal" label="#vwscandal" />
+      <node id="#landuse" label="#landuse" />
+      <node id="#auto" label="#auto" />
+      <node id="#politicalcraziness" label="#politicalcraziness" />
+      <node id="#whitehouse" label="#whitehouse" />
+      <node id="#poverty" label="#poverty" />
+      <node id="#sanders2016" label="#sanders2016" />
+      <node id="#lowwages" label="#lowwages" />
+      <node id="#rustbelt" label="#rustbelt" />
+      <node id="#madeinusa" label="#madeinusa" />
+      <node id="#Detroit187" label="#Detroit187" />
+      <node id="#livingwage" label="#livingwage" />
+      <node id="#Equityworks" label="#Equityworks" />
+      <node id="#GOPspeakout" label="#GOPspeakout" />
+      <node id="#neighborhood" label="#neighborhood" />
+      <node id="#olderamericans" label="#olderamericans" />
+      <node id="#americanapparel" label="#americanapparel" />
+      <node id="#solar" label="#solar" />
+      <node id="#biden2016" label="#biden2016" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#blacklivesmatter" label="#blacklivesmatter" />
+      <node id="#parks" label="#parks" />
+      <node id="#hollywoodcareer" label="#hollywoodcareer" />
+      <node id="#infrastructure" label="#infrastructure" />
+      <node id="#mediaexcess" label="#mediaexcess" />
+      <node id="#economicgrowth" label="#economicgrowth" />
+      <node id="#MORPC" label="#MORPC" />
+      <node id="#littleoscar" label="#littleoscar" />
+      <node id="#kraftheinz" label="#kraftheinz" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#donaldtrump" label="#donaldtrump" />
+      <node id="#fuel" label="#fuel" />
+      <node id="#michaelbrown" label="#michaelbrown" />
+      <node id="#trends" label="#trends" />
+      <node id="#economicinequality" label="#economicinequality" />
+      <node id="#garment" label="#garment" />
+      <node id="#msnbc" label="#msnbc" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#community" label="#community" />
+      <node id="#StevieWonder" label="#StevieWonder" />
+      <node id="#abusive" label="#abusive" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#hud" target="#housing" weight="1739" />
+      <edge id="1" source="#hud" target="#FederalBudget" weight="1739" />
+      <edge id="2" source="#hud" target="#communitydevelopment" weight="3478" />
+      <edge id="3" source="#hud" target="#cdbg" weight="3478" />
+      <edge id="4" source="#alisonparker" target="#darrengoforth" weight="1739" />
+      <edge id="5" source="#alisonparker" target="#wtf" weight="1739" />
+      <edge id="6" source="#alisonparker" target="#michaelbrown" weight="1739" />
+      <edge id="7" source="#alisonparker" target="#shame" weight="1739" />
+      <edge id="8" source="#brownfield" target="#manufacturing" weight="1739" />
+      <edge id="9" source="#mcconnell" target="#glennbeck" weight="1739" />
+      <edge id="10" source="#mcconnell" target="#reid" weight="1739" />
+      <edge id="11" source="#mcconnell" target="#politics" weight="1739" />
+      <edge id="12" source="#RailJobs" target="#economicgrowth" weight="1739" />
+      <edge id="13" source="#carinsurance" target="#driverless" weight="1739" />
+      <edge id="14" source="#carinsurance" target="#uber" weight="1739" />
+      <edge id="15" source="#BernieSanders" target="#HillaryClinton" weight="3478" />
+      <edge id="16" source="#BernieSanders" target="#neighborhood" weight="1739" />
+      <edge id="17" source="#BernieSanders" target="#Hillary" weight="1739" />
+      <edge id="18" source="#BernieSanders" target="#campaign2016" weight="1739" />
+      <edge id="19" source="#recession" target="#transit" weight="1739" />
+      <edge id="20" source="#recession" target="#goodeducation" weight="1739" />
+      <edge id="21" source="#recession" target="#uber" weight="1739" />
+      <edge id="22" source="#recession" target="#economicinclusion" weight="1739" />
+      <edge id="23" source="#recession" target="#unemployment" weight="1739" />
+      <edge id="24" source="#recession" target="#economy" weight="1739" />
+      <edge id="25" source="#recession" target="#unemployed" weight="1739" />
+      <edge id="26" source="#recession" target="#Equityworks" weight="1739" />
+      <edge id="27" source="#foxnews" target="#mediaexcess" weight="1739" />
+      <edge id="28" source="#foxnews" target="#CNN" weight="3478" />
+      <edge id="29" source="#foxnews" target="#Msnbc" weight="1739" />
+      <edge id="30" source="#foxnews" target="#MSNBC" weight="1739" />
+      <edge id="31" source="#foxnews" target="#shameonthemedia" weight="1739" />
+      <edge id="32" source="#foxnews" target="#cnn" weight="3478" />
+      <edge id="33" source="#foxnews" target="#msnbc" weight="3478" />
+      <edge id="34" source="#economy" target="#education" weight="1739" />
+      <edge id="35" source="#economy" target="#jobs" weight="3478" />
+      <edge id="36" source="#economy" target="#livingwage" weight="3478" />
+      <edge id="37" source="#economy" target="#economy" weight="3478" />
+      <edge id="38" source="#economy" target="#unemployed" weight="1739" />
+      <edge id="39" source="#economy" target="#manufacturing" weight="6956" />
+      <edge id="40" source="#economy" target="#urban" weight="1739" />
+      <edge id="41" source="#economy" target="#Equityworks" weight="1739" />
+      <edge id="42" source="#economicrecovery" target="#goodjosfirst" weight="1739" />
+      <edge id="43" source="#economicrecovery" target="#reshoring" weight="1739" />
+      <edge id="44" source="#economicrecovery" target="#manufacturing" weight="3478" />
+      <edge id="45" source="#campaign2016" target="#floorflght" weight="1739" />
+      <edge id="46" source="#campaign2016" target="#Hillary" weight="1739" />
+      <edge id="47" source="#campaign2016" target="#noneoftheabove" weight="1739" />
+      <edge id="48" source="#SanBernadino" target="#msnbc" weight="1739" />
+      <edge id="49" source="#foreigntrade" target="#livingwage" weight="1739" />
+      <edge id="50" source="#foreigntrade" target="#imports" weight="1739" />
+      <edge id="51" source="#foreigntrade" target="#manufacturing" weight="1739" />
+      <edge id="52" source="#foreigntrade" target="#bankruptcy" weight="1739" />
+      <edge id="53" source="#CNN" target="#shameonthemedia" weight="1739" />
+      <edge id="54" source="#CNN" target="#Msnbc" weight="1739" />
+      <edge id="55" source="#CNN" target="#MSNBC" weight="1739" />
+      <edge id="56" source="#cars" target="#solar" weight="1739" />
+      <edge id="57" source="#cars" target="#fuel" weight="1739" />
+      <edge id="58" source="#trump" target="#hillary" weight="1739" />
+      <edge id="59" source="#trump" target="#politicalcraziness" weight="1739" />
+      <edge id="60" source="#trump" target="#Sanders" weight="1739" />
+      <edge id="61" source="#trump" target="#Hillary" weight="1739" />
+      <edge id="62" source="#trump" target="#cruz" weight="1739" />
+      <edge id="63" source="#trump" target="#glennbeck" weight="1739" />
+      <edge id="64" source="#trump" target="#well" weight="1739" />
+      <edge id="65" source="#housing" target="#FederalBudget" weight="1739" />
+      <edge id="66" source="#housing" target="#communitydevelopment" weight="1739" />
+      <edge id="67" source="#housing" target="#cdbg" weight="1739" />
+      <edge id="68" source="#Recession" target="#transit" weight="1739" />
+      <edge id="69" source="#Recession" target="#education" weight="1739" />
+      <edge id="70" source="#Recession" target="#unemployment" weight="1739" />
+      <edge id="71" source="#Recession" target="#economicoutlook" weight="1739" />
+      <edge id="72" source="#TedCruz" target="#WATCHOUT" weight="1739" />
+      <edge id="73" source="#TedCruz" target="#deniro" weight="1739" />
+      <edge id="74" source="#politicalleadership" target="#FlintWaterCrisis" weight="1739" />
+      <edge id="75" source="#politicalleadership" target="#Municipal" weight="1739" />
+      <edge id="76" source="#vw" target="#vwscandal" weight="1739" />
+      <edge id="77" source="#vw" target="#volkswagen" weight="1739" />
+      <edge id="78" source="#noneoftheabove" target="#floorflght" weight="1739" />
+      <edge id="79" source="#millenials" target="#media" weight="1739" />
+      <edge id="80" source="#millenials" target="#SanBernadinoShooting" weight="1739" />
+      <edge id="81" source="#FlintWaterCrisis" target="#infrastructure" weight="1739" />
+      <edge id="82" source="#FlintWaterCrisis" target="#Flint" weight="1739" />
+      <edge id="83" source="#FlintWaterCrisis" target="#crisismanagement" weight="1739" />
+      <edge id="84" source="#FlintWaterCrisis" target="#Municipal" weight="1739" />
+      <edge id="85" source="#affordablehousing" target="#transit" weight="1739" />
+      <edge id="86" source="#affordablehousing" target="#education" weight="1739" />
+      <edge id="87" source="#affordablehousing" target="#economicinequality" weight="1739" />
+      <edge id="88" source="#wvu" target="#volkswagen" weight="1739" />
+      <edge id="89" source="#wvu" target="#volkswagenscandal" weight="3478" />
+      <edge id="90" source="#innercity" target="#urbandevelopment" weight="1739" />
+      <edge id="91" source="#innercity" target="#poverty" weight="1739" />
+      <edge id="92" source="#shameonthemedia" target="#Msnbc" weight="1739" />
+      <edge id="93" source="#downtown" target="#millennials" weight="3478" />
+      <edge id="94" source="#downtown" target="#urbanplanning" weight="1739" />
+      <edge id="95" source="#downtown" target="#kids" weight="1739" />
+      <edge id="96" source="#Sick" target="#SmackCam" weight="1739" />
+      <edge id="97" source="#apple" target="#deckthehalls" weight="1739" />
+      <edge id="98" source="#apple" target="#blacklivesmatter" weight="10434" />
+      <edge id="99" source="#apple" target="#andraday" weight="6956" />
+      <edge id="100" source="#apple" target="#steviewonder" weight="10434" />
+      <edge id="101" source="#apple" target="#StevieWonder" weight="1739" />
+      <edge id="102" source="#rail" target="#sustainability" weight="1739" />
+      <edge id="103" source="#EconomicCollapse" target="#uber" weight="1739" />
+      <edge id="104" source="#EconomicCollapse" target="#tech" weight="1739" />
+      <edge id="105" source="#Sanders" target="#Trump2016" weight="1739" />
+      <edge id="106" source="#Sanders" target="#hillary" weight="1739" />
+      <edge id="107" source="#Sanders" target="#2016Contest" weight="1739" />
+      <edge id="108" source="#Sanders" target="#cruz" weight="1739" />
+      <edge id="109" source="#taxcredits" target="#film" weight="1739" />
+      <edge id="110" source="#taxcredits" target="#movies" weight="1739" />
+      <edge id="111" source="#civictech" target="#publicengagement" weight="1739" />
+      <edge id="112" source="#retail" target="#trends" weight="1739" />
+      <edge id="113" source="#retail" target="#garmentindustry" weight="1739" />
+      <edge id="114" source="#retail" target="#americanapparel" weight="1739" />
+      <edge id="115" source="#egotistical" target="#insulting" weight="1739" />
+      <edge id="116" source="#egotistical" target="#abusive" weight="1739" />
+      <edge id="117" source="#vacantproperties" target="#planning" weight="1739" />
+      <edge id="118" source="#vacantproperties" target="#community" weight="1739" />
+      <edge id="119" source="#vacantproperties" target="#manufacturing" weight="1739" />
+      <edge id="120" source="#millennials" target="#urbanplanning" weight="1739" />
+      <edge id="121" source="#millennials" target="#kids" weight="1739" />
+      <edge id="122" source="#foodwaste" target="#sustainability" weight="1739" />
+      <edge id="123" source="#foodwaste" target="#waste" weight="1739" />
+      <edge id="124" source="#well" target="#Hillary" weight="1739" />
+      <edge id="125" source="#Cruz2016" target="#Trump2016" weight="1739" />
+      <edge id="126" source="#Cruz2016" target="#Kasich2016" weight="1739" />
+      <edge id="127" source="#schools" target="#education" weight="1739" />
+      <edge id="128" source="#schools" target="#urbandevelopment" weight="1739" />
+      <edge id="129" source="#SanBernadinoShooting" target="#media" weight="1739" />
+      <edge id="130" source="#TSA" target="#flysafe" weight="1739" />
+      <edge id="131" source="#clinton2015" target="#biden2016" weight="1739" />
+      <edge id="132" source="#clinton2015" target="#sanders2016" weight="1739" />
+      <edge id="133" source="#clinton2015" target="#trump2016" weight="1739" />
+      <edge id="134" source="#communitydevelopment" target="#filmmaking" weight="1739" />
+      <edge id="135" source="#communitydevelopment" target="#FederalBudget" weight="1739" />
+      <edge id="136" source="#communitydevelopment" target="#cdbg" weight="3478" />
+      <edge id="137" source="#communitydevelopment" target="#movie" weight="1739" />
+      <edge id="138" source="#economicoutlook" target="#transit" weight="1739" />
+      <edge id="139" source="#economicoutlook" target="#education" weight="1739" />
+      <edge id="140" source="#economicoutlook" target="#unemployment" weight="1739" />
+      <edge id="141" source="#neighborhoods" target="#transit" weight="1739" />
+      <edge id="142" source="#neighborhoods" target="#gentrification" weight="1739" />
+      <edge id="143" source="#neighborhoods" target="#poverty" weight="1739" />
+      <edge id="144" source="#JobsOhio" target="#columbus2020" weight="1739" />
+      <edge id="145" source="#waste" target="#sustainability" weight="1739" />
+      <edge id="146" source="#politics" target="#glennbeck" weight="1739" />
+      <edge id="147" source="#politics" target="#reid" weight="1739" />
+      <edge id="148" source="#cnn" target="#sanbernadino" weight="1739" />
+      <edge id="149" source="#cnn" target="#msnbc" weight="5217" />
+      <edge id="150" source="#cnn" target="#fox" weight="1739" />
+      <edge id="151" source="#cnn" target="#mediaexcess" weight="1739" />
+      <edge id="152" source="#urbanism" target="#education" weight="1739" />
+      <edge id="153" source="#lyft" target="#gigeconomy" weight="1739" />
+      <edge id="154" source="#lyft" target="#uber" weight="5217" />
+      <edge id="155" source="#lyft" target="#unemployment" weight="1739" />
+      <edge id="156" source="#lyft" target="#incomeinequality" weight="1739" />
+      <edge id="157" source="#lyft" target="#healthinsurance" weight="1739" />
+      <edge id="158" source="#reid" target="#glennbeck" weight="1739" />
+      <edge id="159" source="#localism" target="#cities" weight="1739" />
+      <edge id="160" source="#kraft" target="#heinz" weight="3478" />
+      <edge id="161" source="#kraft" target="#corporategreed" weight="3478" />
+      <edge id="162" source="#kraft" target="#layoffs" weight="1739" />
+      <edge id="163" source="#kraft" target="#economicdevelopment" weight="1739" />
+      <edge id="164" source="#film" target="#movies" weight="1739" />
+      <edge id="165" source="#planning" target="#URBANPLANNING" weight="1739" />
+      <edge id="166" source="#planning" target="#landuse" weight="1739" />
+      <edge id="167" source="#planning" target="#brownfields" weight="1739" />
+      <edge id="168" source="#planning" target="#community" weight="1739" />
+      <edge id="169" source="#planning" target="#manufacturing" weight="3478" />
+      <edge id="170" source="#Hillary2016" target="#Bernie2016" weight="3478" />
+      <edge id="171" source="#Hillary2016" target="#complacency" weight="1739" />
+      <edge id="172" source="#Hillary2016" target="#Trump2016" weight="1739" />
+      <edge id="173" source="#Hillary2016" target="#GOPspeakout" weight="1739" />
+      <edge id="174" source="#urbanplanning" target="#education" weight="1739" />
+      <edge id="175" source="#urbanplanning" target="#rustbelt" weight="1739" />
+      <edge id="176" source="#urbanplanning" target="#manufacturing" weight="3478" />
+      <edge id="177" source="#urbanplanning" target="#Millenial" weight="1739" />
+      <edge id="178" source="#PublicEd" target="#school" weight="1739" />
+      <edge id="179" source="#PublicEd" target="#equity" weight="1739" />
+      <edge id="180" source="#healthinsurance" target="#incomeinequality" weight="1739" />
+      <edge id="181" source="#healthinsurance" target="#uber" weight="1739" />
+      <edge id="182" source="#corporatewelfare" target="#taxabatement" weight="1739" />
+      <edge id="183" source="#corporatewelfare" target="#economicdevelopment" weight="1739" />
+      <edge id="184" source="#federalbudget" target="#community" weight="1739" />
+      <edge id="185" source="#federalbudget" target="#CDBG" weight="1739" />
+      <edge id="186" source="#teaparty" target="#census" weight="26085" />
+      <edge id="187" source="#teaparty" target="#2016elections" weight="1739" />
+      <edge id="188" source="#teaparty" target="#GOP" weight="24346" />
+      <edge id="189" source="#teaparty" target="#conspiracytheory" weight="1739" />
+      <edge id="190" source="#teaparty" target="#facts" weight="24346" />
+      <edge id="191" source="#LASchools" target="#LAUSD" weight="1739" />
+      <edge id="192" source="#corporategreed" target="#heinz" weight="3478" />
+      <edge id="193" source="#corporategreed" target="#layoffs" weight="1739" />
+      <edge id="194" source="#corporategreed" target="#economicdevelopment" weight="1739" />
+      <edge id="195" source="#patriotism" target="#GlennBeck" weight="1739" />
+      <edge id="196" source="#patriotism" target="#democracy" weight="1739" />
+      <edge id="197" source="#urban" target="#neighborhood" weight="1739" />
+      <edge id="198" source="#urban" target="#poverty" weight="1739" />
+      <edge id="199" source="#urban" target="#education" weight="1739" />
+      <edge id="200" source="#jobcreation" target="#livingwages" weight="1739" />
+      <edge id="201" source="#jobcreation" target="#manufacturing" weight="1739" />
+      <edge id="202" source="#jobcreation" target="#economicdevelopment" weight="1739" />
+      <edge id="203" source="#uber" target="#inequality" weight="1739" />
+      <edge id="204" source="#uber" target="#google" weight="1739" />
+      <edge id="205" source="#uber" target="#tech" weight="1739" />
+      <edge id="206" source="#uber" target="#unemployment" weight="3478" />
+      <edge id="207" source="#uber" target="#driverless" weight="3478" />
+      <edge id="208" source="#uber" target="#incomeinequality" weight="6956" />
+      <edge id="209" source="#uber" target="#healthcare" weight="1739" />
+      <edge id="210" source="#uber" target="#gigeconomy" weight="1739" />
+      <edge id="211" source="#gentrification" target="#transit" weight="1739" />
+      <edge id="212" source="#gentrification" target="#neighborhood" weight="1739" />
+      <edge id="213" source="#gentrification" target="#lowincomehousing" weight="1739" />
+      <edge id="214" source="#gentrification" target="#poverty" weight="5217" />
+      <edge id="215" source="#incentives" target="#goodjobsfirst" weight="1739" />
+      <edge id="216" source="#incentives" target="#taxabatement" weight="1739" />
+      <edge id="217" source="#BrettFavre" target="#classy" weight="1739" />
+      <edge id="218" source="#BrettFavre" target="#BartStarr" weight="1739" />
+      <edge id="219" source="#wtf" target="#darrengoforth" weight="1739" />
+      <edge id="220" source="#wtf" target="#michaelbrown" weight="1739" />
+      <edge id="221" source="#wtf" target="#shame" weight="1739" />
+      <edge id="222" source="#hero" target="#johnglenn" weight="1739" />
+      <edge id="223" source="#hero" target="#discovery" weight="1739" />
+      <edge id="224" source="#hero" target="#space" weight="1739" />
+      <edge id="225" source="#deniro" target="#WATCHOUT" weight="1739" />
+      <edge id="226" source="#opportunity" target="#workforcedevelopment" weight="1739" />
+      <edge id="227" source="#opportunity" target="#jobs" weight="1739" />
+      <edge id="228" source="#freight" target="#infrastructure" weight="1739" />
+      <edge id="229" source="#freight" target="#jobs" weight="1739" />
+      <edge id="230" source="#freight" target="#economicdevelopment" weight="1739" />
+      <edge id="231" source="#caraccidents" target="#driverless" weight="1739" />
+      <edge id="232" source="#caraccidents" target="#highwaysafety" weight="1739" />
+      <edge id="233" source="#unemployed" target="#Equityworks" weight="1739" />
+      <edge id="234" source="#scandal" target="#auto" weight="1739" />
+      <edge id="235" source="#scandal" target="#volkswagen" weight="1739" />
+      <edge id="236" source="#2016Contest" target="#Trump2016" weight="1739" />
+      <edge id="237" source="#water" target="#Flint" weight="1739" />
+      <edge id="238" source="#livingwages" target="#manufacturing" weight="1739" />
+      <edge id="239" source="#goodeducation" target="#transit" weight="1739" />
+      <edge id="240" source="#goodeducation" target="#economicinclusion" weight="1739" />
+      <edge id="241" source="#lowincomehousing" target="#poverty" weight="1739" />
+      <edge id="242" source="#highwaysafety" target="#driverless" weight="1739" />
+      <edge id="243" source="#volkswagenscandal" target="#landgrant" weight="1739" />
+      <edge id="244" source="#volkswagenscandal" target="#education" weight="1739" />
+      <edge id="245" source="#volkswagenscandal" target="#volkswagen" weight="10434" />
+      <edge id="246" source="#discovery" target="#johnglenn" weight="1739" />
+      <edge id="247" source="#discovery" target="#space" weight="1739" />
+      <edge id="248" source="#china" target="#madeinusa" weight="1739" />
+      <edge id="249" source="#china" target="#garment" weight="1739" />
+      <edge id="250" source="#china" target="#lowwages" weight="1739" />
+      <edge id="251" source="#china" target="#americanapparel" weight="1739" />
+      <edge id="252" source="#china" target="#imports" weight="1739" />
+      <edge id="253" source="#equity" target="#school" weight="1739" />
+      <edge id="254" source="#volkswagen" target="#vwscandal" weight="3478" />
+      <edge id="255" source="#volkswagen" target="#auto" weight="1739" />
+      <edge id="256" source="#MerrickGarland" target="#adviseandconsent" weight="1739" />
+      <edge id="257" source="#MerrickGarland" target="#hollywoodcareer" weight="1739" />
+      <edge id="258" source="#facts" target="#census" weight="24346" />
+      <edge id="259" source="#facts" target="#GOP" weight="24346" />
+      <edge id="260" source="#foreigncorrespondent" target="#EuropeanUnion" weight="1739" />
+      <edge id="261" source="#foreigncorrespondent" target="#moviequote" weight="1739" />
+      <edge id="262" source="#glitzglammour" target="#filmmaking" weight="1739" />
+      <edge id="263" source="#glitzglammour" target="#indiefilm" weight="1739" />
+      <edge id="264" source="#foreignimports" target="#madeinusa" weight="1739" />
+      <edge id="265" source="#foreignimports" target="#livingwage" weight="1739" />
+      <edge id="266" source="#foreignimports" target="#canwecompete" weight="1739" />
+      <edge id="267" source="#foreignimports" target="#bankruptcy" weight="1739" />
+      <edge id="268" source="#Clinton" target="#sanders2016" weight="1739" />
+      <edge id="269" source="#movies" target="#filmmaking" weight="1739" />
+      <edge id="270" source="#movies" target="#economicdevelopment" weight="1739" />
+      <edge id="271" source="#landgrant" target="#education" weight="1739" />
+      <edge id="272" source="#filmmaking" target="#indiefilm" weight="1739" />
+      <edge id="273" source="#filmmaking" target="#economicdevelopment" weight="1739" />
+      <edge id="274" source="#filmmaking" target="#movie" weight="1739" />
+      <edge id="275" source="#whycan" target="#glennbeck" weight="1739" />
+      <edge id="276" source="#whycan" target="#donaldtrump" weight="1739" />
+      <edge id="277" source="#imports" target="#madeinusa" weight="1739" />
+      <edge id="278" source="#imports" target="#bankruptcy" weight="1739" />
+      <edge id="279" source="#cruz" target="#hillary" weight="1739" />
+      <edge id="280" source="#goodjobsfirst" target="#taxabatement" weight="1739" />
+      <edge id="281" source="#dysfunction" target="#johnglenn" weight="1739" />
+      <edge id="282" source="#dysfunction" target="#space" weight="1739" />
+      <edge id="283" source="#democracy" target="#GlennBeck" weight="1739" />
+      <edge id="284" source="#manufacturing" target="#goodjosfirst" weight="1739" />
+      <edge id="285" source="#manufacturing" target="#jobs" weight="3478" />
+      <edge id="286" source="#manufacturing" target="#reshoring" weight="1739" />
+      <edge id="287" source="#manufacturing" target="#livingwage" weight="3478" />
+      <edge id="288" source="#manufacturing" target="#urbandevelopment" weight="3478" />
+      <edge id="289" source="#manufacturing" target="#rustbelt" weight="1739" />
+      <edge id="290" source="#manufacturing" target="#landuse" weight="1739" />
+      <edge id="291" source="#manufacturing" target="#brownfields" weight="3478" />
+      <edge id="292" source="#manufacturing" target="#community" weight="1739" />
+      <edge id="293" source="#layoffs" target="#heinz" weight="1739" />
+      <edge id="294" source="#jobs" target="#infrastructure" weight="1739" />
+      <edge id="295" source="#jobs" target="#economicdevelopment" weight="1739" />
+      <edge id="296" source="#jobs" target="#workforcedevelopment" weight="1739" />
+      <edge id="297" source="#heinz" target="#economicdevelopment" weight="1739" />
+      <edge id="298" source="#census" target="#2016elections" weight="1739" />
+      <edge id="299" source="#census" target="#GOP" weight="24346" />
+      <edge id="300" source="#census" target="#conspiracytheory" weight="1739" />
+      <edge id="301" source="#deckthehalls" target="#StevieWonder" weight="1739" />
+      <edge id="302" source="#insurance" target="#driverless" weight="1739" />
+      <edge id="303" source="#insurance" target="#autosafety" weight="1739" />
+      <edge id="304" source="#urbandevelopment" target="#education" weight="1739" />
+      <edge id="305" source="#urbandevelopment" target="#poverty" weight="1739" />
+      <edge id="306" source="#urbandevelopment" target="#brownfields" weight="3478" />
+      <edge id="307" source="#unemployment" target="#transit" weight="1739" />
+      <edge id="308" source="#unemployment" target="#education" weight="1739" />
+      <edge id="309" source="#glennbeck" target="#politicalcraziness" weight="1739" />
+      <edge id="310" source="#glennbeck" target="#donaldtrump" weight="1739" />
+      <edge id="311" source="#URBANPLANNING" target="#brownfields" weight="1739" />
+      <edge id="312" source="#incomeinequality" target="#inequality" weight="1739" />
+      <edge id="313" source="#incomeinequality" target="#healthcare" weight="1739" />
+      <edge id="314" source="#EuropeanUnion" target="#moviequote" weight="1739" />
+      <edge id="315" source="#andreamitchell" target="#msnbc" weight="1739" />
+      <edge id="316" source="#Millenial" target="#education" weight="1739" />
+      <edge id="317" source="#insulting" target="#abusive" weight="1739" />
+      <edge id="318" source="#Flint" target="#infrastructure" weight="1739" />
+      <edge id="319" source="#Bernie2016" target="#Trump2016" weight="1739" />
+      <edge id="320" source="#garmentindustry" target="#trends" weight="1739" />
+      <edge id="321" source="#garmentindustry" target="#americanapparel" weight="1739" />
+      <edge id="322" source="#fox" target="#sanbernadino" weight="1739" />
+      <edge id="323" source="#fox" target="#msnbc" weight="1739" />
+      <edge id="324" source="#space" target="#johnglenn" weight="5217" />
+      <edge id="325" source="#space" target="#olderamericans" weight="1739" />
+      <edge id="326" source="#education" target="#transit" weight="3478" />
+      <edge id="327" source="#education" target="#MillennialTalk" weight="1739" />
+      <edge id="328" source="#education" target="#transportation" weight="1739" />
+      <edge id="329" source="#education" target="#economicinequality" weight="1739" />
+      <edge id="330" source="#education" target="#neighborhood" weight="1739" />
+      <edge id="331" source="#Kresge" target="#CDFA" weight="1739" />
+      <edge id="332" source="#economicinclusion" target="#transit" weight="1739" />
+      <edge id="333" source="#CDBG" target="#community" weight="1739" />
+      <edge id="334" source="#adviseandconsent" target="#hollywoodcareer" weight="1739" />
+      <edge id="335" source="#itsashame" target="#transit" weight="1739" />
+      <edge id="336" source="#itsashame" target="#healthcare" weight="1739" />
+      <edge id="337" source="#itsashame" target="#poverty" weight="1739" />
+      <edge id="338" source="#autosafety" target="#driverless" weight="1739" />
+      <edge id="339" source="#driverless" target="#autonomous" weight="1739" />
+      <edge id="340" source="#driverless" target="#google" weight="1739" />
+      <edge id="341" source="#driverless" target="#parks" weight="1739" />
+      <edge id="342" source="#taxincentives" target="#kraftheinz" weight="1739" />
+      <edge id="343" source="#taxincentives" target="#littleoscar" weight="1739" />
+      <edge id="344" source="#cdbg" target="#FederalBudget" weight="1739" />
+      <edge id="345" source="#Kasich2016" target="#Trump2016" weight="1739" />
+      <edge id="346" source="#COTA" target="#CBUS" weight="1739" />
+      <edge id="347" source="#COTA" target="#MORPC" weight="1739" />
+      <edge id="348" source="#johnglenn" target="#olderamericans" weight="1739" />
+      <edge id="349" source="#MargeGunderson" target="#Detroit187" weight="1739" />
+      <edge id="350" source="#2016elections" target="#conspiracytheory" weight="1739" />
+      <edge id="351" source="#canwecompete" target="#bankruptcy" weight="1739" />
+      <edge id="352" source="#steviewonder" target="#blacklivesmatter" weight="10434" />
+      <edge id="353" source="#steviewonder" target="#andraday" weight="6956" />
+      <edge id="354" source="#BartStarr" target="#classy" weight="1739" />
+      <edge id="355" source="#darrengoforth" target="#michaelbrown" weight="1739" />
+      <edge id="356" source="#darrengoforth" target="#shame" weight="1739" />
+      <edge id="357" source="#complacency" target="#GOPspeakout" weight="1739" />
+      <edge id="358" source="#congress" target="#whitehouse" weight="1739" />
+      <edge id="359" source="#transit" target="#neighborhood" weight="1739" />
+      <edge id="360" source="#transit" target="#economicinequality" weight="1739" />
+      <edge id="361" source="#transit" target="#healthcare" weight="3478" />
+      <edge id="362" source="#transit" target="#poverty" weight="5217" />
+      <edge id="363" source="#autonomous" target="#parks" weight="1739" />
+      <edge id="364" source="#transportation" target="#neighborhood" weight="1739" />
+      <edge id="365" source="#andraday" target="#blacklivesmatter" weight="6956" />
+      <edge id="366" source="#bankruptcy" target="#madeinusa" weight="1739" />
+      <edge id="367" source="#sanbernadino" target="#msnbc" weight="1739" />
+      <edge id="368" source="#trump2016" target="#biden2016" weight="1739" />
+      <edge id="369" source="#trump2016" target="#sanders2016" weight="1739" />
+      <edge id="370" source="#shame" target="#michaelbrown" weight="1739" />
+      <edge id="371" source="#HillaryClinton" target="#neighborhood" weight="1739" />
+      <edge id="372" source="#economicdevelopment" target="#infrastructure" weight="1739" />
+      <edge id="373" source="#economicdevelopment" target="#taxabatement" weight="1739" />
+      <edge id="374" source="#poverty" target="#neighborhood" weight="3478" />
+      <edge id="375" source="#poverty" target="#healthcare" weight="3478" />
+      <edge id="376" source="#sanders2016" target="#biden2016" weight="1739" />
+      <edge id="377" source="#lowwages" target="#garment" weight="1739" />
+      <edge id="378" source="#lowwages" target="#americanapparel" weight="1739" />
+      <edge id="379" source="#madeinusa" target="#livingwage" weight="1739" />
+      <edge id="380" source="#neighborhood" target="#healthcare" weight="1739" />
+      <edge id="381" source="#americanapparel" target="#trends" weight="1739" />
+      <edge id="382" source="#americanapparel" target="#garment" weight="1739" />
+      <edge id="383" source="#solar" target="#fuel" weight="1739" />
+      <edge id="384" source="#mediaexcess" target="#msnbc" weight="1739" />
+      <edge id="385" source="#MORPC" target="#CBUS" weight="1739" />
+      <edge id="386" source="#littleoscar" target="#kraftheinz" weight="1739" />
+    </edges>
+  </graph>
+</gexf>
