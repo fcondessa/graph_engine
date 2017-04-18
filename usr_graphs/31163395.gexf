@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#hobowithashotgun" label="#hobowithashotgun" />
+      <node id="#cv" label="#cv" />
+      <node id="#Colorful" label="#Colorful" />
+      <node id="#movie" label="#movie" />
+      <node id="#design" label="#design" />
+      <node id="#Wrigleyville" label="#Wrigleyville" />
+      <node id="#Reese" label="#Reese" />
+      <node id="#Resume" label="#Resume" />
+      <node id="#roundup" label="#roundup" />
+      <node id="#showcase" label="#showcase" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#beck" label="#beck" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#Witherspoon" label="#Witherspoon" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#crazycrackerz" label="#crazycrackerz" />
+      <node id="#SU" label="#SU" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#hobowithashotgun" target="#movie" weight="79" />
+      <edge id="1" source="#cv" target="#inspiration" weight="79" />
+      <edge id="2" source="#cv" target="#showcase" weight="79" />
+      <edge id="3" source="#cv" target="#roundup" weight="79" />
+      <edge id="4" source="#cv" target="#Resume" weight="79" />
+      <edge id="5" source="#Colorful" target="#inspiration" weight="79" />
+      <edge id="6" source="#Colorful" target="#showcase" weight="79" />
+      <edge id="7" source="#Colorful" target="#design" weight="79" />
+      <edge id="8" source="#design" target="#inspiration" weight="79" />
+      <edge id="9" source="#design" target="#showcase" weight="79" />
+      <edge id="10" source="#Wrigleyville" target="#Chicago" weight="79" />
+      <edge id="11" source="#Reese" target="#SU" weight="79" />
+      <edge id="12" source="#Reese" target="#Witherspoon" weight="79" />
+      <edge id="13" source="#Reese" target="#crazycrackerz" weight="79" />
+      <edge id="14" source="#Resume" target="#inspiration" weight="79" />
+      <edge id="15" source="#Resume" target="#showcase" weight="79" />
+      <edge id="16" source="#Resume" target="#roundup" weight="79" />
+      <edge id="17" source="#roundup" target="#inspiration" weight="79" />
+      <edge id="18" source="#roundup" target="#showcase" weight="79" />
+      <edge id="19" source="#showcase" target="#inspiration" weight="158" />
+      <edge id="20" source="#beck" target="#hcr" weight="79" />
+      <edge id="21" source="#Witherspoon" target="#SU" weight="79" />
+      <edge id="22" source="#Witherspoon" target="#crazycrackerz" weight="79" />
+      <edge id="23" source="#crazycrackerz" target="#SU" weight="79" />
+    </edges>
+  </graph>
+</gexf>

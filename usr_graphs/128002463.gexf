@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Winery" label="#Winery" />
+      <node id="#app" label="#app" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#hiking" label="#hiking" />
+      <node id="#farm" label="#farm" />
+      <node id="#WW" label="#WW" />
+      <node id="#winesister" label="#winesister" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#travel" label="#travel" />
+      <node id="#cooking" label="#cooking" />
+      <node id="#ag" label="#ag" />
+      <node id="#justsayin" label="#justsayin" />
+      <node id="#wine" label="#wine" />
+      <node id="#recipe" label="#recipe" />
+      <node id="#FF" label="#FF" />
+      <node id="#vegan" label="#vegan" />
+      <node id="#fb" label="#fb" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#BaconLoversDay" label="#BaconLoversDay" />
+      <node id="#photography" label="#photography" />
+      <node id="#Flickr" label="#Flickr" />
+      <node id="#Wine" label="#Wine" />
+      <node id="#WineWednesday" label="#WineWednesday" />
+      <node id="#Breweries" label="#Breweries" />
+      <node id="#architecture" label="#architecture" />
+      <node id="#recipes" label="#recipes" />
+      <node id="#Food" label="#Food" />
+      <node id="#OHIO" label="#OHIO" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Winery" target="#farm" weight="1433" />
+      <edge id="1" source="#Winery" target="#ag" weight="1433" />
+      <edge id="2" source="#Winery" target="#wine" weight="1433" />
+      <edge id="3" source="#app" target="#wine" weight="1433" />
+      <edge id="4" source="#app" target="#winesister" weight="1433" />
+      <edge id="5" source="#Ohio" target="#photography" weight="1433" />
+      <edge id="6" source="#Ohio" target="#Flickr" weight="1433" />
+      <edge id="7" source="#Ohio" target="#travel" weight="1433" />
+      <edge id="8" source="#Ohio" target="#hiking" weight="1433" />
+      <edge id="9" source="#Ohio" target="#architecture" weight="1433" />
+      <edge id="10" source="#farm" target="#ag" weight="1433" />
+      <edge id="11" source="#farm" target="#wine" weight="1433" />
+      <edge id="12" source="#WW" target="#wine" weight="1433" />
+      <edge id="13" source="#winesister" target="#wine" weight="1433" />
+      <edge id="14" source="#DidYouKnow" target="#BaconLoversDay" weight="1433" />
+      <edge id="15" source="#travel" target="#photography" weight="1433" />
+      <edge id="16" source="#travel" target="#Flickr" weight="1433" />
+      <edge id="17" source="#travel" target="#architecture" weight="1433" />
+      <edge id="18" source="#cooking" target="#recipes" weight="1433" />
+      <edge id="19" source="#ag" target="#wine" weight="1433" />
+      <edge id="20" source="#justsayin" target="#vegan" weight="1433" />
+      <edge id="21" source="#wine" target="#recipe" weight="1433" />
+      <edge id="22" source="#wine" target="#FF" weight="1433" />
+      <edge id="23" source="#wine" target="#fb" weight="1433" />
+      <edge id="24" source="#wine" target="#WineWednesday" weight="1433" />
+      <edge id="25" source="#FF" target="#fb" weight="1433" />
+      <edge id="26" source="#FF" target="#Columbus" weight="1433" />
+      <edge id="27" source="#photography" target="#Flickr" weight="1433" />
+      <edge id="28" source="#photography" target="#architecture" weight="1433" />
+      <edge id="29" source="#Flickr" target="#architecture" weight="1433" />
+      <edge id="30" source="#Wine" target="#Food" weight="1433" />
+      <edge id="31" source="#Breweries" target="#OHIO" weight="1433" />
+    </edges>
+  </graph>
+</gexf>

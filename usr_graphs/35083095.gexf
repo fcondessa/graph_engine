@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#rsd2012" label="#rsd2012" />
+      <node id="#cbusjukebox" label="#cbusjukebox" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#columbusjukebox" label="#columbusjukebox" />
+      <node id="#backingband" label="#backingband" />
+      <node id="#notbyus" label="#notbyus" />
+      <node id="#loopus" label="#loopus" />
+      <node id="#butcomeon" label="#butcomeon" />
+      <node id="#firemeyer" label="#firemeyer" />
+      <node id="#weplaysecondbitch" label="#weplaysecondbitch" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#rsd2012" target="#firemeyer" weight="122" />
+      <edge id="1" source="#cbusjukebox" target="#loopus" weight="122" />
+      <edge id="2" source="#cbusjukebox" target="#backingband" weight="122" />
+      <edge id="3" source="#gobucks" target="#butcomeon" weight="122" />
+      <edge id="4" source="#columbusjukebox" target="#loopus" weight="122" />
+      <edge id="5" source="#backingband" target="#loopus" weight="122" />
+      <edge id="6" source="#notbyus" target="#weplaysecondbitch" weight="122" />
+    </edges>
+  </graph>
+</gexf>

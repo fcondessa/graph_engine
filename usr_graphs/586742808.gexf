@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#AWP15" label="#AWP15" />
+      <node id="#poetry" label="#poetry" />
+      <node id="#submit" label="#submit" />
+      <node id="#restaurants" label="#restaurants" />
+      <node id="#art" label="#art" />
+      <node id="#Nevada" label="#Nevada" />
+      <node id="#pacers" label="#pacers" />
+      <node id="#books" label="#books" />
+      <node id="#fiction" label="#fiction" />
+      <node id="#Sunset" label="#Sunset" />
+      <node id="#YouSeeWhatIDidThere" label="#YouSeeWhatIDidThere" />
+      <node id="#nights" label="#nights" />
+      <node id="#Luck" label="#Luck" />
+      <node id="#writers" label="#writers" />
+      <node id="#travel" label="#travel" />
+      <node id="#revise" label="#revise" />
+      <node id="#burn" label="#burn" />
+      <node id="#FallColors" label="#FallColors" />
+      <node id="#grind" label="#grind" />
+      <node id="#glass" label="#glass" />
+      <node id="#Colts" label="#Colts" />
+      <node id="#poets" label="#poets" />
+      <node id="#heart" label="#heart" />
+      <node id="#dark" label="#dark" />
+      <node id="#AddAWordRuinAMovie" label="#AddAWordRuinAMovie" />
+      <node id="#IBelieveBlackLivesMatter" label="#IBelieveBlackLivesMatter" />
+      <node id="#AWP" label="#AWP" />
+      <node id="#MFAs" label="#MFAs" />
+      <node id="#Reno" label="#Reno" />
+      <node id="#crime" label="#crime" />
+      <node id="#givingback" label="#givingback" />
+      <node id="#workshop" label="#workshop" />
+      <node id="#AllLivesMatter" label="#AllLivesMatter" />
+      <node id="#TDSBreakingNews" label="#TDSBreakingNews" />
+      <node id="#DailyShowLive" label="#DailyShowLive" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#MourdockLoses" label="#MourdockLoses" />
+      <node id="#UNR" label="#UNR" />
+      <node id="#MFA" label="#MFA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#AWP15" target="#crime" weight="291" />
+      <edge id="1" source="#poetry" target="#revise" weight="291" />
+      <edge id="2" source="#poetry" target="#burn" weight="291" />
+      <edge id="3" source="#poetry" target="#workshop" weight="291" />
+      <edge id="4" source="#poetry" target="#FallColors" weight="291" />
+      <edge id="5" source="#poetry" target="#UNR" weight="291" />
+      <edge id="6" source="#poetry" target="#MFA" weight="873" />
+      <edge id="7" source="#poetry" target="#fiction" weight="582" />
+      <edge id="8" source="#submit" target="#UNR" weight="291" />
+      <edge id="9" source="#submit" target="#MFA" weight="291" />
+      <edge id="10" source="#submit" target="#writers" weight="291" />
+      <edge id="11" source="#restaurants" target="#travel" weight="291" />
+      <edge id="12" source="#restaurants" target="#nights" weight="291" />
+      <edge id="13" source="#restaurants" target="#MFAs" weight="291" />
+      <edge id="14" source="#restaurants" target="#AWP" weight="291" />
+      <edge id="15" source="#art" target="#books" weight="291" />
+      <edge id="16" source="#art" target="#glass" weight="291" />
+      <edge id="17" source="#Nevada" target="#Reno" weight="291" />
+      <edge id="18" source="#Nevada" target="#Sunset" weight="291" />
+      <edge id="19" source="#pacers" target="#givingback" weight="291" />
+      <edge id="20" source="#books" target="#glass" weight="291" />
+      <edge id="21" source="#fiction" target="#MFA" weight="582" />
+      <edge id="22" source="#fiction" target="#FallColors" weight="291" />
+      <edge id="23" source="#Sunset" target="#Reno" weight="291" />
+      <edge id="24" source="#YouSeeWhatIDidThere" target="#AddAWordRuinAMovie" weight="291" />
+      <edge id="25" source="#nights" target="#travel" weight="291" />
+      <edge id="26" source="#nights" target="#AWP" weight="291" />
+      <edge id="27" source="#nights" target="#MFAs" weight="291" />
+      <edge id="28" source="#Luck" target="#NFL" weight="291" />
+      <edge id="29" source="#Luck" target="#Colts" weight="291" />
+      <edge id="30" source="#writers" target="#UNR" weight="291" />
+      <edge id="31" source="#writers" target="#MFA" weight="291" />
+      <edge id="32" source="#travel" target="#MFAs" weight="291" />
+      <edge id="33" source="#travel" target="#AWP" weight="291" />
+      <edge id="34" source="#revise" target="#UNR" weight="291" />
+      <edge id="35" source="#revise" target="#burn" weight="291" />
+      <edge id="36" source="#revise" target="#MFA" weight="291" />
+      <edge id="37" source="#revise" target="#workshop" weight="291" />
+      <edge id="38" source="#burn" target="#UNR" weight="291" />
+      <edge id="39" source="#burn" target="#MFA" weight="291" />
+      <edge id="40" source="#burn" target="#workshop" weight="291" />
+      <edge id="41" source="#FallColors" target="#MFA" weight="291" />
+      <edge id="42" source="#grind" target="#poets" weight="291" />
+      <edge id="43" source="#Colts" target="#NFL" weight="291" />
+      <edge id="44" source="#heart" target="#UNR" weight="291" />
+      <edge id="45" source="#heart" target="#MFA" weight="291" />
+      <edge id="46" source="#heart" target="#dark" weight="291" />
+      <edge id="47" source="#dark" target="#UNR" weight="291" />
+      <edge id="48" source="#dark" target="#MFA" weight="291" />
+      <edge id="49" source="#IBelieveBlackLivesMatter" target="#AllLivesMatter" weight="291" />
+      <edge id="50" source="#AWP" target="#MFAs" weight="291" />
+      <edge id="51" source="#workshop" target="#MFA" weight="291" />
+      <edge id="52" source="#workshop" target="#UNR" weight="291" />
+      <edge id="53" source="#TDSBreakingNews" target="#DailyShowLive" weight="582" />
+      <edge id="54" source="#TDSBreakingNews" target="#MourdockLoses" weight="291" />
+      <edge id="55" source="#DailyShowLive" target="#MourdockLoses" weight="291" />
+      <edge id="56" source="#UNR" target="#MFA" weight="1164" />
+    </edges>
+  </graph>
+</gexf>

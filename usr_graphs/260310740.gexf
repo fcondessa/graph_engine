@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#happyinCLE" label="#happyinCLE" />
+      <node id="#pressclubcleve" label="#pressclubcleve" />
+      <node id="#PressClubCleve" label="#PressClubCleve" />
+      <node id="#journalism" label="#journalism" />
+      <node id="#freelancewriter" label="#freelancewriter" />
+      <node id="#HouseOfBlues" label="#HouseOfBlues" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#HallOfFame" label="#HallOfFame" />
+      <node id="#MrPeanut" label="#MrPeanut" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#editor" label="#editor" />
+      <node id="#ProgressiveField" label="#ProgressiveField" />
+      <node id="#Believeland" label="#Believeland" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#pressclubcle" label="#pressclubcle" />
+      <node id="#RNC2016" label="#RNC2016" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#happyinCLE" target="#PressClubCleve" weight="536" />
+      <edge id="1" source="#pressclubcleve" target="#HouseOfBlues" weight="268" />
+      <edge id="2" source="#PressClubCleve" target="#Cleveland" weight="268" />
+      <edge id="3" source="#PressClubCleve" target="#ProgressiveField" weight="268" />
+      <edge id="4" source="#PressClubCleve" target="#RNCinCLE" weight="268" />
+      <edge id="5" source="#PressClubCleve" target="#CLE" weight="268" />
+      <edge id="6" source="#PressClubCleve" target="#RNC" weight="536" />
+      <edge id="7" source="#PressClubCleve" target="#RNC2016" weight="268" />
+      <edge id="8" source="#journalism" target="#pressclubcle" weight="268" />
+      <edge id="9" source="#journalism" target="#CLE" weight="268" />
+      <edge id="10" source="#freelancewriter" target="#editor" weight="536" />
+      <edge id="11" source="#RNCinCLE" target="#Believeland" weight="268" />
+      <edge id="12" source="#HallOfFame" target="#MrPeanut" weight="268" />
+      <edge id="13" source="#Cleveland" target="#RNC" weight="268" />
+      <edge id="14" source="#ProgressiveField" target="#RNC2016" weight="268" />
+      <edge id="15" source="#CLE" target="#pressclubcle" weight="268" />
+    </edges>
+  </graph>
+</gexf>

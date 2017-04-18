@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ValentineDay" label="#ValentineDay" />
+      <node id="#organdonors" label="#organdonors" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#pregnancies" label="#pregnancies" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#fertility" label="#fertility" />
+      <node id="#Buckeye4Life" label="#Buckeye4Life" />
+      <node id="#SafeSleep" label="#SafeSleep" />
+      <node id="#TheJames" label="#TheJames" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#IVF" label="#IVF" />
+      <node id="#Surrogacy" label="#Surrogacy" />
+      <node id="#WorldHypertensionDay" label="#WorldHypertensionDay" />
+      <node id="#zikavirus" label="#zikavirus" />
+      <node id="#bfing" label="#bfing" />
+      <node id="#infertility" label="#infertility" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#Doctor" label="#Doctor" />
+      <node id="#breastfeeding" label="#breastfeeding" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#Fertility" label="#Fertility" />
+      <node id="#ivf" label="#ivf" />
+      <node id="#presidentsday" label="#presidentsday" />
+      <node id="#Celebrities" label="#Celebrities" />
+      <node id="#SIDS" label="#SIDS" />
+      <node id="#health" label="#health" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#IUI" label="#IUI" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Cooking" label="#Cooking" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#bedrest" label="#bedrest" />
+      <node id="#NIIW" label="#NIIW" />
+      <node id="#transfer" label="#transfer" />
+      <node id="#babies" label="#babies" />
+      <node id="#April" label="#April" />
+      <node id="#vaccines" label="#vaccines" />
+      <node id="#zika" label="#zika" />
+      <node id="#prescribe" label="#prescribe" />
+      <node id="#pregnant" label="#pregnant" />
+      <node id="#WorldCancerDay" label="#WorldCancerDay" />
+      <node id="#Zika" label="#Zika" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ValentineDay" target="#columbus" weight="123" />
+      <edge id="1" source="#organdonors" target="#Buckeye4Life" weight="123" />
+      <edge id="2" source="#organdonors" target="#April" weight="123" />
+      <edge id="3" source="#veterans" target="#IVF" weight="123" />
+      <edge id="4" source="#veterans" target="#Congress" weight="123" />
+      <edge id="5" source="#pregnancies" target="#IVF" weight="123" />
+      <edge id="6" source="#Congress" target="#IVF" weight="123" />
+      <edge id="7" source="#fertility" target="#infertility" weight="246" />
+      <edge id="8" source="#fertility" target="#IVF" weight="246" />
+      <edge id="9" source="#fertility" target="#Celebrities" weight="123" />
+      <edge id="10" source="#Buckeye4Life" target="#April" weight="123" />
+      <edge id="11" source="#SafeSleep" target="#SIDS" weight="123" />
+      <edge id="12" source="#TheJames" target="#IVF" weight="123" />
+      <edge id="13" source="#TheJames" target="#Fertility" weight="123" />
+      <edge id="14" source="#Ohio" target="#presidentsday" weight="123" />
+      <edge id="15" source="#Ohio" target="#Columbus" weight="369" />
+      <edge id="16" source="#Ohio" target="#Fertility" weight="123" />
+      <edge id="17" source="#IVF" target="#infertility" weight="369" />
+      <edge id="18" source="#IVF" target="#Celebrities" weight="123" />
+      <edge id="19" source="#IVF" target="#Surrogacy" weight="123" />
+      <edge id="20" source="#IVF" target="#IUI" weight="123" />
+      <edge id="21" source="#IVF" target="#Fertility" weight="123" />
+      <edge id="22" source="#IVF" target="#Columbus" weight="123" />
+      <edge id="23" source="#Surrogacy" target="#IUI" weight="123" />
+      <edge id="24" source="#WorldHypertensionDay" target="#Doctor" weight="123" />
+      <edge id="25" source="#zikavirus" target="#zika" weight="123" />
+      <edge id="26" source="#bfing" target="#breastfeeding" weight="123" />
+      <edge id="27" source="#bfing" target="#babies" weight="123" />
+      <edge id="28" source="#infertility" target="#Celebrities" weight="123" />
+      <edge id="29" source="#cancer" target="#Fertility" weight="123" />
+      <edge id="30" source="#cancer" target="#WorldCancerDay" weight="123" />
+      <edge id="31" source="#breastfeeding" target="#babies" weight="123" />
+      <edge id="32" source="#Fertility" target="#Columbus" weight="123" />
+      <edge id="33" source="#Fertility" target="#WorldCancerDay" weight="123" />
+      <edge id="34" source="#ivf" target="#bedrest" weight="123" />
+      <edge id="35" source="#ivf" target="#transfer" weight="123" />
+      <edge id="36" source="#presidentsday" target="#Columbus" weight="123" />
+      <edge id="37" source="#health" target="#motivation" weight="123" />
+      <edge id="38" source="#healthcare" target="#Cooking" weight="123" />
+      <edge id="39" source="#healthcare" target="#prescribe" weight="123" />
+      <edge id="40" source="#Cooking" target="#prescribe" weight="123" />
+      <edge id="41" source="#bedrest" target="#transfer" weight="123" />
+      <edge id="42" source="#NIIW" target="#vaccines" weight="123" />
+      <edge id="43" source="#pregnant" target="#Zika" weight="123" />
+    </edges>
+  </graph>
+</gexf>

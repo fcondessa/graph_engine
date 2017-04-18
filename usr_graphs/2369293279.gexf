@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#shirleyspopcorn" label="#shirleyspopcorn" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Findlay" label="#Findlay" />
+      <node id="#blufftonpubliclibrary" label="#blufftonpubliclibrary" />
+      <node id="#runforliteracy" label="#runforliteracy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#shirleyspopcorn" target="#blufftonpubliclibrary" weight="130" />
+      <edge id="1" source="#shirleyspopcorn" target="#runforliteracy" weight="130" />
+      <edge id="2" source="#Ohio" target="#Findlay" weight="130" />
+      <edge id="3" source="#blufftonpubliclibrary" target="#runforliteracy" weight="130" />
+    </edges>
+  </graph>
+</gexf>

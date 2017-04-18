@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ShowYourLove" label="#ShowYourLove" />
+      <node id="#HIMSS14" label="#HIMSS14" />
+      <node id="#immuno" label="#immuno" />
+      <node id="#nuclearmedicine" label="#nuclearmedicine" />
+      <node id="#CathLab" label="#CathLab" />
+      <node id="#OneGoal" label="#OneGoal" />
+      <node id="#POPhealth" label="#POPhealth" />
+      <node id="#patientcare" label="#patientcare" />
+      <node id="#radiology" label="#radiology" />
+      <node id="#GoRed" label="#GoRed" />
+      <node id="#GenerationRx" label="#GenerationRx" />
+      <node id="#value" label="#value" />
+      <node id="#Inspire2Act" label="#Inspire2Act" />
+      <node id="#RBCDC" label="#RBCDC" />
+      <node id="#DigiGirlz" label="#DigiGirlz" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#raredisease" label="#raredisease" />
+      <node id="#MCCSM" label="#MCCSM" />
+      <node id="#AHRMM16" label="#AHRMM16" />
+      <node id="#platinum" label="#platinum" />
+      <node id="#essentialinsights" label="#essentialinsights" />
+      <node id="#ISPORMontreal" label="#ISPORMontreal" />
+      <node id="#MedicalDevice" label="#MedicalDevice" />
+      <node id="#onegoal" label="#onegoal" />
+      <node id="#ccceoinsights" label="#ccceoinsights" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#DealBreakerIn3Words" label="#DealBreakerIn3Words" />
+      <node id="#SNMMI16" label="#SNMMI16" />
+      <node id="#urEssential" label="#urEssential" />
+      <node id="#ThankAPharmacist" label="#ThankAPharmacist" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Pharmacist" label="#Pharmacist" />
+      <node id="#LogimedUSA" label="#LogimedUSA" />
+      <node id="#Pelotonia15" label="#Pelotonia15" />
+      <node id="#CRT2015" label="#CRT2015" />
+      <node id="#Logimed" label="#Logimed" />
+      <node id="#MedicationSafety" label="#MedicationSafety" />
+      <node id="#BestPractice" label="#BestPractice" />
+      <node id="#SCWeek" label="#SCWeek" />
+      <node id="#medsync" label="#medsync" />
+      <node id="#PharmTech" label="#PharmTech" />
+      <node id="#BreastCancerAwareness" label="#BreastCancerAwareness" />
+      <node id="#hospitalpharmacy" label="#hospitalpharmacy" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#NMEW" label="#NMEW" />
+      <node id="#payingitforward" label="#payingitforward" />
+      <node id="#WoundedWarriorProject" label="#WoundedWarriorProject" />
+      <node id="#APhM2016" label="#APhM2016" />
+      <node id="#lifegoals" label="#lifegoals" />
+      <node id="#ISPORMilan" label="#ISPORMilan" />
+      <node id="#PrideMonth" label="#PrideMonth" />
+      <node id="#BusinessAppreciation" label="#BusinessAppreciation" />
+      <node id="#Pelotonia13" label="#Pelotonia13" />
+      <node id="#Connect" label="#Connect" />
+      <node id="#beproud" label="#beproud" />
+      <node id="#FourthofJuly" label="#FourthofJuly" />
+      <node id="#TCT2014" label="#TCT2014" />
+      <node id="#CIO" label="#CIO" />
+      <node id="#woundcare" label="#woundcare" />
+      <node id="#ForTheCup" label="#ForTheCup" />
+      <node id="#HeartMonth" label="#HeartMonth" />
+      <node id="#WM100Best" label="#WM100Best" />
+      <node id="#Asembia16" label="#Asembia16" />
+      <node id="#Management" label="#Management" />
+      <node id="#ForColumbus" label="#ForColumbus" />
+      <node id="#CbusConnect" label="#CbusConnect" />
+      <node id="#IoT" label="#IoT" />
+      <node id="#digital" label="#digital" />
+      <node id="#vandyhcc" label="#vandyhcc" />
+      <node id="#specialtypharmacy" label="#specialtypharmacy" />
+      <node id="#RBCWin" label="#RBCWin" />
+      <node id="#ISPOR20" label="#ISPOR20" />
+      <node id="#FastFact" label="#FastFact" />
+      <node id="#communitypharmacy" label="#communitypharmacy" />
+      <node id="#TEDxColumbus" label="#TEDxColumbus" />
+      <node id="#RBCSeattle" label="#RBCSeattle" />
+      <node id="#keepingfamiliesclose" label="#keepingfamiliesclose" />
+      <node id="#ceo" label="#ceo" />
+      <node id="#SAWCFall" label="#SAWCFall" />
+      <node id="#ACR15" label="#ACR15" />
+      <node id="#HEOR" label="#HEOR" />
+      <node id="#SAWCspring" label="#SAWCspring" />
+      <node id="#Technology" label="#Technology" />
+      <node id="#thankyou" label="#thankyou" />
+      <node id="#EssentialInsights" label="#EssentialInsights" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#CTISummit2015" label="#CTISummit2015" />
+      <node id="#ptsafety" label="#ptsafety" />
+      <node id="#RNspires" label="#RNspires" />
+      <node id="#CHSSArmada15" label="#CHSSArmada15" />
+      <node id="#communitypharmacist" label="#communitypharmacist" />
+      <node id="#PSAW2012" label="#PSAW2012" />
+      <node id="#ISPORPhila" label="#ISPORPhila" />
+      <node id="#AONE2016" label="#AONE2016" />
+      <node id="#Surgical" label="#Surgical" />
+      <node id="#DMC2015" label="#DMC2015" />
+      <node id="#WalkCbus" label="#WalkCbus" />
+      <node id="#nursing" label="#nursing" />
+      <node id="#rheumatology" label="#rheumatology" />
+      <node id="#CbusRMH" label="#CbusRMH" />
+      <node id="#Solutions" label="#Solutions" />
+      <node id="#ACC15" label="#ACC15" />
+      <node id="#oncology" label="#oncology" />
+      <node id="#wearpink" label="#wearpink" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#AHRMM13" label="#AHRMM13" />
+      <node id="#CardinalHealth" label="#CardinalHealth" />
+      <node id="#FightFlu" label="#FightFlu" />
+      <node id="#givingback" label="#givingback" />
+      <node id="#lifeiswhy" label="#lifeiswhy" />
+      <node id="#essentialtooncology" label="#essentialtooncology" />
+      <node id="#TrackingMynxAndFlash" label="#TrackingMynxAndFlash" />
+      <node id="#FiresideChatOSU" label="#FiresideChatOSU" />
+      <node id="#iamrxrevolution" label="#iamrxrevolution" />
+      <node id="#MarriageEquality" label="#MarriageEquality" />
+      <node id="#hospital" label="#hospital" />
+      <node id="#whatitsabout" label="#whatitsabout" />
+      <node id="#pharmacies" label="#pharmacies" />
+      <node id="#pharmacybuyers" label="#pharmacybuyers" />
+      <node id="#NAFETop" label="#NAFETop" />
+      <node id="#pinkitup" label="#pinkitup" />
+      <node id="#ChicagoRBC" label="#ChicagoRBC" />
+      <node id="#RareDiseaseDay" label="#RareDiseaseDay" />
+      <node id="#powderfree" label="#powderfree" />
+      <node id="#IT" label="#IT" />
+      <node id="#RNspire" label="#RNspire" />
+      <node id="#LabWeek" label="#LabWeek" />
+      <node id="#CareforRMHC" label="#CareforRMHC" />
+      <node id="#Veteran" label="#Veteran" />
+      <node id="#pharmacists" label="#pharmacists" />
+      <node id="#LEFForum" label="#LEFForum" />
+      <node id="#HealthEconomics" label="#HealthEconomics" />
+      <node id="#SaluteforMiles" label="#SaluteforMiles" />
+      <node id="#CJR" label="#CJR" />
+      <node id="#ASCO12" label="#ASCO12" />
+      <node id="#ASCO15" label="#ASCO15" />
+      <node id="#ASCO14" label="#ASCO14" />
+      <node id="#ASCO16" label="#ASCO16" />
+      <node id="#NCPA2013" label="#NCPA2013" />
+      <node id="#Oncology" label="#Oncology" />
+      <node id="#NCPA2016" label="#NCPA2016" />
+      <node id="#NCPA2014" label="#NCPA2014" />
+      <node id="#workmom" label="#workmom" />
+      <node id="#GoRedColumbus" label="#GoRedColumbus" />
+      <node id="#BreastCancerAwarenessMonth" label="#BreastCancerAwarenessMonth" />
+      <node id="#TriviaTuesday" label="#TriviaTuesday" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#ANI2014" label="#ANI2014" />
+      <node id="#ColumbusPride" label="#ColumbusPride" />
+      <node id="#APhA2015" label="#APhA2015" />
+      <node id="#AORN12" label="#AORN12" />
+      <node id="#trackingmynxandflash" label="#trackingmynxandflash" />
+      <node id="#labweek" label="#labweek" />
+      <node id="#Nurses" label="#Nurses" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#nurse" label="#nurse" />
+      <node id="#supplychainexperts" label="#supplychainexperts" />
+      <node id="#RFID" label="#RFID" />
+      <node id="#pharmacy" label="#pharmacy" />
+      <node id="#mydublin" label="#mydublin" />
+      <node id="#cmcforum" label="#cmcforum" />
+      <node id="#NIRI11" label="#NIRI11" />
+      <node id="#CPhT" label="#CPhT" />
+      <node id="#widencircle" label="#widencircle" />
+      <node id="#MUST" label="#MUST" />
+      <node id="#TEDxWomen" label="#TEDxWomen" />
+      <node id="#NHITWeek" label="#NHITWeek" />
+      <node id="#WOTY" label="#WOTY" />
+      <node id="#Womenshealth2015" label="#Womenshealth2015" />
+      <node id="#pelotonia16" label="#pelotonia16" />
+      <node id="#ashpsm" label="#ashpsm" />
+      <node id="#MLSCup" label="#MLSCup" />
+      <node id="#Chamber2015" label="#Chamber2015" />
+      <node id="#POPHealth" label="#POPHealth" />
+      <node id="#RBC2012" label="#RBC2012" />
+      <node id="#RBC2011" label="#RBC2011" />
+      <node id="#NationalNursingAssistantsWeek" label="#NationalNursingAssistantsWeek" />
+      <node id="#NationalNursesWeek" label="#NationalNursesWeek" />
+      <node id="#AIMsymposium" label="#AIMsymposium" />
+      <node id="#IWD2014" label="#IWD2014" />
+      <node id="#Tell5" label="#Tell5" />
+      <node id="#HeroMiles" label="#HeroMiles" />
+      <node id="#EndCancer" label="#EndCancer" />
+      <node id="#DoseofRealityOU" label="#DoseofRealityOU" />
+      <node id="#340B" label="#340B" />
+      <node id="#unthink" label="#unthink" />
+      <node id="#SIR2012" label="#SIR2012" />
+      <node id="#womeninpharmacy" label="#womeninpharmacy" />
+      <node id="#Veterans" label="#Veterans" />
+      <node id="#inspire" label="#inspire" />
+      <node id="#valuecalculators" label="#valuecalculators" />
+      <node id="#bundledpayment" label="#bundledpayment" />
+      <node id="#sponsor" label="#sponsor" />
+      <node id="#IncredibleHands" label="#IncredibleHands" />
+      <node id="#HIMSS2014" label="#HIMSS2014" />
+      <node id="#imaging" label="#imaging" />
+      <node id="#NCPA" label="#NCPA" />
+      <node id="#NursesWeek" label="#NursesWeek" />
+      <node id="#WingsofHealthcare" label="#WingsofHealthcare" />
+      <node id="#flu" label="#flu" />
+      <node id="#WingsOfHealthcare" label="#WingsOfHealthcare" />
+      <node id="#patientsafety" label="#patientsafety" />
+      <node id="#gamechanger" label="#gamechanger" />
+      <node id="#HIMSS12" label="#HIMSS12" />
+      <node id="#InternetofThings" label="#InternetofThings" />
+      <node id="#menasallies" label="#menasallies" />
+      <node id="#MyNursingDay" label="#MyNursingDay" />
+      <node id="#PCOC13" label="#PCOC13" />
+      <node id="#NIRI" label="#NIRI" />
+      <node id="#HIMSS15" label="#HIMSS15" />
+      <node id="#HospitalWeek" label="#HospitalWeek" />
+      <node id="#ASHPmidyear" label="#ASHPmidyear" />
+      <node id="#BreastCancer" label="#BreastCancer" />
+      <node id="#reverseEXPO" label="#reverseEXPO" />
+      <node id="#lastchance" label="#lastchance" />
+      <node id="#eventprofs" label="#eventprofs" />
+      <node id="#nurses" label="#nurses" />
+      <node id="#partners" label="#partners" />
+      <node id="#RxAbuse" label="#RxAbuse" />
+      <node id="#HCSM" label="#HCSM" />
+      <node id="#DoctorsDay" label="#DoctorsDay" />
+      <node id="#WWP" label="#WWP" />
+      <node id="#SpecialtyPharmacy" label="#SpecialtyPharmacy" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#RFIDHealth" label="#RFIDHealth" />
+      <node id="#nationalnursesweek" label="#nationalnursesweek" />
+      <node id="#Essentialinsights" label="#Essentialinsights" />
+      <node id="#WOCNCAET16" label="#WOCNCAET16" />
+      <node id="#pharmacist" label="#pharmacist" />
+      <node id="#Armada16" label="#Armada16" />
+      <node id="#Pharmacists" label="#Pharmacists" />
+      <node id="#GetThereEarly" label="#GetThereEarly" />
+      <node id="#iheartHIT" label="#iheartHIT" />
+      <node id="#ASHPMidyear" label="#ASHPMidyear" />
+      <node id="#Armada15" label="#Armada15" />
+      <node id="#caregivers" label="#caregivers" />
+      <node id="#NAFETOP" label="#NAFETOP" />
+      <node id="#MyHospital" label="#MyHospital" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#Rheumatology" label="#Rheumatology" />
+      <node id="#Inventory" label="#Inventory" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#NationalRxForum15" label="#NationalRxForum15" />
+      <node id="#FlorenceNightingale" label="#FlorenceNightingale" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#laboratorian" label="#laboratorian" />
+      <node id="#SanDiego" label="#SanDiego" />
+      <node id="#ASHPMidyear15" label="#ASHPMidyear15" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#oncologists" label="#oncologists" />
+      <node id="#CardinalHealthRace" label="#CardinalHealthRace" />
+      <node id="#MTM" label="#MTM" />
+      <node id="#supplychain" label="#supplychain" />
+      <node id="#meded" label="#meded" />
+      <node id="#Pelotonia12" label="#Pelotonia12" />
+      <node id="#ACR2012" label="#ACR2012" />
+      <node id="#DSCSA" label="#DSCSA" />
+      <node id="#cbushiresvets" label="#cbushiresvets" />
+      <node id="#Pharmacy" label="#Pharmacy" />
+      <node id="#doctorsday" label="#doctorsday" />
+      <node id="#NCPADigest" label="#NCPADigest" />
+      <node id="#grants" label="#grants" />
+      <node id="#STEMeducation" label="#STEMeducation" />
+      <node id="#banbossy" label="#banbossy" />
+      <node id="#ThankYou" label="#ThankYou" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Medicalcare" label="#Medicalcare" />
+      <node id="#veteran" label="#veteran" />
+      <node id="#AORN2016" label="#AORN2016" />
+      <node id="#AORN2015" label="#AORN2015" />
+      <node id="#AORN2014" label="#AORN2014" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#VEITHsymposium" label="#VEITHsymposium" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#Diversity" label="#Diversity" />
+      <node id="#barcode" label="#barcode" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#RBCTrivia" label="#RBCTrivia" />
+      <node id="#heforshe" label="#heforshe" />
+      <node id="#cardiology" label="#cardiology" />
+      <node id="#WidenCircle" label="#WidenCircle" />
+      <node id="#medication" label="#medication" />
+      <node id="#ACO" label="#ACO" />
+      <node id="#SIR15ATL" label="#SIR15ATL" />
+      <node id="#SNM2012" label="#SNM2012" />
+      <node id="#dublinishome" label="#dublinishome" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#CEcourses" label="#CEcourses" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ShowYourLove" target="#RNspire" weight="2926" />
+      <edge id="1" source="#ShowYourLove" target="#AORN2016" weight="5852" />
+      <edge id="2" source="#HIMSS14" target="#barcode" weight="2926" />
+      <edge id="3" source="#HIMSS14" target="#EssentialInsights" weight="2926" />
+      <edge id="4" source="#HIMSS14" target="#RFID" weight="14630" />
+      <edge id="5" source="#immuno" target="#MUST" weight="2926" />
+      <edge id="6" source="#nuclearmedicine" target="#imaging" weight="2926" />
+      <edge id="7" source="#nuclearmedicine" target="#SNM2012" weight="2926" />
+      <edge id="8" source="#CathLab" target="#HIMSS2014" weight="2926" />
+      <edge id="9" source="#CathLab" target="#Solutions" weight="2926" />
+      <edge id="10" source="#CathLab" target="#Management" weight="2926" />
+      <edge id="11" source="#CathLab" target="#Inventory" weight="2926" />
+      <edge id="12" source="#OneGoal" target="#EndCancer" weight="2926" />
+      <edge id="13" source="#OneGoal" target="#Pelotonia12" weight="2926" />
+      <edge id="14" source="#POPhealth" target="#CTISummit2015" weight="2926" />
+      <edge id="15" source="#patientcare" target="#pharmacy" weight="2926" />
+      <edge id="16" source="#patientcare" target="#platinum" weight="2926" />
+      <edge id="17" source="#patientcare" target="#sponsor" weight="2926" />
+      <edge id="18" source="#patientcare" target="#Armada16" weight="2926" />
+      <edge id="19" source="#patientcare" target="#healthcare" weight="2926" />
+      <edge id="20" source="#radiology" target="#SNM2012" weight="2926" />
+      <edge id="21" source="#radiology" target="#reverseEXPO" weight="8778" />
+      <edge id="22" source="#GoRed" target="#HeartMonth" weight="2926" />
+      <edge id="23" source="#GenerationRx" target="#DoseofRealityOU" weight="2926" />
+      <edge id="24" source="#GenerationRx" target="#EssentialInsights" weight="2926" />
+      <edge id="25" source="#GenerationRx" target="#RxAbuse" weight="2926" />
+      <edge id="26" source="#value" target="#valuecalculators" weight="2926" />
+      <edge id="27" source="#value" target="#oncology" weight="2926" />
+      <edge id="28" source="#Inspire2Act" target="#pharmacists" weight="2926" />
+      <edge id="29" source="#Inspire2Act" target="#IWD2014" weight="2926" />
+      <edge id="30" source="#RBCDC" target="#pharmacist" weight="2926" />
+      <edge id="31" source="#DigiGirlz" target="#STEMeducation" weight="2926" />
+      <edge id="32" source="#leadership" target="#LEFForum" weight="2926" />
+      <edge id="33" source="#leadership" target="#digital" weight="2926" />
+      <edge id="34" source="#raredisease" target="#RareDiseaseDay" weight="2926" />
+      <edge id="35" source="#MCCSM" target="#HCSM" weight="2926" />
+      <edge id="36" source="#AHRMM16" target="#EssentialInsights" weight="2926" />
+      <edge id="37" source="#platinum" target="#pharmacy" weight="2926" />
+      <edge id="38" source="#platinum" target="#healthcare" weight="2926" />
+      <edge id="39" source="#platinum" target="#Armada16" weight="2926" />
+      <edge id="40" source="#platinum" target="#sponsor" weight="2926" />
+      <edge id="41" source="#essentialinsights" target="#ASHPmidyear" weight="2926" />
+      <edge id="42" source="#ISPORMontreal" target="#ASCO14" weight="2926" />
+      <edge id="43" source="#MedicalDevice" target="#Medicalcare" weight="2926" />
+      <edge id="44" source="#onegoal" target="#Pelotonia15" weight="2926" />
+      <edge id="45" source="#onegoal" target="#Pelotonia13" weight="2926" />
+      <edge id="46" source="#ccceoinsights" target="#Columbus" weight="2926" />
+      <edge id="47" source="#tbt" target="#RNspire" weight="2926" />
+      <edge id="48" source="#tbt" target="#nationalnursesweek" weight="2926" />
+      <edge id="49" source="#tbt" target="#nurse" weight="2926" />
+      <edge id="50" source="#DealBreakerIn3Words" target="#healthcare" weight="2926" />
+      <edge id="51" source="#SNMMI16" target="#SanDiego" weight="5852" />
+      <edge id="52" source="#urEssential" target="#laboratorian" weight="2926" />
+      <edge id="53" source="#urEssential" target="#LabWeek" weight="11704" />
+      <edge id="54" source="#urEssential" target="#labweek" weight="17556" />
+      <edge id="55" source="#urEssential" target="#FastFact" weight="8778" />
+      <edge id="56" source="#ThankAPharmacist" target="#NCPA2016" weight="2926" />
+      <edge id="57" source="#healthcare" target="#hospitals" weight="8778" />
+      <edge id="58" source="#healthcare" target="#Technology" weight="2926" />
+      <edge id="59" source="#healthcare" target="#pharmacy" weight="2926" />
+      <edge id="60" source="#healthcare" target="#vandyhcc" weight="2926" />
+      <edge id="61" source="#healthcare" target="#sponsor" weight="2926" />
+      <edge id="62" source="#healthcare" target="#ACO" weight="5852" />
+      <edge id="63" source="#healthcare" target="#Armada16" weight="2926" />
+      <edge id="64" source="#Pharmacist" target="#Pharmacy" weight="2926" />
+      <edge id="65" source="#Pharmacist" target="#NCPA" weight="2926" />
+      <edge id="66" source="#LogimedUSA" target="#supplychain" weight="26334" />
+      <edge id="67" source="#CRT2015" target="#trackingmynxandflash" weight="2926" />
+      <edge id="68" source="#CRT2015" target="#TrackingMynxAndFlash" weight="2926" />
+      <edge id="69" source="#Logimed" target="#supplychain" weight="14630" />
+      <edge id="70" source="#MedicationSafety" target="#ASHPMidyear15" weight="5852" />
+      <edge id="71" source="#MedicationSafety" target="#pharmacy" weight="5852" />
+      <edge id="72" source="#BestPractice" target="#RBCWin" weight="2926" />
+      <edge id="73" source="#SCWeek" target="#EssentialInsights" weight="2926" />
+      <edge id="74" source="#medsync" target="#pharmacy" weight="2926" />
+      <edge id="75" source="#PharmTech" target="#Pharmacy" weight="2926" />
+      <edge id="76" source="#PharmTech" target="#CPhT" weight="2926" />
+      <edge id="77" source="#BreastCancerAwareness" target="#pinkitup" weight="2926" />
+      <edge id="78" source="#hospitalpharmacy" target="#pharmacybuyers" weight="2926" />
+      <edge id="79" source="#Cancer" target="#oncology" weight="2926" />
+      <edge id="80" source="#Cancer" target="#ASCO15" weight="2926" />
+      <edge id="81" source="#NMEW" target="#Medicare" weight="2926" />
+      <edge id="82" source="#payingitforward" target="#RBCWin" weight="2926" />
+      <edge id="83" source="#WoundedWarriorProject" target="#whatitsabout" weight="2926" />
+      <edge id="84" source="#WoundedWarriorProject" target="#beproud" weight="2926" />
+      <edge id="85" source="#WoundedWarriorProject" target="#RBCWin" weight="2926" />
+      <edge id="86" source="#WoundedWarriorProject" target="#givingback" weight="2926" />
+      <edge id="87" source="#APhM2016" target="#pharmacists" weight="2926" />
+      <edge id="88" source="#APhM2016" target="#WingsofHealthcare" weight="2926" />
+      <edge id="89" source="#APhM2016" target="#NCPA2016" weight="2926" />
+      <edge id="90" source="#APhM2016" target="#communitypharmacy" weight="2926" />
+      <edge id="91" source="#lifegoals" target="#ASCO16" weight="2926" />
+      <edge id="92" source="#ISPORMilan" target="#HEOR" weight="5852" />
+      <edge id="93" source="#ISPORMilan" target="#Oncology" weight="11704" />
+      <edge id="94" source="#ISPORMilan" target="#ACR15" weight="2926" />
+      <edge id="95" source="#ISPORMilan" target="#EssentialInsights" weight="2926" />
+      <edge id="96" source="#PrideMonth" target="#MarriageEquality" weight="2926" />
+      <edge id="97" source="#PrideMonth" target="#ColumbusPride" weight="5852" />
+      <edge id="98" source="#BusinessAppreciation" target="#dublinishome" weight="2926" />
+      <edge id="99" source="#BusinessAppreciation" target="#mydublin" weight="2926" />
+      <edge id="100" source="#Connect" target="#nurses" weight="2926" />
+      <edge id="101" source="#beproud" target="#whatitsabout" weight="2926" />
+      <edge id="102" source="#beproud" target="#RBCWin" weight="2926" />
+      <edge id="103" source="#beproud" target="#givingback" weight="2926" />
+      <edge id="104" source="#FourthofJuly" target="#SaluteforMiles" weight="2926" />
+      <edge id="105" source="#TCT2014" target="#cardiology" weight="2926" />
+      <edge id="106" source="#CIO" target="#IT" weight="2926" />
+      <edge id="107" source="#woundcare" target="#SAWCFall" weight="5852" />
+      <edge id="108" source="#ForTheCup" target="#ForColumbus" weight="2926" />
+      <edge id="109" source="#ForTheCup" target="#MLSCup" weight="2926" />
+      <edge id="110" source="#WM100Best" target="#workmom" weight="2926" />
+      <edge id="111" source="#Asembia16" target="#Armada16" weight="11704" />
+      <edge id="112" source="#Management" target="#HIMSS2014" weight="2926" />
+      <edge id="113" source="#Management" target="#Solutions" weight="2926" />
+      <edge id="114" source="#Management" target="#Inventory" weight="2926" />
+      <edge id="115" source="#ForColumbus" target="#MLSCup" weight="2926" />
+      <edge id="116" source="#CbusConnect" target="#Chamber2015" weight="2926" />
+      <edge id="117" source="#IoT" target="#EssentialInsights" weight="2926" />
+      <edge id="118" source="#digital" target="#LEFForum" weight="2926" />
+      <edge id="119" source="#specialtypharmacy" target="#SpecialtyPharmacy" weight="2926" />
+      <edge id="120" source="#RBCWin" target="#EssentialInsights" weight="2926" />
+      <edge id="121" source="#RBCWin" target="#whatitsabout" weight="2926" />
+      <edge id="122" source="#RBCWin" target="#WWP" weight="2926" />
+      <edge id="123" source="#RBCWin" target="#givingback" weight="2926" />
+      <edge id="124" source="#ISPOR20" target="#ISPORPhila" weight="2926" />
+      <edge id="125" source="#FastFact" target="#RNspire" weight="5852" />
+      <edge id="126" source="#FastFact" target="#labweek" weight="5852" />
+      <edge id="127" source="#FastFact" target="#HospitalWeek" weight="5852" />
+      <edge id="128" source="#FastFact" target="#LabWeek" weight="2926" />
+      <edge id="129" source="#communitypharmacy" target="#NCPA2016" weight="5852" />
+      <edge id="130" source="#TEDxColumbus" target="#WidenCircle" weight="2926" />
+      <edge id="131" source="#TEDxColumbus" target="#TEDxWomen" weight="2926" />
+      <edge id="132" source="#RBCSeattle" target="#TriviaTuesday" weight="2926" />
+      <edge id="133" source="#keepingfamiliesclose" target="#CbusRMH" weight="2926" />
+      <edge id="134" source="#ceo" target="#cmcforum" weight="2926" />
+      <edge id="135" source="#ACR15" target="#HEOR" weight="2926" />
+      <edge id="136" source="#ACR15" target="#Rheumatology" weight="11704" />
+      <edge id="137" source="#ACR15" target="#EssentialInsights" weight="2926" />
+      <edge id="138" source="#HEOR" target="#Rheumatology" weight="2926" />
+      <edge id="139" source="#HEOR" target="#EssentialInsights" weight="5852" />
+      <edge id="140" source="#HEOR" target="#HealthEconomics" weight="14630" />
+      <edge id="141" source="#HEOR" target="#ASCO15" weight="14630" />
+      <edge id="142" source="#HEOR" target="#ASCO16" weight="8778" />
+      <edge id="143" source="#HEOR" target="#oncology" weight="2926" />
+      <edge id="144" source="#HEOR" target="#Oncology" weight="5852" />
+      <edge id="145" source="#HEOR" target="#cancer" weight="2926" />
+      <edge id="146" source="#HEOR" target="#ISPORPhila" weight="11704" />
+      <edge id="147" source="#SAWCspring" target="#RNspire" weight="2926" />
+      <edge id="148" source="#thankyou" target="#RNspire" weight="2926" />
+      <edge id="149" source="#thankyou" target="#nurse" weight="2926" />
+      <edge id="150" source="#EssentialInsights" target="#pharmacists" weight="20482" />
+      <edge id="151" source="#EssentialInsights" target="#CJR" weight="2926" />
+      <edge id="152" source="#EssentialInsights" target="#ASCO15" weight="8778" />
+      <edge id="153" source="#EssentialInsights" target="#RxAbuse" weight="5852" />
+      <edge id="154" source="#EssentialInsights" target="#NCPA2016" weight="2926" />
+      <edge id="155" source="#EssentialInsights" target="#ashpsm" weight="2926" />
+      <edge id="156" source="#EssentialInsights" target="#ISPORPhila" weight="2926" />
+      <edge id="157" source="#EssentialInsights" target="#pharmacist" weight="2926" />
+      <edge id="158" source="#EssentialInsights" target="#Pharmacists" weight="2926" />
+      <edge id="159" source="#EssentialInsights" target="#ANI2014" weight="2926" />
+      <edge id="160" source="#EssentialInsights" target="#pharmacy" weight="46816" />
+      <edge id="161" source="#EssentialInsights" target="#AONE2016" weight="5852" />
+      <edge id="162" source="#EssentialInsights" target="#cancer" weight="11704" />
+      <edge id="163" source="#EssentialInsights" target="#Womenshealth2015" weight="5852" />
+      <edge id="164" source="#EssentialInsights" target="#MTM" weight="2926" />
+      <edge id="165" source="#EssentialInsights" target="#supplychain" weight="2926" />
+      <edge id="166" source="#EssentialInsights" target="#ASCO16" weight="2926" />
+      <edge id="167" source="#EssentialInsights" target="#bundledpayment" weight="2926" />
+      <edge id="168" source="#EssentialInsights" target="#pharmacies" weight="5852" />
+      <edge id="169" source="#EssentialInsights" target="#caregivers" weight="5852" />
+      <edge id="170" source="#EssentialInsights" target="#ChicagoRBC" weight="2926" />
+      <edge id="171" source="#EssentialInsights" target="#oncology" weight="2926" />
+      <edge id="172" source="#EssentialInsights" target="#RNspire" weight="8778" />
+      <edge id="173" source="#EssentialInsights" target="#InternetofThings" weight="2926" />
+      <edge id="174" source="#EssentialInsights" target="#HIMSS15" weight="2926" />
+      <edge id="175" source="#Olympics" target="#WidenCircle" weight="2926" />
+      <edge id="176" source="#CTISummit2015" target="#POPHealth" weight="2926" />
+      <edge id="177" source="#ptsafety" target="#SIR2012" weight="2926" />
+      <edge id="178" source="#ptsafety" target="#AORN12" weight="2926" />
+      <edge id="179" source="#ptsafety" target="#PSAW2012" weight="2926" />
+      <edge id="180" source="#RNspires" target="#NationalNursesWeek" weight="2926" />
+      <edge id="181" source="#RNspires" target="#Nurses" weight="2926" />
+      <edge id="182" source="#CHSSArmada15" target="#Armada15" weight="2926" />
+      <edge id="183" source="#communitypharmacist" target="#ChicagoRBC" weight="8778" />
+      <edge id="184" source="#PSAW2012" target="#AORN12" weight="2926" />
+      <edge id="185" source="#ISPORPhila" target="#HealthEconomics" weight="5852" />
+      <edge id="186" source="#ISPORPhila" target="#oncology" weight="2926" />
+      <edge id="187" source="#AONE2016" target="#RNspire" weight="5852" />
+      <edge id="188" source="#AONE2016" target="#caregivers" weight="2926" />
+      <edge id="189" source="#Surgical" target="#meded" weight="2926" />
+      <edge id="190" source="#DMC2015" target="#pharmacy" weight="5852" />
+      <edge id="191" source="#DMC2015" target="#CardinalHealth" weight="2926" />
+      <edge id="192" source="#WalkCbus" target="#lifeiswhy" weight="2926" />
+      <edge id="193" source="#nursing" target="#RNspire" weight="14630" />
+      <edge id="194" source="#nursing" target="#AORN2015" weight="2926" />
+      <edge id="195" source="#nursing" target="#nurse" weight="8778" />
+      <edge id="196" source="#nursing" target="#powderfree" weight="2926" />
+      <edge id="197" source="#nursing" target="#DYK" weight="2926" />
+      <edge id="198" source="#rheumatology" target="#ACR2012" weight="2926" />
+      <edge id="199" source="#rheumatology" target="#oncology" weight="2926" />
+      <edge id="200" source="#Solutions" target="#HIMSS2014" weight="2926" />
+      <edge id="201" source="#Solutions" target="#Inventory" weight="2926" />
+      <edge id="202" source="#ACC15" target="#cardiology" weight="8778" />
+      <edge id="203" source="#oncology" target="#valuecalculators" weight="2926" />
+      <edge id="204" source="#oncology" target="#ASCO15" weight="5852" />
+      <edge id="205" source="#oncology" target="#ASCO16" weight="2926" />
+      <edge id="206" source="#oncology" target="#cancer" weight="5852" />
+      <edge id="207" source="#wearpink" target="#BreastCancerAwarenessMonth" weight="2926" />
+      <edge id="208" source="#heartdisease" target="#GoRedColumbus" weight="2926" />
+      <edge id="209" source="#heartdisease" target="#Tell5" weight="2926" />
+      <edge id="210" source="#DYK" target="#RNspire" weight="2926" />
+      <edge id="211" source="#AHRMM13" target="#supplychainexperts" weight="5852" />
+      <edge id="212" source="#CardinalHealth" target="#pharmacy" weight="2926" />
+      <edge id="213" source="#FightFlu" target="#flu" weight="2926" />
+      <edge id="214" source="#givingback" target="#whatitsabout" weight="2926" />
+      <edge id="215" source="#essentialtooncology" target="#ASCO14" weight="14630" />
+      <edge id="216" source="#FiresideChatOSU" target="#innovation" weight="2926" />
+      <edge id="217" source="#iamrxrevolution" target="#NCPA2016" weight="14630" />
+      <edge id="218" source="#hospital" target="#pharmacy" weight="2926" />
+      <edge id="219" source="#hospital" target="#340B" weight="2926" />
+      <edge id="220" source="#hospital" target="#pharmacist" weight="2926" />
+      <edge id="221" source="#hospital" target="#supplychain" weight="2926" />
+      <edge id="222" source="#pharmacies" target="#ASHPmidyear" weight="5852" />
+      <edge id="223" source="#pharmacies" target="#ANI2014" weight="2926" />
+      <edge id="224" source="#NAFETop" target="#WOTY" weight="2926" />
+      <edge id="225" source="#pinkitup" target="#BreastCancer" weight="2926" />
+      <edge id="226" source="#ChicagoRBC" target="#pharmacists" weight="2926" />
+      <edge id="227" source="#ChicagoRBC" target="#SaluteforMiles" weight="2926" />
+      <edge id="228" source="#ChicagoRBC" target="#HeroMiles" weight="2926" />
+      <edge id="229" source="#ChicagoRBC" target="#unthink" weight="2926" />
+      <edge id="230" source="#RNspire" target="#lastchance" weight="2926" />
+      <edge id="231" source="#RNspire" target="#nurses" weight="11704" />
+      <edge id="232" source="#RNspire" target="#nationalnursesweek" weight="2926" />
+      <edge id="233" source="#RNspire" target="#WOCNCAET16" weight="2926" />
+      <edge id="234" source="#RNspire" target="#Nurses" weight="5852" />
+      <edge id="235" source="#RNspire" target="#nurse" weight="35112" />
+      <edge id="236" source="#RNspire" target="#NationalNursesWeek" weight="20482" />
+      <edge id="237" source="#RNspire" target="#NationalNursingAssistantsWeek" weight="2926" />
+      <edge id="238" source="#RNspire" target="#inspire" weight="2926" />
+      <edge id="239" source="#RNspire" target="#ThankYou" weight="2926" />
+      <edge id="240" source="#RNspire" target="#AORN2016" weight="8778" />
+      <edge id="241" source="#RNspire" target="#AORN2015" weight="17556" />
+      <edge id="242" source="#RNspire" target="#AORN2014" weight="20482" />
+      <edge id="243" source="#RNspire" target="#FlorenceNightingale" weight="2926" />
+      <edge id="244" source="#RNspire" target="#NursesWeek" weight="2926" />
+      <edge id="245" source="#RNspire" target="#MyNursingDay" weight="2926" />
+      <edge id="246" source="#CareforRMHC" target="#ASCO16" weight="17556" />
+      <edge id="247" source="#Veteran" target="#cbushiresvets" weight="2926" />
+      <edge id="248" source="#pharmacists" target="#MTM" weight="2926" />
+      <edge id="249" source="#pharmacists" target="#NCPA2013" weight="5852" />
+      <edge id="250" source="#pharmacists" target="#WingsofHealthcare" weight="2926" />
+      <edge id="251" source="#pharmacists" target="#IWD2014" weight="2926" />
+      <edge id="252" source="#pharmacists" target="#NCPA2016" weight="2926" />
+      <edge id="253" source="#pharmacists" target="#Medicare" weight="5852" />
+      <edge id="254" source="#HealthEconomics" target="#ASCO15" weight="8778" />
+      <edge id="255" source="#SaluteforMiles" target="#SaluteforMiles" weight="5852" />
+      <edge id="256" source="#SaluteforMiles" target="#HeroMiles" weight="11704" />
+      <edge id="257" source="#CJR" target="#bundledpayment" weight="2926" />
+      <edge id="258" source="#ASCO12" target="#Oncology" weight="2926" />
+      <edge id="259" source="#ASCO15" target="#oncologists" weight="2926" />
+      <edge id="260" source="#ASCO15" target="#cancer" weight="2926" />
+      <edge id="261" source="#ASCO16" target="#cancer" weight="2926" />
+      <edge id="262" source="#NCPA2013" target="#NCPADigest" weight="2926" />
+      <edge id="263" source="#NCPA2016" target="#pharmacy" weight="5852" />
+      <edge id="264" source="#NCPA2016" target="#Medicare" weight="2926" />
+      <edge id="265" source="#NCPA2014" target="#Pharmacy" weight="2926" />
+      <edge id="266" source="#GoRedColumbus" target="#Tell5" weight="2926" />
+      <edge id="267" source="#Ohio" target="#Diversity" weight="2926" />
+      <edge id="268" source="#APhA2015" target="#womeninpharmacy" weight="2926" />
+      <edge id="269" source="#trackingmynxandflash" target="#SIR15ATL" weight="2926" />
+      <edge id="270" source="#Nurses" target="#AORN2015" weight="2926" />
+      <edge id="271" source="#Nurses" target="#hcsm" weight="2926" />
+      <edge id="272" source="#Nurses" target="#IncredibleHands" weight="14630" />
+      <edge id="273" source="#Nurses" target="#NursesWeek" weight="2926" />
+      <edge id="274" source="#Nurses" target="#NationalNursesWeek" weight="2926" />
+      <edge id="275" source="#healthIT" target="#HIMSS12" weight="2926" />
+      <edge id="276" source="#healthIT" target="#EHR" weight="2926" />
+      <edge id="277" source="#nurse" target="#NationalNursesWeek" weight="5852" />
+      <edge id="278" source="#nurse" target="#nationalnursesweek" weight="2926" />
+      <edge id="279" source="#RFID" target="#RFIDHealth" weight="5852" />
+      <edge id="280" source="#pharmacy" target="#ASHPMidyear15" weight="5852" />
+      <edge id="281" source="#pharmacy" target="#Armada16" weight="2926" />
+      <edge id="282" source="#pharmacy" target="#reverseEXPO" weight="8778" />
+      <edge id="283" source="#pharmacy" target="#ASHPmidyear" weight="2926" />
+      <edge id="284" source="#pharmacy" target="#hospitals" weight="5852" />
+      <edge id="285" source="#pharmacy" target="#sponsor" weight="2926" />
+      <edge id="286" source="#pharmacy" target="#Medicare" weight="2926" />
+      <edge id="287" source="#mydublin" target="#dublinishome" weight="2926" />
+      <edge id="288" source="#NIRI11" target="#NIRI" weight="5852" />
+      <edge id="289" source="#CPhT" target="#Pharmacy" weight="2926" />
+      <edge id="290" source="#widencircle" target="#NAFETOP" weight="2926" />
+      <edge id="291" source="#widencircle" target="#banbossy" weight="2926" />
+      <edge id="292" source="#TEDxWomen" target="#WidenCircle" weight="2926" />
+      <edge id="293" source="#NHITWeek" target="#iheartHIT" weight="2926" />
+      <edge id="294" source="#pelotonia16" target="#partners" weight="2926" />
+      <edge id="295" source="#RBC2012" target="#RBCTrivia" weight="5852" />
+      <edge id="296" source="#RBC2012" target="#RBC2011" weight="2926" />
+      <edge id="297" source="#RBC2012" target="#CEcourses" weight="2926" />
+      <edge id="298" source="#NationalNursesWeek" target="#FlorenceNightingale" weight="2926" />
+      <edge id="299" source="#AIMsymposium" target="#VEITHsymposium" weight="2926" />
+      <edge id="300" source="#IWD2014" target="#WidenCircle" weight="2926" />
+      <edge id="301" source="#EndCancer" target="#Pelotonia12" weight="2926" />
+      <edge id="302" source="#340B" target="#DSCSA" weight="2926" />
+      <edge id="303" source="#340B" target="#NationalRxForum15" weight="2926" />
+      <edge id="304" source="#Veterans" target="#cbushiresvets" weight="2926" />
+      <edge id="305" source="#sponsor" target="#Armada16" weight="2926" />
+      <edge id="306" source="#IncredibleHands" target="#hcsm" weight="2926" />
+      <edge id="307" source="#HIMSS2014" target="#Inventory" weight="2926" />
+      <edge id="308" source="#imaging" target="#SNM2012" weight="2926" />
+      <edge id="309" source="#WingsOfHealthcare" target="#HospitalWeek" weight="2926" />
+      <edge id="310" source="#patientsafety" target="#grants" weight="8778" />
+      <edge id="311" source="#gamechanger" target="#ASHPMidyear" weight="2926" />
+      <edge id="312" source="#HIMSS12" target="#EHR" weight="2926" />
+      <edge id="313" source="#menasallies" target="#eventprofs" weight="2926" />
+      <edge id="314" source="#PCOC13" target="#cancer" weight="5852" />
+      <edge id="315" source="#HIMSS15" target="#supplychain" weight="11704" />
+      <edge id="316" source="#HospitalWeek" target="#HospitalWeek" weight="5852" />
+      <edge id="317" source="#HospitalWeek" target="#MyHospital" weight="2926" />
+      <edge id="318" source="#HospitalWeek" target="#hospitals" weight="2926" />
+      <edge id="319" source="#lastchance" target="#nurses" weight="2926" />
+      <edge id="320" source="#nurses" target="#ThankYou" weight="2926" />
+      <edge id="321" source="#RxAbuse" target="#pharmacist" weight="2926" />
+      <edge id="322" source="#DoctorsDay" target="#doctorsday" weight="2926" />
+      <edge id="323" source="#hospitals" target="#MyHospital" weight="2926" />
+      <edge id="324" source="#Essentialinsights" target="#pharmacist" weight="2926" />
+      <edge id="325" source="#GetThereEarly" target="#ASHPMidyear" weight="2926" />
+      <edge id="326" source="#ASHPMidyear" target="#CardinalHealthRace" weight="8778" />
+      <edge id="327" source="#EarthDay" target="#sustainability" weight="2926" />
+      <edge id="328" source="#cancer" target="#oncologists" weight="2926" />
+      <edge id="329" source="#NationalRxForum15" target="#DSCSA" weight="2926" />
+      <edge id="330" source="#ASHPMidyear15" target="#medication" weight="2926" />
+      <edge id="331" source="#veterans" target="#cbushiresvets" weight="5852" />
+      <edge id="332" source="#cbushiresvets" target="#veteran" weight="2926" />
+      <edge id="333" source="#heforshe" target="#WidenCircle" weight="2926" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#WINDIANS" label="#WINDIANS" />
+      <node id="#rallytogether" label="#rallytogether" />
+      <node id="#bigly" label="#bigly" />
+      <node id="#DebateNight" label="#DebateNight" />
+      <node id="#allin216" label="#allin216" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#debate" label="#debate" />
+      <node id="#badhombres" label="#badhombres" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#debatenight" target="#debate" weight="197" />
+      <edge id="1" source="#debatenight" target="#WINDIANS" weight="197" />
+      <edge id="2" source="#debatenight" target="#bigly" weight="394" />
+      <edge id="3" source="#debatenight" target="#RallyTogether" weight="197" />
+      <edge id="4" source="#debatenight" target="#badhombres" weight="197" />
+      <edge id="5" source="#WINDIANS" target="#debate" weight="197" />
+      <edge id="6" source="#WINDIANS" target="#RallyTogether" weight="197" />
+      <edge id="7" source="#rallytogether" target="#allin216" weight="197" />
+      <edge id="8" source="#DebateNight" target="#RallyTogether" weight="197" />
+      <edge id="9" source="#RallyTogether" target="#debate" weight="197" />
+    </edges>
+  </graph>
+</gexf>

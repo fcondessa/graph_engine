@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#homerun" label="#homerun" />
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#AW12" label="#AW12" />
+      <node id="#miamiu" label="#miamiu" />
+      <node id="#famous" label="#famous" />
+      <node id="#ChristmasMusic" label="#ChristmasMusic" />
+      <node id="#dublinohio" label="#dublinohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#homerun" target="#dublinohio" weight="410" />
+      <edge id="1" source="#Dublin" target="#ChristmasMusic" weight="410" />
+      <edge id="2" source="#AW12" target="#miamiu" weight="410" />
+      <edge id="3" source="#AW12" target="#famous" weight="410" />
+      <edge id="4" source="#miamiu" target="#famous" weight="410" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SHEconomy" label="#SHEconomy" />
+      <node id="#Inspire2Act" label="#Inspire2Act" />
+      <node id="#wom" label="#wom" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SHEconomy" target="#Inspire2Act" weight="7" />
+      <edge id="1" source="#SHEconomy" target="#wom" weight="7" />
+      <edge id="2" source="#Inspire2Act" target="#wom" weight="7" />
+    </edges>
+  </graph>
+</gexf>

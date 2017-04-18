@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#razorfish" label="#razorfish" />
+      <node id="#altimeter" label="#altimeter" />
+      <node id="#geo" label="#geo" />
+      <node id="#voteROX" label="#voteROX" />
+      <node id="#advrgirl" label="#advrgirl" />
+      <node id="#dpm2014" label="#dpm2014" />
+      <node id="#location" label="#location" />
+      <node id="#loth" label="#loth" />
+      <node id="#badbusiness" label="#badbusiness" />
+      <node id="#chamber" label="#chamber" />
+      <node id="#ripoff" label="#ripoff" />
+      <node id="#buckeyes" label="#buckeyes" />
+      <node id="#rryan" label="#rryan" />
+      <node id="#prsa_cmh" label="#prsa_cmh" />
+      <node id="#digitaldopamine" label="#digitaldopamine" />
+      <node id="#ShoeLoversCare" label="#ShoeLoversCare" />
+      <node id="#social" label="#social" />
+      <node id="#ROX" label="#ROX" />
+      <node id="#beatcancer" label="#beatcancer" />
+      <node id="#in" label="#in" />
+      <node id="#DSW" label="#DSW" />
+      <node id="#fb" label="#fb" />
+      <node id="#lutz" label="#lutz" />
+      <node id="#charleys400" label="#charleys400" />
+      <node id="#reading" label="#reading" />
+      <node id="#Chamber" label="#Chamber" />
+      <node id="#listening" label="#listening" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#projectone" label="#projectone" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#busyday" label="#busyday" />
+      <node id="#cmh" label="#cmh" />
+      <node id="#foodandwine" label="#foodandwine" />
+      <node id="#bestsongever" label="#bestsongever" />
+      <node id="#budgetrental" label="#budgetrental" />
+      <node id="#FromTheField" label="#FromTheField" />
+      <node id="#loyalty" label="#loyalty" />
+      <node id="#cbusyp" label="#cbusyp" />
+      <node id="#pumped" label="#pumped" />
+      <node id="#corenet" label="#corenet" />
+      <node id="#dt" label="#dt" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#osu" label="#osu" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#acce" label="#acce" />
+      <node id="#adam" label="#adam" />
+      <node id="#contest" label="#contest" />
+      <node id="#web" label="#web" />
+      <node id="#voteforROX" label="#voteforROX" />
+      <node id="#prsa08" label="#prsa08" />
+      <node id="#advergirl" label="#advergirl" />
+      <node id="#study" label="#study" />
+      <node id="#GWL2016" label="#GWL2016" />
+      <node id="#warrenG" label="#warrenG" />
+      <node id="#ihaterain" label="#ihaterain" />
+      <node id="#schedulingfail" label="#schedulingfail" />
+      <node id="#caniworkfrommycartodayicangetwifi" label="#caniworkfrommycartodayicangetwifi" />
+      <node id="#Ogilvyism" label="#Ogilvyism" />
+      <node id="#facebook" label="#facebook" />
+      <node id="#sm" label="#sm" />
+      <node id="#harfoush" label="#harfoush" />
+      <node id="#mhealth" label="#mhealth" />
+      <node id="#tradition" label="#tradition" />
+      <node id="#solis" label="#solis" />
+      <node id="#PR" label="#PR" />
+      <node id="#kboyce" label="#kboyce" />
+      <node id="#trouble" label="#trouble" />
+      <node id="#DavidOgilvy" label="#DavidOgilvy" />
+      <node id="#internet" label="#internet" />
+      <node id="#digital" label="#digital" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#razorfish" target="#digitaldopamine" weight="3207" />
+      <edge id="1" source="#altimeter" target="#reading" weight="3207" />
+      <edge id="2" source="#geo" target="#location" weight="3207" />
+      <edge id="3" source="#voteROX" target="#ShoeLoversCare" weight="3207" />
+      <edge id="4" source="#voteROX" target="#DSW" weight="3207" />
+      <edge id="5" source="#advrgirl" target="#prsa08" weight="3207" />
+      <edge id="6" source="#dpm2014" target="#dt" weight="6414" />
+      <edge id="7" source="#loth" target="#busyday" weight="3207" />
+      <edge id="8" source="#badbusiness" target="#ripoff" weight="3207" />
+      <edge id="9" source="#chamber" target="#web" weight="3207" />
+      <edge id="10" source="#chamber" target="#marketing" weight="3207" />
+      <edge id="11" source="#buckeyes" target="#beatcancer" weight="3207" />
+      <edge id="12" source="#rryan" target="#cbusyp" weight="3207" />
+      <edge id="13" source="#prsa_cmh" target="#solis" weight="3207" />
+      <edge id="14" source="#ShoeLoversCare" target="#voteforROX" weight="3207" />
+      <edge id="15" source="#ShoeLoversCare" target="#ROX" weight="3207" />
+      <edge id="16" source="#ShoeLoversCare" target="#DSW" weight="9621" />
+      <edge id="17" source="#social" target="#study" weight="3207" />
+      <edge id="18" source="#social" target="#facebook" weight="3207" />
+      <edge id="19" source="#ROX" target="#GWL2016" weight="3207" />
+      <edge id="20" source="#ROX" target="#DSW" weight="3207" />
+      <edge id="21" source="#in" target="#fb" weight="6414" />
+      <edge id="22" source="#DSW" target="#voteforROX" weight="3207" />
+      <edge id="23" source="#lutz" target="#prsa08" weight="6414" />
+      <edge id="24" source="#charleys400" target="#contest" weight="3207" />
+      <edge id="25" source="#Chamber" target="#web" weight="3207" />
+      <edge id="26" source="#Chamber" target="#marketing" weight="3207" />
+      <edge id="27" source="#listening" target="#warrenG" weight="3207" />
+      <edge id="28" source="#listening" target="#bestsongever" weight="3207" />
+      <edge id="29" source="#innovation" target="#internet" weight="3207" />
+      <edge id="30" source="#innovation" target="#digital" weight="3207" />
+      <edge id="31" source="#projectone" target="#osu" weight="3207" />
+      <edge id="32" source="#marketing" target="#FromTheField" weight="3207" />
+      <edge id="33" source="#marketing" target="#web" weight="6414" />
+      <edge id="34" source="#columbus" target="#foodandwine" weight="3207" />
+      <edge id="35" source="#columbus" target="#pumped" weight="3207" />
+      <edge id="36" source="#cmh" target="#corenet" weight="3207" />
+      <edge id="37" source="#foodandwine" target="#pumped" weight="3207" />
+      <edge id="38" source="#budgetrental" target="#schedulingfail" weight="3207" />
+      <edge id="39" source="#loyalty" target="#dt" weight="3207" />
+      <edge id="40" source="#cbusyp" target="#kboyce" weight="3207" />
+      <edge id="41" source="#dt" target="#tradition" weight="3207" />
+      <edge id="42" source="#dt" target="#trouble" weight="3207" />
+      <edge id="43" source="#dt" target="#digital" weight="3207" />
+      <edge id="44" source="#hcsm" target="#sm" weight="3207" />
+      <edge id="45" source="#hcsm" target="#mhealth" weight="3207" />
+      <edge id="46" source="#healthcare" target="#PR" weight="3207" />
+      <edge id="47" source="#acce" target="#harfoush" weight="12828" />
+      <edge id="48" source="#adam" target="#prsa08" weight="6414" />
+      <edge id="49" source="#prsa08" target="#advergirl" weight="3207" />
+      <edge id="50" source="#study" target="#facebook" weight="3207" />
+      <edge id="51" source="#ihaterain" target="#caniworkfrommycartodayicangetwifi" weight="3207" />
+      <edge id="52" source="#Ogilvyism" target="#DavidOgilvy" weight="3207" />
+      <edge id="53" source="#internet" target="#digital" weight="3207" />
+    </edges>
+  </graph>
+</gexf>

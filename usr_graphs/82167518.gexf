@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DNCinPHL" label="#DNCinPHL" />
+      <node id="#Florida" label="#Florida" />
+      <node id="#Matthew" label="#Matthew" />
+      <node id="#MTPDaily" label="#MTPDaily" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#BernieOrBusters" label="#BernieOrBusters" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#FlyTheW" label="#FlyTheW" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DNCinPHL" target="#MTPDaily" weight="3227" />
+      <edge id="1" source="#Florida" target="#Matthew" weight="3227" />
+      <edge id="2" source="#WorldSeries" target="#FlyTheW" weight="3227" />
+      <edge id="3" source="#BernieOrBusters" target="#ImWithHer" weight="3227" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#GreenBeret" label="#GreenBeret" />
+      <node id="#KOBALT400" label="#KOBALT400" />
+      <node id="#youthsports" label="#youthsports" />
+      <node id="#urbantrail" label="#urbantrail" />
+      <node id="#Brandery2015" label="#Brandery2015" />
+      <node id="#WaterDay" label="#WaterDay" />
+      <node id="#Gimmick" label="#Gimmick" />
+      <node id="#Awesome" label="#Awesome" />
+      <node id="#startupcincy" label="#startupcincy" />
+      <node id="#NHLBreakawayJohansen" label="#NHLBreakawayJohansen" />
+      <node id="#scam" label="#scam" />
+      <node id="#pensbooth" label="#pensbooth" />
+      <node id="#DuckHunt" label="#DuckHunt" />
+      <node id="#JobOpening" label="#JobOpening" />
+      <node id="#notserious" label="#notserious" />
+      <node id="#ShowUsYourCuts" label="#ShowUsYourCuts" />
+      <node id="#WaterCrisis" label="#WaterCrisis" />
+      <node id="#entrepreneurial" label="#entrepreneurial" />
+      <node id="#CBJHFC" label="#CBJHFC" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#NASCAR" label="#NASCAR" />
+      <node id="#Rangers" label="#Rangers" />
+      <node id="#navyseals" label="#navyseals" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#earlybird" label="#earlybird" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#BlueJacketsLive" label="#BlueJacketsLive" />
+      <node id="#cybermonday" label="#cybermonday" />
+      <node id="#DaleJr" label="#DaleJr" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#boyband" label="#boyband" />
+      <node id="#StartupCincy" label="#StartupCincy" />
+      <node id="#cbj" label="#cbj" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#BOOM" label="#BOOM" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#brandery2015" label="#brandery2015" />
+      <node id="#DemoDay" label="#DemoDay" />
+      <node id="#HOCKEYGODS" label="#HOCKEYGODS" />
+      <node id="#scapegoat" label="#scapegoat" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#StanleyCupFinal" label="#StanleyCupFinal" />
+      <node id="#pens" label="#pens" />
+      <node id="#COLUMBUS" label="#COLUMBUS" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#GreenBeret" target="#Awesome" weight="289" />
+      <edge id="1" source="#KOBALT400" target="#DaleJr" weight="289" />
+      <edge id="2" source="#KOBALT400" target="#NASCAR" weight="289" />
+      <edge id="3" source="#youthsports" target="#StartupCincy" weight="289" />
+      <edge id="4" source="#youthsports" target="#Brandery2015" weight="289" />
+      <edge id="5" source="#urbantrail" target="#StartupCincy" weight="289" />
+      <edge id="6" source="#urbantrail" target="#Brandery2015" weight="289" />
+      <edge id="7" source="#Brandery2015" target="#DemoDay" weight="289" />
+      <edge id="8" source="#Brandery2015" target="#startupcincy" weight="578" />
+      <edge id="9" source="#Brandery2015" target="#StartupCincy" weight="2023" />
+      <edge id="10" source="#WaterDay" target="#WaterCrisis" weight="289" />
+      <edge id="11" source="#Gimmick" target="#ShowUsYourCuts" weight="289" />
+      <edge id="12" source="#NHLBreakawayJohansen" target="#CBJ" weight="289" />
+      <edge id="13" source="#NHLBreakawayJohansen" target="#NHLAllStar" weight="289" />
+      <edge id="14" source="#scam" target="#earlybird" weight="289" />
+      <edge id="15" source="#pensbooth" target="#cbj" weight="289" />
+      <edge id="16" source="#DuckHunt" target="#CBJ" weight="289" />
+      <edge id="17" source="#DuckHunt" target="#BOOM" weight="289" />
+      <edge id="18" source="#JobOpening" target="#entrepreneurial" weight="289" />
+      <edge id="19" source="#JobOpening" target="#venturecapital" weight="289" />
+      <edge id="20" source="#notserious" target="#SOTU" weight="289" />
+      <edge id="21" source="#entrepreneurial" target="#venturecapital" weight="289" />
+      <edge id="22" source="#CBJHFC" target="#boyband" weight="289" />
+      <edge id="23" source="#Entrepreneurs" target="#Columbus" weight="289" />
+      <edge id="24" source="#NASCAR" target="#DaleJr" weight="289" />
+      <edge id="25" source="#Rangers" target="#StanleyCupFinal" weight="289" />
+      <edge id="26" source="#navyseals" target="#cybermonday" weight="289" />
+      <edge id="27" source="#CBJ" target="#GoBucks" weight="289" />
+      <edge id="28" source="#CBJ" target="#BlueJacketsLive" weight="289" />
+      <edge id="29" source="#CBJ" target="#BOOM" weight="289" />
+      <edge id="30" source="#CBJ" target="#HOCKEYGODS" weight="578" />
+      <edge id="31" source="#CBJ" target="#NHLAllStar" weight="289" />
+      <edge id="32" source="#CBJ" target="#scapegoat" weight="289" />
+      <edge id="33" source="#CBJ" target="#CBJ" weight="578" />
+      <edge id="34" source="#CBJ" target="#COLUMBUS" weight="578" />
+      <edge id="35" source="#CBJ" target="#NHL" weight="578" />
+      <edge id="36" source="#NHL" target="#HOCKEYGODS" weight="289" />
+      <edge id="37" source="#NHL" target="#COLUMBUS" weight="289" />
+      <edge id="38" source="#StartupCincy" target="#DemoDay" weight="289" />
+      <edge id="39" source="#StartupCincy" target="#brandery2015" weight="289" />
+      <edge id="40" source="#cbj" target="#pens" weight="289" />
+      <edge id="41" source="#HOCKEYGODS" target="#COLUMBUS" weight="289" />
+    </edges>
+  </graph>
+</gexf>

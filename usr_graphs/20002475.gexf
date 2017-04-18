@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#rubio" label="#rubio" />
+      <node id="#DNCinPHL" label="#DNCinPHL" />
+      <node id="#ParisAttacks" label="#ParisAttacks" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#DemsinPhilly" label="#DemsinPhilly" />
+      <node id="#SpecialRelationship" label="#SpecialRelationship" />
+      <node id="#DemDebate" label="#DemDebate" />
+      <node id="#charlotte" label="#charlotte" />
+      <node id="#gopdebate" label="#gopdebate" />
+      <node id="#DemConvention" label="#DemConvention" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#TrumpTrain" label="#TrumpTrain" />
+      <node id="#debates" label="#debates" />
+      <node id="#Trump2016" label="#Trump2016" />
+      <node id="#SSM" label="#SSM" />
+      <node id="#RNCinCE" label="#RNCinCE" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#rubio" target="#SpecialRelationship" weight="3228" />
+      <edge id="1" source="#DNCinPHL" target="#RNCinCLE" weight="3228" />
+      <edge id="2" source="#ParisAttacks" target="#DemDebate" weight="3228" />
+      <edge id="3" source="#SCOTUS" target="#SSM" weight="3228" />
+      <edge id="4" source="#DemsinPhilly" target="#Periscope" weight="3228" />
+      <edge id="5" source="#charlotte" target="#Periscope" weight="9684" />
+      <edge id="6" source="#gopdebate" target="#Periscope" weight="6456" />
+      <edge id="7" source="#DemConvention" target="#BlackLivesMatter" weight="3228" />
+      <edge id="8" source="#RNCinCLE" target="#Periscope" weight="12912" />
+      <edge id="9" source="#Periscope" target="#debates" weight="3228" />
+      <edge id="10" source="#Periscope" target="#RNCinCE" weight="3228" />
+      <edge id="11" source="#TrumpTrain" target="#Trump2016" weight="3228" />
+    </edges>
+  </graph>
+</gexf>

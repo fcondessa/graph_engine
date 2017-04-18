@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#theapprentice" label="#theapprentice" />
+      <node id="#Prayers4Florida" label="#Prayers4Florida" />
+      <node id="#HEALTHYATANYSIZE" label="#HEALTHYATANYSIZE" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#NEVERIMPROVE" label="#NEVERIMPROVE" />
+      <node id="#ClintonFoundation" label="#ClintonFoundation" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#ALWILDCARD" label="#ALWILDCARD" />
+      <node id="#FlyTheW" label="#FlyTheW" />
+      <node id="#HurricaneMatthew" label="#HurricaneMatthew" />
+      <node id="#PodestaEmails16" label="#PodestaEmails16" />
+      <node id="#pda" label="#pda" />
+      <node id="#VPDEBATE" label="#VPDEBATE" />
+      <node id="#STAYWOKE" label="#STAYWOKE" />
+      <node id="#STAYPOSTWOKE" label="#STAYPOSTWOKE" />
+      <node id="#WikiLeaks" label="#WikiLeaks" />
+      <node id="#NEVERCHANGE" label="#NEVERCHANGE" />
+      <node id="#SUBLIMINALCONTENT" label="#SUBLIMINALCONTENT" />
+      <node id="#HurricaneNicole" label="#HurricaneNicole" />
+      <node id="#PodestaEmails" label="#PodestaEmails" />
+      <node id="#BERNIEorBUST" label="#BERNIEorBUST" />
+      <node id="#DEBATE" label="#DEBATE" />
+      <node id="#PodestaEmails10" label="#PodestaEmails10" />
+      <node id="#PodestaEmails13" label="#PodestaEmails13" />
+      <node id="#Wikileaks" label="#Wikileaks" />
+      <node id="#DEBATENIGHT" label="#DEBATENIGHT" />
+      <node id="#trumptapes" label="#trumptapes" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#SOBRAVE" label="#SOBRAVE" />
+      <node id="#SOEDGY" label="#SOEDGY" />
+      <node id="#MSM" label="#MSM" />
+      <node id="#p2" label="#p2" />
+      <node id="#WOKE" label="#WOKE" />
+      <node id="#Cubs" label="#Cubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#theapprentice" target="#trumptapes" weight="3234" />
+      <edge id="1" source="#Prayers4Florida" target="#HurricaneNicole" weight="3234" />
+      <edge id="2" source="#Prayers4Florida" target="#HurricaneMatthew" weight="3234" />
+      <edge id="3" source="#HEALTHYATANYSIZE" target="#SOBRAVE" weight="3234" />
+      <edge id="4" source="#WorldSeries" target="#FlyTheW" weight="3234" />
+      <edge id="5" source="#WorldSeries" target="#Cubs" weight="3234" />
+      <edge id="6" source="#NEVERIMPROVE" target="#NEVERCHANGE" weight="3234" />
+      <edge id="7" source="#ClintonFoundation" target="#PodestaEmails" weight="3234" />
+      <edge id="8" source="#ImWithHer" target="#tcot" weight="3234" />
+      <edge id="9" source="#ImWithHer" target="#pda" weight="3234" />
+      <edge id="10" source="#ImWithHer" target="#p2" weight="3234" />
+      <edge id="11" source="#ImWithHer" target="#BERNIEorBUST" weight="3234" />
+      <edge id="12" source="#ALWILDCARD" target="#VPDEBATE" weight="3234" />
+      <edge id="13" source="#FlyTheW" target="#Cubs" weight="3234" />
+      <edge id="14" source="#HurricaneMatthew" target="#HurricaneNicole" weight="3234" />
+      <edge id="15" source="#PodestaEmails16" target="#WikiLeaks" weight="3234" />
+      <edge id="16" source="#pda" target="#tcot" weight="3234" />
+      <edge id="17" source="#pda" target="#p2" weight="3234" />
+      <edge id="18" source="#pda" target="#BERNIEorBUST" weight="3234" />
+      <edge id="19" source="#STAYWOKE" target="#DEBATE" weight="3234" />
+      <edge id="20" source="#STAYPOSTWOKE" target="#SUBLIMINALCONTENT" weight="3234" />
+      <edge id="21" source="#PodestaEmails" target="#PodestaEmails13" weight="3234" />
+      <edge id="22" source="#BERNIEorBUST" target="#p2" weight="3234" />
+      <edge id="23" source="#BERNIEorBUST" target="#tcot" weight="3234" />
+      <edge id="24" source="#PodestaEmails10" target="#MSM" weight="3234" />
+      <edge id="25" source="#PodestaEmails10" target="#Wikileaks" weight="3234" />
+      <edge id="26" source="#Wikileaks" target="#MSM" weight="3234" />
+      <edge id="27" source="#DEBATENIGHT" target="#WOKE" weight="3234" />
+      <edge id="28" source="#tcot" target="#p2" weight="3234" />
+      <edge id="29" source="#SOBRAVE" target="#SOEDGY" weight="3234" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#coworkingweek" label="#coworkingweek" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#AsSeenInColumbus" label="#AsSeenInColumbus" />
+      <node id="#JEN" label="#JEN" />
+      <node id="#whattoexpectwhenyoureexpecting" label="#whattoexpectwhenyoureexpecting" />
+      <node id="#werewolf" label="#werewolf" />
+      <node id="#coworking" label="#coworking" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#werewolfofcolumbus" label="#werewolfofcolumbus" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#Hagridden" label="#Hagridden" />
+      <node id="#Rougarou" label="#Rougarou" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#DownTown" label="#DownTown" />
+      <node id="#LunchHour" label="#LunchHour" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#coworkingweek" target="#coworking" weight="146" />
+      <edge id="1" source="#expcols" target="#ohio" weight="146" />
+      <edge id="2" source="#expcols" target="#lifeincbus" weight="146" />
+      <edge id="3" source="#expcols" target="#cbus" weight="146" />
+      <edge id="4" source="#expcols" target="#GoBucks" weight="146" />
+      <edge id="5" source="#GoBucks" target="#lifeincbus" weight="146" />
+      <edge id="6" source="#GoBucks" target="#cbus" weight="146" />
+      <edge id="7" source="#GoBucks" target="#ohio" weight="146" />
+      <edge id="8" source="#asseenincolumbus" target="#werewolf" weight="146" />
+      <edge id="9" source="#asseenincolumbus" target="#werewolfofcolumbus" weight="146" />
+      <edge id="10" source="#asseenincolumbus" target="#JEN" weight="146" />
+      <edge id="11" source="#AsSeenInColumbus" target="#DownTown" weight="146" />
+      <edge id="12" source="#AsSeenInColumbus" target="#Columbus" weight="146" />
+      <edge id="13" source="#AsSeenInColumbus" target="#LunchHour" weight="146" />
+      <edge id="14" source="#JEN" target="#werewolf" weight="146" />
+      <edge id="15" source="#JEN" target="#whattoexpectwhenyoureexpecting" weight="146" />
+      <edge id="16" source="#JEN" target="#werewolfofcolumbus" weight="146" />
+      <edge id="17" source="#werewolf" target="#werewolfofcolumbus" weight="146" />
+      <edge id="18" source="#lifeincbus" target="#cbus" weight="146" />
+      <edge id="19" source="#lifeincbus" target="#ohio" weight="146" />
+      <edge id="20" source="#cbus" target="#ohio" weight="146" />
+      <edge id="21" source="#columbus" target="#Hagridden" weight="146" />
+      <edge id="22" source="#Hagridden" target="#Rougarou" weight="146" />
+      <edge id="23" source="#Columbus" target="#DownTown" weight="146" />
+      <edge id="24" source="#Columbus" target="#LunchHour" weight="146" />
+      <edge id="25" source="#DownTown" target="#LunchHour" weight="146" />
+    </edges>
+  </graph>
+</gexf>

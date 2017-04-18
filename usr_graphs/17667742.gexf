@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#MikePence" label="#MikePence" />
+      <node id="#LochMess" label="#LochMess" />
+      <node id="#Ghostbusters" label="#Ghostbusters" />
+      <node id="#LochteGate" label="#LochteGate" />
+      <node id="#PEI" label="#PEI" />
+      <node id="#PrinceDay" label="#PrinceDay" />
+      <node id="#VPDebate" label="#VPDebate" />
+      <node id="#DemPlatform" label="#DemPlatform" />
+      <node id="#Princemas" label="#Princemas" />
+      <node id="#ImANerd" label="#ImANerd" />
+      <node id="#islandhillfarm" label="#islandhillfarm" />
+      <node id="#ImExcitedAboutThis" label="#ImExcitedAboutThis" />
+      <node id="#TheBravos" label="#TheBravos" />
+      <node id="#Prince" label="#Prince" />
+      <node id="#NoBillNoBreak" label="#NoBillNoBreak" />
+      <node id="#s" label="#s" />
+      <node id="#PrinceOnlineMusuem" label="#PrinceOnlineMusuem" />
+      <node id="#peanutbutter" label="#peanutbutter" />
+      <node id="#GiantTiger" label="#GiantTiger" />
+      <node id="#CanadianTire" label="#CanadianTire" />
+      <node id="#ImWither" label="#ImWither" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#MikePence" target="#VPDebate" weight="3220" />
+      <edge id="1" source="#LochMess" target="#LochteGate" weight="3220" />
+      <edge id="2" source="#Ghostbusters" target="#Ghostbusters" weight="19320" />
+      <edge id="3" source="#PEI" target="#islandhillfarm" weight="3220" />
+      <edge id="4" source="#PrinceDay" target="#Princemas" weight="3220" />
+      <edge id="5" source="#DemPlatform" target="#ImExcitedAboutThis" weight="3220" />
+      <edge id="6" source="#DemPlatform" target="#ImWither" weight="3220" />
+      <edge id="7" source="#DemPlatform" target="#ImANerd" weight="3220" />
+      <edge id="8" source="#ImANerd" target="#ImExcitedAboutThis" weight="3220" />
+      <edge id="9" source="#ImANerd" target="#ImWither" weight="3220" />
+      <edge id="10" source="#ImExcitedAboutThis" target="#ImWither" weight="3220" />
+      <edge id="11" source="#TheBravos" target="#s" weight="3220" />
+      <edge id="12" source="#Prince" target="#PrinceOnlineMusuem" weight="3220" />
+      <edge id="13" source="#Prince" target="#Prince" weight="6440" />
+      <edge id="14" source="#Prince" target="#peanutbutter" weight="3220" />
+      <edge id="15" source="#NoBillNoBreak" target="#NoBillNoBreak" weight="19320" />
+      <edge id="16" source="#GiantTiger" target="#CanadianTire" weight="3220" />
+    </edges>
+  </graph>
+</gexf>

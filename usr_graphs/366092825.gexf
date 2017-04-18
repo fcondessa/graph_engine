@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuperTuesday" label="#SuperTuesday" />
+      <node id="#s" label="#s" />
+      <node id="#romney" label="#romney" />
+      <node id="#scicomm" label="#scicomm" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#reportermotto" label="#reportermotto" />
+      <node id="#Isaac" label="#Isaac" />
+      <node id="#tlot" label="#tlot" />
+      <node id="#TurboVideo" label="#TurboVideo" />
+      <node id="#GOP12" label="#GOP12" />
+      <node id="#ohel" label="#ohel" />
+      <node id="#fearthevest" label="#fearthevest" />
+      <node id="#nbcpolitics" label="#nbcpolitics" />
+      <node id="#gop2012" label="#gop2012" />
+      <node id="#RickScott" label="#RickScott" />
+      <node id="#cincienquirer" label="#cincienquirer" />
+      <node id="#ohmunitax" label="#ohmunitax" />
+      <node id="#ohpec" label="#ohpec" />
+      <node id="#ohiogop" label="#ohiogop" />
+      <node id="#cincinnati" label="#cincinnati" />
+      <node id="#decision2012" label="#decision2012" />
+      <node id="#ricksantorum" label="#ricksantorum" />
+      <node id="#ohsos" label="#ohsos" />
+      <node id="#reportreligion" label="#reportreligion" />
+      <node id="#OhioGOP" label="#OhioGOP" />
+      <node id="#tricobama" label="#tricobama" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#CNNDebate" label="#CNNDebate" />
+      <node id="#p2" label="#p2" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuperTuesday" target="#ohiogop" weight="1663" />
+      <edge id="1" source="#SuperTuesday" target="#GOP" weight="1663" />
+      <edge id="2" source="#SuperTuesday" target="#OhioGOP" weight="1663" />
+      <edge id="3" source="#s" target="#reportreligion" weight="1663" />
+      <edge id="4" source="#romney" target="#ricksantorum" weight="1663" />
+      <edge id="5" source="#romney" target="#gop2012" weight="1663" />
+      <edge id="6" source="#romney" target="#fearthevest" weight="1663" />
+      <edge id="7" source="#romney" target="#tcot" weight="1663" />
+      <edge id="8" source="#scicomm" target="#reportreligion" weight="1663" />
+      <edge id="9" source="#reportermotto" target="#reportreligion" weight="1663" />
+      <edge id="10" source="#Isaac" target="#RickScott" weight="1663" />
+      <edge id="11" source="#tlot" target="#tcot" weight="3326" />
+      <edge id="12" source="#TurboVideo" target="#cincinnati" weight="1663" />
+      <edge id="13" source="#GOP12" target="#tcot" weight="1663" />
+      <edge id="14" source="#GOP12" target="#fearthevest" weight="1663" />
+      <edge id="15" source="#ohel" target="#CNNDebate" weight="64857" />
+      <edge id="16" source="#ohel" target="#tricobama" weight="1663" />
+      <edge id="17" source="#fearthevest" target="#gop2012" weight="1663" />
+      <edge id="18" source="#fearthevest" target="#ricksantorum" weight="1663" />
+      <edge id="19" source="#fearthevest" target="#tcot" weight="3326" />
+      <edge id="20" source="#nbcpolitics" target="#decision2012" weight="1663" />
+      <edge id="21" source="#gop2012" target="#ricksantorum" weight="1663" />
+      <edge id="22" source="#gop2012" target="#tcot" weight="1663" />
+      <edge id="23" source="#cincienquirer" target="#ohsos" weight="1663" />
+      <edge id="24" source="#ohmunitax" target="#ohpec" weight="1663" />
+      <edge id="25" source="#ricksantorum" target="#tcot" weight="1663" />
+      <edge id="26" source="#tcot" target="#p2" weight="1663" />
+    </edges>
+  </graph>
+</gexf>

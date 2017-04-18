@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#tehku" label="#tehku" />
+      <node id="#AmberTucson" label="#AmberTucson" />
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#hoggys" label="#hoggys" />
+      <node id="#DineM" label="#DineM" />
+      <node id="#Mortons" label="#Mortons" />
+      <node id="#handtossed" label="#handtossed" />
+      <node id="#CrimsonCup" label="#CrimsonCup" />
+      <node id="#Katz" label="#Katz" />
+      <node id="#TasteCasting" label="#TasteCasting" />
+      <node id="#CulinaryTable" label="#CulinaryTable" />
+      <node id="#cbustasters" label="#cbustasters" />
+      <node id="#TCOH" label="#TCOH" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#tag" label="#tag" />
+      <node id="#Suisse" label="#Suisse" />
+      <node id="#fb" label="#fb" />
+      <node id="#Bistro" label="#Bistro" />
+      <node id="#Twestival" label="#Twestival" />
+      <node id="#fire" label="#fire" />
+      <node id="#tastecasting" label="#tastecasting" />
+      <node id="#donatos" label="#donatos" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#disruption" label="#disruption" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#tehku" target="#tehku" weight="1082" />
+      <edge id="1" source="#AmberTucson" target="#tag" weight="541" />
+      <edge id="2" source="#SXSW" target="#Twestival" weight="541" />
+      <edge id="3" source="#hoggys" target="#cbustasters" weight="541" />
+      <edge id="4" source="#hoggys" target="#hoggys" weight="1082" />
+      <edge id="5" source="#DineM" target="#cbustasters" weight="541" />
+      <edge id="6" source="#Mortons" target="#cbustasters" weight="541" />
+      <edge id="7" source="#Mortons" target="#TasteCasting" weight="541" />
+      <edge id="8" source="#handtossed" target="#donatos" weight="541" />
+      <edge id="9" source="#CrimsonCup" target="#Suisse" weight="541" />
+      <edge id="10" source="#CrimsonCup" target="#Katz" weight="541" />
+      <edge id="11" source="#CrimsonCup" target="#CulinaryTable" weight="541" />
+      <edge id="12" source="#Katz" target="#Suisse" weight="541" />
+      <edge id="13" source="#Katz" target="#CulinaryTable" weight="541" />
+      <edge id="14" source="#TasteCasting" target="#fb" weight="541" />
+      <edge id="15" source="#TasteCasting" target="#Bistro" weight="1623" />
+      <edge id="16" source="#CulinaryTable" target="#Suisse" weight="541" />
+      <edge id="17" source="#TCOH" target="#CBUS" weight="541" />
+      <edge id="18" source="#innovation" target="#disruption" weight="541" />
+      <edge id="19" source="#fire" target="#tastecasting" weight="541" />
+    </edges>
+  </graph>
+</gexf>

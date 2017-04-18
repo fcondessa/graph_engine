@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Schoolboard" label="#Schoolboard" />
+      <node id="#Gahanna" label="#Gahanna" />
+      <node id="#Kent" label="#Kent" />
+      <node id="#Vote" label="#Vote" />
+      <node id="#Goals" label="#Goals" />
+      <node id="#FlashbackFriday" label="#FlashbackFriday" />
+      <node id="#School" label="#School" />
+      <node id="#Festival" label="#Festival" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#KentForColumbus" label="#KentForColumbus" />
+      <node id="#Board" label="#Board" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#votekentforcolumbusschoolboard" label="#votekentforcolumbusschoolboard" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Schoolboard" target="#Columbus" weight="93" />
+      <edge id="1" source="#Schoolboard" target="#Goals" weight="93" />
+      <edge id="2" source="#Gahanna" target="#Festival" weight="93" />
+      <edge id="3" source="#Gahanna" target="#Cbus" weight="93" />
+      <edge id="4" source="#Kent" target="#School" weight="93" />
+      <edge id="5" source="#Kent" target="#Board" weight="93" />
+      <edge id="6" source="#Kent" target="#Columbus" weight="93" />
+      <edge id="7" source="#Kent" target="#Vote" weight="93" />
+      <edge id="8" source="#Vote" target="#School" weight="93" />
+      <edge id="9" source="#Vote" target="#Columbus" weight="186" />
+      <edge id="10" source="#Vote" target="#Board" weight="93" />
+      <edge id="11" source="#Goals" target="#Columbus" weight="93" />
+      <edge id="12" source="#Goals" target="#KentForColumbus" weight="93" />
+      <edge id="13" source="#FlashbackFriday" target="#votekentforcolumbusschoolboard" weight="93" />
+      <edge id="14" source="#School" target="#Board" weight="93" />
+      <edge id="15" source="#School" target="#Columbus" weight="93" />
+      <edge id="16" source="#Festival" target="#Cbus" weight="93" />
+      <edge id="17" source="#Board" target="#Columbus" weight="93" />
+    </edges>
+  </graph>
+</gexf>

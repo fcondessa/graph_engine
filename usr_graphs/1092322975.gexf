@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#TiaraTheIllusionist" label="#TiaraTheIllusionist" />
+      <node id="#youfollowme" label="#youfollowme" />
+      <node id="#thewalkingdead" label="#thewalkingdead" />
+      <node id="#games" label="#games" />
+      <node id="#BreakingOffice" label="#BreakingOffice" />
+      <node id="#kubic" label="#kubic" />
+      <node id="#TheBachelor" label="#TheBachelor" />
+      <node id="#TheOffice" label="#TheOffice" />
+      <node id="#MCEscher" label="#MCEscher" />
+      <node id="#puzzle" label="#puzzle" />
+      <node id="#mobile" label="#mobile" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#TiaraTheIllusionist" target="#TheBachelor" weight="28" />
+      <edge id="1" source="#youfollowme" target="#thewalkingdead" weight="28" />
+      <edge id="2" source="#games" target="#mobile" weight="168" />
+      <edge id="3" source="#games" target="#puzzle" weight="168" />
+      <edge id="4" source="#games" target="#kubic" weight="168" />
+      <edge id="5" source="#games" target="#MCEscher" weight="168" />
+      <edge id="6" source="#BreakingOffice" target="#TheOffice" weight="28" />
+      <edge id="7" source="#kubic" target="#MCEscher" weight="168" />
+      <edge id="8" source="#kubic" target="#puzzle" weight="168" />
+      <edge id="9" source="#kubic" target="#mobile" weight="168" />
+      <edge id="10" source="#MCEscher" target="#puzzle" weight="168" />
+      <edge id="11" source="#MCEscher" target="#mobile" weight="168" />
+      <edge id="12" source="#puzzle" target="#mobile" weight="168" />
+    </edges>
+  </graph>
+</gexf>

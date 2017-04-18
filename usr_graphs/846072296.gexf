@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#coprsa" label="#coprsa" />
+      <node id="#columbusohio" label="#columbusohio" />
+      <node id="#shinepromotions" label="#shinepromotions" />
+      <node id="#artistdevelopmentseries" label="#artistdevelopmentseries" />
+      <node id="#keeponshining" label="#keeponshining" />
+      <node id="#live" label="#live" />
+      <node id="#bigbadmusichappyhour" label="#bigbadmusichappyhour" />
+      <node id="#womenrock" label="#womenrock" />
+      <node id="#NationalCatDay" label="#NationalCatDay" />
+      <node id="#bluestone" label="#bluestone" />
+      <node id="#firstandlastcat" label="#firstandlastcat" />
+      <node id="#publicrelations" label="#publicrelations" />
+      <node id="#livebandcamp" label="#livebandcamp" />
+      <node id="#artistdevelopment" label="#artistdevelopment" />
+      <node id="#livecon2015" label="#livecon2015" />
+      <node id="#letyourlightshine" label="#letyourlightshine" />
+      <node id="#kickstarter" label="#kickstarter" />
+      <node id="#stashers" label="#stashers" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#gottalent" label="#gottalent" />
+      <node id="#chicagocubs" label="#chicagocubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#coprsa" target="#bluestone" weight="150" />
+      <edge id="1" source="#coprsa" target="#chicagocubs" weight="150" />
+      <edge id="2" source="#coprsa" target="#columbusohio" weight="150" />
+      <edge id="3" source="#columbusohio" target="#bluestone" weight="150" />
+      <edge id="4" source="#columbusohio" target="#chicagocubs" weight="150" />
+      <edge id="5" source="#shinepromotions" target="#letyourlightshine" weight="150" />
+      <edge id="6" source="#shinepromotions" target="#publicrelations" weight="150" />
+      <edge id="7" source="#shinepromotions" target="#keeponshining" weight="150" />
+      <edge id="8" source="#shinepromotions" target="#columbus" weight="150" />
+      <edge id="9" source="#artistdevelopmentseries" target="#womenrock" weight="300" />
+      <edge id="10" source="#artistdevelopmentseries" target="#livecon2015" weight="300" />
+      <edge id="11" source="#keeponshining" target="#letyourlightshine" weight="150" />
+      <edge id="12" source="#keeponshining" target="#publicrelations" weight="150" />
+      <edge id="13" source="#keeponshining" target="#columbus" weight="150" />
+      <edge id="14" source="#live" target="#womenrock" weight="150" />
+      <edge id="15" source="#bigbadmusichappyhour" target="#bigbadmusichappyhour" weight="300" />
+      <edge id="16" source="#womenrock" target="#artistdevelopment" weight="150" />
+      <edge id="17" source="#womenrock" target="#livecon2015" weight="450" />
+      <edge id="18" source="#NationalCatDay" target="#firstandlastcat" weight="150" />
+      <edge id="19" source="#bluestone" target="#chicagocubs" weight="150" />
+      <edge id="20" source="#publicrelations" target="#letyourlightshine" weight="150" />
+      <edge id="21" source="#publicrelations" target="#columbus" weight="150" />
+      <edge id="22" source="#livebandcamp" target="#livecon2015" weight="150" />
+      <edge id="23" source="#artistdevelopment" target="#livecon2015" weight="150" />
+      <edge id="24" source="#livecon2015" target="#gottalent" weight="150" />
+      <edge id="25" source="#letyourlightshine" target="#columbus" weight="150" />
+      <edge id="26" source="#kickstarter" target="#stashers" weight="150" />
+    </edges>
+  </graph>
+</gexf>

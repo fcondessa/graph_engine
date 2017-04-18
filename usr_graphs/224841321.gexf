@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ShowgirlsTruther" label="#ShowgirlsTruther" />
+      <node id="#FeedChrisPratt" label="#FeedChrisPratt" />
+      <node id="#CrimingWhileWhite" label="#CrimingWhileWhite" />
+      <node id="#LoveWins" label="#LoveWins" />
+      <node id="#ZardozIsPleased" label="#ZardozIsPleased" />
+      <node id="#americanmummy" label="#americanmummy" />
+      <node id="#TwinPeaks" label="#TwinPeaks" />
+      <node id="#NightMoves" label="#NightMoves" />
+      <node id="#MrSmithGoesToWashington" label="#MrSmithGoesToWashington" />
+      <node id="#Insomnia" label="#Insomnia" />
+      <node id="#SlantGiveaway" label="#SlantGiveaway" />
+      <node id="#KettleAscending" label="#KettleAscending" />
+      <node id="#FreeChrisPratt" label="#FreeChrisPratt" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#Indiegogo" label="#Indiegogo" />
+      <node id="#damngoodcoffee" label="#damngoodcoffee" />
+      <node id="#AskTrump" label="#AskTrump" />
+      <node id="#JupiterAscending" label="#JupiterAscending" />
+      <node id="#Jeopardy" label="#Jeopardy" />
+      <node id="#Shocktober" label="#Shocktober" />
+      <node id="#aztecblood" label="#aztecblood" />
+      <node id="#sciencefiction" label="#sciencefiction" />
+      <node id="#worldbookday" label="#worldbookday" />
+      <node id="#DylannRoof" label="#DylannRoof" />
+      <node id="#Showtime" label="#Showtime" />
+      <node id="#MrTurner" label="#MrTurner" />
+      <node id="#CharlestonShooting" label="#CharlestonShooting" />
+      <node id="#ShowUsYourBirthCertificate" label="#ShowUsYourBirthCertificate" />
+      <node id="#TeamShowgirls" label="#TeamShowgirls" />
+      <node id="#SOV" label="#SOV" />
+      <node id="#AliveWhileBlack" label="#AliveWhileBlack" />
+      <node id="#DONATION" label="#DONATION" />
+      <node id="#FireWalkWithMe" label="#FireWalkWithMe" />
+      <node id="#DickPoop" label="#DickPoop" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ShowgirlsTruther" target="#TeamShowgirls" weight="3193" />
+      <edge id="1" source="#FeedChrisPratt" target="#FreeChrisPratt" weight="3193" />
+      <edge id="2" source="#CrimingWhileWhite" target="#AliveWhileBlack" weight="3193" />
+      <edge id="3" source="#LoveWins" target="#ZardozIsPleased" weight="3193" />
+      <edge id="4" source="#americanmummy" target="#aztecblood" weight="3193" />
+      <edge id="5" source="#TwinPeaks" target="#Showtime" weight="3193" />
+      <edge id="6" source="#TwinPeaks" target="#FireWalkWithMe" weight="3193" />
+      <edge id="7" source="#TwinPeaks" target="#damngoodcoffee" weight="3193" />
+      <edge id="8" source="#NightMoves" target="#SlantGiveaway" weight="3193" />
+      <edge id="9" source="#MrSmithGoesToWashington" target="#SlantGiveaway" weight="3193" />
+      <edge id="10" source="#Insomnia" target="#Jeopardy" weight="3193" />
+      <edge id="11" source="#KettleAscending" target="#JupiterAscending" weight="3193" />
+      <edge id="12" source="#crowdfunding" target="#DONATION" weight="3193" />
+      <edge id="13" source="#crowdfunding" target="#sciencefiction" weight="3193" />
+      <edge id="14" source="#crowdfunding" target="#Indiegogo" weight="3193" />
+      <edge id="15" source="#crowdfunding" target="#worldbookday" weight="3193" />
+      <edge id="16" source="#Indiegogo" target="#DONATION" weight="3193" />
+      <edge id="17" source="#Indiegogo" target="#sciencefiction" weight="3193" />
+      <edge id="18" source="#Indiegogo" target="#worldbookday" weight="3193" />
+      <edge id="19" source="#damngoodcoffee" target="#Showtime" weight="3193" />
+      <edge id="20" source="#AskTrump" target="#ShowUsYourBirthCertificate" weight="3193" />
+      <edge id="21" source="#Shocktober" target="#SOV" weight="3193" />
+      <edge id="22" source="#sciencefiction" target="#DONATION" weight="3193" />
+      <edge id="23" source="#sciencefiction" target="#worldbookday" weight="3193" />
+      <edge id="24" source="#worldbookday" target="#DONATION" weight="3193" />
+      <edge id="25" source="#DylannRoof" target="#CharlestonShooting" weight="3193" />
+      <edge id="26" source="#MrTurner" target="#DickPoop" weight="3193" />
+    </edges>
+  </graph>
+</gexf>

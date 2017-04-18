@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#canucks" label="#canucks" />
+      <node id="#technology" label="#technology" />
+      <node id="#HOCKEY" label="#HOCKEY" />
+      <node id="#leafs" label="#leafs" />
+      <node id="#foodiechats" label="#foodiechats" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#BEER" label="#BEER" />
+      <node id="#readings" label="#readings" />
+      <node id="#supportcraftbrewers" label="#supportcraftbrewers" />
+      <node id="#Craftbeer" label="#Craftbeer" />
+      <node id="#caps" label="#caps" />
+      <node id="#Lockout2012" label="#Lockout2012" />
+      <node id="#rncincle" label="#rncincle" />
+      <node id="#rangers" label="#rangers" />
+      <node id="#homebrew" label="#homebrew" />
+      <node id="#rules" label="#rules" />
+      <node id="#debate" label="#debate" />
+      <node id="#Sabres" label="#Sabres" />
+      <node id="#Blackhawks" label="#Blackhawks" />
+      <node id="#germanyforworldcup2014" label="#germanyforworldcup2014" />
+      <node id="#fathersday" label="#fathersday" />
+      <node id="#wch2016" label="#wch2016" />
+      <node id="#Penguins" label="#Penguins" />
+      <node id="#ipaday" label="#ipaday" />
+      <node id="#beershoppingmonday" label="#beershoppingmonday" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#Caps" label="#Caps" />
+      <node id="#Cheers" label="#Cheers" />
+      <node id="#brexit" label="#brexit" />
+      <node id="#wine" label="#wine" />
+      <node id="#WorldCupFinal" label="#WorldCupFinal" />
+      <node id="#travel" label="#travel" />
+      <node id="#Thundersnow" label="#Thundersnow" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#bourbon" label="#bourbon" />
+      <node id="#nhldraft" label="#nhldraft" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#hockey" label="#hockey" />
+      <node id="#rio2016" label="#rio2016" />
+      <node id="#NYE" label="#NYE" />
+      <node id="#FF" label="#FF" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#hurricaneparty" label="#hurricaneparty" />
+      <node id="#beer" label="#beer" />
+      <node id="#winning" label="#winning" />
+      <node id="#capsisles" label="#capsisles" />
+      <node id="#flyers" label="#flyers" />
+      <node id="#hurricanebeer" label="#hurricanebeer" />
+      <node id="#CAPS" label="#CAPS" />
+      <node id="#HeavySeas" label="#HeavySeas" />
+      <node id="#nhlawards" label="#nhlawards" />
+      <node id="#Beershoppingmonday" label="#Beershoppingmonday" />
+      <node id="#Bacon" label="#Bacon" />
+      <node id="#PENS" label="#PENS" />
+      <node id="#Bruins" label="#Bruins" />
+      <node id="#bbc16" label="#bbc16" />
+      <node id="#nhl" label="#nhl" />
+      <node id="#pahockey" label="#pahockey" />
+      <node id="#thebodygallery" label="#thebodygallery" />
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#Hockey" label="#Hockey" />
+      <node id="#Beer" label="#Beer" />
+      <node id="#CHEERS" label="#CHEERS" />
+      <node id="#nationalselfieday" label="#nationalselfieday" />
+      <node id="#fwx" label="#fwx" />
+      <node id="#beershopping" label="#beershopping" />
+      <node id="#BRUINS" label="#BRUINS" />
+      <node id="#pens" label="#pens" />
+      <node id="#Pens" label="#Pens" />
+      <node id="#ad" label="#ad" />
+      <node id="#angry" label="#angry" />
+      <node id="#Nhl" label="#Nhl" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#canucks" target="#Blackhawks" weight="2801" />
+      <edge id="1" source="#technology" target="#beer" weight="2801" />
+      <edge id="2" source="#technology" target="#craftbeer" weight="2801" />
+      <edge id="3" source="#HOCKEY" target="#CAPS" weight="8403" />
+      <edge id="4" source="#HOCKEY" target="#BRUINS" weight="2801" />
+      <edge id="5" source="#HOCKEY" target="#NHL" weight="5602" />
+      <edge id="6" source="#leafs" target="#caps" weight="2801" />
+      <edge id="7" source="#foodiechats" target="#Bacon" weight="8403" />
+      <edge id="8" source="#Thanksgiving" target="#rules" weight="2801" />
+      <edge id="9" source="#BEER" target="#CAPS" weight="2801" />
+      <edge id="10" source="#BEER" target="#PENS" weight="2801" />
+      <edge id="11" source="#readings" target="#caps" weight="2801" />
+      <edge id="12" source="#readings" target="#beer" weight="2801" />
+      <edge id="13" source="#readings" target="#craftbeer" weight="2801" />
+      <edge id="14" source="#supportcraftbrewers" target="#beer" weight="2801" />
+      <edge id="15" source="#supportcraftbrewers" target="#craftbeer" weight="2801" />
+      <edge id="16" source="#Craftbeer" target="#beer" weight="2801" />
+      <edge id="17" source="#Craftbeer" target="#Beer" weight="8403" />
+      <edge id="18" source="#caps" target="#Hockey" weight="5602" />
+      <edge id="19" source="#caps" target="#angry" weight="2801" />
+      <edge id="20" source="#caps" target="#beer" weight="78428" />
+      <edge id="21" source="#caps" target="#flyers" weight="2801" />
+      <edge id="22" source="#caps" target="#winning" weight="2801" />
+      <edge id="23" source="#caps" target="#craftbeer" weight="53219" />
+      <edge id="24" source="#caps" target="#hockey" weight="50418" />
+      <edge id="25" source="#caps" target="#rangers" weight="11204" />
+      <edge id="26" source="#caps" target="#pens" weight="8403" />
+      <edge id="27" source="#caps" target="#nhl" weight="14005" />
+      <edge id="28" source="#Lockout2012" target="#NHL" weight="2801" />
+      <edge id="29" source="#rncincle" target="#craftbeer" weight="2801" />
+      <edge id="30" source="#rangers" target="#hockey" weight="8403" />
+      <edge id="31" source="#rangers" target="#beer" weight="11204" />
+      <edge id="32" source="#rangers" target="#winning" weight="2801" />
+      <edge id="33" source="#rangers" target="#craftbeer" weight="11204" />
+      <edge id="34" source="#rangers" target="#Hockey" weight="2801" />
+      <edge id="35" source="#rangers" target="#nhl" weight="5602" />
+      <edge id="36" source="#homebrew" target="#hockey" weight="2801" />
+      <edge id="37" source="#homebrew" target="#beer" weight="47617" />
+      <edge id="38" source="#homebrew" target="#craftbeer" weight="47617" />
+      <edge id="39" source="#debate" target="#craftbeer" weight="2801" />
+      <edge id="40" source="#Sabres" target="#Caps" weight="2801" />
+      <edge id="41" source="#Sabres" target="#Pens" weight="2801" />
+      <edge id="42" source="#germanyforworldcup2014" target="#WorldCupFinal" weight="2801" />
+      <edge id="43" source="#fathersday" target="#craftbeer" weight="2801" />
+      <edge id="44" source="#wch2016" target="#craftbeer" weight="5602" />
+      <edge id="45" source="#Penguins" target="#pahockey" weight="2801" />
+      <edge id="46" source="#ipaday" target="#beer" weight="2801" />
+      <edge id="47" source="#ipaday" target="#craftbeer" weight="5602" />
+      <edge id="48" source="#beershoppingmonday" target="#beer" weight="47617" />
+      <edge id="49" source="#beershoppingmonday" target="#craftbeer" weight="47617" />
+      <edge id="50" source="#CraftBeer" target="#FF" weight="2801" />
+      <edge id="51" source="#Caps" target="#hockey" weight="2801" />
+      <edge id="52" source="#Caps" target="#Beer" weight="5602" />
+      <edge id="53" source="#Caps" target="#beer" weight="2801" />
+      <edge id="54" source="#Caps" target="#Bruins" weight="2801" />
+      <edge id="55" source="#Caps" target="#Pens" weight="2801" />
+      <edge id="56" source="#Caps" target="#nhl" weight="2801" />
+      <edge id="57" source="#Cheers" target="#NYE" weight="2801" />
+      <edge id="58" source="#brexit" target="#nhldraft" weight="2801" />
+      <edge id="59" source="#wine" target="#craftbeer" weight="5602" />
+      <edge id="60" source="#travel" target="#craftbeer" weight="5602" />
+      <edge id="61" source="#Thundersnow" target="#beer" weight="2801" />
+      <edge id="62" source="#NHL" target="#CAPS" weight="5602" />
+      <edge id="63" source="#NHL" target="#BRUINS" weight="2801" />
+      <edge id="64" source="#bourbon" target="#beer" weight="2801" />
+      <edge id="65" source="#bourbon" target="#craftbeer" weight="2801" />
+      <edge id="66" source="#debatenight" target="#craftbeer" weight="2801" />
+      <edge id="67" source="#hockey" target="#superbowl" weight="2801" />
+      <edge id="68" source="#hockey" target="#CAPS" weight="5602" />
+      <edge id="69" source="#hockey" target="#beer" weight="78428" />
+      <edge id="70" source="#hockey" target="#winning" weight="2801" />
+      <edge id="71" source="#hockey" target="#nhl" weight="22408" />
+      <edge id="72" source="#hockey" target="#craftbeer" weight="44816" />
+      <edge id="73" source="#hockey" target="#pens" weight="5602" />
+      <edge id="74" source="#hockey" target="#Nhl" weight="2801" />
+      <edge id="75" source="#rio2016" target="#craftbeer" weight="2801" />
+      <edge id="76" source="#craftbeer" target="#flyers" weight="2801" />
+      <edge id="77" source="#craftbeer" target="#hurricaneparty" weight="2801" />
+      <edge id="78" source="#craftbeer" target="#beer" weight="971947" />
+      <edge id="79" source="#craftbeer" target="#winning" weight="2801" />
+      <edge id="80" source="#craftbeer" target="#capsisles" weight="2801" />
+      <edge id="81" source="#craftbeer" target="#CAPS" weight="5602" />
+      <edge id="82" source="#craftbeer" target="#nhlawards" weight="2801" />
+      <edge id="83" source="#craftbeer" target="#Beershoppingmonday" weight="2801" />
+      <edge id="84" source="#craftbeer" target="#pens" weight="2801" />
+      <edge id="85" source="#craftbeer" target="#bbc16" weight="2801" />
+      <edge id="86" source="#craftbeer" target="#nhl" weight="5602" />
+      <edge id="87" source="#craftbeer" target="#thebodygallery" weight="2801" />
+      <edge id="88" source="#craftbeer" target="#Hockey" weight="2801" />
+      <edge id="89" source="#craftbeer" target="#nationalselfieday" weight="2801" />
+      <edge id="90" source="#craftbeer" target="#fwx" weight="2801" />
+      <edge id="91" source="#craftbeer" target="#beershopping" weight="5602" />
+      <edge id="92" source="#craftbeer" target="#ad" weight="2801" />
+      <edge id="93" source="#craftbeer" target="#Nhl" weight="2801" />
+      <edge id="94" source="#hurricaneparty" target="#beer" weight="2801" />
+      <edge id="95" source="#beer" target="#flyers" weight="2801" />
+      <edge id="96" source="#beer" target="#winning" weight="2801" />
+      <edge id="97" source="#beer" target="#Beershoppingmonday" weight="2801" />
+      <edge id="98" source="#beer" target="#Bruins" weight="2801" />
+      <edge id="99" source="#beer" target="#hurricanebeer" weight="2801" />
+      <edge id="100" source="#beer" target="#CAPS" weight="5602" />
+      <edge id="101" source="#beer" target="#CHEERS" weight="2801" />
+      <edge id="102" source="#beer" target="#pens" weight="5602" />
+      <edge id="103" source="#beer" target="#nhl" weight="8403" />
+      <edge id="104" source="#beer" target="#superbowl" weight="2801" />
+      <edge id="105" source="#beer" target="#Hockey" weight="5602" />
+      <edge id="106" source="#beer" target="#HeavySeas" weight="2801" />
+      <edge id="107" source="#beer" target="#beershopping" weight="5602" />
+      <edge id="108" source="#beer" target="#Nhl" weight="2801" />
+      <edge id="109" source="#hurricanebeer" target="#HeavySeas" weight="2801" />
+      <edge id="110" source="#CAPS" target="#PENS" weight="2801" />
+      <edge id="111" source="#CAPS" target="#BRUINS" weight="2801" />
+      <edge id="112" source="#nhl" target="#Hockey" weight="2801" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#canucks" label="#canucks" />
+      <node id="#sjsharks" label="#sjsharks" />
+      <node id="#MiamiU" label="#MiamiU" />
+      <node id="#miamiu" label="#miamiu" />
+      <node id="#FrozenFour" label="#FrozenFour" />
+      <node id="#fb" label="#fb" />
+      <node id="#RealPlayer" label="#RealPlayer" />
+      <node id="#osu" label="#osu" />
+      <node id="#Wings" label="#Wings" />
+      <node id="#Flames" label="#Flames" />
+      <node id="#CCHA" label="#CCHA" />
+      <node id="#cbj" label="#cbj" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#RedHawks" label="#RedHawks" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#canucks" target="#CBJ" weight="310" />
+      <edge id="1" source="#canucks" target="#cbj" weight="310" />
+      <edge id="2" source="#sjsharks" target="#cbj" weight="310" />
+      <edge id="3" source="#MiamiU" target="#CCHA" weight="310" />
+      <edge id="4" source="#MiamiU" target="#fb" weight="310" />
+      <edge id="5" source="#MiamiU" target="#RedHawks" weight="310" />
+      <edge id="6" source="#miamiu" target="#CCHA" weight="620" />
+      <edge id="7" source="#miamiu" target="#osu" weight="310" />
+      <edge id="8" source="#miamiu" target="#fb" weight="930" />
+      <edge id="9" source="#FrozenFour" target="#RedHawks" weight="620" />
+      <edge id="10" source="#fb" target="#CCHA" weight="620" />
+      <edge id="11" source="#fb" target="#RedHawks" weight="620" />
+      <edge id="12" source="#RealPlayer" target="#cbj" weight="310" />
+      <edge id="13" source="#osu" target="#CCHA" weight="310" />
+      <edge id="14" source="#Wings" target="#CBJ" weight="310" />
+      <edge id="15" source="#Flames" target="#CBJ" weight="620" />
+      <edge id="16" source="#CCHA" target="#RedHawks" weight="310" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Browns" label="#Browns" />
+      <node id="#easilypleased" label="#easilypleased" />
+      <node id="#logistics" label="#logistics" />
+      <node id="#wgccadillac" label="#wgccadillac" />
+      <node id="#goeagles" label="#goeagles" />
+      <node id="#Fridaythe13th" label="#Fridaythe13th" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#BuckeyePride" label="#BuckeyePride" />
+      <node id="#livingthedream" label="#livingthedream" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#priorities" label="#priorities" />
+      <node id="#power" label="#power" />
+      <node id="#airport" label="#airport" />
+      <node id="#garage" label="#garage" />
+      <node id="#Rickenbacker" label="#Rickenbacker" />
+      <node id="#ColumbusOh" label="#ColumbusOh" />
+      <node id="#energy" label="#energy" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#UrbanSwag" label="#UrbanSwag" />
+      <node id="#FlyColumbus" label="#FlyColumbus" />
+      <node id="#maintenance" label="#maintenance" />
+      <node id="#welcomeback" label="#welcomeback" />
+      <node id="#mountcarmel" label="#mountcarmel" />
+      <node id="#Falcons" label="#Falcons" />
+      <node id="#park" label="#park" />
+      <node id="#happiness" label="#happiness" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#merryxmas" label="#merryxmas" />
+      <node id="#swagger" label="#swagger" />
+      <node id="#mvp" label="#mvp" />
+      <node id="#lucky" label="#lucky" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#TerminalModernizationProgram" label="#TerminalModernizationProgram" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#keepcoworkershappy" label="#keepcoworkershappy" />
+      <node id="#akward" label="#akward" />
+      <node id="#PortColumbus" label="#PortColumbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Browns" target="#Falcons" weight="466" />
+      <edge id="1" source="#easilypleased" target="#happiness" weight="466" />
+      <edge id="2" source="#easilypleased" target="#livingthedream" weight="466" />
+      <edge id="3" source="#logistics" target="#Rickenbacker" weight="466" />
+      <edge id="4" source="#wgccadillac" target="#welcomeback" weight="466" />
+      <edge id="5" source="#goeagles" target="#mvp" weight="466" />
+      <edge id="6" source="#Fridaythe13th" target="#lucky" weight="466" />
+      <edge id="7" source="#Fridaythe13th" target="#airport" weight="466" />
+      <edge id="8" source="#tbt" target="#mountcarmel" weight="466" />
+      <edge id="9" source="#BuckeyePride" target="#Buckeyes" weight="466" />
+      <edge id="10" source="#BuckeyePride" target="#ColumbusOh" weight="466" />
+      <edge id="11" source="#BuckeyePride" target="#GoBucks" weight="466" />
+      <edge id="12" source="#livingthedream" target="#happiness" weight="466" />
+      <edge id="13" source="#Ohio" target="#Energy" weight="466" />
+      <edge id="14" source="#priorities" target="#keepcoworkershappy" weight="466" />
+      <edge id="15" source="#power" target="#energy" weight="466" />
+      <edge id="16" source="#power" target="#SOTU" weight="466" />
+      <edge id="17" source="#airport" target="#lucky" weight="466" />
+      <edge id="18" source="#garage" target="#maintenance" weight="466" />
+      <edge id="19" source="#garage" target="#park" weight="466" />
+      <edge id="20" source="#ColumbusOh" target="#Buckeyes" weight="466" />
+      <edge id="21" source="#ColumbusOh" target="#GoBucks" weight="466" />
+      <edge id="22" source="#energy" target="#SOTU" weight="466" />
+      <edge id="23" source="#Buckeyes" target="#GoBucks" weight="466" />
+      <edge id="24" source="#UrbanSwag" target="#swagger" weight="466" />
+      <edge id="25" source="#FlyColumbus" target="#TerminalModernizationProgram" weight="466" />
+      <edge id="26" source="#FlyColumbus" target="#PortColumbus" weight="466" />
+      <edge id="27" source="#maintenance" target="#park" weight="466" />
+      <edge id="28" source="#merryxmas" target="#akward" weight="466" />
+      <edge id="29" source="#TerminalModernizationProgram" target="#PortColumbus" weight="466" />
+    </edges>
+  </graph>
+</gexf>

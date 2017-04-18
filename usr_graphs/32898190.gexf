@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Oscar4Kate" label="#Oscar4Kate" />
+      <node id="#DebateNight" label="#DebateNight" />
+      <node id="#oops" label="#oops" />
+      <node id="#momisvisiting" label="#momisvisiting" />
+      <node id="#springiscoming" label="#springiscoming" />
+      <node id="#toddlerlife" label="#toddlerlife" />
+      <node id="#inbedby8" label="#inbedby8" />
+      <node id="#MadeWithChineseSteel" label="#MadeWithChineseSteel" />
+      <node id="#notacouple" label="#notacouple" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#Ghostbuster" label="#Ghostbuster" />
+      <node id="#Marvel" label="#Marvel" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#spring" label="#spring" />
+      <node id="#momissexist" label="#momissexist" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#DC" label="#DC" />
+      <node id="#tulips" label="#tulips" />
+      <node id="#meltdown" label="#meltdown" />
+      <node id="#WearYourSuperheroes" label="#WearYourSuperheroes" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Oscar4Kate" target="#Ghostbuster" weight="3241" />
+      <edge id="1" source="#DebateNight" target="#MadeWithChineseSteel" weight="3241" />
+      <edge id="2" source="#oops" target="#notacouple" weight="3241" />
+      <edge id="3" source="#momisvisiting" target="#momissexist" weight="3241" />
+      <edge id="4" source="#springiscoming" target="#toddlerlife" weight="3241" />
+      <edge id="5" source="#inbedby8" target="#meltdown" weight="3241" />
+      <edge id="6" source="#WorldSeries" target="#RallyTogether" weight="3241" />
+      <edge id="7" source="#Marvel" target="#WearYourSuperheroes" weight="3241" />
+      <edge id="8" source="#Marvel" target="#DC" weight="3241" />
+      <edge id="9" source="#RallyTogether" target="#Indians" weight="3241" />
+      <edge id="10" source="#spring" target="#tulips" weight="3241" />
+      <edge id="11" source="#DC" target="#WearYourSuperheroes" weight="3241" />
+    </edges>
+  </graph>
+</gexf>

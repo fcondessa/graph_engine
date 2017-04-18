@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#natgas" label="#natgas" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#CRA" label="#CRA" />
+      <node id="#InvestOhio" label="#InvestOhio" />
+      <node id="#JOBSAct" label="#JOBSAct" />
+      <node id="#ToledoRegionLearn" label="#ToledoRegionLearn" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#PAS15" label="#PAS15" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#aepohio" label="#aepohio" />
+      <node id="#bizdev" label="#bizdev" />
+      <node id="#ProgressOhio" label="#ProgressOhio" />
+      <node id="#JEDZ" label="#JEDZ" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#EB5" label="#EB5" />
+      <node id="#renewables" label="#renewables" />
+      <node id="#unemployment" label="#unemployment" />
+      <node id="#WhyOhio" label="#WhyOhio" />
+      <node id="#middlemarket" label="#middlemarket" />
+      <node id="#PTAC" label="#PTAC" />
+      <node id="#exports" label="#exports" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#ECDI" label="#ECDI" />
+      <node id="#OEDASummit" label="#OEDASummit" />
+      <node id="#OhioSelectUSA" label="#OhioSelectUSA" />
+      <node id="#TIGER" label="#TIGER" />
+      <node id="#solar" label="#solar" />
+      <node id="#ThirdFrontier" label="#ThirdFrontier" />
+      <node id="#Appalachia" label="#Appalachia" />
+      <node id="#taxcredits" label="#taxcredits" />
+      <node id="#grant" label="#grant" />
+      <node id="#Venturecapital" label="#Venturecapital" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#CBUSRegion" label="#CBUSRegion" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#finance" label="#finance" />
+      <node id="#shale" label="#shale" />
+      <node id="#schools" label="#schools" />
+      <node id="#econodev" label="#econodev" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#cbusbits" label="#cbusbits" />
+      <node id="#turnpike" label="#turnpike" />
+      <node id="#AEP" label="#AEP" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#economy" label="#economy" />
+      <node id="#cbus2020" label="#cbus2020" />
+      <node id="#workforce" label="#workforce" />
+      <node id="#easternohio" label="#easternohio" />
+      <node id="#whyohio" label="#whyohio" />
+      <node id="#ENTAPP" label="#ENTAPP" />
+      <node id="#JobsOhio" label="#JobsOhio" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#PACE" label="#PACE" />
+      <node id="#OBDC" label="#OBDC" />
+      <node id="#HB153" label="#HB153" />
+      <node id="#BetterBuildings" label="#BetterBuildings" />
+      <node id="#seohio" label="#seohio" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#drones" label="#drones" />
+      <node id="#DSA" label="#DSA" />
+      <node id="#AmericanJobsAct" label="#AmericanJobsAct" />
+      <node id="#logistics" label="#logistics" />
+      <node id="#BusinessFirst" label="#BusinessFirst" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#DOD" label="#DOD" />
+      <node id="#Choosecincy" label="#Choosecincy" />
+      <node id="#Democrats" label="#Democrats" />
+      <node id="#obamabridge" label="#obamabridge" />
+      <node id="#ODD" label="#ODD" />
+      <node id="#BondFinance" label="#BondFinance" />
+      <node id="#smallbusiness" label="#smallbusiness" />
+      <node id="#Pittsburgh" label="#Pittsburgh" />
+      <node id="#toledo" label="#toledo" />
+      <node id="#CuyahogaCounty" label="#CuyahogaCounty" />
+      <node id="#TIF" label="#TIF" />
+      <node id="#aircraft" label="#aircraft" />
+      <node id="#Kentucky" label="#Kentucky" />
+      <node id="#fracking" label="#fracking" />
+      <node id="#OhSupCt" label="#OhSupCt" />
+      <node id="#FF" label="#FF" />
+      <node id="#NEOhio" label="#NEOhio" />
+      <node id="#BuildInOhio" label="#BuildInOhio" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#OFCC" label="#OFCC" />
+      <node id="#FirstEnergy" label="#FirstEnergy" />
+      <node id="#litigation" label="#litigation" />
+      <node id="#NEO" label="#NEO" />
+      <node id="#tax" label="#tax" />
+      <node id="#taxrevenue" label="#taxrevenue" />
+      <node id="#DeWine" label="#DeWine" />
+      <node id="#China" label="#China" />
+      <node id="#Steubenville" label="#Steubenville" />
+      <node id="#ODJFS" label="#ODJFS" />
+      <node id="#Solar" label="#Solar" />
+      <node id="#CentralOhio" label="#CentralOhio" />
+      <node id="#Job" label="#Job" />
+      <node id="#Manufacturing" label="#Manufacturing" />
+      <node id="#Access2Capital" label="#Access2Capital" />
+      <node id="#Kasich" label="#Kasich" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#IRS" label="#IRS" />
+      <node id="#technology" label="#technology" />
+      <node id="#ODOD" label="#ODOD" />
+      <node id="#urbandev" label="#urbandev" />
+      <node id="#Midwest" label="#Midwest" />
+      <node id="#AJA" label="#AJA" />
+      <node id="#gas" label="#gas" />
+      <node id="#Columbus2020" label="#Columbus2020" />
+      <node id="#Cincy" label="#Cincy" />
+      <node id="#Coal" label="#Coal" />
+      <node id="#PUCO" label="#PUCO" />
+      <node id="#ODOT" label="#ODOT" />
+      <node id="#ForwardOhio" label="#ForwardOhio" />
+      <node id="#econdev" label="#econdev" />
+      <node id="#Marcellus" label="#Marcellus" />
+      <node id="#healthcarereform" label="#healthcarereform" />
+      <node id="#cities" label="#cities" />
+      <node id="#education" label="#education" />
+      <node id="#kraft" label="#kraft" />
+      <node id="#wind" label="#wind" />
+      <node id="#GFOA" label="#GFOA" />
+      <node id="#ToledoRegion" label="#ToledoRegion" />
+      <node id="#bonds" label="#bonds" />
+      <node id="#jobgrowth" label="#jobgrowth" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#OHenergy21" label="#OHenergy21" />
+      <node id="#highered" label="#highered" />
+      <node id="#taxcredit" label="#taxcredit" />
+      <node id="#taxation" label="#taxation" />
+      <node id="#advancedenergy" label="#advancedenergy" />
+      <node id="#EconDev" label="#EconDev" />
+      <node id="#kvamme" label="#kvamme" />
+      <node id="#PortsmouthDailyTimes" label="#PortsmouthDailyTimes" />
+      <node id="#CentralCatholic" label="#CentralCatholic" />
+      <node id="#Senate" label="#Senate" />
+      <node id="#SmallBusiness" label="#SmallBusiness" />
+      <node id="#labor" label="#labor" />
+      <node id="#growth" label="#growth" />
+      <node id="#taxes" label="#taxes" />
+      <node id="#OMA" label="#OMA" />
+      <node id="#Shale" label="#Shale" />
+      <node id="#OhioCity" label="#OhioCity" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#bondcounsel" label="#bondcounsel" />
+      <node id="#IEDC" label="#IEDC" />
+      <node id="#engines" label="#engines" />
+      <node id="#transportation" label="#transportation" />
+      <node id="#budget" label="#budget" />
+      <node id="#EnergyFinance" label="#EnergyFinance" />
+      <node id="#BondBuyer" label="#BondBuyer" />
+      <node id="#Delta" label="#Delta" />
+      <node id="#brownfields" label="#brownfields" />
+      <node id="#legal" label="#legal" />
+      <node id="#oil" label="#oil" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#electricity" label="#electricity" />
+      <node id="#suburbs" label="#suburbs" />
+      <node id="#PassThePlus" label="#PassThePlus" />
+      <node id="#POTUS" label="#POTUS" />
+      <node id="#economicdevelopment" label="#economicdevelopment" />
+      <node id="#appalachia" label="#appalachia" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#TeamNEO" label="#TeamNEO" />
+      <node id="#businesses" label="#businesses" />
+      <node id="#Utica" label="#Utica" />
+      <node id="#future" label="#future" />
+      <node id="#energy" label="#energy" />
+      <node id="#Employment" label="#Employment" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#HouseBill59" label="#HouseBill59" />
+      <node id="#CleanOhio" label="#CleanOhio" />
+      <node id="#incometax" label="#incometax" />
+      <node id="#energy21" label="#energy21" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#Delaware" label="#Delaware" />
+      <node id="#EconomicDevelopment" label="#EconomicDevelopment" />
+      <node id="#trade" label="#trade" />
+      <node id="#CapitalBill" label="#CapitalBill" />
+      <node id="#greenjobs" label="#greenjobs" />
+      <node id="#foreclosure" label="#foreclosure" />
+      <node id="#employment" label="#employment" />
+      <node id="#jobsohio" label="#jobsohio" />
+      <node id="#job" label="#job" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#cincy" label="#cincy" />
+      <node id="#lawyer" label="#lawyer" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#FHFA" label="#FHFA" />
+      <node id="#DukeEnergy" label="#DukeEnergy" />
+      <node id="#loan" label="#loan" />
+      <node id="#Workforce" label="#Workforce" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#Cordray" label="#Cordray" />
+      <node id="#siteselection" label="#siteselection" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#apeg" label="#apeg" />
+      <node id="#EPA" label="#EPA" />
+      <node id="#HB59" label="#HB59" />
+      <node id="#Toledo" label="#Toledo" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#natgas" target="#OhioState" weight="1406" />
+      <edge id="1" source="#natgas" target="#Marcellus" weight="1406" />
+      <edge id="2" source="#natgas" target="#Utica" weight="1406" />
+      <edge id="3" source="#natgas" target="#gas" weight="1406" />
+      <edge id="4" source="#natgas" target="#oil" weight="1406" />
+      <edge id="5" source="#natgas" target="#Kasich" weight="1406" />
+      <edge id="6" source="#natgas" target="#shale" weight="2812" />
+      <edge id="7" source="#natgas" target="#Ohio" weight="1406" />
+      <edge id="8" source="#OhioState" target="#Kasich" weight="1406" />
+      <edge id="9" source="#OhioState" target="#Ohio" weight="1406" />
+      <edge id="10" source="#CRA" target="#cincy" weight="1406" />
+      <edge id="11" source="#CRA" target="#economicdevelopment" weight="1406" />
+      <edge id="12" source="#InvestOhio" target="#Ohio" weight="1406" />
+      <edge id="13" source="#InvestOhio" target="#economicdevelopment" weight="1406" />
+      <edge id="14" source="#JOBSAct" target="#smallbusiness" weight="1406" />
+      <edge id="15" source="#JOBSAct" target="#Obama" weight="1406" />
+      <edge id="16" source="#ToledoRegionLearn" target="#ToledoRegion" weight="1406" />
+      <edge id="17" source="#ToledoRegionLearn" target="#CentralCatholic" weight="1406" />
+      <edge id="18" source="#entrepreneurs" target="#Cincinnati" weight="1406" />
+      <edge id="19" source="#entrepreneurs" target="#diversity" weight="1406" />
+      <edge id="20" source="#entrepreneurs" target="#Ohio" weight="2812" />
+      <edge id="21" source="#realestate" target="#foreclosure" weight="1406" />
+      <edge id="22" source="#PAS15" target="#Ohio" weight="1406" />
+      <edge id="23" source="#Cbus" target="#Ohio" weight="1406" />
+      <edge id="24" source="#aepohio" target="#EPA" weight="1406" />
+      <edge id="25" source="#aepohio" target="#FirstEnergy" weight="1406" />
+      <edge id="26" source="#aepohio" target="#DukeEnergy" weight="1406" />
+      <edge id="27" source="#bizdev" target="#econdev" weight="1406" />
+      <edge id="28" source="#ProgressOhio" target="#Kasich" weight="1406" />
+      <edge id="29" source="#ProgressOhio" target="#JobsOhio" weight="1406" />
+      <edge id="30" source="#JEDZ" target="#econdev" weight="1406" />
+      <edge id="31" source="#jobs" target="#BusinessFirst" weight="1406" />
+      <edge id="32" source="#jobs" target="#employment" weight="9842" />
+      <edge id="33" source="#jobs" target="#Dayton" weight="1406" />
+      <edge id="34" source="#jobs" target="#Ohio" weight="59052" />
+      <edge id="35" source="#jobs" target="#econdev" weight="16872" />
+      <edge id="36" source="#jobs" target="#economicdevelopment" weight="8436" />
+      <edge id="37" source="#jobs" target="#unemployment" weight="1406" />
+      <edge id="38" source="#jobs" target="#WhyOhio" weight="1406" />
+      <edge id="39" source="#jobs" target="#energy" weight="1406" />
+      <edge id="40" source="#jobs" target="#incometax" weight="1406" />
+      <edge id="41" source="#jobs" target="#Obama" weight="1406" />
+      <edge id="42" source="#jobs" target="#kraft" weight="1406" />
+      <edge id="43" source="#jobs" target="#CentralOhio" weight="1406" />
+      <edge id="44" source="#jobs" target="#manufacturing" weight="1406" />
+      <edge id="45" source="#jobs" target="#Columbus" weight="2812" />
+      <edge id="46" source="#jobs" target="#Cincinnati" weight="4218" />
+      <edge id="47" source="#jobs" target="#tax" weight="2812" />
+      <edge id="48" source="#jobs" target="#taxrevenue" weight="1406" />
+      <edge id="49" source="#jobs" target="#PortsmouthDailyTimes" weight="2812" />
+      <edge id="50" source="#jobs" target="#easternohio" weight="1406" />
+      <edge id="51" source="#jobs" target="#whyohio" weight="1406" />
+      <edge id="52" source="#jobs" target="#Kasich" weight="2812" />
+      <edge id="53" source="#jobs" target="#OBDC" weight="1406" />
+      <edge id="54" source="#jobs" target="#ohio" weight="2812" />
+      <edge id="55" source="#EB5" target="#Energy" weight="1406" />
+      <edge id="56" source="#renewables" target="#Kasich" weight="1406" />
+      <edge id="57" source="#renewables" target="#energy" weight="1406" />
+      <edge id="58" source="#renewables" target="#Ohio" weight="1406" />
+      <edge id="59" source="#unemployment" target="#Employment" weight="1406" />
+      <edge id="60" source="#unemployment" target="#econdev" weight="4218" />
+      <edge id="61" source="#unemployment" target="#employment" weight="2812" />
+      <edge id="62" source="#unemployment" target="#Ohio" weight="5624" />
+      <edge id="63" source="#WhyOhio" target="#middlemarket" weight="1406" />
+      <edge id="64" source="#WhyOhio" target="#Ohio" weight="1406" />
+      <edge id="65" source="#WhyOhio" target="#CLE" weight="1406" />
+      <edge id="66" source="#middlemarket" target="#CLE" weight="1406" />
+      <edge id="67" source="#PTAC" target="#Ohio" weight="1406" />
+      <edge id="68" source="#exports" target="#Ohio" weight="1406" />
+      <edge id="69" source="#Obama" target="#POTUS" weight="1406" />
+      <edge id="70" source="#Obama" target="#econdev" weight="1406" />
+      <edge id="71" source="#Obama" target="#smallbusiness" weight="1406" />
+      <edge id="72" source="#Obama" target="#AJA" weight="1406" />
+      <edge id="73" source="#Obama" target="#tax" weight="1406" />
+      <edge id="74" source="#ECDI" target="#smallbusiness" weight="1406" />
+      <edge id="75" source="#OEDASummit" target="#NEOhio" weight="1406" />
+      <edge id="76" source="#OEDASummit" target="#EconDev" weight="1406" />
+      <edge id="77" source="#OhioSelectUSA" target="#Ohio" weight="1406" />
+      <edge id="78" source="#TIGER" target="#econdev" weight="1406" />
+      <edge id="79" source="#TIGER" target="#Ohio" weight="1406" />
+      <edge id="80" source="#solar" target="#energy" weight="1406" />
+      <edge id="81" source="#solar" target="#Ohio" weight="1406" />
+      <edge id="82" source="#ThirdFrontier" target="#growth" weight="1406" />
+      <edge id="83" source="#ThirdFrontier" target="#NEO" weight="1406" />
+      <edge id="84" source="#ThirdFrontier" target="#econdev" weight="4218" />
+      <edge id="85" source="#ThirdFrontier" target="#Ohio" weight="7030" />
+      <edge id="86" source="#Appalachia" target="#Ohio" weight="2812" />
+      <edge id="87" source="#taxcredits" target="#Ohio" weight="1406" />
+      <edge id="88" source="#grant" target="#smallbusiness" weight="1406" />
+      <edge id="89" source="#grant" target="#ODOD" weight="1406" />
+      <edge id="90" source="#grant" target="#Ohio" weight="1406" />
+      <edge id="91" source="#Venturecapital" target="#Ohio" weight="1406" />
+      <edge id="92" source="#Energy" target="#shale" weight="1406" />
+      <edge id="93" source="#Energy" target="#fracking" weight="1406" />
+      <edge id="94" source="#Energy" target="#Ohio" weight="1406" />
+      <edge id="95" source="#CBUSRegion" target="#Columbus2020" weight="1406" />
+      <edge id="96" source="#CBUSRegion" target="#economicdevelopment" weight="1406" />
+      <edge id="97" source="#Innovation" target="#Access2Capital" weight="1406" />
+      <edge id="98" source="#finance" target="#Ohio" weight="1406" />
+      <edge id="99" source="#shale" target="#education" weight="1406" />
+      <edge id="100" source="#shale" target="#greenjobs" weight="1406" />
+      <edge id="101" source="#shale" target="#OHenergy21" weight="4218" />
+      <edge id="102" source="#shale" target="#econdev" weight="2812" />
+      <edge id="103" source="#shale" target="#economicdevelopment" weight="4218" />
+      <edge id="104" source="#shale" target="#taxation" weight="1406" />
+      <edge id="105" source="#shale" target="#Marcellus" weight="1406" />
+      <edge id="106" source="#shale" target="#Steubenville" weight="1406" />
+      <edge id="107" source="#shale" target="#job" weight="1406" />
+      <edge id="108" source="#shale" target="#Utica" weight="1406" />
+      <edge id="109" source="#shale" target="#JobsOhio" weight="1406" />
+      <edge id="110" source="#shale" target="#energy" weight="1406" />
+      <edge id="111" source="#shale" target="#manufacturing" weight="1406" />
+      <edge id="112" source="#shale" target="#gas" weight="14060" />
+      <edge id="113" source="#shale" target="#Kasich" weight="1406" />
+      <edge id="114" source="#shale" target="#oil" weight="14060" />
+      <edge id="115" source="#shale" target="#fracking" weight="1406" />
+      <edge id="116" source="#shale" target="#tax" weight="1406" />
+      <edge id="117" source="#shale" target="#Ohio" weight="21090" />
+      <edge id="118" source="#schools" target="#Ohio" weight="1406" />
+      <edge id="119" source="#econodev" target="#CBUS" weight="1406" />
+      <edge id="120" source="#Ohio" target="#economy" weight="2812" />
+      <edge id="121" source="#Ohio" target="#OFCC" weight="1406" />
+      <edge id="122" source="#Ohio" target="#ODOD" weight="1406" />
+      <edge id="123" source="#Ohio" target="#energy" weight="8436" />
+      <edge id="124" source="#Ohio" target="#Kentucky" weight="1406" />
+      <edge id="125" source="#Ohio" target="#CleanOhio" weight="1406" />
+      <edge id="126" source="#Ohio" target="#turnpike" weight="1406" />
+      <edge id="127" source="#Ohio" target="#Cleveland" weight="2812" />
+      <edge id="128" source="#Ohio" target="#workforce" weight="1406" />
+      <edge id="129" source="#Ohio" target="#whyohio" weight="1406" />
+      <edge id="130" source="#Ohio" target="#ENTAPP" weight="1406" />
+      <edge id="131" source="#Ohio" target="#PACE" weight="1406" />
+      <edge id="132" source="#Ohio" target="#OBDC" weight="5624" />
+      <edge id="133" source="#Ohio" target="#HB153" weight="1406" />
+      <edge id="134" source="#Ohio" target="#BetterBuildings" weight="1406" />
+      <edge id="135" source="#Ohio" target="#employment" weight="15466" />
+      <edge id="136" source="#Ohio" target="#Workforce" weight="1406" />
+      <edge id="137" source="#Ohio" target="#logistics" weight="1406" />
+      <edge id="138" source="#Ohio" target="#BusinessFirst" weight="1406" />
+      <edge id="139" source="#Ohio" target="#Democrats" weight="1406" />
+      <edge id="140" source="#Ohio" target="#DOD" weight="2812" />
+      <edge id="141" source="#Ohio" target="#ODD" weight="1406" />
+      <edge id="142" source="#Ohio" target="#smallbusiness" weight="5624" />
+      <edge id="143" source="#Ohio" target="#toledo" weight="1406" />
+      <edge id="144" source="#Ohio" target="#CuyahogaCounty" weight="1406" />
+      <edge id="145" source="#Ohio" target="#TIF" weight="8436" />
+      <edge id="146" source="#Ohio" target="#energy21" weight="1406" />
+      <edge id="147" source="#Ohio" target="#BuildInOhio" weight="1406" />
+      <edge id="148" source="#Ohio" target="#diversity" weight="1406" />
+      <edge id="149" source="#Ohio" target="#litigation" weight="1406" />
+      <edge id="150" source="#Ohio" target="#tax" weight="12654" />
+      <edge id="151" source="#Ohio" target="#DeWine" weight="1406" />
+      <edge id="152" source="#Ohio" target="#China" weight="1406" />
+      <edge id="153" source="#Ohio" target="#Steubenville" weight="1406" />
+      <edge id="154" source="#Ohio" target="#ODJFS" weight="1406" />
+      <edge id="155" source="#Ohio" target="#Solar" weight="1406" />
+      <edge id="156" source="#Ohio" target="#Job" weight="1406" />
+      <edge id="157" source="#Ohio" target="#Kasich" weight="21090" />
+      <edge id="158" source="#Ohio" target="#Cincinnati" weight="14060" />
+      <edge id="159" source="#Ohio" target="#manufacturing" weight="8436" />
+      <edge id="160" source="#Ohio" target="#technology" weight="4218" />
+      <edge id="161" source="#Ohio" target="#urbandev" weight="1406" />
+      <edge id="162" source="#Ohio" target="#JobsOhio" weight="25308" />
+      <edge id="163" source="#Ohio" target="#gas" weight="9842" />
+      <edge id="164" source="#Ohio" target="#Columbus2020" weight="2812" />
+      <edge id="165" source="#Ohio" target="#Delta" weight="1406" />
+      <edge id="166" source="#Ohio" target="#Coal" weight="1406" />
+      <edge id="167" source="#Ohio" target="#ODOT" weight="2812" />
+      <edge id="168" source="#Ohio" target="#econdev" weight="101232" />
+      <edge id="169" source="#Ohio" target="#education" weight="1406" />
+      <edge id="170" source="#Ohio" target="#wind" weight="1406" />
+      <edge id="171" source="#Ohio" target="#GFOA" weight="1406" />
+      <edge id="172" source="#Ohio" target="#jobgrowth" weight="2812" />
+      <edge id="173" source="#Ohio" target="#Toledo" weight="1406" />
+      <edge id="174" source="#Ohio" target="#OHenergy21" weight="4218" />
+      <edge id="175" source="#Ohio" target="#highered" weight="1406" />
+      <edge id="176" source="#Ohio" target="#taxcredit" weight="4218" />
+      <edge id="177" source="#Ohio" target="#taxation" weight="1406" />
+      <edge id="178" source="#Ohio" target="#advancedenergy" weight="1406" />
+      <edge id="179" source="#Ohio" target="#PortsmouthDailyTimes" weight="1406" />
+      <edge id="180" source="#Ohio" target="#SmallBusiness" weight="1406" />
+      <edge id="181" source="#Ohio" target="#taxes" weight="1406" />
+      <edge id="182" source="#Ohio" target="#OMA" weight="1406" />
+      <edge id="183" source="#Ohio" target="#Shale" weight="1406" />
+      <edge id="184" source="#Ohio" target="#bondcounsel" weight="1406" />
+      <edge id="185" source="#Ohio" target="#sustainability" weight="1406" />
+      <edge id="186" source="#Ohio" target="#transportation" weight="2812" />
+      <edge id="187" source="#Ohio" target="#budget" weight="1406" />
+      <edge id="188" source="#Ohio" target="#BondBuyer" weight="1406" />
+      <edge id="189" source="#Ohio" target="#brownfields" weight="1406" />
+      <edge id="190" source="#Ohio" target="#legal" weight="1406" />
+      <edge id="191" source="#Ohio" target="#Dayton" weight="7030" />
+      <edge id="192" source="#Ohio" target="#oil" weight="9842" />
+      <edge id="193" source="#Ohio" target="#PassThePlus" weight="1406" />
+      <edge id="194" source="#Ohio" target="#economicdevelopment" weight="81548" />
+      <edge id="195" source="#Ohio" target="#appalachia" weight="1406" />
+      <edge id="196" source="#Ohio" target="#businesses" weight="2812" />
+      <edge id="197" source="#Ohio" target="#future" weight="1406" />
+      <edge id="198" source="#Ohio" target="#DSA" weight="1406" />
+      <edge id="199" source="#Ohio" target="#incometax" weight="1406" />
+      <edge id="200" source="#Ohio" target="#Delaware" weight="1406" />
+      <edge id="201" source="#Ohio" target="#trade" weight="1406" />
+      <edge id="202" source="#Ohio" target="#CapitalBill" weight="1406" />
+      <edge id="203" source="#Ohio" target="#job" weight="1406" />
+      <edge id="204" source="#Ohio" target="#healthcare" weight="1406" />
+      <edge id="205" source="#Ohio" target="#lawyer" weight="1406" />
+      <edge id="206" source="#Ohio" target="#Columbus" weight="5624" />
+      <edge id="207" source="#Ohio" target="#loan" weight="1406" />
+      <edge id="208" source="#Ohio" target="#EconomicDevelopment" weight="1406" />
+      <edge id="209" source="#Ohio" target="#Cordray" weight="1406" />
+      <edge id="210" source="#Ohio" target="#TeamNEO" weight="1406" />
+      <edge id="211" source="#cbusbits" target="#technology" weight="1406" />
+      <edge id="212" source="#AEP" target="#PUCO" weight="1406" />
+      <edge id="213" source="#AEP" target="#electricity" weight="1406" />
+      <edge id="214" source="#Cleveland" target="#Cincy" weight="1406" />
+      <edge id="215" source="#Cleveland" target="#Pittsburgh" weight="1406" />
+      <edge id="216" source="#Cleveland" target="#CuyahogaCounty" weight="1406" />
+      <edge id="217" source="#Cleveland" target="#OhioCity" weight="1406" />
+      <edge id="218" source="#economy" target="#trade" weight="1406" />
+      <edge id="219" source="#economy" target="#energy" weight="1406" />
+      <edge id="220" source="#economy" target="#econdev" weight="1406" />
+      <edge id="221" source="#cbus2020" target="#econdev" weight="1406" />
+      <edge id="222" source="#workforce" target="#Kasich" weight="1406" />
+      <edge id="223" source="#easternohio" target="#econdev" weight="1406" />
+      <edge id="224" source="#whyohio" target="#kraft" weight="1406" />
+      <edge id="225" source="#whyohio" target="#econdev" weight="2812" />
+      <edge id="226" source="#whyohio" target="#future" weight="1406" />
+      <edge id="227" source="#whyohio" target="#manufacturing" weight="1406" />
+      <edge id="228" source="#whyohio" target="#apeg" weight="1406" />
+      <edge id="229" source="#JobsOhio" target="#GFOA" weight="1406" />
+      <edge id="230" source="#JobsOhio" target="#kvamme" weight="1406" />
+      <edge id="231" source="#JobsOhio" target="#appalachia" weight="1406" />
+      <edge id="232" source="#JobsOhio" target="#economicdevelopment" weight="14060" />
+      <edge id="233" source="#JobsOhio" target="#econdev" weight="9842" />
+      <edge id="234" source="#JobsOhio" target="#ohio" weight="1406" />
+      <edge id="235" source="#JobsOhio" target="#toledo" weight="1406" />
+      <edge id="236" source="#JobsOhio" target="#OHenergy21" weight="1406" />
+      <edge id="237" source="#JobsOhio" target="#Columbus2020" weight="1406" />
+      <edge id="238" source="#JobsOhio" target="#Kasich" weight="4218" />
+      <edge id="239" source="#JobsOhio" target="#litigation" weight="1406" />
+      <edge id="240" source="#JobsOhio" target="#OhSupCt" weight="1406" />
+      <edge id="241" source="#FollowFriday" target="#FF" weight="1406" />
+      <edge id="242" source="#FollowFriday" target="#econdev" weight="1406" />
+      <edge id="243" source="#PACE" target="#bondcounsel" weight="1406" />
+      <edge id="244" source="#PACE" target="#energy" weight="1406" />
+      <edge id="245" source="#PACE" target="#lawyer" weight="1406" />
+      <edge id="246" source="#PACE" target="#legal" weight="1406" />
+      <edge id="247" source="#PACE" target="#FHFA" weight="1406" />
+      <edge id="248" source="#OBDC" target="#econdev" weight="2812" />
+      <edge id="249" source="#OBDC" target="#economicdevelopment" weight="5624" />
+      <edge id="250" source="#OBDC" target="#jobgrowth" weight="1406" />
+      <edge id="251" source="#OBDC" target="#Columbus" weight="1406" />
+      <edge id="252" source="#HB153" target="#taxcredit" weight="1406" />
+      <edge id="253" source="#BetterBuildings" target="#energy" weight="1406" />
+      <edge id="254" source="#BetterBuildings" target="#Toledo" weight="1406" />
+      <edge id="255" source="#seohio" target="#apeg" weight="1406" />
+      <edge id="256" source="#seohio" target="#economicdevelopment" weight="1406" />
+      <edge id="257" source="#SCOTUS" target="#ACA" weight="1406" />
+      <edge id="258" source="#SCOTUS" target="#healthcarereform" weight="1406" />
+      <edge id="259" source="#drones" target="#economicdevelopment" weight="1406" />
+      <edge id="260" source="#AmericanJobsAct" target="#economicdevelopment" weight="1406" />
+      <edge id="261" source="#logistics" target="#transportation" weight="1406" />
+      <edge id="262" source="#BusinessFirst" target="#econdev" weight="1406" />
+      <edge id="263" source="#DOD" target="#urbandev" weight="1406" />
+      <edge id="264" source="#DOD" target="#econdev" weight="1406" />
+      <edge id="265" source="#DOD" target="#economicdevelopment" weight="1406" />
+      <edge id="266" source="#Choosecincy" target="#EconomicDevelopment" weight="1406" />
+      <edge id="267" source="#Democrats" target="#CapitalBill" weight="1406" />
+      <edge id="268" source="#obamabridge" target="#POTUS" weight="1406" />
+      <edge id="269" source="#obamabridge" target="#economicdevelopment" weight="1406" />
+      <edge id="270" source="#BondFinance" target="#EnergyFinance" weight="1406" />
+      <edge id="271" source="#smallbusiness" target="#econdev" weight="2812" />
+      <edge id="272" source="#smallbusiness" target="#ODOD" weight="1406" />
+      <edge id="273" source="#toledo" target="#appalachia" weight="1406" />
+      <edge id="274" source="#TIF" target="#Cincinnati" weight="1406" />
+      <edge id="275" source="#TIF" target="#economicdevelopment" weight="4218" />
+      <edge id="276" source="#aircraft" target="#engines" weight="1406" />
+      <edge id="277" source="#fracking" target="#EPA" weight="1406" />
+      <edge id="278" source="#FF" target="#econdev" weight="1406" />
+      <edge id="279" source="#NEOhio" target="#EconDev" weight="1406" />
+      <edge id="280" source="#diversity" target="#Cincinnati" weight="1406" />
+      <edge id="281" source="#FirstEnergy" target="#DukeEnergy" weight="1406" />
+      <edge id="282" source="#FirstEnergy" target="#EPA" weight="1406" />
+      <edge id="283" source="#litigation" target="#economicdevelopment" weight="1406" />
+      <edge id="284" source="#NEO" target="#growth" weight="1406" />
+      <edge id="285" source="#tax" target="#IRS" weight="1406" />
+      <edge id="286" source="#tax" target="#taxcredit" weight="1406" />
+      <edge id="287" source="#tax" target="#wind" weight="1406" />
+      <edge id="288" source="#tax" target="#econdev" weight="5624" />
+      <edge id="289" source="#tax" target="#economicdevelopment" weight="1406" />
+      <edge id="290" source="#tax" target="#bonds" weight="1406" />
+      <edge id="291" source="#tax" target="#businesses" weight="2812" />
+      <edge id="292" source="#tax" target="#Solar" weight="1406" />
+      <edge id="293" source="#tax" target="#energy" weight="2812" />
+      <edge id="294" source="#tax" target="#gas" weight="1406" />
+      <edge id="295" source="#tax" target="#Kasich" weight="1406" />
+      <edge id="296" source="#tax" target="#oil" weight="1406" />
+      <edge id="297" source="#tax" target="#incometax" weight="1406" />
+      <edge id="298" source="#taxrevenue" target="#Columbus" weight="1406" />
+      <edge id="299" source="#DeWine" target="#energy" weight="1406" />
+      <edge id="300" source="#DeWine" target="#econdev" weight="1406" />
+      <edge id="301" source="#China" target="#economicdevelopment" weight="1406" />
+      <edge id="302" source="#Steubenville" target="#econdev" weight="1406" />
+      <edge id="303" source="#Solar" target="#wind" weight="1406" />
+      <edge id="304" source="#Job" target="#econdev" weight="1406" />
+      <edge id="305" source="#Manufacturing" target="#cities" weight="1406" />
+      <edge id="306" source="#Kasich" target="#budget" weight="1406" />
+      <edge id="307" source="#Kasich" target="#econdev" weight="2812" />
+      <edge id="308" source="#Kasich" target="#economicdevelopment" weight="1406" />
+      <edge id="309" source="#Kasich" target="#BondBuyer" weight="1406" />
+      <edge id="310" source="#Kasich" target="#taxes" weight="1406" />
+      <edge id="311" source="#Kasich" target="#OHenergy21" weight="2812" />
+      <edge id="312" source="#Kasich" target="#energy" weight="4218" />
+      <edge id="313" source="#Kasich" target="#Workforce" weight="1406" />
+      <edge id="314" source="#Cincinnati" target="#technology" weight="2812" />
+      <edge id="315" source="#Cincinnati" target="#econdev" weight="5624" />
+      <edge id="316" source="#Cincinnati" target="#economicdevelopment" weight="1406" />
+      <edge id="317" source="#Cincinnati" target="#Delta" weight="1406" />
+      <edge id="318" source="#Cincinnati" target="#ohio" weight="1406" />
+      <edge id="319" source="#Cincinnati" target="#Columbus" weight="1406" />
+      <edge id="320" source="#manufacturing" target="#kraft" weight="1406" />
+      <edge id="321" source="#manufacturing" target="#econdev" weight="2812" />
+      <edge id="322" source="#manufacturing" target="#economicdevelopment" weight="2812" />
+      <edge id="323" source="#manufacturing" target="#OHenergy21" weight="1406" />
+      <edge id="324" source="#manufacturing" target="#OMA" weight="1406" />
+      <edge id="325" source="#IRS" target="#energy" weight="2812" />
+      <edge id="326" source="#IRS" target="#bonds" weight="1406" />
+      <edge id="327" source="#ODOD" target="#employment" weight="1406" />
+      <edge id="328" source="#urbandev" target="#econdev" weight="1406" />
+      <edge id="329" source="#Midwest" target="#econdev" weight="1406" />
+      <edge id="330" source="#AJA" target="#POTUS" weight="2812" />
+      <edge id="331" source="#AJA" target="#economicdevelopment" weight="1406" />
+      <edge id="332" source="#gas" target="#education" weight="1406" />
+      <edge id="333" source="#gas" target="#Marcellus" weight="1406" />
+      <edge id="334" source="#gas" target="#Utica" weight="1406" />
+      <edge id="335" source="#gas" target="#OHenergy21" weight="2812" />
+      <edge id="336" source="#gas" target="#oil" weight="18278" />
+      <edge id="337" source="#gas" target="#Shale" weight="1406" />
+      <edge id="338" source="#gas" target="#taxation" weight="1406" />
+      <edge id="339" source="#Columbus2020" target="#economicdevelopment" weight="4218" />
+      <edge id="340" source="#PUCO" target="#electricity" weight="1406" />
+      <edge id="341" source="#ODOT" target="#transportation" weight="1406" />
+      <edge id="342" source="#ForwardOhio" target="#econdev" weight="1406" />
+      <edge id="343" source="#econdev" target="#transportation" weight="1406" />
+      <edge id="344" source="#econdev" target="#Senate" weight="1406" />
+      <edge id="345" source="#econdev" target="#employment" weight="7030" />
+      <edge id="346" source="#econdev" target="#Delta" weight="1406" />
+      <edge id="347" source="#econdev" target="#Dayton" weight="2812" />
+      <edge id="348" source="#econdev" target="#suburbs" weight="1406" />
+      <edge id="349" source="#econdev" target="#POTUS" weight="1406" />
+      <edge id="350" source="#econdev" target="#economicdevelopment" weight="1406" />
+      <edge id="351" source="#econdev" target="#Columbus" weight="1406" />
+      <edge id="352" source="#econdev" target="#energy" weight="2812" />
+      <edge id="353" source="#econdev" target="#Employment" weight="1406" />
+      <edge id="354" source="#econdev" target="#bigdata" weight="1406" />
+      <edge id="355" source="#econdev" target="#apeg" weight="1406" />
+      <edge id="356" source="#econdev" target="#kraft" weight="1406" />
+      <edge id="357" source="#econdev" target="#trade" weight="1406" />
+      <edge id="358" source="#econdev" target="#jobgrowth" weight="1406" />
+      <edge id="359" source="#econdev" target="#jobsohio" weight="1406" />
+      <edge id="360" source="#econdev" target="#job" weight="1406" />
+      <edge id="361" source="#econdev" target="#BondBuyer" weight="1406" />
+      <edge id="362" source="#econdev" target="#kvamme" weight="2812" />
+      <edge id="363" source="#econdev" target="#loan" weight="1406" />
+      <edge id="364" source="#econdev" target="#PortsmouthDailyTimes" weight="2812" />
+      <edge id="365" source="#econdev" target="#siteselection" weight="1406" />
+      <edge id="366" source="#econdev" target="#CBUS" weight="2812" />
+      <edge id="367" source="#econdev" target="#ohio" weight="4218" />
+      <edge id="368" source="#Marcellus" target="#oil" weight="1406" />
+      <edge id="369" source="#Marcellus" target="#Utica" weight="1406" />
+      <edge id="370" source="#healthcarereform" target="#ACA" weight="1406" />
+      <edge id="371" source="#education" target="#oil" weight="1406" />
+      <edge id="372" source="#education" target="#OHenergy21" weight="1406" />
+      <edge id="373" source="#GFOA" target="#economicdevelopment" weight="1406" />
+      <edge id="374" source="#ToledoRegion" target="#CentralCatholic" weight="1406" />
+      <edge id="375" source="#bonds" target="#energy" weight="1406" />
+      <edge id="376" source="#jobgrowth" target="#economicdevelopment" weight="2812" />
+      <edge id="377" source="#smallbiz" target="#entrepreneur" weight="2812" />
+      <edge id="378" source="#OHenergy21" target="#economicdevelopment" weight="1406" />
+      <edge id="379" source="#OHenergy21" target="#energy" weight="1406" />
+      <edge id="380" source="#OHenergy21" target="#oil" weight="2812" />
+      <edge id="381" source="#OHenergy21" target="#Shale" weight="1406" />
+      <edge id="382" source="#taxcredit" target="#economicdevelopment" weight="1406" />
+      <edge id="383" source="#taxation" target="#oil" weight="1406" />
+      <edge id="384" source="#advancedenergy" target="#energy" weight="2812" />
+      <edge id="385" source="#EconDev" target="#EconomicDevelopment" weight="1406" />
+      <edge id="386" source="#kvamme" target="#jobsohio" weight="1406" />
+      <edge id="387" source="#kvamme" target="#ohio" weight="2812" />
+      <edge id="388" source="#Senate" target="#transportation" weight="1406" />
+      <edge id="389" source="#labor" target="#employment" weight="1406" />
+      <edge id="390" source="#labor" target="#economicdevelopment" weight="1406" />
+      <edge id="391" source="#Shale" target="#oil" weight="1406" />
+      <edge id="392" source="#ohio" target="#jobsohio" weight="1406" />
+      <edge id="393" source="#ohio" target="#employment" weight="1406" />
+      <edge id="394" source="#bondcounsel" target="#lawyer" weight="1406" />
+      <edge id="395" source="#bondcounsel" target="#legal" weight="1406" />
+      <edge id="396" source="#IEDC" target="#economicdevelopment" weight="1406" />
+      <edge id="397" source="#legal" target="#lawyer" weight="1406" />
+      <edge id="398" source="#oil" target="#Utica" weight="1406" />
+      <edge id="399" source="#POTUS" target="#economicdevelopment" weight="2812" />
+      <edge id="400" source="#economicdevelopment" target="#employment" weight="5624" />
+      <edge id="401" source="#economicdevelopment" target="#cincy" weight="1406" />
+      <edge id="402" source="#economicdevelopment" target="#Columbus" weight="1406" />
+      <edge id="403" source="#economicdevelopment" target="#greenjobs" weight="1406" />
+      <edge id="404" source="#economicdevelopment" target="#Cordray" weight="1406" />
+      <edge id="405" source="#economicdevelopment" target="#siteselection" weight="1406" />
+      <edge id="406" source="#economicdevelopment" target="#apeg" weight="1406" />
+      <edge id="407" source="#economicdevelopment" target="#healthcare" weight="2812" />
+      <edge id="408" source="#businesses" target="#incometax" weight="1406" />
+      <edge id="409" source="#energy" target="#Toledo" weight="1406" />
+      <edge id="410" source="#HouseBill59" target="#HB59" weight="1406" />
+      <edge id="411" source="#EconomicDevelopment" target="#healthcare" weight="1406" />
+      <edge id="412" source="#Columbus" target="#sustainability" weight="1406" />
+      <edge id="413" source="#DukeEnergy" target="#EPA" weight="1406" />
+    </edges>
+  </graph>
+</gexf>

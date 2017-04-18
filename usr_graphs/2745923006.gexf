@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DOTSmartCity" label="#DOTSmartCity" />
+      <node id="#LifeInCBUS" label="#LifeInCBUS" />
+      <node id="#cpdpride" label="#cpdpride" />
+      <node id="#smartcitypitch" label="#smartcitypitch" />
+      <node id="#MSR2016" label="#MSR2016" />
+      <node id="#MoveColumbus" label="#MoveColumbus" />
+      <node id="#SmartCityChallenge" label="#SmartCityChallenge" />
+      <node id="#smartcolumbus" label="#smartcolumbus" />
+      <node id="#SmartCityPitch" label="#SmartCityPitch" />
+      <node id="#oneofUS" label="#oneofUS" />
+      <node id="#DotSmartCity" label="#DotSmartCity" />
+      <node id="#CbusProud" label="#CbusProud" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#Proud" label="#Proud" />
+      <node id="#EBONYPower100" label="#EBONYPower100" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Cbus" label="#Cbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DOTSmartCity" target="#CbusProud" weight="148" />
+      <edge id="1" source="#DOTSmartCity" target="#SmartColumbus" weight="444" />
+      <edge id="2" source="#DOTSmartCity" target="#Columbus" weight="148" />
+      <edge id="3" source="#DOTSmartCity" target="#SmartCityChallenge" weight="148" />
+      <edge id="4" source="#LifeInCBUS" target="#CBUS" weight="148" />
+      <edge id="5" source="#cpdpride" target="#RNCinCLE" weight="148" />
+      <edge id="6" source="#smartcitypitch" target="#smartcolumbus" weight="148" />
+      <edge id="7" source="#MSR2016" target="#smartcolumbus" weight="148" />
+      <edge id="8" source="#MoveColumbus" target="#SmartColumbus" weight="148" />
+      <edge id="9" source="#MoveColumbus" target="#oneofUS" weight="148" />
+      <edge id="10" source="#MoveColumbus" target="#SmartCityChallenge" weight="148" />
+      <edge id="11" source="#SmartCityChallenge" target="#oneofUS" weight="148" />
+      <edge id="12" source="#SmartCityChallenge" target="#SmartColumbus" weight="740" />
+      <edge id="13" source="#SmartCityChallenge" target="#CbusProud" weight="296" />
+      <edge id="14" source="#SmartCityChallenge" target="#DotSmartCity" weight="148" />
+      <edge id="15" source="#SmartCityPitch" target="#SmartColumbus" weight="444" />
+      <edge id="16" source="#oneofUS" target="#SmartColumbus" weight="148" />
+      <edge id="17" source="#DotSmartCity" target="#SmartColumbus" weight="148" />
+      <edge id="18" source="#CbusProud" target="#SmartColumbus" weight="148" />
+      <edge id="19" source="#cbus" target="#EBONYPower100" weight="148" />
+      <edge id="20" source="#Proud" target="#lifeincbus" weight="148" />
+      <edge id="21" source="#SmartColumbus" target="#Cbus" weight="148" />
+    </edges>
+  </graph>
+</gexf>

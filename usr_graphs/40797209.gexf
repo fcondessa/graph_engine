@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ALCHAMPIONS" label="#ALCHAMPIONS" />
+      <node id="#BautistaIsStillANut" label="#BautistaIsStillANut" />
+      <node id="#PartyAtNapolis" label="#PartyAtNapolis" />
+      <node id="#NoDebateForMe" label="#NoDebateForMe" />
+      <node id="#Astros" label="#Astros" />
+      <node id="#DefendtheLand" label="#DefendtheLand" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#footballtweet" label="#footballtweet" />
+      <node id="#UmpShow" label="#UmpShow" />
+      <node id="#DoubleSwitchesSuck" label="#DoubleSwitchesSuck" />
+      <node id="#ReplayShow" label="#ReplayShow" />
+      <node id="#PitchFramingMatters" label="#PitchFramingMatters" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#PitchersHittingSucks" label="#PitchersHittingSucks" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#DHForever" label="#DHForever" />
+      <node id="#FireJoeWest" label="#FireJoeWest" />
+      <node id="#BuntingSucks" label="#BuntingSucks" />
+      <node id="#Indians" label="#Indians" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ALCHAMPIONS" target="#RallyTogether" weight="3238" />
+      <edge id="1" source="#BautistaIsStillANut" target="#PitchFramingMatters" weight="3238" />
+      <edge id="2" source="#PartyAtNapolis" target="#UmpShow" weight="3238" />
+      <edge id="3" source="#NoDebateForMe" target="#Indians" weight="3238" />
+      <edge id="4" source="#Astros" target="#UmpShow" weight="3238" />
+      <edge id="5" source="#Astros" target="#Indians" weight="3238" />
+      <edge id="6" source="#DefendtheLand" target="#DefendtheLand" weight="38856" />
+      <edge id="7" source="#DefendtheLand" target="#RallyTogether" weight="55046" />
+      <edge id="8" source="#WorldSeries" target="#Indians" weight="3238" />
+      <edge id="9" source="#WorldSeries" target="#RallyTogether" weight="3238" />
+      <edge id="10" source="#footballtweet" target="#Buckeyes" weight="3238" />
+      <edge id="11" source="#UmpShow" target="#Indians" weight="3238" />
+      <edge id="12" source="#UmpShow" target="#ReplayShow" weight="3238" />
+      <edge id="13" source="#DoubleSwitchesSuck" target="#PitchersHittingSucks" weight="3238" />
+      <edge id="14" source="#DoubleSwitchesSuck" target="#DHForever" weight="3238" />
+      <edge id="15" source="#DoubleSwitchesSuck" target="#BuntingSucks" weight="3238" />
+      <edge id="16" source="#RallyTogether" target="#Indians" weight="9714" />
+      <edge id="17" source="#RallyTogether" target="#RallyTogether" weight="38856" />
+      <edge id="18" source="#Cavs" target="#Indians" weight="3238" />
+      <edge id="19" source="#Cavs" target="#Buckeyes" weight="3238" />
+      <edge id="20" source="#PitchersHittingSucks" target="#DHForever" weight="3238" />
+      <edge id="21" source="#PitchersHittingSucks" target="#BuntingSucks" weight="3238" />
+      <edge id="22" source="#Buckeyes" target="#Indians" weight="6476" />
+      <edge id="23" source="#DHForever" target="#BuntingSucks" weight="3238" />
+      <edge id="24" source="#FireJoeWest" target="#FireJoeWest" weight="291420" />
+    </edges>
+  </graph>
+</gexf>

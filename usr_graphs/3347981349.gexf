@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ohiohops" label="#ohiohops" />
+      <node id="#spicedrum" label="#spicedrum" />
+      <node id="#Stillwrights" label="#Stillwrights" />
+      <node id="#brewday" label="#brewday" />
+      <node id="#OhioMalt" label="#OhioMalt" />
+      <node id="#ohiomalt" label="#ohiomalt" />
+      <node id="#OhioBeer" label="#OhioBeer" />
+      <node id="#drinkbeergrownhere" label="#drinkbeergrownhere" />
+      <node id="#OhioHops" label="#OhioHops" />
+      <node id="#malt" label="#malt" />
+      <node id="#TownHallOhio" label="#TownHallOhio" />
+      <node id="#OhioHopGrowersGuild" label="#OhioHopGrowersGuild" />
+      <node id="#ColumbusHops" label="#ColumbusHops" />
+      <node id="#DrinkLocal" label="#DrinkLocal" />
+      <node id="#homebrewchat" label="#homebrewchat" />
+      <node id="#Ohiocraftbeer" label="#Ohiocraftbeer" />
+      <node id="#hopharvest" label="#hopharvest" />
+      <node id="#cascadehops" label="#cascadehops" />
+      <node id="#columbushops" label="#columbushops" />
+      <node id="#madehere" label="#madehere" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ohiohops" target="#ohiomalt" weight="864" />
+      <edge id="1" source="#ohiohops" target="#cascadehops" weight="216" />
+      <edge id="2" source="#ohiohops" target="#columbushops" weight="216" />
+      <edge id="3" source="#ohiohops" target="#hopharvest" weight="216" />
+      <edge id="4" source="#spicedrum" target="#Stillwrights" weight="216" />
+      <edge id="5" source="#spicedrum" target="#madehere" weight="216" />
+      <edge id="6" source="#Stillwrights" target="#madehere" weight="216" />
+      <edge id="7" source="#brewday" target="#homebrewchat" weight="216" />
+      <edge id="8" source="#OhioMalt" target="#DrinkLocal" weight="216" />
+      <edge id="9" source="#OhioMalt" target="#OhioHops" weight="216" />
+      <edge id="10" source="#ohiomalt" target="#malt" weight="432" />
+      <edge id="11" source="#ohiomalt" target="#drinkbeergrownhere" weight="432" />
+      <edge id="12" source="#OhioBeer" target="#OhioHops" weight="216" />
+      <edge id="13" source="#OhioHops" target="#DrinkLocal" weight="216" />
+      <edge id="14" source="#OhioHops" target="#ColumbusHops" weight="216" />
+      <edge id="15" source="#OhioHops" target="#OhioHopGrowersGuild" weight="432" />
+      <edge id="16" source="#TownHallOhio" target="#Ohiocraftbeer" weight="216" />
+      <edge id="17" source="#cascadehops" target="#columbushops" weight="216" />
+    </edges>
+  </graph>
+</gexf>

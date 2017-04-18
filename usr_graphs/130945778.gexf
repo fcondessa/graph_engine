@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuperTuesday" label="#SuperTuesday" />
+      <node id="#IowaCaucus" label="#IowaCaucus" />
+      <node id="#Repost" label="#Repost" />
+      <node id="#bornyesterday" label="#bornyesterday" />
+      <node id="#CaucusForHillary" label="#CaucusForHillary" />
+      <node id="#inners" label="#inners" />
+      <node id="#SteveSchmidt" label="#SteveSchmidt" />
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#InsidePolitics" label="#InsidePolitics" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#CNN" label="#CNN" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#KSCaucus" label="#KSCaucus" />
+      <node id="#asch16" label="#asch16" />
+      <node id="#SLC" label="#SLC" />
+      <node id="#debate" label="#debate" />
+      <node id="#KyDerby" label="#KyDerby" />
+      <node id="#JeffWeaver" label="#JeffWeaver" />
+      <node id="#iacaucus" label="#iacaucus" />
+      <node id="#MTP" label="#MTP" />
+      <node id="#millionaires" label="#millionaires" />
+      <node id="#gopconvention" label="#gopconvention" />
+      <node id="#FF" label="#FF" />
+      <node id="#MTPDaily" label="#MTPDaily" />
+      <node id="#GOPPrimary" label="#GOPPrimary" />
+      <node id="#insidepolitics" label="#insidepolitics" />
+      <node id="#nhsen" label="#nhsen" />
+      <node id="#onthisday" label="#onthisday" />
+      <node id="#TonyKushner" label="#TonyKushner" />
+      <node id="#aha16" label="#aha16" />
+      <node id="#nhpolitics" label="#nhpolitics" />
+      <node id="#WashWeek" label="#WashWeek" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#Breaking" label="#Breaking" />
+      <node id="#facts" label="#facts" />
+      <node id="#CaucusForBernie" label="#CaucusForBernie" />
+      <node id="#CNNDebate" label="#CNNDebate" />
+      <node id="#OTD" label="#OTD" />
+      <node id="#NH" label="#NH" />
+      <node id="#sadlittlepoem" label="#sadlittlepoem" />
+      <node id="#yuge" label="#yuge" />
+      <node id="#Decision2016" label="#Decision2016" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuperTuesday" target="#Repost" weight="3200" />
+      <edge id="1" source="#IowaCaucus" target="#CaucusForBernie" weight="3200" />
+      <edge id="2" source="#IowaCaucus" target="#CaucusForHillary" weight="3200" />
+      <edge id="3" source="#bornyesterday" target="#facts" weight="3200" />
+      <edge id="4" source="#CaucusForHillary" target="#CaucusForBernie" weight="3200" />
+      <edge id="5" source="#inners" target="#debate" weight="3200" />
+      <edge id="6" source="#inners" target="#Decision2016" weight="3200" />
+      <edge id="7" source="#SteveSchmidt" target="#JeffWeaver" weight="3200" />
+      <edge id="8" source="#GOPDebate" target="#ImWithHer" weight="3200" />
+      <edge id="9" source="#GOPDebate" target="#CNNDebate" weight="3200" />
+      <edge id="10" source="#InsidePolitics" target="#gopconvention" weight="3200" />
+      <edge id="11" source="#InsidePolitics" target="#CNN" weight="3200" />
+      <edge id="12" source="#InsidePolitics" target="#DemsInPhilly" weight="6400" />
+      <edge id="13" source="#RNCinCLE" target="#MTPDaily" weight="3200" />
+      <edge id="14" source="#ImWithHer" target="#CNNDebate" weight="3200" />
+      <edge id="15" source="#GOP" target="#SLC" weight="3200" />
+      <edge id="16" source="#GOP" target="#Breaking" weight="3200" />
+      <edge id="17" source="#KSCaucus" target="#GOPPrimary" weight="3200" />
+      <edge id="18" source="#asch16" target="#aha16" weight="3200" />
+      <edge id="19" source="#SLC" target="#Breaking" weight="3200" />
+      <edge id="20" source="#debate" target="#Decision2016" weight="3200" />
+      <edge id="21" source="#KyDerby" target="#millionaires" weight="3200" />
+      <edge id="22" source="#JeffWeaver" target="#TonyKushner" weight="3200" />
+      <edge id="23" source="#iacaucus" target="#yuge" weight="3200" />
+      <edge id="24" source="#iacaucus" target="#sadlittlepoem" weight="3200" />
+      <edge id="25" source="#MTP" target="#Decision2016" weight="6400" />
+      <edge id="26" source="#FF" target="#WashWeek" weight="12800" />
+      <edge id="27" source="#insidepolitics" target="#NH" weight="3200" />
+      <edge id="28" source="#nhsen" target="#nhpolitics" weight="3200" />
+      <edge id="29" source="#onthisday" target="#OTD" weight="3200" />
+    </edges>
+  </graph>
+</gexf>

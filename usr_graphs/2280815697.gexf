@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#columbusgeeks" label="#columbusgeeks" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#columbustechlife" label="#columbustechlife" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#columbusgeeks" target="#columbus" weight="25" />
+      <edge id="1" source="#columbusgeeks" target="#columbustechlife" weight="25" />
+      <edge id="2" source="#columbus" target="#columbustechlife" weight="25" />
+    </edges>
+  </graph>
+</gexf>

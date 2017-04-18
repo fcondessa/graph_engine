@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#oldlawtwitter" label="#oldlawtwitter" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#wcax" label="#wcax" />
+      <node id="#smoking" label="#smoking" />
+      <node id="#keepbearsatbay" label="#keepbearsatbay" />
+      <node id="#ff" label="#ff" />
+      <node id="#dogwoods" label="#dogwoods" />
+      <node id="#drpimplepopper" label="#drpimplepopper" />
+      <node id="#dadtwitter" label="#dadtwitter" />
+      <node id="#nh02" label="#nh02" />
+      <node id="#OECD" label="#OECD" />
+      <node id="#SothebysAsianArt" label="#SothebysAsianArt" />
+      <node id="#AuctionUpdate" label="#AuctionUpdate" />
+      <node id="#newbeginnings" label="#newbeginnings" />
+      <node id="#nhpolitics" label="#nhpolitics" />
+      <node id="#girlswhodrill" label="#girlswhodrill" />
+      <node id="#greatdane" label="#greatdane" />
+      <node id="#vt" label="#vt" />
+      <node id="#stuckinthemiddlewithyou" label="#stuckinthemiddlewithyou" />
+      <node id="#beachdogs" label="#beachdogs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#oldlawtwitter" target="#dadtwitter" weight="3235" />
+      <edge id="1" source="#debatenight" target="#drpimplepopper" weight="3235" />
+      <edge id="2" source="#debatenight" target="#stuckinthemiddlewithyou" weight="3235" />
+      <edge id="3" source="#wcax" target="#keepbearsatbay" weight="3235" />
+      <edge id="4" source="#wcax" target="#vt" weight="3235" />
+      <edge id="5" source="#smoking" target="#OECD" weight="3235" />
+      <edge id="6" source="#keepbearsatbay" target="#vt" weight="3235" />
+      <edge id="7" source="#ff" target="#girlswhodrill" weight="3235" />
+      <edge id="8" source="#dogwoods" target="#newbeginnings" weight="3235" />
+      <edge id="9" source="#drpimplepopper" target="#stuckinthemiddlewithyou" weight="3235" />
+      <edge id="10" source="#nh02" target="#nhpolitics" weight="3235" />
+      <edge id="11" source="#SothebysAsianArt" target="#AuctionUpdate" weight="3235" />
+      <edge id="12" source="#greatdane" target="#beachdogs" weight="3235" />
+    </edges>
+  </graph>
+</gexf>

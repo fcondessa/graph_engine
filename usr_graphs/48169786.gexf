@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#TheSixties" label="#TheSixties" />
+      <node id="#Browns" label="#Browns" />
+      <node id="#UniteBlue" label="#UniteBlue" />
+      <node id="#workinit" label="#workinit" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#dointhebulldance" label="#dointhebulldance" />
+      <node id="#MSPOO" label="#MSPOO" />
+      <node id="#AkronBorn" label="#AkronBorn" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#Ponder" label="#Ponder" />
+      <node id="#Dolphins" label="#Dolphins" />
+      <node id="#MACtion" label="#MACtion" />
+      <node id="#MadTv" label="#MadTv" />
+      <node id="#SNL" label="#SNL" />
+      <node id="#Locker" label="#Locker" />
+      <node id="#TheSeventies" label="#TheSeventies" />
+      <node id="#MakeAmericaGreatAgain" label="#MakeAmericaGreatAgain" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#CCOT" label="#CCOT" />
+      <node id="#GoCavs" label="#GoCavs" />
+      <node id="#dicksoutforharambe" label="#dicksoutforharambe" />
+      <node id="#Facts" label="#Facts" />
+      <node id="#Gabbert" label="#Gabbert" />
+      <node id="#Allin216" label="#Allin216" />
+      <node id="#ALLin216" label="#ALLin216" />
+      <node id="#amirite" label="#amirite" />
+      <node id="#Game7" label="#Game7" />
+      <node id="#feelintheflow" label="#feelintheflow" />
+      <node id="#NBAChamps" label="#NBAChamps" />
+      <node id="#OhioAgainstTheWorld" label="#OhioAgainstTheWorld" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#andtheniturned18" label="#andtheniturned18" />
+      <node id="#cavsparade" label="#cavsparade" />
+      <node id="#myfirstsevenjobs" label="#myfirstsevenjobs" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#NoNoNoNotorious" label="#NoNoNoNotorious" />
+      <node id="#MSU" label="#MSU" />
+      <node id="#DumpTrump" label="#DumpTrump" />
+      <node id="#BAMAvsKENT" label="#BAMAvsKENT" />
+      <node id="#UFC202" label="#UFC202" />
+      <node id="#TCOT" label="#TCOT" />
+      <node id="#Believeland" label="#Believeland" />
+      <node id="#p2" label="#p2" />
+      <node id="#TheresNoPlaceLikeHome" label="#TheresNoPlaceLikeHome" />
+      <node id="#MakeMeSmileIn3Words" label="#MakeMeSmileIn3Words" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#TheSixties" target="#TheSeventies" weight="3214" />
+      <edge id="1" source="#Browns" target="#MSU" weight="3214" />
+      <edge id="2" source="#UniteBlue" target="#TCOT" weight="3214" />
+      <edge id="3" source="#UniteBlue" target="#CCOT" weight="3214" />
+      <edge id="4" source="#UniteBlue" target="#p2" weight="3214" />
+      <edge id="5" source="#workinit" target="#feelintheflow" weight="3214" />
+      <edge id="6" source="#workinit" target="#dointhebulldance" weight="3214" />
+      <edge id="7" source="#WorldSeries" target="#NBAChamps" weight="3214" />
+      <edge id="8" source="#dointhebulldance" target="#feelintheflow" weight="3214" />
+      <edge id="9" source="#MSPOO" target="#amirite" weight="3214" />
+      <edge id="10" source="#AkronBorn" target="#cavsparade" weight="3214" />
+      <edge id="11" source="#AkronBorn" target="#ALLin216" weight="3214" />
+      <edge id="12" source="#AkronBorn" target="#Believeland" weight="3214" />
+      <edge id="13" source="#RNCinCLE" target="#RNC" weight="3214" />
+      <edge id="14" source="#RNCinCLE" target="#MadTv" weight="3214" />
+      <edge id="15" source="#Ponder" target="#Locker" weight="3214" />
+      <edge id="16" source="#Ponder" target="#Gabbert" weight="3214" />
+      <edge id="17" source="#Dolphins" target="#NFL" weight="3214" />
+      <edge id="18" source="#MACtion" target="#BAMAvsKENT" weight="3214" />
+      <edge id="19" source="#SNL" target="#RallyTogether" weight="3214" />
+      <edge id="20" source="#Locker" target="#Gabbert" weight="3214" />
+      <edge id="21" source="#MakeAmericaGreatAgain" target="#dicksoutforharambe" weight="3214" />
+      <edge id="22" source="#RallyTogether" target="#Facts" weight="3214" />
+      <edge id="23" source="#CCOT" target="#TCOT" weight="3214" />
+      <edge id="24" source="#CCOT" target="#p2" weight="3214" />
+      <edge id="25" source="#GoCavs" target="#Allin216" weight="3214" />
+      <edge id="26" source="#ALLin216" target="#Game7" weight="3214" />
+      <edge id="27" source="#ALLin216" target="#cavsparade" weight="3214" />
+      <edge id="28" source="#ALLin216" target="#Believeland" weight="3214" />
+      <edge id="29" source="#OhioAgainstTheWorld" target="#TheresNoPlaceLikeHome" weight="3214" />
+      <edge id="30" source="#andtheniturned18" target="#myfirstsevenjobs" weight="3214" />
+      <edge id="31" source="#cavsparade" target="#Believeland" weight="3214" />
+      <edge id="32" source="#NoNoNoNotorious" target="#UFC202" weight="3214" />
+      <edge id="33" source="#DumpTrump" target="#MakeMeSmileIn3Words" weight="3214" />
+      <edge id="34" source="#TCOT" target="#p2" weight="3214" />
+    </edges>
+  </graph>
+</gexf>

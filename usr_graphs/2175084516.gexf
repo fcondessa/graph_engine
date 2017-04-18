@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#specialrelease" label="#specialrelease" />
+      <node id="#OHbeer" label="#OHbeer" />
+      <node id="#beer" label="#beer" />
+      <node id="#ABInvev" label="#ABInvev" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#bourbonbarrelagedstout" label="#bourbonbarrelagedstout" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#KingofOhioIPA" label="#KingofOhioIPA" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#shoplocal" target="#bourbonbarrelagedstout" weight="1038" />
+      <edge id="1" source="#shoplocal" target="#specialrelease" weight="1038" />
+      <edge id="2" source="#shoplocal" target="#craftbeer" weight="1038" />
+      <edge id="3" source="#specialrelease" target="#bourbonbarrelagedstout" weight="1038" />
+      <edge id="4" source="#specialrelease" target="#craftbeer" weight="1038" />
+      <edge id="5" source="#OHbeer" target="#Columbus" weight="1038" />
+      <edge id="6" source="#beer" target="#ABInvev" weight="1038" />
+      <edge id="7" source="#beer" target="#craftbeer" weight="1038" />
+      <edge id="8" source="#ABInvev" target="#craftbeer" weight="1038" />
+      <edge id="9" source="#craftbeer" target="#bourbonbarrelagedstout" weight="1038" />
+      <edge id="10" source="#craftbeer" target="#KingofOhioIPA" weight="1038" />
+      <edge id="11" source="#craftbeer" target="#Ohio" weight="1038" />
+      <edge id="12" source="#CraftBeer" target="#Columbus" weight="1038" />
+      <edge id="13" source="#CraftBeer" target="#KingofOhioIPA" weight="1038" />
+      <edge id="14" source="#CraftBeer" target="#Ohio" weight="2076" />
+      <edge id="15" source="#Columbus" target="#KingofOhioIPA" weight="1038" />
+      <edge id="16" source="#Columbus" target="#Ohio" weight="1038" />
+      <edge id="17" source="#KingofOhioIPA" target="#Ohio" weight="2076" />
+    </edges>
+  </graph>
+</gexf>

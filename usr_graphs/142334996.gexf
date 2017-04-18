@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ys" label="#ys" />
+      <node id="#OhioEd" label="#OhioEd" />
+      <node id="#ABillionBack" label="#ABillionBack" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#homeless" label="#homeless" />
+      <node id="#wilmington" label="#wilmington" />
+      <node id="#ohioed" label="#ohioed" />
+      <node id="#MfgDay16" label="#MfgDay16" />
+      <node id="#JobsOhio" label="#JobsOhio" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#ItsOninOhio" label="#ItsOninOhio" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#OHSOTS" label="#OHSOTS" />
+      <node id="#OhioVets" label="#OhioVets" />
+      <node id="#bigdeal" label="#bigdeal" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#NewJobs" label="#NewJobs" />
+      <node id="#TCOT" label="#TCOT" />
+      <node id="#Wilmington" label="#Wilmington" />
+      <node id="#OHvets" label="#OHvets" />
+      <node id="#WhyOhio" label="#WhyOhio" />
+      <node id="#jobsgovernor" label="#jobsgovernor" />
+      <node id="#K12" label="#K12" />
+      <node id="#gratitude" label="#gratitude" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#itscoldouthere" label="#itscoldouthere" />
+      <node id="#Military" label="#Military" />
+      <node id="#OhSotS" label="#OhSotS" />
+      <node id="#OHSotS" label="#OHSotS" />
+      <node id="#Honda" label="#Honda" />
+      <node id="#water" label="#water" />
+      <node id="#Nebraska" label="#Nebraska" />
+      <node id="#OhioModel" label="#OhioModel" />
+      <node id="#theohiomodelworks" label="#theohiomodelworks" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#brrr" label="#brrr" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#OHNationalGuard" label="#OHNationalGuard" />
+      <node id="#ohsots" label="#ohsots" />
+      <node id="#RS" label="#RS" />
+      <node id="#Veterans" label="#Veterans" />
+      <node id="#OhioVRExperience" label="#OhioVRExperience" />
+      <node id="#humantrafficking" label="#humantrafficking" />
+      <node id="#FosterCare" label="#FosterCare" />
+      <node id="#OHwx" label="#OHwx" />
+      <node id="#TourismOhio" label="#TourismOhio" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#OhioWorks" label="#OhioWorks" />
+      <node id="#OhioHumanTraffickingDay" label="#OhioHumanTraffickingDay" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ys" target="#Nebraska" weight="1087" />
+      <edge id="1" source="#ys" target="#Ohio" weight="1087" />
+      <edge id="2" source="#OhioEd" target="#K12" weight="1087" />
+      <edge id="3" source="#ABillionBack" target="#jobs" weight="1087" />
+      <edge id="4" source="#jobs" target="#JobsOhio" weight="1087" />
+      <edge id="5" source="#jobs" target="#Honda" weight="1087" />
+      <edge id="6" source="#jobs" target="#bigdeal" weight="1087" />
+      <edge id="7" source="#homeless" target="#OHSotS" weight="1087" />
+      <edge id="8" source="#homeless" target="#wilmington" weight="1087" />
+      <edge id="9" source="#homeless" target="#ohio" weight="1087" />
+      <edge id="10" source="#wilmington" target="#OHSotS" weight="1087" />
+      <edge id="11" source="#wilmington" target="#ohio" weight="1087" />
+      <edge id="12" source="#ohioed" target="#ohsots" weight="1087" />
+      <edge id="13" source="#ohioed" target="#OHSotS" weight="1087" />
+      <edge id="14" source="#MfgDay16" target="#OhioWorks" weight="2174" />
+      <edge id="15" source="#JobsOhio" target="#OhioWorks" weight="3261" />
+      <edge id="16" source="#JobsOhio" target="#OhioModel" weight="2174" />
+      <edge id="17" source="#JobsOhio" target="#NewJobs" weight="1087" />
+      <edge id="18" source="#RNCinCLE" target="#ItsOninOhio" weight="1087" />
+      <edge id="19" source="#RNCinCLE" target="#RNC" weight="1087" />
+      <edge id="20" source="#RNCinCLE" target="#OhioVRExperience" weight="1087" />
+      <edge id="21" source="#RNCinCLE" target="#Ohio" weight="1087" />
+      <edge id="22" source="#ItsOninOhio" target="#RNC" weight="1087" />
+      <edge id="23" source="#ItsOninOhio" target="#Ohio" weight="1087" />
+      <edge id="24" source="#Dayton" target="#WhyOhio" weight="1087" />
+      <edge id="25" source="#Ohio" target="#ohsots" weight="2174" />
+      <edge id="26" source="#Ohio" target="#Jobs" weight="1087" />
+      <edge id="27" source="#Ohio" target="#FosterCare" weight="1087" />
+      <edge id="28" source="#Ohio" target="#Nebraska" weight="1087" />
+      <edge id="29" source="#Ohio" target="#OHSotS" weight="1087" />
+      <edge id="30" source="#Ohio" target="#RNC" weight="1087" />
+      <edge id="31" source="#Ohio" target="#Wilmington" weight="2174" />
+      <edge id="32" source="#OHSOTS" target="#STEM" weight="1087" />
+      <edge id="33" source="#OhioVets" target="#OhSotS" weight="1087" />
+      <edge id="34" source="#OhioVets" target="#OHNationalGuard" weight="1087" />
+      <edge id="35" source="#bigdeal" target="#Honda" weight="1087" />
+      <edge id="36" source="#NewJobs" target="#OhioWorks" weight="1087" />
+      <edge id="37" source="#TCOT" target="#RS" weight="2174" />
+      <edge id="38" source="#Wilmington" target="#ohsots" weight="2174" />
+      <edge id="39" source="#Wilmington" target="#OHSotS" weight="2174" />
+      <edge id="40" source="#Wilmington" target="#TourismOhio" weight="1087" />
+      <edge id="41" source="#OHvets" target="#gratitude" weight="1087" />
+      <edge id="42" source="#jobsgovernor" target="#theohiomodelworks" weight="1087" />
+      <edge id="43" source="#itscoldouthere" target="#brrr" weight="1087" />
+      <edge id="44" source="#Military" target="#Veterans" weight="1087" />
+      <edge id="45" source="#Military" target="#DYK" weight="1087" />
+      <edge id="46" source="#OhSotS" target="#OHNationalGuard" weight="1087" />
+      <edge id="47" source="#OHSotS" target="#TourismOhio" weight="1087" />
+      <edge id="48" source="#OHSotS" target="#ohio" weight="1087" />
+      <edge id="49" source="#water" target="#OHwx" weight="1087" />
+      <edge id="50" source="#DYK" target="#Veterans" weight="1087" />
+      <edge id="51" source="#Columbus" target="#ohsots" weight="1087" />
+      <edge id="52" source="#humantrafficking" target="#OhioHumanTraffickingDay" weight="1087" />
+    </edges>
+  </graph>
+</gexf>

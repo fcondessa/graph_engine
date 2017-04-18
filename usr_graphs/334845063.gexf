@@ -1,0 +1,766 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Photography" label="#Photography" />
+      <node id="#CBREWomen" label="#CBREWomen" />
+      <node id="#HK" label="#HK" />
+      <node id="#London" label="#London" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#Recreational" label="#Recreational" />
+      <node id="#LA" label="#LA" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#economy" label="#economy" />
+      <node id="#multifamily" label="#multifamily" />
+      <node id="#emergingmarkets" label="#emergingmarkets" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#CitiesAtWork" label="#CitiesAtWork" />
+      <node id="#Research" label="#Research" />
+      <node id="#investment" label="#investment" />
+      <node id="#TechThirty" label="#TechThirty" />
+      <node id="#EiffelTower" label="#EiffelTower" />
+      <node id="#military" label="#military" />
+      <node id="#EB5" label="#EB5" />
+      <node id="#nonprofit" label="#nonprofit" />
+      <node id="#Florida" label="#Florida" />
+      <node id="#CBRECR" label="#CBRECR" />
+      <node id="#Restaurants" label="#Restaurants" />
+      <node id="#grocers" label="#grocers" />
+      <node id="#LEED" label="#LEED" />
+      <node id="#women" label="#women" />
+      <node id="#shipping" label="#shipping" />
+      <node id="#RECon16" label="#RECon16" />
+      <node id="#RECon15" label="#RECon15" />
+      <node id="#CEOs" label="#CEOs" />
+      <node id="#RebuildSlavicVillage" label="#RebuildSlavicVillage" />
+      <node id="#leaseaccounting" label="#leaseaccounting" />
+      <node id="#greenbuilding" label="#greenbuilding" />
+      <node id="#Recon16" label="#Recon16" />
+      <node id="#office" label="#office" />
+      <node id="#CFOs" label="#CFOs" />
+      <node id="#workplace360" label="#workplace360" />
+      <node id="#restaurant" label="#restaurant" />
+      <node id="#DC" label="#DC" />
+      <node id="#BuildOnAdvantage" label="#BuildOnAdvantage" />
+      <node id="#CommunityService" label="#CommunityService" />
+      <node id="#FastForward2030" label="#FastForward2030" />
+      <node id="#selfstorage" label="#selfstorage" />
+      <node id="#Memphis" label="#Memphis" />
+      <node id="#retail" label="#retail" />
+      <node id="#vegas" label="#vegas" />
+      <node id="#Tech20" label="#Tech20" />
+      <node id="#Blueprint" label="#Blueprint" />
+      <node id="#IASB" label="#IASB" />
+      <node id="#GlobalCapital" label="#GlobalCapital" />
+      <node id="#SiliconValley" label="#SiliconValley" />
+      <node id="#accounting" label="#accounting" />
+      <node id="#getengaged" label="#getengaged" />
+      <node id="#DJSI" label="#DJSI" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#datacentre" label="#datacentre" />
+      <node id="#ICSC" label="#ICSC" />
+      <node id="#buildonadvantage" label="#buildonadvantage" />
+      <node id="#Tech" label="#Tech" />
+      <node id="#CBREGreenWeek" label="#CBREGreenWeek" />
+      <node id="#retailers" label="#retailers" />
+      <node id="#driverless" label="#driverless" />
+      <node id="#nonprofits" label="#nonprofits" />
+      <node id="#Hanjin" label="#Hanjin" />
+      <node id="#Instagram" label="#Instagram" />
+      <node id="#lessee" label="#lessee" />
+      <node id="#Denver" label="#Denver" />
+      <node id="#USGBC" label="#USGBC" />
+      <node id="#Taipei101" label="#Taipei101" />
+      <node id="#OfficeOfTheFuture" label="#OfficeOfTheFuture" />
+      <node id="#WorldPhotoDay" label="#WorldPhotoDay" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#labofthefuture" label="#labofthefuture" />
+      <node id="#CMBS" label="#CMBS" />
+      <node id="#110years" label="#110years" />
+      <node id="#FlashbackFriday" label="#FlashbackFriday" />
+      <node id="#Chineseinvestors" label="#Chineseinvestors" />
+      <node id="#logistics" label="#logistics" />
+      <node id="#city" label="#city" />
+      <node id="#warehouse" label="#warehouse" />
+      <node id="#industrial" label="#industrial" />
+      <node id="#Oklahoma" label="#Oklahoma" />
+      <node id="#MondayMotivation" label="#MondayMotivation" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#Prague" label="#Prague" />
+      <node id="#BlueprintCBRE" label="#BlueprintCBRE" />
+      <node id="#TPP" label="#TPP" />
+      <node id="#IdeasHappen" label="#IdeasHappen" />
+      <node id="#mall" label="#mall" />
+      <node id="#tallbuildingtuesday" label="#tallbuildingtuesday" />
+      <node id="#tech" label="#tech" />
+      <node id="#Logistics" label="#Logistics" />
+      <node id="#malls" label="#malls" />
+      <node id="#housing" label="#housing" />
+      <node id="#interactive" label="#interactive" />
+      <node id="#CBRE" label="#CBRE" />
+      <node id="#suburbia" label="#suburbia" />
+      <node id="#MemorialDay" label="#MemorialDay" />
+      <node id="#joblove" label="#joblove" />
+      <node id="#RICSmodus" label="#RICSmodus" />
+      <node id="#militaryfamilies" label="#militaryfamilies" />
+      <node id="#coworking" label="#coworking" />
+      <node id="#veteransday" label="#veteransday" />
+      <node id="#SydneyOperaHouse" label="#SydneyOperaHouse" />
+      <node id="#LaboftheFuture" label="#LaboftheFuture" />
+      <node id="#FortWayne" label="#FortWayne" />
+      <node id="#hospitality" label="#hospitality" />
+      <node id="#proud" label="#proud" />
+      <node id="#Industrial" label="#Industrial" />
+      <node id="#whyohio" label="#whyohio" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#UrbanLight" label="#UrbanLight" />
+      <node id="#InternationalWomensDay" label="#InternationalWomensDay" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#digital" label="#digital" />
+      <node id="#environment" label="#environment" />
+      <node id="#research" label="#research" />
+      <node id="#Atlanta" label="#Atlanta" />
+      <node id="#developers" label="#developers" />
+      <node id="#C1024" label="#C1024" />
+      <node id="#smartcities" label="#smartcities" />
+      <node id="#Coworking" label="#Coworking" />
+      <node id="#monuments" label="#monuments" />
+      <node id="#Millennial" label="#Millennial" />
+      <node id="#ShelterProgram" label="#ShelterProgram" />
+      <node id="#AdministrativeProfessionalsDay" label="#AdministrativeProfessionalsDay" />
+      <node id="#CBREAmSum" label="#CBREAmSum" />
+      <node id="#AR" label="#AR" />
+      <node id="#China" label="#China" />
+      <node id="#VR" label="#VR" />
+      <node id="#CBRECincinnati" label="#CBRECincinnati" />
+      <node id="#midwest" label="#midwest" />
+      <node id="#supplychains" label="#supplychains" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#VeteransDay" label="#VeteransDay" />
+      <node id="#marketinggurus" label="#marketinggurus" />
+      <node id="#retailing" label="#retailing" />
+      <node id="#key" label="#key" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#oil" label="#oil" />
+      <node id="#officeofthefuture" label="#officeofthefuture" />
+      <node id="#Houston" label="#Houston" />
+      <node id="#warehouses" label="#warehouses" />
+      <node id="#technology" label="#technology" />
+      <node id="#Asian" label="#Asian" />
+      <node id="#construction" label="#construction" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#Fortune500" label="#Fortune500" />
+      <node id="#investorintentions" label="#investorintentions" />
+      <node id="#lessor" label="#lessor" />
+      <node id="#Midwest" label="#Midwest" />
+      <node id="#FridayFeeling" label="#FridayFeeling" />
+      <node id="#Minneapolis" label="#Minneapolis" />
+      <node id="#HireAVeteran" label="#HireAVeteran" />
+      <node id="#gyms" label="#gyms" />
+      <node id="#property" label="#property" />
+      <node id="#data" label="#data" />
+      <node id="#CityGuide" label="#CityGuide" />
+      <node id="#cbremarketing" label="#cbremarketing" />
+      <node id="#CBREColumbus" label="#CBREColumbus" />
+      <node id="#BuenosAires" label="#BuenosAires" />
+      <node id="#majorkey" label="#majorkey" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#FASB" label="#FASB" />
+      <node id="#Dubai" label="#Dubai" />
+      <node id="#ecommerce" label="#ecommerce" />
+      <node id="#WorkplaceWednesday" label="#WorkplaceWednesday" />
+      <node id="#DigitalCeiling" label="#DigitalCeiling" />
+      <node id="#port" label="#port" />
+      <node id="#lab" label="#lab" />
+      <node id="#AANG" label="#AANG" />
+      <node id="#SW2" label="#SW2" />
+      <node id="#RVA" label="#RVA" />
+      <node id="#PwCAudit" label="#PwCAudit" />
+      <node id="#cbre" label="#cbre" />
+      <node id="#cities" label="#cities" />
+      <node id="#CapitalWatch" label="#CapitalWatch" />
+      <node id="#AlumniMarchingBand" label="#AlumniMarchingBand" />
+      <node id="#rebuildingtogether" label="#rebuildingtogether" />
+      <node id="#scientific" label="#scientific" />
+      <node id="#restaurants" label="#restaurants" />
+      <node id="#time" label="#time" />
+      <node id="#Glendale" label="#Glendale" />
+      <node id="#Warehouse" label="#Warehouse" />
+      <node id="#PropTech" label="#PropTech" />
+      <node id="#PokémonGo" label="#PokémonGo" />
+      <node id="#Ecommerce" label="#Ecommerce" />
+      <node id="#collaboration" label="#collaboration" />
+      <node id="#DTLAboom" label="#DTLAboom" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#Chinese" label="#Chinese" />
+      <node id="#COOs" label="#COOs" />
+      <node id="#apartments" label="#apartments" />
+      <node id="#memorials" label="#memorials" />
+      <node id="#creativespace" label="#creativespace" />
+      <node id="#Orlando" label="#Orlando" />
+      <node id="#PwC" label="#PwC" />
+      <node id="#cityguides" label="#cityguides" />
+      <node id="#PokemonGo" label="#PokemonGo" />
+      <node id="#CBRERaleigh" label="#CBRERaleigh" />
+      <node id="#startup" label="#startup" />
+      <node id="#MajorKey" label="#MajorKey" />
+      <node id="#JeffCarey" label="#JeffCarey" />
+      <node id="#sea" label="#sea" />
+      <node id="#cre" label="#cre" />
+      <node id="#workplaces" label="#workplaces" />
+      <node id="#UPOTY" label="#UPOTY" />
+      <node id="#IdeaZone" label="#IdeaZone" />
+      <node id="#POD" label="#POD" />
+      <node id="#APAC" label="#APAC" />
+      <node id="#CR" label="#CR" />
+      <node id="#Workplace" label="#Workplace" />
+      <node id="#Paris" label="#Paris" />
+      <node id="#WELLBuildingStandard" label="#WELLBuildingStandard" />
+      <node id="#smartcity" label="#smartcity" />
+      <node id="#BuildMonth" label="#BuildMonth" />
+      <node id="#workplaceofthefuture" label="#workplaceofthefuture" />
+      <node id="#philippelok" label="#philippelok" />
+      <node id="#workplacewellness" label="#workplacewellness" />
+      <node id="#ports" label="#ports" />
+      <node id="#Vetrepreneurs" label="#Vetrepreneurs" />
+      <node id="#CHIDM" label="#CHIDM" />
+      <node id="#Phoenix" label="#Phoenix" />
+      <node id="#marketflash" label="#marketflash" />
+      <node id="#BurjKhalifa" label="#BurjKhalifa" />
+      <node id="#creative" label="#creative" />
+      <node id="#green" label="#green" />
+      <node id="#hotels" label="#hotels" />
+      <node id="#Retailers" label="#Retailers" />
+      <node id="#CRE" label="#CRE" />
+      <node id="#retailscience" label="#retailscience" />
+      <node id="#maps" label="#maps" />
+      <node id="#cbrewomen" label="#cbrewomen" />
+      <node id="#PokemonGO" label="#PokemonGO" />
+      <node id="#Interview" label="#Interview" />
+      <node id="#suburbs" label="#suburbs" />
+      <node id="#webcast" label="#webcast" />
+      <node id="#Fed" label="#Fed" />
+      <node id="#HireAVet" label="#HireAVet" />
+      <node id="#Sale" label="#Sale" />
+      <node id="#MichaelMullady" label="#MichaelMullady" />
+      <node id="#Seaports" label="#Seaports" />
+      <node id="#CRENews" label="#CRENews" />
+      <node id="#DTLABoom" label="#DTLABoom" />
+      <node id="#plotsploys" label="#plotsploys" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#Retail" label="#Retail" />
+      <node id="#WorldClass" label="#WorldClass" />
+      <node id="#RISE" label="#RISE" />
+      <node id="#TechTalent" label="#TechTalent" />
+      <node id="#foodhalls" label="#foodhalls" />
+      <node id="#RECON16" label="#RECON16" />
+      <node id="#Data" label="#Data" />
+      <node id="#michealcopella" label="#michealcopella" />
+      <node id="#Connectography" label="#Connectography" />
+      <node id="#Oil" label="#Oil" />
+      <node id="#blog" label="#blog" />
+      <node id="#placemaking" label="#placemaking" />
+      <node id="#wellbeing" label="#wellbeing" />
+      <node id="#MakeItHappen" label="#MakeItHappen" />
+      <node id="#PanamaCanal" label="#PanamaCanal" />
+      <node id="#lodging" label="#lodging" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#BetterTogether" label="#BetterTogether" />
+      <node id="#Landlords" label="#Landlords" />
+      <node id="#CyberWeek" label="#CyberWeek" />
+      <node id="#supplychain" label="#supplychain" />
+      <node id="#Workplace360" label="#Workplace360" />
+      <node id="#CBREGWS" label="#CBREGWS" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#WhatDoesUrbanMeanToYou" label="#WhatDoesUrbanMeanToYou" />
+      <node id="#RetailScience" label="#RetailScience" />
+      <node id="#DowntownLA" label="#DowntownLA" />
+      <node id="#growth" label="#growth" />
+      <node id="#US" label="#US" />
+      <node id="#Leasing" label="#Leasing" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#ASAE" label="#ASAE" />
+      <node id="#Amsterdam" label="#Amsterdam" />
+      <node id="#Office" label="#Office" />
+      <node id="#RealEstate" label="#RealEstate" />
+      <node id="#CREMarketFlash" label="#CREMarketFlash" />
+      <node id="#SmartCityPitch" label="#SmartCityPitch" />
+      <node id="#CBREResearch" label="#CBREResearch" />
+      <node id="#Central" label="#Central" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#wellness" label="#wellness" />
+      <node id="#CapitolSquare" label="#CapitolSquare" />
+      <node id="#Foodtrucks" label="#Foodtrucks" />
+      <node id="#workplacestrategy" label="#workplacestrategy" />
+      <node id="#CollegeFootball" label="#CollegeFootball" />
+      <node id="#HumanAdvantage" label="#HumanAdvantage" />
+      <node id="#congrats" label="#congrats" />
+      <node id="#LeaseAccounting" label="#LeaseAccounting" />
+      <node id="#CCM" label="#CCM" />
+      <node id="#workplace" label="#workplace" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Photography" target="#UPOTY" weight="4928" />
+      <edge id="1" source="#Photography" target="#FlashbackFriday" weight="2464" />
+      <edge id="2" source="#Photography" target="#POD" weight="4928" />
+      <edge id="3" source="#CBREWomen" target="#DC" weight="2464" />
+      <edge id="4" source="#HK" target="#CBRE" weight="2464" />
+      <edge id="5" source="#HK" target="#CRE" weight="2464" />
+      <edge id="6" source="#London" target="#CBRE" weight="2464" />
+      <edge id="7" source="#London" target="#Asian" weight="2464" />
+      <edge id="8" source="#London" target="#retail" weight="2464" />
+      <edge id="9" source="#SEO" target="#CBREAmSum" weight="2464" />
+      <edge id="10" source="#SEO" target="#IdeasHappen" weight="2464" />
+      <edge id="11" source="#SEO" target="#IdeaZone" weight="2464" />
+      <edge id="12" source="#Recreational" target="#retailers" weight="4928" />
+      <edge id="13" source="#LA" target="#UrbanLight" weight="2464" />
+      <edge id="14" source="#realestate" target="#Chineseinvestors" weight="2464" />
+      <edge id="15" source="#realestate" target="#US" weight="2464" />
+      <edge id="16" source="#realestate" target="#gyms" weight="2464" />
+      <edge id="17" source="#realestate" target="#DowntownLA" weight="2464" />
+      <edge id="18" source="#realestate" target="#data" weight="2464" />
+      <edge id="19" source="#realestate" target="#DTLAboom" weight="2464" />
+      <edge id="20" source="#economy" target="#ASAE" weight="2464" />
+      <edge id="21" source="#economy" target="#nonprofits" weight="2464" />
+      <edge id="22" source="#economy" target="#CRE" weight="2464" />
+      <edge id="23" source="#multifamily" target="#Office" weight="2464" />
+      <edge id="24" source="#multifamily" target="#retail" weight="2464" />
+      <edge id="25" source="#multifamily" target="#CRE" weight="2464" />
+      <edge id="26" source="#emergingmarkets" target="#CRE" weight="2464" />
+      <edge id="27" source="#Cbus" target="#workplacestrategy" weight="2464" />
+      <edge id="28" source="#CitiesAtWork" target="#UPOTY" weight="2464" />
+      <edge id="29" source="#Research" target="#CRE" weight="22176" />
+      <edge id="30" source="#Research" target="#retail" weight="2464" />
+      <edge id="31" source="#Research" target="#Tech20" weight="2464" />
+      <edge id="32" source="#Research" target="#CBRE" weight="2464" />
+      <edge id="33" source="#Research" target="#oil" weight="4928" />
+      <edge id="34" source="#Research" target="#Houston" weight="2464" />
+      <edge id="35" source="#investment" target="#CRE" weight="2464" />
+      <edge id="36" source="#investment" target="#RECon16" weight="2464" />
+      <edge id="37" source="#TechThirty" target="#CBREGWS" weight="2464" />
+      <edge id="38" source="#EiffelTower" target="#coworking" weight="2464" />
+      <edge id="39" source="#EiffelTower" target="#BlueprintCBRE" weight="2464" />
+      <edge id="40" source="#military" target="#Vetrepreneurs" weight="2464" />
+      <edge id="41" source="#military" target="#veterans" weight="2464" />
+      <edge id="42" source="#military" target="#militaryfamilies" weight="2464" />
+      <edge id="43" source="#military" target="#veteransday" weight="2464" />
+      <edge id="44" source="#EB5" target="#CapitalWatch" weight="4928" />
+      <edge id="45" source="#nonprofit" target="#COOs" weight="2464" />
+      <edge id="46" source="#nonprofit" target="#CFOs" weight="2464" />
+      <edge id="47" source="#nonprofit" target="#CEOs" weight="2464" />
+      <edge id="48" source="#nonprofit" target="#CRE" weight="2464" />
+      <edge id="49" source="#Florida" target="#restaurants" weight="2464" />
+      <edge id="50" source="#CBRECR" target="#CRE" weight="7392" />
+      <edge id="51" source="#Restaurants" target="#CBRE" weight="2464" />
+      <edge id="52" source="#Restaurants" target="#retail" weight="2464" />
+      <edge id="53" source="#grocers" target="#retail" weight="4928" />
+      <edge id="54" source="#LEED" target="#USGBC" weight="2464" />
+      <edge id="55" source="#LEED" target="#China" weight="2464" />
+      <edge id="56" source="#LEED" target="#CRE" weight="2464" />
+      <edge id="57" source="#LEED" target="#greenbuilding" weight="2464" />
+      <edge id="58" source="#LEED" target="#Workplace" weight="2464" />
+      <edge id="59" source="#women" target="#CRE" weight="2464" />
+      <edge id="60" source="#shipping" target="#ports" weight="2464" />
+      <edge id="61" source="#RECon16" target="#CRE" weight="7392" />
+      <edge id="62" source="#RECon16" target="#ICSC" weight="4928" />
+      <edge id="63" source="#RECon16" target="#Retail" weight="7392" />
+      <edge id="64" source="#RECon16" target="#retailscience" weight="9856" />
+      <edge id="65" source="#RECon16" target="#retail" weight="9856" />
+      <edge id="66" source="#RECon16" target="#retailers" weight="2464" />
+      <edge id="67" source="#RECon16" target="#vegas" weight="4928" />
+      <edge id="68" source="#RECon16" target="#CBRE" weight="14784" />
+      <edge id="69" source="#RECon16" target="#RECon16" weight="4928" />
+      <edge id="70" source="#RECon16" target="#CBRERaleigh" weight="2464" />
+      <edge id="71" source="#RECon16" target="#C1024" weight="7392" />
+      <edge id="72" source="#RECon16" target="#BlueprintCBRE" weight="4928" />
+      <edge id="73" source="#RECon15" target="#RetailScience" weight="7392" />
+      <edge id="74" source="#CEOs" target="#COOs" weight="2464" />
+      <edge id="75" source="#CEOs" target="#CFOs" weight="2464" />
+      <edge id="76" source="#CEOs" target="#CRE" weight="2464" />
+      <edge id="77" source="#RebuildSlavicVillage" target="#rebuildingtogether" weight="2464" />
+      <edge id="78" source="#leaseaccounting" target="#FASB" weight="7392" />
+      <edge id="79" source="#leaseaccounting" target="#CRE" weight="4928" />
+      <edge id="80" source="#leaseaccounting" target="#lessee" weight="2464" />
+      <edge id="81" source="#leaseaccounting" target="#lessor" weight="2464" />
+      <edge id="82" source="#leaseaccounting" target="#PwCAudit" weight="2464" />
+      <edge id="83" source="#leaseaccounting" target="#PwC" weight="4928" />
+      <edge id="84" source="#leaseaccounting" target="#IASB" weight="2464" />
+      <edge id="85" source="#leaseaccounting" target="#webcast" weight="4928" />
+      <edge id="86" source="#greenbuilding" target="#USGBC" weight="2464" />
+      <edge id="87" source="#greenbuilding" target="#China" weight="2464" />
+      <edge id="88" source="#Recon16" target="#placemaking" weight="2464" />
+      <edge id="89" source="#Recon16" target="#BlueprintCBRE" weight="4928" />
+      <edge id="90" source="#office" target="#CRE" weight="4928" />
+      <edge id="91" source="#office" target="#Workplace360" weight="2464" />
+      <edge id="92" source="#office" target="#retail" weight="2464" />
+      <edge id="93" source="#office" target="#apartments" weight="2464" />
+      <edge id="94" source="#office" target="#creativespace" weight="2464" />
+      <edge id="95" source="#office" target="#blog" weight="2464" />
+      <edge id="96" source="#office" target="#Columbus" weight="2464" />
+      <edge id="97" source="#office" target="#cre" weight="2464" />
+      <edge id="98" source="#CFOs" target="#COOs" weight="2464" />
+      <edge id="99" source="#CFOs" target="#CRE" weight="2464" />
+      <edge id="100" source="#workplace360" target="#workplaceofthefuture" weight="2464" />
+      <edge id="101" source="#workplace360" target="#workplacestrategy" weight="2464" />
+      <edge id="102" source="#workplace360" target="#officeofthefuture" weight="2464" />
+      <edge id="103" source="#restaurant" target="#retail" weight="2464" />
+      <edge id="104" source="#BuildOnAdvantage" target="#WorldClass" weight="2464" />
+      <edge id="105" source="#BuildOnAdvantage" target="#CBRE" weight="7392" />
+      <edge id="106" source="#BuildOnAdvantage" target="#CRE" weight="2464" />
+      <edge id="107" source="#BuildOnAdvantage" target="#AANG" weight="2464" />
+      <edge id="108" source="#CommunityService" target="#BuildMonth" weight="2464" />
+      <edge id="109" source="#CommunityService" target="#ShelterProgram" weight="2464" />
+      <edge id="110" source="#FastForward2030" target="#CRE" weight="2464" />
+      <edge id="111" source="#selfstorage" target="#CBRE" weight="2464" />
+      <edge id="112" source="#Memphis" target="#industrial" weight="2464" />
+      <edge id="113" source="#Memphis" target="#CBRE" weight="2464" />
+      <edge id="114" source="#Memphis" target="#ports" weight="2464" />
+      <edge id="115" source="#retail" target="#Asian" weight="2464" />
+      <edge id="116" source="#retail" target="#CHIDM" weight="2464" />
+      <edge id="117" source="#retail" target="#CRE" weight="12320" />
+      <edge id="118" source="#retail" target="#Phoenix" weight="2464" />
+      <edge id="119" source="#retail" target="#apartments" weight="2464" />
+      <edge id="120" source="#retail" target="#logistics" weight="2464" />
+      <edge id="121" source="#retail" target="#vegas" weight="2464" />
+      <edge id="122" source="#retail" target="#ecommerce" weight="2464" />
+      <edge id="123" source="#retail" target="#mall" weight="2464" />
+      <edge id="124" source="#retail" target="#CBRE" weight="39424" />
+      <edge id="125" source="#retail" target="#CapitalWatch" weight="2464" />
+      <edge id="126" source="#retail" target="#Ecommerce" weight="2464" />
+      <edge id="127" source="#retail" target="#restaurants" weight="19712" />
+      <edge id="128" source="#retail" target="#Orlando" weight="2464" />
+      <edge id="129" source="#retail" target="#Columbus" weight="2464" />
+      <edge id="130" source="#retail" target="#holiday" weight="2464" />
+      <edge id="131" source="#retail" target="#Office" weight="2464" />
+      <edge id="132" source="#retail" target="#industrial" weight="14784" />
+      <edge id="133" source="#retail" target="#ICSC" weight="2464" />
+      <edge id="134" source="#retail" target="#Denver" weight="2464" />
+      <edge id="135" source="#vegas" target="#ICSC" weight="2464" />
+      <edge id="136" source="#vegas" target="#CRE" weight="2464" />
+      <edge id="137" source="#Tech20" target="#research" weight="2464" />
+      <edge id="138" source="#Tech20" target="#Tech" weight="2464" />
+      <edge id="139" source="#Tech20" target="#CRE" weight="4928" />
+      <edge id="140" source="#Blueprint" target="#workplace" weight="2464" />
+      <edge id="141" source="#Blueprint" target="#WELLBuildingStandard" weight="2464" />
+      <edge id="142" source="#Blueprint" target="#wellness" weight="2464" />
+      <edge id="143" source="#IASB" target="#FASB" weight="4928" />
+      <edge id="144" source="#IASB" target="#lessee" weight="4928" />
+      <edge id="145" source="#IASB" target="#lessor" weight="2464" />
+      <edge id="146" source="#IASB" target="#accounting" weight="2464" />
+      <edge id="147" source="#IASB" target="#LeaseAccounting" weight="2464" />
+      <edge id="148" source="#GlobalCapital" target="#CRE" weight="12320" />
+      <edge id="149" source="#GlobalCapital" target="#CapitalWatch" weight="2464" />
+      <edge id="150" source="#SiliconValley" target="#TechTalent" weight="2464" />
+      <edge id="151" source="#accounting" target="#lessee" weight="2464" />
+      <edge id="152" source="#accounting" target="#FASB" weight="2464" />
+      <edge id="153" source="#accounting" target="#LeaseAccounting" weight="2464" />
+      <edge id="154" source="#getengaged" target="#congrats" weight="2464" />
+      <edge id="155" source="#DJSI" target="#CRE" weight="2464" />
+      <edge id="156" source="#marketing" target="#CBRE" weight="2464" />
+      <edge id="157" source="#marketing" target="#CRE" weight="2464" />
+      <edge id="158" source="#datacentre" target="#BurjKhalifa" weight="2464" />
+      <edge id="159" source="#ICSC" target="#CRE" weight="2464" />
+      <edge id="160" source="#buildonadvantage" target="#joblove" weight="2464" />
+      <edge id="161" source="#buildonadvantage" target="#proud" weight="2464" />
+      <edge id="162" source="#buildonadvantage" target="#cbremarketing" weight="2464" />
+      <edge id="163" source="#Tech" target="#research" weight="2464" />
+      <edge id="164" source="#Tech" target="#CRE" weight="2464" />
+      <edge id="165" source="#CBREGreenWeek" target="#CBRE" weight="4928" />
+      <edge id="166" source="#CBREGreenWeek" target="#sustainability" weight="4928" />
+      <edge id="167" source="#retailers" target="#mall" weight="2464" />
+      <edge id="168" source="#retailers" target="#CBRE" weight="4928" />
+      <edge id="169" source="#retailers" target="#RECON16" weight="2464" />
+      <edge id="170" source="#driverless" target="#BlueprintCBRE" weight="2464" />
+      <edge id="171" source="#nonprofits" target="#ASAE" weight="2464" />
+      <edge id="172" source="#nonprofits" target="#CRE" weight="2464" />
+      <edge id="173" source="#Hanjin" target="#CBRE" weight="2464" />
+      <edge id="174" source="#Instagram" target="#CRE" weight="7392" />
+      <edge id="175" source="#lessee" target="#FASB" weight="4928" />
+      <edge id="176" source="#lessee" target="#LeaseAccounting" weight="2464" />
+      <edge id="177" source="#lessee" target="#lessor" weight="2464" />
+      <edge id="178" source="#Denver" target="#BlueprintCBRE" weight="2464" />
+      <edge id="179" source="#USGBC" target="#China" weight="2464" />
+      <edge id="180" source="#Taipei101" target="#BlueprintCBRE" weight="2464" />
+      <edge id="181" source="#OfficeOfTheFuture" target="#CBRE" weight="2464" />
+      <edge id="182" source="#WorldPhotoDay" target="#UPOTY" weight="2464" />
+      <edge id="183" source="#WorldPhotoDay" target="#WhatDoesUrbanMeanToYou" weight="2464" />
+      <edge id="184" source="#DidYouKnow" target="#BurjKhalifa" weight="2464" />
+      <edge id="185" source="#labofthefuture" target="#lab" weight="2464" />
+      <edge id="186" source="#labofthefuture" target="#BlueprintCBRE" weight="2464" />
+      <edge id="187" source="#CMBS" target="#CapitalWatch" weight="2464" />
+      <edge id="188" source="#110years" target="#SydneyOperaHouse" weight="2464" />
+      <edge id="189" source="#110years" target="#CBRE" weight="2464" />
+      <edge id="190" source="#110years" target="#CRE" weight="2464" />
+      <edge id="191" source="#FlashbackFriday" target="#UPOTY" weight="2464" />
+      <edge id="192" source="#FlashbackFriday" target="#POD" weight="2464" />
+      <edge id="193" source="#Chineseinvestors" target="#US" weight="2464" />
+      <edge id="194" source="#logistics" target="#industrial" weight="4928" />
+      <edge id="195" source="#logistics" target="#CBRE" weight="2464" />
+      <edge id="196" source="#logistics" target="#port" weight="2464" />
+      <edge id="197" source="#logistics" target="#CRE" weight="4928" />
+      <edge id="198" source="#city" target="#interactive" weight="2464" />
+      <edge id="199" source="#city" target="#suburbia" weight="2464" />
+      <edge id="200" source="#warehouse" target="#CBRE" weight="7392" />
+      <edge id="201" source="#industrial" target="#CRE" weight="4928" />
+      <edge id="202" source="#industrial" target="#Ecommerce" weight="2464" />
+      <edge id="203" source="#industrial" target="#port" weight="2464" />
+      <edge id="204" source="#industrial" target="#CBRE" weight="12320" />
+      <edge id="205" source="#industrial" target="#Logistics" weight="2464" />
+      <edge id="206" source="#industrial" target="#ports" weight="7392" />
+      <edge id="207" source="#Oklahoma" target="#Oil" weight="4928" />
+      <edge id="208" source="#Oklahoma" target="#Houston" weight="4928" />
+      <edge id="209" source="#MondayMotivation" target="#UPOTY" weight="2464" />
+      <edge id="210" source="#MondayMotivation" target="#POD" weight="2464" />
+      <edge id="211" source="#CLE" target="#CRE" weight="2464" />
+      <edge id="212" source="#Prague" target="#BlueprintCBRE" weight="2464" />
+      <edge id="213" source="#BlueprintCBRE" target="#technology" weight="2464" />
+      <edge id="214" source="#BlueprintCBRE" target="#CRE" weight="12320" />
+      <edge id="215" source="#BlueprintCBRE" target="#lab" weight="2464" />
+      <edge id="216" source="#BlueprintCBRE" target="#cityguides" weight="2464" />
+      <edge id="217" source="#BlueprintCBRE" target="#CityGuide" weight="4928" />
+      <edge id="218" source="#BlueprintCBRE" target="#EarthDay" weight="2464" />
+      <edge id="219" source="#BlueprintCBRE" target="#tech" weight="2464" />
+      <edge id="220" source="#BlueprintCBRE" target="#BuenosAires" weight="2464" />
+      <edge id="221" source="#BlueprintCBRE" target="#MemorialDay" weight="2464" />
+      <edge id="222" source="#BlueprintCBRE" target="#Connectography" weight="2464" />
+      <edge id="223" source="#BlueprintCBRE" target="#placemaking" weight="4928" />
+      <edge id="224" source="#BlueprintCBRE" target="#SydneyOperaHouse" weight="2464" />
+      <edge id="225" source="#BlueprintCBRE" target="#green" weight="2464" />
+      <edge id="226" source="#BlueprintCBRE" target="#Dubai" weight="2464" />
+      <edge id="227" source="#BlueprintCBRE" target="#smartcities" weight="2464" />
+      <edge id="228" source="#BlueprintCBRE" target="#Amsterdam" weight="2464" />
+      <edge id="229" source="#BlueprintCBRE" target="#VR" weight="9856" />
+      <edge id="230" source="#BlueprintCBRE" target="#Paris" weight="2464" />
+      <edge id="231" source="#BlueprintCBRE" target="#smartcity" weight="2464" />
+      <edge id="232" source="#BlueprintCBRE" target="#PokemonGO" weight="2464" />
+      <edge id="233" source="#TPP" target="#CRE" weight="2464" />
+      <edge id="234" source="#TPP" target="#CapitalWatch" weight="2464" />
+      <edge id="235" source="#IdeasHappen" target="#CBREAmSum" weight="9856" />
+      <edge id="236" source="#IdeasHappen" target="#IdeaZone" weight="4928" />
+      <edge id="237" source="#mall" target="#retailing" weight="2464" />
+      <edge id="238" source="#tallbuildingtuesday" target="#UPOTY" weight="2464" />
+      <edge id="239" source="#tech" target="#WorkplaceWednesday" weight="2464" />
+      <edge id="240" source="#tech" target="#VR" weight="2464" />
+      <edge id="241" source="#tech" target="#UPOTY" weight="2464" />
+      <edge id="242" source="#tech" target="#startup" weight="2464" />
+      <edge id="243" source="#tech" target="#smartcities" weight="2464" />
+      <edge id="244" source="#Logistics" target="#Seaports" weight="4928" />
+      <edge id="245" source="#Logistics" target="#port" weight="4928" />
+      <edge id="246" source="#malls" target="#restaurants" weight="2464" />
+      <edge id="247" source="#housing" target="#China" weight="2464" />
+      <edge id="248" source="#CBRE" target="#port" weight="2464" />
+      <edge id="249" source="#CBRE" target="#CHIDM" weight="2464" />
+      <edge id="250" source="#CBRE" target="#CRE" weight="36960" />
+      <edge id="251" source="#CBRE" target="#OSU" weight="4928" />
+      <edge id="252" source="#CBRE" target="#AANG" weight="4928" />
+      <edge id="253" source="#CBRE" target="#retailscience" weight="2464" />
+      <edge id="254" source="#CBRE" target="#Asian" weight="2464" />
+      <edge id="255" source="#CBRE" target="#Interview" weight="4928" />
+      <edge id="256" source="#CBRE" target="#majorkey" weight="9856" />
+      <edge id="257" source="#CBRE" target="#time" weight="2464" />
+      <edge id="258" source="#CBRE" target="#ecommerce" weight="2464" />
+      <edge id="259" source="#CBRE" target="#WorkplaceWednesday" weight="12320" />
+      <edge id="260" source="#CBRE" target="#Retail" weight="2464" />
+      <edge id="261" source="#CBRE" target="#Industrial" weight="2464" />
+      <edge id="262" source="#CBRE" target="#TechTalent" weight="4928" />
+      <edge id="263" source="#CBRE" target="#AlumniMarchingBand" weight="4928" />
+      <edge id="264" source="#CBRE" target="#Glendale" weight="4928" />
+      <edge id="265" source="#CBRE" target="#PanamaCanal" weight="2464" />
+      <edge id="266" source="#CBRE" target="#NYC" weight="4928" />
+      <edge id="267" source="#CBRE" target="#Fortune500" weight="2464" />
+      <edge id="268" source="#CBRE" target="#Workplace360" weight="17248" />
+      <edge id="269" source="#CBRE" target="#FASB" weight="2464" />
+      <edge id="270" source="#CBRE" target="#restaurants" weight="2464" />
+      <edge id="271" source="#CBRE" target="#key" weight="2464" />
+      <edge id="272" source="#CBRE" target="#RISE" weight="2464" />
+      <edge id="273" source="#CBRE" target="#CBRERaleigh" weight="2464" />
+      <edge id="274" source="#CBRE" target="#Columbus" weight="2464" />
+      <edge id="275" source="#CBRE" target="#holiday" weight="2464" />
+      <edge id="276" source="#CBRE" target="#MajorKey" weight="2464" />
+      <edge id="277" source="#CBRE" target="#CCM" weight="2464" />
+      <edge id="278" source="#CBRE" target="#China" weight="2464" />
+      <edge id="279" source="#CBRE" target="#sustainability" weight="2464" />
+      <edge id="280" source="#CBRE" target="#supplychains" weight="2464" />
+      <edge id="281" source="#CBRE" target="#officeofthefuture" weight="2464" />
+      <edge id="282" source="#CBRE" target="#HumanAdvantage" weight="4928" />
+      <edge id="283" source="#CBRE" target="#ports" weight="4928" />
+      <edge id="284" source="#CBRE" target="#workplace" weight="2464" />
+      <edge id="285" source="#joblove" target="#proud" weight="2464" />
+      <edge id="286" source="#RICSmodus" target="#PropTech" weight="2464" />
+      <edge id="287" source="#veteransday" target="#Vetrepreneurs" weight="2464" />
+      <edge id="288" source="#veteransday" target="#veterans" weight="2464" />
+      <edge id="289" source="#SydneyOperaHouse" target="#CRE" weight="2464" />
+      <edge id="290" source="#LaboftheFuture" target="#scientific" weight="2464" />
+      <edge id="291" source="#FortWayne" target="#CRE" weight="2464" />
+      <edge id="292" source="#hospitality" target="#plotsploys" weight="2464" />
+      <edge id="293" source="#hospitality" target="#hotels" weight="2464" />
+      <edge id="294" source="#hospitality" target="#CRE" weight="2464" />
+      <edge id="295" source="#hospitality" target="#lodging" weight="2464" />
+      <edge id="296" source="#Industrial" target="#Cincinnati" weight="2464" />
+      <edge id="297" source="#Industrial" target="#Sale" weight="2464" />
+      <edge id="298" source="#Industrial" target="#CRE" weight="4928" />
+      <edge id="299" source="#Industrial" target="#Ecommerce" weight="2464" />
+      <edge id="300" source="#whyohio" target="#Columbus" weight="2464" />
+      <edge id="301" source="#diversity" target="#cbre" weight="2464" />
+      <edge id="302" source="#InternationalWomensDay" target="#MakeItHappen" weight="2464" />
+      <edge id="303" source="#Brexit" target="#CRE" weight="4928" />
+      <edge id="304" source="#Brexit" target="#CapitalWatch" weight="4928" />
+      <edge id="305" source="#digital" target="#Data" weight="2464" />
+      <edge id="306" source="#environment" target="#CR" weight="2464" />
+      <edge id="307" source="#research" target="#CyberWeek" weight="2464" />
+      <edge id="308" source="#research" target="#CRE" weight="4928" />
+      <edge id="309" source="#research" target="#CyberMonday" weight="2464" />
+      <edge id="310" source="#research" target="#marketflash" weight="2464" />
+      <edge id="311" source="#Atlanta" target="#ports" weight="2464" />
+      <edge id="312" source="#developers" target="#sea" weight="4928" />
+      <edge id="313" source="#C1024" target="#retailscience" weight="4928" />
+      <edge id="314" source="#smartcities" target="#VR" weight="2464" />
+      <edge id="315" source="#Coworking" target="#SW2" weight="2464" />
+      <edge id="316" source="#Coworking" target="#CRE" weight="2464" />
+      <edge id="317" source="#monuments" target="#memorials" weight="2464" />
+      <edge id="318" source="#Millennial" target="#suburbs" weight="2464" />
+      <edge id="319" source="#Millennial" target="#CapitalWatch" weight="2464" />
+      <edge id="320" source="#ShelterProgram" target="#BuildMonth" weight="2464" />
+      <edge id="321" source="#AdministrativeProfessionalsDay" target="#CBREColumbus" weight="2464" />
+      <edge id="322" source="#CBREAmSum" target="#IdeaZone" weight="4928" />
+      <edge id="323" source="#AR" target="#CRE" weight="2464" />
+      <edge id="324" source="#AR" target="#PokémonGo" weight="2464" />
+      <edge id="325" source="#China" target="#CRE" weight="2464" />
+      <edge id="326" source="#China" target="#CapitalWatch" weight="2464" />
+      <edge id="327" source="#VR" target="#CRE" weight="4928" />
+      <edge id="328" source="#CBRECincinnati" target="#WorkplaceWednesday" weight="2464" />
+      <edge id="329" source="#CBRECincinnati" target="#Workplace360" weight="2464" />
+      <edge id="330" source="#midwest" target="#cbrewomen" weight="56672" />
+      <edge id="331" source="#supplychains" target="#warehouses" weight="2464" />
+      <edge id="332" source="#SmartColumbus" target="#SmartCityPitch" weight="2464" />
+      <edge id="333" source="#VeteransDay" target="#HireAVet" weight="7392" />
+      <edge id="334" source="#VeteransDay" target="#HireAVeteran" weight="2464" />
+      <edge id="335" source="#marketinggurus" target="#collaboration" weight="2464" />
+      <edge id="336" source="#marketinggurus" target="#cbre" weight="2464" />
+      <edge id="337" source="#Cincinnati" target="#Sale" weight="2464" />
+      <edge id="338" source="#Cincinnati" target="#CRE" weight="2464" />
+      <edge id="339" source="#oil" target="#CRE" weight="4928" />
+      <edge id="340" source="#oil" target="#Houston" weight="2464" />
+      <edge id="341" source="#officeofthefuture" target="#WorkplaceWednesday" weight="12320" />
+      <edge id="342" source="#officeofthefuture" target="#Workplace360" weight="9856" />
+      <edge id="343" source="#officeofthefuture" target="#Glendale" weight="2464" />
+      <edge id="344" source="#Houston" target="#PanamaCanal" weight="2464" />
+      <edge id="345" source="#Houston" target="#CRE" weight="2464" />
+      <edge id="346" source="#Houston" target="#Oil" weight="4928" />
+      <edge id="347" source="#warehouses" target="#supplychain" weight="2464" />
+      <edge id="348" source="#technology" target="#CRE" weight="2464" />
+      <edge id="349" source="#construction" target="#CRE" weight="4928" />
+      <edge id="350" source="#jobs" target="#Ohio" weight="2464" />
+      <edge id="351" source="#investorintentions" target="#CRE" weight="2464" />
+      <edge id="352" source="#lessor" target="#FASB" weight="2464" />
+      <edge id="353" source="#Midwest" target="#cbrewomen" weight="4928" />
+      <edge id="354" source="#FridayFeeling" target="#UPOTY" weight="2464" />
+      <edge id="355" source="#FridayFeeling" target="#POD" weight="2464" />
+      <edge id="356" source="#Minneapolis" target="#Workplace360" weight="2464" />
+      <edge id="357" source="#HireAVeteran" target="#HireAVet" weight="2464" />
+      <edge id="358" source="#property" target="#Chinese" weight="2464" />
+      <edge id="359" source="#CityGuide" target="#Amsterdam" weight="2464" />
+      <edge id="360" source="#Ohio" target="#TechTalent" weight="2464" />
+      <edge id="361" source="#FASB" target="#CRE" weight="4928" />
+      <edge id="362" source="#FASB" target="#PwCAudit" weight="2464" />
+      <edge id="363" source="#FASB" target="#PwC" weight="2464" />
+      <edge id="364" source="#FASB" target="#CapitalWatch" weight="2464" />
+      <edge id="365" source="#FASB" target="#Leasing" weight="2464" />
+      <edge id="366" source="#FASB" target="#LeaseAccounting" weight="2464" />
+      <edge id="367" source="#ecommerce" target="#holiday" weight="2464" />
+      <edge id="368" source="#ecommerce" target="#ports" weight="2464" />
+      <edge id="369" source="#WorkplaceWednesday" target="#Workplace360" weight="76384" />
+      <edge id="370" source="#WorkplaceWednesday" target="#Glendale" weight="4928" />
+      <edge id="371" source="#DigitalCeiling" target="#CRE" weight="4928" />
+      <edge id="372" source="#port" target="#CRE" weight="2464" />
+      <edge id="373" source="#port" target="#Seaports" weight="4928" />
+      <edge id="374" source="#AANG" target="#HumanAdvantage" weight="4928" />
+      <edge id="375" source="#RVA" target="#cre" weight="2464" />
+      <edge id="376" source="#PwCAudit" target="#PwC" weight="2464" />
+      <edge id="377" source="#cbre" target="#collaboration" weight="2464" />
+      <edge id="378" source="#cities" target="#growth" weight="2464" />
+      <edge id="379" source="#cities" target="#maps" weight="2464" />
+      <edge id="380" source="#CapitalWatch" target="#NYC" weight="2464" />
+      <edge id="381" source="#CapitalWatch" target="#CRE" weight="71456" />
+      <edge id="382" source="#CapitalWatch" target="#Fed" weight="4928" />
+      <edge id="383" source="#AlumniMarchingBand" target="#OSU" weight="4928" />
+      <edge id="384" source="#restaurants" target="#foodhalls" weight="2464" />
+      <edge id="385" source="#time" target="#workplace" weight="2464" />
+      <edge id="386" source="#Glendale" target="#Workplace360" weight="2464" />
+      <edge id="387" source="#Glendale" target="#workplace" weight="2464" />
+      <edge id="388" source="#Glendale" target="#Amsterdam" weight="2464" />
+      <edge id="389" source="#Warehouse" target="#Retailers" weight="2464" />
+      <edge id="390" source="#Warehouse" target="#Ecommerce" weight="2464" />
+      <edge id="391" source="#PokémonGo" target="#CRE" weight="2464" />
+      <edge id="392" source="#Ecommerce" target="#CRE" weight="2464" />
+      <edge id="393" source="#DTLAboom" target="#DowntownLA" weight="2464" />
+      <edge id="394" source="#BigData" target="#RealEstate" weight="2464" />
+      <edge id="395" source="#COOs" target="#CRE" weight="2464" />
+      <edge id="396" source="#PokemonGo" target="#CRE" weight="4928" />
+      <edge id="397" source="#CBRERaleigh" target="#retailscience" weight="2464" />
+      <edge id="398" source="#MajorKey" target="#CRE" weight="2464" />
+      <edge id="399" source="#JeffCarey" target="#congrats" weight="2464" />
+      <edge id="400" source="#cre" target="#Central" weight="2464" />
+      <edge id="401" source="#cre" target="#Columbus" weight="2464" />
+      <edge id="402" source="#workplaces" target="#wellbeing" weight="2464" />
+      <edge id="403" source="#UPOTY" target="#NYC" weight="2464" />
+      <edge id="404" source="#UPOTY" target="#POD" weight="9856" />
+      <edge id="405" source="#UPOTY" target="#WhatDoesUrbanMeanToYou" weight="2464" />
+      <edge id="406" source="#APAC" target="#CRE" weight="2464" />
+      <edge id="407" source="#Workplace" target="#Office" weight="2464" />
+      <edge id="408" source="#Workplace" target="#CRE" weight="4928" />
+      <edge id="409" source="#WELLBuildingStandard" target="#workplace" weight="2464" />
+      <edge id="410" source="#WELLBuildingStandard" target="#wellness" weight="2464" />
+      <edge id="411" source="#workplaceofthefuture" target="#workplacestrategy" weight="2464" />
+      <edge id="412" source="#philippelok" target="#CapitolSquare" weight="2464" />
+      <edge id="413" source="#philippelok" target="#michealcopella" weight="2464" />
+      <edge id="414" source="#workplacewellness" target="#wellness" weight="2464" />
+      <edge id="415" source="#ports" target="#PanamaCanal" weight="4928" />
+      <edge id="416" source="#Vetrepreneurs" target="#veterans" weight="2464" />
+      <edge id="417" source="#marketflash" target="#CyberWeek" weight="2464" />
+      <edge id="418" source="#marketflash" target="#CRE" weight="2464" />
+      <edge id="419" source="#marketflash" target="#CyberMonday" weight="2464" />
+      <edge id="420" source="#creative" target="#CRE" weight="4928" />
+      <edge id="421" source="#green" target="#EarthDay" weight="2464" />
+      <edge id="422" source="#hotels" target="#plotsploys" weight="2464" />
+      <edge id="423" source="#hotels" target="#CRE" weight="2464" />
+      <edge id="424" source="#hotels" target="#lodging" weight="2464" />
+      <edge id="425" source="#CRE" target="#ASAE" weight="2464" />
+      <edge id="426" source="#CRE" target="#CRE" weight="4928" />
+      <edge id="427" source="#CRE" target="#CBREGWS" weight="2464" />
+      <edge id="428" source="#CRE" target="#webcast" weight="2464" />
+      <edge id="429" source="#CRE" target="#Sale" weight="2464" />
+      <edge id="430" source="#CRE" target="#CyberWeek" weight="2464" />
+      <edge id="431" source="#CRE" target="#plotsploys" weight="2464" />
+      <edge id="432" source="#CRE" target="#lodging" weight="2464" />
+      <edge id="433" source="#CRE" target="#TechTalent" weight="2464" />
+      <edge id="434" source="#CRE" target="#NYC" weight="4928" />
+      <edge id="435" source="#CRE" target="#BetterTogether" weight="2464" />
+      <edge id="436" source="#CRE" target="#CREMarketFlash" weight="2464" />
+      <edge id="437" source="#CRE" target="#CyberMonday" weight="2464" />
+      <edge id="438" source="#CRE" target="#Fed" weight="4928" />
+      <edge id="439" source="#CRE" target="#Office" weight="7392" />
+      <edge id="440" source="#CRE" target="#CRENews" weight="29568" />
+      <edge id="441" source="#CRE" target="#CBREResearch" weight="2464" />
+      <edge id="442" source="#CRE" target="#workplace" weight="4928" />
+      <edge id="443" source="#CRE" target="#DTLABoom" weight="2464" />
+      <edge id="444" source="#maps" target="#growth" weight="2464" />
+      <edge id="445" source="#MichaelMullady" target="#congrats" weight="2464" />
+      <edge id="446" source="#plotsploys" target="#lodging" weight="2464" />
+      <edge id="447" source="#TechTalent" target="#CBREResearch" weight="2464" />
+      <edge id="448" source="#TechTalent" target="#Columbus" weight="7392" />
+      <edge id="449" source="#foodhalls" target="#Foodtrucks" weight="2464" />
+      <edge id="450" source="#michealcopella" target="#CapitolSquare" weight="2464" />
+      <edge id="451" source="#blog" target="#Workplace360" weight="2464" />
+      <edge id="452" source="#BetterTogether" target="#CBREGWS" weight="2464" />
+      <edge id="453" source="#Landlords" target="#CollegeFootball" weight="2464" />
+      <edge id="454" source="#CyberWeek" target="#CyberMonday" weight="2464" />
+      <edge id="455" source="#Amsterdam" target="#workplace" weight="2464" />
+      <edge id="456" source="#Office" target="#workplace" weight="2464" />
+      <edge id="457" source="#wellness" target="#workplace" weight="2464" />
+    </edges>
+  </graph>
+</gexf>

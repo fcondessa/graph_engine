@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#standupohio" label="#standupohio" />
+      <node id="#firekasich" label="#firekasich" />
+      <node id="#solidarityWI" label="#solidarityWI" />
+      <node id="#IN" label="#IN" />
+      <node id="#Labor" label="#Labor" />
+      <node id="#LiberalMedia" label="#LiberalMedia" />
+      <node id="#teaparty" label="#teaparty" />
+      <node id="#StandUpOh" label="#StandUpOh" />
+      <node id="#stateSOS" label="#stateSOS" />
+      <node id="#OH" label="#OH" />
+      <node id="#WIunion" label="#WIunion" />
+      <node id="#Legislation_Politics" label="#Legislation_Politics" />
+      <node id="#fox8news" label="#fox8news" />
+      <node id="#StopSenateBill5" label="#StopSenateBill5" />
+      <node id="#solidarity" label="#solidarity" />
+      <node id="#Retweet" label="#Retweet" />
+      <node id="#WI" label="#WI" />
+      <node id="#StadUpOhio" label="#StadUpOhio" />
+      <node id="#NotMyWI" label="#NotMyWI" />
+      <node id="#STandUpOh" label="#STandUpOh" />
+      <node id="#killthebill" label="#killthebill" />
+      <node id="#unions" label="#unions" />
+      <node id="#standupoh" label="#standupoh" />
+      <node id="#OHunion" label="#OHunion" />
+      <node id="#In_the_States" label="#In_the_States" />
+      <node id="#1u" label="#1u" />
+      <node id="#SB5" label="#SB5" />
+      <node id="#megov" label="#megov" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#Solidarity" label="#Solidarity" />
+      <node id="#union" label="#union" />
+      <node id="#StopSB5" label="#StopSB5" />
+      <node id="#solidaritywi" label="#solidaritywi" />
+      <node id="#Organizing_Bargaining" label="#Organizing_Bargaining" />
+      <node id="#EdChat" label="#EdChat" />
+      <node id="#Stop" label="#Stop" />
+      <node id="#KillTheBill" label="#KillTheBill" />
+      <node id="#wiunion" label="#wiunion" />
+      <node id="#Oh" label="#Oh" />
+      <node id="#Wisconsin" label="#Wisconsin" />
+      <node id="#Standupohio" label="#Standupohio" />
+      <node id="#p2" label="#p2" />
+      <node id="#ohunion" label="#ohunion" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#KasichFail" label="#KasichFail" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#StandUpOhio" label="#StandUpOhio" />
+      <node id="#Kill" label="#Kill" />
+      <node id="#Solidarily" label="#Solidarily" />
+      <node id="#KillThisBill" label="#KillThisBill" />
+      <node id="#liberalmedia" label="#liberalmedia" />
+      <node id="#ABC6" label="#ABC6" />
+      <node id="#standupOH" label="#standupOH" />
+      <node id="#StateSOS" label="#StateSOS" />
+      <node id="#sb5" label="#sb5" />
+      <node id="#WIUnion" label="#WIUnion" />
+      <node id="#Kasich" label="#Kasich" />
+      <node id="#cnn" label="#cnn" />
+      <node id="#OHUnion" label="#OHUnion" />
+      <node id="#Classwar" label="#Classwar" />
+      <node id="#StandUpOH" label="#StandUpOH" />
+      <node id="#OHUNION" label="#OHUNION" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#standupohio" target="#solidarity" weight="344" />
+      <edge id="1" source="#standupohio" target="#StateSOS" weight="1720" />
+      <edge id="2" source="#standupohio" target="#StopSB5" weight="2752" />
+      <edge id="3" source="#standupohio" target="#SB5" weight="344" />
+      <edge id="4" source="#standupohio" target="#Stop" weight="344" />
+      <edge id="5" source="#standupohio" target="#OH" weight="688" />
+      <edge id="6" source="#standupohio" target="#p2" weight="344" />
+      <edge id="7" source="#standupohio" target="#OHUnion" weight="1720" />
+      <edge id="8" source="#firekasich" target="#p2" weight="344" />
+      <edge id="9" source="#firekasich" target="#StandUpOH" weight="344" />
+      <edge id="10" source="#solidarityWI" target="#Wisconsin" weight="344" />
+      <edge id="11" source="#solidarityWI" target="#Classwar" weight="344" />
+      <edge id="12" source="#solidarityWI" target="#standupOH" weight="344" />
+      <edge id="13" source="#solidarityWI" target="#stateSOS" weight="344" />
+      <edge id="14" source="#solidarityWI" target="#sb5" weight="344" />
+      <edge id="15" source="#IN" target="#WI" weight="344" />
+      <edge id="16" source="#IN" target="#OH" weight="344" />
+      <edge id="17" source="#IN" target="#Solidarity" weight="344" />
+      <edge id="18" source="#IN" target="#StopSB5" weight="344" />
+      <edge id="19" source="#IN" target="#StandUpOhio" weight="344" />
+      <edge id="20" source="#Labor" target="#unions" weight="344" />
+      <edge id="21" source="#LiberalMedia" target="#sb5" weight="344" />
+      <edge id="22" source="#LiberalMedia" target="#Solidarity" weight="1376" />
+      <edge id="23" source="#LiberalMedia" target="#KasichFail" weight="688" />
+      <edge id="24" source="#LiberalMedia" target="#StopSB5" weight="2064" />
+      <edge id="25" source="#LiberalMedia" target="#SB5" weight="344" />
+      <edge id="26" source="#LiberalMedia" target="#KillTheBill" weight="688" />
+      <edge id="27" source="#LiberalMedia" target="#OH" weight="1032" />
+      <edge id="28" source="#LiberalMedia" target="#StandUpOhio" weight="1720" />
+      <edge id="29" source="#LiberalMedia" target="#OHunion" weight="344" />
+      <edge id="30" source="#teaparty" target="#tcot" weight="344" />
+      <edge id="31" source="#teaparty" target="#WIunion" weight="344" />
+      <edge id="32" source="#teaparty" target="#p2" weight="344" />
+      <edge id="33" source="#teaparty" target="#OHunion" weight="344" />
+      <edge id="34" source="#StandUpOh" target="#OH" weight="344" />
+      <edge id="35" source="#StandUpOh" target="#OHUnion" weight="688" />
+      <edge id="36" source="#StandUpOh" target="#StateSOS" weight="344" />
+      <edge id="37" source="#StandUpOh" target="#StopSB5" weight="1032" />
+      <edge id="38" source="#stateSOS" target="#standupOH" weight="344" />
+      <edge id="39" source="#stateSOS" target="#Classwar" weight="344" />
+      <edge id="40" source="#stateSOS" target="#Wisconsin" weight="344" />
+      <edge id="41" source="#stateSOS" target="#sb5" weight="344" />
+      <edge id="42" source="#OH" target="#Solidarity" weight="2064" />
+      <edge id="43" source="#OH" target="#KasichFail" weight="688" />
+      <edge id="44" source="#OH" target="#StandUpOhio" weight="3784" />
+      <edge id="45" source="#OH" target="#StopSB5" weight="6880" />
+      <edge id="46" source="#OH" target="#StandUpOH" weight="688" />
+      <edge id="47" source="#OH" target="#StadUpOhio" weight="344" />
+      <edge id="48" source="#OH" target="#WI" weight="688" />
+      <edge id="49" source="#OH" target="#SB5" weight="2408" />
+      <edge id="50" source="#OH" target="#STandUpOh" weight="344" />
+      <edge id="51" source="#OH" target="#StateSOS" weight="3784" />
+      <edge id="52" source="#OH" target="#KillTheBill" weight="344" />
+      <edge id="53" source="#OH" target="#Kasich" weight="344" />
+      <edge id="54" source="#OH" target="#OHUNION" weight="344" />
+      <edge id="55" source="#OH" target="#Standupohio" weight="344" />
+      <edge id="56" source="#OH" target="#OHUnion" weight="2408" />
+      <edge id="57" source="#OH" target="#Ohio" weight="688" />
+      <edge id="58" source="#WIunion" target="#Solidarity" weight="688" />
+      <edge id="59" source="#WIunion" target="#tcot" weight="688" />
+      <edge id="60" source="#WIunion" target="#StopSB5" weight="344" />
+      <edge id="61" source="#WIunion" target="#p2" weight="344" />
+      <edge id="62" source="#WIunion" target="#OHunion" weight="688" />
+      <edge id="63" source="#Legislation_Politics" target="#Organizing_Bargaining" weight="344" />
+      <edge id="64" source="#Legislation_Politics" target="#In_the_States" weight="344" />
+      <edge id="65" source="#fox8news" target="#StopSB5" weight="344" />
+      <edge id="66" source="#fox8news" target="#StandUpOhio" weight="344" />
+      <edge id="67" source="#fox8news" target="#StateSOS" weight="344" />
+      <edge id="68" source="#fox8news" target="#OHUnion" weight="344" />
+      <edge id="69" source="#StopSenateBill5" target="#liberalmedia" weight="344" />
+      <edge id="70" source="#StopSenateBill5" target="#solidarity" weight="344" />
+      <edge id="71" source="#StopSenateBill5" target="#SB5" weight="688" />
+      <edge id="72" source="#StopSenateBill5" target="#StandUpOhio" weight="688" />
+      <edge id="73" source="#solidarity" target="#liberalmedia" weight="2064" />
+      <edge id="74" source="#solidarity" target="#KasichFail" weight="344" />
+      <edge id="75" source="#solidarity" target="#StopSB5" weight="2408" />
+      <edge id="76" source="#solidarity" target="#SB5" weight="688" />
+      <edge id="77" source="#solidarity" target="#sb5" weight="1032" />
+      <edge id="78" source="#solidarity" target="#StateSOS" weight="344" />
+      <edge id="79" source="#solidarity" target="#killthebill" weight="688" />
+      <edge id="80" source="#solidarity" target="#OHUnion" weight="344" />
+      <edge id="81" source="#solidarity" target="#StandUpOhio" weight="2408" />
+      <edge id="82" source="#Retweet" target="#WI" weight="344" />
+      <edge id="83" source="#WI" target="#Solidarity" weight="344" />
+      <edge id="84" source="#WI" target="#StopSB5" weight="1376" />
+      <edge id="85" source="#WI" target="#SB5" weight="344" />
+      <edge id="86" source="#WI" target="#StateSOS" weight="1032" />
+      <edge id="87" source="#WI" target="#StandUpOhio" weight="344" />
+      <edge id="88" source="#WI" target="#OHUnion" weight="1032" />
+      <edge id="89" source="#StadUpOhio" target="#StopSB5" weight="344" />
+      <edge id="90" source="#StadUpOhio" target="#StateSOS" weight="344" />
+      <edge id="91" source="#NotMyWI" target="#p2" weight="344" />
+      <edge id="92" source="#NotMyWI" target="#StandUpOH" weight="344" />
+      <edge id="93" source="#STandUpOh" target="#StateSOS" weight="344" />
+      <edge id="94" source="#STandUpOh" target="#StopSB5" weight="344" />
+      <edge id="95" source="#killthebill" target="#liberalmedia" weight="688" />
+      <edge id="96" source="#killthebill" target="#StopSB5" weight="688" />
+      <edge id="97" source="#killthebill" target="#solidaritywi" weight="344" />
+      <edge id="98" source="#killthebill" target="#sb5" weight="688" />
+      <edge id="99" source="#killthebill" target="#1u" weight="344" />
+      <edge id="100" source="#killthebill" target="#StandUpOhio" weight="688" />
+      <edge id="101" source="#standupoh" target="#sb5" weight="344" />
+      <edge id="102" source="#OHunion" target="#Solidarity" weight="344" />
+      <edge id="103" source="#OHunion" target="#tcot" weight="344" />
+      <edge id="104" source="#OHunion" target="#StopSB5" weight="1032" />
+      <edge id="105" source="#OHunion" target="#StateSOS" weight="344" />
+      <edge id="106" source="#OHunion" target="#p2" weight="344" />
+      <edge id="107" source="#OHunion" target="#StandUpOhio" weight="688" />
+      <edge id="108" source="#In_the_States" target="#Organizing_Bargaining" weight="344" />
+      <edge id="109" source="#1u" target="#solidaritywi" weight="344" />
+      <edge id="110" source="#SB5" target="#SB5" weight="688" />
+      <edge id="111" source="#SB5" target="#StandUpOhio" weight="7568" />
+      <edge id="112" source="#SB5" target="#liberalmedia" weight="1032" />
+      <edge id="113" source="#SB5" target="#Solidarity" weight="1032" />
+      <edge id="114" source="#SB5" target="#StopSB5" weight="5504" />
+      <edge id="115" source="#SB5" target="#EdChat" weight="688" />
+      <edge id="116" source="#SB5" target="#KillTheBill" weight="1720" />
+      <edge id="117" source="#SB5" target="#Oh" weight="344" />
+      <edge id="118" source="#SB5" target="#KasichFail" weight="1032" />
+      <edge id="119" source="#SB5" target="#Kill" weight="344" />
+      <edge id="120" source="#SB5" target="#KillThisBill" weight="688" />
+      <edge id="121" source="#SB5" target="#ABC6" weight="344" />
+      <edge id="122" source="#SB5" target="#StateSOS" weight="2752" />
+      <edge id="123" source="#SB5" target="#OHUnion" weight="2408" />
+      <edge id="124" source="#SB5" target="#StandUpOH" weight="688" />
+      <edge id="125" source="#SB5" target="#OHUNION" weight="344" />
+      <edge id="126" source="#megov" target="#wiunion" weight="344" />
+      <edge id="127" source="#megov" target="#solidaritywi" weight="344" />
+      <edge id="128" source="#megov" target="#teachers" weight="344" />
+      <edge id="129" source="#megov" target="#cnn" weight="344" />
+      <edge id="130" source="#megov" target="#ohunion" weight="344" />
+      <edge id="131" source="#teachers" target="#wiunion" weight="344" />
+      <edge id="132" source="#teachers" target="#cnn" weight="344" />
+      <edge id="133" source="#teachers" target="#solidaritywi" weight="344" />
+      <edge id="134" source="#teachers" target="#ohunion" weight="344" />
+      <edge id="135" source="#Solidarity" target="#KasichFail" weight="344" />
+      <edge id="136" source="#Solidarity" target="#StopSB5" weight="4816" />
+      <edge id="137" source="#Solidarity" target="#OHUNION" weight="344" />
+      <edge id="138" source="#Solidarity" target="#StateSOS" weight="2752" />
+      <edge id="139" source="#Solidarity" target="#liberalmedia" weight="344" />
+      <edge id="140" source="#Solidarity" target="#sb5" weight="344" />
+      <edge id="141" source="#Solidarity" target="#Stop" weight="344" />
+      <edge id="142" source="#Solidarity" target="#KillTheBill" weight="688" />
+      <edge id="143" source="#Solidarity" target="#OHUnion" weight="3096" />
+      <edge id="144" source="#Solidarity" target="#StandUpOhio" weight="3440" />
+      <edge id="145" source="#union" target="#tcot" weight="344" />
+      <edge id="146" source="#union" target="#p2" weight="344" />
+      <edge id="147" source="#union" target="#sb5" weight="344" />
+      <edge id="148" source="#StopSB5" target="#Ohio" weight="344" />
+      <edge id="149" source="#StopSB5" target="#StandUpOhio" weight="14792" />
+      <edge id="150" source="#StopSB5" target="#liberalmedia" weight="2064" />
+      <edge id="151" source="#StopSB5" target="#EdChat" weight="688" />
+      <edge id="152" source="#StopSB5" target="#KillTheBill" weight="2064" />
+      <edge id="153" source="#StopSB5" target="#Oh" weight="344" />
+      <edge id="154" source="#StopSB5" target="#Kasich" weight="688" />
+      <edge id="155" source="#StopSB5" target="#KasichFail" weight="1376" />
+      <edge id="156" source="#StopSB5" target="#Kill" weight="344" />
+      <edge id="157" source="#StopSB5" target="#Solidarily" weight="344" />
+      <edge id="158" source="#StopSB5" target="#KillThisBill" weight="344" />
+      <edge id="159" source="#StopSB5" target="#sb5" weight="1376" />
+      <edge id="160" source="#StopSB5" target="#StateSOS" weight="13416" />
+      <edge id="161" source="#StopSB5" target="#OHUnion" weight="11352" />
+      <edge id="162" source="#StopSB5" target="#StandUpOH" weight="344" />
+      <edge id="163" source="#StopSB5" target="#Standupohio" weight="688" />
+      <edge id="164" source="#solidaritywi" target="#wiunion" weight="344" />
+      <edge id="165" source="#solidaritywi" target="#cnn" weight="344" />
+      <edge id="166" source="#solidaritywi" target="#ohunion" weight="344" />
+      <edge id="167" source="#EdChat" target="#Kill" weight="344" />
+      <edge id="168" source="#EdChat" target="#StandUpOhio" weight="688" />
+      <edge id="169" source="#EdChat" target="#KillTheBill" weight="344" />
+      <edge id="170" source="#Stop" target="#StandUpOhio" weight="344" />
+      <edge id="171" source="#Stop" target="#OHUnion" weight="344" />
+      <edge id="172" source="#Stop" target="#StateSOS" weight="344" />
+      <edge id="173" source="#KillTheBill" target="#KasichFail" weight="344" />
+      <edge id="174" source="#KillTheBill" target="#KillThisBill" weight="344" />
+      <edge id="175" source="#KillTheBill" target="#sb5" weight="344" />
+      <edge id="176" source="#KillTheBill" target="#StandUpOhio" weight="2064" />
+      <edge id="177" source="#wiunion" target="#p2" weight="344" />
+      <edge id="178" source="#wiunion" target="#cnn" weight="344" />
+      <edge id="179" source="#wiunion" target="#ohunion" weight="344" />
+      <edge id="180" source="#Oh" target="#OHUnion" weight="344" />
+      <edge id="181" source="#Oh" target="#StateSOS" weight="344" />
+      <edge id="182" source="#Oh" target="#StandUpOhio" weight="344" />
+      <edge id="183" source="#Wisconsin" target="#Classwar" weight="344" />
+      <edge id="184" source="#Wisconsin" target="#standupOH" weight="344" />
+      <edge id="185" source="#Wisconsin" target="#sb5" weight="344" />
+      <edge id="186" source="#Standupohio" target="#KasichFail" weight="344" />
+      <edge id="187" source="#Standupohio" target="#StateSOS" weight="344" />
+      <edge id="188" source="#p2" target="#tcot" weight="688" />
+      <edge id="189" source="#p2" target="#sb5" weight="344" />
+      <edge id="190" source="#p2" target="#StandUpOH" weight="1032" />
+      <edge id="191" source="#ohunion" target="#cnn" weight="344" />
+      <edge id="192" source="#Ohio" target="#Kasich" weight="344" />
+      <edge id="193" source="#Ohio" target="#StandUpOH" weight="688" />
+      <edge id="194" source="#Ohio" target="#StateSOS" weight="688" />
+      <edge id="195" source="#KasichFail" target="#StandUpOhio" weight="1032" />
+      <edge id="196" source="#KasichFail" target="#liberalmedia" weight="344" />
+      <edge id="197" source="#KasichFail" target="#sb5" weight="344" />
+      <edge id="198" source="#KasichFail" target="#StateSOS" weight="344" />
+      <edge id="199" source="#tcot" target="#sb5" weight="344" />
+      <edge id="200" source="#StandUpOhio" target="#OHUnion" weight="5848" />
+      <edge id="201" source="#StandUpOhio" target="#liberalmedia" weight="2408" />
+      <edge id="202" source="#StandUpOhio" target="#Kill" weight="344" />
+      <edge id="203" source="#StandUpOhio" target="#KillThisBill" weight="344" />
+      <edge id="204" source="#StandUpOhio" target="#sb5" weight="1376" />
+      <edge id="205" source="#StandUpOhio" target="#StateSOS" weight="5848" />
+      <edge id="206" source="#StandUpOhio" target="#Kasich" weight="344" />
+      <edge id="207" source="#StandUpOhio" target="#OHUNION" weight="344" />
+      <edge id="208" source="#Solidarily" target="#StateSOS" weight="344" />
+      <edge id="209" source="#Solidarily" target="#OHUnion" weight="344" />
+      <edge id="210" source="#liberalmedia" target="#sb5" weight="1032" />
+      <edge id="211" source="#standupOH" target="#Classwar" weight="344" />
+      <edge id="212" source="#standupOH" target="#sb5" weight="688" />
+      <edge id="213" source="#StateSOS" target="#StandUpOH" weight="1376" />
+      <edge id="214" source="#StateSOS" target="#Kasich" weight="688" />
+      <edge id="215" source="#StateSOS" target="#StateSOS" weight="688" />
+      <edge id="216" source="#StateSOS" target="#OHUnion" weight="9632" />
+      <edge id="217" source="#sb5" target="#Classwar" weight="344" />
+      <edge id="218" source="#sb5" target="#StandUpOH" weight="344" />
+      <edge id="219" source="#WIUnion" target="#OHUnion" weight="344" />
+      <edge id="220" source="#Kasich" target="#StandUpOH" weight="344" />
+    </edges>
+  </graph>
+</gexf>

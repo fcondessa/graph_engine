@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#IRS" label="#IRS" />
+      <node id="#Kayak" label="#Kayak" />
+      <node id="#MetalMonday" label="#MetalMonday" />
+      <node id="#Newport" label="#Newport" />
+      <node id="#Liquidlogic" label="#Liquidlogic" />
+      <node id="#charlie_beavers" label="#charlie_beavers" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#IRS" target="#IRS" weight="724" />
+      <edge id="1" source="#Kayak" target="#Liquidlogic" weight="362" />
+      <edge id="2" source="#Kayak" target="#charlie_beavers" weight="362" />
+      <edge id="3" source="#MetalMonday" target="#Newport" weight="362" />
+      <edge id="4" source="#Liquidlogic" target="#charlie_beavers" weight="362" />
+    </edges>
+  </graph>
+</gexf>

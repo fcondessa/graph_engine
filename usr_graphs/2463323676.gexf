@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#reebcenter" label="#reebcenter" />
+      <node id="#technology" label="#technology" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#selfie" label="#selfie" />
+      <node id="#itad" label="#itad" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#GoodTogether" label="#GoodTogether" />
+      <node id="#Hashtags" label="#Hashtags" />
+      <node id="#byod" label="#byod" />
+      <node id="#creative" label="#creative" />
+      <node id="#Sell" label="#Sell" />
+      <node id="#GrowTB" label="#GrowTB" />
+      <node id="#laptop" label="#laptop" />
+      <node id="#75percentCA" label="#75percentCA" />
+      <node id="#CapexVSOpex" label="#CapexVSOpex" />
+      <node id="#IL" label="#IL" />
+      <node id="#gartnerITAM" label="#gartnerITAM" />
+      <node id="#columbusohio" label="#columbusohio" />
+      <node id="#IAITAMACE" label="#IAITAMACE" />
+      <node id="#ITCredibility" label="#ITCredibility" />
+      <node id="#SageBlueBook" label="#SageBlueBook" />
+      <node id="#Technology" label="#Technology" />
+      <node id="#ITSM" label="#ITSM" />
+      <node id="#databreach" label="#databreach" />
+      <node id="#Automation" label="#Automation" />
+      <node id="#ewaste" label="#ewaste" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#recycling" label="#recycling" />
+      <node id="#TalkLikeAPirateDay" label="#TalkLikeAPirateDay" />
+      <node id="#philanthropy" label="#philanthropy" />
+      <node id="#ITIL" label="#ITIL" />
+      <node id="#IAITAM" label="#IAITAM" />
+      <node id="#SolutionShowcase" label="#SolutionShowcase" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#blog" label="#blog" />
+      <node id="#COBIT" label="#COBIT" />
+      <node id="#GartnerITAM" label="#GartnerITAM" />
+      <node id="#reduce" label="#reduce" />
+      <node id="#gartner" label="#gartner" />
+      <node id="#redeem" label="#redeem" />
+      <node id="#myths" label="#myths" />
+      <node id="#climatechange" label="#climatechange" />
+      <node id="#COP21" label="#COP21" />
+      <node id="#Repair" label="#Repair" />
+      <node id="#Buy" label="#Buy" />
+      <node id="#sustainabililty" label="#sustainabililty" />
+      <node id="#recycle" label="#recycle" />
+      <node id="#Future" label="#Future" />
+      <node id="#BYOD" label="#BYOD" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#ITAD" label="#ITAD" />
+      <node id="#BacktoSchool" label="#BacktoSchool" />
+      <node id="#GIVINGTUESDAY" label="#GIVINGTUESDAY" />
+      <node id="#Reno" label="#Reno" />
+      <node id="#grapevine" label="#grapevine" />
+      <node id="#ITAM" label="#ITAM" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#SageSE" label="#SageSE" />
+      <node id="#donate" label="#donate" />
+      <node id="#AXELOS" label="#AXELOS" />
+      <node id="#Women" label="#Women" />
+      <node id="#ConsciousITAD" label="#ConsciousITAD" />
+      <node id="#Agility" label="#Agility" />
+      <node id="#sales" label="#sales" />
+      <node id="#Innovate" label="#Innovate" />
+      <node id="#gadget" label="#gadget" />
+      <node id="#datasecurity" label="#datasecurity" />
+      <node id="#tinkertech" label="#tinkertech" />
+      <node id="#TansformTB" label="#TansformTB" />
+      <node id="#careers" label="#careers" />
+      <node id="#Donate" label="#Donate" />
+      <node id="#survey" label="#survey" />
+      <node id="#NewMetrics" label="#NewMetrics" />
+      <node id="#breakingbad" label="#breakingbad" />
+      <node id="#reuse" label="#reuse" />
+      <node id="#repurpose" label="#repurpose" />
+      <node id="#TinkerTech" label="#TinkerTech" />
+      <node id="#valuerecovery" label="#valuerecovery" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#reebcenter" target="#columbusohio" weight="977" />
+      <edge id="1" source="#technology" target="#innovation" weight="977" />
+      <edge id="2" source="#technology" target="#SageSE" weight="977" />
+      <edge id="3" source="#technology" target="#donate" weight="977" />
+      <edge id="4" source="#sustainability" target="#NewMetrics" weight="977" />
+      <edge id="5" source="#sustainability" target="#ewaste" weight="977" />
+      <edge id="6" source="#sustainability" target="#myths" weight="1954" />
+      <edge id="7" source="#sustainability" target="#careers" weight="1954" />
+      <edge id="8" source="#sustainability" target="#itad" weight="977" />
+      <edge id="9" source="#sustainability" target="#breakingbad" weight="1954" />
+      <edge id="10" source="#sustainability" target="#blog" weight="1954" />
+      <edge id="11" source="#sustainability" target="#ohio" weight="1954" />
+      <edge id="12" source="#selfie" target="#gartnerITAM" weight="977" />
+      <edge id="13" source="#itad" target="#gartner" weight="977" />
+      <edge id="14" source="#itad" target="#valuerecovery" weight="977" />
+      <edge id="15" source="#itad" target="#grapevine" weight="977" />
+      <edge id="16" source="#jobs" target="#Reno" weight="977" />
+      <edge id="17" source="#jobs" target="#ITAD" weight="977" />
+      <edge id="18" source="#jobs" target="#sales" weight="977" />
+      <edge id="19" source="#GoodTogether" target="#GIVINGTUESDAY" weight="977" />
+      <edge id="20" source="#GoodTogether" target="#Donate" weight="977" />
+      <edge id="21" source="#Hashtags" target="#ITCredibility" weight="977" />
+      <edge id="22" source="#Hashtags" target="#Automation" weight="977" />
+      <edge id="23" source="#Hashtags" target="#Agility" weight="977" />
+      <edge id="24" source="#Hashtags" target="#TansformTB" weight="977" />
+      <edge id="25" source="#Hashtags" target="#GrowTB" weight="977" />
+      <edge id="26" source="#Hashtags" target="#CapexVSOpex" weight="977" />
+      <edge id="27" source="#Hashtags" target="#GartnerITAM" weight="977" />
+      <edge id="28" source="#byod" target="#SageSE" weight="977" />
+      <edge id="29" source="#creative" target="#leadership" weight="977" />
+      <edge id="30" source="#Sell" target="#Buy" weight="977" />
+      <edge id="31" source="#Sell" target="#Donate" weight="977" />
+      <edge id="32" source="#Sell" target="#ITAD" weight="977" />
+      <edge id="33" source="#Sell" target="#Repair" weight="977" />
+      <edge id="34" source="#GrowTB" target="#ITCredibility" weight="977" />
+      <edge id="35" source="#GrowTB" target="#Automation" weight="977" />
+      <edge id="36" source="#GrowTB" target="#Agility" weight="977" />
+      <edge id="37" source="#GrowTB" target="#TansformTB" weight="977" />
+      <edge id="38" source="#GrowTB" target="#CapexVSOpex" weight="977" />
+      <edge id="39" source="#GrowTB" target="#GartnerITAM" weight="977" />
+      <edge id="40" source="#laptop" target="#BacktoSchool" weight="7816" />
+      <edge id="41" source="#75percentCA" target="#TalkLikeAPirateDay" weight="977" />
+      <edge id="42" source="#75percentCA" target="#redeem" weight="977" />
+      <edge id="43" source="#75percentCA" target="#reduce" weight="977" />
+      <edge id="44" source="#75percentCA" target="#recycle" weight="977" />
+      <edge id="45" source="#75percentCA" target="#reuse" weight="977" />
+      <edge id="46" source="#CapexVSOpex" target="#ITCredibility" weight="977" />
+      <edge id="47" source="#CapexVSOpex" target="#Automation" weight="977" />
+      <edge id="48" source="#CapexVSOpex" target="#Agility" weight="977" />
+      <edge id="49" source="#CapexVSOpex" target="#TansformTB" weight="977" />
+      <edge id="50" source="#CapexVSOpex" target="#GartnerITAM" weight="977" />
+      <edge id="51" source="#IL" target="#Women" weight="977" />
+      <edge id="52" source="#IL" target="#philanthropy" weight="977" />
+      <edge id="53" source="#IAITAMACE" target="#IAITAM" weight="977" />
+      <edge id="54" source="#IAITAMACE" target="#COBIT" weight="977" />
+      <edge id="55" source="#IAITAMACE" target="#AXELOS" weight="977" />
+      <edge id="56" source="#IAITAMACE" target="#ITIL" weight="977" />
+      <edge id="57" source="#IAITAMACE" target="#ITAM" weight="1954" />
+      <edge id="58" source="#ITCredibility" target="#Agility" weight="977" />
+      <edge id="59" source="#ITCredibility" target="#TansformTB" weight="977" />
+      <edge id="60" source="#ITCredibility" target="#Automation" weight="977" />
+      <edge id="61" source="#ITCredibility" target="#GartnerITAM" weight="977" />
+      <edge id="62" source="#SageBlueBook" target="#GartnerITAM" weight="1954" />
+      <edge id="63" source="#Technology" target="#innovation" weight="977" />
+      <edge id="64" source="#Technology" target="#Innovate" weight="977" />
+      <edge id="65" source="#Technology" target="#Future" weight="977" />
+      <edge id="66" source="#ITSM" target="#ITIL" weight="977" />
+      <edge id="67" source="#databreach" target="#privacy" weight="977" />
+      <edge id="68" source="#Automation" target="#Agility" weight="977" />
+      <edge id="69" source="#Automation" target="#TansformTB" weight="977" />
+      <edge id="70" source="#Automation" target="#GartnerITAM" weight="977" />
+      <edge id="71" source="#ewaste" target="#SageSE" weight="977" />
+      <edge id="72" source="#ewaste" target="#climatechange" weight="1954" />
+      <edge id="73" source="#ewaste" target="#COP21" weight="1954" />
+      <edge id="74" source="#ewaste" target="#DYK" weight="977" />
+      <edge id="75" source="#ewaste" target="#ITAD" weight="977" />
+      <edge id="76" source="#ewaste" target="#recycling" weight="977" />
+      <edge id="77" source="#recycling" target="#ITAD" weight="977" />
+      <edge id="78" source="#TalkLikeAPirateDay" target="#recycle" weight="977" />
+      <edge id="79" source="#TalkLikeAPirateDay" target="#reuse" weight="977" />
+      <edge id="80" source="#TalkLikeAPirateDay" target="#redeem" weight="977" />
+      <edge id="81" source="#TalkLikeAPirateDay" target="#reduce" weight="977" />
+      <edge id="82" source="#philanthropy" target="#Women" weight="977" />
+      <edge id="83" source="#ITIL" target="#ITAM" weight="977" />
+      <edge id="84" source="#ITIL" target="#COBIT" weight="977" />
+      <edge id="85" source="#ITIL" target="#AXELOS" weight="977" />
+      <edge id="86" source="#IAITAM" target="#ITAM" weight="977" />
+      <edge id="87" source="#SolutionShowcase" target="#GartnerITAM" weight="1954" />
+      <edge id="88" source="#innovation" target="#SageSE" weight="2931" />
+      <edge id="89" source="#innovation" target="#tinkertech" weight="977" />
+      <edge id="90" source="#innovation" target="#Future" weight="977" />
+      <edge id="91" source="#innovation" target="#TinkerTech" weight="1954" />
+      <edge id="92" source="#blog" target="#breakingbad" weight="1954" />
+      <edge id="93" source="#blog" target="#myths" weight="1954" />
+      <edge id="94" source="#COBIT" target="#ITAM" weight="977" />
+      <edge id="95" source="#COBIT" target="#AXELOS" weight="977" />
+      <edge id="96" source="#GartnerITAM" target="#Agility" weight="977" />
+      <edge id="97" source="#GartnerITAM" target="#TansformTB" weight="977" />
+      <edge id="98" source="#reduce" target="#redeem" weight="977" />
+      <edge id="99" source="#reduce" target="#recycle" weight="977" />
+      <edge id="100" source="#reduce" target="#reuse" weight="977" />
+      <edge id="101" source="#gartner" target="#grapevine" weight="977" />
+      <edge id="102" source="#redeem" target="#recycle" weight="977" />
+      <edge id="103" source="#redeem" target="#reuse" weight="977" />
+      <edge id="104" source="#myths" target="#breakingbad" weight="1954" />
+      <edge id="105" source="#climatechange" target="#COP21" weight="1954" />
+      <edge id="106" source="#Repair" target="#Buy" weight="977" />
+      <edge id="107" source="#Repair" target="#ITAD" weight="977" />
+      <edge id="108" source="#Repair" target="#Donate" weight="977" />
+      <edge id="109" source="#Buy" target="#ITAD" weight="977" />
+      <edge id="110" source="#Buy" target="#Donate" weight="977" />
+      <edge id="111" source="#sustainabililty" target="#ConsciousITAD" weight="977" />
+      <edge id="112" source="#sustainabililty" target="#ITAD" weight="977" />
+      <edge id="113" source="#recycle" target="#reuse" weight="977" />
+      <edge id="114" source="#BYOD" target="#SageSE" weight="977" />
+      <edge id="115" source="#BYOD" target="#ITAD" weight="977" />
+      <edge id="116" source="#DYK" target="#SageSE" weight="977" />
+      <edge id="117" source="#ITAD" target="#datasecurity" weight="977" />
+      <edge id="118" source="#ITAD" target="#privacy" weight="977" />
+      <edge id="119" source="#ITAD" target="#SageSE" weight="977" />
+      <edge id="120" source="#ITAD" target="#ConsciousITAD" weight="977" />
+      <edge id="121" source="#ITAD" target="#repurpose" weight="977" />
+      <edge id="122" source="#ITAD" target="#Donate" weight="977" />
+      <edge id="123" source="#ITAD" target="#survey" weight="977" />
+      <edge id="124" source="#ITAD" target="#Reno" weight="977" />
+      <edge id="125" source="#GIVINGTUESDAY" target="#Donate" weight="977" />
+      <edge id="126" source="#ITAM" target="#AXELOS" weight="977" />
+      <edge id="127" source="#privacy" target="#datasecurity" weight="977" />
+      <edge id="128" source="#ohio" target="#careers" weight="1954" />
+      <edge id="129" source="#SageSE" target="#datasecurity" weight="977" />
+      <edge id="130" source="#SageSE" target="#TinkerTech" weight="1954" />
+      <edge id="131" source="#Agility" target="#TansformTB" weight="977" />
+      <edge id="132" source="#gadget" target="#Donate" weight="977" />
+    </edges>
+  </graph>
+</gexf>

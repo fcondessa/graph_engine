@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#LikeARollingStone" label="#LikeARollingStone" />
+      <node id="#DeflateGate" label="#DeflateGate" />
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#RumbaCafe" label="#RumbaCafe" />
+      <node id="#ColumbusAlive" label="#ColumbusAlive" />
+      <node id="#RodneyKing" label="#RodneyKing" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#dud" label="#dud" />
+      <node id="#TheBasement" label="#TheBasement" />
+      <node id="#HeardOnESPN" label="#HeardOnESPN" />
+      <node id="#straightbeat" label="#straightbeat" />
+      <node id="#HenryGreen" label="#HenryGreen" />
+      <node id="#flop" label="#flop" />
+      <node id="#crewsc" label="#crewsc" />
+      <node id="#RIPCAMU" label="#RIPCAMU" />
+      <node id="#ConcernedStudent1950" label="#ConcernedStudent1950" />
+      <node id="#AmazonPrimeDay" label="#AmazonPrimeDay" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#Wordsmiths" label="#Wordsmiths" />
+      <node id="#JUSTANNOUNCED" label="#JUSTANNOUNCED" />
+      <node id="#proud" label="#proud" />
+      <node id="#FeMMeFestBands" label="#FeMMeFestBands" />
+      <node id="#LCPavilion" label="#LCPavilion" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#EYE" label="#EYE" />
+      <node id="#sonbert" label="#sonbert" />
+      <node id="#PleasedToMeetYou" label="#PleasedToMeetYou" />
+      <node id="#columbusreppin" label="#columbusreppin" />
+      <node id="#notproud" label="#notproud" />
+      <node id="#Pride" label="#Pride" />
+      <node id="#TEROSMITH" label="#TEROSMITH" />
+      <node id="#MizzouHungerStrike" label="#MizzouHungerStrike" />
+      <node id="#RSG" label="#RSG" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#Boston2024" label="#Boston2024" />
+      <node id="#lemon" label="#lemon" />
+      <node id="#ESPYS" label="#ESPYS" />
+      <node id="#GettingClose" label="#GettingClose" />
+      <node id="#wexarts" label="#wexarts" />
+      <node id="#Soccer" label="#Soccer" />
+      <node id="#TyreKing" label="#TyreKing" />
+      <node id="#WindowontheWorld" label="#WindowontheWorld" />
+      <node id="#crew96" label="#crew96" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#LikeARollingStone" target="#PleasedToMeetYou" weight="3235" />
+      <edge id="1" source="#DeflateGate" target="#Boston2024" weight="3235" />
+      <edge id="2" source="#SXSW" target="#straightbeat" weight="3235" />
+      <edge id="3" source="#SXSW" target="#columbusreppin" weight="3235" />
+      <edge id="4" source="#RumbaCafe" target="#EYE" weight="3235" />
+      <edge id="5" source="#ColumbusAlive" target="#Pride" weight="3235" />
+      <edge id="6" source="#RodneyKing" target="#Ferguson" weight="3235" />
+      <edge id="7" source="#NFL" target="#NBA" weight="3235" />
+      <edge id="8" source="#NFL" target="#Soccer" weight="3235" />
+      <edge id="9" source="#NFL" target="#MLB" weight="3235" />
+      <edge id="10" source="#NFL" target="#NHL" weight="3235" />
+      <edge id="11" source="#dud" target="#flop" weight="3235" />
+      <edge id="12" source="#dud" target="#lemon" weight="3235" />
+      <edge id="13" source="#TheBasement" target="#JUSTANNOUNCED" weight="3235" />
+      <edge id="14" source="#HeardOnESPN" target="#Wordsmiths" weight="3235" />
+      <edge id="15" source="#straightbeat" target="#columbusreppin" weight="3235" />
+      <edge id="16" source="#HenryGreen" target="#TyreKing" weight="3235" />
+      <edge id="17" source="#flop" target="#lemon" weight="3235" />
+      <edge id="18" source="#crewsc" target="#crew96" weight="3235" />
+      <edge id="19" source="#RIPCAMU" target="#RSG" weight="3235" />
+      <edge id="20" source="#RIPCAMU" target="#TEROSMITH" weight="3235" />
+      <edge id="21" source="#ConcernedStudent1950" target="#MizzouHungerStrike" weight="3235" />
+      <edge id="22" source="#AmazonPrimeDay" target="#ESPYS" weight="3235" />
+      <edge id="23" source="#NHL" target="#NBA" weight="3235" />
+      <edge id="24" source="#NHL" target="#MLB" weight="3235" />
+      <edge id="25" source="#NHL" target="#Soccer" weight="3235" />
+      <edge id="26" source="#NBA" target="#Soccer" weight="3235" />
+      <edge id="27" source="#NBA" target="#MLB" weight="3235" />
+      <edge id="28" source="#JUSTANNOUNCED" target="#LCPavilion" weight="3235" />
+      <edge id="29" source="#proud" target="#notproud" weight="3235" />
+      <edge id="30" source="#FeMMeFestBands" target="#GettingClose" weight="3235" />
+      <edge id="31" source="#sonbert" target="#wexarts" weight="3235" />
+      <edge id="32" source="#TEROSMITH" target="#RSG" weight="3235" />
+      <edge id="33" source="#MLB" target="#Soccer" weight="3235" />
+      <edge id="34" source="#TyreKing" target="#WindowontheWorld" weight="3235" />
+    </edges>
+  </graph>
+</gexf>

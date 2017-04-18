@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#KYF2" label="#KYF2" />
+      <node id="#lunch" label="#lunch" />
+      <node id="#Winegrape" label="#Winegrape" />
+      <node id="#osuec" label="#osuec" />
+      <node id="#osue" label="#osue" />
+      <node id="#coupon" label="#coupon" />
+      <node id="#Vegetables" label="#Vegetables" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#WHHangout" label="#WHHangout" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Ag" label="#Ag" />
+      <node id="#farm" label="#farm" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#thisisCLE" label="#thisisCLE" />
+      <node id="#CFAES" label="#CFAES" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#pearlmarket" label="#pearlmarket" />
+      <node id="#owialn" label="#owialn" />
+      <node id="#downtown" label="#downtown" />
+      <node id="#ag" label="#ag" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#FarmersMarket" label="#FarmersMarket" />
+      <node id="#ShopLocal" label="#ShopLocal" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#wine" label="#wine" />
+      <node id="#November" label="#November" />
+      <node id="#Farm" label="#Farm" />
+      <node id="#FreshFood" label="#FreshFood" />
+      <node id="#producers" label="#producers" />
+      <node id="#Winemaking" label="#Winemaking" />
+      <node id="#AgChat" label="#AgChat" />
+      <node id="#Contest" label="#Contest" />
+      <node id="#food" label="#food" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#FDA" label="#FDA" />
+      <node id="#ranch" label="#ranch" />
+      <node id="#parents" label="#parents" />
+      <node id="#EatLocal" label="#EatLocal" />
+      <node id="#internship" label="#internship" />
+      <node id="#farmers" label="#farmers" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#localfoods" label="#localfoods" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#PR" label="#PR" />
+      <node id="#wia" label="#wia" />
+      <node id="#FOODSAFETY" label="#FOODSAFETY" />
+      <node id="#farmersmarket" label="#farmersmarket" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#KYF2" target="#WHHangout" weight="1091" />
+      <edge id="1" source="#lunch" target="#Dayton" weight="1091" />
+      <edge id="2" source="#Winegrape" target="#Winemaking" weight="1091" />
+      <edge id="3" source="#osuec" target="#localfoods" weight="2182" />
+      <edge id="4" source="#osuec" target="#osue" weight="2182" />
+      <edge id="5" source="#osuec" target="#wia" weight="1091" />
+      <edge id="6" source="#osuec" target="#owialn" weight="1091" />
+      <edge id="7" source="#osue" target="#localfoods" weight="2182" />
+      <edge id="8" source="#osue" target="#wia" weight="1091" />
+      <edge id="9" source="#osue" target="#owialn" weight="1091" />
+      <edge id="10" source="#coupon" target="#Farm" weight="1091" />
+      <edge id="11" source="#coupon" target="#Ohio" weight="1091" />
+      <edge id="12" source="#Vegetables" target="#November" weight="1091" />
+      <edge id="13" source="#Ohio" target="#parents" weight="1091" />
+      <edge id="14" source="#Ohio" target="#teachers" weight="1091" />
+      <edge id="15" source="#Ohio" target="#wine" weight="1091" />
+      <edge id="16" source="#Ohio" target="#Farm" weight="1091" />
+      <edge id="17" source="#Ohio" target="#food" weight="1091" />
+      <edge id="18" source="#Ohio" target="#Ag" weight="1091" />
+      <edge id="19" source="#Ag" target="#Farm" weight="1091" />
+      <edge id="20" source="#Ag" target="#teachers" weight="1091" />
+      <edge id="21" source="#Ag" target="#parents" weight="1091" />
+      <edge id="22" source="#farm" target="#ag" weight="1091" />
+      <edge id="23" source="#farm" target="#ranch" weight="1091" />
+      <edge id="24" source="#farm" target="#AgChat" weight="1091" />
+      <edge id="25" source="#OhioState" target="#CFAES" weight="1091" />
+      <edge id="26" source="#thisisCLE" target="#farmersmarket" weight="1091" />
+      <edge id="27" source="#OSU" target="#producers" weight="1091" />
+      <edge id="28" source="#OSU" target="#ag" weight="1091" />
+      <edge id="29" source="#pearlmarket" target="#downtown" weight="1091" />
+      <edge id="30" source="#pearlmarket" target="#cbus" weight="1091" />
+      <edge id="31" source="#owialn" target="#localfoods" weight="1091" />
+      <edge id="32" source="#owialn" target="#wia" weight="1091" />
+      <edge id="33" source="#downtown" target="#cbus" weight="1091" />
+      <edge id="34" source="#ag" target="#producers" weight="1091" />
+      <edge id="35" source="#Obama" target="#farmers" weight="1091" />
+      <edge id="36" source="#FarmersMarket" target="#ShopLocal" weight="1091" />
+      <edge id="37" source="#ShopLocal" target="#EatLocal" weight="2182" />
+      <edge id="38" source="#teachers" target="#parents" weight="1091" />
+      <edge id="39" source="#FreshFood" target="#delicious" weight="1091" />
+      <edge id="40" source="#AgChat" target="#ranch" weight="1091" />
+      <edge id="41" source="#Contest" target="#Columbus" weight="1091" />
+      <edge id="42" source="#FDA" target="#FOODSAFETY" weight="1091" />
+      <edge id="43" source="#internship" target="#PR" weight="1091" />
+      <edge id="44" source="#localfoods" target="#wia" weight="1091" />
+    </edges>
+  </graph>
+</gexf>

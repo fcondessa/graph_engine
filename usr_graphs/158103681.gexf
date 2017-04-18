@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BROadtrip" label="#BROadtrip" />
+      <node id="#publictransportation" label="#publictransportation" />
+      <node id="#givingthepeoplewhattheywant" label="#givingthepeoplewhattheywant" />
+      <node id="#topical" label="#topical" />
+      <node id="#notblurstoftimes" label="#notblurstoftimes" />
+      <node id="#singing" label="#singing" />
+      <node id="#art" label="#art" />
+      <node id="#walkingonionarticle" label="#walkingonionarticle" />
+      <node id="#youmightbeahipster" label="#youmightbeahipster" />
+      <node id="#debate" label="#debate" />
+      <node id="#judgements" label="#judgements" />
+      <node id="#october122012" label="#october122012" />
+      <node id="#jawdropped" label="#jawdropped" />
+      <node id="#notaporno" label="#notaporno" />
+      <node id="#PIPA" label="#PIPA" />
+      <node id="#Alienware" label="#Alienware" />
+      <node id="#hero" label="#hero" />
+      <node id="#fuckyes" label="#fuckyes" />
+      <node id="#Warrior" label="#Warrior" />
+      <node id="#sohard" label="#sohard" />
+      <node id="#Soapdish" label="#Soapdish" />
+      <node id="#Baseball" label="#Baseball" />
+      <node id="#stlcards" label="#stlcards" />
+      <node id="#RoboCop" label="#RoboCop" />
+      <node id="#withthat" label="#withthat" />
+      <node id="#amirightamirightamiright" label="#amirightamirightamiright" />
+      <node id="#ff" label="#ff" />
+      <node id="#Blow" label="#Blow" />
+      <node id="#clever" label="#clever" />
+      <node id="#mourdock" label="#mourdock" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#SOPA" label="#SOPA" />
+      <node id="#real" label="#real" />
+      <node id="#cornerofmyeye" label="#cornerofmyeye" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#whatsup" label="#whatsup" />
+      <node id="#nobel" label="#nobel" />
+      <node id="#CW" label="#CW" />
+      <node id="#extrasstealtheshow" label="#extrasstealtheshow" />
+      <node id="#nomination" label="#nomination" />
+      <node id="#sag" label="#sag" />
+      <node id="#american" label="#american" />
+      <node id="#notlooking" label="#notlooking" />
+      <node id="#grammy" label="#grammy" />
+      <node id="#happyflight" label="#happyflight" />
+      <node id="#bestoftimes" label="#bestoftimes" />
+      <node id="#staring" label="#staring" />
+      <node id="#TeamBreezy" label="#TeamBreezy" />
+      <node id="#Reds" label="#Reds" />
+      <node id="#GIVEAWAY" label="#GIVEAWAY" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BROadtrip" target="#fuckyes" weight="231" />
+      <edge id="1" source="#publictransportation" target="#judgements" weight="231" />
+      <edge id="2" source="#givingthepeoplewhattheywant" target="#art" weight="231" />
+      <edge id="3" source="#topical" target="#TeamBreezy" weight="231" />
+      <edge id="4" source="#notblurstoftimes" target="#bestoftimes" weight="231" />
+      <edge id="5" source="#singing" target="#real" weight="231" />
+      <edge id="6" source="#walkingonionarticle" target="#mourdock" weight="231" />
+      <edge id="7" source="#youmightbeahipster" target="#amirightamirightamiright" weight="231" />
+      <edge id="8" source="#debate" target="#RoboCop" weight="231" />
+      <edge id="9" source="#october122012" target="#ff" weight="231" />
+      <edge id="10" source="#october122012" target="#notaporno" weight="231" />
+      <edge id="11" source="#jawdropped" target="#staring" weight="231" />
+      <edge id="12" source="#jawdropped" target="#notlooking" weight="231" />
+      <edge id="13" source="#jawdropped" target="#cornerofmyeye" weight="231" />
+      <edge id="14" source="#notaporno" target="#ff" weight="231" />
+      <edge id="15" source="#PIPA" target="#SOPA" weight="462" />
+      <edge id="16" source="#Alienware" target="#GIVEAWAY" weight="231" />
+      <edge id="17" source="#hero" target="#american" weight="231" />
+      <edge id="18" source="#hero" target="#nobel" weight="231" />
+      <edge id="19" source="#hero" target="#nomination" weight="231" />
+      <edge id="20" source="#Warrior" target="#Baseball" weight="231" />
+      <edge id="21" source="#Warrior" target="#CW" weight="231" />
+      <edge id="22" source="#Warrior" target="#Soapdish" weight="231" />
+      <edge id="23" source="#sohard" target="#extrasstealtheshow" weight="231" />
+      <edge id="24" source="#sohard" target="#sag" weight="231" />
+      <edge id="25" source="#Soapdish" target="#CW" weight="231" />
+      <edge id="26" source="#Soapdish" target="#Baseball" weight="231" />
+      <edge id="27" source="#Baseball" target="#CW" weight="231" />
+      <edge id="28" source="#stlcards" target="#happyflight" weight="231" />
+      <edge id="29" source="#withthat" target="#whatsup" weight="231" />
+      <edge id="30" source="#Blow" target="#Reds" weight="231" />
+      <edge id="31" source="#clever" target="#grammy" weight="231" />
+      <edge id="32" source="#Indians" target="#Cleveland" weight="231" />
+      <edge id="33" source="#cornerofmyeye" target="#staring" weight="231" />
+      <edge id="34" source="#cornerofmyeye" target="#notlooking" weight="231" />
+      <edge id="35" source="#nobel" target="#american" weight="231" />
+      <edge id="36" source="#nobel" target="#nomination" weight="231" />
+      <edge id="37" source="#extrasstealtheshow" target="#sag" weight="231" />
+      <edge id="38" source="#nomination" target="#american" weight="231" />
+      <edge id="39" source="#notlooking" target="#staring" weight="231" />
+    </edges>
+  </graph>
+</gexf>

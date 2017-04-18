@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#VOTE" label="#VOTE" />
+      <node id="#1970sChristmasSpecials" label="#1970sChristmasSpecials" />
+      <node id="#REPUBLICANCLOWNPOSSE" label="#REPUBLICANCLOWNPOSSE" />
+      <node id="#WHYIVOTE" label="#WHYIVOTE" />
+      <node id="#VEGAN" label="#VEGAN" />
+      <node id="#MAMASAYS" label="#MAMASAYS" />
+      <node id="#BRITISH" label="#BRITISH" />
+      <node id="#FF" label="#FF" />
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#OLDSKOOL" label="#OLDSKOOL" />
+      <node id="#TEAPARTY" label="#TEAPARTY" />
+      <node id="#HIPHOPGROCERIES" label="#HIPHOPGROCERIES" />
+      <node id="#ILLPUNCHUINTHEFACEIF" label="#ILLPUNCHUINTHEFACEIF" />
+      <node id="#OHWAITTHATSAREALTHING" label="#OHWAITTHATSAREALTHING" />
+      <node id="#celebrityhybrids" label="#celebrityhybrids" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#SORRY" label="#SORRY" />
+      <node id="#FAVEWORD" label="#FAVEWORD" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#VOTE" target="#WHYIVOTE" weight="1830" />
+      <edge id="1" source="#1970sChristmasSpecials" target="#OHWAITTHATSAREALTHING" weight="610" />
+      <edge id="2" source="#REPUBLICANCLOWNPOSSE" target="#GOPDebate" weight="610" />
+      <edge id="3" source="#VEGAN" target="#HIPHOPGROCERIES" weight="610" />
+      <edge id="4" source="#MAMASAYS" target="#ILLPUNCHUINTHEFACEIF" weight="610" />
+      <edge id="5" source="#BRITISH" target="#HIPHOPGROCERIES" weight="610" />
+      <edge id="6" source="#FF" target="#FF" weight="1220" />
+      <edge id="7" source="#OLDSKOOL" target="#HIPHOPGROCERIES" weight="610" />
+      <edge id="8" source="#TEAPARTY" target="#GOP" weight="610" />
+      <edge id="9" source="#celebrityhybrids" target="#SORRY" weight="610" />
+      <edge id="10" source="#FAVEWORD" target="#FAVEWORD" weight="1220" />
+    </edges>
+  </graph>
+</gexf>

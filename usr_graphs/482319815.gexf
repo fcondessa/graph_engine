@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#longtermcare" label="#longtermcare" />
+      <node id="#snf" label="#snf" />
+      <node id="#villaanglea" label="#villaanglea" />
+      <node id="#nhw" label="#nhw" />
+      <node id="#backpain" label="#backpain" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#staysafe" label="#staysafe" />
+      <node id="#seniorcare" label="#seniorcare" />
+      <node id="#embracingautism" label="#embracingautism" />
+      <node id="#funinthesun" label="#funinthesun" />
+      <node id="#pain" label="#pain" />
+      <node id="#collinslearning" label="#collinslearning" />
+      <node id="#villaangela" label="#villaangela" />
+      <node id="#health" label="#health" />
+      <node id="#wisewords" label="#wisewords" />
+      <node id="#growth" label="#growth" />
+      <node id="#springfever" label="#springfever" />
+      <node id="#SNF" label="#SNF" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#newandimproved" label="#newandimproved" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#longtermcare" target="#SNF" weight="112" />
+      <edge id="1" source="#longtermcare" target="#Columbus" weight="56" />
+      <edge id="2" source="#longtermcare" target="#villaangela" weight="224" />
+      <edge id="3" source="#snf" target="#villaangela" weight="56" />
+      <edge id="4" source="#villaanglea" target="#embracingautism" weight="56" />
+      <edge id="5" source="#nhw" target="#villaangela" weight="56" />
+      <edge id="6" source="#backpain" target="#pain" weight="56" />
+      <edge id="7" source="#Columbus" target="#SNF" weight="56" />
+      <edge id="8" source="#Columbus" target="#villaangela" weight="56" />
+      <edge id="9" source="#staysafe" target="#columbus" weight="56" />
+      <edge id="10" source="#staysafe" target="#villaangela" weight="56" />
+      <edge id="11" source="#seniorcare" target="#health" weight="56" />
+      <edge id="12" source="#funinthesun" target="#villaangela" weight="56" />
+      <edge id="13" source="#collinslearning" target="#villaangela" weight="56" />
+      <edge id="14" source="#villaangela" target="#columbus" weight="112" />
+      <edge id="15" source="#villaangela" target="#wisewords" weight="56" />
+      <edge id="16" source="#villaangela" target="#growth" weight="56" />
+      <edge id="17" source="#villaangela" target="#springfever" weight="56" />
+      <edge id="18" source="#villaangela" target="#SNF" weight="336" />
+      <edge id="19" source="#villaangela" target="#newandimproved" weight="56" />
+      <edge id="20" source="#growth" target="#SNF" weight="56" />
+      <edge id="21" source="#SNF" target="#columbus" weight="56" />
+    </edges>
+  </graph>
+</gexf>

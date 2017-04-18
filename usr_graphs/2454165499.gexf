@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#cider" label="#cider" />
+      <node id="#newport" label="#newport" />
+      <node id="#wormtown" label="#wormtown" />
+      <node id="#americanbrewed" label="#americanbrewed" />
+      <node id="#rhodeisland" label="#rhodeisland" />
+      <node id="#pawtucket" label="#pawtucket" />
+      <node id="#kickstarter" label="#kickstarter" />
+      <node id="#homessteadhardcider" label="#homessteadhardcider" />
+      <node id="#smithfield" label="#smithfield" />
+      <node id="#boston" label="#boston" />
+      <node id="#bostonbeer" label="#bostonbeer" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#hardcider" label="#hardcider" />
+      <node id="#quickhits" label="#quickhits" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#smallbusiness" label="#smallbusiness" />
+      <node id="#instabeer" label="#instabeer" />
+      <node id="#Kickstarter" label="#Kickstarter" />
+      <node id="#GoodBeerMonth" label="#GoodBeerMonth" />
+      <node id="#editing" label="#editing" />
+      <node id="#blog" label="#blog" />
+      <node id="#DrinkLocal" label="#DrinkLocal" />
+      <node id="#homebrew" label="#homebrew" />
+      <node id="#instagrizzle" label="#instagrizzle" />
+      <node id="#choices" label="#choices" />
+      <node id="#MAbeer" label="#MAbeer" />
+      <node id="#getsome" label="#getsome" />
+      <node id="#StoneBerlin" label="#StoneBerlin" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#ribeer" label="#ribeer" />
+      <node id="#FenwayWeather" label="#FenwayWeather" />
+      <node id="#support" label="#support" />
+      <node id="#newengland" label="#newengland" />
+      <node id="#localbrews" label="#localbrews" />
+      <node id="#foodtruck" label="#foodtruck" />
+      <node id="#naturalinfrontofacamera" label="#naturalinfrontofacamera" />
+      <node id="#behoppy" label="#behoppy" />
+      <node id="#filmmaking" label="#filmmaking" />
+      <node id="#drinklocal" label="#drinklocal" />
+      <node id="#PlymouthMA" label="#PlymouthMA" />
+      <node id="#beertravel" label="#beertravel" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#beer" label="#beer" />
+      <node id="#webseries" label="#webseries" />
+      <node id="#brewery" label="#brewery" />
+      <node id="#millonario" label="#millonario" />
+      <node id="#Boston" label="#Boston" />
+      <node id="#playoff" label="#playoff" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#cider" target="#homessteadhardcider" weight="318" />
+      <edge id="1" source="#cider" target="#hardcider" weight="318" />
+      <edge id="2" source="#newport" target="#ribeer" weight="318" />
+      <edge id="3" source="#newport" target="#craftbeer" weight="318" />
+      <edge id="4" source="#wormtown" target="#filmmaking" weight="318" />
+      <edge id="5" source="#wormtown" target="#brewery" weight="318" />
+      <edge id="6" source="#wormtown" target="#americanbrewed" weight="318" />
+      <edge id="7" source="#wormtown" target="#craftbeer" weight="318" />
+      <edge id="8" source="#americanbrewed" target="#filmmaking" weight="1272" />
+      <edge id="9" source="#americanbrewed" target="#Kickstarter" weight="318" />
+      <edge id="10" source="#americanbrewed" target="#drinklocal" weight="318" />
+      <edge id="11" source="#americanbrewed" target="#craftbeer" weight="2862" />
+      <edge id="12" source="#rhodeisland" target="#bostonbeer" weight="318" />
+      <edge id="13" source="#rhodeisland" target="#ribeer" weight="636" />
+      <edge id="14" source="#rhodeisland" target="#craftbeer" weight="954" />
+      <edge id="15" source="#rhodeisland" target="#kickstarter" weight="318" />
+      <edge id="16" source="#rhodeisland" target="#newengland" weight="318" />
+      <edge id="17" source="#rhodeisland" target="#boston" weight="318" />
+      <edge id="18" source="#pawtucket" target="#Halloween" weight="318" />
+      <edge id="19" source="#kickstarter" target="#filmmaking" weight="954" />
+      <edge id="20" source="#kickstarter" target="#bostonbeer" weight="318" />
+      <edge id="21" source="#kickstarter" target="#ribeer" weight="318" />
+      <edge id="22" source="#kickstarter" target="#craftbeer" weight="2544" />
+      <edge id="23" source="#kickstarter" target="#newengland" weight="318" />
+      <edge id="24" source="#kickstarter" target="#boston" weight="318" />
+      <edge id="25" source="#homessteadhardcider" target="#hardcider" weight="318" />
+      <edge id="26" source="#smithfield" target="#smallbusiness" weight="318" />
+      <edge id="27" source="#smithfield" target="#ribeer" weight="318" />
+      <edge id="28" source="#smithfield" target="#foodtruck" weight="318" />
+      <edge id="29" source="#boston" target="#bostonbeer" weight="318" />
+      <edge id="30" source="#boston" target="#ribeer" weight="318" />
+      <edge id="31" source="#boston" target="#FenwayWeather" weight="318" />
+      <edge id="32" source="#boston" target="#craftbeer" weight="954" />
+      <edge id="33" source="#boston" target="#newengland" weight="318" />
+      <edge id="34" source="#boston" target="#playoff" weight="318" />
+      <edge id="35" source="#bostonbeer" target="#ribeer" weight="318" />
+      <edge id="36" source="#bostonbeer" target="#craftbeer" weight="318" />
+      <edge id="37" source="#bostonbeer" target="#newengland" weight="318" />
+      <edge id="38" source="#quickhits" target="#craftbeer" weight="318" />
+      <edge id="39" source="#CraftBeer" target="#filmmaking" weight="318" />
+      <edge id="40" source="#CraftBeer" target="#Boston" weight="318" />
+      <edge id="41" source="#smallbusiness" target="#ribeer" weight="318" />
+      <edge id="42" source="#smallbusiness" target="#foodtruck" weight="318" />
+      <edge id="43" source="#instabeer" target="#instagrizzle" weight="318" />
+      <edge id="44" source="#instabeer" target="#craftbeer" weight="318" />
+      <edge id="45" source="#Kickstarter" target="#craftbeer" weight="954" />
+      <edge id="46" source="#Kickstarter" target="#homebrew" weight="318" />
+      <edge id="47" source="#GoodBeerMonth" target="#DrinkLocal" weight="318" />
+      <edge id="48" source="#editing" target="#craftbeer" weight="636" />
+      <edge id="49" source="#blog" target="#filmmaking" weight="318" />
+      <edge id="50" source="#blog" target="#craftbeer" weight="318" />
+      <edge id="51" source="#homebrew" target="#craftbeer" weight="318" />
+      <edge id="52" source="#instagrizzle" target="#craftbeer" weight="318" />
+      <edge id="53" source="#choices" target="#ribeer" weight="318" />
+      <edge id="54" source="#MAbeer" target="#brewery" weight="318" />
+      <edge id="55" source="#MAbeer" target="#PlymouthMA" weight="318" />
+      <edge id="56" source="#MAbeer" target="#naturalinfrontofacamera" weight="318" />
+      <edge id="57" source="#MAbeer" target="#beertravel" weight="318" />
+      <edge id="58" source="#MAbeer" target="#craftbeer" weight="318" />
+      <edge id="59" source="#getsome" target="#support" weight="318" />
+      <edge id="60" source="#getsome" target="#craftbeer" weight="318" />
+      <edge id="61" source="#StoneBerlin" target="#craftbeer" weight="318" />
+      <edge id="62" source="#TGIF" target="#craftbeer" weight="318" />
+      <edge id="63" source="#ribeer" target="#craftbeer" weight="954" />
+      <edge id="64" source="#ribeer" target="#newengland" weight="318" />
+      <edge id="65" source="#ribeer" target="#foodtruck" weight="318" />
+      <edge id="66" source="#FenwayWeather" target="#craftbeer" weight="318" />
+      <edge id="67" source="#support" target="#craftbeer" weight="318" />
+      <edge id="68" source="#newengland" target="#craftbeer" weight="318" />
+      <edge id="69" source="#localbrews" target="#craftbeer" weight="318" />
+      <edge id="70" source="#naturalinfrontofacamera" target="#brewery" weight="318" />
+      <edge id="71" source="#naturalinfrontofacamera" target="#PlymouthMA" weight="318" />
+      <edge id="72" source="#behoppy" target="#filmmaking" weight="318" />
+      <edge id="73" source="#behoppy" target="#craftbeer" weight="318" />
+      <edge id="74" source="#filmmaking" target="#craftbeer" weight="11130" />
+      <edge id="75" source="#filmmaking" target="#beer" weight="318" />
+      <edge id="76" source="#filmmaking" target="#webseries" weight="318" />
+      <edge id="77" source="#filmmaking" target="#brewery" weight="318" />
+      <edge id="78" source="#filmmaking" target="#drinklocal" weight="318" />
+      <edge id="79" source="#drinklocal" target="#craftbeer" weight="636" />
+      <edge id="80" source="#PlymouthMA" target="#brewery" weight="318" />
+      <edge id="81" source="#beertravel" target="#craftbeer" weight="318" />
+      <edge id="82" source="#craftbeer" target="#beer" weight="318" />
+      <edge id="83" source="#craftbeer" target="#webseries" weight="636" />
+      <edge id="84" source="#craftbeer" target="#brewery" weight="318" />
+      <edge id="85" source="#craftbeer" target="#millonario" weight="318" />
+      <edge id="86" source="#beer" target="#webseries" weight="318" />
+    </edges>
+  </graph>
+</gexf>

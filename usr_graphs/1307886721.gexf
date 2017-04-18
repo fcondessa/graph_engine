@@ -1,0 +1,771 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#HCOM" label="#HCOM" />
+      <node id="#unifiedGME" label="#unifiedGME" />
+      <node id="#performingartists" label="#performingartists" />
+      <node id="#primarycareresearch" label="#primarycareresearch" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#SGA" label="#SGA" />
+      <node id="#DIEC" label="#DIEC" />
+      <node id="#osteopathic" label="#osteopathic" />
+      <node id="#ImpactingNEO" label="#ImpactingNEO" />
+      <node id="#FallCon16" label="#FallCon16" />
+      <node id="#Research" label="#Research" />
+      <node id="#JAOAengage" label="#JAOAengage" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#military" label="#military" />
+      <node id="#book" label="#book" />
+      <node id="#FullHouse" label="#FullHouse" />
+      <node id="#copperladle" label="#copperladle" />
+      <node id="#studyabroad" label="#studyabroad" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#SouthPointe" label="#SouthPointe" />
+      <node id="#tobaccofree" label="#tobaccofree" />
+      <node id="#HealthPolicyDay" label="#HealthPolicyDay" />
+      <node id="#minions" label="#minions" />
+      <node id="#DublinEconDev" label="#DublinEconDev" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#OhioUBuilds" label="#OhioUBuilds" />
+      <node id="#teamOfChampions" label="#teamOfChampions" />
+      <node id="#osteopathicmedicine" label="#osteopathicmedicine" />
+      <node id="#COCA" label="#COCA" />
+      <node id="#qualityimprovement" label="#qualityimprovement" />
+      <node id="#2015DOCawards" label="#2015DOCawards" />
+      <node id="#familymed" label="#familymed" />
+      <node id="#hypertension" label="#hypertension" />
+      <node id="#ThrowBackThursday" label="#ThrowBackThursday" />
+      <node id="#ectopicpregnancy" label="#ectopicpregnancy" />
+      <node id="#AOAHOD" label="#AOAHOD" />
+      <node id="#osteopathy" label="#osteopathy" />
+      <node id="#DO" label="#DO" />
+      <node id="#Lorain" label="#Lorain" />
+      <node id="#onevoi" label="#onevoi" />
+      <node id="#notlittleadults" label="#notlittleadults" />
+      <node id="#animals" label="#animals" />
+      <node id="#dinosaur" label="#dinosaur" />
+      <node id="#OHIOgrad2016" label="#OHIOgrad2016" />
+      <node id="#convocation" label="#convocation" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#wickedawesome" label="#wickedawesome" />
+      <node id="#DeanOfDublin" label="#DeanOfDublin" />
+      <node id="#proudbobcat" label="#proudbobcat" />
+      <node id="#DODay2014" label="#DODay2014" />
+      <node id="#teaching" label="#teaching" />
+      <node id="#Pinknightmare" label="#Pinknightmare" />
+      <node id="#Photobomb" label="#Photobomb" />
+      <node id="#UnifiedGME" label="#UnifiedGME" />
+      <node id="#OU" label="#OU" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#freediapers" label="#freediapers" />
+      <node id="#pain" label="#pain" />
+      <node id="#HolidayCheer" label="#HolidayCheer" />
+      <node id="#WhyITeach" label="#WhyITeach" />
+      <node id="#DO_Day_2016" label="#DO_Day_2016" />
+      <node id="#qualitativeresearch" label="#qualitativeresearch" />
+      <node id="#hyperglycemia" label="#hyperglycemia" />
+      <node id="#medical" label="#medical" />
+      <node id="#resident" label="#resident" />
+      <node id="#CISeAL" label="#CISeAL" />
+      <node id="#futuredoctors" label="#futuredoctors" />
+      <node id="#research" label="#research" />
+      <node id="#DOCAwards2015" label="#DOCAwards2015" />
+      <node id="#AfterSamson" label="#AfterSamson" />
+      <node id="#migrants" label="#migrants" />
+      <node id="#mindbody" label="#mindbody" />
+      <node id="#proudbigsister" label="#proudbigsister" />
+      <node id="#AACOM2016" label="#AACOM2016" />
+      <node id="#DOChicago" label="#DOChicago" />
+      <node id="#FortyandForward" label="#FortyandForward" />
+      <node id="#ITDI" label="#ITDI" />
+      <node id="#realizeu" label="#realizeu" />
+      <node id="#PTSD" label="#PTSD" />
+      <node id="#empathy" label="#empathy" />
+      <node id="#classOf2020" label="#classOf2020" />
+      <node id="#medicalschool" label="#medicalschool" />
+      <node id="#FutureDO" label="#FutureDO" />
+      <node id="#opioid" label="#opioid" />
+      <node id="#BobcatPride" label="#BobcatPride" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#HigherEd" label="#HigherEd" />
+      <node id="#whitecoat" label="#whitecoat" />
+      <node id="#WorldAIDSDay2014" label="#WorldAIDSDay2014" />
+      <node id="#WorldMentalHeathDay" label="#WorldMentalHeathDay" />
+      <node id="#Save400" label="#Save400" />
+      <node id="#medschool" label="#medschool" />
+      <node id="#studentdoctors" label="#studentdoctors" />
+      <node id="#Antarctic" label="#Antarctic" />
+      <node id="#realizeU" label="#realizeU" />
+      <node id="#CFEVS" label="#CFEVS" />
+      <node id="#pediatrician" label="#pediatrician" />
+      <node id="#BloodDrive" label="#BloodDrive" />
+      <node id="#SamsonAcademy" label="#SamsonAcademy" />
+      <node id="#bedsideUS" label="#bedsideUS" />
+      <node id="#populationhealth" label="#populationhealth" />
+      <node id="#TreeCityUSA" label="#TreeCityUSA" />
+      <node id="#40andforward" label="#40andforward" />
+      <node id="#BlackWomenInMedicine" label="#BlackWomenInMedicine" />
+      <node id="#EducatoroftheYear" label="#EducatoroftheYear" />
+      <node id="#EarlyCollege" label="#EarlyCollege" />
+      <node id="#factcheck" label="#factcheck" />
+      <node id="#SOTC" label="#SOTC" />
+      <node id="#OMED2016" label="#OMED2016" />
+      <node id="#patient" label="#patient" />
+      <node id="#BroseAward" label="#BroseAward" />
+      <node id="#bedazzled" label="#bedazzled" />
+      <node id="#mentoring" label="#mentoring" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#athensmarathon2016" label="#athensmarathon2016" />
+      <node id="#ohiouniversity" label="#ohiouniversity" />
+      <node id="#40andForward" label="#40andForward" />
+      <node id="#OhioUniversity" label="#OhioUniversity" />
+      <node id="#singleGME" label="#singleGME" />
+      <node id="#roundswithrufus" label="#roundswithrufus" />
+      <node id="#OUHCOMBound" label="#OUHCOMBound" />
+      <node id="#icebucketchallenge" label="#icebucketchallenge" />
+      <node id="#OhioU14" label="#OhioU14" />
+      <node id="#OhioU15" label="#OhioU15" />
+      <node id="#CherryBlossoms" label="#CherryBlossoms" />
+      <node id="#SummerProgram2017" label="#SummerProgram2017" />
+      <node id="#ACOFP" label="#ACOFP" />
+      <node id="#OUohyeah" label="#OUohyeah" />
+      <node id="#medstudents" label="#medstudents" />
+      <node id="#OHIOGrad2016" label="#OHIOGrad2016" />
+      <node id="#MarysvilleHS" label="#MarysvilleHS" />
+      <node id="#RoundTwo" label="#RoundTwo" />
+      <node id="#DoctorsthatDO" label="#DoctorsthatDO" />
+      <node id="#DHEM" label="#DHEM" />
+      <node id="#nikeplus" label="#nikeplus" />
+      <node id="#OOA" label="#OOA" />
+      <node id="#Botshealthcare" label="#Botshealthcare" />
+      <node id="#coca" label="#coca" />
+      <node id="#ruralhealth" label="#ruralhealth" />
+      <node id="#OUHCOMbound" label="#OUHCOMbound" />
+      <node id="#classof2019" label="#classof2019" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#BelieveinWe" label="#BelieveinWe" />
+      <node id="#UME" label="#UME" />
+      <node id="#TrustBelt" label="#TrustBelt" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#HbA1c" label="#HbA1c" />
+      <node id="#healthequity" label="#healthequity" />
+      <node id="#PUCE" label="#PUCE" />
+      <node id="#PrincesMarinahospital" label="#PrincesMarinahospital" />
+      <node id="#CHSP" label="#CHSP" />
+      <node id="#insulin" label="#insulin" />
+      <node id="#mediainmedicine" label="#mediainmedicine" />
+      <node id="#tobacco" label="#tobacco" />
+      <node id="#CRM" label="#CRM" />
+      <node id="#ACGME" label="#ACGME" />
+      <node id="#ECConf14" label="#ECConf14" />
+      <node id="#COA" label="#COA" />
+      <node id="#vet" label="#vet" />
+      <node id="#PayItForward" label="#PayItForward" />
+      <node id="#CelebrateWomen" label="#CelebrateWomen" />
+      <node id="#culturalcompetency" label="#culturalcompetency" />
+      <node id="#BlackHistoryMonth" label="#BlackHistoryMonth" />
+      <node id="#Classof2019" label="#Classof2019" />
+      <node id="#NativeAmerican" label="#NativeAmerican" />
+      <node id="#studentdocs" label="#studentdocs" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#quitsmoking" label="#quitsmoking" />
+      <node id="#youGotThis" label="#youGotThis" />
+      <node id="#immigrants" label="#immigrants" />
+      <node id="#DublinCampus" label="#DublinCampus" />
+      <node id="#Gaborone" label="#Gaborone" />
+      <node id="#humanism" label="#humanism" />
+      <node id="#women" label="#women" />
+      <node id="#ProudDO" label="#ProudDO" />
+      <node id="#ExpeditionAP3" label="#ExpeditionAP3" />
+      <node id="#FacingAIDS" label="#FacingAIDS" />
+      <node id="#NOMWeek2016" label="#NOMWeek2016" />
+      <node id="#classof2020" label="#classof2020" />
+      <node id="#ohiomedicine" label="#ohiomedicine" />
+      <node id="#DUB" label="#DUB" />
+      <node id="#hcomgrad" label="#hcomgrad" />
+      <node id="#AACOM" label="#AACOM" />
+      <node id="#PreCom" label="#PreCom" />
+      <node id="#stfm15" label="#stfm15" />
+      <node id="#IceBucketChallenge" label="#IceBucketChallenge" />
+      <node id="#studentdoctor" label="#studentdoctor" />
+      <node id="#patientExperience" label="#patientExperience" />
+      <node id="#MedEd" label="#MedEd" />
+      <node id="#space" label="#space" />
+      <node id="#communityhospitals" label="#communityhospitals" />
+      <node id="#Diabetes" label="#Diabetes" />
+      <node id="#cfevs" label="#cfevs" />
+      <node id="#NOMWEEK2016" label="#NOMWEEK2016" />
+      <node id="#frozen" label="#frozen" />
+      <node id="#residency" label="#residency" />
+      <node id="#genetics" label="#genetics" />
+      <node id="#Classof2020" label="#Classof2020" />
+      <node id="#DayofSolidarity" label="#DayofSolidarity" />
+      <node id="#advocacy" label="#advocacy" />
+      <node id="#OIF" label="#OIF" />
+      <node id="#OUHCOrientation2015" label="#OUHCOrientation2015" />
+      <node id="#meetingTheMission" label="#meetingTheMission" />
+      <node id="#SanJuan" label="#SanJuan" />
+      <node id="#DOCali" label="#DOCali" />
+      <node id="#POCUS" label="#POCUS" />
+      <node id="#OsteopathicRecognition" label="#OsteopathicRecognition" />
+      <node id="#bleedgreen" label="#bleedgreen" />
+      <node id="#NASA" label="#NASA" />
+      <node id="#pigHeartsAreCool" label="#pigHeartsAreCool" />
+      <node id="#gobobcats" label="#gobobcats" />
+      <node id="#DOPride" label="#DOPride" />
+      <node id="#TruthBomb" label="#TruthBomb" />
+      <node id="#weloveprimarycare" label="#weloveprimarycare" />
+      <node id="#globalhealth" label="#globalhealth" />
+      <node id="#orthopedic" label="#orthopedic" />
+      <node id="#OUHCOM" label="#OUHCOM" />
+      <node id="#OMM" label="#OMM" />
+      <node id="#studentdebt" label="#studentdebt" />
+      <node id="#AthensRFTC" label="#AthensRFTC" />
+      <node id="#dreamTeam" label="#dreamTeam" />
+      <node id="#Medicine" label="#Medicine" />
+      <node id="#selfie" label="#selfie" />
+      <node id="#refugees" label="#refugees" />
+      <node id="#OhioOsteo" label="#OhioOsteo" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#faculty" label="#faculty" />
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#COSGP" label="#COSGP" />
+      <node id="#careleadshere" label="#careleadshere" />
+      <node id="#Bradley" label="#Bradley" />
+      <node id="#primary" label="#primary" />
+      <node id="#NewShirt" label="#NewShirt" />
+      <node id="#Osteopathic" label="#Osteopathic" />
+      <node id="#ALS" label="#ALS" />
+      <node id="#JustAddLearners" label="#JustAddLearners" />
+      <node id="#Yummyfood" label="#Yummyfood" />
+      <node id="#DOD" label="#DOD" />
+      <node id="#pregnant" label="#pregnant" />
+      <node id="#GME" label="#GME" />
+      <node id="#girlsrock" label="#girlsrock" />
+      <node id="#osteopthic" label="#osteopthic" />
+      <node id="#AthensCounty" label="#AthensCounty" />
+      <node id="#donewithdebt" label="#donewithdebt" />
+      <node id="#Suicide" label="#Suicide" />
+      <node id="#CareLeadsHere" label="#CareLeadsHere" />
+      <node id="#OhioU" label="#OhioU" />
+      <node id="#medstudent" label="#medstudent" />
+      <node id="#DODay2015" label="#DODay2015" />
+      <node id="#PowerBreakfast" label="#PowerBreakfast" />
+      <node id="#healthpolicy" label="#healthpolicy" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#PreCOM2015" label="#PreCOM2015" />
+      <node id="#DOSnowDay2015" label="#DOSnowDay2015" />
+      <node id="#RedCross" label="#RedCross" />
+      <node id="#HCOMgrad" label="#HCOMgrad" />
+      <node id="#veteransproject" label="#veteransproject" />
+      <node id="#biomedical" label="#biomedical" />
+      <node id="#futureDO" label="#futureDO" />
+      <node id="#IPCEA" label="#IPCEA" />
+      <node id="#health" label="#health" />
+      <node id="#Doctor" label="#Doctor" />
+      <node id="#quitnow" label="#quitnow" />
+      <node id="#ShaDOw" label="#ShaDOw" />
+      <node id="#Whitecoat" label="#Whitecoat" />
+      <node id="#OME25" label="#OME25" />
+      <node id="#moreCLE" label="#moreCLE" />
+      <node id="#ChangeMedEd" label="#ChangeMedEd" />
+      <node id="#disparities" label="#disparities" />
+      <node id="#osteopath" label="#osteopath" />
+      <node id="#hcomDublinDebut" label="#hcomDublinDebut" />
+      <node id="#ouglobalhealth" label="#ouglobalhealth" />
+      <node id="#OUHC2015" label="#OUHC2015" />
+      <node id="#JustAddStudents" label="#JustAddStudents" />
+      <node id="#OSTEOPATHIC" label="#OSTEOPATHIC" />
+      <node id="#NOMWeek" label="#NOMWeek" />
+      <node id="#AllCampusSuccess" label="#AllCampusSuccess" />
+      <node id="#ISS" label="#ISS" />
+      <node id="#primarycare" label="#primarycare" />
+      <node id="#hcomgrads" label="#hcomgrads" />
+      <node id="#COMDay16" label="#COMDay16" />
+      <node id="#ouhcom" label="#ouhcom" />
+      <node id="#HCOMPOP2016" label="#HCOMPOP2016" />
+      <node id="#dublinohio" label="#dublinohio" />
+      <node id="#OUGrad15" label="#OUGrad15" />
+      <node id="#FOAMed" label="#FOAMed" />
+      <node id="#medicine" label="#medicine" />
+      <node id="#med" label="#med" />
+      <node id="#DODAY2015" label="#DODAY2015" />
+      <node id="#ohiou15" label="#ohiou15" />
+      <node id="#teamwork" label="#teamwork" />
+      <node id="#financialaid" label="#financialaid" />
+      <node id="#veteran" label="#veteran" />
+      <node id="#PrimaryCare" label="#PrimaryCare" />
+      <node id="#ISurvivedDrLawsDriving" label="#ISurvivedDrLawsDriving" />
+      <node id="#classof2018" label="#classof2018" />
+      <node id="#sports" label="#sports" />
+      <node id="#students" label="#students" />
+      <node id="#healthpolicyday" label="#healthpolicyday" />
+      <node id="#emeraldcityquarter" label="#emeraldcityquarter" />
+      <node id="#OMED2015" label="#OMED2015" />
+      <node id="#Meded" label="#Meded" />
+      <node id="#Botswana" label="#Botswana" />
+      <node id="#whitecoatceremony" label="#whitecoatceremony" />
+      <node id="#meded" label="#meded" />
+      <node id="#NOSC" label="#NOSC" />
+      <node id="#Ecuador" label="#Ecuador" />
+      <node id="#Athens" label="#Athens" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#QualityImprovement" label="#QualityImprovement" />
+      <node id="#carelesdshere" label="#carelesdshere" />
+      <node id="#NIH" label="#NIH" />
+      <node id="#DOsDOitbest" label="#DOsDOitbest" />
+      <node id="#viewbook" label="#viewbook" />
+      <node id="#dublinishome" label="#dublinishome" />
+      <node id="#pediatrics" label="#pediatrics" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#HCOM" target="#OMM" weight="2425" />
+      <edge id="1" source="#unifiedGME" target="#osteopathic" weight="2425" />
+      <edge id="2" source="#unifiedGME" target="#AACOM" weight="4850" />
+      <edge id="3" source="#performingartists" target="#health" weight="2425" />
+      <edge id="4" source="#primarycareresearch" target="#JAOAengage" weight="7275" />
+      <edge id="5" source="#primarycareresearch" target="#ectopicpregnancy" weight="2425" />
+      <edge id="6" source="#Medicaid" target="#proudbobcat" weight="2425" />
+      <edge id="7" source="#SGA" target="#NOMWEEK2016" weight="2425" />
+      <edge id="8" source="#SGA" target="#BroseAward" weight="2425" />
+      <edge id="9" source="#SGA" target="#2015DOCawards" weight="2425" />
+      <edge id="10" source="#DIEC" target="#Dublin" weight="2425" />
+      <edge id="11" source="#osteopathic" target="#medstudent" weight="14550" />
+      <edge id="12" source="#osteopathic" target="#Classof2019" weight="2425" />
+      <edge id="13" source="#osteopathic" target="#medschool" weight="38800" />
+      <edge id="14" source="#osteopathic" target="#FOAMed" weight="2425" />
+      <edge id="15" source="#osteopathic" target="#hcomDublinDebut" weight="2425" />
+      <edge id="16" source="#osteopathic" target="#hcomgrad" weight="31525" />
+      <edge id="17" source="#osteopathic" target="#Whitecoat" weight="2425" />
+      <edge id="18" source="#osteopathic" target="#moreCLE" weight="4850" />
+      <edge id="19" source="#osteopathic" target="#meded" weight="2425" />
+      <edge id="20" source="#osteopathic" target="#healthcare" weight="2425" />
+      <edge id="21" source="#osteopathic" target="#singleGME" weight="2425" />
+      <edge id="22" source="#osteopathic" target="#medicine" weight="2425" />
+      <edge id="23" source="#osteopathic" target="#med" weight="2425" />
+      <edge id="24" source="#osteopathic" target="#OhioU14" weight="7275" />
+      <edge id="25" source="#osteopathic" target="#ohiou15" weight="2425" />
+      <edge id="26" source="#osteopathic" target="#financialaid" weight="2425" />
+      <edge id="27" source="#osteopathic" target="#Cleveland" weight="2425" />
+      <edge id="28" source="#osteopathic" target="#whitecoatceremony" weight="2425" />
+      <edge id="29" source="#osteopathic" target="#AACOM" weight="2425" />
+      <edge id="30" source="#osteopathic" target="#HCOMgrad" weight="2425" />
+      <edge id="31" source="#osteopathic" target="#patient" weight="2425" />
+      <edge id="32" source="#osteopathic" target="#OHIOGrad2016" weight="2425" />
+      <edge id="33" source="#osteopathic" target="#OhioOsteo" weight="2425" />
+      <edge id="34" source="#ImpactingNEO" target="#leadership" weight="2425" />
+      <edge id="35" source="#ImpactingNEO" target="#CLE" weight="2425" />
+      <edge id="36" source="#FallCon16" target="#medstudents" weight="2425" />
+      <edge id="37" source="#Research" target="#SummerProgram2017" weight="2425" />
+      <edge id="38" source="#Research" target="#ITDI" weight="2425" />
+      <edge id="39" source="#Research" target="#diabetes" weight="2425" />
+      <edge id="40" source="#Research" target="#Botshealthcare" weight="2425" />
+      <edge id="41" source="#Research" target="#Ecuador" weight="2425" />
+      <edge id="42" source="#Research" target="#qualitativeresearch" weight="2425" />
+      <edge id="43" source="#JAOAengage" target="#hypertension" weight="7275" />
+      <edge id="44" source="#leadership" target="#CLE" weight="2425" />
+      <edge id="45" source="#military" target="#hcomgrad" weight="4850" />
+      <edge id="46" source="#military" target="#OhioU15" weight="2425" />
+      <edge id="47" source="#book" target="#research" weight="2425" />
+      <edge id="48" source="#FullHouse" target="#Dublin" weight="2425" />
+      <edge id="49" source="#copperladle" target="#Dublin" weight="2425" />
+      <edge id="50" source="#studyabroad" target="#Botshealthcare" weight="2425" />
+      <edge id="51" source="#studyabroad" target="#PrincesMarinahospital" weight="2425" />
+      <edge id="52" source="#studyabroad" target="#Botswana" weight="2425" />
+      <edge id="53" source="#obesity" target="#genetics" weight="2425" />
+      <edge id="54" source="#obesity" target="#diabetes" weight="2425" />
+      <edge id="55" source="#SouthPointe" target="#minions" weight="2425" />
+      <edge id="56" source="#SouthPointe" target="#CLE" weight="2425" />
+      <edge id="57" source="#tobaccofree" target="#freediapers" weight="2425" />
+      <edge id="58" source="#tobaccofree" target="#quitnow" weight="2425" />
+      <edge id="59" source="#tobaccofree" target="#AthensCounty" weight="2425" />
+      <edge id="60" source="#HealthPolicyDay" target="#Dublin" weight="2425" />
+      <edge id="61" source="#HealthPolicyDay" target="#factcheck" weight="2425" />
+      <edge id="62" source="#minions" target="#CLE" weight="2425" />
+      <edge id="63" source="#DublinEconDev" target="#dublinishome" weight="2425" />
+      <edge id="64" source="#tbt" target="#FortyandForward" weight="2425" />
+      <edge id="65" source="#tbt" target="#40andForward" weight="2425" />
+      <edge id="66" source="#OhioUBuilds" target="#hcomgrad" weight="2425" />
+      <edge id="67" source="#teamOfChampions" target="#PreCom" weight="2425" />
+      <edge id="68" source="#teamOfChampions" target="#CLE" weight="2425" />
+      <edge id="69" source="#osteopathicmedicine" target="#medschool" weight="7275" />
+      <edge id="70" source="#osteopathicmedicine" target="#Ohio" weight="2425" />
+      <edge id="71" source="#osteopathicmedicine" target="#empathy" weight="2425" />
+      <edge id="72" source="#osteopathicmedicine" target="#moreCLE" weight="2425" />
+      <edge id="73" source="#osteopathicmedicine" target="#biomedical" weight="2425" />
+      <edge id="74" source="#COCA" target="#Meded" weight="4850" />
+      <edge id="75" source="#COCA" target="#COSGP" weight="4850" />
+      <edge id="76" source="#COCA" target="#COCA" weight="4850" />
+      <edge id="77" source="#qualityimprovement" target="#medstudents" weight="4850" />
+      <edge id="78" source="#2015DOCawards" target="#BroseAward" weight="2425" />
+      <edge id="79" source="#familymed" target="#ouhcom" weight="2425" />
+      <edge id="80" source="#familymed" target="#weloveprimarycare" weight="2425" />
+      <edge id="81" source="#ThrowBackThursday" target="#Osteopathic" weight="2425" />
+      <edge id="82" source="#AOAHOD" target="#mentalhealth" weight="2425" />
+      <edge id="83" source="#osteopathy" target="#medicine" weight="2425" />
+      <edge id="84" source="#DO" target="#NOMWeek2016" weight="2425" />
+      <edge id="85" source="#DO" target="#OUHCOM" weight="2425" />
+      <edge id="86" source="#DO" target="#futureDO" weight="2425" />
+      <edge id="87" source="#Lorain" target="#EarlyCollege" weight="2425" />
+      <edge id="88" source="#Lorain" target="#ECConf14" weight="2425" />
+      <edge id="89" source="#onevoi" target="#advocacy" weight="2425" />
+      <edge id="90" source="#onevoi" target="#Osteopathic" weight="2425" />
+      <edge id="91" source="#onevoi" target="#DODay2014" weight="2425" />
+      <edge id="92" source="#notlittleadults" target="#Dublin" weight="2425" />
+      <edge id="93" source="#animals" target="#Antarctic" weight="2425" />
+      <edge id="94" source="#dinosaur" target="#ExpeditionAP3" weight="2425" />
+      <edge id="95" source="#OHIOgrad2016" target="#CareLeadsHere" weight="2425" />
+      <edge id="96" source="#convocation" target="#medschool" weight="2425" />
+      <edge id="97" source="#innovation" target="#research" weight="2425" />
+      <edge id="98" source="#innovation" target="#Diabetes" weight="2425" />
+      <edge id="99" source="#wickedawesome" target="#CLE" weight="2425" />
+      <edge id="100" source="#DeanOfDublin" target="#UnifiedGME" weight="2425" />
+      <edge id="101" source="#DODay2014" target="#advocacy" weight="2425" />
+      <edge id="102" source="#DODay2014" target="#Osteopathic" weight="2425" />
+      <edge id="103" source="#teaching" target="#WhyITeach" weight="2425" />
+      <edge id="104" source="#teaching" target="#PayItForward" weight="2425" />
+      <edge id="105" source="#teaching" target="#Dublin" weight="2425" />
+      <edge id="106" source="#teaching" target="#POCUS" weight="2425" />
+      <edge id="107" source="#Pinknightmare" target="#Dublin" weight="2425" />
+      <edge id="108" source="#Photobomb" target="#osteopath" weight="2425" />
+      <edge id="109" source="#Photobomb" target="#medschool" weight="2425" />
+      <edge id="110" source="#Photobomb" target="#OhioU14" weight="2425" />
+      <edge id="111" source="#Photobomb" target="#hcomgrad" weight="2425" />
+      <edge id="112" source="#OU" target="#SummerProgram2017" weight="2425" />
+      <edge id="113" source="#OU" target="#MarysvilleHS" weight="2425" />
+      <edge id="114" source="#OU" target="#Dublin" weight="12125" />
+      <edge id="115" source="#OU" target="#Ecuador" weight="4850" />
+      <edge id="116" source="#Cleveland" target="#osteopath" weight="2425" />
+      <edge id="117" source="#Cleveland" target="#medschool" weight="9700" />
+      <edge id="118" source="#Cleveland" target="#careleadshere" weight="2425" />
+      <edge id="119" source="#Cleveland" target="#meded" weight="14550" />
+      <edge id="120" source="#Cleveland" target="#carelesdshere" weight="2425" />
+      <edge id="121" source="#Cleveland" target="#moreCLE" weight="29100" />
+      <edge id="122" source="#freediapers" target="#quitnow" weight="2425" />
+      <edge id="123" source="#freediapers" target="#AthensCounty" weight="2425" />
+      <edge id="124" source="#pain" target="#NIH" weight="2425" />
+      <edge id="125" source="#HolidayCheer" target="#Dublin" weight="2425" />
+      <edge id="126" source="#HolidayCheer" target="#teamwork" weight="2425" />
+      <edge id="127" source="#WhyITeach" target="#Dublin" weight="2425" />
+      <edge id="128" source="#WhyITeach" target="#PayItForward" weight="2425" />
+      <edge id="129" source="#WhyITeach" target="#POCUS" weight="2425" />
+      <edge id="130" source="#DO_Day_2016" target="#healthpolicy" weight="4850" />
+      <edge id="131" source="#qualitativeresearch" target="#Botshealthcare" weight="2425" />
+      <edge id="132" source="#hyperglycemia" target="#diabetes" weight="2425" />
+      <edge id="133" source="#medical" target="#vet" weight="2425" />
+      <edge id="134" source="#medical" target="#healthcare" weight="2425" />
+      <edge id="135" source="#resident" target="#MedEd" weight="2425" />
+      <edge id="136" source="#resident" target="#medstudent" weight="2425" />
+      <edge id="137" source="#CISeAL" target="#PUCE" weight="2425" />
+      <edge id="138" source="#futuredoctors" target="#whitecoat" weight="2425" />
+      <edge id="139" source="#futuredoctors" target="#Classof2019" weight="4850" />
+      <edge id="140" source="#futuredoctors" target="#studentdoctors" weight="4850" />
+      <edge id="141" source="#research" target="#diabetes" weight="7275" />
+      <edge id="142" source="#research" target="#health" weight="2425" />
+      <edge id="143" source="#research" target="#orthopedic" weight="2425" />
+      <edge id="144" source="#research" target="#Diabetes" weight="2425" />
+      <edge id="145" source="#DOCAwards2015" target="#Dublin" weight="41225" />
+      <edge id="146" source="#DOCAwards2015" target="#Athens" weight="2425" />
+      <edge id="147" source="#AfterSamson" target="#SamsonAcademy" weight="2425" />
+      <edge id="148" source="#AfterSamson" target="#CLE" weight="2425" />
+      <edge id="149" source="#migrants" target="#refugees" weight="2425" />
+      <edge id="150" source="#migrants" target="#immigrants" weight="2425" />
+      <edge id="151" source="#mindbody" target="#health" weight="2425" />
+      <edge id="152" source="#proudbigsister" target="#studentdoctor" weight="2425" />
+      <edge id="153" source="#proudbigsister" target="#whitecoatceremony" weight="4850" />
+      <edge id="154" source="#proudbigsister" target="#classof2018" weight="2425" />
+      <edge id="155" source="#AACOM2016" target="#MedEd" weight="7275" />
+      <edge id="156" source="#DOChicago" target="#NOSC" weight="2425" />
+      <edge id="157" source="#DOChicago" target="#OOA" weight="2425" />
+      <edge id="158" source="#DOChicago" target="#COSGP" weight="2425" />
+      <edge id="159" source="#ITDI" target="#SummerProgram2017" weight="2425" />
+      <edge id="160" source="#ITDI" target="#Ecuador" weight="4850" />
+      <edge id="161" source="#ITDI" target="#HCOMPOP2016" weight="2425" />
+      <edge id="162" source="#realizeu" target="#cfevs" weight="2425" />
+      <edge id="163" source="#PTSD" target="#veteran" weight="2425" />
+      <edge id="164" source="#PTSD" target="#OIF" weight="4850" />
+      <edge id="165" source="#PTSD" target="#mediainmedicine" weight="2425" />
+      <edge id="166" source="#PTSD" target="#veteransproject" weight="4850" />
+      <edge id="167" source="#classOf2020" target="#CareLeadsHere" weight="2425" />
+      <edge id="168" source="#classOf2020" target="#PreCom" weight="2425" />
+      <edge id="169" source="#medicalschool" target="#whitecoat" weight="2425" />
+      <edge id="170" source="#medicalschool" target="#mentoring" weight="4850" />
+      <edge id="171" source="#medicalschool" target="#studentdoctor" weight="4850" />
+      <edge id="172" source="#medicalschool" target="#Classof2020" weight="2425" />
+      <edge id="173" source="#FutureDO" target="#ProudDO" weight="2425" />
+      <edge id="174" source="#FutureDO" target="#NOMWEEK2016" weight="4850" />
+      <edge id="175" source="#FutureDO" target="#NOMWeek2016" weight="2425" />
+      <edge id="176" source="#FutureDO" target="#DoctorsthatDO" weight="2425" />
+      <edge id="177" source="#opioid" target="#ohio" weight="2425" />
+      <edge id="178" source="#BobcatPride" target="#medschool" weight="2425" />
+      <edge id="179" source="#CLE" target="#Dublin" weight="2425" />
+      <edge id="180" source="#CLE" target="#JustAddLearners" weight="2425" />
+      <edge id="181" source="#CLE" target="#OUHCOrientation2015" weight="2425" />
+      <edge id="182" source="#CLE" target="#CLE" weight="4850" />
+      <edge id="183" source="#CLE" target="#youGotThis" weight="2425" />
+      <edge id="184" source="#CLE" target="#PreCom" weight="9700" />
+      <edge id="185" source="#CLE" target="#ShaDOw" weight="2425" />
+      <edge id="186" source="#CLE" target="#meetingTheMission" weight="2425" />
+      <edge id="187" source="#CLE" target="#OME25" weight="2425" />
+      <edge id="188" source="#CLE" target="#meded" weight="2425" />
+      <edge id="189" source="#CLE" target="#AllCampusSuccess" weight="4850" />
+      <edge id="190" source="#CLE" target="#JustAddStudents" weight="2425" />
+      <edge id="191" source="#CLE" target="#40andForward" weight="2425" />
+      <edge id="192" source="#CLE" target="#OUHCOMBound" weight="2425" />
+      <edge id="193" source="#CLE" target="#pigHeartsAreCool" weight="2425" />
+      <edge id="194" source="#CLE" target="#Athens" weight="2425" />
+      <edge id="195" source="#CLE" target="#SamsonAcademy" weight="2425" />
+      <edge id="196" source="#CLE" target="#dreamTeam" weight="2425" />
+      <edge id="197" source="#HigherEd" target="#CRM" weight="2425" />
+      <edge id="198" source="#whitecoat" target="#medschool" weight="2425" />
+      <edge id="199" source="#whitecoat" target="#medstudent" weight="2425" />
+      <edge id="200" source="#whitecoat" target="#medstudents" weight="2425" />
+      <edge id="201" source="#whitecoat" target="#classof2020" weight="2425" />
+      <edge id="202" source="#whitecoat" target="#studentdoctors" weight="7275" />
+      <edge id="203" source="#whitecoat" target="#Classof2020" weight="4850" />
+      <edge id="204" source="#whitecoat" target="#studentdoctor" weight="2425" />
+      <edge id="205" source="#WorldAIDSDay2014" target="#FacingAIDS" weight="4850" />
+      <edge id="206" source="#WorldMentalHeathDay" target="#Save400" weight="2425" />
+      <edge id="207" source="#medschool" target="#Dublin" weight="2425" />
+      <edge id="208" source="#medschool" target="#globalhealth" weight="2425" />
+      <edge id="209" source="#medschool" target="#Classof2019" weight="4850" />
+      <edge id="210" source="#medschool" target="#studentdocs" weight="2425" />
+      <edge id="211" source="#medschool" target="#Ohio" weight="7275" />
+      <edge id="212" source="#medschool" target="#osteopath" weight="4850" />
+      <edge id="213" source="#medschool" target="#studentdoctors" weight="2425" />
+      <edge id="214" source="#medschool" target="#osteopthic" weight="2425" />
+      <edge id="215" source="#medschool" target="#biomedical" weight="2425" />
+      <edge id="216" source="#medschool" target="#hcomDublinDebut" weight="2425" />
+      <edge id="217" source="#medschool" target="#hcomgrad" weight="21825" />
+      <edge id="218" source="#medschool" target="#IceBucketChallenge" weight="2425" />
+      <edge id="219" source="#medschool" target="#moreCLE" weight="4850" />
+      <edge id="220" source="#medschool" target="#meded" weight="2425" />
+      <edge id="221" source="#medschool" target="#health" weight="2425" />
+      <edge id="222" source="#medschool" target="#PrimaryCare" weight="2425" />
+      <edge id="223" source="#medschool" target="#medicine" weight="2425" />
+      <edge id="224" source="#medschool" target="#OhioU14" weight="9700" />
+      <edge id="225" source="#medschool" target="#whitecoatceremony" weight="4850" />
+      <edge id="226" source="#medschool" target="#OUHCOM" weight="2425" />
+      <edge id="227" source="#medschool" target="#OUHCOMbound" weight="2425" />
+      <edge id="228" source="#medschool" target="#DOsDOitbest" weight="2425" />
+      <edge id="229" source="#medschool" target="#viewbook" weight="2425" />
+      <edge id="230" source="#medschool" target="#OhioOsteo" weight="2425" />
+      <edge id="231" source="#studentdoctors" target="#whitecoatceremony" weight="2425" />
+      <edge id="232" source="#studentdoctors" target="#Classof2020" weight="2425" />
+      <edge id="233" source="#studentdoctors" target="#Classof2019" weight="2425" />
+      <edge id="234" source="#realizeU" target="#CFEVS" weight="2425" />
+      <edge id="235" source="#pediatrician" target="#hcomgrad" weight="2425" />
+      <edge id="236" source="#BloodDrive" target="#RedCross" weight="2425" />
+      <edge id="237" source="#BloodDrive" target="#CareLeadsHere" weight="2425" />
+      <edge id="238" source="#bedsideUS" target="#DHEM" weight="2425" />
+      <edge id="239" source="#populationhealth" target="#Dublin" weight="2425" />
+      <edge id="240" source="#TreeCityUSA" target="#Dublin" weight="2425" />
+      <edge id="241" source="#40andforward" target="#CareLeadsHere" weight="2425" />
+      <edge id="242" source="#40andforward" target="#careleadshere" weight="7275" />
+      <edge id="243" source="#BlackWomenInMedicine" target="#Medicine" weight="2425" />
+      <edge id="244" source="#EducatoroftheYear" target="#SanJuan" weight="2425" />
+      <edge id="245" source="#EducatoroftheYear" target="#ACOFP" weight="2425" />
+      <edge id="246" source="#EducatoroftheYear" target="#IPCEA" weight="2425" />
+      <edge id="247" source="#EarlyCollege" target="#ECConf14" weight="2425" />
+      <edge id="248" source="#factcheck" target="#Dublin" weight="2425" />
+      <edge id="249" source="#SOTC" target="#Dublin" weight="2425" />
+      <edge id="250" source="#OMED2016" target="#DOCali" weight="2425" />
+      <edge id="251" source="#OMED2016" target="#CareLeadsHere" weight="7275" />
+      <edge id="252" source="#patient" target="#hcomgrad" weight="2425" />
+      <edge id="253" source="#bedazzled" target="#Dublin" weight="2425" />
+      <edge id="254" source="#TBT" target="#BlackHistoryMonth" weight="2425" />
+      <edge id="255" source="#TBT" target="#OhioU" weight="2425" />
+      <edge id="256" source="#athensmarathon2016" target="#CareLeadsHere" weight="2425" />
+      <edge id="257" source="#ohiouniversity" target="#meded" weight="2425" />
+      <edge id="258" source="#ohiouniversity" target="#coca" weight="2425" />
+      <edge id="259" source="#40andForward" target="#COSGP" weight="2425" />
+      <edge id="260" source="#40andForward" target="#CareLeadsHere" weight="4850" />
+      <edge id="261" source="#40andForward" target="#OMED2015" weight="7275" />
+      <edge id="262" source="#40andForward" target="#moreCLE" weight="4850" />
+      <edge id="263" source="#40andForward" target="#careleadshere" weight="19400" />
+      <edge id="264" source="#OhioUniversity" target="#NewShirt" weight="2425" />
+      <edge id="265" source="#OhioUniversity" target="#OUHCOM" weight="2425" />
+      <edge id="266" source="#OhioUniversity" target="#HCOMPOP2016" weight="2425" />
+      <edge id="267" source="#singleGME" target="#medstudent" weight="2425" />
+      <edge id="268" source="#singleGME" target="#AACOM" weight="2425" />
+      <edge id="269" source="#singleGME" target="#medstudents" weight="2425" />
+      <edge id="270" source="#roundswithrufus" target="#medstudent" weight="2425" />
+      <edge id="271" source="#OUHCOMBound" target="#culturalcompetency" weight="12125" />
+      <edge id="272" source="#icebucketchallenge" target="#ALS" weight="2425" />
+      <edge id="273" source="#OhioU14" target="#osteopath" weight="9700" />
+      <edge id="274" source="#OhioU14" target="#hcomgrad" weight="19400" />
+      <edge id="275" source="#OhioU14" target="#hcomgrads" weight="2425" />
+      <edge id="276" source="#OhioU15" target="#hcomgrad" weight="9700" />
+      <edge id="277" source="#OhioU15" target="#OUGrad15" weight="2425" />
+      <edge id="278" source="#OhioU15" target="#hcomgrads" weight="2425" />
+      <edge id="279" source="#CherryBlossoms" target="#Dublin" weight="2425" />
+      <edge id="280" source="#SummerProgram2017" target="#Ecuador" weight="4850" />
+      <edge id="281" source="#ACOFP" target="#IPCEA" weight="2425" />
+      <edge id="282" source="#ACOFP" target="#SanJuan" weight="2425" />
+      <edge id="283" source="#OUohyeah" target="#CareLeadsHere" weight="2425" />
+      <edge id="284" source="#medstudents" target="#communityhospitals" weight="7275" />
+      <edge id="285" source="#medstudents" target="#healthpolicy" weight="2425" />
+      <edge id="286" source="#medstudents" target="#residency" weight="2425" />
+      <edge id="287" source="#medstudents" target="#AACOM" weight="2425" />
+      <edge id="288" source="#medstudents" target="#ruralhealth" weight="2425" />
+      <edge id="289" source="#medstudents" target="#studentdebt" weight="2425" />
+      <edge id="290" source="#medstudents" target="#QualityImprovement" weight="2425" />
+      <edge id="291" source="#OHIOGrad2016" target="#primary" weight="2425" />
+      <edge id="292" source="#MarysvilleHS" target="#Dublin" weight="2425" />
+      <edge id="293" source="#RoundTwo" target="#Dublin" weight="2425" />
+      <edge id="294" source="#DoctorsthatDO" target="#NOMWeek2016" weight="2425" />
+      <edge id="295" source="#DoctorsthatDO" target="#ProudDO" weight="2425" />
+      <edge id="296" source="#nikeplus" target="#emeraldcityquarter" weight="2425" />
+      <edge id="297" source="#OOA" target="#COSGP" weight="2425" />
+      <edge id="298" source="#Botshealthcare" target="#Botswana" weight="12125" />
+      <edge id="299" source="#Botshealthcare" target="#PrincesMarinahospital" weight="2425" />
+      <edge id="300" source="#coca" target="#meded" weight="2425" />
+      <edge id="301" source="#ruralhealth" target="#residency" weight="2425" />
+      <edge id="302" source="#OUHCOMbound" target="#Ohio" weight="2425" />
+      <edge id="303" source="#classof2019" target="#studentdoctor" weight="2425" />
+      <edge id="304" source="#classof2019" target="#whitecoatceremony" weight="2425" />
+      <edge id="305" source="#BelieveinWe" target="#Dublin" weight="2425" />
+      <edge id="306" source="#UME" target="#meded" weight="2425" />
+      <edge id="307" source="#UME" target="#GME" weight="2425" />
+      <edge id="308" source="#TrustBelt" target="#Dublin" weight="2425" />
+      <edge id="309" source="#healthcare" target="#medicine" weight="2425" />
+      <edge id="310" source="#HbA1c" target="#diabetes" weight="9700" />
+      <edge id="311" source="#healthequity" target="#disparities" weight="2425" />
+      <edge id="312" source="#PrincesMarinahospital" target="#Botswana" weight="2425" />
+      <edge id="313" source="#CHSP" target="#Dublin" weight="2425" />
+      <edge id="314" source="#insulin" target="#NIH" weight="2425" />
+      <edge id="315" source="#insulin" target="#diabetes" weight="2425" />
+      <edge id="316" source="#mediainmedicine" target="#OIF" weight="2425" />
+      <edge id="317" source="#mediainmedicine" target="#veteransproject" weight="2425" />
+      <edge id="318" source="#tobacco" target="#women" weight="2425" />
+      <edge id="319" source="#ACGME" target="#OsteopathicRecognition" weight="2425" />
+      <edge id="320" source="#COA" target="#Dublin" weight="7275" />
+      <edge id="321" source="#PayItForward" target="#Dublin" weight="2425" />
+      <edge id="322" source="#PayItForward" target="#POCUS" weight="2425" />
+      <edge id="323" source="#CelebrateWomen" target="#Dublin" weight="2425" />
+      <edge id="324" source="#BlackHistoryMonth" target="#OhioU" weight="2425" />
+      <edge id="325" source="#Classof2019" target="#whitecoatceremony" weight="7275" />
+      <edge id="326" source="#Classof2019" target="#studentdoctor" weight="14550" />
+      <edge id="327" source="#Classof2019" target="#selfie" weight="2425" />
+      <edge id="328" source="#Classof2019" target="#studentdocs" weight="2425" />
+      <edge id="329" source="#NativeAmerican" target="#ACA" weight="2425" />
+      <edge id="330" source="#studentdocs" target="#whitecoatceremony" weight="2425" />
+      <edge id="331" source="#Ohio" target="#health" weight="2425" />
+      <edge id="332" source="#Ohio" target="#biomedical" weight="2425" />
+      <edge id="333" source="#Ohio" target="#medicine" weight="2425" />
+      <edge id="334" source="#quitsmoking" target="#pregnant" weight="12125" />
+      <edge id="335" source="#immigrants" target="#refugees" weight="2425" />
+      <edge id="336" source="#DublinCampus" target="#TruthBomb" weight="2425" />
+      <edge id="337" source="#Gaborone" target="#Botswana" weight="4850" />
+      <edge id="338" source="#humanism" target="#OUHCOM" weight="2425" />
+      <edge id="339" source="#ProudDO" target="#NOMWeek2016" weight="2425" />
+      <edge id="340" source="#FacingAIDS" target="#ouglobalhealth" weight="2425" />
+      <edge id="341" source="#NOMWeek2016" target="#OUHCOM" weight="2425" />
+      <edge id="342" source="#NOMWeek2016" target="#futureDO" weight="2425" />
+      <edge id="343" source="#classof2020" target="#medstudent" weight="2425" />
+      <edge id="344" source="#ohiomedicine" target="#gobobcats" weight="2425" />
+      <edge id="345" source="#DUB" target="#DOD" weight="2425" />
+      <edge id="346" source="#hcomgrad" target="#osteopath" weight="7275" />
+      <edge id="347" source="#hcomgrad" target="#osteopthic" weight="2425" />
+      <edge id="348" source="#hcomgrad" target="#med" weight="2425" />
+      <edge id="349" source="#hcomgrad" target="#ohiou15" weight="9700" />
+      <edge id="350" source="#hcomgrad" target="#pediatrics" weight="2425" />
+      <edge id="351" source="#AACOM" target="#Osteopathic" weight="2425" />
+      <edge id="352" source="#PreCom" target="#CareLeadsHere" weight="2425" />
+      <edge id="353" source="#stfm15" target="#stfm15" weight="4850" />
+      <edge id="354" source="#studentdoctor" target="#whitecoatceremony" weight="7275" />
+      <edge id="355" source="#studentdoctor" target="#Classof2020" weight="2425" />
+      <edge id="356" source="#studentdoctor" target="#classof2018" weight="2425" />
+      <edge id="357" source="#studentdoctor" target="#selfie" weight="2425" />
+      <edge id="358" source="#patientExperience" target="#OMED2015" weight="2425" />
+      <edge id="359" source="#MedEd" target="#ChangeMedEd" weight="2425" />
+      <edge id="360" source="#MedEd" target="#medstudent" weight="2425" />
+      <edge id="361" source="#MedEd" target="#primarycare" weight="2425" />
+      <edge id="362" source="#MedEd" target="#OUHCOM" weight="2425" />
+      <edge id="363" source="#MedEd" target="#dublinohio" weight="2425" />
+      <edge id="364" source="#space" target="#NASA" weight="2425" />
+      <edge id="365" source="#space" target="#ISS" weight="2425" />
+      <edge id="366" source="#frozen" target="#DODay2015" weight="2425" />
+      <edge id="367" source="#frozen" target="#DOSnowDay2015" weight="2425" />
+      <edge id="368" source="#genetics" target="#diabetes" weight="2425" />
+      <edge id="369" source="#DayofSolidarity" target="#Suicide" weight="2425" />
+      <edge id="370" source="#DayofSolidarity" target="#CareLeadsHere" weight="2425" />
+      <edge id="371" source="#advocacy" target="#Osteopathic" weight="2425" />
+      <edge id="372" source="#advocacy" target="#DODAY2015" weight="2425" />
+      <edge id="373" source="#OIF" target="#veteran" weight="2425" />
+      <edge id="374" source="#OIF" target="#veteransproject" weight="4850" />
+      <edge id="375" source="#OUHCOrientation2015" target="#Dublin" weight="2425" />
+      <edge id="376" source="#SanJuan" target="#IPCEA" weight="2425" />
+      <edge id="377" source="#POCUS" target="#Dublin" weight="2425" />
+      <edge id="378" source="#bleedgreen" target="#CareLeadsHere" weight="2425" />
+      <edge id="379" source="#NASA" target="#ISS" weight="2425" />
+      <edge id="380" source="#pigHeartsAreCool" target="#ShaDOw" weight="2425" />
+      <edge id="381" source="#DOPride" target="#Dublin" weight="2425" />
+      <edge id="382" source="#DOPride" target="#NOMWeek" weight="2425" />
+      <edge id="383" source="#weloveprimarycare" target="#ouhcom" weight="2425" />
+      <edge id="384" source="#OUHCOM" target="#Dublin" weight="2425" />
+      <edge id="385" source="#OUHCOM" target="#medstudent" weight="2425" />
+      <edge id="386" source="#OUHCOM" target="#CareLeadsHere" weight="4850" />
+      <edge id="387" source="#OUHCOM" target="#NewShirt" weight="2425" />
+      <edge id="388" source="#OUHCOM" target="#HCOMPOP2016" weight="4850" />
+      <edge id="389" source="#OUHCOM" target="#PrimaryCare" weight="2425" />
+      <edge id="390" source="#OUHCOM" target="#futureDO" weight="2425" />
+      <edge id="391" source="#OUHCOM" target="#DOsDOitbest" weight="2425" />
+      <edge id="392" source="#studentdebt" target="#meded" weight="2425" />
+      <edge id="393" source="#studentdebt" target="#COMDay16" weight="2425" />
+      <edge id="394" source="#AthensRFTC" target="#CareLeadsHere" weight="7275" />
+      <edge id="395" source="#Medicine" target="#Osteopathic" weight="2425" />
+      <edge id="396" source="#Medicine" target="#Doctor" weight="2425" />
+      <edge id="397" source="#OhioOsteo" target="#OSTEOPATHIC" weight="2425" />
+      <edge id="398" source="#OhioOsteo" target="#CareLeadsHere" weight="4850" />
+      <edge id="399" source="#ohio" target="#careleadshere" weight="4850" />
+      <edge id="400" source="#faculty" target="#students" weight="2425" />
+      <edge id="401" source="#Dublin" target="#PowerBreakfast" weight="2425" />
+      <edge id="402" source="#Dublin" target="#Yummyfood" weight="2425" />
+      <edge id="403" source="#Dublin" target="#Athens" weight="7275" />
+      <edge id="404" source="#Dublin" target="#girlsrock" weight="2425" />
+      <edge id="405" source="#Dublin" target="#Bradley" weight="2425" />
+      <edge id="406" source="#Dublin" target="#PreCOM2015" weight="2425" />
+      <edge id="407" source="#Dublin" target="#HCOMPOP2016" weight="2425" />
+      <edge id="408" source="#Dublin" target="#NOMWeek" weight="2425" />
+      <edge id="409" source="#Dublin" target="#PrimaryCare" weight="2425" />
+      <edge id="410" source="#Dublin" target="#DOsDOitbest" weight="2425" />
+      <edge id="411" source="#Dublin" target="#teamwork" weight="2425" />
+      <edge id="412" source="#Dublin" target="#CareLeadsHere" weight="9700" />
+      <edge id="413" source="#Dublin" target="#healthpolicyday" weight="4850" />
+      <edge id="414" source="#Dublin" target="#OMED2015" weight="2425" />
+      <edge id="415" source="#COSGP" target="#careleadshere" weight="2425" />
+      <edge id="416" source="#COSGP" target="#OMED2015" weight="2425" />
+      <edge id="417" source="#COSGP" target="#Meded" weight="2425" />
+      <edge id="418" source="#careleadshere" target="#OMED2015" weight="2425" />
+      <edge id="419" source="#careleadshere" target="#moreCLE" weight="12125" />
+      <edge id="420" source="#NewShirt" target="#HCOMPOP2016" weight="2425" />
+      <edge id="421" source="#Osteopathic" target="#Doctor" weight="2425" />
+      <edge id="422" source="#GME" target="#meded" weight="2425" />
+      <edge id="423" source="#AthensCounty" target="#quitnow" weight="2425" />
+      <edge id="424" source="#donewithdebt" target="#COMDay16" weight="2425" />
+      <edge id="425" source="#CareLeadsHere" target="#OUHC2015" weight="4850" />
+      <edge id="426" source="#CareLeadsHere" target="#ISurvivedDrLawsDriving" weight="2425" />
+      <edge id="427" source="#CareLeadsHere" target="#medstudent" weight="2425" />
+      <edge id="428" source="#CareLeadsHere" target="#RedCross" weight="2425" />
+      <edge id="429" source="#CareLeadsHere" target="#Athens" weight="2425" />
+      <edge id="430" source="#CareLeadsHere" target="#HCOMPOP2016" weight="2425" />
+      <edge id="431" source="#medstudent" target="#Whitecoat" weight="2425" />
+      <edge id="432" source="#DODay2015" target="#DOSnowDay2015" weight="7275" />
+      <edge id="433" source="#diabetes" target="#health" weight="2425" />
+      <edge id="434" source="#diabetes" target="#NIH" weight="2425" />
+      <edge id="435" source="#veteransproject" target="#veteran" weight="2425" />
+      <edge id="436" source="#health" target="#sports" weight="2425" />
+      <edge id="437" source="#moreCLE" target="#meded" weight="12125" />
+      <edge id="438" source="#moreCLE" target="#carelesdshere" weight="2425" />
+      <edge id="439" source="#osteopath" target="#meded" weight="2425" />
+      <edge id="440" source="#osteopath" target="#hcomgrads" weight="2425" />
+      <edge id="441" source="#primarycare" target="#dublinohio" weight="2425" />
+      <edge id="442" source="#COMDay16" target="#meded" weight="2425" />
+      <edge id="443" source="#PrimaryCare" target="#DOsDOitbest" weight="2425" />
+      <edge id="444" source="#classof2018" target="#whitecoatceremony" weight="2425" />
+      <edge id="445" source="#Botswana" target="#Botswana" weight="4850" />
+    </edges>
+  </graph>
+</gexf>

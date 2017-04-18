@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#natgas" label="#natgas" />
+      <node id="#gasoline" label="#gasoline" />
+      <node id="#energychoice" label="#energychoice" />
+      <node id="#GM" label="#GM" />
+      <node id="#cxc2015" label="#cxc2015" />
+      <node id="#ParisAttacks" label="#ParisAttacks" />
+      <node id="#GrainBelt" label="#GrainBelt" />
+      <node id="#dnd_friday" label="#dnd_friday" />
+      <node id="#OhioEnergyFuture" label="#OhioEnergyFuture" />
+      <node id="#LA" label="#LA" />
+      <node id="#NSX" label="#NSX" />
+      <node id="#PopeFrancis" label="#PopeFrancis" />
+      <node id="#propane" label="#propane" />
+      <node id="#Journos" label="#Journos" />
+      <node id="#advert" label="#advert" />
+      <node id="#fueleconomystandards" label="#fueleconomystandards" />
+      <node id="#NAIAS" label="#NAIAS" />
+      <node id="#WI" label="#WI" />
+      <node id="#SnowCountryForOldMen" label="#SnowCountryForOldMen" />
+      <node id="#LivingWithAComet" label="#LivingWithAComet" />
+      <node id="#starwars" label="#starwars" />
+      <node id="#reconnection" label="#reconnection" />
+      <node id="#NM" label="#NM" />
+      <node id="#Debt" label="#Debt" />
+      <node id="#IOWAvsNEB" label="#IOWAvsNEB" />
+      <node id="#comicart" label="#comicart" />
+      <node id="#utility" label="#utility" />
+      <node id="#grid" label="#grid" />
+      <node id="#mntwins" label="#mntwins" />
+      <node id="#WallStreet" label="#WallStreet" />
+      <node id="#ohel" label="#ohel" />
+      <node id="#UAW" label="#UAW" />
+      <node id="#SnowMommaFromTheTrain" label="#SnowMommaFromTheTrain" />
+      <node id="#Broker" label="#Broker" />
+      <node id="#demandresponse" label="#demandresponse" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#kipcamp" label="#kipcamp" />
+      <node id="#shale" label="#shale" />
+      <node id="#nsx" label="#nsx" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Utility" label="#Utility" />
+      <node id="#Packers" label="#Packers" />
+      <node id="#Wikipedia" label="#Wikipedia" />
+      <node id="#Chevrolet" label="#Chevrolet" />
+      <node id="#Bernie" label="#Bernie" />
+      <node id="#ChuckNorris" label="#ChuckNorris" />
+      <node id="#OH" label="#OH" />
+      <node id="#comics" label="#comics" />
+      <node id="#consumers" label="#consumers" />
+      <node id="#DPA" label="#DPA" />
+      <node id="#Stingray" label="#Stingray" />
+      <node id="#mnwild" label="#mnwild" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#MoebiusArt" label="#MoebiusArt" />
+      <node id="#art" label="#art" />
+      <node id="#cartoons" label="#cartoons" />
+      <node id="#charlottesville" label="#charlottesville" />
+      <node id="#Battelle" label="#Battelle" />
+      <node id="#Consumers" label="#Consumers" />
+      <node id="#Ford" label="#Ford" />
+      <node id="#Natgas" label="#Natgas" />
+      <node id="#easilyconfused" label="#easilyconfused" />
+      <node id="#dining" label="#dining" />
+      <node id="#debtfreecollege" label="#debtfreecollege" />
+      <node id="#ohgov" label="#ohgov" />
+      <node id="#genevamotorshow" label="#genevamotorshow" />
+      <node id="#AcuraNSXonTour" label="#AcuraNSXonTour" />
+      <node id="#renewableenergy" label="#renewableenergy" />
+      <node id="#dungeonmaster" label="#dungeonmaster" />
+      <node id="#BreakingNews" label="#BreakingNews" />
+      <node id="#fossilfuels" label="#fossilfuels" />
+      <node id="#truckers" label="#truckers" />
+      <node id="#iacaucus" label="#iacaucus" />
+      <node id="#fracking" label="#fracking" />
+      <node id="#BGSU" label="#BGSU" />
+      <node id="#TPL" label="#TPL" />
+      <node id="#letitthaw" label="#letitthaw" />
+      <node id="#Renewable" label="#Renewable" />
+      <node id="#ohapme2016" label="#ohapme2016" />
+      <node id="#PowerPlay" label="#PowerPlay" />
+      <node id="#PUCO" label="#PUCO" />
+      <node id="#sequester" label="#sequester" />
+      <node id="#nulearplant" label="#nulearplant" />
+      <node id="#EnergyFacts" label="#EnergyFacts" />
+      <node id="#pipelines" label="#pipelines" />
+      <node id="#MerrickGarland" label="#MerrickGarland" />
+      <node id="#y3comoetition" label="#y3comoetition" />
+      <node id="#twolves" label="#twolves" />
+      <node id="#BELIEVEGUY" label="#BELIEVEGUY" />
+      <node id="#Climate" label="#Climate" />
+      <node id="#tax" label="#tax" />
+      <node id="#Batman" label="#Batman" />
+      <node id="#verizon" label="#verizon" />
+      <node id="#ha" label="#ha" />
+      <node id="#followyourdreams" label="#followyourdreams" />
+      <node id="#farmers" label="#farmers" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#TDSBreakingNews" label="#TDSBreakingNews" />
+      <node id="#AR" label="#AR" />
+      <node id="#scifi" label="#scifi" />
+      <node id="#AOL" label="#AOL" />
+      <node id="#IL" label="#IL" />
+      <node id="#Solar" label="#Solar" />
+      <node id="#senate" label="#senate" />
+      <node id="#Disconnection" label="#Disconnection" />
+      <node id="#Pope" label="#Pope" />
+      <node id="#media" label="#media" />
+      <node id="#student" label="#student" />
+      <node id="#VA" label="#VA" />
+      <node id="#iavotes" label="#iavotes" />
+      <node id="#WeStandWithFrance" label="#WeStandWithFrance" />
+      <node id="#Koch" label="#Koch" />
+      <node id="#drifting" label="#drifting" />
+      <node id="#sb310" label="#sb310" />
+      <node id="#Moebius" label="#Moebius" />
+      <node id="#science" label="#science" />
+      <node id="#Marvel" label="#Marvel" />
+      <node id="#iasen" label="#iasen" />
+      <node id="#endthefreeze" label="#endthefreeze" />
+      <node id="#ISnowWhatYouDidLastWinter" label="#ISnowWhatYouDidLastWinter" />
+      <node id="#Coal" label="#Coal" />
+      <node id="#Taps" label="#Taps" />
+      <node id="#history" label="#history" />
+      <node id="#FOIA" label="#FOIA" />
+      <node id="#DonaldTrump" label="#DonaldTrump" />
+      <node id="#SC" label="#SC" />
+      <node id="#electric" label="#electric" />
+      <node id="#naturalgas" label="#naturalgas" />
+      <node id="#iapolitics" label="#iapolitics" />
+      <node id="#EIARenewableFacts" label="#EIARenewableFacts" />
+      <node id="#redistricting" label="#redistricting" />
+      <node id="#keepingitreal" label="#keepingitreal" />
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#MO" label="#MO" />
+      <node id="#news" label="#news" />
+      <node id="#wind" label="#wind" />
+      <node id="#windpower" label="#windpower" />
+      <node id="#199WATCH" label="#199WATCH" />
+      <node id="#BillFinger" label="#BillFinger" />
+      <node id="#Mayer" label="#Mayer" />
+      <node id="#iowa" label="#iowa" />
+      <node id="#energy" label="#energy" />
+      <node id="#MarcellusShale" label="#MarcellusShale" />
+      <node id="#Texas" label="#Texas" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#DoctorWho" label="#DoctorWho" />
+      <node id="#mpg" label="#mpg" />
+      <node id="#offshore" label="#offshore" />
+      <node id="#HillaryClinton" label="#HillaryClinton" />
+      <node id="#Vikings" label="#Vikings" />
+      <node id="#sneakpeek" label="#sneakpeek" />
+      <node id="#utilities" label="#utilities" />
+      <node id="#KS" label="#KS" />
+      <node id="#pulp" label="#pulp" />
+      <node id="#yeeeehaw" label="#yeeeehaw" />
+      <node id="#Shale" label="#Shale" />
+      <node id="#coal" label="#coal" />
+      <node id="#NatGas" label="#NatGas" />
+      <node id="#feedly" label="#feedly" />
+      <node id="#MnA" label="#MnA" />
+      <node id="#google" label="#google" />
+      <node id="#Diesel" label="#Diesel" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#StarTrek" label="#StarTrek" />
+      <node id="#NCES7" label="#NCES7" />
+      <node id="#MotownMetal" label="#MotownMetal" />
+      <node id="#diesel" label="#diesel" />
+      <node id="#RosettaLanding" label="#RosettaLanding" />
+      <node id="#cheapbeer" label="#cheapbeer" />
+      <node id="#oil" label="#oil" />
+      <node id="#electricity" label="#electricity" />
+      <node id="#EcoCAR3" label="#EcoCAR3" />
+      <node id="#superjoe" label="#superjoe" />
+      <node id="#renewable" label="#renewable" />
+      <node id="#OilPatch" label="#OilPatch" />
+      <node id="#US" label="#US" />
+      <node id="#artist" label="#artist" />
+      <node id="#power" label="#power" />
+      <node id="#Victorian" label="#Victorian" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#Election2016" label="#Election2016" />
+      <node id="#homeowners" label="#homeowners" />
+      <node id="#Election2014" label="#Election2014" />
+      <node id="#energyefficiency" label="#energyefficiency" />
+      <node id="#JoeKubert" label="#JoeKubert" />
+      <node id="#Appalachia" label="#Appalachia" />
+      <node id="#Hoosiers" label="#Hoosiers" />
+      <node id="#climate" label="#climate" />
+      <node id="#Oil" label="#Oil" />
+      <node id="#geology" label="#geology" />
+      <node id="#planet" label="#planet" />
+      <node id="#BobKane" label="#BobKane" />
+      <node id="#InstagramTakeover" label="#InstagramTakeover" />
+      <node id="#loslynx" label="#loslynx" />
+      <node id="#ActOnClimate" label="#ActOnClimate" />
+      <node id="#ohleg" label="#ohleg" />
+      <node id="#OSUEcoCAR" label="#OSUEcoCAR" />
+      <node id="#AL" label="#AL" />
+      <node id="#solar" label="#solar" />
+      <node id="#TCAF" label="#TCAF" />
+      <node id="#BacktoSchool" label="#BacktoSchool" />
+      <node id="#Tokyo" label="#Tokyo" />
+      <node id="#ecocar2" label="#ecocar2" />
+      <node id="#multiskilled" label="#multiskilled" />
+      <node id="#Utica" label="#Utica" />
+      <node id="#dnd" label="#dnd" />
+      <node id="#DLA" label="#DLA" />
+      <node id="#NYMEX" label="#NYMEX" />
+      <node id="#birthday" label="#birthday" />
+      <node id="#Wrangler" label="#Wrangler" />
+      <node id="#neverendingpasta" label="#neverendingpasta" />
+      <node id="#hipster" label="#hipster" />
+      <node id="#stpatricksday" label="#stpatricksday" />
+      <node id="#EPA" label="#EPA" />
+      <node id="#marchionne" label="#marchionne" />
+      <node id="#Until" label="#Until" />
+      <node id="#MS" label="#MS" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#natgas" target="#Coal" weight="3194" />
+      <edge id="1" source="#natgas" target="#fracking" weight="3194" />
+      <edge id="2" source="#natgas" target="#NYMEX" weight="3194" />
+      <edge id="3" source="#natgas" target="#Shale" weight="3194" />
+      <edge id="4" source="#natgas" target="#Utica" weight="3194" />
+      <edge id="5" source="#natgas" target="#energy" weight="3194" />
+      <edge id="6" source="#natgas" target="#diesel" weight="3194" />
+      <edge id="7" source="#natgas" target="#oil" weight="3194" />
+      <edge id="8" source="#natgas" target="#Battelle" weight="3194" />
+      <edge id="9" source="#natgas" target="#shale" weight="3194" />
+      <edge id="10" source="#natgas" target="#Ohio" weight="3194" />
+      <edge id="11" source="#gasoline" target="#fueleconomystandards" weight="3194" />
+      <edge id="12" source="#gasoline" target="#Energy" weight="3194" />
+      <edge id="13" source="#gasoline" target="#mpg" weight="3194" />
+      <edge id="14" source="#energychoice" target="#naturalgas" weight="3194" />
+      <edge id="15" source="#energychoice" target="#electric" weight="3194" />
+      <edge id="16" source="#GM" target="#Ford" weight="3194" />
+      <edge id="17" source="#GM" target="#neverendingpasta" weight="3194" />
+      <edge id="18" source="#cxc2015" target="#comics" weight="3194" />
+      <edge id="19" source="#ParisAttacks" target="#WeStandWithFrance" weight="3194" />
+      <edge id="20" source="#GrainBelt" target="#cheapbeer" weight="3194" />
+      <edge id="21" source="#dnd_friday" target="#dnd" weight="3194" />
+      <edge id="22" source="#dnd_friday" target="#dungeonmaster" weight="3194" />
+      <edge id="23" source="#dnd_friday" target="#DonaldTrump" weight="3194" />
+      <edge id="24" source="#OhioEnergyFuture" target="#wind" weight="3194" />
+      <edge id="25" source="#LA" target="#MO" weight="3194" />
+      <edge id="26" source="#LA" target="#199WATCH" weight="3194" />
+      <edge id="27" source="#LA" target="#AR" weight="3194" />
+      <edge id="28" source="#LA" target="#SC" weight="3194" />
+      <edge id="29" source="#LA" target="#KS" weight="3194" />
+      <edge id="30" source="#LA" target="#AL" weight="3194" />
+      <edge id="31" source="#LA" target="#NM" weight="3194" />
+      <edge id="32" source="#LA" target="#MS" weight="3194" />
+      <edge id="33" source="#LA" target="#VA" weight="3194" />
+      <edge id="34" source="#NSX" target="#AcuraNSXonTour" weight="3194" />
+      <edge id="35" source="#NSX" target="#NAIAS" weight="3194" />
+      <edge id="36" source="#PopeFrancis" target="#climate" weight="3194" />
+      <edge id="37" source="#PopeFrancis" target="#Pope" weight="3194" />
+      <edge id="38" source="#propane" target="#IL" weight="3194" />
+      <edge id="39" source="#Journos" target="#kipcamp" weight="3194" />
+      <edge id="40" source="#advert" target="#ChuckNorris" weight="3194" />
+      <edge id="41" source="#advert" target="#pulp" weight="3194" />
+      <edge id="42" source="#fueleconomystandards" target="#Energy" weight="3194" />
+      <edge id="43" source="#fueleconomystandards" target="#mpg" weight="3194" />
+      <edge id="44" source="#NAIAS" target="#nsx" weight="3194" />
+      <edge id="45" source="#WI" target="#Packers" weight="3194" />
+      <edge id="46" source="#WI" target="#DPA" weight="3194" />
+      <edge id="47" source="#WI" target="#DLA" weight="3194" />
+      <edge id="48" source="#SnowCountryForOldMen" target="#ISnowWhatYouDidLastWinter" weight="3194" />
+      <edge id="49" source="#SnowCountryForOldMen" target="#SnowMommaFromTheTrain" weight="3194" />
+      <edge id="50" source="#LivingWithAComet" target="#RosettaLanding" weight="3194" />
+      <edge id="51" source="#starwars" target="#hipster" weight="3194" />
+      <edge id="52" source="#reconnection" target="#Disconnection" weight="3194" />
+      <edge id="53" source="#NM" target="#MO" weight="3194" />
+      <edge id="54" source="#NM" target="#199WATCH" weight="3194" />
+      <edge id="55" source="#NM" target="#AR" weight="3194" />
+      <edge id="56" source="#NM" target="#SC" weight="3194" />
+      <edge id="57" source="#NM" target="#KS" weight="3194" />
+      <edge id="58" source="#NM" target="#AL" weight="3194" />
+      <edge id="59" source="#NM" target="#MS" weight="3194" />
+      <edge id="60" source="#NM" target="#VA" weight="3194" />
+      <edge id="61" source="#Debt" target="#OilPatch" weight="3194" />
+      <edge id="62" source="#IOWAvsNEB" target="#Until" weight="3194" />
+      <edge id="63" source="#comicart" target="#comics" weight="3194" />
+      <edge id="64" source="#comicart" target="#MoebiusArt" weight="3194" />
+      <edge id="65" source="#comicart" target="#art" weight="3194" />
+      <edge id="66" source="#comicart" target="#Moebius" weight="3194" />
+      <edge id="67" source="#utility" target="#BacktoSchool" weight="3194" />
+      <edge id="68" source="#utility" target="#Consumers" weight="3194" />
+      <edge id="69" source="#utility" target="#student" weight="3194" />
+      <edge id="70" source="#grid" target="#demandresponse" weight="3194" />
+      <edge id="71" source="#mntwins" target="#Vikings" weight="3194" />
+      <edge id="72" source="#mntwins" target="#superjoe" weight="3194" />
+      <edge id="73" source="#mntwins" target="#loslynx" weight="3194" />
+      <edge id="74" source="#mntwins" target="#mnwild" weight="3194" />
+      <edge id="75" source="#mntwins" target="#twolves" weight="3194" />
+      <edge id="76" source="#WallStreet" target="#Broker" weight="3194" />
+      <edge id="77" source="#WallStreet" target="#Victorian" weight="3194" />
+      <edge id="78" source="#WallStreet" target="#pulp" weight="3194" />
+      <edge id="79" source="#ohel" target="#ohgov" weight="3194" />
+      <edge id="80" source="#ohel" target="#Election2014" weight="3194" />
+      <edge id="81" source="#UAW" target="#Wrangler" weight="3194" />
+      <edge id="82" source="#SnowMommaFromTheTrain" target="#ISnowWhatYouDidLastWinter" weight="3194" />
+      <edge id="83" source="#Broker" target="#Victorian" weight="3194" />
+      <edge id="84" source="#Broker" target="#pulp" weight="3194" />
+      <edge id="85" source="#Energy" target="#mpg" weight="3194" />
+      <edge id="86" source="#shale" target="#fracking" weight="6388" />
+      <edge id="87" source="#Ohio" target="#renewable" weight="3194" />
+      <edge id="88" source="#Ohio" target="#Taps" weight="3194" />
+      <edge id="89" source="#Ohio" target="#Utica" weight="3194" />
+      <edge id="90" source="#Ohio" target="#solar" weight="3194" />
+      <edge id="91" source="#Ohio" target="#energy" weight="6388" />
+      <edge id="92" source="#Ohio" target="#windpower" weight="3194" />
+      <edge id="93" source="#Ohio" target="#oil" weight="3194" />
+      <edge id="94" source="#Ohio" target="#Shale" weight="6388" />
+      <edge id="95" source="#Ohio" target="#energyefficiency" weight="6388" />
+      <edge id="96" source="#Utility" target="#consumers" weight="3194" />
+      <edge id="97" source="#Utility" target="#energy" weight="3194" />
+      <edge id="98" source="#Packers" target="#DPA" weight="3194" />
+      <edge id="99" source="#Packers" target="#DLA" weight="3194" />
+      <edge id="100" source="#Wikipedia" target="#MerrickGarland" weight="3194" />
+      <edge id="101" source="#Wikipedia" target="#SCOTUS" weight="3194" />
+      <edge id="102" source="#Chevrolet" target="#Tokyo" weight="3194" />
+      <edge id="103" source="#Chevrolet" target="#MotownMetal" weight="3194" />
+      <edge id="104" source="#Bernie" target="#HillaryClinton" weight="3194" />
+      <edge id="105" source="#Bernie" target="#Election2016" weight="3194" />
+      <edge id="106" source="#Bernie" target="#debtfreecollege" weight="3194" />
+      <edge id="107" source="#ChuckNorris" target="#pulp" weight="3194" />
+      <edge id="108" source="#OH" target="#BreakingNews" weight="3194" />
+      <edge id="109" source="#OH" target="#GoBucks" weight="3194" />
+      <edge id="110" source="#comics" target="#birthday" weight="3194" />
+      <edge id="111" source="#comics" target="#MoebiusArt" weight="3194" />
+      <edge id="112" source="#comics" target="#art" weight="3194" />
+      <edge id="113" source="#comics" target="#cartoons" weight="3194" />
+      <edge id="114" source="#comics" target="#JoeKubert" weight="3194" />
+      <edge id="115" source="#comics" target="#artist" weight="3194" />
+      <edge id="116" source="#comics" target="#Moebius" weight="3194" />
+      <edge id="117" source="#consumers" target="#energy" weight="3194" />
+      <edge id="118" source="#DPA" target="#DLA" weight="3194" />
+      <edge id="119" source="#Stingray" target="#drifting" weight="3194" />
+      <edge id="120" source="#mnwild" target="#Vikings" weight="3194" />
+      <edge id="121" source="#mnwild" target="#loslynx" weight="3194" />
+      <edge id="122" source="#mnwild" target="#twolves" weight="3194" />
+      <edge id="123" source="#SCOTUS" target="#MerrickGarland" weight="3194" />
+      <edge id="124" source="#MoebiusArt" target="#art" weight="3194" />
+      <edge id="125" source="#MoebiusArt" target="#Moebius" weight="3194" />
+      <edge id="126" source="#art" target="#scifi" weight="12776" />
+      <edge id="127" source="#art" target="#Moebius" weight="3194" />
+      <edge id="128" source="#charlottesville" target="#feedly" weight="3194" />
+      <edge id="129" source="#Battelle" target="#diesel" weight="3194" />
+      <edge id="130" source="#Natgas" target="#pipelines" weight="3194" />
+      <edge id="131" source="#easilyconfused" target="#multiskilled" weight="3194" />
+      <edge id="132" source="#dining" target="#Appalachia" weight="3194" />
+      <edge id="133" source="#debtfreecollege" target="#HillaryClinton" weight="3194" />
+      <edge id="134" source="#debtfreecollege" target="#Election2016" weight="3194" />
+      <edge id="135" source="#ohgov" target="#Election2014" weight="3194" />
+      <edge id="136" source="#genevamotorshow" target="#marchionne" weight="3194" />
+      <edge id="137" source="#genevamotorshow" target="#Toledo" weight="3194" />
+      <edge id="138" source="#renewableenergy" target="#sb310" weight="3194" />
+      <edge id="139" source="#renewableenergy" target="#energyefficiency" weight="3194" />
+      <edge id="140" source="#renewableenergy" target="#ActOnClimate" weight="3194" />
+      <edge id="141" source="#dungeonmaster" target="#dnd" weight="3194" />
+      <edge id="142" source="#dungeonmaster" target="#DonaldTrump" weight="3194" />
+      <edge id="143" source="#BreakingNews" target="#ecocar2" weight="3194" />
+      <edge id="144" source="#BreakingNews" target="#y3comoetition" weight="3194" />
+      <edge id="145" source="#BreakingNews" target="#GoBucks" weight="6388" />
+      <edge id="146" source="#fossilfuels" target="#Koch" weight="3194" />
+      <edge id="147" source="#fossilfuels" target="#solar" weight="3194" />
+      <edge id="148" source="#fossilfuels" target="#Climate" weight="3194" />
+      <edge id="149" source="#fossilfuels" target="#senate" weight="3194" />
+      <edge id="150" source="#fossilfuels" target="#climate" weight="3194" />
+      <edge id="151" source="#fossilfuels" target="#fracking" weight="3194" />
+      <edge id="152" source="#truckers" target="#energy" weight="3194" />
+      <edge id="153" source="#truckers" target="#Diesel" weight="3194" />
+      <edge id="154" source="#iacaucus" target="#iapolitics" weight="3194" />
+      <edge id="155" source="#fracking" target="#solar" weight="3194" />
+      <edge id="156" source="#fracking" target="#energy" weight="15970" />
+      <edge id="157" source="#fracking" target="#climate" weight="3194" />
+      <edge id="158" source="#BGSU" target="#OhioState" weight="3194" />
+      <edge id="159" source="#TPL" target="#TCAF" weight="3194" />
+      <edge id="160" source="#letitthaw" target="#endthefreeze" weight="3194" />
+      <edge id="161" source="#Renewable" target="#US" weight="3194" />
+      <edge id="162" source="#Renewable" target="#electricity" weight="3194" />
+      <edge id="163" source="#Renewable" target="#energy" weight="3194" />
+      <edge id="164" source="#Renewable" target="#EnergyFacts" weight="3194" />
+      <edge id="165" source="#Renewable" target="#EIARenewableFacts" weight="3194" />
+      <edge id="166" source="#ohapme2016" target="#news" weight="3194" />
+      <edge id="167" source="#PowerPlay" target="#wind" weight="3194" />
+      <edge id="168" source="#PUCO" target="#nulearplant" weight="3194" />
+      <edge id="169" source="#sequester" target="#energy" weight="3194" />
+      <edge id="170" source="#EnergyFacts" target="#EIARenewableFacts" weight="3194" />
+      <edge id="171" source="#EnergyFacts" target="#electricity" weight="3194" />
+      <edge id="172" source="#EnergyFacts" target="#US" weight="3194" />
+      <edge id="173" source="#EnergyFacts" target="#energy" weight="3194" />
+      <edge id="174" source="#y3comoetition" target="#ecocar2" weight="3194" />
+      <edge id="175" source="#y3comoetition" target="#GoBucks" weight="3194" />
+      <edge id="176" source="#twolves" target="#Vikings" weight="3194" />
+      <edge id="177" source="#twolves" target="#loslynx" weight="3194" />
+      <edge id="178" source="#BELIEVEGUY" target="#BELIEVEGUY" weight="19164" />
+      <edge id="179" source="#Climate" target="#senate" weight="3194" />
+      <edge id="180" source="#Climate" target="#Koch" weight="3194" />
+      <edge id="181" source="#tax" target="#homeowners" weight="3194" />
+      <edge id="182" source="#tax" target="#farmers" weight="3194" />
+      <edge id="183" source="#Batman" target="#BillFinger" weight="3194" />
+      <edge id="184" source="#Batman" target="#BobKane" weight="3194" />
+      <edge id="185" source="#verizon" target="#google" weight="3194" />
+      <edge id="186" source="#verizon" target="#AOL" weight="3194" />
+      <edge id="187" source="#verizon" target="#Mayer" weight="3194" />
+      <edge id="188" source="#ha" target="#science" weight="3194" />
+      <edge id="189" source="#followyourdreams" target="#keepingitreal" weight="3194" />
+      <edge id="190" source="#farmers" target="#homeowners" weight="3194" />
+      <edge id="191" source="#GoBucks" target="#ecocar2" weight="3194" />
+      <edge id="192" source="#TDSBreakingNews" target="#yeeeehaw" weight="3194" />
+      <edge id="193" source="#AR" target="#MO" weight="3194" />
+      <edge id="194" source="#AR" target="#199WATCH" weight="3194" />
+      <edge id="195" source="#AR" target="#SC" weight="3194" />
+      <edge id="196" source="#AR" target="#KS" weight="3194" />
+      <edge id="197" source="#AR" target="#AL" weight="3194" />
+      <edge id="198" source="#AR" target="#MS" weight="3194" />
+      <edge id="199" source="#AR" target="#VA" weight="3194" />
+      <edge id="200" source="#AOL" target="#Mayer" weight="3194" />
+      <edge id="201" source="#AOL" target="#google" weight="3194" />
+      <edge id="202" source="#Solar" target="#utilities" weight="3194" />
+      <edge id="203" source="#senate" target="#Koch" weight="3194" />
+      <edge id="204" source="#Pope" target="#climate" weight="3194" />
+      <edge id="205" source="#media" target="#Hoosiers" weight="3194" />
+      <edge id="206" source="#student" target="#BacktoSchool" weight="3194" />
+      <edge id="207" source="#VA" target="#MO" weight="3194" />
+      <edge id="208" source="#VA" target="#199WATCH" weight="3194" />
+      <edge id="209" source="#VA" target="#SC" weight="3194" />
+      <edge id="210" source="#VA" target="#KS" weight="3194" />
+      <edge id="211" source="#VA" target="#AL" weight="3194" />
+      <edge id="212" source="#VA" target="#MS" weight="3194" />
+      <edge id="213" source="#iavotes" target="#iasen" weight="3194" />
+      <edge id="214" source="#sb310" target="#energyefficiency" weight="3194" />
+      <edge id="215" source="#science" target="#planet" weight="3194" />
+      <edge id="216" source="#science" target="#geology" weight="3194" />
+      <edge id="217" source="#Marvel" target="#DoctorWho" weight="3194" />
+      <edge id="218" source="#Taps" target="#energyefficiency" weight="3194" />
+      <edge id="219" source="#history" target="#iowa" weight="3194" />
+      <edge id="220" source="#FOIA" target="#EPA" weight="3194" />
+      <edge id="221" source="#DonaldTrump" target="#dnd" weight="3194" />
+      <edge id="222" source="#SC" target="#MO" weight="3194" />
+      <edge id="223" source="#SC" target="#199WATCH" weight="3194" />
+      <edge id="224" source="#SC" target="#KS" weight="3194" />
+      <edge id="225" source="#SC" target="#AL" weight="3194" />
+      <edge id="226" source="#SC" target="#MS" weight="3194" />
+      <edge id="227" source="#electric" target="#naturalgas" weight="3194" />
+      <edge id="228" source="#EIARenewableFacts" target="#electricity" weight="3194" />
+      <edge id="229" source="#EIARenewableFacts" target="#energy" weight="3194" />
+      <edge id="230" source="#EIARenewableFacts" target="#US" weight="3194" />
+      <edge id="231" source="#redistricting" target="#ohleg" weight="3194" />
+      <edge id="232" source="#Debates2016" target="#debatenight" weight="3194" />
+      <edge id="233" source="#MO" target="#199WATCH" weight="3194" />
+      <edge id="234" source="#MO" target="#KS" weight="3194" />
+      <edge id="235" source="#MO" target="#AL" weight="3194" />
+      <edge id="236" source="#MO" target="#MS" weight="3194" />
+      <edge id="237" source="#wind" target="#solar" weight="6388" />
+      <edge id="238" source="#wind" target="#offshore" weight="3194" />
+      <edge id="239" source="#wind" target="#Texas" weight="3194" />
+      <edge id="240" source="#199WATCH" target="#KS" weight="3194" />
+      <edge id="241" source="#199WATCH" target="#AL" weight="3194" />
+      <edge id="242" source="#199WATCH" target="#MS" weight="3194" />
+      <edge id="243" source="#BillFinger" target="#BobKane" weight="3194" />
+      <edge id="244" source="#Mayer" target="#google" weight="3194" />
+      <edge id="245" source="#energy" target="#US" weight="3194" />
+      <edge id="246" source="#energy" target="#Utica" weight="3194" />
+      <edge id="247" source="#energy" target="#solar" weight="3194" />
+      <edge id="248" source="#energy" target="#Shale" weight="3194" />
+      <edge id="249" source="#energy" target="#Diesel" weight="3194" />
+      <edge id="250" source="#energy" target="#oil" weight="3194" />
+      <edge id="251" source="#energy" target="#climate" weight="3194" />
+      <edge id="252" source="#energy" target="#Oil" weight="3194" />
+      <edge id="253" source="#energy" target="#electricity" weight="6388" />
+      <edge id="254" source="#energy" target="#energyefficiency" weight="3194" />
+      <edge id="255" source="#energy" target="#coal" weight="6388" />
+      <edge id="256" source="#MarcellusShale" target="#NatGas" weight="3194" />
+      <edge id="257" source="#MarcellusShale" target="#Oil" weight="3194" />
+      <edge id="258" source="#Toledo" target="#marchionne" weight="3194" />
+      <edge id="259" source="#DoctorWho" target="#stpatricksday" weight="3194" />
+      <edge id="260" source="#HillaryClinton" target="#Election2016" weight="3194" />
+      <edge id="261" source="#Vikings" target="#loslynx" weight="3194" />
+      <edge id="262" source="#sneakpeek" target="#OhioState" weight="3194" />
+      <edge id="263" source="#utilities" target="#solar" weight="3194" />
+      <edge id="264" source="#KS" target="#AL" weight="3194" />
+      <edge id="265" source="#KS" target="#MS" weight="3194" />
+      <edge id="266" source="#pulp" target="#Victorian" weight="3194" />
+      <edge id="267" source="#Shale" target="#oil" weight="3194" />
+      <edge id="268" source="#Shale" target="#Utica" weight="3194" />
+      <edge id="269" source="#NatGas" target="#Oil" weight="3194" />
+      <edge id="270" source="#MnA" target="#power" weight="3194" />
+      <edge id="271" source="#StarTrek" target="#InstagramTakeover" weight="3194" />
+      <edge id="272" source="#NCES7" target="#solar" weight="3194" />
+      <edge id="273" source="#MotownMetal" target="#Tokyo" weight="3194" />
+      <edge id="274" source="#oil" target="#Utica" weight="3194" />
+      <edge id="275" source="#electricity" target="#US" weight="3194" />
+      <edge id="276" source="#EcoCAR3" target="#OSUEcoCAR" weight="6388" />
+      <edge id="277" source="#renewable" target="#energyefficiency" weight="3194" />
+      <edge id="278" source="#artist" target="#JoeKubert" weight="3194" />
+      <edge id="279" source="#artist" target="#birthday" weight="3194" />
+      <edge id="280" source="#JoeKubert" target="#birthday" weight="3194" />
+      <edge id="281" source="#climate" target="#solar" weight="3194" />
+      <edge id="282" source="#geology" target="#planet" weight="3194" />
+      <edge id="283" source="#AL" target="#MS" weight="3194" />
+    </edges>
+  </graph>
+</gexf>

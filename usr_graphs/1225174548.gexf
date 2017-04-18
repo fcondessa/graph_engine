@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#feedly" label="#feedly" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#Portfolio" label="#Portfolio" />
+      <node id="#sbw2014" label="#sbw2014" />
+      <node id="#Plugin" label="#Plugin" />
+      <node id="#chasebasecamp" label="#chasebasecamp" />
+      <node id="#webdesign" label="#webdesign" />
+      <node id="#SassCSS" label="#SassCSS" />
+      <node id="#CMHStartupWeek" label="#CMHStartupWeek" />
+      <node id="#jQuery" label="#jQuery" />
+      <node id="#LessCSS" label="#LessCSS" />
+      <node id="#Plugins" label="#Plugins" />
+      <node id="#Magento" label="#Magento" />
+      <node id="#ChaseBasecamp" label="#ChaseBasecamp" />
+      <node id="#CMHstartupweek" label="#CMHstartupweek" />
+      <node id="#websitetemplates" label="#websitetemplates" />
+      <node id="#psdtemplates" label="#psdtemplates" />
+      <node id="#mustread" label="#mustread" />
+      <node id="#jqueryplugins" label="#jqueryplugins" />
+      <node id="#wordpress" label="#wordpress" />
+      <node id="#SquareSpace" label="#SquareSpace" />
+      <node id="#WordPress" label="#WordPress" />
+      <node id="#plugin" label="#plugin" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#feedly" target="#mustread" weight="54" />
+      <edge id="1" source="#SEO" target="#WordPress" weight="54" />
+      <edge id="2" source="#Portfolio" target="#WordPress" weight="54" />
+      <edge id="3" source="#Portfolio" target="#Plugins" weight="54" />
+      <edge id="4" source="#sbw2014" target="#webdesign" weight="54" />
+      <edge id="5" source="#Plugin" target="#Magento" weight="54" />
+      <edge id="6" source="#Plugin" target="#WordPress" weight="108" />
+      <edge id="7" source="#chasebasecamp" target="#CMHstartupweek" weight="54" />
+      <edge id="8" source="#SassCSS" target="#LessCSS" weight="54" />
+      <edge id="9" source="#CMHStartupWeek" target="#ChaseBasecamp" weight="108" />
+      <edge id="10" source="#jQuery" target="#jqueryplugins" weight="54" />
+      <edge id="11" source="#Plugins" target="#WordPress" weight="54" />
+      <edge id="12" source="#Magento" target="#WordPress" weight="162" />
+      <edge id="13" source="#websitetemplates" target="#psdtemplates" weight="54" />
+      <edge id="14" source="#wordpress" target="#plugin" weight="54" />
+      <edge id="15" source="#SquareSpace" target="#WordPress" weight="54" />
+      <edge id="16" source="#WordPress" target="#plugin" weight="54" />
+    </edges>
+  </graph>
+</gexf>

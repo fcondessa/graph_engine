@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ALSIceBucketChallenge" label="#ALSIceBucketChallenge" />
+      <node id="#healthreform" label="#healthreform" />
+      <node id="#usage" label="#usage" />
+      <node id="#grammar" label="#grammar" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#StrikeOutALS" label="#StrikeOutALS" />
+      <node id="#healthcare" label="#healthcare" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ALSIceBucketChallenge" target="#StrikeOutALS" weight="3207" />
+      <edge id="1" source="#healthreform" target="#healthcare" weight="3207" />
+      <edge id="2" source="#healthreform" target="#hcr" weight="3207" />
+      <edge id="3" source="#usage" target="#grammar" weight="3207" />
+      <edge id="4" source="#hcr" target="#healthcare" weight="3207" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ott" label="#ott" />
+      <node id="#Softphones" label="#Softphones" />
+      <node id="#HostedIpTelephony" label="#HostedIpTelephony" />
+      <node id="#partner" label="#partner" />
+      <node id="#bandwidth" label="#bandwidth" />
+      <node id="#iOS10" label="#iOS10" />
+      <node id="#Mobility" label="#Mobility" />
+      <node id="#unifiedcommunications" label="#unifiedcommunications" />
+      <node id="#Mitel" label="#Mitel" />
+      <node id="#Cloud" label="#Cloud" />
+      <node id="#businesstelephony" label="#businesstelephony" />
+      <node id="#hosted" label="#hosted" />
+      <node id="#services" label="#services" />
+      <node id="#VoiceOne" label="#VoiceOne" />
+      <node id="#PBX" label="#PBX" />
+      <node id="#BYOD" label="#BYOD" />
+      <node id="#ChannelPartners" label="#ChannelPartners" />
+      <node id="#UC" label="#UC" />
+      <node id="#RealTimeCommunications" label="#RealTimeCommunications" />
+      <node id="#Windows" label="#Windows" />
+      <node id="#voip" label="#voip" />
+      <node id="#thisisBIG" label="#thisisBIG" />
+      <node id="#UCaaS" label="#UCaaS" />
+      <node id="#phone" label="#phone" />
+      <node id="#WebRTC" label="#WebRTC" />
+      <node id="#iOS" label="#iOS" />
+      <node id="#VoIPtrends" label="#VoIPtrends" />
+      <node id="#NoJitter" label="#NoJitter" />
+      <node id="#cloudPBX" label="#cloudPBX" />
+      <node id="#SMB" label="#SMB" />
+      <node id="#mobility" label="#mobility" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#patient" label="#patient" />
+      <node id="#SMBs" label="#SMBs" />
+      <node id="#Analog" label="#Analog" />
+      <node id="#CPExpo" label="#CPExpo" />
+      <node id="#BusinessContinuity" label="#BusinessContinuity" />
+      <node id="#myteam" label="#myteam" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#enterprises" label="#enterprises" />
+      <node id="#UnifiedCommunications" label="#UnifiedCommunications" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#IPtelephony" label="#IPtelephony" />
+      <node id="#Mobile" label="#Mobile" />
+      <node id="#Zultys" label="#Zultys" />
+      <node id="#Vmail" label="#Vmail" />
+      <node id="#SDWAN" label="#SDWAN" />
+      <node id="#safetyfirst" label="#safetyfirst" />
+      <node id="#MobileVoIP" label="#MobileVoIP" />
+      <node id="#savings" label="#savings" />
+      <node id="#networking" label="#networking" />
+      <node id="#snow" label="#snow" />
+      <node id="#bptw" label="#bptw" />
+      <node id="#stayconnected" label="#stayconnected" />
+      <node id="#NetNeutrality" label="#NetNeutrality" />
+      <node id="#IP" label="#IP" />
+      <node id="#IT" label="#IT" />
+      <node id="#Internet" label="#Internet" />
+      <node id="#VoIPnews" label="#VoIPnews" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#blizzard" label="#blizzard" />
+      <node id="#technology" label="#technology" />
+      <node id="#cloudUC" label="#cloudUC" />
+      <node id="#ContactCenter" label="#ContactCenter" />
+      <node id="#CFBPlayoff" label="#CFBPlayoff" />
+      <node id="#culture" label="#culture" />
+      <node id="#telecom" label="#telecom" />
+      <node id="#cloudcomputing" label="#cloudcomputing" />
+      <node id="#gooffscript" label="#gooffscript" />
+      <node id="#LegacyPhone" label="#LegacyPhone" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#CustomerService" label="#CustomerService" />
+      <node id="#contactcenter" label="#contactcenter" />
+      <node id="#connected" label="#connected" />
+      <node id="#SDN" label="#SDN" />
+      <node id="#WAN" label="#WAN" />
+      <node id="#Telecom" label="#Telecom" />
+      <node id="#phones" label="#phones" />
+      <node id="#value" label="#value" />
+      <node id="#Accent" label="#Accent" />
+      <node id="#HybridCloud" label="#HybridCloud" />
+      <node id="#internet" label="#internet" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#ASCIISUCCESS" label="#ASCIISUCCESS" />
+      <node id="#SIP" label="#SIP" />
+      <node id="#HostedVoIP" label="#HostedVoIP" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#tech" label="#tech" />
+      <node id="#cologix" label="#cologix" />
+      <node id="#BeatBama" label="#BeatBama" />
+      <node id="#DeskPhones" label="#DeskPhones" />
+      <node id="#oktoberfest" label="#oktoberfest" />
+      <node id="#video" label="#video" />
+      <node id="#business" label="#business" />
+      <node id="#bleedingedge" label="#bleedingedge" />
+      <node id="#partners" label="#partners" />
+      <node id="#communication" label="#communication" />
+      <node id="#SLA" label="#SLA" />
+      <node id="#social" label="#social" />
+      <node id="#VoIP" label="#VoIP" />
+      <node id="#ucoms" label="#ucoms" />
+      <node id="#CologixConnect" label="#CologixConnect" />
+      <node id="#Vegas" label="#Vegas" />
+      <node id="#ShoreTel" label="#ShoreTel" />
+      <node id="#DisasterRecovery" label="#DisasterRecovery" />
+      <node id="#CloudVoIPTip" label="#CloudVoIPTip" />
+      <node id="#choices" label="#choices" />
+      <node id="#nofear" label="#nofear" />
+      <node id="#WinterStormJuno" label="#WinterStormJuno" />
+      <node id="#HybridPhones" label="#HybridPhones" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#networks" label="#networks" />
+      <node id="#ASCISuccess" label="#ASCISuccess" />
+      <node id="#smartphone" label="#smartphone" />
+      <node id="#MSP" label="#MSP" />
+      <node id="#software" label="#software" />
+      <node id="#flexibility" label="#flexibility" />
+      <node id="#cloud" label="#cloud" />
+      <node id="#growth" label="#growth" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ott" target="#VoIP" weight="164" />
+      <edge id="1" source="#ott" target="#Apple" weight="164" />
+      <edge id="2" source="#ott" target="#mobile" weight="164" />
+      <edge id="3" source="#ott" target="#iOS10" weight="164" />
+      <edge id="4" source="#Softphones" target="#cloud" weight="164" />
+      <edge id="5" source="#Softphones" target="#VoIP" weight="164" />
+      <edge id="6" source="#Softphones" target="#software" weight="164" />
+      <edge id="7" source="#HostedIpTelephony" target="#IPtelephony" weight="164" />
+      <edge id="8" source="#HostedIpTelephony" target="#VoIPnews" weight="164" />
+      <edge id="9" source="#partner" target="#VoIP" weight="164" />
+      <edge id="10" source="#partner" target="#MSP" weight="164" />
+      <edge id="11" source="#partner" target="#cloud" weight="164" />
+      <edge id="12" source="#bandwidth" target="#Internet" weight="164" />
+      <edge id="13" source="#bandwidth" target="#NetNeutrality" weight="164" />
+      <edge id="14" source="#iOS10" target="#voip" weight="164" />
+      <edge id="15" source="#iOS10" target="#VoIP" weight="164" />
+      <edge id="16" source="#iOS10" target="#Mobile" weight="164" />
+      <edge id="17" source="#iOS10" target="#cloud" weight="164" />
+      <edge id="18" source="#iOS10" target="#mobile" weight="164" />
+      <edge id="19" source="#iOS10" target="#Apple" weight="164" />
+      <edge id="20" source="#Mobility" target="#Cloud" weight="164" />
+      <edge id="21" source="#Mobility" target="#SIP" weight="164" />
+      <edge id="22" source="#Mobility" target="#HostedVoIP" weight="164" />
+      <edge id="23" source="#Mobility" target="#CustomerService" weight="164" />
+      <edge id="24" source="#Mobility" target="#ContactCenter" weight="164" />
+      <edge id="25" source="#unifiedcommunications" target="#voip" weight="328" />
+      <edge id="26" source="#unifiedcommunications" target="#cloud" weight="328" />
+      <edge id="27" source="#unifiedcommunications" target="#ShoreTel" weight="164" />
+      <edge id="28" source="#unifiedcommunications" target="#Mitel" weight="164" />
+      <edge id="29" source="#unifiedcommunications" target="#PBX" weight="164" />
+      <edge id="30" source="#Mitel" target="#voip" weight="164" />
+      <edge id="31" source="#Mitel" target="#ShoreTel" weight="328" />
+      <edge id="32" source="#Cloud" target="#Analog" weight="164" />
+      <edge id="33" source="#Cloud" target="#SIP" weight="164" />
+      <edge id="34" source="#Cloud" target="#LegacyPhone" weight="164" />
+      <edge id="35" source="#Cloud" target="#HybridPhones" weight="164" />
+      <edge id="36" source="#Cloud" target="#stayconnected" weight="164" />
+      <edge id="37" source="#Cloud" target="#cloudcomputing" weight="164" />
+      <edge id="38" source="#Cloud" target="#VoIP" weight="656" />
+      <edge id="39" source="#Cloud" target="#CustomerService" weight="164" />
+      <edge id="40" source="#Cloud" target="#blizzard" weight="164" />
+      <edge id="41" source="#Cloud" target="#ContactCenter" weight="164" />
+      <edge id="42" source="#Cloud" target="#CologixConnect" weight="164" />
+      <edge id="43" source="#Cloud" target="#UnifiedCommunications" weight="164" />
+      <edge id="44" source="#Cloud" target="#UC" weight="656" />
+      <edge id="45" source="#Cloud" target="#connected" weight="164" />
+      <edge id="46" source="#Cloud" target="#mobility" weight="164" />
+      <edge id="47" source="#Cloud" target="#HybridCloud" weight="164" />
+      <edge id="48" source="#Cloud" target="#HostedVoIP" weight="164" />
+      <edge id="49" source="#Cloud" target="#voip" weight="164" />
+      <edge id="50" source="#Cloud" target="#Mobile" weight="328" />
+      <edge id="51" source="#Cloud" target="#WinterStormJuno" weight="164" />
+      <edge id="52" source="#businesstelephony" target="#voip" weight="164" />
+      <edge id="53" source="#businesstelephony" target="#HostedVoIP" weight="164" />
+      <edge id="54" source="#hosted" target="#voip" weight="164" />
+      <edge id="55" source="#services" target="#VoIP" weight="164" />
+      <edge id="56" source="#services" target="#cloud" weight="164" />
+      <edge id="57" source="#services" target="#BYOD" weight="164" />
+      <edge id="58" source="#VoiceOne" target="#cloud" weight="164" />
+      <edge id="59" source="#VoiceOne" target="#voip" weight="164" />
+      <edge id="60" source="#VoiceOne" target="#UCaaS" weight="164" />
+      <edge id="61" source="#VoiceOne" target="#connected" weight="164" />
+      <edge id="62" source="#PBX" target="#cloud" weight="328" />
+      <edge id="63" source="#PBX" target="#VoIP" weight="164" />
+      <edge id="64" source="#BYOD" target="#technology" weight="164" />
+      <edge id="65" source="#BYOD" target="#enterprises" weight="328" />
+      <edge id="66" source="#BYOD" target="#VoIP" weight="328" />
+      <edge id="67" source="#BYOD" target="#smartphone" weight="164" />
+      <edge id="68" source="#BYOD" target="#BYOD" weight="328" />
+      <edge id="69" source="#BYOD" target="#cloud" weight="820" />
+      <edge id="70" source="#ChannelPartners" target="#VoIP" weight="164" />
+      <edge id="71" source="#ChannelPartners" target="#Vegas" weight="164" />
+      <edge id="72" source="#ChannelPartners" target="#cloud" weight="164" />
+      <edge id="73" source="#UC" target="#gooffscript" weight="164" />
+      <edge id="74" source="#UC" target="#LegacyPhone" weight="164" />
+      <edge id="75" source="#UC" target="#VoIP" weight="328" />
+      <edge id="76" source="#UC" target="#ASCISuccess" weight="164" />
+      <edge id="77" source="#UC" target="#cloudUC" weight="164" />
+      <edge id="78" source="#UC" target="#voip" weight="164" />
+      <edge id="79" source="#UC" target="#mobility" weight="164" />
+      <edge id="80" source="#UC" target="#UnifiedCommunications" weight="164" />
+      <edge id="81" source="#UC" target="#HybridCloud" weight="164" />
+      <edge id="82" source="#RealTimeCommunications" target="#voip" weight="164" />
+      <edge id="83" source="#RealTimeCommunications" target="#cloud" weight="164" />
+      <edge id="84" source="#RealTimeCommunications" target="#cloudPBX" weight="164" />
+      <edge id="85" source="#RealTimeCommunications" target="#WebRTC" weight="164" />
+      <edge id="86" source="#Windows" target="#UnifiedCommunications" weight="164" />
+      <edge id="87" source="#Windows" target="#bleedingedge" weight="164" />
+      <edge id="88" source="#voip" target="#DeskPhones" weight="164" />
+      <edge id="89" source="#voip" target="#BusinessContinuity" weight="164" />
+      <edge id="90" source="#voip" target="#phone" weight="164" />
+      <edge id="91" source="#voip" target="#video" weight="164" />
+      <edge id="92" source="#voip" target="#WebRTC" weight="164" />
+      <edge id="93" source="#voip" target="#communication" weight="164" />
+      <edge id="94" source="#voip" target="#DisasterRecovery" weight="164" />
+      <edge id="95" source="#voip" target="#Vmail" weight="164" />
+      <edge id="96" source="#voip" target="#mobility" weight="164" />
+      <edge id="97" source="#voip" target="#ucoms" weight="164" />
+      <edge id="98" source="#voip" target="#ShoreTel" weight="164" />
+      <edge id="99" source="#voip" target="#Mobile" weight="328" />
+      <edge id="100" source="#voip" target="#connected" weight="164" />
+      <edge id="101" source="#voip" target="#CloudVoIPTip" weight="164" />
+      <edge id="102" source="#voip" target="#HostedVoIP" weight="164" />
+      <edge id="103" source="#voip" target="#phones" weight="164" />
+      <edge id="104" source="#voip" target="#UCaaS" weight="164" />
+      <edge id="105" source="#voip" target="#healthcare" weight="164" />
+      <edge id="106" source="#voip" target="#Accent" weight="164" />
+      <edge id="107" source="#voip" target="#HybridCloud" weight="164" />
+      <edge id="108" source="#voip" target="#VoIPtrends" weight="164" />
+      <edge id="109" source="#voip" target="#snow" weight="164" />
+      <edge id="110" source="#voip" target="#cloudPBX" weight="164" />
+      <edge id="111" source="#voip" target="#UnifiedCommunications" weight="164" />
+      <edge id="112" source="#voip" target="#SMB" weight="328" />
+      <edge id="113" source="#voip" target="#safetyfirst" weight="164" />
+      <edge id="114" source="#voip" target="#tech" weight="164" />
+      <edge id="115" source="#voip" target="#cbus" weight="164" />
+      <edge id="116" source="#voip" target="#patient" weight="164" />
+      <edge id="117" source="#voip" target="#cloud" weight="1804" />
+      <edge id="118" source="#voip" target="#Internet" weight="164" />
+      <edge id="119" source="#voip" target="#mobile" weight="164" />
+      <edge id="120" source="#thisisBIG" target="#CPExpo" weight="164" />
+      <edge id="121" source="#UCaaS" target="#SIP" weight="164" />
+      <edge id="122" source="#UCaaS" target="#SDWAN" weight="164" />
+      <edge id="123" source="#UCaaS" target="#VoIP" weight="328" />
+      <edge id="124" source="#UCaaS" target="#ShoreTel" weight="164" />
+      <edge id="125" source="#UCaaS" target="#connected" weight="164" />
+      <edge id="126" source="#UCaaS" target="#phone" weight="164" />
+      <edge id="127" source="#UCaaS" target="#cloud" weight="328" />
+      <edge id="128" source="#phone" target="#SIP" weight="328" />
+      <edge id="129" source="#phone" target="#VoIP" weight="164" />
+      <edge id="130" source="#phone" target="#ShoreTel" weight="164" />
+      <edge id="131" source="#phone" target="#cloud" weight="328" />
+      <edge id="132" source="#phone" target="#telecom" weight="164" />
+      <edge id="133" source="#WebRTC" target="#cloud" weight="164" />
+      <edge id="134" source="#WebRTC" target="#cloudPBX" weight="164" />
+      <edge id="135" source="#WebRTC" target="#SIP" weight="164" />
+      <edge id="136" source="#iOS" target="#VoIP" weight="164" />
+      <edge id="137" source="#iOS" target="#cloud" weight="164" />
+      <edge id="138" source="#iOS" target="#SIP" weight="164" />
+      <edge id="139" source="#VoIPtrends" target="#CloudVoIPTip" weight="164" />
+      <edge id="140" source="#VoIPtrends" target="#Accent" weight="164" />
+      <edge id="141" source="#NoJitter" target="#ContactCenter" weight="164" />
+      <edge id="142" source="#NoJitter" target="#ucoms" weight="164" />
+      <edge id="143" source="#cloudPBX" target="#cloud" weight="164" />
+      <edge id="144" source="#SMB" target="#DeskPhones" weight="164" />
+      <edge id="145" source="#SMB" target="#Vmail" weight="164" />
+      <edge id="146" source="#SMB" target="#BusinessContinuity" weight="164" />
+      <edge id="147" source="#SMB" target="#Mobile" weight="164" />
+      <edge id="148" source="#SMB" target="#cloud" weight="328" />
+      <edge id="149" source="#SMB" target="#growth" weight="164" />
+      <edge id="150" source="#SMB" target="#DisasterRecovery" weight="164" />
+      <edge id="151" source="#mobility" target="#HybridCloud" weight="164" />
+      <edge id="152" source="#cbus" target="#cloud" weight="164" />
+      <edge id="153" source="#cbus" target="#tech" weight="164" />
+      <edge id="154" source="#patient" target="#cloud" weight="164" />
+      <edge id="155" source="#patient" target="#communication" weight="164" />
+      <edge id="156" source="#patient" target="#healthcare" weight="164" />
+      <edge id="157" source="#SMBs" target="#VoIP" weight="164" />
+      <edge id="158" source="#SMBs" target="#enterprises" weight="164" />
+      <edge id="159" source="#SMBs" target="#HostedVoIP" weight="164" />
+      <edge id="160" source="#Analog" target="#VoIP" weight="164" />
+      <edge id="161" source="#Analog" target="#HybridPhones" weight="164" />
+      <edge id="162" source="#BusinessContinuity" target="#cloud" weight="164" />
+      <edge id="163" source="#BusinessContinuity" target="#DisasterRecovery" weight="164" />
+      <edge id="164" source="#myteam" target="#bptw" weight="164" />
+      <edge id="165" source="#Facebook" target="#VoIP" weight="164" />
+      <edge id="166" source="#Facebook" target="#social" weight="164" />
+      <edge id="167" source="#enterprises" target="#cloud" weight="164" />
+      <edge id="168" source="#enterprises" target="#VoIP" weight="164" />
+      <edge id="169" source="#enterprises" target="#HostedVoIP" weight="164" />
+      <edge id="170" source="#UnifiedCommunications" target="#LegacyPhone" weight="164" />
+      <edge id="171" source="#UnifiedCommunications" target="#VoIP" weight="164" />
+      <edge id="172" source="#UnifiedCommunications" target="#cloud" weight="164" />
+      <edge id="173" source="#UnifiedCommunications" target="#bleedingedge" weight="164" />
+      <edge id="174" source="#UnifiedCommunications" target="#contactcenter" weight="164" />
+      <edge id="175" source="#ICYMI" target="#VoIP" weight="164" />
+      <edge id="176" source="#ICYMI" target="#cloud" weight="164" />
+      <edge id="177" source="#ICYMI" target="#MarchMadness" weight="164" />
+      <edge id="178" source="#IPtelephony" target="#VoIPnews" weight="164" />
+      <edge id="179" source="#Mobile" target="#DeskPhones" weight="164" />
+      <edge id="180" source="#Mobile" target="#Vmail" weight="164" />
+      <edge id="181" source="#Mobile" target="#cloud" weight="164" />
+      <edge id="182" source="#Mobile" target="#Mobile" weight="328" />
+      <edge id="183" source="#Zultys" target="#cloud" weight="164" />
+      <edge id="184" source="#Zultys" target="#VoIP" weight="164" />
+      <edge id="185" source="#Zultys" target="#ShoreTel" weight="164" />
+      <edge id="186" source="#Vmail" target="#DeskPhones" weight="164" />
+      <edge id="187" source="#SDWAN" target="#networks" weight="164" />
+      <edge id="188" source="#SDWAN" target="#VoIP" weight="656" />
+      <edge id="189" source="#SDWAN" target="#software" weight="164" />
+      <edge id="190" source="#SDWAN" target="#SDN" weight="164" />
+      <edge id="191" source="#SDWAN" target="#networking" weight="164" />
+      <edge id="192" source="#SDWAN" target="#cloud" weight="328" />
+      <edge id="193" source="#SDWAN" target="#WAN" weight="328" />
+      <edge id="194" source="#safetyfirst" target="#cloud" weight="164" />
+      <edge id="195" source="#safetyfirst" target="#Internet" weight="164" />
+      <edge id="196" source="#safetyfirst" target="#snow" weight="164" />
+      <edge id="197" source="#MobileVoIP" target="#VoIP" weight="164" />
+      <edge id="198" source="#MobileVoIP" target="#IP" weight="164" />
+      <edge id="199" source="#savings" target="#flexibility" weight="164" />
+      <edge id="200" source="#savings" target="#growth" weight="164" />
+      <edge id="201" source="#networking" target="#VoIP" weight="164" />
+      <edge id="202" source="#networking" target="#WAN" weight="164" />
+      <edge id="203" source="#networking" target="#software" weight="164" />
+      <edge id="204" source="#snow" target="#cloud" weight="164" />
+      <edge id="205" source="#snow" target="#Internet" weight="164" />
+      <edge id="206" source="#stayconnected" target="#VoIP" weight="164" />
+      <edge id="207" source="#stayconnected" target="#connected" weight="164" />
+      <edge id="208" source="#NetNeutrality" target="#Internet" weight="164" />
+      <edge id="209" source="#IP" target="#VoIP" weight="164" />
+      <edge id="210" source="#IP" target="#business" weight="164" />
+      <edge id="211" source="#IP" target="#phones" weight="164" />
+      <edge id="212" source="#IT" target="#VoIP" weight="164" />
+      <edge id="213" source="#IT" target="#cloud" weight="164" />
+      <edge id="214" source="#IT" target="#Telecom" weight="164" />
+      <edge id="215" source="#Internet" target="#cloud" weight="164" />
+      <edge id="216" source="#mobile" target="#VoIP" weight="164" />
+      <edge id="217" source="#mobile" target="#Apple" weight="164" />
+      <edge id="218" source="#blizzard" target="#WinterStormJuno" weight="164" />
+      <edge id="219" source="#technology" target="#cloud" weight="164" />
+      <edge id="220" source="#technology" target="#value" weight="164" />
+      <edge id="221" source="#technology" target="#culture" weight="164" />
+      <edge id="222" source="#cloudUC" target="#VoIP" weight="328" />
+      <edge id="223" source="#cloudUC" target="#cloud" weight="164" />
+      <edge id="224" source="#ContactCenter" target="#SIP" weight="164" />
+      <edge id="225" source="#ContactCenter" target="#ucoms" weight="164" />
+      <edge id="226" source="#ContactCenter" target="#CustomerService" weight="164" />
+      <edge id="227" source="#ContactCenter" target="#HostedVoIP" weight="164" />
+      <edge id="228" source="#CFBPlayoff" target="#BeatBama" weight="164" />
+      <edge id="229" source="#CFBPlayoff" target="#GoBucks" weight="164" />
+      <edge id="230" source="#culture" target="#value" weight="164" />
+      <edge id="231" source="#telecom" target="#cloud" weight="164" />
+      <edge id="232" source="#telecom" target="#SIP" weight="164" />
+      <edge id="233" source="#gooffscript" target="#ASCISuccess" weight="164" />
+      <edge id="234" source="#LegacyPhone" target="#VoIP" weight="164" />
+      <edge id="235" source="#MarchMadness" target="#VoIP" weight="328" />
+      <edge id="236" source="#MarchMadness" target="#cloud" weight="164" />
+      <edge id="237" source="#CustomerService" target="#HostedVoIP" weight="164" />
+      <edge id="238" source="#CustomerService" target="#SIP" weight="164" />
+      <edge id="239" source="#contactcenter" target="#cloud" weight="164" />
+      <edge id="240" source="#contactcenter" target="#VoIP" weight="164" />
+      <edge id="241" source="#connected" target="#VoIP" weight="164" />
+      <edge id="242" source="#connected" target="#cloud" weight="164" />
+      <edge id="243" source="#SDN" target="#cloud" weight="164" />
+      <edge id="244" source="#WAN" target="#VoIP" weight="328" />
+      <edge id="245" source="#WAN" target="#software" weight="164" />
+      <edge id="246" source="#Telecom" target="#cloud" weight="164" />
+      <edge id="247" source="#Telecom" target="#VoIP" weight="164" />
+      <edge id="248" source="#phones" target="#choices" weight="164" />
+      <edge id="249" source="#phones" target="#VoIP" weight="164" />
+      <edge id="250" source="#phones" target="#business" weight="164" />
+      <edge id="251" source="#phones" target="#cloud" weight="328" />
+      <edge id="252" source="#Accent" target="#cloud" weight="164" />
+      <edge id="253" source="#Accent" target="#VoIP" weight="164" />
+      <edge id="254" source="#Accent" target="#CloudVoIPTip" weight="164" />
+      <edge id="255" source="#internet" target="#cloud" weight="164" />
+      <edge id="256" source="#Apple" target="#VoIP" weight="164" />
+      <edge id="257" source="#ASCIISUCCESS" target="#cloud" weight="164" />
+      <edge id="258" source="#ASCIISUCCESS" target="#VoIP" weight="164" />
+      <edge id="259" source="#ASCIISUCCESS" target="#MSP" weight="328" />
+      <edge id="260" source="#SIP" target="#VoIP" weight="492" />
+      <edge id="261" source="#SIP" target="#ShoreTel" weight="164" />
+      <edge id="262" source="#SIP" target="#cloud" weight="492" />
+      <edge id="263" source="#SIP" target="#HostedVoIP" weight="164" />
+      <edge id="264" source="#HostedVoIP" target="#VoIP" weight="164" />
+      <edge id="265" source="#GoBucks" target="#BeatBama" weight="164" />
+      <edge id="266" source="#tech" target="#cloud" weight="164" />
+      <edge id="267" source="#cologix" target="#oktoberfest" weight="164" />
+      <edge id="268" source="#partners" target="#cloud" weight="164" />
+      <edge id="269" source="#partners" target="#VoIP" weight="164" />
+      <edge id="270" source="#communication" target="#cloud" weight="164" />
+      <edge id="271" source="#communication" target="#healthcare" weight="164" />
+      <edge id="272" source="#SLA" target="#cloud" weight="164" />
+      <edge id="273" source="#social" target="#VoIP" weight="164" />
+      <edge id="274" source="#VoIP" target="#HybridPhones" weight="164" />
+      <edge id="275" source="#VoIP" target="#VoIP" weight="328" />
+      <edge id="276" source="#VoIP" target="#Vegas" weight="164" />
+      <edge id="277" source="#VoIP" target="#ShoreTel" weight="328" />
+      <edge id="278" source="#VoIP" target="#choices" weight="164" />
+      <edge id="279" source="#VoIP" target="#networks" weight="164" />
+      <edge id="280" source="#VoIP" target="#MSP" weight="656" />
+      <edge id="281" source="#VoIP" target="#software" weight="328" />
+      <edge id="282" source="#VoIP" target="#smartphone" weight="164" />
+      <edge id="283" source="#VoIP" target="#cloud" weight="3444" />
+      <edge id="284" source="#Vegas" target="#cloud" weight="164" />
+      <edge id="285" source="#ShoreTel" target="#cloud" weight="328" />
+      <edge id="286" source="#DisasterRecovery" target="#cloud" weight="164" />
+      <edge id="287" source="#choices" target="#cloud" weight="164" />
+      <edge id="288" source="#nofear" target="#cloud" weight="164" />
+      <edge id="289" source="#healthcare" target="#cloud" weight="164" />
+      <edge id="290" source="#socialmedia" target="#cloud" weight="164" />
+      <edge id="291" source="#networks" target="#cloud" weight="164" />
+      <edge id="292" source="#smartphone" target="#cloud" weight="164" />
+      <edge id="293" source="#MSP" target="#cloud" weight="492" />
+      <edge id="294" source="#software" target="#cloud" weight="164" />
+      <edge id="295" source="#flexibility" target="#growth" weight="164" />
+      <edge id="296" source="#cloud" target="#growth" weight="164" />
+    </edges>
+  </graph>
+</gexf>

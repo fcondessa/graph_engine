@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DaveJefferson" label="#DaveJefferson" />
+      <node id="#torture" label="#torture" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#Duke" label="#Duke" />
+      <node id="#panda" label="#panda" />
+      <node id="#Oakland" label="#Oakland" />
+      <node id="#nicebeaver" label="#nicebeaver" />
+      <node id="#ChadSmith" label="#ChadSmith" />
+      <node id="#Athletics" label="#Athletics" />
+      <node id="#dfamolina" label="#dfamolina" />
+      <node id="#MikeySmith" label="#MikeySmith" />
+      <node id="#beatla" label="#beatla" />
+      <node id="#Cardinals" label="#Cardinals" />
+      <node id="#romosexual" label="#romosexual" />
+      <node id="#letposeycatch" label="#letposeycatch" />
+      <node id="#FlipFifth" label="#FlipFifth" />
+      <node id="#dodgers" label="#dodgers" />
+      <node id="#bikenyc" label="#bikenyc" />
+      <node id="#giants" label="#giants" />
+      <node id="#suckitdodgers" label="#suckitdodgers" />
+      <node id="#BeatLA" label="#BeatLA" />
+      <node id="#baylor" label="#baylor" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#UNC" label="#UNC" />
+      <node id="#Moneyball" label="#Moneyball" />
+      <node id="#lousyoffense" label="#lousyoffense" />
+      <node id="#zags" label="#zags" />
+      <node id="#boss" label="#boss" />
+      <node id="#thanksijusthaditstuffed" label="#thanksijusthaditstuffed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DaveJefferson" target="#MikeySmith" weight="955" />
+      <edge id="1" source="#DaveJefferson" target="#ChadSmith" weight="955" />
+      <edge id="2" source="#torture" target="#sfgiants" weight="955" />
+      <edge id="3" source="#sfgiants" target="#letposeycatch" weight="955" />
+      <edge id="4" source="#sfgiants" target="#lousyoffense" weight="955" />
+      <edge id="5" source="#sfgiants" target="#dfamolina" weight="955" />
+      <edge id="6" source="#sfgiants" target="#suckitdodgers" weight="955" />
+      <edge id="7" source="#sfgiants" target="#beatla" weight="955" />
+      <edge id="8" source="#sfgiants" target="#panda" weight="955" />
+      <edge id="9" source="#sfgiants" target="#boss" weight="955" />
+      <edge id="10" source="#Duke" target="#UNC" weight="955" />
+      <edge id="11" source="#Oakland" target="#Moneyball" weight="955" />
+      <edge id="12" source="#Oakland" target="#Athletics" weight="955" />
+      <edge id="13" source="#Oakland" target="#SFGiants" weight="955" />
+      <edge id="14" source="#nicebeaver" target="#thanksijusthaditstuffed" weight="955" />
+      <edge id="15" source="#ChadSmith" target="#MikeySmith" weight="955" />
+      <edge id="16" source="#Athletics" target="#Moneyball" weight="955" />
+      <edge id="17" source="#Athletics" target="#SFGiants" weight="955" />
+      <edge id="18" source="#dfamolina" target="#letposeycatch" weight="955" />
+      <edge id="19" source="#Cardinals" target="#SFGiants" weight="955" />
+      <edge id="20" source="#romosexual" target="#SFGiants" weight="955" />
+      <edge id="21" source="#FlipFifth" target="#bikenyc" weight="955" />
+      <edge id="22" source="#dodgers" target="#giants" weight="955" />
+      <edge id="23" source="#BeatLA" target="#SFGiants" weight="955" />
+      <edge id="24" source="#baylor" target="#zags" weight="955" />
+      <edge id="25" source="#SFGiants" target="#Moneyball" weight="955" />
+    </edges>
+  </graph>
+</gexf>

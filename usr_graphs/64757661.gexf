@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NBC" label="#NBC" />
+      <node id="#nyc" label="#nyc" />
+      <node id="#GoBigOrGoHome" label="#GoBigOrGoHome" />
+      <node id="#LOST" label="#LOST" />
+      <node id="#comix" label="#comix" />
+      <node id="#nbc" label="#nbc" />
+      <node id="#donald4spiderman" label="#donald4spiderman" />
+      <node id="#communitynbc" label="#communitynbc" />
+      <node id="#community" label="#community" />
+      <node id="#Community" label="#Community" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NBC" target="#community" weight="2532" />
+      <edge id="1" source="#NBC" target="#donald4spiderman" weight="422" />
+      <edge id="2" source="#NBC" target="#communitynbc" weight="422" />
+      <edge id="3" source="#NBC" target="#Community" weight="80602" />
+      <edge id="4" source="#nyc" target="#comix" weight="422" />
+      <edge id="5" source="#GoBigOrGoHome" target="#LOST" weight="422" />
+      <edge id="6" source="#nbc" target="#community" weight="5064" />
+      <edge id="7" source="#donald4spiderman" target="#Community" weight="422" />
+      <edge id="8" source="#communitynbc" target="#community" weight="844" />
+    </edges>
+  </graph>
+</gexf>

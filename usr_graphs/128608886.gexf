@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#JUNFIT" label="#JUNFIT" />
+      <node id="#RyanLochte" label="#RyanLochte" />
+      <node id="#FalconHeights" label="#FalconHeights" />
+      <node id="#LEGXIT" label="#LEGXIT" />
+      <node id="#KeithLamontScott" label="#KeithLamontScott" />
+      <node id="#WhereIsLavishReynolds" label="#WhereIsLavishReynolds" />
+      <node id="#talkpoverty" label="#talkpoverty" />
+      <node id="#HERO" label="#HERO" />
+      <node id="#PhilandoCastile" label="#PhilandoCastile" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#torridityisgeneral" label="#torridityisgeneral" />
+      <node id="#PhilandoCastille" label="#PhilandoCastille" />
+      <node id="#TerenceCrutcher" label="#TerenceCrutcher" />
+      <node id="#FF" label="#FF" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#sdoh" label="#sdoh" />
+      <node id="#AlstonSterling" label="#AlstonSterling" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#JUNFIT" target="#LEGXIT" weight="3245" />
+      <edge id="1" source="#RyanLochte" target="#BREAKING" weight="3245" />
+      <edge id="2" source="#FalconHeights" target="#PhilandoCastille" weight="3245" />
+      <edge id="3" source="#KeithLamontScott" target="#TerenceCrutcher" weight="3245" />
+      <edge id="4" source="#WhereIsLavishReynolds" target="#PhilandoCastile" weight="3245" />
+      <edge id="5" source="#talkpoverty" target="#sdoh" weight="3245" />
+      <edge id="6" source="#HERO" target="#FF" weight="3245" />
+      <edge id="7" source="#PhilandoCastile" target="#AlstonSterling" weight="3245" />
+      <edge id="8" source="#TBT" target="#torridityisgeneral" weight="3245" />
+    </edges>
+  </graph>
+</gexf>

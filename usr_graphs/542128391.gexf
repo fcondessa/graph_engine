@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#wex" label="#wex" />
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#smallbizsaturday" label="#smallbizsaturday" />
+      <node id="#capstylemag" label="#capstylemag" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#downtowncbus" label="#downtowncbus" />
+      <node id="#shopsmall" label="#shopsmall" />
+      <node id="#summerflea" label="#summerflea" />
+      <node id="#socolumbus" label="#socolumbus" />
+      <node id="#fall" label="#fall" />
+      <node id="#shop614" label="#shop614" />
+      <node id="#Fall" label="#Fall" />
+      <node id="#columbusfurniturerevival" label="#columbusfurniturerevival" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#cfr" label="#cfr" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#wex" target="#socolumbus" weight="630" />
+      <edge id="1" source="#wex" target="#asseenincolumbus" weight="630" />
+      <edge id="2" source="#shoplocal" target="#columbusfurniturerevival" weight="630" />
+      <edge id="3" source="#smallbizsaturday" target="#socolumbus" weight="630" />
+      <edge id="4" source="#smallbizsaturday" target="#columbusfurniturerevival" weight="630" />
+      <edge id="5" source="#smallbizsaturday" target="#cfr" weight="630" />
+      <edge id="6" source="#capstylemag" target="#socolumbus" weight="630" />
+      <edge id="7" source="#capstylemag" target="#Fall" weight="630" />
+      <edge id="8" source="#capstylemag" target="#columbusfurniturerevival" weight="630" />
+      <edge id="9" source="#capstylemag" target="#asseenincolumbus" weight="630" />
+      <edge id="10" source="#capstylemag" target="#cfr" weight="630" />
+      <edge id="11" source="#asseenincolumbus" target="#Fall" weight="630" />
+      <edge id="12" source="#asseenincolumbus" target="#socolumbus" weight="3780" />
+      <edge id="13" source="#asseenincolumbus" target="#fall" weight="630" />
+      <edge id="14" source="#asseenincolumbus" target="#shop614" weight="630" />
+      <edge id="15" source="#asseenincolumbus" target="#columbusfurniturerevival" weight="3780" />
+      <edge id="16" source="#asseenincolumbus" target="#cfr" weight="3780" />
+      <edge id="17" source="#downtowncbus" target="#socolumbus" weight="630" />
+      <edge id="18" source="#downtowncbus" target="#columbusfurniturerevival" weight="1260" />
+      <edge id="19" source="#downtowncbus" target="#cfr" weight="630" />
+      <edge id="20" source="#downtowncbus" target="#shopsmall" weight="630" />
+      <edge id="21" source="#shopsmall" target="#socolumbus" weight="630" />
+      <edge id="22" source="#shopsmall" target="#columbusfurniturerevival" weight="630" />
+      <edge id="23" source="#summerflea" target="#columbusfurniturerevival" weight="630" />
+      <edge id="24" source="#socolumbus" target="#fall" weight="630" />
+      <edge id="25" source="#socolumbus" target="#shop614" weight="630" />
+      <edge id="26" source="#socolumbus" target="#Fall" weight="630" />
+      <edge id="27" source="#socolumbus" target="#columbusfurniturerevival" weight="8190" />
+      <edge id="28" source="#socolumbus" target="#lifeincbus" weight="630" />
+      <edge id="29" source="#socolumbus" target="#cfr" weight="5670" />
+      <edge id="30" source="#fall" target="#columbusfurniturerevival" weight="630" />
+      <edge id="31" source="#fall" target="#cfr" weight="630" />
+      <edge id="32" source="#shop614" target="#columbusfurniturerevival" weight="630" />
+      <edge id="33" source="#shop614" target="#cfr" weight="630" />
+      <edge id="34" source="#Fall" target="#columbusfurniturerevival" weight="630" />
+      <edge id="35" source="#Fall" target="#cfr" weight="630" />
+      <edge id="36" source="#columbusfurniturerevival" target="#lifeincbus" weight="630" />
+      <edge id="37" source="#columbusfurniturerevival" target="#cfr" weight="9450" />
+    </edges>
+  </graph>
+</gexf>

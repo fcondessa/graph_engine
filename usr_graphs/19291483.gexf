@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Sharknado4" label="#Sharknado4" />
+      <node id="#Kasich4Us" label="#Kasich4Us" />
+      <node id="#RunDMC" label="#RunDMC" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#HenryCounty" label="#HenryCounty" />
+      <node id="#Tallmadge" label="#Tallmadge" />
+      <node id="#OhioWesleyan" label="#OhioWesleyan" />
+      <node id="#Kentucky" label="#Kentucky" />
+      <node id="#outofcontextcomment" label="#outofcontextcomment" />
+      <node id="#PeroPower" label="#PeroPower" />
+      <node id="#ohiopolitics" label="#ohiopolitics" />
+      <node id="#TeamTrib" label="#TeamTrib" />
+      <node id="#goatproblems" label="#goatproblems" />
+      <node id="#ohleg" label="#ohleg" />
+      <node id="#iowa" label="#iowa" />
+      <node id="#NobleCounty" label="#NobleCounty" />
+      <node id="#CatchEmAll" label="#CatchEmAll" />
+      <node id="#BelleValley" label="#BelleValley" />
+      <node id="#GOPinCLE" label="#GOPinCLE" />
+      <node id="#Ebola" label="#Ebola" />
+      <node id="#ames" label="#ames" />
+      <node id="#PokemonGo" label="#PokemonGo" />
+      <node id="#outofcontextquote" label="#outofcontextquote" />
+      <node id="#asseenfrom65" label="#asseenfrom65" />
+      <node id="#SouthSide" label="#SouthSide" />
+      <node id="#RNC2016" label="#RNC2016" />
+      <node id="#Kasich2016" label="#Kasich2016" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#Bishoponabranch" label="#Bishoponabranch" />
+      <node id="#outofcontextquotes" label="#outofcontextquotes" />
+      <node id="#elfonashelf" label="#elfonashelf" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Sharknado4" target="#Twitter" weight="3195" />
+      <edge id="1" source="#Kasich4Us" target="#ohiopolitics" weight="3195" />
+      <edge id="2" source="#RunDMC" target="#RNCinCLE" weight="3195" />
+      <edge id="3" source="#RNCinCLE" target="#outofcontextquotes" weight="3195" />
+      <edge id="4" source="#RNCinCLE" target="#RNC2016" weight="3195" />
+      <edge id="5" source="#RNCinCLE" target="#outofcontextquote" weight="3195" />
+      <edge id="6" source="#RNCinCLE" target="#TeamTrib" weight="3195" />
+      <edge id="7" source="#RNCinCLE" target="#outofcontextcomment" weight="3195" />
+      <edge id="8" source="#RNCinCLE" target="#GOPinCLE" weight="3195" />
+      <edge id="9" source="#RNCinCLE" target="#PeroPower" weight="3195" />
+      <edge id="10" source="#RNCinCLE" target="#GOP" weight="3195" />
+      <edge id="11" source="#GOP" target="#TeamTrib" weight="3195" />
+      <edge id="12" source="#GOP" target="#RNC2016" weight="3195" />
+      <edge id="13" source="#GOP" target="#GOPinCLE" weight="3195" />
+      <edge id="14" source="#HenryCounty" target="#goatproblems" weight="3195" />
+      <edge id="15" source="#Tallmadge" target="#Ebola" weight="3195" />
+      <edge id="16" source="#OhioWesleyan" target="#Bishoponabranch" weight="3195" />
+      <edge id="17" source="#OhioWesleyan" target="#elfonashelf" weight="3195" />
+      <edge id="18" source="#Kentucky" target="#asseenfrom65" weight="3195" />
+      <edge id="19" source="#TeamTrib" target="#RNC2016" weight="3195" />
+      <edge id="20" source="#TeamTrib" target="#GOPinCLE" weight="3195" />
+      <edge id="21" source="#ohleg" target="#Kasich2016" weight="3195" />
+      <edge id="22" source="#iowa" target="#ames" weight="3195" />
+      <edge id="23" source="#NobleCounty" target="#BelleValley" weight="3195" />
+      <edge id="24" source="#CatchEmAll" target="#PokemonGo" weight="3195" />
+      <edge id="25" source="#CatchEmAll" target="#SouthSide" weight="3195" />
+      <edge id="26" source="#GOPinCLE" target="#RNC2016" weight="3195" />
+      <edge id="27" source="#PokemonGo" target="#SouthSide" weight="3195" />
+      <edge id="28" source="#Bishoponabranch" target="#elfonashelf" weight="3195" />
+    </edges>
+  </graph>
+</gexf>

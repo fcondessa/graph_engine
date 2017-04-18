@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#scotus" label="#scotus" />
+      <node id="#GE" label="#GE" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#investment" label="#investment" />
+      <node id="#pharma" label="#pharma" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#pm101" label="#pm101" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#Walmart" label="#Walmart" />
+      <node id="#infections" label="#infections" />
+      <node id="#healthdata" label="#healthdata" />
+      <node id="#hcmktg" label="#hcmktg" />
+      <node id="#heart" label="#heart" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#DrOz" label="#DrOz" />
+      <node id="#epatients" label="#epatients" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#Paperless" label="#Paperless" />
+      <node id="#VDEakron12" label="#VDEakron12" />
+      <node id="#BIO" label="#BIO" />
+      <node id="#startups" label="#startups" />
+      <node id="#cdiff" label="#cdiff" />
+      <node id="#healthapps" label="#healthapps" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#healthpolicyvalentines" label="#healthpolicyvalentines" />
+      <node id="#EMR" label="#EMR" />
+      <node id="#LeBronJames" label="#LeBronJames" />
+      <node id="#jumpstartrumble" label="#jumpstartrumble" />
+      <node id="#medicaldevice" label="#medicaldevice" />
+      <node id="#cardiology" label="#cardiology" />
+      <node id="#convergeconf" label="#convergeconf" />
+      <node id="#WelcomeHome" label="#WelcomeHome" />
+      <node id="#clinicaltrial" label="#clinicaltrial" />
+      <node id="#Pharma" label="#Pharma" />
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#biotech" label="#biotech" />
+      <node id="#FF" label="#FF" />
+      <node id="#healthreform" label="#healthreform" />
+      <node id="#medtech" label="#medtech" />
+      <node id="#HIMSS12" label="#HIMSS12" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#FDA" label="#FDA" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#dateline" label="#dateline" />
+      <node id="#lifesciences" label="#lifesciences" />
+      <node id="#accenture" label="#accenture" />
+      <node id="#VC" label="#VC" />
+      <node id="#genomics" label="#genomics" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#alzheimers" label="#alzheimers" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#medicaldevices" label="#medicaldevices" />
+      <node id="#CRO" label="#CRO" />
+      <node id="#lifescience" label="#lifescience" />
+      <node id="#meddevice" label="#meddevice" />
+      <node id="#data" label="#data" />
+      <node id="#ptsafety" label="#ptsafety" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#patent" label="#patent" />
+      <node id="#digitalhealth" label="#digitalhealth" />
+      <node id="#telemedicine" label="#telemedicine" />
+      <node id="#HITsim" label="#HITsim" />
+      <node id="#hit" label="#hit" />
+      <node id="#PrimaryCare" label="#PrimaryCare" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#iPad" label="#iPad" />
+      <node id="#insulinpump" label="#insulinpump" />
+      <node id="#woody" label="#woody" />
+      <node id="#HITpol" label="#HITpol" />
+      <node id="#browns" label="#browns" />
+      <node id="#imaging" label="#imaging" />
+      <node id="#hcare" label="#hcare" />
+      <node id="#mhealth" label="#mhealth" />
+      <node id="#TEDMED2012" label="#TEDMED2012" />
+      <node id="#longtermcare" label="#longtermcare" />
+      <node id="#ATA2012" label="#ATA2012" />
+      <node id="#nfldraft" label="#nfldraft" />
+      <node id="#MedEd" label="#MedEd" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#B2C" label="#B2C" />
+      <node id="#B2B" label="#B2B" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#ObamaCare" label="#ObamaCare" />
+      <node id="#ConvergeConf" label="#ConvergeConf" />
+      <node id="#healthtech" label="#healthtech" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#crowdfunding" label="#crowdfunding" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#philly" label="#philly" />
+      <node id="#prevention" label="#prevention" />
+      <node id="#elililly" label="#elililly" />
+      <node id="#doctors" label="#doctors" />
+      <node id="#startup" label="#startup" />
+      <node id="#accelerator" label="#accelerator" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#mHealth" label="#mHealth" />
+      <node id="#himss12" label="#himss12" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#mobilehealth" label="#mobilehealth" />
+      <node id="#wellness" label="#wellness" />
+      <node id="#personalizedmedicine" label="#personalizedmedicine" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#hhs" label="#hhs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#scotus" target="#hcr" weight="3878" />
+      <edge id="1" source="#GE" target="#Innovation" weight="1939" />
+      <edge id="2" source="#GE" target="#investment" weight="1939" />
+      <edge id="3" source="#GE" target="#startups" weight="1939" />
+      <edge id="4" source="#GE" target="#VC" weight="1939" />
+      <edge id="5" source="#entrepreneurs" target="#SXSW" weight="1939" />
+      <edge id="6" source="#entrepreneurs" target="#HealthIT" weight="3878" />
+      <edge id="7" source="#entrepreneurs" target="#HIT" weight="1939" />
+      <edge id="8" source="#entrepreneurs" target="#startup" weight="1939" />
+      <edge id="9" source="#entrepreneurs" target="#accelerator" weight="1939" />
+      <edge id="10" source="#entrepreneurs" target="#bigdata" weight="1939" />
+      <edge id="11" source="#entrepreneurs" target="#mhealth" weight="1939" />
+      <edge id="12" source="#entrepreneurs" target="#innovation" weight="3878" />
+      <edge id="13" source="#entrepreneurs" target="#startups" weight="1939" />
+      <edge id="14" source="#entrepreneurs" target="#socialmedia" weight="1939" />
+      <edge id="15" source="#investment" target="#crowdfunding" weight="1939" />
+      <edge id="16" source="#investment" target="#startups" weight="1939" />
+      <edge id="17" source="#investment" target="#VC" weight="3878" />
+      <edge id="18" source="#investment" target="#Innovation" weight="1939" />
+      <edge id="19" source="#pharma" target="#CRO" weight="1939" />
+      <edge id="20" source="#pharma" target="#elililly" weight="1939" />
+      <edge id="21" source="#pharma" target="#diabetes" weight="1939" />
+      <edge id="22" source="#pharma" target="#SCOTUS" weight="1939" />
+      <edge id="23" source="#pharma" target="#lifesciences" weight="1939" />
+      <edge id="24" source="#pharma" target="#dateline" weight="1939" />
+      <edge id="25" source="#pharma" target="#alzheimers" weight="1939" />
+      <edge id="26" source="#pharma" target="#medicaldevices" weight="1939" />
+      <edge id="27" source="#pharma" target="#accenture" weight="1939" />
+      <edge id="28" source="#pharma" target="#healthtech" weight="1939" />
+      <edge id="29" source="#pharma" target="#BIO" weight="1939" />
+      <edge id="30" source="#pharma" target="#patent" weight="1939" />
+      <edge id="31" source="#pharma" target="#cdiff" weight="1939" />
+      <edge id="32" source="#pharma" target="#innovation" weight="1939" />
+      <edge id="33" source="#pharma" target="#ConvergeConf" weight="1939" />
+      <edge id="34" source="#pharma" target="#FDA" weight="1939" />
+      <edge id="35" source="#pharma" target="#clinicaltrial" weight="1939" />
+      <edge id="36" source="#heartdisease" target="#medicaldevice" weight="1939" />
+      <edge id="37" source="#heartdisease" target="#heart" weight="1939" />
+      <edge id="38" source="#heartdisease" target="#medicaldevices" weight="5817" />
+      <edge id="39" source="#obesity" target="#EHR" weight="1939" />
+      <edge id="40" source="#obesity" target="#DrOz" weight="1939" />
+      <edge id="41" source="#obesity" target="#diabetes" weight="1939" />
+      <edge id="42" source="#obesity" target="#EMR" weight="1939" />
+      <edge id="43" source="#pm101" target="#personalizedmedicine" weight="1939" />
+      <edge id="44" source="#pm101" target="#genomics" weight="1939" />
+      <edge id="45" source="#HIT" target="#telemedicine" weight="1939" />
+      <edge id="46" source="#HIT" target="#mHealth" weight="1939" />
+      <edge id="47" source="#HIT" target="#HealthIT" weight="3878" />
+      <edge id="48" source="#HIT" target="#hospitals" weight="1939" />
+      <edge id="49" source="#HIT" target="#bigdata" weight="1939" />
+      <edge id="50" source="#HIT" target="#innovation" weight="3878" />
+      <edge id="51" source="#Walmart" target="#hcare" weight="1939" />
+      <edge id="52" source="#Walmart" target="#innovation" weight="1939" />
+      <edge id="53" source="#Walmart" target="#telemedicine" weight="1939" />
+      <edge id="54" source="#infections" target="#hospitals" weight="1939" />
+      <edge id="55" source="#healthdata" target="#privacy" weight="1939" />
+      <edge id="56" source="#healthdata" target="#hhs" weight="1939" />
+      <edge id="57" source="#hcmktg" target="#HITsim" weight="1939" />
+      <edge id="58" source="#hcmktg" target="#HITpol" weight="1939" />
+      <edge id="59" source="#heart" target="#medicaldevices" weight="1939" />
+      <edge id="60" source="#Innovation" target="#startups" weight="1939" />
+      <edge id="61" source="#Innovation" target="#VC" weight="1939" />
+      <edge id="62" source="#DrOz" target="#EHR" weight="1939" />
+      <edge id="63" source="#DrOz" target="#EMR" weight="1939" />
+      <edge id="64" source="#DrOz" target="#diabetes" weight="1939" />
+      <edge id="65" source="#epatients" target="#mhealth" weight="1939" />
+      <edge id="66" source="#epatients" target="#data" weight="1939" />
+      <edge id="67" source="#Cleveland" target="#WelcomeHome" weight="1939" />
+      <edge id="68" source="#Cleveland" target="#LeBronJames" weight="1939" />
+      <edge id="69" source="#Paperless" target="#HIMSS12" weight="1939" />
+      <edge id="70" source="#VDEakron12" target="#healthIT" weight="1939" />
+      <edge id="71" source="#startups" target="#meddevice" weight="1939" />
+      <edge id="72" source="#startups" target="#innovation" weight="1939" />
+      <edge id="73" source="#startups" target="#VC" weight="1939" />
+      <edge id="74" source="#cdiff" target="#patent" weight="1939" />
+      <edge id="75" source="#healthapps" target="#medtech" weight="1939" />
+      <edge id="76" source="#healthapps" target="#ptsafety" weight="1939" />
+      <edge id="77" source="#healthapps" target="#mhealth" weight="1939" />
+      <edge id="78" source="#SCOTUS" target="#hcr" weight="1939" />
+      <edge id="79" source="#healthpolicyvalentines" target="#hcsm" weight="1939" />
+      <edge id="80" source="#EMR" target="#EHR" weight="1939" />
+      <edge id="81" source="#EMR" target="#diabetes" weight="1939" />
+      <edge id="82" source="#LeBronJames" target="#WelcomeHome" weight="1939" />
+      <edge id="83" source="#jumpstartrumble" target="#woody" weight="1939" />
+      <edge id="84" source="#medicaldevice" target="#Obamacare" weight="1939" />
+      <edge id="85" source="#cardiology" target="#medicaldevices" weight="1939" />
+      <edge id="86" source="#convergeconf" target="#innovation" weight="1939" />
+      <edge id="87" source="#convergeconf" target="#digitalhealth" weight="1939" />
+      <edge id="88" source="#Pharma" target="#bigdata" weight="1939" />
+      <edge id="89" source="#SXSW" target="#HealthIT" weight="1939" />
+      <edge id="90" source="#SXSW" target="#socialmedia" weight="1939" />
+      <edge id="91" source="#biotech" target="#philly" weight="1939" />
+      <edge id="92" source="#biotech" target="#MarchMadness" weight="1939" />
+      <edge id="93" source="#biotech" target="#medtech" weight="1939" />
+      <edge id="94" source="#biotech" target="#lifescience" weight="1939" />
+      <edge id="95" source="#biotech" target="#meddevice" weight="1939" />
+      <edge id="96" source="#biotech" target="#crowdfunding" weight="1939" />
+      <edge id="97" source="#biotech" target="#innovation" weight="1939" />
+      <edge id="98" source="#FF" target="#ConvergeConf" weight="1939" />
+      <edge id="99" source="#healthreform" target="#himss12" weight="1939" />
+      <edge id="100" source="#healthreform" target="#ACA" weight="1939" />
+      <edge id="101" source="#medtech" target="#meddevice" weight="1939" />
+      <edge id="102" source="#medtech" target="#mhealth" weight="1939" />
+      <edge id="103" source="#medtech" target="#crowdfunding" weight="1939" />
+      <edge id="104" source="#medtech" target="#ptsafety" weight="1939" />
+      <edge id="105" source="#hcr" target="#ObamaCare" weight="1939" />
+      <edge id="106" source="#hcr" target="#healthcare" weight="1939" />
+      <edge id="107" source="#FDA" target="#innovation" weight="1939" />
+      <edge id="108" source="#FDA" target="#diabetes" weight="1939" />
+      <edge id="109" source="#FDA" target="#medicaldevices" weight="3878" />
+      <edge id="110" source="#privacy" target="#hhs" weight="1939" />
+      <edge id="111" source="#accenture" target="#CRO" weight="1939" />
+      <edge id="112" source="#VC" target="#medicaldevices" weight="1939" />
+      <edge id="113" source="#VC" target="#strategy" weight="1939" />
+      <edge id="114" source="#VC" target="#healthcare" weight="1939" />
+      <edge id="115" source="#VC" target="#crowdfunding" weight="1939" />
+      <edge id="116" source="#VC" target="#innovation" weight="5817" />
+      <edge id="117" source="#genomics" target="#personalizedmedicine" weight="1939" />
+      <edge id="118" source="#alzheimers" target="#elililly" weight="1939" />
+      <edge id="119" source="#Pinterest" target="#hcsm" weight="1939" />
+      <edge id="120" source="#medicaldevices" target="#diabetes" weight="1939" />
+      <edge id="121" source="#medicaldevices" target="#imaging" weight="1939" />
+      <edge id="122" source="#medicaldevices" target="#ConvergeConf" weight="1939" />
+      <edge id="123" source="#medicaldevices" target="#strategy" weight="3878" />
+      <edge id="124" source="#medicaldevices" target="#innovation" weight="7756" />
+      <edge id="125" source="#lifescience" target="#innovation" weight="1939" />
+      <edge id="126" source="#lifescience" target="#philly" weight="1939" />
+      <edge id="127" source="#meddevice" target="#crowdfunding" weight="1939" />
+      <edge id="128" source="#data" target="#diabetes" weight="1939" />
+      <edge id="129" source="#data" target="#mhealth" weight="1939" />
+      <edge id="130" source="#data" target="#insulinpump" weight="1939" />
+      <edge id="131" source="#ptsafety" target="#mhealth" weight="1939" />
+      <edge id="132" source="#healthIT" target="#iPad" weight="1939" />
+      <edge id="133" source="#healthIT" target="#hit" weight="1939" />
+      <edge id="134" source="#telemedicine" target="#HealthIT" weight="1939" />
+      <edge id="135" source="#telemedicine" target="#hcare" weight="1939" />
+      <edge id="136" source="#telemedicine" target="#ATA2012" weight="1939" />
+      <edge id="137" source="#telemedicine" target="#innovation" weight="1939" />
+      <edge id="138" source="#HITsim" target="#HITpol" weight="1939" />
+      <edge id="139" source="#hit" target="#himss12" weight="5817" />
+      <edge id="140" source="#hit" target="#iPad" weight="1939" />
+      <edge id="141" source="#hit" target="#HealthIT" weight="1939" />
+      <edge id="142" source="#hit" target="#mHealth" weight="1939" />
+      <edge id="143" source="#PrimaryCare" target="#MedEd" weight="1939" />
+      <edge id="144" source="#hcsm" target="#doctors" weight="1939" />
+      <edge id="145" source="#iPad" target="#longtermcare" weight="1939" />
+      <edge id="146" source="#iPad" target="#hospitals" weight="1939" />
+      <edge id="147" source="#iPad" target="#innovation" weight="1939" />
+      <edge id="148" source="#insulinpump" target="#diabetes" weight="1939" />
+      <edge id="149" source="#browns" target="#nfldraft" weight="1939" />
+      <edge id="150" source="#imaging" target="#strategy" weight="1939" />
+      <edge id="151" source="#hcare" target="#innovation" weight="1939" />
+      <edge id="152" source="#mhealth" target="#startup" weight="1939" />
+      <edge id="153" source="#mhealth" target="#accelerator" weight="1939" />
+      <edge id="154" source="#mhealth" target="#innovation" weight="1939" />
+      <edge id="155" source="#mhealth" target="#B2C" weight="1939" />
+      <edge id="156" source="#mhealth" target="#B2B" weight="1939" />
+      <edge id="157" source="#TEDMED2012" target="#innovation" weight="1939" />
+      <edge id="158" source="#longtermcare" target="#innovation" weight="1939" />
+      <edge id="159" source="#longtermcare" target="#hospitals" weight="1939" />
+      <edge id="160" source="#strategy" target="#innovation" weight="1939" />
+      <edge id="161" source="#hospitals" target="#innovation" weight="5817" />
+      <edge id="162" source="#B2C" target="#B2B" weight="1939" />
+      <edge id="163" source="#diabetes" target="#EHR" weight="1939" />
+      <edge id="164" source="#diabetes" target="#innovation" weight="1939" />
+      <edge id="165" source="#ConvergeConf" target="#innovation" weight="1939" />
+      <edge id="166" source="#bigdata" target="#innovation" weight="1939" />
+      <edge id="167" source="#innovation" target="#philly" weight="1939" />
+      <edge id="168" source="#innovation" target="#accelerator" weight="1939" />
+      <edge id="169" source="#innovation" target="#healthcare" weight="1939" />
+      <edge id="170" source="#innovation" target="#startup" weight="3878" />
+      <edge id="171" source="#innovation" target="#mobilehealth" weight="1939" />
+      <edge id="172" source="#prevention" target="#wellness" weight="1939" />
+      <edge id="173" source="#startup" target="#mobilehealth" weight="1939" />
+      <edge id="174" source="#startup" target="#accelerator" weight="1939" />
+      <edge id="175" source="#mHealth" target="#HealthIT" weight="1939" />
+      <edge id="176" source="#himss12" target="#ACA" weight="1939" />
+      <edge id="177" source="#socialmedia" target="#HealthIT" weight="1939" />
+    </edges>
+  </graph>
+</gexf>

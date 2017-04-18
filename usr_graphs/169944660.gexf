@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NewPaymentModels" label="#NewPaymentModels" />
+      <node id="#HIPAA" label="#HIPAA" />
+      <node id="#texting" label="#texting" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#HIMSS16" label="#HIMSS16" />
+      <node id="#patientengagement" label="#patientengagement" />
+      <node id="#email" label="#email" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NewPaymentModels" target="#patientengagement" weight="128" />
+      <edge id="1" source="#HIPAA" target="#EHR" weight="128" />
+      <edge id="2" source="#HIPAA" target="#HealthIT" weight="128" />
+      <edge id="3" source="#texting" target="#email" weight="128" />
+      <edge id="4" source="#HealthIT" target="#EHR" weight="128" />
+      <edge id="5" source="#cbus" target="#HIMSS16" weight="128" />
+    </edges>
+  </graph>
+</gexf>

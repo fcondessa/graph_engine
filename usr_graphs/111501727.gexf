@@ -1,0 +1,560 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ShakespeareAndCo" label="#ShakespeareAndCo" />
+      <node id="#YokoOgawa" label="#YokoOgawa" />
+      <node id="#cameinroyalmail" label="#cameinroyalmail" />
+      <node id="#thomasmerton" label="#thomasmerton" />
+      <node id="#npm" label="#npm" />
+      <node id="#gentlemadness" label="#gentlemadness" />
+      <node id="#LemonySnicket" label="#LemonySnicket" />
+      <node id="#LBJ" label="#LBJ" />
+      <node id="#hippies" label="#hippies" />
+      <node id="#App" label="#App" />
+      <node id="#beowulf" label="#beowulf" />
+      <node id="#mobydick" label="#mobydick" />
+      <node id="#monks" label="#monks" />
+      <node id="#allsidesbooks" label="#allsidesbooks" />
+      <node id="#bibliophile" label="#bibliophile" />
+      <node id="#bookart" label="#bookart" />
+      <node id="#Gaza" label="#Gaza" />
+      <node id="#FINKLER" label="#FINKLER" />
+      <node id="#KennethRexroth" label="#KennethRexroth" />
+      <node id="#Faulkner" label="#Faulkner" />
+      <node id="#shortstory" label="#shortstory" />
+      <node id="#NationalBookAwards" label="#NationalBookAwards" />
+      <node id="#birdwatching" label="#birdwatching" />
+      <node id="#France" label="#France" />
+      <node id="#poetrybook" label="#poetrybook" />
+      <node id="#Citation" label="#Citation" />
+      <node id="#edwardmurrow" label="#edwardmurrow" />
+      <node id="#pri" label="#pri" />
+      <node id="#newnovel" label="#newnovel" />
+      <node id="#outofprintbooks" label="#outofprintbooks" />
+      <node id="#windies" label="#windies" />
+      <node id="#Bewilderment" label="#Bewilderment" />
+      <node id="#yalit" label="#yalit" />
+      <node id="#Kerouac" label="#Kerouac" />
+      <node id="#stationeleven" label="#stationeleven" />
+      <node id="#lopezbooks" label="#lopezbooks" />
+      <node id="#MonicaLewinsky" label="#MonicaLewinsky" />
+      <node id="#Hemingway" label="#Hemingway" />
+      <node id="#rarebooks" label="#rarebooks" />
+      <node id="#mystery" label="#mystery" />
+      <node id="#outwiththeold" label="#outwiththeold" />
+      <node id="#edhirsch" label="#edhirsch" />
+      <node id="#Augustshandwriting" label="#Augustshandwriting" />
+      <node id="#TSEliot" label="#TSEliot" />
+      <node id="#CurzioMalaparte" label="#CurzioMalaparte" />
+      <node id="#Uber" label="#Uber" />
+      <node id="#bibliomania" label="#bibliomania" />
+      <node id="#goodreads" label="#goodreads" />
+      <node id="#mindfulness" label="#mindfulness" />
+      <node id="#amediting" label="#amediting" />
+      <node id="#poundfoolish" label="#poundfoolish" />
+      <node id="#johncharlesgilkey" label="#johncharlesgilkey" />
+      <node id="#lynnmessina" label="#lynnmessina" />
+      <node id="#frenchnovels" label="#frenchnovels" />
+      <node id="#TheGoldfinch" label="#TheGoldfinch" />
+      <node id="#meditation" label="#meditation" />
+      <node id="#psychiatry" label="#psychiatry" />
+      <node id="#puppies" label="#puppies" />
+      <node id="#debtceiling" label="#debtceiling" />
+      <node id="#birds" label="#birds" />
+      <node id="#france" label="#france" />
+      <node id="#Wikipedia" label="#Wikipedia" />
+      <node id="#kirkus" label="#kirkus" />
+      <node id="#qbbooks" label="#qbbooks" />
+      <node id="#goodbook" label="#goodbook" />
+      <node id="#noirfiction" label="#noirfiction" />
+      <node id="#apps" label="#apps" />
+      <node id="#rarebooksiwant" label="#rarebooksiwant" />
+      <node id="#thegreatwar" label="#thegreatwar" />
+      <node id="#LSD" label="#LSD" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Bukowski" label="#Bukowski" />
+      <node id="#tessahadley" label="#tessahadley" />
+      <node id="#greatmovie" label="#greatmovie" />
+      <node id="#Literature" label="#Literature" />
+      <node id="#Snopes" label="#Snopes" />
+      <node id="#newspaperreader" label="#newspaperreader" />
+      <node id="#identitytheft" label="#identitytheft" />
+      <node id="#inheaven" label="#inheaven" />
+      <node id="#janeeyre" label="#janeeyre" />
+      <node id="#bookawards" label="#bookawards" />
+      <node id="#lapetite" label="#lapetite" />
+      <node id="#cbusneighbors" label="#cbusneighbors" />
+      <node id="#npr" label="#npr" />
+      <node id="#babyboomers" label="#babyboomers" />
+      <node id="#formerpeople" label="#formerpeople" />
+      <node id="#backyardbirding" label="#backyardbirding" />
+      <node id="#melville" label="#melville" />
+      <node id="#woodpeckers" label="#woodpeckers" />
+      <node id="#oxymoron" label="#oxymoron" />
+      <node id="#books" label="#books" />
+      <node id="#Paris" label="#Paris" />
+      <node id="#Jordan" label="#Jordan" />
+      <node id="#currenteventstrends" label="#currenteventstrends" />
+      <node id="#gravitysrainbow" label="#gravitysrainbow" />
+      <node id="#fridayreads" label="#fridayreads" />
+      <node id="#Tara" label="#Tara" />
+      <node id="#reading" label="#reading" />
+      <node id="#writetip" label="#writetip" />
+      <node id="#noneshalllookback" label="#noneshalllookback" />
+      <node id="#poets" label="#poets" />
+      <node id="#vintagepaperbacks" label="#vintagepaperbacks" />
+      <node id="#Ferlinghetti" label="#Ferlinghetti" />
+      <node id="#Penguinpoetry" label="#Penguinpoetry" />
+      <node id="#douglassmith" label="#douglassmith" />
+      <node id="#readinglife" label="#readinglife" />
+      <node id="#wehadfun" label="#wehadfun" />
+      <node id="#writing" label="#writing" />
+      <node id="#grateful" label="#grateful" />
+      <node id="#bookclub" label="#bookclub" />
+      <node id="#Kennedyassassination" label="#Kennedyassassination" />
+      <node id="#mysterythriller" label="#mysterythriller" />
+      <node id="#krivak" label="#krivak" />
+      <node id="#fiscalcliff" label="#fiscalcliff" />
+      <node id="#faulkner" label="#faulkner" />
+      <node id="#sciencefiction" label="#sciencefiction" />
+      <node id="#alanfurst" label="#alanfurst" />
+      <node id="#tarzan" label="#tarzan" />
+      <node id="#greatbook" label="#greatbook" />
+      <node id="#feminism" label="#feminism" />
+      <node id="#amwriting" label="#amwriting" />
+      <node id="#TreatYourShelf" label="#TreatYourShelf" />
+      <node id="#brooklyn" label="#brooklyn" />
+      <node id="#Âme" label="#Âme" />
+      <node id="#reader" label="#reader" />
+      <node id="#NOLA" label="#NOLA" />
+      <node id="#vialibri" label="#vialibri" />
+      <node id="#overwhelmed" label="#overwhelmed" />
+      <node id="#TriVillage" label="#TriVillage" />
+      <node id="#quill" label="#quill" />
+      <node id="#bestof2012" label="#bestof2012" />
+      <node id="#betweenthecovers" label="#betweenthecovers" />
+      <node id="#headlights" label="#headlights" />
+      <node id="#swedishcrime" label="#swedishcrime" />
+      <node id="#Oswald" label="#Oswald" />
+      <node id="#PhilipLevine" label="#PhilipLevine" />
+      <node id="#wenttothelibrary" label="#wenttothelibrary" />
+      <node id="#childrensbooks" label="#childrensbooks" />
+      <node id="#beachreads" label="#beachreads" />
+      <node id="#Underwood" label="#Underwood" />
+      <node id="#coffeehousepress" label="#coffeehousepress" />
+      <node id="#Remington" label="#Remington" />
+      <node id="#indiebookstores" label="#indiebookstores" />
+      <node id="#vacation" label="#vacation" />
+      <node id="#wosuelection" label="#wosuelection" />
+      <node id="#bookstore" label="#bookstore" />
+      <node id="#crookedlettercrookedletter" label="#crookedlettercrookedletter" />
+      <node id="#roth" label="#roth" />
+      <node id="#papermaking" label="#papermaking" />
+      <node id="#journalism" label="#journalism" />
+      <node id="#poems" label="#poems" />
+      <node id="#Happy60CLB" label="#Happy60CLB" />
+      <node id="#springmigration" label="#springmigration" />
+      <node id="#amreading" label="#amreading" />
+      <node id="#kafka" label="#kafka" />
+      <node id="#NOBS" label="#NOBS" />
+      <node id="#nbcc" label="#nbcc" />
+      <node id="#shortstories" label="#shortstories" />
+      <node id="#russianauthors" label="#russianauthors" />
+      <node id="#premiere" label="#premiere" />
+      <node id="#classics" label="#classics" />
+      <node id="#Laureate" label="#Laureate" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#history" label="#history" />
+      <node id="#raremanuscripts" label="#raremanuscripts" />
+      <node id="#revenge" label="#revenge" />
+      <node id="#hugo" label="#hugo" />
+      <node id="#editors" label="#editors" />
+      <node id="#Edgarawardwinner" label="#Edgarawardwinner" />
+      <node id="#roycrofter" label="#roycrofter" />
+      <node id="#whatisnormal" label="#whatisnormal" />
+      <node id="#nurembergchronicle" label="#nurembergchronicle" />
+      <node id="#BarryHannah" label="#BarryHannah" />
+      <node id="#WWIIespionage" label="#WWIIespionage" />
+      <node id="#swallowpress" label="#swallowpress" />
+      <node id="#fashionquiz" label="#fashionquiz" />
+      <node id="#petercameron" label="#petercameron" />
+      <node id="#thewasteland" label="#thewasteland" />
+      <node id="#movies" label="#movies" />
+      <node id="#shadow" label="#shadow" />
+      <node id="#olderactors" label="#olderactors" />
+      <node id="#sixtydegrees" label="#sixtydegrees" />
+      <node id="#memoir" label="#memoir" />
+      <node id="#BaileysWomensPrize" label="#BaileysWomensPrize" />
+      <node id="#ScarlettO" label="#ScarlettO" />
+      <node id="#rexroth" label="#rexroth" />
+      <node id="#Birdbook" label="#Birdbook" />
+      <node id="#firsteditions" label="#firsteditions" />
+      <node id="#ZimaJunction" label="#ZimaJunction" />
+      <node id="#abebooks" label="#abebooks" />
+      <node id="#manbookerlonglist" label="#manbookerlonglist" />
+      <node id="#moneyball" label="#moneyball" />
+      <node id="#goodbooks" label="#goodbooks" />
+      <node id="#paris" label="#paris" />
+      <node id="#Kindle" label="#Kindle" />
+      <node id="#allsides" label="#allsides" />
+      <node id="#wagner" label="#wagner" />
+      <node id="#Books" label="#Books" />
+      <node id="#bookcollecting" label="#bookcollecting" />
+      <node id="#freelove" label="#freelove" />
+      <node id="#Kaputt" label="#Kaputt" />
+      <node id="#sourcecode" label="#sourcecode" />
+      <node id="#coralglynn" label="#coralglynn" />
+      <node id="#bookmashups" label="#bookmashups" />
+      <node id="#aussielit" label="#aussielit" />
+      <node id="#readingaddiction" label="#readingaddiction" />
+      <node id="#springsteen" label="#springsteen" />
+      <node id="#rocknroll" label="#rocknroll" />
+      <node id="#poetry" label="#poetry" />
+      <node id="#Vietnam" label="#Vietnam" />
+      <node id="#shortfiction" label="#shortfiction" />
+      <node id="#beachy" label="#beachy" />
+      <node id="#imafan" label="#imafan" />
+      <node id="#impac" label="#impac" />
+      <node id="#collectbooks" label="#collectbooks" />
+      <node id="#escape" label="#escape" />
+      <node id="#NationalBookAward" label="#NationalBookAward" />
+      <node id="#MedalofHonor" label="#MedalofHonor" />
+      <node id="#VietnamVeterans" label="#VietnamVeterans" />
+      <node id="#writeprompt" label="#writeprompt" />
+      <node id="#Syria" label="#Syria" />
+      <node id="#weather" label="#weather" />
+      <node id="#Ebook" label="#Ebook" />
+      <node id="#wyk" label="#wyk" />
+      <node id="#buzzard" label="#buzzard" />
+      <node id="#impressive" label="#impressive" />
+      <node id="#wisdom" label="#wisdom" />
+      <node id="#gr8tbook" label="#gr8tbook" />
+      <node id="#bookpeople" label="#bookpeople" />
+      <node id="#HungerGames" label="#HungerGames" />
+      <node id="#germanshepherd" label="#germanshepherd" />
+      <node id="#ManBooker" label="#ManBooker" />
+      <node id="#weissmuller" label="#weissmuller" />
+      <node id="#IndieThursday" label="#IndieThursday" />
+      <node id="#contemplativelife" label="#contemplativelife" />
+      <node id="#JonathanCoe" label="#JonathanCoe" />
+      <node id="#puppylove" label="#puppylove" />
+      <node id="#peace" label="#peace" />
+      <node id="#gentlymad" label="#gentlymad" />
+      <node id="#JLit" label="#JLit" />
+      <node id="#financialadvice" label="#financialadvice" />
+      <node id="#GrandSlam" label="#GrandSlam" />
+      <node id="#teenfiction" label="#teenfiction" />
+      <node id="#japanesepoetry" label="#japanesepoetry" />
+      <node id="#Coetzee" label="#Coetzee" />
+      <node id="#RollingStones" label="#RollingStones" />
+      <node id="#JFKLibrary" label="#JFKLibrary" />
+      <node id="#constantcontact" label="#constantcontact" />
+      <node id="#greatbooks" label="#greatbooks" />
+      <node id="#marriedlove" label="#marriedlove" />
+      <node id="#birdsongs" label="#birdsongs" />
+      <node id="#wosu" label="#wosu" />
+      <node id="#thesource" label="#thesource" />
+      <node id="#bookselling" label="#bookselling" />
+      <node id="#vote10" label="#vote10" />
+      <node id="#UK" label="#UK" />
+      <node id="#EdgarAward" label="#EdgarAward" />
+      <node id="#classicalpianist" label="#classicalpianist" />
+      <node id="#beyondmybudget" label="#beyondmybudget" />
+      <node id="#carolinegordon" label="#carolinegordon" />
+      <node id="#deweydecimalclassification" label="#deweydecimalclassification" />
+      <node id="#Israel" label="#Israel" />
+      <node id="#edgar" label="#edgar" />
+      <node id="#notsogoodbooks" label="#notsogoodbooks" />
+      <node id="#libraries" label="#libraries" />
+      <node id="#foundersday" label="#foundersday" />
+      <node id="#rarebook" label="#rarebook" />
+      <node id="#Booker" label="#Booker" />
+      <node id="#bookcritics" label="#bookcritics" />
+      <node id="#SmithCorona" label="#SmithCorona" />
+      <node id="#lastofhismind" label="#lastofhismind" />
+      <node id="#aldussociety" label="#aldussociety" />
+      <node id="#pulpfest" label="#pulpfest" />
+      <node id="#playlist" label="#playlist" />
+      <node id="#PulitzerPrize" label="#PulitzerPrize" />
+      <node id="#thankful" label="#thankful" />
+      <node id="#ABAA" label="#ABAA" />
+      <node id="#osufootball" label="#osufootball" />
+      <node id="#cr4u" label="#cr4u" />
+      <node id="#mondayblogs" label="#mondayblogs" />
+      <node id="#bookreview" label="#bookreview" />
+      <node id="#Jewish" label="#Jewish" />
+      <node id="#booknerds" label="#booknerds" />
+      <node id="#independentbooksellers" label="#independentbooksellers" />
+      <node id="#buteobuteo" label="#buteobuteo" />
+      <node id="#iPad" label="#iPad" />
+      <node id="#armywives" label="#armywives" />
+      <node id="#theyearofthegadfly" label="#theyearofthegadfly" />
+      <node id="#girlsguidetodatingzombies" label="#girlsguidetodatingzombies" />
+      <node id="#greatreads" label="#greatreads" />
+      <node id="#belgianmalinois" label="#belgianmalinois" />
+      <node id="#WOSU" label="#WOSU" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#Yevtushenko" label="#Yevtushenko" />
+      <node id="#litarchives" label="#litarchives" />
+      <node id="#stolenbooks" label="#stolenbooks" />
+      <node id="#pynchon" label="#pynchon" />
+      <node id="#victory" label="#victory" />
+      <node id="#nibelungen" label="#nibelungen" />
+      <node id="#FrenchOpen" label="#FrenchOpen" />
+      <node id="#bliss" label="#bliss" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ShakespeareAndCo" target="#poetry" weight="2713" />
+      <edge id="1" source="#ShakespeareAndCo" target="#Ferlinghetti" weight="2713" />
+      <edge id="2" source="#ShakespeareAndCo" target="#bookstore" weight="2713" />
+      <edge id="3" source="#YokoOgawa" target="#revenge" weight="2713" />
+      <edge id="4" source="#cameinroyalmail" target="#shadow" weight="2713" />
+      <edge id="5" source="#thomasmerton" target="#contemplativelife" weight="2713" />
+      <edge id="6" source="#npm" target="#Penguinpoetry" weight="2713" />
+      <edge id="7" source="#gentlemadness" target="#bookcollecting" weight="2713" />
+      <edge id="8" source="#gentlemadness" target="#bibliomania" weight="2713" />
+      <edge id="9" source="#gentlemadness" target="#rarebooks" weight="5426" />
+      <edge id="10" source="#LemonySnicket" target="#NationalBookAwards" weight="2713" />
+      <edge id="11" source="#LBJ" target="#peace" weight="2713" />
+      <edge id="12" source="#LBJ" target="#hippies" weight="2713" />
+      <edge id="13" source="#LBJ" target="#Vietnam" weight="2713" />
+      <edge id="14" source="#LBJ" target="#rocknroll" weight="2713" />
+      <edge id="15" source="#LBJ" target="#LSD" weight="2713" />
+      <edge id="16" source="#LBJ" target="#freelove" weight="2713" />
+      <edge id="17" source="#hippies" target="#peace" weight="2713" />
+      <edge id="18" source="#hippies" target="#Vietnam" weight="2713" />
+      <edge id="19" source="#hippies" target="#rocknroll" weight="2713" />
+      <edge id="20" source="#hippies" target="#LSD" weight="2713" />
+      <edge id="21" source="#hippies" target="#freelove" weight="2713" />
+      <edge id="22" source="#App" target="#iPad" weight="2713" />
+      <edge id="23" source="#App" target="#Kerouac" weight="2713" />
+      <edge id="24" source="#beowulf" target="#bookcollecting" weight="2713" />
+      <edge id="25" source="#beowulf" target="#firsteditions" weight="2713" />
+      <edge id="26" source="#mobydick" target="#melville" weight="2713" />
+      <edge id="27" source="#monks" target="#fridayreads" weight="2713" />
+      <edge id="28" source="#allsidesbooks" target="#sciencefiction" weight="2713" />
+      <edge id="29" source="#bibliophile" target="#books" weight="2713" />
+      <edge id="30" source="#bookart" target="#currenteventstrends" weight="2713" />
+      <edge id="31" source="#bookart" target="#bookpeople" weight="2713" />
+      <edge id="32" source="#Gaza" target="#Israel" weight="2713" />
+      <edge id="33" source="#FINKLER" target="#Booker" weight="2713" />
+      <edge id="34" source="#KennethRexroth" target="#poems" weight="2713" />
+      <edge id="35" source="#Faulkner" target="#bookcollecting" weight="2713" />
+      <edge id="36" source="#Faulkner" target="#Snopes" weight="2713" />
+      <edge id="37" source="#Faulkner" target="#rarebooks" weight="2713" />
+      <edge id="38" source="#shortstory" target="#shortfiction" weight="2713" />
+      <edge id="39" source="#birdwatching" target="#Books" weight="2713" />
+      <edge id="40" source="#birdwatching" target="#birds" weight="2713" />
+      <edge id="41" source="#birdwatching" target="#birdsongs" weight="2713" />
+      <edge id="42" source="#France" target="#Uber" weight="2713" />
+      <edge id="43" source="#France" target="#Paris" weight="2713" />
+      <edge id="44" source="#poetrybook" target="#edhirsch" weight="2713" />
+      <edge id="45" source="#Citation" target="#Âme" weight="2713" />
+      <edge id="46" source="#edwardmurrow" target="#theyearofthegadfly" weight="2713" />
+      <edge id="47" source="#pri" target="#classicalpianist" weight="2713" />
+      <edge id="48" source="#newnovel" target="#beachy" weight="2713" />
+      <edge id="49" source="#outofprintbooks" target="#aussielit" weight="2713" />
+      <edge id="50" source="#windies" target="#Tara" weight="2713" />
+      <edge id="51" source="#windies" target="#ScarlettO" weight="2713" />
+      <edge id="52" source="#Bewilderment" target="#NationalBookAward" weight="2713" />
+      <edge id="53" source="#yalit" target="#playlist" weight="2713" />
+      <edge id="54" source="#Kerouac" target="#iPad" weight="2713" />
+      <edge id="55" source="#stationeleven" target="#Augustshandwriting" weight="2713" />
+      <edge id="56" source="#lopezbooks" target="#nbcc" weight="2713" />
+      <edge id="57" source="#lopezbooks" target="#betweenthecovers" weight="2713" />
+      <edge id="58" source="#MonicaLewinsky" target="#identitytheft" weight="2713" />
+      <edge id="59" source="#Hemingway" target="#JFKLibrary" weight="2713" />
+      <edge id="60" source="#rarebooks" target="#Snopes" weight="2713" />
+      <edge id="61" source="#rarebooks" target="#bibliomania" weight="2713" />
+      <edge id="62" source="#rarebooks" target="#quill" weight="2713" />
+      <edge id="63" source="#rarebooks" target="#inheaven" weight="2713" />
+      <edge id="64" source="#rarebooks" target="#firsteditions" weight="2713" />
+      <edge id="65" source="#rarebooks" target="#cbus" weight="2713" />
+      <edge id="66" source="#rarebooks" target="#childrensbooks" weight="2713" />
+      <edge id="67" source="#rarebooks" target="#bookcollecting" weight="37982" />
+      <edge id="68" source="#rarebooks" target="#psychiatry" weight="2713" />
+      <edge id="69" source="#mystery" target="#goodbook" weight="2713" />
+      <edge id="70" source="#mystery" target="#crookedlettercrookedletter" weight="2713" />
+      <edge id="71" source="#outwiththeold" target="#libraries" weight="2713" />
+      <edge id="72" source="#TSEliot" target="#impressive" weight="2713" />
+      <edge id="73" source="#CurzioMalaparte" target="#Kaputt" weight="2713" />
+      <edge id="74" source="#Uber" target="#Paris" weight="2713" />
+      <edge id="75" source="#bibliomania" target="#readinglife" weight="2713" />
+      <edge id="76" source="#bibliomania" target="#readingaddiction" weight="2713" />
+      <edge id="77" source="#goodreads" target="#teenfiction" weight="2713" />
+      <edge id="78" source="#mindfulness" target="#meditation" weight="2713" />
+      <edge id="79" source="#amediting" target="#editors" weight="2713" />
+      <edge id="80" source="#poundfoolish" target="#financialadvice" weight="2713" />
+      <edge id="81" source="#johncharlesgilkey" target="#stolenbooks" weight="2713" />
+      <edge id="82" source="#johncharlesgilkey" target="#ABAA" weight="2713" />
+      <edge id="83" source="#lynnmessina" target="#girlsguidetodatingzombies" weight="2713" />
+      <edge id="84" source="#frenchnovels" target="#russianauthors" weight="2713" />
+      <edge id="85" source="#frenchnovels" target="#readinglife" weight="2713" />
+      <edge id="86" source="#TheGoldfinch" target="#PulitzerPrize" weight="2713" />
+      <edge id="87" source="#puppies" target="#puppylove" weight="2713" />
+      <edge id="88" source="#debtceiling" target="#fiscalcliff" weight="2713" />
+      <edge id="89" source="#birds" target="#backyardbirding" weight="2713" />
+      <edge id="90" source="#france" target="#paris" weight="2713" />
+      <edge id="91" source="#Wikipedia" target="#BarryHannah" weight="2713" />
+      <edge id="92" source="#kirkus" target="#wenttothelibrary" weight="2713" />
+      <edge id="93" source="#qbbooks" target="#collectbooks" weight="2713" />
+      <edge id="94" source="#noirfiction" target="#bookclub" weight="2713" />
+      <edge id="95" source="#apps" target="#thewasteland" weight="2713" />
+      <edge id="96" source="#rarebooksiwant" target="#faulkner" weight="2713" />
+      <edge id="97" source="#thegreatwar" target="#krivak" weight="2713" />
+      <edge id="98" source="#LSD" target="#peace" weight="2713" />
+      <edge id="99" source="#LSD" target="#Vietnam" weight="2713" />
+      <edge id="100" source="#LSD" target="#rocknroll" weight="2713" />
+      <edge id="101" source="#LSD" target="#freelove" weight="2713" />
+      <edge id="102" source="#cbus" target="#bookcollecting" weight="2713" />
+      <edge id="103" source="#Bukowski" target="#osufootball" weight="2713" />
+      <edge id="104" source="#tessahadley" target="#marriedlove" weight="2713" />
+      <edge id="105" source="#greatmovie" target="#moneyball" weight="2713" />
+      <edge id="106" source="#Literature" target="#Books" weight="2713" />
+      <edge id="107" source="#Literature" target="#readinglife" weight="2713" />
+      <edge id="108" source="#Snopes" target="#bookcollecting" weight="2713" />
+      <edge id="109" source="#newspaperreader" target="#overwhelmed" weight="2713" />
+      <edge id="110" source="#inheaven" target="#bookcollecting" weight="2713" />
+      <edge id="111" source="#janeeyre" target="#sourcecode" weight="2713" />
+      <edge id="112" source="#janeeyre" target="#thesource" weight="2713" />
+      <edge id="113" source="#bookawards" target="#edgar" weight="2713" />
+      <edge id="114" source="#bookawards" target="#hugo" weight="2713" />
+      <edge id="115" source="#lapetite" target="#memoir" weight="2713" />
+      <edge id="116" source="#cbusneighbors" target="#TriVillage" weight="2713" />
+      <edge id="117" source="#cbusneighbors" target="#premiere" weight="2713" />
+      <edge id="118" source="#npr" target="#wyk" weight="2713" />
+      <edge id="119" source="#babyboomers" target="#olderactors" weight="2713" />
+      <edge id="120" source="#babyboomers" target="#movies" weight="2713" />
+      <edge id="121" source="#formerpeople" target="#douglassmith" weight="2713" />
+      <edge id="122" source="#backyardbirding" target="#woodpeckers" weight="2713" />
+      <edge id="123" source="#oxymoron" target="#editors" weight="2713" />
+      <edge id="124" source="#oxymoron" target="#bookmashups" weight="2713" />
+      <edge id="125" source="#books" target="#Paris" weight="2713" />
+      <edge id="126" source="#books" target="#bestof2012" weight="2713" />
+      <edge id="127" source="#books" target="#amreading" weight="2713" />
+      <edge id="128" source="#books" target="#reading" weight="10852" />
+      <edge id="129" source="#books" target="#constantcontact" weight="2713" />
+      <edge id="130" source="#books" target="#bookcritics" weight="2713" />
+      <edge id="131" source="#Paris" target="#amreading" weight="2713" />
+      <edge id="132" source="#Jordan" target="#Syria" weight="2713" />
+      <edge id="133" source="#Jordan" target="#UK" weight="2713" />
+      <edge id="134" source="#currenteventstrends" target="#bookpeople" weight="2713" />
+      <edge id="135" source="#gravitysrainbow" target="#pynchon" weight="2713" />
+      <edge id="136" source="#fridayreads" target="#swedishcrime" weight="2713" />
+      <edge id="137" source="#fridayreads" target="#amreading" weight="2713" />
+      <edge id="138" source="#Tara" target="#ScarlettO" weight="2713" />
+      <edge id="139" source="#reading" target="#libraries" weight="2713" />
+      <edge id="140" source="#reading" target="#JonathanCoe" weight="2713" />
+      <edge id="141" source="#reading" target="#IndieThursday" weight="2713" />
+      <edge id="142" source="#reading" target="#Coetzee" weight="2713" />
+      <edge id="143" source="#writetip" target="#amwriting" weight="2713" />
+      <edge id="144" source="#noneshalllookback" target="#carolinegordon" weight="2713" />
+      <edge id="145" source="#poets" target="#Laureate" weight="2713" />
+      <edge id="146" source="#poets" target="#poetry" weight="5426" />
+      <edge id="147" source="#vintagepaperbacks" target="#pulpfest" weight="2713" />
+      <edge id="148" source="#Ferlinghetti" target="#poetry" weight="2713" />
+      <edge id="149" source="#Ferlinghetti" target="#bookstore" weight="2713" />
+      <edge id="150" source="#readinglife" target="#readingaddiction" weight="2713" />
+      <edge id="151" source="#readinglife" target="#russianauthors" weight="2713" />
+      <edge id="152" source="#readinglife" target="#Books" weight="2713" />
+      <edge id="153" source="#wehadfun" target="#poetry" weight="2713" />
+      <edge id="154" source="#writing" target="#amwriting" weight="5426" />
+      <edge id="155" source="#grateful" target="#WOSU" weight="2713" />
+      <edge id="156" source="#grateful" target="#foundersday" weight="2713" />
+      <edge id="157" source="#bookclub" target="#classics" weight="2713" />
+      <edge id="158" source="#Kennedyassassination" target="#Oswald" weight="2713" />
+      <edge id="159" source="#mysterythriller" target="#Edgarawardwinner" weight="2713" />
+      <edge id="160" source="#alanfurst" target="#imafan" weight="2713" />
+      <edge id="161" source="#tarzan" target="#weissmuller" weight="2713" />
+      <edge id="162" source="#greatbook" target="#impac" weight="2713" />
+      <edge id="163" source="#feminism" target="#whatisnormal" weight="2713" />
+      <edge id="164" source="#amwriting" target="#cr4u" weight="2713" />
+      <edge id="165" source="#amwriting" target="#mondayblogs" weight="2713" />
+      <edge id="166" source="#amwriting" target="#writeprompt" weight="2713" />
+      <edge id="167" source="#TreatYourShelf" target="#booknerds" weight="2713" />
+      <edge id="168" source="#brooklyn" target="#indiebookstores" weight="2713" />
+      <edge id="169" source="#reader" target="#HungerGames" weight="2713" />
+      <edge id="170" source="#NOLA" target="#journalism" weight="2713" />
+      <edge id="171" source="#vialibri" target="#abebooks" weight="2713" />
+      <edge id="172" source="#TriVillage" target="#premiere" weight="2713" />
+      <edge id="173" source="#betweenthecovers" target="#nbcc" weight="2713" />
+      <edge id="174" source="#headlights" target="#wisdom" weight="2713" />
+      <edge id="175" source="#PhilipLevine" target="#bookcollecting" weight="2713" />
+      <edge id="176" source="#PhilipLevine" target="#poetry" weight="2713" />
+      <edge id="177" source="#beachreads" target="#vacation" weight="2713" />
+      <edge id="178" source="#Underwood" target="#SmithCorona" weight="2713" />
+      <edge id="179" source="#Underwood" target="#Remington" weight="2713" />
+      <edge id="180" source="#coffeehousepress" target="#allsides" weight="2713" />
+      <edge id="181" source="#coffeehousepress" target="#wosu" weight="2713" />
+      <edge id="182" source="#Remington" target="#SmithCorona" weight="2713" />
+      <edge id="183" source="#wosuelection" target="#vote10" weight="2713" />
+      <edge id="184" source="#bookstore" target="#poetry" weight="2713" />
+      <edge id="185" source="#roth" target="#springsteen" weight="2713" />
+      <edge id="186" source="#papermaking" target="#roycrofter" weight="2713" />
+      <edge id="187" source="#Happy60CLB" target="#poetry" weight="2713" />
+      <edge id="188" source="#springmigration" target="#gr8tbook" weight="2713" />
+      <edge id="189" source="#kafka" target="#litarchives" weight="2713" />
+      <edge id="190" source="#NOBS" target="#bookcollecting" weight="2713" />
+      <edge id="191" source="#shortstories" target="#armywives" weight="2713" />
+      <edge id="192" source="#Laureate" target="#poetry" weight="2713" />
+      <edge id="193" source="#Ohio" target="#weather" weight="2713" />
+      <edge id="194" source="#history" target="#JLit" weight="2713" />
+      <edge id="195" source="#history" target="#Jewish" weight="2713" />
+      <edge id="196" source="#raremanuscripts" target="#bookcollecting" weight="2713" />
+      <edge id="197" source="#hugo" target="#edgar" weight="2713" />
+      <edge id="198" source="#editors" target="#bookmashups" weight="2713" />
+      <edge id="199" source="#nurembergchronicle" target="#rarebook" weight="2713" />
+      <edge id="200" source="#WWIIespionage" target="#goodbooks" weight="2713" />
+      <edge id="201" source="#swallowpress" target="#lastofhismind" weight="2713" />
+      <edge id="202" source="#fashionquiz" target="#RollingStones" weight="2713" />
+      <edge id="203" source="#petercameron" target="#coralglynn" weight="2713" />
+      <edge id="204" source="#movies" target="#olderactors" weight="2713" />
+      <edge id="205" source="#sixtydegrees" target="#weather" weight="2713" />
+      <edge id="206" source="#BaileysWomensPrize" target="#EdgarAward" weight="2713" />
+      <edge id="207" source="#rexroth" target="#japanesepoetry" weight="2713" />
+      <edge id="208" source="#Birdbook" target="#buteobuteo" weight="2713" />
+      <edge id="209" source="#Birdbook" target="#buzzard" weight="2713" />
+      <edge id="210" source="#firsteditions" target="#beyondmybudget" weight="2713" />
+      <edge id="211" source="#firsteditions" target="#bookcollecting" weight="2713" />
+      <edge id="212" source="#ZimaJunction" target="#poetry" weight="5426" />
+      <edge id="213" source="#ZimaJunction" target="#Yevtushenko" weight="5426" />
+      <edge id="214" source="#manbookerlonglist" target="#bookreview" weight="2713" />
+      <edge id="215" source="#goodbooks" target="#wosu" weight="2713" />
+      <edge id="216" source="#goodbooks" target="#notsogoodbooks" weight="2713" />
+      <edge id="217" source="#Kindle" target="#Ebook" weight="2713" />
+      <edge id="218" source="#allsides" target="#wosu" weight="8139" />
+      <edge id="219" source="#wagner" target="#nibelungen" weight="2713" />
+      <edge id="220" source="#bookcollecting" target="#poetry" weight="2713" />
+      <edge id="221" source="#bookcollecting" target="#greatbooks" weight="2713" />
+      <edge id="222" source="#bookcollecting" target="#gentlymad" weight="2713" />
+      <edge id="223" source="#freelove" target="#peace" weight="2713" />
+      <edge id="224" source="#freelove" target="#rocknroll" weight="2713" />
+      <edge id="225" source="#freelove" target="#Vietnam" weight="2713" />
+      <edge id="226" source="#sourcecode" target="#thesource" weight="2713" />
+      <edge id="227" source="#rocknroll" target="#peace" weight="2713" />
+      <edge id="228" source="#rocknroll" target="#Vietnam" weight="2713" />
+      <edge id="229" source="#poetry" target="#awesome" weight="2713" />
+      <edge id="230" source="#poetry" target="#Yevtushenko" weight="5426" />
+      <edge id="231" source="#poetry" target="#contemplativelife" weight="5426" />
+      <edge id="232" source="#Vietnam" target="#peace" weight="2713" />
+      <edge id="233" source="#escape" target="#bliss" weight="2713" />
+      <edge id="234" source="#MedalofHonor" target="#VietnamVeterans" weight="2713" />
+      <edge id="235" source="#Syria" target="#UK" weight="2713" />
+      <edge id="236" source="#buzzard" target="#buteobuteo" weight="2713" />
+      <edge id="237" source="#germanshepherd" target="#belgianmalinois" weight="2713" />
+      <edge id="238" source="#ManBooker" target="#thankful" weight="2713" />
+      <edge id="239" source="#JLit" target="#Jewish" weight="2713" />
+      <edge id="240" source="#GrandSlam" target="#victory" weight="2713" />
+      <edge id="241" source="#GrandSlam" target="#FrenchOpen" weight="2713" />
+      <edge id="242" source="#constantcontact" target="#bookcritics" weight="2713" />
+      <edge id="243" source="#wosu" target="#greatreads" weight="2713" />
+      <edge id="244" source="#bookselling" target="#independentbooksellers" weight="2713" />
+      <edge id="245" source="#deweydecimalclassification" target="#aldussociety" weight="2713" />
+      <edge id="246" source="#foundersday" target="#WOSU" weight="2713" />
+      <edge id="247" source="#ABAA" target="#stolenbooks" weight="2713" />
+      <edge id="248" source="#cr4u" target="#mondayblogs" weight="2713" />
+      <edge id="249" source="#victory" target="#FrenchOpen" weight="2713" />
+    </edges>
+  </graph>
+</gexf>

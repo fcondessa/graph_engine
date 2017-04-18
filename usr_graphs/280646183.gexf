@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#internationaldayofpeace" label="#internationaldayofpeace" />
+      <node id="#indiedev" label="#indiedev" />
+      <node id="#recruitment" label="#recruitment" />
+      <node id="#what" label="#what" />
+      <node id="#books" label="#books" />
+      <node id="#are" label="#are" />
+      <node id="#writing" label="#writing" />
+      <node id="#FantasticBeasts" label="#FantasticBeasts" />
+      <node id="#social" label="#social" />
+      <node id="#layers" label="#layers" />
+      <node id="#internationaldayofwar" label="#internationaldayofwar" />
+      <node id="#synergize" label="#synergize" />
+      <node id="#influencers" label="#influencers" />
+      <node id="#symbolism" label="#symbolism" />
+      <node id="#engagement" label="#engagement" />
+      <node id="#boost" label="#boost" />
+      <node id="#meme" label="#meme" />
+      <node id="#gamedev" label="#gamedev" />
+      <node id="#soblessed" label="#soblessed" />
+      <node id="#influencer" label="#influencer" />
+      <node id="#indiegame" label="#indiegame" />
+      <node id="#so" label="#so" />
+      <node id="#NationalCoffeeDay" label="#NationalCoffeeDay" />
+      <node id="#WorldPhotoDay" label="#WorldPhotoDay" />
+      <node id="#ThursdayThoughts" label="#ThursdayThoughts" />
+      <node id="#Hogwarts" label="#Hogwarts" />
+      <node id="#true" label="#true" />
+      <node id="#win" label="#win" />
+      <node id="#brands" label="#brands" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#internationaldayofpeace" target="#internationaldayofwar" weight="3225" />
+      <edge id="1" source="#indiedev" target="#indiegame" weight="3225" />
+      <edge id="2" source="#indiedev" target="#gamedev" weight="3225" />
+      <edge id="3" source="#recruitment" target="#NationalCoffeeDay" weight="3225" />
+      <edge id="4" source="#recruitment" target="#ThursdayThoughts" weight="3225" />
+      <edge id="5" source="#what" target="#so" weight="3225" />
+      <edge id="6" source="#what" target="#true" weight="3225" />
+      <edge id="7" source="#what" target="#are" weight="3225" />
+      <edge id="8" source="#books" target="#writing" weight="3225" />
+      <edge id="9" source="#books" target="#mentalhealth" weight="3225" />
+      <edge id="10" source="#are" target="#so" weight="3225" />
+      <edge id="11" source="#are" target="#true" weight="3225" />
+      <edge id="12" source="#writing" target="#mentalhealth" weight="3225" />
+      <edge id="13" source="#FantasticBeasts" target="#Hogwarts" weight="3225" />
+      <edge id="14" source="#social" target="#influencer" weight="3225" />
+      <edge id="15" source="#layers" target="#symbolism" weight="3225" />
+      <edge id="16" source="#layers" target="#soblessed" weight="3225" />
+      <edge id="17" source="#synergize" target="#meme" weight="3225" />
+      <edge id="18" source="#synergize" target="#engagement" weight="3225" />
+      <edge id="19" source="#synergize" target="#boost" weight="3225" />
+      <edge id="20" source="#synergize" target="#brands" weight="3225" />
+      <edge id="21" source="#synergize" target="#influencers" weight="3225" />
+      <edge id="22" source="#influencers" target="#boost" weight="3225" />
+      <edge id="23" source="#influencers" target="#meme" weight="3225" />
+      <edge id="24" source="#influencers" target="#engagement" weight="3225" />
+      <edge id="25" source="#influencers" target="#brands" weight="3225" />
+      <edge id="26" source="#symbolism" target="#soblessed" weight="3225" />
+      <edge id="27" source="#engagement" target="#meme" weight="3225" />
+      <edge id="28" source="#engagement" target="#brands" weight="3225" />
+      <edge id="29" source="#engagement" target="#boost" weight="3225" />
+      <edge id="30" source="#boost" target="#meme" weight="3225" />
+      <edge id="31" source="#boost" target="#brands" weight="3225" />
+      <edge id="32" source="#meme" target="#brands" weight="3225" />
+      <edge id="33" source="#gamedev" target="#indiegame" weight="3225" />
+      <edge id="34" source="#so" target="#true" weight="3225" />
+      <edge id="35" source="#NationalCoffeeDay" target="#ThursdayThoughts" weight="3225" />
+      <edge id="36" source="#WorldPhotoDay" target="#win" weight="3225" />
+    </edges>
+  </graph>
+</gexf>

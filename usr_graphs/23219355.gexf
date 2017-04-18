@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#website" label="#website" />
+      <node id="#digital" label="#digital" />
+      <node id="#HDvideos" label="#HDvideos" />
+      <node id="#agency" label="#agency" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#website" target="#digital" weight="331" />
+      <edge id="1" source="#website" target="#HDvideos" weight="331" />
+      <edge id="2" source="#website" target="#agency" weight="331" />
+      <edge id="3" source="#digital" target="#agency" weight="331" />
+      <edge id="4" source="#digital" target="#HDvideos" weight="331" />
+      <edge id="5" source="#HDvideos" target="#agency" weight="331" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#physicians" label="#physicians" />
+      <node id="#Cato2016" label="#Cato2016" />
+      <node id="#changeTheNarrative" label="#changeTheNarrative" />
+      <node id="#recipe" label="#recipe" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#MEN" label="#MEN" />
+      <node id="#sodium" label="#sodium" />
+      <node id="#healthy" label="#healthy" />
+      <node id="#dialysis" label="#dialysis" />
+      <node id="#TBI" label="#TBI" />
+      <node id="#BrilliantIsTheNewBlack" label="#BrilliantIsTheNewBlack" />
+      <node id="#Women" label="#Women" />
+      <node id="#salt" label="#salt" />
+      <node id="#brains" label="#brains" />
+      <node id="#DemDebate" label="#DemDebate" />
+      <node id="#TJOS" label="#TJOS" />
+      <node id="#Research" label="#Research" />
+      <node id="#nutrition" label="#nutrition" />
+      <node id="#MOC" label="#MOC" />
+      <node id="#Technician" label="#Technician" />
+      <node id="#Charity" label="#Charity" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#physicians" target="#MOC" weight="1138" />
+      <edge id="1" source="#Cato2016" target="#DemDebate" weight="1138" />
+      <edge id="2" source="#changeTheNarrative" target="#BrilliantIsTheNewBlack" weight="1138" />
+      <edge id="3" source="#recipe" target="#sodium" weight="1138" />
+      <edge id="4" source="#recipe" target="#salt" weight="1138" />
+      <edge id="5" source="#recipe" target="#nutrition" weight="1138" />
+      <edge id="6" source="#recipe" target="#dialysis" weight="1138" />
+      <edge id="7" source="#recipe" target="#healthy" weight="1138" />
+      <edge id="8" source="#jobs" target="#Research" weight="1138" />
+      <edge id="9" source="#jobs" target="#Technician" weight="1138" />
+      <edge id="10" source="#MEN" target="#Women" weight="1138" />
+      <edge id="11" source="#sodium" target="#healthy" weight="1138" />
+      <edge id="12" source="#sodium" target="#nutrition" weight="1138" />
+      <edge id="13" source="#sodium" target="#dialysis" weight="1138" />
+      <edge id="14" source="#sodium" target="#salt" weight="1138" />
+      <edge id="15" source="#healthy" target="#salt" weight="1138" />
+      <edge id="16" source="#healthy" target="#nutrition" weight="1138" />
+      <edge id="17" source="#healthy" target="#dialysis" weight="1138" />
+      <edge id="18" source="#dialysis" target="#nutrition" weight="1138" />
+      <edge id="19" source="#dialysis" target="#salt" weight="1138" />
+      <edge id="20" source="#TBI" target="#brains" weight="1138" />
+      <edge id="21" source="#TBI" target="#Charity" weight="1138" />
+      <edge id="22" source="#TBI" target="#TJOS" weight="1138" />
+      <edge id="23" source="#salt" target="#nutrition" weight="1138" />
+      <edge id="24" source="#brains" target="#Charity" weight="1138" />
+      <edge id="25" source="#brains" target="#TJOS" weight="1138" />
+      <edge id="26" source="#TJOS" target="#Charity" weight="1138" />
+      <edge id="27" source="#Research" target="#Technician" weight="1138" />
+    </edges>
+  </graph>
+</gexf>

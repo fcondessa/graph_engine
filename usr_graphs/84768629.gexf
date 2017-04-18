@@ -1,0 +1,1330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#recession" label="#recession" />
+      <node id="#CarbLoading" label="#CarbLoading" />
+      <node id="#HomeOwnership" label="#HomeOwnership" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Corruption" label="#Corruption" />
+      <node id="#Anna" label="#Anna" />
+      <node id="#ILoveFriendlyRobots" label="#ILoveFriendlyRobots" />
+      <node id="#viral" label="#viral" />
+      <node id="#HIV" label="#HIV" />
+      <node id="#Holi" label="#Holi" />
+      <node id="#rides" label="#rides" />
+      <node id="#Pakistan" label="#Pakistan" />
+      <node id="#reading" label="#reading" />
+      <node id="#office" label="#office" />
+      <node id="#RegenerativeMedicine" label="#RegenerativeMedicine" />
+      <node id="#Library" label="#Library" />
+      <node id="#GSB2012" label="#GSB2012" />
+      <node id="#Cricket" label="#Cricket" />
+      <node id="#chip" label="#chip" />
+      <node id="#NewEngland" label="#NewEngland" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#SmartORScary" label="#SmartORScary" />
+      <node id="#ParadeOfHomes" label="#ParadeOfHomes" />
+      <node id="#design" label="#design" />
+      <node id="#groundwater" label="#groundwater" />
+      <node id="#Russia" label="#Russia" />
+      <node id="#StemCells" label="#StemCells" />
+      <node id="#Microeconomy" label="#Microeconomy" />
+      <node id="#corruption" label="#corruption" />
+      <node id="#orion" label="#orion" />
+      <node id="#liberal" label="#liberal" />
+      <node id="#WishIWasASkypeInvestor" label="#WishIWasASkypeInvestor" />
+      <node id="#shrek" label="#shrek" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#discoverynews" label="#discoverynews" />
+      <node id="#newsweek" label="#newsweek" />
+      <node id="#CaseShiller" label="#CaseShiller" />
+      <node id="#IPO" label="#IPO" />
+      <node id="#youwouldntlikemrmarketwhenhesangry" label="#youwouldntlikemrmarketwhenhesangry" />
+      <node id="#Technology" label="#Technology" />
+      <node id="#Renewables" label="#Renewables" />
+      <node id="#monday" label="#monday" />
+      <node id="#Olentangy" label="#Olentangy" />
+      <node id="#delhi" label="#delhi" />
+      <node id="#Blue" label="#Blue" />
+      <node id="#Renewable" label="#Renewable" />
+      <node id="#Haiti" label="#Haiti" />
+      <node id="#Garmin" label="#Garmin" />
+      <node id="#proud" label="#proud" />
+      <node id="#Firefox" label="#Firefox" />
+      <node id="#economics" label="#economics" />
+      <node id="#garmin" label="#garmin" />
+      <node id="#Running" label="#Running" />
+      <node id="#rescued" label="#rescued" />
+      <node id="#movies" label="#movies" />
+      <node id="#Toyota" label="#Toyota" />
+      <node id="#IMHO" label="#IMHO" />
+      <node id="#USA" label="#USA" />
+      <node id="#Satyagraha" label="#Satyagraha" />
+      <node id="#GangnamStyle" label="#GangnamStyle" />
+      <node id="#Verizon" label="#Verizon" />
+      <node id="#Opportunities" label="#Opportunities" />
+      <node id="#PushYourself" label="#PushYourself" />
+      <node id="#condiments" label="#condiments" />
+      <node id="#Examiner" label="#Examiner" />
+      <node id="#FlyingPig" label="#FlyingPig" />
+      <node id="#disruptive" label="#disruptive" />
+      <node id="#Weaver" label="#Weaver" />
+      <node id="#BIA" label="#BIA" />
+      <node id="#TigerMom" label="#TigerMom" />
+      <node id="#easton" label="#easton" />
+      <node id="#Motorola" label="#Motorola" />
+      <node id="#bighat" label="#bighat" />
+      <node id="#cricket" label="#cricket" />
+      <node id="#Netflix" label="#Netflix" />
+      <node id="#studies" label="#studies" />
+      <node id="#AntiCorruption" label="#AntiCorruption" />
+      <node id="#sfscanner" label="#sfscanner" />
+      <node id="#unions" label="#unions" />
+      <node id="#FLOW" label="#FLOW" />
+      <node id="#PNR" label="#PNR" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#banking" label="#banking" />
+      <node id="#ElectricCar" label="#ElectricCar" />
+      <node id="#SparkPeople" label="#SparkPeople" />
+      <node id="#health" label="#health" />
+      <node id="#ecosystem" label="#ecosystem" />
+      <node id="#MyFitnessPal" label="#MyFitnessPal" />
+      <node id="#Management" label="#Management" />
+      <node id="#nuclearpower" label="#nuclearpower" />
+      <node id="#EndCancer" label="#EndCancer" />
+      <node id="#UNCBBall" label="#UNCBBall" />
+      <node id="#Watershed" label="#Watershed" />
+      <node id="#NASA" label="#NASA" />
+      <node id="#Weiner" label="#Weiner" />
+      <node id="#Brand" label="#Brand" />
+      <node id="#schooling" label="#schooling" />
+      <node id="#NoMoreBailouts" label="#NoMoreBailouts" />
+      <node id="#safety" label="#safety" />
+      <node id="#cardio" label="#cardio" />
+      <node id="#changeattitudes" label="#changeattitudes" />
+      <node id="#GOI" label="#GOI" />
+      <node id="#coffeeshop" label="#coffeeshop" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#StreetView" label="#StreetView" />
+      <node id="#freakonomics" label="#freakonomics" />
+      <node id="#WeepingWednesday" label="#WeepingWednesday" />
+      <node id="#TED" label="#TED" />
+      <node id="#Egypt" label="#Egypt" />
+      <node id="#Century" label="#Century" />
+      <node id="#festival" label="#festival" />
+      <node id="#userfriendly" label="#userfriendly" />
+      <node id="#RIM" label="#RIM" />
+      <node id="#runner" label="#runner" />
+      <node id="#heritage" label="#heritage" />
+      <node id="#bookshop" label="#bookshop" />
+      <node id="#bestbuy" label="#bestbuy" />
+      <node id="#Seagate" label="#Seagate" />
+      <node id="#robots" label="#robots" />
+      <node id="#Entrepreneurship" label="#Entrepreneurship" />
+      <node id="#UPS" label="#UPS" />
+      <node id="#SAIC" label="#SAIC" />
+      <node id="#FoodMatters" label="#FoodMatters" />
+      <node id="#tmi" label="#tmi" />
+      <node id="#Australia" label="#Australia" />
+      <node id="#RoadID" label="#RoadID" />
+      <node id="#gold" label="#gold" />
+      <node id="#Gujarat" label="#Gujarat" />
+      <node id="#capital" label="#capital" />
+      <node id="#beatdook" label="#beatdook" />
+      <node id="#Bicycle" label="#Bicycle" />
+      <node id="#Process" label="#Process" />
+      <node id="#Kepler" label="#Kepler" />
+      <node id="#goldenrule" label="#goldenrule" />
+      <node id="#Glass" label="#Glass" />
+      <node id="#Basenji" label="#Basenji" />
+      <node id="#Aussie" label="#Aussie" />
+      <node id="#HistoryRepeats" label="#HistoryRepeats" />
+      <node id="#Leatherman" label="#Leatherman" />
+      <node id="#Nest" label="#Nest" />
+      <node id="#placebo" label="#placebo" />
+      <node id="#BabySteps" label="#BabySteps" />
+      <node id="#Ness" label="#Ness" />
+      <node id="#arsenic" label="#arsenic" />
+      <node id="#ColbertReport" label="#ColbertReport" />
+      <node id="#OneGoal" label="#OneGoal" />
+      <node id="#app" label="#app" />
+      <node id="#Outliers" label="#Outliers" />
+      <node id="#iphone" label="#iphone" />
+      <node id="#stress" label="#stress" />
+      <node id="#Duke" label="#Duke" />
+      <node id="#Google" label="#Google" />
+      <node id="#efficient" label="#efficient" />
+      <node id="#bacterial" label="#bacterial" />
+      <node id="#AnnaHazare" label="#AnnaHazare" />
+      <node id="#TrainingInjury" label="#TrainingInjury" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#CapCity" label="#CapCity" />
+      <node id="#Protests" label="#Protests" />
+      <node id="#budgetary" label="#budgetary" />
+      <node id="#IMF" label="#IMF" />
+      <node id="#66CharacterLong" label="#66CharacterLong" />
+      <node id="#westerville" label="#westerville" />
+      <node id="#domain" label="#domain" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#Oil" label="#Oil" />
+      <node id="#cwg" label="#cwg" />
+      <node id="#cast" label="#cast" />
+      <node id="#Education" label="#Education" />
+      <node id="#Chile" label="#Chile" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#endangered" label="#endangered" />
+      <node id="#CustomerLoyalty" label="#CustomerLoyalty" />
+      <node id="#CVS" label="#CVS" />
+      <node id="#safetyfirst" label="#safetyfirst" />
+      <node id="#WindPower" label="#WindPower" />
+      <node id="#AmericanDream" label="#AmericanDream" />
+      <node id="#cnn" label="#cnn" />
+      <node id="#Backyard" label="#Backyard" />
+      <node id="#deficit" label="#deficit" />
+      <node id="#collegebasketball" label="#collegebasketball" />
+      <node id="#logistics" label="#logistics" />
+      <node id="#Environmental" label="#Environmental" />
+      <node id="#starship" label="#starship" />
+      <node id="#BlueOceanStrategy" label="#BlueOceanStrategy" />
+      <node id="#newyork" label="#newyork" />
+      <node id="#Ford" label="#Ford" />
+      <node id="#mac" label="#mac" />
+      <node id="#50Miler" label="#50Miler" />
+      <node id="#GAA" label="#GAA" />
+      <node id="#Maher" label="#Maher" />
+      <node id="#Video" label="#Video" />
+      <node id="#America" label="#America" />
+      <node id="#MedicalTechnology" label="#MedicalTechnology" />
+      <node id="#Casino" label="#Casino" />
+      <node id="#Tuck" label="#Tuck" />
+      <node id="#GoHeels" label="#GoHeels" />
+      <node id="#cabdriver" label="#cabdriver" />
+      <node id="#levytator" label="#levytator" />
+      <node id="#india" label="#india" />
+      <node id="#Giant" label="#Giant" />
+      <node id="#Japan" label="#Japan" />
+      <node id="#SorryToBeAPartyPooper" label="#SorryToBeAPartyPooper" />
+      <node id="#supernova" label="#supernova" />
+      <node id="#Reuters" label="#Reuters" />
+      <node id="#Thoughts" label="#Thoughts" />
+      <node id="#healthand" label="#healthand" />
+      <node id="#annahazare" label="#annahazare" />
+      <node id="#iMac" label="#iMac" />
+      <node id="#WSJ" label="#WSJ" />
+      <node id="#colony" label="#colony" />
+      <node id="#Groupon" label="#Groupon" />
+      <node id="#tedxcbus" label="#tedxcbus" />
+      <node id="#CalvinsChallenge" label="#CalvinsChallenge" />
+      <node id="#Env" label="#Env" />
+      <node id="#Atanasoff" label="#Atanasoff" />
+      <node id="#culture" label="#culture" />
+      <node id="#iammalala" label="#iammalala" />
+      <node id="#NanakBakery" label="#NanakBakery" />
+      <node id="#DisruptiveTech" label="#DisruptiveTech" />
+      <node id="#cbusr" label="#cbusr" />
+      <node id="#bhurji" label="#bhurji" />
+      <node id="#ICC" label="#ICC" />
+      <node id="#ideals" label="#ideals" />
+      <node id="#SNW" label="#SNW" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#gps" label="#gps" />
+      <node id="#GlassCeiling" label="#GlassCeiling" />
+      <node id="#LED" label="#LED" />
+      <node id="#Coumbus" label="#Coumbus" />
+      <node id="#wind" label="#wind" />
+      <node id="#wallstreet" label="#wallstreet" />
+      <node id="#watershed" label="#watershed" />
+      <node id="#Viral" label="#Viral" />
+      <node id="#privateequity" label="#privateequity" />
+      <node id="#RealEstate" label="#RealEstate" />
+      <node id="#StemCell" label="#StemCell" />
+      <node id="#DataCenter" label="#DataCenter" />
+      <node id="#salsa" label="#salsa" />
+      <node id="#taxcredit" label="#taxcredit" />
+      <node id="#MarketShare" label="#MarketShare" />
+      <node id="#tooslow" label="#tooslow" />
+      <node id="#wealth" label="#wealth" />
+      <node id="#capabilities" label="#capabilities" />
+      <node id="#Westerville" label="#Westerville" />
+      <node id="#Gallup" label="#Gallup" />
+      <node id="#OrangeMen" label="#OrangeMen" />
+      <node id="#GettingClose" label="#GettingClose" />
+      <node id="#toystory" label="#toystory" />
+      <node id="#WesternDigital" label="#WesternDigital" />
+      <node id="#OhioStateFair" label="#OhioStateFair" />
+      <node id="#columbus_oh" label="#columbus_oh" />
+      <node id="#lextant" label="#lextant" />
+      <node id="#cycling" label="#cycling" />
+      <node id="#BostonMarathon" label="#BostonMarathon" />
+      <node id="#goheels" label="#goheels" />
+      <node id="#BestBuy" label="#BestBuy" />
+      <node id="#CBUSR" label="#CBUSR" />
+      <node id="#opinion" label="#opinion" />
+      <node id="#apocalypse" label="#apocalypse" />
+      <node id="#Growth" label="#Growth" />
+      <node id="#peace" label="#peace" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#ChaseBank" label="#ChaseBank" />
+      <node id="#Mich" label="#Mich" />
+      <node id="#Green" label="#Green" />
+      <node id="#Gliese" label="#Gliese" />
+      <node id="#oceansclub" label="#oceansclub" />
+      <node id="#metro" label="#metro" />
+      <node id="#bedbugs" label="#bedbugs" />
+      <node id="#Lokpal" label="#Lokpal" />
+      <node id="#Weights" label="#Weights" />
+      <node id="#dosomethingbetter" label="#dosomethingbetter" />
+      <node id="#supplychain" label="#supplychain" />
+      <node id="#MarsMission" label="#MarsMission" />
+      <node id="#mayo" label="#mayo" />
+      <node id="#antitrust" label="#antitrust" />
+      <node id="#startup" label="#startup" />
+      <node id="#SpillOver" label="#SpillOver" />
+      <node id="#escalator" label="#escalator" />
+      <node id="#food" label="#food" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#runchat" label="#runchat" />
+      <node id="#Flickr" label="#Flickr" />
+      <node id="#civilwar" label="#civilwar" />
+      <node id="#Diwali" label="#Diwali" />
+      <node id="#UNC" label="#UNC" />
+      <node id="#sfriot" label="#sfriot" />
+      <node id="#WestervilleBicycleClub" label="#WestervilleBicycleClub" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#learnsomethingneweveryday" label="#learnsomethingneweveryday" />
+      <node id="#security" label="#security" />
+      <node id="#Digital" label="#Digital" />
+      <node id="#HUP" label="#HUP" />
+      <node id="#HighLine" label="#HighLine" />
+      <node id="#TwitPict" label="#TwitPict" />
+      <node id="#Design" label="#Design" />
+      <node id="#Sales" label="#Sales" />
+      <node id="#peanutbutter" label="#peanutbutter" />
+      <node id="#makes" label="#makes" />
+      <node id="#BusinessWeek" label="#BusinessWeek" />
+      <node id="#2012debate" label="#2012debate" />
+      <node id="#Football" label="#Football" />
+      <node id="#MyFirstRace" label="#MyFirstRace" />
+      <node id="#nonprofit" label="#nonprofit" />
+      <node id="#Walgreens" label="#Walgreens" />
+      <node id="#Gandhiji" label="#Gandhiji" />
+      <node id="#Economy" label="#Economy" />
+      <node id="#Business" label="#Business" />
+      <node id="#polaris" label="#polaris" />
+      <node id="#CWG" label="#CWG" />
+      <node id="#Asians" label="#Asians" />
+      <node id="#toomuch" label="#toomuch" />
+      <node id="#OneMBA" label="#OneMBA" />
+      <node id="#Brooks" label="#Brooks" />
+      <node id="#egypt" label="#egypt" />
+      <node id="#priority" label="#priority" />
+      <node id="#StrengthsFinder" label="#StrengthsFinder" />
+      <node id="#potluck" label="#potluck" />
+      <node id="#HowCool" label="#HowCool" />
+      <node id="#Malala" label="#Malala" />
+      <node id="#AEP" label="#AEP" />
+      <node id="#TarHeels" label="#TarHeels" />
+      <node id="#CIO" label="#CIO" />
+      <node id="#homemade" label="#homemade" />
+      <node id="#metriccentury" label="#metriccentury" />
+      <node id="#action" label="#action" />
+      <node id="#TarHeel" label="#TarHeel" />
+      <node id="#ChromeOS" label="#ChromeOS" />
+      <node id="#ibmscgs3" label="#ibmscgs3" />
+      <node id="#GPS" label="#GPS" />
+      <node id="#gujarat" label="#gujarat" />
+      <node id="#miners" label="#miners" />
+      <node id="#ICCAN" label="#ICCAN" />
+      <node id="#Huskies" label="#Huskies" />
+      <node id="#Wegmans" label="#Wegmans" />
+      <node id="#inception" label="#inception" />
+      <node id="#Mac" label="#Mac" />
+      <node id="#industry" label="#industry" />
+      <node id="#Symphony" label="#Symphony" />
+      <node id="#protein" label="#protein" />
+      <node id="#Delhi" label="#Delhi" />
+      <node id="#environment" label="#environment" />
+      <node id="#BostonStrong" label="#BostonStrong" />
+      <node id="#haveagreatweekend" label="#haveagreatweekend" />
+      <node id="#RunningShoes" label="#RunningShoes" />
+      <node id="#WhyILoveMac" label="#WhyILoveMac" />
+      <node id="#G" label="#G" />
+      <node id="#Health" label="#Health" />
+      <node id="#WBC" label="#WBC" />
+      <node id="#Crocs" label="#Crocs" />
+      <node id="#hit" label="#hit" />
+      <node id="#patdown" label="#patdown" />
+      <node id="#globalization" label="#globalization" />
+      <node id="#WeConnect" label="#WeConnect" />
+      <node id="#technology" label="#technology" />
+      <node id="#TheColumbusDispatch" label="#TheColumbusDispatch" />
+      <node id="#fullbodyscanner" label="#fullbodyscanner" />
+      <node id="#Browns" label="#Browns" />
+      <node id="#Vizsla" label="#Vizsla" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#FloridaAvocado" label="#FloridaAvocado" />
+      <node id="#silver" label="#silver" />
+      <node id="#Skype" label="#Skype" />
+      <node id="#debate" label="#debate" />
+      <node id="#Intuit" label="#Intuit" />
+      <node id="#Clemson" label="#Clemson" />
+      <node id="#royalwedding" label="#royalwedding" />
+      <node id="#Karma" label="#Karma" />
+      <node id="#theatre" label="#theatre" />
+      <node id="#science" label="#science" />
+      <node id="#flow" label="#flow" />
+      <node id="#Congratulations" label="#Congratulations" />
+      <node id="#Highbanks" label="#Highbanks" />
+      <node id="#Marathon" label="#Marathon" />
+      <node id="#news" label="#news" />
+      <node id="#Wipro" label="#Wipro" />
+      <node id="#LookingForAHandModel" label="#LookingForAHandModel" />
+      <node id="#green" label="#green" />
+      <node id="#SciotoMile" label="#SciotoMile" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#space" label="#space" />
+      <node id="#UserExperience" label="#UserExperience" />
+      <node id="#shifters" label="#shifters" />
+      <node id="#jf" label="#jf" />
+      <node id="#global" label="#global" />
+      <node id="#Mighty" label="#Mighty" />
+      <node id="#overwhelming" label="#overwhelming" />
+      <node id="#games" label="#games" />
+      <node id="#funds" label="#funds" />
+      <node id="#TOSRV" label="#TOSRV" />
+      <node id="#581g" label="#581g" />
+      <node id="#southafrica" label="#southafrica" />
+      <node id="#Publishing" label="#Publishing" />
+      <node id="#google" label="#google" />
+      <node id="#bestofluck" label="#bestofluck" />
+      <node id="#ATT" label="#ATT" />
+      <node id="#americanhistory" label="#americanhistory" />
+      <node id="#Conservation" label="#Conservation" />
+      <node id="#Cycling" label="#Cycling" />
+      <node id="#marathon" label="#marathon" />
+      <node id="#Lessons" label="#Lessons" />
+      <node id="#renewable" label="#renewable" />
+      <node id="#standardofliving" label="#standardofliving" />
+      <node id="#GoodForLawyers" label="#GoodForLawyers" />
+      <node id="#Abbott" label="#Abbott" />
+      <node id="#Avatar" label="#Avatar" />
+      <node id="#cliche" label="#cliche" />
+      <node id="#productivity" label="#productivity" />
+      <node id="#running" label="#running" />
+      <node id="#UI" label="#UI" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#Easton" label="#Easton" />
+      <node id="#timemanagement" label="#timemanagement" />
+      <node id="#lol" label="#lol" />
+      <node id="#genetherapy" label="#genetherapy" />
+      <node id="#happiness" label="#happiness" />
+      <node id="#solar" label="#solar" />
+      <node id="#dancing" label="#dancing" />
+      <node id="#NYT" label="#NYT" />
+      <node id="#MahatmaGandhi" label="#MahatmaGandhi" />
+      <node id="#LTCM" label="#LTCM" />
+      <node id="#OhioHealth" label="#OhioHealth" />
+      <node id="#Microsoft" label="#Microsoft" />
+      <node id="#tarheels" label="#tarheels" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#India" label="#India" />
+      <node id="#Tressel" label="#Tressel" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#BostonU" label="#BostonU" />
+      <node id="#Barbour" label="#Barbour" />
+      <node id="#competition" label="#competition" />
+      <node id="#GM" label="#GM" />
+      <node id="#bandwidth" label="#bandwidth" />
+      <node id="#Rangoli" label="#Rangoli" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#economy" label="#economy" />
+      <node id="#OlentangyWatershed" label="#OlentangyWatershed" />
+      <node id="#Cloud" label="#Cloud" />
+      <node id="#Friends" label="#Friends" />
+      <node id="#nyc" label="#nyc" />
+      <node id="#dollar" label="#dollar" />
+      <node id="#airport" label="#airport" />
+      <node id="#surrogates" label="#surrogates" />
+      <node id="#Fail" label="#Fail" />
+      <node id="#Culture" label="#Culture" />
+      <node id="#greenspace" label="#greenspace" />
+      <node id="#shameful" label="#shameful" />
+      <node id="#census" label="#census" />
+      <node id="#usps" label="#usps" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#iCloud" label="#iCloud" />
+      <node id="#flu" label="#flu" />
+      <node id="#apple" label="#apple" />
+      <node id="#dogshow" label="#dogshow" />
+      <node id="#dragons" label="#dragons" />
+      <node id="#healthandfitness" label="#healthandfitness" />
+      <node id="#rhino" label="#rhino" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#Travel" label="#Travel" />
+      <node id="#family" label="#family" />
+      <node id="#sumofallfears" label="#sumofallfears" />
+      <node id="#debate2" label="#debate2" />
+      <node id="#mumbai" label="#mumbai" />
+      <node id="#trickortreat" label="#trickortreat" />
+      <node id="#carriers" label="#carriers" />
+      <node id="#cyclist" label="#cyclist" />
+      <node id="#startups" label="#startups" />
+      <node id="#homelandsecurity" label="#homelandsecurity" />
+      <node id="#Disclaimer" label="#Disclaimer" />
+      <node id="#Lingerie" label="#Lingerie" />
+      <node id="#Disgusting" label="#Disgusting" />
+      <node id="#wasteofmoney" label="#wasteofmoney" />
+      <node id="#halloween" label="#halloween" />
+      <node id="#kidsfirst" label="#kidsfirst" />
+      <node id="#poaching" label="#poaching" />
+      <node id="#USAInc" label="#USAInc" />
+      <node id="#gooddesign" label="#gooddesign" />
+      <node id="#RockyRaccoon" label="#RockyRaccoon" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#riders" label="#riders" />
+      <node id="#championed" label="#championed" />
+      <node id="#management" label="#management" />
+      <node id="#Rochester" label="#Rochester" />
+      <node id="#Children" label="#Children" />
+      <node id="#BlueDevil" label="#BlueDevil" />
+      <node id="#knowyourcustomer" label="#knowyourcustomer" />
+      <node id="#Shame" label="#Shame" />
+      <node id="#core" label="#core" />
+      <node id="#Amazon" label="#Amazon" />
+      <node id="#incentives" label="#incentives" />
+      <node id="#iloveit" label="#iloveit" />
+      <node id="#notsurprised" label="#notsurprised" />
+      <node id="#racist" label="#racist" />
+      <node id="#TMOBILE" label="#TMOBILE" />
+      <node id="#eatingin" label="#eatingin" />
+      <node id="#MSFT" label="#MSFT" />
+      <node id="#Mangalyaan" label="#Mangalyaan" />
+      <node id="#Indian" label="#Indian" />
+      <node id="#ridiculous" label="#ridiculous" />
+      <node id="#China" label="#China" />
+      <node id="#strategic" label="#strategic" />
+      <node id="#DHS" label="#DHS" />
+      <node id="#designed" label="#designed" />
+      <node id="#forerunn305" label="#forerunn305" />
+      <node id="#MovesLikeJagger" label="#MovesLikeJagger" />
+      <node id="#Popsci" label="#Popsci" />
+      <node id="#ducttape" label="#ducttape" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#launch" label="#launch" />
+      <node id="#ExceedYourLimits" label="#ExceedYourLimits" />
+      <node id="#Computing" label="#Computing" />
+      <node id="#Weather" label="#Weather" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#Buffett" label="#Buffett" />
+      <node id="#trends2011" label="#trends2011" />
+      <node id="#ROC" label="#ROC" />
+      <node id="#sharia" label="#sharia" />
+      <node id="#ZeroEmission" label="#ZeroEmission" />
+      <node id="#tourism" label="#tourism" />
+      <node id="#WorldEconomicOutlook" label="#WorldEconomicOutlook" />
+      <node id="#hai" label="#hai" />
+      <node id="#Lehman" label="#Lehman" />
+      <node id="#Science" label="#Science" />
+      <node id="#DryRun" label="#DryRun" />
+      <node id="#Mumbai" label="#Mumbai" />
+      <node id="#ElephantDad" label="#ElephantDad" />
+      <node id="#kiwis" label="#kiwis" />
+      <node id="#Author" label="#Author" />
+      <node id="#BikeColumbus" label="#BikeColumbus" />
+      <node id="#driving" label="#driving" />
+      <node id="#Turquoise" label="#Turquoise" />
+      <node id="#labor" label="#labor" />
+      <node id="#tech" label="#tech" />
+      <node id="#marathontraining" label="#marathontraining" />
+      <node id="#POHR" label="#POHR" />
+      <node id="#priced" label="#priced" />
+      <node id="#Superbowl" label="#Superbowl" />
+      <node id="#aggregate" label="#aggregate" />
+      <node id="#sparkpeople" label="#sparkpeople" />
+      <node id="#fail" label="#fail" />
+      <node id="#business" label="#business" />
+      <node id="#funded" label="#funded" />
+      <node id="#Mubarak" label="#Mubarak" />
+      <node id="#inflation" label="#inflation" />
+      <node id="#commoncold" label="#commoncold" />
+      <node id="#Americans" label="#Americans" />
+      <node id="#Safari" label="#Safari" />
+      <node id="#who" label="#who" />
+      <node id="#mustard" label="#mustard" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#Opportunity" label="#Opportunity" />
+      <node id="#ColumbusMarathon" label="#ColumbusMarathon" />
+      <node id="#cholera" label="#cholera" />
+      <node id="#computer" label="#computer" />
+      <node id="#fitness" label="#fitness" />
+      <node id="#BuyerRemorse" label="#BuyerRemorse" />
+      <node id="#Hills" label="#Hills" />
+      <node id="#Pelotonia" label="#Pelotonia" />
+      <node id="#wd40" label="#wd40" />
+      <node id="#kenanflagler" label="#kenanflagler" />
+      <node id="#ACS" label="#ACS" />
+      <node id="#MarketRecap" label="#MarketRecap" />
+      <node id="#iPhone" label="#iPhone" />
+      <node id="#DebateEtiquette" label="#DebateEtiquette" />
+      <node id="#innov" label="#innov" />
+      <node id="#SriLanka" label="#SriLanka" />
+      <node id="#IndiaAtMars" label="#IndiaAtMars" />
+      <node id="#conservative" label="#conservative" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#recession" target="#economy" weight="3193" />
+      <edge id="1" source="#recession" target="#banking" weight="3193" />
+      <edge id="2" source="#CarbLoading" target="#RoadID" weight="3193" />
+      <edge id="3" source="#CarbLoading" target="#Cycling" weight="3193" />
+      <edge id="4" source="#CarbLoading" target="#CalvinsChallenge" weight="3193" />
+      <edge id="5" source="#CarbLoading" target="#MyFirstRace" weight="3193" />
+      <edge id="6" source="#HomeOwnership" target="#AmericanDream" weight="3193" />
+      <edge id="7" source="#HomeOwnership" target="#Entrepreneurship" weight="3193" />
+      <edge id="8" source="#Columbus" target="#NYC" weight="3193" />
+      <edge id="9" source="#Columbus" target="#Library" weight="3193" />
+      <edge id="10" source="#Columbus" target="#proud" weight="3193" />
+      <edge id="11" source="#Columbus" target="#ROC" weight="3193" />
+      <edge id="12" source="#Columbus" target="#realestate" weight="3193" />
+      <edge id="13" source="#Columbus" target="#economy" weight="3193" />
+      <edge id="14" source="#Columbus" target="#homelandsecurity" weight="3193" />
+      <edge id="15" source="#Columbus" target="#Symphony" weight="3193" />
+      <edge id="16" source="#Columbus" target="#trends2011" weight="3193" />
+      <edge id="17" source="#Columbus" target="#cbusr" weight="3193" />
+      <edge id="18" source="#Columbus" target="#DHS" weight="3193" />
+      <edge id="19" source="#Columbus" target="#Marathon" weight="3193" />
+      <edge id="20" source="#Columbus" target="#Casino" weight="3193" />
+      <edge id="21" source="#Corruption" target="#Anna" weight="3193" />
+      <edge id="22" source="#Corruption" target="#GOI" weight="3193" />
+      <edge id="23" source="#Anna" target="#GOI" weight="3193" />
+      <edge id="24" source="#ILoveFriendlyRobots" target="#Amazon" weight="3193" />
+      <edge id="25" source="#viral" target="#flu" weight="3193" />
+      <edge id="26" source="#viral" target="#bacterial" weight="3193" />
+      <edge id="27" source="#viral" target="#commoncold" weight="3193" />
+      <edge id="28" source="#HIV" target="#Abbott" weight="3193" />
+      <edge id="29" source="#Holi" target="#festival" weight="3193" />
+      <edge id="30" source="#Holi" target="#india" weight="3193" />
+      <edge id="31" source="#rides" target="#Bicycle" weight="3193" />
+      <edge id="32" source="#Pakistan" target="#Australia" weight="3193" />
+      <edge id="33" source="#Pakistan" target="#Mich" weight="3193" />
+      <edge id="34" source="#Pakistan" target="#Duke" weight="3193" />
+      <edge id="35" source="#Pakistan" target="#cricket" weight="3193" />
+      <edge id="36" source="#Pakistan" target="#ICC" weight="6386" />
+      <edge id="37" source="#Pakistan" target="#OSU" weight="3193" />
+      <edge id="38" source="#Pakistan" target="#India" weight="6386" />
+      <edge id="39" source="#Pakistan" target="#UNC" weight="3193" />
+      <edge id="40" source="#reading" target="#economics" weight="3193" />
+      <edge id="41" source="#reading" target="#business" weight="3193" />
+      <edge id="42" source="#reading" target="#startups" weight="3193" />
+      <edge id="43" source="#reading" target="#healthand" weight="3193" />
+      <edge id="44" source="#reading" target="#columbus_oh" weight="3193" />
+      <edge id="45" source="#office" target="#Mac" weight="3193" />
+      <edge id="46" source="#office" target="#WhyILoveMac" weight="3193" />
+      <edge id="47" source="#office" target="#Microsoft" weight="3193" />
+      <edge id="48" source="#office" target="#HUP" weight="3193" />
+      <edge id="49" source="#office" target="#Apple" weight="3193" />
+      <edge id="50" source="#RegenerativeMedicine" target="#StemCell" weight="3193" />
+      <edge id="51" source="#RegenerativeMedicine" target="#Health" weight="3193" />
+      <edge id="52" source="#RegenerativeMedicine" target="#StemCells" weight="3193" />
+      <edge id="53" source="#Library" target="#economy" weight="3193" />
+      <edge id="54" source="#GSB2012" target="#swcbus" weight="3193" />
+      <edge id="55" source="#Cricket" target="#India" weight="6386" />
+      <edge id="56" source="#Cricket" target="#SriLanka" weight="3193" />
+      <edge id="57" source="#Cricket" target="#Mumbai" weight="3193" />
+      <edge id="58" source="#Cricket" target="#ICC" weight="3193" />
+      <edge id="59" source="#Cricket" target="#Australia" weight="3193" />
+      <edge id="60" source="#chip" target="#gps" weight="3193" />
+      <edge id="61" source="#chip" target="#rhino" weight="3193" />
+      <edge id="62" source="#chip" target="#southafrica" weight="3193" />
+      <edge id="63" source="#chip" target="#poaching" weight="3193" />
+      <edge id="64" source="#chip" target="#endangered" weight="3193" />
+      <edge id="65" source="#NewEngland" target="#ParadeOfHomes" weight="3193" />
+      <edge id="66" source="#NewEngland" target="#Weaver" weight="3193" />
+      <edge id="67" source="#NewEngland" target="#BIA" weight="3193" />
+      <edge id="68" source="#Innovation" target="#Rochester" weight="3193" />
+      <edge id="69" source="#Innovation" target="#SpillOver" weight="3193" />
+      <edge id="70" source="#Innovation" target="#MarketShare" weight="3193" />
+      <edge id="71" source="#Innovation" target="#Digital" weight="3193" />
+      <edge id="72" source="#SmartORScary" target="#NoMoreBailouts" weight="3193" />
+      <edge id="73" source="#ParadeOfHomes" target="#Weaver" weight="3193" />
+      <edge id="74" source="#ParadeOfHomes" target="#BIA" weight="3193" />
+      <edge id="75" source="#design" target="#placebo" weight="3193" />
+      <edge id="76" source="#groundwater" target="#arsenic" weight="3193" />
+      <edge id="77" source="#groundwater" target="#Technology" weight="3193" />
+      <edge id="78" source="#groundwater" target="#India" weight="3193" />
+      <edge id="79" source="#Russia" target="#China" weight="3193" />
+      <edge id="80" source="#Russia" target="#dollar" weight="3193" />
+      <edge id="81" source="#Microeconomy" target="#Mighty" weight="3193" />
+      <edge id="82" source="#Microeconomy" target="#India" weight="3193" />
+      <edge id="83" source="#corruption" target="#Lokpal" weight="3193" />
+      <edge id="84" source="#corruption" target="#India" weight="3193" />
+      <edge id="85" source="#corruption" target="#annahazare" weight="3193" />
+      <edge id="86" source="#orion" target="#supernova" weight="3193" />
+      <edge id="87" source="#liberal" target="#genetherapy" weight="3193" />
+      <edge id="88" source="#liberal" target="#conservative" weight="3193" />
+      <edge id="89" source="#WishIWasASkypeInvestor" target="#iPhone" weight="3193" />
+      <edge id="90" source="#WishIWasASkypeInvestor" target="#iMac" weight="3193" />
+      <edge id="91" source="#WishIWasASkypeInvestor" target="#Skype" weight="3193" />
+      <edge id="92" source="#WishIWasASkypeInvestor" target="#Microsoft" weight="3193" />
+      <edge id="93" source="#shrek" target="#toystory" weight="3193" />
+      <edge id="94" source="#shrek" target="#inception" weight="3193" />
+      <edge id="95" source="#Apple" target="#Verizon" weight="3193" />
+      <edge id="96" source="#Apple" target="#Microsoft" weight="3193" />
+      <edge id="97" source="#Apple" target="#ChromeOS" weight="3193" />
+      <edge id="98" source="#Apple" target="#Mac" weight="3193" />
+      <edge id="99" source="#Apple" target="#iMac" weight="3193" />
+      <edge id="100" source="#Apple" target="#HUP" weight="3193" />
+      <edge id="101" source="#Apple" target="#WhyILoveMac" weight="3193" />
+      <edge id="102" source="#Apple" target="#iCloud" weight="3193" />
+      <edge id="103" source="#discoverynews" target="#levytator" weight="3193" />
+      <edge id="104" source="#discoverynews" target="#escalator" weight="3193" />
+      <edge id="105" source="#newsweek" target="#TwitPict" weight="6386" />
+      <edge id="106" source="#CaseShiller" target="#AmericanDream" weight="3193" />
+      <edge id="107" source="#IPO" target="#GM" weight="3193" />
+      <edge id="108" source="#youwouldntlikemrmarketwhenhesangry" target="#MarketRecap" weight="3193" />
+      <edge id="109" source="#Technology" target="#arsenic" weight="3193" />
+      <edge id="110" source="#Technology" target="#GlassCeiling" weight="3193" />
+      <edge id="111" source="#Technology" target="#Science" weight="3193" />
+      <edge id="112" source="#Technology" target="#India" weight="3193" />
+      <edge id="113" source="#Renewables" target="#Growth" weight="3193" />
+      <edge id="114" source="#Renewables" target="#AEP" weight="3193" />
+      <edge id="115" source="#monday" target="#happiness" weight="3193" />
+      <edge id="116" source="#monday" target="#timemanagement" weight="3193" />
+      <edge id="117" source="#monday" target="#productivity" weight="3193" />
+      <edge id="118" source="#Olentangy" target="#Watershed" weight="6386" />
+      <edge id="119" source="#Olentangy" target="#greenspace" weight="3193" />
+      <edge id="120" source="#Olentangy" target="#Friends" weight="3193" />
+      <edge id="121" source="#Olentangy" target="#FLOW" weight="12772" />
+      <edge id="122" source="#delhi" target="#cwg" weight="3193" />
+      <edge id="123" source="#Blue" target="#Turquoise" weight="3193" />
+      <edge id="124" source="#Blue" target="#Green" weight="3193" />
+      <edge id="125" source="#Renewable" target="#Gujarat" weight="3193" />
+      <edge id="126" source="#Renewable" target="#WindPower" weight="3193" />
+      <edge id="127" source="#Haiti" target="#cholera" weight="3193" />
+      <edge id="128" source="#Garmin" target="#Pelotonia" weight="3193" />
+      <edge id="129" source="#Firefox" target="#Safari" weight="3193" />
+      <edge id="130" source="#economics" target="#columbus_oh" weight="6386" />
+      <edge id="131" source="#economics" target="#healthandfitness" weight="3193" />
+      <edge id="132" source="#economics" target="#healthand" weight="3193" />
+      <edge id="133" source="#economics" target="#startups" weight="6386" />
+      <edge id="134" source="#economics" target="#innov" weight="3193" />
+      <edge id="135" source="#economics" target="#business" weight="6386" />
+      <edge id="136" source="#garmin" target="#GPS" weight="3193" />
+      <edge id="137" source="#garmin" target="#forerunn305" weight="3193" />
+      <edge id="138" source="#Running" target="#core" weight="3193" />
+      <edge id="139" source="#Running" target="#capabilities" weight="3193" />
+      <edge id="140" source="#Running" target="#Weights" weight="3193" />
+      <edge id="141" source="#Running" target="#strategic" weight="3193" />
+      <edge id="142" source="#Running" target="#ColumbusMarathon" weight="3193" />
+      <edge id="143" source="#Running" target="#Highbanks" weight="3193" />
+      <edge id="144" source="#Running" target="#Cycling" weight="3193" />
+      <edge id="145" source="#rescued" target="#family" weight="3193" />
+      <edge id="146" source="#rescued" target="#Chile" weight="3193" />
+      <edge id="147" source="#rescued" target="#miners" weight="3193" />
+      <edge id="148" source="#movies" target="#theatre" weight="3193" />
+      <edge id="149" source="#movies" target="#dancing" weight="3193" />
+      <edge id="150" source="#movies" target="#cast" weight="3193" />
+      <edge id="151" source="#movies" target="#surrogates" weight="3193" />
+      <edge id="152" source="#movies" target="#robots" weight="3193" />
+      <edge id="153" source="#Toyota" target="#Fail" weight="3193" />
+      <edge id="154" source="#IMHO" target="#carriers" weight="3193" />
+      <edge id="155" source="#USA" target="#ideals" weight="3193" />
+      <edge id="156" source="#USA" target="#Japan" weight="3193" />
+      <edge id="157" source="#USA" target="#heritage" weight="3193" />
+      <edge id="158" source="#USA" target="#TwitPict" weight="3193" />
+      <edge id="159" source="#USA" target="#healthcare" weight="3193" />
+      <edge id="160" source="#Satyagraha" target="#Gandhiji" weight="3193" />
+      <edge id="161" source="#GangnamStyle" target="#2012debate" weight="3193" />
+      <edge id="162" source="#Verizon" target="#ChromeOS" weight="3193" />
+      <edge id="163" source="#Opportunities" target="#NASA" weight="3193" />
+      <edge id="164" source="#Opportunities" target="#Kepler" weight="3193" />
+      <edge id="165" source="#PushYourself" target="#CalvinsChallenge" weight="3193" />
+      <edge id="166" source="#PushYourself" target="#ExceedYourLimits" weight="3193" />
+      <edge id="167" source="#condiments" target="#mayo" weight="3193" />
+      <edge id="168" source="#condiments" target="#economy" weight="3193" />
+      <edge id="169" source="#condiments" target="#mustard" weight="3193" />
+      <edge id="170" source="#condiments" target="#eatingin" weight="3193" />
+      <edge id="171" source="#condiments" target="#salsa" weight="3193" />
+      <edge id="172" source="#Examiner" target="#BikeColumbus" weight="3193" />
+      <edge id="173" source="#FlyingPig" target="#CapCity" weight="3193" />
+      <edge id="174" source="#disruptive" target="#infographic" weight="3193" />
+      <edge id="175" source="#Weaver" target="#BIA" weight="3193" />
+      <edge id="176" source="#TigerMom" target="#ElephantDad" weight="3193" />
+      <edge id="177" source="#easton" target="#polaris" weight="3193" />
+      <edge id="178" source="#Motorola" target="#Nest" weight="3193" />
+      <edge id="179" source="#Motorola" target="#Google" weight="3193" />
+      <edge id="180" source="#Motorola" target="#Glass" weight="3193" />
+      <edge id="181" source="#Motorola" target="#robots" weight="3193" />
+      <edge id="182" source="#bighat" target="#royalwedding" weight="3193" />
+      <edge id="183" source="#cricket" target="#SriLanka" weight="3193" />
+      <edge id="184" source="#cricket" target="#ICC" weight="3193" />
+      <edge id="185" source="#cricket" target="#India" weight="12772" />
+      <edge id="186" source="#Netflix" target="#Clemson" weight="3193" />
+      <edge id="187" source="#Netflix" target="#DisruptiveTech" weight="3193" />
+      <edge id="188" source="#Netflix" target="#TarHeels" weight="3193" />
+      <edge id="189" source="#Netflix" target="#bandwidth" weight="3193" />
+      <edge id="190" source="#Netflix" target="#BlueOceanStrategy" weight="3193" />
+      <edge id="191" source="#Netflix" target="#Avatar" weight="3193" />
+      <edge id="192" source="#Netflix" target="#fail" weight="3193" />
+      <edge id="193" source="#studies" target="#industry" weight="3193" />
+      <edge id="194" source="#studies" target="#funded" weight="3193" />
+      <edge id="195" source="#AntiCorruption" target="#Protests" weight="3193" />
+      <edge id="196" source="#AntiCorruption" target="#AnnaHazare" weight="3193" />
+      <edge id="197" source="#sfscanner" target="#columbus" weight="3193" />
+      <edge id="198" source="#sfscanner" target="#sfriot" weight="3193" />
+      <edge id="199" source="#unions" target="#labor" weight="3193" />
+      <edge id="200" source="#unions" target="#capital" weight="3193" />
+      <edge id="201" source="#FLOW" target="#nonprofit" weight="3193" />
+      <edge id="202" source="#FLOW" target="#Watershed" weight="6386" />
+      <edge id="203" source="#FLOW" target="#watershed" weight="6386" />
+      <edge id="204" source="#FLOW" target="#greenspace" weight="3193" />
+      <edge id="205" source="#FLOW" target="#OlentangyWatershed" weight="3193" />
+      <edge id="206" source="#FLOW" target="#environment" weight="3193" />
+      <edge id="207" source="#FLOW" target="#Conservation" weight="3193" />
+      <edge id="208" source="#FLOW" target="#Friends" weight="3193" />
+      <edge id="209" source="#FLOW" target="#Backyard" weight="3193" />
+      <edge id="210" source="#PNR" target="#dragons" weight="3193" />
+      <edge id="211" source="#PNR" target="#shifters" weight="3193" />
+      <edge id="212" source="#columbus" target="#sfriot" weight="3193" />
+      <edge id="213" source="#banking" target="#economy" weight="3193" />
+      <edge id="214" source="#ElectricCar" target="#ZeroEmission" weight="3193" />
+      <edge id="215" source="#SparkPeople" target="#MyFitnessPal" weight="3193" />
+      <edge id="216" source="#health" target="#riders" weight="3193" />
+      <edge id="217" source="#health" target="#sparkpeople" weight="3193" />
+      <edge id="218" source="#health" target="#app" weight="3193" />
+      <edge id="219" source="#health" target="#logistics" weight="3193" />
+      <edge id="220" source="#health" target="#UI" weight="3193" />
+      <edge id="221" source="#health" target="#iphone" weight="3193" />
+      <edge id="222" source="#health" target="#cancer" weight="3193" />
+      <edge id="223" source="#health" target="#overwhelming" weight="3193" />
+      <edge id="224" source="#health" target="#TED" weight="3193" />
+      <edge id="225" source="#health" target="#inspiration" weight="3193" />
+      <edge id="226" source="#health" target="#fitness" weight="3193" />
+      <edge id="227" source="#health" target="#cycling" weight="6386" />
+      <edge id="228" source="#health" target="#cardio" weight="3193" />
+      <edge id="229" source="#health" target="#FoodMatters" weight="3193" />
+      <edge id="230" source="#ecosystem" target="#startup" weight="3193" />
+      <edge id="231" source="#Management" target="#Marketing" weight="3193" />
+      <edge id="232" source="#Management" target="#Sales" weight="3193" />
+      <edge id="233" source="#nuclearpower" target="#environment" weight="3193" />
+      <edge id="234" source="#EndCancer" target="#OneGoal" weight="3193" />
+      <edge id="235" source="#UNCBBall" target="#GoHeels" weight="3193" />
+      <edge id="236" source="#Watershed" target="#greenspace" weight="3193" />
+      <edge id="237" source="#Watershed" target="#Ohio" weight="3193" />
+      <edge id="238" source="#NASA" target="#Kepler" weight="3193" />
+      <edge id="239" source="#Weiner" target="#Maher" weight="3193" />
+      <edge id="240" source="#Brand" target="#Wegmans" weight="3193" />
+      <edge id="241" source="#Brand" target="#Crocs" weight="3193" />
+      <edge id="242" source="#Brand" target="#Walgreens" weight="3193" />
+      <edge id="243" source="#schooling" target="#healthcare" weight="3193" />
+      <edge id="244" source="#safety" target="#driving" weight="3193" />
+      <edge id="245" source="#cardio" target="#cycling" weight="6386" />
+      <edge id="246" source="#changeattitudes" target="#healthcare" weight="3193" />
+      <edge id="247" source="#changeattitudes" target="#who" weight="3193" />
+      <edge id="248" source="#coffeeshop" target="#bookshop" weight="3193" />
+      <edge id="249" source="#strategy" target="#economy" weight="3193" />
+      <edge id="250" source="#strategy" target="#india" weight="3193" />
+      <edge id="251" source="#strategy" target="#knowyourcustomer" weight="3193" />
+      <edge id="252" source="#strategy" target="#global" weight="3193" />
+      <edge id="253" source="#StreetView" target="#Google" weight="3193" />
+      <edge id="254" source="#StreetView" target="#nyc" weight="3193" />
+      <edge id="255" source="#StreetView" target="#cabdriver" weight="3193" />
+      <edge id="256" source="#freakonomics" target="#Groupon" weight="3193" />
+      <edge id="257" source="#WeepingWednesday" target="#BuyerRemorse" weight="3193" />
+      <edge id="258" source="#TED" target="#logistics" weight="3193" />
+      <edge id="259" source="#Egypt" target="#Mubarak" weight="3193" />
+      <edge id="260" source="#Century" target="#Pelotonia" weight="3193" />
+      <edge id="261" source="#Century" target="#Cancer" weight="3193" />
+      <edge id="262" source="#festival" target="#india" weight="3193" />
+      <edge id="263" source="#userfriendly" target="#efficient" weight="3193" />
+      <edge id="264" source="#userfriendly" target="#CVS" weight="3193" />
+      <edge id="265" source="#RIM" target="#MSFT" weight="3193" />
+      <edge id="266" source="#runner" target="#running" weight="3193" />
+      <edge id="267" source="#runner" target="#runchat" weight="3193" />
+      <edge id="268" source="#runner" target="#marathontraining" weight="3193" />
+      <edge id="269" source="#runner" target="#marathon" weight="3193" />
+      <edge id="270" source="#heritage" target="#ideals" weight="3193" />
+      <edge id="271" source="#heritage" target="#NYT" weight="3193" />
+      <edge id="272" source="#heritage" target="#Karma" weight="3193" />
+      <edge id="273" source="#bestbuy" target="#fail" weight="3193" />
+      <edge id="274" source="#Seagate" target="#WesternDigital" weight="3193" />
+      <edge id="275" source="#Seagate" target="#G" weight="3193" />
+      <edge id="276" source="#robots" target="#Google" weight="3193" />
+      <edge id="277" source="#robots" target="#Glass" weight="3193" />
+      <edge id="278" source="#robots" target="#surrogates" weight="3193" />
+      <edge id="279" source="#robots" target="#theatre" weight="3193" />
+      <edge id="280" source="#robots" target="#dancing" weight="3193" />
+      <edge id="281" source="#robots" target="#Nest" weight="3193" />
+      <edge id="282" source="#robots" target="#cast" weight="3193" />
+      <edge id="283" source="#Entrepreneurship" target="#AmericanDream" weight="3193" />
+      <edge id="284" source="#UPS" target="#sumofallfears" weight="3193" />
+      <edge id="285" source="#UPS" target="#security" weight="3193" />
+      <edge id="286" source="#UPS" target="#logistics" weight="3193" />
+      <edge id="287" source="#SAIC" target="#Wipro" weight="3193" />
+      <edge id="288" source="#tmi" target="#lol" weight="3193" />
+      <edge id="289" source="#tmi" target="#learnsomethingneweveryday" weight="3193" />
+      <edge id="290" source="#Australia" target="#Mich" weight="3193" />
+      <edge id="291" source="#Australia" target="#Duke" weight="3193" />
+      <edge id="292" source="#Australia" target="#ICC" weight="3193" />
+      <edge id="293" source="#Australia" target="#OSU" weight="3193" />
+      <edge id="294" source="#Australia" target="#India" weight="9579" />
+      <edge id="295" source="#Australia" target="#UNC" weight="3193" />
+      <edge id="296" source="#RoadID" target="#cbusr" weight="3193" />
+      <edge id="297" source="#RoadID" target="#CalvinsChallenge" weight="3193" />
+      <edge id="298" source="#RoadID" target="#GettingClose" weight="3193" />
+      <edge id="299" source="#RoadID" target="#Cycling" weight="3193" />
+      <edge id="300" source="#RoadID" target="#Pelotonia" weight="3193" />
+      <edge id="301" source="#RoadID" target="#MyFirstRace" weight="3193" />
+      <edge id="302" source="#gold" target="#Oil" weight="3193" />
+      <edge id="303" source="#gold" target="#food" weight="3193" />
+      <edge id="304" source="#gold" target="#silver" weight="3193" />
+      <edge id="305" source="#gold" target="#inflation" weight="3193" />
+      <edge id="306" source="#Gujarat" target="#WindPower" weight="3193" />
+      <edge id="307" source="#capital" target="#labor" weight="3193" />
+      <edge id="308" source="#beatdook" target="#goheels" weight="3193" />
+      <edge id="309" source="#Bicycle" target="#Westerville" weight="3193" />
+      <edge id="310" source="#Bicycle" target="#budgetary" weight="3193" />
+      <edge id="311" source="#Bicycle" target="#WBC" weight="3193" />
+      <edge id="312" source="#Process" target="#UserExperience" weight="3193" />
+      <edge id="313" source="#Process" target="#Design" weight="3193" />
+      <edge id="314" source="#goldenrule" target="#cliche" weight="3193" />
+      <edge id="315" source="#Glass" target="#Nest" weight="3193" />
+      <edge id="316" source="#Glass" target="#Google" weight="3193" />
+      <edge id="317" source="#Basenji" target="#championed" weight="3193" />
+      <edge id="318" source="#Basenji" target="#Vizsla" weight="6386" />
+      <edge id="319" source="#Basenji" target="#dogshow" weight="3193" />
+      <edge id="320" source="#Basenji" target="#TwitPict" weight="3193" />
+      <edge id="321" source="#Aussie" target="#kiwis" weight="3193" />
+      <edge id="322" source="#Aussie" target="#racist" weight="3193" />
+      <edge id="323" source="#Aussie" target="#Delhi" weight="3193" />
+      <edge id="324" source="#Aussie" target="#india" weight="3193" />
+      <edge id="325" source="#HistoryRepeats" target="#MahatmaGandhi" weight="3193" />
+      <edge id="326" source="#Leatherman" target="#Startup" weight="3193" />
+      <edge id="327" source="#Nest" target="#Google" weight="3193" />
+      <edge id="328" source="#BabySteps" target="#Congratulations" weight="3193" />
+      <edge id="329" source="#Ness" target="#launch" weight="3193" />
+      <edge id="330" source="#arsenic" target="#India" weight="3193" />
+      <edge id="331" source="#ColbertReport" target="#globalization" weight="3193" />
+      <edge id="332" source="#ColbertReport" target="#competition" weight="3193" />
+      <edge id="333" source="#ColbertReport" target="#Education" weight="3193" />
+      <edge id="334" source="#app" target="#iphone" weight="3193" />
+      <edge id="335" source="#app" target="#sparkpeople" weight="3193" />
+      <edge id="336" source="#app" target="#UI" weight="3193" />
+      <edge id="337" source="#app" target="#overwhelming" weight="3193" />
+      <edge id="338" source="#Outliers" target="#Buffett" weight="3193" />
+      <edge id="339" source="#iphone" target="#sparkpeople" weight="3193" />
+      <edge id="340" source="#iphone" target="#UI" weight="3193" />
+      <edge id="341" source="#iphone" target="#overwhelming" weight="3193" />
+      <edge id="342" source="#stress" target="#science" weight="3193" />
+      <edge id="343" source="#Duke" target="#Mich" weight="3193" />
+      <edge id="344" source="#Duke" target="#India" weight="3193" />
+      <edge id="345" source="#Duke" target="#OSU" weight="3193" />
+      <edge id="346" source="#Duke" target="#ICC" weight="3193" />
+      <edge id="347" source="#Duke" target="#UNC" weight="3193" />
+      <edge id="348" source="#Google" target="#BostonMarathon" weight="3193" />
+      <edge id="349" source="#Google" target="#nyc" weight="3193" />
+      <edge id="350" source="#Google" target="#cabdriver" weight="3193" />
+      <edge id="351" source="#efficient" target="#CVS" weight="3193" />
+      <edge id="352" source="#bacterial" target="#flu" weight="3193" />
+      <edge id="353" source="#bacterial" target="#commoncold" weight="3193" />
+      <edge id="354" source="#AnnaHazare" target="#Protests" weight="3193" />
+      <edge id="355" source="#TrainingInjury" target="#LookingForAHandModel" weight="3193" />
+      <edge id="356" source="#cancer" target="#inspiration" weight="3193" />
+      <edge id="357" source="#cancer" target="#riders" weight="3193" />
+      <edge id="358" source="#IMF" target="#economy" weight="3193" />
+      <edge id="359" source="#IMF" target="#WorldEconomicOutlook" weight="3193" />
+      <edge id="360" source="#66CharacterLong" target="#GoodForLawyers" weight="3193" />
+      <edge id="361" source="#66CharacterLong" target="#ICCAN" weight="3193" />
+      <edge id="362" source="#westerville" target="#NanakBakery" weight="3193" />
+      <edge id="363" source="#domain" target="#innovation" weight="3193" />
+      <edge id="364" source="#domain" target="#technology" weight="3193" />
+      <edge id="365" source="#domain" target="#LED" weight="3193" />
+      <edge id="366" source="#domain" target="#environment" weight="3193" />
+      <edge id="367" source="#domain" target="#iloveit" weight="3193" />
+      <edge id="368" source="#Cancer" target="#MedicalTechnology" weight="3193" />
+      <edge id="369" source="#Cancer" target="#Pelotonia" weight="3193" />
+      <edge id="370" source="#Cancer" target="#POHR" weight="3193" />
+      <edge id="371" source="#Cancer" target="#ACS" weight="3193" />
+      <edge id="372" source="#Oil" target="#food" weight="3193" />
+      <edge id="373" source="#Oil" target="#silver" weight="3193" />
+      <edge id="374" source="#Oil" target="#inflation" weight="3193" />
+      <edge id="375" source="#cast" target="#theatre" weight="3193" />
+      <edge id="376" source="#cast" target="#dancing" weight="3193" />
+      <edge id="377" source="#cast" target="#surrogates" weight="3193" />
+      <edge id="378" source="#Education" target="#competition" weight="3193" />
+      <edge id="379" source="#Education" target="#globalization" weight="3193" />
+      <edge id="380" source="#Chile" target="#family" weight="3193" />
+      <edge id="381" source="#Chile" target="#miners" weight="3193" />
+      <edge id="382" source="#Cleveland" target="#Lingerie" weight="3193" />
+      <edge id="383" source="#Cleveland" target="#Football" weight="3193" />
+      <edge id="384" source="#Cleveland" target="#Browns" weight="3193" />
+      <edge id="385" source="#endangered" target="#southafrica" weight="3193" />
+      <edge id="386" source="#endangered" target="#poaching" weight="3193" />
+      <edge id="387" source="#endangered" target="#rhino" weight="3193" />
+      <edge id="388" source="#endangered" target="#gps" weight="3193" />
+      <edge id="389" source="#CustomerLoyalty" target="#TOSRV" weight="3193" />
+      <edge id="390" source="#safetyfirst" target="#cycling" weight="3193" />
+      <edge id="391" source="#cnn" target="#mumbai" weight="3193" />
+      <edge id="392" source="#Backyard" target="#Conservation" weight="3193" />
+      <edge id="393" source="#deficit" target="#standardofliving" weight="3193" />
+      <edge id="394" source="#deficit" target="#newyork" weight="3193" />
+      <edge id="395" source="#collegebasketball" target="#tarheels" weight="3193" />
+      <edge id="396" source="#logistics" target="#sumofallfears" weight="3193" />
+      <edge id="397" source="#logistics" target="#security" weight="3193" />
+      <edge id="398" source="#Environmental" target="#Travel" weight="3193" />
+      <edge id="399" source="#Environmental" target="#Mumbai" weight="3193" />
+      <edge id="400" source="#starship" target="#space" weight="3193" />
+      <edge id="401" source="#starship" target="#colony" weight="3193" />
+      <edge id="402" source="#BlueOceanStrategy" target="#bandwidth" weight="3193" />
+      <edge id="403" source="#BlueOceanStrategy" target="#DisruptiveTech" weight="3193" />
+      <edge id="404" source="#Ford" target="#India" weight="3193" />
+      <edge id="405" source="#mac" target="#apple" weight="3193" />
+      <edge id="406" source="#50Miler" target="#RockyRaccoon" weight="3193" />
+      <edge id="407" source="#GAA" target="#UNC" weight="3193" />
+      <edge id="408" source="#Video" target="#Viral" weight="3193" />
+      <edge id="409" source="#America" target="#trends2011" weight="3193" />
+      <edge id="410" source="#America" target="#WeConnect" weight="3193" />
+      <edge id="411" source="#America" target="#shameful" weight="3193" />
+      <edge id="412" source="#America" target="#Mumbai" weight="3193" />
+      <edge id="413" source="#America" target="#Westerville" weight="3193" />
+      <edge id="414" source="#Tuck" target="#Business" weight="3193" />
+      <edge id="415" source="#cabdriver" target="#nyc" weight="3193" />
+      <edge id="416" source="#levytator" target="#escalator" weight="3193" />
+      <edge id="417" source="#india" target="#kiwis" weight="3193" />
+      <edge id="418" source="#india" target="#Delhi" weight="3193" />
+      <edge id="419" source="#india" target="#bestofluck" weight="3193" />
+      <edge id="420" source="#india" target="#global" weight="3193" />
+      <edge id="421" source="#india" target="#economy" weight="3193" />
+      <edge id="422" source="#india" target="#games" weight="3193" />
+      <edge id="423" source="#india" target="#CWG" weight="3193" />
+      <edge id="424" source="#india" target="#racist" weight="3193" />
+      <edge id="425" source="#Giant" target="#Pelotonia" weight="3193" />
+      <edge id="426" source="#Japan" target="#healthcare" weight="3193" />
+      <edge id="427" source="#Japan" target="#TwitPict" weight="3193" />
+      <edge id="428" source="#SorryToBeAPartyPooper" target="#OhioStateFair" weight="3193" />
+      <edge id="429" source="#Reuters" target="#India" weight="3193" />
+      <edge id="430" source="#Thoughts" target="#Mumbai" weight="3193" />
+      <edge id="431" source="#healthand" target="#columbus_oh" weight="3193" />
+      <edge id="432" source="#healthand" target="#business" weight="3193" />
+      <edge id="433" source="#healthand" target="#startups" weight="3193" />
+      <edge id="434" source="#annahazare" target="#Lokpal" weight="3193" />
+      <edge id="435" source="#iMac" target="#iPhone" weight="3193" />
+      <edge id="436" source="#iMac" target="#Microsoft" weight="3193" />
+      <edge id="437" source="#iMac" target="#Skype" weight="3193" />
+      <edge id="438" source="#WSJ" target="#wallstreet" weight="3193" />
+      <edge id="439" source="#colony" target="#space" weight="3193" />
+      <edge id="440" source="#tedxcbus" target="#lextant" weight="3193" />
+      <edge id="441" source="#tedxcbus" target="#metro" weight="3193" />
+      <edge id="442" source="#CalvinsChallenge" target="#ExceedYourLimits" weight="3193" />
+      <edge id="443" source="#CalvinsChallenge" target="#Cycling" weight="6386" />
+      <edge id="444" source="#CalvinsChallenge" target="#MyFirstRace" weight="3193" />
+      <edge id="445" source="#Env" target="#Health" weight="3193" />
+      <edge id="446" source="#Env" target="#Culture" weight="3193" />
+      <edge id="447" source="#Atanasoff" target="#computer" weight="3193" />
+      <edge id="448" source="#culture" target="#renewable" weight="3193" />
+      <edge id="449" source="#culture" target="#wind" weight="3193" />
+      <edge id="450" source="#culture" target="#priority" weight="3193" />
+      <edge id="451" source="#iammalala" target="#Malala" weight="3193" />
+      <edge id="452" source="#DisruptiveTech" target="#bandwidth" weight="3193" />
+      <edge id="453" source="#cbusr" target="#AEP" weight="3193" />
+      <edge id="454" source="#cbusr" target="#GettingClose" weight="3193" />
+      <edge id="455" source="#cbusr" target="#NYC" weight="3193" />
+      <edge id="456" source="#cbusr" target="#SciotoMile" weight="3193" />
+      <edge id="457" source="#cbusr" target="#trends2011" weight="3193" />
+      <edge id="458" source="#cbusr" target="#Pelotonia" weight="3193" />
+      <edge id="459" source="#cbusr" target="#ROC" weight="3193" />
+      <edge id="460" source="#bhurji" target="#potluck" weight="3193" />
+      <edge id="461" source="#bhurji" target="#gooddesign" weight="3193" />
+      <edge id="462" source="#bhurji" target="#India" weight="3193" />
+      <edge id="463" source="#ICC" target="#SriLanka" weight="3193" />
+      <edge id="464" source="#ICC" target="#India" weight="9579" />
+      <edge id="465" source="#ICC" target="#Mich" weight="3193" />
+      <edge id="466" source="#ICC" target="#OSU" weight="3193" />
+      <edge id="467" source="#ICC" target="#UNC" weight="3193" />
+      <edge id="468" source="#ICC" target="#Mumbai" weight="3193" />
+      <edge id="469" source="#SNW" target="#Intuit" weight="3193" />
+      <edge id="470" source="#socialmedia" target="#news" weight="3193" />
+      <edge id="471" source="#gps" target="#rhino" weight="3193" />
+      <edge id="472" source="#gps" target="#southafrica" weight="3193" />
+      <edge id="473" source="#gps" target="#poaching" weight="3193" />
+      <edge id="474" source="#GlassCeiling" target="#Science" weight="3193" />
+      <edge id="475" source="#LED" target="#innovation" weight="3193" />
+      <edge id="476" source="#LED" target="#technology" weight="3193" />
+      <edge id="477" source="#LED" target="#environment" weight="3193" />
+      <edge id="478" source="#LED" target="#iloveit" weight="3193" />
+      <edge id="479" source="#Coumbus" target="#Children" weight="3193" />
+      <edge id="480" source="#wind" target="#renewable" weight="3193" />
+      <edge id="481" source="#wind" target="#priority" weight="3193" />
+      <edge id="482" source="#wallstreet" target="#apocalypse" weight="3193" />
+      <edge id="483" source="#wallstreet" target="#opinion" weight="3193" />
+      <edge id="484" source="#wallstreet" target="#economy" weight="3193" />
+      <edge id="485" source="#watershed" target="#nonprofit" weight="3193" />
+      <edge id="486" source="#watershed" target="#environment" weight="6386" />
+      <edge id="487" source="#watershed" target="#flow" weight="3193" />
+      <edge id="488" source="#privateequity" target="#taxcredit" weight="3193" />
+      <edge id="489" source="#RealEstate" target="#Opportunity" weight="3193" />
+      <edge id="490" source="#StemCell" target="#Health" weight="3193" />
+      <edge id="491" source="#DataCenter" target="#Cloud" weight="3193" />
+      <edge id="492" source="#DataCenter" target="#CIO" weight="3193" />
+      <edge id="493" source="#salsa" target="#mayo" weight="3193" />
+      <edge id="494" source="#salsa" target="#economy" weight="3193" />
+      <edge id="495" source="#salsa" target="#mustard" weight="3193" />
+      <edge id="496" source="#salsa" target="#eatingin" weight="3193" />
+      <edge id="497" source="#MarketShare" target="#SpillOver" weight="3193" />
+      <edge id="498" source="#tooslow" target="#Twitter" weight="3193" />
+      <edge id="499" source="#tooslow" target="#iPhone" weight="3193" />
+      <edge id="500" source="#tooslow" target="#TwitPict" weight="3193" />
+      <edge id="501" source="#wealth" target="#India" weight="3193" />
+      <edge id="502" source="#capabilities" target="#strategic" weight="3193" />
+      <edge id="503" source="#capabilities" target="#Cycling" weight="3193" />
+      <edge id="504" source="#capabilities" target="#core" weight="3193" />
+      <edge id="505" source="#capabilities" target="#Weights" weight="3193" />
+      <edge id="506" source="#Westerville" target="#WeConnect" weight="3193" />
+      <edge id="507" source="#Westerville" target="#WBC" weight="3193" />
+      <edge id="508" source="#Westerville" target="#trends2011" weight="3193" />
+      <edge id="509" source="#Westerville" target="#Pelotonia" weight="3193" />
+      <edge id="510" source="#Gallup" target="#StrengthsFinder" weight="3193" />
+      <edge id="511" source="#OrangeMen" target="#Huskies" weight="3193" />
+      <edge id="512" source="#OrangeMen" target="#TarHeels" weight="6386" />
+      <edge id="513" source="#GettingClose" target="#Pelotonia" weight="3193" />
+      <edge id="514" source="#toystory" target="#inception" weight="3193" />
+      <edge id="515" source="#WesternDigital" target="#G" weight="3193" />
+      <edge id="516" source="#columbus_oh" target="#healthandfitness" weight="3193" />
+      <edge id="517" source="#columbus_oh" target="#business" weight="6386" />
+      <edge id="518" source="#columbus_oh" target="#innov" weight="3193" />
+      <edge id="519" source="#columbus_oh" target="#startups" weight="6386" />
+      <edge id="520" source="#cycling" target="#metriccentury" weight="3193" />
+      <edge id="521" source="#BostonMarathon" target="#BostonStrong" weight="3193" />
+      <edge id="522" source="#BestBuy" target="#Fail" weight="3193" />
+      <edge id="523" source="#CBUSR" target="#Cycling" weight="3193" />
+      <edge id="524" source="#opinion" target="#apocalypse" weight="3193" />
+      <edge id="525" source="#opinion" target="#economy" weight="3193" />
+      <edge id="526" source="#apocalypse" target="#economy" weight="3193" />
+      <edge id="527" source="#Growth" target="#AEP" weight="3193" />
+      <edge id="528" source="#peace" target="#egypt" weight="3193" />
+      <edge id="529" source="#ChaseBank" target="#Fail" weight="3193" />
+      <edge id="530" source="#Mich" target="#UNC" weight="3193" />
+      <edge id="531" source="#Mich" target="#India" weight="3193" />
+      <edge id="532" source="#Mich" target="#OSU" weight="3193" />
+      <edge id="533" source="#Green" target="#Turquoise" weight="3193" />
+      <edge id="534" source="#Gliese" target="#Popsci" weight="3193" />
+      <edge id="535" source="#Gliese" target="#581g" weight="3193" />
+      <edge id="536" source="#oceansclub" target="#Easton" weight="3193" />
+      <edge id="537" source="#bedbugs" target="#hai" weight="3193" />
+      <edge id="538" source="#bedbugs" target="#healthcare" weight="3193" />
+      <edge id="539" source="#bedbugs" target="#TwitPict" weight="3193" />
+      <edge id="540" source="#Weights" target="#strategic" weight="3193" />
+      <edge id="541" source="#Weights" target="#Cycling" weight="3193" />
+      <edge id="542" source="#Weights" target="#core" weight="3193" />
+      <edge id="543" source="#dosomethingbetter" target="#ridiculous" weight="3193" />
+      <edge id="544" source="#dosomethingbetter" target="#wasteofmoney" weight="3193" />
+      <edge id="545" source="#supplychain" target="#innovation" weight="3193" />
+      <edge id="546" source="#supplychain" target="#environment" weight="3193" />
+      <edge id="547" source="#MarsMission" target="#Mangalyaan" weight="3193" />
+      <edge id="548" source="#MarsMission" target="#IndiaAtMars" weight="3193" />
+      <edge id="549" source="#mayo" target="#economy" weight="3193" />
+      <edge id="550" source="#mayo" target="#mustard" weight="3193" />
+      <edge id="551" source="#mayo" target="#eatingin" weight="3193" />
+      <edge id="552" source="#antitrust" target="#competition" weight="3193" />
+      <edge id="553" source="#food" target="#silver" weight="3193" />
+      <edge id="554" source="#food" target="#inflation" weight="3193" />
+      <edge id="555" source="#Marketing" target="#Sales" weight="3193" />
+      <edge id="556" source="#runchat" target="#running" weight="3193" />
+      <edge id="557" source="#runchat" target="#marathon" weight="3193" />
+      <edge id="558" source="#runchat" target="#marathontraining" weight="3193" />
+      <edge id="559" source="#Flickr" target="#Pinterest" weight="3193" />
+      <edge id="560" source="#civilwar" target="#americanhistory" weight="3193" />
+      <edge id="561" source="#Diwali" target="#Indian" weight="3193" />
+      <edge id="562" source="#Diwali" target="#Americans" weight="3193" />
+      <edge id="563" source="#Diwali" target="#Asians" weight="3193" />
+      <edge id="564" source="#Diwali" target="#Rangoli" weight="3193" />
+      <edge id="565" source="#UNC" target="#TarHeels" weight="3193" />
+      <edge id="566" source="#UNC" target="#India" weight="3193" />
+      <edge id="567" source="#UNC" target="#OSU" weight="3193" />
+      <edge id="568" source="#UNC" target="#OneMBA" weight="3193" />
+      <edge id="569" source="#WestervilleBicycleClub" target="#DryRun" weight="3193" />
+      <edge id="570" source="#Twitter" target="#iPhone" weight="3193" />
+      <edge id="571" source="#Twitter" target="#TwitPict" weight="3193" />
+      <edge id="572" source="#learnsomethingneweveryday" target="#lol" weight="3193" />
+      <edge id="573" source="#security" target="#technology" weight="3193" />
+      <edge id="574" source="#security" target="#sumofallfears" weight="3193" />
+      <edge id="575" source="#Digital" target="#Rochester" weight="3193" />
+      <edge id="576" source="#HUP" target="#Mac" weight="3193" />
+      <edge id="577" source="#HUP" target="#WhyILoveMac" weight="3193" />
+      <edge id="578" source="#HUP" target="#Microsoft" weight="3193" />
+      <edge id="579" source="#HighLine" target="#NYC" weight="3193" />
+      <edge id="580" source="#TwitPict" target="#TheColumbusDispatch" weight="3193" />
+      <edge id="581" source="#TwitPict" target="#hai" weight="3193" />
+      <edge id="582" source="#TwitPict" target="#Vizsla" weight="6386" />
+      <edge id="583" source="#TwitPict" target="#healthcare" weight="6386" />
+      <edge id="584" source="#TwitPict" target="#USAInc" weight="3193" />
+      <edge id="585" source="#TwitPict" target="#BusinessWeek" weight="3193" />
+      <edge id="586" source="#TwitPict" target="#toomuch" weight="3193" />
+      <edge id="587" source="#TwitPict" target="#iPhone" weight="3193" />
+      <edge id="588" source="#Design" target="#UserExperience" weight="3193" />
+      <edge id="589" source="#peanutbutter" target="#ducttape" weight="3193" />
+      <edge id="590" source="#peanutbutter" target="#wd40" weight="3193" />
+      <edge id="591" source="#makes" target="#tech" weight="3193" />
+      <edge id="592" source="#BusinessWeek" target="#USAInc" weight="3193" />
+      <edge id="593" source="#2012debate" target="#DebateEtiquette" weight="3193" />
+      <edge id="594" source="#Football" target="#Lingerie" weight="3193" />
+      <edge id="595" source="#Football" target="#Browns" weight="3193" />
+      <edge id="596" source="#MyFirstRace" target="#Cycling" weight="3193" />
+      <edge id="597" source="#nonprofit" target="#environment" weight="3193" />
+      <edge id="598" source="#Walgreens" target="#Wegmans" weight="3193" />
+      <edge id="599" source="#Economy" target="#trickortreat" weight="3193" />
+      <edge id="600" source="#Economy" target="#Weather" weight="3193" />
+      <edge id="601" source="#Economy" target="#halloween" weight="3193" />
+      <edge id="602" source="#CWG" target="#games" weight="3193" />
+      <edge id="603" source="#CWG" target="#India" weight="3193" />
+      <edge id="604" source="#CWG" target="#bestofluck" weight="3193" />
+      <edge id="605" source="#Asians" target="#Indian" weight="3193" />
+      <edge id="606" source="#Asians" target="#Americans" weight="3193" />
+      <edge id="607" source="#Brooks" target="#RunningShoes" weight="3193" />
+      <edge id="608" source="#priority" target="#renewable" weight="3193" />
+      <edge id="609" source="#potluck" target="#gooddesign" weight="3193" />
+      <edge id="610" source="#potluck" target="#India" weight="3193" />
+      <edge id="611" source="#HowCool" target="#Pelotonia" weight="3193" />
+      <edge id="612" source="#AEP" target="#SciotoMile" weight="3193" />
+      <edge id="613" source="#TarHeels" target="#Clemson" weight="3193" />
+      <edge id="614" source="#TarHeels" target="#TarHeels" weight="6386" />
+      <edge id="615" source="#TarHeels" target="#Huskies" weight="6386" />
+      <edge id="616" source="#TarHeels" target="#Avatar" weight="3193" />
+      <edge id="617" source="#CIO" target="#Cloud" weight="3193" />
+      <edge id="618" source="#homemade" target="#sparkpeople" weight="3193" />
+      <edge id="619" source="#homemade" target="#protein" weight="3193" />
+      <edge id="620" source="#action" target="#kidsfirst" weight="3193" />
+      <edge id="621" source="#action" target="#OhioHealth" weight="3193" />
+      <edge id="622" source="#TarHeel" target="#BlueDevil" weight="3193" />
+      <edge id="623" source="#TarHeel" target="#BostonU" weight="3193" />
+      <edge id="624" source="#ibmscgs3" target="#jf" weight="3193" />
+      <edge id="625" source="#GPS" target="#forerunn305" weight="3193" />
+      <edge id="626" source="#gujarat" target="#solar" weight="3193" />
+      <edge id="627" source="#gujarat" target="#green" weight="3193" />
+      <edge id="628" source="#miners" target="#family" weight="3193" />
+      <edge id="629" source="#ICCAN" target="#GoodForLawyers" weight="3193" />
+      <edge id="630" source="#Mac" target="#WhyILoveMac" weight="3193" />
+      <edge id="631" source="#Mac" target="#Microsoft" weight="3193" />
+      <edge id="632" source="#industry" target="#funded" weight="3193" />
+      <edge id="633" source="#protein" target="#sparkpeople" weight="3193" />
+      <edge id="634" source="#Delhi" target="#kiwis" weight="3193" />
+      <edge id="635" source="#Delhi" target="#racist" weight="3193" />
+      <edge id="636" source="#environment" target="#technology" weight="3193" />
+      <edge id="637" source="#environment" target="#flow" weight="3193" />
+      <edge id="638" source="#environment" target="#iloveit" weight="3193" />
+      <edge id="639" source="#environment" target="#innovation" weight="6386" />
+      <edge id="640" source="#environment" target="#priced" weight="3193" />
+      <edge id="641" source="#haveagreatweekend" target="#TGIF" weight="3193" />
+      <edge id="642" source="#WhyILoveMac" target="#Microsoft" weight="3193" />
+      <edge id="643" source="#Health" target="#Culture" weight="3193" />
+      <edge id="644" source="#hit" target="#healthcare" weight="3193" />
+      <edge id="645" source="#patdown" target="#airport" weight="3193" />
+      <edge id="646" source="#patdown" target="#fullbodyscanner" weight="3193" />
+      <edge id="647" source="#globalization" target="#competition" weight="3193" />
+      <edge id="648" source="#WeConnect" target="#trends2011" weight="3193" />
+      <edge id="649" source="#technology" target="#iloveit" weight="3193" />
+      <edge id="650" source="#technology" target="#innovation" weight="3193" />
+      <edge id="651" source="#fullbodyscanner" target="#airport" weight="3193" />
+      <edge id="652" source="#Browns" target="#Lingerie" weight="3193" />
+      <edge id="653" source="#Vizsla" target="#championed" weight="3193" />
+      <edge id="654" source="#Vizsla" target="#dogshow" weight="3193" />
+      <edge id="655" source="#FloridaAvocado" target="#Fail" weight="3193" />
+      <edge id="656" source="#silver" target="#inflation" weight="3193" />
+      <edge id="657" source="#Skype" target="#MSFT" weight="3193" />
+      <edge id="658" source="#Skype" target="#iPhone" weight="3193" />
+      <edge id="659" source="#Skype" target="#Microsoft" weight="3193" />
+      <edge id="660" source="#debate" target="#debate2" weight="3193" />
+      <edge id="661" source="#Clemson" target="#Avatar" weight="3193" />
+      <edge id="662" source="#Karma" target="#NYT" weight="3193" />
+      <edge id="663" source="#theatre" target="#dancing" weight="3193" />
+      <edge id="664" source="#theatre" target="#surrogates" weight="3193" />
+      <edge id="665" source="#green" target="#solar" weight="3193" />
+      <edge id="666" source="#inspiration" target="#riders" weight="3193" />
+      <edge id="667" source="#shifters" target="#dragons" weight="3193" />
+      <edge id="668" source="#global" target="#economy" weight="3193" />
+      <edge id="669" source="#Mighty" target="#India" weight="3193" />
+      <edge id="670" source="#overwhelming" target="#sparkpeople" weight="3193" />
+      <edge id="671" source="#overwhelming" target="#UI" weight="3193" />
+      <edge id="672" source="#games" target="#bestofluck" weight="3193" />
+      <edge id="673" source="#funds" target="#sharia" weight="3193" />
+      <edge id="674" source="#581g" target="#Popsci" weight="3193" />
+      <edge id="675" source="#southafrica" target="#poaching" weight="3193" />
+      <edge id="676" source="#southafrica" target="#rhino" weight="3193" />
+      <edge id="677" source="#Publishing" target="#Author" weight="3193" />
+      <edge id="678" source="#google" target="#apple" weight="3193" />
+      <edge id="679" source="#ATT" target="#Cloud" weight="3193" />
+      <edge id="680" source="#ATT" target="#Computing" weight="3193" />
+      <edge id="681" source="#ATT" target="#TMOBILE" weight="3193" />
+      <edge id="682" source="#Cycling" target="#core" weight="3193" />
+      <edge id="683" source="#Cycling" target="#strategic" weight="3193" />
+      <edge id="684" source="#Cycling" target="#Disclaimer" weight="3193" />
+      <edge id="685" source="#marathon" target="#running" weight="3193" />
+      <edge id="686" source="#marathon" target="#marathontraining" weight="3193" />
+      <edge id="687" source="#Lessons" target="#Hills" weight="3193" />
+      <edge id="688" source="#Lessons" target="#Pelotonia" weight="3193" />
+      <edge id="689" source="#productivity" target="#happiness" weight="3193" />
+      <edge id="690" source="#productivity" target="#timemanagement" weight="3193" />
+      <edge id="691" source="#running" target="#marathontraining" weight="3193" />
+      <edge id="692" source="#UI" target="#sparkpeople" weight="3193" />
+      <edge id="693" source="#NYC" target="#trends2011" weight="3193" />
+      <edge id="694" source="#NYC" target="#ROC" weight="3193" />
+      <edge id="695" source="#timemanagement" target="#happiness" weight="3193" />
+      <edge id="696" source="#genetherapy" target="#conservative" weight="3193" />
+      <edge id="697" source="#dancing" target="#surrogates" weight="3193" />
+      <edge id="698" source="#LTCM" target="#Lehman" weight="3193" />
+      <edge id="699" source="#OhioHealth" target="#kidsfirst" weight="3193" />
+      <edge id="700" source="#Microsoft" target="#iPhone" weight="3193" />
+      <edge id="701" source="#sustainability" target="#kenanflagler" weight="3193" />
+      <edge id="702" source="#India" target="#gooddesign" weight="3193" />
+      <edge id="703" source="#India" target="#OSU" weight="3193" />
+      <edge id="704" source="#India" target="#management" weight="3193" />
+      <edge id="705" source="#India" target="#Mumbai" weight="3193" />
+      <edge id="706" source="#India" target="#SriLanka" weight="6386" />
+      <edge id="707" source="#Tressel" target="#OSU" weight="3193" />
+      <edge id="708" source="#Tressel" target="#Shame" weight="3193" />
+      <edge id="709" source="#Barbour" target="#cyclist" weight="3193" />
+      <edge id="710" source="#economy" target="#mustard" weight="3193" />
+      <edge id="711" source="#economy" target="#eatingin" weight="3193" />
+      <edge id="712" source="#economy" target="#WorldEconomicOutlook" weight="3193" />
+      <edge id="713" source="#economy" target="#usps" weight="3193" />
+      <edge id="714" source="#Cloud" target="#Computing" weight="3193" />
+      <edge id="715" source="#dollar" target="#China" weight="3193" />
+      <edge id="716" source="#shameful" target="#Mumbai" weight="3193" />
+      <edge id="717" source="#census" target="#notsurprised" weight="3193" />
+      <edge id="718" source="#healthcare" target="#hai" weight="3193" />
+      <edge id="719" source="#healthcare" target="#fail" weight="3193" />
+      <edge id="720" source="#healthcare" target="#who" weight="3193" />
+      <edge id="721" source="#flu" target="#commoncold" weight="3193" />
+      <edge id="722" source="#dogshow" target="#championed" weight="3193" />
+      <edge id="723" source="#healthandfitness" target="#startups" weight="3193" />
+      <edge id="724" source="#healthandfitness" target="#innov" weight="3193" />
+      <edge id="725" source="#healthandfitness" target="#business" weight="3193" />
+      <edge id="726" source="#rhino" target="#poaching" weight="3193" />
+      <edge id="727" source="#innovation" target="#iloveit" weight="3193" />
+      <edge id="728" source="#Travel" target="#Mumbai" weight="3193" />
+      <edge id="729" source="#trickortreat" target="#Weather" weight="3193" />
+      <edge id="730" source="#trickortreat" target="#halloween" weight="3193" />
+      <edge id="731" source="#startups" target="#business" weight="6386" />
+      <edge id="732" source="#startups" target="#innov" weight="3193" />
+      <edge id="733" source="#homelandsecurity" target="#DHS" weight="3193" />
+      <edge id="734" source="#Disgusting" target="#Superbowl" weight="3193" />
+      <edge id="735" source="#wasteofmoney" target="#ridiculous" weight="3193" />
+      <edge id="736" source="#halloween" target="#Weather" weight="3193" />
+      <edge id="737" source="#Shame" target="#OSU" weight="3193" />
+      <edge id="738" source="#core" target="#strategic" weight="3193" />
+      <edge id="739" source="#incentives" target="#designed" weight="3193" />
+      <edge id="740" source="#racist" target="#kiwis" weight="3193" />
+      <edge id="741" source="#eatingin" target="#mustard" weight="3193" />
+      <edge id="742" source="#Mangalyaan" target="#IndiaAtMars" weight="3193" />
+      <edge id="743" source="#Indian" target="#Americans" weight="3193" />
+      <edge id="744" source="#MovesLikeJagger" target="#ColumbusMarathon" weight="3193" />
+      <edge id="745" source="#ducttape" target="#wd40" weight="3193" />
+      <edge id="746" source="#trends2011" target="#ROC" weight="3193" />
+      <edge id="747" source="#tourism" target="#aggregate" weight="3193" />
+      <edge id="748" source="#Mumbai" target="#SriLanka" weight="3193" />
+      <edge id="749" source="#POHR" target="#ACS" weight="6386" />
+      <edge id="750" source="#business" target="#innov" weight="3193" />
+      <edge id="751" source="#Hills" target="#Pelotonia" weight="3193" />
+    </edges>
+  </graph>
+</gexf>

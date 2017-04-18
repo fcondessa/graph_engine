@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#givingtuesday" label="#givingtuesday" />
+      <node id="#28tomake" label="#28tomake" />
+      <node id="#ihaveathingwithfloors" label="#ihaveathingwithfloors" />
+      <node id="#treat" label="#treat" />
+      <node id="#uberKITTENS" label="#uberKITTENS" />
+      <node id="#worthit" label="#worthit" />
+      <node id="#icecream" label="#icecream" />
+      <node id="#teamjenis" label="#teamjenis" />
+      <node id="#givekindnessgeticecream" label="#givekindnessgeticecream" />
+      <node id="#besticecreaminla" label="#besticecreaminla" />
+      <node id="#krogmarket" label="#krogmarket" />
+      <node id="#pintClub" label="#pintClub" />
+      <node id="#nashville" label="#nashville" />
+      <node id="#BestGiftEver" label="#BestGiftEver" />
+      <node id="#icecreamsunday" label="#icecreamsunday" />
+      <node id="#college" label="#college" />
+      <node id="#GiveKindnessGetIceCream" label="#GiveKindnessGetIceCream" />
+      <node id="#Mondays" label="#Mondays" />
+      <node id="#Nashville" label="#Nashville" />
+      <node id="#losfeliz" label="#losfeliz" />
+      <node id="#design" label="#design" />
+      <node id="#BronzeGoddess" label="#BronzeGoddess" />
+      <node id="#jenis" label="#jenis" />
+      <node id="#happy40thBday" label="#happy40thBday" />
+      <node id="#EsteeStories" label="#EsteeStories" />
+      <node id="#foodie" label="#foodie" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#givingtuesday" target="#GiveKindnessGetIceCream" weight="3218" />
+      <edge id="1" source="#givingtuesday" target="#givekindnessgeticecream" weight="3218" />
+      <edge id="2" source="#28tomake" target="#Nashville" weight="3218" />
+      <edge id="3" source="#ihaveathingwithfloors" target="#jenis" weight="3218" />
+      <edge id="4" source="#ihaveathingwithfloors" target="#besticecreaminla" weight="3218" />
+      <edge id="5" source="#ihaveathingwithfloors" target="#losfeliz" weight="3218" />
+      <edge id="6" source="#ihaveathingwithfloors" target="#design" weight="3218" />
+      <edge id="7" source="#ihaveathingwithfloors" target="#treat" weight="3218" />
+      <edge id="8" source="#treat" target="#jenis" weight="3218" />
+      <edge id="9" source="#treat" target="#besticecreaminla" weight="3218" />
+      <edge id="10" source="#treat" target="#losfeliz" weight="3218" />
+      <edge id="11" source="#treat" target="#design" weight="3218" />
+      <edge id="12" source="#uberKITTENS" target="#teamjenis" weight="3218" />
+      <edge id="13" source="#worthit" target="#icecreamsunday" weight="3218" />
+      <edge id="14" source="#icecream" target="#foodie" weight="3218" />
+      <edge id="15" source="#besticecreaminla" target="#jenis" weight="3218" />
+      <edge id="16" source="#besticecreaminla" target="#losfeliz" weight="3218" />
+      <edge id="17" source="#besticecreaminla" target="#design" weight="3218" />
+      <edge id="18" source="#krogmarket" target="#Mondays" weight="3218" />
+      <edge id="19" source="#pintClub" target="#happy40thBday" weight="3218" />
+      <edge id="20" source="#pintClub" target="#BestGiftEver" weight="3218" />
+      <edge id="21" source="#nashville" target="#college" weight="3218" />
+      <edge id="22" source="#BestGiftEver" target="#happy40thBday" weight="3218" />
+      <edge id="23" source="#losfeliz" target="#jenis" weight="3218" />
+      <edge id="24" source="#losfeliz" target="#design" weight="3218" />
+      <edge id="25" source="#design" target="#jenis" weight="3218" />
+      <edge id="26" source="#BronzeGoddess" target="#EsteeStories" weight="3218" />
+    </edges>
+  </graph>
+</gexf>

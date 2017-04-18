@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#byronkatie" label="#byronkatie" />
+      <node id="#CMHStartupWeek" label="#CMHStartupWeek" />
+      <node id="#newbasicssbrassband" label="#newbasicssbrassband" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#fb" label="#fb" />
+      <node id="#quoteoftheday" label="#quoteoftheday" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#startups" label="#startups" />
+      <node id="#animals" label="#animals" />
+      <node id="#tubamosnter" label="#tubamosnter" />
+      <node id="#mckays" label="#mckays" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#prodigalson" label="#prodigalson" />
+      <node id="#TheMagnificent7" label="#TheMagnificent7" />
+      <node id="#media" label="#media" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#D7C" label="#D7C" />
+      <node id="#digfest" label="#digfest" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OhioState" target="#GoBucks" weight="921" />
+      <edge id="1" source="#byronkatie" target="#quoteoftheday" weight="1842" />
+      <edge id="2" source="#CMHStartupWeek" target="#fb" weight="921" />
+      <edge id="3" source="#CMHStartupWeek" target="#media" weight="921" />
+      <edge id="4" source="#CMHStartupWeek" target="#startups" weight="921" />
+      <edge id="5" source="#newbasicssbrassband" target="#prodigalson" weight="921" />
+      <edge id="6" source="#newbasicssbrassband" target="#tubamosnter" weight="921" />
+      <edge id="7" source="#fb" target="#media" weight="921" />
+      <edge id="8" source="#fb" target="#startups" weight="921" />
+      <edge id="9" source="#craftbeer" target="#digfest" weight="921" />
+      <edge id="10" source="#startups" target="#media" weight="921" />
+      <edge id="11" source="#animals" target="#mckays" weight="921" />
+      <edge id="12" source="#tubamosnter" target="#prodigalson" weight="921" />
+      <edge id="13" source="#Buckeyes" target="#gobucks" weight="921" />
+      <edge id="14" source="#TheMagnificent7" target="#D7C" weight="921" />
+    </edges>
+  </graph>
+</gexf>

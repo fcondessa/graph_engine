@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Staffing" label="#Staffing" />
+      <node id="#knoxville" label="#knoxville" />
+      <node id="#odot" label="#odot" />
+      <node id="#sites" label="#sites" />
+      <node id="#boomers" label="#boomers" />
+      <node id="#alzheimers" label="#alzheimers" />
+      <node id="#skillednursing" label="#skillednursing" />
+      <node id="#aec" label="#aec" />
+      <node id="#smps2010" label="#smps2010" />
+      <node id="#business" label="#business" />
+      <node id="#healthcarereform" label="#healthcarereform" />
+      <node id="#aging" label="#aging" />
+      <node id="#Kokosing" label="#Kokosing" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#Longtermcare" label="#Longtermcare" />
+      <node id="#hollybolton" label="#hollybolton" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#whoknew" label="#whoknew" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#future" label="#future" />
+      <node id="#worldalzheimersday" label="#worldalzheimersday" />
+      <node id="#leadfromwithin" label="#leadfromwithin" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#JobAdvice" label="#JobAdvice" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#tn" label="#tn" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#smpshrc" label="#smpshrc" />
+      <node id="#greenbuilding" label="#greenbuilding" />
+      <node id="#cpsm" label="#cpsm" />
+      <node id="#xmas" label="#xmas" />
+      <node id="#greatthingsinstore" label="#greatthingsinstore" />
+      <node id="#Happy" label="#Happy" />
+      <node id="#seniors" label="#seniors" />
+      <node id="#Career" label="#Career" />
+      <node id="#stillarookietweeter" label="#stillarookietweeter" />
+      <node id="#smpschat" label="#smpschat" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#kipcamp" label="#kipcamp" />
+      <node id="#gerontology" label="#gerontology" />
+      <node id="#rockstars" label="#rockstars" />
+      <node id="#NAB" label="#NAB" />
+      <node id="#ThankYou" label="#ThankYou" />
+      <node id="#medicine" label="#medicine" />
+      <node id="#ama" label="#ama" />
+      <node id="#tools" label="#tools" />
+      <node id="#smpscolumbus" label="#smpscolumbus" />
+      <node id="#CEU" label="#CEU" />
+      <node id="#lovemilestones" label="#lovemilestones" />
+      <node id="#dublin" label="#dublin" />
+      <node id="#cnn" label="#cnn" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#columbus_oh" label="#columbus_oh" />
+      <node id="#apps" label="#apps" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#oncology" label="#oncology" />
+      <node id="#smpsheart" label="#smpsheart" />
+      <node id="#architecture" label="#architecture" />
+      <node id="#engage365" label="#engage365" />
+      <node id="#kokosing" label="#kokosing" />
+      <node id="#smps" label="#smps" />
+      <node id="#stillwaiting" label="#stillwaiting" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Staffing" target="#CEU" weight="422" />
+      <edge id="1" source="#Staffing" target="#Longtermcare" weight="422" />
+      <edge id="2" source="#Staffing" target="#NAB" weight="422" />
+      <edge id="3" source="#Staffing" target="#webinar" weight="422" />
+      <edge id="4" source="#knoxville" target="#tn" weight="422" />
+      <edge id="5" source="#odot" target="#kokosing" weight="422" />
+      <edge id="6" source="#sites" target="#Twitter" weight="422" />
+      <edge id="7" source="#sites" target="#business" weight="422" />
+      <edge id="8" source="#sites" target="#apps" weight="422" />
+      <edge id="9" source="#sites" target="#tools" weight="422" />
+      <edge id="10" source="#boomers" target="#seniors" weight="422" />
+      <edge id="11" source="#alzheimers" target="#worldalzheimersday" weight="422" />
+      <edge id="12" source="#skillednursing" target="#rockstars" weight="422" />
+      <edge id="13" source="#aec" target="#smps" weight="422" />
+      <edge id="14" source="#smps2010" target="#smps2010" weight="1688" />
+      <edge id="15" source="#business" target="#Twitter" weight="422" />
+      <edge id="16" source="#business" target="#apps" weight="422" />
+      <edge id="17" source="#business" target="#tools" weight="422" />
+      <edge id="18" source="#healthcarereform" target="#smps" weight="422" />
+      <edge id="19" source="#aging" target="#gerontology" weight="422" />
+      <edge id="20" source="#aging" target="#columbus_oh" weight="422" />
+      <edge id="21" source="#aging" target="#marketing" weight="422" />
+      <edge id="22" source="#aging" target="#healthcare" weight="422" />
+      <edge id="23" source="#aging" target="#architecture" weight="422" />
+      <edge id="24" source="#Kokosing" target="#EarthDay" weight="422" />
+      <edge id="25" source="#leadership" target="#leadfromwithin" weight="422" />
+      <edge id="26" source="#webinar" target="#CEU" weight="422" />
+      <edge id="27" source="#webinar" target="#NAB" weight="422" />
+      <edge id="28" source="#webinar" target="#Longtermcare" weight="422" />
+      <edge id="29" source="#Longtermcare" target="#CEU" weight="422" />
+      <edge id="30" source="#Longtermcare" target="#NAB" weight="422" />
+      <edge id="31" source="#hollybolton" target="#smpshrc" weight="422" />
+      <edge id="32" source="#whoknew" target="#stillarookietweeter" weight="422" />
+      <edge id="33" source="#whoknew" target="#kipcamp" weight="422" />
+      <edge id="34" source="#HIT" target="#healthcare" weight="422" />
+      <edge id="35" source="#future" target="#medicine" weight="422" />
+      <edge id="36" source="#future" target="#oncology" weight="422" />
+      <edge id="37" source="#cancer" target="#columbus" weight="422" />
+      <edge id="38" source="#cancer" target="#ohio" weight="422" />
+      <edge id="39" source="#JobAdvice" target="#Career" weight="422" />
+      <edge id="40" source="#FollowFriday" target="#ThankYou" weight="422" />
+      <edge id="41" source="#marketing" target="#gerontology" weight="422" />
+      <edge id="42" source="#marketing" target="#columbus_oh" weight="422" />
+      <edge id="43" source="#marketing" target="#healthcare" weight="422" />
+      <edge id="44" source="#marketing" target="#architecture" weight="422" />
+      <edge id="45" source="#columbus" target="#smps" weight="422" />
+      <edge id="46" source="#columbus" target="#ohio" weight="1266" />
+      <edge id="47" source="#smpshrc" target="#smps" weight="422" />
+      <edge id="48" source="#greenbuilding" target="#healthcare" weight="422" />
+      <edge id="49" source="#greenbuilding" target="#architecture" weight="422" />
+      <edge id="50" source="#cpsm" target="#smps" weight="422" />
+      <edge id="51" source="#xmas" target="#stillwaiting" weight="422" />
+      <edge id="52" source="#greatthingsinstore" target="#smps" weight="422" />
+      <edge id="53" source="#Happy" target="#lovemilestones" weight="422" />
+      <edge id="54" source="#stillarookietweeter" target="#kipcamp" weight="422" />
+      <edge id="55" source="#smpschat" target="#smpschat" weight="844" />
+      <edge id="56" source="#healthcare" target="#columbus_oh" weight="422" />
+      <edge id="57" source="#healthcare" target="#architecture" weight="844" />
+      <edge id="58" source="#healthcare" target="#gerontology" weight="422" />
+      <edge id="59" source="#kipcamp" target="#smps" weight="422" />
+      <edge id="60" source="#gerontology" target="#columbus_oh" weight="422" />
+      <edge id="61" source="#gerontology" target="#architecture" weight="422" />
+      <edge id="62" source="#NAB" target="#CEU" weight="422" />
+      <edge id="63" source="#medicine" target="#oncology" weight="422" />
+      <edge id="64" source="#ama" target="#smps" weight="422" />
+      <edge id="65" source="#tools" target="#Twitter" weight="422" />
+      <edge id="66" source="#tools" target="#apps" weight="422" />
+      <edge id="67" source="#smpscolumbus" target="#smpscolumbus" weight="3376" />
+      <edge id="68" source="#dublin" target="#ohio" weight="422" />
+      <edge id="69" source="#cnn" target="#smps" weight="422" />
+      <edge id="70" source="#ohio" target="#smps" weight="422" />
+      <edge id="71" source="#columbus_oh" target="#architecture" weight="422" />
+      <edge id="72" source="#apps" target="#Twitter" weight="422" />
+      <edge id="73" source="#smpsheart" target="#smpsheart" weight="5064" />
+      <edge id="74" source="#engage365" target="#engage365" weight="5908" />
+    </edges>
+  </graph>
+</gexf>

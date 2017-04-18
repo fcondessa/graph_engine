@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Believeland" label="#Believeland" />
+      <node id="#friendship" label="#friendship" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#capricorn" label="#capricorn" />
+      <node id="#buonappetito" label="#buonappetito" />
+      <node id="#cavs" label="#cavs" />
+      <node id="#cleveland" label="#cleveland" />
+      <node id="#rising" label="#rising" />
+      <node id="#calabrese" label="#calabrese" />
+      <node id="#likeabrother" label="#likeabrother" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#foodporn" label="#foodporn" />
+      <node id="#loveyabro" label="#loveyabro" />
+      <node id="#germanvillage" label="#germanvillage" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Believeland" target="#CLE" weight="92" />
+      <edge id="1" source="#Believeland" target="#cavs" weight="92" />
+      <edge id="2" source="#friendship" target="#loveyabro" weight="92" />
+      <edge id="3" source="#friendship" target="#likeabrother" weight="92" />
+      <edge id="4" source="#expcols" target="#germanvillage" weight="92" />
+      <edge id="5" source="#capricorn" target="#rising" weight="92" />
+      <edge id="6" source="#buonappetito" target="#calabrese" weight="92" />
+      <edge id="7" source="#cavs" target="#CLE" weight="92" />
+      <edge id="8" source="#cleveland" target="#foodporn" weight="92" />
+      <edge id="9" source="#likeabrother" target="#loveyabro" weight="92" />
+    </edges>
+  </graph>
+</gexf>

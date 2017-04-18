@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DOL" label="#DOL" />
+      <node id="#BeeGees" label="#BeeGees" />
+      <node id="#oil" label="#oil" />
+      <node id="#DallasBRED" label="#DallasBRED" />
+      <node id="#smarttransit" label="#smarttransit" />
+      <node id="#biggerisbetter" label="#biggerisbetter" />
+      <node id="#AttheOmni" label="#AttheOmni" />
+      <node id="#HR" label="#HR" />
+      <node id="#energy" label="#energy" />
+      <node id="#Dallas" label="#Dallas" />
+      <node id="#DFWUnder40" label="#DFWUnder40" />
+      <node id="#Rx" label="#Rx" />
+      <node id="#overtime" label="#overtime" />
+      <node id="#DFW" label="#DFW" />
+      <node id="#DallasPolice" label="#DallasPolice" />
+      <node id="#OmniDallas" label="#OmniDallas" />
+      <node id="#MentoringMonday" label="#MentoringMonday" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#DallasProtest" label="#DallasProtest" />
+      <node id="#growingeconomy" label="#growingeconomy" />
+      <node id="#maddening" label="#maddening" />
+      <node id="#DBJattheOmni" label="#DBJattheOmni" />
+      <node id="#loveyourheartdfw" label="#loveyourheartdfw" />
+      <node id="#ForestPark" label="#ForestPark" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DOL" target="#HR" weight="3209" />
+      <edge id="1" source="#DOL" target="#overtime" weight="3209" />
+      <edge id="2" source="#BeeGees" target="#loveyourheartdfw" weight="3209" />
+      <edge id="3" source="#oil" target="#energy" weight="6418" />
+      <edge id="4" source="#DallasBRED" target="#realestate" weight="16045" />
+      <edge id="5" source="#smarttransit" target="#Dallas" weight="3209" />
+      <edge id="6" source="#biggerisbetter" target="#growingeconomy" weight="3209" />
+      <edge id="7" source="#AttheOmni" target="#OmniDallas" weight="3209" />
+      <edge id="8" source="#AttheOmni" target="#Dallas" weight="3209" />
+      <edge id="9" source="#AttheOmni" target="#DBJattheOmni" weight="3209" />
+      <edge id="10" source="#HR" target="#overtime" weight="3209" />
+      <edge id="11" source="#Dallas" target="#DBJattheOmni" weight="3209" />
+      <edge id="12" source="#Dallas" target="#OmniDallas" weight="3209" />
+      <edge id="13" source="#Dallas" target="#ForestPark" weight="3209" />
+      <edge id="14" source="#DFWUnder40" target="#DFW" weight="12836" />
+      <edge id="15" source="#Rx" target="#maddening" weight="3209" />
+      <edge id="16" source="#DFW" target="#MentoringMonday" weight="12836" />
+      <edge id="17" source="#DallasPolice" target="#DallasProtest" weight="3209" />
+      <edge id="18" source="#OmniDallas" target="#DBJattheOmni" weight="3209" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#dog" label="#dog" />
+      <node id="#Cutest" label="#Cutest" />
+      <node id="#BeatStanford" label="#BeatStanford" />
+      <node id="#prayforkp" label="#prayforkp" />
+      <node id="#prayforleah" label="#prayforleah" />
+      <node id="#RaiderNation" label="#RaiderNation" />
+      <node id="#Benji_HSSVCA" label="#Benji_HSSVCA" />
+      <node id="#BangerzTour" label="#BangerzTour" />
+      <node id="#borderterrier" label="#borderterrier" />
+      <node id="#winter" label="#winter" />
+      <node id="#goirish" label="#goirish" />
+      <node id="#PLL5" label="#PLL5" />
+      <node id="#selfie" label="#selfie" />
+      <node id="#PLL" label="#PLL" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#dog" target="#borderterrier" weight="3232" />
+      <edge id="1" source="#dog" target="#Cutest" weight="3232" />
+      <edge id="2" source="#dog" target="#Benji_HSSVCA" weight="3232" />
+      <edge id="3" source="#Cutest" target="#borderterrier" weight="3232" />
+      <edge id="4" source="#Cutest" target="#Benji_HSSVCA" weight="3232" />
+      <edge id="5" source="#BeatStanford" target="#goirish" weight="3232" />
+      <edge id="6" source="#prayforkp" target="#prayforleah" weight="3232" />
+      <edge id="7" source="#RaiderNation" target="#BangerzTour" weight="3232" />
+      <edge id="8" source="#Benji_HSSVCA" target="#borderterrier" weight="3232" />
+      <edge id="9" source="#winter" target="#selfie" weight="3232" />
+      <edge id="10" source="#PLL5" target="#PLL" weight="3232" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#PaprikasPalPiquant" label="#PaprikasPalPiquant" />
+      <node id="#cat" label="#cat" />
+      <node id="#indiedev" label="#indiedev" />
+      <node id="#photoid" label="#photoid" />
+      <node id="#ダンジョン飯" label="#ダンジョン飯" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#trendit" label="#trendit" />
+      <node id="#gamergate" label="#gamergate" />
+      <node id="#SteinBaraka" label="#SteinBaraka" />
+      <node id="#Brigador" label="#Brigador" />
+      <node id="#hillarysanvil" label="#hillarysanvil" />
+      <node id="#DailyPaprika" label="#DailyPaprika" />
+      <node id="#Catchuprika" label="#Catchuprika" />
+      <node id="#orangetabby" label="#orangetabby" />
+      <node id="#freegokunaruto67" label="#freegokunaruto67" />
+      <node id="#thetruthisoutthere" label="#thetruthisoutthere" />
+      <node id="#ドット絵" label="#ドット絵" />
+      <node id="#torrentialdownpour" label="#torrentialdownpour" />
+      <node id="#moleg" label="#moleg" />
+      <node id="#STL" label="#STL" />
+      <node id="#hillaryscomicallyoversizedironweightlabeledONETON" label="#hillaryscomicallyoversizedironweightlabeledONETON" />
+      <node id="#ItsInOurPaws" label="#ItsInOurPaws" />
+      <node id="#harambeshotfirst" label="#harambeshotfirst" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#PaprikasPalPiquant" target="#DailyPaprika" weight="9573" />
+      <edge id="1" source="#cat" target="#orangetabby" weight="3191" />
+      <edge id="2" source="#cat" target="#SteinBaraka" weight="3191" />
+      <edge id="3" source="#cat" target="#ItsInOurPaws" weight="3191" />
+      <edge id="4" source="#indiedev" target="#Brigador" weight="3191" />
+      <edge id="5" source="#photoid" target="#moleg" weight="3191" />
+      <edge id="6" source="#ダンジョン飯" target="#ドット絵" weight="3191" />
+      <edge id="7" source="#Ferguson" target="#STL" weight="3191" />
+      <edge id="8" source="#trendit" target="#thetruthisoutthere" weight="3191" />
+      <edge id="9" source="#trendit" target="#freegokunaruto67" weight="3191" />
+      <edge id="10" source="#gamergate" target="#torrentialdownpour" weight="6382" />
+      <edge id="11" source="#SteinBaraka" target="#orangetabby" weight="3191" />
+      <edge id="12" source="#SteinBaraka" target="#ItsInOurPaws" weight="3191" />
+      <edge id="13" source="#hillarysanvil" target="#hillaryscomicallyoversizedironweightlabeledONETON" weight="3191" />
+      <edge id="14" source="#DailyPaprika" target="#Catchuprika" weight="6382" />
+      <edge id="15" source="#orangetabby" target="#ItsInOurPaws" weight="3191" />
+      <edge id="16" source="#freegokunaruto67" target="#thetruthisoutthere" weight="3191" />
+      <edge id="17" source="#freegokunaruto67" target="#harambeshotfirst" weight="3191" />
+    </edges>
+  </graph>
+</gexf>

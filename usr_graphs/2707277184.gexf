@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#lovelocal" label="#lovelocal" />
+      <node id="#Hopslam" label="#Hopslam" />
+      <node id="#lazysunday" label="#lazysunday" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#foodie" label="#foodie" />
+      <node id="#Fall" label="#Fall" />
+      <node id="#nationalmaplesyrupday" label="#nationalmaplesyrupday" />
+      <node id="#italianmonth" label="#italianmonth" />
+      <node id="#cinnamonrollday" label="#cinnamonrollday" />
+      <node id="#newyear" label="#newyear" />
+      <node id="#marketdistrict" label="#marketdistrict" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#sweetestday" label="#sweetestday" />
+      <node id="#pizza4life" label="#pizza4life" />
+      <node id="#Dietitianapproved" label="#Dietitianapproved" />
+      <node id="#eatbrighter" label="#eatbrighter" />
+      <node id="#beessential" label="#beessential" />
+      <node id="#circleville" label="#circleville" />
+      <node id="#vegan" label="#vegan" />
+      <node id="#nationalfriedchickenday" label="#nationalfriedchickenday" />
+      <node id="#nationalkaleday" label="#nationalkaleday" />
+      <node id="#glutenfree" label="#glutenfree" />
+      <node id="#Marketdistrict" label="#Marketdistrict" />
+      <node id="#nationalcheeseburgerday" label="#nationalcheeseburgerday" />
+      <node id="#southernstyle" label="#southernstyle" />
+      <node id="#thanksgiving" label="#thanksgiving" />
+      <node id="#beer" label="#beer" />
+      <node id="#socolumbus" label="#socolumbus" />
+      <node id="#grandviewyard" label="#grandviewyard" />
+      <node id="#freecupcakes" label="#freecupcakes" />
+      <node id="#LaborDay" label="#LaborDay" />
+      <node id="#buckeyenation" label="#buckeyenation" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#seafoodies" label="#seafoodies" />
+      <node id="#mdyard" label="#mdyard" />
+      <node id="#MarketDistrict" label="#MarketDistrict" />
+      <node id="#wokeuplikethis" label="#wokeuplikethis" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#livemusic" label="#livemusic" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#christmas" label="#christmas" />
+      <node id="#pizza" label="#pizza" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#santa" label="#santa" />
+      <node id="#fall" label="#fall" />
+      <node id="#newyou" label="#newyou" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#brewdog" label="#brewdog" />
+      <node id="#newyearnewyou" label="#newyearnewyou" />
+      <node id="#MDYard" label="#MDYard" />
+      <node id="#Ohiolocal" label="#Ohiolocal" />
+      <node id="#bossday" label="#bossday" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#lovelocal" target="#craftbeer" weight="548" />
+      <edge id="1" source="#Hopslam" target="#socolumbus" weight="548" />
+      <edge id="2" source="#lazysunday" target="#marketdistrict" weight="548" />
+      <edge id="3" source="#lazysunday" target="#MDYard" weight="548" />
+      <edge id="4" source="#lazysunday" target="#asseenincolumbus" weight="548" />
+      <edge id="5" source="#lazysunday" target="#GoBucks" weight="548" />
+      <edge id="6" source="#asseenincolumbus" target="#marketdistrict" weight="2192" />
+      <edge id="7" source="#asseenincolumbus" target="#GoBucks" weight="548" />
+      <edge id="8" source="#asseenincolumbus" target="#gobucks" weight="548" />
+      <edge id="9" source="#asseenincolumbus" target="#grandviewyard" weight="548" />
+      <edge id="10" source="#asseenincolumbus" target="#freecupcakes" weight="548" />
+      <edge id="11" source="#asseenincolumbus" target="#brewdog" weight="548" />
+      <edge id="12" source="#asseenincolumbus" target="#MDYard" weight="2192" />
+      <edge id="13" source="#shoplocal" target="#circleville" weight="548" />
+      <edge id="14" source="#foodie" target="#marketdistrict" weight="3288" />
+      <edge id="15" source="#foodie" target="#italianmonth" weight="548" />
+      <edge id="16" source="#foodie" target="#nationalkaleday" weight="548" />
+      <edge id="17" source="#foodie" target="#lifeincbus" weight="1096" />
+      <edge id="18" source="#foodie" target="#seafoodies" weight="548" />
+      <edge id="19" source="#foodie" target="#MDYard" weight="548" />
+      <edge id="20" source="#Fall" target="#MDYard" weight="548" />
+      <edge id="21" source="#nationalmaplesyrupday" target="#MDYard" weight="548" />
+      <edge id="22" source="#italianmonth" target="#marketdistrict" weight="548" />
+      <edge id="23" source="#cinnamonrollday" target="#Marketdistrict" weight="548" />
+      <edge id="24" source="#newyear" target="#newyou" weight="548" />
+      <edge id="25" source="#marketdistrict" target="#wokeuplikethis" weight="548" />
+      <edge id="26" source="#marketdistrict" target="#nationalcheeseburgerday" weight="548" />
+      <edge id="27" source="#marketdistrict" target="#gobucks" weight="1096" />
+      <edge id="28" source="#marketdistrict" target="#GoBucks" weight="548" />
+      <edge id="29" source="#marketdistrict" target="#grandviewyard" weight="548" />
+      <edge id="30" source="#marketdistrict" target="#fall" weight="548" />
+      <edge id="31" source="#marketdistrict" target="#eatbrighter" weight="548" />
+      <edge id="32" source="#marketdistrict" target="#freecupcakes" weight="548" />
+      <edge id="33" source="#marketdistrict" target="#seafoodies" weight="548" />
+      <edge id="34" source="#marketdistrict" target="#brewdog" weight="548" />
+      <edge id="35" source="#marketdistrict" target="#buckeyenation" weight="548" />
+      <edge id="36" source="#marketdistrict" target="#nationalkaleday" weight="548" />
+      <edge id="37" source="#marketdistrict" target="#lifeincbus" weight="548" />
+      <edge id="38" source="#marketdistrict" target="#MDYard" weight="548" />
+      <edge id="39" source="#gobucks" target="#buckeyenation" weight="548" />
+      <edge id="40" source="#gobucks" target="#MDYard" weight="548" />
+      <edge id="41" source="#sweetestday" target="#bossday" weight="548" />
+      <edge id="42" source="#pizza4life" target="#MDYard" weight="548" />
+      <edge id="43" source="#Dietitianapproved" target="#MDYard" weight="548" />
+      <edge id="44" source="#eatbrighter" target="#lifeincbus" weight="548" />
+      <edge id="45" source="#beessential" target="#Ohiolocal" weight="548" />
+      <edge id="46" source="#vegan" target="#glutenfree" weight="548" />
+      <edge id="47" source="#nationalfriedchickenday" target="#MDYard" weight="548" />
+      <edge id="48" source="#southernstyle" target="#lifeincbus" weight="548" />
+      <edge id="49" source="#thanksgiving" target="#MDYard" weight="1644" />
+      <edge id="50" source="#beer" target="#columbus" weight="548" />
+      <edge id="51" source="#grandviewyard" target="#freecupcakes" weight="548" />
+      <edge id="52" source="#LaborDay" target="#MarketDistrict" weight="548" />
+      <edge id="53" source="#lifeincbus" target="#MDYard" weight="548" />
+      <edge id="54" source="#mdyard" target="#fall" weight="548" />
+      <edge id="55" source="#GoBucks" target="#MDYard" weight="548" />
+      <edge id="56" source="#livemusic" target="#MDYard" weight="548" />
+      <edge id="57" source="#christmas" target="#santa" weight="548" />
+      <edge id="58" source="#pizza" target="#MDYard" weight="548" />
+      <edge id="59" source="#cbus" target="#newyearnewyou" weight="548" />
+    </edges>
+  </graph>
+</gexf>

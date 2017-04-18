@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Kids" label="#Kids" />
+      <node id="#PreventFalls" label="#PreventFalls" />
+      <node id="#worldautismday" label="#worldautismday" />
+      <node id="#walking" label="#walking" />
+      <node id="#flu" label="#flu" />
+      <node id="#nutrition" label="#nutrition" />
+      <node id="#employer" label="#employer" />
+      <node id="#Healthy" label="#Healthy" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#endometriosis" label="#endometriosis" />
+      <node id="#headlice" label="#headlice" />
+      <node id="#Flu" label="#Flu" />
+      <node id="#news" label="#news" />
+      <node id="#aca" label="#aca" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#Recipes" label="#Recipes" />
+      <node id="#Employers" label="#Employers" />
+      <node id="#pregnancy" label="#pregnancy" />
+      <node id="#neckpain" label="#neckpain" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#DiabetesMonth" label="#DiabetesMonth" />
+      <node id="#WorldAutismAwarenessDay" label="#WorldAutismAwarenessDay" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#IBS" label="#IBS" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#healthymoms" label="#healthymoms" />
+      <node id="#AprilFallsDay" label="#AprilFallsDay" />
+      <node id="#influenza" label="#influenza" />
+      <node id="#yoga" label="#yoga" />
+      <node id="#physicaltherapy" label="#physicaltherapy" />
+      <node id="#getafluvax" label="#getafluvax" />
+      <node id="#HR" label="#HR" />
+      <node id="#exercise" label="#exercise" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#fitness" label="#fitness" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#childhealth" label="#childhealth" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#pesticides" label="#pesticides" />
+      <node id="#allergies" label="#allergies" />
+      <node id="#waiting" label="#waiting" />
+      <node id="#arthritis" label="#arthritis" />
+      <node id="#vitamins" label="#vitamins" />
+      <node id="#Tips" label="#Tips" />
+      <node id="#ecigs" label="#ecigs" />
+      <node id="#kids" label="#kids" />
+      <node id="#health" label="#health" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#running" label="#running" />
+      <node id="#vaping" label="#vaping" />
+      <node id="#quote" label="#quote" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#dr" label="#dr" />
+      <node id="#snoring" label="#snoring" />
+      <node id="#sleep" label="#sleep" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#BreastCancer" label="#BreastCancer" />
+      <node id="#posture" label="#posture" />
+      <node id="#healthyrecipe" label="#healthyrecipe" />
+      <node id="#nbc4" label="#nbc4" />
+      <node id="#abcDRBchat" label="#abcDRBchat" />
+      <node id="#lowbackpain" label="#lowbackpain" />
+      <node id="#aging" label="#aging" />
+      <node id="#Selfies" label="#Selfies" />
+      <node id="#sciatica" label="#sciatica" />
+      <node id="#headache" label="#headache" />
+      <node id="#fall" label="#fall" />
+      <node id="#FluFacts" label="#FluFacts" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#vegetarian" label="#vegetarian" />
+      <node id="#safety" label="#safety" />
+      <node id="#winter" label="#winter" />
+      <node id="#employers" label="#employers" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#quinoa" label="#quinoa" />
+      <node id="#urgentcare" label="#urgentcare" />
+      <node id="#healthy" label="#healthy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Kids" target="#childhealth" weight="256" />
+      <edge id="1" source="#Kids" target="#health" weight="256" />
+      <edge id="2" source="#PreventFalls" target="#AprilFallsDay" weight="256" />
+      <edge id="3" source="#worldautismday" target="#WorldAutismAwarenessDay" weight="256" />
+      <edge id="4" source="#walking" target="#health" weight="256" />
+      <edge id="5" source="#flu" target="#DiabetesMonth" weight="256" />
+      <edge id="6" source="#flu" target="#FluFacts" weight="256" />
+      <edge id="7" source="#flu" target="#diabetes" weight="256" />
+      <edge id="8" source="#flu" target="#health" weight="256" />
+      <edge id="9" source="#flu" target="#Ohio" weight="512" />
+      <edge id="10" source="#nutrition" target="#fall" weight="256" />
+      <edge id="11" source="#employer" target="#Ohio" weight="256" />
+      <edge id="12" source="#Healthy" target="#Recipes" weight="256" />
+      <edge id="13" source="#Healthy" target="#Thanksgiving" weight="256" />
+      <edge id="14" source="#insurance" target="#aca" weight="256" />
+      <edge id="15" source="#insurance" target="#Obamacare" weight="256" />
+      <edge id="16" source="#insurance" target="#ACA" weight="256" />
+      <edge id="17" source="#endometriosis" target="#pesticides" weight="256" />
+      <edge id="18" source="#headlice" target="#Selfies" weight="256" />
+      <edge id="19" source="#Flu" target="#Tips" weight="256" />
+      <edge id="20" source="#Flu" target="#influenza" weight="256" />
+      <edge id="21" source="#news" target="#health" weight="256" />
+      <edge id="22" source="#aca" target="#Obamacare" weight="256" />
+      <edge id="23" source="#Dayton" target="#IBS" weight="256" />
+      <edge id="24" source="#Dayton" target="#Columbus" weight="256" />
+      <edge id="25" source="#Recipes" target="#Thanksgiving" weight="256" />
+      <edge id="26" source="#Employers" target="#Ohio" weight="512" />
+      <edge id="27" source="#pregnancy" target="#fitness" weight="256" />
+      <edge id="28" source="#neckpain" target="#posture" weight="256" />
+      <edge id="29" source="#neckpain" target="#lowbackpain" weight="256" />
+      <edge id="30" source="#neckpain" target="#headache" weight="256" />
+      <edge id="31" source="#Ohio" target="#BlackFriday" weight="256" />
+      <edge id="32" source="#Ohio" target="#Obamacare" weight="256" />
+      <edge id="33" source="#Ohio" target="#winter" weight="256" />
+      <edge id="34" source="#Ohio" target="#health" weight="768" />
+      <edge id="35" source="#Ohio" target="#getafluvax" weight="256" />
+      <edge id="36" source="#Ohio" target="#HR" weight="256" />
+      <edge id="37" source="#Ohio" target="#ACA" weight="512" />
+      <edge id="38" source="#Ohio" target="#employers" weight="256" />
+      <edge id="39" source="#Ohio" target="#Medicaid" weight="256" />
+      <edge id="40" source="#Ohio" target="#urgentcare" weight="512" />
+      <edge id="41" source="#DiabetesMonth" target="#diabetes" weight="256" />
+      <edge id="42" source="#Halloween" target="#healthy" weight="256" />
+      <edge id="43" source="#Halloween" target="#health" weight="512" />
+      <edge id="44" source="#Halloween" target="#safety" weight="256" />
+      <edge id="45" source="#IBS" target="#Columbus" weight="256" />
+      <edge id="46" source="#healthymoms" target="#health" weight="256" />
+      <edge id="47" source="#yoga" target="#sciatica" weight="256" />
+      <edge id="48" source="#physicaltherapy" target="#health" weight="256" />
+      <edge id="49" source="#exercise" target="#aging" weight="256" />
+      <edge id="50" source="#exercise" target="#healthcare" weight="256" />
+      <edge id="51" source="#exercise" target="#kids" weight="256" />
+      <edge id="52" source="#Thanksgiving" target="#healthy" weight="512" />
+      <edge id="53" source="#fitness" target="#running" weight="256" />
+      <edge id="54" source="#fitness" target="#motivation" weight="256" />
+      <edge id="55" source="#fitness" target="#health" weight="512" />
+      <edge id="56" source="#fitness" target="#quote" weight="256" />
+      <edge id="57" source="#childhealth" target="#health" weight="256" />
+      <edge id="58" source="#Obamacare" target="#waiting" weight="256" />
+      <edge id="59" source="#Obamacare" target="#dr" weight="256" />
+      <edge id="60" source="#allergies" target="#fall" weight="256" />
+      <edge id="61" source="#waiting" target="#dr" weight="256" />
+      <edge id="62" source="#arthritis" target="#health" weight="256" />
+      <edge id="63" source="#vitamins" target="#health" weight="256" />
+      <edge id="64" source="#ecigs" target="#vaping" weight="256" />
+      <edge id="65" source="#kids" target="#health" weight="256" />
+      <edge id="66" source="#health" target="#motivation" weight="256" />
+      <edge id="67" source="#health" target="#urgentcare" weight="256" />
+      <edge id="68" source="#motivation" target="#nbc4" weight="256" />
+      <edge id="69" source="#snoring" target="#sleep" weight="256" />
+      <edge id="70" source="#BreastCancer" target="#abcDRBchat" weight="256" />
+      <edge id="71" source="#posture" target="#headache" weight="256" />
+      <edge id="72" source="#posture" target="#lowbackpain" weight="256" />
+      <edge id="73" source="#healthyrecipe" target="#vegetarian" weight="256" />
+      <edge id="74" source="#healthyrecipe" target="#quinoa" weight="256" />
+      <edge id="75" source="#lowbackpain" target="#headache" weight="256" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#dublinirishfest2013" label="#dublinirishfest2013" />
+      <node id="#Rush" label="#Rush" />
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#EPL" label="#EPL" />
+      <node id="#GoTribe" label="#GoTribe" />
+      <node id="#ThorRamsey" label="#ThorRamsey" />
+      <node id="#socolumbus" label="#socolumbus" />
+      <node id="#MerseysideDerby" label="#MerseysideDerby" />
+      <node id="#StephenBaldwin" label="#StephenBaldwin" />
+      <node id="#Heart" label="#Heart" />
+      <node id="#BrazilGermany" label="#BrazilGermany" />
+      <node id="#DublinOhio" label="#DublinOhio" />
+      <node id="#GiantEagle" label="#GiantEagle" />
+      <node id="#LFC" label="#LFC" />
+      <node id="#mayorstwilightride" label="#mayorstwilightride" />
+      <node id="#Indians" label="#Indians" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#dublinirishfest2013" target="#expcols" weight="355" />
+      <edge id="1" source="#Rush" target="#Heart" weight="1065" />
+      <edge id="2" source="#Dublin" target="#StephenBaldwin" weight="355" />
+      <edge id="3" source="#Dublin" target="#ThorRamsey" weight="355" />
+      <edge id="4" source="#Rio2016" target="#BrazilGermany" weight="355" />
+      <edge id="5" source="#expcols" target="#socolumbus" weight="355" />
+      <edge id="6" source="#expcols" target="#mayorstwilightride" weight="355" />
+      <edge id="7" source="#GoBucks" target="#LFC" weight="355" />
+      <edge id="8" source="#EPL" target="#MerseysideDerby" weight="355" />
+      <edge id="9" source="#GoTribe" target="#Indians" weight="355" />
+      <edge id="10" source="#ThorRamsey" target="#StephenBaldwin" weight="355" />
+      <edge id="11" source="#socolumbus" target="#mayorstwilightride" weight="710" />
+      <edge id="12" source="#DublinOhio" target="#GiantEagle" weight="355" />
+    </edges>
+  </graph>
+</gexf>

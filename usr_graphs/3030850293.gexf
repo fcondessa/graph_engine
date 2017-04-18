@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#Iwouldeatthat" label="#Iwouldeatthat" />
+      <node id="#fishtacos" label="#fishtacos" />
+      <node id="#lunch" label="#lunch" />
+      <node id="#tacojohns" label="#tacojohns" />
+      <node id="#llamas" label="#llamas" />
+      <node id="#tattoo" label="#tattoo" />
+      <node id="#goldenbrown" label="#goldenbrown" />
+      <node id="#Outlook" label="#Outlook" />
+      <node id="#dontmindifido" label="#dontmindifido" />
+      <node id="#potatooles" label="#potatooles" />
+      <node id="#GRRR" label="#GRRR" />
+      <node id="#snOHIO" label="#snOHIO" />
+      <node id="#scavengerhunt" label="#scavengerhunt" />
+      <node id="#blueandblack" label="#blueandblack" />
+      <node id="#walkingtacos" label="#walkingtacos" />
+      <node id="#giveittome" label="#giveittome" />
+      <node id="#yum" label="#yum" />
+      <node id="#happyhour" label="#happyhour" />
+      <node id="#AthensOhio" label="#AthensOhio" />
+      <node id="#hatersdontgetcake" label="#hatersdontgetcake" />
+      <node id="#tacos" label="#tacos" />
+      <node id="#BlueAndBrown" label="#BlueAndBrown" />
+      <node id="#burritosforlife" label="#burritosforlife" />
+      <node id="#picnic" label="#picnic" />
+      <node id="#specialdelivery" label="#specialdelivery" />
+      <node id="#super" label="#super" />
+      <node id="#rundontwalk" label="#rundontwalk" />
+      <node id="#mmm" label="#mmm" />
+      <node id="#Tacos" label="#Tacos" />
+      <node id="#presidentofthefanclub" label="#presidentofthefanclub" />
+      <node id="#newfavoriteshirt" label="#newfavoriteshirt" />
+      <node id="#thedress" label="#thedress" />
+      <node id="#dreamjob" label="#dreamjob" />
+      <node id="#burrito" label="#burrito" />
+      <node id="#eatlocal" label="#eatlocal" />
+      <node id="#ole" label="#ole" />
+      <node id="#iamtaco" label="#iamtaco" />
+      <node id="#Mmm" label="#Mmm" />
+      <node id="#gravelrouser" label="#gravelrouser" />
+      <node id="#lunchdate" label="#lunchdate" />
+      <node id="#OutlookSucks" label="#OutlookSucks" />
+      <node id="#athensohio" label="#athensohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#nofilter" target="#tacojohns" weight="62" />
+      <edge id="1" source="#nofilter" target="#potatooles" weight="62" />
+      <edge id="2" source="#nofilter" target="#goldenbrown" weight="62" />
+      <edge id="3" source="#Iwouldeatthat" target="#hatersdontgetcake" weight="62" />
+      <edge id="4" source="#fishtacos" target="#mmm" weight="62" />
+      <edge id="5" source="#fishtacos" target="#lunch" weight="62" />
+      <edge id="6" source="#lunch" target="#yum" weight="62" />
+      <edge id="7" source="#lunch" target="#iamtaco" weight="62" />
+      <edge id="8" source="#lunch" target="#tacojohns" weight="248" />
+      <edge id="9" source="#lunch" target="#Mmm" weight="62" />
+      <edge id="10" source="#lunch" target="#tattoo" weight="62" />
+      <edge id="11" source="#lunch" target="#tacos" weight="124" />
+      <edge id="12" source="#lunch" target="#presidentofthefanclub" weight="62" />
+      <edge id="13" source="#lunch" target="#potatooles" weight="62" />
+      <edge id="14" source="#lunch" target="#ole" weight="62" />
+      <edge id="15" source="#lunch" target="#mmm" weight="310" />
+      <edge id="16" source="#tacojohns" target="#burrito" weight="124" />
+      <edge id="17" source="#tacojohns" target="#specialdelivery" weight="62" />
+      <edge id="18" source="#tacojohns" target="#yum" weight="62" />
+      <edge id="19" source="#tacojohns" target="#super" weight="62" />
+      <edge id="20" source="#tacojohns" target="#happyhour" weight="62" />
+      <edge id="21" source="#tacojohns" target="#Mmm" weight="62" />
+      <edge id="22" source="#tacojohns" target="#tattoo" weight="62" />
+      <edge id="23" source="#tacojohns" target="#goldenbrown" weight="62" />
+      <edge id="24" source="#tacojohns" target="#iamtaco" weight="124" />
+      <edge id="25" source="#tacojohns" target="#tacos" weight="248" />
+      <edge id="26" source="#tacojohns" target="#newfavoriteshirt" weight="62" />
+      <edge id="27" source="#tacojohns" target="#potatooles" weight="62" />
+      <edge id="28" source="#tacojohns" target="#mmm" weight="248" />
+      <edge id="29" source="#tacojohns" target="#giveittome" weight="62" />
+      <edge id="30" source="#llamas" target="#thedress" weight="62" />
+      <edge id="31" source="#tattoo" target="#iamtaco" weight="124" />
+      <edge id="32" source="#tattoo" target="#dontmindifido" weight="62" />
+      <edge id="33" source="#tattoo" target="#yum" weight="62" />
+      <edge id="34" source="#goldenbrown" target="#potatooles" weight="62" />
+      <edge id="35" source="#Outlook" target="#GRRR" weight="62" />
+      <edge id="36" source="#Outlook" target="#OutlookSucks" weight="62" />
+      <edge id="37" source="#dontmindifido" target="#iamtaco" weight="62" />
+      <edge id="38" source="#potatooles" target="#tacos" weight="62" />
+      <edge id="39" source="#GRRR" target="#OutlookSucks" weight="62" />
+      <edge id="40" source="#snOHIO" target="#athensohio" weight="62" />
+      <edge id="41" source="#scavengerhunt" target="#AthensOhio" weight="62" />
+      <edge id="42" source="#scavengerhunt" target="#gravelrouser" weight="62" />
+      <edge id="43" source="#blueandblack" target="#BlueAndBrown" weight="62" />
+      <edge id="44" source="#walkingtacos" target="#rundontwalk" weight="62" />
+      <edge id="45" source="#walkingtacos" target="#tacos" weight="62" />
+      <edge id="46" source="#giveittome" target="#mmm" weight="62" />
+      <edge id="47" source="#yum" target="#iamtaco" weight="62" />
+      <edge id="48" source="#happyhour" target="#tacos" weight="62" />
+      <edge id="49" source="#AthensOhio" target="#gravelrouser" weight="62" />
+      <edge id="50" source="#tacos" target="#rundontwalk" weight="62" />
+      <edge id="51" source="#tacos" target="#mmm" weight="124" />
+      <edge id="52" source="#tacos" target="#newfavoriteshirt" weight="62" />
+      <edge id="53" source="#burritosforlife" target="#dreamjob" weight="62" />
+      <edge id="54" source="#picnic" target="#Tacos" weight="62" />
+      <edge id="55" source="#picnic" target="#lunchdate" weight="62" />
+      <edge id="56" source="#specialdelivery" target="#iamtaco" weight="62" />
+      <edge id="57" source="#super" target="#burrito" weight="62" />
+      <edge id="58" source="#mmm" target="#eatlocal" weight="62" />
+      <edge id="59" source="#mmm" target="#athensohio" weight="62" />
+      <edge id="60" source="#mmm" target="#presidentofthefanclub" weight="62" />
+      <edge id="61" source="#mmm" target="#ole" weight="62" />
+      <edge id="62" source="#Tacos" target="#lunchdate" weight="62" />
+      <edge id="63" source="#eatlocal" target="#athensohio" weight="62" />
+    </edges>
+  </graph>
+</gexf>

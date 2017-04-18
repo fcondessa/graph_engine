@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#prvateexchanges" label="#prvateexchanges" />
+      <node id="#PPOs" label="#PPOs" />
+      <node id="#mercerthink" label="#mercerthink" />
+      <node id="#BenefitsTV" label="#BenefitsTV" />
+      <node id="#CDHPs" label="#CDHPs" />
+      <node id="#aca" label="#aca" />
+      <node id="#agingworkforce" label="#agingworkforce" />
+      <node id="#privateexchanges" label="#privateexchanges" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#workerscompensation" label="#workerscompensation" />
+      <node id="#exchanges" label="#exchanges" />
+      <node id="#privateexchange" label="#privateexchange" />
+      <node id="#HR" label="#HR" />
+      <node id="#mercermarketplace" label="#mercermarketplace" />
+      <node id="#infographics" label="#infographics" />
+      <node id="#PPACA" label="#PPACA" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#healthinsurance" label="#healthinsurance" />
+      <node id="#MercerMarketplace" label="#MercerMarketplace" />
+      <node id="#ebook" label="#ebook" />
+      <node id="#execrem" label="#execrem" />
+      <node id="#execpay" label="#execpay" />
+      <node id="#benefits" label="#benefits" />
+      <node id="#riskmanagement" label="#riskmanagement" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#prvateexchanges" target="#BenefitsTV" weight="44" />
+      <edge id="1" source="#PPOs" target="#CDHPs" weight="44" />
+      <edge id="2" source="#mercerthink" target="#infographics" weight="44" />
+      <edge id="3" source="#mercerthink" target="#exchanges" weight="44" />
+      <edge id="4" source="#mercerthink" target="#ebook" weight="44" />
+      <edge id="5" source="#mercerthink" target="#infographic" weight="44" />
+      <edge id="6" source="#aca" target="#hcr" weight="44" />
+      <edge id="7" source="#agingworkforce" target="#infographic" weight="44" />
+      <edge id="8" source="#privateexchanges" target="#mercermarketplace" weight="44" />
+      <edge id="9" source="#infographic" target="#HR" weight="44" />
+      <edge id="10" source="#infographic" target="#exchanges" weight="44" />
+      <edge id="11" source="#workerscompensation" target="#riskmanagement" weight="44" />
+      <edge id="12" source="#privateexchange" target="#MercerMarketplace" weight="44" />
+      <edge id="13" source="#mercermarketplace" target="#healthinsurance" weight="44" />
+      <edge id="14" source="#infographics" target="#ebook" weight="44" />
+      <edge id="15" source="#PPACA" target="#benefits" weight="44" />
+      <edge id="16" source="#PPACA" target="#healthcare" weight="44" />
+      <edge id="17" source="#execrem" target="#execpay" weight="44" />
+    </edges>
+  </graph>
+</gexf>

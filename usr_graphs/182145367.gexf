@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#eghss" label="#eghss" />
+      <node id="#lamfest" label="#lamfest" />
+      <node id="#mshss" label="#mshss" />
+      <node id="#lanfast" label="#lanfast" />
+      <node id="#nahss" label="#nahss" />
+      <node id="#lanfest" label="#lanfest" />
+      <node id="#engow" label="#engow" />
+      <node id="#egnow" label="#egnow" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#eghss" target="#nahss" weight="39447" />
+      <edge id="1" source="#eghss" target="#mshss" weight="7305" />
+      <edge id="2" source="#eghss" target="#egnow" weight="1461" />
+      <edge id="3" source="#lamfest" target="#egnow" weight="1461" />
+      <edge id="4" source="#lanfast" target="#engow" weight="1461" />
+      <edge id="5" source="#lanfest" target="#egnow" weight="26298" />
+    </edges>
+  </graph>
+</gexf>

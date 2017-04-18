@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DNCinPHL" label="#DNCinPHL" />
+      <node id="#canneslions" label="#canneslions" />
+      <node id="#SJWs" label="#SJWs" />
+      <node id="#Copacabana" label="#Copacabana" />
+      <node id="#Pokemon" label="#Pokemon" />
+      <node id="#EUref" label="#EUref" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#BushDidHarambe" label="#BushDidHarambe" />
+      <node id="#mylittlepony" label="#mylittlepony" />
+      <node id="#debate" label="#debate" />
+      <node id="#trump" label="#trump" />
+      <node id="#StTropez" label="#StTropez" />
+      <node id="#MRAhorses" label="#MRAhorses" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#buzzfeedlive" label="#buzzfeedlive" />
+      <node id="#POTD" label="#POTD" />
+      <node id="#UsePen15" label="#UsePen15" />
+      <node id="#SomebodyOnceToldMeTheWorldWasHarambe" label="#SomebodyOnceToldMeTheWorldWasHarambe" />
+      <node id="#VideoOfTheDay" label="#VideoOfTheDay" />
+      <node id="#Honor" label="#Honor" />
+      <node id="#Lemoncloak" label="#Lemoncloak" />
+      <node id="#gopconvention" label="#gopconvention" />
+      <node id="#DicksOutForHarambe" label="#DicksOutForHarambe" />
+      <node id="#BeKind" label="#BeKind" />
+      <node id="#pence" label="#pence" />
+      <node id="#cbc" label="#cbc" />
+      <node id="#changetheratio" label="#changetheratio" />
+      <node id="#KindnessWins" label="#KindnessWins" />
+      <node id="#plagiarismisnotmagic" label="#plagiarismisnotmagic" />
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#DoubleStanderds" label="#DoubleStanderds" />
+      <node id="#cbcolympics" label="#cbcolympics" />
+      <node id="#BurkiniBan" label="#BurkiniBan" />
+      <node id="#WTFFrance" label="#WTFFrance" />
+      <node id="#Beauty" label="#Beauty" />
+      <node id="#PokemonGO" label="#PokemonGO" />
+      <node id="#oops" label="#oops" />
+      <node id="#GoT" label="#GoT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DNCinPHL" target="#buzzfeedlive" weight="3209" />
+      <edge id="1" source="#canneslions" target="#changetheratio" weight="3209" />
+      <edge id="2" source="#SJWs" target="#DoubleStanderds" weight="3209" />
+      <edge id="3" source="#Copacabana" target="#cbc" weight="3209" />
+      <edge id="4" source="#Copacabana" target="#Rio2016" weight="3209" />
+      <edge id="5" source="#Copacabana" target="#cbcolympics" weight="3209" />
+      <edge id="6" source="#Pokemon" target="#PokemonGO" weight="3209" />
+      <edge id="7" source="#EUref" target="#UsePen15" weight="3209" />
+      <edge id="8" source="#RNCinCLE" target="#mylittlepony" weight="3209" />
+      <edge id="9" source="#RNCinCLE" target="#gopconvention" weight="3209" />
+      <edge id="10" source="#RNCinCLE" target="#plagiarismisnotmagic" weight="3209" />
+      <edge id="11" source="#BushDidHarambe" target="#DicksOutForHarambe" weight="3209" />
+      <edge id="12" source="#BushDidHarambe" target="#SomebodyOnceToldMeTheWorldWasHarambe" weight="3209" />
+      <edge id="13" source="#mylittlepony" target="#gopconvention" weight="3209" />
+      <edge id="14" source="#mylittlepony" target="#plagiarismisnotmagic" weight="3209" />
+      <edge id="15" source="#debate" target="#pence" weight="3209" />
+      <edge id="16" source="#debate" target="#trump" weight="3209" />
+      <edge id="17" source="#trump" target="#pence" weight="3209" />
+      <edge id="18" source="#StTropez" target="#POTD" weight="3209" />
+      <edge id="19" source="#MRAhorses" target="#Rio2016" weight="3209" />
+      <edge id="20" source="#Olympics" target="#Rio2016" weight="3209" />
+      <edge id="21" source="#SomebodyOnceToldMeTheWorldWasHarambe" target="#DicksOutForHarambe" weight="3209" />
+      <edge id="22" source="#VideoOfTheDay" target="#KindnessWins" weight="3209" />
+      <edge id="23" source="#Honor" target="#Beauty" weight="3209" />
+      <edge id="24" source="#Honor" target="#BeKind" weight="3209" />
+      <edge id="25" source="#Lemoncloak" target="#GoT" weight="3209" />
+      <edge id="26" source="#gopconvention" target="#plagiarismisnotmagic" weight="3209" />
+      <edge id="27" source="#BeKind" target="#Beauty" weight="3209" />
+      <edge id="28" source="#cbc" target="#Rio2016" weight="3209" />
+      <edge id="29" source="#cbc" target="#cbcolympics" weight="3209" />
+      <edge id="30" source="#Rio2016" target="#cbcolympics" weight="3209" />
+      <edge id="31" source="#Rio2016" target="#oops" weight="3209" />
+      <edge id="32" source="#BurkiniBan" target="#WTFFrance" weight="3209" />
+    </edges>
+  </graph>
+</gexf>

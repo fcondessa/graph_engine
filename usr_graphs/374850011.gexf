@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#MAC" label="#MAC" />
+      <node id="#Newsroom" label="#Newsroom" />
+      <node id="#NYSE" label="#NYSE" />
+      <node id="#Insofar" label="#Insofar" />
+      <node id="#publicrecords" label="#publicrecords" />
+      <node id="#DJNFBiz16" label="#DJNFBiz16" />
+      <node id="#lit" label="#lit" />
+      <node id="#TheMet" label="#TheMet" />
+      <node id="#OUSenate" label="#OUSenate" />
+      <node id="#BleedGreen" label="#BleedGreen" />
+      <node id="#EmptyMet" label="#EmptyMet" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#espressos" label="#espressos" />
+      <node id="#JaredFogle" label="#JaredFogle" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#Thereunder" label="#Thereunder" />
+      <node id="#GlassCity" label="#GlassCity" />
+      <node id="#LiveFrom" label="#LiveFrom" />
+      <node id="#OhioMBB" label="#OhioMBB" />
+      <node id="#SurgeonGeneral" label="#SurgeonGeneral" />
+      <node id="#BobcatNation" label="#BobcatNation" />
+      <node id="#SnowSprints" label="#SnowSprints" />
+      <node id="#TheDuf" label="#TheDuf" />
+      <node id="#PleaseDontHurtMeGoogle" label="#PleaseDontHurtMeGoogle" />
+      <node id="#SpotlightMovie" label="#SpotlightMovie" />
+      <node id="#Weezy" label="#Weezy" />
+      <node id="#DonutWorld" label="#DonutWorld" />
+      <node id="#FedExCup" label="#FedExCup" />
+      <node id="#Uber" label="#Uber" />
+      <node id="#SnowKarate" label="#SnowKarate" />
+      <node id="#Trivia" label="#Trivia" />
+      <node id="#Metfirsttimer" label="#Metfirsttimer" />
+      <node id="#HallOUween" label="#HallOUween" />
+      <node id="#MACtion" label="#MACtion" />
+      <node id="#BestYearEver" label="#BestYearEver" />
+      <node id="#BeTheDifference" label="#BeTheDifference" />
+      <node id="#whaddup" label="#whaddup" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#ACBJ" label="#ACBJ" />
+      <node id="#rydiesil" label="#rydiesil" />
+      <node id="#sydney" label="#sydney" />
+      <node id="#JustKidding" label="#JustKidding" />
+      <node id="#TwitterlessJaySingh" label="#TwitterlessJaySingh" />
+      <node id="#SnowDiving" label="#SnowDiving" />
+      <node id="#memory" label="#memory" />
+      <node id="#SaulBall" label="#SaulBall" />
+      <node id="#sunshine" label="#sunshine" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#Heretofor" label="#Heretofor" />
+      <node id="#Bricksquad" label="#Bricksquad" />
+      <node id="#AMAs" label="#AMAs" />
+      <node id="#AMAs2014" label="#AMAs2014" />
+      <node id="#Takes" label="#Takes" />
+      <node id="#VivekMurthy" label="#VivekMurthy" />
+      <node id="#BREAKING" label="#BREAKING" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#MAC" target="#MACtion" weight="3237" />
+      <edge id="1" source="#MAC" target="#Toledo" weight="3237" />
+      <edge id="2" source="#Newsroom" target="#BestYearEver" weight="3237" />
+      <edge id="3" source="#NYSE" target="#ACBJ" weight="3237" />
+      <edge id="4" source="#NYSE" target="#DJNFBiz16" weight="6474" />
+      <edge id="5" source="#Insofar" target="#Thereunder" weight="3237" />
+      <edge id="6" source="#Insofar" target="#Heretofor" weight="3237" />
+      <edge id="7" source="#publicrecords" target="#sunshine" weight="3237" />
+      <edge id="8" source="#DJNFBiz16" target="#TheMet" weight="3237" />
+      <edge id="9" source="#DJNFBiz16" target="#ACBJ" weight="22659" />
+      <edge id="10" source="#DJNFBiz16" target="#EmptyMet" weight="3237" />
+      <edge id="11" source="#lit" target="#ACBJ" weight="3237" />
+      <edge id="12" source="#OUSenate" target="#OUSenate" weight="6474" />
+      <edge id="13" source="#BleedGreen" target="#BeTheDifference" weight="3237" />
+      <edge id="14" source="#EmptyMet" target="#Metfirsttimer" weight="3237" />
+      <edge id="15" source="#CLE" target="#HallOUween" weight="3237" />
+      <edge id="16" source="#espressos" target="#memory" weight="3237" />
+      <edge id="17" source="#JaredFogle" target="#BREAKING" weight="3237" />
+      <edge id="18" source="#Ferguson" target="#BREAKING" weight="3237" />
+      <edge id="19" source="#Thereunder" target="#Heretofor" weight="3237" />
+      <edge id="20" source="#GlassCity" target="#DonutWorld" weight="3237" />
+      <edge id="21" source="#LiveFrom" target="#Bricksquad" weight="3237" />
+      <edge id="22" source="#OhioMBB" target="#MACtion" weight="3237" />
+      <edge id="23" source="#SurgeonGeneral" target="#VivekMurthy" weight="3237" />
+      <edge id="24" source="#BobcatNation" target="#SaulBall" weight="3237" />
+      <edge id="25" source="#SnowSprints" target="#SnowKarate" weight="3237" />
+      <edge id="26" source="#SnowSprints" target="#SnowDiving" weight="3237" />
+      <edge id="27" source="#TheDuf" target="#FedExCup" weight="3237" />
+      <edge id="28" source="#PleaseDontHurtMeGoogle" target="#JustKidding" weight="3237" />
+      <edge id="29" source="#SpotlightMovie" target="#Oscars" weight="3237" />
+      <edge id="30" source="#Weezy" target="#AMAs2014" weight="3237" />
+      <edge id="31" source="#Uber" target="#sydney" weight="3237" />
+      <edge id="32" source="#SnowKarate" target="#SnowDiving" weight="3237" />
+      <edge id="33" source="#Trivia" target="#TwitterlessJaySingh" weight="3237" />
+      <edge id="34" source="#whaddup" target="#rydiesil" weight="3237" />
+      <edge id="35" source="#Brexit" target="#Takes" weight="3237" />
+      <edge id="36" source="#AMAs" target="#AMAs2014" weight="3237" />
+    </edges>
+  </graph>
+</gexf>

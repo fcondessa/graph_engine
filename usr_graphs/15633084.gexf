@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#TWiST" label="#TWiST" />
+      <node id="#success" label="#success" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#NACCE2016" label="#NACCE2016" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#eep2014" label="#eep2014" />
+      <node id="#NAWBO" label="#NAWBO" />
+      <node id="#hatersgonnahate" label="#hatersgonnahate" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#incubator" label="#incubator" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#women" label="#women" />
+      <node id="#creativity" label="#creativity" />
+      <node id="#UES2016" label="#UES2016" />
+      <node id="#fattire" label="#fattire" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#twist" label="#twist" />
+      <node id="#globalentrepreneurshipweek" label="#globalentrepreneurshipweek" />
+      <node id="#beer" label="#beer" />
+      <node id="#CbusMarathon" label="#CbusMarathon" />
+      <node id="#fb" label="#fb" />
+      <node id="#edutech" label="#edutech" />
+      <node id="#startup" label="#startup" />
+      <node id="#techcrunch" label="#techcrunch" />
+      <node id="#accelerator" label="#accelerator" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#CES" label="#CES" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#startups" label="#startups" />
+      <node id="#p2" label="#p2" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#entrepreneur" target="#entrepreneurship" weight="1510" />
+      <edge id="1" source="#entrepreneur" target="#startup" weight="1510" />
+      <edge id="2" source="#entrepreneur" target="#Columbus" weight="1510" />
+      <edge id="3" source="#entrepreneur" target="#NACCE2016" weight="1510" />
+      <edge id="4" source="#TWiST" target="#twist" weight="1510" />
+      <edge id="5" source="#success" target="#entrepreneurship" weight="1510" />
+      <edge id="6" source="#success" target="#fattire" weight="1510" />
+      <edge id="7" source="#success" target="#beer" weight="1510" />
+      <edge id="8" source="#entrepreneurs" target="#NAWBO" weight="1510" />
+      <edge id="9" source="#entrepreneurs" target="#hatersgonnahate" weight="1510" />
+      <edge id="10" source="#entrepreneurs" target="#edutech" weight="1510" />
+      <edge id="11" source="#entrepreneurs" target="#women" weight="4530" />
+      <edge id="12" source="#entrepreneurs" target="#columbus" weight="1510" />
+      <edge id="13" source="#entrepreneurs" target="#Columbus" weight="1510" />
+      <edge id="14" source="#NACCE2016" target="#entrepreneurship" weight="1510" />
+      <edge id="15" source="#entrepreneurship" target="#OhioState" weight="1510" />
+      <edge id="16" source="#entrepreneurship" target="#creativity" weight="1510" />
+      <edge id="17" source="#entrepreneurship" target="#CES" weight="1510" />
+      <edge id="18" source="#entrepreneurship" target="#beer" weight="1510" />
+      <edge id="19" source="#entrepreneurship" target="#venturecapital" weight="1510" />
+      <edge id="20" source="#entrepreneurship" target="#startup" weight="1510" />
+      <edge id="21" source="#entrepreneurship" target="#startups" weight="3020" />
+      <edge id="22" source="#entrepreneurship" target="#globalentrepreneurshipweek" weight="1510" />
+      <edge id="23" source="#entrepreneurship" target="#UES2016" weight="1510" />
+      <edge id="24" source="#entrepreneurship" target="#accelerator" weight="1510" />
+      <edge id="25" source="#entrepreneurship" target="#fattire" weight="1510" />
+      <edge id="26" source="#entrepreneurship" target="#columbus" weight="1510" />
+      <edge id="27" source="#entrepreneurship" target="#eep2014" weight="1510" />
+      <edge id="28" source="#NAWBO" target="#women" weight="1510" />
+      <edge id="29" source="#NAWBO" target="#Columbus" weight="1510" />
+      <edge id="30" source="#incubator" target="#startup" weight="1510" />
+      <edge id="31" source="#women" target="#Columbus" weight="1510" />
+      <edge id="32" source="#UES2016" target="#startups" weight="1510" />
+      <edge id="33" source="#fattire" target="#beer" weight="1510" />
+      <edge id="34" source="#columbus" target="#startup" weight="1510" />
+      <edge id="35" source="#CbusMarathon" target="#fb" weight="4530" />
+      <edge id="36" source="#startup" target="#Columbus" weight="1510" />
+      <edge id="37" source="#techcrunch" target="#Columbus" weight="1510" />
+      <edge id="38" source="#CES" target="#startups" weight="1510" />
+      <edge id="39" source="#tcot" target="#p2" weight="1510" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#misfits" label="#misfits" />
+      <node id="#lovemylife" label="#lovemylife" />
+      <node id="#dreamBIG" label="#dreamBIG" />
+      <node id="#stormer" label="#stormer" />
+      <node id="#picstitch" label="#picstitch" />
+      <node id="#FOIA" label="#FOIA" />
+      <node id="#nothiporcoollike" label="#nothiporcoollike" />
+      <node id="#FF" label="#FF" />
+      <node id="#OpeningBell" label="#OpeningBell" />
+      <node id="#ikickedcancersarse" label="#ikickedcancersarse" />
+      <node id="#bgsu" label="#bgsu" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#jemthemovie" label="#jemthemovie" />
+      <node id="#MedicaidExpansion" label="#MedicaidExpansion" />
+      <node id="#bigwishgala" label="#bigwishgala" />
+      <node id="#ControllingBoard" label="#ControllingBoard" />
+      <node id="#NASDAQ" label="#NASDAQ" />
+      <node id="#wetakethisseriously" label="#wetakethisseriously" />
+      <node id="#opengov" label="#opengov" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#misfits" target="#jemthemovie" weight="305" />
+      <edge id="1" source="#misfits" target="#stormer" weight="305" />
+      <edge id="2" source="#lovemylife" target="#ikickedcancersarse" weight="305" />
+      <edge id="3" source="#lovemylife" target="#bgsu" weight="305" />
+      <edge id="4" source="#dreamBIG" target="#NASDAQ" weight="305" />
+      <edge id="5" source="#dreamBIG" target="#OpeningBell" weight="305" />
+      <edge id="6" source="#stormer" target="#jemthemovie" weight="305" />
+      <edge id="7" source="#picstitch" target="#wetakethisseriously" weight="305" />
+      <edge id="8" source="#FOIA" target="#opengov" weight="305" />
+      <edge id="9" source="#nothiporcoollike" target="#FF" weight="305" />
+      <edge id="10" source="#OpeningBell" target="#NASDAQ" weight="305" />
+      <edge id="11" source="#ikickedcancersarse" target="#bgsu" weight="305" />
+      <edge id="12" source="#Toledo" target="#bigwishgala" weight="305" />
+      <edge id="13" source="#MedicaidExpansion" target="#ControllingBoard" weight="305" />
+    </edges>
+  </graph>
+</gexf>

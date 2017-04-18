@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#horseraddish" label="#horseraddish" />
+      <node id="#LaborDay" label="#LaborDay" />
+      <node id="#offal" label="#offal" />
+      <node id="#Butcher" label="#Butcher" />
+      <node id="#FoodWaste" label="#FoodWaste" />
+      <node id="#classes" label="#classes" />
+      <node id="#cbusfoodscene" label="#cbusfoodscene" />
+      <node id="#integrationacres" label="#integrationacres" />
+      <node id="#Meat" label="#Meat" />
+      <node id="#foodtour" label="#foodtour" />
+      <node id="#newsletter" label="#newsletter" />
+      <node id="#heart" label="#heart" />
+      <node id="#Hamloaf" label="#Hamloaf" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#Sausage" label="#Sausage" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#butchering" label="#butchering" />
+      <node id="#potatopancake" label="#potatopancake" />
+      <node id="#yummy" label="#yummy" />
+      <node id="#DIY" label="#DIY" />
+      <node id="#RootsAction2015" label="#RootsAction2015" />
+      <node id="#pawpawfest" label="#pawpawfest" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#humane" label="#humane" />
+      <node id="#FoodFightHunger" label="#FoodFightHunger" />
+      <node id="#instagift" label="#instagift" />
+      <node id="#photography" label="#photography" />
+      <node id="#shortnorth" label="#shortnorth" />
+      <node id="#Experienced" label="#Experienced" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#chefsummit14" label="#chefsummit14" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#MeatCutting" label="#MeatCutting" />
+      <node id="#fbz" label="#fbz" />
+      <node id="#foodwaste" label="#foodwaste" />
+      <node id="#meatloverstour" label="#meatloverstour" />
+      <node id="#Hiring" label="#Hiring" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Fresh" label="#Fresh" />
+      <node id="#arkoftaste" label="#arkoftaste" />
+      <node id="#CasualDining" label="#CasualDining" />
+      <node id="#slaughter" label="#slaughter" />
+      <node id="#harrisonsest" label="#harrisonsest" />
+      <node id="#Lamb" label="#Lamb" />
+      <node id="#athens" label="#athens" />
+      <node id="#Job" label="#Job" />
+      <node id="#chef" label="#chef" />
+      <node id="#Instagift" label="#Instagift" />
+      <node id="#pawpaws" label="#pawpaws" />
+      <node id="#Cbus" label="#Cbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#horseraddish" target="#foodtour" weight="1204" />
+      <edge id="1" source="#horseraddish" target="#heart" weight="1204" />
+      <edge id="2" source="#horseraddish" target="#potatopancake" weight="1204" />
+      <edge id="3" source="#horseraddish" target="#meatloverstour" weight="1204" />
+      <edge id="4" source="#horseraddish" target="#offal" weight="1204" />
+      <edge id="5" source="#LaborDay" target="#Sausage" weight="1204" />
+      <edge id="6" source="#LaborDay" target="#Lamb" weight="1204" />
+      <edge id="7" source="#LaborDay" target="#Fresh" weight="1204" />
+      <edge id="8" source="#LaborDay" target="#Cbus" weight="1204" />
+      <edge id="9" source="#LaborDay" target="#Ohio" weight="1204" />
+      <edge id="10" source="#offal" target="#foodtour" weight="1204" />
+      <edge id="11" source="#offal" target="#heart" weight="1204" />
+      <edge id="12" source="#offal" target="#potatopancake" weight="1204" />
+      <edge id="13" source="#offal" target="#meatloverstour" weight="1204" />
+      <edge id="14" source="#Butcher" target="#Jobs" weight="1204" />
+      <edge id="15" source="#Butcher" target="#Experienced" weight="1204" />
+      <edge id="16" source="#Butcher" target="#MeatCutting" weight="1204" />
+      <edge id="17" source="#Butcher" target="#Job" weight="1204" />
+      <edge id="18" source="#Butcher" target="#Cbus" weight="1204" />
+      <edge id="19" source="#Butcher" target="#Hiring" weight="1204" />
+      <edge id="20" source="#Butcher" target="#Columbus" weight="1204" />
+      <edge id="21" source="#Butcher" target="#Ohio" weight="1204" />
+      <edge id="22" source="#FoodWaste" target="#RootsAction2015" weight="1204" />
+      <edge id="23" source="#classes" target="#newsletter" weight="1204" />
+      <edge id="24" source="#classes" target="#butchering" weight="1204" />
+      <edge id="25" source="#classes" target="#Cbus" weight="1204" />
+      <edge id="26" source="#classes" target="#hiring" weight="1204" />
+      <edge id="27" source="#classes" target="#Meat" weight="1204" />
+      <edge id="28" source="#cbusfoodscene" target="#photography" weight="1204" />
+      <edge id="29" source="#cbusfoodscene" target="#foodtour" weight="1204" />
+      <edge id="30" source="#cbusfoodscene" target="#fbz" weight="1204" />
+      <edge id="31" source="#cbusfoodscene" target="#meatloverstour" weight="1204" />
+      <edge id="32" source="#integrationacres" target="#arkoftaste" weight="1204" />
+      <edge id="33" source="#integrationacres" target="#pawpawfest" weight="1204" />
+      <edge id="34" source="#integrationacres" target="#athens" weight="1204" />
+      <edge id="35" source="#integrationacres" target="#pawpaws" weight="1204" />
+      <edge id="36" source="#Meat" target="#butchering" weight="1204" />
+      <edge id="37" source="#Meat" target="#Cbus" weight="1204" />
+      <edge id="38" source="#Meat" target="#newsletter" weight="1204" />
+      <edge id="39" source="#Meat" target="#hiring" weight="1204" />
+      <edge id="40" source="#foodtour" target="#potatopancake" weight="1204" />
+      <edge id="41" source="#foodtour" target="#heart" weight="1204" />
+      <edge id="42" source="#foodtour" target="#meatloverstour" weight="2408" />
+      <edge id="43" source="#newsletter" target="#hiring" weight="1204" />
+      <edge id="44" source="#newsletter" target="#butchering" weight="1204" />
+      <edge id="45" source="#newsletter" target="#Cbus" weight="1204" />
+      <edge id="46" source="#heart" target="#potatopancake" weight="1204" />
+      <edge id="47" source="#heart" target="#meatloverstour" weight="1204" />
+      <edge id="48" source="#Hamloaf" target="#yummy" weight="1204" />
+      <edge id="49" source="#Jobs" target="#Experienced" weight="1204" />
+      <edge id="50" source="#Jobs" target="#MeatCutting" weight="1204" />
+      <edge id="51" source="#Jobs" target="#Job" weight="1204" />
+      <edge id="52" source="#Jobs" target="#Cbus" weight="1204" />
+      <edge id="53" source="#Jobs" target="#Hiring" weight="1204" />
+      <edge id="54" source="#Jobs" target="#Columbus" weight="1204" />
+      <edge id="55" source="#Jobs" target="#Ohio" weight="1204" />
+      <edge id="56" source="#Sausage" target="#Lamb" weight="1204" />
+      <edge id="57" source="#Sausage" target="#Ohio" weight="1204" />
+      <edge id="58" source="#Sausage" target="#Cbus" weight="1204" />
+      <edge id="59" source="#Sausage" target="#Fresh" weight="1204" />
+      <edge id="60" source="#BlackFriday" target="#Instagift" weight="1204" />
+      <edge id="61" source="#butchering" target="#hiring" weight="1204" />
+      <edge id="62" source="#butchering" target="#Cbus" weight="1204" />
+      <edge id="63" source="#potatopancake" target="#meatloverstour" weight="1204" />
+      <edge id="64" source="#DIY" target="#Cbus" weight="1204" />
+      <edge id="65" source="#RootsAction2015" target="#foodwaste" weight="1204" />
+      <edge id="66" source="#pawpawfest" target="#arkoftaste" weight="1204" />
+      <edge id="67" source="#pawpawfest" target="#athens" weight="1204" />
+      <edge id="68" source="#pawpawfest" target="#pawpaws" weight="1204" />
+      <edge id="69" source="#hiring" target="#Cbus" weight="1204" />
+      <edge id="70" source="#humane" target="#slaughter" weight="1204" />
+      <edge id="71" source="#humane" target="#chefsummit14" weight="1204" />
+      <edge id="72" source="#humane" target="#chef" weight="1204" />
+      <edge id="73" source="#FoodFightHunger" target="#CasualDining" weight="1204" />
+      <edge id="74" source="#instagift" target="#CyberMonday" weight="1204" />
+      <edge id="75" source="#photography" target="#fbz" weight="1204" />
+      <edge id="76" source="#shortnorth" target="#harrisonsest" weight="1204" />
+      <edge id="77" source="#Experienced" target="#MeatCutting" weight="1204" />
+      <edge id="78" source="#Experienced" target="#Job" weight="1204" />
+      <edge id="79" source="#Experienced" target="#Cbus" weight="1204" />
+      <edge id="80" source="#Experienced" target="#Hiring" weight="1204" />
+      <edge id="81" source="#Experienced" target="#Columbus" weight="1204" />
+      <edge id="82" source="#Experienced" target="#Ohio" weight="1204" />
+      <edge id="83" source="#chefsummit14" target="#slaughter" weight="1204" />
+      <edge id="84" source="#chefsummit14" target="#chef" weight="1204" />
+      <edge id="85" source="#Ohio" target="#MeatCutting" weight="1204" />
+      <edge id="86" source="#Ohio" target="#Lamb" weight="1204" />
+      <edge id="87" source="#Ohio" target="#Job" weight="1204" />
+      <edge id="88" source="#Ohio" target="#Cbus" weight="2408" />
+      <edge id="89" source="#Ohio" target="#Hiring" weight="1204" />
+      <edge id="90" source="#Ohio" target="#Columbus" weight="1204" />
+      <edge id="91" source="#Ohio" target="#Fresh" weight="1204" />
+      <edge id="92" source="#MeatCutting" target="#Job" weight="1204" />
+      <edge id="93" source="#MeatCutting" target="#Cbus" weight="1204" />
+      <edge id="94" source="#MeatCutting" target="#Hiring" weight="1204" />
+      <edge id="95" source="#MeatCutting" target="#Columbus" weight="1204" />
+      <edge id="96" source="#Hiring" target="#Job" weight="1204" />
+      <edge id="97" source="#Hiring" target="#Cbus" weight="1204" />
+      <edge id="98" source="#Hiring" target="#Columbus" weight="1204" />
+      <edge id="99" source="#Columbus" target="#Job" weight="1204" />
+      <edge id="100" source="#Columbus" target="#Cbus" weight="1204" />
+      <edge id="101" source="#Fresh" target="#Lamb" weight="1204" />
+      <edge id="102" source="#Fresh" target="#Cbus" weight="1204" />
+      <edge id="103" source="#arkoftaste" target="#athens" weight="1204" />
+      <edge id="104" source="#arkoftaste" target="#pawpaws" weight="1204" />
+      <edge id="105" source="#slaughter" target="#chef" weight="1204" />
+      <edge id="106" source="#Lamb" target="#Cbus" weight="1204" />
+      <edge id="107" source="#athens" target="#pawpaws" weight="1204" />
+      <edge id="108" source="#Job" target="#Cbus" weight="1204" />
+    </edges>
+  </graph>
+</gexf>

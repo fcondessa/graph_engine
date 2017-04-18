@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Android" label="#Android" />
+      <node id="#technology" label="#technology" />
+      <node id="#DOT" label="#DOT" />
+      <node id="#app" label="#app" />
+      <node id="#Mobile" label="#Mobile" />
+      <node id="#Kindle" label="#Kindle" />
+      <node id="#iPads" label="#iPads" />
+      <node id="#iPhones" label="#iPhones" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#smallbusiness" label="#smallbusiness" />
+      <node id="#Mobilepayments" label="#Mobilepayments" />
+      <node id="#iOS" label="#iOS" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#iPhone" label="#iPhone" />
+      <node id="#kindle" label="#kindle" />
+      <node id="#iPad" label="#iPad" />
+      <node id="#mobilepayments" label="#mobilepayments" />
+      <node id="#bellagio" label="#bellagio" />
+      <node id="#Siri" label="#Siri" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#iPhone4S" label="#iPhone4S" />
+      <node id="#branding" label="#branding" />
+      <node id="#lasvegas" label="#lasvegas" />
+      <node id="#apps" label="#apps" />
+      <node id="#commerce" label="#commerce" />
+      <node id="#advertising" label="#advertising" />
+      <node id="#mobile" label="#mobile" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Android" target="#iOS" weight="164" />
+      <edge id="1" source="#technology" target="#smallbusiness" weight="164" />
+      <edge id="2" source="#DOT" target="#iPhone" weight="164" />
+      <edge id="3" source="#app" target="#iPhone" weight="164" />
+      <edge id="4" source="#Mobile" target="#holiday" weight="164" />
+      <edge id="5" source="#Mobile" target="#Entrepreneurs" weight="164" />
+      <edge id="6" source="#Kindle" target="#iPad" weight="328" />
+      <edge id="7" source="#iPads" target="#iPhones" weight="164" />
+      <edge id="8" source="#smallbusiness" target="#branding" weight="164" />
+      <edge id="9" source="#Mobilepayments" target="#mobilepayments" weight="164" />
+      <edge id="10" source="#iOS" target="#iPhone4S" weight="164" />
+      <edge id="11" source="#iOS" target="#iPhone" weight="164" />
+      <edge id="12" source="#iOS" target="#Apple" weight="164" />
+      <edge id="13" source="#marketing" target="#mobile" weight="164" />
+      <edge id="14" source="#iPhone" target="#apps" weight="164" />
+      <edge id="15" source="#kindle" target="#iPad" weight="164" />
+      <edge id="16" source="#bellagio" target="#lasvegas" weight="164" />
+      <edge id="17" source="#Siri" target="#iPhone4S" weight="164" />
+      <edge id="18" source="#holiday" target="#commerce" weight="164" />
+      <edge id="19" source="#holiday" target="#mobile" weight="164" />
+      <edge id="20" source="#Apple" target="#iPhone4S" weight="164" />
+      <edge id="21" source="#commerce" target="#mobile" weight="164" />
+      <edge id="22" source="#advertising" target="#mobile" weight="164" />
+    </edges>
+  </graph>
+</gexf>

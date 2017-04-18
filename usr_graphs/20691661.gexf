@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#sarcasm" label="#sarcasm" />
+      <node id="#quality" label="#quality" />
+      <node id="#spurs" label="#spurs" />
+      <node id="#conan" label="#conan" />
+      <node id="#BrewMasters" label="#BrewMasters" />
+      <node id="#FTW" label="#FTW" />
+      <node id="#MilesDavis" label="#MilesDavis" />
+      <node id="#ftw" label="#ftw" />
+      <node id="#kasich" label="#kasich" />
+      <node id="#homebrew" label="#homebrew" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#sarcasm" target="#kasich" weight="522" />
+      <edge id="1" source="#quality" target="#conan" weight="522" />
+      <edge id="2" source="#spurs" target="#FTW" weight="522" />
+      <edge id="3" source="#BrewMasters" target="#MilesDavis" weight="1044" />
+      <edge id="4" source="#ftw" target="#homebrew" weight="522" />
+    </edges>
+  </graph>
+</gexf>

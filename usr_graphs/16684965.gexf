@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#GE" label="#GE" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#northcarolina" label="#northcarolina" />
+      <node id="#boston" label="#boston" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#Deflategate" label="#Deflategate" />
+      <node id="#420culture" label="#420culture" />
+      <node id="#FloridaPrimaries" label="#FloridaPrimaries" />
+      <node id="#Election2016" label="#Election2016" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#cannabis" label="#cannabis" />
+      <node id="#AppleVsFBI" label="#AppleVsFBI" />
+      <node id="#mapoli" label="#mapoli" />
+      <node id="#RedSoxNation" label="#RedSoxNation" />
+      <node id="#Boston" label="#Boston" />
+      <node id="#biotech" label="#biotech" />
+      <node id="#AllStarGame" label="#AllStarGame" />
+      <node id="#networking" label="#networking" />
+      <node id="#PatriotsNation" label="#PatriotsNation" />
+      <node id="#RedSoxHomeOpener" label="#RedSoxHomeOpener" />
+      <node id="#hb2" label="#hb2" />
+      <node id="#cybersecurity" label="#cybersecurity" />
+      <node id="#Biotech" label="#Biotech" />
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#RioOlympics2016" label="#RioOlympics2016" />
+      <node id="#TomBrady" label="#TomBrady" />
+      <node id="#Norovirus" label="#Norovirus" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#Chipotle" label="#Chipotle" />
+      <node id="#digitalBoston" label="#digitalBoston" />
+      <node id="#Patriots" label="#Patriots" />
+      <node id="#LGBT" label="#LGBT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#RedSox" target="#RedSoxNation" weight="6414" />
+      <edge id="1" source="#RedSox" target="#RedSoxHomeOpener" weight="3207" />
+      <edge id="2" source="#GE" target="#digitalBoston" weight="3207" />
+      <edge id="3" source="#realestate" target="#Boston" weight="3207" />
+      <edge id="4" source="#northcarolina" target="#hb2" weight="3207" />
+      <edge id="5" source="#northcarolina" target="#LGBT" weight="3207" />
+      <edge id="6" source="#boston" target="#craftbeer" weight="3207" />
+      <edge id="7" source="#NBA" target="#AllStarGame" weight="3207" />
+      <edge id="8" source="#Deflategate" target="#TomBrady" weight="3207" />
+      <edge id="9" source="#420culture" target="#cannabis" weight="3207" />
+      <edge id="10" source="#FloridaPrimaries" target="#Biotech" weight="3207" />
+      <edge id="11" source="#Election2016" target="#mapoli" weight="3207" />
+      <edge id="12" source="#Election2016" target="#biotech" weight="3207" />
+      <edge id="13" source="#Election2016" target="#venturecapital" weight="3207" />
+      <edge id="14" source="#AppleVsFBI" target="#cybersecurity" weight="3207" />
+      <edge id="15" source="#RedSoxNation" target="#RedSoxHomeOpener" weight="3207" />
+      <edge id="16" source="#Boston" target="#networking" weight="3207" />
+      <edge id="17" source="#PatriotsNation" target="#Patriots" weight="3207" />
+      <edge id="18" source="#hb2" target="#LGBT" weight="3207" />
+      <edge id="19" source="#Rio2016" target="#RioOlympics2016" weight="3207" />
+      <edge id="20" source="#Norovirus" target="#Chipotle" weight="3207" />
+    </edges>
+  </graph>
+</gexf>

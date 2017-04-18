@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#yanks" label="#yanks" />
+      <node id="#copolitics" label="#copolitics" />
+      <node id="#maleleaf" label="#maleleaf" />
+      <node id="#minimumwage" label="#minimumwage" />
+      <node id="#astros" label="#astros" />
+      <node id="#realitycheck" label="#realitycheck" />
+      <node id="#mapleleaf" label="#mapleleaf" />
+      <node id="#AllLivesMatter" label="#AllLivesMatter" />
+      <node id="#blm" label="#blm" />
+      <node id="#NoViolence" label="#NoViolence" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#Dallas" label="#Dallas" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#yanks" target="#astros" weight="3210" />
+      <edge id="1" source="#copolitics" target="#minimumwage" weight="3210" />
+      <edge id="2" source="#copolitics" target="#realitycheck" weight="3210" />
+      <edge id="3" source="#maleleaf" target="#mapleleaf" weight="3210" />
+      <edge id="4" source="#minimumwage" target="#realitycheck" weight="3210" />
+      <edge id="5" source="#AllLivesMatter" target="#blm" weight="3210" />
+      <edge id="6" source="#AllLivesMatter" target="#BlackLivesMatter" weight="3210" />
+      <edge id="7" source="#blm" target="#BlackLivesMatter" weight="3210" />
+      <edge id="8" source="#NoViolence" target="#Dallas" weight="3210" />
+    </edges>
+  </graph>
+</gexf>

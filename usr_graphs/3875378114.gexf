@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#flower" label="#flower" />
+      <node id="#nekoatsume" label="#nekoatsume" />
+      <node id="#Undertale" label="#Undertale" />
+      <node id="#Miitomo_Splatoon_RT" label="#Miitomo_Splatoon_RT" />
+      <node id="#flowers" label="#flowers" />
+      <node id="#Flowey" label="#Flowey" />
+      <node id="#FenCreeper" label="#FenCreeper" />
+      <node id="#ねこあつめ" label="#ねこあつめ" />
+      <node id="#Miitomo" label="#Miitomo" />
+      <node id="#ScaryStoryIn5Words" label="#ScaryStoryIn5Words" />
+      <node id="#garden" label="#garden" />
+      <node id="#colour" label="#colour" />
+      <node id="#diy" label="#diy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#flower" target="#flowers" weight="250" />
+      <edge id="1" source="#flower" target="#garden" weight="250" />
+      <edge id="2" source="#flower" target="#colour" weight="250" />
+      <edge id="3" source="#flower" target="#diy" weight="250" />
+      <edge id="4" source="#nekoatsume" target="#ねこあつめ" weight="250" />
+      <edge id="5" source="#Undertale" target="#Flowey" weight="250" />
+      <edge id="6" source="#Miitomo_Splatoon_RT" target="#Miitomo" weight="250" />
+      <edge id="7" source="#flowers" target="#garden" weight="250" />
+      <edge id="8" source="#flowers" target="#colour" weight="250" />
+      <edge id="9" source="#flowers" target="#diy" weight="250" />
+      <edge id="10" source="#FenCreeper" target="#ScaryStoryIn5Words" weight="250" />
+      <edge id="11" source="#garden" target="#colour" weight="250" />
+      <edge id="12" source="#garden" target="#diy" weight="250" />
+      <edge id="13" source="#colour" target="#diy" weight="250" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Schmidts" label="#Schmidts" />
+      <node id="#sleetFreezingRain" label="#sleetFreezingRain" />
+      <node id="#IRS" label="#IRS" />
+      <node id="#buygenetatororwoodstove" label="#buygenetatororwoodstove" />
+      <node id="#sendingPrayers" label="#sendingPrayers" />
+      <node id="#dislike" label="#dislike" />
+      <node id="#Win" label="#Win" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#motorcycle" label="#motorcycle" />
+      <node id="#haiku" label="#haiku" />
+      <node id="#Corporation4PublicBroadcasting" label="#Corporation4PublicBroadcasting" />
+      <node id="#sarcasm" label="#sarcasm" />
+      <node id="#instagram" label="#instagram" />
+      <node id="#GeminiSignz" label="#GeminiSignz" />
+      <node id="#openWallet" label="#openWallet" />
+      <node id="#Gemini" label="#Gemini" />
+      <node id="#watchitDisappear" label="#watchitDisappear" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#photography" label="#photography" />
+      <node id="#vegetarians" label="#vegetarians" />
+      <node id="#donewithrain" label="#donewithrain" />
+      <node id="#shitmydadsays" label="#shitmydadsays" />
+      <node id="#GiddywithHappiness" label="#GiddywithHappiness" />
+      <node id="#Cucos" label="#Cucos" />
+      <node id="#itsinthemail" label="#itsinthemail" />
+      <node id="#crazycoworker" label="#crazycoworker" />
+      <node id="#art" label="#art" />
+      <node id="#koi" label="#koi" />
+      <node id="#horribleGame" label="#horribleGame" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#wotd" label="#wotd" />
+      <node id="#Harley" label="#Harley" />
+      <node id="#wordoftheday" label="#wordoftheday" />
+      <node id="#sending" label="#sending" />
+      <node id="#getgroceries" label="#getgroceries" />
+      <node id="#nohoundingphonecalls" label="#nohoundingphonecalls" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Schmidts" target="#Win" weight="1703" />
+      <edge id="1" source="#sleetFreezingRain" target="#buygenetatororwoodstove" weight="1703" />
+      <edge id="2" source="#sleetFreezingRain" target="#getgroceries" weight="1703" />
+      <edge id="3" source="#IRS" target="#Corporation4PublicBroadcasting" weight="1703" />
+      <edge id="4" source="#buygenetatororwoodstove" target="#getgroceries" weight="1703" />
+      <edge id="5" source="#sendingPrayers" target="#sending" weight="1703" />
+      <edge id="6" source="#dislike" target="#Cucos" weight="1703" />
+      <edge id="7" source="#Cbus" target="#GiddywithHappiness" weight="1703" />
+      <edge id="8" source="#motorcycle" target="#haiku" weight="1703" />
+      <edge id="9" source="#motorcycle" target="#Harley" weight="1703" />
+      <edge id="10" source="#haiku" target="#Harley" weight="1703" />
+      <edge id="11" source="#sarcasm" target="#donewithrain" weight="1703" />
+      <edge id="12" source="#instagram" target="#photography" weight="1703" />
+      <edge id="13" source="#instagram" target="#koi" weight="1703" />
+      <edge id="14" source="#GeminiSignz" target="#Gemini" weight="3406" />
+      <edge id="15" source="#openWallet" target="#watchitDisappear" weight="1703" />
+      <edge id="16" source="#Gemini" target="#Gemini" weight="3406" />
+      <edge id="17" source="#Buckeyes" target="#horribleGame" weight="1703" />
+      <edge id="18" source="#photography" target="#koi" weight="1703" />
+      <edge id="19" source="#vegetarians" target="#Columbus" weight="1703" />
+      <edge id="20" source="#shitmydadsays" target="#crazycoworker" weight="1703" />
+      <edge id="21" source="#itsinthemail" target="#nohoundingphonecalls" weight="1703" />
+      <edge id="22" source="#art" target="#Columbus" weight="1703" />
+      <edge id="23" source="#wotd" target="#wordoftheday" weight="1703" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#HB2" label="#HB2" />
+      <node id="#whynot" label="#whynot" />
+      <node id="#SNF" label="#SNF" />
+      <node id="#Syrian" label="#Syrian" />
+      <node id="#Texit" label="#Texit" />
+      <node id="#Astros" label="#Astros" />
+      <node id="#BertaCaceres" label="#BertaCaceres" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#HalloweenAsteroid" label="#HalloweenAsteroid" />
+      <node id="#RedFlag" label="#RedFlag" />
+      <node id="#CFP" label="#CFP" />
+      <node id="#Reds" label="#Reds" />
+      <node id="#musictwitter" label="#musictwitter" />
+      <node id="#Turkish" label="#Turkish" />
+      <node id="#nochill" label="#nochill" />
+      <node id="#baseballtwitter" label="#baseballtwitter" />
+      <node id="#CorreaROY" label="#CorreaROY" />
+      <node id="#Angels" label="#Angels" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#RIPJose" label="#RIPJose" />
+      <node id="#SayHisName" label="#SayHisName" />
+      <node id="#Represent" label="#Represent" />
+      <node id="#ALLIN" label="#ALLIN" />
+      <node id="#2015TB145" label="#2015TB145" />
+      <node id="#HTownPride" label="#HTownPride" />
+      <node id="#HillaryClinton" label="#HillaryClinton" />
+      <node id="#immigration" label="#immigration" />
+      <node id="#brothers" label="#brothers" />
+      <node id="#WeAreTexans" label="#WeAreTexans" />
+      <node id="#Honduras" label="#Honduras" />
+      <node id="#Texas" label="#Texas" />
+      <node id="#Kurds" label="#Kurds" />
+      <node id="#RollTide" label="#RollTide" />
+      <node id="#AltonSterling" label="#AltonSterling" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SCOTUS" target="#HB2" weight="3186" />
+      <edge id="1" source="#SCOTUS" target="#immigration" weight="3186" />
+      <edge id="2" source="#whynot" target="#nochill" weight="3186" />
+      <edge id="3" source="#SNF" target="#WeAreTexans" weight="3186" />
+      <edge id="4" source="#Syrian" target="#Texas" weight="3186" />
+      <edge id="5" source="#Texit" target="#Brexit" weight="3186" />
+      <edge id="6" source="#Astros" target="#CorreaROY" weight="3186" />
+      <edge id="7" source="#Astros" target="#Angels" weight="3186" />
+      <edge id="8" source="#Astros" target="#HTownPride" weight="3186" />
+      <edge id="9" source="#Astros" target="#Reds" weight="3186" />
+      <edge id="10" source="#Astros" target="#Represent" weight="3186" />
+      <edge id="11" source="#BertaCaceres" target="#HillaryClinton" weight="3186" />
+      <edge id="12" source="#BertaCaceres" target="#Honduras" weight="3186" />
+      <edge id="13" source="#tbt" target="#RedFlag" weight="3186" />
+      <edge id="14" source="#HalloweenAsteroid" target="#2015TB145" weight="3186" />
+      <edge id="15" source="#CFP" target="#ALLIN" weight="3186" />
+      <edge id="16" source="#CFP" target="#RollTide" weight="3186" />
+      <edge id="17" source="#musictwitter" target="#baseballtwitter" weight="3186" />
+      <edge id="18" source="#Turkish" target="#Kurds" weight="3186" />
+      <edge id="19" source="#CorreaROY" target="#Represent" weight="3186" />
+      <edge id="20" source="#RIPJose" target="#brothers" weight="3186" />
+      <edge id="21" source="#SayHisName" target="#AltonSterling" weight="3186" />
+      <edge id="22" source="#ALLIN" target="#RollTide" weight="3186" />
+      <edge id="23" source="#HillaryClinton" target="#Honduras" weight="3186" />
+    </edges>
+  </graph>
+</gexf>

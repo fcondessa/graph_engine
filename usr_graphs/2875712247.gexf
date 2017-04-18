@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#allnight" label="#allnight" />
+      <node id="#NationalDrinkABeerDay" label="#NationalDrinkABeerDay" />
+      <node id="#PiDay" label="#PiDay" />
+      <node id="#anotherbadtrade" label="#anotherbadtrade" />
+      <node id="#pintnight" label="#pintnight" />
+      <node id="#bigolbeers" label="#bigolbeers" />
+      <node id="#bourbonbarrel" label="#bourbonbarrel" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#allright" label="#allright" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#CitraHigh" label="#CitraHigh" />
+      <node id="#hopbomb" label="#hopbomb" />
+      <node id="#wednesday" label="#wednesday" />
+      <node id="#uglysweater" label="#uglysweater" />
+      <node id="#drinkingitall" label="#drinkingitall" />
+      <node id="#stjamestavern" label="#stjamestavern" />
+      <node id="#RhinegheistCbus" label="#RhinegheistCbus" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Reds" label="#Reds" />
+      <node id="#beerbrownies" label="#beerbrownies" />
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#AsSeenInColumbus" label="#AsSeenInColumbus" />
+      <node id="#GetOverHere" label="#GetOverHere" />
+      <node id="#bells" label="#bells" />
+      <node id="#GermanVillage" label="#GermanVillage" />
+      <node id="#SDbeer" label="#SDbeer" />
+      <node id="#LimitedEdition" label="#LimitedEdition" />
+      <node id="#notsorry" label="#notsorry" />
+      <node id="#Brady" label="#Brady" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#hops" label="#hops" />
+      <node id="#hopslam" label="#hopslam" />
+      <node id="#specialrelease" label="#specialrelease" />
+      <node id="#eatlocal" label="#eatlocal" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#taptakeover" label="#taptakeover" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#EMERGENCYHOPKIT" label="#EMERGENCYHOPKIT" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#bourbonbarrelagedstout" label="#bourbonbarrelagedstout" />
+      <node id="#cbusaletrail" label="#cbusaletrail" />
+      <node id="#worldclassbrew" label="#worldclassbrew" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#CbusBeerWeek" label="#CbusBeerWeek" />
+      <node id="#wob" label="#wob" />
+      <node id="#founders" label="#founders" />
+      <node id="#KBS" label="#KBS" />
+      <node id="#DIPA" label="#DIPA" />
+      <node id="#NationalCoffeDay" label="#NationalCoffeDay" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#allnight" target="#pintnight" weight="300" />
+      <edge id="1" source="#allnight" target="#GermanVillage" weight="300" />
+      <edge id="2" source="#allnight" target="#allright" weight="300" />
+      <edge id="3" source="#NationalDrinkABeerDay" target="#NationalCoffeDay" weight="300" />
+      <edge id="4" source="#PiDay" target="#hopbomb" weight="300" />
+      <edge id="5" source="#PiDay" target="#craftbeer" weight="300" />
+      <edge id="6" source="#anotherbadtrade" target="#Reds" weight="300" />
+      <edge id="7" source="#pintnight" target="#GermanVillage" weight="300" />
+      <edge id="8" source="#pintnight" target="#allright" weight="300" />
+      <edge id="9" source="#bigolbeers" target="#specialrelease" weight="300" />
+      <edge id="10" source="#bigolbeers" target="#beerbrownies" weight="300" />
+      <edge id="11" source="#bigolbeers" target="#craftbeer" weight="300" />
+      <edge id="12" source="#bourbonbarrel" target="#LimitedEdition" weight="300" />
+      <edge id="13" source="#bourbonbarrel" target="#uglysweater" weight="300" />
+      <edge id="14" source="#bourbonbarrel" target="#craftbeer" weight="300" />
+      <edge id="15" source="#CraftBeer" target="#Columbus" weight="300" />
+      <edge id="16" source="#CraftBeer" target="#Ohio" weight="300" />
+      <edge id="17" source="#allright" target="#GermanVillage" weight="300" />
+      <edge id="18" source="#drinkupcolumbus" target="#cbusaletrail" weight="300" />
+      <edge id="19" source="#drinkupcolumbus" target="#lifeincbus" weight="300" />
+      <edge id="20" source="#drinkupcolumbus" target="#RhinegheistCbus" weight="300" />
+      <edge id="21" source="#drinkupcolumbus" target="#CbusBeerWeek" weight="300" />
+      <edge id="22" source="#drinkupcolumbus" target="#wob" weight="300" />
+      <edge id="23" source="#CitraHigh" target="#DIPA" weight="300" />
+      <edge id="24" source="#hopbomb" target="#craftbeer" weight="300" />
+      <edge id="25" source="#wednesday" target="#bells" weight="300" />
+      <edge id="26" source="#wednesday" target="#stjamestavern" weight="300" />
+      <edge id="27" source="#wednesday" target="#hopslam" weight="300" />
+      <edge id="28" source="#uglysweater" target="#LimitedEdition" weight="300" />
+      <edge id="29" source="#uglysweater" target="#craftbeer" weight="300" />
+      <edge id="30" source="#drinkingitall" target="#notsorry" weight="300" />
+      <edge id="31" source="#stjamestavern" target="#bells" weight="300" />
+      <edge id="32" source="#stjamestavern" target="#hopslam" weight="300" />
+      <edge id="33" source="#RhinegheistCbus" target="#wob" weight="300" />
+      <edge id="34" source="#Ohio" target="#Columbus" weight="300" />
+      <edge id="35" source="#shoplocal" target="#bourbonbarrelagedstout" weight="300" />
+      <edge id="36" source="#shoplocal" target="#specialrelease" weight="300" />
+      <edge id="37" source="#shoplocal" target="#eatlocal" weight="300" />
+      <edge id="38" source="#shoplocal" target="#craftbeer" weight="300" />
+      <edge id="39" source="#AsSeenInColumbus" target="#craftbeer" weight="300" />
+      <edge id="40" source="#GetOverHere" target="#EMERGENCYHOPKIT" weight="300" />
+      <edge id="41" source="#GetOverHere" target="#CBUS" weight="300" />
+      <edge id="42" source="#bells" target="#hopslam" weight="300" />
+      <edge id="43" source="#SDbeer" target="#craftbeer" weight="300" />
+      <edge id="44" source="#LimitedEdition" target="#craftbeer" weight="300" />
+      <edge id="45" source="#Brady" target="#craftbeer" weight="300" />
+      <edge id="46" source="#Columbus" target="#craftbeer" weight="300" />
+      <edge id="47" source="#hops" target="#cbus" weight="300" />
+      <edge id="48" source="#specialrelease" target="#bourbonbarrelagedstout" weight="300" />
+      <edge id="49" source="#specialrelease" target="#craftbeer" weight="600" />
+      <edge id="50" source="#taptakeover" target="#founders" weight="300" />
+      <edge id="51" source="#taptakeover" target="#KBS" weight="300" />
+      <edge id="52" source="#taptakeover" target="#worldclassbrew" weight="300" />
+      <edge id="53" source="#CBUS" target="#EMERGENCYHOPKIT" weight="300" />
+      <edge id="54" source="#craftbeer" target="#bourbonbarrelagedstout" weight="300" />
+      <edge id="55" source="#cbusaletrail" target="#CbusBeerWeek" weight="300" />
+      <edge id="56" source="#worldclassbrew" target="#founders" weight="300" />
+      <edge id="57" source="#worldclassbrew" target="#KBS" weight="300" />
+      <edge id="58" source="#founders" target="#KBS" weight="300" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Bulls" label="#Bulls" />
+      <node id="#Saints" label="#Saints" />
+      <node id="#wakeup" label="#wakeup" />
+      <node id="#DrewBrees" label="#DrewBrees" />
+      <node id="#redsox" label="#redsox" />
+      <node id="#bbcsportsday" label="#bbcsportsday" />
+      <node id="#RockyFire" label="#RockyFire" />
+      <node id="#pomegranate" label="#pomegranate" />
+      <node id="#secondbest" label="#secondbest" />
+      <node id="#runningqb" label="#runningqb" />
+      <node id="#bottleneck" label="#bottleneck" />
+      <node id="#iphone" label="#iphone" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#Phillies" label="#Phillies" />
+      <node id="#chinesedownhill" label="#chinesedownhill" />
+      <node id="#squaw" label="#squaw" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#DontDrinkRedBull" label="#DontDrinkRedBull" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#Respect" label="#Respect" />
+      <node id="#islanders" label="#islanders" />
+      <node id="#fomo" label="#fomo" />
+      <node id="#JusticeForLucas" label="#JusticeForLucas" />
+      <node id="#teasers" label="#teasers" />
+      <node id="#TwitterIPO" label="#TwitterIPO" />
+      <node id="#renewLongmire" label="#renewLongmire" />
+      <node id="#joke" label="#joke" />
+      <node id="#Rangers" label="#Rangers" />
+      <node id="#hotdog" label="#hotdog" />
+      <node id="#WeAreTheChampions" label="#WeAreTheChampions" />
+      <node id="#MVPanda" label="#MVPanda" />
+      <node id="#STLCards" label="#STLCards" />
+      <node id="#FaceOfMLB" label="#FaceOfMLB" />
+      <node id="#camaraderie" label="#camaraderie" />
+      <node id="#Qathafi" label="#Qathafi" />
+      <node id="#Longmire" label="#Longmire" />
+      <node id="#winning" label="#winning" />
+      <node id="#Cards" label="#Cards" />
+      <node id="#sports" label="#sports" />
+      <node id="#BlackAndOrange" label="#BlackAndOrange" />
+      <node id="#ThanksAffeldt" label="#ThanksAffeldt" />
+      <node id="#fortheladies" label="#fortheladies" />
+      <node id="#MNF" label="#MNF" />
+      <node id="#WorldSeriesGoodLuckBaby" label="#WorldSeriesGoodLuckBaby" />
+      <node id="#pumpitup" label="#pumpitup" />
+      <node id="#love" label="#love" />
+      <node id="#orioles" label="#orioles" />
+      <node id="#sb45" label="#sb45" />
+      <node id="#Rockies" label="#Rockies" />
+      <node id="#newsroom" label="#newsroom" />
+      <node id="#runitthroughthegarden" label="#runitthroughthegarden" />
+      <node id="#ThanksHuddy" label="#ThanksHuddy" />
+      <node id="#squirrel" label="#squirrel" />
+      <node id="#braves" label="#braves" />
+      <node id="#internationalchinesedownhill" label="#internationalchinesedownhill" />
+      <node id="#TheHip" label="#TheHip" />
+      <node id="#foxsports" label="#foxsports" />
+      <node id="#SFHOMETOURS" label="#SFHOMETOURS" />
+      <node id="#win" label="#win" />
+      <node id="#tsunami" label="#tsunami" />
+      <node id="#EasternConference" label="#EasternConference" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#Tigers" label="#Tigers" />
+      <node id="#SJSLAK" label="#SJSLAK" />
+      <node id="#couldnthelpmyself" label="#couldnthelpmyself" />
+      <node id="#HARBOWL" label="#HARBOWL" />
+      <node id="#doucheroom" label="#doucheroom" />
+      <node id="#DUFFMAN" label="#DUFFMAN" />
+      <node id="#MVPCain" label="#MVPCain" />
+      <node id="#Wilfred" label="#Wilfred" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#garycarter" label="#garycarter" />
+      <node id="#redskins" label="#redskins" />
+      <node id="#BelUSA" label="#BelUSA" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#shakinmyshittyhead" label="#shakinmyshittyhead" />
+      <node id="#duranduran" label="#duranduran" />
+      <node id="#courtesyflush" label="#courtesyflush" />
+      <node id="#GoBroncos" label="#GoBroncos" />
+      <node id="#SCU" label="#SCU" />
+      <node id="#SFGiant" label="#SFGiant" />
+      <node id="#sjsharks" label="#sjsharks" />
+      <node id="#GAA" label="#GAA" />
+      <node id="#Euro2012" label="#Euro2012" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#BoneMarrowDonor" label="#BoneMarrowDonor" />
+      <node id="#harkin" label="#harkin" />
+      <node id="#Qadaffi" label="#Qadaffi" />
+      <node id="#MVPPablo" label="#MVPPablo" />
+      <node id="#basketball" label="#basketball" />
+      <node id="#alicebucketlist" label="#alicebucketlist" />
+      <node id="#LondonRiots" label="#LondonRiots" />
+      <node id="#FreeFall" label="#FreeFall" />
+      <node id="#Kings" label="#Kings" />
+      <node id="#shit" label="#shit" />
+      <node id="#friendship" label="#friendship" />
+      <node id="#burningman" label="#burningman" />
+      <node id="#Bay2Breakers" label="#Bay2Breakers" />
+      <node id="#giants" label="#giants" />
+      <node id="#Bears" label="#Bears" />
+      <node id="#RIPLionheart" label="#RIPLionheart" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#TheStick" label="#TheStick" />
+      <node id="#Tokyo" label="#Tokyo" />
+      <node id="#qualified" label="#qualified" />
+      <node id="#harkinbanks" label="#harkinbanks" />
+      <node id="#BryanStow" label="#BryanStow" />
+      <node id="#designers" label="#designers" />
+      <node id="#TylerStow" label="#TylerStow" />
+      <node id="#nhl" label="#nhl" />
+      <node id="#FaceofMLB" label="#FaceofMLB" />
+      <node id="#PerformanceAnalysis" label="#PerformanceAnalysis" />
+      <node id="#OpeningDay" label="#OpeningDay" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#A" label="#A" />
+      <node id="#iamup" label="#iamup" />
+      <node id="#douche" label="#douche" />
+      <node id="#Peyton" label="#Peyton" />
+      <node id="#snotrocket" label="#snotrocket" />
+      <node id="#WSJ" label="#WSJ" />
+      <node id="#TEXANS" label="#TEXANS" />
+      <node id="#dansyndersucks" label="#dansyndersucks" />
+      <node id="#Patriots" label="#Patriots" />
+      <node id="#NYSE" label="#NYSE" />
+      <node id="#LosGigantes" label="#LosGigantes" />
+      <node id="#suckit" label="#suckit" />
+      <node id="#DonateBoneMarrow" label="#DonateBoneMarrow" />
+      <node id="#CLINCHTOBER" label="#CLINCHTOBER" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#GGILF" label="#GGILF" />
+      <node id="#hottub" label="#hottub" />
+      <node id="#BeatLA" label="#BeatLA" />
+      <node id="#imissbaseball" label="#imissbaseball" />
+      <node id="#60Minutes" label="#60Minutes" />
+      <node id="#diet" label="#diet" />
+      <node id="#history" label="#history" />
+      <node id="#RallyZito" label="#RallyZito" />
+      <node id="#Pavelski" label="#Pavelski" />
+      <node id="#rip" label="#rip" />
+      <node id="#onthecrapper" label="#onthecrapper" />
+      <node id="#SF" label="#SF" />
+      <node id="#HarbaughBowl" label="#HarbaughBowl" />
+      <node id="#NLROY" label="#NLROY" />
+      <node id="#SFGTrophy" label="#SFGTrophy" />
+      <node id="#BrainCancer" label="#BrainCancer" />
+      <node id="#Cardinals" label="#Cardinals" />
+      <node id="#GordDownie" label="#GordDownie" />
+      <node id="#nba" label="#nba" />
+      <node id="#architects" label="#architects" />
+      <node id="#toiletcemetary" label="#toiletcemetary" />
+      <node id="#sfht16" label="#sfht16" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#RallyCain" label="#RallyCain" />
+      <node id="#Series" label="#Series" />
+      <node id="#alexsmith" label="#alexsmith" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#theonlyway" label="#theonlyway" />
+      <node id="#WitchHunt" label="#WitchHunt" />
+      <node id="#fail" label="#fail" />
+      <node id="#Yankees" label="#Yankees" />
+      <node id="#fuckme" label="#fuckme" />
+      <node id="#unity" label="#unity" />
+      <node id="#sanfrancisco" label="#sanfrancisco" />
+      <node id="#Usgs" label="#Usgs" />
+      <node id="#SFGiantsMadness" label="#SFGiantsMadness" />
+      <node id="#MVP" label="#MVP" />
+      <node id="#RIPMCA" label="#RIPMCA" />
+      <node id="#NASA" label="#NASA" />
+      <node id="#sf" label="#sf" />
+      <node id="#30years" label="#30years" />
+      <node id="#Rudy" label="#Rudy" />
+      <node id="#Khaddafi" label="#Khaddafi" />
+      <node id="#melky" label="#melky" />
+      <node id="#MUFC" label="#MUFC" />
+      <node id="#therearenone" label="#therearenone" />
+      <node id="#SFGiantsParade" label="#SFGiantsParade" />
+      <node id="#LFC" label="#LFC" />
+      <node id="#MVPMelky" label="#MVPMelky" />
+      <node id="#JerusalemFire" label="#JerusalemFire" />
+      <node id="#oldschool" label="#oldschool" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#TooSoon" label="#TooSoon" />
+      <node id="#AdamYauch" label="#AdamYauch" />
+      <node id="#earthquake" label="#earthquake" />
+      <node id="#NHLPlayoffs" label="#NHLPlayoffs" />
+      <node id="#2013Tweet" label="#2013Tweet" />
+      <node id="#twooutofthree" label="#twooutofthree" />
+      <node id="#SFGChamps" label="#SFGChamps" />
+      <node id="#Longmireseason4" label="#Longmireseason4" />
+      <node id="#panda" label="#panda" />
+      <node id="#JFT96" label="#JFT96" />
+      <node id="#Seahawks" label="#Seahawks" />
+      <node id="#yamamoto" label="#yamamoto" />
+      <node id="#BernRiots" label="#BernRiots" />
+      <node id="#NLCS" label="#NLCS" />
+      <node id="#balletskiing" label="#balletskiing" />
+      <node id="#Gadhaffi" label="#Gadhaffi" />
+      <node id="#Japan" label="#Japan" />
+      <node id="#Sharks" label="#Sharks" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#ASG" label="#ASG" />
+      <node id="#July4th" label="#July4th" />
+      <node id="#FreeBrandonBelt" label="#FreeBrandonBelt" />
+      <node id="#wideawake" label="#wideawake" />
+      <node id="#TourDeFrance" label="#TourDeFrance" />
+      <node id="#trade" label="#trade" />
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#support" label="#support" />
+      <node id="#Italy" label="#Italy" />
+      <node id="#HomeDesign" label="#HomeDesign" />
+      <node id="#BusterPosey" label="#BusterPosey" />
+      <node id="#SMSH" label="#SMSH" />
+      <node id="#Doncaster" label="#Doncaster" />
+      <node id="#AlexSmith" label="#AlexSmith" />
+      <node id="#racism" label="#racism" />
+      <node id="#Packers" label="#Packers" />
+      <node id="#kickassblaster" label="#kickassblaster" />
+      <node id="#Gadhafi" label="#Gadhafi" />
+      <node id="#seaworldhell" label="#seaworldhell" />
+      <node id="#CampeonesJuntos" label="#CampeonesJuntos" />
+      <node id="#teamwork" label="#teamwork" />
+      <node id="#sunny" label="#sunny" />
+      <node id="#kremseahawks" label="#kremseahawks" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#TheCatch" label="#TheCatch" />
+      <node id="#LongmireMonday" label="#LongmireMonday" />
+      <node id="#stickball" label="#stickball" />
+      <node id="#iPhone" label="#iPhone" />
+      <node id="#EPL" label="#EPL" />
+      <node id="#TerryWhite" label="#TerryWhite" />
+      <node id="#renewnow" label="#renewnow" />
+      <node id="#PlayBall" label="#PlayBall" />
+      <node id="#cannnotwin" label="#cannnotwin" />
+      <node id="#lame" label="#lame" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Bulls" target="#NBA" weight="3223" />
+      <edge id="1" source="#Bulls" target="#Warriors" weight="3223" />
+      <edge id="2" source="#Saints" target="#49ers" weight="6446" />
+      <edge id="3" source="#Saints" target="#Peyton" weight="3223" />
+      <edge id="4" source="#Saints" target="#TooSoon" weight="3223" />
+      <edge id="5" source="#wakeup" target="#SFGiants" weight="3223" />
+      <edge id="6" source="#DrewBrees" target="#AlexSmith" weight="3223" />
+      <edge id="7" source="#redsox" target="#SFGiants" weight="3223" />
+      <edge id="8" source="#bbcsportsday" target="#Doncaster" weight="3223" />
+      <edge id="9" source="#RockyFire" target="#JerusalemFire" weight="3223" />
+      <edge id="10" source="#pomegranate" target="#bottleneck" weight="3223" />
+      <edge id="11" source="#secondbest" target="#hotdog" weight="3223" />
+      <edge id="12" source="#secondbest" target="#Rudy" weight="6446" />
+      <edge id="13" source="#secondbest" target="#sunny" weight="3223" />
+      <edge id="14" source="#runningqb" target="#runningqb" weight="6446" />
+      <edge id="15" source="#iphone" target="#SFGiantsParade" weight="3223" />
+      <edge id="16" source="#iphone" target="#NLCS" weight="3223" />
+      <edge id="17" source="#iphone" target="#SFGiants" weight="3223" />
+      <edge id="18" source="#Thanksgiving" target="#SFGiants" weight="3223" />
+      <edge id="19" source="#Phillies" target="#suckit" weight="3223" />
+      <edge id="20" source="#Phillies" target="#SFGiants" weight="3223" />
+      <edge id="21" source="#Phillies" target="#Yankees" weight="3223" />
+      <edge id="22" source="#chinesedownhill" target="#Rudy" weight="3223" />
+      <edge id="23" source="#chinesedownhill" target="#internationalchinesedownhill" weight="3223" />
+      <edge id="24" source="#chinesedownhill" target="#theonlyway" weight="3223" />
+      <edge id="25" source="#chinesedownhill" target="#harkinbanks" weight="3223" />
+      <edge id="26" source="#chinesedownhill" target="#therearenone" weight="3223" />
+      <edge id="27" source="#chinesedownhill" target="#hotdog" weight="6446" />
+      <edge id="28" source="#chinesedownhill" target="#squaw" weight="3223" />
+      <edge id="29" source="#squaw" target="#therearenone" weight="3223" />
+      <edge id="30" source="#squaw" target="#internationalchinesedownhill" weight="3223" />
+      <edge id="31" source="#squaw" target="#harkinbanks" weight="3223" />
+      <edge id="32" source="#squaw" target="#hotdog" weight="3223" />
+      <edge id="33" source="#NBAFinals" target="#EasternConference" weight="3223" />
+      <edge id="34" source="#DontDrinkRedBull" target="#FreeFall" weight="3223" />
+      <edge id="35" source="#NBA" target="#Warriors" weight="3223" />
+      <edge id="36" source="#Respect" target="#BelUSA" weight="3223" />
+      <edge id="37" source="#islanders" target="#shit" weight="3223" />
+      <edge id="38" source="#islanders" target="#lame" weight="3223" />
+      <edge id="39" source="#islanders" target="#Rangers" weight="3223" />
+      <edge id="40" source="#fomo" target="#sfht16" weight="3223" />
+      <edge id="41" source="#JusticeForLucas" target="#Oscars" weight="3223" />
+      <edge id="42" source="#teasers" target="#49ers" weight="3223" />
+      <edge id="43" source="#TwitterIPO" target="#NYC" weight="3223" />
+      <edge id="44" source="#TwitterIPO" target="#NYSE" weight="3223" />
+      <edge id="45" source="#renewLongmire" target="#Longmire" weight="3223" />
+      <edge id="46" source="#renewLongmire" target="#renewnow" weight="3223" />
+      <edge id="47" source="#renewLongmire" target="#LongmireMonday" weight="3223" />
+      <edge id="48" source="#joke" target="#SFGiants" weight="3223" />
+      <edge id="49" source="#Rangers" target="#shit" weight="3223" />
+      <edge id="50" source="#Rangers" target="#lame" weight="3223" />
+      <edge id="51" source="#hotdog" target="#twooutofthree" weight="3223" />
+      <edge id="52" source="#hotdog" target="#theonlyway" weight="3223" />
+      <edge id="53" source="#hotdog" target="#Japan" weight="3223" />
+      <edge id="54" source="#hotdog" target="#Rudy" weight="19338" />
+      <edge id="55" source="#hotdog" target="#sunny" weight="3223" />
+      <edge id="56" source="#hotdog" target="#squirrel" weight="6446" />
+      <edge id="57" source="#hotdog" target="#yamamoto" weight="3223" />
+      <edge id="58" source="#hotdog" target="#internationalchinesedownhill" weight="3223" />
+      <edge id="59" source="#hotdog" target="#harkinbanks" weight="6446" />
+      <edge id="60" source="#hotdog" target="#harkin" weight="3223" />
+      <edge id="61" source="#hotdog" target="#hottub" weight="3223" />
+      <edge id="62" source="#hotdog" target="#winning" weight="3223" />
+      <edge id="63" source="#hotdog" target="#stickball" weight="3223" />
+      <edge id="64" source="#hotdog" target="#duranduran" weight="3223" />
+      <edge id="65" source="#hotdog" target="#kickassblaster" weight="3223" />
+      <edge id="66" source="#hotdog" target="#qualified" weight="3223" />
+      <edge id="67" source="#hotdog" target="#balletskiing" weight="3223" />
+      <edge id="68" source="#hotdog" target="#therearenone" weight="3223" />
+      <edge id="69" source="#WeAreTheChampions" target="#SFGiants" weight="3223" />
+      <edge id="70" source="#MVPanda" target="#MVPCain" weight="3223" />
+      <edge id="71" source="#MVPanda" target="#MVPMelky" weight="3223" />
+      <edge id="72" source="#MVPanda" target="#SFGiants" weight="3223" />
+      <edge id="73" source="#STLCards" target="#SFGiants" weight="6446" />
+      <edge id="74" source="#FaceOfMLB" target="#BusterPosey" weight="19338" />
+      <edge id="75" source="#FaceOfMLB" target="#SFGiants" weight="3223" />
+      <edge id="76" source="#camaraderie" target="#nba" weight="3223" />
+      <edge id="77" source="#camaraderie" target="#history" weight="3223" />
+      <edge id="78" source="#camaraderie" target="#love" weight="3223" />
+      <edge id="79" source="#camaraderie" target="#support" weight="3223" />
+      <edge id="80" source="#camaraderie" target="#friendship" weight="3223" />
+      <edge id="81" source="#camaraderie" target="#sports" weight="3223" />
+      <edge id="82" source="#camaraderie" target="#win" weight="3223" />
+      <edge id="83" source="#camaraderie" target="#basketball" weight="3223" />
+      <edge id="84" source="#camaraderie" target="#Warriors" weight="3223" />
+      <edge id="85" source="#camaraderie" target="#unity" weight="3223" />
+      <edge id="86" source="#camaraderie" target="#teamwork" weight="3223" />
+      <edge id="87" source="#Qathafi" target="#Gadhaffi" weight="3223" />
+      <edge id="88" source="#Qathafi" target="#Qadaffi" weight="3223" />
+      <edge id="89" source="#Qathafi" target="#Khaddafi" weight="3223" />
+      <edge id="90" source="#Qathafi" target="#Gadhafi" weight="3223" />
+      <edge id="91" source="#Longmire" target="#Longmireseason4" weight="3223" />
+      <edge id="92" source="#Longmire" target="#renewnow" weight="3223" />
+      <edge id="93" source="#Longmire" target="#LongmireMonday" weight="3223" />
+      <edge id="94" source="#winning" target="#kickassblaster" weight="3223" />
+      <edge id="95" source="#winning" target="#SFGiants" weight="3223" />
+      <edge id="96" source="#winning" target="#qualified" weight="3223" />
+      <edge id="97" source="#winning" target="#harkinbanks" weight="3223" />
+      <edge id="98" source="#winning" target="#panda" weight="3223" />
+      <edge id="99" source="#winning" target="#melky" weight="3223" />
+      <edge id="100" source="#Cards" target="#Dodgers" weight="6446" />
+      <edge id="101" source="#sports" target="#nba" weight="3223" />
+      <edge id="102" source="#sports" target="#history" weight="3223" />
+      <edge id="103" source="#sports" target="#love" weight="3223" />
+      <edge id="104" source="#sports" target="#support" weight="3223" />
+      <edge id="105" source="#sports" target="#friendship" weight="3223" />
+      <edge id="106" source="#sports" target="#Warriors" weight="3223" />
+      <edge id="107" source="#sports" target="#win" weight="3223" />
+      <edge id="108" source="#sports" target="#basketball" weight="3223" />
+      <edge id="109" source="#sports" target="#unity" weight="3223" />
+      <edge id="110" source="#sports" target="#teamwork" weight="3223" />
+      <edge id="111" source="#BlackAndOrange" target="#SFGiants" weight="3223" />
+      <edge id="112" source="#ThanksAffeldt" target="#ThanksHuddy" weight="3223" />
+      <edge id="113" source="#fortheladies" target="#sfgiants" weight="3223" />
+      <edge id="114" source="#MNF" target="#Bears" weight="3223" />
+      <edge id="115" source="#WorldSeriesGoodLuckBaby" target="#2013Tweet" weight="3223" />
+      <edge id="116" source="#pumpitup" target="#WorldSeries" weight="3223" />
+      <edge id="117" source="#pumpitup" target="#SFGiants" weight="3223" />
+      <edge id="118" source="#love" target="#nba" weight="3223" />
+      <edge id="119" source="#love" target="#friendship" weight="3223" />
+      <edge id="120" source="#love" target="#history" weight="3223" />
+      <edge id="121" source="#love" target="#support" weight="3223" />
+      <edge id="122" source="#love" target="#Warriors" weight="3223" />
+      <edge id="123" source="#love" target="#win" weight="3223" />
+      <edge id="124" source="#love" target="#basketball" weight="3223" />
+      <edge id="125" source="#love" target="#unity" weight="3223" />
+      <edge id="126" source="#love" target="#teamwork" weight="3223" />
+      <edge id="127" source="#orioles" target="#A" weight="3223" />
+      <edge id="128" source="#sb45" target="#superbowl" weight="3223" />
+      <edge id="129" source="#Rockies" target="#SFGiants" weight="3223" />
+      <edge id="130" source="#newsroom" target="#Wilfred" weight="3223" />
+      <edge id="131" source="#newsroom" target="#doucheroom" weight="3223" />
+      <edge id="132" source="#runitthroughthegarden" target="#couldnthelpmyself" weight="3223" />
+      <edge id="133" source="#braves" target="#trade" weight="3223" />
+      <edge id="134" source="#braves" target="#sfgiants" weight="3223" />
+      <edge id="135" source="#internationalchinesedownhill" target="#therearenone" weight="3223" />
+      <edge id="136" source="#internationalchinesedownhill" target="#harkinbanks" weight="3223" />
+      <edge id="137" source="#TheHip" target="#BrainCancer" weight="3223" />
+      <edge id="138" source="#TheHip" target="#GordDownie" weight="3223" />
+      <edge id="139" source="#foxsports" target="#49ers" weight="3223" />
+      <edge id="140" source="#SFHOMETOURS" target="#architects" weight="3223" />
+      <edge id="141" source="#SFHOMETOURS" target="#designers" weight="3223" />
+      <edge id="142" source="#SFHOMETOURS" target="#HomeDesign" weight="3223" />
+      <edge id="143" source="#win" target="#nba" weight="3223" />
+      <edge id="144" source="#win" target="#friendship" weight="3223" />
+      <edge id="145" source="#win" target="#history" weight="3223" />
+      <edge id="146" source="#win" target="#support" weight="3223" />
+      <edge id="147" source="#win" target="#Warriors" weight="3223" />
+      <edge id="148" source="#win" target="#basketball" weight="3223" />
+      <edge id="149" source="#win" target="#unity" weight="3223" />
+      <edge id="150" source="#win" target="#teamwork" weight="3223" />
+      <edge id="151" source="#tsunami" target="#Tokyo" weight="3223" />
+      <edge id="152" source="#tsunami" target="#Japan" weight="3223" />
+      <edge id="153" source="#tsunami" target="#earthquake" weight="3223" />
+      <edge id="154" source="#Giants" target="#SFGiants" weight="3223" />
+      <edge id="155" source="#Tigers" target="#WorldSeries" weight="3223" />
+      <edge id="156" source="#Tigers" target="#SFGiants" weight="9669" />
+      <edge id="157" source="#SJSLAK" target="#NHLPlayoffs" weight="3223" />
+      <edge id="158" source="#SJSLAK" target="#Pavelski" weight="3223" />
+      <edge id="159" source="#HARBOWL" target="#HarbaughBowl" weight="3223" />
+      <edge id="160" source="#doucheroom" target="#Wilfred" weight="3223" />
+      <edge id="161" source="#DUFFMAN" target="#NLROY" weight="3223" />
+      <edge id="162" source="#MVPCain" target="#MVPMelky" weight="3223" />
+      <edge id="163" source="#MVPCain" target="#SFGiants" weight="3223" />
+      <edge id="164" source="#sfgiants" target="#RallyZito" weight="3223" />
+      <edge id="165" source="#sfgiants" target="#trade" weight="3223" />
+      <edge id="166" source="#sfgiants" target="#sjsharks" weight="3223" />
+      <edge id="167" source="#sfgiants" target="#imissbaseball" weight="3223" />
+      <edge id="168" source="#sfgiants" target="#sanfrancisco" weight="3223" />
+      <edge id="169" source="#sfgiants" target="#nhl" weight="3223" />
+      <edge id="170" source="#garycarter" target="#rip" weight="3223" />
+      <edge id="171" source="#redskins" target="#dansyndersucks" weight="3223" />
+      <edge id="172" source="#WorldSeries" target="#SFGiants" weight="9669" />
+      <edge id="173" source="#shakinmyshittyhead" target="#SMSH" weight="3223" />
+      <edge id="174" source="#duranduran" target="#Rudy" weight="3223" />
+      <edge id="175" source="#courtesyflush" target="#toiletcemetary" weight="3223" />
+      <edge id="176" source="#GoBroncos" target="#SCU" weight="3223" />
+      <edge id="177" source="#SFGiant" target="#BusterPosey" weight="25784" />
+      <edge id="178" source="#SFGiant" target="#FaceofMLB" weight="25784" />
+      <edge id="179" source="#SFGiant" target="#SFGiant" weight="6446" />
+      <edge id="180" source="#sjsharks" target="#nhl" weight="3223" />
+      <edge id="181" source="#GAA" target="#PerformanceAnalysis" weight="3223" />
+      <edge id="182" source="#Euro2012" target="#racism" weight="3223" />
+      <edge id="183" source="#Euro2012" target="#Italy" weight="3223" />
+      <edge id="184" source="#NYC" target="#NYSE" weight="3223" />
+      <edge id="185" source="#BoneMarrowDonor" target="#DonateBoneMarrow" weight="3223" />
+      <edge id="186" source="#BoneMarrowDonor" target="#alicebucketlist" weight="3223" />
+      <edge id="187" source="#Qadaffi" target="#Gadhaffi" weight="3223" />
+      <edge id="188" source="#Qadaffi" target="#Khaddafi" weight="3223" />
+      <edge id="189" source="#Qadaffi" target="#Gadhafi" weight="3223" />
+      <edge id="190" source="#MVPPablo" target="#MVPPablo" weight="96690" />
+      <edge id="191" source="#MVPPablo" target="#MVPMelky" weight="122474" />
+      <edge id="192" source="#MVPPablo" target="#SFGiants" weight="3223" />
+      <edge id="193" source="#basketball" target="#nba" weight="3223" />
+      <edge id="194" source="#basketball" target="#friendship" weight="3223" />
+      <edge id="195" source="#basketball" target="#history" weight="3223" />
+      <edge id="196" source="#basketball" target="#support" weight="3223" />
+      <edge id="197" source="#basketball" target="#Warriors" weight="3223" />
+      <edge id="198" source="#basketball" target="#unity" weight="3223" />
+      <edge id="199" source="#basketball" target="#teamwork" weight="3223" />
+      <edge id="200" source="#alicebucketlist" target="#DonateBoneMarrow" weight="3223" />
+      <edge id="201" source="#LondonRiots" target="#BernRiots" weight="3223" />
+      <edge id="202" source="#Kings" target="#Sharks" weight="3223" />
+      <edge id="203" source="#Kings" target="#NHL" weight="3223" />
+      <edge id="204" source="#shit" target="#lame" weight="3223" />
+      <edge id="205" source="#friendship" target="#nba" weight="3223" />
+      <edge id="206" source="#friendship" target="#history" weight="3223" />
+      <edge id="207" source="#friendship" target="#support" weight="3223" />
+      <edge id="208" source="#friendship" target="#Warriors" weight="3223" />
+      <edge id="209" source="#friendship" target="#unity" weight="3223" />
+      <edge id="210" source="#friendship" target="#teamwork" weight="3223" />
+      <edge id="211" source="#burningman" target="#douche" weight="3223" />
+      <edge id="212" source="#Bay2Breakers" target="#SFGiants" weight="3223" />
+      <edge id="213" source="#giants" target="#SFGiants" weight="3223" />
+      <edge id="214" source="#RIPLionheart" target="#RIPLionheart" weight="6446" />
+      <edge id="215" source="#TBT" target="#oldschool" weight="3223" />
+      <edge id="216" source="#TheStick" target="#49ers" weight="3223" />
+      <edge id="217" source="#TheStick" target="#NFL" weight="3223" />
+      <edge id="218" source="#Tokyo" target="#Japan" weight="3223" />
+      <edge id="219" source="#Tokyo" target="#earthquake" weight="3223" />
+      <edge id="220" source="#qualified" target="#kickassblaster" weight="3223" />
+      <edge id="221" source="#qualified" target="#harkinbanks" weight="3223" />
+      <edge id="222" source="#harkinbanks" target="#kickassblaster" weight="3223" />
+      <edge id="223" source="#harkinbanks" target="#therearenone" weight="3223" />
+      <edge id="224" source="#BryanStow" target="#TylerStow" weight="3223" />
+      <edge id="225" source="#BryanStow" target="#PlayBall" weight="3223" />
+      <edge id="226" source="#designers" target="#architects" weight="3223" />
+      <edge id="227" source="#designers" target="#HomeDesign" weight="3223" />
+      <edge id="228" source="#TylerStow" target="#PlayBall" weight="3223" />
+      <edge id="229" source="#FaceofMLB" target="#BusterPosey" weight="58014" />
+      <edge id="230" source="#FaceofMLB" target="#FaceofMLB" weight="38676" />
+      <edge id="231" source="#OpeningDay" target="#BeatLA" weight="3223" />
+      <edge id="232" source="#Oscars" target="#GGILF" weight="3223" />
+      <edge id="233" source="#Dodgers" target="#Dodgers" weight="6446" />
+      <edge id="234" source="#iamup" target="#July4th" weight="3223" />
+      <edge id="235" source="#Peyton" target="#TooSoon" weight="3223" />
+      <edge id="236" source="#snotrocket" target="#SFGiants" weight="3223" />
+      <edge id="237" source="#WSJ" target="#sf" weight="3223" />
+      <edge id="238" source="#WSJ" target="#iPhone" weight="6446" />
+      <edge id="239" source="#TEXANS" target="#Patriots" weight="3223" />
+      <edge id="240" source="#LosGigantes" target="#CampeonesJuntos" weight="3223" />
+      <edge id="241" source="#suckit" target="#Yankees" weight="3223" />
+      <edge id="242" source="#CLINCHTOBER" target="#postseason" weight="3223" />
+      <edge id="243" source="#NFL" target="#49ers" weight="6446" />
+      <edge id="244" source="#BeatLA" target="#SFGiants" weight="6446" />
+      <edge id="245" source="#imissbaseball" target="#sanfrancisco" weight="3223" />
+      <edge id="246" source="#60Minutes" target="#NASA" weight="3223" />
+      <edge id="247" source="#diet" target="#fail" weight="3223" />
+      <edge id="248" source="#history" target="#nba" weight="3223" />
+      <edge id="249" source="#history" target="#support" weight="3223" />
+      <edge id="250" source="#history" target="#Warriors" weight="3223" />
+      <edge id="251" source="#history" target="#unity" weight="3223" />
+      <edge id="252" source="#history" target="#teamwork" weight="3223" />
+      <edge id="253" source="#RallyZito" target="#SFGiants" weight="9669" />
+      <edge id="254" source="#Pavelski" target="#NHLPlayoffs" weight="3223" />
+      <edge id="255" source="#onthecrapper" target="#wideawake" weight="3223" />
+      <edge id="256" source="#SF" target="#49ers" weight="3223" />
+      <edge id="257" source="#SF" target="#alexsmith" weight="3223" />
+      <edge id="258" source="#SFGTrophy" target="#SFGiants" weight="3223" />
+      <edge id="259" source="#BrainCancer" target="#GordDownie" weight="3223" />
+      <edge id="260" source="#Cardinals" target="#SFGiants" weight="3223" />
+      <edge id="261" source="#nba" target="#support" weight="3223" />
+      <edge id="262" source="#nba" target="#Warriors" weight="3223" />
+      <edge id="263" source="#nba" target="#unity" weight="3223" />
+      <edge id="264" source="#nba" target="#teamwork" weight="3223" />
+      <edge id="265" source="#architects" target="#HomeDesign" weight="3223" />
+      <edge id="266" source="#49ers" target="#SFGiants" weight="3223" />
+      <edge id="267" source="#49ers" target="#30years" weight="3223" />
+      <edge id="268" source="#49ers" target="#alexsmith" weight="3223" />
+      <edge id="269" source="#49ers" target="#Packers" weight="3223" />
+      <edge id="270" source="#49ers" target="#TheCatch" weight="6446" />
+      <edge id="271" source="#49ers" target="#TerryWhite" weight="3223" />
+      <edge id="272" source="#RallyCain" target="#RallyCain" weight="290070" />
+      <edge id="273" source="#Series" target="#SFGiants" weight="3223" />
+      <edge id="274" source="#Warriors" target="#SFGiants" weight="3223" />
+      <edge id="275" source="#Warriors" target="#support" weight="3223" />
+      <edge id="276" source="#Warriors" target="#unity" weight="3223" />
+      <edge id="277" source="#Warriors" target="#teamwork" weight="3223" />
+      <edge id="278" source="#theonlyway" target="#Rudy" weight="3223" />
+      <edge id="279" source="#WitchHunt" target="#TourDeFrance" weight="3223" />
+      <edge id="280" source="#Yankees" target="#SFGiants" weight="3223" />
+      <edge id="281" source="#fuckme" target="#cannnotwin" weight="3223" />
+      <edge id="282" source="#unity" target="#support" weight="3223" />
+      <edge id="283" source="#unity" target="#teamwork" weight="3223" />
+      <edge id="284" source="#sanfrancisco" target="#Usgs" weight="3223" />
+      <edge id="285" source="#sanfrancisco" target="#earthquake" weight="3223" />
+      <edge id="286" source="#Usgs" target="#earthquake" weight="3223" />
+      <edge id="287" source="#SFGiantsMadness" target="#SFGiants" weight="3223" />
+      <edge id="288" source="#MVP" target="#SFGiants" weight="3223" />
+      <edge id="289" source="#RIPMCA" target="#AdamYauch" weight="3223" />
+      <edge id="290" source="#30years" target="#TheCatch" weight="3223" />
+      <edge id="291" source="#Rudy" target="#Rudy" weight="6446" />
+      <edge id="292" source="#Rudy" target="#sunny" weight="6446" />
+      <edge id="293" source="#Khaddafi" target="#Gadhaffi" weight="3223" />
+      <edge id="294" source="#Khaddafi" target="#Gadhafi" weight="3223" />
+      <edge id="295" source="#melky" target="#panda" weight="3223" />
+      <edge id="296" source="#melky" target="#SFGiants" weight="3223" />
+      <edge id="297" source="#MUFC" target="#EPL" weight="3223" />
+      <edge id="298" source="#SFGiantsParade" target="#NLCS" weight="3223" />
+      <edge id="299" source="#SFGiantsParade" target="#SFGiants" weight="3223" />
+      <edge id="300" source="#LFC" target="#JFT96" weight="3223" />
+      <edge id="301" source="#MVPMelky" target="#SFGiants" weight="3223" />
+      <edge id="302" source="#MVPMelky" target="#MVPMelky" weight="96690" />
+      <edge id="303" source="#earthquake" target="#Japan" weight="3223" />
+      <edge id="304" source="#SFGChamps" target="#SFGiants" weight="3223" />
+      <edge id="305" source="#panda" target="#SFGiants" weight="3223" />
+      <edge id="306" source="#Seahawks" target="#kremseahawks" weight="3223" />
+      <edge id="307" source="#yamamoto" target="#Japan" weight="3223" />
+      <edge id="308" source="#NLCS" target="#SFGiants" weight="3223" />
+      <edge id="309" source="#Gadhaffi" target="#Gadhafi" weight="3223" />
+      <edge id="310" source="#Sharks" target="#NHL" weight="3223" />
+      <edge id="311" source="#ASG" target="#SFGiants" weight="3223" />
+      <edge id="312" source="#FreeBrandonBelt" target="#seaworldhell" weight="3223" />
+      <edge id="313" source="#FreeBrandonBelt" target="#SFGiants" weight="3223" />
+      <edge id="314" source="#support" target="#teamwork" weight="3223" />
+      <edge id="315" source="#Italy" target="#racism" weight="3223" />
+      <edge id="316" source="#BusterPosey" target="#SFGiants" weight="3223" />
+      <edge id="317" source="#BusterPosey" target="#BusterPosey" weight="38676" />
+      <edge id="318" source="#seaworldhell" target="#SFGiants" weight="3223" />
+      <edge id="319" source="#LongmireMonday" target="#renewnow" weight="3223" />
+    </edges>
+  </graph>
+</gexf>

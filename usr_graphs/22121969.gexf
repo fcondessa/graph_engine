@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#IowaCaucus" label="#IowaCaucus" />
+      <node id="#SAGAwards" label="#SAGAwards" />
+      <node id="#BigBrother" label="#BigBrother" />
+      <node id="#AppleWatch" label="#AppleWatch" />
+      <node id="#Amigonnadie" label="#Amigonnadie" />
+      <node id="#RoyalBaby" label="#RoyalBaby" />
+      <node id="#1D" label="#1D" />
+      <node id="#hipsters" label="#hipsters" />
+      <node id="#BB18" label="#BB18" />
+      <node id="#HeForShe" label="#HeForShe" />
+      <node id="#MCM" label="#MCM" />
+      <node id="#thebachelorette" label="#thebachelorette" />
+      <node id="#GreaseLive" label="#GreaseLive" />
+      <node id="#OvalOffice" label="#OvalOffice" />
+      <node id="#ThatsMyWife" label="#ThatsMyWife" />
+      <node id="#gross" label="#gross" />
+      <node id="#AppleLive" label="#AppleLive" />
+      <node id="#debates" label="#debates" />
+      <node id="#UsRoyalBaby" label="#UsRoyalBaby" />
+      <node id="#Jeopardy" label="#Jeopardy" />
+      <node id="#watchwithUs" label="#watchwithUs" />
+      <node id="#GRAMMYs" label="#GRAMMYs" />
+      <node id="#moms" label="#moms" />
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#ScandalProblems" label="#ScandalProblems" />
+      <node id="#Emmys" label="#Emmys" />
+      <node id="#PeterPanLive" label="#PeterPanLive" />
+      <node id="#FF" label="#FF" />
+      <node id="#GoldenGlobes" label="#GoldenGlobes" />
+      <node id="#TheBachelor" label="#TheBachelor" />
+      <node id="#setvisit" label="#setvisit" />
+      <node id="#boomers50" label="#boomers50" />
+      <node id="#watchwithus" label="#watchwithus" />
+      <node id="#mrjones" label="#mrjones" />
+      <node id="#TheBachelorette" label="#TheBachelorette" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#nativity" label="#nativity" />
+      <node id="#foreverunclean" label="#foreverunclean" />
+      <node id="#thenandnow" label="#thenandnow" />
+      <node id="#traffic" label="#traffic" />
+      <node id="#SB50" label="#SB50" />
+      <node id="#OITNB" label="#OITNB" />
+      <node id="#BBFINALE" label="#BBFINALE" />
+      <node id="#AMAs" label="#AMAs" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#dads" label="#dads" />
+      <node id="#HairForShe" label="#HairForShe" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#IowaCaucus" target="#TheBachelor" weight="3225" />
+      <edge id="1" source="#SAGAwards" target="#OITNB" weight="3225" />
+      <edge id="2" source="#BigBrother" target="#BB18" weight="3225" />
+      <edge id="3" source="#AppleWatch" target="#AppleLive" weight="3225" />
+      <edge id="4" source="#Amigonnadie" target="#foreverunclean" weight="3225" />
+      <edge id="5" source="#Amigonnadie" target="#gross" weight="3225" />
+      <edge id="6" source="#RoyalBaby" target="#UsRoyalBaby" weight="9675" />
+      <edge id="7" source="#1D" target="#1D" weight="19350" />
+      <edge id="8" source="#hipsters" target="#nativity" weight="3225" />
+      <edge id="9" source="#BB18" target="#BBFINALE" weight="3225" />
+      <edge id="10" source="#HeForShe" target="#HairForShe" weight="3225" />
+      <edge id="11" source="#MCM" target="#AMAs" weight="3225" />
+      <edge id="12" source="#thebachelorette" target="#watchwithus" weight="3225" />
+      <edge id="13" source="#GreaseLive" target="#SB50" weight="3225" />
+      <edge id="14" source="#OvalOffice" target="#SOTU" weight="3225" />
+      <edge id="15" source="#OvalOffice" target="#ScandalProblems" weight="3225" />
+      <edge id="16" source="#ThatsMyWife" target="#Jeopardy" weight="3225" />
+      <edge id="17" source="#gross" target="#foreverunclean" weight="3225" />
+      <edge id="18" source="#debates" target="#Debates2016" weight="3225" />
+      <edge id="19" source="#debates" target="#debatenight" weight="3225" />
+      <edge id="20" source="#watchwithUs" target="#GRAMMYs" weight="3225" />
+      <edge id="21" source="#watchwithUs" target="#PeterPanLive" weight="3225" />
+      <edge id="22" source="#watchwithUs" target="#TheBachelorette" weight="16125" />
+      <edge id="23" source="#watchwithUs" target="#GoldenGlobes" weight="3225" />
+      <edge id="24" source="#watchwithUs" target="#Oscars" weight="3225" />
+      <edge id="25" source="#moms" target="#dads" weight="3225" />
+      <edge id="26" source="#moms" target="#traffic" weight="3225" />
+      <edge id="27" source="#Debates2016" target="#debatenight" weight="3225" />
+      <edge id="28" source="#ScandalProblems" target="#SOTU" weight="3225" />
+      <edge id="29" source="#Emmys" target="#FF" weight="3225" />
+      <edge id="30" source="#TheBachelor" target="#TheBachelorette" weight="3225" />
+      <edge id="31" source="#setvisit" target="#thenandnow" weight="3225" />
+      <edge id="32" source="#boomers50" target="#mrjones" weight="3225" />
+      <edge id="33" source="#watchwithus" target="#TheBachelorette" weight="3225" />
+      <edge id="34" source="#traffic" target="#dads" weight="3225" />
+    </edges>
+  </graph>
+</gexf>

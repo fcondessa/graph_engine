@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#veterans" label="#veterans" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#USArmy" label="#USArmy" />
+      <node id="#pets" label="#pets" />
+      <node id="#FlagDay" label="#FlagDay" />
+      <node id="#VetID" label="#VetID" />
+      <node id="#CCC" label="#CCC" />
+      <node id="#VIPS" label="#VIPS" />
+      <node id="#randomactsofkindness" label="#randomactsofkindness" />
+      <node id="#MemorialDay" label="#MemorialDay" />
+      <node id="#FranklinCounty" label="#FranklinCounty" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#CitizensAcademy" label="#CitizensAcademy" />
+      <node id="#CelebrityChef" label="#CelebrityChef" />
+      <node id="#Reservist" label="#Reservist" />
+      <node id="#Guardsman" label="#Guardsman" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#veterans" target="#VetID" weight="228" />
+      <edge id="1" source="#veterans" target="#MemorialDay" weight="228" />
+      <edge id="2" source="#GoBucks" target="#Buckeyes" weight="228" />
+      <edge id="3" source="#GoBucks" target="#MarchMadness" weight="228" />
+      <edge id="4" source="#MarchMadness" target="#Buckeyes" weight="228" />
+      <edge id="5" source="#USArmy" target="#FlagDay" weight="228" />
+      <edge id="6" source="#pets" target="#CelebrityChef" weight="228" />
+      <edge id="7" source="#VetID" target="#randomactsofkindness" weight="228" />
+      <edge id="8" source="#VetID" target="#MemorialDay" weight="228" />
+      <edge id="9" source="#CCC" target="#FranklinCounty" weight="228" />
+      <edge id="10" source="#VIPS" target="#CitizensAcademy" weight="228" />
+      <edge id="11" source="#Reservist" target="#Guardsman" weight="228" />
+    </edges>
+  </graph>
+</gexf>

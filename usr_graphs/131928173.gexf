@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Aspire2016" label="#Aspire2016" />
+      <node id="#creative" label="#creative" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#roasteries" label="#roasteries" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#civichacks" label="#civichacks" />
+      <node id="#CMHStartupWeek" label="#CMHStartupWeek" />
+      <node id="#ArtIsASocialEnterprise" label="#ArtIsASocialEnterprise" />
+      <node id="#urbanizecbus" label="#urbanizecbus" />
+      <node id="#fb" label="#fb" />
+      <node id="#startupstorytellers" label="#startupstorytellers" />
+      <node id="#inthiscityican" label="#inthiscityican" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#msbc2012" label="#msbc2012" />
+      <node id="#Smallbusiness" label="#Smallbusiness" />
+      <node id="#aspire2016" label="#aspire2016" />
+      <node id="#ArtMakesCbus" label="#ArtMakesCbus" />
+      <node id="#startups" label="#startups" />
+      <node id="#aspire" label="#aspire" />
+      <node id="#media" label="#media" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Aspire2016" target="#lifeincbus" weight="3212" />
+      <edge id="1" source="#creative" target="#columbus" weight="3212" />
+      <edge id="2" source="#smallbiz" target="#entrepreneur" weight="3212" />
+      <edge id="3" source="#smallbiz" target="#columbus" weight="3212" />
+      <edge id="4" source="#roasteries" target="#coffee" weight="3212" />
+      <edge id="5" source="#Columbus" target="#Smallbusiness" weight="3212" />
+      <edge id="6" source="#Columbus" target="#msbc2012" weight="3212" />
+      <edge id="7" source="#entrepreneur" target="#columbus" weight="3212" />
+      <edge id="8" source="#civichacks" target="#startupstorytellers" weight="6424" />
+      <edge id="9" source="#CMHStartupWeek" target="#fb" weight="3212" />
+      <edge id="10" source="#CMHStartupWeek" target="#media" weight="3212" />
+      <edge id="11" source="#CMHStartupWeek" target="#startups" weight="3212" />
+      <edge id="12" source="#ArtIsASocialEnterprise" target="#ArtMakesCbus" weight="3212" />
+      <edge id="13" source="#urbanizecbus" target="#inthiscityican" weight="16060" />
+      <edge id="14" source="#fb" target="#media" weight="3212" />
+      <edge id="15" source="#fb" target="#startups" weight="3212" />
+      <edge id="16" source="#msbc2012" target="#Smallbusiness" weight="3212" />
+      <edge id="17" source="#aspire2016" target="#aspire" weight="3212" />
+      <edge id="18" source="#startups" target="#media" weight="3212" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#partylikeajournalist" label="#partylikeajournalist" />
+      <node id="#freelance" label="#freelance" />
+      <node id="#NorthWestHour" label="#NorthWestHour" />
+      <node id="#conlfictofinterest" label="#conlfictofinterest" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#partylikeajournalist" target="#conlfictofinterest" weight="114" />
+      <edge id="1" source="#freelance" target="#NorthWestHour" weight="114" />
+    </edges>
+  </graph>
+</gexf>

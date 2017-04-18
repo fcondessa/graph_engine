@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#newcma" label="#newcma" />
+      <node id="#buckeyeinteractive" label="#buckeyeinteractive" />
+      <node id="#PreImagine" label="#PreImagine" />
+      <node id="#OGS12" label="#OGS12" />
+      <node id="#MagentoImagine" label="#MagentoImagine" />
+      <node id="#columbusurbanvoyage" label="#columbusurbanvoyage" />
+      <node id="#ICSummit" label="#ICSummit" />
+      <node id="#CMA" label="#CMA" />
+      <node id="#columbusmuseum" label="#columbusmuseum" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#newcma" target="#columbusurbanvoyage" weight="191" />
+      <edge id="1" source="#buckeyeinteractive" target="#OGS12" weight="191" />
+      <edge id="2" source="#PreImagine" target="#MagentoImagine" weight="191" />
+      <edge id="3" source="#columbusurbanvoyage" target="#CMA" weight="191" />
+      <edge id="4" source="#ICSummit" target="#columbusmuseum" weight="191" />
+    </edges>
+  </graph>
+</gexf>

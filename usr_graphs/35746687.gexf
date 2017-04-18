@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#keepingmyselfentertained" label="#keepingmyselfentertained" />
+      <node id="#celcius" label="#celcius" />
+      <node id="#kardashians" label="#kardashians" />
+      <node id="#OnionVoteTip" label="#OnionVoteTip" />
+      <node id="#nyfw" label="#nyfw" />
+      <node id="#hockeyisback" label="#hockeyisback" />
+      <node id="#3hourmeeting" label="#3hourmeeting" />
+      <node id="#debate" label="#debate" />
+      <node id="#firstworldproblems" label="#firstworldproblems" />
+      <node id="#Golfpun" label="#Golfpun" />
+      <node id="#partylikeajournalist" label="#partylikeajournalist" />
+      <node id="#GossipGirl" label="#GossipGirl" />
+      <node id="#aBasementAffair" label="#aBasementAffair" />
+      <node id="#Fail" label="#Fail" />
+      <node id="#metricsystem" label="#metricsystem" />
+      <node id="#Election" label="#Election" />
+      <node id="#vine" label="#vine" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#Kipcamp" label="#Kipcamp" />
+      <node id="#fullcircle" label="#fullcircle" />
+      <node id="#dksjackpot" label="#dksjackpot" />
+      <node id="#SATC" label="#SATC" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#SeriesFinale" label="#SeriesFinale" />
+      <node id="#full60" label="#full60" />
+      <node id="#Patch" label="#Patch" />
+      <node id="#BlogTalkRadio" label="#BlogTalkRadio" />
+      <node id="#abasementaffair" label="#abasementaffair" />
+      <node id="#exhausted" label="#exhausted" />
+      <node id="#hyperlocal" label="#hyperlocal" />
+      <node id="#kent" label="#kent" />
+      <node id="#TheCarrieDiaries" label="#TheCarrieDiaries" />
+      <node id="#Secrets" label="#Secrets" />
+      <node id="#RedWings" label="#RedWings" />
+      <node id="#pretendingtoplaynice" label="#pretendingtoplaynice" />
+      <node id="#euros" label="#euros" />
+      <node id="#onemoredaytillroadtrip" label="#onemoredaytillroadtrip" />
+      <node id="#toolacademny" label="#toolacademny" />
+      <node id="#4moreyears" label="#4moreyears" />
+      <node id="#DFS" label="#DFS" />
+      <node id="#Cbj" label="#Cbj" />
+      <node id="#media" label="#media" />
+      <node id="#OMG" label="#OMG" />
+      <node id="#randysreturn" label="#randysreturn" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#keepingmyselfentertained" target="#Golfpun" weight="940" />
+      <edge id="1" source="#celcius" target="#euros" weight="940" />
+      <edge id="2" source="#celcius" target="#firstworldproblems" weight="940" />
+      <edge id="3" source="#celcius" target="#metricsystem" weight="940" />
+      <edge id="4" source="#kardashians" target="#abasementaffair" weight="940" />
+      <edge id="5" source="#kardashians" target="#toolacademny" weight="940" />
+      <edge id="6" source="#OnionVoteTip" target="#Election" weight="940" />
+      <edge id="7" source="#nyfw" target="#twitter" weight="940" />
+      <edge id="8" source="#nyfw" target="#vine" weight="940" />
+      <edge id="9" source="#hockeyisback" target="#Cbj" weight="940" />
+      <edge id="10" source="#3hourmeeting" target="#partylikeajournalist" weight="940" />
+      <edge id="11" source="#debate" target="#pretendingtoplaynice" weight="940" />
+      <edge id="12" source="#debate" target="#4moreyears" weight="940" />
+      <edge id="13" source="#firstworldproblems" target="#euros" weight="940" />
+      <edge id="14" source="#firstworldproblems" target="#metricsystem" weight="940" />
+      <edge id="15" source="#partylikeajournalist" target="#full60" weight="940" />
+      <edge id="16" source="#GossipGirl" target="#SeriesFinale" weight="940" />
+      <edge id="17" source="#GossipGirl" target="#OMG" weight="940" />
+      <edge id="18" source="#aBasementAffair" target="#Secrets" weight="940" />
+      <edge id="19" source="#Fail" target="#dksjackpot" weight="940" />
+      <edge id="20" source="#metricsystem" target="#euros" weight="940" />
+      <edge id="21" source="#vine" target="#twitter" weight="940" />
+      <edge id="22" source="#CBJ" target="#RedWings" weight="1880" />
+      <edge id="23" source="#Kipcamp" target="#fullcircle" weight="940" />
+      <edge id="24" source="#SATC" target="#TheCarrieDiaries" weight="940" />
+      <edge id="25" source="#SeriesFinale" target="#OMG" weight="940" />
+      <edge id="26" source="#Patch" target="#hyperlocal" weight="940" />
+      <edge id="27" source="#Patch" target="#media" weight="940" />
+      <edge id="28" source="#BlogTalkRadio" target="#DFS" weight="940" />
+      <edge id="29" source="#abasementaffair" target="#toolacademny" weight="940" />
+      <edge id="30" source="#exhausted" target="#onemoredaytillroadtrip" weight="940" />
+      <edge id="31" source="#hyperlocal" target="#media" weight="940" />
+      <edge id="32" source="#kent" target="#randysreturn" weight="940" />
+    </edges>
+  </graph>
+</gexf>

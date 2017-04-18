@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#howdotheysleepatnight" label="#howdotheysleepatnight" />
+      <node id="#seewhatididthere" label="#seewhatididthere" />
+      <node id="#dontforgettoplaysmallball" label="#dontforgettoplaysmallball" />
+      <node id="#criminalminds" label="#criminalminds" />
+      <node id="#ilovemybaseball" label="#ilovemybaseball" />
+      <node id="#oldguyyoudidntremember" label="#oldguyyoudidntremember" />
+      <node id="#oooopsimadeamess" label="#oooopsimadeamess" />
+      <node id="#TwitNewsNow" label="#TwitNewsNow" />
+      <node id="#liberallogic" label="#liberallogic" />
+      <node id="#WhitePrivilege" label="#WhitePrivilege" />
+      <node id="#justsayin" label="#justsayin" />
+      <node id="#theykillme" label="#theykillme" />
+      <node id="#badgrammar" label="#badgrammar" />
+      <node id="#justsaying" label="#justsaying" />
+      <node id="#Playboywouldbuyit" label="#Playboywouldbuyit" />
+      <node id="#properenglish" label="#properenglish" />
+      <node id="#coollikenoother" label="#coollikenoother" />
+      <node id="#whatajoke" label="#whatajoke" />
+      <node id="#love" label="#love" />
+      <node id="#wecantbefriends" label="#wecantbefriends" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#candyass" label="#candyass" />
+      <node id="#smitten" label="#smitten" />
+      <node id="#everythingisbetterwhenitsGiants" label="#everythingisbetterwhenitsGiants" />
+      <node id="#kony2012" label="#kony2012" />
+      <node id="#stopkony" label="#stopkony" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#howdotheysleepatnight" target="#criminalminds" weight="259" />
+      <edge id="1" source="#seewhatididthere" target="#badgrammar" weight="259" />
+      <edge id="2" source="#seewhatididthere" target="#theykillme" weight="259" />
+      <edge id="3" source="#seewhatididthere" target="#properenglish" weight="259" />
+      <edge id="4" source="#dontforgettoplaysmallball" target="#ilovemybaseball" weight="259" />
+      <edge id="5" source="#dontforgettoplaysmallball" target="#everythingisbetterwhenitsGiants" weight="259" />
+      <edge id="6" source="#ilovemybaseball" target="#everythingisbetterwhenitsGiants" weight="259" />
+      <edge id="7" source="#oldguyyoudidntremember" target="#coollikenoother" weight="259" />
+      <edge id="8" source="#oooopsimadeamess" target="#justsaying" weight="259" />
+      <edge id="9" source="#TwitNewsNow" target="#MLB" weight="259" />
+      <edge id="10" source="#liberallogic" target="#WhitePrivilege" weight="259" />
+      <edge id="11" source="#liberallogic" target="#whatajoke" weight="259" />
+      <edge id="12" source="#WhitePrivilege" target="#whatajoke" weight="259" />
+      <edge id="13" source="#justsayin" target="#Playboywouldbuyit" weight="259" />
+      <edge id="14" source="#theykillme" target="#badgrammar" weight="259" />
+      <edge id="15" source="#theykillme" target="#properenglish" weight="259" />
+      <edge id="16" source="#badgrammar" target="#properenglish" weight="259" />
+      <edge id="17" source="#love" target="#smitten" weight="259" />
+      <edge id="18" source="#wecantbefriends" target="#candyass" weight="259" />
+      <edge id="19" source="#kony2012" target="#stopkony" weight="259" />
+    </edges>
+  </graph>
+</gexf>

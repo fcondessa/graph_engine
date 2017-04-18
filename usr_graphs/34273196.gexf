@@ -1,0 +1,848 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#respect" label="#respect" />
+      <node id="#School" label="#School" />
+      <node id="#DOTSmartCity" label="#DOTSmartCity" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#Reentry" label="#Reentry" />
+      <node id="#KnowBeforeYouGo" label="#KnowBeforeYouGo" />
+      <node id="#Groveport" label="#Groveport" />
+      <node id="#MindMarket" label="#MindMarket" />
+      <node id="#FreeTaxPrep" label="#FreeTaxPrep" />
+      <node id="#freetaxes" label="#freetaxes" />
+      <node id="#NCGM" label="#NCGM" />
+      <node id="#SmallBusinessWeek" label="#SmallBusinessWeek" />
+      <node id="#SmallBiz" label="#SmallBiz" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#FoodSecurity" label="#FoodSecurity" />
+      <node id="#SELFIERESPECT" label="#SELFIERESPECT" />
+      <node id="#marriage" label="#marriage" />
+      <node id="#YouWillRise" label="#YouWillRise" />
+      <node id="#Budget14" label="#Budget14" />
+      <node id="#NationalSecurity" label="#NationalSecurity" />
+      <node id="#Columbus2016" label="#Columbus2016" />
+      <node id="#ThankAVet" label="#ThankAVet" />
+      <node id="#NLW15" label="#NLW15" />
+      <node id="#DentalDiscount" label="#DentalDiscount" />
+      <node id="#GetCoveredColumbus" label="#GetCoveredColumbus" />
+      <node id="#youth" label="#youth" />
+      <node id="#ColumbusOH" label="#ColumbusOH" />
+      <node id="#Oklahoma" label="#Oklahoma" />
+      <node id="#endpoverty" label="#endpoverty" />
+      <node id="#energyefficiency" label="#energyefficiency" />
+      <node id="#MoveColumbus" label="#MoveColumbus" />
+      <node id="#WhyCountiesMatter" label="#WhyCountiesMatter" />
+      <node id="#FoodDay" label="#FoodDay" />
+      <node id="#healthiestcitieschallenge" label="#healthiestcitieschallenge" />
+      <node id="#ChildAbusePrevention" label="#ChildAbusePrevention" />
+      <node id="#LifeinCBUS" label="#LifeinCBUS" />
+      <node id="#OhioMeansJobs" label="#OhioMeansJobs" />
+      <node id="#FF" label="#FF" />
+      <node id="#OpeningNight" label="#OpeningNight" />
+      <node id="#eWaste" label="#eWaste" />
+      <node id="#WearBlue" label="#WearBlue" />
+      <node id="#Ohioans" label="#Ohioans" />
+      <node id="#CentralOhio" label="#CentralOhio" />
+      <node id="#backtoschool" label="#backtoschool" />
+      <node id="#BestPlaces" label="#BestPlaces" />
+      <node id="#Medicaidat50" label="#Medicaidat50" />
+      <node id="#CountyCommissioners" label="#CountyCommissioners" />
+      <node id="#MUSTANG" label="#MUSTANG" />
+      <node id="#Top10" label="#Top10" />
+      <node id="#FairHousing" label="#FairHousing" />
+      <node id="#BuildingSafety" label="#BuildingSafety" />
+      <node id="#HiringOurHeroes" label="#HiringOurHeroes" />
+      <node id="#JFR" label="#JFR" />
+      <node id="#ProjectHire" label="#ProjectHire" />
+      <node id="#WhyIWearTheBadge" label="#WhyIWearTheBadge" />
+      <node id="#PinwheelSelfie" label="#PinwheelSelfie" />
+      <node id="#Airport" label="#Airport" />
+      <node id="#CommunityGarden" label="#CommunityGarden" />
+      <node id="#EndCancer" label="#EndCancer" />
+      <node id="#DNC" label="#DNC" />
+      <node id="#Counties" label="#Counties" />
+      <node id="#Veterans" label="#Veterans" />
+      <node id="#MascotMania" label="#MascotMania" />
+      <node id="#IBM" label="#IBM" />
+      <node id="#RingYourBell" label="#RingYourBell" />
+      <node id="#taxes" label="#taxes" />
+      <node id="#WhatAJob" label="#WhatAJob" />
+      <node id="#selfie" label="#selfie" />
+      <node id="#ZeroWaste" label="#ZeroWaste" />
+      <node id="#transportation" label="#transportation" />
+      <node id="#Sustainability" label="#Sustainability" />
+      <node id="#sequestration" label="#sequestration" />
+      <node id="#Crew96" label="#Crew96" />
+      <node id="#EarthDay" label="#EarthDay" />
+      <node id="#EndHunger" label="#EndHunger" />
+      <node id="#RISE" label="#RISE" />
+      <node id="#ohwx" label="#ohwx" />
+      <node id="#MyPlate" label="#MyPlate" />
+      <node id="#ODOTsafe" label="#ODOTsafe" />
+      <node id="#VeteransDay" label="#VeteransDay" />
+      <node id="#horticulture" label="#horticulture" />
+      <node id="#ClipShow" label="#ClipShow" />
+      <node id="#2010Census" label="#2010Census" />
+      <node id="#Radon" label="#Radon" />
+      <node id="#DBE" label="#DBE" />
+      <node id="#GoGreen" label="#GoGreen" />
+      <node id="#LeadOnLeave" label="#LeadOnLeave" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#GDC" label="#GDC" />
+      <node id="#FranklinCo" label="#FranklinCo" />
+      <node id="#prescription" label="#prescription" />
+      <node id="#AmericaRecyclesDay" label="#AmericaRecyclesDay" />
+      <node id="#retail" label="#retail" />
+      <node id="#BeatOregon" label="#BeatOregon" />
+      <node id="#Obetz" label="#Obetz" />
+      <node id="#Moore" label="#Moore" />
+      <node id="#affordablehousing" label="#affordablehousing" />
+      <node id="#women" label="#women" />
+      <node id="#Election" label="#Election" />
+      <node id="#publictransit" label="#publictransit" />
+      <node id="#YCBUS" label="#YCBUS" />
+      <node id="#SummerCamps" label="#SummerCamps" />
+      <node id="#seniorcitizens" label="#seniorcitizens" />
+      <node id="#MBE" label="#MBE" />
+      <node id="#CooperStadium" label="#CooperStadium" />
+      <node id="#TikkunOlam" label="#TikkunOlam" />
+      <node id="#OH4M" label="#OH4M" />
+      <node id="#donate" label="#donate" />
+      <node id="#CountiesMatter" label="#CountiesMatter" />
+      <node id="#publicsafety" label="#publicsafety" />
+      <node id="#TECHCORPS" label="#TECHCORPS" />
+      <node id="#FindAWay" label="#FindAWay" />
+      <node id="#Monitors" label="#Monitors" />
+      <node id="#BHM16" label="#BHM16" />
+      <node id="#SAAM" label="#SAAM" />
+      <node id="#SmartCityChallenge" label="#SmartCityChallenge" />
+      <node id="#Vendor" label="#Vendor" />
+      <node id="#BlockWatch" label="#BlockWatch" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#OperationFeed" label="#OperationFeed" />
+      <node id="#Ohiomeansjobs" label="#Ohiomeansjobs" />
+      <node id="#lgbt" label="#lgbt" />
+      <node id="#BattleOn" label="#BattleOn" />
+      <node id="#MealsonWheels" label="#MealsonWheels" />
+      <node id="#GetActive" label="#GetActive" />
+      <node id="#logistics" label="#logistics" />
+      <node id="#HHW" label="#HHW" />
+      <node id="#empowerwomen" label="#empowerwomen" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#GAL" label="#GAL" />
+      <node id="#communitygardens" label="#communitygardens" />
+      <node id="#Dial211" label="#Dial211" />
+      <node id="#Brazil" label="#Brazil" />
+      <node id="#BackToSchool" label="#BackToSchool" />
+      <node id="#LetsMoveFranklinCo" label="#LetsMoveFranklinCo" />
+      <node id="#FarmersMarket" label="#FarmersMarket" />
+      <node id="#Lowe" label="#Lowe" />
+      <node id="#PoliceWeek" label="#PoliceWeek" />
+      <node id="#ShareTheRoad" label="#ShareTheRoad" />
+      <node id="#masstransit" label="#masstransit" />
+      <node id="#WeAreThe5thLine" label="#WeAreThe5thLine" />
+      <node id="#ScottsMiracleGro" label="#ScottsMiracleGro" />
+      <node id="#winter" label="#winter" />
+      <node id="#realwages" label="#realwages" />
+      <node id="#SunshineWeek" label="#SunshineWeek" />
+      <node id="#14DaysLeft" label="#14DaysLeft" />
+      <node id="#WinterStorm" label="#WinterStorm" />
+      <node id="#NewListings" label="#NewListings" />
+      <node id="#BikeMonth" label="#BikeMonth" />
+      <node id="#PaidLeave" label="#PaidLeave" />
+      <node id="#SBW2014" label="#SBW2014" />
+      <node id="#MCSTouch" label="#MCSTouch" />
+      <node id="#SOARHire" label="#SOARHire" />
+      <node id="#knowtherisks" label="#knowtherisks" />
+      <node id="#infrastructure" label="#infrastructure" />
+      <node id="#generosity" label="#generosity" />
+      <node id="#March31" label="#March31" />
+      <node id="#Horticulture" label="#Horticulture" />
+      <node id="#OHGO" label="#OHGO" />
+      <node id="#groundbreaking" label="#groundbreaking" />
+      <node id="#LandBank" label="#LandBank" />
+      <node id="#12DaysLeft" label="#12DaysLeft" />
+      <node id="#gogreen" label="#gogreen" />
+      <node id="#GetCoveredNow" label="#GetCoveredNow" />
+      <node id="#tourism" label="#tourism" />
+      <node id="#MoveOverMonday" label="#MoveOverMonday" />
+      <node id="#MfgDay14" label="#MfgDay14" />
+      <node id="#PublicPrivatePartnerships" label="#PublicPrivatePartnerships" />
+      <node id="#OSUEFuture" label="#OSUEFuture" />
+      <node id="#SmartWorks" label="#SmartWorks" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#taxhelp" label="#taxhelp" />
+      <node id="#AsSeenInColumbus" label="#AsSeenInColumbus" />
+      <node id="#Government" label="#Government" />
+      <node id="#BHM" label="#BHM" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#RFRA" label="#RFRA" />
+      <node id="#HUD" label="#HUD" />
+      <node id="#FightBlight" label="#FightBlight" />
+      <node id="#StudentWEBCORPS" label="#StudentWEBCORPS" />
+      <node id="#4DaysLeft" label="#4DaysLeft" />
+      <node id="#BikeToWorkDay2015" label="#BikeToWorkDay2015" />
+      <node id="#NewYearsEve" label="#NewYearsEve" />
+      <node id="#EmpowermentDay" label="#EmpowermentDay" />
+      <node id="#beyondthesuit" label="#beyondthesuit" />
+      <node id="#Compost" label="#Compost" />
+      <node id="#letstalkrespect" label="#letstalkrespect" />
+      <node id="#housing" label="#housing" />
+      <node id="#StoneLabs" label="#StoneLabs" />
+      <node id="#GoodThingsGrowTogether" label="#GoodThingsGrowTogether" />
+      <node id="#PrepareAthon" label="#PrepareAthon" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#airquality" label="#airquality" />
+      <node id="#MoveOver" label="#MoveOver" />
+      <node id="#AEP" label="#AEP" />
+      <node id="#SouthSide" label="#SouthSide" />
+      <node id="#workforce" label="#workforce" />
+      <node id="#cbus2020" label="#cbus2020" />
+      <node id="#Grant" label="#Grant" />
+      <node id="#NationalChampion" label="#NationalChampion" />
+      <node id="#ForColumbus" label="#ForColumbus" />
+      <node id="#ExelFreight" label="#ExelFreight" />
+      <node id="#Workforce" label="#Workforce" />
+      <node id="#LocalFood" label="#LocalFood" />
+      <node id="#RepJoyceBeatty" label="#RepJoyceBeatty" />
+      <node id="#SCTop10" label="#SCTop10" />
+      <node id="#ewaste" label="#ewaste" />
+      <node id="#Franklinton" label="#Franklinton" />
+      <node id="#renewableenergy" label="#renewableenergy" />
+      <node id="#Playoffs" label="#Playoffs" />
+      <node id="#DefendNWA" label="#DefendNWA" />
+      <node id="#COAM" label="#COAM" />
+      <node id="#BikeToWorkWeek" label="#BikeToWorkWeek" />
+      <node id="#vote" label="#vote" />
+      <node id="#seniors" label="#seniors" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#OpeningDay" label="#OpeningDay" />
+      <node id="#WBE" label="#WBE" />
+      <node id="#CantWait" label="#CantWait" />
+      <node id="#Job" label="#Job" />
+      <node id="#sportsincbus" label="#sportsincbus" />
+      <node id="#homelessness" label="#homelessness" />
+      <node id="#CleanWater" label="#CleanWater" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#dogs" label="#dogs" />
+      <node id="#MuniBonds" label="#MuniBonds" />
+      <node id="#tax101" label="#tax101" />
+      <node id="#JobsOhio" label="#JobsOhio" />
+      <node id="#WhereBestFriendsMeet" label="#WhereBestFriendsMeet" />
+      <node id="#ItsTheLaw" label="#ItsTheLaw" />
+      <node id="#landfill" label="#landfill" />
+      <node id="#SummerCamp" label="#SummerCamp" />
+      <node id="#FCRetail13" label="#FCRetail13" />
+      <node id="#3DaysLeft" label="#3DaysLeft" />
+      <node id="#PeopleWorks" label="#PeopleWorks" />
+      <node id="#dog" label="#dog" />
+      <node id="#7DaysLeft" label="#7DaysLeft" />
+      <node id="#YearofEconDev" label="#YearofEconDev" />
+      <node id="#lastdaycensus" label="#lastdaycensus" />
+      <node id="#twitterchat" label="#twitterchat" />
+      <node id="#wsyx6" label="#wsyx6" />
+      <node id="#osu" label="#osu" />
+      <node id="#FairWeek2015" label="#FairWeek2015" />
+      <node id="#LaborDay" label="#LaborDay" />
+      <node id="#SunnyAward" label="#SunnyAward" />
+      <node id="#VETS" label="#VETS" />
+      <node id="#Tourism" label="#Tourism" />
+      <node id="#PropertyValue" label="#PropertyValue" />
+      <node id="#HungerAction" label="#HungerAction" />
+      <node id="#StepUp4MentalHealth" label="#StepUp4MentalHealth" />
+      <node id="#Retail14" label="#Retail14" />
+      <node id="#Conservation" label="#Conservation" />
+      <node id="#StandUp4Transportation" label="#StandUp4Transportation" />
+      <node id="#endhomelessness" label="#endhomelessness" />
+      <node id="#economicdevelopment" label="#economicdevelopment" />
+      <node id="#OneGoal" label="#OneGoal" />
+      <node id="#NHLBreakawayJohansen" label="#NHLBreakawayJohansen" />
+      <node id="#ChildAbusePreventionMonth" label="#ChildAbusePreventionMonth" />
+      <node id="#MLSPlayoffs" label="#MLSPlayoffs" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#DressToImpress" label="#DressToImpress" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#FifthThirdBank" label="#FifthThirdBank" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#DareToBeMassive" label="#DareToBeMassive" />
+      <node id="#VAWA" label="#VAWA" />
+      <node id="#TeamColumbus" label="#TeamColumbus" />
+      <node id="#job" label="#job" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#FranklinCounty" label="#FranklinCounty" />
+      <node id="#Stewardship" label="#Stewardship" />
+      <node id="#editorial" label="#editorial" />
+      <node id="#SOAR2014" label="#SOAR2014" />
+      <node id="#ChildhoodObesity" label="#ChildhoodObesity" />
+      <node id="#Play60" label="#Play60" />
+      <node id="#OpFeed" label="#OpFeed" />
+      <node id="#LetsMoveFranklinCounty" label="#LetsMoveFranklinCounty" />
+      <node id="#FREE" label="#FREE" />
+      <node id="#OneDay" label="#OneDay" />
+      <node id="#mentalillnesses" label="#mentalillnesses" />
+      <node id="#aging" label="#aging" />
+      <node id="#House" label="#House" />
+      <node id="#unemployment" label="#unemployment" />
+      <node id="#economic" label="#economic" />
+      <node id="#ChickensDucksRabbits" label="#ChickensDucksRabbits" />
+      <node id="#JobTraining" label="#JobTraining" />
+      <node id="#LUCC2013" label="#LUCC2013" />
+      <node id="#child" label="#child" />
+      <node id="#SOARHIRE2014" label="#SOARHIRE2014" />
+      <node id="#Pelotonia14" label="#Pelotonia14" />
+      <node id="#SummerJob" label="#SummerJob" />
+      <node id="#startups" label="#startups" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+      <node id="#7daysLeft" label="#7daysLeft" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#Volunteer" label="#Volunteer" />
+      <node id="#LetsDoThis" label="#LetsDoThis" />
+      <node id="#equality" label="#equality" />
+      <node id="#EconDevWeek" label="#EconDevWeek" />
+      <node id="#13DaysLeft" label="#13DaysLeft" />
+      <node id="#EarthDay2015" label="#EarthDay2015" />
+      <node id="#EarthDay2014" label="#EarthDay2014" />
+      <node id="#EarthDay2016" label="#EarthDay2016" />
+      <node id="#JobFair" label="#JobFair" />
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#camp" label="#camp" />
+      <node id="#LifeCare" label="#LifeCare" />
+      <node id="#GreenData" label="#GreenData" />
+      <node id="#ProjectLOVE" label="#ProjectLOVE" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#FurryFriday" label="#FurryFriday" />
+      <node id="#startup" label="#startup" />
+      <node id="#Recycle" label="#Recycle" />
+      <node id="#GovtDay" label="#GovtDay" />
+      <node id="#Solar" label="#Solar" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#columbus2020" label="#columbus2020" />
+      <node id="#OhioEd" label="#OhioEd" />
+      <node id="#HolidayWish" label="#HolidayWish" />
+      <node id="#YouthWorks" label="#YouthWorks" />
+      <node id="#FranklinParkConservatory" label="#FranklinParkConservatory" />
+      <node id="#VeggieSNAPS" label="#VeggieSNAPS" />
+      <node id="#pets" label="#pets" />
+      <node id="#weather" label="#weather" />
+      <node id="#knowledgeeconomy" label="#knowledgeeconomy" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#USMNT" label="#USMNT" />
+      <node id="#econdev" label="#econdev" />
+      <node id="#BringIt" label="#BringIt" />
+      <node id="#NewJobs" label="#NewJobs" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#RepPatTiberi" label="#RepPatTiberi" />
+      <node id="#County" label="#County" />
+      <node id="#MLSCup" label="#MLSCup" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#FranklinCountyOH" label="#FranklinCountyOH" />
+      <node id="#PurpleHeart" label="#PurpleHeart" />
+      <node id="#Dog" label="#Dog" />
+      <node id="#OSUExtension" label="#OSUExtension" />
+      <node id="#HappyHolidays" label="#HappyHolidays" />
+      <node id="#InvestingInOurNextGeneration" label="#InvestingInOurNextGeneration" />
+      <node id="#BoilAlert" label="#BoilAlert" />
+      <node id="#EconDev" label="#EconDev" />
+      <node id="#CommunityGardens" label="#CommunityGardens" />
+      <node id="#tech" label="#tech" />
+      <node id="#recycling" label="#recycling" />
+      <node id="#climateaction" label="#climateaction" />
+      <node id="#WinterSafety" label="#WinterSafety" />
+      <node id="#Retailers" label="#Retailers" />
+      <node id="#business" label="#business" />
+      <node id="#DriveSober" label="#DriveSober" />
+      <node id="#raingardens" label="#raingardens" />
+      <node id="#EITC" label="#EITC" />
+      <node id="#EatHealthy" label="#EatHealthy" />
+      <node id="#ChildSupport" label="#ChildSupport" />
+      <node id="#ThisIsSWC" label="#ThisIsSWC" />
+      <node id="#ForTheCup" label="#ForTheCup" />
+      <node id="#SupportisKey" label="#SupportisKey" />
+      <node id="#SelfieRespect" label="#SelfieRespect" />
+      <node id="#Bringit" label="#Bringit" />
+      <node id="#CellPhones" label="#CellPhones" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#MORPC" label="#MORPC" />
+      <node id="#FundingInnovation" label="#FundingInnovation" />
+      <node id="#MLK" label="#MLK" />
+      <node id="#retail14" label="#retail14" />
+      <node id="#USAvsGER" label="#USAvsGER" />
+      <node id="#YPs" label="#YPs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#respect" target="#selfie" weight="2119" />
+      <edge id="1" source="#respect" target="#SELFIERESPECT" weight="2119" />
+      <edge id="2" source="#respect" target="#letstalkrespect" weight="2119" />
+      <edge id="3" source="#School" target="#OhioEd" weight="2119" />
+      <edge id="4" source="#DOTSmartCity" target="#SXSW" weight="2119" />
+      <edge id="5" source="#DOTSmartCity" target="#SmartColumbus" weight="2119" />
+      <edge id="6" source="#DOTSmartCity" target="#MoveColumbus" weight="2119" />
+      <edge id="7" source="#Cbus" target="#GetCovered" weight="2119" />
+      <edge id="8" source="#Cbus" target="#YPs" weight="2119" />
+      <edge id="9" source="#Cbus" target="#LocalFood" weight="2119" />
+      <edge id="10" source="#Cbus" target="#FranklinCounty" weight="2119" />
+      <edge id="11" source="#Thanksgiving" target="#FranklinCounty" weight="2119" />
+      <edge id="12" source="#Reentry" target="#FranklinCounty" weight="2119" />
+      <edge id="13" source="#KnowBeforeYouGo" target="#OHGO" weight="2119" />
+      <edge id="14" source="#Groveport" target="#Airport" weight="2119" />
+      <edge id="15" source="#Groveport" target="#Obetz" weight="2119" />
+      <edge id="16" source="#Groveport" target="#MORPC" weight="2119" />
+      <edge id="17" source="#MindMarket" target="#FundingInnovation" weight="6357" />
+      <edge id="18" source="#MindMarket" target="#FranklinCounty" weight="8476" />
+      <edge id="19" source="#FreeTaxPrep" target="#Dial211" weight="2119" />
+      <edge id="20" source="#freetaxes" target="#FREE" weight="2119" />
+      <edge id="21" source="#freetaxes" target="#tax101" weight="2119" />
+      <edge id="22" source="#freetaxes" target="#taxes" weight="2119" />
+      <edge id="23" source="#NCGM" target="#WhyCountiesMatter" weight="10595" />
+      <edge id="24" source="#NCGM" target="#CountiesMatter" weight="4238" />
+      <edge id="25" source="#NCGM" target="#FranklinCountyOH" weight="2119" />
+      <edge id="26" source="#NCGM" target="#EarthDay" weight="2119" />
+      <edge id="27" source="#NCGM" target="#FranklinCounty" weight="4238" />
+      <edge id="28" source="#SmallBusinessWeek" target="#SBW2014" weight="2119" />
+      <edge id="29" source="#SmallBusinessWeek" target="#FranklinCounty" weight="2119" />
+      <edge id="30" source="#SmallBiz" target="#WBE" weight="4238" />
+      <edge id="31" source="#SmallBiz" target="#SBW2014" weight="2119" />
+      <edge id="32" source="#SmallBiz" target="#MBE" weight="4238" />
+      <edge id="33" source="#SmallBiz" target="#Columbus" weight="4238" />
+      <edge id="34" source="#SmallBiz" target="#DBE" weight="4238" />
+      <edge id="35" source="#Innovation" target="#Workforce" weight="4238" />
+      <edge id="36" source="#Innovation" target="#manufacturing" weight="2119" />
+      <edge id="37" source="#Innovation" target="#FranklinCounty" weight="2119" />
+      <edge id="38" source="#FoodSecurity" target="#FranklinCounty" weight="2119" />
+      <edge id="39" source="#SELFIERESPECT" target="#selfie" weight="2119" />
+      <edge id="40" source="#SELFIERESPECT" target="#letstalkrespect" weight="2119" />
+      <edge id="41" source="#marriage" target="#lgbt" weight="2119" />
+      <edge id="42" source="#marriage" target="#OH4M" weight="2119" />
+      <edge id="43" source="#marriage" target="#Ohio" weight="2119" />
+      <edge id="44" source="#YouWillRise" target="#SelfieRespect" weight="2119" />
+      <edge id="45" source="#Budget14" target="#Job" weight="2119" />
+      <edge id="46" source="#Budget14" target="#FranklinCounty" weight="6357" />
+      <edge id="47" source="#NationalSecurity" target="#climateaction" weight="2119" />
+      <edge id="48" source="#Columbus2016" target="#DNC" weight="4238" />
+      <edge id="49" source="#Columbus2016" target="#BringIt" weight="2119" />
+      <edge id="50" source="#ThankAVet" target="#Veterans" weight="2119" />
+      <edge id="51" source="#ThankAVet" target="#FranklinCounty" weight="2119" />
+      <edge id="52" source="#NLW15" target="#FranklinCounty" weight="2119" />
+      <edge id="53" source="#DentalDiscount" target="#FranklinCounty" weight="4238" />
+      <edge id="54" source="#GetCoveredColumbus" target="#SouthSide" weight="2119" />
+      <edge id="55" source="#youth" target="#YCBUS" weight="2119" />
+      <edge id="56" source="#ColumbusOH" target="#LifeinCBUS" weight="2119" />
+      <edge id="57" source="#ColumbusOH" target="#asseenincolumbus" weight="2119" />
+      <edge id="58" source="#ColumbusOH" target="#JobsOhio" weight="2119" />
+      <edge id="59" source="#ColumbusOH" target="#FranklinCounty" weight="2119" />
+      <edge id="60" source="#ColumbusOH" target="#Columbus" weight="2119" />
+      <edge id="61" source="#ColumbusOH" target="#OhioMeansJobs" weight="2119" />
+      <edge id="62" source="#Oklahoma" target="#Moore" weight="2119" />
+      <edge id="63" source="#endpoverty" target="#JobFair" weight="2119" />
+      <edge id="64" source="#energyefficiency" target="#renewableenergy" weight="2119" />
+      <edge id="65" source="#energyefficiency" target="#sustainability" weight="2119" />
+      <edge id="66" source="#MoveColumbus" target="#SmartColumbus" weight="2119" />
+      <edge id="67" source="#WhyCountiesMatter" target="#EarthDay" weight="2119" />
+      <edge id="68" source="#WhyCountiesMatter" target="#FranklinCountyOH" weight="2119" />
+      <edge id="69" source="#WhyCountiesMatter" target="#Government" weight="2119" />
+      <edge id="70" source="#WhyCountiesMatter" target="#FranklinCounty" weight="2119" />
+      <edge id="71" source="#WhyCountiesMatter" target="#County" weight="2119" />
+      <edge id="72" source="#FoodDay" target="#LocalFood" weight="2119" />
+      <edge id="73" source="#FoodDay" target="#FranklinCounty" weight="2119" />
+      <edge id="74" source="#healthiestcitieschallenge" target="#twitterchat" weight="2119" />
+      <edge id="75" source="#ChildAbusePrevention" target="#WearBlue" weight="4238" />
+      <edge id="76" source="#ChildAbusePrevention" target="#FranklinCounty" weight="4238" />
+      <edge id="77" source="#LifeinCBUS" target="#asseenincolumbus" weight="2119" />
+      <edge id="78" source="#LifeinCBUS" target="#JobsOhio" weight="2119" />
+      <edge id="79" source="#LifeinCBUS" target="#FranklinCounty" weight="2119" />
+      <edge id="80" source="#LifeinCBUS" target="#Columbus" weight="2119" />
+      <edge id="81" source="#LifeinCBUS" target="#OhioMeansJobs" weight="2119" />
+      <edge id="82" source="#OhioMeansJobs" target="#SOARHIRE2014" weight="2119" />
+      <edge id="83" source="#OhioMeansJobs" target="#asseenincolumbus" weight="2119" />
+      <edge id="84" source="#OhioMeansJobs" target="#JobsOhio" weight="2119" />
+      <edge id="85" source="#OhioMeansJobs" target="#ProjectHire" weight="4238" />
+      <edge id="86" source="#OhioMeansJobs" target="#FranklinCounty" weight="6357" />
+      <edge id="87" source="#OhioMeansJobs" target="#Columbus" weight="10595" />
+      <edge id="88" source="#FF" target="#FranklinCounty" weight="2119" />
+      <edge id="89" source="#OpeningNight" target="#RingYourBell" weight="2119" />
+      <edge id="90" source="#OpeningNight" target="#CantWait" weight="2119" />
+      <edge id="91" source="#OpeningNight" target="#ClipShow" weight="4238" />
+      <edge id="92" source="#eWaste" target="#landfill" weight="2119" />
+      <edge id="93" source="#eWaste" target="#Columbus" weight="2119" />
+      <edge id="94" source="#eWaste" target="#donate" weight="2119" />
+      <edge id="95" source="#eWaste" target="#FranklinCounty" weight="2119" />
+      <edge id="96" source="#WearBlue" target="#ChildAbusePreventionMonth" weight="2119" />
+      <edge id="97" source="#WearBlue" target="#PinwheelSelfie" weight="2119" />
+      <edge id="98" source="#WearBlue" target="#FranklinCounty" weight="4238" />
+      <edge id="99" source="#Ohioans" target="#cancer" weight="2119" />
+      <edge id="100" source="#CentralOhio" target="#transportation" weight="2119" />
+      <edge id="101" source="#CentralOhio" target="#airquality" weight="2119" />
+      <edge id="102" source="#backtoschool" target="#generosity" weight="2119" />
+      <edge id="103" source="#backtoschool" target="#MCSTouch" weight="2119" />
+      <edge id="104" source="#BestPlaces" target="#Columbus" weight="2119" />
+      <edge id="105" source="#Medicaidat50" target="#GetCovered" weight="2119" />
+      <edge id="106" source="#CountyCommissioners" target="#OSUEFuture" weight="2119" />
+      <edge id="107" source="#CountyCommissioners" target="#StoneLabs" weight="2119" />
+      <edge id="108" source="#MUSTANG" target="#FranklinCounty" weight="2119" />
+      <edge id="109" source="#Top10" target="#LifeInCbus" weight="2119" />
+      <edge id="110" source="#FairHousing" target="#FranklinCounty" weight="2119" />
+      <edge id="111" source="#BuildingSafety" target="#FranklinCounty" weight="2119" />
+      <edge id="112" source="#HiringOurHeroes" target="#veterans" weight="2119" />
+      <edge id="113" source="#HiringOurHeroes" target="#Veterans" weight="6357" />
+      <edge id="114" source="#HiringOurHeroes" target="#FranklinCounty" weight="2119" />
+      <edge id="115" source="#JFR" target="#FranklinCounty" weight="2119" />
+      <edge id="116" source="#ProjectHire" target="#Columbus" weight="6357" />
+      <edge id="117" source="#ProjectHire" target="#FranklinCounty" weight="6357" />
+      <edge id="118" source="#WhyIWearTheBadge" target="#PoliceWeek" weight="2119" />
+      <edge id="119" source="#WhyIWearTheBadge" target="#MoveOver" weight="2119" />
+      <edge id="120" source="#PinwheelSelfie" target="#ChildAbusePreventionMonth" weight="2119" />
+      <edge id="121" source="#Airport" target="#Obetz" weight="2119" />
+      <edge id="122" source="#Airport" target="#MORPC" weight="2119" />
+      <edge id="123" source="#CommunityGarden" target="#EarthDay2015" weight="2119" />
+      <edge id="124" source="#CommunityGarden" target="#ScottsMiracleGro" weight="2119" />
+      <edge id="125" source="#CommunityGarden" target="#EarthDay" weight="2119" />
+      <edge id="126" source="#EndCancer" target="#Pelotonia14" weight="4238" />
+      <edge id="127" source="#EndCancer" target="#OneGoal" weight="4238" />
+      <edge id="128" source="#DNC" target="#BringIt" weight="2119" />
+      <edge id="129" source="#Counties" target="#sequestration" weight="2119" />
+      <edge id="130" source="#Counties" target="#publicsafety" weight="2119" />
+      <edge id="131" source="#Veterans" target="#FranklinCounty" weight="8476" />
+      <edge id="132" source="#MascotMania" target="#AsSeenInColumbus" weight="2119" />
+      <edge id="133" source="#IBM" target="#FranklinCounty" weight="2119" />
+      <edge id="134" source="#IBM" target="#NewJobs" weight="2119" />
+      <edge id="135" source="#RingYourBell" target="#Playoffs" weight="2119" />
+      <edge id="136" source="#RingYourBell" target="#ClipShow" weight="2119" />
+      <edge id="137" source="#taxes" target="#FREE" weight="6357" />
+      <edge id="138" source="#taxes" target="#tax101" weight="2119" />
+      <edge id="139" source="#taxes" target="#EITC" weight="2119" />
+      <edge id="140" source="#WhatAJob" target="#FairWeek2015" weight="6357" />
+      <edge id="141" source="#selfie" target="#letstalkrespect" weight="2119" />
+      <edge id="142" source="#ZeroWaste" target="#AmericaRecyclesDay" weight="2119" />
+      <edge id="143" source="#ZeroWaste" target="#Compost" weight="2119" />
+      <edge id="144" source="#ZeroWaste" target="#Recycle" weight="2119" />
+      <edge id="145" source="#ZeroWaste" target="#FranklinCounty" weight="2119" />
+      <edge id="146" source="#Sustainability" target="#FranklinCounty" weight="4238" />
+      <edge id="147" source="#sequestration" target="#publicsafety" weight="2119" />
+      <edge id="148" source="#Crew96" target="#ForColumbus" weight="2119" />
+      <edge id="149" source="#Crew96" target="#MLSPlayoffs" weight="2119" />
+      <edge id="150" source="#Crew96" target="#DareToBeMassive" weight="2119" />
+      <edge id="151" source="#EarthDay" target="#GreenData" weight="2119" />
+      <edge id="152" source="#EarthDay" target="#FranklinCountyOH" weight="2119" />
+      <edge id="153" source="#EarthDay" target="#ScottsMiracleGro" weight="2119" />
+      <edge id="154" source="#EndHunger" target="#OpFeed" weight="6357" />
+      <edge id="155" source="#EndHunger" target="#FranklinCounty" weight="2119" />
+      <edge id="156" source="#RISE" target="#FCRetail13" weight="2119" />
+      <edge id="157" source="#ohwx" target="#AEP" weight="2119" />
+      <edge id="158" source="#MyPlate" target="#EatHealthy" weight="2119" />
+      <edge id="159" source="#MyPlate" target="#LetsMoveFranklinCo" weight="2119" />
+      <edge id="160" source="#ODOTsafe" target="#MoveOverMonday" weight="2119" />
+      <edge id="161" source="#VeteransDay" target="#FranklinCounty" weight="6357" />
+      <edge id="162" source="#horticulture" target="#jobs" weight="2119" />
+      <edge id="163" source="#horticulture" target="#FranklinCounty" weight="2119" />
+      <edge id="164" source="#ClipShow" target="#CantWait" weight="2119" />
+      <edge id="165" source="#ClipShow" target="#FindAWay" weight="2119" />
+      <edge id="166" source="#ClipShow" target="#SCTop10" weight="2119" />
+      <edge id="167" source="#2010Census" target="#lastdaycensus" weight="2119" />
+      <edge id="168" source="#Radon" target="#knowtherisks" weight="2119" />
+      <edge id="169" source="#DBE" target="#WBE" weight="4238" />
+      <edge id="170" source="#DBE" target="#MBE" weight="4238" />
+      <edge id="171" source="#DBE" target="#Columbus" weight="4238" />
+      <edge id="172" source="#GoGreen" target="#Recycle" weight="2119" />
+      <edge id="173" source="#LeadOnLeave" target="#PaidLeave" weight="2119" />
+      <edge id="174" source="#diabetes" target="#FranklinCounty" weight="2119" />
+      <edge id="175" source="#GDC" target="#FurryFriday" weight="2119" />
+      <edge id="176" source="#GDC" target="#FranklinCounty" weight="2119" />
+      <edge id="177" source="#FranklinCo" target="#StudentWEBCORPS" weight="2119" />
+      <edge id="178" source="#prescription" target="#FranklinCounty" weight="2119" />
+      <edge id="179" source="#AmericaRecyclesDay" target="#FranklinCounty" weight="2119" />
+      <edge id="180" source="#retail" target="#FranklinCounty" weight="4238" />
+      <edge id="181" source="#BeatOregon" target="#cbusproud" weight="2119" />
+      <edge id="182" source="#BeatOregon" target="#GoBucks" weight="4238" />
+      <edge id="183" source="#Obetz" target="#MORPC" weight="2119" />
+      <edge id="184" source="#affordablehousing" target="#homelessness" weight="2119" />
+      <edge id="185" source="#affordablehousing" target="#economic" weight="2119" />
+      <edge id="186" source="#women" target="#veterans" weight="2119" />
+      <edge id="187" source="#Election" target="#vote" weight="2119" />
+      <edge id="188" source="#publictransit" target="#StandUp4Transportation" weight="2119" />
+      <edge id="189" source="#YCBUS" target="#camp" weight="2119" />
+      <edge id="190" source="#YCBUS" target="#child" weight="2119" />
+      <edge id="191" source="#SummerCamps" target="#FranklinCounty" weight="2119" />
+      <edge id="192" source="#seniorcitizens" target="#TikkunOlam" weight="2119" />
+      <edge id="193" source="#MBE" target="#WBE" weight="4238" />
+      <edge id="194" source="#MBE" target="#Columbus" weight="4238" />
+      <edge id="195" source="#CooperStadium" target="#Franklinton" weight="2119" />
+      <edge id="196" source="#CooperStadium" target="#FranklinCounty" weight="2119" />
+      <edge id="197" source="#OH4M" target="#Ohio" weight="4238" />
+      <edge id="198" source="#OH4M" target="#lgbt" weight="2119" />
+      <edge id="199" source="#donate" target="#gogreen" weight="2119" />
+      <edge id="200" source="#CountiesMatter" target="#FranklinCounty" weight="2119" />
+      <edge id="201" source="#TECHCORPS" target="#ThisIsSWC" weight="2119" />
+      <edge id="202" source="#Monitors" target="#CellPhones" weight="2119" />
+      <edge id="203" source="#Monitors" target="#FranklinCounty" weight="2119" />
+      <edge id="204" source="#BHM16" target="#MLK" weight="2119" />
+      <edge id="205" source="#SAAM" target="#FranklinCounty" weight="2119" />
+      <edge id="206" source="#SmartCityChallenge" target="#SmartColumbus" weight="2119" />
+      <edge id="207" source="#Vendor" target="#FranklinCounty" weight="2119" />
+      <edge id="208" source="#BlockWatch" target="#FranklinCounty" weight="2119" />
+      <edge id="209" source="#cbus" target="#startup" weight="2119" />
+      <edge id="210" source="#OperationFeed" target="#FranklinCounty" weight="2119" />
+      <edge id="211" source="#Ohiomeansjobs" target="#SOAR2014" weight="2119" />
+      <edge id="212" source="#Ohiomeansjobs" target="#FranklinCounty" weight="2119" />
+      <edge id="213" source="#Ohiomeansjobs" target="#Columbus" weight="2119" />
+      <edge id="214" source="#Ohiomeansjobs" target="#Ohio" weight="2119" />
+      <edge id="215" source="#lgbt" target="#Ohio" weight="2119" />
+      <edge id="216" source="#BattleOn" target="#DefendNWA" weight="2119" />
+      <edge id="217" source="#BattleOn" target="#CBJ" weight="6357" />
+      <edge id="218" source="#BattleOn" target="#WeAreThe5thLine" weight="6357" />
+      <edge id="219" source="#BattleOn" target="#NHL" weight="2119" />
+      <edge id="220" source="#MealsonWheels" target="#Volunteer" weight="2119" />
+      <edge id="221" source="#MealsonWheels" target="#LifeCare" weight="2119" />
+      <edge id="222" source="#GetActive" target="#EatHealthy" weight="4238" />
+      <edge id="223" source="#GetActive" target="#LetsMoveFranklinCo" weight="19071" />
+      <edge id="224" source="#GetActive" target="#Play60" weight="2119" />
+      <edge id="225" source="#GetActive" target="#LetsMoveFranklinCounty" weight="2119" />
+      <edge id="226" source="#logistics" target="#FranklinCounty" weight="2119" />
+      <edge id="227" source="#HHW" target="#FranklinCounty" weight="2119" />
+      <edge id="228" source="#empowerwomen" target="#beyondthesuit" weight="2119" />
+      <edge id="229" source="#empowerwomen" target="#economicdevelopment" weight="2119" />
+      <edge id="230" source="#Jobs" target="#VETS" weight="2119" />
+      <edge id="231" source="#Jobs" target="#Columbus" weight="2119" />
+      <edge id="232" source="#Jobs" target="#FranklinCounty" weight="2119" />
+      <edge id="233" source="#GAL" target="#Columbus" weight="2119" />
+      <edge id="234" source="#GAL" target="#Volunteer" weight="2119" />
+      <edge id="235" source="#GAL" target="#FranklinCounty" weight="2119" />
+      <edge id="236" source="#communitygardens" target="#FranklinCounty" weight="2119" />
+      <edge id="237" source="#Brazil" target="#FranklinCounty" weight="2119" />
+      <edge id="238" source="#Brazil" target="#business" weight="2119" />
+      <edge id="239" source="#Brazil" target="#Ohio" weight="2119" />
+      <edge id="240" source="#BackToSchool" target="#ProjectLOVE" weight="6357" />
+      <edge id="241" source="#BackToSchool" target="#FranklinCounty" weight="2119" />
+      <edge id="242" source="#BackToSchool" target="#FarmersMarket" weight="6357" />
+      <edge id="243" source="#LetsMoveFranklinCo" target="#EatHealthy" weight="23309" />
+      <edge id="244" source="#LetsMoveFranklinCo" target="#ChildhoodObesity" weight="4238" />
+      <edge id="245" source="#LetsMoveFranklinCo" target="#FranklinCounty" weight="4238" />
+      <edge id="246" source="#LetsMoveFranklinCo" target="#Play60" weight="2119" />
+      <edge id="247" source="#LetsMoveFranklinCo" target="#COAM" weight="2119" />
+      <edge id="248" source="#FarmersMarket" target="#ProjectLOVE" weight="6357" />
+      <edge id="249" source="#Lowe" target="#FifthThirdBank" weight="2119" />
+      <edge id="250" source="#PoliceWeek" target="#MoveOver" weight="2119" />
+      <edge id="251" source="#ShareTheRoad" target="#BikeToWorkDay2015" weight="2119" />
+      <edge id="252" source="#masstransit" target="#StandUp4Transportation" weight="2119" />
+      <edge id="253" source="#masstransit" target="#Columbus" weight="2119" />
+      <edge id="254" source="#masstransit" target="#sustainability" weight="2119" />
+      <edge id="255" source="#WeAreThe5thLine" target="#DefendNWA" weight="2119" />
+      <edge id="256" source="#WeAreThe5thLine" target="#CBJ" weight="6357" />
+      <edge id="257" source="#WeAreThe5thLine" target="#NHL" weight="2119" />
+      <edge id="258" source="#winter" target="#pets" weight="2119" />
+      <edge id="259" source="#winter" target="#weather" weight="2119" />
+      <edge id="260" source="#winter" target="#FranklinCounty" weight="2119" />
+      <edge id="261" source="#realwages" target="#jobs" weight="2119" />
+      <edge id="262" source="#SunshineWeek" target="#SunnyAward" weight="2119" />
+      <edge id="263" source="#SunshineWeek" target="#FranklinCounty" weight="2119" />
+      <edge id="264" source="#14DaysLeft" target="#GetCoveredNow" weight="2119" />
+      <edge id="265" source="#WinterStorm" target="#PrepareAthon" weight="2119" />
+      <edge id="266" source="#WinterStorm" target="#WinterSafety" weight="2119" />
+      <edge id="267" source="#NewListings" target="#FranklinCounty" weight="2119" />
+      <edge id="268" source="#BikeMonth" target="#BikeToWorkWeek" weight="2119" />
+      <edge id="269" source="#SBW2014" target="#FranklinCounty" weight="2119" />
+      <edge id="270" source="#MCSTouch" target="#generosity" weight="2119" />
+      <edge id="271" source="#SOARHire" target="#YouthWorks" weight="2119" />
+      <edge id="272" source="#SOARHire" target="#SummerJob" weight="2119" />
+      <edge id="273" source="#SOARHire" target="#FranklinCounty" weight="2119" />
+      <edge id="274" source="#infrastructure" target="#job" weight="2119" />
+      <edge id="275" source="#infrastructure" target="#EconDev" weight="2119" />
+      <edge id="276" source="#March31" target="#GetCovered" weight="2119" />
+      <edge id="277" source="#Horticulture" target="#JobTraining" weight="2119" />
+      <edge id="278" source="#groundbreaking" target="#housing" weight="2119" />
+      <edge id="279" source="#LandBank" target="#FightBlight" weight="2119" />
+      <edge id="280" source="#LandBank" target="#PropertyValue" weight="2119" />
+      <edge id="281" source="#LandBank" target="#FranklinCounty" weight="2119" />
+      <edge id="282" source="#12DaysLeft" target="#GetCoveredNow" weight="2119" />
+      <edge id="283" source="#GetCoveredNow" target="#13DaysLeft" weight="2119" />
+      <edge id="284" source="#GetCoveredNow" target="#3DaysLeft" weight="2119" />
+      <edge id="285" source="#tourism" target="#FranklinCounty" weight="6357" />
+      <edge id="286" source="#MfgDay14" target="#FranklinCounty" weight="2119" />
+      <edge id="287" source="#PublicPrivatePartnerships" target="#econdev" weight="2119" />
+      <edge id="288" source="#PublicPrivatePartnerships" target="#LUCC2013" weight="2119" />
+      <edge id="289" source="#OSUEFuture" target="#StoneLabs" weight="2119" />
+      <edge id="290" source="#SmartWorks" target="#FranklinCounty" weight="2119" />
+      <edge id="291" source="#NHL" target="#CBJ" weight="2119" />
+      <edge id="292" source="#taxhelp" target="#FREE" weight="2119" />
+      <edge id="293" source="#AsSeenInColumbus" target="#FranklinCounty" weight="2119" />
+      <edge id="294" source="#Government" target="#County" weight="2119" />
+      <edge id="295" source="#BHM" target="#MLK" weight="2119" />
+      <edge id="296" source="#NHLAllStar" target="#lifeincbus" weight="2119" />
+      <edge id="297" source="#NHLAllStar" target="#CBJ" weight="6357" />
+      <edge id="298" source="#NHLAllStar" target="#cbusproud" weight="2119" />
+      <edge id="299" source="#RFRA" target="#equality" weight="2119" />
+      <edge id="300" source="#HUD" target="#FranklinCounty" weight="2119" />
+      <edge id="301" source="#FightBlight" target="#PropertyValue" weight="2119" />
+      <edge id="302" source="#FightBlight" target="#FranklinCounty" weight="2119" />
+      <edge id="303" source="#4DaysLeft" target="#GetCovered" weight="2119" />
+      <edge id="304" source="#NewYearsEve" target="#DriveSober" weight="2119" />
+      <edge id="305" source="#EmpowermentDay" target="#ChildSupport" weight="2119" />
+      <edge id="306" source="#beyondthesuit" target="#economicdevelopment" weight="2119" />
+      <edge id="307" source="#Compost" target="#Recycle" weight="2119" />
+      <edge id="308" source="#GoodThingsGrowTogether" target="#CommunityGardens" weight="4238" />
+      <edge id="309" source="#GoodThingsGrowTogether" target="#Grant" weight="4238" />
+      <edge id="310" source="#GoodThingsGrowTogether" target="#FranklinCounty" weight="4238" />
+      <edge id="311" source="#PrepareAthon" target="#WinterSafety" weight="2119" />
+      <edge id="312" source="#STEM" target="#InvestingInOurNextGeneration" weight="2119" />
+      <edge id="313" source="#STEM" target="#Ohio" weight="2119" />
+      <edge id="314" source="#GetCovered" target="#3DaysLeft" weight="2119" />
+      <edge id="315" source="#GetCovered" target="#7daysLeft" weight="2119" />
+      <edge id="316" source="#GetCovered" target="#FranklinCounty" weight="2119" />
+      <edge id="317" source="#GetCovered" target="#7DaysLeft" weight="2119" />
+      <edge id="318" source="#workforce" target="#ExelFreight" weight="2119" />
+      <edge id="319" source="#workforce" target="#FranklinCounty" weight="2119" />
+      <edge id="320" source="#workforce" target="#econdev" weight="2119" />
+      <edge id="321" source="#workforce" target="#jobs" weight="4238" />
+      <edge id="322" source="#workforce" target="#GovtDay" weight="2119" />
+      <edge id="323" source="#cbus2020" target="#cbusproud" weight="2119" />
+      <edge id="324" source="#Grant" target="#CommunityGardens" weight="4238" />
+      <edge id="325" source="#Grant" target="#FranklinCounty" weight="4238" />
+      <edge id="326" source="#NationalChampion" target="#OpeningDay" weight="4238" />
+      <edge id="327" source="#ForColumbus" target="#Bringit" weight="2119" />
+      <edge id="328" source="#ForColumbus" target="#MLSCup" weight="2119" />
+      <edge id="329" source="#ForColumbus" target="#TeamColumbus" weight="2119" />
+      <edge id="330" source="#ForColumbus" target="#MLSPlayoffs" weight="2119" />
+      <edge id="331" source="#ForColumbus" target="#ForTheCup" weight="2119" />
+      <edge id="332" source="#ExelFreight" target="#jobs" weight="2119" />
+      <edge id="333" source="#Workforce" target="#manufacturing" weight="2119" />
+      <edge id="334" source="#Workforce" target="#FranklinCounty" weight="4238" />
+      <edge id="335" source="#LocalFood" target="#Columbus" weight="2119" />
+      <edge id="336" source="#LocalFood" target="#FranklinCounty" weight="8476" />
+      <edge id="337" source="#RepJoyceBeatty" target="#House" weight="2119" />
+      <edge id="338" source="#RepJoyceBeatty" target="#RepPatTiberi" weight="2119" />
+      <edge id="339" source="#RepJoyceBeatty" target="#VAWA" weight="2119" />
+      <edge id="340" source="#ewaste" target="#FranklinCounty" weight="2119" />
+      <edge id="341" source="#ewaste" target="#EarthDay2016" weight="2119" />
+      <edge id="342" source="#Franklinton" target="#FranklinCounty" weight="2119" />
+      <edge id="343" source="#DefendNWA" target="#CBJ" weight="2119" />
+      <edge id="344" source="#COAM" target="#ChildhoodObesity" weight="2119" />
+      <edge id="345" source="#seniors" target="#FranklinCounty" weight="2119" />
+      <edge id="346" source="#lifeincbus" target="#cbusproud" weight="2119" />
+      <edge id="347" source="#WBE" target="#Columbus" weight="4238" />
+      <edge id="348" source="#Job" target="#DressToImpress" weight="2119" />
+      <edge id="349" source="#Job" target="#ChildSupport" weight="6357" />
+      <edge id="350" source="#Job" target="#unemployment" weight="6357" />
+      <edge id="351" source="#Job" target="#FranklinCounty" weight="4238" />
+      <edge id="352" source="#sportsincbus" target="#FranklinCounty" weight="2119" />
+      <edge id="353" source="#homelessness" target="#economic" weight="2119" />
+      <edge id="354" source="#CleanWater" target="#FranklinCounty" weight="2119" />
+      <edge id="355" source="#jobs" target="#econdev" weight="2119" />
+      <edge id="356" source="#jobs" target="#jobs" weight="4238" />
+      <edge id="357" source="#jobs" target="#FranklinCounty" weight="8476" />
+      <edge id="358" source="#jobs" target="#Columbus" weight="4238" />
+      <edge id="359" source="#dogs" target="#ItsTheLaw" weight="2119" />
+      <edge id="360" source="#dogs" target="#FranklinCounty" weight="2119" />
+      <edge id="361" source="#MuniBonds" target="#FranklinCounty" weight="2119" />
+      <edge id="362" source="#tax101" target="#FREE" weight="2119" />
+      <edge id="363" source="#JobsOhio" target="#asseenincolumbus" weight="2119" />
+      <edge id="364" source="#JobsOhio" target="#FranklinCounty" weight="2119" />
+      <edge id="365" source="#JobsOhio" target="#Columbus" weight="2119" />
+      <edge id="366" source="#WhereBestFriendsMeet" target="#Dog" weight="2119" />
+      <edge id="367" source="#WhereBestFriendsMeet" target="#FranklinCounty" weight="2119" />
+      <edge id="368" source="#ItsTheLaw" target="#dog" weight="2119" />
+      <edge id="369" source="#ItsTheLaw" target="#FranklinCounty" weight="6357" />
+      <edge id="370" source="#SummerCamp" target="#FranklinCounty" weight="2119" />
+      <edge id="371" source="#PeopleWorks" target="#JobTraining" weight="2119" />
+      <edge id="372" source="#PeopleWorks" target="#GovtDay" weight="2119" />
+      <edge id="373" source="#dog" target="#FranklinCounty" weight="4238" />
+      <edge id="374" source="#YearofEconDev" target="#EconDevWeek" weight="2119" />
+      <edge id="375" source="#wsyx6" target="#ChildAbusePreventionMonth" weight="2119" />
+      <edge id="376" source="#osu" target="#columbus2020" weight="2119" />
+      <edge id="377" source="#LaborDay" target="#FranklinCounty" weight="2119" />
+      <edge id="378" source="#SunnyAward" target="#FranklinCounty" weight="2119" />
+      <edge id="379" source="#VETS" target="#Columbus" weight="2119" />
+      <edge id="380" source="#Tourism" target="#FranklinCounty" weight="2119" />
+      <edge id="381" source="#PropertyValue" target="#FranklinCounty" weight="2119" />
+      <edge id="382" source="#HungerAction" target="#FranklinCounty" weight="2119" />
+      <edge id="383" source="#StepUp4MentalHealth" target="#mentalillnesses" weight="2119" />
+      <edge id="384" source="#Retail14" target="#FranklinCounty" weight="2119" />
+      <edge id="385" source="#Conservation" target="#Stewardship" weight="2119" />
+      <edge id="386" source="#StandUp4Transportation" target="#sustainability" weight="2119" />
+      <edge id="387" source="#StandUp4Transportation" target="#Columbus" weight="2119" />
+      <edge id="388" source="#endhomelessness" target="#LUCC2013" weight="2119" />
+      <edge id="389" source="#endhomelessness" target="#FranklinCounty" weight="2119" />
+      <edge id="390" source="#OneGoal" target="#Pelotonia14" weight="4238" />
+      <edge id="391" source="#NHLBreakawayJohansen" target="#CBJ" weight="2119" />
+      <edge id="392" source="#hiring" target="#job" weight="4238" />
+      <edge id="393" source="#veterans" target="#FranklinCounty" weight="2119" />
+      <edge id="394" source="#VAWA" target="#House" weight="2119" />
+      <edge id="395" source="#VAWA" target="#RepPatTiberi" weight="2119" />
+      <edge id="396" source="#TeamColumbus" target="#Bringit" weight="2119" />
+      <edge id="397" source="#job" target="#ChildSupport" weight="2119" />
+      <edge id="398" source="#job" target="#EconDev" weight="6357" />
+      <edge id="399" source="#FranklinCounty" target="#OneDay" weight="2119" />
+      <edge id="400" source="#FranklinCounty" target="#aging" weight="2119" />
+      <edge id="401" source="#FranklinCounty" target="#HolidayWish" weight="2119" />
+      <edge id="402" source="#FranklinCounty" target="#ChickensDucksRabbits" weight="8476" />
+      <edge id="403" source="#FranklinCounty" target="#JobTraining" weight="2119" />
+      <edge id="404" source="#FranklinCounty" target="#LUCC2013" weight="6357" />
+      <edge id="405" source="#FranklinCounty" target="#VeggieSNAPS" weight="2119" />
+      <edge id="406" source="#FranklinCounty" target="#SummerJob" weight="2119" />
+      <edge id="407" source="#FranklinCounty" target="#Volunteer" weight="2119" />
+      <edge id="408" source="#FranklinCounty" target="#asseenincolumbus" weight="2119" />
+      <edge id="409" source="#FranklinCounty" target="#CellPhones" weight="2119" />
+      <edge id="410" source="#FranklinCounty" target="#StPatricksDay" weight="2119" />
+      <edge id="411" source="#FranklinCounty" target="#FurryFriday" weight="2119" />
+      <edge id="412" source="#FranklinCounty" target="#Solar" weight="2119" />
+      <edge id="413" source="#FranklinCounty" target="#YouthWorks" weight="2119" />
+      <edge id="414" source="#FranklinCounty" target="#pets" weight="2119" />
+      <edge id="415" source="#FranklinCounty" target="#weather" weight="2119" />
+      <edge id="416" source="#FranklinCounty" target="#knowledgeeconomy" weight="2119" />
+      <edge id="417" source="#FranklinCounty" target="#Ohio" weight="6357" />
+      <edge id="418" source="#FranklinCounty" target="#econdev" weight="4238" />
+      <edge id="419" source="#FranklinCounty" target="#NewJobs" weight="2119" />
+      <edge id="420" source="#FranklinCounty" target="#editorial" weight="2119" />
+      <edge id="421" source="#FranklinCounty" target="#PurpleHeart" weight="2119" />
+      <edge id="422" source="#FranklinCounty" target="#Dog" weight="2119" />
+      <edge id="423" source="#FranklinCounty" target="#OSUExtension" weight="2119" />
+      <edge id="424" source="#FranklinCounty" target="#HappyHolidays" weight="2119" />
+      <edge id="425" source="#FranklinCounty" target="#BoilAlert" weight="2119" />
+      <edge id="426" source="#FranklinCounty" target="#CommunityGardens" weight="4238" />
+      <edge id="427" source="#FranklinCounty" target="#recycling" weight="2119" />
+      <edge id="428" source="#FranklinCounty" target="#FundingInnovation" weight="6357" />
+      <edge id="429" source="#FranklinCounty" target="#business" weight="2119" />
+      <edge id="430" source="#FranklinCounty" target="#EatHealthy" weight="2119" />
+      <edge id="431" source="#FranklinCounty" target="#ChildSupport" weight="6357" />
+      <edge id="432" source="#FranklinCounty" target="#Columbus" weight="16952" />
+      <edge id="433" source="#FranklinCounty" target="#SOAR2014" weight="2119" />
+      <edge id="434" source="#FranklinCounty" target="#OpFeed" weight="4238" />
+      <edge id="435" source="#SOAR2014" target="#Ohio" weight="2119" />
+      <edge id="436" source="#SOAR2014" target="#Columbus" weight="2119" />
+      <edge id="437" source="#FREE" target="#EITC" weight="2119" />
+      <edge id="438" source="#House" target="#RepPatTiberi" weight="2119" />
+      <edge id="439" source="#JobTraining" target="#ChildSupport" weight="2119" />
+      <edge id="440" source="#LUCC2013" target="#econdev" weight="4238" />
+      <edge id="441" source="#child" target="#camp" weight="2119" />
+      <edge id="442" source="#SummerJob" target="#YouthWorks" weight="2119" />
+      <edge id="443" source="#startups" target="#tech" weight="4238" />
+      <edge id="444" source="#startups" target="#FundingInnovation" weight="2119" />
+      <edge id="445" source="#sustainability" target="#Columbus" weight="2119" />
+      <edge id="446" source="#Volunteer" target="#Columbus" weight="2119" />
+      <edge id="447" source="#Volunteer" target="#LifeCare" weight="2119" />
+      <edge id="448" source="#LetsDoThis" target="#USMNT" weight="2119" />
+      <edge id="449" source="#LetsDoThis" target="#USAvsGER" weight="2119" />
+      <edge id="450" source="#EarthDay2014" target="#FranklinParkConservatory" weight="2119" />
+      <edge id="451" source="#cbusproud" target="#GoBucks" weight="2119" />
+      <edge id="452" source="#pets" target="#weather" weight="2119" />
+      <edge id="453" source="#knowledgeeconomy" target="#Columbus" weight="2119" />
+      <edge id="454" source="#knowledgeeconomy" target="#Ohio" weight="2119" />
+      <edge id="455" source="#Ohio" target="#business" weight="2119" />
+      <edge id="456" source="#Ohio" target="#Columbus" weight="4238" />
+      <edge id="457" source="#USMNT" target="#USAvsGER" weight="2119" />
+      <edge id="458" source="#econdev" target="#Columbus" weight="4238" />
+      <edge id="459" source="#MLSCup" target="#ForTheCup" weight="2119" />
+      <edge id="460" source="#asseenincolumbus" target="#Columbus" weight="2119" />
+      <edge id="461" source="#tech" target="#FundingInnovation" weight="2119" />
+      <edge id="462" source="#Retailers" target="#retail14" weight="2119" />
+      <edge id="463" source="#raingardens" target="#raingardens" weight="4238" />
+      <edge id="464" source="#ChildSupport" target="#SupportisKey" weight="6357" />
+      <edge id="465" source="#Columbus" target="#holiday" weight="2119" />
+    </edges>
+  </graph>
+</gexf>

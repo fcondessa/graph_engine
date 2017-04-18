@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Syria" label="#Syria" />
+      <node id="#Florida" label="#Florida" />
+      <node id="#VPDebate" label="#VPDebate" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#surge" label="#surge" />
+      <node id="#NLCS" label="#NLCS" />
+      <node id="#PalmBeach" label="#PalmBeach" />
+      <node id="#TheAmericans" label="#TheAmericans" />
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#shaw" label="#shaw" />
+      <node id="#Emmys" label="#Emmys" />
+      <node id="#saudi" label="#saudi" />
+      <node id="#blm" label="#blm" />
+      <node id="#JASTA" label="#JASTA" />
+      <node id="#blacklivesmatter" label="#blacklivesmatter" />
+      <node id="#flooding" label="#flooding" />
+      <node id="#CUBS" label="#CUBS" />
+      <node id="#bbcpapers" label="#bbcpapers" />
+      <node id="#tomorrowspaperstoday" label="#tomorrowspaperstoday" />
+      <node id="#fundraiser" label="#fundraiser" />
+      <node id="#Iraq" label="#Iraq" />
+      <node id="#AdmiralKuznetsov" label="#AdmiralKuznetsov" />
+      <node id="#Mosul" label="#Mosul" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Syria" target="#AdmiralKuznetsov" weight="3203" />
+      <edge id="1" source="#Florida" target="#PalmBeach" weight="3203" />
+      <edge id="2" source="#VPDebate" target="#Debates2016" weight="3203" />
+      <edge id="3" source="#VPDebate" target="#debatenight" weight="3203" />
+      <edge id="4" source="#WorldSeries" target="#NLCS" weight="3203" />
+      <edge id="5" source="#WorldSeries" target="#CUBS" weight="3203" />
+      <edge id="6" source="#surge" target="#flooding" weight="3203" />
+      <edge id="7" source="#NLCS" target="#CUBS" weight="3203" />
+      <edge id="8" source="#TheAmericans" target="#Emmys" weight="3203" />
+      <edge id="9" source="#Debates2016" target="#debatenight" weight="3203" />
+      <edge id="10" source="#shaw" target="#fundraiser" weight="3203" />
+      <edge id="11" source="#saudi" target="#JASTA" weight="3203" />
+      <edge id="12" source="#blm" target="#blacklivesmatter" weight="3203" />
+      <edge id="13" source="#bbcpapers" target="#tomorrowspaperstoday" weight="3203" />
+      <edge id="14" source="#Iraq" target="#Mosul" weight="3203" />
+    </edges>
+  </graph>
+</gexf>

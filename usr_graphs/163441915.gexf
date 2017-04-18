@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#fruit" label="#fruit" />
+      <node id="#ohmystars" label="#ohmystars" />
+      <node id="#cheeseup" label="#cheeseup" />
+      <node id="#karma" label="#karma" />
+      <node id="#DIDYOUKNOW" label="#DIDYOUKNOW" />
+      <node id="#asif" label="#asif" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#TheTwixlens" label="#TheTwixlens" />
+      <node id="#cbusr" label="#cbusr" />
+      <node id="#TaterDay" label="#TaterDay" />
+      <node id="#Twixlens" label="#Twixlens" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#nothingtosnortat" label="#nothingtosnortat" />
+      <node id="#OSUTrivia" label="#OSUTrivia" />
+      <node id="#TheTwixlenCocktailbot" label="#TheTwixlenCocktailbot" />
+      <node id="#serendipity" label="#serendipity" />
+      <node id="#makethatadoubleplease" label="#makethatadoubleplease" />
+      <node id="#blog" label="#blog" />
+      <node id="#finetuning" label="#finetuning" />
+      <node id="#honestly" label="#honestly" />
+      <node id="#FF" label="#FF" />
+      <node id="#justsaying" label="#justsaying" />
+      <node id="#beep" label="#beep" />
+      <node id="#culinary" label="#culinary" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#food" label="#food" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#21stcenturyThelmaandLouises" label="#21stcenturyThelmaandLouises" />
+      <node id="#dorkoff" label="#dorkoff" />
+      <node id="#RestaurantWeek" label="#RestaurantWeek" />
+      <node id="#snap" label="#snap" />
+      <node id="#TheTwixlen" label="#TheTwixlen" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#fruit" target="#cheeseup" weight="1269" />
+      <edge id="1" source="#ohmystars" target="#asif" weight="1269" />
+      <edge id="2" source="#ohmystars" target="#21stcenturyThelmaandLouises" weight="1269" />
+      <edge id="3" source="#karma" target="#serendipity" weight="1269" />
+      <edge id="4" source="#DIDYOUKNOW" target="#OSUTrivia" weight="1269" />
+      <edge id="5" source="#DIDYOUKNOW" target="#OhioState" weight="1269" />
+      <edge id="6" source="#asif" target="#21stcenturyThelmaandLouises" weight="1269" />
+      <edge id="7" source="#Ohio" target="#blog" weight="1269" />
+      <edge id="8" source="#Ohio" target="#food" weight="1269" />
+      <edge id="9" source="#Ohio" target="#culinary" weight="1269" />
+      <edge id="10" source="#TheTwixlens" target="#TheTwixlenCocktailbot" weight="1269" />
+      <edge id="11" source="#cbusr" target="#snap" weight="1269" />
+      <edge id="12" source="#TaterDay" target="#honestly" weight="1269" />
+      <edge id="13" source="#Twixlens" target="#TheTwixlenCocktailbot" weight="1269" />
+      <edge id="14" source="#OhioState" target="#OSUTrivia" weight="1269" />
+      <edge id="15" source="#nothingtosnortat" target="#TheTwixlen" weight="1269" />
+      <edge id="16" source="#makethatadoubleplease" target="#TheTwixlen" weight="1269" />
+      <edge id="17" source="#blog" target="#food" weight="1269" />
+      <edge id="18" source="#blog" target="#culinary" weight="1269" />
+      <edge id="19" source="#finetuning" target="#TheTwixlen" weight="1269" />
+      <edge id="20" source="#FF" target="#RestaurantWeek" weight="1269" />
+      <edge id="21" source="#justsaying" target="#dorkoff" weight="1269" />
+      <edge id="22" source="#beep" target="#beep" weight="2538" />
+      <edge id="23" source="#culinary" target="#food" weight="1269" />
+      <edge id="24" source="#StPatricksDay" target="#Columbus" weight="1269" />
+      <edge id="25" source="#TheTwixlen" target="#TheTwixlen" weight="2538" />
+    </edges>
+  </graph>
+</gexf>

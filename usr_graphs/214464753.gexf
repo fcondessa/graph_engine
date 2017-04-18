@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#majorrecordlabel" label="#majorrecordlabel" />
+      <node id="#auditions" label="#auditions" />
+      <node id="#Verify" label="#Verify" />
+      <node id="#drummer" label="#drummer" />
+      <node id="#drummerwanted" label="#drummerwanted" />
+      <node id="#jimmescene" label="#jimmescene" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#majorrecordlabel" target="#drummer" weight="3194" />
+      <edge id="1" source="#majorrecordlabel" target="#drummerwanted" weight="3194" />
+      <edge id="2" source="#majorrecordlabel" target="#auditions" weight="3194" />
+      <edge id="3" source="#auditions" target="#drummer" weight="3194" />
+      <edge id="4" source="#auditions" target="#drummerwanted" weight="3194" />
+      <edge id="5" source="#Verify" target="#jimmescene" weight="105402" />
+      <edge id="6" source="#drummer" target="#drummerwanted" weight="3194" />
+    </edges>
+  </graph>
+</gexf>

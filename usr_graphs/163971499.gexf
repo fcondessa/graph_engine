@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#drink" label="#drink" />
+      <node id="#USNavy" label="#USNavy" />
+      <node id="#MakeAmericaGreatAgain" label="#MakeAmericaGreatAgain" />
+      <node id="#Yemen" label="#Yemen" />
+      <node id="#abortion" label="#abortion" />
+      <node id="#USSMason" label="#USSMason" />
+      <node id="#debate" label="#debate" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#Trump" label="#Trump" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#drink" target="#debate" weight="3232" />
+      <edge id="1" source="#USNavy" target="#USSMason" weight="3232" />
+      <edge id="2" source="#USNavy" target="#BREAKING" weight="3232" />
+      <edge id="3" source="#USNavy" target="#Yemen" weight="3232" />
+      <edge id="4" source="#MakeAmericaGreatAgain" target="#Trump" weight="3232" />
+      <edge id="5" source="#Yemen" target="#USSMason" weight="3232" />
+      <edge id="6" source="#Yemen" target="#BREAKING" weight="3232" />
+      <edge id="7" source="#abortion" target="#debate" weight="3232" />
+      <edge id="8" source="#USSMason" target="#BREAKING" weight="3232" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#theapprentice" label="#theapprentice" />
+      <node id="#VPDebate" label="#VPDebate" />
+      <node id="#strategy" label="#strategy" />
+      <node id="#business" label="#business" />
+      <node id="#debate" label="#debate" />
+      <node id="#MikePence" label="#MikePence" />
+      <node id="#debates" label="#debates" />
+      <node id="#paidleave" label="#paidleave" />
+      <node id="#wisen" label="#wisen" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#FactCheck" label="#FactCheck" />
+      <node id="#APFactCheck" label="#APFactCheck" />
+      <node id="#ThatMexicanThing" label="#ThatMexicanThing" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#equalpay" label="#equalpay" />
+      <node id="#topprog" label="#topprog" />
+      <node id="#TrumpBookReport" label="#TrumpBookReport" />
+      <node id="#FairHousingAct" label="#FairHousingAct" />
+      <node id="#NYT" label="#NYT" />
+      <node id="#PenceLies" label="#PenceLies" />
+      <node id="#GiveMoreThanTrump" label="#GiveMoreThanTrump" />
+      <node id="#KansasPlot" label="#KansasPlot" />
+      <node id="#money" label="#money" />
+      <node id="#trumptapes" label="#trumptapes" />
+      <node id="#wipolitics" label="#wipolitics" />
+      <node id="#np" label="#np" />
+      <node id="#SoundCloud" label="#SoundCloud" />
+      <node id="#MWA" label="#MWA" />
+      <node id="#GardenCity" label="#GardenCity" />
+      <node id="#p2" label="#p2" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#theapprentice" target="#trumptapes" weight="3216" />
+      <edge id="1" source="#VPDebate" target="#PenceLies" weight="3216" />
+      <edge id="2" source="#VPDebate" target="#FactCheck" weight="3216" />
+      <edge id="3" source="#VPDebate" target="#APFactCheck" weight="3216" />
+      <edge id="4" source="#VPDebate" target="#FairHousingAct" weight="3216" />
+      <edge id="5" source="#strategy" target="#marketing" weight="170448" />
+      <edge id="6" source="#business" target="#money" weight="19296" />
+      <edge id="7" source="#debate" target="#debatenight" weight="3216" />
+      <edge id="8" source="#MikePence" target="#debates" weight="3216" />
+      <edge id="9" source="#paidleave" target="#equalpay" weight="3216" />
+      <edge id="10" source="#wisen" target="#wipolitics" weight="3216" />
+      <edge id="11" source="#ThatMexicanThing" target="#p2" weight="3216" />
+      <edge id="12" source="#ThatMexicanThing" target="#topprog" weight="3216" />
+      <edge id="13" source="#topprog" target="#GiveMoreThanTrump" weight="3216" />
+      <edge id="14" source="#topprog" target="#NYT" weight="611040" />
+      <edge id="15" source="#topprog" target="#TrumpBookReport" weight="3216" />
+      <edge id="16" source="#topprog" target="#p2" weight="4756464" />
+      <edge id="17" source="#TrumpBookReport" target="#p2" weight="3216" />
+      <edge id="18" source="#NYT" target="#p2" weight="611040" />
+      <edge id="19" source="#GiveMoreThanTrump" target="#p2" weight="3216" />
+      <edge id="20" source="#KansasPlot" target="#GardenCity" weight="3216" />
+      <edge id="21" source="#np" target="#SoundCloud" weight="3216" />
+      <edge id="22" source="#np" target="#MWA" weight="3216" />
+      <edge id="23" source="#SoundCloud" target="#MWA" weight="3216" />
+    </edges>
+  </graph>
+</gexf>

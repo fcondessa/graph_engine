@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Sunday" label="#Sunday" />
+      <node id="#TheShoe" label="#TheShoe" />
+      <node id="#Hurricane" label="#Hurricane" />
+      <node id="#epidemic" label="#epidemic" />
+      <node id="#Rutgers" label="#Rutgers" />
+      <node id="#TRAFFIC" label="#TRAFFIC" />
+      <node id="#education" label="#education" />
+      <node id="#NeverForget" label="#NeverForget" />
+      <node id="#SteamFog" label="#SteamFog" />
+      <node id="#VPDebate" label="#VPDebate" />
+      <node id="#ITT" label="#ITT" />
+      <node id="#DebateNight" label="#DebateNight" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#GalaxyNote7" label="#GalaxyNote7" />
+      <node id="#osuhomecoming" label="#osuhomecoming" />
+      <node id="#Tech" label="#Tech" />
+      <node id="#PennState" label="#PennState" />
+      <node id="#scriptohio" label="#scriptohio" />
+      <node id="#OH" label="#OH" />
+      <node id="#everywhere" label="#everywhere" />
+      <node id="#debate" label="#debate" />
+      <node id="#HomeComingOSU" label="#HomeComingOSU" />
+      <node id="#HurricaneMatthew" label="#HurricaneMatthew" />
+      <node id="#NationalDogDay" label="#NationalDogDay" />
+      <node id="#HenryGreen" label="#HenryGreen" />
+      <node id="#BeatPSU" label="#BeatPSU" />
+      <node id="#10tv" label="#10tv" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#happy" label="#happy" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#OSUvsIU" label="#OSUvsIU" />
+      <node id="#OSUvsWIS" label="#OSUvsWIS" />
+      <node id="#OSUvsPSU" label="#OSUvsPSU" />
+      <node id="#BeatRutgers" label="#BeatRutgers" />
+      <node id="#Doppler10" label="#Doppler10" />
+      <node id="#ohwx" label="#ohwx" />
+      <node id="#Campaign2016" label="#Campaign2016" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#Everywhere" label="#Everywhere" />
+      <node id="#OSUvsOU" label="#OSUvsOU" />
+      <node id="#GoldenCorral" label="#GoldenCorral" />
+      <node id="#yummm" label="#yummm" />
+      <node id="#TRUMP" label="#TRUMP" />
+      <node id="#TyreeKing" label="#TyreeKing" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#Fog" label="#Fog" />
+      <node id="#StopWhitePeople2K16" label="#StopWhitePeople2K16" />
+      <node id="#KneeForTyre" label="#KneeForTyre" />
+      <node id="#WaiteHS" label="#WaiteHS" />
+      <node id="#Chillicothe" label="#Chillicothe" />
+      <node id="#NorthSide" label="#NorthSide" />
+      <node id="#storms" label="#storms" />
+      <node id="#GameDay" label="#GameDay" />
+      <node id="#raining" label="#raining" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#OldBagofNails" label="#OldBagofNails" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#Cubs" label="#Cubs" />
+      <node id="#Debate" label="#Debate" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#10TV" label="#10TV" />
+      <node id="#NationalCoffeeDay" label="#NationalCoffeeDay" />
+      <node id="#ZikaVirus" label="#ZikaVirus" />
+      <node id="#CrimeStoppers" label="#CrimeStoppers" />
+      <node id="#HeartlandProject" label="#HeartlandProject" />
+      <node id="#Matthew" label="#Matthew" />
+      <node id="#Buckcyes" label="#Buckcyes" />
+      <node id="#BGSU" label="#BGSU" />
+      <node id="#TyreKing" label="#TyreKing" />
+      <node id="#Believeland" label="#Believeland" />
+      <node id="#Londonderry" label="#Londonderry" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#FranklinTwp" label="#FranklinTwp" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#SundaySchool" label="#SundaySchool" />
+      <node id="#drenched" label="#drenched" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Sunday" target="#SteamFog" weight="3240" />
+      <edge id="1" source="#Sunday" target="#Everywhere" weight="3240" />
+      <edge id="2" source="#Sunday" target="#ohwx" weight="3240" />
+      <edge id="3" source="#TheShoe" target="#happy" weight="3240" />
+      <edge id="4" source="#TheShoe" target="#drenched" weight="3240" />
+      <edge id="5" source="#TheShoe" target="#10TV" weight="3240" />
+      <edge id="6" source="#Hurricane" target="#Matthew" weight="3240" />
+      <edge id="7" source="#epidemic" target="#education" weight="3240" />
+      <edge id="8" source="#epidemic" target="#OH" weight="3240" />
+      <edge id="9" source="#Rutgers" target="#Buckeyes" weight="3240" />
+      <edge id="10" source="#TRAFFIC" target="#10TV" weight="16200" />
+      <edge id="11" source="#education" target="#OH" weight="3240" />
+      <edge id="12" source="#NeverForget" target="#10TV" weight="3240" />
+      <edge id="13" source="#SteamFog" target="#Everywhere" weight="3240" />
+      <edge id="14" source="#SteamFog" target="#ohwx" weight="3240" />
+      <edge id="15" source="#VPDebate" target="#10TV" weight="6480" />
+      <edge id="16" source="#ITT" target="#OH" weight="3240" />
+      <edge id="17" source="#ITT" target="#Tech" weight="3240" />
+      <edge id="18" source="#DebateNight" target="#10tv" weight="71280" />
+      <edge id="19" source="#WorldSeries" target="#Indians" weight="3240" />
+      <edge id="20" source="#WorldSeries" target="#Cubs" weight="3240" />
+      <edge id="21" source="#GalaxyNote7" target="#10TV" weight="3240" />
+      <edge id="22" source="#osuhomecoming" target="#scriptohio" weight="3240" />
+      <edge id="23" source="#osuhomecoming" target="#GoBucks" weight="3240" />
+      <edge id="24" source="#Tech" target="#OH" weight="3240" />
+      <edge id="25" source="#PennState" target="#OSUvsPSU" weight="3240" />
+      <edge id="26" source="#PennState" target="#Buckeyes" weight="3240" />
+      <edge id="27" source="#PennState" target="#OhioState" weight="3240" />
+      <edge id="28" source="#scriptohio" target="#GoBucks" weight="3240" />
+      <edge id="29" source="#OH" target="#Toledo" weight="3240" />
+      <edge id="30" source="#OH" target="#Londonderry" weight="3240" />
+      <edge id="31" source="#OH" target="#WaiteHS" weight="3240" />
+      <edge id="32" source="#OH" target="#Chillicothe" weight="3240" />
+      <edge id="33" source="#OH" target="#TyreKing" weight="3240" />
+      <edge id="34" source="#OH" target="#OldBagofNails" weight="3240" />
+      <edge id="35" source="#OH" target="#FranklinTwp" weight="3240" />
+      <edge id="36" source="#OH" target="#GoldenCorral" weight="3240" />
+      <edge id="37" source="#OH" target="#CrimeStoppers" weight="3240" />
+      <edge id="38" source="#OH" target="#Columbus" weight="12960" />
+      <edge id="39" source="#OH" target="#BREAKING" weight="3240" />
+      <edge id="40" source="#everywhere" target="#KneeForTyre" weight="3240" />
+      <edge id="41" source="#debate" target="#10tv" weight="103680" />
+      <edge id="42" source="#HomeComingOSU" target="#10TV" weight="3240" />
+      <edge id="43" source="#HurricaneMatthew" target="#Periscope" weight="3240" />
+      <edge id="44" source="#HurricaneMatthew" target="#10tv" weight="3240" />
+      <edge id="45" source="#HurricaneMatthew" target="#10TV" weight="3240" />
+      <edge id="46" source="#NationalDogDay" target="#10TV" weight="3240" />
+      <edge id="47" source="#HenryGreen" target="#TyreKing" weight="3240" />
+      <edge id="48" source="#BeatPSU" target="#10TV" weight="6480" />
+      <edge id="49" source="#10tv" target="#10TV" weight="3240" />
+      <edge id="50" source="#10tv" target="#ohwx" weight="12960" />
+      <edge id="51" source="#10tv" target="#Everywhere" weight="22680" />
+      <edge id="52" source="#10tv" target="#Debate" weight="93960" />
+      <edge id="53" source="#BlackLivesMatter" target="#10TV" weight="3240" />
+      <edge id="54" source="#happy" target="#drenched" weight="3240" />
+      <edge id="55" source="#OhioState" target="#OSUvsPSU" weight="9720" />
+      <edge id="56" source="#OhioState" target="#Buckeyes" weight="22680" />
+      <edge id="57" source="#OhioState" target="#GameDay" weight="3240" />
+      <edge id="58" source="#OhioState" target="#10TV" weight="58320" />
+      <edge id="59" source="#OSUvsIU" target="#10TV" weight="3240" />
+      <edge id="60" source="#OSUvsWIS" target="#Buckeyes" weight="3240" />
+      <edge id="61" source="#OSUvsWIS" target="#10TV" weight="3240" />
+      <edge id="62" source="#OSUvsPSU" target="#Buckeyes" weight="9720" />
+      <edge id="63" source="#OSUvsPSU" target="#10TV" weight="38880" />
+      <edge id="64" source="#BeatRutgers" target="#10TV" weight="3240" />
+      <edge id="65" source="#BeatRutgers" target="#GoBucks" weight="3240" />
+      <edge id="66" source="#Doppler10" target="#10TV" weight="3240" />
+      <edge id="67" source="#ohwx" target="#10TV" weight="6480" />
+      <edge id="68" source="#ohwx" target="#storms" weight="3240" />
+      <edge id="69" source="#ohwx" target="#Everywhere" weight="22680" />
+      <edge id="70" source="#Campaign2016" target="#10TV" weight="3240" />
+      <edge id="71" source="#Buckeyes" target="#10TV" weight="168480" />
+      <edge id="72" source="#Buckeyes" target="#BGSU" weight="3240" />
+      <edge id="73" source="#Everywhere" target="#Fog" weight="3240" />
+      <edge id="74" source="#Everywhere" target="#10TV" weight="12960" />
+      <edge id="75" source="#Everywhere" target="#raining" weight="3240" />
+      <edge id="76" source="#OSUvsOU" target="#SundaySchool" weight="3240" />
+      <edge id="77" source="#OSUvsOU" target="#10TV" weight="32400" />
+      <edge id="78" source="#GoldenCorral" target="#Columbus" weight="3240" />
+      <edge id="79" source="#GoldenCorral" target="#CrimeStoppers" weight="3240" />
+      <edge id="80" source="#yummm" target="#10TV" weight="3240" />
+      <edge id="81" source="#TRUMP" target="#10TV" weight="3240" />
+      <edge id="82" source="#TyreeKing" target="#10TV" weight="6480" />
+      <edge id="83" source="#debatenight" target="#10TV" weight="3240" />
+      <edge id="84" source="#StopWhitePeople2K16" target="#10TV" weight="3240" />
+      <edge id="85" source="#WaiteHS" target="#Toledo" weight="3240" />
+      <edge id="86" source="#NorthSide" target="#10TV" weight="3240" />
+      <edge id="87" source="#Indians" target="#Cubs" weight="3240" />
+      <edge id="88" source="#Columbus" target="#10TV" weight="9720" />
+      <edge id="89" source="#Columbus" target="#CrimeStoppers" weight="3240" />
+      <edge id="90" source="#Columbus" target="#TyreKing" weight="3240" />
+      <edge id="91" source="#Apple" target="#10TV" weight="3240" />
+      <edge id="92" source="#Debate" target="#10TV" weight="3240" />
+      <edge id="93" source="#GoBucks" target="#10TV" weight="3240" />
+      <edge id="94" source="#10TV" target="#10TV" weight="6480" />
+      <edge id="95" source="#10TV" target="#Buckcyes" weight="3240" />
+      <edge id="96" source="#10TV" target="#ZikaVirus" weight="3240" />
+      <edge id="97" source="#10TV" target="#HeartlandProject" weight="6480" />
+      <edge id="98" source="#10TV" target="#TyreKing" weight="3240" />
+      <edge id="99" source="#10TV" target="#Believeland" weight="3240" />
+      <edge id="100" source="#10TV" target="#NationalCoffeeDay" weight="3240" />
+      <edge id="101" source="#10TV" target="#BREAKING" weight="97200" />
+      <edge id="102" source="#FranklinTwp" target="#BREAKING" weight="3240" />
+    </edges>
+  </graph>
+</gexf>

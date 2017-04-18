@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#StephGonnaSteph" label="#StephGonnaSteph" />
+      <node id="#KevinDurant" label="#KevinDurant" />
+      <node id="#NBAFinalsVote" label="#NBAFinalsVote" />
+      <node id="#StrengthInNumbers" label="#StrengthInNumbers" />
+      <node id="#Broncos" label="#Broncos" />
+      <node id="#NBAFreeAgency" label="#NBAFreeAgency" />
+      <node id="#NLDS" label="#NLDS" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#Reportnow" label="#Reportnow" />
+      <node id="#StephCurry" label="#StephCurry" />
+      <node id="#playoffs" label="#playoffs" />
+      <node id="#DubNation" label="#DubNation" />
+      <node id="#Durant" label="#Durant" />
+      <node id="#NLCS" label="#NLCS" />
+      <node id="#warriors" label="#warriors" />
+      <node id="#Curry" label="#Curry" />
+      <node id="#BabyWhaleFace" label="#BabyWhaleFace" />
+      <node id="#JustBrian" label="#JustBrian" />
+      <node id="#KT11" label="#KT11" />
+      <node id="#Timberwolves" label="#Timberwolves" />
+      <node id="#BeliEVEN" label="#BeliEVEN" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#BeatLA" label="#BeatLA" />
+      <node id="#BeepBeep" label="#BeepBeep" />
+      <node id="#ThanksCoach" label="#ThanksCoach" />
+      <node id="#DG23" label="#DG23" />
+      <node id="#Panthers" label="#Panthers" />
+      <node id="#CoachingCorps" label="#CoachingCorps" />
+      <node id="#SB50" label="#SB50" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#LockIn" label="#LockIn" />
+      <node id="#VoteBelt" label="#VoteBelt" />
+      <node id="#DiaDeCueto" label="#DiaDeCueto" />
+      <node id="#BeatTheCubs" label="#BeatTheCubs" />
+      <node id="#ASGWorthy" label="#ASGWorthy" />
+      <node id="#VamoQVamo" label="#VamoQVamo" />
+      <node id="#dubsnation" label="#dubsnation" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#StephGonnaSteph" target="#Warriors" weight="6402" />
+      <edge id="1" source="#StephGonnaSteph" target="#DubNation" weight="3201" />
+      <edge id="2" source="#KevinDurant" target="#NBAFreeAgency" weight="3201" />
+      <edge id="3" source="#KevinDurant" target="#Timberwolves" weight="3201" />
+      <edge id="4" source="#KevinDurant" target="#Warriors" weight="3201" />
+      <edge id="5" source="#NBAFinalsVote" target="#DubNation" weight="3201" />
+      <edge id="6" source="#StrengthInNumbers" target="#DubNation" weight="3201" />
+      <edge id="7" source="#Broncos" target="#SB50" weight="3201" />
+      <edge id="8" source="#NBAFreeAgency" target="#Timberwolves" weight="3201" />
+      <edge id="9" source="#NBAFreeAgency" target="#Warriors" weight="3201" />
+      <edge id="10" source="#NLDS" target="#BeliEVEN" weight="3201" />
+      <edge id="11" source="#NBA" target="#Warriors" weight="6402" />
+      <edge id="12" source="#Reportnow" target="#SFGiants" weight="3201" />
+      <edge id="13" source="#StephCurry" target="#Warriors" weight="3201" />
+      <edge id="14" source="#playoffs" target="#Warriors" weight="3201" />
+      <edge id="15" source="#DubNation" target="#Warriors" weight="6402" />
+      <edge id="16" source="#Durant" target="#Warriors" weight="3201" />
+      <edge id="17" source="#NLCS" target="#SFGiants" weight="3201" />
+      <edge id="18" source="#warriors" target="#dubsnation" weight="3201" />
+      <edge id="19" source="#Curry" target="#Warriors" weight="3201" />
+      <edge id="20" source="#BabyWhaleFace" target="#JustBrian" weight="3201" />
+      <edge id="21" source="#KT11" target="#DG23" weight="3201" />
+      <edge id="22" source="#Timberwolves" target="#Warriors" weight="3201" />
+      <edge id="23" source="#Warriors" target="#LockIn" weight="3201" />
+      <edge id="24" source="#Warriors" target="#SFGiants" weight="3201" />
+      <edge id="25" source="#Warriors" target="#BeepBeep" weight="3201" />
+      <edge id="26" source="#Warriors" target="#dubsnation" weight="3201" />
+      <edge id="27" source="#Warriors" target="#VamoQVamo" weight="3201" />
+      <edge id="28" source="#BeatLA" target="#SFGiants" weight="3201" />
+      <edge id="29" source="#BeepBeep" target="#LockIn" weight="3201" />
+      <edge id="30" source="#BeepBeep" target="#VamoQVamo" weight="3201" />
+      <edge id="31" source="#ThanksCoach" target="#CoachingCorps" weight="3201" />
+      <edge id="32" source="#Panthers" target="#SB50" weight="3201" />
+      <edge id="33" source="#SFGiants" target="#DiaDeCueto" weight="3201" />
+      <edge id="34" source="#SFGiants" target="#BeatTheCubs" weight="6402" />
+      <edge id="35" source="#SFGiants" target="#ASGWorthy" weight="3201" />
+      <edge id="36" source="#SFGiants" target="#VoteBelt" weight="6402" />
+      <edge id="37" source="#LockIn" target="#VamoQVamo" weight="3201" />
+      <edge id="38" source="#VoteBelt" target="#ASGWorthy" weight="3201" />
+    </edges>
+  </graph>
+</gexf>

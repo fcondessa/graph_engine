@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#combinedheatandpower" label="#combinedheatandpower" />
+      <node id="#emissions" label="#emissions" />
+      <node id="#ProtectOHRPS" label="#ProtectOHRPS" />
+      <node id="#cleanwater" label="#cleanwater" />
+      <node id="#energyefficiency" label="#energyefficiency" />
+      <node id="#powerahead" label="#powerahead" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#renewable" label="#renewable" />
+      <node id="#cleanenergy" label="#cleanenergy" />
+      <node id="#dirtybailout" label="#dirtybailout" />
+      <node id="#CleanPowerPlan" label="#CleanPowerPlan" />
+      <node id="#RenewableEnergy" label="#RenewableEnergy" />
+      <node id="#StopSB58" label="#StopSB58" />
+      <node id="#RPS" label="#RPS" />
+      <node id="#CHP" label="#CHP" />
+      <node id="#OhioEnergy" label="#OhioEnergy" />
+      <node id="#fightthehikes" label="#fightthehikes" />
+      <node id="#cleanenergysaves" label="#cleanenergysaves" />
+      <node id="#HeartlandInstitute" label="#HeartlandInstitute" />
+      <node id="#wind" label="#wind" />
+      <node id="#ActOnClimate" label="#ActOnClimate" />
+      <node id="#cleanair" label="#cleanair" />
+      <node id="#SB310" label="#SB310" />
+      <node id="#energy" label="#energy" />
+      <node id="#SmallBiz" label="#SmallBiz" />
+      <node id="#SC2019Summit" label="#SC2019Summit" />
+      <node id="#StopSB310" label="#StopSB310" />
+      <node id="#Fracking" label="#Fracking" />
+      <node id="#EnergyEfficiency" label="#EnergyEfficiency" />
+      <node id="#CleanEnergy" label="#CleanEnergy" />
+      <node id="#CoalCosts" label="#CoalCosts" />
+      <node id="#CleanEnergyOhio" label="#CleanEnergyOhio" />
+      <node id="#Solar" label="#Solar" />
+      <node id="#OHCleanEnergy" label="#OHCleanEnergy" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#OH" label="#OH" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#combinedheatandpower" target="#emissions" weight="195" />
+      <edge id="1" source="#combinedheatandpower" target="#CHP" weight="195" />
+      <edge id="2" source="#emissions" target="#CHP" weight="195" />
+      <edge id="3" source="#ProtectOHRPS" target="#Solar" weight="195" />
+      <edge id="4" source="#ProtectOHRPS" target="#OH" weight="195" />
+      <edge id="5" source="#ProtectOHRPS" target="#CleanEnergy" weight="195" />
+      <edge id="6" source="#ProtectOHRPS" target="#RPS" weight="195" />
+      <edge id="7" source="#ProtectOHRPS" target="#Ohio" weight="195" />
+      <edge id="8" source="#cleanwater" target="#RenewableEnergy" weight="195" />
+      <edge id="9" source="#cleanwater" target="#cleanair" weight="195" />
+      <edge id="10" source="#cleanwater" target="#EnergyEfficiency" weight="195" />
+      <edge id="11" source="#energyefficiency" target="#OH" weight="195" />
+      <edge id="12" source="#energyefficiency" target="#CleanEnergyOhio" weight="195" />
+      <edge id="13" source="#powerahead" target="#CleanPowerPlan" weight="195" />
+      <edge id="14" source="#Ohio" target="#CleanEnergy" weight="195" />
+      <edge id="15" source="#Ohio" target="#SmallBiz" weight="195" />
+      <edge id="16" source="#Ohio" target="#Solar" weight="195" />
+      <edge id="17" source="#Ohio" target="#OHCleanEnergy" weight="195" />
+      <edge id="18" source="#Ohio" target="#energy" weight="195" />
+      <edge id="19" source="#renewable" target="#EnergyEfficiency" weight="195" />
+      <edge id="20" source="#cleanenergy" target="#CleanEnergyOhio" weight="195" />
+      <edge id="21" source="#cleanenergy" target="#EnergyEfficiency" weight="195" />
+      <edge id="22" source="#dirtybailout" target="#fightthehikes" weight="195" />
+      <edge id="23" source="#dirtybailout" target="#CoalCosts" weight="195" />
+      <edge id="24" source="#dirtybailout" target="#cleanenergysaves" weight="195" />
+      <edge id="25" source="#CleanPowerPlan" target="#ActOnClimate" weight="390" />
+      <edge id="26" source="#RenewableEnergy" target="#cleanair" weight="195" />
+      <edge id="27" source="#RenewableEnergy" target="#EnergyEfficiency" weight="195" />
+      <edge id="28" source="#StopSB58" target="#SC2019Summit" weight="195" />
+      <edge id="29" source="#RPS" target="#HeartlandInstitute" weight="195" />
+      <edge id="30" source="#RPS" target="#OH" weight="195" />
+      <edge id="31" source="#OhioEnergy" target="#StopSB310" weight="195" />
+      <edge id="32" source="#fightthehikes" target="#cleanenergysaves" weight="195" />
+      <edge id="33" source="#fightthehikes" target="#CoalCosts" weight="195" />
+      <edge id="34" source="#cleanenergysaves" target="#CoalCosts" weight="195" />
+      <edge id="35" source="#wind" target="#SOTU" weight="195" />
+      <edge id="36" source="#ActOnClimate" target="#OHCleanEnergy" weight="195" />
+      <edge id="37" source="#cleanair" target="#EnergyEfficiency" weight="195" />
+      <edge id="38" source="#SB310" target="#OH" weight="195" />
+      <edge id="39" source="#SB310" target="#StopSB310" weight="195" />
+      <edge id="40" source="#energy" target="#SmallBiz" weight="195" />
+      <edge id="41" source="#Fracking" target="#CleanEnergyOhio" weight="195" />
+      <edge id="42" source="#EnergyEfficiency" target="#CleanEnergy" weight="195" />
+      <edge id="43" source="#EnergyEfficiency" target="#CleanEnergyOhio" weight="195" />
+      <edge id="44" source="#CleanEnergy" target="#Solar" weight="195" />
+    </edges>
+  </graph>
+</gexf>

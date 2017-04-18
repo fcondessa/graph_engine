@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#CENTRALDIVISIONCHAMPIONS" label="#CENTRALDIVISIONCHAMPIONS" />
+      <node id="#happythursday" label="#happythursday" />
+      <node id="#donkeyoftheday" label="#donkeyoftheday" />
+      <node id="#Buckeye" label="#Buckeye" />
+      <node id="#VPDebate" label="#VPDebate" />
+      <node id="#GoodMorning" label="#GoodMorning" />
+      <node id="#RALLYTOGETHER" label="#RALLYTOGETHER" />
+      <node id="#Duke" label="#Duke" />
+      <node id="#ALWildCard" label="#ALWildCard" />
+      <node id="#rescue" label="#rescue" />
+      <node id="#sunrise" label="#sunrise" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#MVP" label="#MVP" />
+      <node id="#thedonkeysanctuary" label="#thedonkeysanctuary" />
+      <node id="#foalfriday" label="#foalfriday" />
+      <node id="#DonkeysOfTheDay" label="#DonkeysOfTheDay" />
+      <node id="#donkeys" label="#donkeys" />
+      <node id="#dangeroushashtags" label="#dangeroushashtags" />
+      <node id="#basketball" label="#basketball" />
+      <node id="#drunkjosie" label="#drunkjosie" />
+      <node id="#PuppyBowXII" label="#PuppyBowXII" />
+      <node id="#BernieOrBust" label="#BernieOrBust" />
+      <node id="#Sweep" label="#Sweep" />
+      <node id="#TRIBELIVE" label="#TRIBELIVE" />
+      <node id="#TribeSpring" label="#TribeSpring" />
+      <node id="#TheClapper" label="#TheClapper" />
+      <node id="#Windians" label="#Windians" />
+      <node id="#awesomenessness" label="#awesomenessness" />
+      <node id="#Kentucky" label="#Kentucky" />
+      <node id="#ThunderClap" label="#ThunderClap" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#Deadpool" label="#Deadpool" />
+      <node id="#MyApathyIsReal" label="#MyApathyIsReal" />
+      <node id="#ICD10" label="#ICD10" />
+      <node id="#indians" label="#indians" />
+      <node id="#NOPANTSKI" label="#NOPANTSKI" />
+      <node id="#foal" label="#foal" />
+      <node id="#OnWisconsin" label="#OnWisconsin" />
+      <node id="#safe" label="#safe" />
+      <node id="#dog" label="#dog" />
+      <node id="#GimmeSaMoe" label="#GimmeSaMoe" />
+      <node id="#hashtagcity" label="#hashtagcity" />
+      <node id="#TX" label="#TX" />
+      <node id="#touchyourselftonight" label="#touchyourselftonight" />
+      <node id="#NoPressure" label="#NoPressure" />
+      <node id="#thisshitsjustbeer" label="#thisshitsjustbeer" />
+      <node id="#besafe" label="#besafe" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#besmart" label="#besmart" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#CENTRALDIVISIONCHAMPIONS" target="#NOPANTSKI" weight="3237" />
+      <edge id="1" source="#CENTRALDIVISIONCHAMPIONS" target="#RALLYTOGETHER" weight="3237" />
+      <edge id="2" source="#CENTRALDIVISIONCHAMPIONS" target="#TRIBELIVE" weight="3237" />
+      <edge id="3" source="#happythursday" target="#thedonkeysanctuary" weight="3237" />
+      <edge id="4" source="#happythursday" target="#donkeyoftheday" weight="3237" />
+      <edge id="5" source="#happythursday" target="#rescue" weight="3237" />
+      <edge id="6" source="#donkeyoftheday" target="#thedonkeysanctuary" weight="3237" />
+      <edge id="7" source="#donkeyoftheday" target="#rescue" weight="3237" />
+      <edge id="8" source="#Buckeye" target="#basketball" weight="6474" />
+      <edge id="9" source="#VPDebate" target="#ALWildCard" weight="3237" />
+      <edge id="10" source="#GoodMorning" target="#sunrise" weight="3237" />
+      <edge id="11" source="#RALLYTOGETHER" target="#NOPANTSKI" weight="3237" />
+      <edge id="12" source="#RALLYTOGETHER" target="#TRIBELIVE" weight="3237" />
+      <edge id="13" source="#Duke" target="#Kentucky" weight="3237" />
+      <edge id="14" source="#rescue" target="#safe" weight="3237" />
+      <edge id="15" source="#rescue" target="#foalfriday" weight="3237" />
+      <edge id="16" source="#rescue" target="#thedonkeysanctuary" weight="3237" />
+      <edge id="17" source="#rescue" target="#foal" weight="6474" />
+      <edge id="18" source="#drinkupcolumbus" target="#hashtagcity" weight="3237" />
+      <edge id="19" source="#drinkupcolumbus" target="#thisshitsjustbeer" weight="3237" />
+      <edge id="20" source="#drinkupcolumbus" target="#dangeroushashtags" weight="3237" />
+      <edge id="21" source="#MVP" target="#PuppyBowXII" weight="3237" />
+      <edge id="22" source="#thedonkeysanctuary" target="#DonkeysOfTheDay" weight="3237" />
+      <edge id="23" source="#thedonkeysanctuary" target="#donkeys" weight="3237" />
+      <edge id="24" source="#foalfriday" target="#foal" weight="3237" />
+      <edge id="25" source="#DonkeysOfTheDay" target="#donkeys" weight="3237" />
+      <edge id="26" source="#dangeroushashtags" target="#hashtagcity" weight="3237" />
+      <edge id="27" source="#dangeroushashtags" target="#thisshitsjustbeer" weight="3237" />
+      <edge id="28" source="#drunkjosie" target="#Indians" weight="3237" />
+      <edge id="29" source="#drunkjosie" target="#GimmeSaMoe" weight="3237" />
+      <edge id="30" source="#BernieOrBust" target="#MyApathyIsReal" weight="3237" />
+      <edge id="31" source="#Sweep" target="#Windians" weight="3237" />
+      <edge id="32" source="#TRIBELIVE" target="#NOPANTSKI" weight="3237" />
+      <edge id="33" source="#TribeSpring" target="#indians" weight="3237" />
+      <edge id="34" source="#TheClapper" target="#ThunderClap" weight="3237" />
+      <edge id="35" source="#awesomenessness" target="#Deadpool" weight="3237" />
+      <edge id="36" source="#awesomenessness" target="#touchyourselftonight" weight="3237" />
+      <edge id="37" source="#Thanksgiving" target="#ICD10" weight="3237" />
+      <edge id="38" source="#Deadpool" target="#touchyourselftonight" weight="3237" />
+      <edge id="39" source="#foal" target="#safe" weight="3237" />
+      <edge id="40" source="#OnWisconsin" target="#NoPressure" weight="3237" />
+      <edge id="41" source="#dog" target="#TX" weight="3237" />
+      <edge id="42" source="#hashtagcity" target="#thisshitsjustbeer" weight="3237" />
+      <edge id="43" source="#besafe" target="#besmart" weight="3237" />
+    </edges>
+  </graph>
+</gexf>

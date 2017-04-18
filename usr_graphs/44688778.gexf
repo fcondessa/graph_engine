@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Mexico" label="#Mexico" />
+      <node id="#sorrynotsorry" label="#sorrynotsorry" />
+      <node id="#MAGA" label="#MAGA" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#cartels" label="#cartels" />
+      <node id="#hacking" label="#hacking" />
+      <node id="#DNCinPHL" label="#DNCinPHL" />
+      <node id="#MISheCan" label="#MISheCan" />
+      <node id="#BuzzFeedBrews" label="#BuzzFeedBrews" />
+      <node id="#nevertrump" label="#nevertrump" />
+      <node id="#HereComestheSun" label="#HereComestheSun" />
+      <node id="#StillSanders" label="#StillSanders" />
+      <node id="#Respect" label="#Respect" />
+      <node id="#Poland" label="#Poland" />
+      <node id="#SNL" label="#SNL" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#Journalism" label="#Journalism" />
+      <node id="#ImanImmigrant" label="#ImanImmigrant" />
+      <node id="#rncincle" label="#rncincle" />
+      <node id="#TwitterDistrict" label="#TwitterDistrict" />
+      <node id="#BirthOfANation" label="#BirthOfANation" />
+      <node id="#MITogether" label="#MITogether" />
+      <node id="#DCProtest" label="#DCProtest" />
+      <node id="#Hamilton" label="#Hamilton" />
+      <node id="#ff" label="#ff" />
+      <node id="#PublicMedia" label="#PublicMedia" />
+      <node id="#AltonSterling" label="#AltonSterling" />
+      <node id="#Ukraine" label="#Ukraine" />
+      <node id="#blacklivesmatter" label="#blacklivesmatter" />
+      <node id="#selfie" label="#selfie" />
+      <node id="#ft" label="#ft" />
+      <node id="#ISupportPalestinianRights" label="#ISupportPalestinianRights" />
+      <node id="#ShutDownDNC" label="#ShutDownDNC" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#Unity" label="#Unity" />
+      <node id="#TerenceCruthcher" label="#TerenceCruthcher" />
+      <node id="#Aleppo" label="#Aleppo" />
+      <node id="#millennial" label="#millennial" />
+      <node id="#politicsandpints" label="#politicsandpints" />
+      <node id="#BlackLives" label="#BlackLives" />
+      <node id="#DemConvention" label="#DemConvention" />
+      <node id="#KathleenParker" label="#KathleenParker" />
+      <node id="#BatonRouge" label="#BatonRouge" />
+      <node id="#WashingtonPost" label="#WashingtonPost" />
+      <node id="#unfollowfriday" label="#unfollowfriday" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Mexico" target="#cartels" weight="3213" />
+      <edge id="1" source="#sorrynotsorry" target="#MAGA" weight="3213" />
+      <edge id="2" source="#MAGA" target="#tcot" weight="3213" />
+      <edge id="3" source="#RNCinCLE" target="#SNL" weight="3213" />
+      <edge id="4" source="#RNCinCLE" target="#HereComestheSun" weight="3213" />
+      <edge id="5" source="#RNCinCLE" target="#ft" weight="3213" />
+      <edge id="6" source="#RNCinCLE" target="#DemsInPhilly" weight="3213" />
+      <edge id="7" source="#RNCinCLE" target="#TwitterDistrict" weight="3213" />
+      <edge id="8" source="#hacking" target="#Aleppo" weight="3213" />
+      <edge id="9" source="#hacking" target="#Poland" weight="3213" />
+      <edge id="10" source="#hacking" target="#Ukraine" weight="3213" />
+      <edge id="11" source="#DNCinPHL" target="#DemsInPhilly" weight="3213" />
+      <edge id="12" source="#DNCinPHL" target="#DemConvention" weight="3213" />
+      <edge id="13" source="#MISheCan" target="#MITogether" weight="3213" />
+      <edge id="14" source="#BuzzFeedBrews" target="#TerenceCruthcher" weight="3213" />
+      <edge id="15" source="#nevertrump" target="#selfie" weight="3213" />
+      <edge id="16" source="#StillSanders" target="#ISupportPalestinianRights" weight="3213" />
+      <edge id="17" source="#StillSanders" target="#ImanImmigrant" weight="3213" />
+      <edge id="18" source="#Respect" target="#Journalism" weight="3213" />
+      <edge id="19" source="#Respect" target="#PublicMedia" weight="3213" />
+      <edge id="20" source="#Poland" target="#Aleppo" weight="3213" />
+      <edge id="21" source="#Poland" target="#Ukraine" weight="3213" />
+      <edge id="22" source="#DemsInPhilly" target="#ShutDownDNC" weight="3213" />
+      <edge id="23" source="#DemsInPhilly" target="#ff" weight="3213" />
+      <edge id="24" source="#DemsInPhilly" target="#DemConvention" weight="9639" />
+      <edge id="25" source="#DemsInPhilly" target="#TwitterDistrict" weight="3213" />
+      <edge id="26" source="#DemsInPhilly" target="#Unity" weight="3213" />
+      <edge id="27" source="#Journalism" target="#PublicMedia" weight="3213" />
+      <edge id="28" source="#ImanImmigrant" target="#ISupportPalestinianRights" weight="3213" />
+      <edge id="29" source="#rncincle" target="#politicsandpints" weight="3213" />
+      <edge id="30" source="#BirthOfANation" target="#Hamilton" weight="3213" />
+      <edge id="31" source="#DCProtest" target="#BlackLives" weight="3213" />
+      <edge id="32" source="#ff" target="#millennial" weight="3213" />
+      <edge id="33" source="#ff" target="#unfollowfriday" weight="3213" />
+      <edge id="34" source="#AltonSterling" target="#BatonRouge" weight="3213" />
+      <edge id="35" source="#AltonSterling" target="#blacklivesmatter" weight="3213" />
+      <edge id="36" source="#Ukraine" target="#Aleppo" weight="3213" />
+      <edge id="37" source="#blacklivesmatter" target="#BatonRouge" weight="3213" />
+      <edge id="38" source="#KathleenParker" target="#WashingtonPost" weight="3213" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#Romney" label="#Romney" />
+      <node id="#winning" label="#winning" />
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#America" label="#America" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#Trump" label="#Trump" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Obamacare" target="#ACA" weight="3242" />
+      <edge id="1" source="#Romney" target="#Trump" weight="3242" />
+      <edge id="2" source="#winning" target="#DemsInPhilly" weight="3242" />
+      <edge id="3" source="#GOPDebate" target="#America" weight="3242" />
+    </edges>
+  </graph>
+</gexf>

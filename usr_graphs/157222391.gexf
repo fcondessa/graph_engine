@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#FirstFriday" label="#FirstFriday" />
+      <node id="#nativityscene" label="#nativityscene" />
+      <node id="#3years" label="#3years" />
+      <node id="#vintageswimsuits" label="#vintageswimsuits" />
+      <node id="#kittyinascarf" label="#kittyinascarf" />
+      <node id="#starwarsnativity" label="#starwarsnativity" />
+      <node id="#littleboxespdx" label="#littleboxespdx" />
+      <node id="#vintagelove" label="#vintagelove" />
+      <node id="#vintagefashion" label="#vintagefashion" />
+      <node id="#justanothertuesday" label="#justanothertuesday" />
+      <node id="#husbandlove" label="#husbandlove" />
+      <node id="#vintagestyle" label="#vintagestyle" />
+      <node id="#alwaysdoinglaundry" label="#alwaysdoinglaundry" />
+      <node id="#chilipeno" label="#chilipeno" />
+      <node id="#portlandvintage" label="#portlandvintage" />
+      <node id="#admiralackbar" label="#admiralackbar" />
+      <node id="#photoshoot" label="#photoshoot" />
+      <node id="#1950sdress" label="#1950sdress" />
+      <node id="#shopportland" label="#shopportland" />
+      <node id="#1950s" label="#1950s" />
+      <node id="#starwars" label="#starwars" />
+      <node id="#1940s" label="#1940s" />
+      <node id="#newarrival" label="#newarrival" />
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#pfcandleco" label="#pfcandleco" />
+      <node id="#shopsmall" label="#shopsmall" />
+      <node id="#PDX" label="#PDX" />
+      <node id="#yodajesus" label="#yodajesus" />
+      <node id="#juanitas" label="#juanitas" />
+      <node id="#vintagedress" label="#vintagedress" />
+      <node id="#swingtie" label="#swingtie" />
+      <node id="#newarrivals" label="#newarrivals" />
+      <node id="#midcentury" label="#midcentury" />
+      <node id="#vintage" label="#vintage" />
+      <node id="#1960s" label="#1960s" />
+      <node id="#dailyoutfit" label="#dailyoutfit" />
+      <node id="#etsysale" label="#etsysale" />
+      <node id="#Salvage" label="#Salvage" />
+      <node id="#littleboxes2012" label="#littleboxes2012" />
+      <node id="#vintageshop" label="#vintageshop" />
+      <node id="#catsofinstagram" label="#catsofinstagram" />
+      <node id="#nightshade" label="#nightshade" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#FirstFriday" target="#dailyoutfit" weight="3230" />
+      <edge id="1" source="#nativityscene" target="#starwars" weight="3230" />
+      <edge id="2" source="#nativityscene" target="#admiralackbar" weight="3230" />
+      <edge id="3" source="#nativityscene" target="#yodajesus" weight="3230" />
+      <edge id="4" source="#nativityscene" target="#starwarsnativity" weight="3230" />
+      <edge id="5" source="#3years" target="#husbandlove" weight="3230" />
+      <edge id="6" source="#vintageswimsuits" target="#photoshoot" weight="3230" />
+      <edge id="7" source="#kittyinascarf" target="#catsofinstagram" weight="9690" />
+      <edge id="8" source="#starwarsnativity" target="#admiralackbar" weight="3230" />
+      <edge id="9" source="#starwarsnativity" target="#yodajesus" weight="3230" />
+      <edge id="10" source="#starwarsnativity" target="#starwars" weight="3230" />
+      <edge id="11" source="#littleboxespdx" target="#littleboxes2012" weight="3230" />
+      <edge id="12" source="#littleboxespdx" target="#shopsmall" weight="3230" />
+      <edge id="13" source="#vintagelove" target="#PDX" weight="3230" />
+      <edge id="14" source="#vintagelove" target="#Salvage" weight="3230" />
+      <edge id="15" source="#vintagefashion" target="#1960s" weight="6460" />
+      <edge id="16" source="#vintagefashion" target="#1950s" weight="3230" />
+      <edge id="17" source="#vintagefashion" target="#vintagestyle" weight="3230" />
+      <edge id="18" source="#vintagefashion" target="#vintage" weight="3230" />
+      <edge id="19" source="#vintagefashion" target="#newarrival" weight="3230" />
+      <edge id="20" source="#justanothertuesday" target="#alwaysdoinglaundry" weight="3230" />
+      <edge id="21" source="#vintagestyle" target="#portlandvintage" weight="3230" />
+      <edge id="22" source="#vintagestyle" target="#shopportland" weight="3230" />
+      <edge id="23" source="#vintagestyle" target="#1950s" weight="3230" />
+      <edge id="24" source="#vintagestyle" target="#1940s" weight="3230" />
+      <edge id="25" source="#vintagestyle" target="#1950sdress" weight="3230" />
+      <edge id="26" source="#chilipeno" target="#juanitas" weight="3230" />
+      <edge id="27" source="#portlandvintage" target="#shopportland" weight="3230" />
+      <edge id="28" source="#portlandvintage" target="#vintage" weight="3230" />
+      <edge id="29" source="#portlandvintage" target="#1950s" weight="3230" />
+      <edge id="30" source="#portlandvintage" target="#1950sdress" weight="3230" />
+      <edge id="31" source="#admiralackbar" target="#starwars" weight="3230" />
+      <edge id="32" source="#admiralackbar" target="#yodajesus" weight="3230" />
+      <edge id="33" source="#1950sdress" target="#shopportland" weight="3230" />
+      <edge id="34" source="#shopportland" target="#shoplocal" weight="9690" />
+      <edge id="35" source="#1950s" target="#midcentury" weight="3230" />
+      <edge id="36" source="#1950s" target="#vintagedress" weight="3230" />
+      <edge id="37" source="#1950s" target="#vintage" weight="3230" />
+      <edge id="38" source="#starwars" target="#yodajesus" weight="3230" />
+      <edge id="39" source="#newarrival" target="#1960s" weight="3230" />
+      <edge id="40" source="#newarrival" target="#vintage" weight="3230" />
+      <edge id="41" source="#pfcandleco" target="#nightshade" weight="3230" />
+      <edge id="42" source="#PDX" target="#Salvage" weight="3230" />
+      <edge id="43" source="#vintagedress" target="#vintageshop" weight="3230" />
+      <edge id="44" source="#swingtie" target="#vintage" weight="3230" />
+      <edge id="45" source="#newarrivals" target="#vintage" weight="3230" />
+      <edge id="46" source="#vintage" target="#1960s" weight="3230" />
+      <edge id="47" source="#vintage" target="#etsysale" weight="3230" />
+    </edges>
+  </graph>
+</gexf>

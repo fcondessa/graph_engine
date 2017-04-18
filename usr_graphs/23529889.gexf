@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#CMWorld2016" label="#CMWorld2016" />
+      <node id="#carinsurance" label="#carinsurance" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#CbusProud" label="#CbusProud" />
+      <node id="#AHIMA" label="#AHIMA" />
+      <node id="#ASJA2016" label="#ASJA2016" />
+      <node id="#AHIMACon13" label="#AHIMACon13" />
+      <node id="#socialjustice" label="#socialjustice" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#ASJAhq" label="#ASJAhq" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#content" label="#content" />
+      <node id="#IamCharlie" label="#IamCharlie" />
+      <node id="#JeSuisCharlie" label="#JeSuisCharlie" />
+      <node id="#osu" label="#osu" />
+      <node id="#newsroom" label="#newsroom" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#seo" label="#seo" />
+      <node id="#RaisetheWage" label="#RaisetheWage" />
+      <node id="#nationalchampionship" label="#nationalchampionship" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#CMWorld" label="#CMWorld" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#CMWorld2016" target="#marketing" weight="474" />
+      <edge id="1" source="#CMWorld2016" target="#CMWorld" weight="474" />
+      <edge id="2" source="#carinsurance" target="#insurance" weight="474" />
+      <edge id="3" source="#CbusProud" target="#GoBucks" weight="474" />
+      <edge id="4" source="#AHIMA" target="#AHIMACon13" weight="474" />
+      <edge id="5" source="#ASJA2016" target="#socialjustice" weight="474" />
+      <edge id="6" source="#gobucks" target="#osu" weight="474" />
+      <edge id="7" source="#gobucks" target="#nationalchampionship" weight="474" />
+      <edge id="8" source="#gobucks" target="#newsroom" weight="474" />
+      <edge id="9" source="#ASJAhq" target="#Cleveland" weight="474" />
+      <edge id="10" source="#ASJAhq" target="#CMWorld" weight="948" />
+      <edge id="11" source="#marketing" target="#CMWorld" weight="474" />
+      <edge id="12" source="#content" target="#Cleveland" weight="474" />
+      <edge id="13" source="#IamCharlie" target="#JeSuisCharlie" weight="948" />
+      <edge id="14" source="#osu" target="#newsroom" weight="474" />
+      <edge id="15" source="#osu" target="#nationalchampionship" weight="474" />
+      <edge id="16" source="#newsroom" target="#nationalchampionship" weight="474" />
+      <edge id="17" source="#Cleveland" target="#CMWorld" weight="474" />
+      <edge id="18" source="#seo" target="#CMWorld" weight="474" />
+      <edge id="19" source="#RaisetheWage" target="#SOTU" weight="474" />
+    </edges>
+  </graph>
+</gexf>

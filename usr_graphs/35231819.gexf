@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#stayawayrain" label="#stayawayrain" />
+      <node id="#cookininthekitchen" label="#cookininthekitchen" />
+      <node id="#micromirepoix" label="#micromirepoix" />
+      <node id="#shrimpfrittata" label="#shrimpfrittata" />
+      <node id="#comeplay" label="#comeplay" />
+      <node id="#brunch" label="#brunch" />
+      <node id="#cravecbus" label="#cravecbus" />
+      <node id="#basibrunchlunchbar" label="#basibrunchlunchbar" />
+      <node id="#basilove" label="#basilove" />
+      <node id="#cbusfoodscene" label="#cbusfoodscene" />
+      <node id="#galleryhop" label="#galleryhop" />
+      <node id="#lunchbrunch" label="#lunchbrunch" />
+      <node id="#dineoriginalscolumbus" label="#dineoriginalscolumbus" />
+      <node id="#firstwednedays" label="#firstwednedays" />
+      <node id="#purespring" label="#purespring" />
+      <node id="#don" label="#don" />
+      <node id="#fallmanhattan" label="#fallmanhattan" />
+      <node id="#forkyeah" label="#forkyeah" />
+      <node id="#stovetophustler" label="#stovetophustler" />
+      <node id="#givethegiftofbasi" label="#givethegiftofbasi" />
+      <node id="#brunching" label="#brunching" />
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#DineOriginalsColumbus" label="#DineOriginalsColumbus" />
+      <node id="#basilunchbrunchbar" label="#basilunchbrunchbar" />
+      <node id="#patiococktails" label="#patiococktails" />
+      <node id="#Dineoriginals" label="#Dineoriginals" />
+      <node id="#basiyum" label="#basiyum" />
+      <node id="#SOdelicious" label="#SOdelicious" />
+      <node id="#beatthechill" label="#beatthechill" />
+      <node id="#preppin" label="#preppin" />
+      <node id="#giftofgoodtaste" label="#giftofgoodtaste" />
+      <node id="#teambasi" label="#teambasi" />
+      <node id="#lunching" label="#lunching" />
+      <node id="#basibar" label="#basibar" />
+      <node id="#finallyspring" label="#finallyspring" />
+      <node id="#latergram" label="#latergram" />
+      <node id="#newfallmenuitems" label="#newfallmenuitems" />
+      <node id="#basiseason" label="#basiseason" />
+      <node id="#brunchlunchbar" label="#brunchlunchbar" />
+      <node id="#baslunchbrunchbar" label="#baslunchbrunchbar" />
+      <node id="#lbasilunchbrunchbar" label="#lbasilunchbrunchbar" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#stayawayrain" target="#basilove" weight="945" />
+      <edge id="1" source="#cookininthekitchen" target="#stovetophustler" weight="945" />
+      <edge id="2" source="#micromirepoix" target="#preppin" weight="945" />
+      <edge id="3" source="#shrimpfrittata" target="#fallmanhattan" weight="945" />
+      <edge id="4" source="#shrimpfrittata" target="#brunchlunchbar" weight="945" />
+      <edge id="5" source="#comeplay" target="#basilove" weight="945" />
+      <edge id="6" source="#brunch" target="#latergram" weight="945" />
+      <edge id="7" source="#brunch" target="#cbusfoodscene" weight="1890" />
+      <edge id="8" source="#brunch" target="#cravecbus" weight="1890" />
+      <edge id="9" source="#brunch" target="#forkyeah" weight="1890" />
+      <edge id="10" source="#cravecbus" target="#finallyspring" weight="945" />
+      <edge id="11" source="#cravecbus" target="#latergram" weight="945" />
+      <edge id="12" source="#cravecbus" target="#patiococktails" weight="945" />
+      <edge id="13" source="#cravecbus" target="#forkyeah" weight="1890" />
+      <edge id="14" source="#cravecbus" target="#cbusfoodscene" weight="1890" />
+      <edge id="15" source="#basibrunchlunchbar" target="#basilove" weight="945" />
+      <edge id="16" source="#basilove" target="#basilunchbrunchbar" weight="945" />
+      <edge id="17" source="#basilove" target="#beatthechill" weight="945" />
+      <edge id="18" source="#basilove" target="#basibar" weight="945" />
+      <edge id="19" source="#cbusfoodscene" target="#latergram" weight="945" />
+      <edge id="20" source="#cbusfoodscene" target="#forkyeah" weight="1890" />
+      <edge id="21" source="#galleryhop" target="#basiyum" weight="945" />
+      <edge id="22" source="#lunchbrunch" target="#teambasi" weight="945" />
+      <edge id="23" source="#dineoriginalscolumbus" target="#firstwednedays" weight="945" />
+      <edge id="24" source="#purespring" target="#basiseason" weight="945" />
+      <edge id="25" source="#don" target="#SOdelicious" weight="945" />
+      <edge id="26" source="#fallmanhattan" target="#brunchlunchbar" weight="945" />
+      <edge id="27" source="#forkyeah" target="#latergram" weight="945" />
+      <edge id="28" source="#givethegiftofbasi" target="#giftofgoodtaste" weight="945" />
+      <edge id="29" source="#givethegiftofbasi" target="#shoplocal" weight="945" />
+      <edge id="30" source="#brunching" target="#lunching" weight="945" />
+      <edge id="31" source="#DineOriginalsColumbus" target="#lbasilunchbrunchbar" weight="945" />
+      <edge id="32" source="#basilunchbrunchbar" target="#newfallmenuitems" weight="945" />
+      <edge id="33" source="#patiococktails" target="#finallyspring" weight="945" />
+      <edge id="34" source="#Dineoriginals" target="#baslunchbrunchbar" weight="945" />
+      <edge id="35" source="#teambasi" target="#brunchlunchbar" weight="945" />
+    </edges>
+  </graph>
+</gexf>

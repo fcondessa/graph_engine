@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#too" label="#too" />
+      <node id="#baseball" label="#baseball" />
+      <node id="#cricket" label="#cricket" />
+      <node id="#Athletics" label="#Athletics" />
+      <node id="#OffStage" label="#OffStage" />
+      <node id="#MicDrop" label="#MicDrop" />
+      <node id="#javelin" label="#javelin" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#woke" label="#woke" />
+      <node id="#Cubs" label="#Cubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#too" target="#woke" weight="3241" />
+      <edge id="1" source="#baseball" target="#javelin" weight="3241" />
+      <edge id="2" source="#baseball" target="#cricket" weight="3241" />
+      <edge id="3" source="#cricket" target="#javelin" weight="3241" />
+      <edge id="4" source="#Athletics" target="#Indians" weight="6482" />
+      <edge id="5" source="#OffStage" target="#MicDrop" weight="3241" />
+      <edge id="6" source="#OffStage" target="#Cubs" weight="3241" />
+      <edge id="7" source="#MicDrop" target="#Cubs" weight="3241" />
+    </edges>
+  </graph>
+</gexf>

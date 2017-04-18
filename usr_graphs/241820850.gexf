@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#TurnNCBlue" label="#TurnNCBlue" />
+      <node id="#writetips" label="#writetips" />
+      <node id="#Faces" label="#Faces" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#PonleAcento" label="#PonleAcento" />
+      <node id="#jumbo" label="#jumbo" />
+      <node id="#MadBum" label="#MadBum" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#GBBO" label="#GBBO" />
+      <node id="#NLDS" label="#NLDS" />
+      <node id="#cardinals" label="#cardinals" />
+      <node id="#ALDS" label="#ALDS" />
+      <node id="#SemiFinals" label="#SemiFinals" />
+      <node id="#writing" label="#writing" />
+      <node id="#CAwx" label="#CAwx" />
+      <node id="#believen" label="#believen" />
+      <node id="#NCVotesEarly" label="#NCVotesEarly" />
+      <node id="#BlueJays" label="#BlueJays" />
+      <node id="#SF" label="#SF" />
+      <node id="#VotePeavy" label="#VotePeavy" />
+      <node id="#BeliEVEN" label="#BeliEVEN" />
+      <node id="#WatchPitch" label="#WatchPitch" />
+      <node id="#NLWildCard" label="#NLWildCard" />
+      <node id="#amwriting" label="#amwriting" />
+      <node id="#LukeCage" label="#LukeCage" />
+      <node id="#nlds" label="#nlds" />
+      <node id="#cubs" label="#cubs" />
+      <node id="#TimHudson" label="#TimHudson" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Wildcard" label="#Wildcard" />
+      <node id="#couplegoodguys" label="#couplegoodguys" />
+      <node id="#fuckthedh" label="#fuckthedh" />
+      <node id="#DiaDeCueto" label="#DiaDeCueto" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#Mets" label="#Mets" />
+      <node id="#22PushupChallenge" label="#22PushupChallenge" />
+      <node id="#Cubs" label="#Cubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#TurnNCBlue" target="#ImWithHer" weight="3228" />
+      <edge id="1" source="#TurnNCBlue" target="#NCVotesEarly" weight="3228" />
+      <edge id="2" source="#writetips" target="#writing" weight="3228" />
+      <edge id="3" source="#writetips" target="#amwriting" weight="3228" />
+      <edge id="4" source="#Faces" target="#GBBO" weight="3228" />
+      <edge id="5" source="#Faces" target="#SemiFinals" weight="3228" />
+      <edge id="6" source="#sfgiants" target="#believen" weight="3228" />
+      <edge id="7" source="#sfgiants" target="#NLWildCard" weight="12912" />
+      <edge id="8" source="#sfgiants" target="#fuckthedh" weight="3228" />
+      <edge id="9" source="#sfgiants" target="#BeliEVEN" weight="3228" />
+      <edge id="10" source="#sfgiants" target="#nlds" weight="6456" />
+      <edge id="11" source="#sfgiants" target="#cubs" weight="3228" />
+      <edge id="12" source="#PonleAcento" target="#cardinals" weight="3228" />
+      <edge id="13" source="#jumbo" target="#couplegoodguys" weight="3228" />
+      <edge id="14" source="#MadBum" target="#BeliEVEN" weight="3228" />
+      <edge id="15" source="#ImWithHer" target="#NCVotesEarly" weight="3228" />
+      <edge id="16" source="#GBBO" target="#SemiFinals" weight="3228" />
+      <edge id="17" source="#NLDS" target="#ALDS" weight="3228" />
+      <edge id="18" source="#writing" target="#amwriting" weight="3228" />
+      <edge id="19" source="#CAwx" target="#SF" weight="3228" />
+      <edge id="20" source="#BlueJays" target="#Indians" weight="3228" />
+      <edge id="21" source="#VotePeavy" target="#SFGiants" weight="3228" />
+      <edge id="22" source="#BeliEVEN" target="#nlds" weight="3228" />
+      <edge id="23" source="#BeliEVEN" target="#DiaDeCueto" weight="3228" />
+      <edge id="24" source="#BeliEVEN" target="#SFGiants" weight="3228" />
+      <edge id="25" source="#WatchPitch" target="#Cubs" weight="3228" />
+      <edge id="26" source="#LukeCage" target="#LukeCage" weight="6456" />
+      <edge id="27" source="#TimHudson" target="#22PushupChallenge" weight="3228" />
+      <edge id="28" source="#SFGiants" target="#Wildcard" weight="3228" />
+      <edge id="29" source="#SFGiants" target="#DiaDeCueto" weight="3228" />
+      <edge id="30" source="#SFGiants" target="#Mets" weight="3228" />
+      <edge id="31" source="#Wildcard" target="#Mets" weight="3228" />
+      <edge id="32" source="#Giants" target="#Cubs" weight="3228" />
+    </edges>
+  </graph>
+</gexf>

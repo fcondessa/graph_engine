@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#embassysuite" label="#embassysuite" />
+      <node id="#sxswLAM" label="#sxswLAM" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#midwestmla15" label="#midwestmla15" />
+      <node id="#WearRedDay" label="#WearRedDay" />
+      <node id="#midwestmla2013" label="#midwestmla2013" />
+      <node id="#StandingWithPope" label="#StandingWithPope" />
+      <node id="#ohsla" label="#ohsla" />
+      <node id="#Match2014" label="#Match2014" />
+      <node id="#medlibs" label="#medlibs" />
+      <node id="#ala15" label="#ala15" />
+      <node id="#CivilWar" label="#CivilWar" />
+      <node id="#DontMessWithTexas" label="#DontMessWithTexas" />
+      <node id="#agilelibrarian" label="#agilelibrarian" />
+      <node id="#HigherEdWithPope" label="#HigherEdWithPope" />
+      <node id="#alao2013" label="#alao2013" />
+      <node id="#midwestMLA2013" label="#midwestMLA2013" />
+      <node id="#Midwestmla2014" label="#Midwestmla2014" />
+      <node id="#AustinTX" label="#AustinTX" />
+      <node id="#MatchDay" label="#MatchDay" />
+      <node id="#ALAO2013" label="#ALAO2013" />
+      <node id="#ALAO2015" label="#ALAO2015" />
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#DigitalWSP" label="#DigitalWSP" />
+      <node id="#NCSU" label="#NCSU" />
+      <node id="#AfricanAmericanHistoryMonth" label="#AfricanAmericanHistoryMonth" />
+      <node id="#wiifm" label="#wiifm" />
+      <node id="#libchat" label="#libchat" />
+      <node id="#alaac15" label="#alaac15" />
+      <node id="#Pinterest" label="#Pinterest" />
+      <node id="#mladxerror" label="#mladxerror" />
+      <node id="#midwestmla" label="#midwestmla" />
+      <node id="#SaaSyLibrary" label="#SaaSyLibrary" />
+      <node id="#PatientCentered" label="#PatientCentered" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#PeopleCentered" label="#PeopleCentered" />
+      <node id="#MatchDay2014" label="#MatchDay2014" />
+      <node id="#Harvard" label="#Harvard" />
+      <node id="#Bexar" label="#Bexar" />
+      <node id="#ClinicalSummit" label="#ClinicalSummit" />
+      <node id="#workstudy" label="#workstudy" />
+      <node id="#mlanet14" label="#mlanet14" />
+      <node id="#mlanet15" label="#mlanet15" />
+      <node id="#midmla16" label="#midmla16" />
+      <node id="#agile" label="#agile" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#3dprinting" label="#3dprinting" />
+      <node id="#ohsla13" label="#ohsla13" />
+      <node id="#GoRed" label="#GoRed" />
+      <node id="#ConsumerHealth" label="#ConsumerHealth" />
+      <node id="#Librarian" label="#Librarian" />
+      <node id="#GoRedWearRed" label="#GoRedWearRed" />
+      <node id="#makerspace" label="#makerspace" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#embassysuite" target="#midwestmla2013" weight="586" />
+      <edge id="1" source="#sxswLAM" target="#SXSW" weight="586" />
+      <edge id="2" source="#SCOTUS" target="#Obamacare" weight="586" />
+      <edge id="3" source="#SCOTUS" target="#ACA" weight="586" />
+      <edge id="4" source="#Obamacare" target="#ACA" weight="586" />
+      <edge id="5" source="#midwestmla15" target="#makerspace" weight="586" />
+      <edge id="6" source="#midwestmla15" target="#3dprinting" weight="586" />
+      <edge id="7" source="#WearRedDay" target="#GoRed" weight="586" />
+      <edge id="8" source="#midwestmla2013" target="#workstudy" weight="586" />
+      <edge id="9" source="#midwestmla2013" target="#midwestmla" weight="586" />
+      <edge id="10" source="#midwestmla2013" target="#medlibs" weight="2930" />
+      <edge id="11" source="#StandingWithPope" target="#HigherEdWithPope" weight="1758" />
+      <edge id="12" source="#ohsla" target="#agilelibrarian" weight="586" />
+      <edge id="13" source="#Match2014" target="#MatchDay2014" weight="586" />
+      <edge id="14" source="#Match2014" target="#MatchDay" weight="586" />
+      <edge id="15" source="#medlibs" target="#mlanet14" weight="586" />
+      <edge id="16" source="#medlibs" target="#mlanet15" weight="586" />
+      <edge id="17" source="#medlibs" target="#agile" weight="586" />
+      <edge id="18" source="#medlibs" target="#Pinterest" weight="586" />
+      <edge id="19" source="#medlibs" target="#midmla16" weight="586" />
+      <edge id="20" source="#medlibs" target="#mladxerror" weight="586" />
+      <edge id="21" source="#medlibs" target="#ohsla13" weight="2344" />
+      <edge id="22" source="#medlibs" target="#agilelibrarian" weight="1172" />
+      <edge id="23" source="#ala15" target="#alaac15" weight="586" />
+      <edge id="24" source="#CivilWar" target="#AfricanAmericanHistoryMonth" weight="586" />
+      <edge id="25" source="#DontMessWithTexas" target="#AustinTX" weight="586" />
+      <edge id="26" source="#DontMessWithTexas" target="#mlanet15" weight="586" />
+      <edge id="27" source="#agilelibrarian" target="#ohsla13" weight="1172" />
+      <edge id="28" source="#alao2013" target="#wiifm" weight="586" />
+      <edge id="29" source="#midwestMLA2013" target="#Midwestmla2014" weight="586" />
+      <edge id="30" source="#AustinTX" target="#mlanet15" weight="1172" />
+      <edge id="31" source="#MatchDay" target="#MatchDay2014" weight="586" />
+      <edge id="32" source="#ALAO2013" target="#SaaSyLibrary" weight="2344" />
+      <edge id="33" source="#ALAO2013" target="#DigitalWSP" weight="586" />
+      <edge id="34" source="#ALAO2015" target="#ConsumerHealth" weight="586" />
+      <edge id="35" source="#DigitalWSP" target="#SaaSyLibrary" weight="586" />
+      <edge id="36" source="#NCSU" target="#Harvard" weight="586" />
+      <edge id="37" source="#NCSU" target="#Bexar" weight="586" />
+      <edge id="38" source="#libchat" target="#Pinterest" weight="586" />
+      <edge id="39" source="#PatientCentered" target="#ConsumerHealth" weight="586" />
+      <edge id="40" source="#PatientCentered" target="#ClinicalSummit" weight="586" />
+      <edge id="41" source="#Columbus" target="#Healthcare" weight="586" />
+      <edge id="42" source="#PeopleCentered" target="#ConsumerHealth" weight="586" />
+      <edge id="43" source="#PeopleCentered" target="#ClinicalSummit" weight="1758" />
+      <edge id="44" source="#Harvard" target="#Bexar" weight="586" />
+      <edge id="45" source="#ClinicalSummit" target="#ConsumerHealth" weight="1172" />
+      <edge id="46" source="#mlanet15" target="#mlanet15" weight="1172" />
+      <edge id="47" source="#agile" target="#ohsla13" weight="586" />
+      <edge id="48" source="#3dprinting" target="#makerspace" weight="586" />
+      <edge id="49" source="#ConsumerHealth" target="#GoRedWearRed" weight="586" />
+      <edge id="50" source="#ConsumerHealth" target="#Librarian" weight="586" />
+    </edges>
+  </graph>
+</gexf>

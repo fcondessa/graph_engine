@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuperBowI" label="#SuperBowI" />
+      <node id="#DiGiorNOYOUDIDNT" label="#DiGiorNOYOUDIDNT" />
+      <node id="#Howard" label="#Howard" />
+      <node id="#YaFeelzIt" label="#YaFeelzIt" />
+      <node id="#WeWantUberPDX" label="#WeWantUberPDX" />
+      <node id="#ManCrushMonday" label="#ManCrushMonday" />
+      <node id="#justiceforEricGarner" label="#justiceforEricGarner" />
+      <node id="#NeverSayDie" label="#NeverSayDie" />
+      <node id="#UberIceCream" label="#UberIceCream" />
+      <node id="#BreakingBad" label="#BreakingBad" />
+      <node id="#KrollShow" label="#KrollShow" />
+      <node id="#Bitch" label="#Bitch" />
+      <node id="#Dallas" label="#Dallas" />
+      <node id="#MCM" label="#MCM" />
+      <node id="#engagement" label="#engagement" />
+      <node id="#nothingcompares2u" label="#nothingcompares2u" />
+      <node id="#proud" label="#proud" />
+      <node id="#brand" label="#brand" />
+      <node id="#SuperSmack" label="#SuperSmack" />
+      <node id="#meaningful" label="#meaningful" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#Goonies" label="#Goonies" />
+      <node id="#BlackTwitter" label="#BlackTwitter" />
+      <node id="#DCFerguson" label="#DCFerguson" />
+      <node id="#BLM" label="#BLM" />
+      <node id="#whomever" label="#whomever" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#RIPCITY" label="#RIPCITY" />
+      <node id="#karaoke" label="#karaoke" />
+      <node id="#LizardPeople" label="#LizardPeople" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuperBowI" target="#DiGiorNOYOUDIDNT" weight="1078" />
+      <edge id="1" source="#SuperBowI" target="#SuperSmack" weight="1078" />
+      <edge id="2" source="#DiGiorNOYOUDIDNT" target="#SuperSmack" weight="1078" />
+      <edge id="3" source="#Howard" target="#justiceforEricGarner" weight="1078" />
+      <edge id="4" source="#Howard" target="#DCFerguson" weight="1078" />
+      <edge id="5" source="#YaFeelzIt" target="#ManCrushMonday" weight="1078" />
+      <edge id="6" source="#YaFeelzIt" target="#MCM" weight="1078" />
+      <edge id="7" source="#WeWantUberPDX" target="#UberIceCream" weight="1078" />
+      <edge id="8" source="#ManCrushMonday" target="#MCM" weight="1078" />
+      <edge id="9" source="#justiceforEricGarner" target="#DCFerguson" weight="1078" />
+      <edge id="10" source="#NeverSayDie" target="#RIPCITY" weight="1078" />
+      <edge id="11" source="#NeverSayDie" target="#Goonies" weight="1078" />
+      <edge id="12" source="#BreakingBad" target="#Bitch" weight="1078" />
+      <edge id="13" source="#KrollShow" target="#LizardPeople" weight="1078" />
+      <edge id="14" source="#Dallas" target="#BLM" weight="1078" />
+      <edge id="15" source="#engagement" target="#brand" weight="1078" />
+      <edge id="16" source="#engagement" target="#proud" weight="1078" />
+      <edge id="17" source="#engagement" target="#meaningful" weight="1078" />
+      <edge id="18" source="#engagement" target="#socialmedia" weight="1078" />
+      <edge id="19" source="#nothingcompares2u" target="#karaoke" weight="1078" />
+      <edge id="20" source="#nothingcompares2u" target="#whomever" weight="1078" />
+      <edge id="21" source="#proud" target="#brand" weight="1078" />
+      <edge id="22" source="#proud" target="#meaningful" weight="1078" />
+      <edge id="23" source="#proud" target="#socialmedia" weight="1078" />
+      <edge id="24" source="#brand" target="#meaningful" weight="1078" />
+      <edge id="25" source="#brand" target="#socialmedia" weight="1078" />
+      <edge id="26" source="#meaningful" target="#socialmedia" weight="1078" />
+      <edge id="27" source="#Goonies" target="#RIPCITY" weight="1078" />
+      <edge id="28" source="#BlackTwitter" target="#Twitter" weight="1078" />
+      <edge id="29" source="#whomever" target="#karaoke" weight="1078" />
+    </edges>
+  </graph>
+</gexf>

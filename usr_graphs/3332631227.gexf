@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#IRS" label="#IRS" />
+      <node id="#Insurance" label="#Insurance" />
+      <node id="#SupremeCourt" label="#SupremeCourt" />
+      <node id="#KeepingUSHealthy" label="#KeepingUSHealthy" />
+      <node id="#HHC" label="#HHC" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#KeepUSHealthy" label="#KeepUSHealthy" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#Wellness" label="#Wellness" />
+      <node id="#DOL" label="#DOL" />
+      <node id="#CHIP" label="#CHIP" />
+      <node id="#Employers" label="#Employers" />
+      <node id="#wellness" label="#wellness" />
+      <node id="#HealthSpot" label="#HealthSpot" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#HealthandHumanServices" label="#HealthandHumanServices" />
+      <node id="#SHRM" label="#SHRM" />
+      <node id="#Employer" label="#Employer" />
+      <node id="#HealthPlans" label="#HealthPlans" />
+      <node id="#WorkWell" label="#WorkWell" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#telemedicine" label="#telemedicine" />
+      <node id="#Healthlawsubsidies" label="#Healthlawsubsidies" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#iSolved" label="#iSolved" />
+      <node id="#immunization" label="#immunization" />
+      <node id="#Employee" label="#Employee" />
+      <node id="#Enroll365" label="#Enroll365" />
+      <node id="#birthcontrol" label="#birthcontrol" />
+      <node id="#abcDrBchat" label="#abcDrBchat" />
+      <node id="#liveWell" label="#liveWell" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#CadillacTax" label="#CadillacTax" />
+      <node id="#health" label="#health" />
+      <node id="#SameSexMarriage" label="#SameSexMarriage" />
+      <node id="#Contraceptives" label="#Contraceptives" />
+      <node id="#CentralOhio" label="#CentralOhio" />
+      <node id="#Programs" label="#Programs" />
+      <node id="#Departmentoflabor" label="#Departmentoflabor" />
+      <node id="#PPACA" label="#PPACA" />
+      <node id="#TaxPenalty" label="#TaxPenalty" />
+      <node id="#Anthem" label="#Anthem" />
+      <node id="#WorkplaceWellnessPrograms" label="#WorkplaceWellnessPrograms" />
+      <node id="#FMLA" label="#FMLA" />
+      <node id="#OAHU" label="#OAHU" />
+      <node id="#HealthCareReform" label="#HealthCareReform" />
+      <node id="#workplace" label="#workplace" />
+      <node id="#HealthInsurance" label="#HealthInsurance" />
+      <node id="#samesexmarriage" label="#samesexmarriage" />
+      <node id="#AffordableCareAct" label="#AffordableCareAct" />
+      <node id="#HealthSavingsAccount" label="#HealthSavingsAccount" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#employeebenefits" label="#employeebenefits" />
+      <node id="#employers" label="#employers" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#Cigna" label="#Cigna" />
+      <node id="#employees" label="#employees" />
+      <node id="#onsitehealth" label="#onsitehealth" />
+      <node id="#healthcare" label="#healthcare" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#IRS" target="#AffordableCareAct" weight="113" />
+      <edge id="1" source="#IRS" target="#Obamacare" weight="113" />
+      <edge id="2" source="#IRS" target="#HealthCareReform" weight="113" />
+      <edge id="3" source="#IRS" target="#Healthcare" weight="113" />
+      <edge id="4" source="#IRS" target="#HealthSavingsAccount" weight="113" />
+      <edge id="5" source="#IRS" target="#TaxPenalty" weight="113" />
+      <edge id="6" source="#Insurance" target="#Contraceptives" weight="113" />
+      <edge id="7" source="#Insurance" target="#ACA" weight="113" />
+      <edge id="8" source="#Insurance" target="#CadillacTax" weight="113" />
+      <edge id="9" source="#SupremeCourt" target="#employeebenefits" weight="113" />
+      <edge id="10" source="#SupremeCourt" target="#samesexmarriage" weight="113" />
+      <edge id="11" source="#KeepingUSHealthy" target="#Medicare" weight="113" />
+      <edge id="12" source="#HHC" target="#ACA" weight="113" />
+      <edge id="13" source="#HHC" target="#CadillacTax" weight="113" />
+      <edge id="14" source="#SCOTUS" target="#ACA" weight="113" />
+      <edge id="15" source="#SCOTUS" target="#samesexmarriage" weight="113" />
+      <edge id="16" source="#KeepUSHealthy" target="#Medicare" weight="113" />
+      <edge id="17" source="#KeepUSHealthy" target="#tbt" weight="113" />
+      <edge id="18" source="#Obamacare" target="#OAHU" weight="113" />
+      <edge id="19" source="#Obamacare" target="#HealthCareReform" weight="113" />
+      <edge id="20" source="#Obamacare" target="#HealthInsurance" weight="113" />
+      <edge id="21" source="#Obamacare" target="#CentralOhio" weight="113" />
+      <edge id="22" source="#Obamacare" target="#ACA" weight="452" />
+      <edge id="23" source="#Wellness" target="#SHRM" weight="113" />
+      <edge id="24" source="#Wellness" target="#Programs" weight="113" />
+      <edge id="25" source="#Wellness" target="#Employers" weight="113" />
+      <edge id="26" source="#Wellness" target="#employees" weight="113" />
+      <edge id="27" source="#Wellness" target="#WorkplaceWellnessPrograms" weight="113" />
+      <edge id="28" source="#Wellness" target="#Employee" weight="113" />
+      <edge id="29" source="#DOL" target="#Employer" weight="113" />
+      <edge id="30" source="#CHIP" target="#Medicaid" weight="113" />
+      <edge id="31" source="#CHIP" target="#Enroll365" weight="113" />
+      <edge id="32" source="#Employers" target="#ACA" weight="113" />
+      <edge id="33" source="#Employers" target="#Programs" weight="113" />
+      <edge id="34" source="#wellness" target="#employees" weight="113" />
+      <edge id="35" source="#wellness" target="#health" weight="113" />
+      <edge id="36" source="#wellness" target="#workplace" weight="113" />
+      <edge id="37" source="#HealthSpot" target="#Ohio" weight="113" />
+      <edge id="38" source="#HealthandHumanServices" target="#Departmentoflabor" weight="113" />
+      <edge id="39" source="#HealthandHumanServices" target="#PPACA" weight="113" />
+      <edge id="40" source="#SHRM" target="#SHRM" weight="226" />
+      <edge id="41" source="#SHRM" target="#WorkplaceWellnessPrograms" weight="113" />
+      <edge id="42" source="#HealthPlans" target="#SameSexMarriage" weight="113" />
+      <edge id="43" source="#WorkWell" target="#liveWell" weight="113" />
+      <edge id="44" source="#tbt" target="#Medicare" weight="113" />
+      <edge id="45" source="#telemedicine" target="#healthcare" weight="113" />
+      <edge id="46" source="#Healthlawsubsidies" target="#AffordableCareAct" weight="113" />
+      <edge id="47" source="#Healthlawsubsidies" target="#healthcare" weight="113" />
+      <edge id="48" source="#ACA" target="#birthcontrol" weight="113" />
+      <edge id="49" source="#ACA" target="#OAHU" weight="113" />
+      <edge id="50" source="#ACA" target="#AffordableCareAct" weight="113" />
+      <edge id="51" source="#ACA" target="#CadillacTax" weight="339" />
+      <edge id="52" source="#ACA" target="#HealthCareReform" weight="113" />
+      <edge id="53" source="#ACA" target="#HealthInsurance" weight="113" />
+      <edge id="54" source="#ACA" target="#Medicaid" weight="113" />
+      <edge id="55" source="#ACA" target="#iSolved" weight="113" />
+      <edge id="56" source="#immunization" target="#abcDrBchat" weight="113" />
+      <edge id="57" source="#Enroll365" target="#Medicaid" weight="113" />
+      <edge id="58" source="#CadillacTax" target="#employers" weight="113" />
+      <edge id="59" source="#health" target="#workplace" weight="113" />
+      <edge id="60" source="#health" target="#employees" weight="113" />
+      <edge id="61" source="#SameSexMarriage" target="#FMLA" weight="113" />
+      <edge id="62" source="#Departmentoflabor" target="#PPACA" weight="113" />
+      <edge id="63" source="#TaxPenalty" target="#AffordableCareAct" weight="113" />
+      <edge id="64" source="#TaxPenalty" target="#Healthcare" weight="113" />
+      <edge id="65" source="#Anthem" target="#Cigna" weight="226" />
+      <edge id="66" source="#workplace" target="#employees" weight="113" />
+      <edge id="67" source="#samesexmarriage" target="#employeebenefits" weight="113" />
+      <edge id="68" source="#AffordableCareAct" target="#healthcare" weight="113" />
+      <edge id="69" source="#AffordableCareAct" target="#Healthcare" weight="113" />
+      <edge id="70" source="#employers" target="#onsitehealth" weight="113" />
+    </edges>
+  </graph>
+</gexf>

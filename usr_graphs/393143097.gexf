@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#eventplanning" label="#eventplanning" />
+      <node id="#SuperSnappySurvivalSoda" label="#SuperSnappySurvivalSoda" />
+      <node id="#SuperSnappySurvivalKits" label="#SuperSnappySurvivalKits" />
+      <node id="#custombeverages" label="#custombeverages" />
+      <node id="#uFlavor" label="#uFlavor" />
+      <node id="#vegastech" label="#vegastech" />
+      <node id="#vergestartups" label="#vergestartups" />
+      <node id="#SELLSUMERS" label="#SELLSUMERS" />
+      <node id="#tailgate" label="#tailgate" />
+      <node id="#vmware" label="#vmware" />
+      <node id="#MIY" label="#MIY" />
+      <node id="#indy" label="#indy" />
+      <node id="#crowdsource" label="#crowdsource" />
+      <node id="#drinks" label="#drinks" />
+      <node id="#DHmovement" label="#DHmovement" />
+      <node id="#uflavor" label="#uflavor" />
+      <node id="#linkedin" label="#linkedin" />
+      <node id="#ff" label="#ff" />
+      <node id="#social46" label="#social46" />
+      <node id="#LinkJuice" label="#LinkJuice" />
+      <node id="#nefollowers" label="#nefollowers" />
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#crowdsourcing" label="#crowdsourcing" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#eventplanning" target="#indy" weight="777" />
+      <edge id="1" source="#SuperSnappySurvivalSoda" target="#SuperSnappySurvivalKits" weight="777" />
+      <edge id="2" source="#custombeverages" target="#uFlavor" weight="777" />
+      <edge id="3" source="#custombeverages" target="#drinks" weight="777" />
+      <edge id="4" source="#uFlavor" target="#drinks" weight="777" />
+      <edge id="5" source="#uFlavor" target="#LinkJuice" weight="777" />
+      <edge id="6" source="#vegastech" target="#uflavor" weight="777" />
+      <edge id="7" source="#vergestartups" target="#uflavor" weight="777" />
+      <edge id="8" source="#SELLSUMERS" target="#MIY" weight="777" />
+      <edge id="9" source="#tailgate" target="#superbowl" weight="777" />
+      <edge id="10" source="#vmware" target="#indy" weight="777" />
+      <edge id="11" source="#indy" target="#social46" weight="777" />
+      <edge id="12" source="#crowdsource" target="#crowdsourcing" weight="777" />
+      <edge id="13" source="#DHmovement" target="#linkedin" weight="777" />
+      <edge id="14" source="#ff" target="#nefollowers" weight="777" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#NationalVoterRegistrationDay" label="#NationalVoterRegistrationDay" />
+      <node id="#DebateNight" label="#DebateNight" />
+      <node id="#theapprentice" label="#theapprentice" />
+      <node id="#maga" label="#maga" />
+      <node id="#ChelseaExplosion" label="#ChelseaExplosion" />
+      <node id="#StrangersThings" label="#StrangersThings" />
+      <node id="#KellyFile" label="#KellyFile" />
+      <node id="#Rahami" label="#Rahami" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#bardofthedeal" label="#bardofthedeal" />
+      <node id="#debates" label="#debates" />
+      <node id="#RIPGOP" label="#RIPGOP" />
+      <node id="#trumptapes" label="#trumptapes" />
+      <node id="#DonaldTrump" label="#DonaldTrump" />
+      <node id="#NeverTrump" label="#NeverTrump" />
+      <node id="#Israel" label="#Israel" />
+      <node id="#Drumpf" label="#Drumpf" />
+      <node id="#Trump" label="#Trump" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Debates2016" target="#debatenight" weight="3199" />
+      <edge id="1" source="#Debates2016" target="#debates" weight="3199" />
+      <edge id="2" source="#NationalVoterRegistrationDay" target="#StrangersThings" weight="3199" />
+      <edge id="3" source="#DebateNight" target="#KellyFile" weight="6398" />
+      <edge id="4" source="#DebateNight" target="#debates" weight="3199" />
+      <edge id="5" source="#theapprentice" target="#trumptapes" weight="3199" />
+      <edge id="6" source="#maga" target="#maga" weight="19194" />
+      <edge id="7" source="#ChelseaExplosion" target="#Rahami" weight="3199" />
+      <edge id="8" source="#KellyFile" target="#debates" weight="3199" />
+      <edge id="9" source="#debatenight" target="#debates" weight="3199" />
+      <edge id="10" source="#bardofthedeal" target="#RIPGOP" weight="3199" />
+      <edge id="11" source="#bardofthedeal" target="#Drumpf" weight="3199" />
+      <edge id="12" source="#bardofthedeal" target="#NeverTrump" weight="3199" />
+      <edge id="13" source="#bardofthedeal" target="#Trump" weight="3199" />
+      <edge id="14" source="#RIPGOP" target="#Drumpf" weight="3199" />
+      <edge id="15" source="#RIPGOP" target="#NeverTrump" weight="3199" />
+      <edge id="16" source="#RIPGOP" target="#Trump" weight="3199" />
+      <edge id="17" source="#DonaldTrump" target="#Israel" weight="3199" />
+      <edge id="18" source="#NeverTrump" target="#Drumpf" weight="3199" />
+      <edge id="19" source="#NeverTrump" target="#Trump" weight="3199" />
+      <edge id="20" source="#Drumpf" target="#Trump" weight="3199" />
+    </edges>
+  </graph>
+</gexf>

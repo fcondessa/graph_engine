@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#WWE" label="#WWE" />
+      <node id="#astros" label="#astros" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#ESPN" label="#ESPN" />
+      <node id="#MicDrop" label="#MicDrop" />
+      <node id="#Research" label="#Research" />
+      <node id="#NLDS" label="#NLDS" />
+      <node id="#OurMoment" label="#OurMoment" />
+      <node id="#HOVGPodcast" label="#HOVGPodcast" />
+      <node id="#BlueJays" label="#BlueJays" />
+      <node id="#Astros" label="#Astros" />
+      <node id="#WhiteSox" label="#WhiteSox" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#HCT" label="#HCT" />
+      <node id="#Hearthstone" label="#Hearthstone" />
+      <node id="#SXM168" label="#SXM168" />
+      <node id="#WhiteSoxTalk" label="#WhiteSoxTalk" />
+      <node id="#Orioles" label="#Orioles" />
+      <node id="#Bears" label="#Bears" />
+      <node id="#ALCS" label="#ALCS" />
+      <node id="#Bristol" label="#Bristol" />
+      <node id="#ESPNJobs" label="#ESPNJobs" />
+      <node id="#OffStage" label="#OffStage" />
+      <node id="#job" label="#job" />
+      <node id="#Kim" label="#Kim" />
+      <node id="#WWE2K16" label="#WWE2K16" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#wwe" label="#wwe" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#Mizzou" label="#Mizzou" />
+      <node id="#Overwatch" label="#Overwatch" />
+      <node id="#Part" label="#Part" />
+      <node id="#Giants" label="#Giants" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#Cubs" label="#Cubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#RedSox" target="#BlueJays" weight="3220" />
+      <edge id="1" source="#RedSox" target="#Orioles" weight="6440" />
+      <edge id="2" source="#RedSox" target="#WWE" weight="3220" />
+      <edge id="3" source="#WWE" target="#Astros" weight="3220" />
+      <edge id="4" source="#astros" target="#wwe" weight="3220" />
+      <edge id="5" source="#postseason" target="#BlueJays" weight="3220" />
+      <edge id="6" source="#ESPN" target="#Bristol" weight="3220" />
+      <edge id="7" source="#ESPN" target="#Research" weight="3220" />
+      <edge id="8" source="#ESPN" target="#job" weight="3220" />
+      <edge id="9" source="#ESPN" target="#Part" weight="3220" />
+      <edge id="10" source="#ESPN" target="#ESPNJobs" weight="3220" />
+      <edge id="11" source="#MicDrop" target="#OffStage" weight="3220" />
+      <edge id="12" source="#MicDrop" target="#Cubs" weight="3220" />
+      <edge id="13" source="#Research" target="#ESPNJobs" weight="3220" />
+      <edge id="14" source="#Research" target="#job" weight="3220" />
+      <edge id="15" source="#Research" target="#Bristol" weight="3220" />
+      <edge id="16" source="#Research" target="#Part" weight="3220" />
+      <edge id="17" source="#NLDS" target="#Dodgers" weight="3220" />
+      <edge id="18" source="#OurMoment" target="#SXM168" weight="3220" />
+      <edge id="19" source="#HOVGPodcast" target="#tbt" weight="3220" />
+      <edge id="20" source="#BlueJays" target="#ALCS" weight="6440" />
+      <edge id="21" source="#BlueJays" target="#Overwatch" weight="6440" />
+      <edge id="22" source="#BlueJays" target="#Indians" weight="6440" />
+      <edge id="23" source="#WhiteSox" target="#WhiteSoxTalk" weight="3220" />
+      <edge id="24" source="#HCT" target="#HCT" weight="6440" />
+      <edge id="25" source="#HCT" target="#Hearthstone" weight="3220" />
+      <edge id="26" source="#Orioles" target="#Kim" weight="3220" />
+      <edge id="27" source="#Bears" target="#Cubs" weight="3220" />
+      <edge id="28" source="#ALCS" target="#Overwatch" weight="6440" />
+      <edge id="29" source="#ALCS" target="#Indians" weight="6440" />
+      <edge id="30" source="#Bristol" target="#ESPNJobs" weight="3220" />
+      <edge id="31" source="#Bristol" target="#job" weight="3220" />
+      <edge id="32" source="#Bristol" target="#Part" weight="3220" />
+      <edge id="33" source="#ESPNJobs" target="#job" weight="3220" />
+      <edge id="34" source="#ESPNJobs" target="#Part" weight="3220" />
+      <edge id="35" source="#OffStage" target="#Cubs" weight="3220" />
+      <edge id="36" source="#job" target="#Part" weight="3220" />
+      <edge id="37" source="#WWE2K16" target="#MLB" weight="3220" />
+      <edge id="38" source="#MLB" target="#Mizzou" weight="3220" />
+      <edge id="39" source="#Dodgers" target="#Giants" weight="6440" />
+      <edge id="40" source="#Overwatch" target="#Indians" weight="6440" />
+    </edges>
+  </graph>
+</gexf>

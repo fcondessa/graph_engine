@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#binderfullofwomen" label="#binderfullofwomen" />
+      <node id="#debate" label="#debate" />
+      <node id="#debate2012" label="#debate2012" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#binderfullofwomen" target="#debate" weight="15" />
+      <edge id="1" source="#binderfullofwomen" target="#debate2012" weight="15" />
+    </edges>
+  </graph>
+</gexf>

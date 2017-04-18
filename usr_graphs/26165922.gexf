@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BrokenPromises" label="#BrokenPromises" />
+      <node id="#IfTrue" label="#IfTrue" />
+      <node id="#video" label="#video" />
+      <node id="#whoa" label="#whoa" />
+      <node id="#NeverTrump" label="#NeverTrump" />
+      <node id="#Unskew" label="#Unskew" />
+      <node id="#RiggedSystem" label="#RiggedSystem" />
+      <node id="#OkFine" label="#OkFine" />
+      <node id="#Whoa" label="#Whoa" />
+      <node id="#RestoreTheVRA" label="#RestoreTheVRA" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#content" label="#content" />
+      <node id="#analysis" label="#analysis" />
+      <node id="#iftrue" label="#iftrue" />
+      <node id="#WellMaybeNotNever" label="#WellMaybeNotNever" />
+      <node id="#Game" label="#Game" />
+      <node id="#clicks" label="#clicks" />
+      <node id="#TalkPoverty" label="#TalkPoverty" />
+      <node id="#Changed" label="#Changed" />
+      <node id="#SNAP" label="#SNAP" />
+      <node id="#OH" label="#OH" />
+      <node id="#take" label="#take" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BrokenPromises" target="#RiggedSystem" weight="3241" />
+      <edge id="1" source="#IfTrue" target="#Whoa" weight="9723" />
+      <edge id="2" source="#video" target="#content" weight="3241" />
+      <edge id="3" source="#video" target="#clicks" weight="3241" />
+      <edge id="4" source="#whoa" target="#iftrue" weight="3241" />
+      <edge id="5" source="#NeverTrump" target="#WellMaybeNotNever" weight="3241" />
+      <edge id="6" source="#NeverTrump" target="#OkFine" weight="3241" />
+      <edge id="7" source="#NeverTrump" target="#Trump" weight="3241" />
+      <edge id="8" source="#Unskew" target="#RiggedSystem" weight="3241" />
+      <edge id="9" source="#OkFine" target="#WellMaybeNotNever" weight="3241" />
+      <edge id="10" source="#OkFine" target="#Trump" weight="3241" />
+      <edge id="11" source="#RestoreTheVRA" target="#TalkPoverty" weight="3241" />
+      <edge id="12" source="#Trump" target="#WellMaybeNotNever" weight="3241" />
+      <edge id="13" source="#content" target="#clicks" weight="3241" />
+      <edge id="14" source="#analysis" target="#analysis" weight="25928" />
+      <edge id="15" source="#Game" target="#Changed" weight="3241" />
+      <edge id="16" source="#SNAP" target="#OH" weight="3241" />
+      <edge id="17" source="#take" target="#take" weight="6482" />
+    </edges>
+  </graph>
+</gexf>

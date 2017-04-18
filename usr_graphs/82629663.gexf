@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#gorocks" label="#gorocks" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#dublinishome" label="#dublinishome" />
+      <node id="#DublinOhio" label="#DublinOhio" />
+      <node id="#pets" label="#pets" />
+      <node id="#weather" label="#weather" />
+      <node id="#art" label="#art" />
+      <node id="#celticpride" label="#celticpride" />
+      <node id="#EarthWindAndFire" label="#EarthWindAndFire" />
+      <node id="#emerging" label="#emerging" />
+      <node id="#landfill" label="#landfill" />
+      <node id="#MLKDay2016" label="#MLKDay2016" />
+      <node id="#GoRocks" label="#GoRocks" />
+      <node id="#FamilyFun" label="#FamilyFun" />
+      <node id="#Irish" label="#Irish" />
+      <node id="#traffic" label="#traffic" />
+      <node id="#NWS" label="#NWS" />
+      <node id="#GAMEDAY" label="#GAMEDAY" />
+      <node id="#DublinPride" label="#DublinPride" />
+      <node id="#Reload" label="#Reload" />
+      <node id="#MLKDay" label="#MLKDay" />
+      <node id="#M3SSports" label="#M3SSports" />
+      <node id="#theMemorial" label="#theMemorial" />
+      <node id="#EAT614" label="#EAT614" />
+      <node id="#crosstownrival" label="#crosstownrival" />
+      <node id="#Riverboxes" label="#Riverboxes" />
+      <node id="#Traffic" label="#Traffic" />
+      <node id="#WorldCup" label="#WorldCup" />
+      <node id="#ECHalf" label="#ECHalf" />
+      <node id="#OCC" label="#OCC" />
+      <node id="#FranklinCounty" label="#FranklinCounty" />
+      <node id="#RoadToProgress" label="#RoadToProgress" />
+      <node id="#contest" label="#contest" />
+      <node id="#IndependenceDay" label="#IndependenceDay" />
+      <node id="#Teachers" label="#Teachers" />
+      <node id="#Emma" label="#Emma" />
+      <node id="#10TV" label="#10TV" />
+      <node id="#dublinohio" label="#dublinohio" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#USA" label="#USA" />
+      <node id="#ZauberBrewing" label="#ZauberBrewing" />
+      <node id="#winter" label="#winter" />
+      <node id="#oneweek" label="#oneweek" />
+      <node id="#WellRoundedEducation" label="#WellRoundedEducation" />
+      <node id="#irishisanattitude" label="#irishisanattitude" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Dublin" target="#RoadToProgress" weight="3203" />
+      <edge id="1" source="#Dublin" target="#traffic" weight="3203" />
+      <edge id="2" source="#Dublin" target="#Traffic" weight="3203" />
+      <edge id="3" source="#gorocks" target="#Emma" weight="3203" />
+      <edge id="4" source="#Christmas" target="#landfill" weight="3203" />
+      <edge id="5" source="#dublinishome" target="#art" weight="3203" />
+      <edge id="6" source="#dublinishome" target="#dublinohio" weight="3203" />
+      <edge id="7" source="#DublinOhio" target="#FamilyFun" weight="12812" />
+      <edge id="8" source="#pets" target="#winter" weight="3203" />
+      <edge id="9" source="#pets" target="#weather" weight="3203" />
+      <edge id="10" source="#pets" target="#FranklinCounty" weight="3203" />
+      <edge id="11" source="#weather" target="#winter" weight="3203" />
+      <edge id="12" source="#weather" target="#FranklinCounty" weight="3203" />
+      <edge id="13" source="#celticpride" target="#crosstownrival" weight="3203" />
+      <edge id="14" source="#EarthWindAndFire" target="#IndependenceDay" weight="3203" />
+      <edge id="15" source="#emerging" target="#Riverboxes" weight="3203" />
+      <edge id="16" source="#MLKDay2016" target="#MLKDay" weight="3203" />
+      <edge id="17" source="#GoRocks" target="#Reload" weight="3203" />
+      <edge id="18" source="#Irish" target="#irishisanattitude" weight="3203" />
+      <edge id="19" source="#NWS" target="#10TV" weight="3203" />
+      <edge id="20" source="#GAMEDAY" target="#OCC" weight="3203" />
+      <edge id="21" source="#DublinPride" target="#WellRoundedEducation" weight="3203" />
+      <edge id="22" source="#M3SSports" target="#ECHalf" weight="3203" />
+      <edge id="23" source="#theMemorial" target="#oneweek" weight="3203" />
+      <edge id="24" source="#EAT614" target="#dublinohio" weight="3203" />
+      <edge id="25" source="#WorldCup" target="#USA" weight="3203" />
+      <edge id="26" source="#FranklinCounty" target="#winter" weight="3203" />
+      <edge id="27" source="#contest" target="#Teachers" weight="3203" />
+      <edge id="28" source="#craftbeer" target="#ZauberBrewing" weight="3203" />
+    </edges>
+  </graph>
+</gexf>

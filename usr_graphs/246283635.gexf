@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Mac" label="#Mac" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#PC" label="#PC" />
+      <node id="#irony" label="#irony" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#swag" label="#swag" />
+      <node id="#Android" label="#Android" />
+      <node id="#Apple" label="#Apple" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Mac" target="#PC" weight="95" />
+      <edge id="1" source="#NBA" target="#Cbus" weight="95" />
+      <edge id="2" source="#irony" target="#swag" weight="95" />
+      <edge id="3" source="#Android" target="#Apple" weight="95" />
+    </edges>
+  </graph>
+</gexf>

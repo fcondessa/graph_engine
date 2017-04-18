@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#CODXP2016" label="#CODXP2016" />
+      <node id="#FP2" label="#FP2" />
+      <node id="#NLDS" label="#NLDS" />
+      <node id="#MNF" label="#MNF" />
+      <node id="#43Straight" label="#43Straight" />
+      <node id="#43years" label="#43years" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Nneka4MVP" label="#Nneka4MVP" />
+      <node id="#F1" label="#F1" />
+      <node id="#CARvsDEN" label="#CARvsDEN" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#ItalianGP" label="#ItalianGP" />
+      <node id="#Cubs" label="#Cubs" />
+      <node id="#JapaneseGP" label="#JapaneseGP" />
+      <node id="#debate" label="#debate" />
+      <node id="#NFLKickoff" label="#NFLKickoff" />
+      <node id="#ad" label="#ad" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#CODXP2016" target="#ad" weight="3224" />
+      <edge id="1" source="#FP2" target="#JapaneseGP" weight="3224" />
+      <edge id="2" source="#FP2" target="#F1" weight="3224" />
+      <edge id="3" source="#NLDS" target="#postseason" weight="6448" />
+      <edge id="4" source="#NLDS" target="#Cubs" weight="3224" />
+      <edge id="5" source="#NLDS" target="#SFGiants" weight="3224" />
+      <edge id="6" source="#MNF" target="#debate" weight="3224" />
+      <edge id="7" source="#43Straight" target="#43years" weight="3224" />
+      <edge id="8" source="#SFGiants" target="#Cubs" weight="3224" />
+      <edge id="9" source="#Nneka4MVP" target="#Nneka4MVP" weight="6448" />
+      <edge id="10" source="#F1" target="#JapaneseGP" weight="3224" />
+      <edge id="11" source="#F1" target="#ItalianGP" weight="3224" />
+      <edge id="12" source="#CARvsDEN" target="#NFLKickoff" weight="3224" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NoProp60" label="#NoProp60" />
+      <node id="#cannabiscommunity" label="#cannabiscommunity" />
+      <node id="#WolfPup" label="#WolfPup" />
+      <node id="#StewardsofSteam" label="#StewardsofSteam" />
+      <node id="#debate" label="#debate" />
+      <node id="#ProudPapa" label="#ProudPapa" />
+      <node id="#SF" label="#SF" />
+      <node id="#KeithScott" label="#KeithScott" />
+      <node id="#whitemaleprivilege" label="#whitemaleprivilege" />
+      <node id="#CHP" label="#CHP" />
+      <node id="#beatla" label="#beatla" />
+      <node id="#MissionDistrict" label="#MissionDistrict" />
+      <node id="#UPDATE" label="#UPDATE" />
+      <node id="#SternGrove" label="#SternGrove" />
+      <node id="#weedstagram" label="#weedstagram" />
+      <node id="#fuckthedodgers" label="#fuckthedodgers" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#healthandhappiness" label="#healthandhappiness" />
+      <node id="#Seattle" label="#Seattle" />
+      <node id="#California" label="#California" />
+      <node id="#SFPD" label="#SFPD" />
+      <node id="#BeatLA" label="#BeatLA" />
+      <node id="#CMPD" label="#CMPD" />
+      <node id="#PearlJam" label="#PearlJam" />
+      <node id="#GoldenRoadBrewing" label="#GoldenRoadBrewing" />
+      <node id="#StopThisMadman" label="#StopThisMadman" />
+      <node id="#Charlotte" label="#Charlotte" />
+      <node id="#VoteBLUE" label="#VoteBLUE" />
+      <node id="#prop60" label="#prop60" />
+      <node id="#hmbldt" label="#hmbldt" />
+      <node id="#BREAKING" label="#BREAKING" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NoProp60" target="#prop60" weight="3212" />
+      <edge id="1" source="#NoProp60" target="#California" weight="3212" />
+      <edge id="2" source="#cannabiscommunity" target="#weedstagram" weight="3212" />
+      <edge id="3" source="#WolfPup" target="#GoldenRoadBrewing" weight="3212" />
+      <edge id="4" source="#StewardsofSteam" target="#SF" weight="3212" />
+      <edge id="5" source="#debate" target="#whitemaleprivilege" weight="3212" />
+      <edge id="6" source="#ProudPapa" target="#BeatLA" weight="3212" />
+      <edge id="7" source="#SF" target="#BREAKING" weight="3212" />
+      <edge id="8" source="#SF" target="#MissionDistrict" weight="3212" />
+      <edge id="9" source="#SF" target="#UPDATE" weight="3212" />
+      <edge id="10" source="#KeithScott" target="#CMPD" weight="3212" />
+      <edge id="11" source="#KeithScott" target="#Charlotte" weight="3212" />
+      <edge id="12" source="#CHP" target="#SFPD" weight="3212" />
+      <edge id="13" source="#CHP" target="#BREAKING" weight="3212" />
+      <edge id="14" source="#beatla" target="#fuckthedodgers" weight="3212" />
+      <edge id="15" source="#MissionDistrict" target="#BREAKING" weight="3212" />
+      <edge id="16" source="#SternGrove" target="#SFPD" weight="3212" />
+      <edge id="17" source="#SternGrove" target="#BREAKING" weight="3212" />
+      <edge id="18" source="#TBT" target="#Seattle" weight="3212" />
+      <edge id="19" source="#TBT" target="#PearlJam" weight="3212" />
+      <edge id="20" source="#healthandhappiness" target="#hmbldt" weight="3212" />
+      <edge id="21" source="#Seattle" target="#PearlJam" weight="3212" />
+      <edge id="22" source="#California" target="#prop60" weight="3212" />
+      <edge id="23" source="#SFPD" target="#BREAKING" weight="6424" />
+      <edge id="24" source="#CMPD" target="#Charlotte" weight="3212" />
+      <edge id="25" source="#StopThisMadman" target="#VoteBLUE" weight="3212" />
+    </edges>
+  </graph>
+</gexf>

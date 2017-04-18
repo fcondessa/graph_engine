@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SM" label="#SM" />
+      <node id="#SMM" label="#SMM" />
+      <node id="#Tw" label="#Tw" />
+      <node id="#cbusr" label="#cbusr" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#FB" label="#FB" />
+      <node id="#Earthday" label="#Earthday" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#BM" label="#BM" />
+      <node id="#brand" label="#brand" />
+      <node id="#CMO" label="#CMO" />
+      <node id="#Klout" label="#Klout" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#lightenup2011" label="#lightenup2011" />
+      <node id="#PR" label="#PR" />
+      <node id="#gtd" label="#gtd" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#B2B" label="#B2B" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SM" target="#SMM" weight="1468" />
+      <edge id="1" source="#SM" target="#Klout" weight="367" />
+      <edge id="2" source="#SM" target="#Tw" weight="367" />
+      <edge id="3" source="#SM" target="#FB" weight="367" />
+      <edge id="4" source="#SM" target="#Facebook" weight="367" />
+      <edge id="5" source="#SM" target="#BM" weight="367" />
+      <edge id="6" source="#SM" target="#Twitter" weight="367" />
+      <edge id="7" source="#SM" target="#SocialMedia" weight="1101" />
+      <edge id="8" source="#SM" target="#B2B" weight="367" />
+      <edge id="9" source="#SMM" target="#FB" weight="367" />
+      <edge id="10" source="#SMM" target="#Facebook" weight="367" />
+      <edge id="11" source="#SMM" target="#SocialMedia" weight="1101" />
+      <edge id="12" source="#SMM" target="#B2B" weight="367" />
+      <edge id="13" source="#Tw" target="#Twitter" weight="367" />
+      <edge id="14" source="#Tw" target="#BM" weight="367" />
+      <edge id="15" source="#cbusr" target="#cbus" weight="367" />
+      <edge id="16" source="#Twitter" target="#BM" weight="367" />
+      <edge id="17" source="#FB" target="#Facebook" weight="367" />
+      <edge id="18" source="#Earthday" target="#lightenup2011" weight="367" />
+      <edge id="19" source="#brand" target="#CMO" weight="367" />
+      <edge id="20" source="#brand" target="#SocialMedia" weight="367" />
+      <edge id="21" source="#CMO" target="#SocialMedia" weight="367" />
+      <edge id="22" source="#twitter" target="#gtd" weight="367" />
+      <edge id="23" source="#PR" target="#SocialMedia" weight="367" />
+      <edge id="24" source="#SocialMedia" target="#B2B" weight="367" />
+    </edges>
+  </graph>
+</gexf>

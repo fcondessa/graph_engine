@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#uswnt" label="#uswnt" />
+      <node id="#cred" label="#cred" />
+      <node id="#TeaTime" label="#TeaTime" />
+      <node id="#Lunch" label="#Lunch" />
+      <node id="#basepushallout" label="#basepushallout" />
+      <node id="#womensworldcup" label="#womensworldcup" />
+      <node id="#retail" label="#retail" />
+      <node id="#Millennial" label="#Millennial" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#chicago" label="#chicago" />
+      <node id="#sos" label="#sos" />
+      <node id="#fitbit" label="#fitbit" />
+      <node id="#AprilShowers" label="#AprilShowers" />
+      <node id="#helpwanted" label="#helpwanted" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#cars" label="#cars" />
+      <node id="#gratefuldead" label="#gratefuldead" />
+      <node id="#Lolla2015" label="#Lolla2015" />
+      <node id="#westloop" label="#westloop" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#uofc" label="#uofc" />
+      <node id="#mcdonalds" label="#mcdonalds" />
+      <node id="#baseball" label="#baseball" />
+      <node id="#louisville" label="#louisville" />
+      <node id="#SXSW2016" label="#SXSW2016" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#NationalRunningDay" label="#NationalRunningDay" />
+      <node id="#GRAMMYs" label="#GRAMMYs" />
+      <node id="#hotdog" label="#hotdog" />
+      <node id="#chicagotribune" label="#chicagotribune" />
+      <node id="#journalism" label="#journalism" />
+      <node id="#rain" label="#rain" />
+      <node id="#BHLDN" label="#BHLDN" />
+      <node id="#farmlife" label="#farmlife" />
+      <node id="#condos" label="#condos" />
+      <node id="#music" label="#music" />
+      <node id="#free" label="#free" />
+      <node id="#oreothins" label="#oreothins" />
+      <node id="#sheddingforthewedding" label="#sheddingforthewedding" />
+      <node id="#beer" label="#beer" />
+      <node id="#OSUvsORE" label="#OSUvsORE" />
+      <node id="#salads" label="#salads" />
+      <node id="#DemDebate" label="#DemDebate" />
+      <node id="#auroraborealis" label="#auroraborealis" />
+      <node id="#sxswmania" label="#sxswmania" />
+      <node id="#CincyOfficer" label="#CincyOfficer" />
+      <node id="#wickerpark" label="#wickerpark" />
+      <node id="#MagicalMarch" label="#MagicalMarch" />
+      <node id="#gelato" label="#gelato" />
+      <node id="#Milwaukee" label="#Milwaukee" />
+      <node id="#livetweetkristen" label="#livetweetkristen" />
+      <node id="#alcohol" label="#alcohol" />
+      <node id="#breakfast" label="#breakfast" />
+      <node id="#design" label="#design" />
+      <node id="#HappyHour" label="#HappyHour" />
+      <node id="#AmazonPrime" label="#AmazonPrime" />
+      <node id="#CIBridge" label="#CIBridge" />
+      <node id="#USWNT" label="#USWNT" />
+      <node id="#hummus" label="#hummus" />
+      <node id="#apps" label="#apps" />
+      <node id="#Casino" label="#Casino" />
+      <node id="#gdtruckin" label="#gdtruckin" />
+      <node id="#magnolia" label="#magnolia" />
+      <node id="#cng" label="#cng" />
+      <node id="#feedtheanimals" label="#feedtheanimals" />
+      <node id="#taste" label="#taste" />
+      <node id="#weed" label="#weed" />
+      <node id="#community" label="#community" />
+      <node id="#marijuana" label="#marijuana" />
+      <node id="#LincolnPark" label="#LincolnPark" />
+      <node id="#lolla" label="#lolla" />
+      <node id="#summernights" label="#summernights" />
+      <node id="#dorite" label="#dorite" />
+      <node id="#LakeFX" label="#LakeFX" />
+      <node id="#ashtag" label="#ashtag" />
+      <node id="#Cre" label="#Cre" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#film" label="#film" />
+      <node id="#concert" label="#concert" />
+      <node id="#watertaxi" label="#watertaxi" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#carcollector" label="#carcollector" />
+      <node id="#faretheewell" label="#faretheewell" />
+      <node id="#Fall" label="#Fall" />
+      <node id="#films" label="#films" />
+      <node id="#IPA" label="#IPA" />
+      <node id="#50thanniversary" label="#50thanniversary" />
+      <node id="#icecream" label="#icecream" />
+      <node id="#GoodStuffEatery" label="#GoodStuffEatery" />
+      <node id="#finAllyConway" label="#finAllyConway" />
+      <node id="#prescriptions" label="#prescriptions" />
+      <node id="#BelmontStakes" label="#BelmontStakes" />
+      <node id="#Lolla" label="#Lolla" />
+      <node id="#chicagoeats" label="#chicagoeats" />
+      <node id="#rooftopfilms" label="#rooftopfilms" />
+      <node id="#oreo" label="#oreo" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#Joliet" label="#Joliet" />
+      <node id="#flowers" label="#flowers" />
+      <node id="#chocolate" label="#chocolate" />
+      <node id="#togo" label="#togo" />
+      <node id="#ondemand" label="#ondemand" />
+      <node id="#phillywx" label="#phillywx" />
+      <node id="#REIT" label="#REIT" />
+      <node id="#chicagobusiness" label="#chicagobusiness" />
+      <node id="#NationalDonutDay" label="#NationalDonutDay" />
+      <node id="#tan4dan" label="#tan4dan" />
+      <node id="#puremichigan" label="#puremichigan" />
+      <node id="#fitness" label="#fitness" />
+      <node id="#25thyear" label="#25thyear" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#airshow" label="#airshow" />
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#marijuananews" label="#marijuananews" />
+      <node id="#vote" label="#vote" />
+      <node id="#history" label="#history" />
+      <node id="#tgif" label="#tgif" />
+      <node id="#IdeasChat" label="#IdeasChat" />
+      <node id="#reemerge" label="#reemerge" />
+      <node id="#cuba" label="#cuba" />
+      <node id="#innercitypressure" label="#innercitypressure" />
+      <node id="#Blago" label="#Blago" />
+      <node id="#knockonwood" label="#knockonwood" />
+      <node id="#NVC2016" label="#NVC2016" />
+      <node id="#nationalchamps" label="#nationalchamps" />
+      <node id="#brewery" label="#brewery" />
+      <node id="#Chicagodining" label="#Chicagodining" />
+      <node id="#impactinvesting" label="#impactinvesting" />
+      <node id="#shoes" label="#shoes" />
+      <node id="#yum" label="#yum" />
+      <node id="#L" label="#L" />
+      <node id="#jamaicamon" label="#jamaicamon" />
+      <node id="#gardening" label="#gardening" />
+      <node id="#Waukegan" label="#Waukegan" />
+      <node id="#hospital" label="#hospital" />
+      <node id="#hotels" label="#hotels" />
+      <node id="#dogdays" label="#dogdays" />
+      <node id="#SuperBowlXLIX" label="#SuperBowlXLIX" />
+      <node id="#wwp" label="#wwp" />
+      <node id="#lolloft" label="#lolloft" />
+      <node id="#jobseekers" label="#jobseekers" />
+      <node id="#onetankroadtrips" label="#onetankroadtrips" />
+      <node id="#job" label="#job" />
+      <node id="#PlumpyNut" label="#PlumpyNut" />
+      <node id="#media" label="#media" />
+      <node id="#bbq" label="#bbq" />
+      <node id="#foodie" label="#foodie" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#CRED" label="#CRED" />
+      <node id="#chicagobeer" label="#chicagobeer" />
+      <node id="#ilhappyhour" label="#ilhappyhour" />
+      <node id="#CRE" label="#CRE" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#soccer" label="#soccer" />
+      <node id="#DarkLordDay" label="#DarkLordDay" />
+      <node id="#Eataly" label="#Eataly" />
+      <node id="#dogs" label="#dogs" />
+      <node id="#Lollapalooza" label="#Lollapalooza" />
+      <node id="#Midwest" label="#Midwest" />
+      <node id="#animalstyle" label="#animalstyle" />
+      <node id="#malnourished" label="#malnourished" />
+      <node id="#curlyhair" label="#curlyhair" />
+      <node id="#airports" label="#airports" />
+      <node id="#CRW" label="#CRW" />
+      <node id="#AmericanPharoah" label="#AmericanPharoah" />
+      <node id="#Foodporn" label="#Foodporn" />
+      <node id="#hair" label="#hair" />
+      <node id="#yummy" label="#yummy" />
+      <node id="#southloop" label="#southloop" />
+      <node id="#Manufacturing" label="#Manufacturing" />
+      <node id="#40under40" label="#40under40" />
+      <node id="#openingday" label="#openingday" />
+      <node id="#middlemarket" label="#middlemarket" />
+      <node id="#oaklawn" label="#oaklawn" />
+      <node id="#innout" label="#innout" />
+      <node id="#naturalgas" label="#naturalgas" />
+      <node id="#healthcarereform" label="#healthcarereform" />
+      <node id="#gdmerch" label="#gdmerch" />
+      <node id="#flights" label="#flights" />
+      <node id="#womenintech" label="#womenintech" />
+      <node id="#9wx" label="#9wx" />
+      <node id="#Illinois" label="#Illinois" />
+      <node id="#Bears" label="#Bears" />
+      <node id="#nprdebate" label="#nprdebate" />
+      <node id="#pinacolada" label="#pinacolada" />
+      <node id="#dogsoftwitter" label="#dogsoftwitter" />
+      <node id="#pumpkin" label="#pumpkin" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#Deadheads" label="#Deadheads" />
+      <node id="#peimussels" label="#peimussels" />
+      <node id="#wine" label="#wine" />
+      <node id="#indie" label="#indie" />
+      <node id="#fashion" label="#fashion" />
+      <node id="#cuptracker" label="#cuptracker" />
+      <node id="#gratefuldeas" label="#gratefuldeas" />
+      <node id="#food" label="#food" />
+      <node id="#RealEstate" label="#RealEstate" />
+      <node id="#TripleCrown" label="#TripleCrown" />
+      <node id="#Grammys2015" label="#Grammys2015" />
+      <node id="#BigTen" label="#BigTen" />
+      <node id="#art" label="#art" />
+      <node id="#Blackhawksrally" label="#Blackhawksrally" />
+      <node id="#polarvortex" label="#polarvortex" />
+      <node id="#StanleyCup" label="#StanleyCup" />
+      <node id="#Repost" label="#Repost" />
+      <node id="#cleantech" label="#cleantech" />
+      <node id="#burrito" label="#burrito" />
+      <node id="#cre" label="#cre" />
+      <node id="#Philly" label="#Philly" />
+      <node id="#WomensHealth" label="#WomensHealth" />
+      <node id="#latergram" label="#latergram" />
+      <node id="#SpringBreak2015" label="#SpringBreak2015" />
+      <node id="#summereats" label="#summereats" />
+      <node id="#fourthofjuly" label="#fourthofjuly" />
+      <node id="#lollapalooza" label="#lollapalooza" />
+      <node id="#pizza" label="#pizza" />
+      <node id="#beers" label="#beers" />
+      <node id="#Glenview" label="#Glenview" />
+      <node id="#candy" label="#candy" />
+      <node id="#tech" label="#tech" />
+      <node id="#Whiskey" label="#Whiskey" />
+      <node id="#restaurantrow" label="#restaurantrow" />
+      <node id="#cocktails" label="#cocktails" />
+      <node id="#birthday" label="#birthday" />
+      <node id="#trans" label="#trans" />
+      <node id="#Easter" label="#Easter" />
+      <node id="#Atwood" label="#Atwood" />
+      <node id="#merchsearch" label="#merchsearch" />
+      <node id="#Blagojevich" label="#Blagojevich" />
+      <node id="#indiefilm" label="#indiefilm" />
+      <node id="#chicagowx" label="#chicagowx" />
+      <node id="#lunch" label="#lunch" />
+      <node id="#letsgo" label="#letsgo" />
+      <node id="#petcare" label="#petcare" />
+      <node id="#boats" label="#boats" />
+      <node id="#ipl" label="#ipl" />
+      <node id="#Tech50" label="#Tech50" />
+      <node id="#party" label="#party" />
+      <node id="#Retailers" label="#Retailers" />
+      <node id="#jbfa" label="#jbfa" />
+      <node id="#recruitment" label="#recruitment" />
+      <node id="#ER" label="#ER" />
+      <node id="#SXSWmania" label="#SXSWmania" />
+      <node id="#GratefulDead" label="#GratefulDead" />
+      <node id="#Blackhawks" label="#Blackhawks" />
+      <node id="#WomensWorldCup" label="#WomensWorldCup" />
+      <node id="#OakBrook" label="#OakBrook" />
+      <node id="#stuffjournalistslike" label="#stuffjournalistslike" />
+      <node id="#innercitylife" label="#innercitylife" />
+      <node id="#southside" label="#southside" />
+      <node id="#fall" label="#fall" />
+      <node id="#pot" label="#pot" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#Crohns" label="#Crohns" />
+      <node id="#FareTheeWell" label="#FareTheeWell" />
+      <node id="#NCAA" label="#NCAA" />
+      <node id="#cincywx" label="#cincywx" />
+      <node id="#Wickerpark" label="#Wickerpark" />
+      <node id="#Colitis" label="#Colitis" />
+      <node id="#weekend" label="#weekend" />
+      <node id="#auto" label="#auto" />
+      <node id="#economy" label="#economy" />
+      <node id="#travel" label="#travel" />
+      <node id="#summer" label="#summer" />
+      <node id="#happyfourth" label="#happyfourth" />
+      <node id="#herbal" label="#herbal" />
+      <node id="#chasinglight" label="#chasinglight" />
+      <node id="#fresh" label="#fresh" />
+      <node id="#40Under40" label="#40Under40" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#Friday" label="#Friday" />
+      <node id="#workout" label="#workout" />
+      <node id="#ipa" label="#ipa" />
+      <node id="#blackhawksparade" label="#blackhawksparade" />
+      <node id="#golf" label="#golf" />
+      <node id="#burger" label="#burger" />
+      <node id="#ccb40s" label="#ccb40s" />
+      <node id="#Bruce" label="#Bruce" />
+      <node id="#SonnyKim" label="#SonnyKim" />
+      <node id="#wheresthecup" label="#wheresthecup" />
+      <node id="#camping" label="#camping" />
+      <node id="#veterinary" label="#veterinary" />
+      <node id="#margz" label="#margz" />
+      <node id="#breweries" label="#breweries" />
+      <node id="#spring" label="#spring" />
+      <node id="#beauty" label="#beauty" />
+      <node id="#US" label="#US" />
+      <node id="#mjbizcon" label="#mjbizcon" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#ChicagoRealEstate" label="#ChicagoRealEstate" />
+      <node id="#donuts" label="#donuts" />
+      <node id="#Derby" label="#Derby" />
+      <node id="#MiniMoon" label="#MiniMoon" />
+      <node id="#impactengine" label="#impactengine" />
+      <node id="#haircut" label="#haircut" />
+      <node id="#pregnancy" label="#pregnancy" />
+      <node id="#michiganave" label="#michiganave" />
+      <node id="#stayweird" label="#stayweird" />
+      <node id="#burgers" label="#burgers" />
+      <node id="#wedding" label="#wedding" />
+      <node id="#doughnuts" label="#doughnuts" />
+      <node id="#happyhour" label="#happyhour" />
+      <node id="#GDtruckin" label="#GDtruckin" />
+      <node id="#smoothie" label="#smoothie" />
+      <node id="#tea" label="#tea" />
+      <node id="#lunchtime" label="#lunchtime" />
+      <node id="#hotel" label="#hotel" />
+      <node id="#brewpub" label="#brewpub" />
+      <node id="#bucktown" label="#bucktown" />
+      <node id="#brewers" label="#brewers" />
+      <node id="#workplace" label="#workplace" />
+      <node id="#kimptonchi" label="#kimptonchi" />
+      <node id="#blackhawks" label="#blackhawks" />
+      <node id="#gaymarriage" label="#gaymarriage" />
+      <node id="#RiverWest" label="#RiverWest" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#uswnt" target="#womensworldcup" weight="3206" />
+      <edge id="1" source="#cred" target="#uofc" weight="3206" />
+      <edge id="2" source="#cred" target="#cre" weight="38472" />
+      <edge id="3" source="#cred" target="#retail" weight="3206" />
+      <edge id="4" source="#cred" target="#REIT" weight="3206" />
+      <edge id="5" source="#cred" target="#wickerpark" weight="3206" />
+      <edge id="6" source="#cred" target="#realestate" weight="51296" />
+      <edge id="7" source="#cred" target="#chicago" weight="6412" />
+      <edge id="8" source="#cred" target="#southloop" weight="6412" />
+      <edge id="9" source="#cred" target="#icecream" weight="3206" />
+      <edge id="10" source="#cred" target="#CRE" weight="3206" />
+      <edge id="11" source="#TeaTime" target="#tea" weight="3206" />
+      <edge id="12" source="#Lunch" target="#salads" weight="3206" />
+      <edge id="13" source="#basepushallout" target="#fitness" weight="3206" />
+      <edge id="14" source="#basepushallout" target="#Chicago" weight="3206" />
+      <edge id="15" source="#retail" target="#realestate" weight="6412" />
+      <edge id="16" source="#retail" target="#cre" weight="3206" />
+      <edge id="17" source="#Millennial" target="#workplace" weight="3206" />
+      <edge id="18" source="#realestate" target="#CRED" weight="6412" />
+      <edge id="19" source="#realestate" target="#Cre" weight="3206" />
+      <edge id="20" source="#realestate" target="#boats" weight="3206" />
+      <edge id="21" source="#realestate" target="#wickerpark" weight="3206" />
+      <edge id="22" source="#realestate" target="#chicago" weight="19236" />
+      <edge id="23" source="#realestate" target="#icecream" weight="3206" />
+      <edge id="24" source="#realestate" target="#cars" weight="3206" />
+      <edge id="25" source="#realestate" target="#OakBrook" weight="3206" />
+      <edge id="26" source="#realestate" target="#uofc" weight="3206" />
+      <edge id="27" source="#realestate" target="#southside" weight="6412" />
+      <edge id="28" source="#realestate" target="#RiverWest" weight="3206" />
+      <edge id="29" source="#realestate" target="#REIT" weight="3206" />
+      <edge id="30" source="#realestate" target="#Chicago" weight="16030" />
+      <edge id="31" source="#realestate" target="#condos" weight="3206" />
+      <edge id="32" source="#realestate" target="#Glenview" weight="3206" />
+      <edge id="33" source="#realestate" target="#golf" weight="3206" />
+      <edge id="34" source="#realestate" target="#manufacturing" weight="3206" />
+      <edge id="35" source="#realestate" target="#cre" weight="67326" />
+      <edge id="36" source="#realestate" target="#AmazonPrime" weight="3206" />
+      <edge id="37" source="#realestate" target="#ChicagoRealEstate" weight="3206" />
+      <edge id="38" source="#realestate" target="#hotels" weight="3206" />
+      <edge id="39" source="#realestate" target="#tech" weight="3206" />
+      <edge id="40" source="#realestate" target="#hotel" weight="3206" />
+      <edge id="41" source="#realestate" target="#carcollector" weight="3206" />
+      <edge id="42" source="#realestate" target="#LincolnPark" weight="3206" />
+      <edge id="43" source="#chicago" target="#ilhappyhour" weight="3206" />
+      <edge id="44" source="#chicago" target="#Repost" weight="3206" />
+      <edge id="45" source="#chicago" target="#jobs" weight="3206" />
+      <edge id="46" source="#chicago" target="#manufacturing" weight="6412" />
+      <edge id="47" source="#chicago" target="#wickerpark" weight="3206" />
+      <edge id="48" source="#chicago" target="#recruitment" weight="3206" />
+      <edge id="49" source="#chicago" target="#fitbit" weight="3206" />
+      <edge id="50" source="#chicago" target="#ashtag" weight="3206" />
+      <edge id="51" source="#chicago" target="#GratefulDead" weight="3206" />
+      <edge id="52" source="#chicago" target="#prescriptions" weight="3206" />
+      <edge id="53" source="#chicago" target="#michiganave" weight="3206" />
+      <edge id="54" source="#chicago" target="#chicagoeats" weight="6412" />
+      <edge id="55" source="#chicago" target="#westloop" weight="3206" />
+      <edge id="56" source="#chicago" target="#rooftopfilms" weight="3206" />
+      <edge id="57" source="#chicago" target="#southside" weight="3206" />
+      <edge id="58" source="#chicago" target="#happyhour" weight="6412" />
+      <edge id="59" source="#chicago" target="#restaurantrow" weight="3206" />
+      <edge id="60" source="#chicago" target="#condos" weight="3206" />
+      <edge id="61" source="#chicago" target="#fitness" weight="3206" />
+      <edge id="62" source="#chicago" target="#airshow" weight="3206" />
+      <edge id="63" source="#chicago" target="#Trump" weight="3206" />
+      <edge id="64" source="#chicago" target="#summernights" weight="3206" />
+      <edge id="65" source="#chicago" target="#peimussels" weight="3206" />
+      <edge id="66" source="#chicago" target="#reemerge" weight="3206" />
+      <edge id="67" source="#chicago" target="#beer" weight="9618" />
+      <edge id="68" source="#chicago" target="#cuba" weight="3206" />
+      <edge id="69" source="#chicago" target="#chicagotribune" weight="3206" />
+      <edge id="70" source="#chicago" target="#job" weight="3206" />
+      <edge id="71" source="#chicago" target="#healthcare" weight="6412" />
+      <edge id="72" source="#chicago" target="#food" weight="3206" />
+      <edge id="73" source="#chicago" target="#lolla" weight="6412" />
+      <edge id="74" source="#chicago" target="#workout" weight="3206" />
+      <edge id="75" source="#chicago" target="#cre" weight="12824" />
+      <edge id="76" source="#chicago" target="#helpwanted" weight="3206" />
+      <edge id="77" source="#chicago" target="#L" weight="3206" />
+      <edge id="78" source="#chicago" target="#summereats" weight="3206" />
+      <edge id="79" source="#chicago" target="#Joliet" weight="3206" />
+      <edge id="80" source="#chicago" target="#lollapalooza" weight="6412" />
+      <edge id="81" source="#chicago" target="#GDtruckin" weight="3206" />
+      <edge id="82" source="#chicago" target="#fall" weight="3206" />
+      <edge id="83" source="#chicago" target="#brewery" weight="3206" />
+      <edge id="84" source="#chicago" target="#lunchtime" weight="3206" />
+      <edge id="85" source="#chicago" target="#lolloft" weight="3206" />
+      <edge id="86" source="#chicago" target="#jobseekers" weight="3206" />
+      <edge id="87" source="#chicago" target="#chasinglight" weight="3206" />
+      <edge id="88" source="#chicago" target="#bbq" weight="3206" />
+      <edge id="89" source="#chicago" target="#breweries" weight="3206" />
+      <edge id="90" source="#sos" target="#haircut" weight="3206" />
+      <edge id="91" source="#sos" target="#curlyhair" weight="3206" />
+      <edge id="92" source="#fitbit" target="#workout" weight="3206" />
+      <edge id="93" source="#fitbit" target="#fitness" weight="3206" />
+      <edge id="94" source="#AprilShowers" target="#chicagowx" weight="3206" />
+      <edge id="95" source="#AprilShowers" target="#spring" weight="3206" />
+      <edge id="96" source="#helpwanted" target="#job" weight="3206" />
+      <edge id="97" source="#helpwanted" target="#jobseekers" weight="3206" />
+      <edge id="98" source="#GivingTuesday" target="#malnourished" weight="3206" />
+      <edge id="99" source="#GivingTuesday" target="#PlumpyNut" weight="3206" />
+      <edge id="100" source="#cars" target="#carcollector" weight="3206" />
+      <edge id="101" source="#gratefuldead" target="#merchsearch" weight="3206" />
+      <edge id="102" source="#gratefuldead" target="#GDtruckin" weight="3206" />
+      <edge id="103" source="#gratefuldead" target="#gdtruckin" weight="3206" />
+      <edge id="104" source="#gratefuldead" target="#faretheewell" weight="3206" />
+      <edge id="105" source="#Lolla2015" target="#Lollapalooza" weight="6412" />
+      <edge id="106" source="#Lolla2015" target="#Lolla" weight="12824" />
+      <edge id="107" source="#westloop" target="#restaurantrow" weight="3206" />
+      <edge id="108" source="#westloop" target="#cre" weight="3206" />
+      <edge id="109" source="#SuperBowl" target="#tech" weight="3206" />
+      <edge id="110" source="#SuperBowl" target="#ondemand" weight="3206" />
+      <edge id="111" source="#uofc" target="#cre" weight="3206" />
+      <edge id="112" source="#mcdonalds" target="#breakfast" weight="3206" />
+      <edge id="113" source="#baseball" target="#beer" weight="3206" />
+      <edge id="114" source="#baseball" target="#openingday" weight="3206" />
+      <edge id="115" source="#louisville" target="#magnolia" weight="3206" />
+      <edge id="116" source="#louisville" target="#Easter" weight="3206" />
+      <edge id="117" source="#SXSW2016" target="#sxswmania" weight="3206" />
+      <edge id="118" source="#tbt" target="#tan4dan" weight="3206" />
+      <edge id="119" source="#tbt" target="#finAllyConway" weight="3206" />
+      <edge id="120" source="#Chicago" target="#mjbizcon" weight="3206" />
+      <edge id="121" source="#Chicago" target="#jobs" weight="3206" />
+      <edge id="122" source="#Chicago" target="#lunch" weight="3206" />
+      <edge id="123" source="#Chicago" target="#journalism" weight="3206" />
+      <edge id="124" source="#Chicago" target="#art" weight="3206" />
+      <edge id="125" source="#Chicago" target="#jbfa" weight="3206" />
+      <edge id="126" source="#Chicago" target="#community" weight="3206" />
+      <edge id="127" source="#Chicago" target="#50thanniversary" weight="3206" />
+      <edge id="128" source="#Chicago" target="#CRW" weight="3206" />
+      <edge id="129" source="#Chicago" target="#GratefulDead" weight="16030" />
+      <edge id="130" source="#Chicago" target="#pot" weight="3206" />
+      <edge id="131" source="#Chicago" target="#GoodStuffEatery" weight="3206" />
+      <edge id="132" source="#Chicago" target="#summer" weight="3206" />
+      <edge id="133" source="#Chicago" target="#history" weight="3206" />
+      <edge id="134" source="#Chicago" target="#donuts" weight="3206" />
+      <edge id="135" source="#Chicago" target="#FareTheeWell" weight="6412" />
+      <edge id="136" source="#Chicago" target="#Tech50" weight="3206" />
+      <edge id="137" source="#Chicago" target="#food" weight="19236" />
+      <edge id="138" source="#Chicago" target="#Chicago" weight="6412" />
+      <edge id="139" source="#Chicago" target="#weekend" weight="3206" />
+      <edge id="140" source="#Chicago" target="#burger" weight="3206" />
+      <edge id="141" source="#Chicago" target="#fitness" weight="3206" />
+      <edge id="142" source="#Chicago" target="#alcohol" weight="3206" />
+      <edge id="143" source="#Chicago" target="#golf" weight="3206" />
+      <edge id="144" source="#Chicago" target="#marijuana" weight="3206" />
+      <edge id="145" source="#Chicago" target="#wine" weight="3206" />
+      <edge id="146" source="#Chicago" target="#vote" weight="3206" />
+      <edge id="147" source="#Chicago" target="#togo" weight="3206" />
+      <edge id="148" source="#Chicago" target="#IdeasChat" weight="3206" />
+      <edge id="149" source="#Chicago" target="#Bears" weight="3206" />
+      <edge id="150" source="#Chicago" target="#beer" weight="6412" />
+      <edge id="151" source="#Chicago" target="#job" weight="3206" />
+      <edge id="152" source="#Chicago" target="#manufacturing" weight="6412" />
+      <edge id="153" source="#Chicago" target="#stayweird" weight="3206" />
+      <edge id="154" source="#Chicago" target="#film" weight="3206" />
+      <edge id="155" source="#Chicago" target="#tech" weight="3206" />
+      <edge id="156" source="#Chicago" target="#smallbiz" weight="3206" />
+      <edge id="157" source="#Chicago" target="#Deadheads" weight="6412" />
+      <edge id="158" source="#Chicago" target="#Retailers" weight="3206" />
+      <edge id="159" source="#Chicago" target="#burrito" weight="3206" />
+      <edge id="160" source="#Chicago" target="#cre" weight="6412" />
+      <edge id="161" source="#Chicago" target="#HappyHour" weight="3206" />
+      <edge id="162" source="#Chicago" target="#weed" weight="3206" />
+      <edge id="163" source="#Chicago" target="#gardening" weight="3206" />
+      <edge id="164" source="#Chicago" target="#hummus" weight="3206" />
+      <edge id="165" source="#Chicago" target="#dogdays" weight="3206" />
+      <edge id="166" source="#Chicago" target="#GDtruckin" weight="3206" />
+      <edge id="167" source="#Chicago" target="#livetweetkristen" weight="3206" />
+      <edge id="168" source="#Chicago" target="#smoothie" weight="9618" />
+      <edge id="169" source="#Chicago" target="#Manufacturing" weight="3206" />
+      <edge id="170" source="#Chicago" target="#cocktails" weight="3206" />
+      <edge id="171" source="#Chicago" target="#media" weight="3206" />
+      <edge id="172" source="#Chicago" target="#foodie" weight="3206" />
+      <edge id="173" source="#Chicago" target="#healthcare" weight="3206" />
+      <edge id="174" source="#NationalRunningDay" target="#NationalDonutDay" weight="3206" />
+      <edge id="175" source="#GRAMMYs" target="#ccb40s" weight="3206" />
+      <edge id="176" source="#hotdog" target="#food" weight="3206" />
+      <edge id="177" source="#chicagotribune" target="#michiganave" weight="3206" />
+      <edge id="178" source="#journalism" target="#media" weight="3206" />
+      <edge id="179" source="#rain" target="#free" weight="3206" />
+      <edge id="180" source="#rain" target="#indiefilm" weight="3206" />
+      <edge id="181" source="#rain" target="#summer" weight="3206" />
+      <edge id="182" source="#BHLDN" target="#wedding" weight="3206" />
+      <edge id="183" source="#farmlife" target="#beer" weight="3206" />
+      <edge id="184" source="#music" target="#indie" weight="3206" />
+      <edge id="185" source="#free" target="#films" weight="3206" />
+      <edge id="186" source="#free" target="#summer" weight="3206" />
+      <edge id="187" source="#free" target="#indiefilm" weight="3206" />
+      <edge id="188" source="#free" target="#concert" weight="3206" />
+      <edge id="189" source="#oreothins" target="#oreo" weight="3206" />
+      <edge id="190" source="#sheddingforthewedding" target="#soccer" weight="3206" />
+      <edge id="191" source="#beer" target="#chicagobeer" weight="3206" />
+      <edge id="192" source="#beer" target="#ilhappyhour" weight="3206" />
+      <edge id="193" source="#beer" target="#DarkLordDay" weight="3206" />
+      <edge id="194" source="#beer" target="#brewpub" weight="3206" />
+      <edge id="195" source="#beer" target="#summer" weight="3206" />
+      <edge id="196" source="#beer" target="#openingday" weight="3206" />
+      <edge id="197" source="#beer" target="#happyhour" weight="3206" />
+      <edge id="198" source="#beer" target="#alcohol" weight="6412" />
+      <edge id="199" source="#beer" target="#herbal" weight="3206" />
+      <edge id="200" source="#beer" target="#wine" weight="6412" />
+      <edge id="201" source="#beer" target="#breweries" weight="3206" />
+      <edge id="202" source="#beer" target="#breakfast" weight="3206" />
+      <edge id="203" source="#beer" target="#HappyHour" weight="6412" />
+      <edge id="204" source="#beer" target="#burgers" weight="3206" />
+      <edge id="205" source="#beer" target="#brewery" weight="6412" />
+      <edge id="206" source="#beer" target="#ipa" weight="3206" />
+      <edge id="207" source="#beer" target="#cocktails" weight="3206" />
+      <edge id="208" source="#beer" target="#ipl" weight="3206" />
+      <edge id="209" source="#beer" target="#brewers" weight="3206" />
+      <edge id="210" source="#OSUvsORE" target="#OSU" weight="3206" />
+      <edge id="211" source="#DemDebate" target="#nprdebate" weight="3206" />
+      <edge id="212" source="#auroraborealis" target="#9wx" weight="3206" />
+      <edge id="213" source="#CincyOfficer" target="#SonnyKim" weight="3206" />
+      <edge id="214" source="#MagicalMarch" target="#SpringBreak2015" weight="3206" />
+      <edge id="215" source="#gelato" target="#yum" weight="3206" />
+      <edge id="216" source="#gelato" target="#icecream" weight="3206" />
+      <edge id="217" source="#Milwaukee" target="#onetankroadtrips" weight="3206" />
+      <edge id="218" source="#Milwaukee" target="#travel" weight="3206" />
+      <edge id="219" source="#Milwaukee" target="#Whiskey" weight="3206" />
+      <edge id="220" source="#alcohol" target="#wine" weight="6412" />
+      <edge id="221" source="#alcohol" target="#cocktails" weight="3206" />
+      <edge id="222" source="#alcohol" target="#HappyHour" weight="6412" />
+      <edge id="223" source="#design" target="#LakeFX" weight="3206" />
+      <edge id="224" source="#HappyHour" target="#wine" weight="6412" />
+      <edge id="225" source="#HappyHour" target="#cocktails" weight="3206" />
+      <edge id="226" source="#CIBridge" target="#cleantech" weight="3206" />
+      <edge id="227" source="#USWNT" target="#WomensWorldCup" weight="3206" />
+      <edge id="228" source="#hummus" target="#food" weight="3206" />
+      <edge id="229" source="#hummus" target="#togo" weight="3206" />
+      <edge id="230" source="#apps" target="#pregnancy" weight="3206" />
+      <edge id="231" source="#apps" target="#healthcare" weight="3206" />
+      <edge id="232" source="#Casino" target="#Waukegan" weight="3206" />
+      <edge id="233" source="#gdtruckin" target="#merchsearch" weight="3206" />
+      <edge id="234" source="#gdtruckin" target="#taste" weight="3206" />
+      <edge id="235" source="#magnolia" target="#Easter" weight="3206" />
+      <edge id="236" source="#cng" target="#naturalgas" weight="3206" />
+      <edge id="237" source="#feedtheanimals" target="#stuffjournalistslike" weight="3206" />
+      <edge id="238" source="#taste" target="#merchsearch" weight="3206" />
+      <edge id="239" source="#weed" target="#marijuananews" weight="3206" />
+      <edge id="240" source="#weed" target="#pot" weight="3206" />
+      <edge id="241" source="#weed" target="#mjbizcon" weight="3206" />
+      <edge id="242" source="#weed" target="#marijuana" weight="3206" />
+      <edge id="243" source="#community" target="#film" weight="3206" />
+      <edge id="244" source="#community" target="#art" weight="3206" />
+      <edge id="245" source="#marijuana" target="#mjbizcon" weight="6412" />
+      <edge id="246" source="#marijuana" target="#pot" weight="3206" />
+      <edge id="247" source="#lolla" target="#lollapalooza" weight="6412" />
+      <edge id="248" source="#dorite" target="#tgif" weight="3206" />
+      <edge id="249" source="#dorite" target="#donuts" weight="3206" />
+      <edge id="250" source="#Cre" target="#hotels" weight="3206" />
+      <edge id="251" source="#SCOTUS" target="#gaymarriage" weight="3206" />
+      <edge id="252" source="#film" target="#art" weight="3206" />
+      <edge id="253" source="#watertaxi" target="#latergram" weight="3206" />
+      <edge id="254" source="#smallbiz" target="#tech" weight="3206" />
+      <edge id="255" source="#Fall" target="#pumpkin" weight="3206" />
+      <edge id="256" source="#Fall" target="#Halloween" weight="3206" />
+      <edge id="257" source="#IPA" target="#beers" weight="3206" />
+      <edge id="258" source="#50thanniversary" target="#Deadheads" weight="3206" />
+      <edge id="259" source="#50thanniversary" target="#GratefulDead" weight="3206" />
+      <edge id="260" source="#icecream" target="#yum" weight="3206" />
+      <edge id="261" source="#icecream" target="#RealEstate" weight="3206" />
+      <edge id="262" source="#icecream" target="#pumpkin" weight="3206" />
+      <edge id="263" source="#GoodStuffEatery" target="#Deadheads" weight="3206" />
+      <edge id="264" source="#finAllyConway" target="#MiniMoon" weight="12824" />
+      <edge id="265" source="#prescriptions" target="#healthcare" weight="3206" />
+      <edge id="266" source="#BelmontStakes" target="#TripleCrown" weight="6412" />
+      <edge id="267" source="#BelmontStakes" target="#AmericanPharoah" weight="3206" />
+      <edge id="268" source="#Lolla" target="#letsgo" weight="3206" />
+      <edge id="269" source="#Lolla" target="#Lollapalooza" weight="6412" />
+      <edge id="270" source="#chicagoeats" target="#cre" weight="3206" />
+      <edge id="271" source="#chicagoeats" target="#jamaicamon" weight="3206" />
+      <edge id="272" source="#chicagoeats" target="#summereats" weight="3206" />
+      <edge id="273" source="#chicagoeats" target="#lunchtime" weight="3206" />
+      <edge id="274" source="#chicagoeats" target="#food" weight="3206" />
+      <edge id="275" source="#chicagoeats" target="#bbq" weight="3206" />
+      <edge id="276" source="#chicagoeats" target="#yummy" weight="3206" />
+      <edge id="277" source="#rooftopfilms" target="#lolloft" weight="3206" />
+      <edge id="278" source="#Halloween" target="#pumpkin" weight="3206" />
+      <edge id="279" source="#Joliet" target="#cre" weight="3206" />
+      <edge id="280" source="#Joliet" target="#manufacturing" weight="3206" />
+      <edge id="281" source="#flowers" target="#summer" weight="3206" />
+      <edge id="282" source="#chocolate" target="#candy" weight="3206" />
+      <edge id="283" source="#chocolate" target="#Friday" weight="3206" />
+      <edge id="284" source="#togo" target="#food" weight="3206" />
+      <edge id="285" source="#ondemand" target="#tech" weight="3206" />
+      <edge id="286" source="#phillywx" target="#knockonwood" weight="3206" />
+      <edge id="287" source="#phillywx" target="#Philly" weight="3206" />
+      <edge id="288" source="#REIT" target="#cre" weight="3206" />
+      <edge id="289" source="#chicagobusiness" target="#cre" weight="3206" />
+      <edge id="290" source="#puremichigan" target="#camping" weight="3206" />
+      <edge id="291" source="#fitness" target="#workout" weight="3206" />
+      <edge id="292" source="#25thyear" target="#latergram" weight="3206" />
+      <edge id="293" source="#healthcare" target="#WomensHealth" weight="3206" />
+      <edge id="294" source="#healthcare" target="#Colitis" weight="3206" />
+      <edge id="295" source="#healthcare" target="#Obamacare" weight="6412" />
+      <edge id="296" source="#healthcare" target="#Crohns" weight="3206" />
+      <edge id="297" source="#healthcare" target="#ER" weight="3206" />
+      <edge id="298" source="#healthcare" target="#pregnancy" weight="3206" />
+      <edge id="299" source="#SXSW" target="#SXSWmania" weight="6412" />
+      <edge id="300" source="#history" target="#food" weight="3206" />
+      <edge id="301" source="#tgif" target="#Friday" weight="3206" />
+      <edge id="302" source="#tgif" target="#donuts" weight="3206" />
+      <edge id="303" source="#IdeasChat" target="#Tech50" weight="3206" />
+      <edge id="304" source="#reemerge" target="#L" weight="3206" />
+      <edge id="305" source="#innercitypressure" target="#innercitylife" weight="3206" />
+      <edge id="306" source="#Blago" target="#travel" weight="3206" />
+      <edge id="307" source="#Blago" target="#Blagojevich" weight="3206" />
+      <edge id="308" source="#Blago" target="#flights" weight="3206" />
+      <edge id="309" source="#knockonwood" target="#Philly" weight="3206" />
+      <edge id="310" source="#NVC2016" target="#womenintech" weight="3206" />
+      <edge id="311" source="#nationalchamps" target="#OSU" weight="3206" />
+      <edge id="312" source="#brewery" target="#brewpub" weight="3206" />
+      <edge id="313" source="#brewery" target="#chicagobeer" weight="3206" />
+      <edge id="314" source="#Chicagodining" target="#food" weight="3206" />
+      <edge id="315" source="#Chicagodining" target="#cre" weight="3206" />
+      <edge id="316" source="#impactinvesting" target="#impactengine" weight="3206" />
+      <edge id="317" source="#shoes" target="#Wickerpark" weight="3206" />
+      <edge id="318" source="#shoes" target="#bucktown" weight="3206" />
+      <edge id="319" source="#hospital" target="#veterans" weight="3206" />
+      <edge id="320" source="#hospital" target="#wwp" weight="6412" />
+      <edge id="321" source="#hospital" target="#Midwest" weight="6412" />
+      <edge id="322" source="#SuperBowlXLIX" target="#Foodporn" weight="3206" />
+      <edge id="323" source="#wwp" target="#veterans" weight="3206" />
+      <edge id="324" source="#wwp" target="#Midwest" weight="6412" />
+      <edge id="325" source="#jobseekers" target="#job" weight="3206" />
+      <edge id="326" source="#onetankroadtrips" target="#travel" weight="3206" />
+      <edge id="327" source="#onetankroadtrips" target="#Whiskey" weight="3206" />
+      <edge id="328" source="#PlumpyNut" target="#malnourished" weight="3206" />
+      <edge id="329" source="#bbq" target="#summereats" weight="3206" />
+      <edge id="330" source="#foodie" target="#CRW" weight="3206" />
+      <edge id="331" source="#manufacturing" target="#cre" weight="6412" />
+      <edge id="332" source="#manufacturing" target="#auto" weight="3206" />
+      <edge id="333" source="#CRED" target="#Glenview" weight="3206" />
+      <edge id="334" source="#CRED" target="#southside" weight="3206" />
+      <edge id="335" source="#chicagobeer" target="#brewpub" weight="3206" />
+      <edge id="336" source="#ilhappyhour" target="#happyhour" weight="3206" />
+      <edge id="337" source="#jobs" target="#recruitment" weight="3206" />
+      <edge id="338" source="#Eataly" target="#pizza" weight="3206" />
+      <edge id="339" source="#dogs" target="#veterinary" weight="3206" />
+      <edge id="340" source="#dogs" target="#dogsoftwitter" weight="3206" />
+      <edge id="341" source="#dogs" target="#petcare" weight="3206" />
+      <edge id="342" source="#Midwest" target="#veterans" weight="3206" />
+      <edge id="343" source="#animalstyle" target="#innout" weight="3206" />
+      <edge id="344" source="#curlyhair" target="#haircut" weight="3206" />
+      <edge id="345" source="#airports" target="#travel" weight="3206" />
+      <edge id="346" source="#AmericanPharoah" target="#TripleCrown" weight="6412" />
+      <edge id="347" source="#hair" target="#beauty" weight="3206" />
+      <edge id="348" source="#yummy" target="#food" weight="3206" />
+      <edge id="349" source="#southloop" target="#cre" weight="6412" />
+      <edge id="350" source="#40under40" target="#ccb40s" weight="6412" />
+      <edge id="351" source="#middlemarket" target="#economy" weight="3206" />
+      <edge id="352" source="#oaklawn" target="#cre" weight="3206" />
+      <edge id="353" source="#healthcarereform" target="#Illinois" weight="3206" />
+      <edge id="354" source="#gdmerch" target="#merchsearch" weight="3206" />
+      <edge id="355" source="#gdmerch" target="#gratefuldeas" weight="3206" />
+      <edge id="356" source="#flights" target="#travel" weight="3206" />
+      <edge id="357" source="#pinacolada" target="#margz" weight="3206" />
+      <edge id="358" source="#dogsoftwitter" target="#petcare" weight="3206" />
+      <edge id="359" source="#dogsoftwitter" target="#veterinary" weight="3206" />
+      <edge id="360" source="#Deadheads" target="#GratefulDead" weight="3206" />
+      <edge id="361" source="#peimussels" target="#food" weight="3206" />
+      <edge id="362" source="#wine" target="#cocktails" weight="3206" />
+      <edge id="363" source="#fashion" target="#Grammys2015" weight="3206" />
+      <edge id="364" source="#cuptracker" target="#Blackhawks" weight="3206" />
+      <edge id="365" source="#cuptracker" target="#blackhawks" weight="3206" />
+      <edge id="366" source="#cuptracker" target="#wheresthecup" weight="6412" />
+      <edge id="367" source="#gratefuldeas" target="#merchsearch" weight="3206" />
+      <edge id="368" source="#food" target="#burrito" weight="3206" />
+      <edge id="369" source="#food" target="#lunch" weight="3206" />
+      <edge id="370" source="#food" target="#smoothie" weight="3206" />
+      <edge id="371" source="#food" target="#cre" weight="3206" />
+      <edge id="372" source="#TripleCrown" target="#TripleCrown" weight="6412" />
+      <edge id="373" source="#BigTen" target="#NCAA" weight="3206" />
+      <edge id="374" source="#Blackhawksrally" target="#Blackhawks" weight="6412" />
+      <edge id="375" source="#Blackhawksrally" target="#StanleyCup" weight="3206" />
+      <edge id="376" source="#Blackhawksrally" target="#blackhawks" weight="3206" />
+      <edge id="377" source="#polarvortex" target="#chicagowx" weight="3206" />
+      <edge id="378" source="#StanleyCup" target="#blackhawks" weight="6412" />
+      <edge id="379" source="#cre" target="#boats" weight="3206" />
+      <edge id="380" source="#cre" target="#restaurantrow" weight="3206" />
+      <edge id="381" source="#cre" target="#hotel" weight="3206" />
+      <edge id="382" source="#latergram" target="#birthday" weight="3206" />
+      <edge id="383" source="#latergram" target="#Derby" weight="3206" />
+      <edge id="384" source="#fourthofjuly" target="#happyfourth" weight="3206" />
+      <edge id="385" source="#Whiskey" target="#travel" weight="3206" />
+      <edge id="386" source="#trans" target="#Bruce" weight="3206" />
+      <edge id="387" source="#Atwood" target="#kimptonchi" weight="3206" />
+      <edge id="388" source="#indiefilm" target="#summer" weight="3206" />
+      <edge id="389" source="#chicagowx" target="#spring" weight="3206" />
+      <edge id="390" source="#chicagowx" target="#cincywx" weight="3206" />
+      <edge id="391" source="#lunch" target="#burger" weight="3206" />
+      <edge id="392" source="#lunch" target="#fresh" weight="3206" />
+      <edge id="393" source="#petcare" target="#veterinary" weight="3206" />
+      <edge id="394" source="#ipl" target="#ipa" weight="3206" />
+      <edge id="395" source="#party" target="#US" weight="3206" />
+      <edge id="396" source="#GratefulDead" target="#FareTheeWell" weight="9618" />
+      <edge id="397" source="#GratefulDead" target="#GDtruckin" weight="6412" />
+      <edge id="398" source="#Blackhawks" target="#blackhawksparade" weight="3206" />
+      <edge id="399" source="#pot" target="#mjbizcon" weight="3206" />
+      <edge id="400" source="#Crohns" target="#Colitis" weight="3206" />
+      <edge id="401" source="#Wickerpark" target="#bucktown" weight="3206" />
+      <edge id="402" source="#weekend" target="#summer" weight="3206" />
+      <edge id="403" source="#summer" target="#herbal" weight="3206" />
+      <edge id="404" source="#40Under40" target="#ccb40s" weight="3206" />
+      <edge id="405" source="#wheresthecup" target="#blackhawks" weight="3206" />
+      <edge id="406" source="#donuts" target="#doughnuts" weight="3206" />
+    </edges>
+  </graph>
+</gexf>

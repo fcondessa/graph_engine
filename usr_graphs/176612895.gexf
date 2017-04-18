@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#barkbox" label="#barkbox" />
+      <node id="#latelivetweet" label="#latelivetweet" />
+      <node id="#PP2" label="#PP2" />
+      <node id="#bestcoffeeever" label="#bestcoffeeever" />
+      <node id="#justolds" label="#justolds" />
+      <node id="#summer" label="#summer" />
+      <node id="#battleofcastleblack" label="#battleofcastleblack" />
+      <node id="#disgusted" label="#disgusted" />
+      <node id="#sometimesIworry" label="#sometimesIworry" />
+      <node id="#marshmallow" label="#marshmallow" />
+      <node id="#lovecincinnati" label="#lovecincinnati" />
+      <node id="#thewire" label="#thewire" />
+      <node id="#WildlifeCanyon" label="#WildlifeCanyon" />
+      <node id="#nodrama" label="#nodrama" />
+      <node id="#flattered" label="#flattered" />
+      <node id="#DarbySmart" label="#DarbySmart" />
+      <node id="#PitchPerfect2Problems" label="#PitchPerfect2Problems" />
+      <node id="#DOMA" label="#DOMA" />
+      <node id="#CincinnatiZoo" label="#CincinnatiZoo" />
+      <node id="#DayOfMaking" label="#DayOfMaking" />
+      <node id="#Nocableproblems" label="#Nocableproblems" />
+      <node id="#GameOfThrones" label="#GameOfThrones" />
+      <node id="#UnionTerminal" label="#UnionTerminal" />
+      <node id="#ValentinesDay" label="#ValentinesDay" />
+      <node id="#Leggings" label="#Leggings" />
+      <node id="#LumenoCity" label="#LumenoCity" />
+      <node id="#themindyproject" label="#themindyproject" />
+      <node id="#GingerSolutions" label="#GingerSolutions" />
+      <node id="#allergiesareawayoflife" label="#allergiesareawayoflife" />
+      <node id="#PLLDay" label="#PLLDay" />
+      <node id="#VeronicaMarsMovie" label="#VeronicaMarsMovie" />
+      <node id="#FatAmy" label="#FatAmy" />
+      <node id="#OITNB" label="#OITNB" />
+      <node id="#Prop8" label="#Prop8" />
+      <node id="#rent" label="#rent" />
+      <node id="#sad" label="#sad" />
+      <node id="#shameless" label="#shameless" />
+      <node id="#fountainsquare" label="#fountainsquare" />
+      <node id="#PitchPerfect2" label="#PitchPerfect2" />
+      <node id="#nostabbing" label="#nostabbing" />
+      <node id="#arfarf" label="#arfarf" />
+      <node id="#getready" label="#getready" />
+      <node id="#GoT" label="#GoT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#barkbox" target="#arfarf" weight="454" />
+      <edge id="1" source="#latelivetweet" target="#GoT" weight="454" />
+      <edge id="2" source="#PP2" target="#Leggings" weight="454" />
+      <edge id="3" source="#bestcoffeeever" target="#allergiesareawayoflife" weight="454" />
+      <edge id="4" source="#justolds" target="#nostabbing" weight="454" />
+      <edge id="5" source="#justolds" target="#nodrama" weight="454" />
+      <edge id="6" source="#justolds" target="#OITNB" weight="454" />
+      <edge id="7" source="#summer" target="#PitchPerfect2" weight="454" />
+      <edge id="8" source="#summer" target="#FatAmy" weight="454" />
+      <edge id="9" source="#battleofcastleblack" target="#GameOfThrones" weight="454" />
+      <edge id="10" source="#disgusted" target="#sad" weight="454" />
+      <edge id="11" source="#sometimesIworry" target="#PitchPerfect2Problems" weight="454" />
+      <edge id="12" source="#marshmallow" target="#VeronicaMarsMovie" weight="454" />
+      <edge id="13" source="#lovecincinnati" target="#fountainsquare" weight="454" />
+      <edge id="14" source="#thewire" target="#rent" weight="454" />
+      <edge id="15" source="#WildlifeCanyon" target="#CincinnatiZoo" weight="454" />
+      <edge id="16" source="#nodrama" target="#OITNB" weight="454" />
+      <edge id="17" source="#nodrama" target="#nostabbing" weight="454" />
+      <edge id="18" source="#flattered" target="#shameless" weight="454" />
+      <edge id="19" source="#DarbySmart" target="#DayOfMaking" weight="454" />
+      <edge id="20" source="#DOMA" target="#Prop8" weight="454" />
+      <edge id="21" source="#Nocableproblems" target="#PLLDay" weight="454" />
+      <edge id="22" source="#UnionTerminal" target="#LumenoCity" weight="454" />
+      <edge id="23" source="#ValentinesDay" target="#GingerSolutions" weight="454" />
+      <edge id="24" source="#themindyproject" target="#getready" weight="454" />
+      <edge id="25" source="#FatAmy" target="#PitchPerfect2" weight="454" />
+      <edge id="26" source="#OITNB" target="#nostabbing" weight="454" />
+    </edges>
+  </graph>
+</gexf>

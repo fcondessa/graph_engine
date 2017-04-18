@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NABJ2011" label="#NABJ2011" />
+      <node id="#APTE" label="#APTE" />
+      <node id="#Jerry10TV" label="#Jerry10TV" />
+      <node id="#PWStudio" label="#PWStudio" />
+      <node id="#PRSA" label="#PRSA" />
+      <node id="#CNBC" label="#CNBC" />
+      <node id="#NABJ11" label="#NABJ11" />
+      <node id="#LeeHawkins" label="#LeeHawkins" />
+      <node id="#Fisher" label="#Fisher" />
+      <node id="#NBCNews" label="#NBCNews" />
+      <node id="#WSJ" label="#WSJ" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NABJ2011" target="#CNBC" weight="171" />
+      <edge id="1" source="#APTE" target="#PWStudio" weight="171" />
+      <edge id="2" source="#Jerry10TV" target="#NABJ11" weight="171" />
+      <edge id="3" source="#PRSA" target="#Fisher" weight="171" />
+      <edge id="4" source="#NABJ11" target="#NBCNews" weight="171" />
+      <edge id="5" source="#LeeHawkins" target="#WSJ" weight="171" />
+    </edges>
+  </graph>
+</gexf>

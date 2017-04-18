@@ -1,0 +1,808 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#coprsa" label="#coprsa" />
+      <node id="#steinerstrong" label="#steinerstrong" />
+      <node id="#FCBank" label="#FCBank" />
+      <node id="#FarmtoPlate" label="#FarmtoPlate" />
+      <node id="#cbusjobs" label="#cbusjobs" />
+      <node id="#Gibsonburg" label="#Gibsonburg" />
+      <node id="#humble" label="#humble" />
+      <node id="#dinnerofchampions" label="#dinnerofchampions" />
+      <node id="#memorialday2015" label="#memorialday2015" />
+      <node id="#shamrock" label="#shamrock" />
+      <node id="#happy" label="#happy" />
+      <node id="#ItsHappeninginDublin" label="#ItsHappeninginDublin" />
+      <node id="#InsideBusiness" label="#InsideBusiness" />
+      <node id="#WhenPigsFly" label="#WhenPigsFly" />
+      <node id="#COPRSA" label="#COPRSA" />
+      <node id="#sanduskyohio" label="#sanduskyohio" />
+      <node id="#LegendsLunch" label="#LegendsLunch" />
+      <node id="#XFINITY" label="#XFINITY" />
+      <node id="#gdc" label="#gdc" />
+      <node id="#thankful" label="#thankful" />
+      <node id="#brand" label="#brand" />
+      <node id="#Bike" label="#Bike" />
+      <node id="#mediarelations12" label="#mediarelations12" />
+      <node id="#PRM30" label="#PRM30" />
+      <node id="#trustbelt15" label="#trustbelt15" />
+      <node id="#elnino" label="#elnino" />
+      <node id="#dublink" label="#dublink" />
+      <node id="#memorialtournament" label="#memorialtournament" />
+      <node id="#MoveColumbus" label="#MoveColumbus" />
+      <node id="#FrankUnderwood" label="#FrankUnderwood" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#thankyouleatherlips" label="#thankyouleatherlips" />
+      <node id="#housing" label="#housing" />
+      <node id="#dublindifference" label="#dublindifference" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#businessappreciationday" label="#businessappreciationday" />
+      <node id="#Prescup" label="#Prescup" />
+      <node id="#soDublin" label="#soDublin" />
+      <node id="#slainte" label="#slainte" />
+      <node id="#DublinSOTC" label="#DublinSOTC" />
+      <node id="#SB47" label="#SB47" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#snowpocalypse" label="#snowpocalypse" />
+      <node id="#Fast50" label="#Fast50" />
+      <node id="#USA" label="#USA" />
+      <node id="#ShopDublin" label="#ShopDublin" />
+      <node id="#BridgePark" label="#BridgePark" />
+      <node id="#vzwmidwest" label="#vzwmidwest" />
+      <node id="#Adidas" label="#Adidas" />
+      <node id="#prnightmare" label="#prnightmare" />
+      <node id="#PowerBreakfast" label="#PowerBreakfast" />
+      <node id="#DublinEconDev" label="#DublinEconDev" />
+      <node id="#faith" label="#faith" />
+      <node id="#UnionCounty" label="#UnionCounty" />
+      <node id="#OCLC" label="#OCLC" />
+      <node id="#BPTW" label="#BPTW" />
+      <node id="#worldclassgolf" label="#worldclassgolf" />
+      <node id="#VPdebate" label="#VPdebate" />
+      <node id="#annualpumpkintreat" label="#annualpumpkintreat" />
+      <node id="#NordstromRack" label="#NordstromRack" />
+      <node id="#rfactor" label="#rfactor" />
+      <node id="#nothappyaboutit" label="#nothappyaboutit" />
+      <node id="#NotSoRealTime" label="#NotSoRealTime" />
+      <node id="#snow" label="#snow" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#Pacer" label="#Pacer" />
+      <node id="#health" label="#health" />
+      <node id="#saferide" label="#saferide" />
+      <node id="#independenceday" label="#independenceday" />
+      <node id="#theMemorial" label="#theMemorial" />
+      <node id="#safety" label="#safety" />
+      <node id="#cbusregion" label="#cbusregion" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#dublinirishfest2013" label="#dublinirishfest2013" />
+      <node id="#Addiction" label="#Addiction" />
+      <node id="#slowdown" label="#slowdown" />
+      <node id="#hottestwings" label="#hottestwings" />
+      <node id="#Sandy" label="#Sandy" />
+      <node id="#zestfest" label="#zestfest" />
+      <node id="#welcome" label="#welcome" />
+      <node id="#biggestfan" label="#biggestfan" />
+      <node id="#golf" label="#golf" />
+      <node id="#clevelandcavaliers" label="#clevelandcavaliers" />
+      <node id="#prsacentraliohio" label="#prsacentraliohio" />
+      <node id="#Bicycle" label="#Bicycle" />
+      <node id="#40thMemorial" label="#40thMemorial" />
+      <node id="#DublinisHome" label="#DublinisHome" />
+      <node id="#finalfour" label="#finalfour" />
+      <node id="#believe" label="#believe" />
+      <node id="#dublinecondev" label="#dublinecondev" />
+      <node id="#cbusconnect" label="#cbusconnect" />
+      <node id="#dublinkfiber" label="#dublinkfiber" />
+      <node id="#columbusconnects" label="#columbusconnects" />
+      <node id="#oneofUS" label="#oneofUS" />
+      <node id="#everythingrowshere" label="#everythingrowshere" />
+      <node id="#buckeyes" label="#buckeyes" />
+      <node id="#everythinggrowshere" label="#everythinggrowshere" />
+      <node id="#SoDublin" label="#SoDublin" />
+      <node id="#LeadershipDublin" label="#LeadershipDublin" />
+      <node id="#prsa" label="#prsa" />
+      <node id="#smartcolumbus" label="#smartcolumbus" />
+      <node id="#moon" label="#moon" />
+      <node id="#Dallas" label="#Dallas" />
+      <node id="#AMC" label="#AMC" />
+      <node id="#presidentscup" label="#presidentscup" />
+      <node id="#gatorade" label="#gatorade" />
+      <node id="#BridgeStDist" label="#BridgeStDist" />
+      <node id="#legacy" label="#legacy" />
+      <node id="#SmartCityChallenge" label="#SmartCityChallenge" />
+      <node id="#snowgochampions" label="#snowgochampions" />
+      <node id="#twitteradvancedsearch" label="#twitteradvancedsearch" />
+      <node id="#GoBuckeyes" label="#GoBuckeyes" />
+      <node id="#Clydesdale" label="#Clydesdale" />
+      <node id="#sanatonio" label="#sanatonio" />
+      <node id="#BattleOn" label="#BattleOn" />
+      <node id="#passion" label="#passion" />
+      <node id="#RNC2CLE" label="#RNC2CLE" />
+      <node id="#MarysvilleOH" label="#MarysvilleOH" />
+      <node id="#DublinIsHome" label="#DublinIsHome" />
+      <node id="#mtgolf" label="#mtgolf" />
+      <node id="#Transit" label="#Transit" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#ColumbusCTA" label="#ColumbusCTA" />
+      <node id="#FBUTopGun" label="#FBUTopGun" />
+      <node id="#2014StateoftheCity" label="#2014StateoftheCity" />
+      <node id="#nightphotography" label="#nightphotography" />
+      <node id="#DublinOH" label="#DublinOH" />
+      <node id="#100gig" label="#100gig" />
+      <node id="#smartcities" label="#smartcities" />
+      <node id="#3CMAannual" label="#3CMAannual" />
+      <node id="#PresCup" label="#PresCup" />
+      <node id="#mixeduse" label="#mixeduse" />
+      <node id="#champion" label="#champion" />
+      <node id="#jenis" label="#jenis" />
+      <node id="#Snow" label="#Snow" />
+      <node id="#MTGolf" label="#MTGolf" />
+      <node id="#Walkability" label="#Walkability" />
+      <node id="#msr" label="#msr" />
+      <node id="#blessed" label="#blessed" />
+      <node id="#Branding" label="#Branding" />
+      <node id="#canon70d" label="#canon70d" />
+      <node id="#cavs" label="#cavs" />
+      <node id="#OSUBuckeyes" label="#OSUBuckeyes" />
+      <node id="#parksandrec" label="#parksandrec" />
+      <node id="#SNL" label="#SNL" />
+      <node id="#IrishFestival" label="#IrishFestival" />
+      <node id="#streaking" label="#streaking" />
+      <node id="#NationalChampionship" label="#NationalChampionship" />
+      <node id="#thememorial" label="#thememorial" />
+      <node id="#tastechicago" label="#tastechicago" />
+      <node id="#BigIdeas" label="#BigIdeas" />
+      <node id="#Chamber2015" label="#Chamber2015" />
+      <node id="#PresidentsCup" label="#PresidentsCup" />
+      <node id="#cedarpoint" label="#cedarpoint" />
+      <node id="#love" label="#love" />
+      <node id="#recovery" label="#recovery" />
+      <node id="#itsgreenerindublin" label="#itsgreenerindublin" />
+      <node id="#AAA" label="#AAA" />
+      <node id="#OUHCOM" label="#OUHCOM" />
+      <node id="#schoolclosinghq" label="#schoolclosinghq" />
+      <node id="#Believeland" label="#Believeland" />
+      <node id="#BeatBama" label="#BeatBama" />
+      <node id="#GenPinterest" label="#GenPinterest" />
+      <node id="#streaker" label="#streaker" />
+      <node id="#MemorialTournament" label="#MemorialTournament" />
+      <node id="#storytelling" label="#storytelling" />
+      <node id="#marketingguru" label="#marketingguru" />
+      <node id="#Dublink" label="#Dublink" />
+      <node id="#KeepTalking" label="#KeepTalking" />
+      <node id="#wink" label="#wink" />
+      <node id="#asseenincbus" label="#asseenincbus" />
+      <node id="#prevention" label="#prevention" />
+      <node id="#ASK" label="#ASK" />
+      <node id="#Cities" label="#Cities" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#GRAMMYs" label="#GRAMMYs" />
+      <node id="#horrible" label="#horrible" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#dublinstateofthecity" label="#dublinstateofthecity" />
+      <node id="#techniquetrained" label="#techniquetrained" />
+      <node id="#dublinishome" label="#dublinishome" />
+      <node id="#beach" label="#beach" />
+      <node id="#CNG" label="#CNG" />
+      <node id="#comedy" label="#comedy" />
+      <node id="#IGS" label="#IGS" />
+      <node id="#smartmobility" label="#smartmobility" />
+      <node id="#ColumbusOhio" label="#ColumbusOhio" />
+      <node id="#SuperBowlXLIX" label="#SuperBowlXLIX" />
+      <node id="#government" label="#government" />
+      <node id="#TRX" label="#TRX" />
+      <node id="#letsgetphysical" label="#letsgetphysical" />
+      <node id="#OPENbowl" label="#OPENbowl" />
+      <node id="#DC" label="#DC" />
+      <node id="#traderjoes" label="#traderjoes" />
+      <node id="#jollytime" label="#jollytime" />
+      <node id="#eatirish" label="#eatirish" />
+      <node id="#hurricane" label="#hurricane" />
+      <node id="#CBUSConnect" label="#CBUSConnect" />
+      <node id="#espnsportscenter" label="#espnsportscenter" />
+      <node id="#irishisanattitude" label="#irishisanattitude" />
+      <node id="#cantescape" label="#cantescape" />
+      <node id="#BizFirst" label="#BizFirst" />
+      <node id="#youdidit" label="#youdidit" />
+      <node id="#transformation" label="#transformation" />
+      <node id="#wherechampionsreside" label="#wherechampionsreside" />
+      <node id="#COPEC" label="#COPEC" />
+      <node id="#ringmaster" label="#ringmaster" />
+      <node id="#wendysHQ" label="#wendysHQ" />
+      <node id="#Dcvbu" label="#Dcvbu" />
+      <node id="#generation" label="#generation" />
+      <node id="#nofootball" label="#nofootball" />
+      <node id="#prsacentralohio" label="#prsacentralohio" />
+      <node id="#oysters" label="#oysters" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#boatinglife" label="#boatinglife" />
+      <node id="#no1around" label="#no1around" />
+      <node id="#begrateful" label="#begrateful" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#expcols13" label="#expcols13" />
+      <node id="#pretzelbaconburger" label="#pretzelbaconburger" />
+      <node id="#VP" label="#VP" />
+      <node id="#fall" label="#fall" />
+      <node id="#islandlife" label="#islandlife" />
+      <node id="#holidayweekend" label="#holidayweekend" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#StephenBaldwin" label="#StephenBaldwin" />
+      <node id="#Advertising" label="#Advertising" />
+      <node id="#sodublin" label="#sodublin" />
+      <node id="#MuirfieldVillage" label="#MuirfieldVillage" />
+      <node id="#dubliniseverywhere" label="#dubliniseverywhere" />
+      <node id="#Chobani" label="#Chobani" />
+      <node id="#Multifamily" label="#Multifamily" />
+      <node id="#cmcforum" label="#cmcforum" />
+      <node id="#dublinirishfest" label="#dublinirishfest" />
+      <node id="#Superbowl46" label="#Superbowl46" />
+      <node id="#Pedestrian" label="#Pedestrian" />
+      <node id="#MAI" label="#MAI" />
+      <node id="#BWChat" label="#BWChat" />
+      <node id="#hardhattour" label="#hardhattour" />
+      <node id="#ThorRamsey" label="#ThorRamsey" />
+      <node id="#Tourism" label="#Tourism" />
+      <node id="#marchmadness" label="#marchmadness" />
+      <node id="#mymemorial" label="#mymemorial" />
+      <node id="#HistoricDublin" label="#HistoricDublin" />
+      <node id="#ecdevel" label="#ecdevel" />
+      <node id="#253001newjobs" label="#253001newjobs" />
+      <node id="#Big10" label="#Big10" />
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#CraveCbus" label="#CraveCbus" />
+      <node id="#Worthington" label="#Worthington" />
+      <node id="#lakelife" label="#lakelife" />
+      <node id="#thebashisback" label="#thebashisback" />
+      <node id="#Brands" label="#Brands" />
+      <node id="#chamber" label="#chamber" />
+      <node id="#marketplace" label="#marketplace" />
+      <node id="#visitorresearch" label="#visitorresearch" />
+      <node id="#EconomicDevelopment" label="#EconomicDevelopment" />
+      <node id="#TheBashisBack" label="#TheBashisBack" />
+      <node id="#GoUSA" label="#GoUSA" />
+      <node id="#Syracuse" label="#Syracuse" />
+      <node id="#crisisleadership" label="#crisisleadership" />
+      <node id="#Storify" label="#Storify" />
+      <node id="#springfever2014" label="#springfever2014" />
+      <node id="#cmgr" label="#cmgr" />
+      <node id="#pretentious" label="#pretentious" />
+      <node id="#mayors" label="#mayors" />
+      <node id="#polling" label="#polling" />
+      <node id="#dublinohio" label="#dublinohio" />
+      <node id="#GovGirl" label="#GovGirl" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#aepfail" label="#aepfail" />
+      <node id="#ResearchTriangle" label="#ResearchTriangle" />
+      <node id="#StopHeroin" label="#StopHeroin" />
+      <node id="#Verizon" label="#Verizon" />
+      <node id="#localgov" label="#localgov" />
+      <node id="#MyMemorial" label="#MyMemorial" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#CommandAlkon" label="#CommandAlkon" />
+      <node id="#megmarriesgreg" label="#megmarriesgreg" />
+      <node id="#mediacenter" label="#mediacenter" />
+      <node id="#bikefriendly" label="#bikefriendly" />
+      <node id="#happyfeet" label="#happyfeet" />
+      <node id="#in" label="#in" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#memorialgolf" label="#memorialgolf" />
+      <node id="#economic" label="#economic" />
+      <node id="#progressahead" label="#progressahead" />
+      <node id="#Social" label="#Social" />
+      <node id="#powerbreakfast" label="#powerbreakfast" />
+      <node id="#globaltrade" label="#globaltrade" />
+      <node id="#nbachamps" label="#nbachamps" />
+      <node id="#Comcast" label="#Comcast" />
+      <node id="#NikeAir" label="#NikeAir" />
+      <node id="#treatyourself" label="#treatyourself" />
+      <node id="#shopping" label="#shopping" />
+      <node id="#breakfastclub" label="#breakfastclub" />
+      <node id="#BridgeParkWest" label="#BridgeParkWest" />
+      <node id="#drivelikeadubliner" label="#drivelikeadubliner" />
+      <node id="#halloween" label="#halloween" />
+      <node id="#rigsbys" label="#rigsbys" />
+      <node id="#Dispatch" label="#Dispatch" />
+      <node id="#art" label="#art" />
+      <node id="#sanantonio" label="#sanantonio" />
+      <node id="#defense" label="#defense" />
+      <node id="#StPattysWeekend" label="#StPattysWeekend" />
+      <node id="#chamber2015" label="#chamber2015" />
+      <node id="#dublinmoms" label="#dublinmoms" />
+      <node id="#The" label="#The" />
+      <node id="#homerun" label="#homerun" />
+      <node id="#worldclasscity" label="#worldclasscity" />
+      <node id="#astrophotography" label="#astrophotography" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#DublinIrishFest" label="#DublinIrishFest" />
+      <node id="#DublinOhio" label="#DublinOhio" />
+      <node id="#custservfail" label="#custservfail" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#byebyeburness" label="#byebyeburness" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#BridgeStreetDistrict" label="#BridgeStreetDistrict" />
+      <node id="#givememydiploma" label="#givememydiploma" />
+      <node id="#CTA" label="#CTA" />
+      <node id="#OHIO" label="#OHIO" />
+      <node id="#riverwalk" label="#riverwalk" />
+      <node id="#Gahanna" label="#Gahanna" />
+      <node id="#historicdublin" label="#historicdublin" />
+      <node id="#SuperBowlAds" label="#SuperBowlAds" />
+      <node id="#designatedriver" label="#designatedriver" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#econdev" label="#econdev" />
+      <node id="#2014AcademicSummit" label="#2014AcademicSummit" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#bikemonth" label="#bikemonth" />
+      <node id="#discofever" label="#discofever" />
+      <node id="#morpc" label="#morpc" />
+      <node id="#Meetings" label="#Meetings" />
+      <node id="#regram" label="#regram" />
+      <node id="#CBUSconnect" label="#CBUSconnect" />
+      <node id="#sunlight" label="#sunlight" />
+      <node id="#EconDev" label="#EconDev" />
+      <node id="#kanyewestsucks" label="#kanyewestsucks" />
+      <node id="#DestinationDublin" label="#DestinationDublin" />
+      <node id="#nopower" label="#nopower" />
+      <node id="#bwchat" label="#bwchat" />
+      <node id="#sharktank" label="#sharktank" />
+      <node id="#PR" label="#PR" />
+      <node id="#nightsky" label="#nightsky" />
+      <node id="#prescup" label="#prescup" />
+      <node id="#3CMAAnnual" label="#3CMAAnnual" />
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#Insight2050" label="#Insight2050" />
+      <node id="#fail" label="#fail" />
+      <node id="#mydublin" label="#mydublin" />
+      <node id="#girlcandream" label="#girlcandream" />
+      <node id="#Dublinishome" label="#Dublinishome" />
+      <node id="#Wendys" label="#Wendys" />
+      <node id="#SmartCitiesChallenge" label="#SmartCitiesChallenge" />
+      <node id="#dublinamrotary" label="#dublinamrotary" />
+      <node id="#OpenForBiz" label="#OpenForBiz" />
+      <node id="#nbafinals" label="#nbafinals" />
+      <node id="#gspmgwu" label="#gspmgwu" />
+      <node id="#MostPopular" label="#MostPopular" />
+      <node id="#AdBowl" label="#AdBowl" />
+      <node id="#dotell" label="#dotell" />
+      <node id="#sportsdestination" label="#sportsdestination" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#roundabout" label="#roundabout" />
+      <node id="#Chattanooga" label="#Chattanooga" />
+      <node id="#TFF" label="#TFF" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#DublinBlarneyBash" label="#DublinBlarneyBash" />
+      <node id="#MORPC" label="#MORPC" />
+      <node id="#SafeTravels" label="#SafeTravels" />
+      <node id="#BWchat" label="#BWchat" />
+      <node id="#SOTR2015" label="#SOTR2015" />
+      <node id="#CMWorld" label="#CMWorld" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#coprsa" target="#rfactor" weight="3197" />
+      <edge id="1" source="#steinerstrong" target="#dublinohio" weight="3197" />
+      <edge id="2" source="#FCBank" target="#BridgePark" weight="3197" />
+      <edge id="3" source="#FarmtoPlate" target="#CraveCbus" weight="3197" />
+      <edge id="4" source="#cbusjobs" target="#lifeincbus" weight="6394" />
+      <edge id="5" source="#cbusjobs" target="#econdev" weight="3197" />
+      <edge id="6" source="#Gibsonburg" target="#dublinohio" weight="3197" />
+      <edge id="7" source="#humble" target="#happy" weight="3197" />
+      <edge id="8" source="#humble" target="#GRAMMYs" weight="3197" />
+      <edge id="9" source="#dinnerofchampions" target="#jollytime" weight="3197" />
+      <edge id="10" source="#memorialday2015" target="#lakelife" weight="3197" />
+      <edge id="11" source="#shamrock" target="#welcome" weight="3197" />
+      <edge id="12" source="#shamrock" target="#shopping" weight="3197" />
+      <edge id="13" source="#shamrock" target="#dublinohio" weight="3197" />
+      <edge id="14" source="#shamrock" target="#historicdublin" weight="3197" />
+      <edge id="15" source="#shamrock" target="#irishisanattitude" weight="3197" />
+      <edge id="16" source="#happy" target="#GRAMMYs" weight="6394" />
+      <edge id="17" source="#ItsHappeninginDublin" target="#MostPopular" weight="3197" />
+      <edge id="18" source="#InsideBusiness" target="#dublinohio" weight="3197" />
+      <edge id="19" source="#WhenPigsFly" target="#BizFirst" weight="3197" />
+      <edge id="20" source="#COPRSA" target="#rfactor" weight="6394" />
+      <edge id="21" source="#sanduskyohio" target="#marketplace" weight="3197" />
+      <edge id="22" source="#LegendsLunch" target="#OSU" weight="3197" />
+      <edge id="23" source="#LegendsLunch" target="#memorialtournament" weight="3197" />
+      <edge id="24" source="#XFINITY" target="#Comcast" weight="3197" />
+      <edge id="25" source="#XFINITY" target="#custservfail" weight="3197" />
+      <edge id="26" source="#gdc" target="#schoolclosinghq" weight="3197" />
+      <edge id="27" source="#thankful" target="#blessed" weight="3197" />
+      <edge id="28" source="#brand" target="#transformation" weight="3197" />
+      <edge id="29" source="#Bike" target="#Transit" weight="3197" />
+      <edge id="30" source="#Bike" target="#Pedestrian" weight="3197" />
+      <edge id="31" source="#mediarelations12" target="#Verizon" weight="3197" />
+      <edge id="32" source="#mediarelations12" target="#gspmgwu" weight="3197" />
+      <edge id="33" source="#PRM30" target="#letsgetphysical" weight="3197" />
+      <edge id="34" source="#PRM30" target="#TBT" weight="3197" />
+      <edge id="35" source="#trustbelt15" target="#econdev" weight="3197" />
+      <edge id="36" source="#trustbelt15" target="#theMemorial" weight="3197" />
+      <edge id="37" source="#elnino" target="#itsgreenerindublin" weight="3197" />
+      <edge id="38" source="#elnino" target="#love" weight="3197" />
+      <edge id="39" source="#dublink" target="#smartcolumbus" weight="3197" />
+      <edge id="40" source="#dublink" target="#100gig" weight="3197" />
+      <edge id="41" source="#memorialtournament" target="#OSU" weight="3197" />
+      <edge id="42" source="#MoveColumbus" target="#oneofUS" weight="3197" />
+      <edge id="43" source="#MoveColumbus" target="#SmartColumbus" weight="3197" />
+      <edge id="44" source="#MoveColumbus" target="#SmartCityChallenge" weight="3197" />
+      <edge id="45" source="#FrankUnderwood" target="#CMWorld" weight="3197" />
+      <edge id="46" source="#gobucks" target="#OSU" weight="3197" />
+      <edge id="47" source="#gobucks" target="#Dublinishome" weight="3197" />
+      <edge id="48" source="#gobucks" target="#dublinishome" weight="6394" />
+      <edge id="49" source="#thankyouleatherlips" target="#dublinishome" weight="3197" />
+      <edge id="50" source="#thankyouleatherlips" target="#thememorial" weight="3197" />
+      <edge id="51" source="#housing" target="#Multifamily" weight="3197" />
+      <edge id="52" source="#dublindifference" target="#dublinishome" weight="3197" />
+      <edge id="53" source="#Buckeyes" target="#TFF" weight="3197" />
+      <edge id="54" source="#Buckeyes" target="#GoBucks" weight="3197" />
+      <edge id="55" source="#Buckeyes" target="#cbusproud" weight="3197" />
+      <edge id="56" source="#Buckeyes" target="#Dallas" weight="3197" />
+      <edge id="57" source="#Buckeyes" target="#BeatBama" weight="3197" />
+      <edge id="58" source="#businessappreciationday" target="#dublinishome" weight="9591" />
+      <edge id="59" source="#businessappreciationday" target="#dublinecondev" weight="3197" />
+      <edge id="60" source="#businessappreciationday" target="#dublinohio" weight="3197" />
+      <edge id="61" source="#Prescup" target="#dublinohio" weight="3197" />
+      <edge id="62" source="#soDublin" target="#ringmaster" weight="3197" />
+      <edge id="63" source="#slainte" target="#TheBashisBack" weight="3197" />
+      <edge id="64" source="#DublinSOTC" target="#PresidentsCup" weight="3197" />
+      <edge id="65" source="#SB47" target="#AdBowl" weight="3197" />
+      <edge id="66" source="#TBT" target="#letsgetphysical" weight="3197" />
+      <edge id="67" source="#snowpocalypse" target="#dublinohio" weight="3197" />
+      <edge id="68" source="#Fast50" target="#MAI" weight="3197" />
+      <edge id="69" source="#USA" target="#Ohio" weight="3197" />
+      <edge id="70" source="#USA" target="#DC" weight="3197" />
+      <edge id="71" source="#USA" target="#dublinohio" weight="3197" />
+      <edge id="72" source="#USA" target="#art" weight="3197" />
+      <edge id="73" source="#USA" target="#prescup" weight="3197" />
+      <edge id="74" source="#ShopDublin" target="#OpenForBiz" weight="3197" />
+      <edge id="75" source="#BridgePark" target="#passion" weight="3197" />
+      <edge id="76" source="#vzwmidwest" target="#jobs" weight="3197" />
+      <edge id="77" source="#Adidas" target="#techniquetrained" weight="3197" />
+      <edge id="78" source="#Adidas" target="#FBUTopGun" weight="3197" />
+      <edge id="79" source="#Adidas" target="#gatorade" weight="3197" />
+      <edge id="80" source="#prnightmare" target="#cedarpoint" weight="3197" />
+      <edge id="81" source="#PowerBreakfast" target="#realestate" weight="3197" />
+      <edge id="82" source="#PowerBreakfast" target="#Storify" weight="3197" />
+      <edge id="83" source="#PowerBreakfast" target="#chamber2015" weight="3197" />
+      <edge id="84" source="#PowerBreakfast" target="#cbusconnect" weight="3197" />
+      <edge id="85" source="#DublinEconDev" target="#CNG" weight="3197" />
+      <edge id="86" source="#DublinEconDev" target="#dublinishome" weight="3197" />
+      <edge id="87" source="#faith" target="#ThorRamsey" weight="3197" />
+      <edge id="88" source="#faith" target="#comedy" weight="3197" />
+      <edge id="89" source="#faith" target="#StephenBaldwin" weight="3197" />
+      <edge id="90" source="#faith" target="#DublinOhio" weight="3197" />
+      <edge id="91" source="#UnionCounty" target="#MarysvilleOH" weight="3197" />
+      <edge id="92" source="#UnionCounty" target="#smartmobility" weight="3197" />
+      <edge id="93" source="#OCLC" target="#dublinohio" weight="3197" />
+      <edge id="94" source="#BPTW" target="#DublinisHome" weight="3197" />
+      <edge id="95" source="#worldclassgolf" target="#prescup" weight="3197" />
+      <edge id="96" source="#worldclassgolf" target="#worldclasscity" weight="3197" />
+      <edge id="97" source="#worldclassgolf" target="#dublinishome" weight="3197" />
+      <edge id="98" source="#VPdebate" target="#SNL" weight="3197" />
+      <edge id="99" source="#annualpumpkintreat" target="#dublinishome" weight="3197" />
+      <edge id="100" source="#NordstromRack" target="#happyfeet" weight="3197" />
+      <edge id="101" source="#nothappyaboutit" target="#givememydiploma" weight="3197" />
+      <edge id="102" source="#NotSoRealTime" target="#SuperBowl" weight="3197" />
+      <edge id="103" source="#NotSoRealTime" target="#OPENbowl" weight="3197" />
+      <edge id="104" source="#snow" target="#dublinishome" weight="3197" />
+      <edge id="105" source="#columbus" target="#nightphotography" weight="3197" />
+      <edge id="106" source="#columbus" target="#canon70d" weight="3197" />
+      <edge id="107" source="#columbus" target="#astrophotography" weight="3197" />
+      <edge id="108" source="#columbus" target="#moon" weight="3197" />
+      <edge id="109" source="#columbus" target="#nightsky" weight="3197" />
+      <edge id="110" source="#columbus" target="#ohio" weight="3197" />
+      <edge id="111" source="#Pacer" target="#ASK" weight="3197" />
+      <edge id="112" source="#health" target="#prevention" weight="3197" />
+      <edge id="113" source="#saferide" target="#DublinIrishFest" weight="3197" />
+      <edge id="114" source="#saferide" target="#dublinirishfest" weight="3197" />
+      <edge id="115" source="#independenceday" target="#dublinishome" weight="3197" />
+      <edge id="116" source="#theMemorial" target="#dublinishome" weight="6394" />
+      <edge id="117" source="#theMemorial" target="#prescup" weight="3197" />
+      <edge id="118" source="#theMemorial" target="#econdev" weight="3197" />
+      <edge id="119" source="#theMemorial" target="#cbusregion" weight="3197" />
+      <edge id="120" source="#safety" target="#dublinishome" weight="3197" />
+      <edge id="121" source="#cbusregion" target="#dublinohio" weight="3197" />
+      <edge id="122" source="#ohio" target="#nightphotography" weight="3197" />
+      <edge id="123" source="#ohio" target="#canon70d" weight="3197" />
+      <edge id="124" source="#ohio" target="#astrophotography" weight="3197" />
+      <edge id="125" source="#ohio" target="#moon" weight="3197" />
+      <edge id="126" source="#ohio" target="#nightsky" weight="3197" />
+      <edge id="127" source="#dublinirishfest2013" target="#expcols" weight="3197" />
+      <edge id="128" source="#Addiction" target="#StopHeroin" weight="3197" />
+      <edge id="129" source="#Addiction" target="#recovery" weight="3197" />
+      <edge id="130" source="#slowdown" target="#biggestfan" weight="3197" />
+      <edge id="131" source="#hottestwings" target="#tastechicago" weight="3197" />
+      <edge id="132" source="#Sandy" target="#hurricane" weight="3197" />
+      <edge id="133" source="#zestfest" target="#dublinishome" weight="3197" />
+      <edge id="134" source="#welcome" target="#shopping" weight="3197" />
+      <edge id="135" source="#welcome" target="#dublinohio" weight="3197" />
+      <edge id="136" source="#welcome" target="#historicdublin" weight="3197" />
+      <edge id="137" source="#welcome" target="#irishisanattitude" weight="3197" />
+      <edge id="138" source="#golf" target="#regram" weight="3197" />
+      <edge id="139" source="#golf" target="#dublinohio" weight="3197" />
+      <edge id="140" source="#golf" target="#dublinishome" weight="3197" />
+      <edge id="141" source="#golf" target="#prescup" weight="3197" />
+      <edge id="142" source="#clevelandcavaliers" target="#nbafinals" weight="3197" />
+      <edge id="143" source="#clevelandcavaliers" target="#nbachamps" weight="3197" />
+      <edge id="144" source="#prsacentraliohio" target="#BWchat" weight="3197" />
+      <edge id="145" source="#Bicycle" target="#bikemonth" weight="3197" />
+      <edge id="146" source="#Bicycle" target="#MTGolf" weight="3197" />
+      <edge id="147" source="#Bicycle" target="#bikefriendly" weight="3197" />
+      <edge id="148" source="#Bicycle" target="#PresCup" weight="3197" />
+      <edge id="149" source="#40thMemorial" target="#dublinohio" weight="3197" />
+      <edge id="150" source="#DublinisHome" target="#Dublin" weight="3197" />
+      <edge id="151" source="#DublinisHome" target="#PresCup" weight="3197" />
+      <edge id="152" source="#DublinisHome" target="#DublinOhio" weight="3197" />
+      <edge id="153" source="#finalfour" target="#marchmadness" weight="3197" />
+      <edge id="154" source="#believe" target="#Believeland" weight="3197" />
+      <edge id="155" source="#dublinecondev" target="#dublinishome" weight="6394" />
+      <edge id="156" source="#cbusconnect" target="#Chamber2015" weight="3197" />
+      <edge id="157" source="#cbusconnect" target="#chamber2015" weight="6394" />
+      <edge id="158" source="#dublinkfiber" target="#smartcolumbus" weight="3197" />
+      <edge id="159" source="#columbusconnects" target="#chamber2015" weight="6394" />
+      <edge id="160" source="#columbusconnects" target="#chamber" weight="3197" />
+      <edge id="161" source="#oneofUS" target="#SmartColumbus" weight="3197" />
+      <edge id="162" source="#oneofUS" target="#dublinohio" weight="3197" />
+      <edge id="163" source="#oneofUS" target="#SmartCityChallenge" weight="3197" />
+      <edge id="164" source="#everythingrowshere" target="#Dublin" weight="3197" />
+      <edge id="165" source="#buckeyes" target="#GoBuckeyes" weight="3197" />
+      <edge id="166" source="#everythinggrowshere" target="#Dublink" weight="3197" />
+      <edge id="167" source="#everythinggrowshere" target="#100gig" weight="3197" />
+      <edge id="168" source="#everythinggrowshere" target="#EconDev" weight="3197" />
+      <edge id="169" source="#SoDublin" target="#dublinishome" weight="3197" />
+      <edge id="170" source="#SoDublin" target="#dublinohio" weight="3197" />
+      <edge id="171" source="#LeadershipDublin" target="#EconDev" weight="3197" />
+      <edge id="172" source="#prsa" target="#BWchat" weight="3197" />
+      <edge id="173" source="#prsa" target="#bwchat" weight="3197" />
+      <edge id="174" source="#smartcolumbus" target="#smartcities" weight="3197" />
+      <edge id="175" source="#smartcolumbus" target="#100gig" weight="3197" />
+      <edge id="176" source="#smartcolumbus" target="#dublinohio" weight="3197" />
+      <edge id="177" source="#moon" target="#nightphotography" weight="3197" />
+      <edge id="178" source="#moon" target="#canon70d" weight="3197" />
+      <edge id="179" source="#moon" target="#astrophotography" weight="3197" />
+      <edge id="180" source="#moon" target="#nightsky" weight="3197" />
+      <edge id="181" source="#Dallas" target="#TFF" weight="3197" />
+      <edge id="182" source="#Dallas" target="#BeatBama" weight="3197" />
+      <edge id="183" source="#AMC" target="#Advertising" weight="3197" />
+      <edge id="184" source="#AMC" target="#The" weight="3197" />
+      <edge id="185" source="#presidentscup" target="#msr" weight="3197" />
+      <edge id="186" source="#gatorade" target="#techniquetrained" weight="3197" />
+      <edge id="187" source="#gatorade" target="#FBUTopGun" weight="3197" />
+      <edge id="188" source="#BridgeStDist" target="#dublinohio" weight="3197" />
+      <edge id="189" source="#legacy" target="#in" weight="3197" />
+      <edge id="190" source="#SmartCityChallenge" target="#SmartColumbus" weight="3197" />
+      <edge id="191" source="#snowgochampions" target="#dublinishome" weight="3197" />
+      <edge id="192" source="#twitteradvancedsearch" target="#CMWorld" weight="3197" />
+      <edge id="193" source="#GoBuckeyes" target="#NationalChampionship" weight="6394" />
+      <edge id="194" source="#Clydesdale" target="#SuperBowl" weight="3197" />
+      <edge id="195" source="#sanatonio" target="#riverwalk" weight="3197" />
+      <edge id="196" source="#sanatonio" target="#3CMAannual" weight="3197" />
+      <edge id="197" source="#BattleOn" target="#dublinishome" weight="3197" />
+      <edge id="198" source="#RNC2CLE" target="#253001newjobs" weight="3197" />
+      <edge id="199" source="#MarysvilleOH" target="#smartmobility" weight="3197" />
+      <edge id="200" source="#DublinIsHome" target="#GoBucks" weight="3197" />
+      <edge id="201" source="#DublinIsHome" target="#HistoricDublin" weight="3197" />
+      <edge id="202" source="#DublinIsHome" target="#Wendys" weight="3197" />
+      <edge id="203" source="#DublinIsHome" target="#PresCup" weight="3197" />
+      <edge id="204" source="#mtgolf" target="#dublinishome" weight="3197" />
+      <edge id="205" source="#mtgolf" target="#dublinohio" weight="3197" />
+      <edge id="206" source="#Transit" target="#Pedestrian" weight="3197" />
+      <edge id="207" source="#Jobs" target="#EconDev" weight="3197" />
+      <edge id="208" source="#ColumbusCTA" target="#CTA" weight="3197" />
+      <edge id="209" source="#FBUTopGun" target="#sportsdestination" weight="3197" />
+      <edge id="210" source="#FBUTopGun" target="#techniquetrained" weight="3197" />
+      <edge id="211" source="#FBUTopGun" target="#dublinohio" weight="3197" />
+      <edge id="212" source="#2014StateoftheCity" target="#dublinishome" weight="3197" />
+      <edge id="213" source="#nightphotography" target="#canon70d" weight="3197" />
+      <edge id="214" source="#nightphotography" target="#astrophotography" weight="3197" />
+      <edge id="215" source="#nightphotography" target="#nightsky" weight="3197" />
+      <edge id="216" source="#DublinOH" target="#ResearchTriangle" weight="3197" />
+      <edge id="217" source="#100gig" target="#Dublink" weight="3197" />
+      <edge id="218" source="#smartcities" target="#smartmobility" weight="3197" />
+      <edge id="219" source="#smartcities" target="#dublinohio" weight="3197" />
+      <edge id="220" source="#3CMAannual" target="#riverwalk" weight="3197" />
+      <edge id="221" source="#PresCup" target="#streaking" weight="3197" />
+      <edge id="222" source="#PresCup" target="#dublinohio" weight="3197" />
+      <edge id="223" source="#mixeduse" target="#Walkability" weight="3197" />
+      <edge id="224" source="#mixeduse" target="#SOTR2015" weight="3197" />
+      <edge id="225" source="#champion" target="#youdidit" weight="3197" />
+      <edge id="226" source="#jenis" target="#rigsbys" weight="3197" />
+      <edge id="227" source="#jenis" target="#Columbus" weight="3197" />
+      <edge id="228" source="#jenis" target="#OHIO" weight="3197" />
+      <edge id="229" source="#Snow" target="#SafeTravels" weight="3197" />
+      <edge id="230" source="#MTGolf" target="#bikemonth" weight="3197" />
+      <edge id="231" source="#MTGolf" target="#bikefriendly" weight="3197" />
+      <edge id="232" source="#Walkability" target="#SOTR2015" weight="3197" />
+      <edge id="233" source="#Branding" target="#localgov" weight="3197" />
+      <edge id="234" source="#Branding" target="#Tourism" weight="3197" />
+      <edge id="235" source="#Branding" target="#government" weight="3197" />
+      <edge id="236" source="#Branding" target="#ecdevel" weight="3197" />
+      <edge id="237" source="#Branding" target="#mayors" weight="3197" />
+      <edge id="238" source="#Branding" target="#Cities" weight="3197" />
+      <edge id="239" source="#Branding" target="#Marketing" weight="3197" />
+      <edge id="240" source="#canon70d" target="#astrophotography" weight="3197" />
+      <edge id="241" source="#canon70d" target="#nightsky" weight="3197" />
+      <edge id="242" source="#cavs" target="#espnsportscenter" weight="3197" />
+      <edge id="243" source="#OSUBuckeyes" target="#Big10" weight="3197" />
+      <edge id="244" source="#OSUBuckeyes" target="#dublinamrotary" weight="3197" />
+      <edge id="245" source="#parksandrec" target="#dublinohio" weight="3197" />
+      <edge id="246" source="#IrishFestival" target="#MemorialTournament" weight="3197" />
+      <edge id="247" source="#thememorial" target="#dublinishome" weight="12788" />
+      <edge id="248" source="#BigIdeas" target="#Chattanooga" weight="3197" />
+      <edge id="249" source="#love" target="#itsgreenerindublin" weight="3197" />
+      <edge id="250" source="#recovery" target="#StopHeroin" weight="3197" />
+      <edge id="251" source="#AAA" target="#Gahanna" weight="3197" />
+      <edge id="252" source="#OUHCOM" target="#dublinishome" weight="3197" />
+      <edge id="253" source="#BeatBama" target="#TFF" weight="3197" />
+      <edge id="254" source="#GenPinterest" target="#generation" weight="3197" />
+      <edge id="255" source="#streaker" target="#prescup" weight="6394" />
+      <edge id="256" source="#storytelling" target="#2014AcademicSummit" weight="3197" />
+      <edge id="257" source="#marketingguru" target="#cmcforum" weight="3197" />
+      <edge id="258" source="#KeepTalking" target="#StopHeroin" weight="3197" />
+      <edge id="259" source="#wink" target="#CMWorld" weight="3197" />
+      <edge id="260" source="#asseenincbus" target="#thebashisback" weight="3197" />
+      <edge id="261" source="#Cities" target="#government" weight="3197" />
+      <edge id="262" source="#Cities" target="#mayors" weight="3197" />
+      <edge id="263" source="#Cities" target="#ecdevel" weight="3197" />
+      <edge id="264" source="#Marketing" target="#Social" weight="3197" />
+      <edge id="265" source="#Marketing" target="#Tourism" weight="3197" />
+      <edge id="266" source="#Marketing" target="#VP" weight="3197" />
+      <edge id="267" source="#Marketing" target="#Ohio" weight="3197" />
+      <edge id="268" source="#Marketing" target="#Columbus" weight="3197" />
+      <edge id="269" source="#Marketing" target="#localgov" weight="3197" />
+      <edge id="270" source="#GRAMMYs" target="#discofever" weight="3197" />
+      <edge id="271" source="#GRAMMYs" target="#halloween" weight="3197" />
+      <edge id="272" source="#horrible" target="#kanyewestsucks" weight="3197" />
+      <edge id="273" source="#marketing" target="#PR" weight="6394" />
+      <edge id="274" source="#marketing" target="#Brands" weight="3197" />
+      <edge id="275" source="#dublinstateofthecity" target="#dublinishome" weight="9591" />
+      <edge id="276" source="#dublinishome" target="#nofilter" weight="3197" />
+      <edge id="277" source="#dublinishome" target="#cantescape" weight="3197" />
+      <edge id="278" source="#dublinishome" target="#DublinOhio" weight="3197" />
+      <edge id="279" source="#dublinishome" target="#memorialgolf" weight="6394" />
+      <edge id="280" source="#dublinishome" target="#girlcandream" weight="3197" />
+      <edge id="281" source="#dublinishome" target="#Wendys" weight="3197" />
+      <edge id="282" source="#dublinishome" target="#prescup" weight="47955" />
+      <edge id="283" source="#dublinishome" target="#GoUSA" weight="3197" />
+      <edge id="284" source="#dublinishome" target="#IGS" weight="3197" />
+      <edge id="285" source="#dublinishome" target="#StPattysWeekend" weight="3197" />
+      <edge id="286" source="#dublinishome" target="#econdev" weight="9591" />
+      <edge id="287" source="#dublinishome" target="#wendysHQ" weight="3197" />
+      <edge id="288" source="#dublinishome" target="#MyMemorial" weight="3197" />
+      <edge id="289" source="#dublinishome" target="#Dcvbu" weight="3197" />
+      <edge id="290" source="#dublinishome" target="#dublinmoms" weight="3197" />
+      <edge id="291" source="#dublinishome" target="#traderjoes" weight="3197" />
+      <edge id="292" source="#dublinishome" target="#oysters" weight="3197" />
+      <edge id="293" source="#dublinishome" target="#worldclasscity" weight="3197" />
+      <edge id="294" source="#dublinishome" target="#thebashisback" weight="6394" />
+      <edge id="295" source="#dublinishome" target="#regram" weight="6394" />
+      <edge id="296" source="#dublinishome" target="#dublinohio" weight="28773" />
+      <edge id="297" source="#dublinishome" target="#hardhattour" weight="3197" />
+      <edge id="298" source="#dublinishome" target="#DublinBlarneyBash" weight="3197" />
+      <edge id="299" source="#dublinishome" target="#EconDev" weight="3197" />
+      <edge id="300" source="#dublinishome" target="#mymemorial" weight="6394" />
+      <edge id="301" source="#dublinishome" target="#springfever2014" weight="3197" />
+      <edge id="302" source="#dublinishome" target="#breakfastclub" weight="3197" />
+      <edge id="303" source="#dublinishome" target="#irishisanattitude" weight="3197" />
+      <edge id="304" source="#beach" target="#sharktank" weight="3197" />
+      <edge id="305" source="#beach" target="#boatinglife" weight="3197" />
+      <edge id="306" source="#CNG" target="#BridgeStreetDistrict" weight="3197" />
+      <edge id="307" source="#comedy" target="#StephenBaldwin" weight="3197" />
+      <edge id="308" source="#comedy" target="#ThorRamsey" weight="3197" />
+      <edge id="309" source="#comedy" target="#DublinOhio" weight="3197" />
+      <edge id="310" source="#IGS" target="#StPattysWeekend" weight="3197" />
+      <edge id="311" source="#ColumbusOhio" target="#NikeAir" weight="3197" />
+      <edge id="312" source="#SuperBowlXLIX" target="#designatedriver" weight="3197" />
+      <edge id="313" source="#SuperBowlXLIX" target="#defense" weight="3197" />
+      <edge id="314" source="#government" target="#mayors" weight="3197" />
+      <edge id="315" source="#government" target="#ecdevel" weight="3197" />
+      <edge id="316" source="#TRX" target="#dotell" weight="3197" />
+      <edge id="317" source="#OPENbowl" target="#SuperBowl" weight="3197" />
+      <edge id="318" source="#DC" target="#Ohio" weight="3197" />
+      <edge id="319" source="#eatirish" target="#dublinohio" weight="3197" />
+      <edge id="320" source="#CBUSConnect" target="#chamber2015" weight="3197" />
+      <edge id="321" source="#irishisanattitude" target="#historicdublin" weight="3197" />
+      <edge id="322" source="#irishisanattitude" target="#dublinohio" weight="3197" />
+      <edge id="323" source="#irishisanattitude" target="#shopping" weight="3197" />
+      <edge id="324" source="#wherechampionsreside" target="#dubliniseverywhere" weight="3197" />
+      <edge id="325" source="#COPEC" target="#SocialMedia" weight="3197" />
+      <edge id="326" source="#nofootball" target="#nopower" weight="3197" />
+      <edge id="327" source="#nofootball" target="#aepfail" weight="3197" />
+      <edge id="328" source="#prsacentralohio" target="#BWChat" weight="3197" />
+      <edge id="329" source="#prsacentralohio" target="#BWchat" weight="3197" />
+      <edge id="330" source="#boatinglife" target="#sharktank" weight="3197" />
+      <edge id="331" source="#boatinglife" target="#islandlife" weight="3197" />
+      <edge id="332" source="#no1around" target="#holidayweekend" weight="3197" />
+      <edge id="333" source="#begrateful" target="#dublinamrotary" weight="3197" />
+      <edge id="334" source="#lifeincbus" target="#econdev" weight="3197" />
+      <edge id="335" source="#expcols13" target="#Columbus" weight="3197" />
+      <edge id="336" source="#pretzelbaconburger" target="#Wendys" weight="3197" />
+      <edge id="337" source="#VP" target="#Columbus" weight="3197" />
+      <edge id="338" source="#VP" target="#Social" weight="3197" />
+      <edge id="339" source="#VP" target="#Ohio" weight="3197" />
+      <edge id="340" source="#fall" target="#dublinohio" weight="3197" />
+      <edge id="341" source="#jobs" target="#cmgr" weight="3197" />
+      <edge id="342" source="#StephenBaldwin" target="#ThorRamsey" weight="3197" />
+      <edge id="343" source="#StephenBaldwin" target="#DublinOhio" weight="3197" />
+      <edge id="344" source="#Advertising" target="#The" weight="3197" />
+      <edge id="345" source="#sodublin" target="#visitorresearch" weight="3197" />
+      <edge id="346" source="#MuirfieldVillage" target="#DublinOhio" weight="3197" />
+      <edge id="347" source="#Chobani" target="#fail" weight="3197" />
+      <edge id="348" source="#cmcforum" target="#Dublin" weight="3197" />
+      <edge id="349" source="#cmcforum" target="#econdev" weight="3197" />
+      <edge id="350" source="#cmcforum" target="#Insight2050" weight="6394" />
+      <edge id="351" source="#cmcforum" target="#globaltrade" weight="3197" />
+      <edge id="352" source="#cmcforum" target="#Dispatch" weight="3197" />
+      <edge id="353" source="#cmcforum" target="#economic" weight="3197" />
+      <edge id="354" source="#cmcforum" target="#Columbus" weight="6394" />
+      <edge id="355" source="#Superbowl46" target="#SuperBowlAds" weight="3197" />
+      <edge id="356" source="#ThorRamsey" target="#DublinOhio" weight="3197" />
+      <edge id="357" source="#Tourism" target="#localgov" weight="3197" />
+      <edge id="358" source="#mymemorial" target="#memorialgolf" weight="3197" />
+      <edge id="359" source="#mymemorial" target="#dublinohio" weight="3197" />
+      <edge id="360" source="#HistoricDublin" target="#BridgeParkWest" weight="3197" />
+      <edge id="361" source="#ecdevel" target="#mayors" weight="3197" />
+      <edge id="362" source="#Dublin" target="#EconDev" weight="3197" />
+      <edge id="363" source="#Dublin" target="#DublinOhio" weight="3197" />
+      <edge id="364" source="#Worthington" target="#Columbus" weight="3197" />
+      <edge id="365" source="#Brands" target="#PR" weight="3197" />
+      <edge id="366" source="#EconomicDevelopment" target="#EconDev" weight="3197" />
+      <edge id="367" source="#GoUSA" target="#prescup" weight="3197" />
+      <edge id="368" source="#GoUSA" target="#dublinohio" weight="3197" />
+      <edge id="369" source="#Syracuse" target="#pretentious" weight="3197" />
+      <edge id="370" source="#Syracuse" target="#Columbus" weight="3197" />
+      <edge id="371" source="#crisisleadership" target="#chamber2015" weight="3197" />
+      <edge id="372" source="#crisisleadership" target="#CBUSconnect" weight="3197" />
+      <edge id="373" source="#pretentious" target="#Columbus" weight="3197" />
+      <edge id="374" source="#polling" target="#dublinohio" weight="3197" />
+      <edge id="375" source="#dublinohio" target="#art" weight="3197" />
+      <edge id="376" source="#dublinohio" target="#historicdublin" weight="3197" />
+      <edge id="377" source="#dublinohio" target="#memorialgolf" weight="6394" />
+      <edge id="378" source="#dublinohio" target="#Dublinishome" weight="3197" />
+      <edge id="379" source="#dublinohio" target="#econdev" weight="9591" />
+      <edge id="380" source="#dublinohio" target="#prescup" weight="28773" />
+      <edge id="381" source="#dublinohio" target="#homerun" weight="3197" />
+      <edge id="382" source="#dublinohio" target="#mediacenter" weight="3197" />
+      <edge id="383" source="#dublinohio" target="#CMWorld" weight="3197" />
+      <edge id="384" source="#dublinohio" target="#treatyourself" weight="3197" />
+      <edge id="385" source="#dublinohio" target="#shopping" weight="3197" />
+      <edge id="386" source="#GovGirl" target="#3CMAAnnual" weight="3197" />
+      <edge id="387" source="#aepfail" target="#nopower" weight="3197" />
+      <edge id="388" source="#realestate" target="#DublinOhio" weight="3197" />
+      <edge id="389" source="#CommandAlkon" target="#econdev" weight="3197" />
+      <edge id="390" source="#megmarriesgreg" target="#byebyeburness" weight="6394" />
+      <edge id="391" source="#mediacenter" target="#prescup" weight="3197" />
+      <edge id="392" source="#bikefriendly" target="#bikemonth" weight="3197" />
+      <edge id="393" source="#tbt" target="#regram" weight="3197" />
+      <edge id="394" source="#progressahead" target="#mydublin" weight="3197" />
+      <edge id="395" source="#Social" target="#Columbus" weight="3197" />
+      <edge id="396" source="#Social" target="#Ohio" weight="3197" />
+      <edge id="397" source="#powerbreakfast" target="#Columbus" weight="3197" />
+      <edge id="398" source="#nbachamps" target="#nbafinals" weight="3197" />
+      <edge id="399" source="#Comcast" target="#custservfail" weight="3197" />
+      <edge id="400" source="#shopping" target="#historicdublin" weight="3197" />
+      <edge id="401" source="#breakfastclub" target="#DublinBlarneyBash" weight="3197" />
+      <edge id="402" source="#drivelikeadubliner" target="#roundabout" weight="3197" />
+      <edge id="403" source="#rigsbys" target="#Columbus" weight="3197" />
+      <edge id="404" source="#rigsbys" target="#OHIO" weight="3197" />
+      <edge id="405" source="#art" target="#prescup" weight="3197" />
+      <edge id="406" source="#sanantonio" target="#3CMAAnnual" weight="3197" />
+      <edge id="407" source="#defense" target="#designatedriver" weight="3197" />
+      <edge id="408" source="#chamber2015" target="#CBUSconnect" weight="3197" />
+      <edge id="409" source="#worldclasscity" target="#prescup" weight="3197" />
+      <edge id="410" source="#astrophotography" target="#nightsky" weight="3197" />
+      <edge id="411" source="#SmartColumbus" target="#SmartCitiesChallenge" weight="3197" />
+      <edge id="412" source="#OHIO" target="#Columbus" weight="3197" />
+      <edge id="413" source="#Ohio" target="#sunlight" weight="3197" />
+      <edge id="414" source="#Ohio" target="#Meetings" weight="3197" />
+      <edge id="415" source="#Ohio" target="#Columbus" weight="6394" />
+      <edge id="416" source="#econdev" target="#Insight2050" weight="3197" />
+      <edge id="417" source="#econdev" target="#CMWorld" weight="3197" />
+      <edge id="418" source="#morpc" target="#Columbus" weight="3197" />
+      <edge id="419" source="#regram" target="#prescup" weight="6394" />
+      <edge id="420" source="#sunlight" target="#Columbus" weight="3197" />
+      <edge id="421" source="#DestinationDublin" target="#OpenForBiz" weight="3197" />
+      <edge id="422" source="#prescup" target="#girlcandream" weight="3197" />
+      <edge id="423" source="#Columbus" target="#MORPC" weight="3197" />
+    </edges>
+  </graph>
+</gexf>

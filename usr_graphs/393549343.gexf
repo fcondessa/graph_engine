@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#firepits" label="#firepits" />
+      <node id="#YUM" label="#YUM" />
+      <node id="#halfoffwine" label="#halfoffwine" />
+      <node id="#weather" label="#weather" />
+      <node id="#MagnumBottle" label="#MagnumBottle" />
+      <node id="#bisto33" label="#bisto33" />
+      <node id="#perfect" label="#perfect" />
+      <node id="#HumpDay" label="#HumpDay" />
+      <node id="#humpday" label="#humpday" />
+      <node id="#bistro33" label="#bistro33" />
+      <node id="#instapic" label="#instapic" />
+      <node id="#RallyZito" label="#RallyZito" />
+      <node id="#friday" label="#friday" />
+      <node id="#happyhour" label="#happyhour" />
+      <node id="#greatdeals" label="#greatdeals" />
+      <node id="#winewednesday" label="#winewednesday" />
+      <node id="#BloodyMary" label="#BloodyMary" />
+      <node id="#margarita" label="#margarita" />
+      <node id="#tgif" label="#tgif" />
+      <node id="#wineaerobics" label="#wineaerobics" />
+      <node id="#skunabay" label="#skunabay" />
+      <node id="#Humpday" label="#Humpday" />
+      <node id="#movienight" label="#movienight" />
+      <node id="#Heatlamps" label="#Heatlamps" />
+      <node id="#wine" label="#wine" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#eldoradohills" label="#eldoradohills" />
+      <node id="#goodeats" label="#goodeats" />
+      <node id="#itsthesizeofababy" label="#itsthesizeofababy" />
+      <node id="#brunch" label="#brunch" />
+      <node id="#latenight" label="#latenight" />
+      <node id="#barfood" label="#barfood" />
+      <node id="#picoftheday" label="#picoftheday" />
+      <node id="#salmon" label="#salmon" />
+      <node id="#HappyHour" label="#HappyHour" />
+      <node id="#WineWednesday" label="#WineWednesday" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#edh" label="#edh" />
+      <node id="#edu" label="#edu" />
+      <node id="#funforfamily" label="#funforfamily" />
+      <node id="#Bistro33EDH" label="#Bistro33EDH" />
+      <node id="#goodtimes" label="#goodtimes" />
+      <node id="#drinks" label="#drinks" />
+      <node id="#dinnerbuffet" label="#dinnerbuffet" />
+      <node id="#thanksgiving" label="#thanksgiving" />
+      <node id="#goodfood" label="#goodfood" />
+      <node id="#dinner" label="#dinner" />
+      <node id="#meat" label="#meat" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#firepits" target="#tgif" weight="1319" />
+      <edge id="1" source="#firepits" target="#bistro33" weight="1319" />
+      <edge id="2" source="#firepits" target="#edh" weight="1319" />
+      <edge id="3" source="#firepits" target="#friday" weight="1319" />
+      <edge id="4" source="#firepits" target="#happyhour" weight="1319" />
+      <edge id="5" source="#YUM" target="#meat" weight="1319" />
+      <edge id="6" source="#halfoffwine" target="#HumpDay" weight="1319" />
+      <edge id="7" source="#weather" target="#bistro33" weight="1319" />
+      <edge id="8" source="#weather" target="#edh" weight="1319" />
+      <edge id="9" source="#weather" target="#instapic" weight="1319" />
+      <edge id="10" source="#weather" target="#perfect" weight="1319" />
+      <edge id="11" source="#weather" target="#picoftheday" weight="1319" />
+      <edge id="12" source="#MagnumBottle" target="#WineWednesday" weight="1319" />
+      <edge id="13" source="#MagnumBottle" target="#itsthesizeofababy" weight="1319" />
+      <edge id="14" source="#bisto33" target="#edh" weight="1319" />
+      <edge id="15" source="#bisto33" target="#wine" weight="1319" />
+      <edge id="16" source="#perfect" target="#picoftheday" weight="1319" />
+      <edge id="17" source="#perfect" target="#bistro33" weight="1319" />
+      <edge id="18" source="#perfect" target="#edh" weight="1319" />
+      <edge id="19" source="#perfect" target="#instapic" weight="1319" />
+      <edge id="20" source="#HumpDay" target="#WineWednesday" weight="1319" />
+      <edge id="21" source="#humpday" target="#winewednesday" weight="1319" />
+      <edge id="22" source="#humpday" target="#wineaerobics" weight="1319" />
+      <edge id="23" source="#humpday" target="#Bistro33EDH" weight="1319" />
+      <edge id="24" source="#bistro33" target="#friday" weight="2638" />
+      <edge id="25" source="#bistro33" target="#happyhour" weight="3957" />
+      <edge id="26" source="#bistro33" target="#greatdeals" weight="1319" />
+      <edge id="27" source="#bistro33" target="#edh" weight="7914" />
+      <edge id="28" source="#bistro33" target="#eldoradohills" weight="1319" />
+      <edge id="29" source="#bistro33" target="#tgif" weight="2638" />
+      <edge id="30" source="#bistro33" target="#instapic" weight="1319" />
+      <edge id="31" source="#bistro33" target="#edu" weight="1319" />
+      <edge id="32" source="#bistro33" target="#funforfamily" weight="1319" />
+      <edge id="33" source="#bistro33" target="#thanksgiving" weight="1319" />
+      <edge id="34" source="#bistro33" target="#latenight" weight="1319" />
+      <edge id="35" source="#bistro33" target="#goodfood" weight="1319" />
+      <edge id="36" source="#bistro33" target="#drinks" weight="1319" />
+      <edge id="37" source="#bistro33" target="#movienight" weight="1319" />
+      <edge id="38" source="#bistro33" target="#Heatlamps" weight="1319" />
+      <edge id="39" source="#bistro33" target="#barfood" weight="1319" />
+      <edge id="40" source="#bistro33" target="#dinnerbuffet" weight="1319" />
+      <edge id="41" source="#bistro33" target="#picoftheday" weight="1319" />
+      <edge id="42" source="#instapic" target="#edh" weight="1319" />
+      <edge id="43" source="#instapic" target="#picoftheday" weight="1319" />
+      <edge id="44" source="#RallyZito" target="#SFGiants" weight="1319" />
+      <edge id="45" source="#friday" target="#happyhour" weight="2638" />
+      <edge id="46" source="#friday" target="#greatdeals" weight="1319" />
+      <edge id="47" source="#friday" target="#edh" weight="2638" />
+      <edge id="48" source="#friday" target="#tgif" weight="2638" />
+      <edge id="49" source="#friday" target="#Heatlamps" weight="1319" />
+      <edge id="50" source="#happyhour" target="#goodfood" weight="1319" />
+      <edge id="51" source="#happyhour" target="#greatdeals" weight="1319" />
+      <edge id="52" source="#happyhour" target="#edh" weight="3957" />
+      <edge id="53" source="#happyhour" target="#tgif" weight="2638" />
+      <edge id="54" source="#happyhour" target="#latenight" weight="1319" />
+      <edge id="55" source="#happyhour" target="#drinks" weight="1319" />
+      <edge id="56" source="#happyhour" target="#barfood" weight="1319" />
+      <edge id="57" source="#happyhour" target="#Heatlamps" weight="1319" />
+      <edge id="58" source="#greatdeals" target="#tgif" weight="1319" />
+      <edge id="59" source="#greatdeals" target="#edh" weight="1319" />
+      <edge id="60" source="#greatdeals" target="#Heatlamps" weight="1319" />
+      <edge id="61" source="#winewednesday" target="#wineaerobics" weight="1319" />
+      <edge id="62" source="#BloodyMary" target="#brunch" weight="1319" />
+      <edge id="63" source="#margarita" target="#goodtimes" weight="1319" />
+      <edge id="64" source="#tgif" target="#edh" weight="2638" />
+      <edge id="65" source="#tgif" target="#Heatlamps" weight="1319" />
+      <edge id="66" source="#skunabay" target="#salmon" weight="1319" />
+      <edge id="67" source="#Humpday" target="#WineWednesday" weight="1319" />
+      <edge id="68" source="#movienight" target="#funforfamily" weight="1319" />
+      <edge id="69" source="#movienight" target="#edh" weight="1319" />
+      <edge id="70" source="#Heatlamps" target="#edh" weight="1319" />
+      <edge id="71" source="#wine" target="#edh" weight="1319" />
+      <edge id="72" source="#TGIF" target="#HappyHour" weight="1319" />
+      <edge id="73" source="#goodeats" target="#dinner" weight="1319" />
+      <edge id="74" source="#itsthesizeofababy" target="#WineWednesday" weight="1319" />
+      <edge id="75" source="#latenight" target="#edh" weight="1319" />
+      <edge id="76" source="#latenight" target="#goodfood" weight="1319" />
+      <edge id="77" source="#latenight" target="#drinks" weight="1319" />
+      <edge id="78" source="#latenight" target="#barfood" weight="1319" />
+      <edge id="79" source="#barfood" target="#goodfood" weight="1319" />
+      <edge id="80" source="#barfood" target="#edh" weight="1319" />
+      <edge id="81" source="#barfood" target="#drinks" weight="1319" />
+      <edge id="82" source="#picoftheday" target="#edh" weight="1319" />
+      <edge id="83" source="#edh" target="#funforfamily" weight="1319" />
+      <edge id="84" source="#edh" target="#goodfood" weight="1319" />
+      <edge id="85" source="#edh" target="#drinks" weight="1319" />
+      <edge id="86" source="#edu" target="#dinnerbuffet" weight="1319" />
+      <edge id="87" source="#edu" target="#thanksgiving" weight="1319" />
+      <edge id="88" source="#drinks" target="#goodfood" weight="1319" />
+      <edge id="89" source="#dinnerbuffet" target="#thanksgiving" weight="1319" />
+    </edges>
+  </graph>
+</gexf>

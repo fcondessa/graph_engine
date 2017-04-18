@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BostonMarathon" label="#BostonMarathon" />
+      <node id="#DNCTOCBUS" label="#DNCTOCBUS" />
+      <node id="#COLUMBUS2016" label="#COLUMBUS2016" />
+      <node id="#barclays" label="#barclays" />
+      <node id="#MalaysiaAirlines" label="#MalaysiaAirlines" />
+      <node id="#commonsense" label="#commonsense" />
+      <node id="#blessed" label="#blessed" />
+      <node id="#spagio" label="#spagio" />
+      <node id="#downwardspiral" label="#downwardspiral" />
+      <node id="#forward" label="#forward" />
+      <node id="#threepoundsofporkandsausage" label="#threepoundsofporkandsausage" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#solidarity" label="#solidarity" />
+      <node id="#BringIt" label="#BringIt" />
+      <node id="#grammys" label="#grammys" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#MH370" label="#MH370" />
+      <node id="#BucksvsDucks" label="#BucksvsDucks" />
+      <node id="#SB5" label="#SB5" />
+      <node id="#inaug2013" label="#inaug2013" />
+      <node id="#BuckeyeLove" label="#BuckeyeLove" />
+      <node id="#Justice" label="#Justice" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#youaintthatgoldmedalistwhosenameicantrememberbecauseimdrunkonaplane" label="#youaintthatgoldmedalistwhosenameicantrememberbecauseimdrunkonaplane" />
+      <node id="#ohioproud" label="#ohioproud" />
+      <node id="#DNC2016" label="#DNC2016" />
+      <node id="#Mitt" label="#Mitt" />
+      <node id="#DNCtoCBUS" label="#DNCtoCBUS" />
+      <node id="#nowijustneed20catsandabottleofcheapscotch" label="#nowijustneed20catsandabottleofcheapscotch" />
+      <node id="#Brooklyn" label="#Brooklyn" />
+      <node id="#Bringit" label="#Bringit" />
+      <node id="#columbus2016" label="#columbus2016" />
+      <node id="#emmastone" label="#emmastone" />
+      <node id="#fail" label="#fail" />
+      <node id="#DNC" label="#DNC" />
+      <node id="#dncnyc" label="#dncnyc" />
+      <node id="#DNCtoCbus" label="#DNCtoCbus" />
+      <node id="#Zanesville" label="#Zanesville" />
+      <node id="#bringit" label="#bringit" />
+      <node id="#Columbus2016" label="#Columbus2016" />
+      <node id="#OHIO" label="#OHIO" />
+      <node id="#letsdance" label="#letsdance" />
+      <node id="#callbravobecauseitstimeforanintervention" label="#callbravobecauseitstimeforanintervention" />
+      <node id="#OREvsOSU" label="#OREvsOSU" />
+      <node id="#Paris" label="#Paris" />
+      <node id="#bristolpalin" label="#bristolpalin" />
+      <node id="#breakingnews" label="#breakingnews" />
+      <node id="#News19" label="#News19" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#dnc" label="#dnc" />
+      <node id="#troubling" label="#troubling" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BostonMarathon" target="#News19" weight="1024" />
+      <edge id="1" source="#DNCTOCBUS" target="#dnc" weight="1024" />
+      <edge id="2" source="#DNCTOCBUS" target="#dncnyc" weight="1024" />
+      <edge id="3" source="#DNCTOCBUS" target="#bringit" weight="1024" />
+      <edge id="4" source="#DNCTOCBUS" target="#COLUMBUS2016" weight="1024" />
+      <edge id="5" source="#COLUMBUS2016" target="#dnc" weight="1024" />
+      <edge id="6" source="#COLUMBUS2016" target="#dncnyc" weight="1024" />
+      <edge id="7" source="#COLUMBUS2016" target="#bringit" weight="1024" />
+      <edge id="8" source="#barclays" target="#Brooklyn" weight="1024" />
+      <edge id="9" source="#barclays" target="#DNC2016" weight="1024" />
+      <edge id="10" source="#MalaysiaAirlines" target="#MH370" weight="1024" />
+      <edge id="11" source="#MalaysiaAirlines" target="#breakingnews" weight="1024" />
+      <edge id="12" source="#commonsense" target="#bringit" weight="1024" />
+      <edge id="13" source="#blessed" target="#youaintthatgoldmedalistwhosenameicantrememberbecauseimdrunkonaplane" weight="1024" />
+      <edge id="14" source="#spagio" target="#callbravobecauseitstimeforanintervention" weight="1024" />
+      <edge id="15" source="#spagio" target="#threepoundsofporkandsausage" weight="1024" />
+      <edge id="16" source="#downwardspiral" target="#nowijustneed20catsandabottleofcheapscotch" weight="1024" />
+      <edge id="17" source="#forward" target="#ohio" weight="1024" />
+      <edge id="18" source="#threepoundsofporkandsausage" target="#callbravobecauseitstimeforanintervention" weight="1024" />
+      <edge id="19" source="#Ohio" target="#Columbus" weight="1024" />
+      <edge id="20" source="#solidarity" target="#Paris" weight="1024" />
+      <edge id="21" source="#BringIt" target="#Columbus" weight="1024" />
+      <edge id="22" source="#BringIt" target="#DNCtoCbus" weight="1024" />
+      <edge id="23" source="#BringIt" target="#DNC" weight="3072" />
+      <edge id="24" source="#BringIt" target="#DNCtoCBUS" weight="2048" />
+      <edge id="25" source="#BringIt" target="#columbus2016" weight="2048" />
+      <edge id="26" source="#grammys" target="#troubling" weight="1024" />
+      <edge id="27" source="#Columbus" target="#DNCtoCbus" weight="1024" />
+      <edge id="28" source="#Columbus" target="#DNC" weight="1024" />
+      <edge id="29" source="#BucksvsDucks" target="#OREvsOSU" weight="1024" />
+      <edge id="30" source="#SB5" target="#Mitt" weight="1024" />
+      <edge id="31" source="#inaug2013" target="#Justice" weight="1024" />
+      <edge id="32" source="#BuckeyeLove" target="#Columbus2016" weight="1024" />
+      <edge id="33" source="#columbus" target="#DNC" weight="1024" />
+      <edge id="34" source="#ohioproud" target="#Zanesville" weight="1024" />
+      <edge id="35" source="#DNC2016" target="#Brooklyn" weight="1024" />
+      <edge id="36" source="#Mitt" target="#bristolpalin" weight="1024" />
+      <edge id="37" source="#DNCtoCBUS" target="#Bringit" weight="2048" />
+      <edge id="38" source="#DNCtoCBUS" target="#Columbus2016" weight="2048" />
+      <edge id="39" source="#DNCtoCBUS" target="#columbus2016" weight="2048" />
+      <edge id="40" source="#DNCtoCBUS" target="#DNC" weight="4096" />
+      <edge id="41" source="#DNCtoCBUS" target="#OHIO" weight="1024" />
+      <edge id="42" source="#Bringit" target="#OHIO" weight="1024" />
+      <edge id="43" source="#Bringit" target="#DNC" weight="2048" />
+      <edge id="44" source="#Bringit" target="#Columbus2016" weight="2048" />
+      <edge id="45" source="#columbus2016" target="#DNC" weight="3072" />
+      <edge id="46" source="#columbus2016" target="#dnc" weight="1024" />
+      <edge id="47" source="#columbus2016" target="#bringit" weight="4096" />
+      <edge id="48" source="#emmastone" target="#letsdance" weight="1024" />
+      <edge id="49" source="#fail" target="#fail" weight="12288" />
+      <edge id="50" source="#DNC" target="#Columbus2016" weight="3072" />
+      <edge id="51" source="#DNC" target="#DNCtoCbus" weight="1024" />
+      <edge id="52" source="#DNC" target="#bringit" weight="1024" />
+      <edge id="53" source="#DNC" target="#OHIO" weight="1024" />
+      <edge id="54" source="#dncnyc" target="#dnc" weight="1024" />
+      <edge id="55" source="#dncnyc" target="#bringit" weight="1024" />
+      <edge id="56" source="#bringit" target="#dnc" weight="2048" />
+      <edge id="57" source="#Columbus2016" target="#OHIO" weight="1024" />
+    </edges>
+  </graph>
+</gexf>

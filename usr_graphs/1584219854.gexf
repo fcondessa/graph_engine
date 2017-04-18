@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#SWCbus" label="#SWCbus" />
+      <node id="#500Hrs" label="#500Hrs" />
+      <node id="#education" label="#education" />
+      <node id="#founder" label="#founder" />
+      <node id="#news" label="#news" />
+      <node id="#quote" label="#quote" />
+      <node id="#success" label="#success" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#Leaders" label="#Leaders" />
+      <node id="#business" label="#business" />
+      <node id="#CenteroftheWorld" label="#CenteroftheWorld" />
+      <node id="#Accelerators" label="#Accelerators" />
+      <node id="#plan" label="#plan" />
+      <node id="#retailbranding" label="#retailbranding" />
+      <node id="#entrepreneurship" label="#entrepreneurship" />
+      <node id="#changetheworld" label="#changetheworld" />
+      <node id="#homebusiness" label="#homebusiness" />
+      <node id="#Biographies" label="#Biographies" />
+      <node id="#ENTexpert" label="#ENTexpert" />
+      <node id="#leanstartup" label="#leanstartup" />
+      <node id="#rt" label="#rt" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#SteveJobs" label="#SteveJobs" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#Success" label="#Success" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#leadfromwithin" label="#leadfromwithin" />
+      <node id="#Quote" label="#Quote" />
+      <node id="#Entrepreneurship" label="#Entrepreneurship" />
+      <node id="#eship" label="#eship" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#COW" label="#COW" />
+      <node id="#Book" label="#Book" />
+      <node id="#Procure" label="#Procure" />
+      <node id="#grind" label="#grind" />
+      <node id="#Biz" label="#Biz" />
+      <node id="#innovate" label="#innovate" />
+      <node id="#conquer" label="#conquer" />
+      <node id="#MountainBiking" label="#MountainBiking" />
+      <node id="#millionaire" label="#millionaire" />
+      <node id="#Dreams" label="#Dreams" />
+      <node id="#yoda" label="#yoda" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#startup" label="#startup" />
+      <node id="#wish" label="#wish" />
+      <node id="#dreams" label="#dreams" />
+      <node id="#gitomer" label="#gitomer" />
+      <node id="#mvp" label="#mvp" />
+      <node id="#TheTeamFormerlyKnownAsBeerCats" label="#TheTeamFormerlyKnownAsBeerCats" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#betterlife" label="#betterlife" />
+      <node id="#Entrepreneur" label="#Entrepreneur" />
+      <node id="#RT" label="#RT" />
+      <node id="#brandstrategy" label="#brandstrategy" />
+      <node id="#f4f" label="#f4f" />
+      <node id="#sales" label="#sales" />
+      <node id="#optimism" label="#optimism" />
+      <node id="#DemoDay" label="#DemoDay" />
+      <node id="#Startup" label="#Startup" />
+      <node id="#ColumbusOH" label="#ColumbusOH" />
+      <node id="#startups" label="#startups" />
+      <node id="#goforit" label="#goforit" />
+      <node id="#PMA" label="#PMA" />
+      <node id="#Startups" label="#Startups" />
+      <node id="#VC" label="#VC" />
+      <node id="#action" label="#action" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#dreams" weight="225" />
+      <edge id="1" source="#truth" target="#swcbus" weight="225" />
+      <edge id="2" source="#SWCbus" target="#grind" weight="225" />
+      <edge id="3" source="#500Hrs" target="#mvp" weight="225" />
+      <edge id="4" source="#500Hrs" target="#startups" weight="225" />
+      <edge id="5" source="#500Hrs" target="#leanstartup" weight="225" />
+      <edge id="6" source="#education" target="#entrepreneurship" weight="225" />
+      <edge id="7" source="#founder" target="#Entrepreneur" weight="225" />
+      <edge id="8" source="#founder" target="#venturecapital" weight="225" />
+      <edge id="9" source="#founder" target="#startup" weight="225" />
+      <edge id="10" source="#founder" target="#VC" weight="225" />
+      <edge id="11" source="#founder" target="#startups" weight="225" />
+      <edge id="12" source="#founder" target="#leadership" weight="225" />
+      <edge id="13" source="#news" target="#f4f" weight="225" />
+      <edge id="14" source="#news" target="#Startup" weight="225" />
+      <edge id="15" source="#news" target="#RT" weight="225" />
+      <edge id="16" source="#news" target="#smallbiz" weight="225" />
+      <edge id="17" source="#news" target="#Biz" weight="225" />
+      <edge id="18" source="#quote" target="#optimism" weight="225" />
+      <edge id="19" source="#quote" target="#success" weight="225" />
+      <edge id="20" source="#quote" target="#leadfromwithin" weight="225" />
+      <edge id="21" source="#quote" target="#eship" weight="225" />
+      <edge id="22" source="#quote" target="#smallbiz" weight="225" />
+      <edge id="23" source="#success" target="#conquer" weight="225" />
+      <edge id="24" source="#success" target="#smallbiz" weight="225" />
+      <edge id="25" source="#success" target="#Dreams" weight="225" />
+      <edge id="26" source="#success" target="#goforit" weight="225" />
+      <edge id="27" source="#success" target="#plan" weight="225" />
+      <edge id="28" source="#success" target="#eship" weight="450" />
+      <edge id="29" source="#smallbiz" target="#Book" weight="225" />
+      <edge id="30" source="#smallbiz" target="#RT" weight="225" />
+      <edge id="31" source="#smallbiz" target="#Biz" weight="225" />
+      <edge id="32" source="#smallbiz" target="#optimism" weight="225" />
+      <edge id="33" source="#smallbiz" target="#Startup" weight="225" />
+      <edge id="34" source="#smallbiz" target="#startups" weight="225" />
+      <edge id="35" source="#smallbiz" target="#cbus" weight="450" />
+      <edge id="36" source="#smallbiz" target="#Dreams" weight="225" />
+      <edge id="37" source="#smallbiz" target="#f4f" weight="225" />
+      <edge id="38" source="#smallbiz" target="#eship" weight="450" />
+      <edge id="39" source="#Leaders" target="#Biographies" weight="225" />
+      <edge id="40" source="#business" target="#Entrepreneurship" weight="225" />
+      <edge id="41" source="#business" target="#startup" weight="225" />
+      <edge id="42" source="#CenteroftheWorld" target="#COW" weight="225" />
+      <edge id="43" source="#CenteroftheWorld" target="#Entrepreneurship" weight="225" />
+      <edge id="44" source="#CenteroftheWorld" target="#Columbus" weight="225" />
+      <edge id="45" source="#CenteroftheWorld" target="#Startups" weight="225" />
+      <edge id="46" source="#Accelerators" target="#Entrepreneurship" weight="225" />
+      <edge id="47" source="#plan" target="#goforit" weight="225" />
+      <edge id="48" source="#retailbranding" target="#cbus" weight="225" />
+      <edge id="49" source="#retailbranding" target="#brandstrategy" weight="225" />
+      <edge id="50" source="#changetheworld" target="#innovate" weight="225" />
+      <edge id="51" source="#homebusiness" target="#entrepreneur" weight="225" />
+      <edge id="52" source="#homebusiness" target="#action" weight="225" />
+      <edge id="53" source="#ENTexpert" target="#Startups" weight="225" />
+      <edge id="54" source="#leanstartup" target="#mvp" weight="225" />
+      <edge id="55" source="#leanstartup" target="#startups" weight="225" />
+      <edge id="56" source="#rt" target="#eship" weight="225" />
+      <edge id="57" source="#rt" target="#cbus" weight="225" />
+      <edge id="58" source="#Columbus" target="#COW" weight="225" />
+      <edge id="59" source="#Columbus" target="#Entrepreneurship" weight="450" />
+      <edge id="60" source="#Columbus" target="#Startups" weight="225" />
+      <edge id="61" source="#SteveJobs" target="#RT" weight="225" />
+      <edge id="62" source="#entrepreneur" target="#startups" weight="225" />
+      <edge id="63" source="#entrepreneur" target="#action" weight="225" />
+      <edge id="64" source="#Success" target="#eship" weight="225" />
+      <edge id="65" source="#leadership" target="#Entrepreneur" weight="225" />
+      <edge id="66" source="#leadership" target="#venturecapital" weight="225" />
+      <edge id="67" source="#leadership" target="#startup" weight="225" />
+      <edge id="68" source="#leadership" target="#startups" weight="225" />
+      <edge id="69" source="#leadership" target="#VC" weight="225" />
+      <edge id="70" source="#Quote" target="#startups" weight="225" />
+      <edge id="71" source="#Entrepreneurship" target="#COW" weight="225" />
+      <edge id="72" source="#Entrepreneurship" target="#startup" weight="225" />
+      <edge id="73" source="#Entrepreneurship" target="#Startups" weight="225" />
+      <edge id="74" source="#eship" target="#RT" weight="225" />
+      <edge id="75" source="#eship" target="#optimism" weight="225" />
+      <edge id="76" source="#eship" target="#startup" weight="450" />
+      <edge id="77" source="#eship" target="#Dreams" weight="225" />
+      <edge id="78" source="#eship" target="#cbus" weight="675" />
+      <edge id="79" source="#eship" target="#PMA" weight="225" />
+      <edge id="80" source="#eship" target="#startups" weight="225" />
+      <edge id="81" source="#cbus" target="#Book" weight="225" />
+      <edge id="82" source="#cbus" target="#brandstrategy" weight="225" />
+      <edge id="83" source="#cbus" target="#startup" weight="675" />
+      <edge id="84" source="#cbus" target="#startups" weight="1350" />
+      <edge id="85" source="#COW" target="#Startups" weight="225" />
+      <edge id="86" source="#Book" target="#startups" weight="225" />
+      <edge id="87" source="#Procure" target="#TheTeamFormerlyKnownAsBeerCats" weight="225" />
+      <edge id="88" source="#Procure" target="#swcbus" weight="225" />
+      <edge id="89" source="#Biz" target="#f4f" weight="225" />
+      <edge id="90" source="#Biz" target="#Startup" weight="450" />
+      <edge id="91" source="#Biz" target="#RT" weight="450" />
+      <edge id="92" source="#conquer" target="#startups" weight="225" />
+      <edge id="93" source="#MountainBiking" target="#ColumbusOH" weight="225" />
+      <edge id="94" source="#millionaire" target="#motivation" weight="225" />
+      <edge id="95" source="#millionaire" target="#betterlife" weight="225" />
+      <edge id="96" source="#millionaire" target="#wish" weight="225" />
+      <edge id="97" source="#millionaire" target="#dreams" weight="225" />
+      <edge id="98" source="#yoda" target="#startups" weight="225" />
+      <edge id="99" source="#motivation" target="#betterlife" weight="225" />
+      <edge id="100" source="#motivation" target="#dreams" weight="225" />
+      <edge id="101" source="#motivation" target="#wish" weight="225" />
+      <edge id="102" source="#startup" target="#Entrepreneur" weight="225" />
+      <edge id="103" source="#startup" target="#venturecapital" weight="225" />
+      <edge id="104" source="#startup" target="#startups" weight="225" />
+      <edge id="105" source="#startup" target="#VC" weight="225" />
+      <edge id="106" source="#wish" target="#betterlife" weight="225" />
+      <edge id="107" source="#wish" target="#dreams" weight="225" />
+      <edge id="108" source="#dreams" target="#betterlife" weight="225" />
+      <edge id="109" source="#gitomer" target="#startups" weight="225" />
+      <edge id="110" source="#gitomer" target="#sales" weight="225" />
+      <edge id="111" source="#mvp" target="#startups" weight="225" />
+      <edge id="112" source="#TheTeamFormerlyKnownAsBeerCats" target="#swcbus" weight="225" />
+      <edge id="113" source="#venturecapital" target="#Entrepreneur" weight="225" />
+      <edge id="114" source="#venturecapital" target="#VC" weight="225" />
+      <edge id="115" source="#venturecapital" target="#startups" weight="225" />
+      <edge id="116" source="#Entrepreneur" target="#VC" weight="225" />
+      <edge id="117" source="#Entrepreneur" target="#startups" weight="225" />
+      <edge id="118" source="#RT" target="#f4f" weight="225" />
+      <edge id="119" source="#RT" target="#Startup" weight="450" />
+      <edge id="120" source="#f4f" target="#Startup" weight="225" />
+      <edge id="121" source="#sales" target="#startups" weight="225" />
+      <edge id="122" source="#DemoDay" target="#Startups" weight="225" />
+      <edge id="123" source="#startups" target="#VC" weight="225" />
+    </edges>
+  </graph>
+</gexf>

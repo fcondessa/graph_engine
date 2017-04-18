@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#advocate" label="#advocate" />
+      <node id="#Wellness" label="#Wellness" />
+      <node id="#PartD" label="#PartD" />
+      <node id="#HHS" label="#HHS" />
+      <node id="#aco" label="#aco" />
+      <node id="#NHS" label="#NHS" />
+      <node id="#Advocate" label="#Advocate" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#emr" label="#emr" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#HR" label="#HR" />
+      <node id="#Doctor" label="#Doctor" />
+      <node id="#Aging" label="#Aging" />
+      <node id="#Consumer" label="#Consumer" />
+      <node id="#palliative" label="#palliative" />
+      <node id="#savings" label="#savings" />
+      <node id="#hchit" label="#hchit" />
+      <node id="#PanMass" label="#PanMass" />
+      <node id="#healthreform" label="#healthreform" />
+      <node id="#health" label="#health" />
+      <node id="#ehr" label="#ehr" />
+      <node id="#Frost_Sullivan" label="#Frost_Sullivan" />
+      <node id="#hie" label="#hie" />
+      <node id="#PMC2013" label="#PMC2013" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#hit" label="#hit" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#healthcare" label="#healthcare" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#advocate" target="#savings" weight="488" />
+      <edge id="1" source="#advocate" target="#healthcare" weight="488" />
+      <edge id="2" source="#Wellness" target="#HR" weight="488" />
+      <edge id="3" source="#Wellness" target="#healthcare" weight="488" />
+      <edge id="4" source="#PartD" target="#Medicare" weight="488" />
+      <edge id="5" source="#HHS" target="#hchit" weight="488" />
+      <edge id="6" source="#HHS" target="#healthIT" weight="488" />
+      <edge id="7" source="#HHS" target="#healthcare" weight="488" />
+      <edge id="8" source="#HHS" target="#HIT" weight="488" />
+      <edge id="9" source="#HHS" target="#healthreform" weight="488" />
+      <edge id="10" source="#aco" target="#ehr" weight="488" />
+      <edge id="11" source="#aco" target="#emr" weight="488" />
+      <edge id="12" source="#aco" target="#healthcare" weight="488" />
+      <edge id="13" source="#aco" target="#hit" weight="488" />
+      <edge id="14" source="#aco" target="#hie" weight="488" />
+      <edge id="15" source="#NHS" target="#HR" weight="488" />
+      <edge id="16" source="#Advocate" target="#healthcare" weight="488" />
+      <edge id="17" source="#Advocate" target="#Healthcare" weight="488" />
+      <edge id="18" source="#Advocate" target="#Doctor" weight="976" />
+      <edge id="19" source="#healthIT" target="#hchit" weight="488" />
+      <edge id="20" source="#healthIT" target="#HIT" weight="488" />
+      <edge id="21" source="#healthIT" target="#healthcare" weight="488" />
+      <edge id="22" source="#healthIT" target="#healthreform" weight="488" />
+      <edge id="23" source="#emr" target="#ehr" weight="488" />
+      <edge id="24" source="#emr" target="#healthcare" weight="488" />
+      <edge id="25" source="#emr" target="#hit" weight="488" />
+      <edge id="26" source="#emr" target="#hie" weight="488" />
+      <edge id="27" source="#HIT" target="#hchit" weight="488" />
+      <edge id="28" source="#HIT" target="#healthcare" weight="488" />
+      <edge id="29" source="#HIT" target="#healthreform" weight="488" />
+      <edge id="30" source="#HR" target="#healthcare" weight="488" />
+      <edge id="31" source="#Doctor" target="#healthcare" weight="488" />
+      <edge id="32" source="#Doctor" target="#Healthcare" weight="488" />
+      <edge id="33" source="#Aging" target="#palliative" weight="488" />
+      <edge id="34" source="#Consumer" target="#healthcare" weight="488" />
+      <edge id="35" source="#savings" target="#healthcare" weight="488" />
+      <edge id="36" source="#hchit" target="#healthreform" weight="488" />
+      <edge id="37" source="#hchit" target="#healthcare" weight="488" />
+      <edge id="38" source="#PanMass" target="#PMC2013" weight="488" />
+      <edge id="39" source="#healthreform" target="#healthcare" weight="488" />
+      <edge id="40" source="#health" target="#healthcare" weight="3904" />
+      <edge id="41" source="#ehr" target="#healthcare" weight="488" />
+      <edge id="42" source="#ehr" target="#hit" weight="488" />
+      <edge id="43" source="#ehr" target="#hie" weight="488" />
+      <edge id="44" source="#Frost_Sullivan" target="#EHR" weight="488" />
+      <edge id="45" source="#hie" target="#healthcare" weight="488" />
+      <edge id="46" source="#hie" target="#hit" weight="488" />
+      <edge id="47" source="#hit" target="#healthcare" weight="488" />
+      <edge id="48" source="#healthcare" target="#healthcare" weight="976" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#irish" label="#irish" />
+      <node id="#TopiaryGarden" label="#TopiaryGarden" />
+      <node id="#DOTSmartCity" label="#DOTSmartCity" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#cbusjobs" label="#cbusjobs" />
+      <node id="#GintherSwearingIn" label="#GintherSwearingIn" />
+      <node id="#DOTConnects" label="#DOTConnects" />
+      <node id="#10TVstrong" label="#10TVstrong" />
+      <node id="#cbusdoesvb" label="#cbusdoesvb" />
+      <node id="#CMHStartupWeek" label="#CMHStartupWeek" />
+      <node id="#COGTrails" label="#COGTrails" />
+      <node id="#Basketball" label="#Basketball" />
+      <node id="#SiliconValley" label="#SiliconValley" />
+      <node id="#KansasCity" label="#KansasCity" />
+      <node id="#PrideMonth" label="#PrideMonth" />
+      <node id="#Glenwood" label="#Glenwood" />
+      <node id="#MSR2016" label="#MSR2016" />
+      <node id="#InfantMortality" label="#InfantMortality" />
+      <node id="#TheBigTable" label="#TheBigTable" />
+      <node id="#USSeniorOpen" label="#USSeniorOpen" />
+      <node id="#NationalHighFiveDay" label="#NationalHighFiveDay" />
+      <node id="#MoveColumbus" label="#MoveColumbus" />
+      <node id="#hero" label="#hero" />
+      <node id="#ColumbusCentral" label="#ColumbusCentral" />
+      <node id="#freight" label="#freight" />
+      <node id="#excellence" label="#excellence" />
+      <node id="#SanFrancisco" label="#SanFrancisco" />
+      <node id="#LifeinCBUS" label="#LifeinCBUS" />
+      <node id="#pickitup" label="#pickitup" />
+      <node id="#gintherswearingin" label="#gintherswearingin" />
+      <node id="#AAPIHeritageMonth" label="#AAPIHeritageMonth" />
+      <node id="#LindberghPark" label="#LindberghPark" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#RedWhiteBOOM" label="#RedWhiteBOOM" />
+      <node id="#AlumCreek" label="#AlumCreek" />
+      <node id="#wiffleball" label="#wiffleball" />
+      <node id="#MedalOfHonor" label="#MedalOfHonor" />
+      <node id="#Slainte" label="#Slainte" />
+      <node id="#PRIDE" label="#PRIDE" />
+      <node id="#CapitalKids" label="#CapitalKids" />
+      <node id="#CrewSC" label="#CrewSC" />
+      <node id="#EmployeeAdvocacy" label="#EmployeeAdvocacy" />
+      <node id="#APPS" label="#APPS" />
+      <node id="#SchillerPark" label="#SchillerPark" />
+      <node id="#InnisPark" label="#InnisPark" />
+      <node id="#levequetowergarage" label="#levequetowergarage" />
+      <node id="#allin" label="#allin" />
+      <node id="#Honor911" label="#Honor911" />
+      <node id="#CitYPulseCols" label="#CitYPulseCols" />
+      <node id="#CareforAll" label="#CareforAll" />
+      <node id="#kayak" label="#kayak" />
+      <node id="#MarionFranklin" label="#MarionFranklin" />
+      <node id="#cricket" label="#cricket" />
+      <node id="#SWAT" label="#SWAT" />
+      <node id="#MLKDay" label="#MLKDay" />
+      <node id="#TeamUSA" label="#TeamUSA" />
+      <node id="#SmartCity" label="#SmartCity" />
+      <node id="#LindenMcKinleySTEMAcademy" label="#LindenMcKinleySTEMAcademy" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#ChaseBasecamp" label="#ChaseBasecamp" />
+      <node id="#WomensHistoryMonth" label="#WomensHistoryMonth" />
+      <node id="#DOTsmartcity" label="#DOTsmartcity" />
+      <node id="#PHEV" label="#PHEV" />
+      <node id="#EndCancer" label="#EndCancer" />
+      <node id="#SpiritofCCS" label="#SpiritofCCS" />
+      <node id="#IndependenceDay" label="#IndependenceDay" />
+      <node id="#ALLIN" label="#ALLIN" />
+      <node id="#Seedsforgrowth" label="#Seedsforgrowth" />
+      <node id="#volunteers" label="#volunteers" />
+      <node id="#safety" label="#safety" />
+      <node id="#BeLegendary" label="#BeLegendary" />
+      <node id="#smartcity" label="#smartcity" />
+      <node id="#ForABetterUs" label="#ForABetterUs" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#ReadyCityOne" label="#ReadyCityOne" />
+      <node id="#NotHere" label="#NotHere" />
+      <node id="#transportation" label="#transportation" />
+      <node id="#EV" label="#EV" />
+      <node id="#SmartCities" label="#SmartCities" />
+      <node id="#COAAA" label="#COAAA" />
+      <node id="#Crew" label="#Crew" />
+      <node id="#TeachersMatter" label="#TeachersMatter" />
+      <node id="#PrayForOrlando" label="#PrayForOrlando" />
+      <node id="#battleofthemayors" label="#battleofthemayors" />
+      <node id="#placemaking" label="#placemaking" />
+      <node id="#gahanna" label="#gahanna" />
+      <node id="#Proud" label="#Proud" />
+      <node id="#HarrisonWest" label="#HarrisonWest" />
+      <node id="#Austin" label="#Austin" />
+      <node id="#Trails" label="#Trails" />
+      <node id="#duckrumble" label="#duckrumble" />
+      <node id="#BuckeyesCare" label="#BuckeyesCare" />
+      <node id="#oneofUS" label="#oneofUS" />
+      <node id="#safebreak" label="#safebreak" />
+      <node id="#StepOneCbus" label="#StepOneCbus" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#usdot" label="#usdot" />
+      <node id="#ConnectColumbus" label="#ConnectColumbus" />
+      <node id="#ecdiworks" label="#ecdiworks" />
+      <node id="#WhyOhio" label="#WhyOhio" />
+      <node id="#smartcolumbus" label="#smartcolumbus" />
+      <node id="#More1stBirthdays" label="#More1stBirthdays" />
+      <node id="#HighFive" label="#HighFive" />
+      <node id="#Portland" label="#Portland" />
+      <node id="#Whetstone" label="#Whetstone" />
+      <node id="#NBCLEO2016" label="#NBCLEO2016" />
+      <node id="#SOTCBUS16" label="#SOTCBUS16" />
+      <node id="#Dialogue" label="#Dialogue" />
+      <node id="#Linden" label="#Linden" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#volunteer" label="#volunteer" />
+      <node id="#DriveElectricOhio" label="#DriveElectricOhio" />
+      <node id="#cbus1mil" label="#cbus1mil" />
+      <node id="#SmartCityChallenge" label="#SmartCityChallenge" />
+      <node id="#WearOrange" label="#WearOrange" />
+      <node id="#preschool" label="#preschool" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#ColumbusStrong" label="#ColumbusStrong" />
+      <node id="#Denver" label="#Denver" />
+      <node id="#RedWhiteAndBoom" label="#RedWhiteAndBoom" />
+      <node id="#SpiritofSuccess" label="#SpiritofSuccess" />
+      <node id="#YP" label="#YP" />
+      <node id="#MetroPCS" label="#MetroPCS" />
+      <node id="#Healthy" label="#Healthy" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#BiketoWorkDay2016" label="#BiketoWorkDay2016" />
+      <node id="#MothersDay" label="#MothersDay" />
+      <node id="#DirectorSteveFrances" label="#DirectorSteveFrances" />
+      <node id="#PlaceMatters" label="#PlaceMatters" />
+      <node id="#WaterFirstForThirst" label="#WaterFirstForThirst" />
+      <node id="#ReachHigher" label="#ReachHigher" />
+      <node id="#Pittsburgh" label="#Pittsburgh" />
+      <node id="#ridethebus" label="#ridethebus" />
+      <node id="#GiveForward" label="#GiveForward" />
+      <node id="#lifesaving" label="#lifesaving" />
+      <node id="#chasebasecamp" label="#chasebasecamp" />
+      <node id="#mentoring" label="#mentoring" />
+      <node id="#irememberby" label="#irememberby" />
+      <node id="#smartcities" label="#smartcities" />
+      <node id="#InfantMortalityAwarenessMonth" label="#InfantMortalityAwarenessMonth" />
+      <node id="#iWELD" label="#iWELD" />
+      <node id="#CCC4U" label="#CCC4U" />
+      <node id="#celebrateone" label="#celebrateone" />
+      <node id="#OTD" label="#OTD" />
+      <node id="#HeroinEpidemic" label="#HeroinEpidemic" />
+      <node id="#MEI2016" label="#MEI2016" />
+      <node id="#BlackHistoryMonth" label="#BlackHistoryMonth" />
+      <node id="#FirstNight" label="#FirstNight" />
+      <node id="#getgreen" label="#getgreen" />
+      <node id="#CBUSGov" label="#CBUSGov" />
+      <node id="#westgatePark" label="#westgatePark" />
+      <node id="#kab2016" label="#kab2016" />
+      <node id="#AntrimPark" label="#AntrimPark" />
+      <node id="#ColumbusOhio" label="#ColumbusOhio" />
+      <node id="#neighborhoods" label="#neighborhoods" />
+      <node id="#sneakpeek" label="#sneakpeek" />
+      <node id="#LoveWins" label="#LoveWins" />
+      <node id="#ColumbusRedCross100" label="#ColumbusRedCross100" />
+      <node id="#msr2016" label="#msr2016" />
+      <node id="#MLKColumbus" label="#MLKColumbus" />
+      <node id="#ForASmarterColumbUS" label="#ForASmarterColumbUS" />
+      <node id="#listen" label="#listen" />
+      <node id="#CapCityNights" label="#CapCityNights" />
+      <node id="#BOOM16" label="#BOOM16" />
+      <node id="#prek" label="#prek" />
+      <node id="#asseenincbus" label="#asseenincbus" />
+      <node id="#smartcitychallenge" label="#smartcitychallenge" />
+      <node id="#startup" label="#startup" />
+      <node id="#teamwork" label="#teamwork" />
+      <node id="#Diversity" label="#Diversity" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#20for20" label="#20for20" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#OHDems" label="#OHDems" />
+      <node id="#COSI" label="#COSI" />
+      <node id="#Aesome" label="#Aesome" />
+      <node id="#breastcancer" label="#breastcancer" />
+      <node id="#aviation" label="#aviation" />
+      <node id="#smallbusiness" label="#smallbusiness" />
+      <node id="#Barnett" label="#Barnett" />
+      <node id="#parkchampion" label="#parkchampion" />
+      <node id="#NoMa" label="#NoMa" />
+      <node id="#WearingOrange614" label="#WearingOrange614" />
+      <node id="#ChampionsOfDiversity" label="#ChampionsOfDiversity" />
+      <node id="#panthers" label="#panthers" />
+      <node id="#SIDSAwarenessMonth" label="#SIDSAwarenessMonth" />
+      <node id="#DC" label="#DC" />
+      <node id="#LindberghElementary" label="#LindberghElementary" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#FindYourPark" label="#FindYourPark" />
+      <node id="#NOTinCBUS" label="#NOTinCBUS" />
+      <node id="#10TV" label="#10TV" />
+      <node id="#Confrontation" label="#Confrontation" />
+      <node id="#collaboration" label="#collaboration" />
+      <node id="#OH" label="#OH" />
+      <node id="#ForColumbus" label="#ForColumbus" />
+      <node id="#techlife" label="#techlife" />
+      <node id="#LetsRide" label="#LetsRide" />
+      <node id="#BeatMaryland" label="#BeatMaryland" />
+      <node id="#Collaboration" label="#Collaboration" />
+      <node id="#movecolumbus" label="#movecolumbus" />
+      <node id="#OurTownColumbus" label="#OurTownColumbus" />
+      <node id="#AskCBus" label="#AskCBus" />
+      <node id="#OfficeofDiversity" label="#OfficeofDiversity" />
+      <node id="#startuplife" label="#startuplife" />
+      <node id="#OSU2020Vision" label="#OSU2020Vision" />
+      <node id="#InspiringLeadership" label="#InspiringLeadership" />
+      <node id="#Playgrounds" label="#Playgrounds" />
+      <node id="#STOCbus16" label="#STOCbus16" />
+      <node id="#disclaimer" label="#disclaimer" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#YOURNORTHMARKET" label="#YOURNORTHMARKET" />
+      <node id="#sportsincbus" label="#sportsincbus" />
+      <node id="#PurposeBuilt" label="#PurposeBuilt" />
+      <node id="#Volunteers" label="#Volunteers" />
+      <node id="#SOTC2016" label="#SOTC2016" />
+      <node id="#KeepParksBeautiful" label="#KeepParksBeautiful" />
+      <node id="#flyinghigh" label="#flyinghigh" />
+      <node id="#ColumbusPride" label="#ColumbusPride" />
+      <node id="#LifeInCBUS" label="#LifeInCBUS" />
+      <node id="#cmcforum" label="#cmcforum" />
+      <node id="#AsianAmerican" label="#AsianAmerican" />
+      <node id="#smartcitypitch" label="#smartcitypitch" />
+      <node id="#Orlando" label="#Orlando" />
+      <node id="#SciotoMile" label="#SciotoMile" />
+      <node id="#inspiration" label="#inspiration" />
+      <node id="#AskCBUS" label="#AskCBUS" />
+      <node id="#CelebrateOne" label="#CelebrateOne" />
+      <node id="#LightTheCityRed" label="#LightTheCityRed" />
+      <node id="#SOTCbus16" label="#SOTCbus16" />
+      <node id="#NationalPoliceWeek" label="#NationalPoliceWeek" />
+      <node id="#giveforward" label="#giveforward" />
+      <node id="#Back2School" label="#Back2School" />
+      <node id="#CityOfColumbus" label="#CityOfColumbus" />
+      <node id="#softball" label="#softball" />
+      <node id="#newborn" label="#newborn" />
+      <node id="#NextLevel" label="#NextLevel" />
+      <node id="#EcoCAR3" label="#EcoCAR3" />
+      <node id="#NewYear" label="#NewYear" />
+      <node id="#OneGoal" label="#OneGoal" />
+      <node id="#CareerTownJobs" label="#CareerTownJobs" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#NCAAVB" label="#NCAAVB" />
+      <node id="#newmain" label="#newmain" />
+      <node id="#sustainability" label="#sustainability" />
+      <node id="#DrivingPark" label="#DrivingPark" />
+      <node id="#SOTCbus2016" label="#SOTCbus2016" />
+      <node id="#TeamWorkDreamWork" label="#TeamWorkDreamWork" />
+      <node id="#cbusgovjobs" label="#cbusgovjobs" />
+      <node id="#OSUNews" label="#OSUNews" />
+      <node id="#WelcomePresidentPaul" label="#WelcomePresidentPaul" />
+      <node id="#capfam" label="#capfam" />
+      <node id="#CbusProud" label="#CbusProud" />
+      <node id="#WitnessLegends" label="#WitnessLegends" />
+      <node id="#MayorGinther" label="#MayorGinther" />
+      <node id="#NBC" label="#NBC" />
+      <node id="#NHLBreakawaySaad" label="#NHLBreakawaySaad" />
+      <node id="#Budget" label="#Budget" />
+      <node id="#Juneteenth2016" label="#Juneteenth2016" />
+      <node id="#reachhigher" label="#reachhigher" />
+      <node id="#ET21" label="#ET21" />
+      <node id="#CBUSProud" label="#CBUSProud" />
+      <node id="#HappyNewYear" label="#HappyNewYear" />
+      <node id="#cbusforum" label="#cbusforum" />
+      <node id="#publichealth" label="#publichealth" />
+      <node id="#WomenSucceed" label="#WomenSucceed" />
+      <node id="#teamME" label="#teamME" />
+      <node id="#TogetherIsBetter" label="#TogetherIsBetter" />
+      <node id="#Happy" label="#Happy" />
+      <node id="#Pride2016" label="#Pride2016" />
+      <node id="#SOTCCBUS16" label="#SOTCCBUS16" />
+      <node id="#LiveCbus" label="#LiveCbus" />
+      <node id="#crlc" label="#crlc" />
+      <node id="#cbusvscbus" label="#cbusvscbus" />
+      <node id="#transitsystems" label="#transitsystems" />
+      <node id="#protect" label="#protect" />
+      <node id="#infosec" label="#infosec" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+      <node id="#CRPD" label="#CRPD" />
+      <node id="#keepcolumbusbeautiful" label="#keepcolumbusbeautiful" />
+      <node id="#infantmortality" label="#infantmortality" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#GriggsReservoir" label="#GriggsReservoir" />
+      <node id="#CbusRFTC" label="#CbusRFTC" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#inclusion" label="#inclusion" />
+      <node id="#police" label="#police" />
+      <node id="#zikavirus" label="#zikavirus" />
+      <node id="#NationalNightOut" label="#NationalNightOut" />
+      <node id="#EarthDay2016" label="#EarthDay2016" />
+      <node id="#forcolumbus" label="#forcolumbus" />
+      <node id="#SXSW" label="#SXSW" />
+      <node id="#ArborDay" label="#ArborDay" />
+      <node id="#AskCbus" label="#AskCbus" />
+      <node id="#Lashutka" label="#Lashutka" />
+      <node id="#Flint" label="#Flint" />
+      <node id="#diversity" label="#diversity" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#ParkofRoses" label="#ParkofRoses" />
+      <node id="#findyourpark" label="#findyourpark" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#createcolumbus" label="#createcolumbus" />
+      <node id="#CTV" label="#CTV" />
+      <node id="#safesleep" label="#safesleep" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#GOPanthers" label="#GOPanthers" />
+      <node id="#LGBT" label="#LGBT" />
+      <node id="#happymonday" label="#happymonday" />
+      <node id="#SafeBreak" label="#SafeBreak" />
+      <node id="#LifeinCbus" label="#LifeinCbus" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#CareerTown" label="#CareerTown" />
+      <node id="#econdev" label="#econdev" />
+      <node id="#V2X" label="#V2X" />
+      <node id="#CBus" label="#CBus" />
+      <node id="#LGBTQ" label="#LGBTQ" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#ColumbiaCares" label="#ColumbiaCares" />
+      <node id="#askcbus" label="#askcbus" />
+      <node id="#WaterForFlint" label="#WaterForFlint" />
+      <node id="#Olentangy" label="#Olentangy" />
+      <node id="#bloom" label="#bloom" />
+      <node id="#LifeinCBus" label="#LifeinCBus" />
+      <node id="#Leadership2016" label="#Leadership2016" />
+      <node id="#CelebrateGlenn" label="#CelebrateGlenn" />
+      <node id="#tech" label="#tech" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#AAPI" label="#AAPI" />
+      <node id="#CPD" label="#CPD" />
+      <node id="#green" label="#green" />
+      <node id="#business" label="#business" />
+      <node id="#WeAllCount" label="#WeAllCount" />
+      <node id="#SmartCitiesChallenge" label="#SmartCitiesChallenge" />
+      <node id="#RacefortheCure" label="#RacefortheCure" />
+      <node id="#thrilled" label="#thrilled" />
+      <node id="#OurCBusGov" label="#OurCBusGov" />
+      <node id="#diversity2016" label="#diversity2016" />
+      <node id="#linden" label="#linden" />
+      <node id="#Autodesk" label="#Autodesk" />
+      <node id="#CommunityPolicing" label="#CommunityPolicing" />
+      <node id="#CollegeSigningDay" label="#CollegeSigningDay" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#BestBigCities" label="#BestBigCities" />
+      <node id="#NoBillNoBreak" label="#NoBillNoBreak" />
+      <node id="#SmartCityPitch" label="#SmartCityPitch" />
+      <node id="#HealthyResolution" label="#HealthyResolution" />
+      <node id="#fairwoodpark" label="#fairwoodpark" />
+      <node id="#memory2action" label="#memory2action" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#MLS" label="#MLS" />
+      <node id="#StateoftheCity" label="#StateoftheCity" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#irish" target="#Slainte" weight="1733" />
+      <edge id="1" source="#TopiaryGarden" target="#SchillerPark" weight="1733" />
+      <edge id="2" source="#TopiaryGarden" target="#ParkofRoses" weight="1733" />
+      <edge id="3" source="#TopiaryGarden" target="#SciotoMile" weight="1733" />
+      <edge id="4" source="#DOTSmartCity" target="#SXSW" weight="3466" />
+      <edge id="5" source="#DOTSmartCity" target="#SmartCities" weight="1733" />
+      <edge id="6" source="#DOTSmartCity" target="#SmartCitiesChallenge" weight="1733" />
+      <edge id="7" source="#DOTSmartCity" target="#DOTConnects" weight="1733" />
+      <edge id="8" source="#DOTSmartCity" target="#AskCBUS" weight="5199" />
+      <edge id="9" source="#DOTSmartCity" target="#smartcitypitch" weight="1733" />
+      <edge id="10" source="#DOTSmartCity" target="#CCC4U" weight="1733" />
+      <edge id="11" source="#DOTSmartCity" target="#SmartCityChallenge" weight="12131" />
+      <edge id="12" source="#DOTSmartCity" target="#CbusProud" weight="1733" />
+      <edge id="13" source="#DOTSmartCity" target="#TBT" weight="3466" />
+      <edge id="14" source="#DOTSmartCity" target="#CBUSProud" weight="1733" />
+      <edge id="15" source="#DOTSmartCity" target="#V2X" weight="3466" />
+      <edge id="16" source="#DOTSmartCity" target="#SmartColumbus" weight="74519" />
+      <edge id="17" source="#DOTSmartCity" target="#smartcolumbus" weight="1733" />
+      <edge id="18" source="#DOTSmartCity" target="#cbusproud" weight="5199" />
+      <edge id="19" source="#DOTSmartCity" target="#SmartCityPitch" weight="12131" />
+      <edge id="20" source="#DOTSmartCity" target="#SmartCity" weight="1733" />
+      <edge id="21" source="#DOTSmartCity" target="#EcoCAR3" weight="1733" />
+      <edge id="22" source="#DOTSmartCity" target="#Columbus" weight="5199" />
+      <edge id="23" source="#DOTSmartCity" target="#MoveColumbus" weight="5199" />
+      <edge id="24" source="#Cbus" target="#SmartColumbus" weight="8665" />
+      <edge id="25" source="#Cbus" target="#NOTinCBUS" weight="1733" />
+      <edge id="26" source="#Cbus" target="#HeroinEpidemic" weight="1733" />
+      <edge id="27" source="#Cbus" target="#askcbus" weight="1733" />
+      <edge id="28" source="#Cbus" target="#FollowFriday" weight="1733" />
+      <edge id="29" source="#Cbus" target="#DC" weight="1733" />
+      <edge id="30" source="#Cbus" target="#NotHere" weight="1733" />
+      <edge id="31" source="#Cbus" target="#infantmortality" weight="3466" />
+      <edge id="32" source="#Cbus" target="#WaterFirstForThirst" weight="1733" />
+      <edge id="33" source="#Cbus" target="#SmartCityChallenge" weight="10398" />
+      <edge id="34" source="#Cbus" target="#CelebrateOne" weight="1733" />
+      <edge id="35" source="#Cbus" target="#STOCbus16" weight="1733" />
+      <edge id="36" source="#Cbus" target="#smartcolumbus" weight="1733" />
+      <edge id="37" source="#Cbus" target="#ACA" weight="1733" />
+      <edge id="38" source="#Cbus" target="#volunteers" weight="1733" />
+      <edge id="39" source="#Cbus" target="#NoBillNoBreak" weight="1733" />
+      <edge id="40" source="#Cbus" target="#SmartCity" weight="1733" />
+      <edge id="41" source="#Cbus" target="#Columbus" weight="1733" />
+      <edge id="42" source="#Cbus" target="#InfantMortality" weight="1733" />
+      <edge id="43" source="#cbusjobs" target="#LGBTQ" weight="1733" />
+      <edge id="44" source="#GintherSwearingIn" target="#cbus" weight="3466" />
+      <edge id="45" source="#GintherSwearingIn" target="#10TV" weight="1733" />
+      <edge id="46" source="#DOTConnects" target="#SmartColumbus" weight="5199" />
+      <edge id="47" source="#10TVstrong" target="#ColumbusOhio" weight="1733" />
+      <edge id="48" source="#10TVstrong" target="#ColumbusStrong" weight="1733" />
+      <edge id="49" source="#cbusdoesvb" target="#NCAAVB" weight="1733" />
+      <edge id="50" source="#CMHStartupWeek" target="#startuplife" weight="1733" />
+      <edge id="51" source="#CMHStartupWeek" target="#startup" weight="3466" />
+      <edge id="52" source="#CMHStartupWeek" target="#chasebasecamp" weight="1733" />
+      <edge id="53" source="#CMHStartupWeek" target="#ChaseBasecamp" weight="1733" />
+      <edge id="54" source="#CMHStartupWeek" target="#happymonday" weight="1733" />
+      <edge id="55" source="#COGTrails" target="#Olentangy" weight="1733" />
+      <edge id="56" source="#COGTrails" target="#Trails" weight="1733" />
+      <edge id="57" source="#COGTrails" target="#AlumCreek" weight="1733" />
+      <edge id="58" source="#Basketball" target="#NextLevel" weight="1733" />
+      <edge id="59" source="#SiliconValley" target="#ColumbusOhio" weight="1733" />
+      <edge id="60" source="#KansasCity" target="#SmartCityPitch" weight="1733" />
+      <edge id="61" source="#KansasCity" target="#SmartColumbus" weight="1733" />
+      <edge id="62" source="#KansasCity" target="#Portland" weight="1733" />
+      <edge id="63" source="#KansasCity" target="#Pittsburgh" weight="1733" />
+      <edge id="64" source="#KansasCity" target="#Denver" weight="1733" />
+      <edge id="65" source="#KansasCity" target="#Austin" weight="1733" />
+      <edge id="66" source="#KansasCity" target="#SanFrancisco" weight="1733" />
+      <edge id="67" source="#PrideMonth" target="#OHDems" weight="1733" />
+      <edge id="68" source="#PrideMonth" target="#LifeInCbus" weight="1733" />
+      <edge id="69" source="#PrideMonth" target="#LoveWins" weight="1733" />
+      <edge id="70" source="#PrideMonth" target="#PrayForOrlando" weight="1733" />
+      <edge id="71" source="#Glenwood" target="#LifeinCBus" weight="3466" />
+      <edge id="72" source="#Glenwood" target="#CRPD" weight="3466" />
+      <edge id="73" source="#MSR2016" target="#smartcolumbus" weight="1733" />
+      <edge id="74" source="#MSR2016" target="#sportsincbus" weight="3466" />
+      <edge id="75" source="#MSR2016" target="#CBUS" weight="1733" />
+      <edge id="76" source="#MSR2016" target="#CBJ" weight="1733" />
+      <edge id="77" source="#MSR2016" target="#WitnessLegends" weight="5199" />
+      <edge id="78" source="#InfantMortality" target="#FollowFriday" weight="1733" />
+      <edge id="79" source="#TheBigTable" target="#ForColumbus" weight="1733" />
+      <edge id="80" source="#USSeniorOpen" target="#sportsincbus" weight="5199" />
+      <edge id="81" source="#USSeniorOpen" target="#BeLegendary" weight="3466" />
+      <edge id="82" source="#NationalHighFiveDay" target="#HighFive" weight="1733" />
+      <edge id="83" source="#NationalHighFiveDay" target="#MayorGinther" weight="1733" />
+      <edge id="84" source="#MoveColumbus" target="#SmartCityChallenge" weight="3466" />
+      <edge id="85" source="#MoveColumbus" target="#oneofUS" weight="1733" />
+      <edge id="86" source="#MoveColumbus" target="#SmartColumbus" weight="10398" />
+      <edge id="87" source="#MoveColumbus" target="#cbus" weight="1733" />
+      <edge id="88" source="#MoveColumbus" target="#SmartCity" weight="3466" />
+      <edge id="89" source="#MoveColumbus" target="#smartcity" weight="1733" />
+      <edge id="90" source="#MoveColumbus" target="#Columbus" weight="3466" />
+      <edge id="91" source="#hero" target="#CPD" weight="1733" />
+      <edge id="92" source="#hero" target="#police" weight="1733" />
+      <edge id="93" source="#hero" target="#SWAT" weight="1733" />
+      <edge id="94" source="#ColumbusCentral" target="#cbus" weight="1733" />
+      <edge id="95" source="#freight" target="#smartcities" weight="1733" />
+      <edge id="96" source="#excellence" target="#lifesaving" weight="1733" />
+      <edge id="97" source="#SanFrancisco" target="#SmartCityPitch" weight="1733" />
+      <edge id="98" source="#SanFrancisco" target="#Pittsburgh" weight="1733" />
+      <edge id="99" source="#SanFrancisco" target="#Portland" weight="1733" />
+      <edge id="100" source="#SanFrancisco" target="#SmartColumbus" weight="1733" />
+      <edge id="101" source="#SanFrancisco" target="#Denver" weight="1733" />
+      <edge id="102" source="#SanFrancisco" target="#Austin" weight="1733" />
+      <edge id="103" source="#LifeinCBUS" target="#Columbus" weight="1733" />
+      <edge id="104" source="#LifeinCBUS" target="#Ohio" weight="1733" />
+      <edge id="105" source="#pickitup" target="#kab2016" weight="1733" />
+      <edge id="106" source="#pickitup" target="#keepcolumbusbeautiful" weight="1733" />
+      <edge id="107" source="#gintherswearingin" target="#cbus" weight="1733" />
+      <edge id="108" source="#AAPIHeritageMonth" target="#LifeInCbus" weight="1733" />
+      <edge id="109" source="#LindberghPark" target="#ArborDay" weight="1733" />
+      <edge id="110" source="#TBT" target="#SmartCityPitch" weight="1733" />
+      <edge id="111" source="#TBT" target="#CCC4U" weight="1733" />
+      <edge id="112" source="#TBT" target="#SmartCityChallenge" weight="1733" />
+      <edge id="113" source="#TBT" target="#NationalNightOut" weight="1733" />
+      <edge id="114" source="#TBT" target="#SmartColumbus" weight="1733" />
+      <edge id="115" source="#RedWhiteBOOM" target="#LifeinCBus" weight="1733" />
+      <edge id="116" source="#RedWhiteBOOM" target="#CRPD" weight="1733" />
+      <edge id="117" source="#RedWhiteBOOM" target="#SciotoMile" weight="1733" />
+      <edge id="118" source="#RedWhiteBOOM" target="#KeepParksBeautiful" weight="1733" />
+      <edge id="119" source="#AlumCreek" target="#Olentangy" weight="1733" />
+      <edge id="120" source="#AlumCreek" target="#Trails" weight="1733" />
+      <edge id="121" source="#wiffleball" target="#softball" weight="1733" />
+      <edge id="122" source="#wiffleball" target="#cricket" weight="1733" />
+      <edge id="123" source="#MedalOfHonor" target="#Ohio" weight="1733" />
+      <edge id="124" source="#PRIDE" target="#Orlando" weight="1733" />
+      <edge id="125" source="#CapitalKids" target="#Aesome" weight="1733" />
+      <edge id="126" source="#CrewSC" target="#ForColumbus" weight="10398" />
+      <edge id="127" source="#CrewSC" target="#GiveForward" weight="1733" />
+      <edge id="128" source="#CrewSC" target="#20for20" weight="3466" />
+      <edge id="129" source="#CrewSC" target="#teamwork" weight="1733" />
+      <edge id="130" source="#EmployeeAdvocacy" target="#CBUSGov" weight="1733" />
+      <edge id="131" source="#APPS" target="#CapCityNights" weight="1733" />
+      <edge id="132" source="#APPS" target="#CRPD" weight="1733" />
+      <edge id="133" source="#SchillerPark" target="#ParkofRoses" weight="1733" />
+      <edge id="134" source="#SchillerPark" target="#SciotoMile" weight="1733" />
+      <edge id="135" source="#InnisPark" target="#CRPD" weight="1733" />
+      <edge id="136" source="#InnisPark" target="#EarthDay2016" weight="1733" />
+      <edge id="137" source="#levequetowergarage" target="#RedWhiteAndBoom" weight="1733" />
+      <edge id="138" source="#allin" target="#SmartCityPitch" weight="1733" />
+      <edge id="139" source="#allin" target="#SmartColumbus" weight="3466" />
+      <edge id="140" source="#Honor911" target="#CPD" weight="1733" />
+      <edge id="141" source="#Honor911" target="#NYC" weight="1733" />
+      <edge id="142" source="#CitYPulseCols" target="#cbusforum" weight="1733" />
+      <edge id="143" source="#CitYPulseCols" target="#SmartColumbus" weight="1733" />
+      <edge id="144" source="#CareforAll" target="#LGBTQ" weight="1733" />
+      <edge id="145" source="#kayak" target="#LifeinCBus" weight="1733" />
+      <edge id="146" source="#kayak" target="#HarrisonWest" weight="1733" />
+      <edge id="147" source="#MarionFranklin" target="#volunteer" weight="1733" />
+      <edge id="148" source="#cricket" target="#softball" weight="1733" />
+      <edge id="149" source="#SWAT" target="#police" weight="1733" />
+      <edge id="150" source="#SWAT" target="#CPD" weight="1733" />
+      <edge id="151" source="#MLKDay" target="#MLKColumbus" weight="1733" />
+      <edge id="152" source="#TeamUSA" target="#sportsincbus" weight="1733" />
+      <edge id="153" source="#TeamUSA" target="#Olympics" weight="1733" />
+      <edge id="154" source="#TeamUSA" target="#GoBucks" weight="1733" />
+      <edge id="155" source="#SmartCity" target="#NoBillNoBreak" weight="1733" />
+      <edge id="156" source="#SmartCity" target="#SmartCityPitch" weight="1733" />
+      <edge id="157" source="#SmartCity" target="#DC" weight="1733" />
+      <edge id="158" source="#SmartCity" target="#SmartColumbus" weight="3466" />
+      <edge id="159" source="#SmartCity" target="#CBUSProud" weight="1733" />
+      <edge id="160" source="#SmartCity" target="#Columbus" weight="1733" />
+      <edge id="161" source="#LindenMcKinleySTEMAcademy" target="#GOPanthers" weight="1733" />
+      <edge id="162" source="#columbus" target="#duckrumble" weight="1733" />
+      <edge id="163" source="#columbus" target="#gahanna" weight="1733" />
+      <edge id="164" source="#columbus" target="#bloom" weight="1733" />
+      <edge id="165" source="#columbus" target="#westgatePark" weight="1733" />
+      <edge id="166" source="#columbus" target="#Periscope" weight="1733" />
+      <edge id="167" source="#columbus" target="#battleofthemayors" weight="1733" />
+      <edge id="168" source="#WomensHistoryMonth" target="#WomenSucceed" weight="1733" />
+      <edge id="169" source="#DOTsmartcity" target="#SmartColumbus" weight="1733" />
+      <edge id="170" source="#DOTsmartcity" target="#Columbus" weight="1733" />
+      <edge id="171" source="#DOTsmartcity" target="#Ohio" weight="1733" />
+      <edge id="172" source="#PHEV" target="#EV" weight="1733" />
+      <edge id="173" source="#PHEV" target="#SmartCityChallenge" weight="1733" />
+      <edge id="174" source="#EndCancer" target="#OneGoal" weight="1733" />
+      <edge id="175" source="#SpiritofCCS" target="#ColumbusPride" weight="1733" />
+      <edge id="176" source="#SpiritofCCS" target="#OSU2020Vision" weight="1733" />
+      <edge id="177" source="#SpiritofCCS" target="#SOTCBUS16" weight="1733" />
+      <edge id="178" source="#SpiritofCCS" target="#HappyNewYear" weight="1733" />
+      <edge id="179" source="#SpiritofCCS" target="#BlackHistoryMonth" weight="1733" />
+      <edge id="180" source="#SpiritofCCS" target="#Back2School" weight="1733" />
+      <edge id="181" source="#IndependenceDay" target="#GoBucks" weight="1733" />
+      <edge id="182" source="#ALLIN" target="#SmartColumbus" weight="1733" />
+      <edge id="183" source="#Seedsforgrowth" target="#cbus" weight="1733" />
+      <edge id="184" source="#volunteers" target="#AntrimPark" weight="1733" />
+      <edge id="185" source="#safety" target="#newborn" weight="1733" />
+      <edge id="186" source="#BeLegendary" target="#sportsincbus" weight="3466" />
+      <edge id="187" source="#smartcity" target="#SmartCityChallenge" weight="1733" />
+      <edge id="188" source="#smartcity" target="#Twitter" weight="1733" />
+      <edge id="189" source="#smartcity" target="#tech" weight="1733" />
+      <edge id="190" source="#smartcity" target="#cbus" weight="1733" />
+      <edge id="191" source="#smartcity" target="#Columbus" weight="1733" />
+      <edge id="192" source="#ForABetterUs" target="#SmartColumbus" weight="1733" />
+      <edge id="193" source="#ForABetterUs" target="#ForASmarterColumbUS" weight="1733" />
+      <edge id="194" source="#ohio" target="#SmartColumbus" weight="1733" />
+      <edge id="195" source="#ohio" target="#SmartCityChallenge" weight="3466" />
+      <edge id="196" source="#ohio" target="#transportation" weight="1733" />
+      <edge id="197" source="#ReadyCityOne" target="#SmartCityPitch" weight="1733" />
+      <edge id="198" source="#ReadyCityOne" target="#SmartColumbus" weight="1733" />
+      <edge id="199" source="#NotHere" target="#NOTinCBUS" weight="1733" />
+      <edge id="200" source="#transportation" target="#SmartCityChallenge" weight="1733" />
+      <edge id="201" source="#EV" target="#SmartCityChallenge" weight="1733" />
+      <edge id="202" source="#SmartCities" target="#SmartColumbus" weight="3466" />
+      <edge id="203" source="#SmartCities" target="#teamME" weight="1733" />
+      <edge id="204" source="#SmartCities" target="#AskCbus" weight="1733" />
+      <edge id="205" source="#COAAA" target="#LifeinCBus" weight="1733" />
+      <edge id="206" source="#COAAA" target="#CRPD" weight="1733" />
+      <edge id="207" source="#Crew" target="#MLS" weight="1733" />
+      <edge id="208" source="#TeachersMatter" target="#preschool" weight="1733" />
+      <edge id="209" source="#PrayForOrlando" target="#OHDems" weight="1733" />
+      <edge id="210" source="#PrayForOrlando" target="#LoveWins" weight="1733" />
+      <edge id="211" source="#PrayForOrlando" target="#LifeInCbus" weight="1733" />
+      <edge id="212" source="#battleofthemayors" target="#duckrumble" weight="1733" />
+      <edge id="213" source="#battleofthemayors" target="#gahanna" weight="1733" />
+      <edge id="214" source="#placemaking" target="#neighborhoods" weight="1733" />
+      <edge id="215" source="#placemaking" target="#econdev" weight="1733" />
+      <edge id="216" source="#gahanna" target="#duckrumble" weight="1733" />
+      <edge id="217" source="#Proud" target="#lifeincbus" weight="1733" />
+      <edge id="218" source="#HarrisonWest" target="#LifeinCBus" weight="1733" />
+      <edge id="219" source="#Austin" target="#Portland" weight="1733" />
+      <edge id="220" source="#Austin" target="#SmartColumbus" weight="1733" />
+      <edge id="221" source="#Austin" target="#SmartCityPitch" weight="1733" />
+      <edge id="222" source="#Austin" target="#Pittsburgh" weight="1733" />
+      <edge id="223" source="#Austin" target="#Denver" weight="1733" />
+      <edge id="224" source="#Trails" target="#Olentangy" weight="1733" />
+      <edge id="225" source="#BuckeyesCare" target="#GoBucks" weight="1733" />
+      <edge id="226" source="#oneofUS" target="#SmartColumbus" weight="1733" />
+      <edge id="227" source="#oneofUS" target="#SmartCityChallenge" weight="1733" />
+      <edge id="228" source="#safebreak" target="#CRPD" weight="1733" />
+      <edge id="229" source="#StepOneCbus" target="#cbus" weight="1733" />
+      <edge id="230" source="#leadership" target="#CPD" weight="3466" />
+      <edge id="231" source="#usdot" target="#SmartColumbus" weight="1733" />
+      <edge id="232" source="#usdot" target="#cbus" weight="1733" />
+      <edge id="233" source="#usdot" target="#SmartCityChallenge" weight="1733" />
+      <edge id="234" source="#ConnectColumbus" target="#WeAllCount" weight="1733" />
+      <edge id="235" source="#ConnectColumbus" target="#CBus" weight="1733" />
+      <edge id="236" source="#ConnectColumbus" target="#BiketoWorkDay2016" weight="1733" />
+      <edge id="237" source="#ecdiworks" target="#smallbusiness" weight="1733" />
+      <edge id="238" source="#ecdiworks" target="#cbus" weight="1733" />
+      <edge id="239" source="#WhyOhio" target="#smartcolumbus" weight="1733" />
+      <edge id="240" source="#smartcolumbus" target="#SpiritofSuccess" weight="1733" />
+      <edge id="241" source="#smartcolumbus" target="#askcbus" weight="1733" />
+      <edge id="242" source="#smartcolumbus" target="#smartcitypitch" weight="1733" />
+      <edge id="243" source="#smartcolumbus" target="#lifeincbus" weight="1733" />
+      <edge id="244" source="#smartcolumbus" target="#cbus" weight="1733" />
+      <edge id="245" source="#smartcolumbus" target="#CBUSProud" weight="1733" />
+      <edge id="246" source="#smartcolumbus" target="#forcolumbus" weight="1733" />
+      <edge id="247" source="#smartcolumbus" target="#smartcities" weight="3466" />
+      <edge id="248" source="#smartcolumbus" target="#Columbus" weight="1733" />
+      <edge id="249" source="#smartcolumbus" target="#crlc" weight="1733" />
+      <edge id="250" source="#More1stBirthdays" target="#PlaceMatters" weight="1733" />
+      <edge id="251" source="#HighFive" target="#MayorGinther" weight="1733" />
+      <edge id="252" source="#Portland" target="#SmartCityPitch" weight="1733" />
+      <edge id="253" source="#Portland" target="#Pittsburgh" weight="1733" />
+      <edge id="254" source="#Portland" target="#SmartColumbus" weight="1733" />
+      <edge id="255" source="#Portland" target="#Denver" weight="1733" />
+      <edge id="256" source="#Whetstone" target="#ParkofRoses" weight="1733" />
+      <edge id="257" source="#Whetstone" target="#CRPD" weight="1733" />
+      <edge id="258" source="#NBCLEO2016" target="#cbus" weight="1733" />
+      <edge id="259" source="#SOTCBUS16" target="#OSU2020Vision" weight="1733" />
+      <edge id="260" source="#Dialogue" target="#TogetherIsBetter" weight="1733" />
+      <edge id="261" source="#Linden" target="#SmartCityChallenge" weight="1733" />
+      <edge id="262" source="#BuckeyeNation" target="#CPD" weight="1733" />
+      <edge id="263" source="#DriveElectricOhio" target="#SmartColumbus" weight="1733" />
+      <edge id="264" source="#DriveElectricOhio" target="#SmartCityChallenge" weight="1733" />
+      <edge id="265" source="#cbus1mil" target="#CBUS" weight="1733" />
+      <edge id="266" source="#cbus1mil" target="#ColumbiaCares" weight="1733" />
+      <edge id="267" source="#SmartCityChallenge" target="#CbusProud" weight="1733" />
+      <edge id="268" source="#SmartCityChallenge" target="#infosec" weight="1733" />
+      <edge id="269" source="#SmartCityChallenge" target="#thrilled" weight="1733" />
+      <edge id="270" source="#SmartCityChallenge" target="#ridethebus" weight="1733" />
+      <edge id="271" source="#SmartCityChallenge" target="#CBUSProud" weight="3466" />
+      <edge id="272" source="#SmartCityChallenge" target="#teamME" weight="1733" />
+      <edge id="273" source="#SmartCityChallenge" target="#SXSW" weight="1733" />
+      <edge id="274" source="#SmartCityChallenge" target="#flyinghigh" weight="1733" />
+      <edge id="275" source="#SmartCityChallenge" target="#Columbus" weight="5199" />
+      <edge id="276" source="#SmartCityChallenge" target="#tech" weight="1733" />
+      <edge id="277" source="#SmartCityChallenge" target="#teamwork" weight="3466" />
+      <edge id="278" source="#SmartCityChallenge" target="#transitsystems" weight="1733" />
+      <edge id="279" source="#SmartCityChallenge" target="#neighborhoods" weight="1733" />
+      <edge id="280" source="#SmartCityChallenge" target="#CCC4U" weight="1733" />
+      <edge id="281" source="#SmartCityChallenge" target="#collaboration" weight="1733" />
+      <edge id="282" source="#SmartCityChallenge" target="#SmartColumbus" weight="112645" />
+      <edge id="283" source="#SmartCityChallenge" target="#cbus" weight="3466" />
+      <edge id="284" source="#SmartCityChallenge" target="#LifeInCbus" weight="1733" />
+      <edge id="285" source="#WearOrange" target="#WearingOrange614" weight="1733" />
+      <edge id="286" source="#cbus" target="#cbusgovjobs" weight="1733" />
+      <edge id="287" source="#cbus" target="#MayorGinther" weight="1733" />
+      <edge id="288" source="#cbus" target="#NBC" weight="1733" />
+      <edge id="289" source="#cbus" target="#Budget" weight="1733" />
+      <edge id="290" source="#cbus" target="#smallbusiness" weight="1733" />
+      <edge id="291" source="#cbus" target="#asseenincbus" weight="1733" />
+      <edge id="292" source="#cbus" target="#smartcities" weight="1733" />
+      <edge id="293" source="#cbus" target="#Columbus" weight="3466" />
+      <edge id="294" source="#cbus" target="#sustainability" weight="1733" />
+      <edge id="295" source="#cbus" target="#SmartColumbus" weight="6932" />
+      <edge id="296" source="#cbus" target="#SOTCbus16" weight="1733" />
+      <edge id="297" source="#ColumbusStrong" target="#disclaimer" weight="1733" />
+      <edge id="298" source="#ColumbusStrong" target="#10TV" weight="1733" />
+      <edge id="299" source="#ColumbusStrong" target="#ColumbusOhio" weight="1733" />
+      <edge id="300" source="#Denver" target="#SmartCityPitch" weight="1733" />
+      <edge id="301" source="#Denver" target="#SmartColumbus" weight="1733" />
+      <edge id="302" source="#Denver" target="#Pittsburgh" weight="1733" />
+      <edge id="303" source="#YP" target="#lifeincbus" weight="1733" />
+      <edge id="304" source="#MetroPCS" target="#DrivingPark" weight="1733" />
+      <edge id="305" source="#MetroPCS" target="#LifeinCBus" weight="1733" />
+      <edge id="306" source="#Healthy" target="#Happy" weight="1733" />
+      <edge id="307" source="#Healthy" target="#LifeinCBus" weight="1733" />
+      <edge id="308" source="#Healthy" target="#CRPD" weight="1733" />
+      <edge id="309" source="#asseenincolumbus" target="#SmartColumbus" weight="1733" />
+      <edge id="310" source="#asseenincolumbus" target="#techlife" weight="1733" />
+      <edge id="311" source="#BiketoWorkDay2016" target="#lifeincbus" weight="1733" />
+      <edge id="312" source="#MothersDay" target="#GetCovered" weight="1733" />
+      <edge id="313" source="#DirectorSteveFrances" target="#OfficeofDiversity" weight="1733" />
+      <edge id="314" source="#ReachHigher" target="#CollegeSigningDay" weight="1733" />
+      <edge id="315" source="#Pittsburgh" target="#SmartCityPitch" weight="1733" />
+      <edge id="316" source="#Pittsburgh" target="#SmartColumbus" weight="1733" />
+      <edge id="317" source="#ridethebus" target="#SmartColumbus" weight="1733" />
+      <edge id="318" source="#GiveForward" target="#teamwork" weight="1733" />
+      <edge id="319" source="#chasebasecamp" target="#startuplife" weight="1733" />
+      <edge id="320" source="#chasebasecamp" target="#startup" weight="1733" />
+      <edge id="321" source="#mentoring" target="#iWELD" weight="1733" />
+      <edge id="322" source="#irememberby" target="#memory2action" weight="1733" />
+      <edge id="323" source="#smartcities" target="#SmartCityPitch" weight="1733" />
+      <edge id="324" source="#smartcities" target="#sustainability" weight="1733" />
+      <edge id="325" source="#smartcities" target="#SmartColumbus" weight="8665" />
+      <edge id="326" source="#InfantMortalityAwarenessMonth" target="#CelebrateOne" weight="1733" />
+      <edge id="327" source="#CCC4U" target="#SmartColumbus" weight="1733" />
+      <edge id="328" source="#celebrateone" target="#safesleep" weight="1733" />
+      <edge id="329" source="#OTD" target="#Juneteenth2016" weight="1733" />
+      <edge id="330" source="#MEI2016" target="#LGBTQ" weight="3466" />
+      <edge id="331" source="#FirstNight" target="#lifeincbus" weight="1733" />
+      <edge id="332" source="#FirstNight" target="#COSI" weight="1733" />
+      <edge id="333" source="#getgreen" target="#SmartColumbus" weight="1733" />
+      <edge id="334" source="#getgreen" target="#teamwork" weight="1733" />
+      <edge id="335" source="#westgatePark" target="#bloom" weight="1733" />
+      <edge id="336" source="#kab2016" target="#keepcolumbusbeautiful" weight="1733" />
+      <edge id="337" source="#ColumbusOhio" target="#Autodesk" weight="1733" />
+      <edge id="338" source="#ColumbusOhio" target="#CareerTown" weight="3466" />
+      <edge id="339" source="#ColumbusOhio" target="#BestBigCities" weight="1733" />
+      <edge id="340" source="#ColumbusOhio" target="#CityOfColumbus" weight="3466" />
+      <edge id="341" source="#ColumbusOhio" target="#LGBTQ" weight="1733" />
+      <edge id="342" source="#ColumbusOhio" target="#smartcitychallenge" weight="3466" />
+      <edge id="343" source="#ColumbusOhio" target="#Diversity" weight="1733" />
+      <edge id="344" source="#ColumbusOhio" target="#ChampionsOfDiversity" weight="1733" />
+      <edge id="345" source="#ColumbusOhio" target="#CareerTownJobs" weight="3466" />
+      <edge id="346" source="#neighborhoods" target="#prek" weight="1733" />
+      <edge id="347" source="#neighborhoods" target="#econdev" weight="1733" />
+      <edge id="348" source="#neighborhoods" target="#SmartColumbus" weight="1733" />
+      <edge id="349" source="#neighborhoods" target="#linden" weight="1733" />
+      <edge id="350" source="#sneakpeek" target="#DrivingPark" weight="1733" />
+      <edge id="351" source="#sneakpeek" target="#CRPD" weight="1733" />
+      <edge id="352" source="#LoveWins" target="#Pride2016" weight="1733" />
+      <edge id="353" source="#LoveWins" target="#LifeInCbus" weight="1733" />
+      <edge id="354" source="#LoveWins" target="#OHDems" weight="1733" />
+      <edge id="355" source="#ColumbusRedCross100" target="#LightTheCityRed" weight="1733" />
+      <edge id="356" source="#msr2016" target="#sportsincbus" weight="1733" />
+      <edge id="357" source="#ForASmarterColumbUS" target="#SmartColumbus" weight="1733" />
+      <edge id="358" source="#listen" target="#reachhigher" weight="1733" />
+      <edge id="359" source="#CapCityNights" target="#CRPD" weight="1733" />
+      <edge id="360" source="#BOOM16" target="#LifeInCBUS" weight="1733" />
+      <edge id="361" source="#prek" target="#linden" weight="1733" />
+      <edge id="362" source="#asseenincbus" target="#SmartColumbus" weight="1733" />
+      <edge id="363" source="#smartcitychallenge" target="#Autodesk" weight="1733" />
+      <edge id="364" source="#startup" target="#startuplife" weight="1733" />
+      <edge id="365" source="#teamwork" target="#SmartColumbus" weight="5199" />
+      <edge id="366" source="#Diversity" target="#CareerTown" weight="3466" />
+      <edge id="367" source="#Diversity" target="#CityOfColumbus" weight="1733" />
+      <edge id="368" source="#Diversity" target="#diversity2016" weight="1733" />
+      <edge id="369" source="#Diversity" target="#ChampionsOfDiversity" weight="3466" />
+      <edge id="370" source="#Diversity" target="#CareerTownJobs" weight="3466" />
+      <edge id="371" source="#awesome" target="#Volunteers" weight="1733" />
+      <edge id="372" source="#OHDems" target="#LifeInCbus" weight="1733" />
+      <edge id="373" source="#COSI" target="#lifeincbus" weight="1733" />
+      <edge id="374" source="#breastcancer" target="#CbusRFTC" weight="1733" />
+      <edge id="375" source="#aviation" target="#Columbus" weight="1733" />
+      <edge id="376" source="#aviation" target="#Ohio" weight="1733" />
+      <edge id="377" source="#Barnett" target="#LifeinCBus" weight="1733" />
+      <edge id="378" source="#Barnett" target="#CBus" weight="1733" />
+      <edge id="379" source="#Barnett" target="#parkchampion" weight="1733" />
+      <edge id="380" source="#NoMa" target="#YOURNORTHMARKET" weight="1733" />
+      <edge id="381" source="#ChampionsOfDiversity" target="#CityOfColumbus" weight="1733" />
+      <edge id="382" source="#ChampionsOfDiversity" target="#CareerTown" weight="3466" />
+      <edge id="383" source="#ChampionsOfDiversity" target="#CareerTownJobs" weight="3466" />
+      <edge id="384" source="#panthers" target="#SafeBreak" weight="1733" />
+      <edge id="385" source="#SIDSAwarenessMonth" target="#safesleep" weight="1733" />
+      <edge id="386" source="#DC" target="#NoBillNoBreak" weight="1733" />
+      <edge id="387" source="#LindberghElementary" target="#ArborDay" weight="1733" />
+      <edge id="388" source="#LindberghElementary" target="#CRPD" weight="1733" />
+      <edge id="389" source="#GetCovered" target="#ACA" weight="1733" />
+      <edge id="390" source="#FindYourPark" target="#LifeinCbus" weight="1733" />
+      <edge id="391" source="#FindYourPark" target="#CRPD" weight="3466" />
+      <edge id="392" source="#Confrontation" target="#Collaboration" weight="1733" />
+      <edge id="393" source="#collaboration" target="#SmartColumbus" weight="1733" />
+      <edge id="394" source="#OH" target="#Columbus" weight="3466" />
+      <edge id="395" source="#OH" target="#smallbiz" weight="3466" />
+      <edge id="396" source="#techlife" target="#SmartColumbus" weight="1733" />
+      <edge id="397" source="#LetsRide" target="#SmartColumbus" weight="3466" />
+      <edge id="398" source="#BeatMaryland" target="#GoBucks" weight="1733" />
+      <edge id="399" source="#movecolumbus" target="#cbusproud" weight="1733" />
+      <edge id="400" source="#OurTownColumbus" target="#SmartColumbus" weight="1733" />
+      <edge id="401" source="#AskCBus" target="#newmain" weight="1733" />
+      <edge id="402" source="#AskCBus" target="#CRPD" weight="1733" />
+      <edge id="403" source="#InspiringLeadership" target="#SmartColumbus" weight="1733" />
+      <edge id="404" source="#Playgrounds" target="#LifeinCBus" weight="1733" />
+      <edge id="405" source="#Playgrounds" target="#CBus" weight="1733" />
+      <edge id="406" source="#Playgrounds" target="#CRPD" weight="1733" />
+      <edge id="407" source="#lifeincbus" target="#fairwoodpark" weight="1733" />
+      <edge id="408" source="#lifeincbus" target="#cbusproud" weight="1733" />
+      <edge id="409" source="#lifeincbus" target="#findyourpark" weight="1733" />
+      <edge id="410" source="#sportsincbus" target="#Olympics" weight="1733" />
+      <edge id="411" source="#sportsincbus" target="#GoBucks" weight="1733" />
+      <edge id="412" source="#sportsincbus" target="#WitnessLegends" weight="3466" />
+      <edge id="413" source="#PurposeBuilt" target="#Leadership2016" weight="1733" />
+      <edge id="414" source="#SOTC2016" target="#Columbus" weight="1733" />
+      <edge id="415" source="#KeepParksBeautiful" target="#LifeinCBus" weight="1733" />
+      <edge id="416" source="#KeepParksBeautiful" target="#CRPD" weight="1733" />
+      <edge id="417" source="#KeepParksBeautiful" target="#SciotoMile" weight="1733" />
+      <edge id="418" source="#flyinghigh" target="#SmartColumbus" weight="1733" />
+      <edge id="419" source="#ColumbusPride" target="#CPD" weight="1733" />
+      <edge id="420" source="#LifeInCBUS" target="#CBUS" weight="1733" />
+      <edge id="421" source="#cmcforum" target="#SmartColumbus" weight="1733" />
+      <edge id="422" source="#AsianAmerican" target="#LifeInCbus" weight="1733" />
+      <edge id="423" source="#AsianAmerican" target="#AAPI" weight="1733" />
+      <edge id="424" source="#smartcitypitch" target="#SmartColumbus" weight="1733" />
+      <edge id="425" source="#Orlando" target="#LGBT" weight="1733" />
+      <edge id="426" source="#SciotoMile" target="#RacefortheCure" weight="1733" />
+      <edge id="427" source="#SciotoMile" target="#ParkofRoses" weight="1733" />
+      <edge id="428" source="#SciotoMile" target="#LifeinCBus" weight="1733" />
+      <edge id="429" source="#SciotoMile" target="#CRPD" weight="3466" />
+      <edge id="430" source="#inspiration" target="#StateoftheCity" weight="1733" />
+      <edge id="431" source="#AskCBUS" target="#SmartColumbus" weight="8665" />
+      <edge id="432" source="#AskCBUS" target="#LifeinCBus" weight="1733" />
+      <edge id="433" source="#NationalPoliceWeek" target="#protect" weight="1733" />
+      <edge id="434" source="#giveforward" target="#forcolumbus" weight="1733" />
+      <edge id="435" source="#CityOfColumbus" target="#CareerTown" weight="3466" />
+      <edge id="436" source="#CityOfColumbus" target="#CareerTownJobs" weight="3466" />
+      <edge id="437" source="#EcoCAR3" target="#SmartColumbus" weight="1733" />
+      <edge id="438" source="#NewYear" target="#HealthyResolution" weight="1733" />
+      <edge id="439" source="#CareerTownJobs" target="#CareerTown" weight="5199" />
+      <edge id="440" source="#NYC" target="#CPD" weight="1733" />
+      <edge id="441" source="#newmain" target="#CRPD" weight="1733" />
+      <edge id="442" source="#sustainability" target="#SmartColumbus" weight="3466" />
+      <edge id="443" source="#DrivingPark" target="#LifeinCBus" weight="1733" />
+      <edge id="444" source="#DrivingPark" target="#CRPD" weight="1733" />
+      <edge id="445" source="#SOTCbus2016" target="#CTV" weight="1733" />
+      <edge id="446" source="#TeamWorkDreamWork" target="#SmartColumbus" weight="1733" />
+      <edge id="447" source="#OSUNews" target="#GoBucks" weight="1733" />
+      <edge id="448" source="#WelcomePresidentPaul" target="#capfam" weight="1733" />
+      <edge id="449" source="#CbusProud" target="#SmartColumbus" weight="1733" />
+      <edge id="450" source="#WitnessLegends" target="#CBJ" weight="1733" />
+      <edge id="451" source="#MayorGinther" target="#Columbus" weight="1733" />
+      <edge id="452" source="#NHLBreakawaySaad" target="#CBJ" weight="1733" />
+      <edge id="453" source="#NHLBreakawaySaad" target="#NHLBreakawaySaad" weight="20796" />
+      <edge id="454" source="#ET21" target="#GoBucks" weight="1733" />
+      <edge id="455" source="#CBUSProud" target="#SmartColumbus" weight="3466" />
+      <edge id="456" source="#CBUSProud" target="#forcolumbus" weight="1733" />
+      <edge id="457" source="#cbusforum" target="#SmartColumbus" weight="1733" />
+      <edge id="458" source="#publichealth" target="#zikavirus" weight="1733" />
+      <edge id="459" source="#teamME" target="#SmartColumbus" weight="3466" />
+      <edge id="460" source="#Happy" target="#LifeinCBus" weight="1733" />
+      <edge id="461" source="#Happy" target="#CRPD" weight="1733" />
+      <edge id="462" source="#SOTCCBUS16" target="#infantmortality" weight="1733" />
+      <edge id="463" source="#LiveCbus" target="#Ohio" weight="1733" />
+      <edge id="464" source="#cbusvscbus" target="#GoBucks" weight="1733" />
+      <edge id="465" source="#LifeInCbus" target="#inclusion" weight="1733" />
+      <edge id="466" source="#LifeInCbus" target="#diversity" weight="1733" />
+      <edge id="467" source="#LifeInCbus" target="#SmartColumbus" weight="1733" />
+      <edge id="468" source="#LifeInCbus" target="#AAPI" weight="1733" />
+      <edge id="469" source="#CRPD" target="#green" weight="1733" />
+      <edge id="470" source="#CRPD" target="#LifeinCbus" weight="3466" />
+      <edge id="471" source="#CRPD" target="#OurCBusGov" weight="1733" />
+      <edge id="472" source="#CRPD" target="#CBus" weight="1733" />
+      <edge id="473" source="#CRPD" target="#Lashutka" weight="1733" />
+      <edge id="474" source="#CRPD" target="#LifeinCBus" weight="24262" />
+      <edge id="475" source="#CRPD" target="#ArborDay" weight="1733" />
+      <edge id="476" source="#CRPD" target="#EarthDay2016" weight="1733" />
+      <edge id="477" source="#CRPD" target="#ParkofRoses" weight="1733" />
+      <edge id="478" source="#CRPD" target="#GriggsReservoir" weight="1733" />
+      <edge id="479" source="#smallbiz" target="#Columbus" weight="3466" />
+      <edge id="480" source="#GriggsReservoir" target="#Lashutka" weight="1733" />
+      <edge id="481" source="#GriggsReservoir" target="#LifeinCBus" weight="1733" />
+      <edge id="482" source="#Olympics" target="#GoBucks" weight="1733" />
+      <edge id="483" source="#inclusion" target="#diversity" weight="1733" />
+      <edge id="484" source="#police" target="#CPD" weight="1733" />
+      <edge id="485" source="#Lashutka" target="#LifeinCBus" weight="1733" />
+      <edge id="486" source="#Flint" target="#WaterForFlint" weight="1733" />
+      <edge id="487" source="#cbusproud" target="#SmartColumbus" weight="3466" />
+      <edge id="488" source="#findyourpark" target="#fairwoodpark" weight="1733" />
+      <edge id="489" source="#createcolumbus" target="#SmartColumbus" weight="1733" />
+      <edge id="490" source="#SmartColumbus" target="#thrilled" weight="1733" />
+      <edge id="491" source="#SmartColumbus" target="#SmartCitiesChallenge" weight="1733" />
+      <edge id="492" source="#SmartColumbus" target="#askcbus" weight="1733" />
+      <edge id="493" source="#SmartColumbus" target="#Columbus" weight="8665" />
+      <edge id="494" source="#SmartColumbus" target="#Ohio" weight="3466" />
+      <edge id="495" source="#SmartColumbus" target="#SmartCityPitch" weight="29461" />
+      <edge id="496" source="#Ohio" target="#Columbus" weight="6932" />
+      <edge id="497" source="#CBus" target="#LifeinCBus" weight="3466" />
+      <edge id="498" source="#ColumbiaCares" target="#CBUS" weight="1733" />
+      <edge id="499" source="#LifeinCBus" target="#green" weight="1733" />
+      <edge id="500" source="#LifeinCBus" target="#OurCBusGov" weight="1733" />
+      <edge id="501" source="#CelebrateGlenn" target="#Columbus" weight="1733" />
+      <edge id="502" source="#CPD" target="#CommunityPolicing" weight="1733" />
+      <edge id="503" source="#business" target="#Columbus" weight="1733" />
+      <edge id="504" source="#SmartCityPitch" target="#SmartCityPitch" weight="3466" />
+    </edges>
+  </graph>
+</gexf>

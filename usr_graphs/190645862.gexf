@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ChiDM" label="#ChiDM" />
+      <node id="#livenottaped" label="#livenottaped" />
+      <node id="#ICSC" label="#ICSC" />
+      <node id="#bestpizzaincolumbus" label="#bestpizzaincolumbus" />
+      <node id="#gdc" label="#gdc" />
+      <node id="#buonappetito" label="#buonappetito" />
+      <node id="#rmhcgolf" label="#rmhcgolf" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#inchristysshoes" label="#inchristysshoes" />
+      <node id="#thelinestartshere" label="#thelinestartshere" />
+      <node id="#constantcontact" label="#constantcontact" />
+      <node id="#highhopesinhighheels" label="#highhopesinhighheels" />
+      <node id="#roughgolfgame" label="#roughgolfgame" />
+      <node id="#yummy" label="#yummy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ChiDM" target="#Chicago" weight="767" />
+      <edge id="1" source="#livenottaped" target="#inchristysshoes" weight="767" />
+      <edge id="2" source="#livenottaped" target="#highhopesinhighheels" weight="767" />
+      <edge id="3" source="#livenottaped" target="#gdc" weight="767" />
+      <edge id="4" source="#ICSC" target="#realestate" weight="767" />
+      <edge id="5" source="#ICSC" target="#constantcontact" weight="767" />
+      <edge id="6" source="#bestpizzaincolumbus" target="#buonappetito" weight="767" />
+      <edge id="7" source="#gdc" target="#inchristysshoes" weight="767" />
+      <edge id="8" source="#gdc" target="#highhopesinhighheels" weight="767" />
+      <edge id="9" source="#rmhcgolf" target="#roughgolfgame" weight="767" />
+      <edge id="10" source="#realestate" target="#constantcontact" weight="767" />
+      <edge id="11" source="#inchristysshoes" target="#highhopesinhighheels" weight="767" />
+      <edge id="12" source="#thelinestartshere" target="#yummy" weight="767" />
+    </edges>
+  </graph>
+</gexf>

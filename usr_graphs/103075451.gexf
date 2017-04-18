@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ARLive" label="#ARLive" />
+      <node id="#HebenTaughtMe" label="#HebenTaughtMe" />
+      <node id="#XOXOFest" label="#XOXOFest" />
+      <node id="#SteveBiko" label="#SteveBiko" />
+      <node id="#trump" label="#trump" />
+      <node id="#Flint" label="#Flint" />
+      <node id="#hebentaughtme" label="#hebentaughtme" />
+      <node id="#beyondhashtags" label="#beyondhashtags" />
+      <node id="#xoxofest" label="#xoxofest" />
+      <node id="#my" label="#my" />
+      <node id="#100happydays" label="#100happydays" />
+      <node id="#WerkItPodcasters" label="#WerkItPodcasters" />
+      <node id="#Hebentaughtme" label="#Hebentaughtme" />
+      <node id="#FormationWorldTour" label="#FormationWorldTour" />
+      <node id="#CarefreeBlackKids2K16" label="#CarefreeBlackKids2K16" />
+      <node id="#facts" label="#facts" />
+      <node id="#Atlanta" label="#Atlanta" />
+      <node id="#burrito" label="#burrito" />
+      <node id="#yeezytaughtme" label="#yeezytaughtme" />
+      <node id="#LittleMissFlint" label="#LittleMissFlint" />
+      <node id="#theydeservebetter" label="#theydeservebetter" />
+      <node id="#FlintWaterCrisis" label="#FlintWaterCrisis" />
+      <node id="#impact" label="#impact" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ARLive" target="#WerkItPodcasters" weight="2146" />
+      <edge id="1" source="#HebenTaughtMe" target="#xoxofest" weight="2146" />
+      <edge id="2" source="#XOXOFest" target="#Hebentaughtme" weight="2146" />
+      <edge id="3" source="#SteveBiko" target="#100happydays" weight="2146" />
+      <edge id="4" source="#trump" target="#Flint" weight="2146" />
+      <edge id="5" source="#trump" target="#FlintWaterCrisis" weight="2146" />
+      <edge id="6" source="#trump" target="#LittleMissFlint" weight="2146" />
+      <edge id="7" source="#Flint" target="#FlintWaterCrisis" weight="2146" />
+      <edge id="8" source="#Flint" target="#LittleMissFlint" weight="2146" />
+      <edge id="9" source="#hebentaughtme" target="#yeezytaughtme" weight="2146" />
+      <edge id="10" source="#hebentaughtme" target="#xoxofest" weight="4292" />
+      <edge id="11" source="#beyondhashtags" target="#CarefreeBlackKids2K16" weight="2146" />
+      <edge id="12" source="#beyondhashtags" target="#theydeservebetter" weight="2146" />
+      <edge id="13" source="#xoxofest" target="#yeezytaughtme" weight="4292" />
+      <edge id="14" source="#my" target="#impact" weight="2146" />
+      <edge id="15" source="#FormationWorldTour" target="#Atlanta" weight="2146" />
+      <edge id="16" source="#CarefreeBlackKids2K16" target="#theydeservebetter" weight="2146" />
+      <edge id="17" source="#facts" target="#burrito" weight="2146" />
+      <edge id="18" source="#LittleMissFlint" target="#FlintWaterCrisis" weight="2146" />
+    </edges>
+  </graph>
+</gexf>

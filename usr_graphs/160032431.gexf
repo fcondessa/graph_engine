@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#ImWithNasty" label="#ImWithNasty" />
+      <node id="#YGG" label="#YGG" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ImWithHer" target="#ImWithNasty" weight="30" />
+      <edge id="1" source="#ImWithHer" target="#YGG" weight="30" />
+      <edge id="2" source="#ImWithNasty" target="#YGG" weight="30" />
+    </edges>
+  </graph>
+</gexf>

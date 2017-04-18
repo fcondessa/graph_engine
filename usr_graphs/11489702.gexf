@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#airbrushedAbs" label="#airbrushedAbs" />
+      <node id="#DWxmas" label="#DWxmas" />
+      <node id="#airports" label="#airports" />
+      <node id="#sworcery" label="#sworcery" />
+      <node id="#industryintel" label="#industryintel" />
+      <node id="#yam" label="#yam" />
+      <node id="#PGHmarathon" label="#PGHmarathon" />
+      <node id="#stone2cbus" label="#stone2cbus" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#mwux12" label="#mwux12" />
+      <node id="#UX" label="#UX" />
+      <node id="#FredRunFest" label="#FredRunFest" />
+      <node id="#MWUX12" label="#MWUX12" />
+      <node id="#gotmegatome" label="#gotmegatome" />
+      <node id="#MTVVMAs" label="#MTVVMAs" />
+      <node id="#groupoff" label="#groupoff" />
+      <node id="#RWD" label="#RWD" />
+      <node id="#fb" label="#fb" />
+      <node id="#appleinc" label="#appleinc" />
+      <node id="#LipSyncBattle" label="#LipSyncBattle" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Innovation" label="#Innovation" />
+      <node id="#Systema" label="#Systema" />
+      <node id="#flatdesign" label="#flatdesign" />
+      <node id="#DoctorWho" label="#DoctorWho" />
+      <node id="#tapastoneday" label="#tapastoneday" />
+      <node id="#doublejepordy" label="#doublejepordy" />
+      <node id="#jealous" label="#jealous" />
+      <node id="#M3Conf" label="#M3Conf" />
+      <node id="#ProjectComet" label="#ProjectComet" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#airbrushedAbs" target="#LipSyncBattle" weight="1689" />
+      <edge id="1" source="#airbrushedAbs" target="#MTVVMAs" weight="1689" />
+      <edge id="2" source="#DWxmas" target="#DoctorWho" weight="1689" />
+      <edge id="3" source="#airports" target="#healthcare" weight="1689" />
+      <edge id="4" source="#sworcery" target="#gotmegatome" weight="1689" />
+      <edge id="5" source="#industryintel" target="#appleinc" weight="1689" />
+      <edge id="6" source="#yam" target="#Innovation" weight="1689" />
+      <edge id="7" source="#yam" target="#mwux12" weight="1689" />
+      <edge id="8" source="#PGHmarathon" target="#FredRunFest" weight="1689" />
+      <edge id="9" source="#stone2cbus" target="#tapastoneday" weight="1689" />
+      <edge id="10" source="#swcbus" target="#doublejepordy" weight="1689" />
+      <edge id="11" source="#swcbus" target="#groupoff" weight="1689" />
+      <edge id="12" source="#mwux12" target="#Innovation" weight="1689" />
+      <edge id="13" source="#UX" target="#ProjectComet" weight="1689" />
+      <edge id="14" source="#MWUX12" target="#jealous" weight="1689" />
+      <edge id="15" source="#MTVVMAs" target="#LipSyncBattle" weight="1689" />
+      <edge id="16" source="#RWD" target="#M3Conf" weight="1689" />
+      <edge id="17" source="#RWD" target="#flatdesign" weight="1689" />
+      <edge id="18" source="#fb" target="#Systema" weight="1689" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Reg4" label="#Reg4" />
+      <node id="#journalists" label="#journalists" />
+      <node id="#spjohio" label="#spjohio" />
+      <node id="#plenarysession" label="#plenarysession" />
+      <node id="#SPJOhio" label="#SPJOhio" />
+      <node id="#journalism" label="#journalism" />
+      <node id="#CentralOhioSPJ" label="#CentralOhioSPJ" />
+      <node id="#SPJReg4Conf" label="#SPJReg4Conf" />
+      <node id="#Region4" label="#Region4" />
+      <node id="#nationalnews" label="#nationalnews" />
+      <node id="#data" label="#data" />
+      <node id="#localperspective" label="#localperspective" />
+      <node id="#SPJ" label="#SPJ" />
+      <node id="#BuckeyeCountry" label="#BuckeyeCountry" />
+      <node id="#FoundersDay" label="#FoundersDay" />
+      <node id="#OhioSPJAwards" label="#OhioSPJAwards" />
+      <node id="#Martys" label="#Martys" />
+      <node id="#SPJohio" label="#SPJohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Reg4" target="#SPJOhio" weight="265" />
+      <edge id="1" source="#journalists" target="#spjohio" weight="265" />
+      <edge id="2" source="#plenarysession" target="#Region4" weight="265" />
+      <edge id="3" source="#plenarysession" target="#SPJOhio" weight="265" />
+      <edge id="4" source="#plenarysession" target="#SPJohio" weight="265" />
+      <edge id="5" source="#SPJOhio" target="#Region4" weight="1855" />
+      <edge id="6" source="#SPJOhio" target="#localperspective" weight="265" />
+      <edge id="7" source="#SPJOhio" target="#nationalnews" weight="265" />
+      <edge id="8" source="#journalism" target="#SPJReg4Conf" weight="265" />
+      <edge id="9" source="#journalism" target="#data" weight="265" />
+      <edge id="10" source="#CentralOhioSPJ" target="#OhioSPJAwards" weight="265" />
+      <edge id="11" source="#CentralOhioSPJ" target="#Martys" weight="265" />
+      <edge id="12" source="#CentralOhioSPJ" target="#FoundersDay" weight="1060" />
+      <edge id="13" source="#SPJReg4Conf" target="#data" weight="265" />
+      <edge id="14" source="#Region4" target="#localperspective" weight="265" />
+      <edge id="15" source="#Region4" target="#nationalnews" weight="265" />
+      <edge id="16" source="#nationalnews" target="#localperspective" weight="265" />
+      <edge id="17" source="#SPJ" target="#BuckeyeCountry" weight="265" />
+      <edge id="18" source="#FoundersDay" target="#Martys" weight="265" />
+    </edges>
+  </graph>
+</gexf>

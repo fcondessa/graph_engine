@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#cellphone" label="#cellphone" />
+      <node id="#APGov" label="#APGov" />
+      <node id="#Nebraska" label="#Nebraska" />
+      <node id="#coupon" label="#coupon" />
+      <node id="#notreally" label="#notreally" />
+      <node id="#data" label="#data" />
+      <node id="#SocialStudies" label="#SocialStudies" />
+      <node id="#history" label="#history" />
+      <node id="#historyteacher" label="#historyteacher" />
+      <node id="#sschat" label="#sschat" />
+      <node id="#debates" label="#debates" />
+      <node id="#Romney" label="#Romney" />
+      <node id="#Campaign2016" label="#Campaign2016" />
+      <node id="#Gr82bGOLD" label="#Gr82bGOLD" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#civics" label="#civics" />
+      <node id="#polling" label="#polling" />
+      <node id="#deal" label="#deal" />
+      <node id="#USAUSA" label="#USAUSA" />
+      <node id="#statanalysis" label="#statanalysis" />
+      <node id="#socialstudies" label="#socialstudies" />
+      <node id="#edtech" label="#edtech" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#cellphone" target="#deal" weight="1965" />
+      <edge id="1" source="#APGov" target="#history" weight="1965" />
+      <edge id="2" source="#APGov" target="#historyteacher" weight="1965" />
+      <edge id="3" source="#APGov" target="#sschat" weight="1965" />
+      <edge id="4" source="#APGov" target="#civics" weight="1965" />
+      <edge id="5" source="#APGov" target="#socialstudies" weight="1965" />
+      <edge id="6" source="#Nebraska" target="#Romney" weight="1965" />
+      <edge id="7" source="#Nebraska" target="#Obama" weight="1965" />
+      <edge id="8" source="#coupon" target="#deal" weight="1965" />
+      <edge id="9" source="#notreally" target="#debates" weight="1965" />
+      <edge id="10" source="#data" target="#Gr82bGOLD" weight="1965" />
+      <edge id="11" source="#data" target="#statanalysis" weight="1965" />
+      <edge id="12" source="#data" target="#polling" weight="1965" />
+      <edge id="13" source="#data" target="#SocialStudies" weight="1965" />
+      <edge id="14" source="#SocialStudies" target="#Gr82bGOLD" weight="1965" />
+      <edge id="15" source="#SocialStudies" target="#statanalysis" weight="1965" />
+      <edge id="16" source="#SocialStudies" target="#polling" weight="1965" />
+      <edge id="17" source="#history" target="#civics" weight="1965" />
+      <edge id="18" source="#history" target="#socialstudies" weight="1965" />
+      <edge id="19" source="#historyteacher" target="#sschat" weight="1965" />
+      <edge id="20" source="#sschat" target="#edtech" weight="1965" />
+      <edge id="21" source="#Romney" target="#Obama" weight="1965" />
+      <edge id="22" source="#Campaign2016" target="#USAUSA" weight="1965" />
+      <edge id="23" source="#Gr82bGOLD" target="#statanalysis" weight="1965" />
+      <edge id="24" source="#Gr82bGOLD" target="#polling" weight="1965" />
+      <edge id="25" source="#civics" target="#socialstudies" weight="1965" />
+      <edge id="26" source="#polling" target="#statanalysis" weight="1965" />
+    </edges>
+  </graph>
+</gexf>

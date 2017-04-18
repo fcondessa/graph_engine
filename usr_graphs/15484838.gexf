@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NFLonFOX" label="#NFLonFOX" />
+      <node id="#DALvsPHI" label="#DALvsPHI" />
+      <node id="#Browns" label="#Browns" />
+      <node id="#NBAFinalsVote" label="#NBAFinalsVote" />
+      <node id="#PiDay" label="#PiDay" />
+      <node id="#heartbroken" label="#heartbroken" />
+      <node id="#phew" label="#phew" />
+      <node id="#Buckeye4Life" label="#Buckeye4Life" />
+      <node id="#chadtough" label="#chadtough" />
+      <node id="#SelectionSunday" label="#SelectionSunday" />
+      <node id="#SharkWeek" label="#SharkWeek" />
+      <node id="#pewpew" label="#pewpew" />
+      <node id="#GoogleGlass" label="#GoogleGlass" />
+      <node id="#relax" label="#relax" />
+      <node id="#pinwheels" label="#pinwheels" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#cask" label="#cask" />
+      <node id="#ALLin216" label="#ALLin216" />
+      <node id="#OSUInnovate" label="#OSUInnovate" />
+      <node id="#jaws" label="#jaws" />
+      <node id="#righttheship" label="#righttheship" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#nfldraft" label="#nfldraft" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#ryeipa" label="#ryeipa" />
+      <node id="#buckeyehearts" label="#buckeyehearts" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NFLonFOX" target="#DALvsPHI" weight="1043" />
+      <edge id="1" source="#Browns" target="#nfldraft" weight="1043" />
+      <edge id="2" source="#NBAFinalsVote" target="#ALLin216" weight="1043" />
+      <edge id="3" source="#PiDay" target="#pewpew" weight="1043" />
+      <edge id="4" source="#heartbroken" target="#Buckeyes" weight="1043" />
+      <edge id="5" source="#heartbroken" target="#craftbeer" weight="1043" />
+      <edge id="6" source="#phew" target="#righttheship" weight="1043" />
+      <edge id="7" source="#phew" target="#relax" weight="1043" />
+      <edge id="8" source="#Buckeye4Life" target="#pinwheels" weight="1043" />
+      <edge id="9" source="#chadtough" target="#GoBucks" weight="1043" />
+      <edge id="10" source="#SelectionSunday" target="#Buckeyes" weight="1043" />
+      <edge id="11" source="#SelectionSunday" target="#GoBucks" weight="1043" />
+      <edge id="12" source="#SharkWeek" target="#jaws" weight="1043" />
+      <edge id="13" source="#GoogleGlass" target="#OSUInnovate" weight="1043" />
+      <edge id="14" source="#relax" target="#righttheship" weight="1043" />
+      <edge id="15" source="#Buckeyes" target="#GoBucks" weight="1043" />
+      <edge id="16" source="#Buckeyes" target="#craftbeer" weight="1043" />
+      <edge id="17" source="#columbus" target="#buckeyehearts" weight="1043" />
+      <edge id="18" source="#cask" target="#ryeipa" weight="1043" />
+    </edges>
+  </graph>
+</gexf>

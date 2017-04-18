@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Blackphone" label="#Blackphone" />
+      <node id="#StartupLife" label="#StartupLife" />
+      <node id="#Tech" label="#Tech" />
+      <node id="#doge" label="#doge" />
+      <node id="#Mobile" label="#Mobile" />
+      <node id="#StartupsAnonymous" label="#StartupsAnonymous" />
+      <node id="#Sales" label="#Sales" />
+      <node id="#App" label="#App" />
+      <node id="#Dogecoin" label="#Dogecoin" />
+      <node id="#VentureCapital" label="#VentureCapital" />
+      <node id="#Litecoin" label="#Litecoin" />
+      <node id="#quantumcomputing" label="#quantumcomputing" />
+      <node id="#Fundraising" label="#Fundraising" />
+      <node id="#WorkHard" label="#WorkHard" />
+      <node id="#GEOINT2013" label="#GEOINT2013" />
+      <node id="#SmallBiz" label="#SmallBiz" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#StartUp" label="#StartUp" />
+      <node id="#recycle" label="#recycle" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#startuplist" label="#startuplist" />
+      <node id="#TechTongue" label="#TechTongue" />
+      <node id="#startup" label="#startup" />
+      <node id="#CrowdFunding" label="#CrowdFunding" />
+      <node id="#reuse" label="#reuse" />
+      <node id="#VC" label="#VC" />
+      <node id="#upcycle" label="#upcycle" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Blackphone" target="#privacy" weight="93" />
+      <edge id="1" source="#StartupLife" target="#StartupsAnonymous" weight="93" />
+      <edge id="2" source="#Tech" target="#TechTongue" weight="93" />
+      <edge id="3" source="#Tech" target="#Mobile" weight="93" />
+      <edge id="4" source="#doge" target="#Litecoin" weight="93" />
+      <edge id="5" source="#doge" target="#Dogecoin" weight="93" />
+      <edge id="6" source="#Mobile" target="#TechTongue" weight="93" />
+      <edge id="7" source="#Sales" target="#VC" weight="93" />
+      <edge id="8" source="#App" target="#CrowdFunding" weight="93" />
+      <edge id="9" source="#App" target="#StartUp" weight="93" />
+      <edge id="10" source="#App" target="#SmallBiz" weight="93" />
+      <edge id="11" source="#App" target="#Fundraising" weight="93" />
+      <edge id="12" source="#Dogecoin" target="#Litecoin" weight="93" />
+      <edge id="13" source="#VentureCapital" target="#VC" weight="93" />
+      <edge id="14" source="#quantumcomputing" target="#GEOINT2013" weight="93" />
+      <edge id="15" source="#Fundraising" target="#CrowdFunding" weight="93" />
+      <edge id="16" source="#Fundraising" target="#StartUp" weight="93" />
+      <edge id="17" source="#Fundraising" target="#SmallBiz" weight="93" />
+      <edge id="18" source="#WorkHard" target="#motivation" weight="93" />
+      <edge id="19" source="#SmallBiz" target="#CrowdFunding" weight="93" />
+      <edge id="20" source="#SmallBiz" target="#StartUp" weight="93" />
+      <edge id="21" source="#StartUp" target="#CrowdFunding" weight="93" />
+      <edge id="22" source="#recycle" target="#reuse" weight="93" />
+      <edge id="23" source="#recycle" target="#upcycle" weight="93" />
+      <edge id="24" source="#startuplist" target="#startup" weight="93" />
+      <edge id="25" source="#reuse" target="#upcycle" weight="93" />
+    </edges>
+  </graph>
+</gexf>

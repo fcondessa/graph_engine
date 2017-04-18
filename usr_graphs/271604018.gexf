@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#FugitiveoftheWeek" label="#FugitiveoftheWeek" />
+      <node id="#Clintonville" label="#Clintonville" />
+      <node id="#publicservice" label="#publicservice" />
+      <node id="#pol" label="#pol" />
+      <node id="#TheConmanContractor" label="#TheConmanContractor" />
+      <node id="#columbus_oh" label="#columbus_oh" />
+      <node id="#fugitives" label="#fugitives" />
+      <node id="#government" label="#government" />
+      <node id="#NationalNightOut" label="#NationalNightOut" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#BeautyCreamBandit" label="#BeautyCreamBandit" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#Moseying" label="#Moseying" />
+      <node id="#lawyer" label="#lawyer" />
+      <node id="#law" label="#law" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#FugitiveoftheWeek" target="#OSU" weight="1578" />
+      <edge id="1" source="#FugitiveoftheWeek" target="#SocialMedia" weight="789" />
+      <edge id="2" source="#Clintonville" target="#Moseying" weight="789" />
+      <edge id="3" source="#publicservice" target="#lawyer" weight="789" />
+      <edge id="4" source="#publicservice" target="#law" weight="789" />
+      <edge id="5" source="#publicservice" target="#pol" weight="789" />
+      <edge id="6" source="#publicservice" target="#government" weight="789" />
+      <edge id="7" source="#publicservice" target="#columbus_oh" weight="789" />
+      <edge id="8" source="#pol" target="#lawyer" weight="789" />
+      <edge id="9" source="#pol" target="#law" weight="789" />
+      <edge id="10" source="#pol" target="#government" weight="789" />
+      <edge id="11" source="#pol" target="#columbus_oh" weight="789" />
+      <edge id="12" source="#TheConmanContractor" target="#Cbus" weight="789" />
+      <edge id="13" source="#columbus_oh" target="#lawyer" weight="789" />
+      <edge id="14" source="#columbus_oh" target="#law" weight="789" />
+      <edge id="15" source="#columbus_oh" target="#government" weight="789" />
+      <edge id="16" source="#fugitives" target="#BeautyCreamBandit" weight="789" />
+      <edge id="17" source="#government" target="#lawyer" weight="789" />
+      <edge id="18" source="#government" target="#law" weight="789" />
+      <edge id="19" source="#NationalNightOut" target="#Cbus" weight="789" />
+      <edge id="20" source="#lifeincbus" target="#Moseying" weight="789" />
+      <edge id="21" source="#lawyer" target="#law" weight="789" />
+      <edge id="22" source="#Columbus" target="#Ohio" weight="789" />
+    </edges>
+  </graph>
+</gexf>

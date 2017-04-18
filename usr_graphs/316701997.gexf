@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Madrid" label="#Madrid" />
+      <node id="#Informatica" label="#Informatica" />
+      <node id="#Volunteer" label="#Volunteer" />
+      <node id="#UPGRADE" label="#UPGRADE" />
+      <node id="#mdm15nyc" label="#mdm15nyc" />
+      <node id="#FTC" label="#FTC" />
+      <node id="#Careers" label="#Careers" />
+      <node id="#priint" label="#priint" />
+      <node id="#TruthInInformation" label="#TruthInInformation" />
+      <node id="#Testing" label="#Testing" />
+      <node id="#MDM360" label="#MDM360" />
+      <node id="#PatientData" label="#PatientData" />
+      <node id="#ProductInformation" label="#ProductInformation" />
+      <node id="#infoverity" label="#infoverity" />
+      <node id="#INFA16" label="#INFA16" />
+      <node id="#Paris" label="#Paris" />
+      <node id="#IBMSoftware" label="#IBMSoftware" />
+      <node id="#Vegas" label="#Vegas" />
+      <node id="#CustomerMaster" label="#CustomerMaster" />
+      <node id="#Data" label="#Data" />
+      <node id="#ROI" label="#ROI" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#RonaldMcDonald" label="#RonaldMcDonald" />
+      <node id="#TeamBuilding" label="#TeamBuilding" />
+      <node id="#CIT" label="#CIT" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#Monday" label="#Monday" />
+      <node id="#Infoverity" label="#Infoverity" />
+      <node id="#MDM15NYC" label="#MDM15NYC" />
+      <node id="#BigData" label="#BigData" />
+      <node id="#Technology" label="#Technology" />
+      <node id="#IWT16" label="#IWT16" />
+      <node id="#theCUBE" label="#theCUBE" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#MDMD" label="#MDMD" />
+      <node id="#Risk" label="#Risk" />
+      <node id="#TechChallenges" label="#TechChallenges" />
+      <node id="#informatica" label="#informatica" />
+      <node id="#ProductData" label="#ProductData" />
+      <node id="#AwesomePartners" label="#AwesomePartners" />
+      <node id="#CustomerData" label="#CustomerData" />
+      <node id="#infa16" label="#infa16" />
+      <node id="#InfaPF" label="#InfaPF" />
+      <node id="#PIM" label="#PIM" />
+      <node id="#rhartleyoh" label="#rhartleyoh" />
+      <node id="#MDM" label="#MDM" />
+      <node id="#dataquality" label="#dataquality" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#IT" label="#IT" />
+      <node id="#IoT" label="#IoT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Madrid" target="#InfaPF" weight="130" />
+      <edge id="1" source="#Informatica" target="#Technology" weight="130" />
+      <edge id="2" source="#Informatica" target="#Monday" weight="130" />
+      <edge id="3" source="#Informatica" target="#AwesomePartners" weight="130" />
+      <edge id="4" source="#Informatica" target="#MDM15NYC" weight="130" />
+      <edge id="5" source="#Informatica" target="#PIM" weight="130" />
+      <edge id="6" source="#Informatica" target="#MDM" weight="260" />
+      <edge id="7" source="#Informatica" target="#dataquality" weight="130" />
+      <edge id="8" source="#Informatica" target="#BigData" weight="260" />
+      <edge id="9" source="#Informatica" target="#CustomerMaster" weight="130" />
+      <edge id="10" source="#Volunteer" target="#RonaldMcDonald" weight="130" />
+      <edge id="11" source="#UPGRADE" target="#MDM" weight="130" />
+      <edge id="12" source="#UPGRADE" target="#MDM15NYC" weight="130" />
+      <edge id="13" source="#UPGRADE" target="#NYC" weight="130" />
+      <edge id="14" source="#UPGRADE" target="#BigData" weight="130" />
+      <edge id="15" source="#mdm15nyc" target="#TechChallenges" weight="130" />
+      <edge id="16" source="#FTC" target="#CustomerData" weight="130" />
+      <edge id="17" source="#FTC" target="#PatientData" weight="130" />
+      <edge id="18" source="#Careers" target="#IT" weight="130" />
+      <edge id="19" source="#priint" target="#infoverity" weight="130" />
+      <edge id="20" source="#priint" target="#informatica" weight="130" />
+      <edge id="21" source="#TruthInInformation" target="#Infoverity" weight="130" />
+      <edge id="22" source="#Testing" target="#MDM" weight="130" />
+      <edge id="23" source="#MDM360" target="#Paris" weight="130" />
+      <edge id="24" source="#MDM360" target="#INFA16" weight="130" />
+      <edge id="25" source="#MDM360" target="#IWT16" weight="260" />
+      <edge id="26" source="#PatientData" target="#CustomerData" weight="130" />
+      <edge id="27" source="#ProductInformation" target="#MDM15NYC" weight="130" />
+      <edge id="28" source="#ProductInformation" target="#ProductData" weight="130" />
+      <edge id="29" source="#ProductInformation" target="#PIM" weight="130" />
+      <edge id="30" source="#infoverity" target="#informatica" weight="130" />
+      <edge id="31" source="#INFA16" target="#MDM" weight="390" />
+      <edge id="32" source="#INFA16" target="#theCUBE" weight="260" />
+      <edge id="33" source="#IBMSoftware" target="#rhartleyoh" weight="130" />
+      <edge id="34" source="#Vegas" target="#MDM" weight="130" />
+      <edge id="35" source="#Vegas" target="#PIM" weight="130" />
+      <edge id="36" source="#Vegas" target="#Data" weight="130" />
+      <edge id="37" source="#Vegas" target="#BigData" weight="130" />
+      <edge id="38" source="#CustomerMaster" target="#BigData" weight="130" />
+      <edge id="39" source="#Data" target="#MDM" weight="260" />
+      <edge id="40" source="#Data" target="#BigData" weight="130" />
+      <edge id="41" source="#Data" target="#PIM" weight="130" />
+      <edge id="42" source="#ROI" target="#MDM" weight="130" />
+      <edge id="43" source="#Buckeyes" target="#Columbus" weight="130" />
+      <edge id="44" source="#Buckeyes" target="#TeamBuilding" weight="130" />
+      <edge id="45" source="#TeamBuilding" target="#Columbus" weight="130" />
+      <edge id="46" source="#CIT" target="#MDM15NYC" weight="130" />
+      <edge id="47" source="#NYC" target="#MDM" weight="260" />
+      <edge id="48" source="#NYC" target="#MDM15NYC" weight="390" />
+      <edge id="49" source="#NYC" target="#BigData" weight="130" />
+      <edge id="50" source="#NYC" target="#PIM" weight="130" />
+      <edge id="51" source="#Monday" target="#MDM" weight="130" />
+      <edge id="52" source="#Monday" target="#Technology" weight="130" />
+      <edge id="53" source="#Monday" target="#BigData" weight="130" />
+      <edge id="54" source="#MDM15NYC" target="#MDM" weight="1040" />
+      <edge id="55" source="#MDM15NYC" target="#PIM" weight="390" />
+      <edge id="56" source="#MDM15NYC" target="#BigData" weight="130" />
+      <edge id="57" source="#MDM15NYC" target="#ProductData" weight="130" />
+      <edge id="58" source="#BigData" target="#Technology" weight="130" />
+      <edge id="59" source="#BigData" target="#PIM" weight="260" />
+      <edge id="60" source="#BigData" target="#MDM" weight="390" />
+      <edge id="61" source="#Technology" target="#MDM" weight="130" />
+      <edge id="62" source="#IWT16" target="#IoT" weight="130" />
+      <edge id="63" source="#theCUBE" target="#infa16" weight="130" />
+      <edge id="64" source="#MDMD" target="#CustomerData" weight="130" />
+      <edge id="65" source="#Risk" target="#Healthcare" weight="130" />
+      <edge id="66" source="#Risk" target="#IT" weight="130" />
+      <edge id="67" source="#ProductData" target="#PIM" weight="130" />
+      <edge id="68" source="#PIM" target="#MDM" weight="1040" />
+      <edge id="69" source="#PIM" target="#dataquality" weight="130" />
+      <edge id="70" source="#Healthcare" target="#IT" weight="130" />
+    </edges>
+  </graph>
+</gexf>

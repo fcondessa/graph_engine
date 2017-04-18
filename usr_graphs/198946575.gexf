@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#clean" label="#clean" />
+      <node id="#following" label="#following" />
+      <node id="#SHOUTOUT" label="#SHOUTOUT" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#allrightythen" label="#allrightythen" />
+      <node id="#Dubstep" label="#Dubstep" />
+      <node id="#duh" label="#duh" />
+      <node id="#strategiccommunications" label="#strategiccommunications" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Japan" label="#Japan" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#WINNING" label="#WINNING" />
+      <node id="#MBtweetrace" label="#MBtweetrace" />
+      <node id="#SHOUT" label="#SHOUT" />
+      <node id="#FOLLOW" label="#FOLLOW" />
+      <node id="#nba" label="#nba" />
+      <node id="#FF" label="#FF" />
+      <node id="#winning" label="#winning" />
+      <node id="#Fukushima" label="#Fukushima" />
+      <node id="#stumbleupon" label="#stumbleupon" />
+      <node id="#pub" label="#pub" />
+      <node id="#MBteamCL" label="#MBteamCL" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#sm" label="#sm" />
+      <node id="#family" label="#family" />
+      <node id="#fun" label="#fun" />
+      <node id="#tigerblood" label="#tigerblood" />
+      <node id="#FOLLOWRS" label="#FOLLOWRS" />
+      <node id="#puffpuffpasstuesday" label="#puffpuffpasstuesday" />
+      <node id="#doggumentary" label="#doggumentary" />
+      <node id="#Bi" label="#Bi" />
+      <node id="#Millionaire" label="#Millionaire" />
+      <node id="#newmedia" label="#newmedia" />
+      <node id="#columbus_ohio" label="#columbus_ohio" />
+      <node id="#lasttimetheheatwon" label="#lasttimetheheatwon" />
+      <node id="#awesome" label="#awesome" />
+      <node id="#TigerBlood" label="#TigerBlood" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#clean" target="#fun" weight="342" />
+      <edge id="1" source="#following" target="#awesome" weight="342" />
+      <edge id="2" source="#following" target="#winning" weight="342" />
+      <edge id="3" source="#SHOUTOUT" target="#FOLLOWRS" weight="342" />
+      <edge id="4" source="#SHOUTOUT" target="#FOLLOW" weight="342" />
+      <edge id="5" source="#SEO" target="#sm" weight="342" />
+      <edge id="6" source="#SEO" target="#socialmedia" weight="342" />
+      <edge id="7" source="#allrightythen" target="#Millionaire" weight="342" />
+      <edge id="8" source="#Dubstep" target="#Bi" weight="342" />
+      <edge id="9" source="#duh" target="#winning" weight="342" />
+      <edge id="10" source="#duh" target="#tigerblood" weight="342" />
+      <edge id="11" source="#strategiccommunications" target="#family" weight="684" />
+      <edge id="12" source="#strategiccommunications" target="#newmedia" weight="684" />
+      <edge id="13" source="#strategiccommunications" target="#columbus_ohio" weight="684" />
+      <edge id="14" source="#strategiccommunications" target="#pub" weight="342" />
+      <edge id="15" source="#Ohio" target="#Columbus" weight="684" />
+      <edge id="16" source="#Japan" target="#Fukushima" weight="342" />
+      <edge id="17" source="#WINNING" target="#SHOUT" weight="342" />
+      <edge id="18" source="#MBtweetrace" target="#MBteamCL" weight="342" />
+      <edge id="19" source="#FOLLOW" target="#FOLLOWRS" weight="342" />
+      <edge id="20" source="#nba" target="#lasttimetheheatwon" weight="342" />
+      <edge id="21" source="#FF" target="#TigerBlood" weight="342" />
+      <edge id="22" source="#winning" target="#awesome" weight="342" />
+      <edge id="23" source="#winning" target="#tigerblood" weight="342" />
+      <edge id="24" source="#stumbleupon" target="#socialmedia" weight="342" />
+      <edge id="25" source="#pub" target="#family" weight="342" />
+      <edge id="26" source="#pub" target="#newmedia" weight="342" />
+      <edge id="27" source="#pub" target="#columbus_ohio" weight="342" />
+      <edge id="28" source="#socialmedia" target="#sm" weight="342" />
+      <edge id="29" source="#family" target="#newmedia" weight="684" />
+      <edge id="30" source="#family" target="#columbus_ohio" weight="1026" />
+      <edge id="31" source="#puffpuffpasstuesday" target="#doggumentary" weight="342" />
+      <edge id="32" source="#newmedia" target="#columbus_ohio" weight="684" />
+    </edges>
+  </graph>
+</gexf>

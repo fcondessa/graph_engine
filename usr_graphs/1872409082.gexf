@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#education" label="#education" />
+      <node id="#OSUnews" label="#OSUnews" />
+      <node id="#EdLeaders" label="#EdLeaders" />
+      <node id="#ThisisOhioState" label="#ThisisOhioState" />
+      <node id="#data" label="#data" />
+      <node id="#SDPfellow" label="#SDPfellow" />
+      <node id="#EdReformers" label="#EdReformers" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#education" target="#SDPfellow" weight="172" />
+      <edge id="1" source="#education" target="#data" weight="172" />
+      <edge id="2" source="#OSUnews" target="#ThisisOhioState" weight="172" />
+      <edge id="3" source="#EdLeaders" target="#EdReformers" weight="172" />
+      <edge id="4" source="#data" target="#SDPfellow" weight="172" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#RadioEthan" label="#RadioEthan" />
+      <node id="#awkward" label="#awkward" />
+      <node id="#Browns" label="#Browns" />
+      <node id="#SFvsCAR" label="#SFvsCAR" />
+      <node id="#beatthecubs" label="#beatthecubs" />
+      <node id="#49ersTalk" label="#49ersTalk" />
+      <node id="#RallySpeights" label="#RallySpeights" />
+      <node id="#RallyZito" label="#RallyZito" />
+      <node id="#49ersfaithful" label="#49ersfaithful" />
+      <node id="#DubNation" label="#DubNation" />
+      <node id="#OMGB" label="#OMGB" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#WelcomeBackHarryB" label="#WelcomeBackHarryB" />
+      <node id="#Titans" label="#Titans" />
+      <node id="#BeliEVEN" label="#BeliEVEN" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#RadioLarry" label="#RadioLarry" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#7tormsComing" label="#7tormsComing" />
+      <node id="#SFOtoLHR" label="#SFOtoLHR" />
+      <node id="#Splash69" label="#Splash69" />
+      <node id="#Rams" label="#Rams" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#LetItFly" label="#LetItFly" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#FamousMelaniaTrumpQuotes" label="#FamousMelaniaTrumpQuotes" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#RadioEthan" target="#RadioLarry" weight="3239" />
+      <edge id="1" source="#awkward" target="#WelcomeBackHarryB" weight="3239" />
+      <edge id="2" source="#Browns" target="#49ers" weight="3239" />
+      <edge id="3" source="#Browns" target="#Titans" weight="3239" />
+      <edge id="4" source="#SFvsCAR" target="#49ers" weight="3239" />
+      <edge id="5" source="#SFvsCAR" target="#49ersTalk" weight="3239" />
+      <edge id="6" source="#beatthecubs" target="#sfgiants" weight="3239" />
+      <edge id="7" source="#49ersTalk" target="#49ers" weight="3239" />
+      <edge id="8" source="#RallySpeights" target="#RallyZito" weight="3239" />
+      <edge id="9" source="#49ersfaithful" target="#49ers" weight="3239" />
+      <edge id="10" source="#49ersfaithful" target="#NFL" weight="3239" />
+      <edge id="11" source="#DubNation" target="#Warriors" weight="3239" />
+      <edge id="12" source="#OMGB" target="#SFOtoLHR" weight="6478" />
+      <edge id="13" source="#Titans" target="#49ers" weight="3239" />
+      <edge id="14" source="#BeliEVEN" target="#SFGiants" weight="3239" />
+      <edge id="15" source="#49ers" target="#Rams" weight="3239" />
+      <edge id="16" source="#49ers" target="#NFL" weight="3239" />
+      <edge id="17" source="#7tormsComing" target="#FamousMelaniaTrumpQuotes" weight="3239" />
+      <edge id="18" source="#SFOtoLHR" target="#LetItFly" weight="3239" />
+      <edge id="19" source="#Splash69" target="#Splash69" weight="6478" />
+    </edges>
+  </graph>
+</gexf>

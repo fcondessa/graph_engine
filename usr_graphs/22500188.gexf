@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#whoops" label="#whoops" />
+      <node id="#SuperTuesday" label="#SuperTuesday" />
+      <node id="#RoevsWade" label="#RoevsWade" />
+      <node id="#VPDebate" label="#VPDebate" />
+      <node id="#SandraBland" label="#SandraBland" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#debates" label="#debates" />
+      <node id="#FlexDay" label="#FlexDay" />
+      <node id="#YAS" label="#YAS" />
+      <node id="#PaidLeave4DC" label="#PaidLeave4DC" />
+      <node id="#Soulmates" label="#Soulmates" />
+      <node id="#WorldCup2014" label="#WorldCup2014" />
+      <node id="#hot" label="#hot" />
+      <node id="#JustWords" label="#JustWords" />
+      <node id="#MakeDonaldDrumpfAgain" label="#MakeDonaldDrumpfAgain" />
+      <node id="#JustHours" label="#JustHours" />
+      <node id="#workflex" label="#workflex" />
+      <node id="#feminist" label="#feminist" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#equalpay" label="#equalpay" />
+      <node id="#goodreads" label="#goodreads" />
+      <node id="#monologue" label="#monologue" />
+      <node id="#Debates2016" label="#Debates2016" />
+      <node id="#TheJinx" label="#TheJinx" />
+      <node id="#debate2016" label="#debate2016" />
+      <node id="#GoingClear" label="#GoingClear" />
+      <node id="#BrazilvsGermany" label="#BrazilvsGermany" />
+      <node id="#MarriageEquality" label="#MarriageEquality" />
+      <node id="#LennyLetter" label="#LennyLetter" />
+      <node id="#RecodeDecode" label="#RecodeDecode" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#AskYourMother" label="#AskYourMother" />
+      <node id="#repealthe8th" label="#repealthe8th" />
+      <node id="#Subscribe" label="#Subscribe" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#whoops" target="#goodreads" weight="3239" />
+      <edge id="1" source="#whoops" target="#Soulmates" weight="3239" />
+      <edge id="2" source="#SuperTuesday" target="#MakeDonaldDrumpfAgain" weight="3239" />
+      <edge id="3" source="#RoevsWade" target="#MarriageEquality" weight="3239" />
+      <edge id="4" source="#RoevsWade" target="#YAS" weight="3239" />
+      <edge id="5" source="#RoevsWade" target="#debates" weight="3239" />
+      <edge id="6" source="#VPDebate" target="#equalpay" weight="3239" />
+      <edge id="7" source="#VPDebate" target="#ImWithHer" weight="3239" />
+      <edge id="8" source="#SandraBland" target="#BlackLivesMatter" weight="3239" />
+      <edge id="9" source="#ImWithHer" target="#equalpay" weight="3239" />
+      <edge id="10" source="#debates" target="#MarriageEquality" weight="3239" />
+      <edge id="11" source="#debates" target="#YAS" weight="3239" />
+      <edge id="12" source="#FlexDay" target="#workflex" weight="3239" />
+      <edge id="13" source="#YAS" target="#MarriageEquality" weight="3239" />
+      <edge id="14" source="#PaidLeave4DC" target="#JustHours" weight="3239" />
+      <edge id="15" source="#Soulmates" target="#goodreads" weight="3239" />
+      <edge id="16" source="#WorldCup2014" target="#BrazilvsGermany" weight="3239" />
+      <edge id="17" source="#hot" target="#feminist" weight="3239" />
+      <edge id="18" source="#hot" target="#monologue" weight="3239" />
+      <edge id="19" source="#JustWords" target="#Debates2016" weight="3239" />
+      <edge id="20" source="#JustWords" target="#LennyLetter" weight="3239" />
+      <edge id="21" source="#feminist" target="#monologue" weight="3239" />
+      <edge id="22" source="#debatenight" target="#debate2016" weight="3239" />
+      <edge id="23" source="#Debates2016" target="#LennyLetter" weight="3239" />
+      <edge id="24" source="#TheJinx" target="#GoingClear" weight="3239" />
+      <edge id="25" source="#RecodeDecode" target="#Subscribe" weight="3239" />
+      <edge id="26" source="#AskYourMother" target="#repealthe8th" weight="3239" />
+    </edges>
+  </graph>
+</gexf>

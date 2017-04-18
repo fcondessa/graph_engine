@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Gartner" label="#Gartner" />
+      <node id="#yum" label="#yum" />
+      <node id="#digitalmarketing" label="#digitalmarketing" />
+      <node id="#iPhone6Plus" label="#iPhone6Plus" />
+      <node id="#foodforthought" label="#foodforthought" />
+      <node id="#ohiohealth" label="#ohiohealth" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Gartner" target="#digitalmarketing" weight="101" />
+      <edge id="1" source="#yum" target="#iPhone6Plus" weight="101" />
+      <edge id="2" source="#foodforthought" target="#ohiohealth" weight="404" />
+    </edges>
+  </graph>
+</gexf>

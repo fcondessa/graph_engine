@@ -1,0 +1,965 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#fm2020vision" label="#fm2020vision" />
+      <node id="#FMREVOLUTION" label="#FMREVOLUTION" />
+      <node id="#thepowerofone" label="#thepowerofone" />
+      <node id="#AprilFoolsDayPranks" label="#AprilFoolsDayPranks" />
+      <node id="#patientcare" label="#patientcare" />
+      <node id="#multistate" label="#multistate" />
+      <node id="#CME" label="#CME" />
+      <node id="#Leaders" label="#Leaders" />
+      <node id="#SAVEAHRQ" label="#SAVEAHRQ" />
+      <node id="#aafp2014" label="#aafp2014" />
+      <node id="#FMIG" label="#FMIG" />
+      <node id="#Match2013" label="#Match2013" />
+      <node id="#FamilyDoctor" label="#FamilyDoctor" />
+      <node id="#Match2015" label="#Match2015" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#aafpCOD" label="#aafpCOD" />
+      <node id="#AAFP_FMIG" label="#AAFP_FMIG" />
+      <node id="#aafpFMCC" label="#aafpFMCC" />
+      <node id="#SunshineAct" label="#SunshineAct" />
+      <node id="#aafpalf" label="#aafpalf" />
+      <node id="#occupyhealthcare" label="#occupyhealthcare" />
+      <node id="#aafppdw" label="#aafppdw" />
+      <node id="#aafpwc" label="#aafpwc" />
+      <node id="#chooseprimarycare" label="#chooseprimarycare" />
+      <node id="#Opcpcc" label="#Opcpcc" />
+      <node id="#FMEC" label="#FMEC" />
+      <node id="#MatchDay" label="#MatchDay" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#CDCTips" label="#CDCTips" />
+      <node id="#aafpncfmr" label="#aafpncfmr" />
+      <node id="#FMrevolution" label="#FMrevolution" />
+      <node id="#premeded" label="#premeded" />
+      <node id="#HealthisPrimary" label="#HealthisPrimary" />
+      <node id="#HealthCare" label="#HealthCare" />
+      <node id="#aafpALF" label="#aafpALF" />
+      <node id="#FamMedPAC" label="#FamMedPAC" />
+      <node id="#braintrust" label="#braintrust" />
+      <node id="#ICD10" label="#ICD10" />
+      <node id="#frmevolution" label="#frmevolution" />
+      <node id="#TAFP" label="#TAFP" />
+      <node id="#fmig" label="#fmig" />
+      <node id="#KansasCity" label="#KansasCity" />
+      <node id="#CPI13" label="#CPI13" />
+      <node id="#CliniSyncUpdate" label="#CliniSyncUpdate" />
+      <node id="#aafpNC" label="#aafpNC" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#docfix" label="#docfix" />
+      <node id="#Career" label="#Career" />
+      <node id="#colorectalcancerscreening" label="#colorectalcancerscreening" />
+      <node id="#primarycare" label="#primarycare" />
+      <node id="#HR2" label="#HR2" />
+      <node id="#RollTide" label="#RollTide" />
+      <node id="#ACLF2016" label="#ACLF2016" />
+      <node id="#MemorialDayWeekend" label="#MemorialDayWeekend" />
+      <node id="#KeepCalm" label="#KeepCalm" />
+      <node id="#PAFP" label="#PAFP" />
+      <node id="#quakeroats" label="#quakeroats" />
+      <node id="#aafpglobal" label="#aafpglobal" />
+      <node id="#inspirecreatelead" label="#inspirecreatelead" />
+      <node id="#FM202vision" label="#FM202vision" />
+      <node id="#HB216" label="#HB216" />
+      <node id="#patient" label="#patient" />
+      <node id="#gatherforchange" label="#gatherforchange" />
+      <node id="#SupportFM" label="#SupportFM" />
+      <node id="#AAFPCoD" label="#AAFPCoD" />
+      <node id="#justbeyou" label="#justbeyou" />
+      <node id="#patients" label="#patients" />
+      <node id="#MembershipValue" label="#MembershipValue" />
+      <node id="#fammedrocks" label="#fammedrocks" />
+      <node id="#raptweet" label="#raptweet" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#OAFP" label="#OAFP" />
+      <node id="#aafpaclf" label="#aafpaclf" />
+      <node id="#EMR" label="#EMR" />
+      <node id="#FMCC" label="#FMCC" />
+      <node id="#givethanks" label="#givethanks" />
+      <node id="#milkmoustache" label="#milkmoustache" />
+      <node id="#aafp" label="#aafp" />
+      <node id="#WininOH" label="#WininOH" />
+      <node id="#ChoosingWisely" label="#ChoosingWisely" />
+      <node id="#AAFPNCSC" label="#AAFPNCSC" />
+      <node id="#NPCW" label="#NPCW" />
+      <node id="#ohioaFP" label="#ohioaFP" />
+      <node id="#aafprps" label="#aafprps" />
+      <node id="#familydocs" label="#familydocs" />
+      <node id="#highbloodpressure" label="#highbloodpressure" />
+      <node id="#MDforALL" label="#MDforALL" />
+      <node id="#Familymedicine" label="#Familymedicine" />
+      <node id="#WorldCancerDay" label="#WorldCancerDay" />
+      <node id="#Million" label="#Million" />
+      <node id="#NCCLMemory" label="#NCCLMemory" />
+      <node id="#aafpNCCL" label="#aafpNCCL" />
+      <node id="#AAFPACLF" label="#AAFPACLF" />
+      <node id="#Match2014" label="#Match2014" />
+      <node id="#selfiebration" label="#selfiebration" />
+      <node id="#VoteLeRoy" label="#VoteLeRoy" />
+      <node id="#InspireCreateLead" label="#InspireCreateLead" />
+      <node id="#HealthIsPrimary" label="#HealthIsPrimary" />
+      <node id="#Ohioafp" label="#Ohioafp" />
+      <node id="#DocFix" label="#DocFix" />
+      <node id="#immunization" label="#immunization" />
+      <node id="#KeepTheKleenexHandy" label="#KeepTheKleenexHandy" />
+      <node id="#physicians" label="#physicians" />
+      <node id="#MPFS" label="#MPFS" />
+      <node id="#FM" label="#FM" />
+      <node id="#health4OH" label="#health4OH" />
+      <node id="#FM2020Vision" label="#FM2020Vision" />
+      <node id="#medicalstudent" label="#medicalstudent" />
+      <node id="#FF" label="#FF" />
+      <node id="#medicalhome" label="#medicalhome" />
+      <node id="#FixSGR" label="#FixSGR" />
+      <node id="#fiscalcliff" label="#fiscalcliff" />
+      <node id="#fmcc" label="#fmcc" />
+      <node id="#PCMH" label="#PCMH" />
+      <node id="#MACRAReady" label="#MACRAReady" />
+      <node id="#Ebola" label="#Ebola" />
+      <node id="#no" label="#no" />
+      <node id="#Advocacy" label="#Advocacy" />
+      <node id="#CBS" label="#CBS" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#wiafp" label="#wiafp" />
+      <node id="#HouseBill216" label="#HouseBill216" />
+      <node id="#familymedicine" label="#familymedicine" />
+      <node id="#WFMU" label="#WFMU" />
+      <node id="#flipagram" label="#flipagram" />
+      <node id="#aafpnc" label="#aafpnc" />
+      <node id="#MeaningfulUse" label="#MeaningfulUse" />
+      <node id="#AAFPNCCL" label="#AAFPNCCL" />
+      <node id="#Annapolis2012" label="#Annapolis2012" />
+      <node id="#Health" label="#Health" />
+      <node id="#MedEd" label="#MedEd" />
+      <node id="#PCMHevidence" label="#PCMHevidence" />
+      <node id="#StartWithHello" label="#StartWithHello" />
+      <node id="#FMFierce" label="#FMFierce" />
+      <node id="#FMCC2014" label="#FMCC2014" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#LaborDay13" label="#LaborDay13" />
+      <node id="#FORCE" label="#FORCE" />
+      <node id="#OHIO" label="#OHIO" />
+      <node id="#familyphysicians" label="#familyphysicians" />
+      <node id="#aafpsa" label="#aafpsa" />
+      <node id="#ASMSE13" label="#ASMSE13" />
+      <node id="#oafpfoundation" label="#oafpfoundation" />
+      <node id="#tobacco" label="#tobacco" />
+      <node id="#MatchMadness" label="#MatchMadness" />
+      <node id="#annualmeeting" label="#annualmeeting" />
+      <node id="#FamilyMedicine" label="#FamilyMedicine" />
+      <node id="#AAFPGlobal" label="#AAFPGlobal" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#FriendsDay" label="#FriendsDay" />
+      <node id="#OhioAFP" label="#OhioAFP" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#MACRA" label="#MACRA" />
+      <node id="#TeamsWork" label="#TeamsWork" />
+      <node id="#globalhealth" label="#globalhealth" />
+      <node id="#Patients" label="#Patients" />
+      <node id="#makehealthprimary" label="#makehealthprimary" />
+      <node id="#FLOTUS" label="#FLOTUS" />
+      <node id="#ReleaseTheBob" label="#ReleaseTheBob" />
+      <node id="#OSMAThisWeek" label="#OSMAThisWeek" />
+      <node id="#healthcarereform" label="#healthcarereform" />
+      <node id="#SOAP2015" label="#SOAP2015" />
+      <node id="#ABFM" label="#ABFM" />
+      <node id="#aafpncpanel" label="#aafpncpanel" />
+      <node id="#Aafp" label="#Aafp" />
+      <node id="#cohealth" label="#cohealth" />
+      <node id="#SaveAHRQ" label="#SaveAHRQ" />
+      <node id="#TarWars12" label="#TarWars12" />
+      <node id="#opcpcc" label="#opcpcc" />
+      <node id="#advocacy" label="#advocacy" />
+      <node id="#MentalHealth" label="#MentalHealth" />
+      <node id="#macra" label="#macra" />
+      <node id="#aafpnc13" label="#aafpnc13" />
+      <node id="#MakeHealthPrimary" label="#MakeHealthPrimary" />
+      <node id="#ttbtbtb" label="#ttbtbtb" />
+      <node id="#CMS" label="#CMS" />
+      <node id="#BloodPressure" label="#BloodPressure" />
+      <node id="#OH" label="#OH" />
+      <node id="#wonca" label="#wonca" />
+      <node id="#ProudToBeAFanOf" label="#ProudToBeAFanOf" />
+      <node id="#familydoc" label="#familydoc" />
+      <node id="#health" label="#health" />
+      <node id="#PrimaryCare" label="#PrimaryCare" />
+      <node id="#SanDiego" label="#SanDiego" />
+      <node id="#theyhavenot" label="#theyhavenot" />
+      <node id="#Pcmh" label="#Pcmh" />
+      <node id="#familyphysician" label="#familyphysician" />
+      <node id="#aafpncsc" label="#aafpncsc" />
+      <node id="#npcw" label="#npcw" />
+      <node id="#AAFP2014" label="#AAFP2014" />
+      <node id="#repealSGR" label="#repealSGR" />
+      <node id="#medicaid" label="#medicaid" />
+      <node id="#healthinsurance" label="#healthinsurance" />
+      <node id="#medicare" label="#medicare" />
+      <node id="#FollowTuesday" label="#FollowTuesday" />
+      <node id="#AAFPSLC" label="#AAFPSLC" />
+      <node id="#PQRS" label="#PQRS" />
+      <node id="#aafpcod" label="#aafpcod" />
+      <node id="#depression" label="#depression" />
+      <node id="#FM2020vision" label="#FM2020vision" />
+      <node id="#KC" label="#KC" />
+      <node id="#AAFPFMCC" label="#AAFPFMCC" />
+      <node id="#aafpnccl" label="#aafpnccl" />
+      <node id="#exhibitors" label="#exhibitors" />
+      <node id="#aafpACLF" label="#aafpACLF" />
+      <node id="#DoctorsDay" label="#DoctorsDay" />
+      <node id="#HealthInsurance" label="#HealthInsurance" />
+      <node id="#STFM" label="#STFM" />
+      <node id="#iMatched" label="#iMatched" />
+      <node id="#notevenontheirweddingdays" label="#notevenontheirweddingdays" />
+      <node id="#InspireCreateLEad" label="#InspireCreateLEad" />
+      <node id="#Legislators" label="#Legislators" />
+      <node id="#TenState" label="#TenState" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#HIE" label="#HIE" />
+      <node id="#aafpfmx" label="#aafpfmx" />
+      <node id="#AAFPncsc" label="#AAFPncsc" />
+      <node id="#STFMChat" label="#STFMChat" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#bloodpressure" label="#bloodpressure" />
+      <node id="#FamilyPhysicians" label="#FamilyPhysicians" />
+      <node id="#facebook" label="#facebook" />
+      <node id="#aafpassembly" label="#aafpassembly" />
+      <node id="#Happybirthdayohio" label="#Happybirthdayohio" />
+      <node id="#ChangeIsComing" label="#ChangeIsComing" />
+      <node id="#aclf" label="#aclf" />
+      <node id="#MU" label="#MU" />
+      <node id="#pcmh" label="#pcmh" />
+      <node id="#CliniSync" label="#CliniSync" />
+      <node id="#GME" label="#GME" />
+      <node id="#FearTheBeard" label="#FearTheBeard" />
+      <node id="#ohioafp" label="#ohioafp" />
+      <node id="#sandy" label="#sandy" />
+      <node id="#residents" label="#residents" />
+      <node id="#BestSeatInTheHouse" label="#BestSeatInTheHouse" />
+      <node id="#aafpFMX" label="#aafpFMX" />
+      <node id="#P4Med" label="#P4Med" />
+      <node id="#ALF" label="#ALF" />
+      <node id="#Familydoctors" label="#Familydoctors" />
+      <node id="#LiveLongAndProsper" label="#LiveLongAndProsper" />
+      <node id="#healthcareforall" label="#healthcareforall" />
+      <node id="#YouMightBeAFamilyDoc" label="#YouMightBeAFamilyDoc" />
+      <node id="#AAFPCOD" label="#AAFPCOD" />
+      <node id="#FMRevolution" label="#FMRevolution" />
+      <node id="#AAFPNC" label="#AAFPNC" />
+      <node id="#ProHCBB" label="#ProHCBB" />
+      <node id="#meaningfuluse" label="#meaningfuluse" />
+      <node id="#NHSC" label="#NHSC" />
+      <node id="#2014YearFP" label="#2014YearFP" />
+      <node id="#FMbeheard" label="#FMbeheard" />
+      <node id="#FamilyPhysician" label="#FamilyPhysician" />
+      <node id="#AAMSE13" label="#AAMSE13" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#LeRoyforAAFPBoard" label="#LeRoyforAAFPBoard" />
+      <node id="#Sandy" label="#Sandy" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#AAFPNCFMR" label="#AAFPNCFMR" />
+      <node id="#trending" label="#trending" />
+      <node id="#NCCL2015" label="#NCCL2015" />
+      <node id="#CreamOfTheCrop" label="#CreamOfTheCrop" />
+      <node id="#marketplace" label="#marketplace" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#fmrevolution" label="#fmrevolution" />
+      <node id="#medschool" label="#medschool" />
+      <node id="#FQHC" label="#FQHC" />
+      <node id="#meded" label="#meded" />
+      <node id="#GiveThanks" label="#GiveThanks" />
+      <node id="#AAFP" label="#AAFP" />
+      <node id="#copolitics" label="#copolitics" />
+      <node id="#NCSC" label="#NCSC" />
+      <node id="#Hypertension" label="#Hypertension" />
+      <node id="#AAFPFMX" label="#AAFPFMX" />
+      <node id="#ACO" label="#ACO" />
+      <node id="#teamwork" label="#teamwork" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#ONC" label="#ONC" />
+      <node id="#NCCL2016" label="#NCCL2016" />
+      <node id="#Health4OH" label="#Health4OH" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#burnout" label="#burnout" />
+      <node id="#SGR" label="#SGR" />
+      <node id="#IMatched" label="#IMatched" />
+      <node id="#FMCC2013" label="#FMCC2013" />
+      <node id="#Primarycare" label="#Primarycare" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#WeAreNumberOne" label="#WeAreNumberOne" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#tenstate" label="#tenstate" />
+      <node id="#storify" label="#storify" />
+      <node id="#FMCC2016" label="#FMCC2016" />
+      <node id="#Familyphysicians" label="#Familyphysicians" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#FMCC2015" label="#FMCC2015" />
+      <node id="#patientaccess" label="#patientaccess" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#aafpNCSC" label="#aafpNCSC" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#fm2020vision" target="#BestSeatInTheHouse" weight="2108" />
+      <edge id="1" source="#FMREVOLUTION" target="#WininOH" weight="2108" />
+      <edge id="2" source="#thepowerofone" target="#FMRevolution" weight="2108" />
+      <edge id="3" source="#thepowerofone" target="#aafpncsc" weight="2108" />
+      <edge id="4" source="#thepowerofone" target="#aafpalf" weight="2108" />
+      <edge id="5" source="#AprilFoolsDayPranks" target="#OhioAFP" weight="2108" />
+      <edge id="6" source="#patientcare" target="#givethanks" weight="2108" />
+      <edge id="7" source="#patientcare" target="#aafp" weight="2108" />
+      <edge id="8" source="#patientcare" target="#patient" weight="2108" />
+      <edge id="9" source="#multistate" target="#fmrevolution" weight="2108" />
+      <edge id="10" source="#multistate" target="#tenstate" weight="2108" />
+      <edge id="11" source="#CME" target="#AAFP" weight="6324" />
+      <edge id="12" source="#Leaders" target="#AAFP" weight="2108" />
+      <edge id="13" source="#Leaders" target="#FMRevolution" weight="2108" />
+      <edge id="14" source="#Leaders" target="#FMFierce" weight="2108" />
+      <edge id="15" source="#SAVEAHRQ" target="#AAFP" weight="2108" />
+      <edge id="16" source="#aafp2014" target="#aafpCOD" weight="2108" />
+      <edge id="17" source="#aafp2014" target="#FMRevolution" weight="2108" />
+      <edge id="18" source="#FMIG" target="#OhioAFP" weight="2108" />
+      <edge id="19" source="#FMIG" target="#AAFP" weight="2108" />
+      <edge id="20" source="#FMIG" target="#aafpnc" weight="2108" />
+      <edge id="21" source="#Match2013" target="#primarycare" weight="2108" />
+      <edge id="22" source="#Match2013" target="#familymedicine" weight="2108" />
+      <edge id="23" source="#Match2013" target="#FMRevolution" weight="2108" />
+      <edge id="24" source="#FamilyDoctor" target="#CBS" weight="2108" />
+      <edge id="25" source="#FamilyDoctor" target="#NYC" weight="2108" />
+      <edge id="26" source="#Match2015" target="#familyphysicians" weight="2108" />
+      <edge id="27" source="#Match2015" target="#FMRevolution" weight="2108" />
+      <edge id="28" source="#Match2015" target="#SOAP2015" weight="2108" />
+      <edge id="29" source="#Match2015" target="#FamilyMedicine" weight="2108" />
+      <edge id="30" source="#Match2015" target="#iMatched" weight="4216" />
+      <edge id="31" source="#Match2015" target="#MatchMadness" weight="2108" />
+      <edge id="32" source="#Match2015" target="#OHIO" weight="2108" />
+      <edge id="33" source="#leadership" target="#ohioafp" weight="2108" />
+      <edge id="34" source="#aafpCOD" target="#FMRevolution" weight="2108" />
+      <edge id="35" source="#AAFP_FMIG" target="#fmrevolution" weight="2108" />
+      <edge id="36" source="#aafpFMCC" target="#FMRevolution" weight="2108" />
+      <edge id="37" source="#SunshineAct" target="#FamilyMedicine" weight="6324" />
+      <edge id="38" source="#SunshineAct" target="#MedEd" weight="2108" />
+      <edge id="39" source="#SunshineAct" target="#AAFP" weight="6324" />
+      <edge id="40" source="#aafpalf" target="#fmrevolution" weight="6324" />
+      <edge id="41" source="#aafpalf" target="#aafp" weight="2108" />
+      <edge id="42" source="#aafpalf" target="#familymedicine" weight="2108" />
+      <edge id="43" source="#aafpalf" target="#AAFP" weight="2108" />
+      <edge id="44" source="#aafpalf" target="#aafpncsc" weight="29512" />
+      <edge id="45" source="#aafpalf" target="#ohioafp" weight="2108" />
+      <edge id="46" source="#aafpalf" target="#Ohioafp" weight="8432" />
+      <edge id="47" source="#aafpalf" target="#FMRevolution" weight="8432" />
+      <edge id="48" source="#aafpalf" target="#socialmedia" weight="2108" />
+      <edge id="49" source="#occupyhealthcare" target="#primarycare" weight="2108" />
+      <edge id="50" source="#occupyhealthcare" target="#FMRevolution" weight="2108" />
+      <edge id="51" source="#aafppdw" target="#aafprps" weight="2108" />
+      <edge id="52" source="#aafppdw" target="#FMrevolution" weight="2108" />
+      <edge id="53" source="#aafpwc" target="#fmrevolution" weight="2108" />
+      <edge id="54" source="#chooseprimarycare" target="#familymedicine" weight="2108" />
+      <edge id="55" source="#chooseprimarycare" target="#FMRevolution" weight="2108" />
+      <edge id="56" source="#Opcpcc" target="#pcmh" weight="2108" />
+      <edge id="57" source="#FMEC" target="#FamilyPhysician" weight="2108" />
+      <edge id="58" source="#FMEC" target="#FMRevolution" weight="6324" />
+      <edge id="59" source="#FMEC" target="#PAFP" weight="2108" />
+      <edge id="60" source="#FMEC" target="#Health" weight="2108" />
+      <edge id="61" source="#FMEC" target="#OhioAFP" weight="2108" />
+      <edge id="62" source="#MatchDay" target="#familymedicine" weight="2108" />
+      <edge id="63" source="#MatchDay" target="#FMRevolution" weight="2108" />
+      <edge id="64" source="#healthcare" target="#FamilyMedicine" weight="6324" />
+      <edge id="65" source="#healthcare" target="#GivingTuesday" weight="2108" />
+      <edge id="66" source="#healthcare" target="#medschool" weight="2108" />
+      <edge id="67" source="#healthcare" target="#ASMSE13" weight="2108" />
+      <edge id="68" source="#healthcare" target="#Familymedicine" weight="2108" />
+      <edge id="69" source="#healthcare" target="#AAFP" weight="8432" />
+      <edge id="70" source="#healthcare" target="#health" weight="2108" />
+      <edge id="71" source="#healthcare" target="#AAMSE13" weight="2108" />
+      <edge id="72" source="#healthcare" target="#Primarycare" weight="2108" />
+      <edge id="73" source="#healthcare" target="#hcsm" weight="2108" />
+      <edge id="74" source="#healthcare" target="#PCMH" weight="2108" />
+      <edge id="75" source="#healthcare" target="#primarycare" weight="4216" />
+      <edge id="76" source="#healthcare" target="#FMRevolution" weight="6324" />
+      <edge id="77" source="#healthcare" target="#patient" weight="2108" />
+      <edge id="78" source="#healthcare" target="#SanDiego" weight="2108" />
+      <edge id="79" source="#healthcare" target="#OhioAFP" weight="2108" />
+      <edge id="80" source="#healthcare" target="#Ohio" weight="4216" />
+      <edge id="81" source="#healthcare" target="#P4Med" weight="2108" />
+      <edge id="82" source="#healthcare" target="#MDforALL" weight="2108" />
+      <edge id="83" source="#CDCTips" target="#AAFP" weight="4216" />
+      <edge id="84" source="#aafpncfmr" target="#Aafp" weight="2108" />
+      <edge id="85" source="#aafpncfmr" target="#AAFPNC" weight="2108" />
+      <edge id="86" source="#aafpncfmr" target="#aafp" weight="2108" />
+      <edge id="87" source="#FMrevolution" target="#aafprps" weight="2108" />
+      <edge id="88" source="#FMrevolution" target="#AAFPNC" weight="2108" />
+      <edge id="89" source="#FMrevolution" target="#ProHCBB" weight="2108" />
+      <edge id="90" source="#FMrevolution" target="#primarycare" weight="2108" />
+      <edge id="91" source="#FMrevolution" target="#PCMH" weight="2108" />
+      <edge id="92" source="#FMrevolution" target="#teamwork" weight="2108" />
+      <edge id="93" source="#premeded" target="#medschool" weight="2108" />
+      <edge id="94" source="#premeded" target="#aafpsa" weight="2108" />
+      <edge id="95" source="#premeded" target="#aafpNC" weight="2108" />
+      <edge id="96" source="#premeded" target="#meded" weight="2108" />
+      <edge id="97" source="#premeded" target="#FMRevolution" weight="2108" />
+      <edge id="98" source="#premeded" target="#aafpcod" weight="2108" />
+      <edge id="99" source="#HealthisPrimary" target="#KeepTheKleenexHandy" weight="2108" />
+      <edge id="100" source="#HealthCare" target="#AAFP" weight="4216" />
+      <edge id="101" source="#HealthCare" target="#ACA" weight="2108" />
+      <edge id="102" source="#aafpALF" target="#fmrevolution" weight="2108" />
+      <edge id="103" source="#aafpALF" target="#AAFP" weight="4216" />
+      <edge id="104" source="#aafpALF" target="#FMRevolution" weight="2108" />
+      <edge id="105" source="#aafpALF" target="#aafpNCSC" weight="4216" />
+      <edge id="106" source="#aafpALF" target="#aafpncsc" weight="2108" />
+      <edge id="107" source="#FamMedPAC" target="#AAFPCOD" weight="4216" />
+      <edge id="108" source="#braintrust" target="#FMRevolution" weight="2108" />
+      <edge id="109" source="#braintrust" target="#NCCL2016" weight="2108" />
+      <edge id="110" source="#braintrust" target="#ACLF2016" weight="2108" />
+      <edge id="111" source="#ICD10" target="#FamilyMedicine" weight="6324" />
+      <edge id="112" source="#ICD10" target="#primarycare" weight="2108" />
+      <edge id="113" source="#ICD10" target="#AAFP" weight="12648" />
+      <edge id="114" source="#ICD10" target="#AAFPCOD" weight="2108" />
+      <edge id="115" source="#ICD10" target="#OhioAFP" weight="2108" />
+      <edge id="116" source="#frmevolution" target="#hcsm" weight="2108" />
+      <edge id="117" source="#TAFP" target="#familymedicine" weight="2108" />
+      <edge id="118" source="#TAFP" target="#aafpcod" weight="2108" />
+      <edge id="119" source="#TAFP" target="#FMRevolution" weight="2108" />
+      <edge id="120" source="#fmig" target="#AAFPNC" weight="2108" />
+      <edge id="121" source="#KansasCity" target="#AAFPNC" weight="2108" />
+      <edge id="122" source="#CPI13" target="#FMRevolution" weight="2108" />
+      <edge id="123" source="#CliniSyncUpdate" target="#HIE" weight="2108" />
+      <edge id="124" source="#aafpNC" target="#medschool" weight="2108" />
+      <edge id="125" source="#aafpNC" target="#aafpsa" weight="2108" />
+      <edge id="126" source="#aafpNC" target="#meded" weight="2108" />
+      <edge id="127" source="#aafpNC" target="#FMRevolution" weight="4216" />
+      <edge id="128" source="#aafpNC" target="#aafpcod" weight="2108" />
+      <edge id="129" source="#Ohio" target="#fmrevolution" weight="2108" />
+      <edge id="130" source="#Ohio" target="#AAFPNC" weight="2108" />
+      <edge id="131" source="#Ohio" target="#familyphysician" weight="2108" />
+      <edge id="132" source="#Ohio" target="#patient" weight="2108" />
+      <edge id="133" source="#Ohio" target="#SupportFM" weight="2108" />
+      <edge id="134" source="#Ohio" target="#Medicaid" weight="2108" />
+      <edge id="135" source="#docfix" target="#aafp" weight="2108" />
+      <edge id="136" source="#docfix" target="#SGR" weight="2108" />
+      <edge id="137" source="#Career" target="#FamilyMedicine" weight="2108" />
+      <edge id="138" source="#Career" target="#AAFP" weight="2108" />
+      <edge id="139" source="#colorectalcancerscreening" target="#familyphysicians" weight="2108" />
+      <edge id="140" source="#primarycare" target="#FamilyMedicine" weight="2108" />
+      <edge id="141" source="#primarycare" target="#aafp" weight="2108" />
+      <edge id="142" source="#primarycare" target="#NPCW" weight="2108" />
+      <edge id="143" source="#primarycare" target="#OhioAFP" weight="25296" />
+      <edge id="144" source="#primarycare" target="#ohioafp" weight="2108" />
+      <edge id="145" source="#primarycare" target="#Patients" weight="2108" />
+      <edge id="146" source="#primarycare" target="#medschool" weight="2108" />
+      <edge id="147" source="#primarycare" target="#FMRevolution" weight="10540" />
+      <edge id="148" source="#primarycare" target="#diabetes" weight="2108" />
+      <edge id="149" source="#primarycare" target="#ProHCBB" weight="2108" />
+      <edge id="150" source="#primarycare" target="#Pcmh" weight="2108" />
+      <edge id="151" source="#primarycare" target="#medicare" weight="2108" />
+      <edge id="152" source="#primarycare" target="#socialmedia" weight="2108" />
+      <edge id="153" source="#primarycare" target="#advocacy" weight="2108" />
+      <edge id="154" source="#primarycare" target="#opcpcc" weight="4216" />
+      <edge id="155" source="#primarycare" target="#MakeHealthPrimary" weight="4216" />
+      <edge id="156" source="#primarycare" target="#AAFP" weight="25296" />
+      <edge id="157" source="#primarycare" target="#health" weight="4216" />
+      <edge id="158" source="#primarycare" target="#TBT" weight="2108" />
+      <edge id="159" source="#primarycare" target="#familymedicine" weight="6324" />
+      <edge id="160" source="#primarycare" target="#hcsm" weight="2108" />
+      <edge id="161" source="#primarycare" target="#PCMH" weight="6324" />
+      <edge id="162" source="#primarycare" target="#medicaid" weight="6324" />
+      <edge id="163" source="#primarycare" target="#teamwork" weight="2108" />
+      <edge id="164" source="#primarycare" target="#SGR" weight="2108" />
+      <edge id="165" source="#primarycare" target="#PCMHevidence" weight="2108" />
+      <edge id="166" source="#primarycare" target="#OH" weight="2108" />
+      <edge id="167" source="#primarycare" target="#Medicaid" weight="4216" />
+      <edge id="168" source="#HR2" target="#SGR" weight="2108" />
+      <edge id="169" source="#RollTide" target="#AAFP" weight="4216" />
+      <edge id="170" source="#RollTide" target="#AAFPCoD" weight="4216" />
+      <edge id="171" source="#ACLF2016" target="#FMRevolution" weight="2108" />
+      <edge id="172" source="#ACLF2016" target="#NCCL2016" weight="2108" />
+      <edge id="173" source="#MemorialDayWeekend" target="#familymedicine" weight="2108" />
+      <edge id="174" source="#KeepCalm" target="#FMRevolution" weight="2108" />
+      <edge id="175" source="#PAFP" target="#FMRevolution" weight="2108" />
+      <edge id="176" source="#PAFP" target="#aafpnc" weight="2108" />
+      <edge id="177" source="#PAFP" target="#Health" weight="2108" />
+      <edge id="178" source="#PAFP" target="#FamilyPhysician" weight="2108" />
+      <edge id="179" source="#quakeroats" target="#milkmoustache" weight="2108" />
+      <edge id="180" source="#quakeroats" target="#ohioafp" weight="2108" />
+      <edge id="181" source="#aafpglobal" target="#Familyphysicians" weight="2108" />
+      <edge id="182" source="#aafpglobal" target="#globalhealth" weight="2108" />
+      <edge id="183" source="#aafpglobal" target="#wonca" weight="8432" />
+      <edge id="184" source="#inspirecreatelead" target="#FMRevolution" weight="4216" />
+      <edge id="185" source="#inspirecreatelead" target="#AAFPNCCL" weight="2108" />
+      <edge id="186" source="#inspirecreatelead" target="#aafpaclf" weight="2108" />
+      <edge id="187" source="#inspirecreatelead" target="#Aafp" weight="2108" />
+      <edge id="188" source="#inspirecreatelead" target="#AAFPNCSC" weight="2108" />
+      <edge id="189" source="#inspirecreatelead" target="#gatherforchange" weight="2108" />
+      <edge id="190" source="#FM202vision" target="#burnout" weight="2108" />
+      <edge id="191" source="#HB216" target="#TeamsWork" weight="2108" />
+      <edge id="192" source="#patient" target="#marketplace" weight="2108" />
+      <edge id="193" source="#patient" target="#healthinsurance" weight="2108" />
+      <edge id="194" source="#patient" target="#AAFP" weight="2108" />
+      <edge id="195" source="#gatherforchange" target="#Aafp" weight="2108" />
+      <edge id="196" source="#gatherforchange" target="#aafpaclf" weight="2108" />
+      <edge id="197" source="#gatherforchange" target="#AAFPNCCL" weight="2108" />
+      <edge id="198" source="#SupportFM" target="#familyphysician" weight="2108" />
+      <edge id="199" source="#AAFPCoD" target="#AAFP" weight="12648" />
+      <edge id="200" source="#justbeyou" target="#AAFPNC" weight="2108" />
+      <edge id="201" source="#patients" target="#familyphysicians" weight="2108" />
+      <edge id="202" source="#patients" target="#highbloodpressure" weight="2108" />
+      <edge id="203" source="#patients" target="#AAFP" weight="2108" />
+      <edge id="204" source="#patients" target="#FamilyPhysicians" weight="2108" />
+      <edge id="205" source="#patients" target="#HealthInsurance" weight="4216" />
+      <edge id="206" source="#MembershipValue" target="#Advocacy" weight="2108" />
+      <edge id="207" source="#fammedrocks" target="#hcsm" weight="2108" />
+      <edge id="208" source="#fammedrocks" target="#FMRevolution" weight="2108" />
+      <edge id="209" source="#raptweet" target="#AAFPNC" weight="2108" />
+      <edge id="210" source="#SCOTUS" target="#AAFP" weight="4216" />
+      <edge id="211" source="#SCOTUS" target="#ACA" weight="4216" />
+      <edge id="212" source="#OAFP" target="#AAFP" weight="2108" />
+      <edge id="213" source="#OAFP" target="#ACO" weight="2108" />
+      <edge id="214" source="#OAFP" target="#PCMH" weight="2108" />
+      <edge id="215" source="#aafpaclf" target="#FMRevolution" weight="6324" />
+      <edge id="216" source="#aafpaclf" target="#ReleaseTheBob" weight="2108" />
+      <edge id="217" source="#aafpaclf" target="#aafpnccl" weight="6324" />
+      <edge id="218" source="#aafpaclf" target="#Aafp" weight="2108" />
+      <edge id="219" source="#aafpaclf" target="#aafp" weight="2108" />
+      <edge id="220" source="#aafpaclf" target="#ohioafp" weight="2108" />
+      <edge id="221" source="#aafpaclf" target="#AAFPNCCL" weight="4216" />
+      <edge id="222" source="#EMR" target="#pcmh" weight="2108" />
+      <edge id="223" source="#EMR" target="#opcpcc" weight="2108" />
+      <edge id="224" source="#FMCC" target="#FamilyMedicine" weight="4216" />
+      <edge id="225" source="#FMCC" target="#advocacy" weight="4216" />
+      <edge id="226" source="#FMCC" target="#AAFP" weight="10540" />
+      <edge id="227" source="#FMCC" target="#Aafp" weight="2108" />
+      <edge id="228" source="#givethanks" target="#familymedicine" weight="8432" />
+      <edge id="229" source="#givethanks" target="#Familymedicine" weight="2108" />
+      <edge id="230" source="#givethanks" target="#aafp" weight="8432" />
+      <edge id="231" source="#givethanks" target="#AAFP" weight="2108" />
+      <edge id="232" source="#milkmoustache" target="#ohioafp" weight="2108" />
+      <edge id="233" source="#aafp" target="#OhioAFP" weight="4216" />
+      <edge id="234" source="#aafp" target="#sandy" weight="4216" />
+      <edge id="235" source="#aafp" target="#ohioafp" weight="10540" />
+      <edge id="236" source="#aafp" target="#AAFPCOD" weight="6324" />
+      <edge id="237" source="#aafp" target="#MACRA" weight="2108" />
+      <edge id="238" source="#aafp" target="#FMRevolution" weight="6324" />
+      <edge id="239" source="#aafp" target="#storify" weight="2108" />
+      <edge id="240" source="#aafp" target="#NHSC" weight="2108" />
+      <edge id="241" source="#aafp" target="#aafpcod" weight="2108" />
+      <edge id="242" source="#aafp" target="#fmrevolution" weight="4216" />
+      <edge id="243" source="#aafp" target="#medicalstudent" weight="2108" />
+      <edge id="244" source="#aafp" target="#PCMH" weight="2108" />
+      <edge id="245" source="#aafp" target="#aafpncsc" weight="2108" />
+      <edge id="246" source="#aafp" target="#aafpnc" weight="2108" />
+      <edge id="247" source="#aafp" target="#familymedicine" weight="10540" />
+      <edge id="248" source="#aafp" target="#FM2020vision" weight="2108" />
+      <edge id="249" source="#aafp" target="#aafpnccl" weight="2108" />
+      <edge id="250" source="#aafp" target="#SGR" weight="4216" />
+      <edge id="251" source="#aafp" target="#Familymedicine" weight="2108" />
+      <edge id="252" source="#aafp" target="#ACA" weight="2108" />
+      <edge id="253" source="#aafp" target="#residents" weight="2108" />
+      <edge id="254" source="#aafp" target="#FMCC2015" weight="4216" />
+      <edge id="255" source="#ChoosingWisely" target="#FamilyMedicine" weight="2108" />
+      <edge id="256" source="#ChoosingWisely" target="#AAFP" weight="4216" />
+      <edge id="257" source="#ChoosingWisely" target="#aafpsa" weight="2108" />
+      <edge id="258" source="#AAFPNCSC" target="#FMRevolution" weight="6324" />
+      <edge id="259" source="#NPCW" target="#Familymedicine" weight="4216" />
+      <edge id="260" source="#NPCW" target="#FMRevolution" weight="2108" />
+      <edge id="261" source="#NPCW" target="#OhioAFP" weight="4216" />
+      <edge id="262" source="#ohioaFP" target="#aafpnc" weight="2108" />
+      <edge id="263" source="#familydocs" target="#AAFPCOD" weight="2108" />
+      <edge id="264" source="#Familymedicine" target="#PCMH" weight="2108" />
+      <edge id="265" source="#Familymedicine" target="#AAFP" weight="2108" />
+      <edge id="266" source="#Familymedicine" target="#Primarycare" weight="2108" />
+      <edge id="267" source="#Familymedicine" target="#OhioAFP" weight="2108" />
+      <edge id="268" source="#Familymedicine" target="#AAFPCOD" weight="2108" />
+      <edge id="269" source="#WorldCancerDay" target="#cancer" weight="2108" />
+      <edge id="270" source="#Million" target="#AAFP" weight="2108" />
+      <edge id="271" source="#NCCLMemory" target="#aafpnccl" weight="2108" />
+      <edge id="272" source="#NCCLMemory" target="#aafpACLF" weight="2108" />
+      <edge id="273" source="#aafpNCCL" target="#FMRevolution" weight="2108" />
+      <edge id="274" source="#AAFPACLF" target="#AAFP" weight="2108" />
+      <edge id="275" source="#AAFPACLF" target="#FMRevolution" weight="2108" />
+      <edge id="276" source="#AAFPACLF" target="#AAFPNCCL" weight="8432" />
+      <edge id="277" source="#Match2014" target="#IMatched" weight="2108" />
+      <edge id="278" source="#Match2014" target="#FMRevolution" weight="2108" />
+      <edge id="279" source="#Match2014" target="#2014YearFP" weight="2108" />
+      <edge id="280" source="#selfiebration" target="#AAFP" weight="2108" />
+      <edge id="281" source="#selfiebration" target="#AAFPCOD" weight="2108" />
+      <edge id="282" source="#VoteLeRoy" target="#familymedicine" weight="2108" />
+      <edge id="283" source="#VoteLeRoy" target="#AAFPCOD" weight="2108" />
+      <edge id="284" source="#InspireCreateLead" target="#FMRevolution" weight="2108" />
+      <edge id="285" source="#HealthIsPrimary" target="#AAFP" weight="2108" />
+      <edge id="286" source="#HealthIsPrimary" target="#FMRevolution" weight="4216" />
+      <edge id="287" source="#HealthIsPrimary" target="#TenState" weight="4216" />
+      <edge id="288" source="#Ohioafp" target="#familymedicine" weight="2108" />
+      <edge id="289" source="#Ohioafp" target="#pcmh" weight="2108" />
+      <edge id="290" source="#Ohioafp" target="#aafpncsc" weight="6324" />
+      <edge id="291" source="#Ohioafp" target="#AAFPNC" weight="12648" />
+      <edge id="292" source="#DocFix" target="#AAFP" weight="2108" />
+      <edge id="293" source="#DocFix" target="#FMRevolution" weight="2108" />
+      <edge id="294" source="#DocFix" target="#SGR" weight="4216" />
+      <edge id="295" source="#immunization" target="#AAFP" weight="2108" />
+      <edge id="296" source="#physicians" target="#OhioAFP" weight="2108" />
+      <edge id="297" source="#MPFS" target="#FamilyMedicine" weight="2108" />
+      <edge id="298" source="#MPFS" target="#AAFP" weight="2108" />
+      <edge id="299" source="#FM" target="#ohioafp" weight="2108" />
+      <edge id="300" source="#FM" target="#fmrevolution" weight="2108" />
+      <edge id="301" source="#FM" target="#AAFPNC" weight="2108" />
+      <edge id="302" source="#FM" target="#KC" weight="2108" />
+      <edge id="303" source="#health4OH" target="#ohioafp" weight="2108" />
+      <edge id="304" source="#health4OH" target="#Medicaid" weight="2108" />
+      <edge id="305" source="#FM2020Vision" target="#FMRevolution" weight="2108" />
+      <edge id="306" source="#medicalstudent" target="#AAFPCOD" weight="2108" />
+      <edge id="307" source="#medicalstudent" target="#residents" weight="2108" />
+      <edge id="308" source="#FF" target="#annualmeeting" weight="2108" />
+      <edge id="309" source="#medicalhome" target="#pcmh" weight="2108" />
+      <edge id="310" source="#medicalhome" target="#opcpcc" weight="2108" />
+      <edge id="311" source="#FixSGR" target="#AAFP" weight="2108" />
+      <edge id="312" source="#FixSGR" target="#SGR" weight="2108" />
+      <edge id="313" source="#fiscalcliff" target="#AAFP" weight="4216" />
+      <edge id="314" source="#fiscalcliff" target="#Medicare" weight="4216" />
+      <edge id="315" source="#fmcc" target="#AAFP" weight="2108" />
+      <edge id="316" source="#PCMH" target="#ProHCBB" weight="2108" />
+      <edge id="317" source="#PCMH" target="#Primarycare" weight="2108" />
+      <edge id="318" source="#PCMH" target="#AAFP" weight="14756" />
+      <edge id="319" source="#PCMH" target="#FamilyMedicine" weight="2108" />
+      <edge id="320" source="#PCMH" target="#hcsm" weight="2108" />
+      <edge id="321" source="#PCMH" target="#OhioAFP" weight="16864" />
+      <edge id="322" source="#PCMH" target="#ohioafp" weight="2108" />
+      <edge id="323" source="#PCMH" target="#ACO" weight="2108" />
+      <edge id="324" source="#PCMH" target="#PCMHevidence" weight="2108" />
+      <edge id="325" source="#MACRAReady" target="#AAFP" weight="2108" />
+      <edge id="326" source="#Ebola" target="#OhioAFP" weight="2108" />
+      <edge id="327" source="#Ebola" target="#AAFP" weight="2108" />
+      <edge id="328" source="#no" target="#theyhavenot" weight="2108" />
+      <edge id="329" source="#no" target="#notevenontheirweddingdays" weight="2108" />
+      <edge id="330" source="#CBS" target="#NYC" weight="4216" />
+      <edge id="331" source="#TBT" target="#familyphysicians" weight="2108" />
+      <edge id="332" source="#wiafp" target="#aafpncsc" weight="2108" />
+      <edge id="333" source="#HouseBill216" target="#TeamsWork" weight="2108" />
+      <edge id="334" source="#familymedicine" target="#globalhealth" weight="2108" />
+      <edge id="335" source="#familymedicine" target="#bloodpressure" weight="2108" />
+      <edge id="336" source="#familymedicine" target="#AAFPGlobal" weight="2108" />
+      <edge id="337" source="#familymedicine" target="#sandy" weight="4216" />
+      <edge id="338" source="#familymedicine" target="#OhioAFP" weight="16864" />
+      <edge id="339" source="#familymedicine" target="#AAFPCOD" weight="6324" />
+      <edge id="340" source="#familymedicine" target="#AAFP" weight="16864" />
+      <edge id="341" source="#familymedicine" target="#FMRevolution" weight="10540" />
+      <edge id="342" source="#familymedicine" target="#AAFPNC" weight="2108" />
+      <edge id="343" source="#familymedicine" target="#MakeHealthPrimary" weight="4216" />
+      <edge id="344" source="#familymedicine" target="#aafpncsc" weight="2108" />
+      <edge id="345" source="#familymedicine" target="#repealSGR" weight="2108" />
+      <edge id="346" source="#familymedicine" target="#FLOTUS" weight="2108" />
+      <edge id="347" source="#familymedicine" target="#FM2020vision" weight="2108" />
+      <edge id="348" source="#familymedicine" target="#SGR" weight="2108" />
+      <edge id="349" source="#familymedicine" target="#SOTU" weight="2108" />
+      <edge id="350" source="#familymedicine" target="#TenState" weight="2108" />
+      <edge id="351" source="#familymedicine" target="#WFMU" weight="2108" />
+      <edge id="352" source="#familymedicine" target="#Medicare" weight="2108" />
+      <edge id="353" source="#WFMU" target="#OhioAFP" weight="4216" />
+      <edge id="354" source="#WFMU" target="#Medicaid" weight="2108" />
+      <edge id="355" source="#WFMU" target="#SGR" weight="2108" />
+      <edge id="356" source="#flipagram" target="#AAFP" weight="2108" />
+      <edge id="357" source="#aafpnc" target="#makehealthprimary" weight="2108" />
+      <edge id="358" source="#aafpnc" target="#FMRevolution" weight="4216" />
+      <edge id="359" source="#aafpnc" target="#aafpnc" weight="4216" />
+      <edge id="360" source="#aafpnc" target="#storify" weight="6324" />
+      <edge id="361" source="#aafpnc" target="#AAFP" weight="2108" />
+      <edge id="362" source="#aafpnc" target="#ohioafp" weight="10540" />
+      <edge id="363" source="#aafpnc" target="#aafpncpanel" weight="2108" />
+      <edge id="364" source="#aafpnc" target="#OhioAFP" weight="4216" />
+      <edge id="365" source="#aafpnc" target="#AAFPNCFMR" weight="2108" />
+      <edge id="366" source="#aafpnc" target="#fmrevolution" weight="10540" />
+      <edge id="367" source="#aafpnc" target="#ohio" weight="2108" />
+      <edge id="368" source="#MeaningfulUse" target="#EHR" weight="2108" />
+      <edge id="369" source="#MeaningfulUse" target="#AAFP" weight="2108" />
+      <edge id="370" source="#MeaningfulUse" target="#HIT" weight="2108" />
+      <edge id="371" source="#MeaningfulUse" target="#HIE" weight="2108" />
+      <edge id="372" source="#AAFPNCCL" target="#FMRevolution" weight="8432" />
+      <edge id="373" source="#AAFPNCCL" target="#aafpACLF" weight="2108" />
+      <edge id="374" source="#AAFPNCCL" target="#Aafp" weight="2108" />
+      <edge id="375" source="#AAFPNCCL" target="#AAFP" weight="2108" />
+      <edge id="376" source="#AAFPNCCL" target="#aafpFMX" weight="2108" />
+      <edge id="377" source="#Annapolis2012" target="#FMRevolution" weight="2108" />
+      <edge id="378" source="#Health" target="#FamilyPhysician" weight="2108" />
+      <edge id="379" source="#Health" target="#FMRevolution" weight="2108" />
+      <edge id="380" source="#MedEd" target="#FamilyMedicine" weight="2108" />
+      <edge id="381" source="#MedEd" target="#AAFP" weight="6324" />
+      <edge id="382" source="#PCMHevidence" target="#AAFP" weight="4216" />
+      <edge id="383" source="#StartWithHello" target="#FriendsDay" weight="2108" />
+      <edge id="384" source="#FMFierce" target="#AAFP" weight="2108" />
+      <edge id="385" source="#FMFierce" target="#FMRevolution" weight="2108" />
+      <edge id="386" source="#FMCC2014" target="#FamilyMedicine" weight="2108" />
+      <edge id="387" source="#FMCC2014" target="#FMRevolution" weight="2108" />
+      <edge id="388" source="#FMCC2014" target="#AAFP" weight="2108" />
+      <edge id="389" source="#FMCC2014" target="#Congress" weight="2108" />
+      <edge id="390" source="#FMCC2014" target="#OhioAFP" weight="2108" />
+      <edge id="391" source="#mentalhealth" target="#depression" weight="2108" />
+      <edge id="392" source="#LaborDay13" target="#OhioAFP" weight="2108" />
+      <edge id="393" source="#FORCE" target="#MakeHealthPrimary" weight="2108" />
+      <edge id="394" source="#FORCE" target="#FMRevolution" weight="2108" />
+      <edge id="395" source="#OHIO" target="#FamilyMedicine" weight="2108" />
+      <edge id="396" source="#OHIO" target="#MatchMadness" weight="2108" />
+      <edge id="397" source="#familyphysicians" target="#FMRevolution" weight="2108" />
+      <edge id="398" source="#familyphysicians" target="#exhibitors" weight="2108" />
+      <edge id="399" source="#familyphysicians" target="#DoctorsDay" weight="2108" />
+      <edge id="400" source="#familyphysicians" target="#OH" weight="2108" />
+      <edge id="401" source="#familyphysicians" target="#OhioAFP" weight="2108" />
+      <edge id="402" source="#aafpsa" target="#medschool" weight="2108" />
+      <edge id="403" source="#aafpsa" target="#FMRevolution" weight="2108" />
+      <edge id="404" source="#aafpsa" target="#meded" weight="2108" />
+      <edge id="405" source="#aafpsa" target="#FamilyMedicine" weight="2108" />
+      <edge id="406" source="#aafpsa" target="#AAFP" weight="6324" />
+      <edge id="407" source="#aafpsa" target="#aafpcod" weight="2108" />
+      <edge id="408" source="#ASMSE13" target="#OhioAFP" weight="2108" />
+      <edge id="409" source="#ASMSE13" target="#AAMSE13" weight="2108" />
+      <edge id="410" source="#oafpfoundation" target="#ohioafp" weight="4216" />
+      <edge id="411" source="#tobacco" target="#AAFP" weight="4216" />
+      <edge id="412" source="#MatchMadness" target="#FamilyMedicine" weight="2108" />
+      <edge id="413" source="#FamilyMedicine" target="#Congress" weight="2108" />
+      <edge id="414" source="#FamilyMedicine" target="#OhioAFP" weight="6324" />
+      <edge id="415" source="#FamilyMedicine" target="#AAFPCOD" weight="6324" />
+      <edge id="416" source="#FamilyMedicine" target="#medschool" weight="2108" />
+      <edge id="417" source="#FamilyMedicine" target="#FMRevolution" weight="4216" />
+      <edge id="418" source="#FamilyMedicine" target="#ProHCBB" weight="2108" />
+      <edge id="419" source="#FamilyMedicine" target="#meaningfuluse" weight="2108" />
+      <edge id="420" source="#FamilyMedicine" target="#HIT" weight="2108" />
+      <edge id="421" source="#FamilyMedicine" target="#SanDiego" weight="2108" />
+      <edge id="422" source="#FamilyMedicine" target="#MentalHealth" weight="2108" />
+      <edge id="423" source="#FamilyMedicine" target="#ProudToBeAFanOf" weight="2108" />
+      <edge id="424" source="#FamilyMedicine" target="#AAFP" weight="48484" />
+      <edge id="425" source="#FamilyMedicine" target="#Medicaid" weight="2108" />
+      <edge id="426" source="#AAFPGlobal" target="#globalhealth" weight="2108" />
+      <edge id="427" source="#Congress" target="#FMRevolution" weight="2108" />
+      <edge id="428" source="#HIT" target="#AAFP" weight="4216" />
+      <edge id="429" source="#HIT" target="#EHR" weight="2108" />
+      <edge id="430" source="#HIT" target="#ONC" weight="2108" />
+      <edge id="431" source="#HIT" target="#MU" weight="2108" />
+      <edge id="432" source="#OhioAFP" target="#AAFP2014" weight="2108" />
+      <edge id="433" source="#OhioAFP" target="#InspireCreateLEad" weight="2108" />
+      <edge id="434" source="#OhioAFP" target="#AAFPCOD" weight="2108" />
+      <edge id="435" source="#OhioAFP" target="#Patients" weight="2108" />
+      <edge id="436" source="#OhioAFP" target="#FMRevolution" weight="23188" />
+      <edge id="437" source="#OhioAFP" target="#storify" weight="2108" />
+      <edge id="438" source="#OhioAFP" target="#AAMSE13" weight="4216" />
+      <edge id="439" source="#OhioAFP" target="#socialmedia" weight="2108" />
+      <edge id="440" source="#OhioAFP" target="#advocacy" weight="2108" />
+      <edge id="441" source="#OhioAFP" target="#fmrevolution" weight="4216" />
+      <edge id="442" source="#OhioAFP" target="#familydoc" weight="4216" />
+      <edge id="443" source="#OhioAFP" target="#CMS" weight="2108" />
+      <edge id="444" source="#OhioAFP" target="#PrimaryCare" weight="4216" />
+      <edge id="445" source="#OhioAFP" target="#AAFP" weight="10540" />
+      <edge id="446" source="#OhioAFP" target="#aafpncsc" weight="2108" />
+      <edge id="447" source="#OhioAFP" target="#Health4OH" weight="4216" />
+      <edge id="448" source="#OhioAFP" target="#medicaid" weight="4216" />
+      <edge id="449" source="#OhioAFP" target="#Medicaid" weight="10540" />
+      <edge id="450" source="#OhioAFP" target="#medicare" weight="2108" />
+      <edge id="451" source="#OhioAFP" target="#FM2020vision" weight="2108" />
+      <edge id="452" source="#OhioAFP" target="#GiveThanks" weight="2108" />
+      <edge id="453" source="#OhioAFP" target="#DoctorsDay" weight="2108" />
+      <edge id="454" source="#OhioAFP" target="#Legislators" weight="2108" />
+      <edge id="455" source="#OhioAFP" target="#OH" weight="2108" />
+      <edge id="456" source="#OhioAFP" target="#LeRoyforAAFPBoard" weight="2108" />
+      <edge id="457" source="#GOP" target="#PrimaryCare" weight="2108" />
+      <edge id="458" source="#GOP" target="#repealSGR" weight="2108" />
+      <edge id="459" source="#GOP" target="#AAFP" weight="2108" />
+      <edge id="460" source="#MACRA" target="#FM2020vision" weight="2108" />
+      <edge id="461" source="#MACRA" target="#aafpnccl" weight="2108" />
+      <edge id="462" source="#MACRA" target="#AAFP" weight="8432" />
+      <edge id="463" source="#MACRA" target="#aclf" weight="2108" />
+      <edge id="464" source="#MACRA" target="#ohioafp" weight="2108" />
+      <edge id="465" source="#Patients" target="#PrimaryCare" weight="2108" />
+      <edge id="466" source="#Patients" target="#familyphysician" weight="2108" />
+      <edge id="467" source="#makehealthprimary" target="#FMRevolution" weight="2108" />
+      <edge id="468" source="#makehealthprimary" target="#TenState" weight="2108" />
+      <edge id="469" source="#FLOTUS" target="#AAFP" weight="2108" />
+      <edge id="470" source="#FLOTUS" target="#SOTU" weight="2108" />
+      <edge id="471" source="#ReleaseTheBob" target="#aafpnccl" weight="2108" />
+      <edge id="472" source="#OSMAThisWeek" target="#EHR" weight="2108" />
+      <edge id="473" source="#healthcarereform" target="#FMRevolution" weight="2108" />
+      <edge id="474" source="#SOAP2015" target="#iMatched" weight="2108" />
+      <edge id="475" source="#ABFM" target="#AAFP" weight="2108" />
+      <edge id="476" source="#Aafp" target="#AAFPNC" weight="2108" />
+      <edge id="477" source="#cohealth" target="#AAFP" weight="2108" />
+      <edge id="478" source="#cohealth" target="#copolitics" weight="2108" />
+      <edge id="479" source="#cohealth" target="#health" weight="2108" />
+      <edge id="480" source="#SaveAHRQ" target="#AAFP" weight="2108" />
+      <edge id="481" source="#TarWars12" target="#FMRevolution" weight="2108" />
+      <edge id="482" source="#opcpcc" target="#Pcmh" weight="2108" />
+      <edge id="483" source="#opcpcc" target="#familyphysician" weight="2108" />
+      <edge id="484" source="#opcpcc" target="#pcmh" weight="12648" />
+      <edge id="485" source="#advocacy" target="#AAFP" weight="4216" />
+      <edge id="486" source="#MentalHealth" target="#AAFP" weight="2108" />
+      <edge id="487" source="#macra" target="#aclf" weight="2108" />
+      <edge id="488" source="#aafpnc13" target="#AAFPNC" weight="2108" />
+      <edge id="489" source="#MakeHealthPrimary" target="#FMRevolution" weight="6324" />
+      <edge id="490" source="#MakeHealthPrimary" target="#AAFPNC" weight="4216" />
+      <edge id="491" source="#MakeHealthPrimary" target="#Familydoctors" weight="2108" />
+      <edge id="492" source="#ttbtbtb" target="#FMRevolution" weight="2108" />
+      <edge id="493" source="#BloodPressure" target="#Hypertension" weight="2108" />
+      <edge id="494" source="#OH" target="#Medicaid" weight="2108" />
+      <edge id="495" source="#OH" target="#exhibitors" weight="2108" />
+      <edge id="496" source="#wonca" target="#Familyphysicians" weight="2108" />
+      <edge id="497" source="#ProudToBeAFanOf" target="#AAFP" weight="2108" />
+      <edge id="498" source="#familydoc" target="#ohioafp" weight="2108" />
+      <edge id="499" source="#health" target="#copolitics" weight="2108" />
+      <edge id="500" source="#health" target="#FMRevolution" weight="2108" />
+      <edge id="501" source="#health" target="#hcsm" weight="2108" />
+      <edge id="502" source="#health" target="#AAFP" weight="6324" />
+      <edge id="503" source="#PrimaryCare" target="#AAFP" weight="2108" />
+      <edge id="504" source="#PrimaryCare" target="#repealSGR" weight="2108" />
+      <edge id="505" source="#SanDiego" target="#AAFP" weight="2108" />
+      <edge id="506" source="#theyhavenot" target="#notevenontheirweddingdays" weight="2108" />
+      <edge id="507" source="#Pcmh" target="#ohioafp" weight="2108" />
+      <edge id="508" source="#aafpncsc" target="#FMRevolution" weight="12648" />
+      <edge id="509" source="#aafpncsc" target="#aafpnccl" weight="2108" />
+      <edge id="510" source="#aafpncsc" target="#ohioafp" weight="4216" />
+      <edge id="511" source="#aafpncsc" target="#AAFP" weight="2108" />
+      <edge id="512" source="#aafpncsc" target="#fmrevolution" weight="8432" />
+      <edge id="513" source="#aafpncsc" target="#trending" weight="2108" />
+      <edge id="514" source="#aafpncsc" target="#NCCL2015" weight="4216" />
+      <edge id="515" source="#npcw" target="#FMRevolution" weight="2108" />
+      <edge id="516" source="#AAFP2014" target="#AAFP" weight="4216" />
+      <edge id="517" source="#AAFP2014" target="#AAFPCOD" weight="2108" />
+      <edge id="518" source="#AAFP2014" target="#FMRevolution" weight="2108" />
+      <edge id="519" source="#AAFP2014" target="#AAFP2014" weight="4216" />
+      <edge id="520" source="#repealSGR" target="#AAFP" weight="6324" />
+      <edge id="521" source="#repealSGR" target="#Medicare" weight="4216" />
+      <edge id="522" source="#medicaid" target="#medicare" weight="2108" />
+      <edge id="523" source="#healthinsurance" target="#marketplace" weight="2108" />
+      <edge id="524" source="#FollowTuesday" target="#FMCC2015" weight="2108" />
+      <edge id="525" source="#FollowTuesday" target="#FMRevolution" weight="2108" />
+      <edge id="526" source="#AAFPSLC" target="#AAFP" weight="2108" />
+      <edge id="527" source="#PQRS" target="#AAFP" weight="2108" />
+      <edge id="528" source="#aafpcod" target="#medschool" weight="2108" />
+      <edge id="529" source="#aafpcod" target="#storify" weight="2108" />
+      <edge id="530" source="#aafpcod" target="#meded" weight="2108" />
+      <edge id="531" source="#aafpcod" target="#AAFP" weight="2108" />
+      <edge id="532" source="#aafpcod" target="#fmrevolution" weight="8432" />
+      <edge id="533" source="#aafpcod" target="#LeRoyforAAFPBoard" weight="2108" />
+      <edge id="534" source="#aafpcod" target="#FMRevolution" weight="14756" />
+      <edge id="535" source="#aafpcod" target="#aafpfmx" weight="2108" />
+      <edge id="536" source="#FM2020vision" target="#ohioafp" weight="6324" />
+      <edge id="537" source="#KC" target="#ohioafp" weight="2108" />
+      <edge id="538" source="#KC" target="#fmrevolution" weight="2108" />
+      <edge id="539" source="#KC" target="#AAFPNC" weight="2108" />
+      <edge id="540" source="#AAFPFMCC" target="#FMCC2015" weight="2108" />
+      <edge id="541" source="#aafpnccl" target="#FMRevolution" weight="8432" />
+      <edge id="542" source="#aafpnccl" target="#aafpACLF" weight="8432" />
+      <edge id="543" source="#aafpnccl" target="#WeAreNumberOne" weight="2108" />
+      <edge id="544" source="#aafpnccl" target="#ohioafp" weight="2108" />
+      <edge id="545" source="#aafpACLF" target="#FMRevolution" weight="4216" />
+      <edge id="546" source="#aafpACLF" target="#AAFP" weight="2108" />
+      <edge id="547" source="#aafpACLF" target="#WeAreNumberOne" weight="2108" />
+      <edge id="548" source="#aafpACLF" target="#aafpFMX" weight="2108" />
+      <edge id="549" source="#DoctorsDay" target="#FMRevolution" weight="2108" />
+      <edge id="550" source="#HealthInsurance" target="#FamilyPhysicians" weight="2108" />
+      <edge id="551" source="#HealthInsurance" target="#AAFP" weight="2108" />
+      <edge id="552" source="#STFM" target="#ohioafp" weight="2108" />
+      <edge id="553" source="#STFM" target="#AAFPNC" weight="4216" />
+      <edge id="554" source="#InspireCreateLEad" target="#FMRevolution" weight="2108" />
+      <edge id="555" source="#TenState" target="#FMRevolution" weight="21080" />
+      <edge id="556" source="#TenState" target="#GME" weight="2108" />
+      <edge id="557" source="#socialmedia" target="#AAFP" weight="2108" />
+      <edge id="558" source="#socialmedia" target="#AAFPCOD" weight="2108" />
+      <edge id="559" source="#HIE" target="#EHR" weight="4216" />
+      <edge id="560" source="#HIE" target="#CliniSync" weight="2108" />
+      <edge id="561" source="#aafpfmx" target="#FMRevolution" weight="2108" />
+      <edge id="562" source="#AAFPncsc" target="#AAFP" weight="2108" />
+      <edge id="563" source="#AAFPncsc" target="#FMRevolution" weight="2108" />
+      <edge id="564" source="#STFMChat" target="#FMRevolution" weight="2108" />
+      <edge id="565" source="#GivingTuesday" target="#ohioafp" weight="2108" />
+      <edge id="566" source="#facebook" target="#AAFP" weight="2108" />
+      <edge id="567" source="#aafpassembly" target="#AAFP" weight="2108" />
+      <edge id="568" source="#aafpassembly" target="#FMRevolution" weight="2108" />
+      <edge id="569" source="#Happybirthdayohio" target="#tenstate" weight="2108" />
+      <edge id="570" source="#Happybirthdayohio" target="#ohio" weight="2108" />
+      <edge id="571" source="#ChangeIsComing" target="#FMRevolution" weight="2108" />
+      <edge id="572" source="#MU" target="#EHR" weight="2108" />
+      <edge id="573" source="#MU" target="#ONC" weight="2108" />
+      <edge id="574" source="#pcmh" target="#FMRevolution" weight="2108" />
+      <edge id="575" source="#pcmh" target="#ProHCBB" weight="2108" />
+      <edge id="576" source="#pcmh" target="#AAFP" weight="4216" />
+      <edge id="577" source="#pcmh" target="#ohioafp" weight="4216" />
+      <edge id="578" source="#CliniSync" target="#EHR" weight="2108" />
+      <edge id="579" source="#GME" target="#FMRevolution" weight="2108" />
+      <edge id="580" source="#FearTheBeard" target="#AAFP" weight="2108" />
+      <edge id="581" source="#FearTheBeard" target="#AAFPCOD" weight="2108" />
+      <edge id="582" source="#ohioafp" target="#fmrevolution" weight="12648" />
+      <edge id="583" source="#ohioafp" target="#AAFPCOD" weight="2108" />
+      <edge id="584" source="#ohioafp" target="#FMRevolution" weight="8432" />
+      <edge id="585" source="#ohioafp" target="#AAFPNC" weight="8432" />
+      <edge id="586" source="#ohioafp" target="#storify" weight="2108" />
+      <edge id="587" source="#ohioafp" target="#hcsm" weight="2108" />
+      <edge id="588" source="#ohioafp" target="#Medicaid" weight="2108" />
+      <edge id="589" source="#ohioafp" target="#ohio" weight="2108" />
+      <edge id="590" source="#sandy" target="#AAFP" weight="2108" />
+      <edge id="591" source="#residents" target="#AAFPCOD" weight="2108" />
+      <edge id="592" source="#aafpFMX" target="#FMRevolution" weight="2108" />
+      <edge id="593" source="#P4Med" target="#FMRevolution" weight="2108" />
+      <edge id="594" source="#ALF" target="#AAFP" weight="2108" />
+      <edge id="595" source="#ALF" target="#NCSC" weight="2108" />
+      <edge id="596" source="#LiveLongAndProsper" target="#CreamOfTheCrop" weight="2108" />
+      <edge id="597" source="#LiveLongAndProsper" target="#FMRevolution" weight="2108" />
+      <edge id="598" source="#LiveLongAndProsper" target="#AAFPNC" weight="2108" />
+      <edge id="599" source="#healthcareforall" target="#AAFPCOD" weight="2108" />
+      <edge id="600" source="#YouMightBeAFamilyDoc" target="#AAFPNC" weight="2108" />
+      <edge id="601" source="#AAFPCOD" target="#AAFPCOD" weight="4216" />
+      <edge id="602" source="#AAFPCOD" target="#FMRevolution" weight="12648" />
+      <edge id="603" source="#AAFPCOD" target="#LeRoyforAAFPBoard" weight="2108" />
+      <edge id="604" source="#AAFPCOD" target="#AAFPFMX" weight="6324" />
+      <edge id="605" source="#AAFPCOD" target="#AAFP" weight="33728" />
+      <edge id="606" source="#AAFPCOD" target="#fmrevolution" weight="2108" />
+      <edge id="607" source="#FMRevolution" target="#AAFPNCFMR" weight="2108" />
+      <edge id="608" source="#FMRevolution" target="#medschool" weight="2108" />
+      <edge id="609" source="#FMRevolution" target="#GiveThanks" weight="8432" />
+      <edge id="610" source="#FMRevolution" target="#hcsm" weight="6324" />
+      <edge id="611" source="#FMRevolution" target="#aafpNCSC" weight="4216" />
+      <edge id="612" source="#FMRevolution" target="#AAFPNC" weight="14756" />
+      <edge id="613" source="#FMRevolution" target="#ProHCBB" weight="4216" />
+      <edge id="614" source="#FMRevolution" target="#FMbeheard" weight="2108" />
+      <edge id="615" source="#FMRevolution" target="#FamilyPhysician" weight="2108" />
+      <edge id="616" source="#FMRevolution" target="#Sandy" weight="2108" />
+      <edge id="617" source="#FMRevolution" target="#NCCL2016" weight="2108" />
+      <edge id="618" source="#FMRevolution" target="#CreamOfTheCrop" weight="2108" />
+      <edge id="619" source="#FMRevolution" target="#meded" weight="2108" />
+      <edge id="620" source="#FMRevolution" target="#AAFP" weight="33728" />
+      <edge id="621" source="#FMRevolution" target="#SGR" weight="2108" />
+      <edge id="622" source="#FMRevolution" target="#SOTU" weight="2108" />
+      <edge id="623" source="#FMRevolution" target="#tenstate" weight="2108" />
+      <edge id="624" source="#FMRevolution" target="#FMCC2016" weight="2108" />
+      <edge id="625" source="#FMRevolution" target="#FMCC2015" weight="2108" />
+      <edge id="626" source="#FMRevolution" target="#FMCC2013" weight="2108" />
+      <edge id="627" source="#AAFPNC" target="#CreamOfTheCrop" weight="2108" />
+      <edge id="628" source="#AAFPNC" target="#AAFPFMX" weight="4216" />
+      <edge id="629" source="#AAFPNC" target="#fmrevolution" weight="2108" />
+      <edge id="630" source="#ProHCBB" target="#AAFP" weight="10540" />
+      <edge id="631" source="#meaningfuluse" target="#AAFP" weight="2108" />
+      <edge id="632" source="#NHSC" target="#ACA" weight="2108" />
+      <edge id="633" source="#FMbeheard" target="#AAFP" weight="2108" />
+      <edge id="634" source="#ohio" target="#tenstate" weight="4216" />
+      <edge id="635" source="#LeRoyforAAFPBoard" target="#AAFP" weight="2108" />
+      <edge id="636" source="#ACA" target="#AAFP" weight="10540" />
+      <edge id="637" source="#trending" target="#fmrevolution" weight="2108" />
+      <edge id="638" source="#fmrevolution" target="#storify" weight="12648" />
+      <edge id="639" source="#fmrevolution" target="#SOTU" weight="2108" />
+      <edge id="640" source="#fmrevolution" target="#tenstate" weight="4216" />
+      <edge id="641" source="#medschool" target="#meded" weight="2108" />
+      <edge id="642" source="#FQHC" target="#AAFP" weight="2108" />
+      <edge id="643" source="#GiveThanks" target="#AAFP" weight="2108" />
+      <edge id="644" source="#AAFP" target="#aafpNCSC" weight="2108" />
+      <edge id="645" source="#AAFP" target="#Medicaid" weight="2108" />
+      <edge id="646" source="#AAFP" target="#copolitics" weight="2108" />
+      <edge id="647" source="#AAFP" target="#patientaccess" weight="2108" />
+      <edge id="648" source="#AAFP" target="#NCSC" weight="2108" />
+      <edge id="649" source="#AAFP" target="#AAFPFMX" weight="2108" />
+      <edge id="650" source="#AAFP" target="#ACO" weight="2108" />
+      <edge id="651" source="#AAFP" target="#hcsm" weight="2108" />
+      <edge id="652" source="#AAFP" target="#SGR" weight="14756" />
+      <edge id="653" source="#AAFP" target="#Primarycare" weight="2108" />
+      <edge id="654" source="#AAFP" target="#SOTU" weight="6324" />
+      <edge id="655" source="#AAFP" target="#Medicare" weight="12648" />
+      <edge id="656" source="#ONC" target="#EHR" weight="2108" />
+      <edge id="657" source="#Health4OH" target="#Medicaid" weight="2108" />
+    </edges>
+  </graph>
+</gexf>

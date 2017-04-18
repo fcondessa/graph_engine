@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BestPlacesToWork" label="#BestPlacesToWork" />
+      <node id="#Software" label="#Software" />
+      <node id="#uptivitycareers" label="#uptivitycareers" />
+      <node id="#topworkplace" label="#topworkplace" />
+      <node id="#catchthecbus" label="#catchthecbus" />
+      <node id="#Testing" label="#Testing" />
+      <node id="#Validations" label="#Validations" />
+      <node id="#Circulator" label="#Circulator" />
+      <node id="#Project" label="#Project" />
+      <node id="#Cost" label="#Cost" />
+      <node id="#Business" label="#Business" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#NEW" label="#NEW" />
+      <node id="#Cycle" label="#Cycle" />
+      <node id="#GoldenGlobes" label="#GoldenGlobes" />
+      <node id="#MentoringMonday" label="#MentoringMonday" />
+      <node id="#COTA" label="#COTA" />
+      <node id="#Effective" label="#Effective" />
+      <node id="#DowntonAbbey" label="#DowntonAbbey" />
+      <node id="#BAOT" label="#BAOT" />
+      <node id="#Analysts" label="#Analysts" />
+      <node id="#Bizwomen" label="#Bizwomen" />
+      <node id="#catchtheCBUS" label="#catchtheCBUS" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#CEOWork" label="#CEOWork" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BestPlacesToWork" target="#uptivitycareers" weight="42" />
+      <edge id="1" source="#Software" target="#NEW" weight="42" />
+      <edge id="2" source="#Software" target="#Cost" weight="42" />
+      <edge id="3" source="#Software" target="#Cycle" weight="42" />
+      <edge id="4" source="#Software" target="#Project" weight="42" />
+      <edge id="5" source="#Software" target="#Validations" weight="42" />
+      <edge id="6" source="#Software" target="#Effective" weight="42" />
+      <edge id="7" source="#Software" target="#Testing" weight="42" />
+      <edge id="8" source="#topworkplace" target="#CEOWork" weight="42" />
+      <edge id="9" source="#catchthecbus" target="#Circulator" weight="42" />
+      <edge id="10" source="#Testing" target="#NEW" weight="42" />
+      <edge id="11" source="#Testing" target="#Validations" weight="42" />
+      <edge id="12" source="#Testing" target="#Cycle" weight="42" />
+      <edge id="13" source="#Testing" target="#Project" weight="42" />
+      <edge id="14" source="#Testing" target="#Cost" weight="42" />
+      <edge id="15" source="#Testing" target="#Effective" weight="42" />
+      <edge id="16" source="#Validations" target="#NEW" weight="42" />
+      <edge id="17" source="#Validations" target="#Cycle" weight="42" />
+      <edge id="18" source="#Validations" target="#Project" weight="42" />
+      <edge id="19" source="#Validations" target="#Cost" weight="42" />
+      <edge id="20" source="#Validations" target="#Effective" weight="42" />
+      <edge id="21" source="#Project" target="#NEW" weight="42" />
+      <edge id="22" source="#Project" target="#Cost" weight="42" />
+      <edge id="23" source="#Project" target="#Cycle" weight="42" />
+      <edge id="24" source="#Project" target="#Effective" weight="42" />
+      <edge id="25" source="#Cost" target="#NEW" weight="42" />
+      <edge id="26" source="#Cost" target="#Cycle" weight="42" />
+      <edge id="27" source="#Cost" target="#Effective" weight="42" />
+      <edge id="28" source="#Business" target="#NEW" weight="42" />
+      <edge id="29" source="#Business" target="#BAOT" weight="42" />
+      <edge id="30" source="#Business" target="#Analysts" weight="42" />
+      <edge id="31" source="#columbus" target="#cbus" weight="42" />
+      <edge id="32" source="#NEW" target="#Cycle" weight="42" />
+      <edge id="33" source="#NEW" target="#Analysts" weight="42" />
+      <edge id="34" source="#NEW" target="#Effective" weight="42" />
+      <edge id="35" source="#NEW" target="#BAOT" weight="42" />
+      <edge id="36" source="#Cycle" target="#Effective" weight="42" />
+      <edge id="37" source="#GoldenGlobes" target="#DowntonAbbey" weight="42" />
+      <edge id="38" source="#MentoringMonday" target="#Bizwomen" weight="42" />
+      <edge id="39" source="#COTA" target="#catchtheCBUS" weight="42" />
+      <edge id="40" source="#BAOT" target="#Analysts" weight="42" />
+    </edges>
+  </graph>
+</gexf>

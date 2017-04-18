@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Michigan" label="#Michigan" />
+      <node id="#Detroit" label="#Detroit" />
+      <node id="#dogecoin" label="#dogecoin" />
+      <node id="#MGCS" label="#MGCS" />
+      <node id="#startup" label="#startup" />
+      <node id="#bitcoin" label="#bitcoin" />
+      <node id="#Wired" label="#Wired" />
+      <node id="#MICHIGAN" label="#MICHIGAN" />
+      <node id="#bicycle" label="#bicycle" />
+      <node id="#detroit" label="#detroit" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Michigan" target="#bicycle" weight="57" />
+      <edge id="1" source="#Detroit" target="#Wired" weight="57" />
+      <edge id="2" source="#dogecoin" target="#bitcoin" weight="57" />
+      <edge id="3" source="#MGCS" target="#MICHIGAN" weight="57" />
+      <edge id="4" source="#startup" target="#detroit" weight="57" />
+    </edges>
+  </graph>
+</gexf>

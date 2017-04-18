@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#hamburguesa" label="#hamburguesa" />
+      <node id="#lockedin" label="#lockedin" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#hamburguesa" target="#lockedin" weight="289" />
+    </edges>
+  </graph>
+</gexf>

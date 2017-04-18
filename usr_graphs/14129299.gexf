@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#jojos" label="#jojos" />
+      <node id="#WRONG" label="#WRONG" />
+      <node id="#mnf" label="#mnf" />
+      <node id="#neverforget" label="#neverforget" />
+      <node id="#redskins" label="#redskins" />
+      <node id="#goodtrouble" label="#goodtrouble" />
+      <node id="#sgp" label="#sgp" />
+      <node id="#snowgasm" label="#snowgasm" />
+      <node id="#NOMORESILENCE" label="#NOMORESILENCE" />
+      <node id="#children" label="#children" />
+      <node id="#NorthernOverexposure" label="#NorthernOverexposure" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#Netanyahu" label="#Netanyahu" />
+      <node id="#poverty" label="#poverty" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#poor" label="#poor" />
+      <node id="#fb" label="#fb" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#demonsheep" label="#demonsheep" />
+      <node id="#Iranelection" label="#Iranelection" />
+      <node id="#financialreform" label="#financialreform" />
+      <node id="#stupak" label="#stupak" />
+      <node id="#Iran" label="#Iran" />
+      <node id="#iranelection" label="#iranelection" />
+      <node id="#nfl" label="#nfl" />
+      <node id="#firezorn" label="#firezorn" />
+      <node id="#p2" label="#p2" />
+      <node id="#soal" label="#soal" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#jojos" target="#neverforget" weight="1316" />
+      <edge id="1" source="#WRONG" target="#stupak" weight="1316" />
+      <edge id="2" source="#mnf" target="#nfl" weight="1316" />
+      <edge id="3" source="#redskins" target="#firezorn" weight="1316" />
+      <edge id="4" source="#goodtrouble" target="#NOMORESILENCE" weight="1316" />
+      <edge id="5" source="#sgp" target="#fb" weight="1316" />
+      <edge id="6" source="#snowgasm" target="#demonsheep" weight="1316" />
+      <edge id="7" source="#children" target="#poverty" weight="1316" />
+      <edge id="8" source="#children" target="#poor" weight="1316" />
+      <edge id="9" source="#NorthernOverexposure" target="#Olympics" weight="1316" />
+      <edge id="10" source="#Netanyahu" target="#Obama" weight="1316" />
+      <edge id="11" source="#Netanyahu" target="#Iran" weight="1316" />
+      <edge id="12" source="#poverty" target="#poor" weight="1316" />
+      <edge id="13" source="#Obama" target="#Iran" weight="1316" />
+      <edge id="14" source="#healthcare" target="#hcr" weight="1316" />
+      <edge id="15" source="#hcr" target="#financialreform" weight="1316" />
+      <edge id="16" source="#hcr" target="#p2" weight="1316" />
+      <edge id="17" source="#Iranelection" target="#Iran" weight="1316" />
+      <edge id="18" source="#iranelection" target="#soal" weight="2632" />
+    </edges>
+  </graph>
+</gexf>

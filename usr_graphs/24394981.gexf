@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#braves" label="#braves" />
+      <node id="#EaglesMobile" label="#EaglesMobile" />
+      <node id="#eagles" label="#eagles" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#ThursdayNightFootball" label="#ThursdayNightFootball" />
+      <node id="#giants" label="#giants" />
+      <node id="#phillies" label="#phillies" />
+      <node id="#brewers" label="#brewers" />
+      <node id="#mets" label="#mets" />
+      <node id="#cubs" label="#cubs" />
+      <node id="#pirates" label="#pirates" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#braves" target="#phillies" weight="2205" />
+      <edge id="1" source="#EaglesMobile" target="#eagles" weight="882" />
+      <edge id="2" source="#TBT" target="#ThursdayNightFootball" weight="441" />
+      <edge id="3" source="#giants" target="#phillies" weight="11025" />
+      <edge id="4" source="#phillies" target="#pirates" weight="882" />
+      <edge id="5" source="#phillies" target="#brewers" weight="882" />
+      <edge id="6" source="#phillies" target="#mets" weight="6615" />
+      <edge id="7" source="#phillies" target="#cubs" weight="882" />
+    </edges>
+  </graph>
+</gexf>

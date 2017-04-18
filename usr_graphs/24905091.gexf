@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#cxcw" label="#cxcw" />
+      <node id="#alwaysthirsty" label="#alwaysthirsty" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#fair" label="#fair" />
+      <node id="#underattack" label="#underattack" />
+      <node id="#gingerbeer" label="#gingerbeer" />
+      <node id="#popcorn" label="#popcorn" />
+      <node id="#gin" label="#gin" />
+      <node id="#pretzelsticks" label="#pretzelsticks" />
+      <node id="#buzzkill" label="#buzzkill" />
+      <node id="#giantburger" label="#giantburger" />
+      <node id="#bootlegoscar" label="#bootlegoscar" />
+      <node id="#specialneeds" label="#specialneeds" />
+      <node id="#cbusidfest" label="#cbusidfest" />
+      <node id="#oscars" label="#oscars" />
+      <node id="#jellybeans" label="#jellybeans" />
+      <node id="#toast" label="#toast" />
+      <node id="#goldenglobes" label="#goldenglobes" />
+      <node id="#travesty" label="#travesty" />
+      <node id="#SundayBloodySunday" label="#SundayBloodySunday" />
+      <node id="#MadMen" label="#MadMen" />
+      <node id="#RoadHouse" label="#RoadHouse" />
+      <node id="#foodtruck" label="#foodtruck" />
+      <node id="#quarthouse" label="#quarthouse" />
+      <node id="#workingmoms" label="#workingmoms" />
+      <node id="#toughjob" label="#toughjob" />
+      <node id="#mojitomadness" label="#mojitomadness" />
+      <node id="#bugs" label="#bugs" />
+      <node id="#gingeraddict" label="#gingeraddict" />
+      <node id="#eatlocalcbus" label="#eatlocalcbus" />
+      <node id="#beer" label="#beer" />
+      <node id="#rickygervais" label="#rickygervais" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#MondayManhattans" label="#MondayManhattans" />
+      <node id="#NoPho" label="#NoPho" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#sxsw" target="#cxcw" weight="977" />
+      <edge id="1" source="#alwaysthirsty" target="#gin" weight="977" />
+      <edge id="2" source="#asseenincolumbus" target="#foodtruck" weight="977" />
+      <edge id="3" source="#asseenincolumbus" target="#cbusidfest" weight="977" />
+      <edge id="4" source="#asseenincolumbus" target="#eatlocalcbus" weight="977" />
+      <edge id="5" source="#fair" target="#beer" weight="977" />
+      <edge id="6" source="#underattack" target="#bugs" weight="977" />
+      <edge id="7" source="#gingerbeer" target="#gingeraddict" weight="977" />
+      <edge id="8" source="#popcorn" target="#jellybeans" weight="977" />
+      <edge id="9" source="#popcorn" target="#toast" weight="977" />
+      <edge id="10" source="#popcorn" target="#pretzelsticks" weight="977" />
+      <edge id="11" source="#gin" target="#oscars" weight="977" />
+      <edge id="12" source="#pretzelsticks" target="#jellybeans" weight="977" />
+      <edge id="13" source="#pretzelsticks" target="#toast" weight="977" />
+      <edge id="14" source="#buzzkill" target="#RoadHouse" weight="977" />
+      <edge id="15" source="#giantburger" target="#quarthouse" weight="977" />
+      <edge id="16" source="#bootlegoscar" target="#travesty" weight="977" />
+      <edge id="17" source="#bootlegoscar" target="#oscars" weight="977" />
+      <edge id="18" source="#specialneeds" target="#workingmoms" weight="977" />
+      <edge id="19" source="#cbusidfest" target="#foodtruck" weight="977" />
+      <edge id="20" source="#cbusidfest" target="#eatlocalcbus" weight="977" />
+      <edge id="21" source="#oscars" target="#travesty" weight="977" />
+      <edge id="22" source="#jellybeans" target="#toast" weight="977" />
+      <edge id="23" source="#goldenglobes" target="#rickygervais" weight="977" />
+      <edge id="24" source="#SundayBloodySunday" target="#MondayManhattans" weight="1954" />
+      <edge id="25" source="#SundayBloodySunday" target="#mojitomadness" weight="1954" />
+      <edge id="26" source="#SundayBloodySunday" target="#SundayBloodySunday" weight="1954" />
+      <edge id="27" source="#MadMen" target="#toughjob" weight="977" />
+      <edge id="28" source="#foodtruck" target="#eatlocalcbus" weight="977" />
+      <edge id="29" source="#mojitomadness" target="#MondayManhattans" weight="977" />
+      <edge id="30" source="#FollowFriday" target="#NoPho" weight="977" />
+    </edges>
+  </graph>
+</gexf>

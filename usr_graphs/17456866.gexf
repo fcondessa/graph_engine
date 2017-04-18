@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#usmnt" label="#usmnt" />
+      <node id="#CLBvMTL" label="#CLBvMTL" />
+      <node id="#ECU" label="#ECU" />
+      <node id="#worldchampionships" label="#worldchampionships" />
+      <node id="#Belgium" label="#Belgium" />
+      <node id="#yeehaw" label="#yeehaw" />
+      <node id="#lauberhorn" label="#lauberhorn" />
+      <node id="#Oregon" label="#Oregon" />
+      <node id="#bestoftheworst" label="#bestoftheworst" />
+      <node id="#jungfrau" label="#jungfrau" />
+      <node id="#150Rivalry" label="#150Rivalry" />
+      <node id="#Matchday" label="#Matchday" />
+      <node id="#England" label="#England" />
+      <node id="#eiger" label="#eiger" />
+      <node id="#Crew96" label="#Crew96" />
+      <node id="#Rivalry150" label="#Rivalry150" />
+      <node id="#USMNT" label="#USMNT" />
+      <node id="#mapfrestadium" label="#mapfrestadium" />
+      <node id="#Switzerland" label="#Switzerland" />
+      <node id="#MEX" label="#MEX" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#schuumlipfluumli" label="#schuumlipfluumli" />
+      <node id="#CHI" label="#CHI" />
+      <node id="#vail2015" label="#vail2015" />
+      <node id="#neednewliver" label="#neednewliver" />
+      <node id="#Wengen" label="#Wengen" />
+      <node id="#WorldCup" label="#WorldCup" />
+      <node id="#hockey" label="#hockey" />
+      <node id="#startbar" label="#startbar" />
+      <node id="#IOC" label="#IOC" />
+      <node id="#joy" label="#joy" />
+      <node id="#California" label="#California" />
+      <node id="#URU" label="#URU" />
+      <node id="#wengen" label="#wengen" />
+      <node id="#acdcshot" label="#acdcshot" />
+      <node id="#GHA" label="#GHA" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#wcq" label="#wcq" />
+      <node id="#nhl" label="#nhl" />
+      <node id="#ThanksLD" label="#ThanksLD" />
+      <node id="#BeatLehigh" label="#BeatLehigh" />
+      <node id="#CrewSC" label="#CrewSC" />
+      <node id="#Lafayette" label="#Lafayette" />
+      <node id="#RollPards" label="#RollPards" />
+      <node id="#SochiBadDecision" label="#SochiBadDecision" />
+      <node id="#Lehigh" label="#Lehigh" />
+      <node id="#USA" label="#USA" />
+      <node id="#USAvGUA" label="#USAvGUA" />
+      <node id="#ussoccer" label="#ussoccer" />
+      <node id="#crew96" label="#crew96" />
+      <node id="#winter" label="#winter" />
+      <node id="#CostaRica" label="#CostaRica" />
+      <node id="#ForColumbus" label="#ForColumbus" />
+      <node id="#BRA" label="#BRA" />
+      <node id="#ARG" label="#ARG" />
+      <node id="#landondonovan" label="#landondonovan" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#usmnt" target="#mapfrestadium" weight="429" />
+      <edge id="1" source="#usmnt" target="#USAvGUA" weight="429" />
+      <edge id="2" source="#usmnt" target="#ussoccer" weight="429" />
+      <edge id="3" source="#usmnt" target="#wcq" weight="429" />
+      <edge id="4" source="#CLBvMTL" target="#Crew96" weight="429" />
+      <edge id="5" source="#ECU" target="#USMNT" weight="429" />
+      <edge id="6" source="#ECU" target="#URU" weight="429" />
+      <edge id="7" source="#ECU" target="#MEX" weight="429" />
+      <edge id="8" source="#ECU" target="#CHI" weight="429" />
+      <edge id="9" source="#ECU" target="#USA" weight="429" />
+      <edge id="10" source="#ECU" target="#CostaRica" weight="429" />
+      <edge id="11" source="#ECU" target="#BRA" weight="429" />
+      <edge id="12" source="#ECU" target="#ARG" weight="429" />
+      <edge id="13" source="#worldchampionships" target="#yeehaw" weight="429" />
+      <edge id="14" source="#worldchampionships" target="#vail2015" weight="858" />
+      <edge id="15" source="#worldchampionships" target="#winter" weight="858" />
+      <edge id="16" source="#Belgium" target="#England" weight="429" />
+      <edge id="17" source="#yeehaw" target="#vail2015" weight="429" />
+      <edge id="18" source="#yeehaw" target="#winter" weight="429" />
+      <edge id="19" source="#lauberhorn" target="#startbar" weight="858" />
+      <edge id="20" source="#lauberhorn" target="#Switzerland" weight="429" />
+      <edge id="21" source="#lauberhorn" target="#schuumlipfluumli" weight="429" />
+      <edge id="22" source="#lauberhorn" target="#wengen" weight="429" />
+      <edge id="23" source="#lauberhorn" target="#acdcshot" weight="429" />
+      <edge id="24" source="#lauberhorn" target="#jungfrau" weight="429" />
+      <edge id="25" source="#lauberhorn" target="#neednewliver" weight="429" />
+      <edge id="26" source="#lauberhorn" target="#Wengen" weight="429" />
+      <edge id="27" source="#lauberhorn" target="#eiger" weight="429" />
+      <edge id="28" source="#Oregon" target="#OhioState" weight="429" />
+      <edge id="29" source="#bestoftheworst" target="#hockey" weight="429" />
+      <edge id="30" source="#bestoftheworst" target="#nhl" weight="429" />
+      <edge id="31" source="#jungfrau" target="#eiger" weight="429" />
+      <edge id="32" source="#jungfrau" target="#wengen" weight="429" />
+      <edge id="33" source="#jungfrau" target="#startbar" weight="429" />
+      <edge id="34" source="#jungfrau" target="#Switzerland" weight="429" />
+      <edge id="35" source="#150Rivalry" target="#RollPards" weight="429" />
+      <edge id="36" source="#Matchday" target="#CrewSC" weight="429" />
+      <edge id="37" source="#Matchday" target="#ForColumbus" weight="429" />
+      <edge id="38" source="#Matchday" target="#Columbus" weight="429" />
+      <edge id="39" source="#eiger" target="#wengen" weight="429" />
+      <edge id="40" source="#eiger" target="#startbar" weight="429" />
+      <edge id="41" source="#eiger" target="#Switzerland" weight="429" />
+      <edge id="42" source="#Rivalry150" target="#BeatLehigh" weight="429" />
+      <edge id="43" source="#Rivalry150" target="#RollPards" weight="858" />
+      <edge id="44" source="#Rivalry150" target="#Lafayette" weight="1287" />
+      <edge id="45" source="#Rivalry150" target="#Lehigh" weight="429" />
+      <edge id="46" source="#USMNT" target="#URU" weight="429" />
+      <edge id="47" source="#USMNT" target="#MEX" weight="429" />
+      <edge id="48" source="#USMNT" target="#CHI" weight="429" />
+      <edge id="49" source="#USMNT" target="#USA" weight="429" />
+      <edge id="50" source="#USMNT" target="#USAvGUA" weight="429" />
+      <edge id="51" source="#USMNT" target="#CostaRica" weight="429" />
+      <edge id="52" source="#USMNT" target="#BRA" weight="429" />
+      <edge id="53" source="#USMNT" target="#ARG" weight="429" />
+      <edge id="54" source="#mapfrestadium" target="#ussoccer" weight="429" />
+      <edge id="55" source="#mapfrestadium" target="#wcq" weight="429" />
+      <edge id="56" source="#mapfrestadium" target="#USAvGUA" weight="429" />
+      <edge id="57" source="#Switzerland" target="#wengen" weight="429" />
+      <edge id="58" source="#Switzerland" target="#startbar" weight="429" />
+      <edge id="59" source="#MEX" target="#URU" weight="429" />
+      <edge id="60" source="#MEX" target="#CHI" weight="429" />
+      <edge id="61" source="#MEX" target="#USA" weight="429" />
+      <edge id="62" source="#MEX" target="#CostaRica" weight="429" />
+      <edge id="63" source="#MEX" target="#BRA" weight="429" />
+      <edge id="64" source="#MEX" target="#ARG" weight="429" />
+      <edge id="65" source="#schuumlipfluumli" target="#neednewliver" weight="429" />
+      <edge id="66" source="#schuumlipfluumli" target="#startbar" weight="429" />
+      <edge id="67" source="#schuumlipfluumli" target="#acdcshot" weight="429" />
+      <edge id="68" source="#CHI" target="#URU" weight="429" />
+      <edge id="69" source="#CHI" target="#USA" weight="429" />
+      <edge id="70" source="#CHI" target="#CostaRica" weight="429" />
+      <edge id="71" source="#CHI" target="#BRA" weight="429" />
+      <edge id="72" source="#CHI" target="#ARG" weight="429" />
+      <edge id="73" source="#vail2015" target="#winter" weight="858" />
+      <edge id="74" source="#neednewliver" target="#acdcshot" weight="429" />
+      <edge id="75" source="#neednewliver" target="#startbar" weight="429" />
+      <edge id="76" source="#WorldCup" target="#joy" weight="429" />
+      <edge id="77" source="#hockey" target="#nhl" weight="429" />
+      <edge id="78" source="#startbar" target="#wengen" weight="429" />
+      <edge id="79" source="#startbar" target="#acdcshot" weight="429" />
+      <edge id="80" source="#IOC" target="#SochiBadDecision" weight="429" />
+      <edge id="81" source="#California" target="#winter" weight="429" />
+      <edge id="82" source="#URU" target="#USA" weight="429" />
+      <edge id="83" source="#URU" target="#CostaRica" weight="429" />
+      <edge id="84" source="#URU" target="#BRA" weight="429" />
+      <edge id="85" source="#URU" target="#ARG" weight="429" />
+      <edge id="86" source="#GHA" target="#USA" weight="429" />
+      <edge id="87" source="#Columbus" target="#ForColumbus" weight="429" />
+      <edge id="88" source="#Columbus" target="#CrewSC" weight="429" />
+      <edge id="89" source="#wcq" target="#USAvGUA" weight="429" />
+      <edge id="90" source="#wcq" target="#ussoccer" weight="429" />
+      <edge id="91" source="#ThanksLD" target="#landondonovan" weight="429" />
+      <edge id="92" source="#ThanksLD" target="#crew96" weight="429" />
+      <edge id="93" source="#BeatLehigh" target="#Lafayette" weight="429" />
+      <edge id="94" source="#BeatLehigh" target="#RollPards" weight="429" />
+      <edge id="95" source="#CrewSC" target="#ForColumbus" weight="429" />
+      <edge id="96" source="#Lafayette" target="#RollPards" weight="858" />
+      <edge id="97" source="#Lafayette" target="#Lehigh" weight="429" />
+      <edge id="98" source="#RollPards" target="#Lehigh" weight="429" />
+      <edge id="99" source="#USA" target="#CostaRica" weight="429" />
+      <edge id="100" source="#USA" target="#BRA" weight="429" />
+      <edge id="101" source="#USA" target="#ARG" weight="429" />
+      <edge id="102" source="#USAvGUA" target="#ussoccer" weight="429" />
+      <edge id="103" source="#crew96" target="#landondonovan" weight="429" />
+      <edge id="104" source="#CostaRica" target="#BRA" weight="429" />
+      <edge id="105" source="#CostaRica" target="#ARG" weight="429" />
+      <edge id="106" source="#BRA" target="#ARG" weight="429" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#goodsport" label="#goodsport" />
+      <node id="#lostabet" label="#lostabet" />
+      <node id="#RedSox" label="#RedSox" />
+      <node id="#ThisisCLE" label="#ThisisCLE" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#Indians" label="#Indians" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#goodsport" target="#Indians" weight="3221" />
+      <edge id="1" source="#goodsport" target="#lostabet" weight="3221" />
+      <edge id="2" source="#goodsport" target="#RedSox" weight="3221" />
+      <edge id="3" source="#lostabet" target="#Indians" weight="3221" />
+      <edge id="4" source="#lostabet" target="#RedSox" weight="3221" />
+      <edge id="5" source="#RedSox" target="#Indians" weight="3221" />
+      <edge id="6" source="#ThisisCLE" target="#CLE" weight="6442" />
+    </edges>
+  </graph>
+</gexf>

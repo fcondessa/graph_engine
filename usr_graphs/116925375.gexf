@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#shortsleeveshirts" label="#shortsleeveshirts" />
+      <node id="#freegear" label="#freegear" />
+      <node id="#clintonville" label="#clintonville" />
+      <node id="#UpgradeYourAdventure" label="#UpgradeYourAdventure" />
+      <node id="#ravine" label="#ravine" />
+      <node id="#snowcave" label="#snowcave" />
+      <node id="#winterfun" label="#winterfun" />
+      <node id="#liveeasyandminimal" label="#liveeasyandminimal" />
+      <node id="#takingabreak" label="#takingabreak" />
+      <node id="#lemsshoes" label="#lemsshoes" />
+      <node id="#seneca" label="#seneca" />
+      <node id="#nighthike" label="#nighthike" />
+      <node id="#balmbar" label="#balmbar" />
+      <node id="#ElNino" label="#ElNino" />
+      <node id="#wvclimbing" label="#wvclimbing" />
+      <node id="#springgreen" label="#springgreen" />
+      <node id="#kayaking" label="#kayaking" />
+      <node id="#whereswinter" label="#whereswinter" />
+      <node id="#spring" label="#spring" />
+      <node id="#clifforiginal" label="#clifforiginal" />
+      <node id="#Wool" label="#Wool" />
+      <node id="#wintercamping" label="#wintercamping" />
+      <node id="#shopdog" label="#shopdog" />
+      <node id="#paddleboarding" label="#paddleboarding" />
+      <node id="#sunshine" label="#sunshine" />
+      <node id="#thecampfireexperience" label="#thecampfireexperience" />
+      <node id="#SuninJanuary" label="#SuninJanuary" />
+      <node id="#MerinoWool" label="#MerinoWool" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#asseenincolumbus" target="#shopdog" weight="1001" />
+      <edge id="1" source="#asseenincolumbus" target="#takingabreak" weight="1001" />
+      <edge id="2" source="#asseenincolumbus" target="#sunshine" weight="1001" />
+      <edge id="3" source="#shortsleeveshirts" target="#SuninJanuary" weight="1001" />
+      <edge id="4" source="#freegear" target="#winterfun" weight="1001" />
+      <edge id="5" source="#clintonville" target="#clifforiginal" weight="1001" />
+      <edge id="6" source="#clintonville" target="#balmbar" weight="1001" />
+      <edge id="7" source="#clintonville" target="#thecampfireexperience" weight="1001" />
+      <edge id="8" source="#clintonville" target="#nighthike" weight="1001" />
+      <edge id="9" source="#clintonville" target="#ravine" weight="1001" />
+      <edge id="10" source="#UpgradeYourAdventure" target="#Wool" weight="1001" />
+      <edge id="11" source="#UpgradeYourAdventure" target="#MerinoWool" weight="1001" />
+      <edge id="12" source="#ravine" target="#spring" weight="1001" />
+      <edge id="13" source="#ravine" target="#nighthike" weight="1001" />
+      <edge id="14" source="#ravine" target="#springgreen" weight="1001" />
+      <edge id="15" source="#snowcave" target="#wintercamping" weight="1001" />
+      <edge id="16" source="#liveeasyandminimal" target="#lemsshoes" weight="1001" />
+      <edge id="17" source="#takingabreak" target="#shopdog" weight="1001" />
+      <edge id="18" source="#takingabreak" target="#sunshine" weight="1001" />
+      <edge id="19" source="#seneca" target="#wvclimbing" weight="1001" />
+      <edge id="20" source="#balmbar" target="#clifforiginal" weight="1001" />
+      <edge id="21" source="#balmbar" target="#thecampfireexperience" weight="1001" />
+      <edge id="22" source="#ElNino" target="#whereswinter" weight="1001" />
+      <edge id="23" source="#springgreen" target="#spring" weight="1001" />
+      <edge id="24" source="#kayaking" target="#paddleboarding" weight="1001" />
+      <edge id="25" source="#clifforiginal" target="#thecampfireexperience" weight="1001" />
+      <edge id="26" source="#Wool" target="#MerinoWool" weight="1001" />
+      <edge id="27" source="#shopdog" target="#sunshine" weight="1001" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Insiders" label="#Insiders" />
+      <node id="#ChelseaExplosion" label="#ChelseaExplosion" />
+      <node id="#Elizabeth" label="#Elizabeth" />
+      <node id="#stock" label="#stock" />
+      <node id="#SougoFollow" label="#SougoFollow" />
+      <node id="#stocks" label="#stocks" />
+      <node id="#CamNewton" label="#CamNewton" />
+      <node id="#trading" label="#trading" />
+      <node id="#stocktrading" label="#stocktrading" />
+      <node id="#beyoncesucks" label="#beyoncesucks" />
+      <node id="#FOLLOW" label="#FOLLOW" />
+      <node id="#terrorist" label="#terrorist" />
+      <node id="#investing" label="#investing" />
+      <node id="#Form4" label="#Form4" />
+      <node id="#regenerativemedicine" label="#regenerativemedicine" />
+      <node id="#SuperBowlSunday" label="#SuperBowlSunday" />
+      <node id="#MGWV" label="#MGWV" />
+      <node id="#coldplaysucks" label="#coldplaysucks" />
+      <node id="#BiotechStocks" label="#BiotechStocks" />
+      <node id="#TFB" label="#TFB" />
+      <node id="#finance" label="#finance" />
+      <node id="#FOLLOWTRICK" label="#FOLLOWTRICK" />
+      <node id="#stockmarket" label="#stockmarket" />
+      <node id="#Team1Diana" label="#Team1Diana" />
+      <node id="#Biotech" label="#Biotech" />
+      <node id="#RETWEET" label="#RETWEET" />
+      <node id="#RUSH" label="#RUSH" />
+      <node id="#bobbyshmurda" label="#bobbyshmurda" />
+      <node id="#MartinShkreli" label="#MartinShkreli" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#FOLLOWBACK" label="#FOLLOWBACK" />
+      <node id="#InsiderTrading" label="#InsiderTrading" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Insiders" target="#BiotechStocks" weight="3188" />
+      <edge id="1" source="#ChelseaExplosion" target="#BREAKING" weight="3188" />
+      <edge id="2" source="#ChelseaExplosion" target="#terrorist" weight="3188" />
+      <edge id="3" source="#ChelseaExplosion" target="#Elizabeth" weight="3188" />
+      <edge id="4" source="#Elizabeth" target="#BREAKING" weight="3188" />
+      <edge id="5" source="#Elizabeth" target="#terrorist" weight="3188" />
+      <edge id="6" source="#stock" target="#stocks" weight="3188" />
+      <edge id="7" source="#stock" target="#stocktrading" weight="3188" />
+      <edge id="8" source="#SougoFollow" target="#RUSH" weight="3188" />
+      <edge id="9" source="#SougoFollow" target="#Team1Diana" weight="3188" />
+      <edge id="10" source="#SougoFollow" target="#TFB" weight="3188" />
+      <edge id="11" source="#SougoFollow" target="#MGWV" weight="3188" />
+      <edge id="12" source="#stocks" target="#stocktrading" weight="3188" />
+      <edge id="13" source="#stocks" target="#stockmarket" weight="6376" />
+      <edge id="14" source="#stocks" target="#trading" weight="3188" />
+      <edge id="15" source="#stocks" target="#finance" weight="3188" />
+      <edge id="16" source="#stocks" target="#investing" weight="3188" />
+      <edge id="17" source="#CamNewton" target="#SuperBowlSunday" weight="3188" />
+      <edge id="18" source="#trading" target="#finance" weight="3188" />
+      <edge id="19" source="#trading" target="#stockmarket" weight="3188" />
+      <edge id="20" source="#trading" target="#investing" weight="3188" />
+      <edge id="21" source="#beyoncesucks" target="#coldplaysucks" weight="3188" />
+      <edge id="22" source="#FOLLOW" target="#MGWV" weight="6376" />
+      <edge id="23" source="#FOLLOW" target="#RETWEET" weight="6376" />
+      <edge id="24" source="#FOLLOW" target="#FOLLOWTRICK" weight="6376" />
+      <edge id="25" source="#FOLLOW" target="#FOLLOWBACK" weight="6376" />
+      <edge id="26" source="#FOLLOW" target="#FOLLOW" weight="6376" />
+      <edge id="27" source="#terrorist" target="#BREAKING" weight="3188" />
+      <edge id="28" source="#investing" target="#stockmarket" weight="3188" />
+      <edge id="29" source="#investing" target="#finance" weight="3188" />
+      <edge id="30" source="#Form4" target="#InsiderTrading" weight="3188" />
+      <edge id="31" source="#regenerativemedicine" target="#Biotech" weight="3188" />
+      <edge id="32" source="#MGWV" target="#Team1Diana" weight="3188" />
+      <edge id="33" source="#MGWV" target="#RETWEET" weight="3188" />
+      <edge id="34" source="#MGWV" target="#RUSH" weight="3188" />
+      <edge id="35" source="#MGWV" target="#TFB" weight="3188" />
+      <edge id="36" source="#MGWV" target="#FOLLOWTRICK" weight="3188" />
+      <edge id="37" source="#MGWV" target="#FOLLOWBACK" weight="3188" />
+      <edge id="38" source="#TFB" target="#RUSH" weight="3188" />
+      <edge id="39" source="#TFB" target="#Team1Diana" weight="3188" />
+      <edge id="40" source="#finance" target="#stockmarket" weight="3188" />
+      <edge id="41" source="#FOLLOWTRICK" target="#RETWEET" weight="3188" />
+      <edge id="42" source="#FOLLOWTRICK" target="#FOLLOWBACK" weight="3188" />
+      <edge id="43" source="#Team1Diana" target="#RUSH" weight="3188" />
+      <edge id="44" source="#RETWEET" target="#FOLLOWBACK" weight="3188" />
+      <edge id="45" source="#bobbyshmurda" target="#MartinShkreli" weight="3188" />
+    </edges>
+  </graph>
+</gexf>

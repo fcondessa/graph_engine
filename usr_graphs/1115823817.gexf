@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#getoffmylawn" label="#getoffmylawn" />
+      <node id="#LOWD" label="#LOWD" />
+      <node id="#bearseatbeets" label="#bearseatbeets" />
+      <node id="#flyers" label="#flyers" />
+      <node id="#recluse" label="#recluse" />
+      <node id="#antisocial" label="#antisocial" />
+      <node id="#kidding" label="#kidding" />
+      <node id="#old" label="#old" />
+      <node id="#BlackBears" label="#BlackBears" />
+      <node id="#jokes" label="#jokes" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#getoffmylawn" target="#old" weight="3207" />
+      <edge id="1" source="#LOWD" target="#flyers" weight="3207" />
+      <edge id="2" source="#bearseatbeets" target="#BlackBears" weight="3207" />
+      <edge id="3" source="#recluse" target="#antisocial" weight="3207" />
+      <edge id="4" source="#kidding" target="#jokes" weight="3207" />
+    </edges>
+  </graph>
+</gexf>

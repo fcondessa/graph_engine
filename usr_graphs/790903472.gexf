@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#EE" label="#EE" />
+      <node id="#centralohionaiop" label="#centralohionaiop" />
+      <node id="#naiop" label="#naiop" />
+      <node id="#futurecougar" label="#futurecougar" />
+      <node id="#curling" label="#curling" />
+      <node id="#13000smiles" label="#13000smiles" />
+      <node id="#AdvEnergy" label="#AdvEnergy" />
+      <node id="#favoritesister" label="#favoritesister" />
+      <node id="#bootlegger" label="#bootlegger" />
+      <node id="#goeagles" label="#goeagles" />
+      <node id="#teamusa" label="#teamusa" />
+      <node id="#sochi" label="#sochi" />
+      <node id="#cofc" label="#cofc" />
+      <node id="#mvp" label="#mvp" />
+      <node id="#children" label="#children" />
+      <node id="#FullThrottleOpen" label="#FullThrottleOpen" />
+      <node id="#developingleaders" label="#developingleaders" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#EE" target="#AdvEnergy" weight="80" />
+      <edge id="1" source="#centralohionaiop" target="#developingleaders" weight="80" />
+      <edge id="2" source="#naiop" target="#curling" weight="80" />
+      <edge id="3" source="#naiop" target="#teamusa" weight="80" />
+      <edge id="4" source="#naiop" target="#developingleaders" weight="80" />
+      <edge id="5" source="#naiop" target="#sochi" weight="80" />
+      <edge id="6" source="#futurecougar" target="#cofc" weight="80" />
+      <edge id="7" source="#curling" target="#sochi" weight="80" />
+      <edge id="8" source="#curling" target="#developingleaders" weight="80" />
+      <edge id="9" source="#curling" target="#teamusa" weight="80" />
+      <edge id="10" source="#13000smiles" target="#children" weight="80" />
+      <edge id="11" source="#13000smiles" target="#FullThrottleOpen" weight="80" />
+      <edge id="12" source="#favoritesister" target="#bootlegger" weight="80" />
+      <edge id="13" source="#goeagles" target="#mvp" weight="80" />
+      <edge id="14" source="#teamusa" target="#developingleaders" weight="80" />
+      <edge id="15" source="#teamusa" target="#sochi" weight="80" />
+      <edge id="16" source="#sochi" target="#developingleaders" weight="80" />
+      <edge id="17" source="#children" target="#FullThrottleOpen" weight="80" />
+    </edges>
+  </graph>
+</gexf>

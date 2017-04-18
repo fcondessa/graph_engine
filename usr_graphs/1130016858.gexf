@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#twitterprom" label="#twitterprom" />
+      <node id="#NOSTALGIA" label="#NOSTALGIA" />
+      <node id="#TwitterProm" label="#TwitterProm" />
+      <node id="#wtf" label="#wtf" />
+      <node id="#hairball" label="#hairball" />
+      <node id="#meowj" label="#meowj" />
+      <node id="#turntablefm" label="#turntablefm" />
+      <node id="#heyboycats" label="#heyboycats" />
+      <node id="#selfie" label="#selfie" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#twitterprom" target="#wtf" weight="58" />
+      <edge id="1" source="#twitterprom" target="#meowj" weight="58" />
+      <edge id="2" source="#NOSTALGIA" target="#hairball" weight="58" />
+      <edge id="3" source="#TwitterProm" target="#turntablefm" weight="58" />
+      <edge id="4" source="#heyboycats" target="#selfie" weight="58" />
+    </edges>
+  </graph>
+</gexf>

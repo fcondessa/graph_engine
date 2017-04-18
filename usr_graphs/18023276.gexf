@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#thankyoucolumbus" label="#thankyoucolumbus" />
+      <node id="#soldout" label="#soldout" />
+      <node id="#CrewSC" label="#CrewSC" />
+      <node id="#cd1025turns25" label="#cd1025turns25" />
+      <node id="#CD1025" label="#CD1025" />
+      <node id="#rocklocal" label="#rocklocal" />
+      <node id="#BestoftheBus" label="#BestoftheBus" />
+      <node id="#CD1025Day" label="#CD1025Day" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#thankyoucolumbus" target="#CD1025Day" weight="445" />
+      <edge id="1" source="#thankyoucolumbus" target="#soldout" weight="445" />
+      <edge id="2" source="#soldout" target="#CD1025Day" weight="445" />
+      <edge id="3" source="#CrewSC" target="#CD1025" weight="445" />
+      <edge id="4" source="#cd1025turns25" target="#rocklocal" weight="445" />
+      <edge id="5" source="#CD1025" target="#BestoftheBus" weight="445" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#budget" label="#budget" />
+      <node id="#FAIL" label="#FAIL" />
+      <node id="#wackadoodle" label="#wackadoodle" />
+      <node id="#ohyay" label="#ohyay" />
+      <node id="#fairshare" label="#fairshare" />
+      <node id="#sexyface" label="#sexyface" />
+      <node id="#Lottery" label="#Lottery" />
+      <node id="#jobcreation" label="#jobcreation" />
+      <node id="#Whoops" label="#Whoops" />
+      <node id="#allsides" label="#allsides" />
+      <node id="#NBC" label="#NBC" />
+      <node id="#Budget" label="#Budget" />
+      <node id="#ohgov" label="#ohgov" />
+      <node id="#gop2012" label="#gop2012" />
+      <node id="#wosu" label="#wosu" />
+      <node id="#SB5" label="#SB5" />
+      <node id="#ohweatherwatch" label="#ohweatherwatch" />
+      <node id="#issue2" label="#issue2" />
+      <node id="#notagain" label="#notagain" />
+      <node id="#sb5" label="#sb5" />
+      <node id="#unitedamericanotdivided" label="#unitedamericanotdivided" />
+      <node id="#ohel" label="#ohel" />
+      <node id="#Igottafeeling" label="#Igottafeeling" />
+      <node id="#collective" label="#collective" />
+      <node id="#Energy" label="#Energy" />
+      <node id="#Ohiobudget" label="#Ohiobudget" />
+      <node id="#msnbc2012" label="#msnbc2012" />
+      <node id="#kasich" label="#kasich" />
+      <node id="#Wisconsin" label="#Wisconsin" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Rail" label="#Rail" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#mbr" label="#mbr" />
+      <node id="#Schools" label="#Schools" />
+      <node id="#OhioStateFair" label="#OhioStateFair" />
+      <node id="#itworksbothways" label="#itworksbothways" />
+      <node id="#Kasich" label="#Kasich" />
+      <node id="#masternegotiator" label="#masternegotiator" />
+      <node id="#isaac" label="#isaac" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#budget" target="#Kasich" weight="2083" />
+      <edge id="1" source="#FAIL" target="#Whoops" weight="2083" />
+      <edge id="2" source="#FAIL" target="#jobcreation" weight="2083" />
+      <edge id="3" source="#wackadoodle" target="#OhioStateFair" weight="2083" />
+      <edge id="4" source="#ohyay" target="#notagain" weight="2083" />
+      <edge id="5" source="#fairshare" target="#itworksbothways" weight="2083" />
+      <edge id="6" source="#sexyface" target="#sexyface" weight="4166" />
+      <edge id="7" source="#Lottery" target="#Kasich" weight="2083" />
+      <edge id="8" source="#Lottery" target="#Ohio" weight="2083" />
+      <edge id="9" source="#allsides" target="#wosu" weight="2083" />
+      <edge id="10" source="#allsides" target="#ohgov" weight="2083" />
+      <edge id="11" source="#allsides" target="#Ohio" weight="2083" />
+      <edge id="12" source="#NBC" target="#ohel" weight="2083" />
+      <edge id="13" source="#NBC" target="#msnbc2012" weight="2083" />
+      <edge id="14" source="#Budget" target="#Energy" weight="2083" />
+      <edge id="15" source="#Budget" target="#Schools" weight="2083" />
+      <edge id="16" source="#ohgov" target="#wosu" weight="2083" />
+      <edge id="17" source="#ohgov" target="#SB5" weight="2083" />
+      <edge id="18" source="#ohgov" target="#Ohio" weight="2083" />
+      <edge id="19" source="#gop2012" target="#tcot" weight="2083" />
+      <edge id="20" source="#wosu" target="#Ohio" weight="2083" />
+      <edge id="21" source="#SB5" target="#Kasich" weight="2083" />
+      <edge id="22" source="#SB5" target="#Ohio" weight="2083" />
+      <edge id="23" source="#ohweatherwatch" target="#isaac" weight="2083" />
+      <edge id="24" source="#issue2" target="#sb5" weight="2083" />
+      <edge id="25" source="#unitedamericanotdivided" target="#Igottafeeling" weight="2083" />
+      <edge id="26" source="#ohel" target="#msnbc2012" weight="2083" />
+      <edge id="27" source="#collective" target="#Wisconsin" weight="2083" />
+      <edge id="28" source="#collective" target="#Ohio" weight="2083" />
+      <edge id="29" source="#Energy" target="#Schools" weight="2083" />
+      <edge id="30" source="#Ohiobudget" target="#Ohio" weight="2083" />
+      <edge id="31" source="#kasich" target="#masternegotiator" weight="2083" />
+      <edge id="32" source="#Wisconsin" target="#Ohio" weight="2083" />
+      <edge id="33" source="#Ohio" target="#Rail" weight="2083" />
+      <edge id="34" source="#Ohio" target="#Kasich" weight="4166" />
+      <edge id="35" source="#mbr" target="#Kasich" weight="2083" />
+    </edges>
+  </graph>
+</gexf>

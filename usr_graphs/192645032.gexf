@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#dbacks" label="#dbacks" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#anaheimducks" label="#anaheimducks" />
+      <node id="#crystalpalace" label="#crystalpalace" />
+      <node id="#murray" label="#murray" />
+      <node id="#sjsharks" label="#sjsharks" />
+      <node id="#bears" label="#bears" />
+      <node id="#seahawks" label="#seahawks" />
+      <node id="#wimbledon" label="#wimbledon" />
+      <node id="#SensualBaseball" label="#SensualBaseball" />
+      <node id="#kcroyals" label="#kcroyals" />
+      <node id="#Cardinals" label="#Cardinals" />
+      <node id="#STLCards" label="#STLCards" />
+      <node id="#rockies" label="#rockies" />
+      <node id="#49ers" label="#49ers" />
+      <node id="#dodgers" label="#dodgers" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#AnaheimDucks" label="#AnaheimDucks" />
+      <node id="#pens" label="#pens" />
+      <node id="#Nuggets" label="#Nuggets" />
+      <node id="#lakings" label="#lakings" />
+      <node id="#cubs" label="#cubs" />
+      <node id="#Rockies" label="#Rockies" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#braves" label="#braves" />
+      <node id="#janowicz" label="#janowicz" />
+      <node id="#mancity" label="#mancity" />
+      <node id="#brewers" label="#brewers" />
+      <node id="#blackhawks" label="#blackhawks" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#dbacks" target="#sfgiants" weight="37" />
+      <edge id="1" source="#sfgiants" target="#rockies" weight="37" />
+      <edge id="2" source="#sfgiants" target="#braves" weight="74" />
+      <edge id="3" source="#sfgiants" target="#kcroyals" weight="37" />
+      <edge id="4" source="#sfgiants" target="#dodgers" weight="74" />
+      <edge id="5" source="#sfgiants" target="#brewers" weight="74" />
+      <edge id="6" source="#sfgiants" target="#SensualBaseball" weight="37" />
+      <edge id="7" source="#sfgiants" target="#STLCards" weight="37" />
+      <edge id="8" source="#sfgiants" target="#cubs" weight="37" />
+      <edge id="9" source="#anaheimducks" target="#sjsharks" weight="37" />
+      <edge id="10" source="#crystalpalace" target="#mancity" weight="37" />
+      <edge id="11" source="#murray" target="#wimbledon" weight="37" />
+      <edge id="12" source="#murray" target="#janowicz" weight="37" />
+      <edge id="13" source="#sjsharks" target="#pens" weight="37" />
+      <edge id="14" source="#sjsharks" target="#lakings" weight="74" />
+      <edge id="15" source="#bears" target="#49ers" weight="37" />
+      <edge id="16" source="#seahawks" target="#49ers" weight="37" />
+      <edge id="17" source="#wimbledon" target="#janowicz" weight="37" />
+      <edge id="18" source="#Cardinals" target="#SFGiants" weight="37" />
+      <edge id="19" source="#Warriors" target="#Nuggets" weight="37" />
+      <edge id="20" source="#AnaheimDucks" target="#blackhawks" weight="37" />
+      <edge id="21" source="#Rockies" target="#SFGiants" weight="37" />
+    </edges>
+  </graph>
+</gexf>

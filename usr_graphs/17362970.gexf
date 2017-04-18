@@ -1,0 +1,765 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NewYearsEve" label="#NewYearsEve" />
+      <node id="#chi12" label="#chi12" />
+      <node id="#fixthecliff" label="#fixthecliff" />
+      <node id="#spokane" label="#spokane" />
+      <node id="#chi11" label="#chi11" />
+      <node id="#Ontario" label="#Ontario" />
+      <node id="#AmeriCorps" label="#AmeriCorps" />
+      <node id="#savechcs" label="#savechcs" />
+      <node id="#sm4advocacy" label="#sm4advocacy" />
+      <node id="#CHC2011" label="#CHC2011" />
+      <node id="#Nonprofits" label="#Nonprofits" />
+      <node id="#GoRed" label="#GoRed" />
+      <node id="#HealthCare" label="#HealthCare" />
+      <node id="#CHCChat" label="#CHCChat" />
+      <node id="#Psychologist" label="#Psychologist" />
+      <node id="#SM4Advocacy" label="#SM4Advocacy" />
+      <node id="#foodsecurity" label="#foodsecurity" />
+      <node id="#breastcancer" label="#breastcancer" />
+      <node id="#QueensPark" label="#QueensPark" />
+      <node id="#MCCSM" label="#MCCSM" />
+      <node id="#WednesdayWisdom" label="#WednesdayWisdom" />
+      <node id="#CHAS20" label="#CHAS20" />
+      <node id="#nonprofit" label="#nonprofit" />
+      <node id="#Fixthecliff" label="#Fixthecliff" />
+      <node id="#chronicdisease" label="#chronicdisease" />
+      <node id="#NACHCpi" label="#NACHCpi" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#NBN" label="#NBN" />
+      <node id="#FQHCs" label="#FQHCs" />
+      <node id="#homeless" label="#homeless" />
+      <node id="#ONC" label="#ONC" />
+      <node id="#HealthReform" label="#HealthReform" />
+      <node id="#NNSW" label="#NNSW" />
+      <node id="#NACHC" label="#NACHC" />
+      <node id="#CHCcaucus" label="#CHCcaucus" />
+      <node id="#specialneeds" label="#specialneeds" />
+      <node id="#Chcadvocates" label="#Chcadvocates" />
+      <node id="#freeKonaice" label="#freeKonaice" />
+      <node id="#CHAS" label="#CHAS" />
+      <node id="#MedicaidMatters" label="#MedicaidMatters" />
+      <node id="#78000cantwait" label="#78000cantwait" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#chcs" label="#chcs" />
+      <node id="#NHCW" label="#NHCW" />
+      <node id="#AddHealth2Life" label="#AddHealth2Life" />
+      <node id="#supercommittee" label="#supercommittee" />
+      <node id="#ADayWithoutACHC" label="#ADayWithoutACHC" />
+      <node id="#ICD10" label="#ICD10" />
+      <node id="#yay" label="#yay" />
+      <node id="#Indy" label="#Indy" />
+      <node id="#closethegap" label="#closethegap" />
+      <node id="#medicaidmatters" label="#medicaidmatters" />
+      <node id="#primarycare" label="#primarycare" />
+      <node id="#Vote" label="#Vote" />
+      <node id="#NACHCpi16" label="#NACHCpi16" />
+      <node id="#petition" label="#petition" />
+      <node id="#AccessIsTheAnswer" label="#AccessIsTheAnswer" />
+      <node id="#Flip" label="#Flip" />
+      <node id="#fqhc" label="#fqhc" />
+      <node id="#fqhcs" label="#fqhcs" />
+      <node id="#nonprofits" label="#nonprofits" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#mhsm" label="#mhsm" />
+      <node id="#CHCchat" label="#CHCchat" />
+      <node id="#cdnhealth" label="#cdnhealth" />
+      <node id="#hcsmeu" label="#hcsmeu" />
+      <node id="#PublicHealth" label="#PublicHealth" />
+      <node id="#NHCW16" label="#NHCW16" />
+      <node id="#Canada" label="#Canada" />
+      <node id="#NHCW14" label="#NHCW14" />
+      <node id="#HITPol" label="#HITPol" />
+      <node id="#NHCW12" label="#NHCW12" />
+      <node id="#healthapps" label="#healthapps" />
+      <node id="#prizes" label="#prizes" />
+      <node id="#CheneyWA" label="#CheneyWA" />
+      <node id="#SGR" label="#SGR" />
+      <node id="#getcovered" label="#getcovered" />
+      <node id="#americorps" label="#americorps" />
+      <node id="#ACWeek" label="#ACWeek" />
+      <node id="#art" label="#art" />
+      <node id="#icecream" label="#icecream" />
+      <node id="#SpoCT" label="#SpoCT" />
+      <node id="#NHSCorps" label="#NHSCorps" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#chas20" label="#chas20" />
+      <node id="#NACHCchi" label="#NACHCchi" />
+      <node id="#rareawesome" label="#rareawesome" />
+      <node id="#accessistheanswer" label="#accessistheanswer" />
+      <node id="#WCSDOH" label="#WCSDOH" />
+      <node id="#ff" label="#ff" />
+      <node id="#housing" label="#housing" />
+      <node id="#chc2011" label="#chc2011" />
+      <node id="#indy" label="#indy" />
+      <node id="#medicalhome" label="#medicalhome" />
+      <node id="#askobama" label="#askobama" />
+      <node id="#Nov2" label="#Nov2" />
+      <node id="#chdi" label="#chdi" />
+      <node id="#CMHC" label="#CMHC" />
+      <node id="#service" label="#service" />
+      <node id="#WOHA" label="#WOHA" />
+      <node id="#NHCW2014" label="#NHCW2014" />
+      <node id="#NHCW2013" label="#NHCW2013" />
+      <node id="#nachcpi16" label="#nachcpi16" />
+      <node id="#FF" label="#FF" />
+      <node id="#healthreform" label="#healthreform" />
+      <node id="#WomensDay" label="#WomensDay" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#sequester" label="#sequester" />
+      <node id="#Seattle" label="#Seattle" />
+      <node id="#FQHC" label="#FQHC" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#Advocacy" label="#Advocacy" />
+      <node id="#npinchat" label="#npinchat" />
+      <node id="#sdoh" label="#sdoh" />
+      <node id="#daywithoutachc" label="#daywithoutachc" />
+      <node id="#LinkedIn" label="#LinkedIn" />
+      <node id="#HealthyChicago" label="#HealthyChicago" />
+      <node id="#Spokane" label="#Spokane" />
+      <node id="#MeaningfulUse" label="#MeaningfulUse" />
+      <node id="#AP" label="#AP" />
+      <node id="#PCMH" label="#PCMH" />
+      <node id="#save450lives" label="#save450lives" />
+      <node id="#pi12" label="#pi12" />
+      <node id="#marketplace" label="#marketplace" />
+      <node id="#CHC50" label="#CHC50" />
+      <node id="#stimulus" label="#stimulus" />
+      <node id="#Burwell" label="#Burwell" />
+      <node id="#P" label="#P" />
+      <node id="#access" label="#access" />
+      <node id="#FPCC11" label="#FPCC11" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#ARRA" label="#ARRA" />
+      <node id="#homelessness" label="#homelessness" />
+      <node id="#AAPI_ACA" label="#AAPI_ACA" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#diabetic" label="#diabetic" />
+      <node id="#HealthPromotion" label="#HealthPromotion" />
+      <node id="#volunteering" label="#volunteering" />
+      <node id="#healthvote" label="#healthvote" />
+      <node id="#NHCW15" label="#NHCW15" />
+      <node id="#nhcw" label="#nhcw" />
+      <node id="#in" label="#in" />
+      <node id="#s" label="#s" />
+      <node id="#chc" label="#chc" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#ICD10delays" label="#ICD10delays" />
+      <node id="#concert" label="#concert" />
+      <node id="#nhcw2013" label="#nhcw2013" />
+      <node id="#nachc" label="#nachc" />
+      <node id="#SDOH" label="#SDOH" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#occupyhealthcare" label="#occupyhealthcare" />
+      <node id="#idleg" label="#idleg" />
+      <node id="#NHCW11" label="#NHCW11" />
+      <node id="#IPHCA" label="#IPHCA" />
+      <node id="#teamautism" label="#teamautism" />
+      <node id="#CHCFOM" label="#CHCFOM" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#SDOHchat" label="#SDOHchat" />
+      <node id="#healthcarereform" label="#healthcarereform" />
+      <node id="#HealthCorps" label="#HealthCorps" />
+      <node id="#MLKDay" label="#MLKDay" />
+      <node id="#advocacy" label="#advocacy" />
+      <node id="#AskObama" label="#AskObama" />
+      <node id="#CHCradio" label="#CHCradio" />
+      <node id="#Toronto" label="#Toronto" />
+      <node id="#AppalachianTrail" label="#AppalachianTrail" />
+      <node id="#aca" label="#aca" />
+      <node id="#cosmicpanda" label="#cosmicpanda" />
+      <node id="#philanthropy" label="#philanthropy" />
+      <node id="#health" label="#health" />
+      <node id="#PrimaryCare" label="#PrimaryCare" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#IWD2012" label="#IWD2012" />
+      <node id="#SaveCHCs" label="#SaveCHCs" />
+      <node id="#quoteoftheday" label="#quoteoftheday" />
+      <node id="#randomfriday" label="#randomfriday" />
+      <node id="#Indianachcnews" label="#Indianachcnews" />
+      <node id="#RareDisease" label="#RareDisease" />
+      <node id="#sm" label="#sm" />
+      <node id="#INW4np" label="#INW4np" />
+      <node id="#publichealth" label="#publichealth" />
+      <node id="#FQHCresearch" label="#FQHCresearch" />
+      <node id="#mhhc" label="#mhhc" />
+      <node id="#CHI11" label="#CHI11" />
+      <node id="#inspired" label="#inspired" />
+      <node id="#fpcc11" label="#fpcc11" />
+      <node id="#flu" label="#flu" />
+      <node id="#sockittothehomeless" label="#sockittothehomeless" />
+      <node id="#SaveService" label="#SaveService" />
+      <node id="#PR" label="#PR" />
+      <node id="#arra" label="#arra" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#pharmacists" label="#pharmacists" />
+      <node id="#EastBoston" label="#EastBoston" />
+      <node id="#primary" label="#primary" />
+      <node id="#chcchat" label="#chcchat" />
+      <node id="#hc09" label="#hc09" />
+      <node id="#Erie" label="#Erie" />
+      <node id="#HeartHealth" label="#HeartHealth" />
+      <node id="#HCSM" label="#HCSM" />
+      <node id="#pcmh" label="#pcmh" />
+      <node id="#SPCC12" label="#SPCC12" />
+      <node id="#smoking" label="#smoking" />
+      <node id="#CHW2011" label="#CHW2011" />
+      <node id="#oachc2012" label="#oachc2012" />
+      <node id="#ohioconstituent" label="#ohioconstituent" />
+      <node id="#nhcw11" label="#nhcw11" />
+      <node id="#nwindiana" label="#nwindiana" />
+      <node id="#Homeless" label="#Homeless" />
+      <node id="#NHSC" label="#NHSC" />
+      <node id="#FACHC" label="#FACHC" />
+      <node id="#grassroots" label="#grassroots" />
+      <node id="#CHI" label="#CHI" />
+      <node id="#PI11" label="#PI11" />
+      <node id="#PI12" label="#PI12" />
+      <node id="#healthyeating" label="#healthyeating" />
+      <node id="#HCR" label="#HCR" />
+      <node id="#CHCsInnovate" label="#CHCsInnovate" />
+      <node id="#fmap" label="#fmap" />
+      <node id="#CHIpublichealth" label="#CHIpublichealth" />
+      <node id="#Twitterversary" label="#Twitterversary" />
+      <node id="#Farmworkers" label="#Farmworkers" />
+      <node id="#September" label="#September" />
+      <node id="#itsagoodthing" label="#itsagoodthing" />
+      <node id="#HHSGov" label="#HHSGov" />
+      <node id="#NACHCPI16" label="#NACHCPI16" />
+      <node id="#PCPs" label="#PCPs" />
+      <node id="#chcradio" label="#chcradio" />
+      <node id="#CMSGov" label="#CMSGov" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#CHC" label="#CHC" />
+      <node id="#CHI12" label="#CHI12" />
+      <node id="#FixTheCliff" label="#FixTheCliff" />
+      <node id="#chca" label="#chca" />
+      <node id="#chcfom" label="#chcfom" />
+      <node id="#nationalservice" label="#nationalservice" />
+      <node id="#hcsmct" label="#hcsmct" />
+      <node id="#MLK" label="#MLK" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#MN2020" label="#MN2020" />
+      <node id="#community" label="#community" />
+      <node id="#WAhealthplan" label="#WAhealthplan" />
+      <node id="#CHC90" label="#CHC90" />
+      <node id="#tweetup" label="#tweetup" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#hcsmca" label="#hcsmca" />
+      <node id="#NPOHC" label="#NPOHC" />
+      <node id="#CHCs" label="#CHCs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NewYearsEve" target="#Spokane" weight="3209" />
+      <edge id="1" source="#chi12" target="#healthvote" weight="3209" />
+      <edge id="2" source="#fixthecliff" target="#fqhc" weight="3209" />
+      <edge id="3" source="#spokane" target="#NHCW15" weight="3209" />
+      <edge id="4" source="#spokane" target="#NHCW14" weight="3209" />
+      <edge id="5" source="#spokane" target="#nhcw2013" weight="3209" />
+      <edge id="6" source="#spokane" target="#freeKonaice" weight="3209" />
+      <edge id="7" source="#spokane" target="#prizes" weight="3209" />
+      <edge id="8" source="#spokane" target="#getcovered" weight="6418" />
+      <edge id="9" source="#spokane" target="#concert" weight="3209" />
+      <edge id="10" source="#spokane" target="#yay" weight="3209" />
+      <edge id="11" source="#spokane" target="#chas20" weight="3209" />
+      <edge id="12" source="#spokane" target="#icecream" weight="3209" />
+      <edge id="13" source="#spokane" target="#GetCovered" weight="3209" />
+      <edge id="14" source="#chi11" target="#NHCW11" weight="3209" />
+      <edge id="15" source="#chi11" target="#fqhc" weight="22463" />
+      <edge id="16" source="#chi11" target="#SaveCHCs" weight="3209" />
+      <edge id="17" source="#chi11" target="#FQHC" weight="3209" />
+      <edge id="18" source="#chi11" target="#CHCs" weight="3209" />
+      <edge id="19" source="#chi11" target="#Medicaid" weight="3209" />
+      <edge id="20" source="#Ontario" target="#QueensPark" weight="3209" />
+      <edge id="21" source="#Ontario" target="#foodsecurity" weight="3209" />
+      <edge id="22" source="#Ontario" target="#CHC" weight="6418" />
+      <edge id="23" source="#Ontario" target="#Toronto" weight="3209" />
+      <edge id="24" source="#Ontario" target="#CHCchat" weight="3209" />
+      <edge id="25" source="#AmeriCorps" target="#fqhc" weight="6418" />
+      <edge id="26" source="#AmeriCorps" target="#FQHC" weight="6418" />
+      <edge id="27" source="#AmeriCorps" target="#Vote" weight="3209" />
+      <edge id="28" source="#AmeriCorps" target="#RareDisease" weight="3209" />
+      <edge id="29" source="#savechcs" target="#SaveCHCs" weight="3209" />
+      <edge id="30" source="#sm4advocacy" target="#fqhc" weight="3209" />
+      <edge id="31" source="#CHC2011" target="#CHC" weight="6418" />
+      <edge id="32" source="#CHC2011" target="#ff" weight="3209" />
+      <edge id="33" source="#CHC2011" target="#CHCchat" weight="48135" />
+      <edge id="34" source="#CHC2011" target="#fqhc" weight="9627" />
+      <edge id="35" source="#CHC2011" target="#CHCs" weight="12836" />
+      <edge id="36" source="#CHC2011" target="#chcchat" weight="9627" />
+      <edge id="37" source="#CHC2011" target="#hcsmeu" weight="3209" />
+      <edge id="38" source="#CHC2011" target="#Toronto" weight="3209" />
+      <edge id="39" source="#CHC2011" target="#chc" weight="3209" />
+      <edge id="40" source="#Nonprofits" target="#Nov2" weight="3209" />
+      <edge id="41" source="#Nonprofits" target="#webinar" weight="3209" />
+      <edge id="42" source="#GoRed" target="#fqhc" weight="3209" />
+      <edge id="43" source="#GoRed" target="#health" weight="3209" />
+      <edge id="44" source="#GoRed" target="#HeartHealth" weight="3209" />
+      <edge id="45" source="#HealthCare" target="#hcr" weight="3209" />
+      <edge id="46" source="#CHCChat" target="#nonprofit" weight="3209" />
+      <edge id="47" source="#CHCChat" target="#CHC" weight="6418" />
+      <edge id="48" source="#CHCChat" target="#NHCW11" weight="6418" />
+      <edge id="49" source="#CHCChat" target="#CHCs" weight="6418" />
+      <edge id="50" source="#CHCChat" target="#chcchat" weight="3209" />
+      <edge id="51" source="#CHCChat" target="#socialmedia" weight="3209" />
+      <edge id="52" source="#CHCChat" target="#mhsm" weight="3209" />
+      <edge id="53" source="#Psychologist" target="#NHSC" weight="3209" />
+      <edge id="54" source="#Psychologist" target="#CHCchat" weight="3209" />
+      <edge id="55" source="#SM4Advocacy" target="#IPHCA" weight="3209" />
+      <edge id="56" source="#SM4Advocacy" target="#Indianachcnews" weight="3209" />
+      <edge id="57" source="#foodsecurity" target="#CHC" weight="3209" />
+      <edge id="58" source="#foodsecurity" target="#Toronto" weight="3209" />
+      <edge id="59" source="#foodsecurity" target="#CHCchat" weight="3209" />
+      <edge id="60" source="#breastcancer" target="#FQHC" weight="3209" />
+      <edge id="61" source="#QueensPark" target="#CHC" weight="3209" />
+      <edge id="62" source="#MCCSM" target="#CHCchat" weight="3209" />
+      <edge id="63" source="#WednesdayWisdom" target="#FQHC" weight="3209" />
+      <edge id="64" source="#WednesdayWisdom" target="#CHCsInnovate" weight="3209" />
+      <edge id="65" source="#WednesdayWisdom" target="#CHC" weight="3209" />
+      <edge id="66" source="#CHAS20" target="#NHCW14" weight="3209" />
+      <edge id="67" source="#nonprofit" target="#fqhc" weight="3209" />
+      <edge id="68" source="#Fixthecliff" target="#fqhc" weight="3209" />
+      <edge id="69" source="#chronicdisease" target="#CHCchat" weight="3209" />
+      <edge id="70" source="#NACHCpi" target="#healthvote" weight="3209" />
+      <edge id="71" source="#NACHCpi" target="#fqhc" weight="12836" />
+      <edge id="72" source="#HIT" target="#fqhc" weight="6418" />
+      <edge id="73" source="#NBN" target="#PR" weight="3209" />
+      <edge id="74" source="#FQHCs" target="#CHI12" weight="3209" />
+      <edge id="75" source="#FQHCs" target="#CHC" weight="3209" />
+      <edge id="76" source="#FQHCs" target="#NACHCchi" weight="3209" />
+      <edge id="77" source="#FQHCs" target="#AccessIsTheAnswer" weight="3209" />
+      <edge id="78" source="#FQHCs" target="#PrimaryCare" weight="3209" />
+      <edge id="79" source="#FQHCs" target="#CHCs" weight="3209" />
+      <edge id="80" source="#FQHCs" target="#CHCchat" weight="3209" />
+      <edge id="81" source="#FQHCs" target="#NHCW2013" weight="3209" />
+      <edge id="82" source="#FQHCs" target="#Medicaid" weight="3209" />
+      <edge id="83" source="#FQHCs" target="#FixTheCliff" weight="3209" />
+      <edge id="84" source="#homeless" target="#fqhc" weight="3209" />
+      <edge id="85" source="#homeless" target="#indy" weight="3209" />
+      <edge id="86" source="#homeless" target="#Spokane" weight="6418" />
+      <edge id="87" source="#ONC" target="#MeaningfulUse" weight="3209" />
+      <edge id="88" source="#ONC" target="#HealthIT" weight="3209" />
+      <edge id="89" source="#ONC" target="#HITPol" weight="3209" />
+      <edge id="90" source="#ONC" target="#HHSGov" weight="3209" />
+      <edge id="91" source="#ONC" target="#CMSGov" weight="3209" />
+      <edge id="92" source="#HealthReform" target="#fqhc" weight="3209" />
+      <edge id="93" source="#HealthReform" target="#hcr" weight="6418" />
+      <edge id="94" source="#NNSW" target="#CHCs" weight="3209" />
+      <edge id="95" source="#NNSW" target="#CHCchat" weight="3209" />
+      <edge id="96" source="#NACHC" target="#PI11" weight="6418" />
+      <edge id="97" source="#NACHC" target="#FACHC" weight="3209" />
+      <edge id="98" source="#NACHC" target="#FQHC" weight="9627" />
+      <edge id="99" source="#NACHC" target="#tweetup" weight="6418" />
+      <edge id="100" source="#CHCcaucus" target="#fqhc" weight="3209" />
+      <edge id="101" source="#specialneeds" target="#fqhc" weight="3209" />
+      <edge id="102" source="#specialneeds" target="#rareawesome" weight="3209" />
+      <edge id="103" source="#specialneeds" target="#art" weight="3209" />
+      <edge id="104" source="#Chcadvocates" target="#fqhc" weight="3209" />
+      <edge id="105" source="#freeKonaice" target="#NHCW15" weight="3209" />
+      <edge id="106" source="#freeKonaice" target="#yay" weight="3209" />
+      <edge id="107" source="#freeKonaice" target="#prizes" weight="3209" />
+      <edge id="108" source="#CHAS" target="#WAhealthplan" weight="3209" />
+      <edge id="109" source="#CHAS" target="#GetCovered" weight="3209" />
+      <edge id="110" source="#CHAS" target="#ACA" weight="3209" />
+      <edge id="111" source="#CHAS" target="#CHC" weight="3209" />
+      <edge id="112" source="#CHAS" target="#Spokane" weight="3209" />
+      <edge id="113" source="#MedicaidMatters" target="#AskObama" weight="3209" />
+      <edge id="114" source="#MedicaidMatters" target="#fqhc" weight="12836" />
+      <edge id="115" source="#MedicaidMatters" target="#CHCs" weight="6418" />
+      <edge id="116" source="#MedicaidMatters" target="#SaveCHCs" weight="6418" />
+      <edge id="117" source="#MedicaidMatters" target="#MedicaidMatters" weight="6418" />
+      <edge id="118" source="#78000cantwait" target="#idleg" weight="6418" />
+      <edge id="119" source="#78000cantwait" target="#closethegap" weight="6418" />
+      <edge id="120" source="#GetCovered" target="#CHC" weight="3209" />
+      <edge id="121" source="#GetCovered" target="#WAhealthplan" weight="6418" />
+      <edge id="122" source="#GetCovered" target="#FQHC" weight="16045" />
+      <edge id="123" source="#GetCovered" target="#Spokane" weight="9627" />
+      <edge id="124" source="#GetCovered" target="#ACA" weight="3209" />
+      <edge id="125" source="#chcs" target="#fqhcs" weight="3209" />
+      <edge id="126" source="#chcs" target="#fqhc" weight="3209" />
+      <edge id="127" source="#chcs" target="#chcchat" weight="6418" />
+      <edge id="128" source="#chcs" target="#chc" weight="3209" />
+      <edge id="129" source="#chcs" target="#CHI11" weight="3209" />
+      <edge id="130" source="#NHCW" target="#FQHC" weight="3209" />
+      <edge id="131" source="#NHCW" target="#CHCchat" weight="9627" />
+      <edge id="132" source="#NHCW" target="#fqhc" weight="16045" />
+      <edge id="133" source="#NHCW" target="#NHCW" weight="6418" />
+      <edge id="134" source="#NHCW" target="#chcchat" weight="3209" />
+      <edge id="135" source="#AddHealth2Life" target="#CHCchat" weight="3209" />
+      <edge id="136" source="#supercommittee" target="#SaveCHCs" weight="3209" />
+      <edge id="137" source="#ADayWithoutACHC" target="#fqhc" weight="3209" />
+      <edge id="138" source="#ICD10" target="#ICD10delays" weight="3209" />
+      <edge id="139" source="#yay" target="#NHCW15" weight="3209" />
+      <edge id="140" source="#yay" target="#prizes" weight="3209" />
+      <edge id="141" source="#Indy" target="#SaveCHCs" weight="3209" />
+      <edge id="142" source="#closethegap" target="#idleg" weight="9627" />
+      <edge id="143" source="#medicaidmatters" target="#fqhc" weight="3209" />
+      <edge id="144" source="#medicaidmatters" target="#fpcc11" weight="3209" />
+      <edge id="145" source="#primarycare" target="#fqhc" weight="3209" />
+      <edge id="146" source="#Vote" target="#FQHC" weight="3209" />
+      <edge id="147" source="#NACHCpi16" target="#FQHC" weight="6418" />
+      <edge id="148" source="#NACHCpi16" target="#inspired" weight="3209" />
+      <edge id="149" source="#NACHCpi16" target="#CHC" weight="3209" />
+      <edge id="150" source="#petition" target="#service" weight="3209" />
+      <edge id="151" source="#petition" target="#FQHC" weight="3209" />
+      <edge id="152" source="#AccessIsTheAnswer" target="#FixTheCliff" weight="3209" />
+      <edge id="153" source="#Flip" target="#Flip" weight="6418" />
+      <edge id="154" source="#fqhc" target="#fqhc" weight="12836" />
+      <edge id="155" source="#fqhc" target="#rareawesome" weight="3209" />
+      <edge id="156" source="#fqhc" target="#pcmh" weight="12836" />
+      <edge id="157" source="#fqhc" target="#ff" weight="3209" />
+      <edge id="158" source="#fqhc" target="#CHCchat" weight="128360" />
+      <edge id="159" source="#fqhc" target="#NHCW16" weight="6418" />
+      <edge id="160" source="#fqhc" target="#NHCW15" weight="9627" />
+      <edge id="161" source="#fqhc" target="#NHCW12" weight="19254" />
+      <edge id="162" source="#fqhc" target="#NHCW11" weight="38508" />
+      <edge id="163" source="#fqhc" target="#americorps" weight="22463" />
+      <edge id="164" source="#fqhc" target="#ACWeek" weight="3209" />
+      <edge id="165" source="#fqhc" target="#art" weight="3209" />
+      <edge id="166" source="#fqhc" target="#NHSCorps" weight="3209" />
+      <edge id="167" source="#fqhc" target="#NACHCchi" weight="3209" />
+      <edge id="168" source="#fqhc" target="#accessistheanswer" weight="3209" />
+      <edge id="169" source="#fqhc" target="#housing" weight="3209" />
+      <edge id="170" source="#fqhc" target="#indy" weight="9627" />
+      <edge id="171" source="#fqhc" target="#healthreform" weight="16045" />
+      <edge id="172" source="#fqhc" target="#arra" weight="9627" />
+      <edge id="173" source="#fqhc" target="#NHCW2014" weight="6418" />
+      <edge id="174" source="#fqhc" target="#NHCW2013" weight="9627" />
+      <edge id="175" source="#fqhc" target="#nachcpi16" weight="9627" />
+      <edge id="176" source="#fqhc" target="#FF" weight="22463" />
+      <edge id="177" source="#fqhc" target="#medicalhome" weight="3209" />
+      <edge id="178" source="#fqhc" target="#sequester" weight="6418" />
+      <edge id="179" source="#fqhc" target="#Seattle" weight="6418" />
+      <edge id="180" source="#fqhc" target="#PCMH" weight="3209" />
+      <edge id="181" source="#fqhc" target="#hcr" weight="64180" />
+      <edge id="182" source="#fqhc" target="#Advocacy" weight="3209" />
+      <edge id="183" source="#fqhc" target="#sdoh" weight="3209" />
+      <edge id="184" source="#fqhc" target="#pi12" weight="3209" />
+      <edge id="185" source="#fqhc" target="#stimulus" weight="3209" />
+      <edge id="186" source="#fqhc" target="#P" weight="12836" />
+      <edge id="187" source="#fqhc" target="#ARRA" weight="48135" />
+      <edge id="188" source="#fqhc" target="#homelessness" weight="3209" />
+      <edge id="189" source="#fqhc" target="#jobs" weight="6418" />
+      <edge id="190" source="#fqhc" target="#HealthPromotion" weight="3209" />
+      <edge id="191" source="#fqhc" target="#healthvote" weight="41717" />
+      <edge id="192" source="#fqhc" target="#nhcw" weight="12836" />
+      <edge id="193" source="#fqhc" target="#s" weight="3209" />
+      <edge id="194" source="#fqhc" target="#Congress" weight="3209" />
+      <edge id="195" source="#fqhc" target="#philanthropy" weight="3209" />
+      <edge id="196" source="#fqhc" target="#nachc" weight="3209" />
+      <edge id="197" source="#fqhc" target="#Ohio" weight="3209" />
+      <edge id="198" source="#fqhc" target="#daywithoutachc" weight="3209" />
+      <edge id="199" source="#fqhc" target="#Spokane" weight="6418" />
+      <edge id="200" source="#fqhc" target="#HealthCorps" weight="3209" />
+      <edge id="201" source="#fqhc" target="#MLKDay" weight="3209" />
+      <edge id="202" source="#fqhc" target="#advocacy" weight="6418" />
+      <edge id="203" source="#fqhc" target="#AskObama" weight="9627" />
+      <edge id="204" source="#fqhc" target="#CHCradio" weight="6418" />
+      <edge id="205" source="#fqhc" target="#Toronto" weight="3209" />
+      <edge id="206" source="#fqhc" target="#grassroots" weight="3209" />
+      <edge id="207" source="#fqhc" target="#health" weight="12836" />
+      <edge id="208" source="#fqhc" target="#hcsm" weight="6418" />
+      <edge id="209" source="#fqhc" target="#nationalservice" weight="3209" />
+      <edge id="210" source="#fqhc" target="#SaveCHCs" weight="54553" />
+      <edge id="211" source="#fqhc" target="#chca" weight="6418" />
+      <edge id="212" source="#fqhc" target="#FPCC11" weight="9627" />
+      <edge id="213" source="#fqhc" target="#ohio" weight="9627" />
+      <edge id="214" source="#fqhc" target="#primary" weight="3209" />
+      <edge id="215" source="#fqhc" target="#HeartHealth" weight="3209" />
+      <edge id="216" source="#fqhc" target="#fpcc11" weight="6418" />
+      <edge id="217" source="#fqhc" target="#smoking" weight="3209" />
+      <edge id="218" source="#fqhc" target="#Farmworkers" weight="3209" />
+      <edge id="219" source="#fqhc" target="#ohioconstituent" weight="3209" />
+      <edge id="220" source="#fqhc" target="#CHC" weight="86643" />
+      <edge id="221" source="#fqhc" target="#nwindiana" weight="3209" />
+      <edge id="222" source="#fqhc" target="#PI11" weight="19254" />
+      <edge id="223" source="#fqhc" target="#HCR" weight="19254" />
+      <edge id="224" source="#fqhc" target="#oachc2012" weight="6418" />
+      <edge id="225" source="#fqhc" target="#chc" weight="35299" />
+      <edge id="226" source="#fqhc" target="#itsagoodthing" weight="3209" />
+      <edge id="227" source="#fqhc" target="#healthcare" weight="3209" />
+      <edge id="228" source="#fqhc" target="#chcradio" weight="16045" />
+      <edge id="229" source="#fqhc" target="#CHI12" weight="6418" />
+      <edge id="230" source="#fqhc" target="#FixTheCliff" weight="3209" />
+      <edge id="231" source="#fqhc" target="#CHI11" weight="6418" />
+      <edge id="232" source="#fqhc" target="#SGR" weight="3209" />
+      <edge id="233" source="#fqhc" target="#SPCC12" weight="6418" />
+      <edge id="234" source="#fqhc" target="#MLK" weight="3209" />
+      <edge id="235" source="#fqhc" target="#EHR" weight="3209" />
+      <edge id="236" source="#fqhc" target="#ACA" weight="6418" />
+      <edge id="237" source="#fqhc" target="#MN2020" weight="3209" />
+      <edge id="238" source="#fqhc" target="#NPOHC" weight="3209" />
+      <edge id="239" source="#fqhc" target="#CHCs" weight="32090" />
+      <edge id="240" source="#fqhcs" target="#NHCW2013" weight="3209" />
+      <edge id="241" source="#fqhcs" target="#CHI11" weight="3209" />
+      <edge id="242" source="#fqhcs" target="#chcfom" weight="3209" />
+      <edge id="243" source="#fqhcs" target="#CHCchat" weight="19254" />
+      <edge id="244" source="#fqhcs" target="#CHCs" weight="6418" />
+      <edge id="245" source="#nonprofits" target="#CHCs" weight="3209" />
+      <edge id="246" source="#FollowFriday" target="#healthcare" weight="3209" />
+      <edge id="247" source="#mhsm" target="#CHC" weight="3209" />
+      <edge id="248" source="#CHCchat" target="#pharmacists" weight="3209" />
+      <edge id="249" source="#CHCchat" target="#diabetic" weight="3209" />
+      <edge id="250" source="#CHCchat" target="#NHCW12" weight="22463" />
+      <edge id="251" source="#CHCchat" target="#NHCW11" weight="3209" />
+      <edge id="252" source="#CHCchat" target="#SCOTUS" weight="6418" />
+      <edge id="253" source="#CHCchat" target="#HealthPromotion" weight="3209" />
+      <edge id="254" source="#CHCchat" target="#homelessness" weight="3209" />
+      <edge id="255" source="#CHCchat" target="#community" weight="3209" />
+      <edge id="256" source="#CHCchat" target="#smoking" weight="9627" />
+      <edge id="257" source="#CHCchat" target="#SDOH" weight="16045" />
+      <edge id="258" source="#CHCchat" target="#CHC" weight="160450" />
+      <edge id="259" source="#CHCchat" target="#NHSC" weight="3209" />
+      <edge id="260" source="#CHCchat" target="#primary" weight="3209" />
+      <edge id="261" source="#CHCchat" target="#SDOHchat" weight="22463" />
+      <edge id="262" source="#CHCchat" target="#WCSDOH" weight="12836" />
+      <edge id="263" source="#CHCchat" target="#housing" weight="6418" />
+      <edge id="264" source="#CHCchat" target="#health" weight="3209" />
+      <edge id="265" source="#CHCchat" target="#healthcare" weight="3209" />
+      <edge id="266" source="#CHCchat" target="#Toronto" weight="3209" />
+      <edge id="267" source="#CHCchat" target="#WOHA" weight="3209" />
+      <edge id="268" source="#CHCchat" target="#CHW2011" weight="6418" />
+      <edge id="269" source="#CHCchat" target="#cosmicpanda" weight="3209" />
+      <edge id="270" source="#CHCchat" target="#FF" weight="6418" />
+      <edge id="271" source="#CHCchat" target="#WomensDay" weight="3209" />
+      <edge id="272" source="#CHCchat" target="#PCPs" weight="3209" />
+      <edge id="273" source="#CHCchat" target="#hcsm" weight="3209" />
+      <edge id="274" source="#CHCchat" target="#PCMH" weight="6418" />
+      <edge id="275" source="#CHCchat" target="#sdoh" weight="6418" />
+      <edge id="276" source="#CHCchat" target="#sm" weight="6418" />
+      <edge id="277" source="#CHCchat" target="#FQHC" weight="16045" />
+      <edge id="278" source="#CHCchat" target="#ACA" weight="3209" />
+      <edge id="279" source="#CHCchat" target="#CHCchat" weight="77016" />
+      <edge id="280" source="#CHCchat" target="#cdnhealth" weight="6418" />
+      <edge id="281" source="#CHCchat" target="#hcsmca" weight="6418" />
+      <edge id="282" source="#CHCchat" target="#IWD2012" weight="3209" />
+      <edge id="283" source="#CHCchat" target="#CHCs" weight="218212" />
+      <edge id="284" source="#cdnhealth" target="#hcsm" weight="3209" />
+      <edge id="285" source="#cdnhealth" target="#hcsmca" weight="6418" />
+      <edge id="286" source="#cdnhealth" target="#CHC" weight="6418" />
+      <edge id="287" source="#hcsmeu" target="#CHCs" weight="3209" />
+      <edge id="288" source="#hcsmeu" target="#hcsm" weight="3209" />
+      <edge id="289" source="#PublicHealth" target="#HealthyChicago" weight="3209" />
+      <edge id="290" source="#PublicHealth" target="#CHCs" weight="3209" />
+      <edge id="291" source="#NHCW16" target="#CheneyWA" weight="3209" />
+      <edge id="292" source="#NHCW16" target="#Spokane" weight="9627" />
+      <edge id="293" source="#Canada" target="#FQHC" weight="3209" />
+      <edge id="294" source="#Canada" target="#health" weight="3209" />
+      <edge id="295" source="#Canada" target="#CHCs" weight="3209" />
+      <edge id="296" source="#Canada" target="#Toronto" weight="6418" />
+      <edge id="297" source="#NHCW14" target="#chas20" weight="3209" />
+      <edge id="298" source="#HITPol" target="#MeaningfulUse" weight="3209" />
+      <edge id="299" source="#HITPol" target="#HealthIT" weight="3209" />
+      <edge id="300" source="#HITPol" target="#HHSGov" weight="3209" />
+      <edge id="301" source="#HITPol" target="#CMSGov" weight="3209" />
+      <edge id="302" source="#NHCW12" target="#SCOTUS" weight="3209" />
+      <edge id="303" source="#NHCW12" target="#healthvote" weight="9627" />
+      <edge id="304" source="#NHCW12" target="#chcchat" weight="6418" />
+      <edge id="305" source="#NHCW12" target="#ACA" weight="3209" />
+      <edge id="306" source="#NHCW12" target="#CHCs" weight="3209" />
+      <edge id="307" source="#healthapps" target="#chdi" weight="3209" />
+      <edge id="308" source="#prizes" target="#NHCW15" weight="3209" />
+      <edge id="309" source="#americorps" target="#MLKDay" weight="3209" />
+      <edge id="310" source="#americorps" target="#ACWeek" weight="3209" />
+      <edge id="311" source="#americorps" target="#nationalservice" weight="3209" />
+      <edge id="312" source="#ACWeek" target="#FQHC" weight="3209" />
+      <edge id="313" source="#ACWeek" target="#nationalservice" weight="3209" />
+      <edge id="314" source="#art" target="#rareawesome" weight="3209" />
+      <edge id="315" source="#icecream" target="#concert" weight="3209" />
+      <edge id="316" source="#SpoCT" target="#Spokane" weight="6418" />
+      <edge id="317" source="#SpoCT" target="#sockittothehomeless" weight="6418" />
+      <edge id="318" source="#webinar" target="#Nov2" weight="3209" />
+      <edge id="319" source="#NACHCchi" target="#marketplace" weight="3209" />
+      <edge id="320" source="#NACHCchi" target="#Erie" weight="3209" />
+      <edge id="321" source="#NACHCchi" target="#NHCW2013" weight="3209" />
+      <edge id="322" source="#NACHCchi" target="#access" weight="3209" />
+      <edge id="323" source="#NACHCchi" target="#CHI" weight="3209" />
+      <edge id="324" source="#NACHCchi" target="#ACA" weight="3209" />
+      <edge id="325" source="#NACHCchi" target="#healthcare" weight="3209" />
+      <edge id="326" source="#NACHCchi" target="#CHIpublichealth" weight="3209" />
+      <edge id="327" source="#NACHCchi" target="#CHCs" weight="3209" />
+      <edge id="328" source="#WCSDOH" target="#SDOHchat" weight="12836" />
+      <edge id="329" source="#WCSDOH" target="#SDOH" weight="6418" />
+      <edge id="330" source="#ff" target="#ff" weight="6418" />
+      <edge id="331" source="#housing" target="#homelessness" weight="3209" />
+      <edge id="332" source="#housing" target="#CHC" weight="3209" />
+      <edge id="333" source="#housing" target="#CHCs" weight="3209" />
+      <edge id="334" source="#chc2011" target="#CHC" weight="6418" />
+      <edge id="335" source="#chc2011" target="#CHCs" weight="3209" />
+      <edge id="336" source="#askobama" target="#FQHC" weight="3209" />
+      <edge id="337" source="#CMHC" target="#LinkedIn" weight="3209" />
+      <edge id="338" source="#CMHC" target="#FQHC" weight="3209" />
+      <edge id="339" source="#CMHC" target="#CHC" weight="3209" />
+      <edge id="340" source="#service" target="#FQHC" weight="3209" />
+      <edge id="341" source="#WOHA" target="#CHCs" weight="3209" />
+      <edge id="342" source="#NHCW2013" target="#Spokane" weight="9627" />
+      <edge id="343" source="#NHCW2013" target="#Homeless" weight="3209" />
+      <edge id="344" source="#NHCW2013" target="#healthcare" weight="3209" />
+      <edge id="345" source="#nachcpi16" target="#FQHC" weight="3209" />
+      <edge id="346" source="#FF" target="#CHC" weight="3209" />
+      <edge id="347" source="#FF" target="#NHCW11" weight="3209" />
+      <edge id="348" source="#FF" target="#health" weight="3209" />
+      <edge id="349" source="#FF" target="#pi12" weight="3209" />
+      <edge id="350" source="#FF" target="#community" weight="3209" />
+      <edge id="351" source="#FF" target="#healthcare" weight="3209" />
+      <edge id="352" source="#healthreform" target="#hcr" weight="9627" />
+      <edge id="353" source="#WomensDay" target="#CHC" weight="3209" />
+      <edge id="354" source="#HealthIT" target="#MeaningfulUse" weight="3209" />
+      <edge id="355" source="#HealthIT" target="#CMSGov" weight="3209" />
+      <edge id="356" source="#HealthIT" target="#HHSGov" weight="3209" />
+      <edge id="357" source="#Seattle" target="#daywithoutachc" weight="3209" />
+      <edge id="358" source="#Seattle" target="#SaveCHCs" weight="3209" />
+      <edge id="359" source="#FQHC" target="#pharmacists" weight="3209" />
+      <edge id="360" source="#FQHC" target="#diabetic" weight="3209" />
+      <edge id="361" source="#FQHC" target="#EastBoston" weight="6418" />
+      <edge id="362" source="#FQHC" target="#AAPI_ACA" weight="3209" />
+      <edge id="363" source="#FQHC" target="#SaveCHCs" weight="3209" />
+      <edge id="364" source="#FQHC" target="#HCSM" weight="3209" />
+      <edge id="365" source="#FQHC" target="#smoking" weight="3209" />
+      <edge id="366" source="#FQHC" target="#CHC" weight="12836" />
+      <edge id="367" source="#FQHC" target="#Spokane" weight="6418" />
+      <edge id="368" source="#FQHC" target="#WAhealthplan" weight="3209" />
+      <edge id="369" source="#FQHC" target="#Burwell" weight="3209" />
+      <edge id="370" source="#FQHC" target="#healthyeating" weight="3209" />
+      <edge id="371" source="#FQHC" target="#health" weight="6418" />
+      <edge id="372" source="#FQHC" target="#advocacy" weight="3209" />
+      <edge id="373" source="#FQHC" target="#AskObama" weight="6418" />
+      <edge id="374" source="#FQHC" target="#CHCsInnovate" weight="3209" />
+      <edge id="375" source="#FQHC" target="#Toronto" weight="3209" />
+      <edge id="376" source="#FQHC" target="#ARRA" weight="9627" />
+      <edge id="377" source="#FQHC" target="#PCPs" weight="3209" />
+      <edge id="378" source="#FQHC" target="#PrimaryCare" weight="3209" />
+      <edge id="379" source="#FQHC" target="#NACHCPI16" weight="3209" />
+      <edge id="380" source="#FQHC" target="#ACA" weight="6418" />
+      <edge id="381" source="#FQHC" target="#RareDisease" weight="6418" />
+      <edge id="382" source="#FQHC" target="#LinkedIn" weight="3209" />
+      <edge id="383" source="#FQHC" target="#CHI12" weight="3209" />
+      <edge id="384" source="#FQHC" target="#FQHCresearch" weight="3209" />
+      <edge id="385" source="#FQHC" target="#mhhc" weight="3209" />
+      <edge id="386" source="#FQHC" target="#FACHC" weight="3209" />
+      <edge id="387" source="#FQHC" target="#CHC50" weight="3209" />
+      <edge id="388" source="#FQHC" target="#September" weight="3209" />
+      <edge id="389" source="#FQHC" target="#CHCs" weight="19254" />
+      <edge id="390" source="#hcr" target="#Ohio" weight="3209" />
+      <edge id="391" source="#hcr" target="#hc09" weight="3209" />
+      <edge id="392" source="#hcr" target="#AP" weight="3209" />
+      <edge id="393" source="#hcr" target="#healthcarereform" weight="3209" />
+      <edge id="394" source="#hcr" target="#aca" weight="3209" />
+      <edge id="395" source="#hcr" target="#health" weight="6418" />
+      <edge id="396" source="#hcr" target="#ACA" weight="3209" />
+      <edge id="397" source="#hcr" target="#chcradio" weight="3209" />
+      <edge id="398" source="#hcr" target="#CHCs" weight="3209" />
+      <edge id="399" source="#npinchat" target="#chcchat" weight="3209" />
+      <edge id="400" source="#LinkedIn" target="#volunteering" weight="3209" />
+      <edge id="401" source="#LinkedIn" target="#CHC" weight="3209" />
+      <edge id="402" source="#HealthyChicago" target="#CHCs" weight="3209" />
+      <edge id="403" source="#Spokane" target="#INW4np" weight="3209" />
+      <edge id="404" source="#Spokane" target="#CHC" weight="3209" />
+      <edge id="405" source="#Spokane" target="#WAhealthplan" weight="3209" />
+      <edge id="406" source="#Spokane" target="#NHCW15" weight="12836" />
+      <edge id="407" source="#Spokane" target="#Homeless" weight="9627" />
+      <edge id="408" source="#Spokane" target="#ACA" weight="3209" />
+      <edge id="409" source="#Spokane" target="#sockittothehomeless" weight="3209" />
+      <edge id="410" source="#MeaningfulUse" target="#HHSGov" weight="3209" />
+      <edge id="411" source="#MeaningfulUse" target="#CMSGov" weight="3209" />
+      <edge id="412" source="#PCMH" target="#hcsm" weight="3209" />
+      <edge id="413" source="#PCMH" target="#chcchat" weight="3209" />
+      <edge id="414" source="#save450lives" target="#idleg" weight="3209" />
+      <edge id="415" source="#pi12" target="#quoteoftheday" weight="3209" />
+      <edge id="416" source="#marketplace" target="#Erie" weight="3209" />
+      <edge id="417" source="#marketplace" target="#access" weight="3209" />
+      <edge id="418" source="#marketplace" target="#healthcare" weight="3209" />
+      <edge id="419" source="#Burwell" target="#CHCs" weight="3209" />
+      <edge id="420" source="#P" target="#P" weight="6418" />
+      <edge id="421" source="#access" target="#Erie" weight="3209" />
+      <edge id="422" source="#access" target="#healthcare" weight="3209" />
+      <edge id="423" source="#FPCC11" target="#in" weight="6418" />
+      <edge id="424" source="#FPCC11" target="#FPCC11" weight="6418" />
+      <edge id="425" source="#healthcare" target="#Erie" weight="3209" />
+      <edge id="426" source="#healthcare" target="#health" weight="3209" />
+      <edge id="427" source="#healthcare" target="#community" weight="3209" />
+      <edge id="428" source="#ARRA" target="#EastBoston" weight="3209" />
+      <edge id="429" source="#ARRA" target="#chcchat" weight="3209" />
+      <edge id="430" source="#homelessness" target="#CHC" weight="3209" />
+      <edge id="431" source="#jobs" target="#jobs" weight="6418" />
+      <edge id="432" source="#diabetic" target="#pharmacists" weight="3209" />
+      <edge id="433" source="#diabetic" target="#PCPs" weight="3209" />
+      <edge id="434" source="#chc" target="#HCR" weight="3209" />
+      <edge id="435" source="#SDOH" target="#SDOHchat" weight="9627" />
+      <edge id="436" source="#SDOH" target="#CHCs" weight="6418" />
+      <edge id="437" source="#occupyhealthcare" target="#chcchat" weight="3209" />
+      <edge id="438" source="#NHCW11" target="#NHCW11" weight="6418" />
+      <edge id="439" source="#NHCW11" target="#CHCs" weight="3209" />
+      <edge id="440" source="#IPHCA" target="#Indianachcnews" weight="3209" />
+      <edge id="441" source="#teamautism" target="#teamautism" weight="6418" />
+      <edge id="442" source="#CHCFOM" target="#PI12" weight="6418" />
+      <edge id="443" source="#SCOTUS" target="#ACA" weight="3209" />
+      <edge id="444" source="#SCOTUS" target="#CHCs" weight="3209" />
+      <edge id="445" source="#SDOHchat" target="#CHCs" weight="3209" />
+      <edge id="446" source="#advocacy" target="#SaveCHCs" weight="3209" />
+      <edge id="447" source="#AskObama" target="#SaveCHCs" weight="6418" />
+      <edge id="448" source="#AskObama" target="#ACA" weight="3209" />
+      <edge id="449" source="#AskObama" target="#HCR" weight="3209" />
+      <edge id="450" source="#CHCradio" target="#chcradio" weight="9627" />
+      <edge id="451" source="#CHCradio" target="#CHC" weight="6418" />
+      <edge id="452" source="#Toronto" target="#CHC" weight="6418" />
+      <edge id="453" source="#Toronto" target="#health" weight="3209" />
+      <edge id="454" source="#Toronto" target="#CHCs" weight="3209" />
+      <edge id="455" source="#AppalachianTrail" target="#Homeless" weight="3209" />
+      <edge id="456" source="#aca" target="#CHCs" weight="3209" />
+      <edge id="457" source="#health" target="#pcmh" weight="3209" />
+      <edge id="458" source="#health" target="#HeartHealth" weight="3209" />
+      <edge id="459" source="#health" target="#community" weight="3209" />
+      <edge id="460" source="#health" target="#CHCs" weight="6418" />
+      <edge id="461" source="#PrimaryCare" target="#CHI12" weight="3209" />
+      <edge id="462" source="#PrimaryCare" target="#ACA" weight="3209" />
+      <edge id="463" source="#hcsm" target="#CHC" weight="3209" />
+      <edge id="464" source="#hcsm" target="#nhcw11" weight="3209" />
+      <edge id="465" source="#hcsm" target="#hcsmca" weight="3209" />
+      <edge id="466" source="#SaveCHCs" target="#CHC" weight="9627" />
+      <edge id="467" source="#randomfriday" target="#Twitterversary" weight="3209" />
+      <edge id="468" source="#RareDisease" target="#September" weight="3209" />
+      <edge id="469" source="#sm" target="#CHCs" weight="6418" />
+      <edge id="470" source="#INW4np" target="#Homeless" weight="3209" />
+      <edge id="471" source="#publichealth" target="#flu" weight="3209" />
+      <edge id="472" source="#CHI11" target="#CHI11" weight="6418" />
+      <edge id="473" source="#CHI11" target="#CHC" weight="3209" />
+      <edge id="474" source="#inspired" target="#CHC" weight="3209" />
+      <edge id="475" source="#SaveService" target="#grassroots" weight="3209" />
+      <edge id="476" source="#ohio" target="#fmap" weight="3209" />
+      <edge id="477" source="#pharmacists" target="#PCPs" weight="3209" />
+      <edge id="478" source="#chcchat" target="#hcsmct" weight="3209" />
+      <edge id="479" source="#chcchat" target="#CHCs" weight="3209" />
+      <edge id="480" source="#chcchat" target="#CHC" weight="16045" />
+      <edge id="481" source="#pcmh" target="#PI11" weight="3209" />
+      <edge id="482" source="#pcmh" target="#chcradio" weight="3209" />
+      <edge id="483" source="#smoking" target="#CHCs" weight="3209" />
+      <edge id="484" source="#CHW2011" target="#CHW2011" weight="6418" />
+      <edge id="485" source="#PI11" target="#tweetup" weight="6418" />
+      <edge id="486" source="#PI11" target="#ACA" weight="3209" />
+      <edge id="487" source="#PI12" target="#PI12" weight="6418" />
+      <edge id="488" source="#HCR" target="#ACA" weight="3209" />
+      <edge id="489" source="#CHCsInnovate" target="#CHC" weight="3209" />
+      <edge id="490" source="#HHSGov" target="#CMSGov" weight="3209" />
+      <edge id="491" source="#chcradio" target="#chcradio" weight="12836" />
+      <edge id="492" source="#chcradio" target="#CHC" weight="12836" />
+      <edge id="493" source="#chcradio" target="#CHCs" weight="3209" />
+      <edge id="494" source="#socialmedia" target="#CHCs" weight="3209" />
+      <edge id="495" source="#CHC" target="#CHC" weight="6418" />
+      <edge id="496" source="#CHC" target="#WAhealthplan" weight="3209" />
+      <edge id="497" source="#CHC" target="#CHCs" weight="6418" />
+      <edge id="498" source="#CHC" target="#ACA" weight="3209" />
+      <edge id="499" source="#CHC" target="#Medicaid" weight="3209" />
+      <edge id="500" source="#CHC" target="#hcsmca" weight="3209" />
+      <edge id="501" source="#ACA" target="#WAhealthplan" weight="3209" />
+      <edge id="502" source="#ACA" target="#CHCs" weight="3209" />
+      <edge id="503" source="#CHC90" target="#CHCs" weight="3209" />
+      <edge id="504" source="#hcsmca" target="#CHCs" weight="3209" />
+      <edge id="505" source="#CHCs" target="#CHCs" weight="19254" />
+    </edges>
+  </graph>
+</gexf>

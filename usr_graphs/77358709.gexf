@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#organicfood" label="#organicfood" />
+      <node id="#csa" label="#csa" />
+      <node id="#pasturedmeats" label="#pasturedmeats" />
+      <node id="#localfood" label="#localfood" />
+      <node id="#farmer" label="#farmer" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#organicfood" target="#csa" weight="448" />
+      <edge id="1" source="#organicfood" target="#localfood" weight="448" />
+      <edge id="2" source="#organicfood" target="#pasturedmeats" weight="448" />
+      <edge id="3" source="#organicfood" target="#farmer" weight="448" />
+      <edge id="4" source="#csa" target="#localfood" weight="448" />
+      <edge id="5" source="#csa" target="#pasturedmeats" weight="448" />
+      <edge id="6" source="#csa" target="#farmer" weight="448" />
+      <edge id="7" source="#pasturedmeats" target="#localfood" weight="448" />
+      <edge id="8" source="#pasturedmeats" target="#farmer" weight="448" />
+      <edge id="9" source="#localfood" target="#farmer" weight="448" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BrainTumorAwarenessMonth" label="#BrainTumorAwarenessMonth" />
+      <node id="#CaringforOurOwn" label="#CaringforOurOwn" />
+      <node id="#Buckeye" label="#Buckeye" />
+      <node id="#Healthy" label="#Healthy" />
+      <node id="#prematurity" label="#prematurity" />
+      <node id="#OSUGrad" label="#OSUGrad" />
+      <node id="#hearthealth" label="#hearthealth" />
+      <node id="#BeatMichigan" label="#BeatMichigan" />
+      <node id="#behavioral" label="#behavioral" />
+      <node id="#Congress" label="#Congress" />
+      <node id="#OSUgrad" label="#OSUgrad" />
+      <node id="#TriFitChallenge" label="#TriFitChallenge" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#OHCollab" label="#OHCollab" />
+      <node id="#Match2013" label="#Match2013" />
+      <node id="#TriFit101" label="#TriFit101" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#quitsmoking" label="#quitsmoking" />
+      <node id="#OrganDonation" label="#OrganDonation" />
+      <node id="#research" label="#research" />
+      <node id="#NewWexMedSite" label="#NewWexMedSite" />
+      <node id="#women" label="#women" />
+      <node id="#cmcforum" label="#cmcforum" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#OHsots" label="#OHsots" />
+      <node id="#Diabetes" label="#Diabetes" />
+      <node id="#Quality" label="#Quality" />
+      <node id="#PatientSatisfaction" label="#PatientSatisfaction" />
+      <node id="#ValentinesDay" label="#ValentinesDay" />
+      <node id="#health" label="#health" />
+      <node id="#Hokies" label="#Hokies" />
+      <node id="#OSUCOM100" label="#OSUCOM100" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#NWHW" label="#NWHW" />
+      <node id="#gds12" label="#gds12" />
+      <node id="#HeartHealth" label="#HeartHealth" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#buckeyehearts" label="#buckeyehearts" />
+      <node id="#SandyHook" label="#SandyHook" />
+      <node id="#pain" label="#pain" />
+      <node id="#OSUWexMed" label="#OSUWexMed" />
+      <node id="#OSUMatch" label="#OSUMatch" />
+      <node id="#GoRed" label="#GoRed" />
+      <node id="#StateofMed" label="#StateofMed" />
+      <node id="#BuckeyeHearts" label="#BuckeyeHearts" />
+      <node id="#headaches" label="#headaches" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BrainTumorAwarenessMonth" target="#DidYouKnow" weight="140" />
+      <edge id="1" source="#CaringforOurOwn" target="#Thanksgiving" weight="140" />
+      <edge id="2" source="#Buckeye" target="#BeatMichigan" weight="140" />
+      <edge id="3" source="#Buckeye" target="#buckeyehearts" weight="140" />
+      <edge id="4" source="#Buckeye" target="#GoBucks" weight="140" />
+      <edge id="5" source="#Healthy" target="#Thanksgiving" weight="140" />
+      <edge id="6" source="#prematurity" target="#OHCollab" weight="140" />
+      <edge id="7" source="#OSUGrad" target="#OSUCOM100" weight="140" />
+      <edge id="8" source="#hearthealth" target="#quitsmoking" weight="140" />
+      <edge id="9" source="#BeatMichigan" target="#GoBucks" weight="140" />
+      <edge id="10" source="#behavioral" target="#SandyHook" weight="140" />
+      <edge id="11" source="#Congress" target="#Obama" weight="140" />
+      <edge id="12" source="#Congress" target="#hcr" weight="140" />
+      <edge id="13" source="#OSUgrad" target="#OSUCOM100" weight="140" />
+      <edge id="14" source="#TriFitChallenge" target="#TriFit101" weight="140" />
+      <edge id="15" source="#OHCollab" target="#research" weight="140" />
+      <edge id="16" source="#Match2013" target="#OSUMatch" weight="140" />
+      <edge id="17" source="#Ohio" target="#Medicaid" weight="140" />
+      <edge id="18" source="#OrganDonation" target="#Buckeyes" weight="140" />
+      <edge id="19" source="#NewWexMedSite" target="#OSUWexMed" weight="140" />
+      <edge id="20" source="#women" target="#NWHW" weight="140" />
+      <edge id="21" source="#cmcforum" target="#cancer" weight="140" />
+      <edge id="22" source="#cmcforum" target="#health" weight="140" />
+      <edge id="23" source="#cancer" target="#Buckeyes" weight="140" />
+      <edge id="24" source="#cancer" target="#health" weight="140" />
+      <edge id="25" source="#Obama" target="#hcr" weight="140" />
+      <edge id="26" source="#OHsots" target="#Medicaid" weight="140" />
+      <edge id="27" source="#Diabetes" target="#gds12" weight="140" />
+      <edge id="28" source="#Quality" target="#PatientSatisfaction" weight="140" />
+      <edge id="29" source="#ValentinesDay" target="#HeartHealth" weight="140" />
+      <edge id="30" source="#Hokies" target="#GoBucks" weight="140" />
+      <edge id="31" source="#healthcare" target="#StateofMed" weight="140" />
+      <edge id="32" source="#pain" target="#headaches" weight="140" />
+      <edge id="33" source="#GoRed" target="#BuckeyeHearts" weight="140" />
+    </edges>
+  </graph>
+</gexf>

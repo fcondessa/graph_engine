@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#career" label="#career" />
+      <node id="#cx" label="#cx" />
+      <node id="#custserv" label="#custserv" />
+      <node id="#Leadership" label="#Leadership" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#Communication" label="#Communication" />
+      <node id="#leadership" label="#leadership" />
+      <node id="#PeopleSkills" label="#PeopleSkills" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#career" target="#innovation" weight="3234" />
+      <edge id="1" source="#career" target="#leadership" weight="3234" />
+      <edge id="2" source="#cx" target="#custserv" weight="6468" />
+      <edge id="3" source="#custserv" target="#leadership" weight="3234" />
+      <edge id="4" source="#Leadership" target="#Communication" weight="3234" />
+      <edge id="5" source="#leadership" target="#PeopleSkills" weight="3234" />
+    </edges>
+  </graph>
+</gexf>

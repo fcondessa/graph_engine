@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#takeonhate" label="#takeonhate" />
+      <node id="#hatehurts" label="#hatehurts" />
+      <node id="#TyreeKing" label="#TyreeKing" />
+      <node id="#Beyoncé" label="#Beyoncé" />
+      <node id="#BlackGirlMagic" label="#BlackGirlMagic" />
+      <node id="#FalconHeightsShooting" label="#FalconHeightsShooting" />
+      <node id="#SandraBland" label="#SandraBland" />
+      <node id="#AltheaGibson" label="#AltheaGibson" />
+      <node id="#TerenceCrutcher" label="#TerenceCrutcher" />
+      <node id="#Empire" label="#Empire" />
+      <node id="#USA" label="#USA" />
+      <node id="#KeithLamontScott" label="#KeithLamontScott" />
+      <node id="#ThreeJordans" label="#ThreeJordans" />
+      <node id="#KuntasKin" label="#KuntasKin" />
+      <node id="#PhilandoCastile" label="#PhilandoCastile" />
+      <node id="#OnThisDay" label="#OnThisDay" />
+      <node id="#Roots" label="#Roots" />
+      <node id="#sayhername" label="#sayhername" />
+      <node id="#orangelucious" label="#orangelucious" />
+      <node id="#Louisiana" label="#Louisiana" />
+      <node id="#goals" label="#goals" />
+      <node id="#TidalX1015" label="#TidalX1015" />
+      <node id="#CFEDScorecard" label="#CFEDScorecard" />
+      <node id="#Wimbledon" label="#Wimbledon" />
+      <node id="#OscarGrant" label="#OscarGrant" />
+      <node id="#korryngaines" label="#korryngaines" />
+      <node id="#AltonSterling" label="#AltonSterling" />
+      <node id="#23Ways" label="#23Ways" />
+      <node id="#Sayhername" label="#Sayhername" />
+      <node id="#ENG" label="#ENG" />
+      <node id="#Milwaukee" label="#Milwaukee" />
+      <node id="#EURefResults" label="#EURefResults" />
+      <node id="#np" label="#np" />
+      <node id="#philandocastile" label="#philandocastile" />
+      <node id="#SoundCloud" label="#SoundCloud" />
+      <node id="#racialwealthgap" label="#racialwealthgap" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#linen" label="#linen" />
+      <node id="#BatonRouge" label="#BatonRouge" />
+      <node id="#TamirRice" label="#TamirRice" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#takeonhate" target="#hatehurts" weight="3207" />
+      <edge id="1" source="#TyreeKing" target="#TamirRice" weight="6414" />
+      <edge id="2" source="#Beyoncé" target="#TidalX1015" weight="3207" />
+      <edge id="3" source="#BlackGirlMagic" target="#USA" weight="3207" />
+      <edge id="4" source="#FalconHeightsShooting" target="#philandocastile" weight="3207" />
+      <edge id="5" source="#FalconHeightsShooting" target="#AltonSterling" weight="6414" />
+      <edge id="6" source="#SandraBland" target="#Sayhername" weight="3207" />
+      <edge id="7" source="#AltheaGibson" target="#Wimbledon" weight="3207" />
+      <edge id="8" source="#AltheaGibson" target="#OnThisDay" weight="3207" />
+      <edge id="9" source="#TerenceCrutcher" target="#KeithLamontScott" weight="3207" />
+      <edge id="10" source="#Empire" target="#orangelucious" weight="3207" />
+      <edge id="11" source="#ThreeJordans" target="#ENG" weight="3207" />
+      <edge id="12" source="#KuntasKin" target="#Roots" weight="3207" />
+      <edge id="13" source="#PhilandoCastile" target="#23Ways" weight="3207" />
+      <edge id="14" source="#OnThisDay" target="#Wimbledon" weight="3207" />
+      <edge id="15" source="#sayhername" target="#sayhername" weight="64140" />
+      <edge id="16" source="#sayhername" target="#korryngaines" weight="64140" />
+      <edge id="17" source="#Louisiana" target="#BatonRouge" weight="3207" />
+      <edge id="18" source="#goals" target="#linen" weight="3207" />
+      <edge id="19" source="#CFEDScorecard" target="#racialwealthgap" weight="3207" />
+      <edge id="20" source="#OscarGrant" target="#TamirRice" weight="3207" />
+      <edge id="21" source="#korryngaines" target="#korryngaines" weight="38484" />
+      <edge id="22" source="#Milwaukee" target="#BatonRouge" weight="3207" />
+      <edge id="23" source="#EURefResults" target="#Brexit" weight="3207" />
+      <edge id="24" source="#np" target="#SoundCloud" weight="9621" />
+    </edges>
+  </graph>
+</gexf>

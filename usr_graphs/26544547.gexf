@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DebateNight" label="#DebateNight" />
+      <node id="#personality" label="#personality" />
+      <node id="#NationalArtsAndHumanitiesMonth" label="#NationalArtsAndHumanitiesMonth" />
+      <node id="#SheWon" label="#SheWon" />
+      <node id="#nptech" label="#nptech" />
+      <node id="#LitFitness" label="#LitFitness" />
+      <node id="#ColumbusMonthly" label="#ColumbusMonthly" />
+      <node id="#equality" label="#equality" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#pesticide" label="#pesticide" />
+      <node id="#LitFit" label="#LitFit" />
+      <node id="#NAHM" label="#NAHM" />
+      <node id="#PhotographerAppreciationMonth" label="#PhotographerAppreciationMonth" />
+      <node id="#birds" label="#birds" />
+      <node id="#giveaway" label="#giveaway" />
+      <node id="#RethinkQuiet" label="#RethinkQuiet" />
+      <node id="#nampc" label="#nampc" />
+      <node id="#bees" label="#bees" />
+      <node id="#monthlyat40" label="#monthlyat40" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#SCOTUSMarriage" label="#SCOTUSMarriage" />
+      <node id="#printisdead" label="#printisdead" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#quiz" label="#quiz" />
+      <node id="#edu" label="#edu" />
+      <node id="#win" label="#win" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DebateNight" target="#SheWon" weight="621" />
+      <edge id="1" source="#personality" target="#birds" weight="621" />
+      <edge id="2" source="#personality" target="#quiz" weight="621" />
+      <edge id="3" source="#NationalArtsAndHumanitiesMonth" target="#PhotographerAppreciationMonth" weight="621" />
+      <edge id="4" source="#NationalArtsAndHumanitiesMonth" target="#TBT" weight="621" />
+      <edge id="5" source="#nptech" target="#nampc" weight="621" />
+      <edge id="6" source="#LitFitness" target="#LitFit" weight="621" />
+      <edge id="7" source="#ColumbusMonthly" target="#monthlyat40" weight="621" />
+      <edge id="8" source="#equality" target="#SCOTUSMarriage" weight="621" />
+      <edge id="9" source="#Ohio" target="#NAHM" weight="621" />
+      <edge id="10" source="#pesticide" target="#bees" weight="621" />
+      <edge id="11" source="#PhotographerAppreciationMonth" target="#TBT" weight="621" />
+      <edge id="12" source="#birds" target="#quiz" weight="621" />
+      <edge id="13" source="#giveaway" target="#win" weight="621" />
+      <edge id="14" source="#RethinkQuiet" target="#edu" weight="621" />
+      <edge id="15" source="#twitter" target="#printisdead" weight="621" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Hopslam" label="#Hopslam" />
+      <node id="#stonecollab" label="#stonecollab" />
+      <node id="#cscc" label="#cscc" />
+      <node id="#MarkettoMarket" label="#MarkettoMarket" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#drinkme" label="#drinkme" />
+      <node id="#croissant" label="#croissant" />
+      <node id="#TheHillsMarket" label="#TheHillsMarket" />
+      <node id="#freebies" label="#freebies" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#90bestwineshop" label="#90bestwineshop" />
+      <node id="#greatpizza" label="#greatpizza" />
+      <node id="#crimsoncup" label="#crimsoncup" />
+      <node id="#HillsOwn" label="#HillsOwn" />
+      <node id="#hillsown" label="#hillsown" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#ccad" label="#ccad" />
+      <node id="#madedaily" label="#madedaily" />
+      <node id="#Caribbean" label="#Caribbean" />
+      <node id="#perfectbreakfast" label="#perfectbreakfast" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#springproduce" label="#springproduce" />
+      <node id="#writeincampaign" label="#writeincampaign" />
+      <node id="#FF" label="#FF" />
+      <node id="#DaristaCafe" label="#DaristaCafe" />
+      <node id="#deliciousdeals" label="#deliciousdeals" />
+      <node id="#nowait" label="#nowait" />
+      <node id="#DarkHorsePleadtheFifth" label="#DarkHorsePleadtheFifth" />
+      <node id="#isitlunchyet" label="#isitlunchyet" />
+      <node id="#ohiogrown" label="#ohiogrown" />
+      <node id="#hillsmarketdowntown" label="#hillsmarketdowntown" />
+      <node id="#deals" label="#deals" />
+      <node id="#glutenfree" label="#glutenfree" />
+      <node id="#supportlocal" label="#supportlocal" />
+      <node id="#beersolution" label="#beersolution" />
+      <node id="#hillsownbacon" label="#hillsownbacon" />
+      <node id="#cravecbus" label="#cravecbus" />
+      <node id="#93bestbeershop" label="#93bestbeershop" />
+      <node id="#AHARally" label="#AHARally" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#fashion" label="#fashion" />
+      <node id="#OhioMarketDay" label="#OhioMarketDay" />
+      <node id="#drool" label="#drool" />
+      <node id="#happiness" label="#happiness" />
+      <node id="#DrinkMe" label="#DrinkMe" />
+      <node id="#columbusalive" label="#columbusalive" />
+      <node id="#creative" label="#creative" />
+      <node id="#91bestliquorstore" label="#91bestliquorstore" />
+      <node id="#thegiftofgreatbacon" label="#thegiftofgreatbacon" />
+      <node id="#local" label="#local" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#chocolate" label="#chocolate" />
+      <node id="#butter" label="#butter" />
+      <node id="#spring" label="#spring" />
+      <node id="#latenightatHills" label="#latenightatHills" />
+      <node id="#food" label="#food" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#chefscase" label="#chefscase" />
+      <node id="#fanwich" label="#fanwich" />
+      <node id="#fun" label="#fun" />
+      <node id="#trucksandbrews" label="#trucksandbrews" />
+      <node id="#TopBrewsTues" label="#TopBrewsTues" />
+      <node id="#summer" label="#summer" />
+      <node id="#eatlocal" label="#eatlocal" />
+      <node id="#croissants" label="#croissants" />
+      <node id="#ohiomarketday" label="#ohiomarketday" />
+      <node id="#painauchocolat" label="#painauchocolat" />
+      <node id="#beer" label="#beer" />
+      <node id="#organic" label="#organic" />
+      <node id="#ThirstyThursday" label="#ThirstyThursday" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#ohioproud" label="#ohioproud" />
+      <node id="#EnjoyBy" label="#EnjoyBy" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#freesamples" label="#freesamples" />
+      <node id="#FoundersDoom" label="#FoundersDoom" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Hopslam" target="#drinkme" weight="3141" />
+      <edge id="1" source="#stonecollab" target="#AHARally" weight="3141" />
+      <edge id="2" source="#cscc" target="#ccad" weight="3141" />
+      <edge id="3" source="#MarkettoMarket" target="#hillsmarketdowntown" weight="3141" />
+      <edge id="4" source="#Columbus" target="#EnjoyBy" weight="3141" />
+      <edge id="5" source="#Columbus" target="#beer" weight="3141" />
+      <edge id="6" source="#Columbus" target="#Caribbean" weight="3141" />
+      <edge id="7" source="#Columbus" target="#Ohio" weight="3141" />
+      <edge id="8" source="#croissant" target="#cbus" weight="3141" />
+      <edge id="9" source="#croissant" target="#painauchocolat" weight="3141" />
+      <edge id="10" source="#croissant" target="#Cbus" weight="3141" />
+      <edge id="11" source="#croissant" target="#butter" weight="3141" />
+      <edge id="12" source="#croissant" target="#chocolate" weight="6282" />
+      <edge id="13" source="#TheHillsMarket" target="#DarkHorsePleadtheFifth" weight="3141" />
+      <edge id="14" source="#TheHillsMarket" target="#FoundersDoom" weight="3141" />
+      <edge id="15" source="#freebies" target="#deliciousdeals" weight="3141" />
+      <edge id="16" source="#freebies" target="#deals" weight="3141" />
+      <edge id="17" source="#Cbus" target="#chocolate" weight="3141" />
+      <edge id="18" source="#Cbus" target="#butter" weight="3141" />
+      <edge id="19" source="#90bestwineshop" target="#91bestliquorstore" weight="3141" />
+      <edge id="20" source="#90bestwineshop" target="#writeincampaign" weight="3141" />
+      <edge id="21" source="#90bestwineshop" target="#93bestbeershop" weight="3141" />
+      <edge id="22" source="#90bestwineshop" target="#columbusalive" weight="3141" />
+      <edge id="23" source="#greatpizza" target="#nowait" weight="3141" />
+      <edge id="24" source="#crimsoncup" target="#coffee" weight="3141" />
+      <edge id="25" source="#crimsoncup" target="#freesamples" weight="3141" />
+      <edge id="26" source="#HillsOwn" target="#OhioMarketDay" weight="6282" />
+      <edge id="27" source="#HillsOwn" target="#ohiomarketday" weight="3141" />
+      <edge id="28" source="#HillsOwn" target="#HillsOwn" weight="6282" />
+      <edge id="29" source="#hillsown" target="#chefscase" weight="3141" />
+      <edge id="30" source="#hillsown" target="#delicious" weight="3141" />
+      <edge id="31" source="#hillsown" target="#madedaily" weight="3141" />
+      <edge id="32" source="#Ohio" target="#beer" weight="3141" />
+      <edge id="33" source="#Ohio" target="#food" weight="3141" />
+      <edge id="34" source="#Ohio" target="#Caribbean" weight="3141" />
+      <edge id="35" source="#drinkupcolumbus" target="#beersolution" weight="3141" />
+      <edge id="36" source="#drinkupcolumbus" target="#DrinkMe" weight="3141" />
+      <edge id="37" source="#madedaily" target="#chefscase" weight="3141" />
+      <edge id="38" source="#Caribbean" target="#beer" weight="3141" />
+      <edge id="39" source="#perfectbreakfast" target="#croissants" weight="3141" />
+      <edge id="40" source="#perfectbreakfast" target="#painauchocolat" weight="3141" />
+      <edge id="41" source="#lifeincbus" target="#supportlocal" weight="3141" />
+      <edge id="42" source="#springproduce" target="#shoplocal" weight="3141" />
+      <edge id="43" source="#writeincampaign" target="#91bestliquorstore" weight="3141" />
+      <edge id="44" source="#writeincampaign" target="#93bestbeershop" weight="3141" />
+      <edge id="45" source="#writeincampaign" target="#columbusalive" weight="3141" />
+      <edge id="46" source="#FF" target="#fun" weight="3141" />
+      <edge id="47" source="#DaristaCafe" target="#drool" weight="3141" />
+      <edge id="48" source="#deliciousdeals" target="#deals" weight="3141" />
+      <edge id="49" source="#DarkHorsePleadtheFifth" target="#FoundersDoom" weight="3141" />
+      <edge id="50" source="#isitlunchyet" target="#fanwich" weight="3141" />
+      <edge id="51" source="#ohiogrown" target="#eatlocal" weight="3141" />
+      <edge id="52" source="#glutenfree" target="#ThirstyThursday" weight="3141" />
+      <edge id="53" source="#hillsownbacon" target="#thegiftofgreatbacon" weight="3141" />
+      <edge id="54" source="#cravecbus" target="#trucksandbrews" weight="3141" />
+      <edge id="55" source="#93bestbeershop" target="#91bestliquorstore" weight="3141" />
+      <edge id="56" source="#93bestbeershop" target="#columbusalive" weight="3141" />
+      <edge id="57" source="#coffee" target="#freesamples" weight="3141" />
+      <edge id="58" source="#fashion" target="#creative" weight="3141" />
+      <edge id="59" source="#happiness" target="#croissants" weight="3141" />
+      <edge id="60" source="#columbusalive" target="#91bestliquorstore" weight="3141" />
+      <edge id="61" source="#local" target="#shoplocal" weight="3141" />
+      <edge id="62" source="#local" target="#organic" weight="3141" />
+      <edge id="63" source="#local" target="#ohio" weight="3141" />
+      <edge id="64" source="#chocolate" target="#painauchocolat" weight="3141" />
+      <edge id="65" source="#chocolate" target="#cbus" weight="3141" />
+      <edge id="66" source="#chocolate" target="#butter" weight="3141" />
+      <edge id="67" source="#spring" target="#ohio" weight="3141" />
+      <edge id="68" source="#latenightatHills" target="#trucksandbrews" weight="3141" />
+      <edge id="69" source="#StPatricksDay" target="#TopBrewsTues" weight="3141" />
+      <edge id="70" source="#summer" target="#shoplocal" weight="3141" />
+      <edge id="71" source="#summer" target="#eatlocal" weight="3141" />
+      <edge id="72" source="#eatlocal" target="#shoplocal" weight="3141" />
+      <edge id="73" source="#eatlocal" target="#ohio" weight="6282" />
+      <edge id="74" source="#croissants" target="#painauchocolat" weight="3141" />
+      <edge id="75" source="#painauchocolat" target="#cbus" weight="3141" />
+      <edge id="76" source="#organic" target="#shoplocal" weight="3141" />
+      <edge id="77" source="#ohioproud" target="#shoplocal" weight="3141" />
+    </edges>
+  </graph>
+</gexf>

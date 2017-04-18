@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Recruiting" label="#Recruiting" />
+      <node id="#findingtalent" label="#findingtalent" />
+      <node id="#humanresources" label="#humanresources" />
+      <node id="#IT" label="#IT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Recruiting" target="#findingtalent" weight="17" />
+      <edge id="1" source="#Recruiting" target="#humanresources" weight="17" />
+      <edge id="2" source="#Recruiting" target="#IT" weight="17" />
+      <edge id="3" source="#findingtalent" target="#humanresources" weight="17" />
+      <edge id="4" source="#findingtalent" target="#IT" weight="17" />
+      <edge id="5" source="#humanresources" target="#IT" weight="17" />
+    </edges>
+  </graph>
+</gexf>

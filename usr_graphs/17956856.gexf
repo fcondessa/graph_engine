@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Gonzaga" label="#Gonzaga" />
+      <node id="#stitchgoddess" label="#stitchgoddess" />
+      <node id="#DosaCero" label="#DosaCero" />
+      <node id="#thatsnextyear" label="#thatsnextyear" />
+      <node id="#ALS" label="#ALS" />
+      <node id="#msu" label="#msu" />
+      <node id="#freejarmo" label="#freejarmo" />
+      <node id="#HardEagle10" label="#HardEagle10" />
+      <node id="#RenewTerriers" label="#RenewTerriers" />
+      <node id="#buckeyes" label="#buckeyes" />
+      <node id="#traitor" label="#traitor" />
+      <node id="#Blackhawks" label="#Blackhawks" />
+      <node id="#USMNT" label="#USMNT" />
+      <node id="#bama" label="#bama" />
+      <node id="#boom" label="#boom" />
+      <node id="#jimneverplayedanything" label="#jimneverplayedanything" />
+      <node id="#VCU" label="#VCU" />
+      <node id="#Sports" label="#Sports" />
+      <node id="#shootmeintheface" label="#shootmeintheface" />
+      <node id="#archplayedit" label="#archplayedit" />
+      <node id="#flagAsInappropr" label="#flagAsInappropr" />
+      <node id="#DontTread" label="#DontTread" />
+      <node id="#illini" label="#illini" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#nontraditionalhockeymarketslam" label="#nontraditionalhockeymarketslam" />
+      <node id="#MAC" label="#MAC" />
+      <node id="#genius" label="#genius" />
+      <node id="#itchgoddess" label="#itchgoddess" />
+      <node id="#yuppie" label="#yuppie" />
+      <node id="#Jimserection" label="#Jimserection" />
+      <node id="#bert" label="#bert" />
+      <node id="#B1G" label="#B1G" />
+      <node id="#sodidphil" label="#sodidphil" />
+      <node id="#stopALS" label="#stopALS" />
+      <node id="#14monthsofbs" label="#14monthsofbs" />
+      <node id="#RonZook" label="#RonZook" />
+      <node id="#buckbk" label="#buckbk" />
+      <node id="#michigansucks" label="#michigansucks" />
+      <node id="#Final4" label="#Final4" />
+      <node id="#RosieTheRobber" label="#RosieTheRobber" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Gonzaga" target="#VCU" weight="1318" />
+      <edge id="1" source="#stitchgoddess" target="#itchgoddess" weight="1318" />
+      <edge id="2" source="#DosaCero" target="#USMNT" weight="1318" />
+      <edge id="3" source="#DosaCero" target="#DontTread" weight="1318" />
+      <edge id="4" source="#thatsnextyear" target="#14monthsofbs" weight="1318" />
+      <edge id="5" source="#thatsnextyear" target="#shootmeintheface" weight="1318" />
+      <edge id="6" source="#ALS" target="#stopALS" weight="1318" />
+      <edge id="7" source="#msu" target="#bama" weight="1318" />
+      <edge id="8" source="#freejarmo" target="#CBJ" weight="1318" />
+      <edge id="9" source="#HardEagle10" target="#Jimserection" weight="1318" />
+      <edge id="10" source="#HardEagle10" target="#flagAsInappropr" weight="1318" />
+      <edge id="11" source="#HardEagle10" target="#RosieTheRobber" weight="1318" />
+      <edge id="12" source="#RenewTerriers" target="#RenewTerriers" weight="73808" />
+      <edge id="13" source="#buckeyes" target="#buckbk" weight="1318" />
+      <edge id="14" source="#traitor" target="#USMNT" weight="1318" />
+      <edge id="15" source="#Blackhawks" target="#CBJ" weight="1318" />
+      <edge id="16" source="#USMNT" target="#DontTread" weight="1318" />
+      <edge id="17" source="#boom" target="#nontraditionalhockeymarketslam" weight="1318" />
+      <edge id="18" source="#jimneverplayedanything" target="#archplayedit" weight="1318" />
+      <edge id="19" source="#jimneverplayedanything" target="#sodidphil" weight="1318" />
+      <edge id="20" source="#Sports" target="#yuppie" weight="1318" />
+      <edge id="21" source="#shootmeintheface" target="#14monthsofbs" weight="1318" />
+      <edge id="22" source="#archplayedit" target="#sodidphil" weight="1318" />
+      <edge id="23" source="#flagAsInappropr" target="#Jimserection" weight="1318" />
+      <edge id="24" source="#flagAsInappropr" target="#RosieTheRobber" weight="1318" />
+      <edge id="25" source="#illini" target="#RonZook" weight="1318" />
+      <edge id="26" source="#MAC" target="#B1G" weight="1318" />
+      <edge id="27" source="#MAC" target="#genius" weight="1318" />
+      <edge id="28" source="#genius" target="#B1G" weight="1318" />
+      <edge id="29" source="#Jimserection" target="#RosieTheRobber" weight="2636" />
+      <edge id="30" source="#bert" target="#B1G" weight="1318" />
+      <edge id="31" source="#michigansucks" target="#Final4" weight="1318" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#tucson" label="#tucson" />
+      <node id="#whynot" label="#whynot" />
+      <node id="#shipmypants" label="#shipmypants" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#studenthousing" label="#studenthousing" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#tucson" target="#cbus" weight="50" />
+      <edge id="1" source="#tucson" target="#studenthousing" weight="50" />
+      <edge id="2" source="#whynot" target="#shipmypants" weight="50" />
+      <edge id="3" source="#cbus" target="#studenthousing" weight="50" />
+    </edges>
+  </graph>
+</gexf>

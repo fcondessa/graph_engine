@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#coup" label="#coup" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#ps4" label="#ps4" />
+      <node id="#SecondSunday" label="#SecondSunday" />
+      <node id="#Origins2015" label="#Origins2015" />
+      <node id="#codenames" label="#codenames" />
+      <node id="#Origins2013" label="#Origins2013" />
+      <node id="#xboxone" label="#xboxone" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#cbusr" label="#cbusr" />
+      <node id="#BeersAndBoardGames" label="#BeersAndBoardGames" />
+      <node id="#Origins" label="#Origins" />
+      <node id="#bgg" label="#bgg" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#free" label="#free" />
+      <node id="#NationalBeerDay" label="#NationalBeerDay" />
+      <node id="#IPAday" label="#IPAday" />
+      <node id="#TabletopDay" label="#TabletopDay" />
+      <node id="#boardgame" label="#boardgame" />
+      <node id="#GoodDayColumbus" label="#GoodDayColumbus" />
+      <node id="#Dixit" label="#Dixit" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#boardgames" label="#boardgames" />
+      <node id="#beersandboardgames" label="#beersandboardgames" />
+      <node id="#pint" label="#pint" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#CbusBeerWeek" label="#CbusBeerWeek" />
+      <node id="#ohiocraftbeer" label="#ohiocraftbeer" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#coup" target="#boardgame" weight="535" />
+      <edge id="1" source="#asseenincolumbus" target="#drinkupcolumbus" weight="535" />
+      <edge id="2" source="#asseenincolumbus" target="#lifeincbus" weight="535" />
+      <edge id="3" source="#ps4" target="#xboxone" weight="535" />
+      <edge id="4" source="#SecondSunday" target="#BeersAndBoardGames" weight="535" />
+      <edge id="5" source="#Origins2015" target="#free" weight="535" />
+      <edge id="6" source="#Origins2015" target="#pint" weight="535" />
+      <edge id="7" source="#Origins2015" target="#BeersAndBoardGames" weight="535" />
+      <edge id="8" source="#codenames" target="#boardgame" weight="535" />
+      <edge id="9" source="#Origins2013" target="#Origins" weight="535" />
+      <edge id="10" source="#drinkupcolumbus" target="#cbusr" weight="535" />
+      <edge id="11" source="#drinkupcolumbus" target="#BeersAndBoardGames" weight="535" />
+      <edge id="12" source="#drinkupcolumbus" target="#lifeincbus" weight="8025" />
+      <edge id="13" source="#drinkupcolumbus" target="#craftbeer" weight="535" />
+      <edge id="14" source="#drinkupcolumbus" target="#IPAday" weight="535" />
+      <edge id="15" source="#drinkupcolumbus" target="#ohiocraftbeer" weight="535" />
+      <edge id="16" source="#drinkupcolumbus" target="#expcols" weight="535" />
+      <edge id="17" source="#drinkupcolumbus" target="#columbus" weight="535" />
+      <edge id="18" source="#drinkupcolumbus" target="#beersandboardgames" weight="535" />
+      <edge id="19" source="#cbusr" target="#lifeincbus" weight="535" />
+      <edge id="20" source="#BeersAndBoardGames" target="#CbusBeerWeek" weight="535" />
+      <edge id="21" source="#BeersAndBoardGames" target="#NationalBeerDay" weight="535" />
+      <edge id="22" source="#bgg" target="#boardgames" weight="535" />
+      <edge id="23" source="#bgg" target="#Dixit" weight="535" />
+      <edge id="24" source="#columbus" target="#ohiocraftbeer" weight="535" />
+      <edge id="25" source="#columbus" target="#expcols" weight="535" />
+      <edge id="26" source="#columbus" target="#craftbeer" weight="535" />
+      <edge id="27" source="#expcols" target="#ohiocraftbeer" weight="535" />
+      <edge id="28" source="#expcols" target="#craftbeer" weight="535" />
+      <edge id="29" source="#free" target="#pint" weight="535" />
+      <edge id="30" source="#IPAday" target="#lifeincbus" weight="535" />
+      <edge id="31" source="#TabletopDay" target="#GoodDayColumbus" weight="535" />
+      <edge id="32" source="#Dixit" target="#boardgames" weight="535" />
+      <edge id="33" source="#lifeincbus" target="#beersandboardgames" weight="535" />
+      <edge id="34" source="#craftbeer" target="#ohiocraftbeer" weight="535" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#twitter" label="#twitter" />
+      <node id="#details" label="#details" />
+      <node id="#facebook" label="#facebook" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#gascard" label="#gascard" />
+      <node id="#Attention" label="#Attention" />
+      <node id="#liking" label="#liking" />
+      <node id="#rules" label="#rules" />
+      <node id="#follow" label="#follow" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#twitter" target="#liking" weight="85050" />
+      <edge id="1" source="#twitter" target="#follow" weight="85050" />
+      <edge id="2" source="#twitter" target="#gascard" weight="85050" />
+      <edge id="3" source="#twitter" target="#facebook" weight="85050" />
+      <edge id="4" source="#details" target="#rules" weight="81900" />
+      <edge id="5" source="#details" target="#gascard" weight="81900" />
+      <edge id="6" source="#facebook" target="#liking" weight="85050" />
+      <edge id="7" source="#facebook" target="#follow" weight="85050" />
+      <edge id="8" source="#facebook" target="#gascard" weight="85050" />
+      <edge id="9" source="#Twitter" target="#Attention" weight="31500" />
+      <edge id="10" source="#gascard" target="#liking" weight="85050" />
+      <edge id="11" source="#gascard" target="#rules" weight="81900" />
+      <edge id="12" source="#gascard" target="#follow" weight="85050" />
+      <edge id="13" source="#liking" target="#follow" weight="85050" />
+    </edges>
+  </graph>
+</gexf>

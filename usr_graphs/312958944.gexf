@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Android" label="#Android" />
+      <node id="#android" label="#android" />
+      <node id="#Gameinsight" label="#Gameinsight" />
+      <node id="#Androidgames" label="#Androidgames" />
+      <node id="#androidgames" label="#androidgames" />
+      <node id="#gameinsight" label="#gameinsight" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Android" target="#Androidgames" weight="1653" />
+      <edge id="1" source="#Android" target="#Gameinsight" weight="1653" />
+      <edge id="2" source="#android" target="#androidgames" weight="87" />
+      <edge id="3" source="#android" target="#gameinsight" weight="87" />
+      <edge id="4" source="#Gameinsight" target="#Androidgames" weight="1653" />
+      <edge id="5" source="#androidgames" target="#gameinsight" weight="87" />
+    </edges>
+  </graph>
+</gexf>

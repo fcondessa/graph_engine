@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#transit" label="#transit" />
+      <node id="#drivingwhileblack" label="#drivingwhileblack" />
+      <node id="#StreetVending" label="#StreetVending" />
+      <node id="#walking" label="#walking" />
+      <node id="#activetravel" label="#activetravel" />
+      <node id="#JustDrive" label="#JustDrive" />
+      <node id="#sprawl" label="#sprawl" />
+      <node id="#Cle" label="#Cle" />
+      <node id="#sidewalks" label="#sidewalks" />
+      <node id="#Uptown" label="#Uptown" />
+      <node id="#Racial" label="#Racial" />
+      <node id="#inthesquare" label="#inthesquare" />
+      <node id="#Zika" label="#Zika" />
+      <node id="#EndSH" label="#EndSH" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#WomensCaucus" label="#WomensCaucus" />
+      <node id="#maternal" label="#maternal" />
+      <node id="#MiddleClassRoadmap" label="#MiddleClassRoadmap" />
+      <node id="#childcare" label="#childcare" />
+      <node id="#gentrification" label="#gentrification" />
+      <node id="#IGoRTA" label="#IGoRTA" />
+      <node id="#bikechi" label="#bikechi" />
+      <node id="#TOD" label="#TOD" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#PhilandoCastile" label="#PhilandoCastile" />
+      <node id="#bikeNYC" label="#bikeNYC" />
+      <node id="#affordablehousing" label="#affordablehousing" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#Pittsburgh" label="#Pittsburgh" />
+      <node id="#transitbelongs" label="#transitbelongs" />
+      <node id="#unions" label="#unions" />
+      <node id="#ODOTproud" label="#ODOTproud" />
+      <node id="#Data" label="#Data" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#MetroMix" label="#MetroMix" />
+      <node id="#Justice" label="#Justice" />
+      <node id="#fracking" label="#fracking" />
+      <node id="#UHBikes" label="#UHBikes" />
+      <node id="#thisisotr" label="#thisisotr" />
+      <node id="#BikeShare" label="#BikeShare" />
+      <node id="#HeyRTA" label="#HeyRTA" />
+      <node id="#MoveEquity" label="#MoveEquity" />
+      <node id="#bus" label="#bus" />
+      <node id="#bikemore" label="#bikemore" />
+      <node id="#InfrastructureMatters" label="#InfrastructureMatters" />
+      <node id="#edgap" label="#edgap" />
+      <node id="#Louisville" label="#Louisville" />
+      <node id="#ALLin216" label="#ALLin216" />
+      <node id="#health" label="#health" />
+      <node id="#NYCHousing" label="#NYCHousing" />
+      <node id="#cplan" label="#cplan" />
+      <node id="#regulations" label="#regulations" />
+      <node id="#notamsterdam" label="#notamsterdam" />
+      <node id="#MetroDetroit" label="#MetroDetroit" />
+      <node id="#blacklivesmatter" label="#blacklivesmatter" />
+      <node id="#pdxbikes" label="#pdxbikes" />
+      <node id="#NIMBY" label="#NIMBY" />
+      <node id="#VisionZero" label="#VisionZero" />
+      <node id="#CyclingintheCity" label="#CyclingintheCity" />
+      <node id="#KennySmith" label="#KennySmith" />
+      <node id="#sdoh" label="#sdoh" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#StreetWalking" label="#StreetWalking" />
+      <node id="#cavsparade" label="#cavsparade" />
+      <node id="#segregation" label="#segregation" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#ClevelandCavaliers" label="#ClevelandCavaliers" />
+      <node id="#ODOTslogan" label="#ODOTslogan" />
+      <node id="#thisplacematters" label="#thisplacematters" />
+      <node id="#preservethenati" label="#preservethenati" />
+      <node id="#MATS" label="#MATS" />
+      <node id="#infant" label="#infant" />
+      <node id="#thisplacematterscincy" label="#thisplacematterscincy" />
+      <node id="#DemConvention" label="#DemConvention" />
+      <node id="#TakeBackTheMic" label="#TakeBackTheMic" />
+      <node id="#NBACHAMPS" label="#NBACHAMPS" />
+      <node id="#NoCutsNoHikes" label="#NoCutsNoHikes" />
+      <node id="#Denver" label="#Denver" />
+      <node id="#137shots" label="#137shots" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#PublicHealth" label="#PublicHealth" />
+      <node id="#placemaking" label="#placemaking" />
+      <node id="#internet" label="#internet" />
+      <node id="#TamirRice" label="#TamirRice" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#transit" target="#Denver" weight="3216" />
+      <edge id="1" source="#transit" target="#TOD" weight="3216" />
+      <edge id="2" source="#drivingwhileblack" target="#PhilandoCastile" weight="3216" />
+      <edge id="3" source="#StreetVending" target="#placemaking" weight="3216" />
+      <edge id="4" source="#walking" target="#activetravel" weight="3216" />
+      <edge id="5" source="#JustDrive" target="#ODOTslogan" weight="3216" />
+      <edge id="6" source="#sprawl" target="#Cincinnati" weight="3216" />
+      <edge id="7" source="#sprawl" target="#ODOTproud" weight="3216" />
+      <edge id="8" source="#Cle" target="#BikeShare" weight="3216" />
+      <edge id="9" source="#sidewalks" target="#StreetWalking" weight="3216" />
+      <edge id="10" source="#Uptown" target="#Cleveland" weight="3216" />
+      <edge id="11" source="#Racial" target="#Justice" weight="3216" />
+      <edge id="12" source="#inthesquare" target="#transitbelongs" weight="3216" />
+      <edge id="13" source="#Zika" target="#PublicHealth" weight="3216" />
+      <edge id="14" source="#EndSH" target="#Chicago" weight="3216" />
+      <edge id="15" source="#EndSH" target="#MoveEquity" weight="3216" />
+      <edge id="16" source="#CLE" target="#TakeBackTheMic" weight="3216" />
+      <edge id="17" source="#WomensCaucus" target="#DemsInPhilly" weight="3216" />
+      <edge id="18" source="#maternal" target="#infant" weight="3216" />
+      <edge id="19" source="#maternal" target="#health" weight="3216" />
+      <edge id="20" source="#MiddleClassRoadmap" target="#childcare" weight="3216" />
+      <edge id="21" source="#gentrification" target="#sdoh" weight="3216" />
+      <edge id="22" source="#gentrification" target="#NYCHousing" weight="3216" />
+      <edge id="23" source="#IGoRTA" target="#NoCutsNoHikes" weight="3216" />
+      <edge id="24" source="#bikechi" target="#notamsterdam" weight="3216" />
+      <edge id="25" source="#DemsInPhilly" target="#DemConvention" weight="3216" />
+      <edge id="26" source="#PhilandoCastile" target="#blacklivesmatter" weight="3216" />
+      <edge id="27" source="#bikeNYC" target="#CyclingintheCity" weight="3216" />
+      <edge id="28" source="#affordablehousing" target="#cplan" weight="3216" />
+      <edge id="29" source="#affordablehousing" target="#NIMBY" weight="3216" />
+      <edge id="30" source="#Chicago" target="#MoveEquity" weight="3216" />
+      <edge id="31" source="#Pittsburgh" target="#MetroMix" weight="3216" />
+      <edge id="32" source="#Pittsburgh" target="#fracking" weight="3216" />
+      <edge id="33" source="#unions" target="#bus" weight="3216" />
+      <edge id="34" source="#unions" target="#Cleveland" weight="3216" />
+      <edge id="35" source="#unions" target="#Ohio" weight="3216" />
+      <edge id="36" source="#ODOTproud" target="#Cincinnati" weight="3216" />
+      <edge id="37" source="#Data" target="#internet" weight="3216" />
+      <edge id="38" source="#Cavs" target="#ClevelandCavaliers" weight="3216" />
+      <edge id="39" source="#Cavs" target="#Cleveland" weight="3216" />
+      <edge id="40" source="#UHBikes" target="#Cleveland" weight="6432" />
+      <edge id="41" source="#thisisotr" target="#thisplacematterscincy" weight="3216" />
+      <edge id="42" source="#thisisotr" target="#thisplacematters" weight="3216" />
+      <edge id="43" source="#thisisotr" target="#preservethenati" weight="3216" />
+      <edge id="44" source="#HeyRTA" target="#MetroDetroit" weight="3216" />
+      <edge id="45" source="#bus" target="#Cleveland" weight="3216" />
+      <edge id="46" source="#bus" target="#Ohio" weight="3216" />
+      <edge id="47" source="#bikemore" target="#pdxbikes" weight="3216" />
+      <edge id="48" source="#InfrastructureMatters" target="#VisionZero" weight="3216" />
+      <edge id="49" source="#edgap" target="#sdoh" weight="3216" />
+      <edge id="50" source="#Louisville" target="#segregation" weight="3216" />
+      <edge id="51" source="#ALLin216" target="#cavsparade" weight="3216" />
+      <edge id="52" source="#ALLin216" target="#Cleveland" weight="3216" />
+      <edge id="53" source="#ALLin216" target="#NBACHAMPS" weight="3216" />
+      <edge id="54" source="#health" target="#infant" weight="3216" />
+      <edge id="55" source="#NYCHousing" target="#sdoh" weight="3216" />
+      <edge id="56" source="#cplan" target="#NIMBY" weight="3216" />
+      <edge id="57" source="#regulations" target="#MATS" weight="3216" />
+      <edge id="58" source="#KennySmith" target="#137shots" weight="3216" />
+      <edge id="59" source="#Ohio" target="#Cleveland" weight="3216" />
+      <edge id="60" source="#cavsparade" target="#Cleveland" weight="3216" />
+      <edge id="61" source="#Cleveland" target="#ClevelandCavaliers" weight="3216" />
+      <edge id="62" source="#Cleveland" target="#TamirRice" weight="3216" />
+      <edge id="63" source="#thisplacematters" target="#preservethenati" weight="3216" />
+      <edge id="64" source="#thisplacematters" target="#thisplacematterscincy" weight="3216" />
+      <edge id="65" source="#preservethenati" target="#thisplacematterscincy" weight="3216" />
+    </edges>
+  </graph>
+</gexf>

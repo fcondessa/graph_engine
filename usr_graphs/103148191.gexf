@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#technology" label="#technology" />
+      <node id="#genomics" label="#genomics" />
+      <node id="#p4medicine" label="#p4medicine" />
+      <node id="#care" label="#care" />
+      <node id="#biomarkers" label="#biomarkers" />
+      <node id="#microsoft" label="#microsoft" />
+      <node id="#p4mi" label="#p4mi" />
+      <node id="#p4med" label="#p4med" />
+      <node id="#ehealth" label="#ehealth" />
+      <node id="#MCCSM" label="#MCCSM" />
+      <node id="#gcpm" label="#gcpm" />
+      <node id="#nurse" label="#nurse" />
+      <node id="#lifestyle" label="#lifestyle" />
+      <node id="#seattle" label="#seattle" />
+      <node id="#sleep" label="#sleep" />
+      <node id="#apple" label="#apple" />
+      <node id="#biotech" label="#biotech" />
+      <node id="#Kinect" label="#Kinect" />
+      <node id="#ROTF" label="#ROTF" />
+      <node id="#health" label="#health" />
+      <node id="#hcmktg" label="#hcmktg" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#osu" label="#osu" />
+      <node id="#india" label="#india" />
+      <node id="#xconomy" label="#xconomy" />
+      <node id="#medicine" label="#medicine" />
+      <node id="#mayoragan" label="#mayoragan" />
+      <node id="#kuow" label="#kuow" />
+      <node id="#hc" label="#hc" />
+      <node id="#thedecisiontree" label="#thedecisiontree" />
+      <node id="#Future" label="#Future" />
+      <node id="#osumc" label="#osumc" />
+      <node id="#HIMSS2011" label="#HIMSS2011" />
+      <node id="#personalized" label="#personalized" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#mhealth" label="#mhealth" />
+      <node id="#IT" label="#IT" />
+      <node id="#healthcare" label="#healthcare" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#technology" target="#medicine" weight="205" />
+      <edge id="1" source="#technology" target="#thedecisiontree" weight="205" />
+      <edge id="2" source="#technology" target="#health" weight="410" />
+      <edge id="3" source="#genomics" target="#p4medicine" weight="205" />
+      <edge id="4" source="#genomics" target="#p4med" weight="410" />
+      <edge id="5" source="#genomics" target="#health" weight="205" />
+      <edge id="6" source="#p4medicine" target="#personalized" weight="205" />
+      <edge id="7" source="#p4medicine" target="#nurse" weight="205" />
+      <edge id="8" source="#p4medicine" target="#india" weight="205" />
+      <edge id="9" source="#p4medicine" target="#kuow" weight="205" />
+      <edge id="10" source="#p4medicine" target="#health" weight="615" />
+      <edge id="11" source="#p4medicine" target="#lifestyle" weight="205" />
+      <edge id="12" source="#care" target="#personalized" weight="205" />
+      <edge id="13" source="#care" target="#health" weight="205" />
+      <edge id="14" source="#biomarkers" target="#apple" weight="205" />
+      <edge id="15" source="#microsoft" target="#Kinect" weight="205" />
+      <edge id="16" source="#p4mi" target="#medicine" weight="205" />
+      <edge id="17" source="#p4med" target="#osumc" weight="205" />
+      <edge id="18" source="#p4med" target="#gcpm" weight="205" />
+      <edge id="19" source="#p4med" target="#health" weight="410" />
+      <edge id="20" source="#p4med" target="#osu" weight="205" />
+      <edge id="21" source="#p4med" target="#xconomy" weight="205" />
+      <edge id="22" source="#ehealth" target="#hcmktg" weight="205" />
+      <edge id="23" source="#ehealth" target="#hcsm" weight="205" />
+      <edge id="24" source="#MCCSM" target="#mayoragan" weight="205" />
+      <edge id="25" source="#gcpm" target="#ROTF" weight="205" />
+      <edge id="26" source="#nurse" target="#health" weight="205" />
+      <edge id="27" source="#lifestyle" target="#india" weight="205" />
+      <edge id="28" source="#lifestyle" target="#health" weight="205" />
+      <edge id="29" source="#seattle" target="#sleep" weight="205" />
+      <edge id="30" source="#biotech" target="#IT" weight="205" />
+      <edge id="31" source="#health" target="#thedecisiontree" weight="205" />
+      <edge id="32" source="#health" target="#personalized" weight="410" />
+      <edge id="33" source="#health" target="#osu" weight="205" />
+      <edge id="34" source="#health" target="#india" weight="205" />
+      <edge id="35" source="#health" target="#medicine" weight="205" />
+      <edge id="36" source="#hcmktg" target="#hcsm" weight="205" />
+      <edge id="37" source="#medicine" target="#personalized" weight="205" />
+      <edge id="38" source="#hc" target="#healthcare" weight="205" />
+      <edge id="39" source="#Future" target="#Healthcare" weight="205" />
+      <edge id="40" source="#HIMSS2011" target="#mhealth" weight="205" />
+    </edges>
+  </graph>
+</gexf>

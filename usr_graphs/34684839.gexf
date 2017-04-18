@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#mojitos" label="#mojitos" />
+      <node id="#SfGiants" label="#SfGiants" />
+      <node id="#GOGIANTS" label="#GOGIANTS" />
+      <node id="#WorldSerieschampions" label="#WorldSerieschampions" />
+      <node id="#welldrinks" label="#welldrinks" />
+      <node id="#gregorblanco" label="#gregorblanco" />
+      <node id="#MCCOVEYSRESTAURANT" label="#MCCOVEYSRESTAURANT" />
+      <node id="#sfgiants" label="#sfgiants" />
+      <node id="#McCoveysRestaurant" label="#McCoveysRestaurant" />
+      <node id="#GONINERS" label="#GONINERS" />
+      <node id="#beatthecardinals" label="#beatthecardinals" />
+      <node id="#CHANNEL2" label="#CHANNEL2" />
+      <node id="#bleedgold" label="#bleedgold" />
+      <node id="#margaritas" label="#margaritas" />
+      <node id="#gogiants" label="#gogiants" />
+      <node id="#giants" label="#giants" />
+      <node id="#sundayfunday" label="#sundayfunday" />
+      <node id="#mccoveysrestaurant" label="#mccoveysrestaurant" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#orangeoctober" label="#orangeoctober" />
+      <node id="#SFGIANTS" label="#SFGIANTS" />
+      <node id="#McCovey" label="#McCovey" />
+      <node id="#goniners" label="#goniners" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#mojitos" target="#welldrinks" weight="915" />
+      <edge id="1" source="#mojitos" target="#margaritas" weight="915" />
+      <edge id="2" source="#mojitos" target="#gogiants" weight="915" />
+      <edge id="3" source="#SfGiants" target="#McCoveysRestaurant" weight="915" />
+      <edge id="4" source="#SfGiants" target="#WorldSerieschampions" weight="915" />
+      <edge id="5" source="#GOGIANTS" target="#CHANNEL2" weight="915" />
+      <edge id="6" source="#GOGIANTS" target="#MCCOVEYSRESTAURANT" weight="1830" />
+      <edge id="7" source="#WorldSerieschampions" target="#McCoveysRestaurant" weight="915" />
+      <edge id="8" source="#welldrinks" target="#margaritas" weight="915" />
+      <edge id="9" source="#welldrinks" target="#gogiants" weight="915" />
+      <edge id="10" source="#gregorblanco" target="#McCovey" weight="915" />
+      <edge id="11" source="#MCCOVEYSRESTAURANT" target="#CHANNEL2" weight="915" />
+      <edge id="12" source="#MCCOVEYSRESTAURANT" target="#GONINERS" weight="915" />
+      <edge id="13" source="#sfgiants" target="#giants" weight="915" />
+      <edge id="14" source="#sfgiants" target="#MLB" weight="915" />
+      <edge id="15" source="#beatthecardinals" target="#mccoveysrestaurant" weight="915" />
+      <edge id="16" source="#beatthecardinals" target="#goniners" weight="915" />
+      <edge id="17" source="#beatthecardinals" target="#bleedgold" weight="915" />
+      <edge id="18" source="#bleedgold" target="#mccoveysrestaurant" weight="915" />
+      <edge id="19" source="#bleedgold" target="#goniners" weight="915" />
+      <edge id="20" source="#margaritas" target="#gogiants" weight="915" />
+      <edge id="21" source="#gogiants" target="#mccoveysrestaurant" weight="915" />
+      <edge id="22" source="#gogiants" target="#orangeoctober" weight="915" />
+      <edge id="23" source="#giants" target="#MLB" weight="915" />
+      <edge id="24" source="#sundayfunday" target="#mccoveysrestaurant" weight="915" />
+      <edge id="25" source="#sundayfunday" target="#goniners" weight="915" />
+      <edge id="26" source="#mccoveysrestaurant" target="#orangeoctober" weight="915" />
+      <edge id="27" source="#mccoveysrestaurant" target="#goniners" weight="1830" />
+      <edge id="28" source="#SFGIANTS" target="#SFGIANTS" weight="1830" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#iwantmublabeyback" label="#iwantmublabeyback" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#noexcuse" label="#noexcuse" />
+      <node id="#beerbday" label="#beerbday" />
+      <node id="#photo" label="#photo" />
+      <node id="#stone2cbus" label="#stone2cbus" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#bodhi" label="#bodhi" />
+      <node id="#drinklikeachampion" label="#drinklikeachampion" />
+      <node id="#oh" label="#oh" />
+      <node id="#KingofOhioIPA" label="#KingofOhioIPA" />
+      <node id="#rollerblabe" label="#rollerblabe" />
+      <node id="#Friday" label="#Friday" />
+      <node id="#alreadyfamous" label="#alreadyfamous" />
+      <node id="#ohirish" label="#ohirish" />
+      <node id="#HappyHalloween" label="#HappyHalloween" />
+      <node id="#strongpitgame" label="#strongpitgame" />
+      <node id="#USWNT" label="#USWNT" />
+      <node id="#SbP" label="#SbP" />
+      <node id="#creeper" label="#creeper" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#freethemusk" label="#freethemusk" />
+      <node id="#EnjoyBy" label="#EnjoyBy" />
+      <node id="#GermanCostumes" label="#GermanCostumes" />
+      <node id="#pitstrainfree" label="#pitstrainfree" />
+      <node id="#pitvipershades" label="#pitvipershades" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#iwantmublabeyback" target="#rollerblabe" weight="1169" />
+      <edge id="1" source="#asseenincolumbus" target="#bodhi" weight="1169" />
+      <edge id="2" source="#noexcuse" target="#drinklikeachampion" weight="1169" />
+      <edge id="3" source="#beerbday" target="#cbus" weight="1169" />
+      <edge id="4" source="#photo" target="#USWNT" weight="1169" />
+      <edge id="5" source="#stone2cbus" target="#oh" weight="1169" />
+      <edge id="6" source="#stone2cbus" target="#EnjoyBy" weight="1169" />
+      <edge id="7" source="#Halloween" target="#Friday" weight="1169" />
+      <edge id="8" source="#bodhi" target="#rollerblabe" weight="1169" />
+      <edge id="9" source="#oh" target="#EnjoyBy" weight="1169" />
+      <edge id="10" source="#KingofOhioIPA" target="#SbP" weight="1169" />
+      <edge id="11" source="#KingofOhioIPA" target="#alreadyfamous" weight="1169" />
+      <edge id="12" source="#KingofOhioIPA" target="#pitvipershades" weight="1169" />
+      <edge id="13" source="#alreadyfamous" target="#SbP" weight="1169" />
+      <edge id="14" source="#alreadyfamous" target="#pitvipershades" weight="1169" />
+      <edge id="15" source="#ohirish" target="#creeper" weight="1169" />
+      <edge id="16" source="#HappyHalloween" target="#GermanCostumes" weight="1169" />
+      <edge id="17" source="#strongpitgame" target="#pitstrainfree" weight="1169" />
+      <edge id="18" source="#strongpitgame" target="#freethemusk" weight="1169" />
+      <edge id="19" source="#SbP" target="#pitvipershades" weight="1169" />
+      <edge id="20" source="#freethemusk" target="#pitstrainfree" weight="1169" />
+    </edges>
+  </graph>
+</gexf>

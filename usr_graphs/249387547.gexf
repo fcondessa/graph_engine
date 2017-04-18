@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Tempe" label="#Tempe" />
+      <node id="#NoFilter" label="#NoFilter" />
+      <node id="#publicspace" label="#publicspace" />
+      <node id="#openair" label="#openair" />
+      <node id="#Dtphx" label="#Dtphx" />
+      <node id="#Phoenix" label="#Phoenix" />
+      <node id="#planning" label="#planning" />
+      <node id="#transportation" label="#transportation" />
+      <node id="#ProblemSolving" label="#ProblemSolving" />
+      <node id="#Akron" label="#Akron" />
+      <node id="#RadiatePHX" label="#RadiatePHX" />
+      <node id="#MovePHX" label="#MovePHX" />
+      <node id="#LoveWins" label="#LoveWins" />
+      <node id="#WhyAZ" label="#WhyAZ" />
+      <node id="#thespacebetween" label="#thespacebetween" />
+      <node id="#greatstreets" label="#greatstreets" />
+      <node id="#progressive" label="#progressive" />
+      <node id="#Sunset" label="#Sunset" />
+      <node id="#USGBCplus" label="#USGBCplus" />
+      <node id="#knightcities" label="#knightcities" />
+      <node id="#Planning" label="#Planning" />
+      <node id="#Transportation" label="#Transportation" />
+      <node id="#preservation" label="#preservation" />
+      <node id="#City" label="#City" />
+      <node id="#LEED" label="#LEED" />
+      <node id="#cities" label="#cities" />
+      <node id="#bike" label="#bike" />
+      <node id="#placemaking" label="#placemaking" />
+      <node id="#Boston" label="#Boston" />
+      <node id="#education" label="#education" />
+      <node id="#Highways" label="#Highways" />
+      <node id="#smalltowns" label="#smalltowns" />
+      <node id="#biketothemarket" label="#biketothemarket" />
+      <node id="#mustreads" label="#mustreads" />
+      <node id="#Cartago" label="#Cartago" />
+      <node id="#civictech" label="#civictech" />
+      <node id="#Tempeasy" label="#Tempeasy" />
+      <node id="#infrastructure" label="#infrastructure" />
+      <node id="#KAEC" label="#KAEC" />
+      <node id="#SizeLarge" label="#SizeLarge" />
+      <node id="#smartcities" label="#smartcities" />
+      <node id="#IgersPhx" label="#IgersPhx" />
+      <node id="#Cityquest" label="#Cityquest" />
+      <node id="#Urban" label="#Urban" />
+      <node id="#InstagramAZ" label="#InstagramAZ" />
+      <node id="#design" label="#design" />
+      <node id="#dtphx" label="#dtphx" />
+      <node id="#Proud" label="#Proud" />
+      <node id="#MarriageEquality" label="#MarriageEquality" />
+      <node id="#opensair" label="#opensair" />
+      <node id="#Economics" label="#Economics" />
+      <node id="#StLouis" label="#StLouis" />
+      <node id="#8to80" label="#8to80" />
+      <node id="#FutureofPlaces" label="#FutureofPlaces" />
+      <node id="#UrbanThinkers" label="#UrbanThinkers" />
+      <node id="#CostaRica" label="#CostaRica" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Tempe" target="#Tempeasy" weight="100" />
+      <edge id="1" source="#NoFilter" target="#InstagramAZ" weight="100" />
+      <edge id="2" source="#NoFilter" target="#Dtphx" weight="100" />
+      <edge id="3" source="#NoFilter" target="#IgersPhx" weight="100" />
+      <edge id="4" source="#NoFilter" target="#SizeLarge" weight="100" />
+      <edge id="5" source="#NoFilter" target="#WhyAZ" weight="100" />
+      <edge id="6" source="#NoFilter" target="#Sunset" weight="100" />
+      <edge id="7" source="#publicspace" target="#FutureofPlaces" weight="100" />
+      <edge id="8" source="#publicspace" target="#UrbanThinkers" weight="100" />
+      <edge id="9" source="#openair" target="#biketothemarket" weight="100" />
+      <edge id="10" source="#openair" target="#dtphx" weight="100" />
+      <edge id="11" source="#Dtphx" target="#WhyAZ" weight="100" />
+      <edge id="12" source="#Dtphx" target="#InstagramAZ" weight="100" />
+      <edge id="13" source="#Dtphx" target="#Sunset" weight="100" />
+      <edge id="14" source="#Dtphx" target="#IgersPhx" weight="100" />
+      <edge id="15" source="#Phoenix" target="#MovePHX" weight="100" />
+      <edge id="16" source="#Phoenix" target="#dtphx" weight="100" />
+      <edge id="17" source="#planning" target="#transportation" weight="100" />
+      <edge id="18" source="#transportation" target="#mustreads" weight="100" />
+      <edge id="19" source="#transportation" target="#smalltowns" weight="100" />
+      <edge id="20" source="#ProblemSolving" target="#Planning" weight="100" />
+      <edge id="21" source="#ProblemSolving" target="#Transportation" weight="100" />
+      <edge id="22" source="#Akron" target="#knightcities" weight="100" />
+      <edge id="23" source="#RadiatePHX" target="#MovePHX" weight="100" />
+      <edge id="24" source="#RadiatePHX" target="#dtphx" weight="100" />
+      <edge id="25" source="#MovePHX" target="#dtphx" weight="100" />
+      <edge id="26" source="#LoveWins" target="#MarriageEquality" weight="100" />
+      <edge id="27" source="#WhyAZ" target="#InstagramAZ" weight="100" />
+      <edge id="28" source="#WhyAZ" target="#Sunset" weight="100" />
+      <edge id="29" source="#WhyAZ" target="#IgersPhx" weight="100" />
+      <edge id="30" source="#thespacebetween" target="#placemaking" weight="100" />
+      <edge id="31" source="#thespacebetween" target="#dtphx" weight="100" />
+      <edge id="32" source="#greatstreets" target="#8to80" weight="100" />
+      <edge id="33" source="#progressive" target="#education" weight="100" />
+      <edge id="34" source="#Sunset" target="#InstagramAZ" weight="100" />
+      <edge id="35" source="#Sunset" target="#IgersPhx" weight="100" />
+      <edge id="36" source="#USGBCplus" target="#LEED" weight="100" />
+      <edge id="37" source="#Planning" target="#Transportation" weight="200" />
+      <edge id="38" source="#Planning" target="#Urban" weight="100" />
+      <edge id="39" source="#Planning" target="#City" weight="100" />
+      <edge id="40" source="#Transportation" target="#Economics" weight="100" />
+      <edge id="41" source="#Transportation" target="#Urban" weight="100" />
+      <edge id="42" source="#Transportation" target="#City" weight="100" />
+      <edge id="43" source="#preservation" target="#Proud" weight="100" />
+      <edge id="44" source="#preservation" target="#design" weight="100" />
+      <edge id="45" source="#City" target="#Urban" weight="100" />
+      <edge id="46" source="#cities" target="#Highways" weight="100" />
+      <edge id="47" source="#bike" target="#infrastructure" weight="100" />
+      <edge id="48" source="#placemaking" target="#dtphx" weight="100" />
+      <edge id="49" source="#Boston" target="#StLouis" weight="100" />
+      <edge id="50" source="#Boston" target="#civictech" weight="100" />
+      <edge id="51" source="#biketothemarket" target="#dtphx" weight="100" />
+      <edge id="52" source="#Cartago" target="#CostaRica" weight="100" />
+      <edge id="53" source="#Cartago" target="#smartcities" weight="100" />
+      <edge id="54" source="#civictech" target="#StLouis" weight="100" />
+      <edge id="55" source="#KAEC" target="#Cityquest" weight="100" />
+      <edge id="56" source="#smartcities" target="#CostaRica" weight="100" />
+      <edge id="57" source="#IgersPhx" target="#InstagramAZ" weight="100" />
+      <edge id="58" source="#design" target="#Proud" weight="100" />
+      <edge id="59" source="#dtphx" target="#opensair" weight="100" />
+      <edge id="60" source="#FutureofPlaces" target="#UrbanThinkers" weight="100" />
+    </edges>
+  </graph>
+</gexf>

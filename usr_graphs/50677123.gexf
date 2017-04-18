@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Trayvon" label="#Trayvon" />
+      <node id="#jaywalkers" label="#jaywalkers" />
+      <node id="#PACER" label="#PACER" />
+      <node id="#lockdown" label="#lockdown" />
+      <node id="#kipcamp" label="#kipcamp" />
+      <node id="#fireworks" label="#fireworks" />
+      <node id="#Nationwide" label="#Nationwide" />
+      <node id="#OlentangySchools" label="#OlentangySchools" />
+      <node id="#tremors" label="#tremors" />
+      <node id="#Goodale" label="#Goodale" />
+      <node id="#Dublin" label="#Dublin" />
+      <node id="#Marshawn" label="#Marshawn" />
+      <node id="#vodka" label="#vodka" />
+      <node id="#RNCconvention" label="#RNCconvention" />
+      <node id="#autism" label="#autism" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#arena" label="#arena" />
+      <node id="#BuckeyeValley" label="#BuckeyeValley" />
+      <node id="#sepsis" label="#sepsis" />
+      <node id="#OhioU" label="#OhioU" />
+      <node id="#Groveport" label="#Groveport" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#PUCO" label="#PUCO" />
+      <node id="#BatRally" label="#BatRally" />
+      <node id="#levy" label="#levy" />
+      <node id="#evacuation" label="#evacuation" />
+      <node id="#ComFest" label="#ComFest" />
+      <node id="#Recycling" label="#Recycling" />
+      <node id="#landbank" label="#landbank" />
+      <node id="#PublicRecords" label="#PublicRecords" />
+      <node id="#superintendent" label="#superintendent" />
+      <node id="#CPS" label="#CPS" />
+      <node id="#exceljokes" label="#exceljokes" />
+      <node id="#GoPriusGo" label="#GoPriusGo" />
+      <node id="#PresidentObama" label="#PresidentObama" />
+      <node id="#science" label="#science" />
+      <node id="#casino" label="#casino" />
+      <node id="#groundhog" label="#groundhog" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#killed" label="#killed" />
+      <node id="#JeSuisCharlie" label="#JeSuisCharlie" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#ad" label="#ad" />
+      <node id="#Bexley" label="#Bexley" />
+      <node id="#UA" label="#UA" />
+      <node id="#NorthFork" label="#NorthFork" />
+      <node id="#Kenyon" label="#Kenyon" />
+      <node id="#Goodalepark" label="#Goodalepark" />
+      <node id="#Cbus200" label="#Cbus200" />
+      <node id="#PokemonGo" label="#PokemonGo" />
+      <node id="#NHLlockout" label="#NHLlockout" />
+      <node id="#banksy" label="#banksy" />
+      <node id="#SnowTrails" label="#SnowTrails" />
+      <node id="#AEP" label="#AEP" />
+      <node id="#OhioUniversity" label="#OhioUniversity" />
+      <node id="#SciotoMile" label="#SciotoMile" />
+      <node id="#FranklinCounty" label="#FranklinCounty" />
+      <node id="#OU" label="#OU" />
+      <node id="#RACEmovie" label="#RACEmovie" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#bacon" label="#bacon" />
+      <node id="#Urban" label="#Urban" />
+      <node id="#WBNS" label="#WBNS" />
+      <node id="#Blackwell" label="#Blackwell" />
+      <node id="#RecyColumbus" label="#RecyColumbus" />
+      <node id="#DontCatchAndDrive" label="#DontCatchAndDrive" />
+      <node id="#graffiti" label="#graffiti" />
+      <node id="#DublinColumbusOhio" label="#DublinColumbusOhio" />
+      <node id="#nikeplus" label="#nikeplus" />
+      <node id="#flu" label="#flu" />
+      <node id="#makeitcount" label="#makeitcount" />
+      <node id="#jesseowens" label="#jesseowens" />
+      <node id="#Arena" label="#Arena" />
+      <node id="#Weddington" label="#Weddington" />
+      <node id="#SpEd" label="#SpEd" />
+      <node id="#Schools" label="#Schools" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Trayvon" target="#Cbus" weight="2129" />
+      <edge id="1" source="#jaywalkers" target="#Cbus" weight="2129" />
+      <edge id="2" source="#PACER" target="#kipcamp" weight="2129" />
+      <edge id="3" source="#lockdown" target="#evacuation" weight="2129" />
+      <edge id="4" source="#kipcamp" target="#Blackwell" weight="2129" />
+      <edge id="5" source="#kipcamp" target="#exceljokes" weight="2129" />
+      <edge id="6" source="#kipcamp" target="#Cbus" weight="2129" />
+      <edge id="7" source="#fireworks" target="#Cbus200" weight="2129" />
+      <edge id="8" source="#Nationwide" target="#CBJ" weight="6387" />
+      <edge id="9" source="#OlentangySchools" target="#PublicRecords" weight="2129" />
+      <edge id="10" source="#tremors" target="#SnowTrails" weight="2129" />
+      <edge id="11" source="#Goodale" target="#ComFest" weight="2129" />
+      <edge id="12" source="#Dublin" target="#OhioUniversity" weight="2129" />
+      <edge id="13" source="#Marshawn" target="#groundhog" weight="2129" />
+      <edge id="14" source="#vodka" target="#bacon" weight="2129" />
+      <edge id="15" source="#RNCconvention" target="#Cbus" weight="2129" />
+      <edge id="16" source="#autism" target="#SpEd" weight="2129" />
+      <edge id="17" source="#Cbus" target="#Goodalepark" weight="2129" />
+      <edge id="18" source="#Cbus" target="#AEP" weight="2129" />
+      <edge id="19" source="#Cbus" target="#PUCO" weight="2129" />
+      <edge id="20" source="#Cbus" target="#graffiti" weight="2129" />
+      <edge id="21" source="#Cbus" target="#Buckeyes" weight="2129" />
+      <edge id="22" source="#Cbus" target="#Weddington" weight="2129" />
+      <edge id="23" source="#NHL" target="#CBJ" weight="2129" />
+      <edge id="24" source="#NHL" target="#NHLlockout" weight="2129" />
+      <edge id="25" source="#arena" target="#casino" weight="2129" />
+      <edge id="26" source="#arena" target="#SciotoMile" weight="2129" />
+      <edge id="27" source="#BuckeyeValley" target="#levy" weight="2129" />
+      <edge id="28" source="#BuckeyeValley" target="#NorthFork" weight="2129" />
+      <edge id="29" source="#BuckeyeValley" target="#Groveport" weight="2129" />
+      <edge id="30" source="#sepsis" target="#flu" weight="2129" />
+      <edge id="31" source="#sepsis" target="#killed" weight="2129" />
+      <edge id="32" source="#OhioU" target="#BatRally" weight="2129" />
+      <edge id="33" source="#Groveport" target="#levy" weight="2129" />
+      <edge id="34" source="#Groveport" target="#NorthFork" weight="2129" />
+      <edge id="35" source="#NBA" target="#Columbus" weight="2129" />
+      <edge id="36" source="#PUCO" target="#AEP" weight="2129" />
+      <edge id="37" source="#levy" target="#NorthFork" weight="2129" />
+      <edge id="38" source="#Recycling" target="#CPS" weight="2129" />
+      <edge id="39" source="#landbank" target="#Columbus" weight="2129" />
+      <edge id="40" source="#landbank" target="#FranklinCounty" weight="2129" />
+      <edge id="41" source="#superintendent" target="#UA" weight="2129" />
+      <edge id="42" source="#GoPriusGo" target="#ad" weight="2129" />
+      <edge id="43" source="#PresidentObama" target="#OhioState" weight="2129" />
+      <edge id="44" source="#science" target="#Bexley" weight="2129" />
+      <edge id="45" source="#casino" target="#SciotoMile" weight="2129" />
+      <edge id="46" source="#CBJ" target="#NHLlockout" weight="2129" />
+      <edge id="47" source="#killed" target="#flu" weight="2129" />
+      <edge id="48" source="#JeSuisCharlie" target="#banksy" weight="2129" />
+      <edge id="49" source="#OhioState" target="#Kenyon" weight="2129" />
+      <edge id="50" source="#OhioState" target="#Urban" weight="2129" />
+      <edge id="51" source="#OhioState" target="#OU" weight="2129" />
+      <edge id="52" source="#PokemonGo" target="#DontCatchAndDrive" weight="2129" />
+      <edge id="53" source="#FranklinCounty" target="#Arena" weight="2129" />
+      <edge id="54" source="#FranklinCounty" target="#Columbus" weight="2129" />
+      <edge id="55" source="#RACEmovie" target="#jesseowens" weight="2129" />
+      <edge id="56" source="#Columbus" target="#WBNS" weight="2129" />
+      <edge id="57" source="#Columbus" target="#Schools" weight="2129" />
+      <edge id="58" source="#RecyColumbus" target="#DublinColumbusOhio" weight="2129" />
+      <edge id="59" source="#nikeplus" target="#makeitcount" weight="2129" />
+    </edges>
+  </graph>
+</gexf>

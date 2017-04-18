@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#economist" label="#economist" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#gameinsight" label="#gameinsight" />
+      <node id="#ShakingBoots" label="#ShakingBoots" />
+      <node id="#orange2016" label="#orange2016" />
+      <node id="#PennState" label="#PennState" />
+      <node id="#Startups" label="#Startups" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#FTW" label="#FTW" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#TRUTH" label="#TRUTH" />
+      <node id="#XFiles" label="#XFiles" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#science" label="#science" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#ChrisCarter" label="#ChrisCarter" />
+      <node id="#PSU" label="#PSU" />
+      <node id="#Windians" label="#Windians" />
+      <node id="#RedCrossMonth" label="#RedCrossMonth" />
+      <node id="#triberolling" label="#triberolling" />
+      <node id="#nottooshabby" label="#nottooshabby" />
+      <node id="#ALLinCLE" label="#ALLinCLE" />
+      <node id="#infographics" label="#infographics" />
+      <node id="#lin" label="#lin" />
+      <node id="#buckeyenation" label="#buckeyenation" />
+      <node id="#Awesome" label="#Awesome" />
+      <node id="#android" label="#android" />
+      <node id="#commonlaw" label="#commonlaw" />
+      <node id="#ALLIN" label="#ALLIN" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#tigerblood" label="#tigerblood" />
+      <node id="#PureRage" label="#PureRage" />
+      <node id="#immigration" label="#immigration" />
+      <node id="#androidgames" label="#androidgames" />
+      <node id="#BRONRISING" label="#BRONRISING" />
+      <node id="#TheLand" label="#TheLand" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#economist" target="#commonlaw" weight="599" />
+      <edge id="1" source="#economist" target="#science" weight="599" />
+      <edge id="2" source="#economist" target="#immigration" weight="599" />
+      <edge id="3" source="#WorldSeries" target="#ShakingBoots" weight="599" />
+      <edge id="4" source="#WorldSeries" target="#RallyTogether" weight="1198" />
+      <edge id="5" source="#gameinsight" target="#android" weight="599" />
+      <edge id="6" source="#gameinsight" target="#androidgames" weight="599" />
+      <edge id="7" source="#ShakingBoots" target="#RallyTogether" weight="599" />
+      <edge id="8" source="#orange2016" target="#RallyTogether" weight="599" />
+      <edge id="9" source="#PennState" target="#PSU" weight="599" />
+      <edge id="10" source="#Startups" target="#Awesome" weight="599" />
+      <edge id="11" source="#Buckeyes" target="#FTW" weight="599" />
+      <edge id="12" source="#NBAFinals" target="#ALLinCLE" weight="599" />
+      <edge id="13" source="#TRUTH" target="#BRONRISING" weight="599" />
+      <edge id="14" source="#XFiles" target="#ChrisCarter" weight="599" />
+      <edge id="15" source="#XFiles" target="#tbt" weight="599" />
+      <edge id="16" source="#tbt" target="#ChrisCarter" weight="599" />
+      <edge id="17" source="#science" target="#commonlaw" weight="599" />
+      <edge id="18" source="#science" target="#immigration" weight="599" />
+      <edge id="19" source="#Windians" target="#PureRage" weight="599" />
+      <edge id="20" source="#RedCrossMonth" target="#tigerblood" weight="599" />
+      <edge id="21" source="#triberolling" target="#MLB" weight="599" />
+      <edge id="22" source="#nottooshabby" target="#buckeyenation" weight="599" />
+      <edge id="23" source="#infographics" target="#lin" weight="599" />
+      <edge id="24" source="#android" target="#androidgames" weight="599" />
+      <edge id="25" source="#commonlaw" target="#immigration" weight="599" />
+      <edge id="26" source="#ALLIN" target="#TheLand" weight="599" />
+    </edges>
+  </graph>
+</gexf>

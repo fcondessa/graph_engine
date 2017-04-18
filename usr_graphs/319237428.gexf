@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#IHM2016" label="#IHM2016" />
+      <node id="#ImmigrantHeritageMonth" label="#ImmigrantHeritageMonth" />
+      <node id="#16days" label="#16days" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#DAPA" label="#DAPA" />
+      <node id="#RightsAtRisk" label="#RightsAtRisk" />
+      <node id="#StopTheRaids" label="#StopTheRaids" />
+      <node id="#FightForfamilies" label="#FightForfamilies" />
+      <node id="#MensHealth" label="#MensHealth" />
+      <node id="#LetsGetTested" label="#LetsGetTested" />
+      <node id="#PPAthens" label="#PPAthens" />
+      <node id="#autumn2015" label="#autumn2015" />
+      <node id="#PlannedParenthood" label="#PlannedParenthood" />
+      <node id="#EqualPayDay" label="#EqualPayDay" />
+      <node id="#endVAW" label="#endVAW" />
+      <node id="#HIV" label="#HIV" />
+      <node id="#WeWontGoBack" label="#WeWontGoBack" />
+      <node id="#DACA" label="#DACA" />
+      <node id="#PinkOut" label="#PinkOut" />
+      <node id="#wagegap" label="#wagegap" />
+      <node id="#CervicalHealth" label="#CervicalHealth" />
+      <node id="#condomcouture" label="#condomcouture" />
+      <node id="#Solidarity" label="#Solidarity" />
+      <node id="#ReproHealth" label="#ReproHealth" />
+      <node id="#OvarianCancer" label="#OvarianCancer" />
+      <node id="#repohealth" label="#repohealth" />
+      <node id="#StandwithPP" label="#StandwithPP" />
+      <node id="#BHM" label="#BHM" />
+      <node id="#Scandal" label="#Scandal" />
+      <node id="#reprorights" label="#reprorights" />
+      <node id="#lovefromPPFA" label="#lovefromPPFA" />
+      <node id="#inthistogether" label="#inthistogether" />
+      <node id="#Pride" label="#Pride" />
+      <node id="#WeArePP" label="#WeArePP" />
+      <node id="#CondomWeek" label="#CondomWeek" />
+      <node id="#StandWithPP" label="#StandWithPP" />
+      <node id="#ComingOut" label="#ComingOut" />
+      <node id="#ReclaimRoe" label="#ReclaimRoe" />
+      <node id="#reprojustice" label="#reprojustice" />
+      <node id="#PinkOUT" label="#PinkOUT" />
+      <node id="#OHStandsWithPP" label="#OHStandsWithPP" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#IHM2016" target="#ImmigrantHeritageMonth" weight="672" />
+      <edge id="1" source="#IHM2016" target="#StopTheRaids" weight="672" />
+      <edge id="2" source="#ImmigrantHeritageMonth" target="#StopTheRaids" weight="672" />
+      <edge id="3" source="#16days" target="#reprojustice" weight="672" />
+      <edge id="4" source="#16days" target="#endVAW" weight="2688" />
+      <edge id="5" source="#Obamacare" target="#CervicalHealth" weight="672" />
+      <edge id="6" source="#DAPA" target="#FightForfamilies" weight="672" />
+      <edge id="7" source="#DAPA" target="#DACA" weight="1344" />
+      <edge id="8" source="#RightsAtRisk" target="#reprorights" weight="672" />
+      <edge id="9" source="#FightForfamilies" target="#DACA" weight="672" />
+      <edge id="10" source="#MensHealth" target="#Pride" weight="672" />
+      <edge id="11" source="#LetsGetTested" target="#HIV" weight="672" />
+      <edge id="12" source="#PPAthens" target="#autumn2015" weight="1344" />
+      <edge id="13" source="#PlannedParenthood" target="#StandWithPP" weight="672" />
+      <edge id="14" source="#PlannedParenthood" target="#WeArePP" weight="1344" />
+      <edge id="15" source="#EqualPayDay" target="#wagegap" weight="1344" />
+      <edge id="16" source="#endVAW" target="#reprojustice" weight="672" />
+      <edge id="17" source="#WeWontGoBack" target="#ReclaimRoe" weight="1344" />
+      <edge id="18" source="#PinkOut" target="#StandWithPP" weight="2688" />
+      <edge id="19" source="#condomcouture" target="#CondomWeek" weight="672" />
+      <edge id="20" source="#Solidarity" target="#StandWithPP" weight="672" />
+      <edge id="21" source="#ReproHealth" target="#StandWithPP" weight="672" />
+      <edge id="22" source="#OvarianCancer" target="#StandWithPP" weight="672" />
+      <edge id="23" source="#repohealth" target="#StandWithPP" weight="672" />
+      <edge id="24" source="#StandwithPP" target="#lovefromPPFA" weight="672" />
+      <edge id="25" source="#StandwithPP" target="#inthistogether" weight="672" />
+      <edge id="26" source="#BHM" target="#StandWithPP" weight="672" />
+      <edge id="27" source="#Scandal" target="#StandWithPP" weight="672" />
+      <edge id="28" source="#Scandal" target="#OHStandsWithPP" weight="672" />
+      <edge id="29" source="#lovefromPPFA" target="#inthistogether" weight="672" />
+      <edge id="30" source="#StandWithPP" target="#ComingOut" weight="672" />
+      <edge id="31" source="#StandWithPP" target="#PinkOUT" weight="1344" />
+      <edge id="32" source="#StandWithPP" target="#OHStandsWithPP" weight="4032" />
+    </edges>
+  </graph>
+</gexf>

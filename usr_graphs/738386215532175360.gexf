@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Managing" label="#Managing" />
+      <node id="#360Video" label="#360Video" />
+      <node id="#Rihanna" label="#Rihanna" />
+      <node id="#Editor" label="#Editor" />
+      <node id="#virtualreality" label="#virtualreality" />
+      <node id="#LearnRoomscale" label="#LearnRoomscale" />
+      <node id="#DF16" label="#DF16" />
+      <node id="#ar" label="#ar" />
+      <node id="#vr" label="#vr" />
+      <node id="#InternationalPodcastDay" label="#InternationalPodcastDay" />
+      <node id="#Storytelling" label="#Storytelling" />
+      <node id="#CalvinHarris" label="#CalvinHarris" />
+      <node id="#SleepNoMore" label="#SleepNoMore" />
+      <node id="#investments" label="#investments" />
+      <node id="#entertainment" label="#entertainment" />
+      <node id="#Westworld" label="#Westworld" />
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#PokemonGo" label="#PokemonGo" />
+      <node id="#musicfestivals" label="#musicfestivals" />
+      <node id="#VirtualReality" label="#VirtualReality" />
+      <node id="#Hollywood" label="#Hollywood" />
+      <node id="#Content" label="#Content" />
+      <node id="#Sweden" label="#Sweden" />
+      <node id="#Photoville2016" label="#Photoville2016" />
+      <node id="#AR" label="#AR" />
+      <node id="#notafraidtobeservicey" label="#notafraidtobeservicey" />
+      <node id="#VR" label="#VR" />
+      <node id="#PSVR" label="#PSVR" />
+      <node id="#StockPhotos" label="#StockPhotos" />
+      <node id="#FridayFOV" label="#FridayFOV" />
+      <node id="#AI" label="#AI" />
+      <node id="#Einstein" label="#Einstein" />
+      <node id="#PokemonGO" label="#PokemonGO" />
+      <node id="#AIforEveryone" label="#AIforEveryone" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Managing" target="#Hollywood" weight="146" />
+      <edge id="1" source="#Managing" target="#AR" weight="146" />
+      <edge id="2" source="#Managing" target="#VR" weight="146" />
+      <edge id="3" source="#Managing" target="#investments" weight="146" />
+      <edge id="4" source="#Managing" target="#Editor" weight="146" />
+      <edge id="5" source="#Managing" target="#entertainment" weight="146" />
+      <edge id="6" source="#360Video" target="#Rihanna" weight="146" />
+      <edge id="7" source="#360Video" target="#CalvinHarris" weight="146" />
+      <edge id="8" source="#360Video" target="#VirtualReality" weight="146" />
+      <edge id="9" source="#Rihanna" target="#CalvinHarris" weight="146" />
+      <edge id="10" source="#Rihanna" target="#VirtualReality" weight="146" />
+      <edge id="11" source="#Editor" target="#Hollywood" weight="146" />
+      <edge id="12" source="#Editor" target="#AR" weight="146" />
+      <edge id="13" source="#Editor" target="#VR" weight="146" />
+      <edge id="14" source="#Editor" target="#investments" weight="146" />
+      <edge id="15" source="#Editor" target="#entertainment" weight="146" />
+      <edge id="16" source="#virtualreality" target="#VR" weight="292" />
+      <edge id="17" source="#virtualreality" target="#musicfestivals" weight="146" />
+      <edge id="18" source="#virtualreality" target="#PSVR" weight="146" />
+      <edge id="19" source="#virtualreality" target="#InternationalPodcastDay" weight="146" />
+      <edge id="20" source="#LearnRoomscale" target="#VR" weight="146" />
+      <edge id="21" source="#DF16" target="#Einstein" weight="146" />
+      <edge id="22" source="#DF16" target="#AIforEveryone" weight="292" />
+      <edge id="23" source="#ar" target="#vr" weight="146" />
+      <edge id="24" source="#Storytelling" target="#VR" weight="292" />
+      <edge id="25" source="#CalvinHarris" target="#VirtualReality" weight="146" />
+      <edge id="26" source="#SleepNoMore" target="#VR" weight="146" />
+      <edge id="27" source="#investments" target="#Hollywood" weight="146" />
+      <edge id="28" source="#investments" target="#AR" weight="146" />
+      <edge id="29" source="#investments" target="#VR" weight="146" />
+      <edge id="30" source="#investments" target="#entertainment" weight="146" />
+      <edge id="31" source="#entertainment" target="#Hollywood" weight="146" />
+      <edge id="32" source="#entertainment" target="#AR" weight="146" />
+      <edge id="33" source="#entertainment" target="#VR" weight="146" />
+      <edge id="34" source="#Westworld" target="#AI" weight="146" />
+      <edge id="35" source="#Westworld" target="#VR" weight="146" />
+      <edge id="36" source="#Rio2016" target="#VR" weight="146" />
+      <edge id="37" source="#PokemonGo" target="#AR" weight="146" />
+      <edge id="38" source="#PokemonGo" target="#VR" weight="146" />
+      <edge id="39" source="#VirtualReality" target="#VR" weight="292" />
+      <edge id="40" source="#VirtualReality" target="#Photoville2016" weight="146" />
+      <edge id="41" source="#Hollywood" target="#AR" weight="146" />
+      <edge id="42" source="#Hollywood" target="#VR" weight="146" />
+      <edge id="43" source="#Content" target="#VR" weight="146" />
+      <edge id="44" source="#Sweden" target="#VR" weight="146" />
+      <edge id="45" source="#AR" target="#VR" weight="876" />
+      <edge id="46" source="#AR" target="#AI" weight="146" />
+      <edge id="47" source="#AR" target="#PokemonGO" weight="146" />
+      <edge id="48" source="#notafraidtobeservicey" target="#VR" weight="146" />
+      <edge id="49" source="#VR" target="#VR" weight="292" />
+      <edge id="50" source="#VR" target="#PSVR" weight="292" />
+      <edge id="51" source="#VR" target="#StockPhotos" weight="146" />
+      <edge id="52" source="#VR" target="#FridayFOV" weight="292" />
+      <edge id="53" source="#VR" target="#AI" weight="292" />
+      <edge id="54" source="#VR" target="#PokemonGO" weight="146" />
+      <edge id="55" source="#StockPhotos" target="#FridayFOV" weight="146" />
+      <edge id="56" source="#Einstein" target="#AIforEveryone" weight="146" />
+    </edges>
+  </graph>
+</gexf>

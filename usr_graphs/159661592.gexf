@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NewCrew" label="#NewCrew" />
+      <node id="#FlyingJ" label="#FlyingJ" />
+      <node id="#ElectrifyAfrica" label="#ElectrifyAfrica" />
+      <node id="#wow" label="#wow" />
+      <node id="#SoundOff" label="#SoundOff" />
+      <node id="#SpiritDay" label="#SpiritDay" />
+      <node id="#Crew96" label="#Crew96" />
+      <node id="#LGBT" label="#LGBT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NewCrew" target="#Crew96" weight="450" />
+      <edge id="1" source="#FlyingJ" target="#wow" weight="450" />
+      <edge id="2" source="#ElectrifyAfrica" target="#SoundOff" weight="450" />
+      <edge id="3" source="#SpiritDay" target="#LGBT" weight="450" />
+    </edges>
+  </graph>
+</gexf>

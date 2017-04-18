@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#scotus" label="#scotus" />
+      <node id="#lightbank" label="#lightbank" />
+      <node id="#bluegrass" label="#bluegrass" />
+      <node id="#TEDxColumbus" label="#TEDxColumbus" />
+      <node id="#StartupCincy" label="#StartupCincy" />
+      <node id="#ohiojobs" label="#ohiojobs" />
+      <node id="#equality" label="#equality" />
+      <node id="#dpc" label="#dpc" />
+      <node id="#ecommerce" label="#ecommerce" />
+      <node id="#dontlistentohaters" label="#dontlistentohaters" />
+      <node id="#alpineslide" label="#alpineslide" />
+      <node id="#cmh" label="#cmh" />
+      <node id="#FounderCon" label="#FounderCon" />
+      <node id="#merica" label="#merica" />
+      <node id="#rbg" label="#rbg" />
+      <node id="#missouriroots" label="#missouriroots" />
+      <node id="#country" label="#country" />
+      <node id="#beyourself" label="#beyourself" />
+      <node id="#ilovemywife" label="#ilovemywife" />
+      <node id="#americameansjobs" label="#americameansjobs" />
+      <node id="#zipline" label="#zipline" />
+      <node id="#vtf" label="#vtf" />
+      <node id="#lookhuman" label="#lookhuman" />
+      <node id="#alwayshustle" label="#alwayshustle" />
+      <node id="#lga" label="#lga" />
+      <node id="#freethetampons" label="#freethetampons" />
+      <node id="#kinkyboots" label="#kinkyboots" />
+      <node id="#NotoriousRBG" label="#NotoriousRBG" />
+      <node id="#cnf" label="#cnf" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#scotus" target="#ilovemywife" weight="261" />
+      <edge id="1" source="#scotus" target="#equality" weight="261" />
+      <edge id="2" source="#lightbank" target="#vtf" weight="261" />
+      <edge id="3" source="#lightbank" target="#dpc" weight="261" />
+      <edge id="4" source="#lightbank" target="#cnf" weight="261" />
+      <edge id="5" source="#lightbank" target="#ecommerce" weight="261" />
+      <edge id="6" source="#bluegrass" target="#missouriroots" weight="261" />
+      <edge id="7" source="#bluegrass" target="#country" weight="261" />
+      <edge id="8" source="#TEDxColumbus" target="#freethetampons" weight="261" />
+      <edge id="9" source="#StartupCincy" target="#FounderCon" weight="261" />
+      <edge id="10" source="#ohiojobs" target="#americameansjobs" weight="261" />
+      <edge id="11" source="#ohiojobs" target="#merica" weight="261" />
+      <edge id="12" source="#ohiojobs" target="#rbg" weight="261" />
+      <edge id="13" source="#equality" target="#ilovemywife" weight="261" />
+      <edge id="14" source="#dpc" target="#cnf" weight="261" />
+      <edge id="15" source="#dpc" target="#vtf" weight="261" />
+      <edge id="16" source="#dontlistentohaters" target="#alwayshustle" weight="261" />
+      <edge id="17" source="#alpineslide" target="#zipline" weight="261" />
+      <edge id="18" source="#cmh" target="#lga" weight="261" />
+      <edge id="19" source="#merica" target="#americameansjobs" weight="261" />
+      <edge id="20" source="#merica" target="#rbg" weight="261" />
+      <edge id="21" source="#rbg" target="#americameansjobs" weight="261" />
+      <edge id="22" source="#missouriroots" target="#country" weight="261" />
+      <edge id="23" source="#beyourself" target="#kinkyboots" weight="261" />
+      <edge id="24" source="#vtf" target="#cnf" weight="261" />
+      <edge id="25" source="#lookhuman" target="#NotoriousRBG" weight="261" />
+    </edges>
+  </graph>
+</gexf>

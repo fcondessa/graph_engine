@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#WhitePeopleReportStuff" label="#WhitePeopleReportStuff" />
+      <node id="#Syria" label="#Syria" />
+      <node id="#Belgrade" label="#Belgrade" />
+      <node id="#Florida" label="#Florida" />
+      <node id="#Corbyn" label="#Corbyn" />
+      <node id="#theapprentice" label="#theapprentice" />
+      <node id="#KansasPlot" label="#KansasPlot" />
+      <node id="#found" label="#found" />
+      <node id="#invoice" label="#invoice" />
+      <node id="#surrealist" label="#surrealist" />
+      <node id="#game4" label="#game4" />
+      <node id="#trumptapes" label="#trumptapes" />
+      <node id="#ALCS2016" label="#ALCS2016" />
+      <node id="#leaked" label="#leaked" />
+      <node id="#nlds" label="#nlds" />
+      <node id="#NotYourMascot" label="#NotYourMascot" />
+      <node id="#HurricaneMatthew" label="#HurricaneMatthew" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#WhitePeopleReportStuff" target="#KansasPlot" weight="3244" />
+      <edge id="1" source="#Syria" target="#Corbyn" weight="3244" />
+      <edge id="2" source="#Belgrade" target="#surrealist" weight="3244" />
+      <edge id="3" source="#Florida" target="#HurricaneMatthew" weight="3244" />
+      <edge id="4" source="#theapprentice" target="#trumptapes" weight="3244" />
+      <edge id="5" source="#found" target="#invoice" weight="3244" />
+      <edge id="6" source="#found" target="#leaked" weight="3244" />
+      <edge id="7" source="#invoice" target="#leaked" weight="3244" />
+      <edge id="8" source="#game4" target="#nlds" weight="3244" />
+      <edge id="9" source="#ALCS2016" target="#NotYourMascot" weight="3244" />
+    </edges>
+  </graph>
+</gexf>

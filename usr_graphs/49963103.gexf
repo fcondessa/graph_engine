@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#seasonalrecipes" label="#seasonalrecipes" />
+      <node id="#NeverForget" label="#NeverForget" />
+      <node id="#retail" label="#retail" />
+      <node id="#realestate" label="#realestate" />
+      <node id="#multifamily" label="#multifamily" />
+      <node id="#stocks" label="#stocks" />
+      <node id="#Tweetup" label="#Tweetup" />
+      <node id="#thankyou" label="#thankyou" />
+      <node id="#Quotes" label="#Quotes" />
+      <node id="#lkld" label="#lkld" />
+      <node id="#CASTOnews" label="#CASTOnews" />
+      <node id="#redevelopment" label="#redevelopment" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#RECon13" label="#RECon13" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#NOWHIRING" label="#NOWHIRING" />
+      <node id="#RECon16" label="#RECon16" />
+      <node id="#RECon15" label="#RECon15" />
+      <node id="#RECon14" label="#RECon14" />
+      <node id="#RECon" label="#RECon" />
+      <node id="#NowOpen" label="#NowOpen" />
+      <node id="#RetailNews" label="#RetailNews" />
+      <node id="#Walmart" label="#Walmart" />
+      <node id="#NEWS" label="#NEWS" />
+      <node id="#UnitedWeStand" label="#UnitedWeStand" />
+      <node id="#cheapgas" label="#cheapgas" />
+      <node id="#RECon2014" label="#RECon2014" />
+      <node id="#NowHiring" label="#NowHiring" />
+      <node id="#WeCouldntDoItWithoutYou" label="#WeCouldntDoItWithoutYou" />
+      <node id="#StoneRidgePlaza" label="#StoneRidgePlaza" />
+      <node id="#LEASING" label="#LEASING" />
+      <node id="#hyperlocal" label="#hyperlocal" />
+      <node id="#PDT" label="#PDT" />
+      <node id="#MtProspect" label="#MtProspect" />
+      <node id="#ICSC" label="#ICSC" />
+      <node id="#MondayMotivation" label="#MondayMotivation" />
+      <node id="#teamCASTO" label="#teamCASTO" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#Penney" label="#Penney" />
+      <node id="#shopping" label="#shopping" />
+      <node id="#BridgeStreetDistrict" label="#BridgeStreetDistrict" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#Immigration" label="#Immigration" />
+      <node id="#Castoinfo" label="#Castoinfo" />
+      <node id="#Blockbuster" label="#Blockbuster" />
+      <node id="#LoopNet" label="#LoopNet" />
+      <node id="#GracelandShoppingCenter" label="#GracelandShoppingCenter" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#grandbaldwin" label="#grandbaldwin" />
+      <node id="#foursquare" label="#foursquare" />
+      <node id="#honored" label="#honored" />
+      <node id="#TullerFlats" label="#TullerFlats" />
+      <node id="#castoinfo" label="#castoinfo" />
+      <node id="#Borders" label="#Borders" />
+      <node id="#WellnessMatters" label="#WellnessMatters" />
+      <node id="#walnuthills" label="#walnuthills" />
+      <node id="#REIT" label="#REIT" />
+      <node id="#housing" label="#housing" />
+      <node id="#toledo" label="#toledo" />
+      <node id="#shoppingcenter" label="#shoppingcenter" />
+      <node id="#SIOR" label="#SIOR" />
+      <node id="#Investment" label="#Investment" />
+      <node id="#Kettering" label="#Kettering" />
+      <node id="#realesta" label="#realesta" />
+      <node id="#ExperienceItAll" label="#ExperienceItAll" />
+      <node id="#FF" label="#FF" />
+      <node id="#lkd" label="#lkd" />
+      <node id="#teens" label="#teens" />
+      <node id="#InternationalWomensDay" label="#InternationalWomensDay" />
+      <node id="#backtoschool" label="#backtoschool" />
+      <node id="#CanConv" label="#CanConv" />
+      <node id="#Follow" label="#Follow" />
+      <node id="#GSR" label="#GSR" />
+      <node id="#ReCon" label="#ReCon" />
+      <node id="#ThrowbackThursday" label="#ThrowbackThursday" />
+      <node id="#clt" label="#clt" />
+      <node id="#PatriotDay" label="#PatriotDay" />
+      <node id="#icsc" label="#icsc" />
+      <node id="#Target" label="#Target" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#REConChat" label="#REConChat" />
+      <node id="#CRE" label="#CRE" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#quotes" label="#quotes" />
+      <node id="#CASTO" label="#CASTO" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#hardware" label="#hardware" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#SM" label="#SM" />
+      <node id="#walmart" label="#walmart" />
+      <node id="#CookingDemo" label="#CookingDemo" />
+      <node id="#blackfriday" label="#blackfriday" />
+      <node id="#development" label="#development" />
+      <node id="#Macy" label="#Macy" />
+      <node id="#MLKDay" label="#MLKDay" />
+      <node id="#LEED" label="#LEED" />
+      <node id="#Chicagoland" label="#Chicagoland" />
+      <node id="#ThisIsAnAmazingCompany" label="#ThisIsAnAmazingCompany" />
+      <node id="#RETAIL" label="#RETAIL" />
+      <node id="#RealEstate" label="#RealEstate" />
+      <node id="#target" label="#target" />
+      <node id="#IWD2015" label="#IWD2015" />
+      <node id="#cincinnati" label="#cincinnati" />
+      <node id="#HappyHolidays" label="#HappyHolidays" />
+      <node id="#sm" label="#sm" />
+      <node id="#ColumbusOhio" label="#ColumbusOhio" />
+      <node id="#CoStar" label="#CoStar" />
+      <node id="#cre" label="#cre" />
+      <node id="#Grateful" label="#Grateful" />
+      <node id="#morrisvile" label="#morrisvile" />
+      <node id="#RadioShack" label="#RadioShack" />
+      <node id="#Kimco" label="#Kimco" />
+      <node id="#CEObestbiz" label="#CEObestbiz" />
+      <node id="#Buckeye" label="#Buckeye" />
+      <node id="#perrysburg" label="#perrysburg" />
+      <node id="#Menards" label="#Menards" />
+      <node id="#news" label="#news" />
+      <node id="#business" label="#business" />
+      <node id="#MotivationMonday" label="#MotivationMonday" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#VEGAS" label="#VEGAS" />
+      <node id="#SteveJobs" label="#SteveJobs" />
+      <node id="#Retail" label="#Retail" />
+      <node id="#lifestyle" label="#lifestyle" />
+      <node id="#ff" label="#ff" />
+      <node id="#recon" label="#recon" />
+      <node id="#leasing" label="#leasing" />
+      <node id="#Urban" label="#Urban" />
+      <node id="#RECON" label="#RECON" />
+      <node id="#garden" label="#garden" />
+      <node id="#ChiDM" label="#ChiDM" />
+      <node id="#NAR" label="#NAR" />
+      <node id="#HappyWomensDay" label="#HappyWomensDay" />
+      <node id="#randhurstvillage" label="#randhurstvillage" />
+      <node id="#TARGET" label="#TARGET" />
+      <node id="#HappyHalloween" label="#HappyHalloween" />
+      <node id="#history" label="#history" />
+      <node id="#ThankYou" label="#ThankYou" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#SUBWAY" label="#SUBWAY" />
+      <node id="#columbus_oh" label="#columbus_oh" />
+      <node id="#MOCIAL" label="#MOCIAL" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#mall" label="#mall" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#Contest" label="#Contest" />
+      <node id="#trends" label="#trends" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#seasonalrecipes" target="#WellnessMatters" weight="1550" />
+      <edge id="1" source="#seasonalrecipes" target="#CookingDemo" weight="1550" />
+      <edge id="2" source="#NeverForget" target="#UnitedWeStand" weight="1550" />
+      <edge id="3" source="#NeverForget" target="#PatriotDay" weight="1550" />
+      <edge id="4" source="#retail" target="#CRE" weight="13950" />
+      <edge id="5" source="#retail" target="#infographic" weight="1550" />
+      <edge id="6" source="#retail" target="#Buckeye" weight="1550" />
+      <edge id="7" source="#retail" target="#Facebook" weight="1550" />
+      <edge id="8" source="#retail" target="#realestate" weight="1550" />
+      <edge id="9" source="#retail" target="#multifamily" weight="1550" />
+      <edge id="10" source="#retail" target="#NEWS" weight="3100" />
+      <edge id="11" source="#retail" target="#stocks" weight="1550" />
+      <edge id="12" source="#retail" target="#CASTO" weight="3100" />
+      <edge id="13" source="#retail" target="#target" weight="3100" />
+      <edge id="14" source="#retail" target="#foursquare" weight="1550" />
+      <edge id="15" source="#retail" target="#hardware" weight="1550" />
+      <edge id="16" source="#retail" target="#Ohio" weight="1550" />
+      <edge id="17" source="#retail" target="#SM" weight="3100" />
+      <edge id="18" source="#retail" target="#history" weight="3100" />
+      <edge id="19" source="#retail" target="#castoinfo" weight="3100" />
+      <edge id="20" source="#retail" target="#trends" weight="1550" />
+      <edge id="21" source="#retail" target="#blackfriday" weight="1550" />
+      <edge id="22" source="#retail" target="#lifestyle" weight="1550" />
+      <edge id="23" source="#retail" target="#tbt" weight="1550" />
+      <edge id="24" source="#retail" target="#RECon15" weight="1550" />
+      <edge id="25" source="#retail" target="#shoppingcenter" weight="1550" />
+      <edge id="26" source="#retail" target="#leasing" weight="6200" />
+      <edge id="27" source="#retail" target="#MtProspect" weight="1550" />
+      <edge id="28" source="#retail" target="#garden" weight="1550" />
+      <edge id="29" source="#retail" target="#Walmart" weight="6200" />
+      <edge id="30" source="#retail" target="#realesta" weight="1550" />
+      <edge id="31" source="#retail" target="#TARGET" weight="1550" />
+      <edge id="32" source="#retail" target="#lkld" weight="1550" />
+      <edge id="33" source="#retail" target="#lkd" weight="1550" />
+      <edge id="34" source="#retail" target="#development" weight="1550" />
+      <edge id="35" source="#retail" target="#backtoschool" weight="1550" />
+      <edge id="36" source="#retail" target="#sm" weight="1550" />
+      <edge id="37" source="#retail" target="#cre" weight="1550" />
+      <edge id="38" source="#retail" target="#ICSC" weight="12400" />
+      <edge id="39" source="#retail" target="#columbus_oh" weight="1550" />
+      <edge id="40" source="#retail" target="#ThrowbackThursday" weight="1550" />
+      <edge id="41" source="#retail" target="#RadioShack" weight="1550" />
+      <edge id="42" source="#retail" target="#icsc" weight="6200" />
+      <edge id="43" source="#retail" target="#Target" weight="6200" />
+      <edge id="44" source="#retail" target="#FollowFriday" weight="1550" />
+      <edge id="45" source="#retail" target="#shopping" weight="1550" />
+      <edge id="46" source="#retail" target="#walmart" weight="1550" />
+      <edge id="47" source="#retail" target="#mobile" weight="1550" />
+      <edge id="48" source="#retail" target="#Blockbuster" weight="1550" />
+      <edge id="49" source="#realestate" target="#columbus_oh" weight="1550" />
+      <edge id="50" source="#realestate" target="#multifamily" weight="1550" />
+      <edge id="51" source="#realestate" target="#realesta" weight="1550" />
+      <edge id="52" source="#realestate" target="#development" weight="1550" />
+      <edge id="53" source="#multifamily" target="#columbus_oh" weight="1550" />
+      <edge id="54" source="#multifamily" target="#realesta" weight="1550" />
+      <edge id="55" source="#multifamily" target="#development" weight="1550" />
+      <edge id="56" source="#Tweetup" target="#ICSC" weight="1550" />
+      <edge id="57" source="#thankyou" target="#GivingTuesday" weight="1550" />
+      <edge id="58" source="#thankyou" target="#honored" weight="1550" />
+      <edge id="59" source="#Quotes" target="#MotivationMonday" weight="1550" />
+      <edge id="60" source="#lkld" target="#leasing" weight="1550" />
+      <edge id="61" source="#lkld" target="#SUBWAY" weight="1550" />
+      <edge id="62" source="#CASTOnews" target="#leasing" weight="1550" />
+      <edge id="63" source="#redevelopment" target="#housing" weight="1550" />
+      <edge id="64" source="#redevelopment" target="#Columbus" weight="1550" />
+      <edge id="65" source="#redevelopment" target="#CRE" weight="1550" />
+      <edge id="66" source="#redevelopment" target="#development" weight="1550" />
+      <edge id="67" source="#redevelopment" target="#Ohio" weight="1550" />
+      <edge id="68" source="#tbt" target="#Dayton" weight="1550" />
+      <edge id="69" source="#tbt" target="#history" weight="1550" />
+      <edge id="70" source="#tbt" target="#HappyHalloween" weight="1550" />
+      <edge id="71" source="#RECon13" target="#ThrowbackThursday" weight="1550" />
+      <edge id="72" source="#RECon13" target="#REConChat" weight="1550" />
+      <edge id="73" source="#RECon13" target="#CRE" weight="1550" />
+      <edge id="74" source="#Chicago" target="#Borders" weight="1550" />
+      <edge id="75" source="#Chicago" target="#CRE" weight="1550" />
+      <edge id="76" source="#Chicago" target="#randhurstvillage" weight="1550" />
+      <edge id="77" source="#NOWHIRING" target="#MotivationMonday" weight="1550" />
+      <edge id="78" source="#RECon16" target="#RealEstate" weight="1550" />
+      <edge id="79" source="#RECon16" target="#ICSC" weight="1550" />
+      <edge id="80" source="#RECon16" target="#Retail" weight="1550" />
+      <edge id="81" source="#RECon15" target="#CASTO" weight="1550" />
+      <edge id="82" source="#RECon15" target="#CRE" weight="3100" />
+      <edge id="83" source="#RECon14" target="#ICSC" weight="1550" />
+      <edge id="84" source="#RECon14" target="#FF" weight="3100" />
+      <edge id="85" source="#RECon14" target="#RECon" weight="1550" />
+      <edge id="86" source="#RECon" target="#ICSC" weight="12400" />
+      <edge id="87" source="#NowOpen" target="#leasing" weight="1550" />
+      <edge id="88" source="#RetailNews" target="#RetailNews" weight="3100" />
+      <edge id="89" source="#Walmart" target="#Target" weight="1550" />
+      <edge id="90" source="#NEWS" target="#Kettering" weight="1550" />
+      <edge id="91" source="#NEWS" target="#CRE" weight="3100" />
+      <edge id="92" source="#NEWS" target="#RETAIL" weight="1550" />
+      <edge id="93" source="#NEWS" target="#CASTO" weight="3100" />
+      <edge id="94" source="#NEWS" target="#Contest" weight="1550" />
+      <edge id="95" source="#NEWS" target="#LEASING" weight="1550" />
+      <edge id="96" source="#NEWS" target="#cincinnati" weight="1550" />
+      <edge id="97" source="#NEWS" target="#leasing" weight="1550" />
+      <edge id="98" source="#UnitedWeStand" target="#PatriotDay" weight="1550" />
+      <edge id="99" source="#cheapgas" target="#ExperienceItAll" weight="1550" />
+      <edge id="100" source="#RECon2014" target="#ICSC" weight="1550" />
+      <edge id="101" source="#NowHiring" target="#cbus" weight="1550" />
+      <edge id="102" source="#NowHiring" target="#perrysburg" weight="1550" />
+      <edge id="103" source="#NowHiring" target="#Columbus" weight="1550" />
+      <edge id="104" source="#NowHiring" target="#toledo" weight="1550" />
+      <edge id="105" source="#NowHiring" target="#Ohio" weight="3100" />
+      <edge id="106" source="#WeCouldntDoItWithoutYou" target="#ThisIsAnAmazingCompany" weight="1550" />
+      <edge id="107" source="#StoneRidgePlaza" target="#FF" weight="1550" />
+      <edge id="108" source="#StoneRidgePlaza" target="#CRE" weight="1550" />
+      <edge id="109" source="#LEASING" target="#Kettering" weight="1550" />
+      <edge id="110" source="#LEASING" target="#CASTO" weight="1550" />
+      <edge id="111" source="#hyperlocal" target="#business" weight="1550" />
+      <edge id="112" source="#hyperlocal" target="#morrisvile" weight="1550" />
+      <edge id="113" source="#PDT" target="#walnuthills" weight="1550" />
+      <edge id="114" source="#PDT" target="#grandbaldwin" weight="1550" />
+      <edge id="115" source="#MtProspect" target="#leasing" weight="1550" />
+      <edge id="116" source="#MtProspect" target="#CRE" weight="1550" />
+      <edge id="117" source="#ICSC" target="#ReCon" weight="1550" />
+      <edge id="118" source="#ICSC" target="#mobile" weight="1550" />
+      <edge id="119" source="#ICSC" target="#REIT" weight="1550" />
+      <edge id="120" source="#ICSC" target="#CRE" weight="10850" />
+      <edge id="121" source="#ICSC" target="#MOCIAL" weight="1550" />
+      <edge id="122" source="#ICSC" target="#CanConv" weight="1550" />
+      <edge id="123" source="#ICSC" target="#Retail" weight="3100" />
+      <edge id="124" source="#ICSC" target="#recon" weight="1550" />
+      <edge id="125" source="#ICSC" target="#RealEstate" weight="1550" />
+      <edge id="126" source="#ICSC" target="#teamCASTO" weight="1550" />
+      <edge id="127" source="#ICSC" target="#backtoschool" weight="1550" />
+      <edge id="128" source="#ICSC" target="#RECON" weight="4650" />
+      <edge id="129" source="#ICSC" target="#Ohio" weight="1550" />
+      <edge id="130" source="#ICSC" target="#holiday" weight="1550" />
+      <edge id="131" source="#ICSC" target="#SocialMedia" weight="1550" />
+      <edge id="132" source="#MondayMotivation" target="#quotes" weight="1550" />
+      <edge id="133" source="#teamCASTO" target="#Ohio" weight="1550" />
+      <edge id="134" source="#FollowFriday" target="#FF" weight="1550" />
+      <edge id="135" source="#FollowFriday" target="#CRE" weight="4650" />
+      <edge id="136" source="#cbus" target="#Urban" weight="1550" />
+      <edge id="137" source="#cbus" target="#honored" weight="1550" />
+      <edge id="138" source="#cbus" target="#CRE" weight="1550" />
+      <edge id="139" source="#cbus" target="#jobs" weight="1550" />
+      <edge id="140" source="#Penney" target="#Macy" weight="1550" />
+      <edge id="141" source="#Penney" target="#Retail" weight="1550" />
+      <edge id="142" source="#shopping" target="#blackfriday" weight="1550" />
+      <edge id="143" source="#BridgeStreetDistrict" target="#TullerFlats" weight="1550" />
+      <edge id="144" source="#Facebook" target="#SM" weight="1550" />
+      <edge id="145" source="#Facebook" target="#foursquare" weight="1550" />
+      <edge id="146" source="#Immigration" target="#Retail" weight="1550" />
+      <edge id="147" source="#Castoinfo" target="#LEED" weight="3100" />
+      <edge id="148" source="#LoopNet" target="#CoStar" weight="1550" />
+      <edge id="149" source="#GracelandShoppingCenter" target="#FF" weight="1550" />
+      <edge id="150" source="#GracelandShoppingCenter" target="#ColumbusOhio" weight="1550" />
+      <edge id="151" source="#GracelandShoppingCenter" target="#CRE" weight="1550" />
+      <edge id="152" source="#GracelandShoppingCenter" target="#HappyHolidays" weight="1550" />
+      <edge id="153" source="#ICYMI" target="#Columbus" weight="1550" />
+      <edge id="154" source="#ICYMI" target="#CRE" weight="1550" />
+      <edge id="155" source="#grandbaldwin" target="#walnuthills" weight="1550" />
+      <edge id="156" source="#foursquare" target="#SM" weight="1550" />
+      <edge id="157" source="#honored" target="#GivingTuesday" weight="1550" />
+      <edge id="158" source="#honored" target="#CRE" weight="1550" />
+      <edge id="159" source="#castoinfo" target="#Target" weight="1550" />
+      <edge id="160" source="#Borders" target="#CRE" weight="1550" />
+      <edge id="161" source="#Borders" target="#randhurstvillage" weight="1550" />
+      <edge id="162" source="#WellnessMatters" target="#CookingDemo" weight="1550" />
+      <edge id="163" source="#REIT" target="#CRE" weight="1550" />
+      <edge id="164" source="#housing" target="#Columbus" weight="1550" />
+      <edge id="165" source="#housing" target="#CRE" weight="1550" />
+      <edge id="166" source="#housing" target="#development" weight="1550" />
+      <edge id="167" source="#housing" target="#Ohio" weight="1550" />
+      <edge id="168" source="#toledo" target="#perrysburg" weight="1550" />
+      <edge id="169" source="#toledo" target="#Ohio" weight="1550" />
+      <edge id="170" source="#shoppingcenter" target="#trends" weight="1550" />
+      <edge id="171" source="#SIOR" target="#NAR" weight="1550" />
+      <edge id="172" source="#Investment" target="#Columbus" weight="1550" />
+      <edge id="173" source="#Investment" target="#CBUS" weight="1550" />
+      <edge id="174" source="#Kettering" target="#CASTO" weight="1550" />
+      <edge id="175" source="#realesta" target="#columbus_oh" weight="1550" />
+      <edge id="176" source="#realesta" target="#development" weight="1550" />
+      <edge id="177" source="#FF" target="#ColumbusOhio" weight="1550" />
+      <edge id="178" source="#FF" target="#cre" weight="3100" />
+      <edge id="179" source="#FF" target="#Menards" weight="1550" />
+      <edge id="180" source="#FF" target="#Chicagoland" weight="1550" />
+      <edge id="181" source="#FF" target="#CRE" weight="15500" />
+      <edge id="182" source="#teens" target="#mall" weight="1550" />
+      <edge id="183" source="#InternationalWomensDay" target="#HappyWomensDay" weight="1550" />
+      <edge id="184" source="#InternationalWomensDay" target="#IWD2015" weight="1550" />
+      <edge id="185" source="#Follow" target="#CRE" weight="1550" />
+      <edge id="186" source="#GSR" target="#ChiDM" weight="1550" />
+      <edge id="187" source="#GSR" target="#CRE" weight="1550" />
+      <edge id="188" source="#ThrowbackThursday" target="#history" weight="1550" />
+      <edge id="189" source="#ThrowbackThursday" target="#cre" weight="1550" />
+      <edge id="190" source="#ThrowbackThursday" target="#Ohio" weight="1550" />
+      <edge id="191" source="#clt" target="#leasing" weight="1550" />
+      <edge id="192" source="#icsc" target="#target" weight="1550" />
+      <edge id="193" source="#icsc" target="#cre" weight="1550" />
+      <edge id="194" source="#icsc" target="#hardware" weight="1550" />
+      <edge id="195" source="#icsc" target="#garden" weight="1550" />
+      <edge id="196" source="#Target" target="#Retail" weight="1550" />
+      <edge id="197" source="#Cincinnati" target="#CASTO" weight="1550" />
+      <edge id="198" source="#Cincinnati" target="#leasing" weight="1550" />
+      <edge id="199" source="#Cincinnati" target="#news" weight="1550" />
+      <edge id="200" source="#Cincinnati" target="#Retail" weight="1550" />
+      <edge id="201" source="#CRE" target="#CEObestbiz" weight="1550" />
+      <edge id="202" source="#CRE" target="#CASTO" weight="3100" />
+      <edge id="203" source="#CRE" target="#recon" weight="1550" />
+      <edge id="204" source="#CRE" target="#Ohio" weight="1550" />
+      <edge id="205" source="#CRE" target="#SM" weight="1550" />
+      <edge id="206" source="#CRE" target="#Retail" weight="1550" />
+      <edge id="207" source="#CRE" target="#development" weight="1550" />
+      <edge id="208" source="#CRE" target="#leasing" weight="3100" />
+      <edge id="209" source="#CRE" target="#ChiDM" weight="1550" />
+      <edge id="210" source="#CRE" target="#randhurstvillage" weight="1550" />
+      <edge id="211" source="#CRE" target="#Columbus" weight="3100" />
+      <edge id="212" source="#CRE" target="#Twitter" weight="1550" />
+      <edge id="213" source="#quotes" target="#SteveJobs" weight="1550" />
+      <edge id="214" source="#quotes" target="#MLKDay" weight="1550" />
+      <edge id="215" source="#quotes" target="#MotivationMonday" weight="6200" />
+      <edge id="216" source="#CASTO" target="#news" weight="1550" />
+      <edge id="217" source="#CASTO" target="#leasing" weight="3100" />
+      <edge id="218" source="#hardware" target="#garden" weight="1550" />
+      <edge id="219" source="#hardware" target="#target" weight="1550" />
+      <edge id="220" source="#hardware" target="#cre" weight="1550" />
+      <edge id="221" source="#Ohio" target="#history" weight="1550" />
+      <edge id="222" source="#Ohio" target="#perrysburg" weight="1550" />
+      <edge id="223" source="#Ohio" target="#development" weight="1550" />
+      <edge id="224" source="#Ohio" target="#Columbus" weight="1550" />
+      <edge id="225" source="#SM" target="#Twitter" weight="1550" />
+      <edge id="226" source="#walmart" target="#target" weight="1550" />
+      <edge id="227" source="#development" target="#columbus_oh" weight="1550" />
+      <edge id="228" source="#development" target="#Columbus" weight="1550" />
+      <edge id="229" source="#Macy" target="#Retail" weight="1550" />
+      <edge id="230" source="#MLKDay" target="#MotivationMonday" weight="1550" />
+      <edge id="231" source="#RETAIL" target="#Contest" weight="1550" />
+      <edge id="232" source="#RealEstate" target="#Retail" weight="1550" />
+      <edge id="233" source="#target" target="#cre" weight="1550" />
+      <edge id="234" source="#target" target="#garden" weight="1550" />
+      <edge id="235" source="#IWD2015" target="#HappyWomensDay" weight="1550" />
+      <edge id="236" source="#HappyHolidays" target="#ColumbusOhio" weight="1550" />
+      <edge id="237" source="#ColumbusOhio" target="#Menards" weight="1550" />
+      <edge id="238" source="#cre" target="#ff" weight="3100" />
+      <edge id="239" source="#cre" target="#garden" weight="1550" />
+      <edge id="240" source="#Grateful" target="#ThankYou" weight="1550" />
+      <edge id="241" source="#morrisvile" target="#business" weight="1550" />
+      <edge id="242" source="#Kimco" target="#Retail" weight="1550" />
+      <edge id="243" source="#news" target="#leasing" weight="3100" />
+      <edge id="244" source="#MotivationMonday" target="#SteveJobs" weight="1550" />
+      <edge id="245" source="#VEGAS" target="#RECON" weight="4650" />
+      <edge id="246" source="#RECON" target="#SocialMedia" weight="1550" />
+      <edge id="247" source="#Columbus" target="#CBUS" weight="1550" />
+    </edges>
+  </graph>
+</gexf>

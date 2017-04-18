@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#satanisreal" label="#satanisreal" />
+      <node id="#MoneyMonsterPays" label="#MoneyMonsterPays" />
+      <node id="#Sweeps" label="#Sweeps" />
+      <node id="#TheFinalSacrifice" label="#TheFinalSacrifice" />
+      <node id="#RIP" label="#RIP" />
+      <node id="#Republicandebate" label="#Republicandebate" />
+      <node id="#anarchy" label="#anarchy" />
+      <node id="#podcast" label="#podcast" />
+      <node id="#IsThereBeerOnTheSun" label="#IsThereBeerOnTheSun" />
+      <node id="#Rowsdower" label="#Rowsdower" />
+      <node id="#CanadaDay" label="#CanadaDay" />
+      <node id="#MST3K" label="#MST3K" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#FBF" label="#FBF" />
+      <node id="#BETAwards2015" label="#BETAwards2015" />
+      <node id="#Amish" label="#Amish" />
+      <node id="#comedy" label="#comedy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#satanisreal" target="#tbt" weight="3238" />
+      <edge id="1" source="#MoneyMonsterPays" target="#Sweeps" weight="3238" />
+      <edge id="2" source="#TheFinalSacrifice" target="#Rowsdower" weight="3238" />
+      <edge id="3" source="#TheFinalSacrifice" target="#CanadaDay" weight="3238" />
+      <edge id="4" source="#TheFinalSacrifice" target="#MST3K" weight="3238" />
+      <edge id="5" source="#TheFinalSacrifice" target="#IsThereBeerOnTheSun" weight="3238" />
+      <edge id="6" source="#RIP" target="#FBF" weight="3238" />
+      <edge id="7" source="#Republicandebate" target="#GOP" weight="3238" />
+      <edge id="8" source="#anarchy" target="#comedy" weight="3238" />
+      <edge id="9" source="#anarchy" target="#podcast" weight="3238" />
+      <edge id="10" source="#podcast" target="#comedy" weight="3238" />
+      <edge id="11" source="#IsThereBeerOnTheSun" target="#CanadaDay" weight="3238" />
+      <edge id="12" source="#IsThereBeerOnTheSun" target="#MST3K" weight="3238" />
+      <edge id="13" source="#IsThereBeerOnTheSun" target="#Rowsdower" weight="3238" />
+      <edge id="14" source="#Rowsdower" target="#CanadaDay" weight="3238" />
+      <edge id="15" source="#Rowsdower" target="#MST3K" weight="3238" />
+      <edge id="16" source="#CanadaDay" target="#MST3K" weight="3238" />
+      <edge id="17" source="#BETAwards2015" target="#Amish" weight="3238" />
+    </edges>
+  </graph>
+</gexf>

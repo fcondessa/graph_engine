@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Anisimov" label="#Anisimov" />
+      <node id="#SEC" label="#SEC" />
+      <node id="#BlueJackets" label="#BlueJackets" />
+      <node id="#JTB" label="#JTB" />
+      <node id="#BradyHoke" label="#BradyHoke" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#BIG" label="#BIG" />
+      <node id="#NHL" label="#NHL" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Anisimov" target="#BlueJackets" weight="25" />
+      <edge id="1" source="#SEC" target="#BradyHoke" weight="25" />
+      <edge id="2" source="#SEC" target="#BIG" weight="25" />
+      <edge id="3" source="#JTB" target="#CBJ" weight="25" />
+      <edge id="4" source="#JTB" target="#NHL" weight="25" />
+      <edge id="5" source="#BradyHoke" target="#BIG" weight="25" />
+      <edge id="6" source="#CBJ" target="#NHL" weight="25" />
+    </edges>
+  </graph>
+</gexf>

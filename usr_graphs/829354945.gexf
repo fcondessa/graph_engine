@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#nerd" label="#nerd" />
+      <node id="#Africanamericanwine" label="#Africanamericanwine" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#GreatBeer" label="#GreatBeer" />
+      <node id="#StarTrek" label="#StarTrek" />
+      <node id="#buildingabrewery" label="#buildingabrewery" />
+      <node id="#creamofthefrog" label="#creamofthefrog" />
+      <node id="#apa" label="#apa" />
+      <node id="#goodforanotheryear" label="#goodforanotheryear" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Froglicious" label="#Froglicious" />
+      <node id="#FEDEX" label="#FEDEX" />
+      <node id="#craftbeeer" label="#craftbeeer" />
+      <node id="#blackfrogbrewery" label="#blackfrogbrewery" />
+      <node id="#BuyLocal" label="#BuyLocal" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#blog" label="#blog" />
+      <node id="#GreatInterview" label="#GreatInterview" />
+      <node id="#craftbrew" label="#craftbrew" />
+      <node id="#localbrewery" label="#localbrewery" />
+      <node id="#nanobrewery" label="#nanobrewery" />
+      <node id="#beer" label="#beer" />
+      <node id="#grant" label="#grant" />
+      <node id="#brewer" label="#brewer" />
+      <node id="#microbrewery" label="#microbrewery" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#toledobeerweek" label="#toledobeerweek" />
+      <node id="#Supportblackbusiness" label="#Supportblackbusiness" />
+      <node id="#STL" label="#STL" />
+      <node id="#drinklocal" label="#drinklocal" />
+      <node id="#Beer" label="#Beer" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#greatbeerforgreatpeople" label="#greatbeerforgreatpeople" />
+      <node id="#brewery" label="#brewery" />
+      <node id="#ipa" label="#ipa" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#froglicious" label="#froglicious" />
+      <node id="#ohio" label="#ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#nerd" target="#StarTrek" weight="202" />
+      <edge id="1" source="#nerd" target="#beer" weight="202" />
+      <edge id="2" source="#Africanamericanwine" target="#Supportblackbusiness" weight="202" />
+      <edge id="3" source="#smallbiz" target="#brewery" weight="202" />
+      <edge id="4" source="#smallbiz" target="#Toledo" weight="202" />
+      <edge id="5" source="#smallbiz" target="#craftbeer" weight="202" />
+      <edge id="6" source="#GreatBeer" target="#GreatInterview" weight="202" />
+      <edge id="7" source="#StarTrek" target="#beer" weight="202" />
+      <edge id="8" source="#buildingabrewery" target="#drinklocal" weight="202" />
+      <edge id="9" source="#buildingabrewery" target="#microbrewery" weight="202" />
+      <edge id="10" source="#creamofthefrog" target="#froglicious" weight="202" />
+      <edge id="11" source="#apa" target="#froglicious" weight="202" />
+      <edge id="12" source="#goodforanotheryear" target="#greatbeerforgreatpeople" weight="202" />
+      <edge id="13" source="#Ohio" target="#Beer" weight="202" />
+      <edge id="14" source="#Ohio" target="#Toledo" weight="202" />
+      <edge id="15" source="#Ohio" target="#tbt" weight="202" />
+      <edge id="16" source="#Froglicious" target="#BuyLocal" weight="202" />
+      <edge id="17" source="#Froglicious" target="#CraftBeer" weight="202" />
+      <edge id="18" source="#FEDEX" target="#grant" weight="202" />
+      <edge id="19" source="#craftbeeer" target="#drinklocal" weight="202" />
+      <edge id="20" source="#blackfrogbrewery" target="#localbrewery" weight="202" />
+      <edge id="21" source="#BuyLocal" target="#CraftBeer" weight="202" />
+      <edge id="22" source="#innovation" target="#brewery" weight="202" />
+      <edge id="23" source="#innovation" target="#craftbeer" weight="202" />
+      <edge id="24" source="#blog" target="#Beer" weight="202" />
+      <edge id="25" source="#craftbrew" target="#ipa" weight="202" />
+      <edge id="26" source="#craftbrew" target="#craftbeer" weight="202" />
+      <edge id="27" source="#nanobrewery" target="#Toledo" weight="202" />
+      <edge id="28" source="#nanobrewery" target="#STL" weight="202" />
+      <edge id="29" source="#nanobrewery" target="#craftbeer" weight="202" />
+      <edge id="30" source="#brewer" target="#brewery" weight="202" />
+      <edge id="31" source="#microbrewery" target="#drinklocal" weight="202" />
+      <edge id="32" source="#Toledo" target="#toledobeerweek" weight="202" />
+      <edge id="33" source="#Toledo" target="#STL" weight="202" />
+      <edge id="34" source="#Toledo" target="#craftbeer" weight="1212" />
+      <edge id="35" source="#Toledo" target="#brewery" weight="202" />
+      <edge id="36" source="#Toledo" target="#ohio" weight="202" />
+      <edge id="37" source="#toledobeerweek" target="#craftbeer" weight="202" />
+      <edge id="38" source="#STL" target="#craftbeer" weight="202" />
+      <edge id="39" source="#Beer" target="#tbt" weight="202" />
+      <edge id="40" source="#craftbeer" target="#ipa" weight="202" />
+      <edge id="41" source="#craftbeer" target="#brewery" weight="404" />
+      <edge id="42" source="#craftbeer" target="#ohio" weight="202" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NBA" label="#NBA" />
+      <node id="#SecondAct" label="#SecondAct" />
+      <node id="#FortyUnder40" label="#FortyUnder40" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NBA" target="#RNC" weight="3218" />
+      <edge id="1" source="#SecondAct" target="#FortyUnder40" weight="9654" />
+      <edge id="2" source="#RNCinCLE" target="#DemsInPhilly" weight="3218" />
+    </edges>
+  </graph>
+</gexf>

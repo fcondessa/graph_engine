@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#cyberbullying" label="#cyberbullying" />
+      <node id="#too" label="#too" />
+      <node id="#ItsOnUs" label="#ItsOnUs" />
+      <node id="#Hillary" label="#Hillary" />
+      <node id="#VIN" label="#VIN" />
+      <node id="#sexualharassment" label="#sexualharassment" />
+      <node id="#ThankYouVin" label="#ThankYouVin" />
+      <node id="#woke" label="#woke" />
+      <node id="#Trump" label="#Trump" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#cyberbullying" target="#sexualharassment" weight="3239" />
+      <edge id="1" source="#cyberbullying" target="#ItsOnUs" weight="3239" />
+      <edge id="2" source="#too" target="#woke" weight="3239" />
+      <edge id="3" source="#ItsOnUs" target="#sexualharassment" weight="3239" />
+      <edge id="4" source="#Hillary" target="#Trump" weight="3239" />
+      <edge id="5" source="#VIN" target="#ThankYouVin" weight="3239" />
+    </edges>
+  </graph>
+</gexf>

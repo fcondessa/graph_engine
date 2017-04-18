@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Heineken" label="#Heineken" />
+      <node id="#Beer" label="#Beer" />
+      <node id="#SamAdams" label="#SamAdams" />
+      <node id="#beer" label="#beer" />
+      <node id="#beers" label="#beers" />
+      <node id="#breweries" label="#breweries" />
+      <node id="#shepherdneame" label="#shepherdneame" />
+      <node id="#Nigeria" label="#Nigeria" />
+      <node id="#Suntory" label="#Suntory" />
+      <node id="#Pub" label="#Pub" />
+      <node id="#Tsingtao" label="#Tsingtao" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Heineken" target="#Nigeria" weight="422" />
+      <edge id="1" source="#Heineken" target="#beer" weight="211" />
+      <edge id="2" source="#Beer" target="#Pub" weight="211" />
+      <edge id="3" source="#SamAdams" target="#beer" weight="211" />
+      <edge id="4" source="#SamAdams" target="#breweries" weight="211" />
+      <edge id="5" source="#SamAdams" target="#shepherdneame" weight="211" />
+      <edge id="6" source="#beer" target="#beers" weight="211" />
+      <edge id="7" source="#beer" target="#breweries" weight="211" />
+      <edge id="8" source="#beer" target="#shepherdneame" weight="211" />
+      <edge id="9" source="#beer" target="#Nigeria" weight="211" />
+      <edge id="10" source="#beer" target="#Suntory" weight="211" />
+      <edge id="11" source="#beer" target="#Tsingtao" weight="211" />
+      <edge id="12" source="#breweries" target="#shepherdneame" weight="211" />
+    </edges>
+  </graph>
+</gexf>

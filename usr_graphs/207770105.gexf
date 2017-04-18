@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#johnglenn" label="#johnglenn" />
+      <node id="#World" label="#World" />
+      <node id="#statistics" label="#statistics" />
+      <node id="#MidwestMLA15" label="#MidwestMLA15" />
+      <node id="#DemDebate" label="#DemDebate" />
+      <node id="#madhatter" label="#madhatter" />
+      <node id="#disasterresponse" label="#disasterresponse" />
+      <node id="#ILS" label="#ILS" />
+      <node id="#welcomeosu" label="#welcomeosu" />
+      <node id="#medlibs" label="#medlibs" />
+      <node id="#WLIC2016" label="#WLIC2016" />
+      <node id="#Lent" label="#Lent" />
+      <node id="#gobucks" label="#gobucks" />
+      <node id="#MLANET14" label="#MLANET14" />
+      <node id="#new2osu" label="#new2osu" />
+      <node id="#powerful" label="#powerful" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#consumerhealth" label="#consumerhealth" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#Toronto" label="#Toronto" />
+      <node id="#midwestmla15" label="#midwestmla15" />
+      <node id="#mla14selfie" label="#mla14selfie" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#dublinohio" label="#dublinohio" />
+      <node id="#SaaSyLibrary" label="#SaaSyLibrary" />
+      <node id="#Netherlands" label="#Netherlands" />
+      <node id="#poutine" label="#poutine" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#ACHA14" label="#ACHA14" />
+      <node id="#alao2013" label="#alao2013" />
+      <node id="#spiralcurriculum" label="#spiralcurriculum" />
+      <node id="#chromebooks" label="#chromebooks" />
+      <node id="#ClinicalSummit" label="#ClinicalSummit" />
+      <node id="#mlanet14" label="#mlanet14" />
+      <node id="#mlanet16" label="#mlanet16" />
+      <node id="#CNNDebate" label="#CNNDebate" />
+      <node id="#NetNeutrality" label="#NetNeutrality" />
+      <node id="#ThisIsAwesome" label="#ThisIsAwesome" />
+      <node id="#CancerSurvivor" label="#CancerSurvivor" />
+      <node id="#3dprinting" label="#3dprinting" />
+      <node id="#midmla16" label="#midmla16" />
+      <node id="#makerspace" label="#makerspace" />
+      <node id="#SRO" label="#SRO" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#johnglenn" target="#WLIC2016" weight="295" />
+      <edge id="1" source="#World" target="#WLIC2016" weight="295" />
+      <edge id="2" source="#World" target="#ThisIsAwesome" weight="295" />
+      <edge id="3" source="#World" target="#Columbus" weight="295" />
+      <edge id="4" source="#World" target="#Ohio" weight="295" />
+      <edge id="5" source="#statistics" target="#WLIC2016" weight="295" />
+      <edge id="6" source="#statistics" target="#SRO" weight="295" />
+      <edge id="7" source="#MidwestMLA15" target="#bigdata" weight="590" />
+      <edge id="8" source="#DemDebate" target="#CNNDebate" weight="590" />
+      <edge id="9" source="#madhatter" target="#mlanet16" weight="295" />
+      <edge id="10" source="#disasterresponse" target="#mlanet16" weight="295" />
+      <edge id="11" source="#disasterresponse" target="#medlibs" weight="295" />
+      <edge id="12" source="#ILS" target="#WLIC2016" weight="295" />
+      <edge id="13" source="#welcomeosu" target="#new2osu" weight="295" />
+      <edge id="14" source="#welcomeosu" target="#gobucks" weight="295" />
+      <edge id="15" source="#medlibs" target="#WLIC2016" weight="590" />
+      <edge id="16" source="#medlibs" target="#midmla16" weight="295" />
+      <edge id="17" source="#medlibs" target="#mlanet16" weight="590" />
+      <edge id="18" source="#medlibs" target="#mlanet14" weight="295" />
+      <edge id="19" source="#WLIC2016" target="#Ohio" weight="295" />
+      <edge id="20" source="#WLIC2016" target="#NetNeutrality" weight="295" />
+      <edge id="21" source="#WLIC2016" target="#ThisIsAwesome" weight="295" />
+      <edge id="22" source="#WLIC2016" target="#dublinohio" weight="295" />
+      <edge id="23" source="#WLIC2016" target="#Netherlands" weight="295" />
+      <edge id="24" source="#WLIC2016" target="#SRO" weight="295" />
+      <edge id="25" source="#WLIC2016" target="#Columbus" weight="295" />
+      <edge id="26" source="#WLIC2016" target="#CancerSurvivor" weight="295" />
+      <edge id="27" source="#Lent" target="#Facebook" weight="295" />
+      <edge id="28" source="#gobucks" target="#new2osu" weight="295" />
+      <edge id="29" source="#MLANET14" target="#ACHA14" weight="295" />
+      <edge id="30" source="#powerful" target="#ClinicalSummit" weight="295" />
+      <edge id="31" source="#consumerhealth" target="#mlanet16" weight="295" />
+      <edge id="32" source="#Ohio" target="#ThisIsAwesome" weight="295" />
+      <edge id="33" source="#Ohio" target="#Columbus" weight="295" />
+      <edge id="34" source="#Toronto" target="#mlanet16" weight="295" />
+      <edge id="35" source="#midwestmla15" target="#chromebooks" weight="295" />
+      <edge id="36" source="#midwestmla15" target="#3dprinting" weight="295" />
+      <edge id="37" source="#midwestmla15" target="#makerspace" weight="295" />
+      <edge id="38" source="#mla14selfie" target="#mlanet14" weight="295" />
+      <edge id="39" source="#SaaSyLibrary" target="#alao2013" weight="295" />
+      <edge id="40" source="#Netherlands" target="#CancerSurvivor" weight="295" />
+      <edge id="41" source="#poutine" target="#mlanet16" weight="295" />
+      <edge id="42" source="#Columbus" target="#ThisIsAwesome" weight="295" />
+      <edge id="43" source="#spiralcurriculum" target="#mlanet16" weight="295" />
+      <edge id="44" source="#3dprinting" target="#makerspace" weight="295" />
+    </edges>
+  </graph>
+</gexf>

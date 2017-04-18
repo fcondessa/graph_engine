@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#soupshamimg" label="#soupshamimg" />
+      <node id="#goldenglobes" label="#goldenglobes" />
+      <node id="#withyou" label="#withyou" />
+      <node id="#notallsoups" label="#notallsoups" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#secretcinema" label="#secretcinema" />
+      <node id="#timkaine" label="#timkaine" />
+      <node id="#goats" label="#goats" />
+      <node id="#deathbypacman" label="#deathbypacman" />
+      <node id="#JerryTaftTieWatch" label="#JerryTaftTieWatch" />
+      <node id="#dads" label="#dads" />
+      <node id="#soupdrama" label="#soupdrama" />
+      <node id="#abortion" label="#abortion" />
+      <node id="#Chignado" label="#Chignado" />
+      <node id="#joebiden" label="#joebiden" />
+      <node id="#deadchildren" label="#deadchildren" />
+      <node id="#leogetsaglobe" label="#leogetsaglobe" />
+      <node id="#Raddatz" label="#Raddatz" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#soupshamimg" target="#notallsoups" weight="3208" />
+      <edge id="1" source="#soupshamimg" target="#soupdrama" weight="3208" />
+      <edge id="2" source="#goldenglobes" target="#leogetsaglobe" weight="3208" />
+      <edge id="3" source="#withyou" target="#secretcinema" weight="3208" />
+      <edge id="4" source="#notallsoups" target="#soupdrama" weight="3208" />
+      <edge id="5" source="#DemsInPhilly" target="#joebiden" weight="3208" />
+      <edge id="6" source="#DemsInPhilly" target="#timkaine" weight="3208" />
+      <edge id="7" source="#goats" target="#deadchildren" weight="3208" />
+      <edge id="8" source="#goats" target="#deathbypacman" weight="3208" />
+      <edge id="9" source="#goats" target="#dads" weight="3208" />
+      <edge id="10" source="#deathbypacman" target="#deadchildren" weight="3208" />
+      <edge id="11" source="#deathbypacman" target="#dads" weight="3208" />
+      <edge id="12" source="#JerryTaftTieWatch" target="#Chignado" weight="3208" />
+      <edge id="13" source="#dads" target="#deadchildren" weight="3208" />
+      <edge id="14" source="#abortion" target="#Raddatz" weight="3208" />
+    </edges>
+  </graph>
+</gexf>

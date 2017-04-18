@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#prconf12" label="#prconf12" />
+      <node id="#green" label="#green" />
+      <node id="#FreeDownload" label="#FreeDownload" />
+      <node id="#CupidShuffle" label="#CupidShuffle" />
+      <node id="#time" label="#time" />
+      <node id="#KrogerPR" label="#KrogerPR" />
+      <node id="#money" label="#money" />
+      <node id="#elections" label="#elections" />
+      <node id="#Sandy" label="#Sandy" />
+      <node id="#Words" label="#Words" />
+      <node id="#greenbuilding" label="#greenbuilding" />
+      <node id="#Friday" label="#Friday" />
+      <node id="#fullglasscity" label="#fullglasscity" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#NoRhythm" label="#NoRhythm" />
+      <node id="#SharingCourage" label="#SharingCourage" />
+      <node id="#lovetheExtrahourofSleep" label="#lovetheExtrahourofSleep" />
+      <node id="#Twitter" label="#Twitter" />
+      <node id="#econews" label="#econews" />
+      <node id="#Denver" label="#Denver" />
+      <node id="#JamesCancerHospital" label="#JamesCancerHospital" />
+      <node id="#latenightflight" label="#latenightflight" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#prconf12" target="#latenightflight" weight="438" />
+      <edge id="1" source="#green" target="#econews" weight="438" />
+      <edge id="2" source="#FreeDownload" target="#Friday" weight="438" />
+      <edge id="3" source="#CupidShuffle" target="#NoRhythm" weight="438" />
+      <edge id="4" source="#time" target="#money" weight="438" />
+      <edge id="5" source="#KrogerPR" target="#Denver" weight="438" />
+      <edge id="6" source="#elections" target="#Sandy" weight="438" />
+      <edge id="7" source="#elections" target="#lovetheExtrahourofSleep" weight="438" />
+      <edge id="8" source="#Sandy" target="#lovetheExtrahourofSleep" weight="438" />
+      <edge id="9" source="#Words" target="#Twitter" weight="438" />
+      <edge id="10" source="#greenbuilding" target="#econews" weight="438" />
+      <edge id="11" source="#fullglasscity" target="#Toledo" weight="438" />
+      <edge id="12" source="#SharingCourage" target="#JamesCancerHospital" weight="438" />
+    </edges>
+  </graph>
+</gexf>

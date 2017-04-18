@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NorthWoods" label="#NorthWoods" />
+      <node id="#OGS11" label="#OGS11" />
+      <node id="#SEO" label="#SEO" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#project" label="#project" />
+      <node id="#MantaSMB" label="#MantaSMB" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#DeVry" label="#DeVry" />
+      <node id="#TechCOnnectOhio" label="#TechCOnnectOhio" />
+      <node id="#manager" label="#manager" />
+      <node id="#TechConnectColumbus" label="#TechConnectColumbus" />
+      <node id="#TechConectOhio" label="#TechConectOhio" />
+      <node id="#GREEN" label="#GREEN" />
+      <node id="#FF" label="#FF" />
+      <node id="#TCOH" label="#TCOH" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#BMW" label="#BMW" />
+      <node id="#OHGrowthSummit" label="#OHGrowthSummit" />
+      <node id="#2CO" label="#2CO" />
+      <node id="#OhioMeansJobs" label="#OhioMeansJobs" />
+      <node id="#TDCI" label="#TDCI" />
+      <node id="#JOBS" label="#JOBS" />
+      <node id="#NetJets" label="#NetJets" />
+      <node id="#it" label="#it" />
+      <node id="#job" label="#job" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#BBQ" label="#BBQ" />
+      <node id="#COMSAT" label="#COMSAT" />
+      <node id="#techconnectohio" label="#techconnectohio" />
+      <node id="#tcoh" label="#tcoh" />
+      <node id="#Northwoods" label="#Northwoods" />
+      <node id="#TechConnectOhio" label="#TechConnectOhio" />
+      <node id="#Motorists" label="#Motorists" />
+      <node id="#tech" label="#tech" />
+      <node id="#startups" label="#startups" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#SMBs" label="#SMBs" />
+      <node id="#OBDC" label="#OBDC" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NorthWoods" target="#TechConnectOhio" weight="1250" />
+      <edge id="1" source="#NorthWoods" target="#TCOH" weight="1250" />
+      <edge id="2" source="#OGS11" target="#OHGrowthSummit" weight="625" />
+      <edge id="3" source="#OGS11" target="#TCOH" weight="625" />
+      <edge id="4" source="#SEO" target="#MantaSMB" weight="625" />
+      <edge id="5" source="#Columbus" target="#job" weight="625" />
+      <edge id="6" source="#project" target="#manager" weight="625" />
+      <edge id="7" source="#project" target="#it" weight="625" />
+      <edge id="8" source="#Cbus" target="#TechConnectOhio" weight="625" />
+      <edge id="9" source="#Cbus" target="#TCOH" weight="625" />
+      <edge id="10" source="#DeVry" target="#TCOH" weight="625" />
+      <edge id="11" source="#TechCOnnectOhio" target="#TCOH" weight="625" />
+      <edge id="12" source="#manager" target="#it" weight="625" />
+      <edge id="13" source="#TechConnectColumbus" target="#TCOH" weight="625" />
+      <edge id="14" source="#TechConectOhio" target="#TCOH" weight="625" />
+      <edge id="15" source="#GREEN" target="#TCOH" weight="625" />
+      <edge id="16" source="#GREEN" target="#CBUS" weight="625" />
+      <edge id="17" source="#FF" target="#TCOH" weight="1250" />
+      <edge id="18" source="#TCOH" target="#TCOH" weight="1250" />
+      <edge id="19" source="#TCOH" target="#BMW" weight="625" />
+      <edge id="20" source="#TCOH" target="#2CO" weight="625" />
+      <edge id="21" source="#TCOH" target="#OhioMeansJobs" weight="1250" />
+      <edge id="22" source="#TCOH" target="#TDCI" weight="625" />
+      <edge id="23" source="#TCOH" target="#JOBS" weight="5625" />
+      <edge id="24" source="#TCOH" target="#NetJets" weight="625" />
+      <edge id="25" source="#TCOH" target="#BBQ" weight="625" />
+      <edge id="26" source="#TCOH" target="#COMSAT" weight="625" />
+      <edge id="27" source="#TCOH" target="#Northwoods" weight="1875" />
+      <edge id="28" source="#TCOH" target="#TechConnectOhio" weight="56875" />
+      <edge id="29" source="#TCOH" target="#Motorists" weight="625" />
+      <edge id="30" source="#TCOH" target="#tech" weight="625" />
+      <edge id="31" source="#TCOH" target="#CBUS" weight="14375" />
+      <edge id="32" source="#SocialMedia" target="#SMBs" weight="625" />
+      <edge id="33" source="#OhioMeansJobs" target="#TechConnectOhio" weight="625" />
+      <edge id="34" source="#JOBS" target="#tech" weight="625" />
+      <edge id="35" source="#JOBS" target="#TechConnectOhio" weight="1875" />
+      <edge id="36" source="#JOBS" target="#CBUS" weight="5625" />
+      <edge id="37" source="#smallbiz" target="#OBDC" weight="1250" />
+      <edge id="38" source="#smallbiz" target="#startups" weight="1250" />
+      <edge id="39" source="#COMSAT" target="#TechConnectOhio" weight="1875" />
+      <edge id="40" source="#techconnectohio" target="#tcoh" weight="625" />
+      <edge id="41" source="#Northwoods" target="#TechConnectOhio" weight="1250" />
+      <edge id="42" source="#TechConnectOhio" target="#CBUS" weight="3750" />
+      <edge id="43" source="#tech" target="#CBUS" weight="625" />
+      <edge id="44" source="#startups" target="#OBDC" weight="1250" />
+    </edges>
+  </graph>
+</gexf>

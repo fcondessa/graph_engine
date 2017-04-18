@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#rsf" label="#rsf" />
+      <node id="#passwords15" label="#passwords15" />
+      <node id="#OpenSSL" label="#OpenSSL" />
+      <node id="#ZFS" label="#ZFS" />
+      <node id="#poweroutage" label="#poweroutage" />
+      <node id="#freebsd" label="#freebsd" />
+      <node id="#passwordscon" label="#passwordscon" />
+      <node id="#edchat" label="#edchat" />
+      <node id="#comeformegmork" label="#comeformegmork" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#defcon" label="#defcon" />
+      <node id="#googlenews" label="#googlenews" />
+      <node id="#CivilWar" label="#CivilWar" />
+      <node id="#illumos" label="#illumos" />
+      <node id="#BadBIOS" label="#BadBIOS" />
+      <node id="#slightlyevil" label="#slightlyevil" />
+      <node id="#SilverPush" label="#SilverPush" />
+      <node id="#gratitude" label="#gratitude" />
+      <node id="#pbselection" label="#pbselection" />
+      <node id="#bsideslv" label="#bsideslv" />
+      <node id="#ad" label="#ad" />
+      <node id="#veteransforkaepernick" label="#veteransforkaepernick" />
+      <node id="#anc" label="#anc" />
+      <node id="#PBSElection" label="#PBSElection" />
+      <node id="#BSidesLV" label="#BSidesLV" />
+      <node id="#edtech" label="#edtech" />
+      <node id="#MS16047" label="#MS16047" />
+      <node id="#guiltyinak" label="#guiltyinak" />
+      <node id="#ruhrsec" label="#ruhrsec" />
+      <node id="#RSA" label="#RSA" />
+      <node id="#filterfail" label="#filterfail" />
+      <node id="#defcon2016" label="#defcon2016" />
+      <node id="#foodthatwontkillyou" label="#foodthatwontkillyou" />
+      <node id="#privacy" label="#privacy" />
+      <node id="#yubikey" label="#yubikey" />
+      <node id="#TLS" label="#TLS" />
+      <node id="#sponsored" label="#sponsored" />
+      <node id="#synfirsq" label="#synfirsq" />
+      <node id="#SQLite" label="#SQLite" />
+      <node id="#passwordstorage" label="#passwordstorage" />
+      <node id="#infosec" label="#infosec" />
+      <node id="#darkpatterns" label="#darkpatterns" />
+      <node id="#Prince" label="#Prince" />
+      <node id="#BadLock" label="#BadLock" />
+      <node id="#SSL" label="#SSL" />
+      <node id="#disclosure" label="#disclosure" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#rsf" target="#synfirsq" weight="1885" />
+      <edge id="1" source="#passwords15" target="#BSidesLV" weight="5655" />
+      <edge id="2" source="#passwords15" target="#passwordscon" weight="3770" />
+      <edge id="3" source="#passwords15" target="#passwords15" weight="3770" />
+      <edge id="4" source="#passwords15" target="#bsideslv" weight="1885" />
+      <edge id="5" source="#OpenSSL" target="#SQLite" weight="1885" />
+      <edge id="6" source="#ZFS" target="#freebsd" weight="1885" />
+      <edge id="7" source="#ZFS" target="#illumos" weight="1885" />
+      <edge id="8" source="#poweroutage" target="#anc" weight="1885" />
+      <edge id="9" source="#freebsd" target="#illumos" weight="1885" />
+      <edge id="10" source="#edchat" target="#edtech" weight="1885" />
+      <edge id="11" source="#comeformegmork" target="#guiltyinak" weight="1885" />
+      <edge id="12" source="#ICYMI" target="#Prince" weight="1885" />
+      <edge id="13" source="#defcon" target="#defcon2016" weight="1885" />
+      <edge id="14" source="#googlenews" target="#filterfail" weight="1885" />
+      <edge id="15" source="#CivilWar" target="#veteransforkaepernick" weight="1885" />
+      <edge id="16" source="#BadBIOS" target="#SilverPush" weight="1885" />
+      <edge id="17" source="#slightlyevil" target="#darkpatterns" weight="1885" />
+      <edge id="18" source="#gratitude" target="#foodthatwontkillyou" weight="1885" />
+      <edge id="19" source="#pbselection" target="#PBSElection" weight="1885" />
+      <edge id="20" source="#ad" target="#sponsored" weight="1885" />
+      <edge id="21" source="#MS16047" target="#BadLock" weight="1885" />
+      <edge id="22" source="#ruhrsec" target="#yubikey" weight="1885" />
+      <edge id="23" source="#RSA" target="#infosec" weight="1885" />
+      <edge id="24" source="#RSA" target="#TLS" weight="1885" />
+      <edge id="25" source="#privacy" target="#disclosure" weight="1885" />
+      <edge id="26" source="#TLS" target="#infosec" weight="1885" />
+      <edge id="27" source="#TLS" target="#SSL" weight="1885" />
+      <edge id="28" source="#passwordstorage" target="#infosec" weight="1885" />
+    </edges>
+  </graph>
+</gexf>

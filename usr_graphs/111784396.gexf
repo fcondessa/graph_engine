@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#Sandy" label="#Sandy" />
+      <node id="#HalftimeShow" label="#HalftimeShow" />
+      <node id="#veryusefulinfo" label="#veryusefulinfo" />
+      <node id="#boring" label="#boring" />
+      <node id="#nationwide" label="#nationwide" />
+      <node id="#InvisibleMindy" label="#InvisibleMindy" />
+      <node id="#energy" label="#energy" />
+      <node id="#fail" label="#fail" />
+      <node id="#notfunny" label="#notfunny" />
+      <node id="#Pediatric" label="#Pediatric" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#healthcarereform" label="#healthcarereform" />
+      <node id="#ironic" label="#ironic" />
+      <node id="#LMA12" label="#LMA12" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#DSW" label="#DSW" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#SuperBowl47" label="#SuperBowl47" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuperBowl" target="#HalftimeShow" weight="1242" />
+      <edge id="1" source="#SuperBowl" target="#boring" weight="621" />
+      <edge id="2" source="#SuperBowl" target="#nationwide" weight="1242" />
+      <edge id="3" source="#SuperBowl" target="#InvisibleMindy" weight="621" />
+      <edge id="4" source="#SuperBowl" target="#fail" weight="621" />
+      <edge id="5" source="#SuperBowl" target="#notfunny" weight="621" />
+      <edge id="6" source="#Sandy" target="#energy" weight="621" />
+      <edge id="7" source="#veryusefulinfo" target="#LMA12" weight="621" />
+      <edge id="8" source="#boring" target="#fail" weight="621" />
+      <edge id="9" source="#boring" target="#notfunny" weight="621" />
+      <edge id="10" source="#fail" target="#notfunny" weight="621" />
+      <edge id="11" source="#Pediatric" target="#Cancer" weight="621" />
+      <edge id="12" source="#cancer" target="#cancer" weight="1242" />
+      <edge id="13" source="#healthcarereform" target="#ACA" weight="621" />
+      <edge id="14" source="#ironic" target="#SuperBowl47" weight="621" />
+      <edge id="15" source="#DSW" target="#CyberMonday" weight="621" />
+    </edges>
+  </graph>
+</gexf>

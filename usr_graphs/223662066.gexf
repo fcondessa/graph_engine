@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#FireKasich" label="#FireKasich" />
+      <node id="#WeAreOhio" label="#WeAreOhio" />
+      <node id="#StandupOH" label="#StandupOH" />
+      <node id="#NoDeal" label="#NoDeal" />
+      <node id="#KillSB5" label="#KillSB5" />
+      <node id="#OHUnion" label="#OHUnion" />
+      <node id="#peoplesparade" label="#peoplesparade" />
+      <node id="#weareohio" label="#weareohio" />
+      <node id="#kasichfail" label="#kasichfail" />
+      <node id="#VetoSB5" label="#VetoSB5" />
+      <node id="#KasichSucks" label="#KasichSucks" />
+      <node id="#kasichsucks" label="#kasichsucks" />
+      <node id="#VetoHB45" label="#VetoHB45" />
+      <node id="#NoOn2" label="#NoOn2" />
+      <node id="#standupoh" label="#standupoh" />
+      <node id="#Drunken" label="#Drunken" />
+      <node id="#DUI" label="#DUI" />
+      <node id="#SB5" label="#SB5" />
+      <node id="#firekasich" label="#firekasich" />
+      <node id="#Stripper" label="#Stripper" />
+      <node id="#kasicksucks" label="#kasicksucks" />
+      <node id="#ThanksGovStrickland" label="#ThanksGovStrickland" />
+      <node id="#Arrested" label="#Arrested" />
+      <node id="#wiunion" label="#wiunion" />
+      <node id="#standupohio" label="#standupohio" />
+      <node id="#KasichFail" label="#KasichFail" />
+      <node id="#AngryBuckeyes" label="#AngryBuckeyes" />
+      <node id="#StandUpOhio" label="#StandUpOhio" />
+      <node id="#angryOH" label="#angryOH" />
+      <node id="#SOTS" label="#SOTS" />
+      <node id="#hypocrisy" label="#hypocrisy" />
+      <node id="#sb5" label="#sb5" />
+      <node id="#OH" label="#OH" />
+      <node id="#p2" label="#p2" />
+      <node id="#Shame" label="#Shame" />
+      <node id="#StandUpOH" label="#StandUpOH" />
+      <node id="#protestsign" label="#protestsign" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#FireKasich" target="#AngryBuckeyes" weight="706" />
+      <edge id="1" source="#FireKasich" target="#KasichSucks" weight="706" />
+      <edge id="2" source="#FireKasich" target="#SB5" weight="706" />
+      <edge id="3" source="#FireKasich" target="#StandUpOH" weight="4236" />
+      <edge id="4" source="#FireKasich" target="#Shame" weight="706" />
+      <edge id="5" source="#FireKasich" target="#StandUpOhio" weight="706" />
+      <edge id="6" source="#WeAreOhio" target="#peoplesparade" weight="706" />
+      <edge id="7" source="#WeAreOhio" target="#KasichSucks" weight="1412" />
+      <edge id="8" source="#WeAreOhio" target="#VetoSB5" weight="706" />
+      <edge id="9" source="#WeAreOhio" target="#sb5" weight="706" />
+      <edge id="10" source="#WeAreOhio" target="#SB5" weight="706" />
+      <edge id="11" source="#WeAreOhio" target="#StandUpOH" weight="706" />
+      <edge id="12" source="#WeAreOhio" target="#OHUnion" weight="706" />
+      <edge id="13" source="#StandupOH" target="#OH" weight="706" />
+      <edge id="14" source="#StandupOH" target="#kasichsucks" weight="706" />
+      <edge id="15" source="#NoDeal" target="#NoOn2" weight="2118" />
+      <edge id="16" source="#NoDeal" target="#KasichSucks" weight="706" />
+      <edge id="17" source="#KillSB5" target="#standupoh" weight="706" />
+      <edge id="18" source="#KillSB5" target="#kasichsucks" weight="706" />
+      <edge id="19" source="#OHUnion" target="#SB5" weight="706" />
+      <edge id="20" source="#OHUnion" target="#StandUpOH" weight="706" />
+      <edge id="21" source="#peoplesparade" target="#sb5" weight="706" />
+      <edge id="22" source="#weareohio" target="#p2" weight="706" />
+      <edge id="23" source="#weareohio" target="#SB5" weight="706" />
+      <edge id="24" source="#weareohio" target="#standupoh" weight="706" />
+      <edge id="25" source="#kasichfail" target="#standupohio" weight="706" />
+      <edge id="26" source="#kasichfail" target="#standupoh" weight="706" />
+      <edge id="27" source="#kasichfail" target="#KasichSucks" weight="706" />
+      <edge id="28" source="#KasichSucks" target="#KasichFail" weight="706" />
+      <edge id="29" source="#KasichSucks" target="#angryOH" weight="706" />
+      <edge id="30" source="#KasichSucks" target="#NoOn2" weight="706" />
+      <edge id="31" source="#KasichSucks" target="#StandUpOH" weight="1412" />
+      <edge id="32" source="#KasichSucks" target="#ThanksGovStrickland" weight="706" />
+      <edge id="33" source="#kasichsucks" target="#standupoh" weight="2118" />
+      <edge id="34" source="#kasichsucks" target="#StandUpOH" weight="706" />
+      <edge id="35" source="#kasichsucks" target="#OH" weight="706" />
+      <edge id="36" source="#kasichsucks" target="#standupohio" weight="706" />
+      <edge id="37" source="#VetoHB45" target="#kasicksucks" weight="706" />
+      <edge id="38" source="#standupoh" target="#firekasich" weight="2118" />
+      <edge id="39" source="#standupoh" target="#kasicksucks" weight="706" />
+      <edge id="40" source="#standupoh" target="#SB5" weight="706" />
+      <edge id="41" source="#standupoh" target="#p2" weight="706" />
+      <edge id="42" source="#Drunken" target="#DUI" weight="706" />
+      <edge id="43" source="#Drunken" target="#Stripper" weight="706" />
+      <edge id="44" source="#Drunken" target="#Arrested" weight="706" />
+      <edge id="45" source="#DUI" target="#Stripper" weight="706" />
+      <edge id="46" source="#DUI" target="#Arrested" weight="706" />
+      <edge id="47" source="#SB5" target="#firekasich" weight="706" />
+      <edge id="48" source="#SB5" target="#standupohio" weight="706" />
+      <edge id="49" source="#SB5" target="#StandUpOH" weight="2118" />
+      <edge id="50" source="#SB5" target="#p2" weight="706" />
+      <edge id="51" source="#firekasich" target="#p2" weight="706" />
+      <edge id="52" source="#firekasich" target="#StandUpOH" weight="2118" />
+      <edge id="53" source="#firekasich" target="#standupohio" weight="1412" />
+      <edge id="54" source="#Stripper" target="#Arrested" weight="706" />
+      <edge id="55" source="#wiunion" target="#standupohio" weight="706" />
+      <edge id="56" source="#AngryBuckeyes" target="#StandUpOH" weight="706" />
+      <edge id="57" source="#angryOH" target="#StandUpOH" weight="706" />
+      <edge id="58" source="#SOTS" target="#sb5" weight="706" />
+      <edge id="59" source="#SOTS" target="#StandUpOH" weight="706" />
+      <edge id="60" source="#hypocrisy" target="#protestsign" weight="706" />
+      <edge id="61" source="#sb5" target="#StandUpOH" weight="706" />
+      <edge id="62" source="#p2" target="#StandUpOH" weight="706" />
+      <edge id="63" source="#Shame" target="#StandUpOH" weight="706" />
+    </edges>
+  </graph>
+</gexf>

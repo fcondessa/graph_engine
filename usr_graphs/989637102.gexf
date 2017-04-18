@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OhioEd" label="#OhioEd" />
+      <node id="#ECHSwk13" label="#ECHSwk13" />
+      <node id="#makebetterhappen" label="#makebetterhappen" />
+      <node id="#cbusedu" label="#cbusedu" />
+      <node id="#ohioed" label="#ohioed" />
+      <node id="#ibm" label="#ibm" />
+      <node id="#ohedchat" label="#ohedchat" />
+      <node id="#edchat" label="#edchat" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#rttt" label="#rttt" />
+      <node id="#edugovern" label="#edugovern" />
+      <node id="#SmartSeries" label="#SmartSeries" />
+      <node id="#foodfri" label="#foodfri" />
+      <node id="#ECHSWK13" label="#ECHSWK13" />
+      <node id="#OhioHouse" label="#OhioHouse" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#K12" label="#K12" />
+      <node id="#SOTCbus" label="#SOTCbus" />
+      <node id="#specialed" label="#specialed" />
+      <node id="#cyredjacket" label="#cyredjacket" />
+      <node id="#edpolicy" label="#edpolicy" />
+      <node id="#ece" label="#ece" />
+      <node id="#cpchat" label="#cpchat" />
+      <node id="#CommonCore" label="#CommonCore" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#ohed" label="#ohed" />
+      <node id="#education" label="#education" />
+      <node id="#OETChat" label="#OETChat" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#metroschool" label="#metroschool" />
+      <node id="#OETC13" label="#OETC13" />
+      <node id="#CbusEdu" label="#CbusEdu" />
+      <node id="#BYOD" label="#BYOD" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#blendedlearning" label="#blendedlearning" />
+      <node id="#Education" label="#Education" />
+      <node id="#yps4cbused" label="#yps4cbused" />
+      <node id="#OhioSenate" label="#OhioSenate" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#buckeye" label="#buckeye" />
+      <node id="#school" label="#school" />
+      <node id="#edreform" label="#edreform" />
+      <node id="#kipp" label="#kipp" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#uwcoc" label="#uwcoc" />
+      <node id="#edtech" label="#edtech" />
+      <node id="#BlendedLearning" label="#BlendedLearning" />
+      <node id="#ccss" label="#ccss" />
+      <node id="#battelle" label="#battelle" />
+      <node id="#Cbus" label="#Cbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OhioEd" target="#edreform" weight="1624" />
+      <edge id="1" source="#OhioEd" target="#K12" weight="1624" />
+      <edge id="2" source="#OhioEd" target="#cbusedu" weight="4872" />
+      <edge id="3" source="#OhioEd" target="#Cleveland" weight="1624" />
+      <edge id="4" source="#OhioEd" target="#edchat" weight="1624" />
+      <edge id="5" source="#ECHSwk13" target="#cbusedu" weight="1624" />
+      <edge id="6" source="#makebetterhappen" target="#cyredjacket" weight="1624" />
+      <edge id="7" source="#cbusedu" target="#ohioed" weight="1624" />
+      <edge id="8" source="#cbusedu" target="#ohedchat" weight="1624" />
+      <edge id="9" source="#cbusedu" target="#edchat" weight="1624" />
+      <edge id="10" source="#cbusedu" target="#Ohio" weight="1624" />
+      <edge id="11" source="#cbusedu" target="#rttt" weight="1624" />
+      <edge id="12" source="#cbusedu" target="#edugovern" weight="1624" />
+      <edge id="13" source="#cbusedu" target="#edreform" weight="1624" />
+      <edge id="14" source="#cbusedu" target="#OhioHouse" weight="1624" />
+      <edge id="15" source="#cbusedu" target="#Chicago" weight="1624" />
+      <edge id="16" source="#cbusedu" target="#SOTCbus" weight="6496" />
+      <edge id="17" source="#cbusedu" target="#specialed" weight="1624" />
+      <edge id="18" source="#cbusedu" target="#edpolicy" weight="1624" />
+      <edge id="19" source="#cbusedu" target="#ece" weight="12992" />
+      <edge id="20" source="#cbusedu" target="#cpchat" weight="6496" />
+      <edge id="21" source="#cbusedu" target="#CommonCore" weight="1624" />
+      <edge id="22" source="#cbusedu" target="#ohed" weight="1624" />
+      <edge id="23" source="#cbusedu" target="#education" weight="1624" />
+      <edge id="24" source="#cbusedu" target="#ECHSWK13" weight="1624" />
+      <edge id="25" source="#cbusedu" target="#STEM" weight="4872" />
+      <edge id="26" source="#cbusedu" target="#innovation" weight="1624" />
+      <edge id="27" source="#cbusedu" target="#Columbus" weight="1624" />
+      <edge id="28" source="#cbusedu" target="#blendedlearning" weight="1624" />
+      <edge id="29" source="#cbusedu" target="#Education" weight="1624" />
+      <edge id="30" source="#cbusedu" target="#OhioSenate" weight="1624" />
+      <edge id="31" source="#cbusedu" target="#school" weight="1624" />
+      <edge id="32" source="#cbusedu" target="#foodfri" weight="1624" />
+      <edge id="33" source="#cbusedu" target="#uwcoc" weight="4872" />
+      <edge id="34" source="#cbusedu" target="#edtech" weight="3248" />
+      <edge id="35" source="#cbusedu" target="#ccss" weight="4872" />
+      <edge id="36" source="#cbusedu" target="#Cbus" weight="1624" />
+      <edge id="37" source="#ohioed" target="#ohedchat" weight="3248" />
+      <edge id="38" source="#ohioed" target="#edchat" weight="1624" />
+      <edge id="39" source="#ibm" target="#kipp" weight="1624" />
+      <edge id="40" source="#ibm" target="#battelle" weight="1624" />
+      <edge id="41" source="#ibm" target="#metroschool" weight="1624" />
+      <edge id="42" source="#edchat" target="#Education" weight="1624" />
+      <edge id="43" source="#edchat" target="#Cleveland" weight="1624" />
+      <edge id="44" source="#edchat" target="#edreform" weight="1624" />
+      <edge id="45" source="#edchat" target="#STEM" weight="1624" />
+      <edge id="46" source="#edchat" target="#innovation" weight="1624" />
+      <edge id="47" source="#Ohio" target="#edreform" weight="1624" />
+      <edge id="48" source="#Ohio" target="#ohed" weight="1624" />
+      <edge id="49" source="#Ohio" target="#school" weight="1624" />
+      <edge id="50" source="#SmartSeries" target="#BlendedLearning" weight="1624" />
+      <edge id="51" source="#OhioHouse" target="#Columbus" weight="1624" />
+      <edge id="52" source="#OhioHouse" target="#OhioSenate" weight="1624" />
+      <edge id="53" source="#SOTCbus" target="#SOTCbus" weight="3248" />
+      <edge id="54" source="#cpchat" target="#education" weight="1624" />
+      <edge id="55" source="#cpchat" target="#CommonCore" weight="1624" />
+      <edge id="56" source="#cbus" target="#yps4cbused" weight="1624" />
+      <edge id="57" source="#ohed" target="#edreform" weight="1624" />
+      <edge id="58" source="#ohed" target="#school" weight="1624" />
+      <edge id="59" source="#OETChat" target="#OETC13" weight="1624" />
+      <edge id="60" source="#metroschool" target="#kipp" weight="1624" />
+      <edge id="61" source="#metroschool" target="#battelle" weight="1624" />
+      <edge id="62" source="#CbusEdu" target="#buckeye" weight="1624" />
+      <edge id="63" source="#CbusEdu" target="#SOTU" weight="1624" />
+      <edge id="64" source="#BYOD" target="#edtech" weight="1624" />
+      <edge id="65" source="#innovation" target="#Education" weight="1624" />
+      <edge id="66" source="#Columbus" target="#OhioSenate" weight="1624" />
+      <edge id="67" source="#blendedlearning" target="#edtech" weight="1624" />
+      <edge id="68" source="#school" target="#edreform" weight="1624" />
+      <edge id="69" source="#kipp" target="#battelle" weight="1624" />
+    </edges>
+  </graph>
+</gexf>

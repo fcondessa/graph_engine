@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#mustread" label="#mustread" />
+      <node id="#AllTheSingleBonobos" label="#AllTheSingleBonobos" />
+      <node id="#GamerGate" label="#GamerGate" />
+      <node id="#WorFlex" label="#WorFlex" />
+      <node id="#WorkLife" label="#WorkLife" />
+      <node id="#PutYourHandsUp" label="#PutYourHandsUp" />
+      <node id="#NotASelfie" label="#NotASelfie" />
+      <node id="#TeamLupita" label="#TeamLupita" />
+      <node id="#JustAPhoto" label="#JustAPhoto" />
+      <node id="#gender" label="#gender" />
+      <node id="#TeamJLaw" label="#TeamJLaw" />
+      <node id="#tw" label="#tw" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#mustread" target="#tw" weight="3220" />
+      <edge id="1" source="#AllTheSingleBonobos" target="#PutYourHandsUp" weight="3220" />
+      <edge id="2" source="#GamerGate" target="#GamerGate" weight="6440" />
+      <edge id="3" source="#WorFlex" target="#WorkLife" weight="3220" />
+      <edge id="4" source="#WorFlex" target="#gender" weight="3220" />
+      <edge id="5" source="#WorkLife" target="#gender" weight="3220" />
+      <edge id="6" source="#NotASelfie" target="#JustAPhoto" weight="3220" />
+      <edge id="7" source="#TeamLupita" target="#TeamJLaw" weight="3220" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#halloween" label="#halloween" />
+      <node id="#PITT" label="#PITT" />
+      <node id="#creative" label="#creative" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#economy" label="#economy" />
+      <node id="#Duke" label="#Duke" />
+      <node id="#FederalReserve" label="#FederalReserve" />
+      <node id="#ratehike" label="#ratehike" />
+      <node id="#Caturday" label="#Caturday" />
+      <node id="#Spring2017" label="#Spring2017" />
+      <node id="#FOMC" label="#FOMC" />
+      <node id="#SDHistory" label="#SDHistory" />
+      <node id="#Penguins" label="#Penguins" />
+      <node id="#2016usopen" label="#2016usopen" />
+      <node id="#newPittsburghHQ" label="#newPittsburghHQ" />
+      <node id="#cats" label="#cats" />
+      <node id="#progress" label="#progress" />
+      <node id="#LetsGoPens" label="#LetsGoPens" />
+      <node id="#Economy" label="#Economy" />
+      <node id="#Pittsburgh" label="#Pittsburgh" />
+      <node id="#popart" label="#popart" />
+      <node id="#Federated" label="#Federated" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#PAPeopleCount" label="#PAPeopleCount" />
+      <node id="#EnoughIsEnough" label="#EnoughIsEnough" />
+      <node id="#golfart" label="#golfart" />
+      <node id="#WeWantTheCup" label="#WeWantTheCup" />
+      <node id="#3dprinting" label="#3dprinting" />
+      <node id="#Yellen" label="#Yellen" />
+      <node id="#WallToWallStudios" label="#WallToWallStudios" />
+      <node id="#fedratehike" label="#fedratehike" />
+      <node id="#letsgopens" label="#letsgopens" />
+      <node id="#sportsart" label="#sportsart" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#Fed" label="#Fed" />
+      <node id="#NYIslanders" label="#NYIslanders" />
+      <node id="#accounting" label="#accounting" />
+      <node id="#stanleycup" label="#stanleycup" />
+      <node id="#nhl" label="#nhl" />
+      <node id="#designlife" label="#designlife" />
+      <node id="#design" label="#design" />
+      <node id="#ISICEM16" label="#ISICEM16" />
+      <node id="#ECCO2R" label="#ECCO2R" />
+      <node id="#WHFrontiers" label="#WHFrontiers" />
+      <node id="#ZoltunStyle" label="#ZoltunStyle" />
+      <node id="#Target" label="#Target" />
+      <node id="#ACC" label="#ACC" />
+      <node id="#interestrates" label="#interestrates" />
+      <node id="#PghVentureOut" label="#PghVentureOut" />
+      <node id="#founders" label="#founders" />
+      <node id="#GDP" label="#GDP" />
+      <node id="#4moms" label="#4moms" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#halloween" target="#ZoltunStyle" weight="3205" />
+      <edge id="1" source="#halloween" target="#creative" weight="3205" />
+      <edge id="2" source="#halloween" target="#design" weight="3205" />
+      <edge id="3" source="#PITT" target="#ACC" weight="3205" />
+      <edge id="4" source="#PITT" target="#Duke" weight="3205" />
+      <edge id="5" source="#creative" target="#ZoltunStyle" weight="3205" />
+      <edge id="6" source="#creative" target="#design" weight="3205" />
+      <edge id="7" source="#TBT" target="#SDHistory" weight="3205" />
+      <edge id="8" source="#TBT" target="#founders" weight="3205" />
+      <edge id="9" source="#TBT" target="#accounting" weight="3205" />
+      <edge id="10" source="#entrepreneurs" target="#PghVentureOut" weight="3205" />
+      <edge id="11" source="#economy" target="#Fed" weight="3205" />
+      <edge id="12" source="#economy" target="#Yellen" weight="3205" />
+      <edge id="13" source="#economy" target="#fedratehike" weight="3205" />
+      <edge id="14" source="#economy" target="#FOMC" weight="3205" />
+      <edge id="15" source="#Duke" target="#ACC" weight="3205" />
+      <edge id="16" source="#FederalReserve" target="#Fed" weight="3205" />
+      <edge id="17" source="#FederalReserve" target="#Economy" weight="3205" />
+      <edge id="18" source="#FederalReserve" target="#interestrates" weight="3205" />
+      <edge id="19" source="#FederalReserve" target="#Brexit" weight="3205" />
+      <edge id="20" source="#FederalReserve" target="#ratehike" weight="3205" />
+      <edge id="21" source="#Caturday" target="#cats" weight="3205" />
+      <edge id="22" source="#Spring2017" target="#newPittsburghHQ" weight="3205" />
+      <edge id="23" source="#Spring2017" target="#progress" weight="3205" />
+      <edge id="24" source="#FOMC" target="#Fed" weight="9615" />
+      <edge id="25" source="#FOMC" target="#Yellen" weight="3205" />
+      <edge id="26" source="#FOMC" target="#manufacturing" weight="3205" />
+      <edge id="27" source="#FOMC" target="#fedratehike" weight="3205" />
+      <edge id="28" source="#SDHistory" target="#founders" weight="3205" />
+      <edge id="29" source="#SDHistory" target="#accounting" weight="3205" />
+      <edge id="30" source="#Penguins" target="#NYIslanders" weight="3205" />
+      <edge id="31" source="#2016usopen" target="#sportsart" weight="3205" />
+      <edge id="32" source="#2016usopen" target="#popart" weight="3205" />
+      <edge id="33" source="#2016usopen" target="#golfart" weight="3205" />
+      <edge id="34" source="#newPittsburghHQ" target="#progress" weight="3205" />
+      <edge id="35" source="#LetsGoPens" target="#WeWantTheCup" weight="3205" />
+      <edge id="36" source="#Economy" target="#Fed" weight="3205" />
+      <edge id="37" source="#Economy" target="#Brexit" weight="3205" />
+      <edge id="38" source="#Economy" target="#interestrates" weight="3205" />
+      <edge id="39" source="#Pittsburgh" target="#WHFrontiers" weight="3205" />
+      <edge id="40" source="#popart" target="#sportsart" weight="3205" />
+      <edge id="41" source="#popart" target="#golfart" weight="3205" />
+      <edge id="42" source="#Federated" target="#GDP" weight="3205" />
+      <edge id="43" source="#innovation" target="#3dprinting" weight="3205" />
+      <edge id="44" source="#PAPeopleCount" target="#EnoughIsEnough" weight="3205" />
+      <edge id="45" source="#golfart" target="#sportsart" weight="3205" />
+      <edge id="46" source="#Yellen" target="#Fed" weight="3205" />
+      <edge id="47" source="#Yellen" target="#fedratehike" weight="3205" />
+      <edge id="48" source="#WallToWallStudios" target="#designlife" weight="3205" />
+      <edge id="49" source="#fedratehike" target="#Fed" weight="3205" />
+      <edge id="50" source="#letsgopens" target="#stanleycup" weight="3205" />
+      <edge id="51" source="#letsgopens" target="#nhl" weight="3205" />
+      <edge id="52" source="#Brexit" target="#interestrates" weight="3205" />
+      <edge id="53" source="#Brexit" target="#Fed" weight="3205" />
+      <edge id="54" source="#manufacturing" target="#Fed" weight="3205" />
+      <edge id="55" source="#Fed" target="#interestrates" weight="3205" />
+      <edge id="56" source="#accounting" target="#founders" weight="3205" />
+      <edge id="57" source="#stanleycup" target="#nhl" weight="3205" />
+      <edge id="58" source="#design" target="#ZoltunStyle" weight="3205" />
+      <edge id="59" source="#ISICEM16" target="#ECCO2R" weight="3205" />
+      <edge id="60" source="#Target" target="#4moms" weight="3205" />
+    </edges>
+  </graph>
+</gexf>

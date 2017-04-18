@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#AVLBeerWeek" label="#AVLBeerWeek" />
+      <node id="#AVGeek" label="#AVGeek" />
+      <node id="#MyHopSession" label="#MyHopSession" />
+      <node id="#Instabeer" label="#Instabeer" />
+      <node id="#DrinkWaBeer" label="#DrinkWaBeer" />
+      <node id="#VeggieDag" label="#VeggieDag" />
+      <node id="#Instagram" label="#Instagram" />
+      <node id="#beer" label="#beer" />
+      <node id="#MayorOfBrewgrass" label="#MayorOfBrewgrass" />
+      <node id="#IPADay" label="#IPADay" />
+      <node id="#WorthTheWait" label="#WorthTheWait" />
+      <node id="#YeastNeverSleeps" label="#YeastNeverSleeps" />
+      <node id="#DrinkWABeer" label="#DrinkWABeer" />
+      <node id="#springseekerseries" label="#springseekerseries" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#AVLBeerWeek" target="#beer" weight="6438" />
+      <edge id="1" source="#AVGeek" target="#beer" weight="3219" />
+      <edge id="2" source="#MyHopSession" target="#beer" weight="3219" />
+      <edge id="3" source="#Instabeer" target="#beer" weight="3219" />
+      <edge id="4" source="#Instabeer" target="#Instagram" weight="3219" />
+      <edge id="5" source="#DrinkWaBeer" target="#beer" weight="3219" />
+      <edge id="6" source="#VeggieDag" target="#beer" weight="38628" />
+      <edge id="7" source="#Instagram" target="#beer" weight="3219" />
+      <edge id="8" source="#beer" target="#MayorOfBrewgrass" weight="3219" />
+      <edge id="9" source="#beer" target="#DrinkWABeer" weight="3219" />
+      <edge id="10" source="#beer" target="#IPADay" weight="6438" />
+      <edge id="11" source="#beer" target="#springseekerseries" weight="3219" />
+      <edge id="12" source="#beer" target="#WorthTheWait" weight="3219" />
+      <edge id="13" source="#beer" target="#YeastNeverSleeps" weight="3219" />
+    </edges>
+  </graph>
+</gexf>

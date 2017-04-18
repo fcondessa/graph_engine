@@ -1,0 +1,1778 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#pie" label="#pie" />
+      <node id="#DerbyWeek" label="#DerbyWeek" />
+      <node id="#beerthirty" label="#beerthirty" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#handcrafted" label="#handcrafted" />
+      <node id="#TheMarket" label="#TheMarket" />
+      <node id="#delaware" label="#delaware" />
+      <node id="#TemperanceRow" label="#TemperanceRow" />
+      <node id="#TheJosephHotel" label="#TheJosephHotel" />
+      <node id="#partner" label="#partner" />
+      <node id="#Cbusconnect" label="#Cbusconnect" />
+      <node id="#bubbly" label="#bubbly" />
+      <node id="#ohioproud" label="#ohioproud" />
+      <node id="#rice" label="#rice" />
+      <node id="#chia" label="#chia" />
+      <node id="#beer" label="#beer" />
+      <node id="#KINDnutrition" label="#KINDnutrition" />
+      <node id="#germanvillage" label="#germanvillage" />
+      <node id="#cbusbeerweek" label="#cbusbeerweek" />
+      <node id="#beef" label="#beef" />
+      <node id="#bestbrunchcbus" label="#bestbrunchcbus" />
+      <node id="#GalleryHop" label="#GalleryHop" />
+      <node id="#eatlocal" label="#eatlocal" />
+      <node id="#frenchtoast" label="#frenchtoast" />
+      <node id="#eastontowncenter" label="#eastontowncenter" />
+      <node id="#healthy" label="#healthy" />
+      <node id="#MemorialDayWeekend" label="#MemorialDayWeekend" />
+      <node id="#loca" label="#loca" />
+      <node id="#mead" label="#mead" />
+      <node id="#maryland" label="#maryland" />
+      <node id="#hophead" label="#hophead" />
+      <node id="#onceithitsyourlips" label="#onceithitsyourlips" />
+      <node id="#instagood" label="#instagood" />
+      <node id="#breakfastfordinner" label="#breakfastfordinner" />
+      <node id="#cbuscoffee" label="#cbuscoffee" />
+      <node id="#derby" label="#derby" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#Burlesque" label="#Burlesque" />
+      <node id="#northmarket" label="#northmarket" />
+      <node id="#Pizza" label="#Pizza" />
+      <node id="#Grandview" label="#Grandview" />
+      <node id="#dessert" label="#dessert" />
+      <node id="#cbuseats" label="#cbuseats" />
+      <node id="#NationalMaritime" label="#NationalMaritime" />
+      <node id="#topbrewstues" label="#topbrewstues" />
+      <node id="#pierogi" label="#pierogi" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#lickingcounty" label="#lickingcounty" />
+      <node id="#sambafresh" label="#sambafresh" />
+      <node id="#pride2016" label="#pride2016" />
+      <node id="#cmr" label="#cmr" />
+      <node id="#dad" label="#dad" />
+      <node id="#oatmeal" label="#oatmeal" />
+      <node id="#DreamSmallBiz" label="#DreamSmallBiz" />
+      <node id="#topbrewtues" label="#topbrewtues" />
+      <node id="#EAT614" label="#EAT614" />
+      <node id="#bourbon" label="#bourbon" />
+      <node id="#seventhson" label="#seventhson" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#nomnomnom" label="#nomnomnom" />
+      <node id="#NCBeer" label="#NCBeer" />
+      <node id="#georgedickel" label="#georgedickel" />
+      <node id="#recipes" label="#recipes" />
+      <node id="#notahealthyeatingday" label="#notahealthyeatingday" />
+      <node id="#mothersday" label="#mothersday" />
+      <node id="#MuleMonday" label="#MuleMonday" />
+      <node id="#kentuckyderby" label="#kentuckyderby" />
+      <node id="#springtime" label="#springtime" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#columb" label="#columb" />
+      <node id="#cookie" label="#cookie" />
+      <node id="#saison" label="#saison" />
+      <node id="#fatcityburger" label="#fatcityburger" />
+      <node id="#GONE" label="#GONE" />
+      <node id="#Bingo" label="#Bingo" />
+      <node id="#KYDerby" label="#KYDerby" />
+      <node id="#family" label="#family" />
+      <node id="#locallove" label="#locallove" />
+      <node id="#organic" label="#organic" />
+      <node id="#CitYPulseCols" label="#CitYPulseCols" />
+      <node id="#KentuckyDerby2015" label="#KentuckyDerby2015" />
+      <node id="#craftbe" label="#craftbe" />
+      <node id="#yum" label="#yum" />
+      <node id="#asheville" label="#asheville" />
+      <node id="#voodoo" label="#voodoo" />
+      <node id="#desserts" label="#desserts" />
+      <node id="#cbusconnectfood" label="#cbusconnectfood" />
+      <node id="#pork" label="#pork" />
+      <node id="#CbusBigNightIn" label="#CbusBigNightIn" />
+      <node id="#asseeninshortnorth" label="#asseeninshortnorth" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#carbcity" label="#carbcity" />
+      <node id="#Monday" label="#Monday" />
+      <node id="#stoutday" label="#stoutday" />
+      <node id="#chives" label="#chives" />
+      <node id="#kids" label="#kids" />
+      <node id="#614eats" label="#614eats" />
+      <node id="#shopthehop" label="#shopthehop" />
+      <node id="#sundayfunday" label="#sundayfunday" />
+      <node id="#MintJulep" label="#MintJulep" />
+      <node id="#lemon" label="#lemon" />
+      <node id="#5XNW" label="#5XNW" />
+      <node id="#CD1025" label="#CD1025" />
+      <node id="#drinklocalcbus" label="#drinklocalcbus" />
+      <node id="#su" label="#su" />
+      <node id="#DonutHouse" label="#DonutHouse" />
+      <node id="#veggies" label="#veggies" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#ColumbusBeerfest" label="#ColumbusBeerfest" />
+      <node id="#stockandbarrel614" label="#stockandbarrel614" />
+      <node id="#dothehop" label="#dothehop" />
+      <node id="#FMMF2015" label="#FMMF2015" />
+      <node id="#HotDogDay" label="#HotDogDay" />
+      <node id="#onions" label="#onions" />
+      <node id="#Manhattan" label="#Manhattan" />
+      <node id="#egg" label="#egg" />
+      <node id="#melty" label="#melty" />
+      <node id="#HCT" label="#HCT" />
+      <node id="#soda" label="#soda" />
+      <node id="#hmcafe" label="#hmcafe" />
+      <node id="#discoverohio" label="#discoverohio" />
+      <node id="#juice" label="#juice" />
+      <node id="#cocktai" label="#cocktai" />
+      <node id="#eat614" label="#eat614" />
+      <node id="#schmidts" label="#schmidts" />
+      <node id="#dublin" label="#dublin" />
+      <node id="#thepintlife" label="#thepintlife" />
+      <node id="#germanvill" label="#germanvill" />
+      <node id="#SoulBar" label="#SoulBar" />
+      <node id="#kentuckymule" label="#kentuckymule" />
+      <node id="#chicken" label="#chicken" />
+      <node id="#SixOnePour" label="#SixOnePour" />
+      <node id="#oldetowneeast" label="#oldetowneeast" />
+      <node id="#cbusconnect" label="#cbusconnect" />
+      <node id="#cbuslocallove" label="#cbuslocallove" />
+      <node id="#canalwinchest" label="#canalwinchest" />
+      <node id="#Pumking" label="#Pumking" />
+      <node id="#ramen" label="#ramen" />
+      <node id="#loveislove" label="#loveislove" />
+      <node id="#tacos" label="#tacos" />
+      <node id="#trivia" label="#trivia" />
+      <node id="#winewednesday" label="#winewednesday" />
+      <node id="#strawberry" label="#strawberry" />
+      <node id="#sweetpotato" label="#sweetpotato" />
+      <node id="#rain" label="#rain" />
+      <node id="#cask" label="#cask" />
+      <node id="#recipe" label="#recipe" />
+      <node id="#westerville" label="#westerville" />
+      <node id="#meltbargrilled" label="#meltbargrilled" />
+      <node id="#MapleBourbonCider" label="#MapleBourbonCider" />
+      <node id="#GrandviewHop" label="#GrandviewHop" />
+      <node id="#comfortfood" label="#comfortfood" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#sushi" label="#sushi" />
+      <node id="#worthington" label="#worthington" />
+      <node id="#pint" label="#pint" />
+      <node id="#CYPsocial" label="#CYPsocial" />
+      <node id="#kittiescakes" label="#kittiescakes" />
+      <node id="#grilledcheese" label="#grilledcheese" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#CbustoPitt" label="#CbustoPitt" />
+      <node id="#Golf" label="#Golf" />
+      <node id="#fairfoods" label="#fairfoods" />
+      <node id="#limoncello" label="#limoncello" />
+      <node id="#prizes" label="#prizes" />
+      <node id="#honeywine" label="#honeywine" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#ThisisCLE" label="#ThisisCLE" />
+      <node id="#artmakescbus" label="#artmakescbus" />
+      <node id="#cheers" label="#cheers" />
+      <node id="#drinkforyourcause" label="#drinkforyourcause" />
+      <node id="#clintonville" label="#clintonville" />
+      <node id="#FreshNeverFrozen" label="#FreshNeverFrozen" />
+      <node id="#oreo" label="#oreo" />
+      <node id="#granville" label="#granville" />
+      <node id="#NewAlbany" label="#NewAlbany" />
+      <node id="#newcocktails" label="#newcocktails" />
+      <node id="#Pittsburgh" label="#Pittsburgh" />
+      <node id="#colpres" label="#colpres" />
+      <node id="#EastonFoodFest" label="#EastonFoodFest" />
+      <node id="#theland" label="#theland" />
+      <node id="#cravecolumnus" label="#cravecolumnus" />
+      <node id="#ECKitchen" label="#ECKitchen" />
+      <node id="#juicing" label="#juicing" />
+      <node id="#supportlivemusic" label="#supportlivemusic" />
+      <node id="#cravecbus" label="#cravecbus" />
+      <node id="#craftypint" label="#craftypint" />
+      <node id="#hotchickentakeover" label="#hotchickentakeover" />
+      <node id="#wildcard" label="#wildcard" />
+      <node id="#figandpig" label="#figandpig" />
+      <node id="#hopslam" label="#hopslam" />
+      <node id="#jenis" label="#jenis" />
+      <node id="#SundayFunday" label="#SundayFunday" />
+      <node id="#polish" label="#polish" />
+      <node id="#appetizer" label="#appetizer" />
+      <node id="#meat" label="#meat" />
+      <node id="#sausage" label="#sausage" />
+      <node id="#vodka" label="#vodka" />
+      <node id="#pittsburgh" label="#pittsburgh" />
+      <node id="#IceCream" label="#IceCream" />
+      <node id="#cbusconnectrecipe" label="#cbusconnectrecipe" />
+      <node id="#newflavors" label="#newflavors" />
+      <node id="#cbusc" label="#cbusc" />
+      <node id="#giveaway" label="#giveaway" />
+      <node id="#Bexley" label="#Bexley" />
+      <node id="#wine" label="#wine" />
+      <node id="#newglarus" label="#newglarus" />
+      <node id="#cypclub" label="#cypclub" />
+      <node id="#cookies" label="#cookies" />
+      <node id="#local" label="#local" />
+      <node id="#PintNight" label="#PintNight" />
+      <node id="#Thai" label="#Thai" />
+      <node id="#Preakness" label="#Preakness" />
+      <node id="#ColumbusOhio" label="#ColumbusOhio" />
+      <node id="#Peeps" label="#Peeps" />
+      <node id="#farmtotable" label="#farmtotable" />
+      <node id="#carboverload" label="#carboverload" />
+      <node id="#Civics" label="#Civics" />
+      <node id="#ArchCityTavern" label="#ArchCityTavern" />
+      <node id="#GetOverHere" label="#GetOverHere" />
+      <node id="#idonteatreptiles" label="#idonteatreptiles" />
+      <node id="#cbusconnectdrink" label="#cbusconnectdrink" />
+      <node id="#friendshipfalafel" label="#friendshipfalafel" />
+      <node id="#inGrandview" label="#inGrandview" />
+      <node id="#roguefarms" label="#roguefarms" />
+      <node id="#love4je" label="#love4je" />
+      <node id="#pasta" label="#pasta" />
+      <node id="#cbusaletrail" label="#cbusaletrail" />
+      <node id="#FindItHere" label="#FindItHere" />
+      <node id="#angelaperl" label="#angelaperl" />
+      <node id="#breakfastatkitties" label="#breakfastatkitties" />
+      <node id="#soup" label="#soup" />
+      <node id="#milkshake" label="#milkshake" />
+      <node id="#risotto" label="#risotto" />
+      <node id="#getsome" label="#getsome" />
+      <node id="#AsSeenInColumbus" label="#AsSeenInColumbus" />
+      <node id="#mayo" label="#mayo" />
+      <node id="#madmen" label="#madmen" />
+      <node id="#macaron" label="#macaron" />
+      <node id="#food" label="#food" />
+      <node id="#mimosa" label="#mimosa" />
+      <node id="#appetizers" label="#appetizers" />
+      <node id="#TopBrewsTues" label="#TopBrewsTues" />
+      <node id="#salad" label="#salad" />
+      <node id="#raspberry" label="#raspberry" />
+      <node id="#peachykeen" label="#peachykeen" />
+      <node id="#creeper" label="#creeper" />
+      <node id="#ohiocraftbeer" label="#ohiocraftbeer" />
+      <node id="#cincy" label="#cincy" />
+      <node id="#cupcake" label="#cupcake" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#blueberries" label="#blueberries" />
+      <node id="#brunch" label="#brunch" />
+      <node id="#UBRcolumbus" label="#UBRcolumbus" />
+      <node id="#cake" label="#cake" />
+      <node id="#asseeninc" label="#asseeninc" />
+      <node id="#cbusfoodie" label="#cbusfoodie" />
+      <node id="#mom" label="#mom" />
+      <node id="#toffee" label="#toffee" />
+      <node id="#shortnorth" label="#shortnorth" />
+      <node id="#fathersday" label="#fathersday" />
+      <node id="#Buckeyes" label="#Buckeyes" />
+      <node id="#espana" label="#espana" />
+      <node id="#steak" label="#steak" />
+      <node id="#grandview" label="#grandview" />
+      <node id="#asse" label="#asse" />
+      <node id="#boom15" label="#boom15" />
+      <node id="#rose" label="#rose" />
+      <node id="#thewhitneyhouse" label="#thewhitneyhouse" />
+      <node id="#zucchini" label="#zucchini" />
+      <node id="#croissants" label="#croissants" />
+      <node id="#101BK" label="#101BK" />
+      <node id="#icecream" label="#icecream" />
+      <node id="#happeningnow" label="#happeningnow" />
+      <node id="#maplesyrup" label="#maplesyrup" />
+      <node id="#midwestblogger" label="#midwestblogger" />
+      <node id="#614DAY" label="#614DAY" />
+      <node id="#cw" label="#cw" />
+      <node id="#milkstoit" label="#milkstoit" />
+      <node id="#adoptdontshop" label="#adoptdontshop" />
+      <node id="#bacon" label="#bacon" />
+      <node id="#gnocchi" label="#gnocchi" />
+      <node id="#hopwithus" label="#hopwithus" />
+      <node id="#cb" label="#cb" />
+      <node id="#piesandpints" label="#piesandpints" />
+      <node id="#whiskey" label="#whiskey" />
+      <node id="#grill" label="#grill" />
+      <node id="#c" label="#c" />
+      <node id="#a" label="#a" />
+      <node id="#farmfresh" label="#farmfresh" />
+      <node id="#falafel" label="#falafel" />
+      <node id="#e" label="#e" />
+      <node id="#colorado" label="#colorado" />
+      <node id="#waterview" label="#waterview" />
+      <node id="#d" label="#d" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#v" label="#v" />
+      <node id="#columbuspride" label="#columbuspride" />
+      <node id="#NegroniWeek" label="#NegroniWeek" />
+      <node id="#taco" label="#taco" />
+      <node id="#kahlua" label="#kahlua" />
+      <node id="#quiche" label="#quiche" />
+      <node id="#evanwilliams" label="#evanwilliams" />
+      <node id="#fall" label="#fall" />
+      <node id="#ABC6" label="#ABC6" />
+      <node id="#drink" label="#drink" />
+      <node id="#OHcraftbeer" label="#OHcraftbeer" />
+      <node id="#dinner" label="#dinner" />
+      <node id="#franklinton" label="#franklinton" />
+      <node id="#Eat614" label="#Eat614" />
+      <node id="#casserole" label="#casserole" />
+      <node id="#foodtrucks" label="#foodtrucks" />
+      <node id="#katalinascafe" label="#katalinascafe" />
+      <node id="#CbusAleTrail" label="#CbusAleTrail" />
+      <node id="#brus" label="#brus" />
+      <node id="#FoodTruck" label="#FoodTruck" />
+      <node id="#Kickstarter" label="#Kickstarter" />
+      <node id="#moonshine" label="#moonshine" />
+      <node id="#tom" label="#tom" />
+      <node id="#cheese" label="#cheese" />
+      <node id="#osu" label="#osu" />
+      <node id="#2015CBJF" label="#2015CBJF" />
+      <node id="#German" label="#German" />
+      <node id="#home" label="#home" />
+      <node id="#4stringbrewing" label="#4stringbrewing" />
+      <node id="#sweettooth" label="#sweettooth" />
+      <node id="#avocado" label="#avocado" />
+      <node id="#clefood" label="#clefood" />
+      <node id="#Coffee" label="#Coffee" />
+      <node id="#buckeye" label="#buckeye" />
+      <node id="#snickerdoodles" label="#snickerdoodles" />
+      <node id="#pizza" label="#pizza" />
+      <node id="#sriracha" label="#sriracha" />
+      <node id="#shrimp" label="#shrimp" />
+      <node id="#Spring" label="#Spring" />
+      <node id="#foodiefightfri" label="#foodiefightfri" />
+      <node id="#italian" label="#italian" />
+      <node id="#cookout" label="#cookout" />
+      <node id="#SupportLocal" label="#SupportLocal" />
+      <node id="#Bestof2014" label="#Bestof2014" />
+      <node id="#Hudson29" label="#Hudson29" />
+      <node id="#Restaurantweek" label="#Restaurantweek" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#cbusfoodscene" label="#cbusfoodscene" />
+      <node id="#614Now" label="#614Now" />
+      <node id="#MothersDay" label="#MothersDay" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#weekend" label="#weekend" />
+      <node id="#corepoweryoga" label="#corepoweryoga" />
+      <node id="#vegan" label="#vegan" />
+      <node id="#summer" label="#summer" />
+      <node id="#July4th" label="#July4th" />
+      <node id="#MSDBourbon" label="#MSDBourbon" />
+      <node id="#leftover" label="#leftover" />
+      <node id="#letsdothis" label="#letsdothis" />
+      <node id="#pumpkinallthethings" label="#pumpkinallthethings" />
+      <node id="#chocolate" label="#chocolate" />
+      <node id="#foodtruck" label="#foodtruck" />
+      <node id="#newbombturkey" label="#newbombturkey" />
+      <node id="#Wine" label="#Wine" />
+      <node id="#lasagna" label="#lasagna" />
+      <node id="#christmas" label="#christmas" />
+      <node id="#grillnchill" label="#grillnchill" />
+      <node id="#cypclubturns10" label="#cypclubturns10" />
+      <node id="#wineries" label="#wineries" />
+      <node id="#restaurantweek" label="#restaurantweek" />
+      <node id="#pumpkin" label="#pumpkin" />
+      <node id="#coldpressedjuice" label="#coldpressedjuice" />
+      <node id="#drinkbeerfromhere" label="#drinkbeerfromhere" />
+      <node id="#ice" label="#ice" />
+      <node id="#ShortNorth" label="#ShortNorth" />
+      <node id="#herbs" label="#herbs" />
+      <node id="#pimentocheese" label="#pimentocheese" />
+      <node id="#OhioStatehouse" label="#OhioStatehouse" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#baconlove" label="#baconlove" />
+      <node id="#dess" label="#dess" />
+      <node id="#onegoal" label="#onegoal" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#burger" label="#burger" />
+      <node id="#HappyNewYear" label="#HappyNewYear" />
+      <node id="#homebrew" label="#homebrew" />
+      <node id="#cbuscon" label="#cbuscon" />
+      <node id="#music" label="#music" />
+      <node id="#614columbus" label="#614columbus" />
+      <node id="#joydelivered" label="#joydelivered" />
+      <node id="#crabcakes" label="#crabcakes" />
+      <node id="#superbowl" label="#superbowl" />
+      <node id="#breakfast" label="#breakfast" />
+      <node id="#SB50" label="#SB50" />
+      <node id="#HappyHour" label="#HappyHour" />
+      <node id="#pretzel" label="#pretzel" />
+      <node id="#2015bestnine" label="#2015bestnine" />
+      <node id="#eatlocalcbus" label="#eatlocalcbus" />
+      <node id="#AlFresco" label="#AlFresco" />
+      <node id="#saltycaramel" label="#saltycaramel" />
+      <node id="#spoiledbyourneighbors" label="#spoiledbyourneighbors" />
+      <node id="#OhioFall2015" label="#OhioFall2015" />
+      <node id="#KentuckyDerby" label="#KentuckyDerby" />
+      <node id="#LifeInCbus" label="#LifeInCbus" />
+      <node id="#fruit" label="#fruit" />
+      <node id="#thebarn" label="#thebarn" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#rhubarb" label="#rhubarb" />
+      <node id="#4thofjuly" label="#4thofjuly" />
+      <node id="#friedchickenfeast" label="#friedchickenfeast" />
+      <node id="#moveourigloo" label="#moveourigloo" />
+      <node id="#tripadvisor" label="#tripadvisor" />
+      <node id="#potato" label="#potato" />
+      <node id="#pi" label="#pi" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#happyhour" label="#happyhour" />
+      <node id="#harvestmooncafe" label="#harvestmooncafe" />
+      <node id="#bee" label="#bee" />
+      <node id="#decor" label="#decor" />
+      <node id="#gastropub" label="#gastropub" />
+      <node id="#huffposttaste" label="#huffposttaste" />
+      <node id="#BuckeyeLake" label="#BuckeyeLake" />
+      <node id="#BSpot" label="#BSpot" />
+      <node id="#horse" label="#horse" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#endcancer" label="#endcancer" />
+      <node id="#contest" label="#contest" />
+      <node id="#imstarving" label="#imstarving" />
+      <node id="#fairfood" label="#fairfood" />
+      <node id="#pecan" label="#pecan" />
+      <node id="#yahoofood" label="#yahoofood" />
+      <node id="#GABF" label="#GABF" />
+      <node id="#Masters" label="#Masters" />
+      <node id="#ipa" label="#ipa" />
+      <node id="#dumplings" label="#dumplings" />
+      <node id="#Mexican" label="#Mexican" />
+      <node id="#cutthroatkitchen" label="#cutthroatkitchen" />
+      <node id="#Gahanna" label="#Gahanna" />
+      <node id="#dr" label="#dr" />
+      <node id="#happymonday" label="#happymonday" />
+      <node id="#crab" label="#crab" />
+      <node id="#bulliet" label="#bulliet" />
+      <node id="#614now" label="#614now" />
+      <node id="#ccc" label="#ccc" />
+      <node id="#fundraising" label="#fundraising" />
+      <node id="#AmericanPharoah" label="#AmericanPharoah" />
+      <node id="#CINCY" label="#CINCY" />
+      <node id="#Ale" label="#Ale" />
+      <node id="#drinkbeermadehere" label="#drinkbeermadehere" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#history" label="#history" />
+      <node id="#july4th" label="#july4th" />
+      <node id="#ColumbusCommons" label="#ColumbusCommons" />
+      <node id="#MarchMadness" label="#MarchMadness" />
+      <node id="#TacoTuesday" label="#TacoTuesday" />
+      <node id="#thirstythursday" label="#thirstythursday" />
+      <node id="#TripleCrown" label="#TripleCrown" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#hatgame" label="#hatgame" />
+      <node id="#Belmont" label="#Belmont" />
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#asseenincolum" label="#asseenincolum" />
+      <node id="#buckeyelake" label="#buckeyelake" />
+      <node id="#pride" label="#pride" />
+      <node id="#connect" label="#connect" />
+      <node id="#cocktail" label="#cocktail" />
+      <node id="#shopsmall" label="#shopsmall" />
+      <node id="#Logan" label="#Logan" />
+      <node id="#fetecolumbus" label="#fetecolumbus" />
+      <node id="#OhioCraftBeer" label="#OhioCraftBeer" />
+      <node id="#stickybuns" label="#stickybuns" />
+      <node id="#funkytownbeer" label="#funkytownbeer" />
+      <node id="#bluesandjazz" label="#bluesandjazz" />
+      <node id="#alfies" label="#alfies" />
+      <node id="#love4jenis" label="#love4jenis" />
+      <node id="#biltmore" label="#biltmore" />
+      <node id="#WestgateFarmersMarket" label="#WestgateFarmersMarket" />
+      <node id="#Colorado" label="#Colorado" />
+      <node id="#cbusconne" label="#cbusconne" />
+      <node id="#festival" label="#festival" />
+      <node id="#Social6" label="#Social6" />
+      <node id="#schnecken" label="#schnecken" />
+      <node id="#Easter" label="#Easter" />
+      <node id="#drinklocal" label="#drinklocal" />
+      <node id="#kelleysisland" label="#kelleysisland" />
+      <node id="#yummy" label="#yummy" />
+      <node id="#video" label="#video" />
+      <node id="#party" label="#party" />
+      <node id="#HockingHills" label="#HockingHills" />
+      <node id="#exploreohio" label="#exploreohio" />
+      <node id="#Dinner" label="#Dinner" />
+      <node id="#baconloversunite" label="#baconloversunite" />
+      <node id="#SunBurstGrill" label="#SunBurstGrill" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#hilltopusa" label="#hilltopusa" />
+      <node id="#kale" label="#kale" />
+      <node id="#lmcolumbus" label="#lmcolumbus" />
+      <node id="#friedchicken" label="#friedchicken" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#brusselssprouts" label="#brusselssprouts" />
+      <node id="#inthecle" label="#inthecle" />
+      <node id="#lineage" label="#lineage" />
+      <node id="#Hoster" label="#Hoster" />
+      <node id="#TopBrewTues" label="#TopBrewTues" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#drinkgin" label="#drinkgin" />
+      <node id="#asian" label="#asian" />
+      <node id="#repost" label="#repost" />
+      <node id="#birthday" label="#birthday" />
+      <node id="#newcma" label="#newcma" />
+      <node id="#hopjuju" label="#hopjuju" />
+      <node id="#bar145" label="#bar145" />
+      <node id="#newalbany" label="#newalbany" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#CbusBeerWeek" label="#CbusBeerWeek" />
+      <node id="#alohastreatery" label="#alohastreatery" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#pie" target="#breakfast" weight="3021" />
+      <edge id="1" source="#pie" target="#pecan" weight="3021" />
+      <edge id="2" source="#pie" target="#chocolate" weight="3021" />
+      <edge id="3" source="#pie" target="#fundraising" weight="3021" />
+      <edge id="4" source="#pie" target="#sundayfunday" weight="3021" />
+      <edge id="5" source="#pie" target="#columbus" weight="3021" />
+      <edge id="6" source="#DerbyWeek" target="#KYDerby" weight="3021" />
+      <edge id="7" source="#beerthirty" target="#cheers" weight="3021" />
+      <edge id="8" source="#beerthirty" target="#thirstythursday" weight="3021" />
+      <edge id="9" source="#beerthirty" target="#Pumking" weight="3021" />
+      <edge id="10" source="#beerthirty" target="#onceithitsyourlips" weight="3021" />
+      <edge id="11" source="#Cbus" target="#OhioStatehouse" weight="3021" />
+      <edge id="12" source="#Cbus" target="#FindItHere" weight="3021" />
+      <edge id="13" source="#Cbus" target="#Civics" weight="3021" />
+      <edge id="14" source="#Cbus" target="#craftbeer" weight="6042" />
+      <edge id="15" source="#Cbus" target="#614eats" weight="3021" />
+      <edge id="16" source="#Cbus" target="#LifeInCbus" weight="3021" />
+      <edge id="17" source="#Thanksgiving" target="#GetOverHere" weight="3021" />
+      <edge id="18" source="#handcrafted" target="#beer" weight="3021" />
+      <edge id="19" source="#handcrafted" target="#hmcafe" weight="3021" />
+      <edge id="20" source="#handcrafted" target="#kentuckymule" weight="3021" />
+      <edge id="21" source="#handcrafted" target="#cocktail" weight="3021" />
+      <edge id="22" source="#handcrafted" target="#local" weight="3021" />
+      <edge id="23" source="#TheMarket" target="#Dinner" weight="3021" />
+      <edge id="24" source="#TheMarket" target="#Pizza" weight="3021" />
+      <edge id="25" source="#TheMarket" target="#AlFresco" weight="3021" />
+      <edge id="26" source="#delaware" target="#drinkupcolumbus" weight="3021" />
+      <edge id="27" source="#delaware" target="#ice" weight="3021" />
+      <edge id="28" source="#delaware" target="#beer" weight="3021" />
+      <edge id="29" source="#delaware" target="#craftbeer" weight="3021" />
+      <edge id="30" source="#delaware" target="#c" weight="3021" />
+      <edge id="31" source="#delaware" target="#drinkbeermadehere" weight="3021" />
+      <edge id="32" source="#TemperanceRow" target="#TopBrewsTues" weight="3021" />
+      <edge id="33" source="#TemperanceRow" target="#CbusBeerWeek" weight="3021" />
+      <edge id="34" source="#TemperanceRow" target="#Hoster" weight="3021" />
+      <edge id="35" source="#TheJosephHotel" target="#SoulBar" weight="3021" />
+      <edge id="36" source="#TheJosephHotel" target="#ShortNorth" weight="3021" />
+      <edge id="37" source="#partner" target="#KINDnutrition" weight="3021" />
+      <edge id="38" source="#partner" target="#newflavors" weight="3021" />
+      <edge id="39" source="#Cbusconnect" target="#shoplocal" weight="3021" />
+      <edge id="40" source="#Cbusconnect" target="#Ohio" weight="3021" />
+      <edge id="41" source="#bubbly" target="#winewednesday" weight="3021" />
+      <edge id="42" source="#bubbly" target="#rose" weight="3021" />
+      <edge id="43" source="#bubbly" target="#columbus" weight="3021" />
+      <edge id="44" source="#bubbly" target="#wine" weight="3021" />
+      <edge id="45" source="#bubbly" target="#cbusconnect" weight="3021" />
+      <edge id="46" source="#ohioproud" target="#AsSeenInColumbus" weight="3021" />
+      <edge id="47" source="#ohioproud" target="#expcols" weight="3021" />
+      <edge id="48" source="#ohioproud" target="#mead" weight="3021" />
+      <edge id="49" source="#rice" target="#taco" weight="3021" />
+      <edge id="50" source="#rice" target="#Mexican" weight="3021" />
+      <edge id="51" source="#rice" target="#onions" weight="3021" />
+      <edge id="52" source="#chia" target="#columbus" weight="3021" />
+      <edge id="53" source="#chia" target="#joydelivered" weight="3021" />
+      <edge id="54" source="#chia" target="#organic" weight="3021" />
+      <edge id="55" source="#beer" target="#prizes" weight="3021" />
+      <edge id="56" source="#beer" target="#cbusconnect" weight="6042" />
+      <edge id="57" source="#beer" target="#stockandbarrel614" weight="3021" />
+      <edge id="58" source="#beer" target="#clintonville" weight="3021" />
+      <edge id="59" source="#beer" target="#craftbeer" weight="24168" />
+      <edge id="60" source="#beer" target="#drinkbeermadehere" weight="6042" />
+      <edge id="61" source="#beer" target="#wine" weight="3021" />
+      <edge id="62" source="#beer" target="#drinkupcolumbus" weight="6042" />
+      <edge id="63" source="#beer" target="#asseeninc" weight="3021" />
+      <edge id="64" source="#beer" target="#topbrewtues" weight="3021" />
+      <edge id="65" source="#beer" target="#columbus" weight="9063" />
+      <edge id="66" source="#beer" target="#lineage" weight="3021" />
+      <edge id="67" source="#beer" target="#cbus" weight="6042" />
+      <edge id="68" source="#beer" target="#cask" weight="3021" />
+      <edge id="69" source="#beer" target="#seventhson" weight="3021" />
+      <edge id="70" source="#beer" target="#c" weight="3021" />
+      <edge id="71" source="#beer" target="#local" weight="3021" />
+      <edge id="72" source="#beer" target="#dr" weight="3021" />
+      <edge id="73" source="#beer" target="#foodtruck" weight="3021" />
+      <edge id="74" source="#beer" target="#TopBrewsTues" weight="15105" />
+      <edge id="75" source="#beer" target="#mead" weight="3021" />
+      <edge id="76" source="#beer" target="#hophead" weight="3021" />
+      <edge id="77" source="#beer" target="#ipa" weight="3021" />
+      <edge id="78" source="#KINDnutrition" target="#newflavors" weight="3021" />
+      <edge id="79" source="#germanvillage" target="#schmidts" weight="3021" />
+      <edge id="80" source="#germanvillage" target="#expcols" weight="3021" />
+      <edge id="81" source="#germanvillage" target="#columbus" weight="6042" />
+      <edge id="82" source="#germanvillage" target="#cbusconnect" weight="3021" />
+      <edge id="83" source="#germanvillage" target="#kittiescakes" weight="6042" />
+      <edge id="84" source="#germanvillage" target="#Restaurantweek" weight="3021" />
+      <edge id="85" source="#germanvillage" target="#spoiledbyourneighbors" weight="3021" />
+      <edge id="86" source="#germanvillage" target="#lifeincbus" weight="3021" />
+      <edge id="87" source="#germanvillage" target="#breakfastatkitties" weight="6042" />
+      <edge id="88" source="#cbusbeerweek" target="#drinkupcolumbus" weight="3021" />
+      <edge id="89" source="#cbusbeerweek" target="#SixOnePour" weight="3021" />
+      <edge id="90" source="#beef" target="#SundayFunday" weight="3021" />
+      <edge id="91" source="#beef" target="#dinner" weight="3021" />
+      <edge id="92" source="#beef" target="#wine" weight="3021" />
+      <edge id="93" source="#beef" target="#recipe" weight="3021" />
+      <edge id="94" source="#bestbrunchcbus" target="#brunch" weight="3021" />
+      <edge id="95" source="#bestbrunchcbus" target="#cbus" weight="3021" />
+      <edge id="96" source="#bestbrunchcbus" target="#grandview" weight="3021" />
+      <edge id="97" source="#bestbrunchcbus" target="#ECKitchen" weight="3021" />
+      <edge id="98" source="#GalleryHop" target="#July4th" weight="3021" />
+      <edge id="99" source="#eatlocal" target="#fruit" weight="3021" />
+      <edge id="100" source="#eatlocal" target="#dublin" weight="3021" />
+      <edge id="101" source="#eatlocal" target="#alfies" weight="3021" />
+      <edge id="102" source="#eatlocal" target="#worthington" weight="3021" />
+      <edge id="103" source="#eatlocal" target="#granville" weight="3021" />
+      <edge id="104" source="#eatlocal" target="#asseenincolumbus" weight="3021" />
+      <edge id="105" source="#eatlocal" target="#cb" weight="3021" />
+      <edge id="106" source="#eatlocal" target="#craftbeer" weight="3021" />
+      <edge id="107" source="#eatlocal" target="#strawberry" weight="3021" />
+      <edge id="108" source="#eatlocal" target="#cbus" weight="3021" />
+      <edge id="109" source="#eatlocal" target="#farmfresh" weight="3021" />
+      <edge id="110" source="#eatlocal" target="#brunch" weight="3021" />
+      <edge id="111" source="#eatlocal" target="#craftypint" weight="3021" />
+      <edge id="112" source="#eatlocal" target="#desserts" weight="3021" />
+      <edge id="113" source="#eatlocal" target="#columbus" weight="6042" />
+      <edge id="114" source="#eatlocal" target="#ohio" weight="3021" />
+      <edge id="115" source="#frenchtoast" target="#breakfastfordinner" weight="3021" />
+      <edge id="116" source="#frenchtoast" target="#c" weight="3021" />
+      <edge id="117" source="#frenchtoast" target="#bacon" weight="3021" />
+      <edge id="118" source="#frenchtoast" target="#breakfast" weight="3021" />
+      <edge id="119" source="#eastontowncenter" target="#cbusconnect" weight="3021" />
+      <edge id="120" source="#eastontowncenter" target="#ohio" weight="3021" />
+      <edge id="121" source="#healthy" target="#su" weight="3021" />
+      <edge id="122" source="#healthy" target="#veggies" weight="3021" />
+      <edge id="123" source="#healthy" target="#raspberry" weight="3021" />
+      <edge id="124" source="#healthy" target="#farmfresh" weight="3021" />
+      <edge id="125" source="#MemorialDayWeekend" target="#dinner" weight="3021" />
+      <edge id="126" source="#MemorialDayWeekend" target="#columbus" weight="3021" />
+      <edge id="127" source="#MemorialDayWeekend" target="#pork" weight="3021" />
+      <edge id="128" source="#MemorialDayWeekend" target="#cookout" weight="3021" />
+      <edge id="129" source="#loca" target="#rhubarb" weight="3021" />
+      <edge id="130" source="#loca" target="#soda" weight="3021" />
+      <edge id="131" source="#loca" target="#drink" weight="3021" />
+      <edge id="132" source="#mead" target="#drinkupcolumbus" weight="9063" />
+      <edge id="133" source="#mead" target="#wine" weight="3021" />
+      <edge id="134" source="#mead" target="#Columbus" weight="3021" />
+      <edge id="135" source="#mead" target="#shortnorth" weight="3021" />
+      <edge id="136" source="#mead" target="#cbusconnect" weight="9063" />
+      <edge id="137" source="#mead" target="#honeywine" weight="3021" />
+      <edge id="138" source="#mead" target="#MothersDay" weight="3021" />
+      <edge id="139" source="#mead" target="#columbus" weight="3021" />
+      <edge id="140" source="#mead" target="#expcols" weight="3021" />
+      <edge id="141" source="#maryland" target="#horse" weight="3021" />
+      <edge id="142" source="#maryland" target="#midwestblogger" weight="3021" />
+      <edge id="143" source="#maryland" target="#recipe" weight="3021" />
+      <edge id="144" source="#maryland" target="#crab" weight="3021" />
+      <edge id="145" source="#maryland" target="#mayo" weight="3021" />
+      <edge id="146" source="#maryland" target="#cbus" weight="3021" />
+      <edge id="147" source="#maryland" target="#dinner" weight="3021" />
+      <edge id="148" source="#maryland" target="#Preakness" weight="3021" />
+      <edge id="149" source="#hophead" target="#TopBrewsTues" weight="12084" />
+      <edge id="150" source="#hophead" target="#seventhson" weight="3021" />
+      <edge id="151" source="#hophead" target="#cbusconnect" weight="3021" />
+      <edge id="152" source="#hophead" target="#craftbeer" weight="12084" />
+      <edge id="153" source="#hophead" target="#ipa" weight="3021" />
+      <edge id="154" source="#hophead" target="#columbus" weight="3021" />
+      <edge id="155" source="#onceithitsyourlips" target="#cheers" weight="3021" />
+      <edge id="156" source="#onceithitsyourlips" target="#Pumking" weight="3021" />
+      <edge id="157" source="#onceithitsyourlips" target="#thirstythursday" weight="3021" />
+      <edge id="158" source="#instagood" target="#appetizers" weight="3021" />
+      <edge id="159" source="#instagood" target="#columbus" weight="3021" />
+      <edge id="160" source="#instagood" target="#brusselssprouts" weight="3021" />
+      <edge id="161" source="#breakfastfordinner" target="#c" weight="3021" />
+      <edge id="162" source="#breakfastfordinner" target="#bacon" weight="6042" />
+      <edge id="163" source="#breakfastfordinner" target="#breakfast" weight="3021" />
+      <edge id="164" source="#breakfastfordinner" target="#columbus" weight="3021" />
+      <edge id="165" source="#cbuscoffee" target="#schnecken" weight="3021" />
+      <edge id="166" source="#cbuscoffee" target="#German" weight="3021" />
+      <edge id="167" source="#cbuscoffee" target="#GONE" weight="3021" />
+      <edge id="168" source="#cbuscoffee" target="#croissants" weight="3021" />
+      <edge id="169" source="#derby" target="#kentuckyderby" weight="3021" />
+      <edge id="170" source="#derby" target="#craftbeer" weight="3021" />
+      <edge id="171" source="#derby" target="#bee" weight="3021" />
+      <edge id="172" source="#derby" target="#saison" weight="3021" />
+      <edge id="173" source="#SCOTUS" target="#drinklocal" weight="3021" />
+      <edge id="174" source="#Burlesque" target="#SupportLocal" weight="3021" />
+      <edge id="175" source="#Burlesque" target="#Wine" weight="3021" />
+      <edge id="176" source="#Burlesque" target="#Bingo" weight="3021" />
+      <edge id="177" source="#northmarket" target="#friedchicken" weight="3021" />
+      <edge id="178" source="#northmarket" target="#asseenincolumbus" weight="3021" />
+      <edge id="179" source="#northmarket" target="#breakfast" weight="3021" />
+      <edge id="180" source="#northmarket" target="#columbus" weight="3021" />
+      <edge id="181" source="#Pizza" target="#Dinner" weight="3021" />
+      <edge id="182" source="#Pizza" target="#AlFresco" weight="3021" />
+      <edge id="183" source="#Grandview" target="#cbusconnect" weight="3021" />
+      <edge id="184" source="#dessert" target="#toffee" weight="3021" />
+      <edge id="185" source="#dessert" target="#cupcake" weight="3021" />
+      <edge id="186" source="#dessert" target="#recipe" weight="6042" />
+      <edge id="187" source="#dessert" target="#Columbus" weight="3021" />
+      <edge id="188" source="#dessert" target="#snickerdoodles" weight="3021" />
+      <edge id="189" source="#dessert" target="#asseenincolumbus" weight="3021" />
+      <edge id="190" source="#dessert" target="#cbusconnect" weight="3021" />
+      <edge id="191" source="#dessert" target="#cookies" weight="6042" />
+      <edge id="192" source="#dessert" target="#germanvill" weight="3021" />
+      <edge id="193" source="#dessert" target="#oatmeal" weight="3021" />
+      <edge id="194" source="#dessert" target="#columbus" weight="6042" />
+      <edge id="195" source="#dessert" target="#sweettooth" weight="3021" />
+      <edge id="196" source="#cbuseats" target="#katalinascafe" weight="3021" />
+      <edge id="197" source="#cbuseats" target="#repost" weight="3021" />
+      <edge id="198" source="#NationalMaritime" target="#BuckeyeLake" weight="3021" />
+      <edge id="199" source="#topbrewstues" target="#ohiocraftbeer" weight="3021" />
+      <edge id="200" source="#topbrewstues" target="#cbusconnect" weight="3021" />
+      <edge id="201" source="#topbrewstues" target="#drinkbeermadehere" weight="3021" />
+      <edge id="202" source="#topbrewstues" target="#craftbeer" weight="6042" />
+      <edge id="203" source="#pierogi" target="#cbuscon" weight="3021" />
+      <edge id="204" source="#pierogi" target="#potato" weight="3021" />
+      <edge id="205" source="#pierogi" target="#recipe" weight="3021" />
+      <edge id="206" source="#pierogi" target="#columbus" weight="3021" />
+      <edge id="207" source="#pierogi" target="#cheese" weight="3021" />
+      <edge id="208" source="#pierogi" target="#sriracha" weight="3021" />
+      <edge id="209" source="#pierogi" target="#polish" weight="3021" />
+      <edge id="210" source="#pierogi" target="#bacon" weight="3021" />
+      <edge id="211" source="#pierogi" target="#dinner" weight="3021" />
+      <edge id="212" source="#CLE" target="#clefood" weight="3021" />
+      <edge id="213" source="#CLE" target="#cbusfoodie" weight="3021" />
+      <edge id="214" source="#CLE" target="#CINCY" weight="6042" />
+      <edge id="215" source="#CLE" target="#ThisisCLE" weight="3021" />
+      <edge id="216" source="#CLE" target="#CBUS" weight="9063" />
+      <edge id="217" source="#CLE" target="#theland" weight="3021" />
+      <edge id="218" source="#CLE" target="#GetOverHere" weight="6042" />
+      <edge id="219" source="#CLE" target="#cbusfoodscene" weight="3021" />
+      <edge id="220" source="#CLE" target="#Ohio" weight="3021" />
+      <edge id="221" source="#lickingcounty" target="#TopBrewsTues" weight="3021" />
+      <edge id="222" source="#lickingcounty" target="#craftbeer" weight="3021" />
+      <edge id="223" source="#sambafresh" target="#colpres" weight="3021" />
+      <edge id="224" source="#sambafresh" target="#cbusconnect" weight="3021" />
+      <edge id="225" source="#sambafresh" target="#juice" weight="3021" />
+      <edge id="226" source="#pride2016" target="#columbuspride" weight="3021" />
+      <edge id="227" source="#pride2016" target="#pride" weight="3021" />
+      <edge id="228" source="#cmr" target="#bourbon" weight="3021" />
+      <edge id="229" source="#cmr" target="#bulliet" weight="3021" />
+      <edge id="230" source="#cmr" target="#thebarn" weight="3021" />
+      <edge id="231" source="#cmr" target="#georgedickel" weight="3021" />
+      <edge id="232" source="#cmr" target="#Manhattan" weight="3021" />
+      <edge id="233" source="#dad" target="#IceCream" weight="3021" />
+      <edge id="234" source="#oatmeal" target="#cookies" weight="3021" />
+      <edge id="235" source="#oatmeal" target="#toffee" weight="3021" />
+      <edge id="236" source="#oatmeal" target="#columbus" weight="3021" />
+      <edge id="237" source="#oatmeal" target="#sweettooth" weight="3021" />
+      <edge id="238" source="#DreamSmallBiz" target="#expcols" weight="3021" />
+      <edge id="239" source="#DreamSmallBiz" target="#shopsmall" weight="3021" />
+      <edge id="240" source="#DreamSmallBiz" target="#cbus" weight="3021" />
+      <edge id="241" source="#topbrewtues" target="#cbusconnect" weight="3021" />
+      <edge id="242" source="#EAT614" target="#NewAlbany" weight="3021" />
+      <edge id="243" source="#EAT614" target="#Hudson29" weight="3021" />
+      <edge id="244" source="#EAT614" target="#Restaurantweek" weight="12084" />
+      <edge id="245" source="#EAT614" target="#614Now" weight="3021" />
+      <edge id="246" source="#bourbon" target="#drinkupcolumbus" weight="3021" />
+      <edge id="247" source="#bourbon" target="#home" weight="3021" />
+      <edge id="248" source="#bourbon" target="#recipe" weight="3021" />
+      <edge id="249" source="#bourbon" target="#Manhattan" weight="3021" />
+      <edge id="250" source="#bourbon" target="#columbus" weight="3021" />
+      <edge id="251" source="#bourbon" target="#bulliet" weight="3021" />
+      <edge id="252" source="#bourbon" target="#thebarn" weight="3021" />
+      <edge id="253" source="#bourbon" target="#evanwilliams" weight="3021" />
+      <edge id="254" source="#bourbon" target="#georgedickel" weight="3021" />
+      <edge id="255" source="#bourbon" target="#party" weight="3021" />
+      <edge id="256" source="#bourbon" target="#cbus" weight="3021" />
+      <edge id="257" source="#bourbon" target="#drink" weight="3021" />
+      <edge id="258" source="#bourbon" target="#dinner" weight="3021" />
+      <edge id="259" source="#bourbon" target="#pasta" weight="3021" />
+      <edge id="260" source="#bourbon" target="#ohio" weight="3021" />
+      <edge id="261" source="#seventhson" target="#ipa" weight="3021" />
+      <edge id="262" source="#seventhson" target="#craftbeer" weight="3021" />
+      <edge id="263" source="#coffee" target="#cbusconnect" weight="3021" />
+      <edge id="264" source="#nomnomnom" target="#figandpig" weight="3021" />
+      <edge id="265" source="#nomnomnom" target="#cbus" weight="3021" />
+      <edge id="266" source="#nomnomnom" target="#614columbus" weight="3021" />
+      <edge id="267" source="#nomnomnom" target="#newcocktails" weight="3021" />
+      <edge id="268" source="#NCBeer" target="#TopBrewsTues" weight="3021" />
+      <edge id="269" source="#georgedickel" target="#bulliet" weight="3021" />
+      <edge id="270" source="#georgedickel" target="#thebarn" weight="3021" />
+      <edge id="271" source="#georgedickel" target="#Manhattan" weight="3021" />
+      <edge id="272" source="#recipes" target="#columbus" weight="3021" />
+      <edge id="273" source="#recipes" target="#asseenincolumbus" weight="3021" />
+      <edge id="274" source="#recipes" target="#cbusconnect" weight="3021" />
+      <edge id="275" source="#recipes" target="#cbus" weight="3021" />
+      <edge id="276" source="#recipes" target="#dinner" weight="3021" />
+      <edge id="277" source="#recipes" target="#cbusconnectrecipe" weight="3021" />
+      <edge id="278" source="#notahealthyeatingday" target="#dinner" weight="3021" />
+      <edge id="279" source="#notahealthyeatingday" target="#columbus" weight="3021" />
+      <edge id="280" source="#mothersday" target="#mom" weight="3021" />
+      <edge id="281" source="#mothersday" target="#brunch" weight="3021" />
+      <edge id="282" source="#mothersday" target="#breakfast" weight="3021" />
+      <edge id="283" source="#mothersday" target="#blueberries" weight="3021" />
+      <edge id="284" source="#mothersday" target="#columbus" weight="3021" />
+      <edge id="285" source="#MuleMonday" target="#Monday" weight="3021" />
+      <edge id="286" source="#MuleMonday" target="#HappyHour" weight="3021" />
+      <edge id="287" source="#kentuckyderby" target="#bee" weight="3021" />
+      <edge id="288" source="#kentuckyderby" target="#craftbeer" weight="3021" />
+      <edge id="289" source="#kentuckyderby" target="#saison" weight="3021" />
+      <edge id="290" source="#springtime" target="#cravecolumnus" weight="3021" />
+      <edge id="291" source="#craftbeer" target="#cbusconnectdrink" weight="3021" />
+      <edge id="292" source="#craftbeer" target="#asseenincolumbus" weight="6042" />
+      <edge id="293" source="#craftbeer" target="#cbusconnect" weight="30210" />
+      <edge id="294" source="#craftbeer" target="#clintonville" weight="3021" />
+      <edge id="295" source="#craftbeer" target="#drinkbeermadehere" weight="33231" />
+      <edge id="296" source="#craftbeer" target="#drinkupcolumbus" weight="12084" />
+      <edge id="297" source="#craftbeer" target="#bee" weight="3021" />
+      <edge id="298" source="#craftbeer" target="#voodoo" weight="3021" />
+      <edge id="299" source="#craftbeer" target="#TopBrewTues" weight="3021" />
+      <edge id="300" source="#craftbeer" target="#asseeninc" weight="3021" />
+      <edge id="301" source="#craftbeer" target="#bacon" weight="3021" />
+      <edge id="302" source="#craftbeer" target="#columbus" weight="33231" />
+      <edge id="303" source="#craftbeer" target="#lineage" weight="3021" />
+      <edge id="304" source="#craftbeer" target="#cbus" weight="12084" />
+      <edge id="305" source="#craftbeer" target="#craftypint" weight="3021" />
+      <edge id="306" source="#craftbeer" target="#c" weight="3021" />
+      <edge id="307" source="#craftbeer" target="#westerville" weight="3021" />
+      <edge id="308" source="#craftbeer" target="#colorado" weight="3021" />
+      <edge id="309" source="#craftbeer" target="#hopslam" weight="3021" />
+      <edge id="310" source="#craftbeer" target="#cbusproud" weight="3021" />
+      <edge id="311" source="#craftbeer" target="#dr" weight="3021" />
+      <edge id="312" source="#craftbeer" target="#foodiefightfri" weight="3021" />
+      <edge id="313" source="#craftbeer" target="#brunch" weight="3021" />
+      <edge id="314" source="#craftbeer" target="#sundayfunday" weight="3021" />
+      <edge id="315" source="#craftbeer" target="#Columbus" weight="12084" />
+      <edge id="316" source="#craftbeer" target="#dublin" weight="3021" />
+      <edge id="317" source="#craftbeer" target="#TopBrewsTues" weight="132924" />
+      <edge id="318" source="#craftbeer" target="#worthington" weight="3021" />
+      <edge id="319" source="#craftbeer" target="#CbustoPitt" weight="3021" />
+      <edge id="320" source="#craftbeer" target="#hopjuju" weight="3021" />
+      <edge id="321" source="#craftbeer" target="#creeper" weight="3021" />
+      <edge id="322" source="#craftbeer" target="#ipa" weight="3021" />
+      <edge id="323" source="#craftbeer" target="#cincy" weight="3021" />
+      <edge id="324" source="#craftbeer" target="#drinkbeerfromhere" weight="3021" />
+      <edge id="325" source="#craftbeer" target="#saison" weight="3021" />
+      <edge id="326" source="#columb" target="#kale" weight="3021" />
+      <edge id="327" source="#columb" target="#dinner" weight="3021" />
+      <edge id="328" source="#columb" target="#potato" weight="3021" />
+      <edge id="329" source="#columb" target="#recipe" weight="3021" />
+      <edge id="330" source="#columb" target="#soup" weight="3021" />
+      <edge id="331" source="#cookie" target="#icecream" weight="3021" />
+      <edge id="332" source="#saison" target="#bee" weight="3021" />
+      <edge id="333" source="#fatcityburger" target="#burger" weight="3021" />
+      <edge id="334" source="#fatcityburger" target="#meltbargrilled" weight="3021" />
+      <edge id="335" source="#GONE" target="#schnecken" weight="3021" />
+      <edge id="336" source="#GONE" target="#German" weight="3021" />
+      <edge id="337" source="#GONE" target="#croissants" weight="3021" />
+      <edge id="338" source="#Bingo" target="#SupportLocal" weight="3021" />
+      <edge id="339" source="#Bingo" target="#Wine" weight="3021" />
+      <edge id="340" source="#family" target="#food" weight="3021" />
+      <edge id="341" source="#family" target="#EastonFoodFest" weight="3021" />
+      <edge id="342" source="#locallove" target="#columbus" weight="3021" />
+      <edge id="343" source="#locallove" target="#eat614" weight="3021" />
+      <edge id="344" source="#organic" target="#joydelivered" weight="3021" />
+      <edge id="345" source="#organic" target="#columbus" weight="3021" />
+      <edge id="346" source="#CitYPulseCols" target="#lifeincbus" weight="3021" />
+      <edge id="347" source="#KentuckyDerby2015" target="#hatgame" weight="3021" />
+      <edge id="348" source="#craftbe" target="#fathersday" weight="3021" />
+      <edge id="349" source="#yum" target="#pumpkinallthethings" weight="3021" />
+      <edge id="350" source="#asheville" target="#biltmore" weight="3021" />
+      <edge id="351" source="#asheville" target="#cbusconnect" weight="3021" />
+      <edge id="352" source="#desserts" target="#granville" weight="3021" />
+      <edge id="353" source="#desserts" target="#alfies" weight="3021" />
+      <edge id="354" source="#cbusconnectfood" target="#cupcake" weight="3021" />
+      <edge id="355" source="#cbusconnectfood" target="#buckeye" weight="3021" />
+      <edge id="356" source="#cbusconnectfood" target="#asseenincolumbus" weight="3021" />
+      <edge id="357" source="#cbusconnectfood" target="#cbusconnect" weight="6042" />
+      <edge id="358" source="#cbusconnectfood" target="#osu" weight="3021" />
+      <edge id="359" source="#cbusconnectfood" target="#columbus" weight="3021" />
+      <edge id="360" source="#pork" target="#maplesyrup" weight="3021" />
+      <edge id="361" source="#pork" target="#brusselssprouts" weight="3021" />
+      <edge id="362" source="#pork" target="#grill" weight="3021" />
+      <edge id="363" source="#pork" target="#columbus" weight="3021" />
+      <edge id="364" source="#pork" target="#cbusc" weight="3021" />
+      <edge id="365" source="#pork" target="#cookout" weight="6042" />
+      <edge id="366" source="#pork" target="#dinner" weight="6042" />
+      <edge id="367" source="#pork" target="#meat" weight="3021" />
+      <edge id="368" source="#CbusBigNightIn" target="#inGrandview" weight="3021" />
+      <edge id="369" source="#asseeninshortnorth" target="#brunch" weight="3021" />
+      <edge id="370" source="#asseeninshortnorth" target="#weekend" weight="3021" />
+      <edge id="371" source="#asseeninshortnorth" target="#shortnorth" weight="3021" />
+      <edge id="372" source="#asseeninshortnorth" target="#mimosa" weight="3021" />
+      <edge id="373" source="#columbus" target="#chicken" weight="3021" />
+      <edge id="374" source="#columbus" target="#cupcake" weight="3021" />
+      <edge id="375" source="#columbus" target="#cbusconnect" weight="120840" />
+      <edge id="376" source="#columbus" target="#cake" weight="3021" />
+      <edge id="377" source="#columbus" target="#home" weight="3021" />
+      <edge id="378" source="#columbus" target="#trivia" weight="3021" />
+      <edge id="379" source="#columbus" target="#HappyNewYear" weight="3021" />
+      <edge id="380" source="#columbus" target="#asseeninc" weight="3021" />
+      <edge id="381" source="#columbus" target="#recipe" weight="21147" />
+      <edge id="382" source="#columbus" target="#espana" weight="3021" />
+      <edge id="383" source="#columbus" target="#vodka" weight="3021" />
+      <edge id="384" source="#columbus" target="#breakfast" weight="9063" />
+      <edge id="385" source="#columbus" target="#worthington" weight="3021" />
+      <edge id="386" source="#columbus" target="#4thofjuly" weight="3021" />
+      <edge id="387" source="#columbus" target="#kittiescakes" weight="6042" />
+      <edge id="388" source="#columbus" target="#cbus" weight="24168" />
+      <edge id="389" source="#columbus" target="#asse" weight="3021" />
+      <edge id="390" source="#columbus" target="#boom15" weight="3021" />
+      <edge id="391" source="#columbus" target="#limoncello" weight="3021" />
+      <edge id="392" source="#columbus" target="#fruit" weight="3021" />
+      <edge id="393" source="#columbus" target="#asseenincolumbus" weight="27189" />
+      <edge id="394" source="#columbus" target="#cypclub" weight="3021" />
+      <edge id="395" source="#columbus" target="#clintonville" weight="3021" />
+      <edge id="396" source="#columbus" target="#midwestblogger" weight="3021" />
+      <edge id="397" source="#columbus" target="#oreo" weight="3021" />
+      <edge id="398" source="#columbus" target="#cbusconnectrecipe" weight="3021" />
+      <edge id="399" source="#columbus" target="#bacon" weight="9063" />
+      <edge id="400" source="#columbus" target="#juicing" weight="3021" />
+      <edge id="401" source="#columbus" target="#cb" weight="3021" />
+      <edge id="402" source="#columbus" target="#craftypint" weight="3021" />
+      <edge id="403" source="#columbus" target="#history" weight="6042" />
+      <edge id="404" source="#columbus" target="#a" weight="3021" />
+      <edge id="405" source="#columbus" target="#e" weight="3021" />
+      <edge id="406" source="#columbus" target="#waterview" weight="3021" />
+      <edge id="407" source="#columbus" target="#fairfood" weight="3021" />
+      <edge id="408" source="#columbus" target="#kahlua" weight="3021" />
+      <edge id="409" source="#columbus" target="#quiche" weight="3021" />
+      <edge id="410" source="#columbus" target="#drink" weight="3021" />
+      <edge id="411" source="#columbus" target="#dinner" weight="18126" />
+      <edge id="412" source="#columbus" target="#franklinton" weight="3021" />
+      <edge id="413" source="#columbus" target="#foodtrucks" weight="3021" />
+      <edge id="414" source="#columbus" target="#ccc" weight="3021" />
+      <edge id="415" source="#columbus" target="#fundraising" weight="3021" />
+      <edge id="416" source="#columbus" target="#FoodTruck" weight="6042" />
+      <edge id="417" source="#columbus" target="#yummy" weight="3021" />
+      <edge id="418" source="#columbus" target="#Ohio" weight="3021" />
+      <edge id="419" source="#columbus" target="#hotchickentakeover" weight="3021" />
+      <edge id="420" source="#columbus" target="#july4th" weight="3021" />
+      <edge id="421" source="#columbus" target="#asseenincolum" weight="3021" />
+      <edge id="422" source="#columbus" target="#wine" weight="9063" />
+      <edge id="423" source="#columbus" target="#cheese" weight="3021" />
+      <edge id="424" source="#columbus" target="#cocktail" weight="3021" />
+      <edge id="425" source="#columbus" target="#kids" weight="3021" />
+      <edge id="426" source="#columbus" target="#cookies" weight="12084" />
+      <edge id="427" source="#columbus" target="#osu" weight="3021" />
+      <edge id="428" source="#columbus" target="#TopBrewsTues" weight="9063" />
+      <edge id="429" source="#columbus" target="#joydelivered" weight="3021" />
+      <edge id="430" source="#columbus" target="#2015CBJF" weight="3021" />
+      <edge id="431" source="#columbus" target="#brunch" weight="3021" />
+      <edge id="432" source="#columbus" target="#SundayFunday" weight="3021" />
+      <edge id="433" source="#columbus" target="#inGrandview" weight="3021" />
+      <edge id="434" source="#columbus" target="#sweettooth" weight="3021" />
+      <edge id="435" source="#columbus" target="#toffee" weight="3021" />
+      <edge id="436" source="#columbus" target="#Peeps" weight="3021" />
+      <edge id="437" source="#columbus" target="#love4jenis" weight="3021" />
+      <edge id="438" source="#columbus" target="#carboverload" weight="3021" />
+      <edge id="439" source="#columbus" target="#buckeye" weight="3021" />
+      <edge id="440" source="#columbus" target="#lemon" weight="3021" />
+      <edge id="441" source="#columbus" target="#snickerdoodles" weight="3021" />
+      <edge id="442" source="#columbus" target="#pizza" weight="6042" />
+      <edge id="443" source="#columbus" target="#cbusconne" weight="3021" />
+      <edge id="444" source="#columbus" target="#farmfresh" weight="3021" />
+      <edge id="445" source="#columbus" target="#foodiefightfri" weight="9063" />
+      <edge id="446" source="#columbus" target="#veggies" weight="3021" />
+      <edge id="447" source="#columbus" target="#idonteatreptiles" weight="3021" />
+      <edge id="448" source="#columbus" target="#italian" weight="3021" />
+      <edge id="449" source="#columbus" target="#ohio" weight="6042" />
+      <edge id="450" source="#columbus" target="#icecream" weight="3021" />
+      <edge id="451" source="#columbus" target="#party" weight="3021" />
+      <edge id="452" source="#columbus" target="#stockandbarrel614" weight="9063" />
+      <edge id="453" source="#columbus" target="#chives" weight="3021" />
+      <edge id="454" source="#columbus" target="#cookout" weight="3021" />
+      <edge id="455" source="#columbus" target="#pasta" weight="6042" />
+      <edge id="456" source="#columbus" target="#summer" weight="3021" />
+      <edge id="457" source="#columbus" target="#HotDogDay" weight="3021" />
+      <edge id="458" source="#columbus" target="#strawberry" weight="3021" />
+      <edge id="459" source="#columbus" target="#breakfastatkitties" weight="6042" />
+      <edge id="460" source="#columbus" target="#soup" weight="3021" />
+      <edge id="461" source="#columbus" target="#lineage" weight="3021" />
+      <edge id="462" source="#columbus" target="#juice" weight="3021" />
+      <edge id="463" source="#columbus" target="#drinkbeermadehere" weight="3021" />
+      <edge id="464" source="#columbus" target="#expcols" weight="9063" />
+      <edge id="465" source="#columbus" target="#brusselssprouts" weight="3021" />
+      <edge id="466" source="#columbus" target="#drinkupcolumbus" weight="3021" />
+      <edge id="467" source="#columbus" target="#chocolate" weight="3021" />
+      <edge id="468" source="#columbus" target="#foodtruck" weight="3021" />
+      <edge id="469" source="#columbus" target="#eat614" weight="3021" />
+      <edge id="470" source="#columbus" target="#appetizers" weight="3021" />
+      <edge id="471" source="#columbus" target="#dublin" weight="3021" />
+      <edge id="472" source="#columbus" target="#asian" weight="3021" />
+      <edge id="473" source="#columbus" target="#christmas" weight="6042" />
+      <edge id="474" source="#columbus" target="#birthday" weight="6042" />
+      <edge id="475" source="#columbus" target="#coldpressedjuice" weight="3021" />
+      <edge id="476" source="#carbcity" target="#lasagna" weight="3021" />
+      <edge id="477" source="#carbcity" target="#recipe" weight="3021" />
+      <edge id="478" source="#carbcity" target="#italian" weight="3021" />
+      <edge id="479" source="#carbcity" target="#pasta" weight="3021" />
+      <edge id="480" source="#Monday" target="#HappyHour" weight="3021" />
+      <edge id="481" source="#stoutday" target="#cbusaletrail" weight="3021" />
+      <edge id="482" source="#chives" target="#recipe" weight="3021" />
+      <edge id="483" source="#chives" target="#quiche" weight="3021" />
+      <edge id="484" source="#chives" target="#asseenincolumbus" weight="3021" />
+      <edge id="485" source="#chives" target="#cbusconne" weight="3021" />
+      <edge id="486" source="#chives" target="#cbus" weight="3021" />
+      <edge id="487" source="#chives" target="#dinner" weight="3021" />
+      <edge id="488" source="#kids" target="#HotDogDay" weight="3021" />
+      <edge id="489" source="#kids" target="#yummy" weight="3021" />
+      <edge id="490" source="#shopthehop" target="#hopwithus" weight="3021" />
+      <edge id="491" source="#shopthehop" target="#dothehop" weight="3021" />
+      <edge id="492" source="#shopthehop" target="#GrandviewHop" weight="3021" />
+      <edge id="493" source="#sundayfunday" target="#superbowl" weight="3021" />
+      <edge id="494" source="#sundayfunday" target="#breakfast" weight="3021" />
+      <edge id="495" source="#sundayfunday" target="#pecan" weight="3021" />
+      <edge id="496" source="#sundayfunday" target="#cbusconnect" weight="3021" />
+      <edge id="497" source="#sundayfunday" target="#chocolate" weight="3021" />
+      <edge id="498" source="#MintJulep" target="#KentuckyDerby" weight="3021" />
+      <edge id="499" source="#lemon" target="#limoncello" weight="3021" />
+      <edge id="500" source="#lemon" target="#a" weight="3021" />
+      <edge id="501" source="#lemon" target="#cocktai" weight="3021" />
+      <edge id="502" source="#lemon" target="#cocktail" weight="3021" />
+      <edge id="503" source="#lemon" target="#vodka" weight="6042" />
+      <edge id="504" source="#lemon" target="#italian" weight="3021" />
+      <edge id="505" source="#lemon" target="#summer" weight="3021" />
+      <edge id="506" source="#5XNW" target="#StPatricksDay" weight="3021" />
+      <edge id="507" source="#CD1025" target="#CBUS" weight="3021" />
+      <edge id="508" source="#drinklocalcbus" target="#foodtruck" weight="3021" />
+      <edge id="509" source="#drinklocalcbus" target="#eatlocalcbus" weight="3021" />
+      <edge id="510" source="#su" target="#raspberry" weight="3021" />
+      <edge id="511" source="#su" target="#farmfresh" weight="3021" />
+      <edge id="512" source="#DonutHouse" target="#SunBurstGrill" weight="3021" />
+      <edge id="513" source="#veggies" target="#chicken" weight="3021" />
+      <edge id="514" source="#veggies" target="#rain" weight="3021" />
+      <edge id="515" source="#veggies" target="#grill" weight="3021" />
+      <edge id="516" source="#veggies" target="#dinner" weight="6042" />
+      <edge id="517" source="#veggies" target="#steak" weight="3021" />
+      <edge id="518" source="#veggies" target="#cbusconnect" weight="9063" />
+      <edge id="519" source="#veggies" target="#brus" weight="3021" />
+      <edge id="520" source="#veggies" target="#soup" weight="3021" />
+      <edge id="521" source="#ohio" target="#fruit" weight="3021" />
+      <edge id="522" source="#ohio" target="#drinkupcolumbus" weight="3021" />
+      <edge id="523" source="#ohio" target="#drinklocal" weight="3021" />
+      <edge id="524" source="#ohio" target="#recipe" weight="3021" />
+      <edge id="525" source="#ohio" target="#cbus" weight="6042" />
+      <edge id="526" source="#ohio" target="#drink" weight="3021" />
+      <edge id="527" source="#ohio" target="#asseenincolumbus" weight="3021" />
+      <edge id="528" source="#ohio" target="#cbusconnect" weight="3021" />
+      <edge id="529" source="#ohio" target="#party" weight="3021" />
+      <edge id="530" source="#ohio" target="#wineries" weight="3021" />
+      <edge id="531" source="#ohio" target="#strawberry" weight="3021" />
+      <edge id="532" source="#ohio" target="#decor" weight="3021" />
+      <edge id="533" source="#ohio" target="#dinner" weight="3021" />
+      <edge id="534" source="#ohio" target="#farmfresh" weight="3021" />
+      <edge id="535" source="#ohio" target="#home" weight="3021" />
+      <edge id="536" source="#ohio" target="#pasta" weight="3021" />
+      <edge id="537" source="#ohio" target="#cb" weight="3021" />
+      <edge id="538" source="#ColumbusBeerfest" target="#drinkupcolumbus" weight="3021" />
+      <edge id="539" source="#stockandbarrel614" target="#asseenincolumbus" weight="3021" />
+      <edge id="540" source="#stockandbarrel614" target="#SB50" weight="3021" />
+      <edge id="541" source="#stockandbarrel614" target="#dess" weight="3021" />
+      <edge id="542" source="#stockandbarrel614" target="#e" weight="3021" />
+      <edge id="543" source="#stockandbarrel614" target="#cbusconnect" weight="27189" />
+      <edge id="544" source="#dothehop" target="#hopwithus" weight="3021" />
+      <edge id="545" source="#dothehop" target="#GrandviewHop" weight="3021" />
+      <edge id="546" source="#FMMF2015" target="#asseenincolumbus" weight="3021" />
+      <edge id="547" source="#HotDogDay" target="#yummy" weight="3021" />
+      <edge id="548" source="#onions" target="#taco" weight="3021" />
+      <edge id="549" source="#onions" target="#Mexican" weight="3021" />
+      <edge id="550" source="#Manhattan" target="#bulliet" weight="3021" />
+      <edge id="551" source="#Manhattan" target="#thebarn" weight="3021" />
+      <edge id="552" source="#egg" target="#bacon" weight="3021" />
+      <edge id="553" source="#egg" target="#risotto" weight="3021" />
+      <edge id="554" source="#egg" target="#d" weight="3021" />
+      <edge id="555" source="#melty" target="#c" weight="3021" />
+      <edge id="556" source="#melty" target="#tom" weight="3021" />
+      <edge id="557" source="#melty" target="#grilledcheese" weight="3021" />
+      <edge id="558" source="#melty" target="#cheese" weight="3021" />
+      <edge id="559" source="#melty" target="#avocado" weight="3021" />
+      <edge id="560" source="#HCT" target="#hotchickentakeover" weight="3021" />
+      <edge id="561" source="#soda" target="#rhubarb" weight="3021" />
+      <edge id="562" source="#soda" target="#drink" weight="3021" />
+      <edge id="563" source="#hmcafe" target="#kentuckymule" weight="3021" />
+      <edge id="564" source="#hmcafe" target="#cocktail" weight="3021" />
+      <edge id="565" source="#discoverohio" target="#exploreohio" weight="3021" />
+      <edge id="566" source="#discoverohio" target="#moonshine" weight="3021" />
+      <edge id="567" source="#discoverohio" target="#expcols" weight="3021" />
+      <edge id="568" source="#discoverohio" target="#Dayton" weight="3021" />
+      <edge id="569" source="#juice" target="#expcols" weight="3021" />
+      <edge id="570" source="#juice" target="#juicing" weight="3021" />
+      <edge id="571" source="#juice" target="#cbusconnect" weight="6042" />
+      <edge id="572" source="#juice" target="#colpres" weight="3021" />
+      <edge id="573" source="#juice" target="#coldpressedjuice" weight="3021" />
+      <edge id="574" source="#juice" target="#cbus" weight="3021" />
+      <edge id="575" source="#cocktai" target="#vodka" weight="3021" />
+      <edge id="576" source="#eat614" target="#lifeincbus" weight="6042" />
+      <edge id="577" source="#eat614" target="#restaurantweek" weight="3021" />
+      <edge id="578" source="#eat614" target="#brunch" weight="3021" />
+      <edge id="579" source="#eat614" target="#cbusconnect" weight="3021" />
+      <edge id="580" source="#eat614" target="#Columbus" weight="3021" />
+      <edge id="581" source="#eat614" target="#giveaway" weight="3021" />
+      <edge id="582" source="#dublin" target="#craftypint" weight="3021" />
+      <edge id="583" source="#dublin" target="#worthington" weight="3021" />
+      <edge id="584" source="#dublin" target="#brunch" weight="3021" />
+      <edge id="585" source="#thepintlife" target="#shortnorth" weight="3021" />
+      <edge id="586" source="#germanvill" target="#cupcake" weight="3021" />
+      <edge id="587" source="#SoulBar" target="#ShortNorth" weight="3021" />
+      <edge id="588" source="#kentuckymule" target="#cocktail" weight="3021" />
+      <edge id="589" source="#chicken" target="#rain" weight="3021" />
+      <edge id="590" source="#chicken" target="#pi" weight="3021" />
+      <edge id="591" source="#chicken" target="#asian" weight="3021" />
+      <edge id="592" source="#chicken" target="#recipe" weight="3021" />
+      <edge id="593" source="#chicken" target="#dinner" weight="3021" />
+      <edge id="594" source="#chicken" target="#cbusconnect" weight="3021" />
+      <edge id="595" source="#chicken" target="#cbus" weight="3021" />
+      <edge id="596" source="#chicken" target="#soup" weight="3021" />
+      <edge id="597" source="#chicken" target="#Thai" weight="3021" />
+      <edge id="598" source="#SixOnePour" target="#drinkupcolumbus" weight="3021" />
+      <edge id="599" source="#oldetowneeast" target="#asseenincolumbus" weight="3021" />
+      <edge id="600" source="#oldetowneeast" target="#happymonday" weight="3021" />
+      <edge id="601" source="#cbusconnect" target="#cupcake" weight="3021" />
+      <edge id="602" source="#cbusconnect" target="#alohastreatery" weight="3021" />
+      <edge id="603" source="#cbusconnect" target="#falafel" weight="6042" />
+      <edge id="604" source="#cbusconnect" target="#dess" weight="3021" />
+      <edge id="605" source="#cbusconnect" target="#tbt" weight="15105" />
+      <edge id="606" source="#cbusconnect" target="#HappyNewYear" weight="3021" />
+      <edge id="607" source="#cbusconnect" target="#rain" weight="3021" />
+      <edge id="608" source="#cbusconnect" target="#recipe" weight="6042" />
+      <edge id="609" source="#cbusconnect" target="#espana" weight="3021" />
+      <edge id="610" source="#cbusconnect" target="#breakfast" weight="3021" />
+      <edge id="611" source="#cbusconnect" target="#sushi" weight="3021" />
+      <edge id="612" source="#cbusconnect" target="#SB50" weight="3021" />
+      <edge id="613" source="#cbusconnect" target="#2015bestnine" weight="3021" />
+      <edge id="614" source="#cbusconnect" target="#cbus" weight="3021" />
+      <edge id="615" source="#cbusconnect" target="#asse" weight="3021" />
+      <edge id="616" source="#cbusconnect" target="#CbustoPitt" weight="3021" />
+      <edge id="617" source="#cbusconnect" target="#zucchini" weight="3021" />
+      <edge id="618" source="#cbusconnect" target="#asseenincolumbus" weight="18126" />
+      <edge id="619" source="#cbusconnect" target="#cypclub" weight="3021" />
+      <edge id="620" source="#cbusconnect" target="#huffposttaste" weight="3021" />
+      <edge id="621" source="#cbusconnect" target="#kelleysisland" weight="3021" />
+      <edge id="622" source="#cbusconnect" target="#oreo" weight="3021" />
+      <edge id="623" source="#cbusconnect" target="#Halloween" weight="3021" />
+      <edge id="624" source="#cbusconnect" target="#granville" weight="3021" />
+      <edge id="625" source="#cbusconnect" target="#colpres" weight="3021" />
+      <edge id="626" source="#cbusconnect" target="#bacon" weight="3021" />
+      <edge id="627" source="#cbusconnect" target="#e" weight="3021" />
+      <edge id="628" source="#cbusconnect" target="#yahoofood" weight="3021" />
+      <edge id="629" source="#cbusconnect" target="#trivia" weight="3021" />
+      <edge id="630" source="#cbusconnect" target="#dinner" weight="12084" />
+      <edge id="631" source="#cbusconnect" target="#franklinton" weight="3021" />
+      <edge id="632" source="#cbusconnect" target="#ccc" weight="3021" />
+      <edge id="633" source="#cbusconnect" target="#FoodTruck" weight="3021" />
+      <edge id="634" source="#cbusconnect" target="#foodtruck" weight="6042" />
+      <edge id="635" source="#cbusconnect" target="#cbusconnectrecipe" weight="3021" />
+      <edge id="636" source="#cbusconnect" target="#MarchMadness" weight="3021" />
+      <edge id="637" source="#cbusconnect" target="#giveaway" weight="3021" />
+      <edge id="638" source="#cbusconnect" target="#wine" weight="6042" />
+      <edge id="639" source="#cbusconnect" target="#cheese" weight="3021" />
+      <edge id="640" source="#cbusconnect" target="#cookies" weight="9063" />
+      <edge id="641" source="#cbusconnect" target="#osu" weight="3021" />
+      <edge id="642" source="#cbusconnect" target="#joydelivered" weight="3021" />
+      <edge id="643" source="#cbusconnect" target="#buckeye" weight="3021" />
+      <edge id="644" source="#cbusconnect" target="#biltmore" weight="3021" />
+      <edge id="645" source="#cbusconnect" target="#pizza" weight="6042" />
+      <edge id="646" source="#cbusconnect" target="#foodiefightfri" weight="21147" />
+      <edge id="647" source="#cbusconnect" target="#vegan" weight="3021" />
+      <edge id="648" source="#cbusconnect" target="#inGrandview" weight="3021" />
+      <edge id="649" source="#cbusconnect" target="#drinkupcolumbus" weight="6042" />
+      <edge id="650" source="#cbusconnect" target="#CraftBeer" weight="3021" />
+      <edge id="651" source="#cbusconnect" target="#tacos" weight="3021" />
+      <edge id="652" source="#cbusconnect" target="#soup" weight="3021" />
+      <edge id="653" source="#cbusconnect" target="#expcols" weight="3021" />
+      <edge id="654" source="#cbusconnect" target="#macaron" weight="3021" />
+      <edge id="655" source="#cbusconnect" target="#pumpkin" weight="3021" />
+      <edge id="656" source="#cbusconnect" target="#food" weight="3021" />
+      <edge id="657" source="#cbusconnect" target="#Columbus" weight="42294" />
+      <edge id="658" source="#cbusconnect" target="#TopBrewsTues" weight="15105" />
+      <edge id="659" source="#cbusconnect" target="#christmas" weight="6042" />
+      <edge id="660" source="#cbusconnect" target="#birthday" weight="3021" />
+      <edge id="661" source="#cbusconnect" target="#newalbany" weight="3021" />
+      <edge id="662" source="#cbusconnect" target="#cincy" weight="3021" />
+      <edge id="663" source="#cbuslocallove" target="#farmtotable" weight="3021" />
+      <edge id="664" source="#cbuslocallove" target="#local" weight="3021" />
+      <edge id="665" source="#cbuslocallove" target="#asseenincolumbus" weight="3021" />
+      <edge id="666" source="#canalwinchest" target="#cw" weight="3021" />
+      <edge id="667" source="#canalwinchest" target="#dinner" weight="3021" />
+      <edge id="668" source="#canalwinchest" target="#shrimp" weight="3021" />
+      <edge id="669" source="#canalwinchest" target="#harvestmooncafe" weight="3021" />
+      <edge id="670" source="#Pumking" target="#thirstythursday" weight="3021" />
+      <edge id="671" source="#Pumking" target="#cheers" weight="3021" />
+      <edge id="672" source="#ramen" target="#local" weight="3021" />
+      <edge id="673" source="#loveislove" target="#columbuspride" weight="3021" />
+      <edge id="674" source="#tacos" target="#vegan" weight="3021" />
+      <edge id="675" source="#tacos" target="#Columbus" weight="3021" />
+      <edge id="676" source="#tacos" target="#tbt" weight="3021" />
+      <edge id="677" source="#trivia" target="#Halloween" weight="3021" />
+      <edge id="678" source="#trivia" target="#pizza" weight="3021" />
+      <edge id="679" source="#trivia" target="#pumpkin" weight="3021" />
+      <edge id="680" source="#trivia" target="#foodiefightfri" weight="9063" />
+      <edge id="681" source="#trivia" target="#Columbus" weight="3021" />
+      <edge id="682" source="#winewednesday" target="#rose" weight="3021" />
+      <edge id="683" source="#winewednesday" target="#wine" weight="3021" />
+      <edge id="684" source="#strawberry" target="#fruit" weight="3021" />
+      <edge id="685" source="#strawberry" target="#asseenincolumbus" weight="3021" />
+      <edge id="686" source="#strawberry" target="#cbus" weight="3021" />
+      <edge id="687" source="#strawberry" target="#farmfresh" weight="3021" />
+      <edge id="688" source="#strawberry" target="#cb" weight="3021" />
+      <edge id="689" source="#sweetpotato" target="#gnocchi" weight="3021" />
+      <edge id="690" source="#rain" target="#dinner" weight="3021" />
+      <edge id="691" source="#rain" target="#soup" weight="3021" />
+      <edge id="692" source="#cask" target="#foodtruck" weight="3021" />
+      <edge id="693" source="#recipe" target="#zucchini" weight="3021" />
+      <edge id="694" source="#recipe" target="#quiche" weight="3021" />
+      <edge id="695" source="#recipe" target="#crab" weight="3021" />
+      <edge id="696" source="#recipe" target="#asseenincolumbus" weight="6042" />
+      <edge id="697" source="#recipe" target="#video" weight="3021" />
+      <edge id="698" source="#recipe" target="#party" weight="3021" />
+      <edge id="699" source="#recipe" target="#rhubarb" weight="3021" />
+      <edge id="700" source="#recipe" target="#pasta" weight="9063" />
+      <edge id="701" source="#recipe" target="#potato" weight="6042" />
+      <edge id="702" source="#recipe" target="#midwestblogger" weight="3021" />
+      <edge id="703" source="#recipe" target="#cbusconne" weight="3021" />
+      <edge id="704" source="#recipe" target="#drink" weight="6042" />
+      <edge id="705" source="#recipe" target="#kale" weight="3021" />
+      <edge id="706" source="#recipe" target="#soup" weight="3021" />
+      <edge id="707" source="#recipe" target="#bacon" weight="3021" />
+      <edge id="708" source="#recipe" target="#cbuscon" weight="3021" />
+      <edge id="709" source="#recipe" target="#wine" weight="3021" />
+      <edge id="710" source="#recipe" target="#cheese" weight="3021" />
+      <edge id="711" source="#recipe" target="#cookies" weight="3021" />
+      <edge id="712" source="#recipe" target="#SundayFunday" weight="3021" />
+      <edge id="713" source="#recipe" target="#crabcakes" weight="3021" />
+      <edge id="714" source="#recipe" target="#home" weight="3021" />
+      <edge id="715" source="#recipe" target="#Columbus" weight="3021" />
+      <edge id="716" source="#recipe" target="#Preakness" weight="3021" />
+      <edge id="717" source="#recipe" target="#mayo" weight="3021" />
+      <edge id="718" source="#recipe" target="#asian" weight="3021" />
+      <edge id="719" source="#recipe" target="#horse" weight="3021" />
+      <edge id="720" source="#recipe" target="#lasagna" weight="3021" />
+      <edge id="721" source="#recipe" target="#snickerdoodles" weight="3021" />
+      <edge id="722" source="#recipe" target="#sriracha" weight="3021" />
+      <edge id="723" source="#recipe" target="#cbus" weight="12084" />
+      <edge id="724" source="#recipe" target="#polish" weight="3021" />
+      <edge id="725" source="#recipe" target="#appetizer" weight="3021" />
+      <edge id="726" source="#recipe" target="#dinner" weight="24168" />
+      <edge id="727" source="#recipe" target="#italian" weight="3021" />
+      <edge id="728" source="#westerville" target="#Columbus" weight="3021" />
+      <edge id="729" source="#meltbargrilled" target="#grilledcheese" weight="3021" />
+      <edge id="730" source="#meltbargrilled" target="#burger" weight="3021" />
+      <edge id="731" source="#MapleBourbonCider" target="#MSDBourbon" weight="3021" />
+      <edge id="732" source="#GrandviewHop" target="#hopwithus" weight="3021" />
+      <edge id="733" source="#comfortfood" target="#grilledcheese" weight="6042" />
+      <edge id="734" source="#comfortfood" target="#newbombturkey" weight="3021" />
+      <edge id="735" source="#BuckeyeNation" target="#drinklocal" weight="3021" />
+      <edge id="736" source="#BuckeyeNation" target="#cbusproud" weight="3021" />
+      <edge id="737" source="#sushi" target="#newalbany" weight="3021" />
+      <edge id="738" source="#sushi" target="#Columbus" weight="3021" />
+      <edge id="739" source="#sushi" target="#avocado" weight="3021" />
+      <edge id="740" source="#worthington" target="#craftypint" weight="3021" />
+      <edge id="741" source="#worthington" target="#dinner" weight="3021" />
+      <edge id="742" source="#worthington" target="#brunch" weight="3021" />
+      <edge id="743" source="#worthington" target="#Columbus" weight="3021" />
+      <edge id="744" source="#pint" target="#Ale" weight="3021" />
+      <edge id="745" source="#CYPsocial" target="#lifeincbus" weight="3021" />
+      <edge id="746" source="#CYPsocial" target="#cypclub" weight="3021" />
+      <edge id="747" source="#kittiescakes" target="#breakfastatkitties" weight="6042" />
+      <edge id="748" source="#grilledcheese" target="#tom" weight="3021" />
+      <edge id="749" source="#grilledcheese" target="#avocado" weight="3021" />
+      <edge id="750" source="#grilledcheese" target="#c" weight="3021" />
+      <edge id="751" source="#grilledcheese" target="#cheese" weight="3021" />
+      <edge id="752" source="#grilledcheese" target="#newbombturkey" weight="3021" />
+      <edge id="753" source="#cbus" target="#fruit" weight="3021" />
+      <edge id="754" source="#cbus" target="#crab" weight="3021" />
+      <edge id="755" source="#cbus" target="#cbusconnectdrink" weight="3021" />
+      <edge id="756" source="#cbus" target="#asseenincolumbus" weight="12084" />
+      <edge id="757" source="#cbus" target="#party" weight="3021" />
+      <edge id="758" source="#cbus" target="#figandpig" weight="3021" />
+      <edge id="759" source="#cbus" target="#clintonville" weight="3021" />
+      <edge id="760" source="#cbus" target="#MothersDay" weight="3021" />
+      <edge id="761" source="#cbus" target="#newcocktails" weight="3021" />
+      <edge id="762" source="#cbus" target="#pasta" weight="3021" />
+      <edge id="763" source="#cbus" target="#ECKitchen" weight="3021" />
+      <edge id="764" source="#cbus" target="#midwestblogger" weight="3021" />
+      <edge id="765" source="#cbus" target="#drink" weight="3021" />
+      <edge id="766" source="#cbus" target="#asseeninc" weight="3021" />
+      <edge id="767" source="#cbus" target="#lineage" weight="3021" />
+      <edge id="768" source="#cbus" target="#expcols" weight="6042" />
+      <edge id="769" source="#cbus" target="#shopsmall" weight="3021" />
+      <edge id="770" source="#cbus" target="#mayo" weight="3021" />
+      <edge id="771" source="#cbus" target="#614columbus" weight="3021" />
+      <edge id="772" source="#cbus" target="#wine" weight="3021" />
+      <edge id="773" source="#cbus" target="#brunch" weight="6042" />
+      <edge id="774" source="#cbus" target="#home" weight="3021" />
+      <edge id="775" source="#cbus" target="#Preakness" weight="3021" />
+      <edge id="776" source="#cbus" target="#horse" weight="3021" />
+      <edge id="777" source="#cbus" target="#asian" weight="3021" />
+      <edge id="778" source="#cbus" target="#juicing" weight="3021" />
+      <edge id="779" source="#cbus" target="#quiche" weight="3021" />
+      <edge id="780" source="#cbus" target="#grandview" weight="3021" />
+      <edge id="781" source="#cbus" target="#cbusconne" weight="3021" />
+      <edge id="782" source="#cbus" target="#farmfresh" weight="3021" />
+      <edge id="783" source="#cbus" target="#foodiefightfri" weight="3021" />
+      <edge id="784" source="#cbus" target="#coldpressedjuice" weight="3021" />
+      <edge id="785" source="#cbus" target="#cb" weight="3021" />
+      <edge id="786" source="#cbus" target="#dinner" weight="12084" />
+      <edge id="787" source="#CbustoPitt" target="#whiskey" weight="3021" />
+      <edge id="788" source="#CbustoPitt" target="#cbusconnectdrink" weight="3021" />
+      <edge id="789" source="#CbustoPitt" target="#pittsburgh" weight="3021" />
+      <edge id="790" source="#CbustoPitt" target="#hopjuju" weight="3021" />
+      <edge id="791" source="#CbustoPitt" target="#Pittsburgh" weight="3021" />
+      <edge id="792" source="#CbustoPitt" target="#SundayFunday" weight="3021" />
+      <edge id="793" source="#Golf" target="#pimentocheese" weight="3021" />
+      <edge id="794" source="#Golf" target="#Masters" weight="3021" />
+      <edge id="795" source="#fairfoods" target="#bacon" weight="3021" />
+      <edge id="796" source="#fairfoods" target="#baconlove" weight="3021" />
+      <edge id="797" source="#limoncello" target="#a" weight="3021" />
+      <edge id="798" source="#limoncello" target="#cocktail" weight="3021" />
+      <edge id="799" source="#limoncello" target="#vodka" weight="3021" />
+      <edge id="800" source="#limoncello" target="#italian" weight="3021" />
+      <edge id="801" source="#limoncello" target="#summer" weight="3021" />
+      <edge id="802" source="#honeywine" target="#drinkupcolumbus" weight="3021" />
+      <edge id="803" source="#asseenincolumbus" target="#fruit" weight="3021" />
+      <edge id="804" source="#asseenincolumbus" target="#snickerdoodles" weight="3021" />
+      <edge id="805" source="#asseenincolumbus" target="#happymonday" weight="3021" />
+      <edge id="806" source="#asseenincolumbus" target="#friedchickenfeast" weight="3021" />
+      <edge id="807" source="#asseenincolumbus" target="#clintonville" weight="3021" />
+      <edge id="808" source="#asseenincolumbus" target="#wine" weight="9063" />
+      <edge id="809" source="#asseenincolumbus" target="#friedchicken" weight="3021" />
+      <edge id="810" source="#asseenincolumbus" target="#bacon" weight="3021" />
+      <edge id="811" source="#asseenincolumbus" target="#supportlivemusic" weight="3021" />
+      <edge id="812" source="#asseenincolumbus" target="#cb" weight="3021" />
+      <edge id="813" source="#asseenincolumbus" target="#cravecbus" weight="3021" />
+      <edge id="814" source="#asseenincolumbus" target="#expcols" weight="3021" />
+      <edge id="815" source="#asseenincolumbus" target="#cheese" weight="3021" />
+      <edge id="816" source="#asseenincolumbus" target="#e" weight="3021" />
+      <edge id="817" source="#asseenincolumbus" target="#cookies" weight="3021" />
+      <edge id="818" source="#asseenincolumbus" target="#local" weight="3021" />
+      <edge id="819" source="#asseenincolumbus" target="#waterview" weight="3021" />
+      <edge id="820" source="#asseenincolumbus" target="#fetecolumbus" weight="3021" />
+      <edge id="821" source="#asseenincolumbus" target="#SundayFunday" weight="3021" />
+      <edge id="822" source="#asseenincolumbus" target="#Columbus" weight="3021" />
+      <edge id="823" source="#asseenincolumbus" target="#Peeps" weight="3021" />
+      <edge id="824" source="#asseenincolumbus" target="#farmtotable" weight="3021" />
+      <edge id="825" source="#asseenincolumbus" target="#quiche" weight="3021" />
+      <edge id="826" source="#asseenincolumbus" target="#cbusconne" weight="3021" />
+      <edge id="827" source="#asseenincolumbus" target="#creeper" weight="3021" />
+      <edge id="828" source="#asseenincolumbus" target="#farmfresh" weight="3021" />
+      <edge id="829" source="#asseenincolumbus" target="#foodiefightfri" weight="3021" />
+      <edge id="830" source="#asseenincolumbus" target="#dinner" weight="6042" />
+      <edge id="831" source="#ThisisCLE" target="#clefood" weight="3021" />
+      <edge id="832" source="#ThisisCLE" target="#inthecle" weight="3021" />
+      <edge id="833" source="#ThisisCLE" target="#CBUS" weight="3021" />
+      <edge id="834" source="#ThisisCLE" target="#theland" weight="3021" />
+      <edge id="835" source="#ThisisCLE" target="#cbusfoodie" weight="3021" />
+      <edge id="836" source="#ThisisCLE" target="#cbusfoodscene" weight="3021" />
+      <edge id="837" source="#ThisisCLE" target="#Ohio" weight="3021" />
+      <edge id="838" source="#artmakescbus" target="#newcma" weight="3021" />
+      <edge id="839" source="#cheers" target="#thirstythursday" weight="3021" />
+      <edge id="840" source="#drinkforyourcause" target="#NegroniWeek" weight="3021" />
+      <edge id="841" source="#clintonville" target="#asseeninc" weight="3021" />
+      <edge id="842" source="#clintonville" target="#lineage" weight="3021" />
+      <edge id="843" source="#FreshNeverFrozen" target="#fall" weight="3021" />
+      <edge id="844" source="#oreo" target="#christmas" weight="3021" />
+      <edge id="845" source="#granville" target="#alfies" weight="3021" />
+      <edge id="846" source="#NewAlbany" target="#Hudson29" weight="3021" />
+      <edge id="847" source="#NewAlbany" target="#614Now" weight="3021" />
+      <edge id="848" source="#newcocktails" target="#figandpig" weight="3021" />
+      <edge id="849" source="#newcocktails" target="#614columbus" weight="3021" />
+      <edge id="850" source="#EastonFoodFest" target="#food" weight="3021" />
+      <edge id="851" source="#theland" target="#clefood" weight="3021" />
+      <edge id="852" source="#theland" target="#CBUS" weight="3021" />
+      <edge id="853" source="#theland" target="#cbusfoodie" weight="3021" />
+      <edge id="854" source="#theland" target="#cbusfoodscene" weight="3021" />
+      <edge id="855" source="#theland" target="#Ohio" weight="3021" />
+      <edge id="856" source="#ECKitchen" target="#brunch" weight="3021" />
+      <edge id="857" source="#ECKitchen" target="#grandview" weight="3021" />
+      <edge id="858" source="#juicing" target="#coldpressedjuice" weight="3021" />
+      <edge id="859" source="#juicing" target="#expcols" weight="3021" />
+      <edge id="860" source="#craftypint" target="#brunch" weight="3021" />
+      <edge id="861" source="#wildcard" target="#imstarving" weight="3021" />
+      <edge id="862" source="#wildcard" target="#gastropub" weight="3021" />
+      <edge id="863" source="#wildcard" target="#CbusBeerWeek" weight="3021" />
+      <edge id="864" source="#wildcard" target="#milkstoit" weight="3021" />
+      <edge id="865" source="#figandpig" target="#614columbus" weight="3021" />
+      <edge id="866" source="#hopslam" target="#TopBrewsTues" weight="3021" />
+      <edge id="867" source="#jenis" target="#saltycaramel" weight="3021" />
+      <edge id="868" source="#jenis" target="#love4je" weight="3021" />
+      <edge id="869" source="#jenis" target="#icecream" weight="3021" />
+      <edge id="870" source="#SundayFunday" target="#Peeps" weight="3021" />
+      <edge id="871" source="#SundayFunday" target="#whiskey" weight="3021" />
+      <edge id="872" source="#SundayFunday" target="#wine" weight="3021" />
+      <edge id="873" source="#SundayFunday" target="#SuperBowl" weight="3021" />
+      <edge id="874" source="#SundayFunday" target="#pittsburgh" weight="3021" />
+      <edge id="875" source="#SundayFunday" target="#dinner" weight="3021" />
+      <edge id="876" source="#SundayFunday" target="#cbusconnectdrink" weight="3021" />
+      <edge id="877" source="#SundayFunday" target="#brunch" weight="3021" />
+      <edge id="878" source="#SundayFunday" target="#Columbus" weight="3021" />
+      <edge id="879" source="#polish" target="#cbuscon" weight="3021" />
+      <edge id="880" source="#polish" target="#potato" weight="3021" />
+      <edge id="881" source="#polish" target="#cheese" weight="3021" />
+      <edge id="882" source="#polish" target="#sriracha" weight="3021" />
+      <edge id="883" source="#polish" target="#dinner" weight="3021" />
+      <edge id="884" source="#appetizer" target="#crabcakes" weight="3021" />
+      <edge id="885" source="#meat" target="#cookout" weight="3021" />
+      <edge id="886" source="#meat" target="#dinner" weight="3021" />
+      <edge id="887" source="#meat" target="#cbusc" weight="3021" />
+      <edge id="888" source="#meat" target="#grill" weight="3021" />
+      <edge id="889" source="#sausage" target="#salad" weight="3021" />
+      <edge id="890" source="#sausage" target="#potato" weight="3021" />
+      <edge id="891" source="#sausage" target="#leftover" weight="3021" />
+      <edge id="892" source="#sausage" target="#German" weight="3021" />
+      <edge id="893" source="#sausage" target="#dinner" weight="3021" />
+      <edge id="894" source="#sausage" target="#dumplings" weight="3021" />
+      <edge id="895" source="#vodka" target="#cocktail" weight="3021" />
+      <edge id="896" source="#vodka" target="#a" weight="3021" />
+      <edge id="897" source="#vodka" target="#italian" weight="3021" />
+      <edge id="898" source="#vodka" target="#summer" weight="3021" />
+      <edge id="899" source="#pittsburgh" target="#cbusconnectdrink" weight="3021" />
+      <edge id="900" source="#pittsburgh" target="#whiskey" weight="3021" />
+      <edge id="901" source="#cbusc" target="#dinner" weight="3021" />
+      <edge id="902" source="#cbusc" target="#grill" weight="3021" />
+      <edge id="903" source="#cbusc" target="#cookout" weight="3021" />
+      <edge id="904" source="#giveaway" target="#Columbus" weight="3021" />
+      <edge id="905" source="#Bexley" target="#lifeincbus" weight="3021" />
+      <edge id="906" source="#Bexley" target="#love4jenis" weight="3021" />
+      <edge id="907" source="#wine" target="#SupportLocal" weight="3021" />
+      <edge id="908" source="#wine" target="#buckeyelake" weight="6042" />
+      <edge id="909" source="#wine" target="#Christmas" weight="3021" />
+      <edge id="910" source="#wine" target="#dinner" weight="3021" />
+      <edge id="911" source="#wine" target="#cheese" weight="3021" />
+      <edge id="912" source="#wine" target="#waterview" weight="3021" />
+      <edge id="913" source="#wine" target="#rose" weight="3021" />
+      <edge id="914" source="#wine" target="#holiday" weight="3021" />
+      <edge id="915" source="#newglarus" target="#TopBrewsTues" weight="3021" />
+      <edge id="916" source="#cypclub" target="#cypclubturns10" weight="3021" />
+      <edge id="917" source="#cypclub" target="#inGrandview" weight="3021" />
+      <edge id="918" source="#cypclub" target="#lifeincbus" weight="3021" />
+      <edge id="919" source="#cookies" target="#toffee" weight="3021" />
+      <edge id="920" source="#cookies" target="#snickerdoodles" weight="3021" />
+      <edge id="921" source="#cookies" target="#asse" weight="3021" />
+      <edge id="922" source="#cookies" target="#sweettooth" weight="3021" />
+      <edge id="923" source="#local" target="#music" weight="3021" />
+      <edge id="924" source="#local" target="#festival" weight="3021" />
+      <edge id="925" source="#local" target="#farmtotable" weight="3021" />
+      <edge id="926" source="#local" target="#angelaperl" weight="3021" />
+      <edge id="927" source="#local" target="#bluesandjazz" weight="3021" />
+      <edge id="928" source="#PintNight" target="#BSpot" weight="3021" />
+      <edge id="929" source="#Thai" target="#pi" weight="3021" />
+      <edge id="930" source="#Preakness" target="#mayo" weight="3021" />
+      <edge id="931" source="#Preakness" target="#midwestblogger" weight="3021" />
+      <edge id="932" source="#Preakness" target="#crab" weight="3021" />
+      <edge id="933" source="#Preakness" target="#dinner" weight="3021" />
+      <edge id="934" source="#Preakness" target="#horse" weight="3021" />
+      <edge id="935" source="#ColumbusOhio" target="#breakfast" weight="6042" />
+      <edge id="936" source="#Peeps" target="#Easter" weight="3021" />
+      <edge id="937" source="#carboverload" target="#pasta" weight="3021" />
+      <edge id="938" source="#Civics" target="#OhioStatehouse" weight="3021" />
+      <edge id="939" source="#Civics" target="#LifeInCbus" weight="3021" />
+      <edge id="940" source="#Civics" target="#FindItHere" weight="3021" />
+      <edge id="941" source="#ArchCityTavern" target="#Eat614" weight="3021" />
+      <edge id="942" source="#GetOverHere" target="#CINCY" weight="6042" />
+      <edge id="943" source="#GetOverHere" target="#CBUS" weight="6042" />
+      <edge id="944" source="#idonteatreptiles" target="#fairfood" weight="3021" />
+      <edge id="945" source="#idonteatreptiles" target="#asseenincolum" weight="3021" />
+      <edge id="946" source="#idonteatreptiles" target="#july4th" weight="3021" />
+      <edge id="947" source="#idonteatreptiles" target="#boom15" weight="3021" />
+      <edge id="948" source="#cbusconnectdrink" target="#whiskey" weight="3021" />
+      <edge id="949" source="#friendshipfalafel" target="#ColumbusCommons" weight="3021" />
+      <edge id="950" source="#inGrandview" target="#drinkupcolumbus" weight="3021" />
+      <edge id="951" source="#roguefarms" target="#TopBrewsTues" weight="3021" />
+      <edge id="952" source="#love4je" target="#saltycaramel" weight="3021" />
+      <edge id="953" source="#love4je" target="#icecream" weight="3021" />
+      <edge id="954" source="#pasta" target="#lasagna" weight="3021" />
+      <edge id="955" source="#pasta" target="#drink" weight="3021" />
+      <edge id="956" source="#pasta" target="#video" weight="3021" />
+      <edge id="957" source="#pasta" target="#party" weight="3021" />
+      <edge id="958" source="#pasta" target="#dinner" weight="6042" />
+      <edge id="959" source="#pasta" target="#home" weight="3021" />
+      <edge id="960" source="#pasta" target="#italian" weight="3021" />
+      <edge id="961" source="#cbusaletrail" target="#CbusBeerWeek" weight="3021" />
+      <edge id="962" source="#FindItHere" target="#OhioStatehouse" weight="3021" />
+      <edge id="963" source="#FindItHere" target="#LifeInCbus" weight="3021" />
+      <edge id="964" source="#angelaperl" target="#festival" weight="3021" />
+      <edge id="965" source="#angelaperl" target="#music" weight="3021" />
+      <edge id="966" source="#angelaperl" target="#bluesandjazz" weight="3021" />
+      <edge id="967" source="#soup" target="#midwestblogger" weight="3021" />
+      <edge id="968" source="#soup" target="#potato" weight="3021" />
+      <edge id="969" source="#soup" target="#dinner" weight="6042" />
+      <edge id="970" source="#soup" target="#kale" weight="3021" />
+      <edge id="971" source="#milkshake" target="#thewhitneyhouse" weight="3021" />
+      <edge id="972" source="#milkshake" target="#dinner" weight="3021" />
+      <edge id="973" source="#risotto" target="#bacon" weight="3021" />
+      <edge id="974" source="#risotto" target="#d" weight="3021" />
+      <edge id="975" source="#getsome" target="#piesandpints" weight="3021" />
+      <edge id="976" source="#AsSeenInColumbus" target="#614DAY" weight="3021" />
+      <edge id="977" source="#AsSeenInColumbus" target="#expcols" weight="3021" />
+      <edge id="978" source="#mayo" target="#midwestblogger" weight="3021" />
+      <edge id="979" source="#mayo" target="#crab" weight="3021" />
+      <edge id="980" source="#mayo" target="#horse" weight="3021" />
+      <edge id="981" source="#mayo" target="#dinner" weight="3021" />
+      <edge id="982" source="#madmen" target="#cutthroatkitchen" weight="3021" />
+      <edge id="983" source="#food" target="#huffposttaste" weight="3021" />
+      <edge id="984" source="#food" target="#yahoofood" weight="3021" />
+      <edge id="985" source="#mimosa" target="#brunch" weight="3021" />
+      <edge id="986" source="#mimosa" target="#shortnorth" weight="3021" />
+      <edge id="987" source="#mimosa" target="#weekend" weight="3021" />
+      <edge id="988" source="#appetizers" target="#brusselssprouts" weight="3021" />
+      <edge id="989" source="#TopBrewsTues" target="#CbusAleTrail" weight="3021" />
+      <edge id="990" source="#TopBrewsTues" target="#drinkupcolumbus" weight="9063" />
+      <edge id="991" source="#TopBrewsTues" target="#TacoTuesday" weight="3021" />
+      <edge id="992" source="#TopBrewsTues" target="#CraftBeer" weight="6042" />
+      <edge id="993" source="#TopBrewsTues" target="#CBJ" weight="6042" />
+      <edge id="994" source="#TopBrewsTues" target="#homebrew" weight="6042" />
+      <edge id="995" source="#TopBrewsTues" target="#colorado" weight="3021" />
+      <edge id="996" source="#TopBrewsTues" target="#Hoster" weight="3021" />
+      <edge id="997" source="#TopBrewsTues" target="#OhioCraftBeer" weight="3021" />
+      <edge id="998" source="#TopBrewsTues" target="#Columbus" weight="6042" />
+      <edge id="999" source="#TopBrewsTues" target="#funkytownbeer" weight="3021" />
+      <edge id="1000" source="#TopBrewsTues" target="#Colorado" weight="3021" />
+      <edge id="1001" source="#TopBrewsTues" target="#CbusBeerWeek" weight="3021" />
+      <edge id="1002" source="#TopBrewsTues" target="#ohiocraftbeer" weight="3021" />
+      <edge id="1003" source="#TopBrewsTues" target="#cincy" weight="3021" />
+      <edge id="1004" source="#TopBrewsTues" target="#OHcraftbeer" weight="3021" />
+      <edge id="1005" source="#TopBrewsTues" target="#drinklocal" weight="3021" />
+      <edge id="1006" source="#TopBrewsTues" target="#drinkbeerfromhere" weight="3021" />
+      <edge id="1007" source="#salad" target="#potato" weight="3021" />
+      <edge id="1008" source="#salad" target="#leftover" weight="3021" />
+      <edge id="1009" source="#salad" target="#German" weight="3021" />
+      <edge id="1010" source="#salad" target="#dinner" weight="3021" />
+      <edge id="1011" source="#salad" target="#dumplings" weight="3021" />
+      <edge id="1012" source="#raspberry" target="#farmfresh" weight="3021" />
+      <edge id="1013" source="#peachykeen" target="#drinkgin" weight="3021" />
+      <edge id="1014" source="#peachykeen" target="#happyhour" weight="3021" />
+      <edge id="1015" source="#ohiocraftbeer" target="#drinklocal" weight="3021" />
+      <edge id="1016" source="#cupcake" target="#buckeye" weight="3021" />
+      <edge id="1017" source="#cupcake" target="#osu" weight="3021" />
+      <edge id="1018" source="#Christmas" target="#holiday" weight="3021" />
+      <edge id="1019" source="#blueberries" target="#mom" weight="3021" />
+      <edge id="1020" source="#blueberries" target="#brunch" weight="3021" />
+      <edge id="1021" source="#blueberries" target="#breakfast" weight="3021" />
+      <edge id="1022" source="#brunch" target="#MothersDay" weight="3021" />
+      <edge id="1023" source="#brunch" target="#lifeincbus" weight="3021" />
+      <edge id="1024" source="#brunch" target="#weekend" weight="3021" />
+      <edge id="1025" source="#brunch" target="#mom" weight="3021" />
+      <edge id="1026" source="#brunch" target="#shortnorth" weight="3021" />
+      <edge id="1027" source="#brunch" target="#Columbus" weight="3021" />
+      <edge id="1028" source="#brunch" target="#breakfast" weight="3021" />
+      <edge id="1029" source="#brunch" target="#grandview" weight="3021" />
+      <edge id="1030" source="#UBRcolumbus" target="#letsdothis" weight="3021" />
+      <edge id="1031" source="#cake" target="#birthday" weight="3021" />
+      <edge id="1032" source="#cake" target="#kahlua" weight="3021" />
+      <edge id="1033" source="#cake" target="#chocolate" weight="3021" />
+      <edge id="1034" source="#asseeninc" target="#lineage" weight="3021" />
+      <edge id="1035" source="#cbusfoodie" target="#clefood" weight="3021" />
+      <edge id="1036" source="#cbusfoodie" target="#CBUS" weight="3021" />
+      <edge id="1037" source="#cbusfoodie" target="#cbusfoodscene" weight="3021" />
+      <edge id="1038" source="#cbusfoodie" target="#Ohio" weight="3021" />
+      <edge id="1039" source="#mom" target="#breakfast" weight="3021" />
+      <edge id="1040" source="#toffee" target="#sweettooth" weight="3021" />
+      <edge id="1041" source="#shortnorth" target="#lmcolumbus" weight="3021" />
+      <edge id="1042" source="#shortnorth" target="#drinkupcolumbus" weight="6042" />
+      <edge id="1043" source="#shortnorth" target="#columbuspride" weight="3021" />
+      <edge id="1044" source="#shortnorth" target="#happyhour" weight="3021" />
+      <edge id="1045" source="#shortnorth" target="#weekend" weight="3021" />
+      <edge id="1046" source="#shortnorth" target="#corepoweryoga" weight="3021" />
+      <edge id="1047" source="#shortnorth" target="#happeningnow" weight="3021" />
+      <edge id="1048" source="#shortnorth" target="#MothersDay" weight="3021" />
+      <edge id="1049" source="#shortnorth" target="#expcols" weight="6042" />
+      <edge id="1050" source="#fathersday" target="#German" weight="3021" />
+      <edge id="1051" source="#fathersday" target="#cheese" weight="3021" />
+      <edge id="1052" source="#Buckeyes" target="#CbusAleTrail" weight="3021" />
+      <edge id="1053" source="#steak" target="#brus" weight="3021" />
+      <edge id="1054" source="#steak" target="#grill" weight="3021" />
+      <edge id="1055" source="#boom15" target="#asseenincolum" weight="3021" />
+      <edge id="1056" source="#boom15" target="#july4th" weight="3021" />
+      <edge id="1057" source="#boom15" target="#fairfood" weight="3021" />
+      <edge id="1058" source="#thewhitneyhouse" target="#dinner" weight="3021" />
+      <edge id="1059" source="#zucchini" target="#bacon" weight="3021" />
+      <edge id="1060" source="#croissants" target="#schnecken" weight="3021" />
+      <edge id="1061" source="#croissants" target="#German" weight="3021" />
+      <edge id="1062" source="#101BK" target="#pretzel" weight="3021" />
+      <edge id="1063" source="#icecream" target="#love4jenis" weight="3021" />
+      <edge id="1064" source="#icecream" target="#saltycaramel" weight="3021" />
+      <edge id="1065" source="#maplesyrup" target="#brusselssprouts" weight="3021" />
+      <edge id="1066" source="#midwestblogger" target="#horse" weight="3021" />
+      <edge id="1067" source="#midwestblogger" target="#crab" weight="3021" />
+      <edge id="1068" source="#midwestblogger" target="#dinner" weight="3021" />
+      <edge id="1069" source="#cw" target="#harvestmooncafe" weight="3021" />
+      <edge id="1070" source="#cw" target="#dinner" weight="3021" />
+      <edge id="1071" source="#cw" target="#shrimp" weight="3021" />
+      <edge id="1072" source="#milkstoit" target="#imstarving" weight="3021" />
+      <edge id="1073" source="#milkstoit" target="#gastropub" weight="3021" />
+      <edge id="1074" source="#milkstoit" target="#CbusBeerWeek" weight="3021" />
+      <edge id="1075" source="#adoptdontshop" target="#Halloween" weight="3021" />
+      <edge id="1076" source="#bacon" target="#baconloversunite" weight="3021" />
+      <edge id="1077" source="#bacon" target="#breakfast" weight="3021" />
+      <edge id="1078" source="#bacon" target="#baconlove" weight="3021" />
+      <edge id="1079" source="#bacon" target="#c" weight="3021" />
+      <edge id="1080" source="#bacon" target="#d" weight="3021" />
+      <edge id="1081" source="#bacon" target="#Columbus" weight="3021" />
+      <edge id="1082" source="#cb" target="#fruit" weight="3021" />
+      <edge id="1083" source="#cb" target="#farmfresh" weight="3021" />
+      <edge id="1084" source="#grill" target="#brus" weight="3021" />
+      <edge id="1085" source="#grill" target="#dinner" weight="3021" />
+      <edge id="1086" source="#grill" target="#cookout" weight="3021" />
+      <edge id="1087" source="#c" target="#tom" weight="3021" />
+      <edge id="1088" source="#c" target="#drinkupcolumbus" weight="3021" />
+      <edge id="1089" source="#c" target="#breakfast" weight="3021" />
+      <edge id="1090" source="#c" target="#avocado" weight="3021" />
+      <edge id="1091" source="#c" target="#cheese" weight="3021" />
+      <edge id="1092" source="#c" target="#drinkbeermadehere" weight="3021" />
+      <edge id="1093" source="#a" target="#cocktail" weight="3021" />
+      <edge id="1094" source="#a" target="#italian" weight="3021" />
+      <edge id="1095" source="#a" target="#summer" weight="3021" />
+      <edge id="1096" source="#farmfresh" target="#fruit" weight="3021" />
+      <edge id="1097" source="#falafel" target="#dinner" weight="6042" />
+      <edge id="1098" source="#lifeincbus" target="#drinkupcolumbus" weight="6042" />
+      <edge id="1099" source="#lifeincbus" target="#Gahanna" weight="3021" />
+      <edge id="1100" source="#lifeincbus" target="#expcols" weight="12084" />
+      <edge id="1101" source="#lifeincbus" target="#love4jenis" weight="3021" />
+      <edge id="1102" source="#lifeincbus" target="#WestgateFarmersMarket" weight="3021" />
+      <edge id="1103" source="#lifeincbus" target="#onegoal" weight="3021" />
+      <edge id="1104" source="#lifeincbus" target="#hilltopusa" weight="3021" />
+      <edge id="1105" source="#lifeincbus" target="#endcancer" weight="3021" />
+      <edge id="1106" source="#lifeincbus" target="#614now" weight="3021" />
+      <edge id="1107" source="#lifeincbus" target="#Columbus" weight="3021" />
+      <edge id="1108" source="#lifeincbus" target="#tripadvisor" weight="3021" />
+      <edge id="1109" source="#v" target="#herbs" weight="3021" />
+      <edge id="1110" source="#columbuspride" target="#pride" weight="3021" />
+      <edge id="1111" source="#taco" target="#Mexican" weight="3021" />
+      <edge id="1112" source="#kahlua" target="#birthday" weight="3021" />
+      <edge id="1113" source="#kahlua" target="#chocolate" weight="3021" />
+      <edge id="1114" source="#quiche" target="#dinner" weight="3021" />
+      <edge id="1115" source="#quiche" target="#cbusconne" weight="3021" />
+      <edge id="1116" source="#ABC6" target="#Social6" weight="3021" />
+      <edge id="1117" source="#drink" target="#dinner" weight="3021" />
+      <edge id="1118" source="#drink" target="#party" weight="3021" />
+      <edge id="1119" source="#drink" target="#rhubarb" weight="6042" />
+      <edge id="1120" source="#drink" target="#home" weight="3021" />
+      <edge id="1121" source="#dinner" target="#casserole" weight="3021" />
+      <edge id="1122" source="#dinner" target="#video" weight="3021" />
+      <edge id="1123" source="#dinner" target="#party" weight="3021" />
+      <edge id="1124" source="#dinner" target="#cookout" weight="6042" />
+      <edge id="1125" source="#dinner" target="#sriracha" weight="3021" />
+      <edge id="1126" source="#dinner" target="#kale" weight="3021" />
+      <edge id="1127" source="#dinner" target="#crab" weight="3021" />
+      <edge id="1128" source="#dinner" target="#shrimp" weight="3021" />
+      <edge id="1129" source="#dinner" target="#cheese" weight="3021" />
+      <edge id="1130" source="#dinner" target="#cbuscon" weight="3021" />
+      <edge id="1131" source="#dinner" target="#potato" weight="12084" />
+      <edge id="1132" source="#dinner" target="#dumplings" weight="3021" />
+      <edge id="1133" source="#dinner" target="#leftover" weight="3021" />
+      <edge id="1134" source="#dinner" target="#German" weight="3021" />
+      <edge id="1135" source="#dinner" target="#home" weight="3021" />
+      <edge id="1136" source="#dinner" target="#Columbus" weight="3021" />
+      <edge id="1137" source="#dinner" target="#horse" weight="3021" />
+      <edge id="1138" source="#dinner" target="#cbusconne" weight="3021" />
+      <edge id="1139" source="#dinner" target="#harvestmooncafe" weight="3021" />
+      <edge id="1140" source="#casserole" target="#potato" weight="3021" />
+      <edge id="1141" source="#katalinascafe" target="#repost" weight="3021" />
+      <edge id="1142" source="#Kickstarter" target="#moveourigloo" weight="3021" />
+      <edge id="1143" source="#Kickstarter" target="#614now" weight="3021" />
+      <edge id="1144" source="#tom" target="#cheese" weight="3021" />
+      <edge id="1145" source="#tom" target="#avocado" weight="3021" />
+      <edge id="1146" source="#cheese" target="#cbuscon" weight="3021" />
+      <edge id="1147" source="#cheese" target="#potato" weight="3021" />
+      <edge id="1148" source="#cheese" target="#avocado" weight="3021" />
+      <edge id="1149" source="#cheese" target="#bar145" weight="3021" />
+      <edge id="1150" source="#cheese" target="#pretzel" weight="3021" />
+      <edge id="1151" source="#cheese" target="#sriracha" weight="3021" />
+      <edge id="1152" source="#cheese" target="#German" weight="3021" />
+      <edge id="1153" source="#osu" target="#buckeye" weight="3021" />
+      <edge id="1154" source="#German" target="#potato" weight="3021" />
+      <edge id="1155" source="#German" target="#leftover" weight="3021" />
+      <edge id="1156" source="#German" target="#schnecken" weight="3021" />
+      <edge id="1157" source="#German" target="#dumplings" weight="3021" />
+      <edge id="1158" source="#home" target="#party" weight="3021" />
+      <edge id="1159" source="#4stringbrewing" target="#grillnchill" weight="3021" />
+      <edge id="1160" source="#clefood" target="#CBUS" weight="3021" />
+      <edge id="1161" source="#clefood" target="#cbusfoodscene" weight="3021" />
+      <edge id="1162" source="#clefood" target="#Ohio" weight="3021" />
+      <edge id="1163" source="#Coffee" target="#Ohio" weight="3021" />
+      <edge id="1164" source="#pizza" target="#foodiefightfri" weight="3021" />
+      <edge id="1165" source="#sriracha" target="#cbuscon" weight="3021" />
+      <edge id="1166" source="#sriracha" target="#potato" weight="3021" />
+      <edge id="1167" source="#shrimp" target="#harvestmooncafe" weight="3021" />
+      <edge id="1168" source="#Spring" target="#Ohio" weight="3021" />
+      <edge id="1169" source="#foodiefightfri" target="#Halloween" weight="3021" />
+      <edge id="1170" source="#foodiefightfri" target="#pumpkin" weight="3021" />
+      <edge id="1171" source="#foodiefightfri" target="#foodtruck" weight="3021" />
+      <edge id="1172" source="#foodiefightfri" target="#Columbus" weight="9063" />
+      <edge id="1173" source="#italian" target="#lasagna" weight="3021" />
+      <edge id="1174" source="#italian" target="#cocktail" weight="3021" />
+      <edge id="1175" source="#italian" target="#summer" weight="3021" />
+      <edge id="1176" source="#SupportLocal" target="#Wine" weight="3021" />
+      <edge id="1177" source="#Bestof2014" target="#Ohio" weight="3021" />
+      <edge id="1178" source="#Hudson29" target="#614Now" weight="3021" />
+      <edge id="1179" source="#Restaurantweek" target="#spoiledbyourneighbors" weight="3021" />
+      <edge id="1180" source="#cbusfoodscene" target="#expcols" weight="3021" />
+      <edge id="1181" source="#cbusfoodscene" target="#CBUS" weight="3021" />
+      <edge id="1182" source="#cbusfoodscene" target="#Ohio" weight="3021" />
+      <edge id="1183" source="#MothersDay" target="#drinkupcolumbus" weight="3021" />
+      <edge id="1184" source="#MothersDay" target="#expcols" weight="3021" />
+      <edge id="1185" source="#corepoweryoga" target="#lmcolumbus" weight="3021" />
+      <edge id="1186" source="#vegan" target="#tbt" weight="3021" />
+      <edge id="1187" source="#vegan" target="#stickybuns" weight="3021" />
+      <edge id="1188" source="#summer" target="#cocktail" weight="3021" />
+      <edge id="1189" source="#leftover" target="#potato" weight="3021" />
+      <edge id="1190" source="#leftover" target="#dumplings" weight="3021" />
+      <edge id="1191" source="#chocolate" target="#breakfast" weight="3021" />
+      <edge id="1192" source="#chocolate" target="#pecan" weight="3021" />
+      <edge id="1193" source="#chocolate" target="#birthday" weight="3021" />
+      <edge id="1194" source="#foodtruck" target="#eatlocalcbus" weight="3021" />
+      <edge id="1195" source="#foodtruck" target="#alohastreatery" weight="3021" />
+      <edge id="1196" source="#restaurantweek" target="#connect" weight="3021" />
+      <edge id="1197" source="#pumpkin" target="#Halloween" weight="3021" />
+      <edge id="1198" source="#coldpressedjuice" target="#expcols" weight="3021" />
+      <edge id="1199" source="#pimentocheese" target="#Masters" weight="3021" />
+      <edge id="1200" source="#OhioStatehouse" target="#LifeInCbus" weight="3021" />
+      <edge id="1201" source="#onegoal" target="#endcancer" weight="3021" />
+      <edge id="1202" source="#onegoal" target="#expcols" weight="3021" />
+      <edge id="1203" source="#tbt" target="#Columbus" weight="3021" />
+      <edge id="1204" source="#cbuscon" target="#potato" weight="3021" />
+      <edge id="1205" source="#music" target="#festival" weight="3021" />
+      <edge id="1206" source="#music" target="#bluesandjazz" weight="3021" />
+      <edge id="1207" source="#breakfast" target="#pecan" weight="3021" />
+      <edge id="1208" source="#pretzel" target="#bar145" weight="3021" />
+      <edge id="1209" source="#AlFresco" target="#Dinner" weight="3021" />
+      <edge id="1210" source="#OhioFall2015" target="#HockingHills" weight="3021" />
+      <edge id="1211" source="#thebarn" target="#bulliet" weight="3021" />
+      <edge id="1212" source="#smallbiz" target="#shoplocal" weight="3021" />
+      <edge id="1213" source="#moveourigloo" target="#614now" weight="3021" />
+      <edge id="1214" source="#tripadvisor" target="#expcols" weight="3021" />
+      <edge id="1215" source="#potato" target="#dumplings" weight="3021" />
+      <edge id="1216" source="#potato" target="#kale" weight="3021" />
+      <edge id="1217" source="#happyhour" target="#drinkgin" weight="3021" />
+      <edge id="1218" source="#gastropub" target="#imstarving" weight="3021" />
+      <edge id="1219" source="#gastropub" target="#CbusBeerWeek" weight="3021" />
+      <edge id="1220" source="#huffposttaste" target="#yahoofood" weight="3021" />
+      <edge id="1221" source="#horse" target="#crab" weight="3021" />
+      <edge id="1222" source="#cbusproud" target="#drinklocal" weight="3021" />
+      <edge id="1223" source="#endcancer" target="#expcols" weight="3021" />
+      <edge id="1224" source="#contest" target="#Ohio" weight="3021" />
+      <edge id="1225" source="#imstarving" target="#CbusBeerWeek" weight="3021" />
+      <edge id="1226" source="#fairfood" target="#asseenincolum" weight="3021" />
+      <edge id="1227" source="#fairfood" target="#july4th" weight="3021" />
+      <edge id="1228" source="#GABF" target="#drinkupcolumbus" weight="3021" />
+      <edge id="1229" source="#Gahanna" target="#614now" weight="3021" />
+      <edge id="1230" source="#dr" target="#drinkupcolumbus" weight="3021" />
+      <edge id="1231" source="#ccc" target="#birthday" weight="3021" />
+      <edge id="1232" source="#AmericanPharoah" target="#TripleCrown" weight="3021" />
+      <edge id="1233" source="#AmericanPharoah" target="#Belmont" weight="3021" />
+      <edge id="1234" source="#CINCY" target="#CBUS" weight="6042" />
+      <edge id="1235" source="#drinkbeermadehere" target="#drinkupcolumbus" weight="3021" />
+      <edge id="1236" source="#Ohio" target="#history" weight="3021" />
+      <edge id="1237" source="#Ohio" target="#shoplocal" weight="3021" />
+      <edge id="1238" source="#Ohio" target="#Logan" weight="3021" />
+      <edge id="1239" source="#Ohio" target="#CBUS" weight="3021" />
+      <edge id="1240" source="#history" target="#expcols" weight="3021" />
+      <edge id="1241" source="#july4th" target="#asseenincolum" weight="3021" />
+      <edge id="1242" source="#TripleCrown" target="#Belmont" weight="3021" />
+      <edge id="1243" source="#shopsmall" target="#expcols" weight="3021" />
+      <edge id="1244" source="#bluesandjazz" target="#festival" weight="3021" />
+      <edge id="1245" source="#WestgateFarmersMarket" target="#Columbus" weight="3021" />
+      <edge id="1246" source="#WestgateFarmersMarket" target="#hilltopusa" weight="3021" />
+      <edge id="1247" source="#drinklocal" target="#drinkupcolumbus" weight="3021" />
+      <edge id="1248" source="#exploreohio" target="#expcols" weight="3021" />
+      <edge id="1249" source="#drinkupcolumbus" target="#expcols" weight="3021" />
+      <edge id="1250" source="#drinkupcolumbus" target="#Columbus" weight="3021" />
+      <edge id="1251" source="#hilltopusa" target="#Columbus" weight="3021" />
+      <edge id="1252" source="#Hoster" target="#CbusBeerWeek" weight="3021" />
+      <edge id="1253" source="#Columbus" target="#newalbany" weight="3021" />
+    </edges>
+  </graph>
+</gexf>

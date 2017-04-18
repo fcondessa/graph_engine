@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#WorldCup" label="#WorldCup" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#ryanjohansen" label="#ryanjohansen" />
+      <node id="#love4jenis" label="#love4jenis" />
+      <node id="#cbusproud" label="#cbusproud" />
+      <node id="#FIFA15" label="#FIFA15" />
+      <node id="#cele" label="#cele" />
+      <node id="#SugarBowlChamps" label="#SugarBowlChamps" />
+      <node id="#nhl" label="#nhl" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuperBowl" target="#OhioState" weight="92" />
+      <edge id="1" source="#GoBucks" target="#SugarBowlChamps" weight="92" />
+      <edge id="2" source="#WorldCup" target="#FIFA15" weight="92" />
+      <edge id="3" source="#ryanjohansen" target="#nhl" weight="92" />
+      <edge id="4" source="#ryanjohansen" target="#cele" weight="92" />
+      <edge id="5" source="#love4jenis" target="#cbusproud" weight="92" />
+      <edge id="6" source="#cele" target="#nhl" weight="92" />
+    </edges>
+  </graph>
+</gexf>

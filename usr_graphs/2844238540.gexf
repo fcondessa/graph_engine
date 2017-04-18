@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#TLchat" label="#TLchat" />
+      <node id="#newcma" label="#newcma" />
+      <node id="#GivingTuesday" label="#GivingTuesday" />
+      <node id="#Repost" label="#Repost" />
+      <node id="#WolfHall" label="#WolfHall" />
+      <node id="#pplteenbookfest" label="#pplteenbookfest" />
+      <node id="#PechaKucha" label="#PechaKucha" />
+      <node id="#PeopleCentered" label="#PeopleCentered" />
+      <node id="#cartoons" label="#cartoons" />
+      <node id="#LittleFreeLibrary" label="#LittleFreeLibrary" />
+      <node id="#StudyBreakSpot" label="#StudyBreakSpot" />
+      <node id="#weneeddiversebooks" label="#weneeddiversebooks" />
+      <node id="#NBD2016" label="#NBD2016" />
+      <node id="#MrSelfridge" label="#MrSelfridge" />
+      <node id="#children" label="#children" />
+      <node id="#Cassingham" label="#Cassingham" />
+      <node id="#ebooks" label="#ebooks" />
+      <node id="#cancerdiagnosis" label="#cancerdiagnosis" />
+      <node id="#huglife" label="#huglife" />
+      <node id="#WLIC2016" label="#WLIC2016" />
+      <node id="#KingLincoln" label="#KingLincoln" />
+      <node id="#urbanscrawl10" label="#urbanscrawl10" />
+      <node id="#OrangeIsTheNewBlack" label="#OrangeIsTheNewBlack" />
+      <node id="#WildlifeandWildPlaces" label="#WildlifeandWildPlaces" />
+      <node id="#OnlyAtOSU" label="#OnlyAtOSU" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#OhioState" label="#OhioState" />
+      <node id="#ThompsonLibrary" label="#ThompsonLibrary" />
+      <node id="#Entrepreneurs" label="#Entrepreneurs" />
+      <node id="#IFLA2016" label="#IFLA2016" />
+      <node id="#OSU" label="#OSU" />
+      <node id="#Knitting" label="#Knitting" />
+      <node id="#LibrariesTransform" label="#LibrariesTransform" />
+      <node id="#cma" label="#cma" />
+      <node id="#libraries" label="#libraries" />
+      <node id="#IFLA" label="#IFLA" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#greatlibrariescreate" label="#greatlibrariescreate" />
+      <node id="#librarian" label="#librarian" />
+      <node id="#Haygood" label="#Haygood" />
+      <node id="#cjreform" label="#cjreform" />
+      <node id="#cartoonist" label="#cartoonist" />
+      <node id="#Indigenous" label="#Indigenous" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#socool" label="#socool" />
+      <node id="#newmain" label="#newmain" />
+      <node id="#BigGiveTCF" label="#BigGiveTCF" />
+      <node id="#iflabuild2016" label="#iflabuild2016" />
+      <node id="#SEEDVentures" label="#SEEDVentures" />
+      <node id="#librarylife" label="#librarylife" />
+      <node id="#library" label="#library" />
+      <node id="#ColumbusNeighborhoods" label="#ColumbusNeighborhoods" />
+      <node id="#StudyHistory" label="#StudyHistory" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#Showdown" label="#Showdown" />
+      <node id="#wlic2016" label="#wlic2016" />
+      <node id="#takeabookshareabook" label="#takeabookshareabook" />
+      <node id="#ClinicalSummit" label="#ClinicalSummit" />
+      <node id="#Music" label="#Music" />
+      <node id="#OITNB" label="#OITNB" />
+      <node id="#audiobooks" label="#audiobooks" />
+      <node id="#wplauthors" label="#wplauthors" />
+      <node id="#Libraries" label="#Libraries" />
+      <node id="#Librarians" label="#Librarians" />
+      <node id="#sisterlibrary" label="#sisterlibrary" />
+      <node id="#614Now" label="#614Now" />
+      <node id="#CallTheMidwife" label="#CallTheMidwife" />
+      <node id="#manga" label="#manga" />
+      <node id="#CBUS" label="#CBUS" />
+      <node id="#STEM" label="#STEM" />
+      <node id="#Westerville" label="#Westerville" />
+      <node id="#NationalReadingMonth" label="#NationalReadingMonth" />
+      <node id="#research" label="#research" />
+      <node id="#Pride2016" label="#Pride2016" />
+      <node id="#NLW16" label="#NLW16" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#TLchat" target="#Librarians" weight="874" />
+      <edge id="1" source="#newcma" target="#cbus" weight="874" />
+      <edge id="2" source="#GivingTuesday" target="#BlackFriday" weight="874" />
+      <edge id="3" source="#GivingTuesday" target="#CyberMonday" weight="874" />
+      <edge id="4" source="#Repost" target="#urbanscrawl10" weight="874" />
+      <edge id="5" source="#WolfHall" target="#MrSelfridge" weight="874" />
+      <edge id="6" source="#WolfHall" target="#CallTheMidwife" weight="874" />
+      <edge id="7" source="#pplteenbookfest" target="#weneeddiversebooks" weight="874" />
+      <edge id="8" source="#PechaKucha" target="#cma" weight="874" />
+      <edge id="9" source="#PechaKucha" target="#CBUS" weight="874" />
+      <edge id="10" source="#PeopleCentered" target="#ClinicalSummit" weight="874" />
+      <edge id="11" source="#cartoons" target="#manga" weight="874" />
+      <edge id="12" source="#LittleFreeLibrary" target="#takeabookshareabook" weight="874" />
+      <edge id="13" source="#StudyBreakSpot" target="#OhioState" weight="874" />
+      <edge id="14" source="#StudyBreakSpot" target="#ThompsonLibrary" weight="874" />
+      <edge id="15" source="#NBD2016" target="#LibrariesTransform" weight="874" />
+      <edge id="16" source="#MrSelfridge" target="#CallTheMidwife" weight="874" />
+      <edge id="17" source="#children" target="#cancerdiagnosis" weight="874" />
+      <edge id="18" source="#Cassingham" target="#STEM" weight="1748" />
+      <edge id="19" source="#ebooks" target="#audiobooks" weight="874" />
+      <edge id="20" source="#ebooks" target="#Pride2016" weight="874" />
+      <edge id="21" source="#huglife" target="#librarylife" weight="874" />
+      <edge id="22" source="#WLIC2016" target="#newmain" weight="874" />
+      <edge id="23" source="#WLIC2016" target="#IFLA2016" weight="3496" />
+      <edge id="24" source="#WLIC2016" target="#OSU" weight="874" />
+      <edge id="25" source="#WLIC2016" target="#iflabuild2016" weight="874" />
+      <edge id="26" source="#WLIC2016" target="#IFLA" weight="874" />
+      <edge id="27" source="#KingLincoln" target="#ColumbusNeighborhoods" weight="874" />
+      <edge id="28" source="#OrangeIsTheNewBlack" target="#Westerville" weight="874" />
+      <edge id="29" source="#OrangeIsTheNewBlack" target="#614Now" weight="874" />
+      <edge id="30" source="#WildlifeandWildPlaces" target="#NationalReadingMonth" weight="874" />
+      <edge id="31" source="#OnlyAtOSU" target="#StudyHistory" weight="874" />
+      <edge id="32" source="#BlackFriday" target="#CyberMonday" weight="874" />
+      <edge id="33" source="#OhioState" target="#ThompsonLibrary" weight="874" />
+      <edge id="34" source="#Entrepreneurs" target="#SEEDVentures" weight="874" />
+      <edge id="35" source="#IFLA2016" target="#wlic2016" weight="874" />
+      <edge id="36" source="#IFLA2016" target="#Indigenous" weight="874" />
+      <edge id="37" source="#Knitting" target="#Westerville" weight="874" />
+      <edge id="38" source="#LibrariesTransform" target="#NLW16" weight="874" />
+      <edge id="39" source="#cma" target="#CBUS" weight="874" />
+      <edge id="40" source="#libraries" target="#Columbus" weight="874" />
+      <edge id="41" source="#greatlibrariescreate" target="#BigGiveTCF" weight="874" />
+      <edge id="42" source="#librarian" target="#cartoonist" weight="874" />
+      <edge id="43" source="#Haygood" target="#Showdown" weight="874" />
+      <edge id="44" source="#cjreform" target="#OITNB" weight="874" />
+      <edge id="45" source="#socool" target="#sisterlibrary" weight="874" />
+      <edge id="46" source="#library" target="#research" weight="874" />
+      <edge id="47" source="#library" target="#Music" weight="874" />
+      <edge id="48" source="#wlic2016" target="#Libraries" weight="874" />
+      <edge id="49" source="#OITNB" target="#wplauthors" weight="874" />
+      <edge id="50" source="#audiobooks" target="#Pride2016" weight="874" />
+      <edge id="51" source="#614Now" target="#Westerville" weight="874" />
+    </edges>
+  </graph>
+</gexf>

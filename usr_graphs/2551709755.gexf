@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BigEasyIPA" label="#BigEasyIPA" />
+      <node id="#GMVN" label="#GMVN" />
+      <node id="#teamstroud" label="#teamstroud" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#TasteVictory" label="#TasteVictory" />
+      <node id="#puppymonkeybaby" label="#puppymonkeybaby" />
+      <node id="#rushmorebeers" label="#rushmorebeers" />
+      <node id="#PennState" label="#PennState" />
+      <node id="#SolheimCup" label="#SolheimCup" />
+      <node id="#experiencegr" label="#experiencegr" />
+      <node id="#Robyn" label="#Robyn" />
+      <node id="#beercityusa" label="#beercityusa" />
+      <node id="#GooseIsland" label="#GooseIsland" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#pirateron" label="#pirateron" />
+      <node id="#ShowUsYourHops" label="#ShowUsYourHops" />
+      <node id="#LongLiveTheKing" label="#LongLiveTheKing" />
+      <node id="#3jackcity" label="#3jackcity" />
+      <node id="#mardigras" label="#mardigras" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#Rushmorebeers" label="#Rushmorebeers" />
+      <node id="#whatdidhesay" label="#whatdidhesay" />
+      <node id="#polaris" label="#polaris" />
+      <node id="#AlabamaFootball" label="#AlabamaFootball" />
+      <node id="#20pitchers" label="#20pitchers" />
+      <node id="#MACHallofFame" label="#MACHallofFame" />
+      <node id="#QuietRiot" label="#QuietRiot" />
+      <node id="#FathersDayBeerGifts" label="#FathersDayBeerGifts" />
+      <node id="#MACFootball" label="#MACFootball" />
+      <node id="#RIPRandyRhoads" label="#RIPRandyRhoads" />
+      <node id="#golf" label="#golf" />
+      <node id="#ACBW" label="#ACBW" />
+      <node id="#AsSeenInColumbus" label="#AsSeenInColumbus" />
+      <node id="#GRBrewsader" label="#GRBrewsader" />
+      <node id="#BGSU" label="#BGSU" />
+      <node id="#YourVictory" label="#YourVictory" />
+      <node id="#Pumking" label="#Pumking" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#Foreigner" label="#Foreigner" />
+      <node id="#HotBlooded" label="#HotBlooded" />
+      <node id="#fwinter" label="#fwinter" />
+      <node id="#SB50" label="#SB50" />
+      <node id="#312Day" label="#312Day" />
+      <node id="#SteelersNation" label="#SteelersNation" />
+      <node id="#coldchills" label="#coldchills" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#fattuesday" label="#fattuesday" />
+      <node id="#StarWars" label="#StarWars" />
+      <node id="#OnlyLouisiana" label="#OnlyLouisiana" />
+      <node id="#USA" label="#USA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BigEasyIPA" target="#ShowUsYourHops" weight="917" />
+      <edge id="1" source="#GMVN" target="#Robyn" weight="917" />
+      <edge id="2" source="#teamstroud" target="#20pitchers" weight="917" />
+      <edge id="3" source="#WorldSeries" target="#whatdidhesay" weight="917" />
+      <edge id="4" source="#TasteVictory" target="#YourVictory" weight="917" />
+      <edge id="5" source="#puppymonkeybaby" target="#SB50" weight="917" />
+      <edge id="6" source="#rushmorebeers" target="#Rushmorebeers" weight="917" />
+      <edge id="7" source="#PennState" target="#AlabamaFootball" weight="917" />
+      <edge id="8" source="#SolheimCup" target="#USA" weight="917" />
+      <edge id="9" source="#experiencegr" target="#GRBrewsader" weight="917" />
+      <edge id="10" source="#experiencegr" target="#beercityusa" weight="917" />
+      <edge id="11" source="#GooseIsland" target="#312Day" weight="917" />
+      <edge id="12" source="#drinkupcolumbus" target="#lifeincbus" weight="917" />
+      <edge id="13" source="#pirateron" target="#fwinter" weight="917" />
+      <edge id="14" source="#LongLiveTheKing" target="#Pumking" weight="917" />
+      <edge id="15" source="#3jackcity" target="#golf" weight="917" />
+      <edge id="16" source="#mardigras" target="#fattuesday" weight="917" />
+      <edge id="17" source="#CraftBeer" target="#OnlyLouisiana" weight="917" />
+      <edge id="18" source="#CraftBeer" target="#ACBW" weight="1834" />
+      <edge id="19" source="#polaris" target="#AsSeenInColumbus" weight="917" />
+      <edge id="20" source="#MACHallofFame" target="#SteelersNation" weight="917" />
+      <edge id="21" source="#QuietRiot" target="#RIPRandyRhoads" weight="917" />
+      <edge id="22" source="#FathersDayBeerGifts" target="#cbus" weight="917" />
+      <edge id="23" source="#MACFootball" target="#BGSU" weight="917" />
+      <edge id="24" source="#Foreigner" target="#HotBlooded" weight="917" />
+      <edge id="25" source="#coldchills" target="#StarWars" weight="917" />
+    </edges>
+  </graph>
+</gexf>

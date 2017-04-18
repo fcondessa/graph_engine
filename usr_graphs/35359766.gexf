@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#screenprinted" label="#screenprinted" />
+      <node id="#jamesblake" label="#jamesblake" />
+      <node id="#studio" label="#studio" />
+      <node id="#frui" label="#frui" />
+      <node id="#ombre" label="#ombre" />
+      <node id="#BoycottTrump" label="#BoycottTrump" />
+      <node id="#OBOC" label="#OBOC" />
+      <node id="#lasmanos" label="#lasmanos" />
+      <node id="#SNL" label="#SNL" />
+      <node id="#ChicagoCeramicCenter" label="#ChicagoCeramicCenter" />
+      <node id="#springsoup" label="#springsoup" />
+      <node id="#southloop" label="#southloop" />
+      <node id="#dunkindonuts" label="#dunkindonuts" />
+      <node id="#santostefano" label="#santostefano" />
+      <node id="#CPLMakerLab" label="#CPLMakerLab" />
+      <node id="#etsy" label="#etsy" />
+      <node id="#youngthugz" label="#youngthugz" />
+      <node id="#keepthechange" label="#keepthechange" />
+      <node id="#casteldelmonte" label="#casteldelmonte" />
+      <node id="#handmadecards" label="#handmadecards" />
+      <node id="#mozzarella" label="#mozzarella" />
+      <node id="#thexx" label="#thexx" />
+      <node id="#italy" label="#italy" />
+      <node id="#statefarm" label="#statefarm" />
+      <node id="#pottery" label="#pottery" />
+      <node id="#abruzzo" label="#abruzzo" />
+      <node id="#essimar" label="#essimar" />
+      <node id="#craft" label="#craft" />
+      <node id="#majella" label="#majella" />
+      <node id="#glassanimals" label="#glassanimals" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#screenprinted" target="#studio" weight="955" />
+      <edge id="1" source="#screenprinted" target="#essimar" weight="1910" />
+      <edge id="2" source="#screenprinted" target="#ombre" weight="1910" />
+      <edge id="3" source="#jamesblake" target="#youngthugz" weight="955" />
+      <edge id="4" source="#jamesblake" target="#glassanimals" weight="955" />
+      <edge id="5" source="#jamesblake" target="#thexx" weight="955" />
+      <edge id="6" source="#studio" target="#ombre" weight="955" />
+      <edge id="7" source="#studio" target="#essimar" weight="955" />
+      <edge id="8" source="#frui" target="#mozzarella" weight="955" />
+      <edge id="9" source="#frui" target="#abruzzo" weight="955" />
+      <edge id="10" source="#frui" target="#italy" weight="955" />
+      <edge id="11" source="#frui" target="#majella" weight="955" />
+      <edge id="12" source="#ombre" target="#essimar" weight="1910" />
+      <edge id="13" source="#BoycottTrump" target="#SNL" weight="955" />
+      <edge id="14" source="#BoycottTrump" target="#keepthechange" weight="955" />
+      <edge id="15" source="#OBOC" target="#CPLMakerLab" weight="955" />
+      <edge id="16" source="#lasmanos" target="#ChicagoCeramicCenter" weight="955" />
+      <edge id="17" source="#lasmanos" target="#pottery" weight="955" />
+      <edge id="18" source="#SNL" target="#keepthechange" weight="955" />
+      <edge id="19" source="#ChicagoCeramicCenter" target="#pottery" weight="955" />
+      <edge id="20" source="#springsoup" target="#craft" weight="955" />
+      <edge id="21" source="#southloop" target="#statefarm" weight="955" />
+      <edge id="22" source="#southloop" target="#dunkindonuts" weight="955" />
+      <edge id="23" source="#dunkindonuts" target="#statefarm" weight="955" />
+      <edge id="24" source="#santostefano" target="#abruzzo" weight="955" />
+      <edge id="25" source="#etsy" target="#craft" weight="955" />
+      <edge id="26" source="#etsy" target="#essimar" weight="1910" />
+      <edge id="27" source="#etsy" target="#handmadecards" weight="955" />
+      <edge id="28" source="#youngthugz" target="#glassanimals" weight="955" />
+      <edge id="29" source="#youngthugz" target="#thexx" weight="955" />
+      <edge id="30" source="#casteldelmonte" target="#abruzzo" weight="955" />
+      <edge id="31" source="#casteldelmonte" target="#italy" weight="955" />
+      <edge id="32" source="#handmadecards" target="#craft" weight="955" />
+      <edge id="33" source="#handmadecards" target="#essimar" weight="955" />
+      <edge id="34" source="#mozzarella" target="#italy" weight="955" />
+      <edge id="35" source="#mozzarella" target="#majella" weight="955" />
+      <edge id="36" source="#thexx" target="#glassanimals" weight="955" />
+      <edge id="37" source="#italy" target="#abruzzo" weight="955" />
+      <edge id="38" source="#italy" target="#majella" weight="955" />
+      <edge id="39" source="#essimar" target="#craft" weight="955" />
+    </edges>
+  </graph>
+</gexf>

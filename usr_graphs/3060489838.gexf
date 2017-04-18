@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#History" label="#History" />
+      <node id="#historyteacher" label="#historyteacher" />
+      <node id="#debate" label="#debate" />
+      <node id="#GoWithGarland" label="#GoWithGarland" />
+      <node id="#ScholarSunday" label="#ScholarSunday" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#TrumpCantSwim" label="#TrumpCantSwim" />
+      <node id="#engchat" label="#engchat" />
+      <node id="#JamesBaldwin" label="#JamesBaldwin" />
+      <node id="#DoYourJob" label="#DoYourJob" />
+      <node id="#DebateSunday" label="#DebateSunday" />
+      <node id="#AlSmithDinner" label="#AlSmithDinner" />
+      <node id="#BasketofDeplorables" label="#BasketofDeplorables" />
+      <node id="#sschat" label="#sschat" />
+      <node id="#RNC" label="#RNC" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#RECEIPTS" label="#RECEIPTS" />
+      <node id="#edchat" label="#edchat" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#History" target="#AlSmithDinner" weight="3209" />
+      <edge id="1" source="#historyteacher" target="#JamesBaldwin" weight="3209" />
+      <edge id="2" source="#historyteacher" target="#sschat" weight="3209" />
+      <edge id="3" source="#historyteacher" target="#edchat" weight="3209" />
+      <edge id="4" source="#historyteacher" target="#engchat" weight="3209" />
+      <edge id="5" source="#debate" target="#RNC" weight="3209" />
+      <edge id="6" source="#GoWithGarland" target="#GOP" weight="3209" />
+      <edge id="7" source="#GoWithGarland" target="#DoYourJob" weight="3209" />
+      <edge id="8" source="#GoWithGarland" target="#SCOTUS" weight="3209" />
+      <edge id="9" source="#ScholarSunday" target="#DebateSunday" weight="3209" />
+      <edge id="10" source="#SCOTUS" target="#GOP" weight="3209" />
+      <edge id="11" source="#SCOTUS" target="#DoYourJob" weight="3209" />
+      <edge id="12" source="#TrumpCantSwim" target="#TrumpCantSwim" weight="6418" />
+      <edge id="13" source="#engchat" target="#JamesBaldwin" weight="3209" />
+      <edge id="14" source="#engchat" target="#sschat" weight="3209" />
+      <edge id="15" source="#engchat" target="#edchat" weight="3209" />
+      <edge id="16" source="#JamesBaldwin" target="#sschat" weight="3209" />
+      <edge id="17" source="#JamesBaldwin" target="#edchat" weight="3209" />
+      <edge id="18" source="#DoYourJob" target="#GOP" weight="3209" />
+      <edge id="19" source="#BasketofDeplorables" target="#RECEIPTS" weight="3209" />
+      <edge id="20" source="#sschat" target="#edchat" weight="3209" />
+    </edges>
+  </graph>
+</gexf>

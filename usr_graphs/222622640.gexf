@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#IrishUnity" label="#IrishUnity" />
+      <node id="#journalism" label="#journalism" />
+      <node id="#REPOST" label="#REPOST" />
+      <node id="#ISIS" label="#ISIS" />
+      <node id="#Coup" label="#Coup" />
+      <node id="#TerrenceCrutcher" label="#TerrenceCrutcher" />
+      <node id="#babyindryer" label="#babyindryer" />
+      <node id="#brexit" label="#brexit" />
+      <node id="#toofattokill" label="#toofattokill" />
+      <node id="#Turkey" label="#Turkey" />
+      <node id="#Istanbul" label="#Istanbul" />
+      <node id="#murderforpizza" label="#murderforpizza" />
+      <node id="#SecondlineSunday" label="#SecondlineSunday" />
+      <node id="#pregmomrunover" label="#pregmomrunover" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#1stAmend" label="#1stAmend" />
+      <node id="#Mosul" label="#Mosul" />
+      <node id="#media" label="#media" />
+      <node id="#blacklist" label="#blacklist" />
+      <node id="#BLM" label="#BLM" />
+      <node id="#crockpotwifekiller" label="#crockpotwifekiller" />
+      <node id="#hidehidehidebehindparanoideyes" label="#hidehidehidebehindparanoideyes" />
+      <node id="#FancyHeauxDrinks" label="#FancyHeauxDrinks" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#IrishUnity" target="#Brexit" weight="3238" />
+      <edge id="1" source="#journalism" target="#media" weight="3238" />
+      <edge id="2" source="#REPOST" target="#TerrenceCrutcher" weight="3238" />
+      <edge id="3" source="#REPOST" target="#BLM" weight="3238" />
+      <edge id="4" source="#ISIS" target="#Mosul" weight="3238" />
+      <edge id="5" source="#Coup" target="#Istanbul" weight="3238" />
+      <edge id="6" source="#Coup" target="#Turkey" weight="3238" />
+      <edge id="7" source="#TerrenceCrutcher" target="#BLM" weight="3238" />
+      <edge id="8" source="#babyindryer" target="#murderforpizza" weight="3238" />
+      <edge id="9" source="#babyindryer" target="#pregmomrunover" weight="3238" />
+      <edge id="10" source="#babyindryer" target="#toofattokill" weight="3238" />
+      <edge id="11" source="#babyindryer" target="#crockpotwifekiller" weight="3238" />
+      <edge id="12" source="#brexit" target="#hidehidehidebehindparanoideyes" weight="3238" />
+      <edge id="13" source="#toofattokill" target="#murderforpizza" weight="3238" />
+      <edge id="14" source="#toofattokill" target="#pregmomrunover" weight="3238" />
+      <edge id="15" source="#toofattokill" target="#crockpotwifekiller" weight="3238" />
+      <edge id="16" source="#Turkey" target="#Istanbul" weight="3238" />
+      <edge id="17" source="#murderforpizza" target="#pregmomrunover" weight="3238" />
+      <edge id="18" source="#murderforpizza" target="#crockpotwifekiller" weight="3238" />
+      <edge id="19" source="#SecondlineSunday" target="#FancyHeauxDrinks" weight="3238" />
+      <edge id="20" source="#pregmomrunover" target="#crockpotwifekiller" weight="3238" />
+      <edge id="21" source="#1stAmend" target="#blacklist" weight="3238" />
+    </edges>
+  </graph>
+</gexf>

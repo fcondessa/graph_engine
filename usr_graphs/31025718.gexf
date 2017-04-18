@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Indy500" label="#Indy500" />
+      <node id="#actualbrewing" label="#actualbrewing" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#raptorsisastupidname" label="#raptorsisastupidname" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#Hullabaloo16" label="#Hullabaloo16" />
+      <node id="#ccba" label="#ccba" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#ynwa" label="#ynwa" />
+      <node id="#beeranddonuts" label="#beeranddonuts" />
+      <node id="#happyhour" label="#happyhour" />
+      <node id="#fuckyoubrian" label="#fuckyoubrian" />
+      <node id="#beercation" label="#beercation" />
+      <node id="#drivelocal" label="#drivelocal" />
+      <node id="#hotgarbage" label="#hotgarbage" />
+      <node id="#ccbabeercation" label="#ccbabeercation" />
+      <node id="#RallyTogether" label="#RallyTogether" />
+      <node id="#dumpsterfire" label="#dumpsterfire" />
+      <node id="#summersession16" label="#summersession16" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#hullabaloo16" label="#hullabaloo16" />
+      <node id="#mine" label="#mine" />
+      <node id="#shitsynergy" label="#shitsynergy" />
+      <node id="#yesohyessssssss" label="#yesohyessssssss" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#columbusreds" label="#columbusreds" />
+      <node id="#Indians" label="#Indians" />
+      <node id="#craftcar" label="#craftcar" />
+      <node id="#GoCavs" label="#GoCavs" />
+      <node id="#LFC" label="#LFC" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Indy500" target="#ICYMI" weight="3235" />
+      <edge id="1" source="#actualbrewing" target="#ccba" weight="3235" />
+      <edge id="2" source="#actualbrewing" target="#beeranddonuts" weight="3235" />
+      <edge id="3" source="#actualbrewing" target="#craftbeer" weight="3235" />
+      <edge id="4" source="#postseason" target="#Indians" weight="3235" />
+      <edge id="5" source="#postseason" target="#RallyTogether" weight="3235" />
+      <edge id="6" source="#raptorsisastupidname" target="#GoCavs" weight="3235" />
+      <edge id="7" source="#Hullabaloo16" target="#craftbeer" weight="3235" />
+      <edge id="8" source="#ccba" target="#drinkupcolumbus" weight="3235" />
+      <edge id="9" source="#ccba" target="#beeranddonuts" weight="3235" />
+      <edge id="10" source="#ccba" target="#beercation" weight="3235" />
+      <edge id="11" source="#ccba" target="#craftbeer" weight="38820" />
+      <edge id="12" source="#ccba" target="#summersession16" weight="3235" />
+      <edge id="13" source="#ccba" target="#hullabaloo16" weight="6470" />
+      <edge id="14" source="#ccba" target="#ccbabeercation" weight="3235" />
+      <edge id="15" source="#drinkupcolumbus" target="#hullabaloo16" weight="3235" />
+      <edge id="16" source="#drinkupcolumbus" target="#craftbeer" weight="3235" />
+      <edge id="17" source="#drinkupcolumbus" target="#happyhour" weight="3235" />
+      <edge id="18" source="#ynwa" target="#columbusreds" weight="3235" />
+      <edge id="19" source="#ynwa" target="#Columbus" weight="3235" />
+      <edge id="20" source="#ynwa" target="#LFC" weight="3235" />
+      <edge id="21" source="#beeranddonuts" target="#craftbeer" weight="3235" />
+      <edge id="22" source="#fuckyoubrian" target="#shitsynergy" weight="3235" />
+      <edge id="23" source="#beercation" target="#ccbabeercation" weight="3235" />
+      <edge id="24" source="#beercation" target="#craftbeer" weight="3235" />
+      <edge id="25" source="#drivelocal" target="#craftcar" weight="3235" />
+      <edge id="26" source="#hotgarbage" target="#dumpsterfire" weight="3235" />
+      <edge id="27" source="#ccbabeercation" target="#craftbeer" weight="3235" />
+      <edge id="28" source="#RallyTogether" target="#Indians" weight="3235" />
+      <edge id="29" source="#summersession16" target="#craftbeer" weight="3235" />
+      <edge id="30" source="#Columbus" target="#columbusreds" weight="3235" />
+      <edge id="31" source="#Columbus" target="#LFC" weight="3235" />
+      <edge id="32" source="#hullabaloo16" target="#craftbeer" weight="9705" />
+      <edge id="33" source="#mine" target="#yesohyessssssss" weight="3235" />
+      <edge id="34" source="#columbusreds" target="#LFC" weight="3235" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#LongLiveTorta" label="#LongLiveTorta" />
+      <node id="#rare" label="#rare" />
+      <node id="#warriors" label="#warriors" />
+      <node id="#math" label="#math" />
+      <node id="#analysis" label="#analysis" />
+      <node id="#RIPTortaTheFirst" label="#RIPTortaTheFirst" />
+      <node id="#unicorn" label="#unicorn" />
+      <node id="#shakethatbear" label="#shakethatbear" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#LongLiveTorta" target="#RIPTortaTheFirst" weight="1566" />
+      <edge id="1" source="#rare" target="#unicorn" weight="1566" />
+      <edge id="2" source="#warriors" target="#shakethatbear" weight="1566" />
+      <edge id="3" source="#math" target="#analysis" weight="1566" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#publicserviceannouncement" label="#publicserviceannouncement" />
+      <node id="#CavsNation" label="#CavsNation" />
+      <node id="#ShoutYourAbortion" label="#ShoutYourAbortion" />
+      <node id="#shoutyourreproductiverights" label="#shoutyourreproductiverights" />
+      <node id="#PlannedParenthood" label="#PlannedParenthood" />
+      <node id="#itsinthebloodbaby" label="#itsinthebloodbaby" />
+      <node id="#protip" label="#protip" />
+      <node id="#MemorialDay" label="#MemorialDay" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#trending" label="#trending" />
+      <node id="#FeelTheBern" label="#FeelTheBern" />
+      <node id="#snap" label="#snap" />
+      <node id="#ohnohedidnt" label="#ohnohedidnt" />
+      <node id="#StandwithPP" label="#StandwithPP" />
+      <node id="#CAVS" label="#CAVS" />
+      <node id="#Afghanistan" label="#Afghanistan" />
+      <node id="#darthporn" label="#darthporn" />
+      <node id="#WordsToLiveBy" label="#WordsToLiveBy" />
+      <node id="#shoutneedforrealavailablechoices" label="#shoutneedforrealavailablechoices" />
+      <node id="#Iraq" label="#Iraq" />
+      <node id="#shoutyouruseofbirthcontrol" label="#shoutyouruseofbirthcontrol" />
+      <node id="#nancywasright" label="#nancywasright" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#protip" weight="3216" />
+      <edge id="1" source="#publicserviceannouncement" target="#nancywasright" weight="3216" />
+      <edge id="2" source="#CavsNation" target="#FeelTheBern" weight="3216" />
+      <edge id="3" source="#ShoutYourAbortion" target="#shoutneedforrealavailablechoices" weight="3216" />
+      <edge id="4" source="#ShoutYourAbortion" target="#shoutyourreproductiverights" weight="3216" />
+      <edge id="5" source="#ShoutYourAbortion" target="#shoutyouruseofbirthcontrol" weight="3216" />
+      <edge id="6" source="#shoutyourreproductiverights" target="#shoutneedforrealavailablechoices" weight="3216" />
+      <edge id="7" source="#shoutyourreproductiverights" target="#shoutyouruseofbirthcontrol" weight="3216" />
+      <edge id="8" source="#PlannedParenthood" target="#StandwithPP" weight="3216" />
+      <edge id="9" source="#itsinthebloodbaby" target="#CAVS" weight="3216" />
+      <edge id="10" source="#MemorialDay" target="#Iraq" weight="3216" />
+      <edge id="11" source="#MemorialDay" target="#Afghanistan" weight="3216" />
+      <edge id="12" source="#Cavs" target="#WordsToLiveBy" weight="3216" />
+      <edge id="13" source="#trending" target="#darthporn" weight="3216" />
+      <edge id="14" source="#snap" target="#ohnohedidnt" weight="3216" />
+      <edge id="15" source="#Afghanistan" target="#Iraq" weight="3216" />
+      <edge id="16" source="#shoutneedforrealavailablechoices" target="#shoutyouruseofbirthcontrol" weight="3216" />
+    </edges>
+  </graph>
+</gexf>

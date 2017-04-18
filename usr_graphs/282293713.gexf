@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#boo" label="#boo" />
+      <node id="#experiencecolumbus" label="#experiencecolumbus" />
+      <node id="#threefloyds" label="#threefloyds" />
+      <node id="#whiterajah" label="#whiterajah" />
+      <node id="#jackieos" label="#jackieos" />
+      <node id="#bubblestea" label="#bubblestea" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#foundersbrewing" label="#foundersbrewing" />
+      <node id="#gameofthrones" label="#gameofthrones" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#drinkupcolumbus" label="#drinkupcolumbus" />
+      <node id="#twobrothersbrewing" label="#twobrothersbrewing" />
+      <node id="#hoppinfrog" label="#hoppinfrog" />
+      <node id="#fatheadsbrewery" label="#fatheadsbrewery" />
+      <node id="#funkystuff" label="#funkystuff" />
+      <node id="#boos" label="#boos" />
+      <node id="#varietypacks" label="#varietypacks" />
+      <node id="#everybodylovesavarietypack" label="#everybodylovesavarietypack" />
+      <node id="#root23" label="#root23" />
+      <node id="#yournorthmarket" label="#yournorthmarket" />
+      <node id="#destinationdonuts" label="#destinationdonuts" />
+      <node id="#everybodylovesagiftpack" label="#everybodylovesagiftpack" />
+      <node id="#giftpacks" label="#giftpacks" />
+      <node id="#drinklocal" label="#drinklocal" />
+      <node id="#tablebeer" label="#tablebeer" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#boo" target="#boos" weight="156" />
+      <edge id="1" source="#boo" target="#hoppinfrog" weight="156" />
+      <edge id="2" source="#boo" target="#fatheadsbrewery" weight="156" />
+      <edge id="3" source="#boo" target="#twobrothersbrewing" weight="156" />
+      <edge id="4" source="#experiencecolumbus" target="#drinkupcolumbus" weight="312" />
+      <edge id="5" source="#experiencecolumbus" target="#drinklocal" weight="312" />
+      <edge id="6" source="#experiencecolumbus" target="#asseenincolumbus" weight="156" />
+      <edge id="7" source="#experiencecolumbus" target="#craftbeer" weight="156" />
+      <edge id="8" source="#threefloyds" target="#drinklocal" weight="156" />
+      <edge id="9" source="#threefloyds" target="#foundersbrewing" weight="156" />
+      <edge id="10" source="#threefloyds" target="#jackieos" weight="156" />
+      <edge id="11" source="#whiterajah" target="#funkystuff" weight="156" />
+      <edge id="12" source="#whiterajah" target="#tablebeer" weight="156" />
+      <edge id="13" source="#jackieos" target="#drinklocal" weight="156" />
+      <edge id="14" source="#jackieos" target="#foundersbrewing" weight="156" />
+      <edge id="15" source="#bubblestea" target="#destinationdonuts" weight="156" />
+      <edge id="16" source="#bubblestea" target="#yournorthmarket" weight="156" />
+      <edge id="17" source="#asseenincolumbus" target="#drinklocal" weight="156" />
+      <edge id="18" source="#asseenincolumbus" target="#drinkupcolumbus" weight="156" />
+      <edge id="19" source="#foundersbrewing" target="#drinklocal" weight="156" />
+      <edge id="20" source="#gameofthrones" target="#everybodylovesagiftpack" weight="156" />
+      <edge id="21" source="#gameofthrones" target="#giftpacks" weight="156" />
+      <edge id="22" source="#craftbeer" target="#drinklocal" weight="156" />
+      <edge id="23" source="#craftbeer" target="#drinkupcolumbus" weight="156" />
+      <edge id="24" source="#drinkupcolumbus" target="#drinklocal" weight="312" />
+      <edge id="25" source="#twobrothersbrewing" target="#boos" weight="156" />
+      <edge id="26" source="#twobrothersbrewing" target="#hoppinfrog" weight="156" />
+      <edge id="27" source="#twobrothersbrewing" target="#fatheadsbrewery" weight="156" />
+      <edge id="28" source="#hoppinfrog" target="#boos" weight="156" />
+      <edge id="29" source="#hoppinfrog" target="#fatheadsbrewery" weight="156" />
+      <edge id="30" source="#fatheadsbrewery" target="#boos" weight="156" />
+      <edge id="31" source="#funkystuff" target="#tablebeer" weight="156" />
+      <edge id="32" source="#varietypacks" target="#everybodylovesavarietypack" weight="156" />
+      <edge id="33" source="#varietypacks" target="#root23" weight="156" />
+      <edge id="34" source="#everybodylovesavarietypack" target="#root23" weight="156" />
+      <edge id="35" source="#yournorthmarket" target="#destinationdonuts" weight="156" />
+      <edge id="36" source="#yournorthmarket" target="#drinklocal" weight="156" />
+      <edge id="37" source="#everybodylovesagiftpack" target="#giftpacks" weight="156" />
+    </edges>
+  </graph>
+</gexf>

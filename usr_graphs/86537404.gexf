@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#lagov" label="#lagov" />
+      <node id="#ACASignups" label="#ACASignups" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#nohumanity" label="#nohumanity" />
+      <node id="#laflood" label="#laflood" />
+      <node id="#TheDayTheBridgeStoodStill" label="#TheDayTheBridgeStoodStill" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#DCision2016" label="#DCision2016" />
+      <node id="#Olympics" label="#Olympics" />
+      <node id="#BeiBei" label="#BeiBei" />
+      <node id="#TeamUSA" label="#TeamUSA" />
+      <node id="#Debate" label="#Debate" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#noheart" label="#noheart" />
+      <node id="#iVoted" label="#iVoted" />
+      <node id="#FlyTheW" label="#FlyTheW" />
+      <node id="#BroadwayBridge" label="#BroadwayBridge" />
+      <node id="#Rio2016" label="#Rio2016" />
+      <node id="#PandaStory" label="#PandaStory" />
+      <node id="#ThisOrThat" label="#ThisOrThat" />
+      <node id="#Gaston" label="#Gaston" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#nosoul" label="#nosoul" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#lagov" target="#laflood" weight="3230" />
+      <edge id="1" source="#ACASignups" target="#ACA" weight="3230" />
+      <edge id="2" source="#WorldSeries" target="#FlyTheW" weight="3230" />
+      <edge id="3" source="#nohumanity" target="#nosoul" weight="3230" />
+      <edge id="4" source="#nohumanity" target="#noheart" weight="3230" />
+      <edge id="5" source="#TheDayTheBridgeStoodStill" target="#BroadwayBridge" weight="3230" />
+      <edge id="6" source="#ImWithHer" target="#Debate" weight="3230" />
+      <edge id="7" source="#DCision2016" target="#iVoted" weight="3230" />
+      <edge id="8" source="#Olympics" target="#Rio2016" weight="3230" />
+      <edge id="9" source="#BeiBei" target="#PandaStory" weight="3230" />
+      <edge id="10" source="#TeamUSA" target="#Rio2016" weight="6460" />
+      <edge id="11" source="#debatenight" target="#ThisOrThat" weight="3230" />
+      <edge id="12" source="#noheart" target="#nosoul" weight="3230" />
+      <edge id="13" source="#Gaston" target="#Gaston" weight="19380" />
+    </edges>
+  </graph>
+</gexf>

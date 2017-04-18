@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#flowerkin" label="#flowerkin" />
+      <node id="#musicscene" label="#musicscene" />
+      <node id="#MurderForPizza" label="#MurderForPizza" />
+      <node id="#sadbuzzfeedquizzes" label="#sadbuzzfeedquizzes" />
+      <node id="#Opinion" label="#Opinion" />
+      <node id="#everydayfunwithmen" label="#everydayfunwithmen" />
+      <node id="#plantkin" label="#plantkin" />
+      <node id="#WhyIStayed" label="#WhyIStayed" />
+      <node id="#brand" label="#brand" />
+      <node id="#men" label="#men" />
+      <node id="#brands" label="#brands" />
+      <node id="#grillmaster" label="#grillmaster" />
+      <node id="#longisland" label="#longisland" />
+      <node id="#GoT" label="#GoT" />
+      <node id="#BBQ" label="#BBQ" />
+      <node id="#bassist" label="#bassist" />
+      <node id="#ambassador" label="#ambassador" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#flowerkin" target="#plantkin" weight="3205" />
+      <edge id="1" source="#musicscene" target="#longisland" weight="3205" />
+      <edge id="2" source="#musicscene" target="#bassist" weight="3205" />
+      <edge id="3" source="#MurderForPizza" target="#sadbuzzfeedquizzes" weight="3205" />
+      <edge id="4" source="#Opinion" target="#WhyIStayed" weight="3205" />
+      <edge id="5" source="#everydayfunwithmen" target="#men" weight="3205" />
+      <edge id="6" source="#brand" target="#ambassador" weight="3205" />
+      <edge id="7" source="#brands" target="#GoT" weight="3205" />
+      <edge id="8" source="#grillmaster" target="#BBQ" weight="3205" />
+      <edge id="9" source="#longisland" target="#bassist" weight="3205" />
+    </edges>
+  </graph>
+</gexf>

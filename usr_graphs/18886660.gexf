@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#election2012" label="#election2012" />
+      <node id="#ifeelold" label="#ifeelold" />
+      <node id="#ShortNorth" label="#ShortNorth" />
+      <node id="#vegan" label="#vegan" />
+      <node id="#etsyteamcbus" label="#etsyteamcbus" />
+      <node id="#OHStandsWithPP" label="#OHStandsWithPP" />
+      <node id="#holidayville2015" label="#holidayville2015" />
+      <node id="#pattycakebakery" label="#pattycakebakery" />
+      <node id="#debates" label="#debates" />
+      <node id="#nature" label="#nature" />
+      <node id="#toronto" label="#toronto" />
+      <node id="#SpiritDay" label="#SpiritDay" />
+      <node id="#downtownlife" label="#downtownlife" />
+      <node id="#ecochic" label="#ecochic" />
+      <node id="#cfbchampionship" label="#cfbchampionship" />
+      <node id="#dogsofinstagram" label="#dogsofinstagram" />
+      <node id="#holidayville" label="#holidayville" />
+      <node id="#GreenParty" label="#GreenParty" />
+      <node id="#LawDeansChallenge" label="#LawDeansChallenge" />
+      <node id="#Obama2012" label="#Obama2012" />
+      <node id="#GER" label="#GER" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#Toronto" label="#Toronto" />
+      <node id="#garden" label="#garden" />
+      <node id="#birthdaydog" label="#birthdaydog" />
+      <node id="#taurus" label="#taurus" />
+      <node id="#WallStreet" label="#WallStreet" />
+      <node id="#music" label="#music" />
+      <node id="#oscars" label="#oscars" />
+      <node id="#EDM" label="#EDM" />
+      <node id="#worldcup" label="#worldcup" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#bees" label="#bees" />
+      <node id="#AUS" label="#AUS" />
+      <node id="#dadt" label="#dadt" />
+      <node id="#sigh" label="#sigh" />
+      <node id="#eco" label="#eco" />
+      <node id="#SVN" label="#SVN" />
+      <node id="#fem2" label="#fem2" />
+      <node id="#birthday" label="#birthday" />
+      <node id="#earth" label="#earth" />
+      <node id="#workerowner" label="#workerowner" />
+      <node id="#USA" label="#USA" />
+      <node id="#StandWithPP" label="#StandWithPP" />
+      <node id="#vma" label="#vma" />
+      <node id="#TweedRide" label="#TweedRide" />
+      <node id="#sugarcoma" label="#sugarcoma" />
+      <node id="#redwhiteandboom" label="#redwhiteandboom" />
+      <node id="#savetheorangestickybun" label="#savetheorangestickybun" />
+      <node id="#LGBT" label="#LGBT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#election2012" target="#GreenParty" weight="1190" />
+      <edge id="1" source="#ifeelold" target="#oscars" weight="1190" />
+      <edge id="2" source="#ShortNorth" target="#TweedRide" weight="1190" />
+      <edge id="3" source="#vegan" target="#columbus" weight="1190" />
+      <edge id="4" source="#etsyteamcbus" target="#ecochic" weight="1190" />
+      <edge id="5" source="#OHStandsWithPP" target="#StandWithPP" weight="3570" />
+      <edge id="6" source="#holidayville2015" target="#holidayville" weight="1190" />
+      <edge id="7" source="#pattycakebakery" target="#workerowner" weight="1190" />
+      <edge id="8" source="#debates" target="#Obama2012" weight="1190" />
+      <edge id="9" source="#nature" target="#earth" weight="1190" />
+      <edge id="10" source="#nature" target="#bees" weight="1190" />
+      <edge id="11" source="#nature" target="#eco" weight="1190" />
+      <edge id="12" source="#nature" target="#garden" weight="1190" />
+      <edge id="13" source="#toronto" target="#EDM" weight="1190" />
+      <edge id="14" source="#toronto" target="#Toronto" weight="1190" />
+      <edge id="15" source="#toronto" target="#music" weight="1190" />
+      <edge id="16" source="#SpiritDay" target="#LGBT" weight="1190" />
+      <edge id="17" source="#downtownlife" target="#columbus" weight="1190" />
+      <edge id="18" source="#downtownlife" target="#redwhiteandboom" weight="1190" />
+      <edge id="19" source="#cfbchampionship" target="#LawDeansChallenge" weight="1190" />
+      <edge id="20" source="#dogsofinstagram" target="#birthdaydog" weight="1190" />
+      <edge id="21" source="#GER" target="#AUS" weight="2380" />
+      <edge id="22" source="#GER" target="#worldcup" weight="1190" />
+      <edge id="23" source="#columbus" target="#redwhiteandboom" weight="1190" />
+      <edge id="24" source="#Toronto" target="#EDM" weight="1190" />
+      <edge id="25" source="#Toronto" target="#music" weight="1190" />
+      <edge id="26" source="#garden" target="#bees" weight="1190" />
+      <edge id="27" source="#garden" target="#eco" weight="1190" />
+      <edge id="28" source="#garden" target="#earth" weight="1190" />
+      <edge id="29" source="#taurus" target="#birthday" weight="1190" />
+      <edge id="30" source="#WallStreet" target="#SOTU" weight="1190" />
+      <edge id="31" source="#music" target="#EDM" weight="1190" />
+      <edge id="32" source="#worldcup" target="#AUS" weight="3570" />
+      <edge id="33" source="#bees" target="#eco" weight="1190" />
+      <edge id="34" source="#bees" target="#earth" weight="1190" />
+      <edge id="35" source="#AUS" target="#AUS" weight="2380" />
+      <edge id="36" source="#dadt" target="#vma" weight="1190" />
+      <edge id="37" source="#sigh" target="#fem2" weight="1190" />
+      <edge id="38" source="#eco" target="#earth" weight="1190" />
+      <edge id="39" source="#SVN" target="#USA" weight="1190" />
+      <edge id="40" source="#sugarcoma" target="#savetheorangestickybun" weight="1190" />
+    </edges>
+  </graph>
+</gexf>

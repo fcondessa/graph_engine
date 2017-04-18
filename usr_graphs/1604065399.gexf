@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OHMedicaidExpansion" label="#OHMedicaidExpansion" />
+      <node id="#WHCOA" label="#WHCOA" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#Take15for15" label="#Take15for15" />
+      <node id="#ff" label="#ff" />
+      <node id="#HR" label="#HR" />
+      <node id="#ballot" label="#ballot" />
+      <node id="#MedicaidExpansion" label="#MedicaidExpansion" />
+      <node id="#dailydose" label="#dailydose" />
+      <node id="#FF" label="#FF" />
+      <node id="#EyewitnessWV" label="#EyewitnessWV" />
+      <node id="#expand" label="#expand" />
+      <node id="#medicaidexpansion" label="#medicaidexpansion" />
+      <node id="#medicaid" label="#medicaid" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#OTW" label="#OTW" />
+      <node id="#Ohleg" label="#Ohleg" />
+      <node id="#EnquirerHealth" label="#EnquirerHealth" />
+      <node id="#Stateline" label="#Stateline" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#HealthReformNews" label="#HealthReformNews" />
+      <node id="#OH" label="#OH" />
+      <node id="#Medicaid" label="#Medicaid" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OHMedicaidExpansion" target="#ff" weight="367" />
+      <edge id="1" source="#WHCOA" target="#Take15for15" weight="367" />
+      <edge id="2" source="#GOP" target="#Medicaid" weight="367" />
+      <edge id="3" source="#GOP" target="#Ohio" weight="367" />
+      <edge id="4" source="#HR" target="#HealthReformNews" weight="367" />
+      <edge id="5" source="#ballot" target="#MedicaidExpansion" weight="367" />
+      <edge id="6" source="#MedicaidExpansion" target="#OH" weight="367" />
+      <edge id="7" source="#MedicaidExpansion" target="#ACA" weight="367" />
+      <edge id="8" source="#MedicaidExpansion" target="#Ohio" weight="734" />
+      <edge id="9" source="#dailydose" target="#EnquirerHealth" weight="367" />
+      <edge id="10" source="#FF" target="#Medicaid" weight="367" />
+      <edge id="11" source="#EyewitnessWV" target="#Ohio" weight="367" />
+      <edge id="12" source="#expand" target="#Medicaid" weight="367" />
+      <edge id="13" source="#expand" target="#Ohio" weight="367" />
+      <edge id="14" source="#medicaidexpansion" target="#medicaid" weight="367" />
+      <edge id="15" source="#medicaid" target="#ACA" weight="367" />
+      <edge id="16" source="#Ohio" target="#Ohleg" weight="367" />
+      <edge id="17" source="#Ohio" target="#Medicaid" weight="5138" />
+      <edge id="18" source="#OTW" target="#Medicaid" weight="367" />
+      <edge id="19" source="#Ohleg" target="#Medicaid" weight="367" />
+      <edge id="20" source="#Stateline" target="#ACA" weight="367" />
+      <edge id="21" source="#ACA" target="#Medicaid" weight="367" />
+      <edge id="22" source="#OH" target="#Medicaid" weight="367" />
+    </edges>
+  </graph>
+</gexf>

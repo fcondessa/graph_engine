@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#goodbeer" label="#goodbeer" />
+      <node id="#hooraybeer" label="#hooraybeer" />
+      <node id="#OH" label="#OH" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#kbs" label="#kbs" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#HAPPYHOUR" label="#HAPPYHOUR" />
+      <node id="#ff" label="#ff" />
+      <node id="#unicorns" label="#unicorns" />
+      <node id="#PUMPKINBEER" label="#PUMPKINBEER" />
+      <node id="#fireball" label="#fireball" />
+      <node id="#wethops" label="#wethops" />
+      <node id="#local" label="#local" />
+      <node id="#microbrewery" label="#microbrewery" />
+      <node id="#beerby" label="#beerby" />
+      <node id="#rainbows" label="#rainbows" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#parksttavern" label="#parksttavern" />
+      <node id="#livemusic" label="#livemusic" />
+      <node id="#Beerporn" label="#Beerporn" />
+      <node id="#Local" label="#Local" />
+      <node id="#EnjoyBy" label="#EnjoyBy" />
+      <node id="#brewers" label="#brewers" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#goodbeer" target="#livemusic" weight="534" />
+      <edge id="1" source="#goodbeer" target="#fireball" weight="534" />
+      <edge id="2" source="#hooraybeer" target="#kbs" weight="534" />
+      <edge id="3" source="#hooraybeer" target="#craftbeer" weight="534" />
+      <edge id="4" source="#OH" target="#EnjoyBy" weight="1068" />
+      <edge id="5" source="#craftbeer" target="#parksttavern" weight="534" />
+      <edge id="6" source="#craftbeer" target="#ff" weight="534" />
+      <edge id="7" source="#craftbeer" target="#Beerporn" weight="1068" />
+      <edge id="8" source="#craftbeer" target="#local" weight="1602" />
+      <edge id="9" source="#craftbeer" target="#kbs" weight="534" />
+      <edge id="10" source="#Cavs" target="#beerby" weight="534" />
+      <edge id="11" source="#HAPPYHOUR" target="#PUMPKINBEER" weight="534" />
+      <edge id="12" source="#unicorns" target="#wethops" weight="534" />
+      <edge id="13" source="#unicorns" target="#rainbows" weight="534" />
+      <edge id="14" source="#fireball" target="#livemusic" weight="534" />
+      <edge id="15" source="#wethops" target="#rainbows" weight="534" />
+      <edge id="16" source="#local" target="#microbrewery" weight="534" />
+      <edge id="17" source="#Columbus" target="#brewers" weight="534" />
+      <edge id="18" source="#Columbus" target="#Local" weight="534" />
+    </edges>
+  </graph>
+</gexf>

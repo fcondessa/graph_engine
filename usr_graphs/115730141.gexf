@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#investinus" label="#investinus" />
+      <node id="#ECE" label="#ECE" />
+      <node id="#EDSOTU" label="#EDSOTU" />
+      <node id="#childcare" label="#childcare" />
+      <node id="#WorkingFamilies" label="#WorkingFamilies" />
+      <node id="#InvestInKids" label="#InvestInKids" />
+      <node id="#Bthru8" label="#Bthru8" />
+      <node id="#edsotu" label="#edsotu" />
+      <node id="#earlylearning" label="#earlylearning" />
+      <node id="#ActonPreK" label="#ActonPreK" />
+      <node id="#ece" label="#ece" />
+      <node id="#EarlyEd" label="#EarlyEd" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#educatedkids" label="#educatedkids" />
+      <node id="#StrongStart" label="#StrongStart" />
+      <node id="#FF" label="#FF" />
+      <node id="#ActOnPreK" label="#ActOnPreK" />
+      <node id="#teacher" label="#teacher" />
+      <node id="#ChildCare" label="#ChildCare" />
+      <node id="#earlyed" label="#earlyed" />
+      <node id="#preK" label="#preK" />
+      <node id="#edSOTU" label="#edSOTU" />
+      <node id="#sotu" label="#sotu" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#investinus" target="#EarlyEd" weight="457" />
+      <edge id="1" source="#investinus" target="#ECE" weight="457" />
+      <edge id="2" source="#ECE" target="#InvestInKids" weight="457" />
+      <edge id="3" source="#ECE" target="#SOTU" weight="457" />
+      <edge id="4" source="#ECE" target="#StrongStart" weight="457" />
+      <edge id="5" source="#ECE" target="#earlyed" weight="457" />
+      <edge id="6" source="#EDSOTU" target="#preK" weight="457" />
+      <edge id="7" source="#EDSOTU" target="#SOTU" weight="457" />
+      <edge id="8" source="#childcare" target="#ece" weight="457" />
+      <edge id="9" source="#childcare" target="#Bthru8" weight="457" />
+      <edge id="10" source="#WorkingFamilies" target="#ChildCare" weight="457" />
+      <edge id="11" source="#InvestInKids" target="#StrongStart" weight="2285" />
+      <edge id="12" source="#InvestInKids" target="#earlylearning" weight="457" />
+      <edge id="13" source="#InvestInKids" target="#FF" weight="457" />
+      <edge id="14" source="#InvestInKids" target="#ece" weight="914" />
+      <edge id="15" source="#InvestInKids" target="#SOTU" weight="457" />
+      <edge id="16" source="#InvestInKids" target="#earlyed" weight="457" />
+      <edge id="17" source="#Bthru8" target="#ece" weight="457" />
+      <edge id="18" source="#edsotu" target="#sotu" weight="914" />
+      <edge id="19" source="#edsotu" target="#SOTU" weight="457" />
+      <edge id="20" source="#earlylearning" target="#StrongStart" weight="457" />
+      <edge id="21" source="#ActonPreK" target="#StrongStart" weight="457" />
+      <edge id="22" source="#ece" target="#StrongStart" weight="1371" />
+      <edge id="23" source="#ece" target="#educatedkids" weight="457" />
+      <edge id="24" source="#ece" target="#SOTU" weight="914" />
+      <edge id="25" source="#ece" target="#teacher" weight="457" />
+      <edge id="26" source="#EarlyEd" target="#StrongStart" weight="457" />
+      <edge id="27" source="#SOTU" target="#teacher" weight="457" />
+      <edge id="28" source="#SOTU" target="#preK" weight="457" />
+      <edge id="29" source="#SOTU" target="#StrongStart" weight="1371" />
+      <edge id="30" source="#SOTU" target="#ActOnPreK" weight="457" />
+      <edge id="31" source="#SOTU" target="#edSOTU" weight="457" />
+      <edge id="32" source="#SOTU" target="#earlyed" weight="1371" />
+      <edge id="33" source="#educatedkids" target="#preK" weight="457" />
+      <edge id="34" source="#StrongStart" target="#earlyed" weight="457" />
+      <edge id="35" source="#StrongStart" target="#ActOnPreK" weight="457" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,896 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#VeraBradley" label="#VeraBradley" />
+      <node id="#Wine" label="#Wine" />
+      <node id="#appliances" label="#appliances" />
+      <node id="#Coach" label="#Coach" />
+      <node id="#coupon" label="#coupon" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#jewelry" label="#jewelry" />
+      <node id="#globalhunger" label="#globalhunger" />
+      <node id="#filghts" label="#filghts" />
+      <node id="#Lowes" label="#Lowes" />
+      <node id="#BeyondTheRack" label="#BeyondTheRack" />
+      <node id="#Cheryls" label="#Cheryls" />
+      <node id="#Eastbay" label="#Eastbay" />
+      <node id="#Bloomingdales" label="#Bloomingdales" />
+      <node id="#valentine" label="#valentine" />
+      <node id="#save" label="#save" />
+      <node id="#phone" label="#phone" />
+      <node id="#JCPenney" label="#JCPenney" />
+      <node id="#NewBalance" label="#NewBalance" />
+      <node id="#LIDS" label="#LIDS" />
+      <node id="#Skinnygirl" label="#Skinnygirl" />
+      <node id="#Sunday" label="#Sunday" />
+      <node id="#Bluefly" label="#Bluefly" />
+      <node id="#Pizza" label="#Pizza" />
+      <node id="#REI" label="#REI" />
+      <node id="#6pm" label="#6pm" />
+      <node id="#FootLocker" label="#FootLocker" />
+      <node id="#PUMA" label="#PUMA" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#bareMinerals" label="#bareMinerals" />
+      <node id="#DisneyStore" label="#DisneyStore" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#Pillows" label="#Pillows" />
+      <node id="#caffeine" label="#caffeine" />
+      <node id="#Deals" label="#Deals" />
+      <node id="#DowntonAbbey" label="#DowntonAbbey" />
+      <node id="#Payless" label="#Payless" />
+      <node id="#ConsumerReports" label="#ConsumerReports" />
+      <node id="#DunkinDonuts" label="#DunkinDonuts" />
+      <node id="#6PM" label="#6PM" />
+      <node id="#IHOP" label="#IHOP" />
+      <node id="#Blanket" label="#Blanket" />
+      <node id="#JaneDeals" label="#JaneDeals" />
+      <node id="#Oneida" label="#Oneida" />
+      <node id="#TOMS" label="#TOMS" />
+      <node id="#laptops" label="#laptops" />
+      <node id="#ColumbusDay" label="#ColumbusDay" />
+      <node id="#BOGO" label="#BOGO" />
+      <node id="#TheNorthFace" label="#TheNorthFace" />
+      <node id="#SouthwestAirlines" label="#SouthwestAirlines" />
+      <node id="#Nike" label="#Nike" />
+      <node id="#Storage" label="#Storage" />
+      <node id="#BIC" label="#BIC" />
+      <node id="#Hanes" label="#Hanes" />
+      <node id="#Sears" label="#Sears" />
+      <node id="#backpack" label="#backpack" />
+      <node id="#NordstromRack" label="#NordstromRack" />
+      <node id="#BurtsBees" label="#BurtsBees" />
+      <node id="#Travelocity" label="#Travelocity" />
+      <node id="#RalphLauren" label="#RalphLauren" />
+      <node id="#Boscovs" label="#Boscovs" />
+      <node id="#Monday" label="#Monday" />
+      <node id="#KateSpade" label="#KateSpade" />
+      <node id="#Arbys" label="#Arbys" />
+      <node id="#HomeDecoratorsCollection" label="#HomeDecoratorsCollection" />
+      <node id="#Kmart" label="#Kmart" />
+      <node id="#BarnesNoble" label="#BarnesNoble" />
+      <node id="#Clinique" label="#Clinique" />
+      <node id="#pizzas" label="#pizzas" />
+      <node id="#skincare" label="#skincare" />
+      <node id="#LeapDay" label="#LeapDay" />
+      <node id="#recipes" label="#recipes" />
+      <node id="#cheeseburgers" label="#cheeseburgers" />
+      <node id="#Kohls" label="#Kohls" />
+      <node id="#Nordstrom" label="#Nordstrom" />
+      <node id="#Shop" label="#Shop" />
+      <node id="#aeo" label="#aeo" />
+      <node id="#PresidentsDay" label="#PresidentsDay" />
+      <node id="#VirginAmerica" label="#VirginAmerica" />
+      <node id="#CHI" label="#CHI" />
+      <node id="#future" label="#future" />
+      <node id="#KCup" label="#KCup" />
+      <node id="#VitaminWater" label="#VitaminWater" />
+      <node id="#gold" label="#gold" />
+      <node id="#Tanga" label="#Tanga" />
+      <node id="#SpiritHalloween" label="#SpiritHalloween" />
+      <node id="#Vacation" label="#Vacation" />
+      <node id="#WestElm" label="#WestElm" />
+      <node id="#beauty" label="#beauty" />
+      <node id="#LordTaylor" label="#LordTaylor" />
+      <node id="#Sbarro" label="#Sbarro" />
+      <node id="#BestBuy" label="#BestBuy" />
+      <node id="#Madewell" label="#Madewell" />
+      <node id="#Chi" label="#Chi" />
+      <node id="#CoverGirl" label="#CoverGirl" />
+      <node id="#RussellStover" label="#RussellStover" />
+      <node id="#kcups" label="#kcups" />
+      <node id="#doorbusters" label="#doorbusters" />
+      <node id="#OliveGarden" label="#OliveGarden" />
+      <node id="#DSW" label="#DSW" />
+      <node id="#Essie" label="#Essie" />
+      <node id="#MarthaStewart" label="#MarthaStewart" />
+      <node id="#Photo" label="#Photo" />
+      <node id="#vitamins" label="#vitamins" />
+      <node id="#free" label="#free" />
+      <node id="#Restaurant" label="#Restaurant" />
+      <node id="#philosophy" label="#philosophy" />
+      <node id="#MacBooks" label="#MacBooks" />
+      <node id="#Spanx" label="#Spanx" />
+      <node id="#FisherPrice" label="#FisherPrice" />
+      <node id="#cashback" label="#cashback" />
+      <node id="#CVS" label="#CVS" />
+      <node id="#Sephora" label="#Sephora" />
+      <node id="#Food" label="#Food" />
+      <node id="#BonTon" label="#BonTon" />
+      <node id="#SpiderMan" label="#SpiderMan" />
+      <node id="#BaskinRobbins" label="#BaskinRobbins" />
+      <node id="#Fall" label="#Fall" />
+      <node id="#MothersDay" label="#MothersDay" />
+      <node id="#Stila" label="#Stila" />
+      <node id="#CashBack" label="#CashBack" />
+      <node id="#LinensThings" label="#LinensThings" />
+      <node id="#BackToSchool" label="#BackToSchool" />
+      <node id="#Dominos" label="#Dominos" />
+      <node id="#Cosmetics" label="#Cosmetics" />
+      <node id="#NutriBullet" label="#NutriBullet" />
+      <node id="#Flights" label="#Flights" />
+      <node id="#magazine" label="#magazine" />
+      <node id="#DicksSportingGoods" label="#DicksSportingGoods" />
+      <node id="#Roxy" label="#Roxy" />
+      <node id="#Flight" label="#Flight" />
+      <node id="#disney" label="#disney" />
+      <node id="#WaterBottles" label="#WaterBottles" />
+      <node id="#Overstock" label="#Overstock" />
+      <node id="#Frozen" label="#Frozen" />
+      <node id="#Save" label="#Save" />
+      <node id="#PINK" label="#PINK" />
+      <node id="#Groupon" label="#Groupon" />
+      <node id="#Oprah" label="#Oprah" />
+      <node id="#Parkinsons" label="#Parkinsons" />
+      <node id="#vacation" label="#vacation" />
+      <node id="#boots" label="#boots" />
+      <node id="#Hefty" label="#Hefty" />
+      <node id="#TheBodyShopUSA" label="#TheBodyShopUSA" />
+      <node id="#TVs" label="#TVs" />
+      <node id="#SonicDriveIn" label="#SonicDriveIn" />
+      <node id="#LOFT" label="#LOFT" />
+      <node id="#Cuisinart" label="#Cuisinart" />
+      <node id="#BuildABear" label="#BuildABear" />
+      <node id="#Gap" label="#Gap" />
+      <node id="#cooking" label="#cooking" />
+      <node id="#furniture" label="#furniture" />
+      <node id="#nailpolish" label="#nailpolish" />
+      <node id="#Waffle" label="#Waffle" />
+      <node id="#Ulta" label="#Ulta" />
+      <node id="#Clearance" label="#Clearance" />
+      <node id="#clothes" label="#clothes" />
+      <node id="#Adele" label="#Adele" />
+      <node id="#FinishLine" label="#FinishLine" />
+      <node id="#Saks" label="#Saks" />
+      <node id="#OmahaSteaks" label="#OmahaSteaks" />
+      <node id="#DVD" label="#DVD" />
+      <node id="#FIFA16" label="#FIFA16" />
+      <node id="#NorthFace" label="#NorthFace" />
+      <node id="#Forever21" label="#Forever21" />
+      <node id="#OPI" label="#OPI" />
+      <node id="#FreedomIsntFree" label="#FreedomIsntFree" />
+      <node id="#Xbox" label="#Xbox" />
+      <node id="#freeshipping" label="#freeshipping" />
+      <node id="#UGG" label="#UGG" />
+      <node id="#NCAA" label="#NCAA" />
+      <node id="#electronics" label="#electronics" />
+      <node id="#groceries" label="#groceries" />
+      <node id="#KCups" label="#KCups" />
+      <node id="#CalvinKlein" label="#CalvinKlein" />
+      <node id="#Teavana" label="#Teavana" />
+      <node id="#ChildrensPlace" label="#ChildrensPlace" />
+      <node id="#eBay" label="#eBay" />
+      <node id="#flipflops" label="#flipflops" />
+      <node id="#candles" label="#candles" />
+      <node id="#VDay" label="#VDay" />
+      <node id="#Walgreens" label="#Walgreens" />
+      <node id="#VictoriasSecret" label="#VictoriasSecret" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#AnneKlein" label="#AnneKlein" />
+      <node id="#shampoo" label="#shampoo" />
+      <node id="#Keurig" label="#Keurig" />
+      <node id="#Horchow" label="#Horchow" />
+      <node id="#EinsteinBros" label="#EinsteinBros" />
+      <node id="#GeorgeForeman" label="#GeorgeForeman" />
+      <node id="#StarWars" label="#StarWars" />
+      <node id="#JetBlue" label="#JetBlue" />
+      <node id="#organized" label="#organized" />
+      <node id="#KateHudson" label="#KateHudson" />
+      <node id="#ShopBop" label="#ShopBop" />
+      <node id="#SteveMadden" label="#SteveMadden" />
+      <node id="#icecream" label="#icecream" />
+      <node id="#RebeccaMinkoff" label="#RebeccaMinkoff" />
+      <node id="#Macys" label="#Macys" />
+      <node id="#ElfCosmetics" label="#ElfCosmetics" />
+      <node id="#KrispyKreme" label="#KrispyKreme" />
+      <node id="#glasses" label="#glasses" />
+      <node id="#deals" label="#deals" />
+      <node id="#accessories" label="#accessories" />
+      <node id="#ValentinesDay" label="#ValentinesDay" />
+      <node id="#AnnTaylor" label="#AnnTaylor" />
+      <node id="#PotteryBarn" label="#PotteryBarn" />
+      <node id="#designers" label="#designers" />
+      <node id="#mascara" label="#mascara" />
+      <node id="#Vince" label="#Vince" />
+      <node id="#K" label="#K" />
+      <node id="#Panera" label="#Panera" />
+      <node id="#shoes" label="#shoes" />
+      <node id="#Game" label="#Game" />
+      <node id="#Pier1" label="#Pier1" />
+      <node id="#sales" label="#sales" />
+      <node id="#VS" label="#VS" />
+      <node id="#Crocs" label="#Crocs" />
+      <node id="#NationalCoffeeDay" label="#NationalCoffeeDay" />
+      <node id="#dinner" label="#dinner" />
+      <node id="#PotteryBarnKids" label="#PotteryBarnKids" />
+      <node id="#sale" label="#sale" />
+      <node id="#handbag" label="#handbag" />
+      <node id="#AnniversarySale" label="#AnniversarySale" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#Tote" label="#Tote" />
+      <node id="#PrimeDay" label="#PrimeDay" />
+      <node id="#balloons" label="#balloons" />
+      <node id="#SamsClub" label="#SamsClub" />
+      <node id="#LaborDay" label="#LaborDay" />
+      <node id="#LaneBryant" label="#LaneBryant" />
+      <node id="#Necklace" label="#Necklace" />
+      <node id="#Coffee" label="#Coffee" />
+      <node id="#lancome" label="#lancome" />
+      <node id="#pizza" label="#pizza" />
+      <node id="#scents" label="#scents" />
+      <node id="#Free" label="#Free" />
+      <node id="#Deal" label="#Deal" />
+      <node id="#Disney" label="#Disney" />
+      <node id="#DooneyBourke" label="#DooneyBourke" />
+      <node id="#Tees" label="#Tees" />
+      <node id="#TheBodyShop" label="#TheBodyShop" />
+      <node id="#apparel" label="#apparel" />
+      <node id="#NewYear" label="#NewYear" />
+      <node id="#getaway" label="#getaway" />
+      <node id="#cosmetics" label="#cosmetics" />
+      <node id="#EddieBauer" label="#EddieBauer" />
+      <node id="#cash" label="#cash" />
+      <node id="#flights" label="#flights" />
+      <node id="#Fan" label="#Fan" />
+      <node id="#Target" label="#Target" />
+      <node id="#BetseyJohnson" label="#BetseyJohnson" />
+      <node id="#makeup" label="#makeup" />
+      <node id="#Redbook" label="#Redbook" />
+      <node id="#Blender" label="#Blender" />
+      <node id="#ebay" label="#ebay" />
+      <node id="#Carters" label="#Carters" />
+      <node id="#HauteLook" label="#HauteLook" />
+      <node id="#pumpkin" label="#pumpkin" />
+      <node id="#ProFlowers" label="#ProFlowers" />
+      <node id="#Moosejaw" label="#Moosejaw" />
+      <node id="#FREE" label="#FREE" />
+      <node id="#Ashford" label="#Ashford" />
+      <node id="#Onlineshoes_com" label="#Onlineshoes_com" />
+      <node id="#PartyCity" label="#PartyCity" />
+      <node id="#Friends" label="#Friends" />
+      <node id="#ToryBurch" label="#ToryBurch" />
+      <node id="#Tervis" label="#Tervis" />
+      <node id="#grocery" label="#grocery" />
+      <node id="#HomeDepot" label="#HomeDepot" />
+      <node id="#Staples" label="#Staples" />
+      <node id="#LivingSocial" label="#LivingSocial" />
+      <node id="#UGGs" label="#UGGs" />
+      <node id="#MichaelKors" label="#MichaelKors" />
+      <node id="#giftcards" label="#giftcards" />
+      <node id="#Walmart" label="#Walmart" />
+      <node id="#Pampers" label="#Pampers" />
+      <node id="#jackets" label="#jackets" />
+      <node id="#DairyQueen" label="#DairyQueen" />
+      <node id="#Starbucks" label="#Starbucks" />
+      <node id="#Travel" label="#Travel" />
+      <node id="#WilliamsSonoma" label="#WilliamsSonoma" />
+      <node id="#AmericanEagle" label="#AmericanEagle" />
+      <node id="#MondayMotivation" label="#MondayMotivation" />
+      <node id="#personalized" label="#personalized" />
+      <node id="#OldNavy" label="#OldNavy" />
+      <node id="#GreenMonday" label="#GreenMonday" />
+      <node id="#halloween" label="#halloween" />
+      <node id="#Tarte" label="#Tarte" />
+      <node id="#Columbia" label="#Columbia" />
+      <node id="#morning" label="#morning" />
+      <node id="#shop" label="#shop" />
+      <node id="#lipgloss" label="#lipgloss" />
+      <node id="#Halloween" label="#Halloween" />
+      <node id="#flowers" label="#flowers" />
+      <node id="#COACH" label="#COACH" />
+      <node id="#CakeBoss" label="#CakeBoss" />
+      <node id="#Cinnabon" label="#Cinnabon" />
+      <node id="#decor" label="#decor" />
+      <node id="#NARS" label="#NARS" />
+      <node id="#Subway" label="#Subway" />
+      <node id="#RachaelRay" label="#RachaelRay" />
+      <node id="#Amazon" label="#Amazon" />
+      <node id="#sundaes" label="#sundaes" />
+      <node id="#Spice" label="#Spice" />
+      <node id="#handbags" label="#handbags" />
+      <node id="#flight" label="#flight" />
+      <node id="#deal" label="#deal" />
+      <node id="#freebie" label="#freebie" />
+      <node id="#Kraft" label="#Kraft" />
+      <node id="#designer" label="#designer" />
+      <node id="#conditioner" label="#conditioner" />
+      <node id="#coupons" label="#coupons" />
+      <node id="#Shutterfly" label="#Shutterfly" />
+      <node id="#books" label="#books" />
+      <node id="#iTunes" label="#iTunes" />
+      <node id="#FreeConeDay" label="#FreeConeDay" />
+      <node id="#Boots" label="#Boots" />
+      <node id="#costumes" label="#costumes" />
+      <node id="#Carter" label="#Carter" />
+      <node id="#PapaJohns" label="#PapaJohns" />
+      <node id="#Applebees" label="#Applebees" />
+      <node id="#Zulily" label="#Zulily" />
+      <node id="#PresidentsSale" label="#PresidentsSale" />
+      <node id="#Cottonelle" label="#Cottonelle" />
+      <node id="#Fabletics" label="#Fabletics" />
+      <node id="#RueLaLa" label="#RueLaLa" />
+      <node id="#Frontier" label="#Frontier" />
+      <node id="#Easter" label="#Easter" />
+      <node id="#UnderArmour" label="#UnderArmour" />
+      <node id="#YankeeCandle" label="#YankeeCandle" />
+      <node id="#SportsAuthority" label="#SportsAuthority" />
+      <node id="#Lacoste" label="#Lacoste" />
+      <node id="#Designer" label="#Designer" />
+      <node id="#Redbox" label="#Redbox" />
+      <node id="#Labor" label="#Labor" />
+      <node id="#TommyHilfiger" label="#TommyHilfiger" />
+      <node id="#FreeShipping" label="#FreeShipping" />
+      <node id="#PizzaHut" label="#PizzaHut" />
+      <node id="#LillyPulitzer" label="#LillyPulitzer" />
+      <node id="#summer" label="#summer" />
+      <node id="#Athleta" label="#Athleta" />
+      <node id="#Sale" label="#Sale" />
+      <node id="#iPhone" label="#iPhone" />
+      <node id="#Fanatics" label="#Fanatics" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#Olaf" label="#Olaf" />
+      <node id="#candle" label="#candle" />
+      <node id="#Southwest" label="#Southwest" />
+      <node id="#LOreal" label="#LOreal" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#birthday" label="#birthday" />
+      <node id="#LandsEnd" label="#LandsEnd" />
+      <node id="#Kids" label="#Kids" />
+      <node id="#tea" label="#tea" />
+      <node id="#bathandbodyworks" label="#bathandbodyworks" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#VeraBradley" target="#Zulily" weight="3230" />
+      <edge id="1" source="#VeraBradley" target="#eBay" weight="12920" />
+      <edge id="2" source="#VeraBradley" target="#LaborDay" weight="3230" />
+      <edge id="3" source="#Wine" target="#Oneida" weight="3230" />
+      <edge id="4" source="#Wine" target="#PotteryBarn" weight="3230" />
+      <edge id="5" source="#Wine" target="#Nordstrom" weight="3230" />
+      <edge id="6" source="#appliances" target="#Macys" weight="3230" />
+      <edge id="7" source="#appliances" target="#electronics" weight="3230" />
+      <edge id="8" source="#appliances" target="#Lowes" weight="3230" />
+      <edge id="9" source="#appliances" target="#LaborDay" weight="3230" />
+      <edge id="10" source="#Coach" target="#Zulily" weight="6460" />
+      <edge id="11" source="#Coach" target="#Designer" weight="3230" />
+      <edge id="12" source="#Coach" target="#KateSpade" weight="6460" />
+      <edge id="13" source="#Coach" target="#6PM" weight="6460" />
+      <edge id="14" source="#Coach" target="#MichaelKors" weight="3230" />
+      <edge id="15" source="#Coach" target="#LordTaylor" weight="3230" />
+      <edge id="16" source="#Coach" target="#ToryBurch" weight="6460" />
+      <edge id="17" source="#Coach" target="#Deals" weight="3230" />
+      <edge id="18" source="#coupon" target="#YankeeCandle" weight="12920" />
+      <edge id="19" source="#coupon" target="#sale" weight="6460" />
+      <edge id="20" source="#coupon" target="#Shutterfly" weight="3230" />
+      <edge id="21" source="#coupon" target="#furniture" weight="3230" />
+      <edge id="22" source="#coupon" target="#Designer" weight="6460" />
+      <edge id="23" source="#coupon" target="#Redbox" weight="3230" />
+      <edge id="24" source="#coupon" target="#Madewell" weight="3230" />
+      <edge id="25" source="#coupon" target="#AmericanEagle" weight="3230" />
+      <edge id="26" source="#coupon" target="#TommyHilfiger" weight="3230" />
+      <edge id="27" source="#coupon" target="#TheBodyShop" weight="3230" />
+      <edge id="28" source="#coupon" target="#PartyCity" weight="3230" />
+      <edge id="29" source="#coupon" target="#OliveGarden" weight="6460" />
+      <edge id="30" source="#coupon" target="#books" weight="3230" />
+      <edge id="31" source="#coupon" target="#Nike" weight="3230" />
+      <edge id="32" source="#coupon" target="#RebeccaMinkoff" weight="3230" />
+      <edge id="33" source="#coupon" target="#Athleta" weight="3230" />
+      <edge id="34" source="#coupon" target="#PUMA" weight="3230" />
+      <edge id="35" source="#coupon" target="#shop" weight="3230" />
+      <edge id="36" source="#coupon" target="#cosmetics" weight="6460" />
+      <edge id="37" source="#coupon" target="#grocery" weight="3230" />
+      <edge id="38" source="#coupon" target="#Walgreens" weight="3230" />
+      <edge id="39" source="#coupon" target="#LivingSocial" weight="9690" />
+      <edge id="40" source="#coupon" target="#Sears" weight="3230" />
+      <edge id="41" source="#coupon" target="#Macys" weight="12920" />
+      <edge id="42" source="#coupon" target="#flights" weight="3230" />
+      <edge id="43" source="#coupon" target="#DSW" weight="3230" />
+      <edge id="44" source="#coupon" target="#Target" weight="6460" />
+      <edge id="45" source="#coupon" target="#BetseyJohnson" weight="6460" />
+      <edge id="46" source="#coupon" target="#Gap" weight="6460" />
+      <edge id="47" source="#coupon" target="#pizza" weight="12920" />
+      <edge id="48" source="#coupon" target="#NARS" weight="3230" />
+      <edge id="49" source="#coupon" target="#deals" weight="3230" />
+      <edge id="50" source="#coupon" target="#PapaJohns" weight="16150" />
+      <edge id="51" source="#coupon" target="#Amazon" weight="3230" />
+      <edge id="52" source="#coupon" target="#philosophy" weight="3230" />
+      <edge id="53" source="#coupon" target="#coffee" weight="3230" />
+      <edge id="54" source="#coupon" target="#Restaurant" weight="9690" />
+      <edge id="55" source="#coupon" target="#Ulta" weight="9690" />
+      <edge id="56" source="#coupon" target="#save" weight="3230" />
+      <edge id="57" source="#coupon" target="#candle" weight="3230" />
+      <edge id="58" source="#coupon" target="#Horchow" weight="3230" />
+      <edge id="59" source="#coupon" target="#WestElm" weight="3230" />
+      <edge id="60" source="#coupon" target="#EinsteinBros" weight="3230" />
+      <edge id="61" source="#coupon" target="#BuildABear" weight="6460" />
+      <edge id="62" source="#coupon" target="#NationalCoffeeDay" weight="3230" />
+      <edge id="63" source="#coupon" target="#LaneBryant" weight="3230" />
+      <edge id="64" source="#coupon" target="#JCPenney" weight="3230" />
+      <edge id="65" source="#coupon" target="#Payless" weight="3230" />
+      <edge id="66" source="#coupon" target="#Teavana" weight="3230" />
+      <edge id="67" source="#coupon" target="#Pier1" weight="3230" />
+      <edge id="68" source="#coupon" target="#Keurig" weight="3230" />
+      <edge id="69" source="#coupon" target="#Kohls" weight="16150" />
+      <edge id="70" source="#coupon" target="#LandsEnd" weight="3230" />
+      <edge id="71" source="#coupon" target="#BarnesNoble" weight="3230" />
+      <edge id="72" source="#coupon" target="#Frontier" weight="3230" />
+      <edge id="73" source="#coupon" target="#CVS" weight="6460" />
+      <edge id="74" source="#coupon" target="#EddieBauer" weight="3230" />
+      <edge id="75" source="#coupon" target="#OldNavy" weight="3230" />
+      <edge id="76" source="#coupon" target="#tea" weight="3230" />
+      <edge id="77" source="#coupon" target="#Groupon" weight="22610" />
+      <edge id="78" source="#coupon" target="#dinner" weight="3230" />
+      <edge id="79" source="#coupon" target="#PotteryBarn" weight="9690" />
+      <edge id="80" source="#Thanksgiving" target="#RachaelRay" weight="3230" />
+      <edge id="81" source="#Thanksgiving" target="#Walmart" weight="6460" />
+      <edge id="82" source="#Thanksgiving" target="#Food" weight="3230" />
+      <edge id="83" source="#Thanksgiving" target="#BestBuy" weight="3230" />
+      <edge id="84" source="#Thanksgiving" target="#Storage" weight="3230" />
+      <edge id="85" source="#jewelry" target="#JCPenney" weight="3230" />
+      <edge id="86" source="#jewelry" target="#furniture" weight="3230" />
+      <edge id="87" source="#jewelry" target="#Shop" weight="3230" />
+      <edge id="88" source="#jewelry" target="#shoes" weight="6460" />
+      <edge id="89" source="#jewelry" target="#Overstock" weight="3230" />
+      <edge id="90" source="#jewelry" target="#KateSpade" weight="3230" />
+      <edge id="91" source="#jewelry" target="#handbags" weight="9690" />
+      <edge id="92" source="#jewelry" target="#save" weight="3230" />
+      <edge id="93" source="#jewelry" target="#decor" weight="3230" />
+      <edge id="94" source="#jewelry" target="#ToryBurch" weight="3230" />
+      <edge id="95" source="#globalhunger" target="#ValentinesDay" weight="3230" />
+      <edge id="96" source="#filghts" target="#Southwest" weight="3230" />
+      <edge id="97" source="#Lowes" target="#FREE" weight="3230" />
+      <edge id="98" source="#Lowes" target="#Tote" weight="3230" />
+      <edge id="99" source="#Lowes" target="#LaborDay" weight="3230" />
+      <edge id="100" source="#Lowes" target="#Hefty" weight="3230" />
+      <edge id="101" source="#BeyondTheRack" target="#Coffee" weight="3230" />
+      <edge id="102" source="#BeyondTheRack" target="#Keurig" weight="6460" />
+      <edge id="103" source="#BeyondTheRack" target="#Spanx" weight="3230" />
+      <edge id="104" source="#BeyondTheRack" target="#UGGs" weight="3230" />
+      <edge id="105" source="#BeyondTheRack" target="#KCups" weight="12920" />
+      <edge id="106" source="#Cheryls" target="#Halloween" weight="3230" />
+      <edge id="107" source="#Eastbay" target="#Nike" weight="3230" />
+      <edge id="108" source="#Bloomingdales" target="#designer" weight="3230" />
+      <edge id="109" source="#Bloomingdales" target="#MichaelKors" weight="3230" />
+      <edge id="110" source="#valentine" target="#flowers" weight="3230" />
+      <edge id="111" source="#save" target="#Shop" weight="3230" />
+      <edge id="112" source="#save" target="#shoes" weight="3230" />
+      <edge id="113" source="#save" target="#Kmart" weight="3230" />
+      <edge id="114" source="#save" target="#Halloween" weight="3230" />
+      <edge id="115" source="#save" target="#coffee" weight="3230" />
+      <edge id="116" source="#save" target="#Macys" weight="3230" />
+      <edge id="117" source="#save" target="#BestBuy" weight="3230" />
+      <edge id="118" source="#save" target="#handbags" weight="3230" />
+      <edge id="119" source="#save" target="#Carters" weight="3230" />
+      <edge id="120" source="#save" target="#KateSpade" weight="3230" />
+      <edge id="121" source="#phone" target="#iPhone" weight="3230" />
+      <edge id="122" source="#JCPenney" target="#shoes" weight="3230" />
+      <edge id="123" source="#JCPenney" target="#eBay" weight="3230" />
+      <edge id="124" source="#JCPenney" target="#NutriBullet" weight="3230" />
+      <edge id="125" source="#JCPenney" target="#handbags" weight="3230" />
+      <edge id="126" source="#NewBalance" target="#6PM" weight="3230" />
+      <edge id="127" source="#LIDS" target="#NCAA" weight="3230" />
+      <edge id="128" source="#Skinnygirl" target="#Groupon" weight="3230" />
+      <edge id="129" source="#Sunday" target="#Coffee" weight="3230" />
+      <edge id="130" source="#Sunday" target="#K" weight="3230" />
+      <edge id="131" source="#Sunday" target="#Waffle" weight="3230" />
+      <edge id="132" source="#Bluefly" target="#designer" weight="9690" />
+      <edge id="133" source="#Bluefly" target="#deals" weight="6460" />
+      <edge id="134" source="#Pizza" target="#PapaJohns" weight="3230" />
+      <edge id="135" source="#REI" target="#NorthFace" weight="3230" />
+      <edge id="136" source="#6pm" target="#Designer" weight="3230" />
+      <edge id="137" source="#6pm" target="#shoes" weight="3230" />
+      <edge id="138" source="#6pm" target="#MichaelKors" weight="3230" />
+      <edge id="139" source="#FootLocker" target="#backpack" weight="3230" />
+      <edge id="140" source="#FootLocker" target="#Nike" weight="3230" />
+      <edge id="141" source="#PUMA" target="#sale" weight="3230" />
+      <edge id="142" source="#PUMA" target="#Zulily" weight="3230" />
+      <edge id="143" source="#BlackFriday" target="#Forever21" weight="3230" />
+      <edge id="144" source="#BlackFriday" target="#Amazon" weight="3230" />
+      <edge id="145" source="#BlackFriday" target="#HomeDepot" weight="3230" />
+      <edge id="146" source="#BlackFriday" target="#Walmart" weight="3230" />
+      <edge id="147" source="#BlackFriday" target="#Kohls" weight="9690" />
+      <edge id="148" source="#BlackFriday" target="#BestBuy" weight="9690" />
+      <edge id="149" source="#BlackFriday" target="#Ulta" weight="3230" />
+      <edge id="150" source="#BlackFriday" target="#Target" weight="6460" />
+      <edge id="151" source="#BlackFriday" target="#deals" weight="3230" />
+      <edge id="152" source="#BlackFriday" target="#sales" weight="3230" />
+      <edge id="153" source="#bareMinerals" target="#Ulta" weight="3230" />
+      <edge id="154" source="#DisneyStore" target="#disney" weight="3230" />
+      <edge id="155" source="#DisneyStore" target="#freeshipping" weight="3230" />
+      <edge id="156" source="#DisneyStore" target="#Halloween" weight="3230" />
+      <edge id="157" source="#coffee" target="#NationalCoffeeDay" weight="6460" />
+      <edge id="158" source="#coffee" target="#Keurig" weight="6460" />
+      <edge id="159" source="#coffee" target="#Free" weight="3230" />
+      <edge id="160" source="#coffee" target="#NewYear" weight="3230" />
+      <edge id="161" source="#coffee" target="#Kohls" weight="6460" />
+      <edge id="162" source="#coffee" target="#BestBuy" weight="3230" />
+      <edge id="163" source="#coffee" target="#Tanga" weight="3230" />
+      <edge id="164" source="#coffee" target="#KCups" weight="3230" />
+      <edge id="165" source="#coffee" target="#Target" weight="3230" />
+      <edge id="166" source="#coffee" target="#Starbucks" weight="6460" />
+      <edge id="167" source="#coffee" target="#recipes" weight="3230" />
+      <edge id="168" source="#coffee" target="#Groupon" weight="3230" />
+      <edge id="169" source="#coffee" target="#DunkinDonuts" weight="3230" />
+      <edge id="170" source="#coffee" target="#KCup" weight="6460" />
+      <edge id="171" source="#coffee" target="#kcups" weight="3230" />
+      <edge id="172" source="#Pillows" target="#Kohls" weight="3230" />
+      <edge id="173" source="#caffeine" target="#Starbucks" weight="3230" />
+      <edge id="174" source="#Deals" target="#MichaelKors" weight="3230" />
+      <edge id="175" source="#Deals" target="#KateSpade" weight="3230" />
+      <edge id="176" source="#Deals" target="#ToryBurch" weight="3230" />
+      <edge id="177" source="#Deals" target="#Designer" weight="3230" />
+      <edge id="178" source="#DowntonAbbey" target="#Amazon" weight="3230" />
+      <edge id="179" source="#ConsumerReports" target="#magazine" weight="3230" />
+      <edge id="180" source="#DunkinDonuts" target="#NationalCoffeeDay" weight="6460" />
+      <edge id="181" source="#6PM" target="#boots" weight="3230" />
+      <edge id="182" source="#6PM" target="#SteveMadden" weight="3230" />
+      <edge id="183" source="#6PM" target="#designer" weight="12920" />
+      <edge id="184" source="#6PM" target="#UGGs" weight="3230" />
+      <edge id="185" source="#6PM" target="#clothes" weight="3230" />
+      <edge id="186" source="#6PM" target="#Fall" weight="3230" />
+      <edge id="187" source="#6PM" target="#NorthFace" weight="3230" />
+      <edge id="188" source="#6PM" target="#Nike" weight="3230" />
+      <edge id="189" source="#6PM" target="#accessories" weight="3230" />
+      <edge id="190" source="#IHOP" target="#eBay" weight="3230" />
+      <edge id="191" source="#Blanket" target="#Macys" weight="3230" />
+      <edge id="192" source="#Blanket" target="#MarthaStewart" weight="3230" />
+      <edge id="193" source="#JaneDeals" target="#personalized" weight="3230" />
+      <edge id="194" source="#JaneDeals" target="#Easter" weight="3230" />
+      <edge id="195" source="#Oneida" target="#pizza" weight="3230" />
+      <edge id="196" source="#TOMS" target="#eBay" weight="3230" />
+      <edge id="197" source="#TOMS" target="#NordstromRack" weight="3230" />
+      <edge id="198" source="#TOMS" target="#Nordstrom" weight="3230" />
+      <edge id="199" source="#laptops" target="#BestBuy" weight="3230" />
+      <edge id="200" source="#laptops" target="#TVs" weight="3230" />
+      <edge id="201" source="#ColumbusDay" target="#DicksSportingGoods" weight="3230" />
+      <edge id="202" source="#BOGO" target="#Onlineshoes_com" weight="3230" />
+      <edge id="203" source="#TheNorthFace" target="#Nordstrom" weight="3230" />
+      <edge id="204" source="#SouthwestAirlines" target="#Travel" weight="3230" />
+      <edge id="205" source="#SouthwestAirlines" target="#flights" weight="3230" />
+      <edge id="206" source="#Nike" target="#Kohls" weight="3230" />
+      <edge id="207" source="#Nike" target="#backpack" weight="3230" />
+      <edge id="208" source="#Storage" target="#Food" weight="3230" />
+      <edge id="209" source="#BIC" target="#Target" weight="3230" />
+      <edge id="210" source="#Hanes" target="#Amazon" weight="3230" />
+      <edge id="211" source="#NordstromRack" target="#NorthFace" weight="3230" />
+      <edge id="212" source="#BurtsBees" target="#Amazon" weight="6460" />
+      <edge id="213" source="#Travelocity" target="#vacation" weight="6460" />
+      <edge id="214" source="#Travelocity" target="#getaway" weight="3230" />
+      <edge id="215" source="#RalphLauren" target="#Macys" weight="9690" />
+      <edge id="216" source="#RalphLauren" target="#Tees" weight="3230" />
+      <edge id="217" source="#Boscovs" target="#DooneyBourke" weight="3230" />
+      <edge id="218" source="#Monday" target="#AnnTaylor" weight="3230" />
+      <edge id="219" source="#KateSpade" target="#Shop" weight="3230" />
+      <edge id="220" source="#KateSpade" target="#shoes" weight="3230" />
+      <edge id="221" source="#KateSpade" target="#MichaelKors" weight="3230" />
+      <edge id="222" source="#KateSpade" target="#Designer" weight="6460" />
+      <edge id="223" source="#KateSpade" target="#CyberMonday" weight="3230" />
+      <edge id="224" source="#KateSpade" target="#handbags" weight="3230" />
+      <edge id="225" source="#KateSpade" target="#HauteLook" weight="3230" />
+      <edge id="226" source="#KateSpade" target="#LordTaylor" weight="3230" />
+      <edge id="227" source="#KateSpade" target="#ToryBurch" weight="3230" />
+      <edge id="228" source="#Arbys" target="#FREE" weight="3230" />
+      <edge id="229" source="#HomeDecoratorsCollection" target="#MarthaStewart" weight="3230" />
+      <edge id="230" source="#Kmart" target="#Halloween" weight="3230" />
+      <edge id="231" source="#Kmart" target="#Labor" weight="3230" />
+      <edge id="232" source="#BarnesNoble" target="#books" weight="3230" />
+      <edge id="233" source="#Clinique" target="#Macys" weight="3230" />
+      <edge id="234" source="#Clinique" target="#Tarte" weight="3230" />
+      <edge id="235" source="#pizzas" target="#Dominos" weight="3230" />
+      <edge id="236" source="#skincare" target="#lancome" weight="3230" />
+      <edge id="237" source="#skincare" target="#makeup" weight="3230" />
+      <edge id="238" source="#LeapDay" target="#AmericanEagle" weight="3230" />
+      <edge id="239" source="#recipes" target="#Free" weight="3230" />
+      <edge id="240" source="#cheeseburgers" target="#SonicDriveIn" weight="3230" />
+      <edge id="241" source="#Kohls" target="#shop" weight="3230" />
+      <edge id="242" source="#Kohls" target="#sale" weight="3230" />
+      <edge id="243" source="#Kohls" target="#Boots" weight="3230" />
+      <edge id="244" source="#Kohls" target="#Halloween" weight="3230" />
+      <edge id="245" source="#Kohls" target="#NutriBullet" weight="6460" />
+      <edge id="246" source="#Kohls" target="#CyberMonday" weight="3230" />
+      <edge id="247" source="#Kohls" target="#Keurig" weight="3230" />
+      <edge id="248" source="#Kohls" target="#shoes" weight="3230" />
+      <edge id="249" source="#Kohls" target="#deals" weight="3230" />
+      <edge id="250" source="#Nordstrom" target="#AnneKlein" weight="3230" />
+      <edge id="251" source="#Nordstrom" target="#Necklace" weight="3230" />
+      <edge id="252" source="#Nordstrom" target="#AnniversarySale" weight="3230" />
+      <edge id="253" source="#Nordstrom" target="#UGGs" weight="3230" />
+      <edge id="254" source="#Nordstrom" target="#COACH" weight="3230" />
+      <edge id="255" source="#Shop" target="#shoes" weight="3230" />
+      <edge id="256" source="#Shop" target="#handbags" weight="3230" />
+      <edge id="257" source="#Shop" target="#PotteryBarn" weight="3230" />
+      <edge id="258" source="#aeo" target="#flipflops" weight="3230" />
+      <edge id="259" source="#PresidentsDay" target="#Forever21" weight="3230" />
+      <edge id="260" source="#VirginAmerica" target="#flights" weight="3230" />
+      <edge id="261" source="#CHI" target="#Ulta" weight="6460" />
+      <edge id="262" source="#future" target="#FreedomIsntFree" weight="3230" />
+      <edge id="263" source="#KCup" target="#Walmart" weight="3230" />
+      <edge id="264" source="#KCup" target="#Amazon" weight="3230" />
+      <edge id="265" source="#KCup" target="#Staples" weight="3230" />
+      <edge id="266" source="#KCup" target="#Coffee" weight="6460" />
+      <edge id="267" source="#KCup" target="#BestBuy" weight="3230" />
+      <edge id="268" source="#KCup" target="#Keurig" weight="3230" />
+      <edge id="269" source="#KCup" target="#Target" weight="6460" />
+      <edge id="270" source="#KCup" target="#Starbucks" weight="3230" />
+      <edge id="271" source="#KCup" target="#pumpkin" weight="3230" />
+      <edge id="272" source="#VitaminWater" target="#Amazon" weight="3230" />
+      <edge id="273" source="#gold" target="#Necklace" weight="3230" />
+      <edge id="274" source="#SpiritHalloween" target="#Halloween" weight="3230" />
+      <edge id="275" source="#Vacation" target="#Flights" weight="3230" />
+      <edge id="276" source="#Vacation" target="#JetBlue" weight="3230" />
+      <edge id="277" source="#beauty" target="#Groupon" weight="3230" />
+      <edge id="278" source="#Sbarro" target="#pizza" weight="3230" />
+      <edge id="279" source="#Sbarro" target="#freebie" weight="3230" />
+      <edge id="280" source="#BestBuy" target="#RachaelRay" weight="3230" />
+      <edge id="281" source="#BestBuy" target="#Cuisinart" weight="3230" />
+      <edge id="282" source="#BestBuy" target="#WaterBottles" weight="3230" />
+      <edge id="283" source="#BestBuy" target="#GreenMonday" weight="3230" />
+      <edge id="284" source="#BestBuy" target="#halloween" weight="3230" />
+      <edge id="285" source="#BestBuy" target="#Keurig" weight="3230" />
+      <edge id="286" source="#BestBuy" target="#StarWars" weight="3230" />
+      <edge id="287" source="#BestBuy" target="#KCups" weight="3230" />
+      <edge id="288" source="#BestBuy" target="#DVD" weight="3230" />
+      <edge id="289" source="#BestBuy" target="#TVs" weight="3230" />
+      <edge id="290" source="#BestBuy" target="#Friends" weight="3230" />
+      <edge id="291" source="#BestBuy" target="#Apple" weight="6460" />
+      <edge id="292" source="#Chi" target="#Groupon" weight="6460" />
+      <edge id="293" source="#CoverGirl" target="#Target" weight="3230" />
+      <edge id="294" source="#RussellStover" target="#ValentinesDay" weight="3230" />
+      <edge id="295" source="#doorbusters" target="#Groupon" weight="3230" />
+      <edge id="296" source="#doorbusters" target="#CyberMonday" weight="3230" />
+      <edge id="297" source="#Essie" target="#OPI" weight="3230" />
+      <edge id="298" source="#MarthaStewart" target="#Macys" weight="12920" />
+      <edge id="299" source="#Photo" target="#Walgreens" weight="3230" />
+      <edge id="300" source="#vitamins" target="#groceries" weight="3230" />
+      <edge id="301" source="#vitamins" target="#cosmetics" weight="3230" />
+      <edge id="302" source="#vitamins" target="#CVS" weight="3230" />
+      <edge id="303" source="#free" target="#LOFT" weight="3230" />
+      <edge id="304" source="#Restaurant" target="#dinner" weight="3230" />
+      <edge id="305" source="#MacBooks" target="#Groupon" weight="3230" />
+      <edge id="306" source="#MacBooks" target="#Apple" weight="3230" />
+      <edge id="307" source="#FisherPrice" target="#Target" weight="3230" />
+      <edge id="308" source="#cashback" target="#LaneBryant" weight="3230" />
+      <edge id="309" source="#CVS" target="#cosmetics" weight="3230" />
+      <edge id="310" source="#CVS" target="#eBay" weight="3230" />
+      <edge id="311" source="#CVS" target="#groceries" weight="3230" />
+      <edge id="312" source="#CVS" target="#Save" weight="3230" />
+      <edge id="313" source="#Sephora" target="#nailpolish" weight="3230" />
+      <edge id="314" source="#BonTon" target="#Starbucks" weight="3230" />
+      <edge id="315" source="#BonTon" target="#Cuisinart" weight="3230" />
+      <edge id="316" source="#BonTon" target="#freeshipping" weight="3230" />
+      <edge id="317" source="#BonTon" target="#KCups" weight="6460" />
+      <edge id="318" source="#SpiderMan" target="#eBay" weight="3230" />
+      <edge id="319" source="#BaskinRobbins" target="#sundaes" weight="3230" />
+      <edge id="320" source="#BaskinRobbins" target="#icecream" weight="3230" />
+      <edge id="321" source="#MothersDay" target="#ProFlowers" weight="3230" />
+      <edge id="322" source="#Stila" target="#Macys" weight="3230" />
+      <edge id="323" source="#CashBack" target="#Amazon" weight="3230" />
+      <edge id="324" source="#LinensThings" target="#RachaelRay" weight="3230" />
+      <edge id="325" source="#BackToSchool" target="#Disney" weight="3230" />
+      <edge id="326" source="#BackToSchool" target="#ChildrensPlace" weight="3230" />
+      <edge id="327" source="#BackToSchool" target="#Staples" weight="3230" />
+      <edge id="328" source="#Dominos" target="#pizza" weight="3230" />
+      <edge id="329" source="#Cosmetics" target="#FreeShipping" weight="3230" />
+      <edge id="330" source="#Cosmetics" target="#ElfCosmetics" weight="3230" />
+      <edge id="331" source="#Flights" target="#vacation" weight="6460" />
+      <edge id="332" source="#Flights" target="#JetBlue" weight="9690" />
+      <edge id="333" source="#Flights" target="#Southwest" weight="6460" />
+      <edge id="334" source="#magazine" target="#Oprah" weight="3230" />
+      <edge id="335" source="#magazine" target="#Redbook" weight="3230" />
+      <edge id="336" source="#Roxy" target="#Macys" weight="3230" />
+      <edge id="337" source="#Flight" target="#vacation" weight="3230" />
+      <edge id="338" source="#Flight" target="#JetBlue" weight="3230" />
+      <edge id="339" source="#Overstock" target="#furniture" weight="3230" />
+      <edge id="340" source="#Overstock" target="#decor" weight="3230" />
+      <edge id="341" source="#Overstock" target="#organized" weight="3230" />
+      <edge id="342" source="#Frozen" target="#Olaf" weight="3230" />
+      <edge id="343" source="#Frozen" target="#ChildrensPlace" weight="3230" />
+      <edge id="344" source="#Save" target="#cosmetics" weight="3230" />
+      <edge id="345" source="#Save" target="#Walgreens" weight="3230" />
+      <edge id="346" source="#PINK" target="#VS" weight="3230" />
+      <edge id="347" source="#PINK" target="#VictoriasSecret" weight="3230" />
+      <edge id="348" source="#Groupon" target="#VDay" weight="3230" />
+      <edge id="349" source="#Groupon" target="#flowers" weight="3230" />
+      <edge id="350" source="#Groupon" target="#SamsClub" weight="3230" />
+      <edge id="351" source="#Groupon" target="#CyberMonday" weight="3230" />
+      <edge id="352" source="#Groupon" target="#ProFlowers" weight="3230" />
+      <edge id="353" source="#Groupon" target="#FIFA16" weight="3230" />
+      <edge id="354" source="#Groupon" target="#Starbucks" weight="6460" />
+      <edge id="355" source="#Groupon" target="#electronics" weight="3230" />
+      <edge id="356" source="#Groupon" target="#Groupon" weight="6460" />
+      <edge id="357" source="#Groupon" target="#deals" weight="3230" />
+      <edge id="358" source="#Groupon" target="#Apple" weight="6460" />
+      <edge id="359" source="#Parkinsons" target="#ValentinesDay" weight="3230" />
+      <edge id="360" source="#vacation" target="#Southwest" weight="3230" />
+      <edge id="361" source="#vacation" target="#flights" weight="12920" />
+      <edge id="362" source="#vacation" target="#Macys" weight="3230" />
+      <edge id="363" source="#vacation" target="#JetBlue" weight="16150" />
+      <edge id="364" source="#vacation" target="#getaway" weight="3230" />
+      <edge id="365" source="#boots" target="#designer" weight="3230" />
+      <edge id="366" source="#boots" target="#clothes" weight="3230" />
+      <edge id="367" source="#boots" target="#accessories" weight="3230" />
+      <edge id="368" source="#Hefty" target="#FREE" weight="3230" />
+      <edge id="369" source="#Hefty" target="#Tote" weight="3230" />
+      <edge id="370" source="#TheBodyShopUSA" target="#scents" weight="3230" />
+      <edge id="371" source="#BuildABear" target="#StarWars" weight="3230" />
+      <edge id="372" source="#cooking" target="#Spice" weight="3230" />
+      <edge id="373" source="#cooking" target="#Staples" weight="3230" />
+      <edge id="374" source="#furniture" target="#shop" weight="3230" />
+      <edge id="375" source="#furniture" target="#decor" weight="3230" />
+      <edge id="376" source="#Ulta" target="#cosmetics" weight="6460" />
+      <edge id="377" source="#Ulta" target="#lipgloss" weight="3230" />
+      <edge id="378" source="#Ulta" target="#shampoo" weight="3230" />
+      <edge id="379" source="#Ulta" target="#OPI" weight="3230" />
+      <edge id="380" source="#Ulta" target="#conditioner" weight="3230" />
+      <edge id="381" source="#Ulta" target="#mascara" weight="3230" />
+      <edge id="382" source="#Clearance" target="#Walmart" weight="3230" />
+      <edge id="383" source="#Clearance" target="#Target" weight="3230" />
+      <edge id="384" source="#clothes" target="#designer" weight="3230" />
+      <edge id="385" source="#clothes" target="#accessories" weight="3230" />
+      <edge id="386" source="#Adele" target="#iTunes" weight="3230" />
+      <edge id="387" source="#FinishLine" target="#NCAA" weight="6460" />
+      <edge id="388" source="#Saks" target="#designer" weight="3230" />
+      <edge id="389" source="#Saks" target="#COACH" weight="3230" />
+      <edge id="390" source="#OmahaSteaks" target="#LaborDay" weight="3230" />
+      <edge id="391" source="#NorthFace" target="#Moosejaw" weight="3230" />
+      <edge id="392" source="#NorthFace" target="#Macys" weight="3230" />
+      <edge id="393" source="#NorthFace" target="#HauteLook" weight="3230" />
+      <edge id="394" source="#NorthFace" target="#SportsAuthority" weight="3230" />
+      <edge id="395" source="#OPI" target="#Amazon" weight="3230" />
+      <edge id="396" source="#Xbox" target="#Target" weight="3230" />
+      <edge id="397" source="#UGG" target="#LaborDay" weight="3230" />
+      <edge id="398" source="#electronics" target="#Walmart" weight="3230" />
+      <edge id="399" source="#electronics" target="#Amazon" weight="3230" />
+      <edge id="400" source="#electronics" target="#Macys" weight="3230" />
+      <edge id="401" source="#electronics" target="#apparel" weight="3230" />
+      <edge id="402" source="#groceries" target="#cosmetics" weight="3230" />
+      <edge id="403" source="#KCups" target="#Amazon" weight="6460" />
+      <edge id="404" source="#KCups" target="#Keurig" weight="12920" />
+      <edge id="405" source="#KCups" target="#Coffee" weight="3230" />
+      <edge id="406" source="#KCups" target="#Starbucks" weight="6460" />
+      <edge id="407" source="#KCups" target="#PrimeDay" weight="3230" />
+      <edge id="408" source="#CalvinKlein" target="#Vince" weight="3230" />
+      <edge id="409" source="#CalvinKlein" target="#ShopBop" weight="3230" />
+      <edge id="410" source="#Teavana" target="#tea" weight="3230" />
+      <edge id="411" source="#ChildrensPlace" target="#LaborDay" weight="3230" />
+      <edge id="412" source="#eBay" target="#Applebees" weight="3230" />
+      <edge id="413" source="#eBay" target="#NFL" weight="3230" />
+      <edge id="414" source="#eBay" target="#LaborDay" weight="3230" />
+      <edge id="415" source="#eBay" target="#StarWars" weight="3230" />
+      <edge id="416" source="#eBay" target="#iTunes" weight="6460" />
+      <edge id="417" source="#candles" target="#YankeeCandle" weight="9690" />
+      <edge id="418" source="#Walgreens" target="#cosmetics" weight="3230" />
+      <edge id="419" source="#Apple" target="#Amazon" weight="3230" />
+      <edge id="420" source="#Apple" target="#iPhone" weight="3230" />
+      <edge id="421" source="#Apple" target="#Deal" weight="3230" />
+      <edge id="422" source="#AnneKlein" target="#Amazon" weight="3230" />
+      <edge id="423" source="#shampoo" target="#conditioner" weight="3230" />
+      <edge id="424" source="#Keurig" target="#Coffee" weight="3230" />
+      <edge id="425" source="#Keurig" target="#NationalCoffeeDay" weight="3230" />
+      <edge id="426" source="#GeorgeForeman" target="#Target" weight="3230" />
+      <edge id="427" source="#StarWars" target="#Tervis" weight="3230" />
+      <edge id="428" source="#JetBlue" target="#flights" weight="19380" />
+      <edge id="429" source="#JetBlue" target="#flight" weight="3230" />
+      <edge id="430" source="#KateHudson" target="#Fabletics" weight="3230" />
+      <edge id="431" source="#ShopBop" target="#designers" weight="3230" />
+      <edge id="432" source="#ShopBop" target="#Vince" weight="3230" />
+      <edge id="433" source="#icecream" target="#sundaes" weight="3230" />
+      <edge id="434" source="#RebeccaMinkoff" target="#Designer" weight="3230" />
+      <edge id="435" source="#Macys" target="#Lacoste" weight="3230" />
+      <edge id="436" source="#Macys" target="#handbag" weight="3230" />
+      <edge id="437" source="#Macys" target="#designer" weight="3230" />
+      <edge id="438" source="#Macys" target="#Carters" weight="3230" />
+      <edge id="439" source="#Macys" target="#MichaelKors" weight="9690" />
+      <edge id="440" source="#Macys" target="#TommyHilfiger" weight="3230" />
+      <edge id="441" source="#Macys" target="#PresidentsSale" weight="3230" />
+      <edge id="442" source="#ElfCosmetics" target="#FreeShipping" weight="3230" />
+      <edge id="443" source="#KrispyKreme" target="#NationalCoffeeDay" weight="3230" />
+      <edge id="444" source="#glasses" target="#FREE" weight="3230" />
+      <edge id="445" source="#glasses" target="#Walmart" weight="3230" />
+      <edge id="446" source="#deals" target="#designer" weight="6460" />
+      <edge id="447" source="#deals" target="#LaneBryant" weight="3230" />
+      <edge id="448" source="#accessories" target="#designer" weight="3230" />
+      <edge id="449" source="#ValentinesDay" target="#Walmart" weight="3230" />
+      <edge id="450" source="#ValentinesDay" target="#Amazon" weight="3230" />
+      <edge id="451" source="#ValentinesDay" target="#CakeBoss" weight="3230" />
+      <edge id="452" source="#PotteryBarn" target="#LaborDay" weight="3230" />
+      <edge id="453" source="#mascara" target="#lipgloss" weight="3230" />
+      <edge id="454" source="#K" target="#Coffee" weight="3230" />
+      <edge id="455" source="#Panera" target="#FREE" weight="3230" />
+      <edge id="456" source="#shoes" target="#Amazon" weight="3230" />
+      <edge id="457" source="#shoes" target="#handbags" weight="6460" />
+      <edge id="458" source="#shoes" target="#Crocs" weight="3230" />
+      <edge id="459" source="#Game" target="#Zulily" weight="3230" />
+      <edge id="460" source="#Game" target="#summer" weight="3230" />
+      <edge id="461" source="#PotteryBarnKids" target="#Halloween" weight="6460" />
+      <edge id="462" source="#sale" target="#EddieBauer" weight="3230" />
+      <edge id="463" source="#handbag" target="#designer" weight="3230" />
+      <edge id="464" source="#NFL" target="#MLB" weight="3230" />
+      <edge id="465" source="#NFL" target="#Fanatics" weight="3230" />
+      <edge id="466" source="#Tote" target="#FREE" weight="3230" />
+      <edge id="467" source="#PrimeDay" target="#Amazon" weight="3230" />
+      <edge id="468" source="#balloons" target="#birthday" weight="3230" />
+      <edge id="469" source="#SamsClub" target="#FREE" weight="3230" />
+      <edge id="470" source="#LaborDay" target="#YankeeCandle" weight="3230" />
+      <edge id="471" source="#LaborDay" target="#Sale" weight="3230" />
+      <edge id="472" source="#Coffee" target="#Staples" weight="3230" />
+      <edge id="473" source="#Coffee" target="#Free" weight="3230" />
+      <edge id="474" source="#Coffee" target="#Target" weight="3230" />
+      <edge id="475" source="#lancome" target="#makeup" weight="3230" />
+      <edge id="476" source="#pizza" target="#PapaJohns" weight="19380" />
+      <edge id="477" source="#pizza" target="#coupons" weight="3230" />
+      <edge id="478" source="#pizza" target="#PizzaHut" weight="3230" />
+      <edge id="479" source="#pizza" target="#freebie" weight="3230" />
+      <edge id="480" source="#Free" target="#Cinnabon" weight="3230" />
+      <edge id="481" source="#Deal" target="#iPhone" weight="6460" />
+      <edge id="482" source="#Deal" target="#Amazon" weight="3230" />
+      <edge id="483" source="#Disney" target="#jackets" weight="3230" />
+      <edge id="484" source="#apparel" target="#Amazon" weight="3230" />
+      <edge id="485" source="#cash" target="#giftcards" weight="3230" />
+      <edge id="486" source="#flights" target="#Southwest" weight="25840" />
+      <edge id="487" source="#flights" target="#Frontier" weight="3230" />
+      <edge id="488" source="#Fan" target="#Walmart" weight="3230" />
+      <edge id="489" source="#Target" target="#Pampers" weight="3230" />
+      <edge id="490" source="#Target" target="#Halloween" weight="3230" />
+      <edge id="491" source="#Target" target="#costumes" weight="3230" />
+      <edge id="492" source="#Target" target="#LOreal" weight="3230" />
+      <edge id="493" source="#BetseyJohnson" target="#Designer" weight="3230" />
+      <edge id="494" source="#Blender" target="#Walmart" weight="3230" />
+      <edge id="495" source="#ebay" target="#iTunes" weight="3230" />
+      <edge id="496" source="#pumpkin" target="#Amazon" weight="3230" />
+      <edge id="497" source="#ProFlowers" target="#flowers" weight="3230" />
+      <edge id="498" source="#FREE" target="#Applebees" weight="3230" />
+      <edge id="499" source="#FREE" target="#Walmart" weight="3230" />
+      <edge id="500" source="#FREE" target="#bathandbodyworks" weight="3230" />
+      <edge id="501" source="#FREE" target="#Subway" weight="3230" />
+      <edge id="502" source="#Ashford" target="#COACH" weight="3230" />
+      <edge id="503" source="#ToryBurch" target="#Zulily" weight="3230" />
+      <edge id="504" source="#ToryBurch" target="#MichaelKors" weight="3230" />
+      <edge id="505" source="#ToryBurch" target="#Designer" weight="3230" />
+      <edge id="506" source="#ToryBurch" target="#handbags" weight="3230" />
+      <edge id="507" source="#Staples" target="#Spice" weight="3230" />
+      <edge id="508" source="#UGGs" target="#RueLaLa" weight="3230" />
+      <edge id="509" source="#MichaelKors" target="#Designer" weight="9690" />
+      <edge id="510" source="#Walmart" target="#GreenMonday" weight="3230" />
+      <edge id="511" source="#Walmart" target="#Halloween" weight="3230" />
+      <edge id="512" source="#DairyQueen" target="#FreeConeDay" weight="3230" />
+      <edge id="513" source="#Starbucks" target="#morning" weight="3230" />
+      <edge id="514" source="#WilliamsSonoma" target="#Halloween" weight="3230" />
+      <edge id="515" source="#MondayMotivation" target="#PapaJohns" weight="3230" />
+      <edge id="516" source="#personalized" target="#Easter" weight="3230" />
+      <edge id="517" source="#Columbia" target="#SportsAuthority" weight="3230" />
+      <edge id="518" source="#Halloween" target="#Amazon" weight="3230" />
+      <edge id="519" source="#RachaelRay" target="#Zulily" weight="6460" />
+      <edge id="520" source="#Amazon" target="#books" weight="3230" />
+      <edge id="521" source="#Amazon" target="#LillyPulitzer" weight="3230" />
+      <edge id="522" source="#Amazon" target="#Cottonelle" weight="3230" />
+      <edge id="523" source="#Amazon" target="#Kraft" weight="3230" />
+      <edge id="524" source="#Amazon" target="#iPhone" weight="3230" />
+      <edge id="525" source="#flight" target="#Southwest" weight="6460" />
+      <edge id="526" source="#deal" target="#UnderArmour" weight="3230" />
+      <edge id="527" source="#Carter" target="#Kids" weight="3230" />
+      <edge id="528" source="#Zulily" target="#summer" weight="3230" />
+      <edge id="529" source="#YankeeCandle" target="#candle" weight="3230" />
+      <edge id="530" source="#Fanatics" target="#MLB" weight="3230" />
+    </edges>
+  </graph>
+</gexf>

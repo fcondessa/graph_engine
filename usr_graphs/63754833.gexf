@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#hungover" label="#hungover" />
+      <node id="#AnswerToNoOne" label="#AnswerToNoOne" />
+      <node id="#jointhebattle" label="#jointhebattle" />
+      <node id="#highergravity" label="#highergravity" />
+      <node id="#nickmcisnotwhack" label="#nickmcisnotwhack" />
+      <node id="#Booooooooooone" label="#Booooooooooone" />
+      <node id="#nickmciswack" label="#nickmciswack" />
+      <node id="#beer" label="#beer" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#GOPdebate" label="#GOPdebate" />
+      <node id="#notgoodenough" label="#notgoodenough" />
+      <node id="#ipa" label="#ipa" />
+      <node id="#TheFans" label="#TheFans" />
+      <node id="#defendnwa" label="#defendnwa" />
+      <node id="#raisetheproof" label="#raisetheproof" />
+      <node id="#NotCraftBeer" label="#NotCraftBeer" />
+      <node id="#CBJ" label="#CBJ" />
+      <node id="#NHLAllStar" label="#NHLAllStar" />
+      <node id="#WeAreThe5thLine" label="#WeAreThe5thLine" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#hungover" target="#nickmciswack" weight="147" />
+      <edge id="1" source="#hungover" target="#nickmcisnotwhack" weight="147" />
+      <edge id="2" source="#AnswerToNoOne" target="#GOPdebate" weight="147" />
+      <edge id="3" source="#jointhebattle" target="#defendnwa" weight="147" />
+      <edge id="4" source="#highergravity" target="#raisetheproof" weight="147" />
+      <edge id="5" source="#nickmcisnotwhack" target="#nickmciswack" weight="147" />
+      <edge id="6" source="#Booooooooooone" target="#CBJ" weight="147" />
+      <edge id="7" source="#beer" target="#NotCraftBeer" weight="147" />
+      <edge id="8" source="#craftbeer" target="#ipa" weight="147" />
+      <edge id="9" source="#notgoodenough" target="#CBJ" weight="147" />
+      <edge id="10" source="#TheFans" target="#CBJ" weight="147" />
+      <edge id="11" source="#CBJ" target="#NHLAllStar" weight="147" />
+      <edge id="12" source="#CBJ" target="#WeAreThe5thLine" weight="147" />
+    </edges>
+  </graph>
+</gexf>

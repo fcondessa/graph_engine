@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#shoplocal" label="#shoplocal" />
+      <node id="#lotw" label="#lotw" />
+      <node id="#joecockeronamericanidol" label="#joecockeronamericanidol" />
+      <node id="#shopmobile" label="#shopmobile" />
+      <node id="#galleryhop" label="#galleryhop" />
+      <node id="#pool" label="#pool" />
+      <node id="#wintertravel" label="#wintertravel" />
+      <node id="#ootd" label="#ootd" />
+      <node id="#flowers" label="#flowers" />
+      <node id="#fashion" label="#fashion" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#magic" label="#magic" />
+      <node id="#ShopLocal" label="#ShopLocal" />
+      <node id="#expcols" label="#expcols" />
+      <node id="#assseenincolumbus" label="#assseenincolumbus" />
+      <node id="#capsule" label="#capsule" />
+      <node id="#snowmaggedon2016" label="#snowmaggedon2016" />
+      <node id="#shortnorth" label="#shortnorth" />
+      <node id="#whereyoucanfindjosh" label="#whereyoucanfindjosh" />
+      <node id="#Altru" label="#Altru" />
+      <node id="#socolumbus" label="#socolumbus" />
+      <node id="#capstylemag" label="#capstylemag" />
+      <node id="#project" label="#project" />
+      <node id="#windowdesign" label="#windowdesign" />
+      <node id="#visualmerchandising" label="#visualmerchandising" />
+      <node id="#yeahiamwatchingitiknow" label="#yeahiamwatchingitiknow" />
+      <node id="#enk" label="#enk" />
+      <node id="#buylocal" label="#buylocal" />
+      <node id="#arrows" label="#arrows" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#SmallBusinessSaturday" label="#SmallBusinessSaturday" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#sxsw" target="#buylocal" weight="3195" />
+      <edge id="1" source="#Columbus" target="#capstylemag" weight="3195" />
+      <edge id="2" source="#shoplocal" target="#flowers" weight="3195" />
+      <edge id="3" source="#shoplocal" target="#expcols" weight="3195" />
+      <edge id="4" source="#shoplocal" target="#galleryhop" weight="3195" />
+      <edge id="5" source="#lotw" target="#ootd" weight="3195" />
+      <edge id="6" source="#joecockeronamericanidol" target="#yeahiamwatchingitiknow" weight="3195" />
+      <edge id="7" source="#shopmobile" target="#whereyoucanfindjosh" weight="3195" />
+      <edge id="8" source="#pool" target="#capsule" weight="3195" />
+      <edge id="9" source="#pool" target="#enk" weight="3195" />
+      <edge id="10" source="#pool" target="#project" weight="3195" />
+      <edge id="11" source="#pool" target="#magic" weight="3195" />
+      <edge id="12" source="#wintertravel" target="#snowmaggedon2016" weight="3195" />
+      <edge id="13" source="#flowers" target="#expcols" weight="3195" />
+      <edge id="14" source="#fashion" target="#columbus" weight="3195" />
+      <edge id="15" source="#magic" target="#enk" weight="3195" />
+      <edge id="16" source="#magic" target="#capsule" weight="3195" />
+      <edge id="17" source="#magic" target="#project" weight="3195" />
+      <edge id="18" source="#ShopLocal" target="#shortnorth" weight="3195" />
+      <edge id="19" source="#assseenincolumbus" target="#socolumbus" weight="3195" />
+      <edge id="20" source="#assseenincolumbus" target="#shortnorth" weight="3195" />
+      <edge id="21" source="#capsule" target="#enk" weight="3195" />
+      <edge id="22" source="#capsule" target="#project" weight="3195" />
+      <edge id="23" source="#shortnorth" target="#socolumbus" weight="3195" />
+      <edge id="24" source="#Altru" target="#arrows" weight="3195" />
+      <edge id="25" source="#project" target="#enk" weight="3195" />
+      <edge id="26" source="#windowdesign" target="#visualmerchandising" weight="3195" />
+      <edge id="27" source="#BlackFriday" target="#SmallBusinessSaturday" weight="3195" />
+    </edges>
+  </graph>
+</gexf>

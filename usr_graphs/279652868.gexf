@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#saskihi11" label="#saskihi11" />
+      <node id="#Aggies" label="#Aggies" />
+      <node id="#sec" label="#sec" />
+      <node id="#gigem" label="#gigem" />
+      <node id="#astros" label="#astros" />
+      <node id="#Big12" label="#Big12" />
+      <node id="#sot" label="#sot" />
+      <node id="#ihi" label="#ihi" />
+      <node id="#Berwick" label="#Berwick" />
+      <node id="#Baylor" label="#Baylor" />
+      <node id="#cardinals" label="#cardinals" />
+      <node id="#tamu" label="#tamu" />
+      <node id="#military" label="#military" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#saskihi11" target="#Berwick" weight="38" />
+      <edge id="1" source="#saskihi11" target="#ihi" weight="38" />
+      <edge id="2" source="#Aggies" target="#Baylor" weight="38" />
+      <edge id="3" source="#Aggies" target="#tamu" weight="38" />
+      <edge id="4" source="#Aggies" target="#gigem" weight="38" />
+      <edge id="5" source="#sec" target="#Big12" weight="38" />
+      <edge id="6" source="#sec" target="#tamu" weight="38" />
+      <edge id="7" source="#gigem" target="#Baylor" weight="38" />
+      <edge id="8" source="#gigem" target="#tamu" weight="38" />
+      <edge id="9" source="#astros" target="#cardinals" weight="38" />
+      <edge id="10" source="#Big12" target="#tamu" weight="38" />
+      <edge id="11" source="#sot" target="#military" weight="38" />
+      <edge id="12" source="#ihi" target="#Berwick" weight="38" />
+      <edge id="13" source="#Baylor" target="#tamu" weight="38" />
+    </edges>
+  </graph>
+</gexf>

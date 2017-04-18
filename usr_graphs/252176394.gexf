@@ -1,0 +1,712 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BEL" label="#BEL" />
+      <node id="#Katrina" label="#Katrina" />
+      <node id="#chorizo" label="#chorizo" />
+      <node id="#LouisianaBeer" label="#LouisianaBeer" />
+      <node id="#daydrinking" label="#daydrinking" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#birthdaynoms" label="#birthdaynoms" />
+      <node id="#WUT" label="#WUT" />
+      <node id="#figseason" label="#figseason" />
+      <node id="#Yelp" label="#Yelp" />
+      <node id="#newenglandDIPA" label="#newenglandDIPA" />
+      <node id="#craboverload" label="#craboverload" />
+      <node id="#dinerdeliciousness" label="#dinerdeliciousness" />
+      <node id="#chefjoelwhite" label="#chefjoelwhite" />
+      <node id="#beer" label="#beer" />
+      <node id="#aioli" label="#aioli" />
+      <node id="#spiegelau" label="#spiegelau" />
+      <node id="#BrewsdayTuesday" label="#BrewsdayTuesday" />
+      <node id="#blackryeisback" label="#blackryeisback" />
+      <node id="#dessert" label="#dessert" />
+      <node id="#holyrollerIPA" label="#holyrollerIPA" />
+      <node id="#alsoJustified" label="#alsoJustified" />
+      <node id="#hero" label="#hero" />
+      <node id="#OnDemand" label="#OnDemand" />
+      <node id="#caskale" label="#caskale" />
+      <node id="#BYP100NOLA" label="#BYP100NOLA" />
+      <node id="#limlucky" label="#limlucky" />
+      <node id="#nolamash" label="#nolamash" />
+      <node id="#WookeyJack" label="#WookeyJack" />
+      <node id="#bourbon" label="#bourbon" />
+      <node id="#RoyalBlueForAutismAwareness" label="#RoyalBlueForAutismAwareness" />
+      <node id="#blackrye" label="#blackrye" />
+      <node id="#TeamBlackness" label="#TeamBlackness" />
+      <node id="#CBC15" label="#CBC15" />
+      <node id="#cbc2016" label="#cbc2016" />
+      <node id="#secondlunch" label="#secondlunch" />
+      <node id="#omakase" label="#omakase" />
+      <node id="#ZombieApocalypse" label="#ZombieApocalypse" />
+      <node id="#bbc15" label="#bbc15" />
+      <node id="#bbc14" label="#bbc14" />
+      <node id="#MediaAsLepers" label="#MediaAsLepers" />
+      <node id="#beerpairing" label="#beerpairing" />
+      <node id="#Tacos" label="#Tacos" />
+      <node id="#cbc16" label="#cbc16" />
+      <node id="#beerbloggers" label="#beerbloggers" />
+      <node id="#vegetables" label="#vegetables" />
+      <node id="#WhichEmergency" label="#WhichEmergency" />
+      <node id="#woohoo" label="#woohoo" />
+      <node id="#foodie" label="#foodie" />
+      <node id="#newengland" label="#newengland" />
+      <node id="#chicagobeer" label="#chicagobeer" />
+      <node id="#latte" label="#latte" />
+      <node id="#realale" label="#realale" />
+      <node id="#PairsWell" label="#PairsWell" />
+      <node id="#yum" label="#yum" />
+      <node id="#NewCatBus" label="#NewCatBus" />
+      <node id="#oktoberfest" label="#oktoberfest" />
+      <node id="#ladieswhobrunch" label="#ladieswhobrunch" />
+      <node id="#ochrocks" label="#ochrocks" />
+      <node id="#mancrates" label="#mancrates" />
+      <node id="#drinkresponsibly" label="#drinkresponsibly" />
+      <node id="#FatTire" label="#FatTire" />
+      <node id="#alsoLost" label="#alsoLost" />
+      <node id="#deviledeggs" label="#deviledeggs" />
+      <node id="#nolastyle" label="#nolastyle" />
+      <node id="#cultureontap" label="#cultureontap" />
+      <node id="#brunchfest" label="#brunchfest" />
+      <node id="#themoreyouknow" label="#themoreyouknow" />
+      <node id="#FrenchQuarter" label="#FrenchQuarter" />
+      <node id="#heybrewtiful" label="#heybrewtiful" />
+      <node id="#burlesque" label="#burlesque" />
+      <node id="#totc2016" label="#totc2016" />
+      <node id="#cocktails" label="#cocktails" />
+      <node id="#totc2014" label="#totc2014" />
+      <node id="#recipes" label="#recipes" />
+      <node id="#catsofinstagram" label="#catsofinstagram" />
+      <node id="#GABF2014" label="#GABF2014" />
+      <node id="#latelunch" label="#latelunch" />
+      <node id="#smoked" label="#smoked" />
+      <node id="#acbw" label="#acbw" />
+      <node id="#hermes" label="#hermes" />
+      <node id="#zombieapocalypse" label="#zombieapocalypse" />
+      <node id="#MakeMeAnAngel" label="#MakeMeAnAngel" />
+      <node id="#lafolie" label="#lafolie" />
+      <node id="#severesouradvisory" label="#severesouradvisory" />
+      <node id="#bpudin" label="#bpudin" />
+      <node id="#Catbros" label="#Catbros" />
+      <node id="#BloodyMaryJudge" label="#BloodyMaryJudge" />
+      <node id="#DynamicDuos" label="#DynamicDuos" />
+      <node id="#IPAday" label="#IPAday" />
+      <node id="#omgwhatdidwejustdrink" label="#omgwhatdidwejustdrink" />
+      <node id="#Zwanze15" label="#Zwanze15" />
+      <node id="#EricGarner" label="#EricGarner" />
+      <node id="#kimjordanrocks" label="#kimjordanrocks" />
+      <node id="#Zwanze" label="#Zwanze" />
+      <node id="#brewerybuild" label="#brewerybuild" />
+      <node id="#paganism" label="#paganism" />
+      <node id="#meow" label="#meow" />
+      <node id="#brewpub" label="#brewpub" />
+      <node id="#negroni" label="#negroni" />
+      <node id="#yesplease" label="#yesplease" />
+      <node id="#GooseBlackFriday" label="#GooseBlackFriday" />
+      <node id="#CObeer" label="#CObeer" />
+      <node id="#Respect" label="#Respect" />
+      <node id="#pretty" label="#pretty" />
+      <node id="#westbankadventures" label="#westbankadventures" />
+      <node id="#Louisiana" label="#Louisiana" />
+      <node id="#drankingRussianRiver" label="#drankingRussianRiver" />
+      <node id="#blinkandyoullmissit" label="#blinkandyoullmissit" />
+      <node id="#brunchbeer" label="#brunchbeer" />
+      <node id="#MikeBrown" label="#MikeBrown" />
+      <node id="#momslastnolameal" label="#momslastnolameal" />
+      <node id="#comfortfood" label="#comfortfood" />
+      <node id="#ArtOfTheBeertail" label="#ArtOfTheBeertail" />
+      <node id="#IPAday2015" label="#IPAday2015" />
+      <node id="#LouisianaCraftBeer" label="#LouisianaCraftBeer" />
+      <node id="#OperationSaintKate" label="#OperationSaintKate" />
+      <node id="#livinglavidaUK" label="#livinglavidaUK" />
+      <node id="#whereyatnola" label="#whereyatnola" />
+      <node id="#smh" label="#smh" />
+      <node id="#ICYMI" label="#ICYMI" />
+      <node id="#andCommunity" label="#andCommunity" />
+      <node id="#neworleans" label="#neworleans" />
+      <node id="#speedblogging" label="#speedblogging" />
+      <node id="#cobf" label="#cobf" />
+      <node id="#Brazil" label="#Brazil" />
+      <node id="#stripclubgate" label="#stripclubgate" />
+      <node id="#ACBW" label="#ACBW" />
+      <node id="#birthdaycake" label="#birthdaycake" />
+      <node id="#livebeerblogging" label="#livebeerblogging" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#birthdaydinner" label="#birthdaydinner" />
+      <node id="#goodnight" label="#goodnight" />
+      <node id="#lacraftbeer" label="#lacraftbeer" />
+      <node id="#ABlackShow" label="#ABlackShow" />
+      <node id="#PalatePalletOrPalette" label="#PalatePalletOrPalette" />
+      <node id="#goodtimes" label="#goodtimes" />
+      <node id="#greenerbeer" label="#greenerbeer" />
+      <node id="#beerdinner" label="#beerdinner" />
+      <node id="#whatsyourlegacy" label="#whatsyourlegacy" />
+      <node id="#tastelouisiana" label="#tastelouisiana" />
+      <node id="#totc16" label="#totc16" />
+      <node id="#Mash" label="#Mash" />
+      <node id="#DiveBars" label="#DiveBars" />
+      <node id="#gyrokebab" label="#gyrokebab" />
+      <node id="#longhashtagislong" label="#longhashtagislong" />
+      <node id="#drinksmart" label="#drinksmart" />
+      <node id="#designateddriver" label="#designateddriver" />
+      <node id="#LorinApprovedPhoto" label="#LorinApprovedPhoto" />
+      <node id="#titrex" label="#titrex" />
+      <node id="#rainydaylunch" label="#rainydaylunch" />
+      <node id="#sammich" label="#sammich" />
+      <node id="#CBC15PDX" label="#CBC15PDX" />
+      <node id="#yaybeer" label="#yaybeer" />
+      <node id="#brunch" label="#brunch" />
+      <node id="#Opal" label="#Opal" />
+      <node id="#itsnoonsomewhere" label="#itsnoonsomewhere" />
+      <node id="#DoubleDBA" label="#DoubleDBA" />
+      <node id="#poboy" label="#poboy" />
+      <node id="#GameOfThrones" label="#GameOfThrones" />
+      <node id="#staytuned" label="#staytuned" />
+      <node id="#siblingrivalry" label="#siblingrivalry" />
+      <node id="#hereandgone" label="#hereandgone" />
+      <node id="#herewegoyo" label="#herewegoyo" />
+      <node id="#StandWithFerguson" label="#StandWithFerguson" />
+      <node id="#MadameRose" label="#MadameRose" />
+      <node id="#BourbonCountyStout" label="#BourbonCountyStout" />
+      <node id="#fuckyeah" label="#fuckyeah" />
+      <node id="#crawtater" label="#crawtater" />
+      <node id="#LaCBW" label="#LaCBW" />
+      <node id="#GER" label="#GER" />
+      <node id="#ABLACKSHOW" label="#ABLACKSHOW" />
+      <node id="#KatrinaIsNotAMetaphor" label="#KatrinaIsNotAMetaphor" />
+      <node id="#BoudinBourbonBeer" label="#BoudinBourbonBeer" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#summerdessert" label="#summerdessert" />
+      <node id="#food" label="#food" />
+      <node id="#eatingcentralcity" label="#eatingcentralcity" />
+      <node id="#necessity" label="#necessity" />
+      <node id="#lunchboxnola" label="#lunchboxnola" />
+      <node id="#daiqs" label="#daiqs" />
+      <node id="#amuse" label="#amuse" />
+      <node id="#goodbeer" label="#goodbeer" />
+      <node id="#thankyouronswanson" label="#thankyouronswanson" />
+      <node id="#NewOrleans" label="#NewOrleans" />
+      <node id="#TMFRH" label="#TMFRH" />
+      <node id="#farmlife" label="#farmlife" />
+      <node id="#CocktailWeek2014" label="#CocktailWeek2014" />
+      <node id="#M4BL" label="#M4BL" />
+      <node id="#coffeebeforebeer" label="#coffeebeforebeer" />
+      <node id="#ballin" label="#ballin" />
+      <node id="#beercamp" label="#beercamp" />
+      <node id="#baconfriends" label="#baconfriends" />
+      <node id="#kickstarter" label="#kickstarter" />
+      <node id="#curry" label="#curry" />
+      <node id="#whaaaaaat" label="#whaaaaaat" />
+      <node id="#brunchin" label="#brunchin" />
+      <node id="#edibleart" label="#edibleart" />
+      <node id="#redwattle" label="#redwattle" />
+      <node id="#PTSD" label="#PTSD" />
+      <node id="#ladieswholunch" label="#ladieswholunch" />
+      <node id="#CoolCoolCool" label="#CoolCoolCool" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#Beer" label="#Beer" />
+      <node id="#NOLAsummer" label="#NOLAsummer" />
+      <node id="#carnitas" label="#carnitas" />
+      <node id="#nomnomnom" label="#nomnomnom" />
+      <node id="#readyforanap" label="#readyforanap" />
+      <node id="#Freshness" label="#Freshness" />
+      <node id="#sofullnow" label="#sofullnow" />
+      <node id="#NOLAtoFerguson" label="#NOLAtoFerguson" />
+      <node id="#WorldCup" label="#WorldCup" />
+      <node id="#tastybusiness" label="#tastybusiness" />
+      <node id="#ParishReserveDay" label="#ParishReserveDay" />
+      <node id="#shutitdown" label="#shutitdown" />
+      <node id="#NOLA" label="#NOLA" />
+      <node id="#kingcake" label="#kingcake" />
+      <node id="#tweets" label="#tweets" />
+      <node id="#beercat" label="#beercat" />
+      <node id="#vietnamesefood" label="#vietnamesefood" />
+      <node id="#savor" label="#savor" />
+      <node id="#birthdaygirl" label="#birthdaygirl" />
+      <node id="#decadent" label="#decadent" />
+      <node id="#fattuesday" label="#fattuesday" />
+      <node id="#dinner" label="#dinner" />
+      <node id="#boo" label="#boo" />
+      <node id="#cans" label="#cans" />
+      <node id="#theshire" label="#theshire" />
+      <node id="#PurviPatel" label="#PurviPatel" />
+      <node id="#areyoutryingtokillme" label="#areyoutryingtokillme" />
+      <node id="#biscuits" label="#biscuits" />
+      <node id="#missingclams" label="#missingclams" />
+      <node id="#notcomplaining" label="#notcomplaining" />
+      <node id="#Tips" label="#Tips" />
+      <node id="#savor2015" label="#savor2015" />
+      <node id="#boudinballs" label="#boudinballs" />
+      <node id="#OpFerguson" label="#OpFerguson" />
+      <node id="#WarOnWOC" label="#WarOnWOC" />
+      <node id="#becausewhynot" label="#becausewhynot" />
+      <node id="#nola" label="#nola" />
+      <node id="#WhiteGenocide" label="#WhiteGenocide" />
+      <node id="#Charlie" label="#Charlie" />
+      <node id="#nom" label="#nom" />
+      <node id="#beerschool" label="#beerschool" />
+      <node id="#BLM" label="#BLM" />
+      <node id="#gator" label="#gator" />
+      <node id="#cbc15" label="#cbc15" />
+      <node id="#WalterScott" label="#WalterScott" />
+      <node id="#nightoftoomanybeers" label="#nightoftoomanybeers" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#pdx" label="#pdx" />
+      <node id="#heritagebreed" label="#heritagebreed" />
+      <node id="#religion" label="#religion" />
+      <node id="#Solidarity" label="#Solidarity" />
+      <node id="#philly" label="#philly" />
+      <node id="#noblework" label="#noblework" />
+      <node id="#NewBlack" label="#NewBlack" />
+      <node id="#ipaweekend" label="#ipaweekend" />
+      <node id="#MardiGras" label="#MardiGras" />
+      <node id="#nolabeer" label="#nolabeer" />
+      <node id="#ghostsomm" label="#ghostsomm" />
+      <node id="#GoT" label="#GoT" />
+      <node id="#MarteseJohnson" label="#MarteseJohnson" />
+      <node id="#trojanhorse" label="#trojanhorse" />
+      <node id="#economy" label="#economy" />
+      <node id="#nbwa" label="#nbwa" />
+      <node id="#ADDcheckin" label="#ADDcheckin" />
+      <node id="#photo" label="#photo" />
+      <node id="#legsandeggs" label="#legsandeggs" />
+      <node id="#priorities" label="#priorities" />
+      <node id="#tastynoms" label="#tastynoms" />
+      <node id="#TWIBnation" label="#TWIBnation" />
+      <node id="#WorldCup2014" label="#WorldCup2014" />
+      <node id="#needaridenola" label="#needaridenola" />
+      <node id="#Cheers" label="#Cheers" />
+      <node id="#PARADES" label="#PARADES" />
+      <node id="#BBC15" label="#BBC15" />
+      <node id="#BBC14" label="#BBC14" />
+      <node id="#summertime" label="#summertime" />
+      <node id="#treatyoself" label="#treatyoself" />
+      <node id="#jazzfest2014" label="#jazzfest2014" />
+      <node id="#kissaversary" label="#kissaversary" />
+      <node id="#STL" label="#STL" />
+      <node id="#BeerFortFriday" label="#BeerFortFriday" />
+      <node id="#chicagobbq" label="#chicagobbq" />
+      <node id="#goodfood" label="#goodfood" />
+      <node id="#chickenfriedsteak" label="#chickenfriedsteak" />
+      <node id="#FERGUSON" label="#FERGUSON" />
+      <node id="#beerbrunch" label="#beerbrunch" />
+      <node id="#ablackshow" label="#ablackshow" />
+      <node id="#lovefigseason" label="#lovefigseason" />
+      <node id="#ochlunch" label="#ochlunch" />
+      <node id="#happyhour" label="#happyhour" />
+      <node id="#NationalNightOut" label="#NationalNightOut" />
+      <node id="#IwatchBobsBurgers" label="#IwatchBobsBurgers" />
+      <node id="#NEW" label="#NEW" />
+      <node id="#DayOfRage" label="#DayOfRage" />
+      <node id="#inourfridgerightnow" label="#inourfridgerightnow" />
+      <node id="#whaaaat" label="#whaaaat" />
+      <node id="#multicolored" label="#multicolored" />
+      <node id="#kreweoforpheus" label="#kreweoforpheus" />
+      <node id="#oldstuff" label="#oldstuff" />
+      <node id="#GABF" label="#GABF" />
+      <node id="#Fernet" label="#Fernet" />
+      <node id="#TOTC2016" label="#TOTC2016" />
+      <node id="#limified" label="#limified" />
+      <node id="#bridgesandstuff" label="#bridgesandstuff" />
+      <node id="#Flavor" label="#Flavor" />
+      <node id="#TWIBFM" label="#TWIBFM" />
+      <node id="#NBWANOLA" label="#NBWANOLA" />
+      <node id="#RandPaul2016" label="#RandPaul2016" />
+      <node id="#guessnopix" label="#guessnopix" />
+      <node id="#mardigras" label="#mardigras" />
+      <node id="#WhiteFragility" label="#WhiteFragility" />
+      <node id="#lovingit" label="#lovingit" />
+      <node id="#ohwaititstheheattoo" label="#ohwaititstheheattoo" />
+      <node id="#RFRA" label="#RFRA" />
+      <node id="#nanobrewery" label="#nanobrewery" />
+      <node id="#carnival" label="#carnival" />
+      <node id="#burp" label="#burp" />
+      <node id="#thisstateyall" label="#thisstateyall" />
+      <node id="#boudinbourbonbeer" label="#boudinbourbonbeer" />
+      <node id="#itsnottheheatitsthehumidity" label="#itsnottheheatitsthehumidity" />
+      <node id="#friendsoffriends" label="#friendsoffriends" />
+      <node id="#drinklocal" label="#drinklocal" />
+      <node id="#nofilter" label="#nofilter" />
+      <node id="#FTW" label="#FTW" />
+      <node id="#howisthissogood" label="#howisthissogood" />
+      <node id="#beenwaitingforeverforit" label="#beenwaitingforeverforit" />
+      <node id="#Exclusive" label="#Exclusive" />
+      <node id="#hopstravaganza" label="#hopstravaganza" />
+      <node id="#bristolbeer" label="#bristolbeer" />
+      <node id="#RaceTogether" label="#RaceTogether" />
+      <node id="#yesimserious" label="#yesimserious" />
+      <node id="#burmese" label="#burmese" />
+      <node id="#dinnerlab" label="#dinnerlab" />
+      <node id="#catbros" label="#catbros" />
+      <node id="#craftbeerquotes" label="#craftbeerquotes" />
+      <node id="#goodfolks" label="#goodfolks" />
+      <node id="#sixpackofsummer" label="#sixpackofsummer" />
+      <node id="#hustlin" label="#hustlin" />
+      <node id="#birthday" label="#birthday" />
+      <node id="#soeBLACKLIFE" label="#soeBLACKLIFE" />
+      <node id="#piehellyeah" label="#piehellyeah" />
+      <node id="#whiskeytangofoxtrot" label="#whiskeytangofoxtrot" />
+      <node id="#OnlyLouisiana" label="#OnlyLouisiana" />
+      <node id="#oyster" label="#oyster" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BEL" target="#GER" weight="6424" />
+      <edge id="1" source="#Katrina" target="#PTSD" weight="3212" />
+      <edge id="2" source="#Katrina" target="#KatrinaIsNotAMetaphor" weight="3212" />
+      <edge id="3" source="#chorizo" target="#Tacos" weight="3212" />
+      <edge id="4" source="#chorizo" target="#becausewhynot" weight="3212" />
+      <edge id="5" source="#chorizo" target="#secondlunch" weight="3212" />
+      <edge id="6" source="#LouisianaBeer" target="#LaCBW" weight="3212" />
+      <edge id="7" source="#daydrinking" target="#itsnoonsomewhere" weight="3212" />
+      <edge id="8" source="#daydrinking" target="#Zwanze" weight="3212" />
+      <edge id="9" source="#Thanksgiving" target="#poboy" weight="3212" />
+      <edge id="10" source="#birthdaynoms" target="#treatyoself" weight="3212" />
+      <edge id="11" source="#birthdaynoms" target="#thankyouronswanson" weight="3212" />
+      <edge id="12" source="#birthdaynoms" target="#edibleart" weight="3212" />
+      <edge id="13" source="#WUT" target="#whaaaat" weight="3212" />
+      <edge id="14" source="#WUT" target="#ghostsomm" weight="3212" />
+      <edge id="15" source="#figseason" target="#hereandgone" weight="3212" />
+      <edge id="16" source="#figseason" target="#ladieswhobrunch" weight="3212" />
+      <edge id="17" source="#Yelp" target="#sixpackofsummer" weight="3212" />
+      <edge id="18" source="#newenglandDIPA" target="#friendsoffriends" weight="3212" />
+      <edge id="19" source="#craboverload" target="#notcomplaining" weight="3212" />
+      <edge id="20" source="#dinerdeliciousness" target="#tastelouisiana" weight="3212" />
+      <edge id="21" source="#dinerdeliciousness" target="#piehellyeah" weight="3212" />
+      <edge id="22" source="#chefjoelwhite" target="#dinnerlab" weight="6424" />
+      <edge id="23" source="#chefjoelwhite" target="#ZombieApocalypse" weight="3212" />
+      <edge id="24" source="#beer" target="#Louisiana" weight="3212" />
+      <edge id="25" source="#beer" target="#whereyatnola" weight="3212" />
+      <edge id="26" source="#beer" target="#spiegelau" weight="6424" />
+      <edge id="27" source="#beer" target="#beer" weight="6424" />
+      <edge id="28" source="#beer" target="#neworleans" weight="3212" />
+      <edge id="29" source="#beer" target="#baconfriends" weight="3212" />
+      <edge id="30" source="#beer" target="#craftbeer" weight="6424" />
+      <edge id="31" source="#beer" target="#brunchin" weight="3212" />
+      <edge id="32" source="#beer" target="#NBWANOLA" weight="3212" />
+      <edge id="33" source="#beer" target="#cans" weight="3212" />
+      <edge id="34" source="#beer" target="#bbc14" weight="3212" />
+      <edge id="35" source="#aioli" target="#gyrokebab" weight="3212" />
+      <edge id="36" source="#BrewsdayTuesday" target="#ACBW" weight="3212" />
+      <edge id="37" source="#blackryeisback" target="#blackrye" weight="3212" />
+      <edge id="38" source="#dessert" target="#bourbon" weight="3212" />
+      <edge id="39" source="#dessert" target="#omakase" weight="3212" />
+      <edge id="40" source="#dessert" target="#goodnight" weight="3212" />
+      <edge id="41" source="#holyrollerIPA" target="#nolabeer" weight="3212" />
+      <edge id="42" source="#alsoJustified" target="#andCommunity" weight="3212" />
+      <edge id="43" source="#alsoJustified" target="#CoolCoolCool" weight="3212" />
+      <edge id="44" source="#hero" target="#tastelouisiana" weight="3212" />
+      <edge id="45" source="#hero" target="#noblework" weight="3212" />
+      <edge id="46" source="#OnDemand" target="#WarOnWOC" weight="3212" />
+      <edge id="47" source="#OnDemand" target="#NEW" weight="3212" />
+      <edge id="48" source="#OnDemand" target="#TWIBFM" weight="3212" />
+      <edge id="49" source="#OnDemand" target="#TWIBnation" weight="3212" />
+      <edge id="50" source="#caskale" target="#realale" weight="3212" />
+      <edge id="51" source="#caskale" target="#philly" weight="3212" />
+      <edge id="52" source="#BYP100NOLA" target="#shutitdown" weight="3212" />
+      <edge id="53" source="#BYP100NOLA" target="#NOLAtoFerguson" weight="3212" />
+      <edge id="54" source="#limlucky" target="#ballin" weight="3212" />
+      <edge id="55" source="#limlucky" target="#omgwhatdidwejustdrink" weight="3212" />
+      <edge id="56" source="#limlucky" target="#limified" weight="3212" />
+      <edge id="57" source="#limlucky" target="#ghostsomm" weight="3212" />
+      <edge id="58" source="#nolamash" target="#yesimserious" weight="3212" />
+      <edge id="59" source="#nolamash" target="#beerschool" weight="3212" />
+      <edge id="60" source="#WookeyJack" target="#beerbloggers" weight="3212" />
+      <edge id="61" source="#WookeyJack" target="#Opal" weight="3212" />
+      <edge id="62" source="#WookeyJack" target="#DoubleDBA" weight="3212" />
+      <edge id="63" source="#WookeyJack" target="#BBC14" weight="3212" />
+      <edge id="64" source="#RoyalBlueForAutismAwareness" target="#TeamBlackness" weight="3212" />
+      <edge id="65" source="#CBC15" target="#pdx" weight="3212" />
+      <edge id="66" source="#CBC15" target="#beerpairing" weight="3212" />
+      <edge id="67" source="#CBC15" target="#CBC15PDX" weight="3212" />
+      <edge id="68" source="#cbc2016" target="#beercamp" weight="3212" />
+      <edge id="69" source="#secondlunch" target="#Tacos" weight="3212" />
+      <edge id="70" source="#secondlunch" target="#becausewhynot" weight="3212" />
+      <edge id="71" source="#omakase" target="#readyforanap" weight="3212" />
+      <edge id="72" source="#omakase" target="#kissaversary" weight="6424" />
+      <edge id="73" source="#omakase" target="#goodnight" weight="3212" />
+      <edge id="74" source="#omakase" target="#burp" weight="3212" />
+      <edge id="75" source="#ZombieApocalypse" target="#dinnerlab" weight="3212" />
+      <edge id="76" source="#bbc15" target="#photo" weight="19272" />
+      <edge id="77" source="#bbc15" target="#greenerbeer" weight="3212" />
+      <edge id="78" source="#bbc15" target="#bbc14" weight="3212" />
+      <edge id="79" source="#bbc14" target="#photo" weight="12848" />
+      <edge id="80" source="#bbc14" target="#livebeerblogging" weight="6424" />
+      <edge id="81" source="#bbc14" target="#speedblogging" weight="3212" />
+      <edge id="82" source="#MediaAsLepers" target="#guessnopix" weight="3212" />
+      <edge id="83" source="#MediaAsLepers" target="#totc16" weight="3212" />
+      <edge id="84" source="#MediaAsLepers" target="#smh" weight="3212" />
+      <edge id="85" source="#Tacos" target="#becausewhynot" weight="3212" />
+      <edge id="86" source="#cbc16" target="#philly" weight="3212" />
+      <edge id="87" source="#beerbloggers" target="#Opal" weight="3212" />
+      <edge id="88" source="#beerbloggers" target="#DoubleDBA" weight="3212" />
+      <edge id="89" source="#beerbloggers" target="#BBC14" weight="3212" />
+      <edge id="90" source="#vegetables" target="#nofilter" weight="3212" />
+      <edge id="91" source="#vegetables" target="#multicolored" weight="3212" />
+      <edge id="92" source="#WhichEmergency" target="#Ferguson" weight="3212" />
+      <edge id="93" source="#woohoo" target="#CocktailWeek2014" weight="3212" />
+      <edge id="94" source="#foodie" target="#food" weight="3212" />
+      <edge id="95" source="#foodie" target="#craftbeer" weight="3212" />
+      <edge id="96" source="#newengland" target="#missingclams" weight="3212" />
+      <edge id="97" source="#chicagobeer" target="#becausewhynot" weight="3212" />
+      <edge id="98" source="#latte" target="#kingcake" weight="3212" />
+      <edge id="99" source="#latte" target="#carnival" weight="3212" />
+      <edge id="100" source="#realale" target="#philly" weight="3212" />
+      <edge id="101" source="#PairsWell" target="#FatTire" weight="3212" />
+      <edge id="102" source="#yum" target="#delicious" weight="3212" />
+      <edge id="103" source="#yum" target="#totc2016" weight="3212" />
+      <edge id="104" source="#NewCatBus" target="#meow" weight="3212" />
+      <edge id="105" source="#oktoberfest" target="#mancrates" weight="3212" />
+      <edge id="106" source="#ladieswhobrunch" target="#hereandgone" weight="3212" />
+      <edge id="107" source="#ochrocks" target="#ochlunch" weight="3212" />
+      <edge id="108" source="#drinkresponsibly" target="#drinklocal" weight="3212" />
+      <edge id="109" source="#drinkresponsibly" target="#drinksmart" weight="3212" />
+      <edge id="110" source="#drinkresponsibly" target="#designateddriver" weight="3212" />
+      <edge id="111" source="#drinkresponsibly" target="#craftbeer" weight="3212" />
+      <edge id="112" source="#alsoLost" target="#GameOfThrones" weight="3212" />
+      <edge id="113" source="#alsoLost" target="#GoT" weight="3212" />
+      <edge id="114" source="#alsoLost" target="#IwatchBobsBurgers" weight="3212" />
+      <edge id="115" source="#deviledeggs" target="#chickenfriedsteak" weight="3212" />
+      <edge id="116" source="#nolastyle" target="#birthday" weight="3212" />
+      <edge id="117" source="#nolastyle" target="#OperationSaintKate" weight="3212" />
+      <edge id="118" source="#cultureontap" target="#craftbeer" weight="3212" />
+      <edge id="119" source="#brunchfest" target="#BloodyMaryJudge" weight="3212" />
+      <edge id="120" source="#themoreyouknow" target="#BBC15" weight="3212" />
+      <edge id="121" source="#FrenchQuarter" target="#needaridenola" weight="3212" />
+      <edge id="122" source="#FrenchQuarter" target="#whatsyourlegacy" weight="3212" />
+      <edge id="123" source="#heybrewtiful" target="#craftbeerquotes" weight="3212" />
+      <edge id="124" source="#heybrewtiful" target="#BBC14" weight="3212" />
+      <edge id="125" source="#burlesque" target="#brunch" weight="3212" />
+      <edge id="126" source="#burlesque" target="#legsandeggs" weight="3212" />
+      <edge id="127" source="#totc2016" target="#ArtOfTheBeertail" weight="3212" />
+      <edge id="128" source="#totc2016" target="#delicious" weight="3212" />
+      <edge id="129" source="#totc2016" target="#whaaaat" weight="3212" />
+      <edge id="130" source="#cocktails" target="#recipes" weight="3212" />
+      <edge id="131" source="#cocktails" target="#NOLA" weight="3212" />
+      <edge id="132" source="#totc2014" target="#DynamicDuos" weight="6424" />
+      <edge id="133" source="#recipes" target="#NOLA" weight="3212" />
+      <edge id="134" source="#catsofinstagram" target="#catbros" weight="3212" />
+      <edge id="135" source="#catsofinstagram" target="#Charlie" weight="3212" />
+      <edge id="136" source="#GABF2014" target="#fuckyeah" weight="3212" />
+      <edge id="137" source="#latelunch" target="#nofilter" weight="3212" />
+      <edge id="138" source="#latelunch" target="#tastynoms" weight="3212" />
+      <edge id="139" source="#smoked" target="#bpudin" weight="3212" />
+      <edge id="140" source="#smoked" target="#boudinballs" weight="3212" />
+      <edge id="141" source="#acbw" target="#hustlin" weight="3212" />
+      <edge id="142" source="#acbw" target="#jazzfest2014" weight="3212" />
+      <edge id="143" source="#acbw" target="#CraftBeer" weight="3212" />
+      <edge id="144" source="#hermes" target="#mardigras" weight="3212" />
+      <edge id="145" source="#hermes" target="#PARADES" weight="3212" />
+      <edge id="146" source="#zombieapocalypse" target="#dinner" weight="3212" />
+      <edge id="147" source="#MakeMeAnAngel" target="#BoudinBourbonBeer" weight="3212" />
+      <edge id="148" source="#lafolie" target="#beerdinner" weight="3212" />
+      <edge id="149" source="#severesouradvisory" target="#NOLA" weight="3212" />
+      <edge id="150" source="#bpudin" target="#boudinballs" weight="3212" />
+      <edge id="151" source="#Catbros" target="#siblingrivalry" weight="3212" />
+      <edge id="152" source="#IPAday" target="#craftbeer" weight="3212" />
+      <edge id="153" source="#omgwhatdidwejustdrink" target="#ballin" weight="3212" />
+      <edge id="154" source="#omgwhatdidwejustdrink" target="#limified" weight="3212" />
+      <edge id="155" source="#omgwhatdidwejustdrink" target="#ghostsomm" weight="3212" />
+      <edge id="156" source="#Zwanze15" target="#photo" weight="12848" />
+      <edge id="157" source="#EricGarner" target="#Ferguson" weight="3212" />
+      <edge id="158" source="#EricGarner" target="#STL" weight="3212" />
+      <edge id="159" source="#kimjordanrocks" target="#BBC15" weight="3212" />
+      <edge id="160" source="#Zwanze" target="#itsnoonsomewhere" weight="3212" />
+      <edge id="161" source="#brewerybuild" target="#nanobrewery" weight="3212" />
+      <edge id="162" source="#brewerybuild" target="#NOLA" weight="3212" />
+      <edge id="163" source="#brewerybuild" target="#nola" weight="3212" />
+      <edge id="164" source="#brewerybuild" target="#craftbeer" weight="3212" />
+      <edge id="165" source="#paganism" target="#religion" weight="6424" />
+      <edge id="166" source="#brewpub" target="#yesplease" weight="3212" />
+      <edge id="167" source="#brewpub" target="#philly" weight="3212" />
+      <edge id="168" source="#negroni" target="#ladieswholunch" weight="3212" />
+      <edge id="169" source="#yesplease" target="#philly" weight="3212" />
+      <edge id="170" source="#GooseBlackFriday" target="#BourbonCountyStout" weight="9636" />
+      <edge id="171" source="#CObeer" target="#cobf" weight="3212" />
+      <edge id="172" source="#Respect" target="#tastelouisiana" weight="3212" />
+      <edge id="173" source="#pretty" target="#bridgesandstuff" weight="3212" />
+      <edge id="174" source="#pretty" target="#oldstuff" weight="3212" />
+      <edge id="175" source="#westbankadventures" target="#vietnamesefood" weight="3212" />
+      <edge id="176" source="#drankingRussianRiver" target="#philly" weight="3212" />
+      <edge id="177" source="#blinkandyoullmissit" target="#lovefigseason" weight="3212" />
+      <edge id="178" source="#brunchbeer" target="#philly" weight="3212" />
+      <edge id="179" source="#MikeBrown" target="#FERGUSON" weight="3212" />
+      <edge id="180" source="#MikeBrown" target="#TWIBnation" weight="3212" />
+      <edge id="181" source="#momslastnolameal" target="#nolabeer" weight="3212" />
+      <edge id="182" source="#comfortfood" target="#brunch" weight="3212" />
+      <edge id="183" source="#comfortfood" target="#neworleans" weight="3212" />
+      <edge id="184" source="#IPAday2015" target="#ipaweekend" weight="3212" />
+      <edge id="185" source="#LouisianaCraftBeer" target="#BBC15" weight="3212" />
+      <edge id="186" source="#OperationSaintKate" target="#birthdaycake" weight="3212" />
+      <edge id="187" source="#OperationSaintKate" target="#birthday" weight="3212" />
+      <edge id="188" source="#livinglavidaUK" target="#theshire" weight="3212" />
+      <edge id="189" source="#smh" target="#guessnopix" weight="3212" />
+      <edge id="190" source="#smh" target="#totc16" weight="3212" />
+      <edge id="191" source="#ICYMI" target="#WarOnWOC" weight="3212" />
+      <edge id="192" source="#ICYMI" target="#TWIBnation" weight="3212" />
+      <edge id="193" source="#andCommunity" target="#CoolCoolCool" weight="3212" />
+      <edge id="194" source="#Brazil" target="#Beer" weight="3212" />
+      <edge id="195" source="#Brazil" target="#WorldCup2014" weight="3212" />
+      <edge id="196" source="#stripclubgate" target="#cbc15" weight="3212" />
+      <edge id="197" source="#ACBW" target="#tweets" weight="3212" />
+      <edge id="198" source="#ACBW" target="#CraftBeer" weight="6424" />
+      <edge id="199" source="#livebeerblogging" target="#BBC14" weight="3212" />
+      <edge id="200" source="#birthdaydinner" target="#birthday" weight="3212" />
+      <edge id="201" source="#birthdaydinner" target="#birthdaygirl" weight="3212" />
+      <edge id="202" source="#lacraftbeer" target="#FTW" weight="3212" />
+      <edge id="203" source="#ABlackShow" target="#TMFRH" weight="3212" />
+      <edge id="204" source="#ABlackShow" target="#NEW" weight="3212" />
+      <edge id="205" source="#ABlackShow" target="#TWIBnation" weight="3212" />
+      <edge id="206" source="#PalatePalletOrPalette" target="#Tips" weight="3212" />
+      <edge id="207" source="#PalatePalletOrPalette" target="#BBC15" weight="3212" />
+      <edge id="208" source="#goodtimes" target="#goodfood" weight="3212" />
+      <edge id="209" source="#goodtimes" target="#goodbeer" weight="3212" />
+      <edge id="210" source="#goodtimes" target="#goodfolks" weight="3212" />
+      <edge id="211" source="#beerdinner" target="#whaaaaaat" weight="3212" />
+      <edge id="212" source="#whatsyourlegacy" target="#needaridenola" weight="3212" />
+      <edge id="213" source="#tastelouisiana" target="#thisstateyall" weight="3212" />
+      <edge id="214" source="#tastelouisiana" target="#tastybusiness" weight="3212" />
+      <edge id="215" source="#tastelouisiana" target="#chicagobbq" weight="3212" />
+      <edge id="216" source="#tastelouisiana" target="#piehellyeah" weight="3212" />
+      <edge id="217" source="#tastelouisiana" target="#daiqs" weight="3212" />
+      <edge id="218" source="#tastelouisiana" target="#biscuits" weight="3212" />
+      <edge id="219" source="#tastelouisiana" target="#noblework" weight="3212" />
+      <edge id="220" source="#totc16" target="#guessnopix" weight="3212" />
+      <edge id="221" source="#Mash" target="#NOLA" weight="3212" />
+      <edge id="222" source="#DiveBars" target="#NewOrleans" weight="3212" />
+      <edge id="223" source="#longhashtagislong" target="#boudinbourbonbeer" weight="3212" />
+      <edge id="224" source="#drinksmart" target="#drinklocal" weight="3212" />
+      <edge id="225" source="#drinksmart" target="#designateddriver" weight="3212" />
+      <edge id="226" source="#drinksmart" target="#craftbeer" weight="3212" />
+      <edge id="227" source="#designateddriver" target="#drinklocal" weight="3212" />
+      <edge id="228" source="#designateddriver" target="#craftbeer" weight="3212" />
+      <edge id="229" source="#LorinApprovedPhoto" target="#carnitas" weight="3212" />
+      <edge id="230" source="#titrex" target="#boo" weight="3212" />
+      <edge id="231" source="#rainydaylunch" target="#sammich" weight="3212" />
+      <edge id="232" source="#CBC15PDX" target="#pdx" weight="3212" />
+      <edge id="233" source="#yaybeer" target="#TOTC2016" weight="3212" />
+      <edge id="234" source="#brunch" target="#NewOrleans" weight="3212" />
+      <edge id="235" source="#brunch" target="#legsandeggs" weight="12848" />
+      <edge id="236" source="#Opal" target="#BBC14" weight="3212" />
+      <edge id="237" source="#Opal" target="#DoubleDBA" weight="3212" />
+      <edge id="238" source="#DoubleDBA" target="#BBC14" weight="3212" />
+      <edge id="239" source="#GameOfThrones" target="#IwatchBobsBurgers" weight="3212" />
+      <edge id="240" source="#GameOfThrones" target="#GoT" weight="3212" />
+      <edge id="241" source="#staytuned" target="#kingcake" weight="3212" />
+      <edge id="242" source="#herewegoyo" target="#nola" weight="3212" />
+      <edge id="243" source="#herewegoyo" target="#craftbeer" weight="3212" />
+      <edge id="244" source="#StandWithFerguson" target="#NOLA" weight="3212" />
+      <edge id="245" source="#StandWithFerguson" target="#OpFerguson" weight="3212" />
+      <edge id="246" source="#StandWithFerguson" target="#DayOfRage" weight="3212" />
+      <edge id="247" source="#MadameRose" target="#whaaaaaat" weight="3212" />
+      <edge id="248" source="#crawtater" target="#nom" weight="3212" />
+      <edge id="249" source="#GER" target="#GER" weight="6424" />
+      <edge id="250" source="#ABLACKSHOW" target="#TWIBnation" weight="3212" />
+      <edge id="251" source="#KatrinaIsNotAMetaphor" target="#PTSD" weight="3212" />
+      <edge id="252" source="#craftbeer" target="#nola" weight="6424" />
+      <edge id="253" source="#craftbeer" target="#nanobrewery" weight="3212" />
+      <edge id="254" source="#craftbeer" target="#economy" weight="3212" />
+      <edge id="255" source="#craftbeer" target="#kickstarter" weight="3212" />
+      <edge id="256" source="#craftbeer" target="#NOLA" weight="6424" />
+      <edge id="257" source="#craftbeer" target="#food" weight="3212" />
+      <edge id="258" source="#craftbeer" target="#drinklocal" weight="3212" />
+      <edge id="259" source="#summerdessert" target="#sofullnow" weight="3212" />
+      <edge id="260" source="#eatingcentralcity" target="#ochlunch" weight="3212" />
+      <edge id="261" source="#eatingcentralcity" target="#decadent" weight="3212" />
+      <edge id="262" source="#necessity" target="#Fernet" weight="3212" />
+      <edge id="263" source="#lunchboxnola" target="#summertime" weight="3212" />
+      <edge id="264" source="#daiqs" target="#thisstateyall" weight="3212" />
+      <edge id="265" source="#amuse" target="#gator" weight="3212" />
+      <edge id="266" source="#goodbeer" target="#goodfood" weight="3212" />
+      <edge id="267" source="#goodbeer" target="#goodfolks" weight="3212" />
+      <edge id="268" source="#TMFRH" target="#WhiteGenocide" weight="3212" />
+      <edge id="269" source="#TMFRH" target="#TWIBnation" weight="3212" />
+      <edge id="270" source="#farmlife" target="#heritagebreed" weight="3212" />
+      <edge id="271" source="#farmlife" target="#redwattle" weight="3212" />
+      <edge id="272" source="#M4BL" target="#WhiteFragility" weight="3212" />
+      <edge id="273" source="#coffeebeforebeer" target="#beerbrunch" weight="3212" />
+      <edge id="274" source="#ballin" target="#limified" weight="3212" />
+      <edge id="275" source="#ballin" target="#ghostsomm" weight="3212" />
+      <edge id="276" source="#baconfriends" target="#brunchin" weight="3212" />
+      <edge id="277" source="#curry" target="#burmese" weight="3212" />
+      <edge id="278" source="#redwattle" target="#heritagebreed" weight="3212" />
+      <edge id="279" source="#Ferguson" target="#priorities" weight="3212" />
+      <edge id="280" source="#Ferguson" target="#Solidarity" weight="3212" />
+      <edge id="281" source="#Ferguson" target="#STL" weight="3212" />
+      <edge id="282" source="#Beer" target="#WorldCup" weight="3212" />
+      <edge id="283" source="#Beer" target="#WorldCup2014" weight="3212" />
+      <edge id="284" source="#NOLAsummer" target="#itsnottheheatitsthehumidity" weight="3212" />
+      <edge id="285" source="#NOLAsummer" target="#ohwaititstheheattoo" weight="3212" />
+      <edge id="286" source="#nomnomnom" target="#oyster" weight="3212" />
+      <edge id="287" source="#readyforanap" target="#burp" weight="3212" />
+      <edge id="288" source="#Freshness" target="#Flavor" weight="3212" />
+      <edge id="289" source="#Freshness" target="#BBC15" weight="3212" />
+      <edge id="290" source="#NOLAtoFerguson" target="#shutitdown" weight="3212" />
+      <edge id="291" source="#ParishReserveDay" target="#photo" weight="3212" />
+      <edge id="292" source="#NOLA" target="#DayOfRage" weight="3212" />
+      <edge id="293" source="#NOLA" target="#nanobrewery" weight="3212" />
+      <edge id="294" source="#NOLA" target="#MardiGras" weight="3212" />
+      <edge id="295" source="#NOLA" target="#OpFerguson" weight="3212" />
+      <edge id="296" source="#kingcake" target="#carnival" weight="3212" />
+      <edge id="297" source="#beercat" target="#BeerFortFriday" weight="3212" />
+      <edge id="298" source="#savor" target="#photo" weight="3212" />
+      <edge id="299" source="#savor" target="#whaaaat" weight="3212" />
+      <edge id="300" source="#savor" target="#savor2015" weight="3212" />
+      <edge id="301" source="#birthdaygirl" target="#birthday" weight="3212" />
+      <edge id="302" source="#decadent" target="#ochlunch" weight="3212" />
+      <edge id="303" source="#fattuesday" target="#mardigras" weight="3212" />
+      <edge id="304" source="#PurviPatel" target="#NewBlack" weight="3212" />
+      <edge id="305" source="#PurviPatel" target="#ADDcheckin" weight="3212" />
+      <edge id="306" source="#areyoutryingtokillme" target="#BBC15" weight="3212" />
+      <edge id="307" source="#Tips" target="#BBC15" weight="3212" />
+      <edge id="308" source="#OpFerguson" target="#DayOfRage" weight="3212" />
+      <edge id="309" source="#WarOnWOC" target="#NEW" weight="3212" />
+      <edge id="310" source="#WarOnWOC" target="#TWIBFM" weight="3212" />
+      <edge id="311" source="#WarOnWOC" target="#TWIBnation" weight="6424" />
+      <edge id="312" source="#nola" target="#whiskeytangofoxtrot" weight="3212" />
+      <edge id="313" source="#BLM" target="#Exclusive" weight="3212" />
+      <edge id="314" source="#BLM" target="#TWIBnation" weight="3212" />
+      <edge id="315" source="#gator" target="#nofilter" weight="3212" />
+      <edge id="316" source="#WalterScott" target="#RandPaul2016" weight="3212" />
+      <edge id="317" source="#nightoftoomanybeers" target="#BBC15" weight="3212" />
+      <edge id="318" source="#CraftBeer" target="#OnlyLouisiana" weight="3212" />
+      <edge id="319" source="#religion" target="#religion" weight="6424" />
+      <edge id="320" source="#Solidarity" target="#priorities" weight="3212" />
+      <edge id="321" source="#NewBlack" target="#RFRA" weight="3212" />
+      <edge id="322" source="#NewBlack" target="#ADDcheckin" weight="3212" />
+      <edge id="323" source="#ghostsomm" target="#whaaaat" weight="3212" />
+      <edge id="324" source="#ghostsomm" target="#limified" weight="3212" />
+      <edge id="325" source="#GoT" target="#IwatchBobsBurgers" weight="3212" />
+      <edge id="326" source="#MarteseJohnson" target="#soeBLACKLIFE" weight="3212" />
+      <edge id="327" source="#MarteseJohnson" target="#RaceTogether" weight="3212" />
+      <edge id="328" source="#MarteseJohnson" target="#TWIBnation" weight="3212" />
+      <edge id="329" source="#trojanhorse" target="#kreweoforpheus" weight="3212" />
+      <edge id="330" source="#nbwa" target="#GABF" weight="3212" />
+      <edge id="331" source="#photo" target="#nofilter" weight="3212" />
+      <edge id="332" source="#tastynoms" target="#nofilter" weight="3212" />
+      <edge id="333" source="#TWIBnation" target="#ablackshow" weight="6424" />
+      <edge id="334" source="#TWIBnation" target="#NEW" weight="3212" />
+      <edge id="335" source="#TWIBnation" target="#TWIBFM" weight="3212" />
+      <edge id="336" source="#TWIBnation" target="#NationalNightOut" weight="3212" />
+      <edge id="337" source="#TWIBnation" target="#soeBLACKLIFE" weight="3212" />
+      <edge id="338" source="#TWIBnation" target="#FERGUSON" weight="6424" />
+      <edge id="339" source="#TWIBnation" target="#Exclusive" weight="3212" />
+      <edge id="340" source="#Cheers" target="#BBC14" weight="3212" />
+      <edge id="341" source="#PARADES" target="#mardigras" weight="3212" />
+      <edge id="342" source="#BBC15" target="#Flavor" weight="3212" />
+      <edge id="343" source="#BBC15" target="#lovingit" weight="3212" />
+      <edge id="344" source="#BBC14" target="#craftbeerquotes" weight="3212" />
+      <edge id="345" source="#BBC14" target="#howisthissogood" weight="3212" />
+      <edge id="346" source="#jazzfest2014" target="#hustlin" weight="3212" />
+      <edge id="347" source="#goodfood" target="#goodfolks" weight="3212" />
+      <edge id="348" source="#ablackshow" target="#ablackshow" weight="6424" />
+      <edge id="349" source="#happyhour" target="#whaaaat" weight="3212" />
+      <edge id="350" source="#NEW" target="#TWIBFM" weight="3212" />
+      <edge id="351" source="#inourfridgerightnow" target="#beenwaitingforeverforit" weight="3212" />
+      <edge id="352" source="#multicolored" target="#nofilter" weight="3212" />
+      <edge id="353" source="#oldstuff" target="#bridgesandstuff" weight="3212" />
+      <edge id="354" source="#ohwaititstheheattoo" target="#itsnottheheatitsthehumidity" weight="3212" />
+      <edge id="355" source="#hopstravaganza" target="#bristolbeer" weight="3212" />
+    </edges>
+  </graph>
+</gexf>

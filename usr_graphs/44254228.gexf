@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#OCaptainMyCaptain" label="#OCaptainMyCaptain" />
+      <node id="#HappyBirthdayCheryl" label="#HappyBirthdayCheryl" />
+      <node id="#DoSomething" label="#DoSomething" />
+      <node id="#KobayashiMaru" label="#KobayashiMaru" />
+      <node id="#railsconf" label="#railsconf" />
+      <node id="#rocco" label="#rocco" />
+      <node id="#arduino" label="#arduino" />
+      <node id="#HamzaAliAlKhateeb" label="#HamzaAliAlKhateeb" />
+      <node id="#Watson" label="#Watson" />
+      <node id="#GPS" label="#GPS" />
+      <node id="#3dprint" label="#3dprint" />
+      <node id="#pycco" label="#pycco" />
+      <node id="#RotInHell" label="#RotInHell" />
+      <node id="#BizzaroData" label="#BizzaroData" />
+      <node id="#AsSalaamAlaikum" label="#AsSalaamAlaikum" />
+      <node id="#igniterb" label="#igniterb" />
+      <node id="#InventionInFMaj" label="#InventionInFMaj" />
+      <node id="#LiveLong" label="#LiveLong" />
+      <node id="#al" label="#al" />
+      <node id="#HODOR" label="#HODOR" />
+      <node id="#Mahmoud" label="#Mahmoud" />
+      <node id="#3dprinting" label="#3dprinting" />
+      <node id="#Python" label="#Python" />
+      <node id="#Jeopardy" label="#Jeopardy" />
+      <node id="#InItToWinIt" label="#InItToWinIt" />
+      <node id="#Trek" label="#Trek" />
+      <node id="#GödelEscherBach" label="#GödelEscherBach" />
+      <node id="#engineering" label="#engineering" />
+      <node id="#Rally" label="#Rally" />
+      <node id="#NotMeningitis" label="#NotMeningitis" />
+      <node id="#OSUFootball" label="#OSUFootball" />
+      <node id="#OBL" label="#OBL" />
+      <node id="#underscore" label="#underscore" />
+      <node id="#tantrums" label="#tantrums" />
+      <node id="#NoBillNoBreak" label="#NoBillNoBreak" />
+      <node id="#TNG" label="#TNG" />
+      <node id="#7DTD" label="#7DTD" />
+      <node id="#IBM" label="#IBM" />
+      <node id="#iPhone" label="#iPhone" />
+      <node id="#cbus" label="#cbus" />
+      <node id="#icestorm" label="#icestorm" />
+      <node id="#StarWars" label="#StarWars" />
+      <node id="#KeepOnTrekkin" label="#KeepOnTrekkin" />
+      <node id="#ThanksDrHouse" label="#ThanksDrHouse" />
+      <node id="#Scheme" label="#Scheme" />
+      <node id="#catcolive" label="#catcolive" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#OCaptainMyCaptain" target="#OSUFootball" weight="507" />
+      <edge id="1" source="#HappyBirthdayCheryl" target="#ThanksDrHouse" weight="507" />
+      <edge id="2" source="#HappyBirthdayCheryl" target="#NotMeningitis" weight="507" />
+      <edge id="3" source="#DoSomething" target="#HODOR" weight="507" />
+      <edge id="4" source="#DoSomething" target="#NoBillNoBreak" weight="507" />
+      <edge id="5" source="#KobayashiMaru" target="#LiveLong" weight="507" />
+      <edge id="6" source="#railsconf" target="#igniterb" weight="507" />
+      <edge id="7" source="#rocco" target="#underscore" weight="507" />
+      <edge id="8" source="#rocco" target="#pycco" weight="507" />
+      <edge id="9" source="#arduino" target="#GPS" weight="507" />
+      <edge id="10" source="#arduino" target="#Python" weight="507" />
+      <edge id="11" source="#HamzaAliAlKhateeb" target="#AsSalaamAlaikum" weight="507" />
+      <edge id="12" source="#Watson" target="#Jeopardy" weight="1521" />
+      <edge id="13" source="#Watson" target="#IBM" weight="1014" />
+      <edge id="14" source="#GPS" target="#Python" weight="507" />
+      <edge id="15" source="#3dprint" target="#StarWars" weight="507" />
+      <edge id="16" source="#pycco" target="#underscore" weight="507" />
+      <edge id="17" source="#RotInHell" target="#OBL" weight="507" />
+      <edge id="18" source="#BizzaroData" target="#TNG" weight="507" />
+      <edge id="19" source="#InventionInFMaj" target="#GödelEscherBach" weight="507" />
+      <edge id="20" source="#al" target="#Mahmoud" weight="507" />
+      <edge id="21" source="#HODOR" target="#NoBillNoBreak" weight="507" />
+      <edge id="22" source="#3dprinting" target="#engineering" weight="507" />
+      <edge id="23" source="#3dprinting" target="#cbus" weight="507" />
+      <edge id="24" source="#Python" target="#7DTD" weight="507" />
+      <edge id="25" source="#Jeopardy" target="#IBM" weight="1014" />
+      <edge id="26" source="#InItToWinIt" target="#Rally" weight="507" />
+      <edge id="27" source="#Trek" target="#KeepOnTrekkin" weight="507" />
+      <edge id="28" source="#NotMeningitis" target="#ThanksDrHouse" weight="507" />
+      <edge id="29" source="#tantrums" target="#icestorm" weight="507" />
+      <edge id="30" source="#iPhone" target="#Scheme" weight="507" />
+      <edge id="31" source="#catcolive" target="#catcolive" weight="1014" />
+    </edges>
+  </graph>
+</gexf>

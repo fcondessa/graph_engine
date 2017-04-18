@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#linkedin" label="#linkedin" />
+      <node id="#CFO" label="#CFO" />
+      <node id="#li" label="#li" />
+      <node id="#Cashflow" label="#Cashflow" />
+      <node id="#sales20" label="#sales20" />
+      <node id="#smallbiz" label="#smallbiz" />
+      <node id="#coldcalling" label="#coldcalling" />
+      <node id="#networking" label="#networking" />
+      <node id="#finance" label="#finance" />
+      <node id="#lending" label="#lending" />
+      <node id="#b2b" label="#b2b" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#linkedin" target="#coldcalling" weight="67" />
+      <edge id="1" source="#linkedin" target="#sales20" weight="67" />
+      <edge id="2" source="#linkedin" target="#li" weight="67" />
+      <edge id="3" source="#linkedin" target="#networking" weight="67" />
+      <edge id="4" source="#linkedin" target="#b2b" weight="67" />
+      <edge id="5" source="#CFO" target="#Cashflow" weight="67" />
+      <edge id="6" source="#li" target="#coldcalling" weight="67" />
+      <edge id="7" source="#li" target="#sales20" weight="67" />
+      <edge id="8" source="#li" target="#networking" weight="67" />
+      <edge id="9" source="#li" target="#b2b" weight="67" />
+      <edge id="10" source="#sales20" target="#coldcalling" weight="67" />
+      <edge id="11" source="#sales20" target="#networking" weight="67" />
+      <edge id="12" source="#sales20" target="#b2b" weight="67" />
+      <edge id="13" source="#smallbiz" target="#finance" weight="67" />
+      <edge id="14" source="#smallbiz" target="#lending" weight="67" />
+      <edge id="15" source="#coldcalling" target="#networking" weight="67" />
+      <edge id="16" source="#coldcalling" target="#b2b" weight="67" />
+      <edge id="17" source="#networking" target="#b2b" weight="67" />
+      <edge id="18" source="#finance" target="#lending" weight="67" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,806 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#truth" label="#truth" />
+      <node id="#respect" label="#respect" />
+      <node id="#annaslaw" label="#annaslaw" />
+      <node id="#NeverForget" label="#NeverForget" />
+      <node id="#DunningKruger" label="#DunningKruger" />
+      <node id="#Allegheny" label="#Allegheny" />
+      <node id="#integratedhealth" label="#integratedhealth" />
+      <node id="#ShakeItOff" label="#ShakeItOff" />
+      <node id="#CrossCountry" label="#CrossCountry" />
+      <node id="#stroke" label="#stroke" />
+      <node id="#HIT" label="#HIT" />
+      <node id="#RedThursday" label="#RedThursday" />
+      <node id="#PresidentialElection2016" label="#PresidentialElection2016" />
+      <node id="#healthdataexchange" label="#healthdataexchange" />
+      <node id="#greatfalls" label="#greatfalls" />
+      <node id="#change" label="#change" />
+      <node id="#pilgrimpacermarathon" label="#pilgrimpacermarathon" />
+      <node id="#mentalillnessfeelslike" label="#mentalillnessfeelslike" />
+      <node id="#redmeat" label="#redmeat" />
+      <node id="#PTSDAwareness" label="#PTSDAwareness" />
+      <node id="#datascience" label="#datascience" />
+      <node id="#Argentina" label="#Argentina" />
+      <node id="#mhsm" label="#mhsm" />
+      <node id="#mile" label="#mile" />
+      <node id="#PGPD" label="#PGPD" />
+      <node id="#mindbody" label="#mindbody" />
+      <node id="#AnnasLaw" label="#AnnasLaw" />
+      <node id="#stigmas" label="#stigmas" />
+      <node id="#WorldSeries" label="#WorldSeries" />
+      <node id="#Technology" label="#Technology" />
+      <node id="#KSUvsKU" label="#KSUvsKU" />
+      <node id="#drugwar" label="#drugwar" />
+      <node id="#1in1m" label="#1in1m" />
+      <node id="#ZombieBall" label="#ZombieBall" />
+      <node id="#excellence" label="#excellence" />
+      <node id="#RoyalsTwitterFamily" label="#RoyalsTwitterFamily" />
+      <node id="#BreakingBad" label="#BreakingBad" />
+      <node id="#analytics" label="#analytics" />
+      <node id="#kinda" label="#kinda" />
+      <node id="#peytonmanning" label="#peytonmanning" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#TBI" label="#TBI" />
+      <node id="#Bigdata" label="#Bigdata" />
+      <node id="#Running" label="#Running" />
+      <node id="#careintegration" label="#careintegration" />
+      <node id="#bipolardisorder" label="#bipolardisorder" />
+      <node id="#2015worldserieschampions" label="#2015worldserieschampions" />
+      <node id="#patientempowerment" label="#patientempowerment" />
+      <node id="#BigSur" label="#BigSur" />
+      <node id="#narrative2" label="#narrative2" />
+      <node id="#ohnoyoudidnt" label="#ohnoyoudidnt" />
+      <node id="#PartyLikeIts2014" label="#PartyLikeIts2014" />
+      <node id="#Recovery" label="#Recovery" />
+      <node id="#royals" label="#royals" />
+      <node id="#gas" label="#gas" />
+      <node id="#momentum" label="#momentum" />
+      <node id="#WorldSeriesBound" label="#WorldSeriesBound" />
+      <node id="#internships" label="#internships" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#advocacy" label="#advocacy" />
+      <node id="#mentalhealthawarenessmonth" label="#mentalhealthawarenessmonth" />
+      <node id="#kids" label="#kids" />
+      <node id="#hit" label="#hit" />
+      <node id="#NASA" label="#NASA" />
+      <node id="#Interoperability" label="#Interoperability" />
+      <node id="#suicide" label="#suicide" />
+      <node id="#selfie" label="#selfie" />
+      <node id="#notsobright" label="#notsobright" />
+      <node id="#shawshank" label="#shawshank" />
+      <node id="#sandy" label="#sandy" />
+      <node id="#Addiction" label="#Addiction" />
+      <node id="#TakeTheCrown" label="#TakeTheCrown" />
+      <node id="#ForestWhitaker" label="#ForestWhitaker" />
+      <node id="#snowmagedden" label="#snowmagedden" />
+      <node id="#benchpress" label="#benchpress" />
+      <node id="#travel" label="#travel" />
+      <node id="#YogiBerra" label="#YogiBerra" />
+      <node id="#interoperability" label="#interoperability" />
+      <node id="#amwriting" label="#amwriting" />
+      <node id="#KSU" label="#KSU" />
+      <node id="#Stage32" label="#Stage32" />
+      <node id="#PDFD" label="#PDFD" />
+      <node id="#HIPAA" label="#HIPAA" />
+      <node id="#SendSilencePacking" label="#SendSilencePacking" />
+      <node id="#true" label="#true" />
+      <node id="#pottymouth" label="#pottymouth" />
+      <node id="#getready4bmag" label="#getready4bmag" />
+      <node id="#fireworksguy" label="#fireworksguy" />
+      <node id="#run" label="#run" />
+      <node id="#Election2016" label="#Election2016" />
+      <node id="#hendersonbehavioralhealth" label="#hendersonbehavioralhealth" />
+      <node id="#iphone" label="#iphone" />
+      <node id="#everydaymatters" label="#everydaymatters" />
+      <node id="#women" label="#women" />
+      <node id="#personal" label="#personal" />
+      <node id="#ashburn" label="#ashburn" />
+      <node id="#gokcroyals" label="#gokcroyals" />
+      <node id="#MentalHealthAwarenessMonth" label="#MentalHealthAwarenessMonth" />
+      <node id="#VimeoPro" label="#VimeoPro" />
+      <node id="#UsedVespa" label="#UsedVespa" />
+      <node id="#Entrepreneur" label="#Entrepreneur" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#RobinWilliams" label="#RobinWilliams" />
+      <node id="#gluttonforpunishment" label="#gluttonforpunishment" />
+      <node id="#GaryVaynerchuk" label="#GaryVaynerchuk" />
+      <node id="#goodforhim" label="#goodforhim" />
+      <node id="#onalongenoughtimeline" label="#onalongenoughtimeline" />
+      <node id="#Oscar2015" label="#Oscar2015" />
+      <node id="#PublicHealth" label="#PublicHealth" />
+      <node id="#football" label="#football" />
+      <node id="#NTST" label="#NTST" />
+      <node id="#documentary" label="#documentary" />
+      <node id="#sprinklers" label="#sprinklers" />
+      <node id="#UpInTheAir" label="#UpInTheAir" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#PopeInUSA" label="#PopeInUSA" />
+      <node id="#sarcasm" label="#sarcasm" />
+      <node id="#CapitolHill" label="#CapitolHill" />
+      <node id="#Joby" label="#Joby" />
+      <node id="#Video" label="#Video" />
+      <node id="#EveryDayMatters" label="#EveryDayMatters" />
+      <node id="#anxiety" label="#anxiety" />
+      <node id="#out" label="#out" />
+      <node id="#homehealth" label="#homehealth" />
+      <node id="#TooncesNooooo" label="#TooncesNooooo" />
+      <node id="#magazine" label="#magazine" />
+      <node id="#bigdataanalytics" label="#bigdataanalytics" />
+      <node id="#Michigan" label="#Michigan" />
+      <node id="#chantilly" label="#chantilly" />
+      <node id="#goodtimes" label="#goodtimes" />
+      <node id="#wearablecamera" label="#wearablecamera" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#Elections2016" label="#Elections2016" />
+      <node id="#ptsdawareness" label="#ptsdawareness" />
+      <node id="#chiefs" label="#chiefs" />
+      <node id="#spring" label="#spring" />
+      <node id="#Wildcat" label="#Wildcat" />
+      <node id="#BrianWilliams" label="#BrianWilliams" />
+      <node id="#endurance" label="#endurance" />
+      <node id="#rockville" label="#rockville" />
+      <node id="#ntst" label="#ntst" />
+      <node id="#TCConf" label="#TCConf" />
+      <node id="#60Minutes" label="#60Minutes" />
+      <node id="#Brightcove" label="#Brightcove" />
+      <node id="#mobilehealth" label="#mobilehealth" />
+      <node id="#losdesaparecidos" label="#losdesaparecidos" />
+      <node id="#NatCon16" label="#NatCon16" />
+      <node id="#NatCon15" label="#NatCon15" />
+      <node id="#DarrylDawkins" label="#DarrylDawkins" />
+      <node id="#screenwriting" label="#screenwriting" />
+      <node id="#redlightcams" label="#redlightcams" />
+      <node id="#recovery" label="#recovery" />
+      <node id="#edm" label="#edm" />
+      <node id="#ALCentralChamps" label="#ALCentralChamps" />
+      <node id="#AAA" label="#AAA" />
+      <node id="#massshootings" label="#massshootings" />
+      <node id="#ResearchKit" label="#ResearchKit" />
+      <node id="#schizophrenia" label="#schizophrenia" />
+      <node id="#addiction" label="#addiction" />
+      <node id="#heroin" label="#heroin" />
+      <node id="#WMHD" label="#WMHD" />
+      <node id="#2015AmericanLeagueChamps" label="#2015AmericanLeagueChamps" />
+      <node id="#anorexia" label="#anorexia" />
+      <node id="#NationalBossDay" label="#NationalBossDay" />
+      <node id="#not1morelife2ED" label="#not1morelife2ED" />
+      <node id="#KCRoyals" label="#KCRoyals" />
+      <node id="#earthquake" label="#earthquake" />
+      <node id="#mwbioinfo15" label="#mwbioinfo15" />
+      <node id="#confusedkstater" label="#confusedkstater" />
+      <node id="#HelpingFamiliesInMentalCrisis" label="#HelpingFamiliesInMentalCrisis" />
+      <node id="#crosscountry" label="#crosscountry" />
+      <node id="#shutdown" label="#shutdown" />
+      <node id="#Powerball" label="#Powerball" />
+      <node id="#metro" label="#metro" />
+      <node id="#bigdata" label="#bigdata" />
+      <node id="#Orioles" label="#Orioles" />
+      <node id="#engineering" label="#engineering" />
+      <node id="#HealthierTogether" label="#HealthierTogether" />
+      <node id="#mashup" label="#mashup" />
+      <node id="#Quotesforlife" label="#Quotesforlife" />
+      <node id="#RecoveryMonth" label="#RecoveryMonth" />
+      <node id="#911anniversary" label="#911anniversary" />
+      <node id="#yearsworthofchicken" label="#yearsworthofchicken" />
+      <node id="#genetics" label="#genetics" />
+      <node id="#behavioralhealth" label="#behavioralhealth" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#thedisappeared" label="#thedisappeared" />
+      <node id="#bliss" label="#bliss" />
+      <node id="#itsamarathon" label="#itsamarathon" />
+      <node id="#RougnedOdor" label="#RougnedOdor" />
+      <node id="#ptsdi" label="#ptsdi" />
+      <node id="#eatingdisorder" label="#eatingdisorder" />
+      <node id="#OpioidEpidemic" label="#OpioidEpidemic" />
+      <node id="#classic" label="#classic" />
+      <node id="#coordinatedcare" label="#coordinatedcare" />
+      <node id="#Business" label="#Business" />
+      <node id="#trio" label="#trio" />
+      <node id="#blunt" label="#blunt" />
+      <node id="#WorldMentalHealthDay" label="#WorldMentalHealthDay" />
+      <node id="#stigma" label="#stigma" />
+      <node id="#UFC200" label="#UFC200" />
+      <node id="#wickedsmart" label="#wickedsmart" />
+      <node id="#negotiation" label="#negotiation" />
+      <node id="#Petraeus" label="#Petraeus" />
+      <node id="#PTSD" label="#PTSD" />
+      <node id="#IHeartHIT" label="#IHeartHIT" />
+      <node id="#CancerPrevention" label="#CancerPrevention" />
+      <node id="#opioid" label="#opioid" />
+      <node id="#RadioShack" label="#RadioShack" />
+      <node id="#ALDS" label="#ALDS" />
+      <node id="#Royals" label="#Royals" />
+      <node id="#ChiefsNation" label="#ChiefsNation" />
+      <node id="#WednesdayWisdom" label="#WednesdayWisdom" />
+      <node id="#Opiate" label="#Opiate" />
+      <node id="#5k" label="#5k" />
+      <node id="#directing" label="#directing" />
+      <node id="#ChiefsKingdom" label="#ChiefsKingdom" />
+      <node id="#NBA" label="#NBA" />
+      <node id="#thosewhodared" label="#thosewhodared" />
+      <node id="#WorldCup" label="#WorldCup" />
+      <node id="#ALCS" label="#ALCS" />
+      <node id="#xc" label="#xc" />
+      <node id="#Ebola" label="#Ebola" />
+      <node id="#BackToTheFuture" label="#BackToTheFuture" />
+      <node id="#MeaningfulUse" label="#MeaningfulUse" />
+      <node id="#bcorp" label="#bcorp" />
+      <node id="#Health" label="#Health" />
+      <node id="#SocEnt" label="#SocEnt" />
+      <node id="#NationalDessertDay" label="#NationalDessertDay" />
+      <node id="#B4Stage4" label="#B4Stage4" />
+      <node id="#mygirl" label="#mygirl" />
+      <node id="#race" label="#race" />
+      <node id="#slipperyslope" label="#slipperyslope" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#pgcounty" label="#pgcounty" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#yeswereready" label="#yeswereready" />
+      <node id="#valuebasedcare" label="#valuebasedcare" />
+      <node id="#Anorexia" label="#Anorexia" />
+      <node id="#ZeroSuicide" label="#ZeroSuicide" />
+      <node id="#chumpchange" label="#chumpchange" />
+      <node id="#viaquest" label="#viaquest" />
+      <node id="#harlemglobetrotters" label="#harlemglobetrotters" />
+      <node id="#IceBucketChallenge" label="#IceBucketChallenge" />
+      <node id="#radiostory" label="#radiostory" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#mentalillness" label="#mentalillness" />
+      <node id="#wholeperson" label="#wholeperson" />
+      <node id="#careerfair" label="#careerfair" />
+      <node id="#XC" label="#XC" />
+      <node id="#Creativity" label="#Creativity" />
+      <node id="#playoffbound" label="#playoffbound" />
+      <node id="#marchmadness" label="#marchmadness" />
+      <node id="#mentallillness" label="#mentallillness" />
+      <node id="#AnnaWestinAct" label="#AnnaWestinAct" />
+      <node id="#NationalCheeseCurdDay" label="#NationalCheeseCurdDay" />
+      <node id="#Graham" label="#Graham" />
+      <node id="#suicideprevention" label="#suicideprevention" />
+      <node id="#EBT" label="#EBT" />
+      <node id="#Cloudscape" label="#Cloudscape" />
+      <node id="#behavioral" label="#behavioral" />
+      <node id="#lyinglow" label="#lyinglow" />
+      <node id="#neurology" label="#neurology" />
+      <node id="#KCHealth" label="#KCHealth" />
+      <node id="#marathon" label="#marathon" />
+      <node id="#MakeMondayBetterIn3Words" label="#MakeMondayBetterIn3Words" />
+      <node id="#warondrugs" label="#warondrugs" />
+      <node id="#LosAngeles" label="#LosAngeles" />
+      <node id="#exch2016" label="#exch2016" />
+      <node id="#Astros" label="#Astros" />
+      <node id="#congressional" label="#congressional" />
+      <node id="#running" label="#running" />
+      <node id="#Trump2016" label="#Trump2016" />
+      <node id="#globalmentalhealth" label="#globalmentalhealth" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#heroinepidemic" label="#heroinepidemic" />
+      <node id="#virginiacavalryfc" label="#virginiacavalryfc" />
+      <node id="#fragersfire" label="#fragersfire" />
+      <node id="#NEDAwareness" label="#NEDAwareness" />
+      <node id="#analysis" label="#analysis" />
+      <node id="#treatingwholeperson" label="#treatingwholeperson" />
+      <node id="#BH365" label="#BH365" />
+      <node id="#cantbelieveyoupostedthat" label="#cantbelieveyoupostedthat" />
+      <node id="#hitpol" label="#hitpol" />
+      <node id="#longlivepainta" label="#longlivepainta" />
+      <node id="#Longevity" label="#Longevity" />
+      <node id="#OCDFeelsLike" label="#OCDFeelsLike" />
+      <node id="#CONN15" label="#CONN15" />
+      <node id="#eclipse" label="#eclipse" />
+      <node id="#CONN16" label="#CONN16" />
+      <node id="#eatingdisorders" label="#eatingdisorders" />
+      <node id="#PopeInDC" label="#PopeInDC" />
+      <node id="#NACoANN" label="#NACoANN" />
+      <node id="#iimhl2015" label="#iimhl2015" />
+      <node id="#publichealth" label="#publichealth" />
+      <node id="#NotBear" label="#NotBear" />
+      <node id="#causeconnected" label="#causeconnected" />
+      <node id="#doofus" label="#doofus" />
+      <node id="#Kentucky" label="#Kentucky" />
+      <node id="#ehr" label="#ehr" />
+      <node id="#MHCC15" label="#MHCC15" />
+      <node id="#ICD10" label="#ICD10" />
+      <node id="#trophyseries" label="#trophyseries" />
+      <node id="#better2gether" label="#better2gether" />
+      <node id="#EXCH16" label="#EXCH16" />
+      <node id="#startups" label="#startups" />
+      <node id="#NFLKickoff" label="#NFLKickoff" />
+      <node id="#takethecrown" label="#takethecrown" />
+      <node id="#MentalIllness" label="#MentalIllness" />
+      <node id="#noinjuries" label="#noinjuries" />
+      <node id="#techKC" label="#techKC" />
+      <node id="#JimmyCone" label="#JimmyCone" />
+      <node id="#NACoAnn" label="#NACoAnn" />
+      <node id="#progress" label="#progress" />
+      <node id="#triomashup" label="#triomashup" />
+      <node id="#MosesMalone" label="#MosesMalone" />
+      <node id="#veteransday" label="#veteransday" />
+      <node id="#dunnloring" label="#dunnloring" />
+      <node id="#WadeDavis" label="#WadeDavis" />
+      <node id="#lightweightconstruction" label="#lightweightconstruction" />
+      <node id="#firefight" label="#firefight" />
+      <node id="#giddy" label="#giddy" />
+      <node id="#WhatsDefense" label="#WhatsDefense" />
+      <node id="#Gorillapod" label="#Gorillapod" />
+      <node id="#hide" label="#hide" />
+      <node id="#TidalBasin" label="#TidalBasin" />
+      <node id="#superbloodmoon" label="#superbloodmoon" />
+      <node id="#plazamayor" label="#plazamayor" />
+      <node id="#IT" label="#IT" />
+      <node id="#Epic" label="#Epic" />
+      <node id="#trailrunning" label="#trailrunning" />
+      <node id="#NBAAllStarWeekend" label="#NBAAllStarWeekend" />
+      <node id="#ALDS2015" label="#ALDS2015" />
+      <node id="#data" label="#data" />
+      <node id="#concussions" label="#concussions" />
+      <node id="#Heroin" label="#Heroin" />
+      <node id="#PopeScope" label="#PopeScope" />
+      <node id="#brexit" label="#brexit" />
+      <node id="#digitalhealth" label="#digitalhealth" />
+      <node id="#newnorm" label="#newnorm" />
+      <node id="#md4" label="#md4" />
+      <node id="#pickawinner" label="#pickawinner" />
+      <node id="#NoPartOfEasy" label="#NoPartOfEasy" />
+      <node id="#inthistogether" label="#inthistogether" />
+      <node id="#whyIoveKC" label="#whyIoveKC" />
+      <node id="#factvsfiction" label="#factvsfiction" />
+      <node id="#depression" label="#depression" />
+      <node id="#capecod" label="#capecod" />
+      <node id="#Quiktrip" label="#Quiktrip" />
+      <node id="#Colorado" label="#Colorado" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#HIMSS16" label="#HIMSS16" />
+      <node id="#HonoringVets" label="#HonoringVets" />
+      <node id="#caps" label="#caps" />
+      <node id="#weightlifting" label="#weightlifting" />
+      <node id="#business" label="#business" />
+      <node id="#CohenCareSummit" label="#CohenCareSummit" />
+      <node id="#Race" label="#Race" />
+      <node id="#TheTimeIsNow" label="#TheTimeIsNow" />
+      <node id="#Chiefs" label="#Chiefs" />
+      <node id="#entrepreneur" label="#entrepreneur" />
+      <node id="#pray4painta" label="#pray4painta" />
+      <node id="#ALCS2015" label="#ALCS2015" />
+      <node id="#preclinical" label="#preclinical" />
+      <node id="#NationalFossilDay" label="#NationalFossilDay" />
+      <node id="#4for40" label="#4for40" />
+      <node id="#NationalRedWineDay" label="#NationalRedWineDay" />
+      <node id="#Bam" label="#Bam" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#ForeverRoyal" label="#ForeverRoyal" />
+      <node id="#Siri" label="#Siri" />
+      <node id="#TakeAPee" label="#TakeAPee" />
+      <node id="#literature" label="#literature" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#nosuicide" label="#nosuicide" />
+      <node id="#GIVEAWAY" label="#GIVEAWAY" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#truth" target="#marchmadness" weight="2196" />
+      <edge id="1" source="#respect" target="#wickedsmart" weight="2196" />
+      <edge id="2" source="#annaslaw" target="#anorexia" weight="2196" />
+      <edge id="3" source="#annaslaw" target="#mentalhealth" weight="2196" />
+      <edge id="4" source="#NeverForget" target="#911anniversary" weight="2196" />
+      <edge id="5" source="#DunningKruger" target="#Election2016" weight="2196" />
+      <edge id="6" source="#Allegheny" target="#behavioralhealth" weight="2196" />
+      <edge id="7" source="#integratedhealth" target="#ntst" weight="2196" />
+      <edge id="8" source="#integratedhealth" target="#hit" weight="2196" />
+      <edge id="9" source="#ShakeItOff" target="#triomashup" weight="2196" />
+      <edge id="10" source="#ShakeItOff" target="#mashup" weight="2196" />
+      <edge id="11" source="#ShakeItOff" target="#Chiefs" weight="2196" />
+      <edge id="12" source="#CrossCountry" target="#Race" weight="2196" />
+      <edge id="13" source="#CrossCountry" target="#5k" weight="2196" />
+      <edge id="14" source="#CrossCountry" target="#mile" weight="2196" />
+      <edge id="15" source="#CrossCountry" target="#Periscope" weight="4392" />
+      <edge id="16" source="#stroke" target="#selfie" weight="2196" />
+      <edge id="17" source="#HIT" target="#NTST" weight="2196" />
+      <edge id="18" source="#HIT" target="#HealthierTogether" weight="2196" />
+      <edge id="19" source="#HIT" target="#healthcare" weight="2196" />
+      <edge id="20" source="#RedThursday" target="#NTST" weight="4392" />
+      <edge id="21" source="#PresidentialElection2016" target="#Graham" weight="2196" />
+      <edge id="22" source="#healthdataexchange" target="#ntst" weight="2196" />
+      <edge id="23" source="#healthdataexchange" target="#Interoperability" weight="2196" />
+      <edge id="24" source="#healthdataexchange" target="#wholeperson" weight="2196" />
+      <edge id="25" source="#greatfalls" target="#progress" weight="2196" />
+      <edge id="26" source="#change" target="#patientempowerment" weight="2196" />
+      <edge id="27" source="#pilgrimpacermarathon" target="#mygirl" weight="2196" />
+      <edge id="28" source="#mentalillnessfeelslike" target="#B4Stage4" weight="2196" />
+      <edge id="29" source="#redmeat" target="#publichealth" weight="2196" />
+      <edge id="30" source="#PTSDAwareness" target="#PTSD" weight="2196" />
+      <edge id="31" source="#PTSDAwareness" target="#WMHD" weight="2196" />
+      <edge id="32" source="#PTSDAwareness" target="#WorldMentalHealthDay" weight="2196" />
+      <edge id="33" source="#datascience" target="#bigdata" weight="2196" />
+      <edge id="34" source="#Argentina" target="#losdesaparecidos" weight="2196" />
+      <edge id="35" source="#Argentina" target="#plazamayor" weight="2196" />
+      <edge id="36" source="#Argentina" target="#thedisappeared" weight="2196" />
+      <edge id="37" source="#mhsm" target="#hcsm" weight="2196" />
+      <edge id="38" source="#mhsm" target="#BH365" weight="2196" />
+      <edge id="39" source="#mile" target="#crosscountry" weight="4392" />
+      <edge id="40" source="#mile" target="#race" weight="4392" />
+      <edge id="41" source="#mile" target="#run" weight="4392" />
+      <edge id="42" source="#mile" target="#Periscope" weight="6588" />
+      <edge id="43" source="#PGPD" target="#PDFD" weight="2196" />
+      <edge id="44" source="#mindbody" target="#run" weight="2196" />
+      <edge id="45" source="#AnnasLaw" target="#anorexia" weight="4392" />
+      <edge id="46" source="#AnnasLaw" target="#not1morelife2ED" weight="2196" />
+      <edge id="47" source="#AnnasLaw" target="#TheTimeIsNow" weight="2196" />
+      <edge id="48" source="#AnnasLaw" target="#eatingdisorder" weight="2196" />
+      <edge id="49" source="#AnnasLaw" target="#Anorexia" weight="2196" />
+      <edge id="50" source="#stigmas" target="#NTST" weight="2196" />
+      <edge id="51" source="#WorldSeries" target="#Royals" weight="4392" />
+      <edge id="52" source="#WorldSeries" target="#TakeTheCrown" weight="2196" />
+      <edge id="53" source="#WorldSeries" target="#pickawinner" weight="2196" />
+      <edge id="54" source="#WorldSeries" target="#MLB" weight="2196" />
+      <edge id="55" source="#WorldSeries" target="#ForeverRoyal" weight="4392" />
+      <edge id="56" source="#Technology" target="#NTST" weight="2196" />
+      <edge id="57" source="#Technology" target="#PublicHealth" weight="2196" />
+      <edge id="58" source="#KSUvsKU" target="#confusedkstater" weight="2196" />
+      <edge id="59" source="#drugwar" target="#warondrugs" weight="2196" />
+      <edge id="60" source="#drugwar" target="#heroinepidemic" weight="2196" />
+      <edge id="61" source="#drugwar" target="#heroin" weight="2196" />
+      <edge id="62" source="#1in1m" target="#NTST" weight="2196" />
+      <edge id="63" source="#ZombieBall" target="#Royals" weight="2196" />
+      <edge id="64" source="#excellence" target="#capecod" weight="2196" />
+      <edge id="65" source="#excellence" target="#addiction" weight="2196" />
+      <edge id="66" source="#RoyalsTwitterFamily" target="#ALDS2015" weight="2196" />
+      <edge id="67" source="#RoyalsTwitterFamily" target="#Astros" weight="2196" />
+      <edge id="68" source="#BreakingBad" target="#slipperyslope" weight="2196" />
+      <edge id="69" source="#analytics" target="#mwbioinfo15" weight="2196" />
+      <edge id="70" source="#analytics" target="#data" weight="2196" />
+      <edge id="71" source="#kinda" target="#spring" weight="2196" />
+      <edge id="72" source="#peytonmanning" target="#Chiefs" weight="2196" />
+      <edge id="73" source="#HealthIT" target="#EHR" weight="2196" />
+      <edge id="74" source="#TBI" target="#CohenCareSummit" weight="2196" />
+      <edge id="75" source="#TBI" target="#preclinical" weight="2196" />
+      <edge id="76" source="#TBI" target="#ptsdi" weight="2196" />
+      <edge id="77" source="#Bigdata" target="#NTST" weight="2196" />
+      <edge id="78" source="#Running" target="#Race" weight="2196" />
+      <edge id="79" source="#Running" target="#Periscope" weight="2196" />
+      <edge id="80" source="#careintegration" target="#ntst" weight="2196" />
+      <edge id="81" source="#bipolardisorder" target="#suicideprevention" weight="2196" />
+      <edge id="82" source="#2015worldserieschampions" target="#Royals" weight="2196" />
+      <edge id="83" source="#BigSur" target="#Bam" weight="2196" />
+      <edge id="84" source="#narrative2" target="#wearablecamera" weight="2196" />
+      <edge id="85" source="#ohnoyoudidnt" target="#cantbelieveyoupostedthat" weight="2196" />
+      <edge id="86" source="#ohnoyoudidnt" target="#hide" weight="2196" />
+      <edge id="87" source="#PartyLikeIts2014" target="#Royals" weight="2196" />
+      <edge id="88" source="#PartyLikeIts2014" target="#TakeTheCrown" weight="2196" />
+      <edge id="89" source="#PartyLikeIts2014" target="#ALCentralChamps" weight="2196" />
+      <edge id="90" source="#PartyLikeIts2014" target="#ForeverRoyal" weight="2196" />
+      <edge id="91" source="#Recovery" target="#NTST" weight="2196" />
+      <edge id="92" source="#Recovery" target="#RecoveryMonth" weight="2196" />
+      <edge id="93" source="#royals" target="#takethecrown" weight="2196" />
+      <edge id="94" source="#royals" target="#ALCS" weight="2196" />
+      <edge id="95" source="#gas" target="#Quiktrip" weight="2196" />
+      <edge id="96" source="#momentum" target="#addiction" weight="2196" />
+      <edge id="97" source="#WorldSeriesBound" target="#Royals" weight="2196" />
+      <edge id="98" source="#internships" target="#engineering" weight="2196" />
+      <edge id="99" source="#internships" target="#careerfair" weight="2196" />
+      <edge id="100" source="#internships" target="#jobs" weight="2196" />
+      <edge id="101" source="#healthIT" target="#EHR" weight="4392" />
+      <edge id="102" source="#healthIT" target="#homehealth" weight="2196" />
+      <edge id="103" source="#advocacy" target="#BH365" weight="2196" />
+      <edge id="104" source="#mentalhealthawarenessmonth" target="#mentalhealth" weight="4392" />
+      <edge id="105" source="#kids" target="#ntst" weight="2196" />
+      <edge id="106" source="#kids" target="#addiction" weight="2196" />
+      <edge id="107" source="#kids" target="#heroin" weight="2196" />
+      <edge id="108" source="#hit" target="#ntst" weight="2196" />
+      <edge id="109" source="#NASA" target="#documentary" weight="2196" />
+      <edge id="110" source="#Interoperability" target="#NTST" weight="2196" />
+      <edge id="111" source="#Interoperability" target="#wholeperson" weight="2196" />
+      <edge id="112" source="#Interoperability" target="#ntst" weight="2196" />
+      <edge id="113" source="#suicide" target="#nosuicide" weight="2196" />
+      <edge id="114" source="#suicide" target="#ntst" weight="2196" />
+      <edge id="115" source="#suicide" target="#mentallillness" weight="2196" />
+      <edge id="116" source="#suicide" target="#massshootings" weight="2196" />
+      <edge id="117" source="#suicide" target="#Oscar2015" weight="2196" />
+      <edge id="118" source="#notsobright" target="#gluttonforpunishment" weight="2196" />
+      <edge id="119" source="#shawshank" target="#trio" weight="2196" />
+      <edge id="120" source="#shawshank" target="#triomashup" weight="2196" />
+      <edge id="121" source="#shawshank" target="#mashup" weight="4392" />
+      <edge id="122" source="#sandy" target="#snowmagedden" weight="2196" />
+      <edge id="123" source="#sandy" target="#earthquake" weight="2196" />
+      <edge id="124" source="#Addiction" target="#NTST" weight="2196" />
+      <edge id="125" source="#TakeTheCrown" target="#TakeTheCrown" weight="4392" />
+      <edge id="126" source="#TakeTheCrown" target="#Royals" weight="6588" />
+      <edge id="127" source="#TakeTheCrown" target="#ALCentralChamps" weight="2196" />
+      <edge id="128" source="#TakeTheCrown" target="#ALCS2015" weight="2196" />
+      <edge id="129" source="#TakeTheCrown" target="#ForeverRoyal" weight="2196" />
+      <edge id="130" source="#TakeTheCrown" target="#TakeAPee" weight="2196" />
+      <edge id="131" source="#ForestWhitaker" target="#NoPartOfEasy" weight="2196" />
+      <edge id="132" source="#ForestWhitaker" target="#NFL" weight="2196" />
+      <edge id="133" source="#snowmagedden" target="#earthquake" weight="2196" />
+      <edge id="134" source="#benchpress" target="#Periscope" weight="2196" />
+      <edge id="135" source="#benchpress" target="#weightlifting" weight="2196" />
+      <edge id="136" source="#travel" target="#business" weight="2196" />
+      <edge id="137" source="#travel" target="#UpInTheAir" weight="2196" />
+      <edge id="138" source="#YogiBerra" target="#NotBear" weight="2196" />
+      <edge id="139" source="#interoperability" target="#NTST" weight="2196" />
+      <edge id="140" source="#amwriting" target="#WednesdayWisdom" weight="2196" />
+      <edge id="141" source="#amwriting" target="#literature" weight="2196" />
+      <edge id="142" source="#amwriting" target="#directing" weight="2196" />
+      <edge id="143" source="#amwriting" target="#screenwriting" weight="2196" />
+      <edge id="144" source="#amwriting" target="#Stage32" weight="2196" />
+      <edge id="145" source="#KSU" target="#Wildcat" weight="2196" />
+      <edge id="146" source="#Stage32" target="#WednesdayWisdom" weight="2196" />
+      <edge id="147" source="#Stage32" target="#directing" weight="2196" />
+      <edge id="148" source="#Stage32" target="#screenwriting" weight="2196" />
+      <edge id="149" source="#HIPAA" target="#ResearchKit" weight="2196" />
+      <edge id="150" source="#SendSilencePacking" target="#MHCC15" weight="2196" />
+      <edge id="151" source="#true" target="#blunt" weight="2196" />
+      <edge id="152" source="#pottymouth" target="#doofus" weight="2196" />
+      <edge id="153" source="#pottymouth" target="#iphone" weight="2196" />
+      <edge id="154" source="#getready4bmag" target="#SocEnt" weight="2196" />
+      <edge id="155" source="#getready4bmag" target="#bcorp" weight="2196" />
+      <edge id="156" source="#fireworksguy" target="#Royals" weight="2196" />
+      <edge id="157" source="#run" target="#crosscountry" weight="6588" />
+      <edge id="158" source="#run" target="#Periscope" weight="6588" />
+      <edge id="159" source="#run" target="#race" weight="4392" />
+      <edge id="160" source="#hendersonbehavioralhealth" target="#ntst" weight="2196" />
+      <edge id="161" source="#iphone" target="#doofus" weight="2196" />
+      <edge id="162" source="#everydaymatters" target="#ntst" weight="2196" />
+      <edge id="163" source="#women" target="#addiction" weight="2196" />
+      <edge id="164" source="#personal" target="#ntst" weight="2196" />
+      <edge id="165" source="#personal" target="#mentalillness" weight="2196" />
+      <edge id="166" source="#personal" target="#causeconnected" weight="2196" />
+      <edge id="167" source="#ashburn" target="#virginiacavalryfc" weight="2196" />
+      <edge id="168" source="#gokcroyals" target="#Royals" weight="2196" />
+      <edge id="169" source="#gokcroyals" target="#Kentucky" weight="2196" />
+      <edge id="170" source="#MentalHealthAwarenessMonth" target="#mentalillness" weight="2196" />
+      <edge id="171" source="#VimeoPro" target="#Brightcove" weight="2196" />
+      <edge id="172" source="#UsedVespa" target="#RadioShack" weight="2196" />
+      <edge id="173" source="#Entrepreneur" target="#GaryVaynerchuk" weight="2196" />
+      <edge id="174" source="#Cancer" target="#CancerPrevention" weight="2196" />
+      <edge id="175" source="#RobinWilliams" target="#ntst" weight="2196" />
+      <edge id="176" source="#RobinWilliams" target="#edm" weight="2196" />
+      <edge id="177" source="#goodforhim" target="#Powerball" weight="2196" />
+      <edge id="178" source="#onalongenoughtimeline" target="#inthistogether" weight="2196" />
+      <edge id="179" source="#Oscar2015" target="#nosuicide" weight="2196" />
+      <edge id="180" source="#Oscar2015" target="#ntst" weight="2196" />
+      <edge id="181" source="#PublicHealth" target="#NTST" weight="4392" />
+      <edge id="182" source="#football" target="#NFL" weight="2196" />
+      <edge id="183" source="#football" target="#concussions" weight="2196" />
+      <edge id="184" source="#NTST" target="#anorexia" weight="2196" />
+      <edge id="185" source="#NTST" target="#Facebook" weight="2196" />
+      <edge id="186" source="#NTST" target="#IHeartHIT" weight="2196" />
+      <edge id="187" source="#NTST" target="#suicideprevention" weight="4392" />
+      <edge id="188" source="#NTST" target="#CONN15" weight="4392" />
+      <edge id="189" source="#NTST" target="#CONN16" weight="6588" />
+      <edge id="190" source="#NTST" target="#Opiate" weight="2196" />
+      <edge id="191" source="#NTST" target="#EveryDayMatters" weight="2196" />
+      <edge id="192" source="#NTST" target="#veteransday" weight="2196" />
+      <edge id="193" source="#NTST" target="#thosewhodared" weight="2196" />
+      <edge id="194" source="#NTST" target="#HealthierTogether" weight="2196" />
+      <edge id="195" source="#NTST" target="#healthcare" weight="2196" />
+      <edge id="196" source="#NTST" target="#stigma" weight="4392" />
+      <edge id="197" source="#NTST" target="#NatCon16" weight="2196" />
+      <edge id="198" source="#NTST" target="#RecoveryMonth" weight="10980" />
+      <edge id="199" source="#NTST" target="#NatCon15" weight="4392" />
+      <edge id="200" source="#NTST" target="#mentalhealth" weight="4392" />
+      <edge id="201" source="#NTST" target="#Michigan" weight="2196" />
+      <edge id="202" source="#NTST" target="#HIMSS16" weight="2196" />
+      <edge id="203" source="#NTST" target="#Colorado" weight="2196" />
+      <edge id="204" source="#NTST" target="#EHR" weight="2196" />
+      <edge id="205" source="#NTST" target="#EXCH16" weight="2196" />
+      <edge id="206" source="#NTST" target="#schizophrenia" weight="4392" />
+      <edge id="207" source="#NTST" target="#IT" weight="2196" />
+      <edge id="208" source="#NTST" target="#Epic" weight="2196" />
+      <edge id="209" source="#NTST" target="#addiction" weight="2196" />
+      <edge id="210" source="#NTST" target="#HonoringVets" weight="2196" />
+      <edge id="211" source="#sprinklers" target="#firefight" weight="2196" />
+      <edge id="212" source="#UpInTheAir" target="#business" weight="2196" />
+      <edge id="213" source="#Facebook" target="#Video" weight="2196" />
+      <edge id="214" source="#Facebook" target="#suicideprevention" weight="2196" />
+      <edge id="215" source="#PopeInUSA" target="#PopeScope" weight="2196" />
+      <edge id="216" source="#PopeInUSA" target="#PopeInDC" weight="2196" />
+      <edge id="217" source="#PopeInUSA" target="#Periscope" weight="2196" />
+      <edge id="218" source="#sarcasm" target="#Trump2016" weight="2196" />
+      <edge id="219" source="#CapitolHill" target="#fragersfire" weight="2196" />
+      <edge id="220" source="#Joby" target="#Gorillapod" weight="2196" />
+      <edge id="221" source="#anxiety" target="#depression" weight="2196" />
+      <edge id="222" source="#anxiety" target="#OCDFeelsLike" weight="2196" />
+      <edge id="223" source="#out" target="#lightweightconstruction" weight="2196" />
+      <edge id="224" source="#out" target="#noinjuries" weight="2196" />
+      <edge id="225" source="#homehealth" target="#EHR" weight="2196" />
+      <edge id="226" source="#TooncesNooooo" target="#Elections2016" weight="2196" />
+      <edge id="227" source="#TooncesNooooo" target="#Trump" weight="2196" />
+      <edge id="228" source="#magazine" target="#entrepreneur" weight="2196" />
+      <edge id="229" source="#bigdataanalytics" target="#bigdata" weight="2196" />
+      <edge id="230" source="#Michigan" target="#Colorado" weight="2196" />
+      <edge id="231" source="#chantilly" target="#goodtimes" weight="2196" />
+      <edge id="232" source="#mentalhealth" target="#veterans" weight="2196" />
+      <edge id="233" source="#mentalhealth" target="#ptsdawareness" weight="2196" />
+      <edge id="234" source="#mentalhealth" target="#mentalillness" weight="2196" />
+      <edge id="235" source="#mentalhealth" target="#anorexia" weight="2196" />
+      <edge id="236" source="#mentalhealth" target="#Colorado" weight="2196" />
+      <edge id="237" source="#mentalhealth" target="#suicideprevention" weight="2196" />
+      <edge id="238" source="#mentalhealth" target="#mentalhealth" weight="4392" />
+      <edge id="239" source="#Elections2016" target="#Trump" weight="2196" />
+      <edge id="240" source="#ptsdawareness" target="#veterans" weight="2196" />
+      <edge id="241" source="#chiefs" target="#KCRoyals" weight="2196" />
+      <edge id="242" source="#BrianWilliams" target="#60Minutes" weight="2196" />
+      <edge id="243" source="#endurance" target="#bliss" weight="2196" />
+      <edge id="244" source="#rockville" target="#yearsworthofchicken" weight="2196" />
+      <edge id="245" source="#ntst" target="#heroin" weight="4392" />
+      <edge id="246" source="#ntst" target="#behavioral" weight="2196" />
+      <edge id="247" source="#ntst" target="#valuebasedcare" weight="2196" />
+      <edge id="248" source="#ntst" target="#NACoAnn" weight="4392" />
+      <edge id="249" source="#ntst" target="#nosuicide" weight="2196" />
+      <edge id="250" source="#ntst" target="#exch2016" weight="2196" />
+      <edge id="251" source="#ntst" target="#viaquest" weight="4392" />
+      <edge id="252" source="#ntst" target="#congressional" weight="2196" />
+      <edge id="253" source="#ntst" target="#causeconnected" weight="2196" />
+      <edge id="254" source="#ntst" target="#mentalillness" weight="2196" />
+      <edge id="255" source="#ntst" target="#wholeperson" weight="2196" />
+      <edge id="256" source="#ntst" target="#genetics" weight="2196" />
+      <edge id="257" source="#ntst" target="#edm" weight="6588" />
+      <edge id="258" source="#ntst" target="#NACoANN" weight="2196" />
+      <edge id="259" source="#ntst" target="#addiction" weight="6588" />
+      <edge id="260" source="#ntst" target="#healthcare" weight="2196" />
+      <edge id="261" source="#TCConf" target="#radiostory" weight="2196" />
+      <edge id="262" source="#mobilehealth" target="#digitalhealth" weight="2196" />
+      <edge id="263" source="#losdesaparecidos" target="#thedisappeared" weight="2196" />
+      <edge id="264" source="#losdesaparecidos" target="#plazamayor" weight="2196" />
+      <edge id="265" source="#NatCon15" target="#IT" weight="2196" />
+      <edge id="266" source="#DarrylDawkins" target="#NBA" weight="2196" />
+      <edge id="267" source="#DarrylDawkins" target="#MosesMalone" weight="2196" />
+      <edge id="268" source="#screenwriting" target="#WednesdayWisdom" weight="2196" />
+      <edge id="269" source="#screenwriting" target="#directing" weight="2196" />
+      <edge id="270" source="#redlightcams" target="#AAA" weight="2196" />
+      <edge id="271" source="#recovery" target="#addiction" weight="4392" />
+      <edge id="272" source="#ALCentralChamps" target="#ForeverRoyal" weight="2196" />
+      <edge id="273" source="#ALCentralChamps" target="#Royals" weight="2196" />
+      <edge id="274" source="#massshootings" target="#mentallillness" weight="2196" />
+      <edge id="275" source="#schizophrenia" target="#RecoveryMonth" weight="4392" />
+      <edge id="276" source="#addiction" target="#genetics" weight="4392" />
+      <edge id="277" source="#addiction" target="#heroin" weight="6588" />
+      <edge id="278" source="#addiction" target="#capecod" weight="2196" />
+      <edge id="279" source="#addiction" target="#OpioidEpidemic" weight="2196" />
+      <edge id="280" source="#addiction" target="#Opiate" weight="2196" />
+      <edge id="281" source="#addiction" target="#addiction" weight="4392" />
+      <edge id="282" source="#heroin" target="#genetics" weight="2196" />
+      <edge id="283" source="#heroin" target="#heroinepidemic" weight="2196" />
+      <edge id="284" source="#heroin" target="#warondrugs" weight="2196" />
+      <edge id="285" source="#WMHD" target="#PTSD" weight="2196" />
+      <edge id="286" source="#WMHD" target="#WorldMentalHealthDay" weight="2196" />
+      <edge id="287" source="#2015AmericanLeagueChamps" target="#Royals" weight="2196" />
+      <edge id="288" source="#anorexia" target="#stigma" weight="2196" />
+      <edge id="289" source="#NationalBossDay" target="#NationalCheeseCurdDay" weight="2196" />
+      <edge id="290" source="#NationalBossDay" target="#NationalDessertDay" weight="2196" />
+      <edge id="291" source="#NationalBossDay" target="#NationalRedWineDay" weight="2196" />
+      <edge id="292" source="#NationalBossDay" target="#NationalFossilDay" weight="2196" />
+      <edge id="293" source="#not1morelife2ED" target="#Anorexia" weight="2196" />
+      <edge id="294" source="#not1morelife2ED" target="#TheTimeIsNow" weight="2196" />
+      <edge id="295" source="#mwbioinfo15" target="#data" weight="2196" />
+      <edge id="296" source="#HelpingFamiliesInMentalCrisis" target="#AnnaWestinAct" weight="2196" />
+      <edge id="297" source="#crosscountry" target="#xc" weight="2196" />
+      <edge id="298" source="#crosscountry" target="#Periscope" weight="8784" />
+      <edge id="299" source="#crosscountry" target="#race" weight="4392" />
+      <edge id="300" source="#crosscountry" target="#5k" weight="2196" />
+      <edge id="301" source="#shutdown" target="#classic" weight="2196" />
+      <edge id="302" source="#metro" target="#dunnloring" weight="2196" />
+      <edge id="303" source="#bigdata" target="#EBT" weight="2196" />
+      <edge id="304" source="#bigdata" target="#treatingwholeperson" weight="2196" />
+      <edge id="305" source="#bigdata" target="#analysis" weight="2196" />
+      <edge id="306" source="#Orioles" target="#Royals" weight="2196" />
+      <edge id="307" source="#Orioles" target="#MLB" weight="2196" />
+      <edge id="308" source="#engineering" target="#careerfair" weight="2196" />
+      <edge id="309" source="#engineering" target="#jobs" weight="2196" />
+      <edge id="310" source="#HealthierTogether" target="#healthcare" weight="2196" />
+      <edge id="311" source="#mashup" target="#Chiefs" weight="2196" />
+      <edge id="312" source="#mashup" target="#mashup" weight="4392" />
+      <edge id="313" source="#mashup" target="#triomashup" weight="6588" />
+      <edge id="314" source="#mashup" target="#trio" weight="4392" />
+      <edge id="315" source="#Quotesforlife" target="#business" weight="2196" />
+      <edge id="316" source="#Quotesforlife" target="#negotiation" weight="2196" />
+      <edge id="317" source="#hcsm" target="#BH365" weight="2196" />
+      <edge id="318" source="#thedisappeared" target="#plazamayor" weight="2196" />
+      <edge id="319" source="#itsamarathon" target="#running" weight="4392" />
+      <edge id="320" source="#itsamarathon" target="#marathon" weight="4392" />
+      <edge id="321" source="#RougnedOdor" target="#UFC200" weight="2196" />
+      <edge id="322" source="#ptsdi" target="#CohenCareSummit" weight="2196" />
+      <edge id="323" source="#ptsdi" target="#preclinical" weight="2196" />
+      <edge id="324" source="#coordinatedcare" target="#ehr" weight="2196" />
+      <edge id="325" source="#Business" target="#Creativity" weight="2196" />
+      <edge id="326" source="#trio" target="#triomashup" weight="2196" />
+      <edge id="327" source="#WorldMentalHealthDay" target="#PTSD" weight="2196" />
+      <edge id="328" source="#negotiation" target="#business" weight="2196" />
+      <edge id="329" source="#Petraeus" target="#lyinglow" weight="2196" />
+      <edge id="330" source="#opioid" target="#Heroin" weight="2196" />
+      <edge id="331" source="#ALDS" target="#Royals" weight="2196" />
+      <edge id="332" source="#ALDS" target="#MakeMondayBetterIn3Words" weight="2196" />
+      <edge id="333" source="#Royals" target="#MLB" weight="2196" />
+      <edge id="334" source="#Royals" target="#Kentucky" weight="2196" />
+      <edge id="335" source="#Royals" target="#ALCS" weight="2196" />
+      <edge id="336" source="#Royals" target="#ForeverRoyal" weight="4392" />
+      <edge id="337" source="#ChiefsNation" target="#NFLKickoff" weight="2196" />
+      <edge id="338" source="#WednesdayWisdom" target="#directing" weight="2196" />
+      <edge id="339" source="#5k" target="#Race" weight="2196" />
+      <edge id="340" source="#5k" target="#xc" weight="2196" />
+      <edge id="341" source="#5k" target="#Periscope" weight="4392" />
+      <edge id="342" source="#ChiefsKingdom" target="#NFLKickoff" weight="2196" />
+      <edge id="343" source="#NBA" target="#MosesMalone" weight="2196" />
+      <edge id="344" source="#thosewhodared" target="#veteransday" weight="2196" />
+      <edge id="345" source="#WorldCup" target="#IceBucketChallenge" weight="2196" />
+      <edge id="346" source="#WorldCup" target="#Ebola" weight="2196" />
+      <edge id="347" source="#ALCS" target="#giddy" weight="2196" />
+      <edge id="348" source="#xc" target="#Periscope" weight="2196" />
+      <edge id="349" source="#Ebola" target="#IceBucketChallenge" weight="2196" />
+      <edge id="350" source="#BackToTheFuture" target="#Trump" weight="2196" />
+      <edge id="351" source="#MeaningfulUse" target="#EHR" weight="2196" />
+      <edge id="352" source="#MeaningfulUse" target="#hitpol" weight="2196" />
+      <edge id="353" source="#bcorp" target="#SocEnt" weight="2196" />
+      <edge id="354" source="#Health" target="#LosAngeles" weight="2196" />
+      <edge id="355" source="#Health" target="#Longevity" weight="2196" />
+      <edge id="356" source="#NationalDessertDay" target="#NationalCheeseCurdDay" weight="2196" />
+      <edge id="357" source="#NationalDessertDay" target="#NationalRedWineDay" weight="2196" />
+      <edge id="358" source="#NationalDessertDay" target="#NationalFossilDay" weight="2196" />
+      <edge id="359" source="#race" target="#Periscope" weight="10980" />
+      <edge id="360" source="#jobs" target="#careerfair" weight="2196" />
+      <edge id="361" source="#pgcounty" target="#md4" weight="2196" />
+      <edge id="362" source="#NFL" target="#NoPartOfEasy" weight="2196" />
+      <edge id="363" source="#NFL" target="#concussions" weight="2196" />
+      <edge id="364" source="#yeswereready" target="#ICD10" weight="4392" />
+      <edge id="365" source="#valuebasedcare" target="#exch2016" weight="2196" />
+      <edge id="366" source="#Anorexia" target="#TheTimeIsNow" weight="2196" />
+      <edge id="367" source="#ZeroSuicide" target="#iimhl2015" weight="2196" />
+      <edge id="368" source="#chumpchange" target="#newnorm" weight="2196" />
+      <edge id="369" source="#viaquest" target="#congressional" weight="2196" />
+      <edge id="370" source="#viaquest" target="#healthcare" weight="2196" />
+      <edge id="371" source="#viaquest" target="#behavioral" weight="2196" />
+      <edge id="372" source="#harlemglobetrotters" target="#WhatsDefense" weight="2196" />
+      <edge id="373" source="#harlemglobetrotters" target="#NBAAllStarWeekend" weight="2196" />
+      <edge id="374" source="#mentalillness" target="#causeconnected" weight="2196" />
+      <edge id="375" source="#XC" target="#Periscope" weight="2196" />
+      <edge id="376" source="#XC" target="#Race" weight="2196" />
+      <edge id="377" source="#playoffbound" target="#caps" weight="2196" />
+      <edge id="378" source="#AnnaWestinAct" target="#eatingdisorders" weight="2196" />
+      <edge id="379" source="#AnnaWestinAct" target="#NEDAwareness" weight="2196" />
+      <edge id="380" source="#NationalCheeseCurdDay" target="#NationalRedWineDay" weight="2196" />
+      <edge id="381" source="#NationalCheeseCurdDay" target="#NationalFossilDay" weight="2196" />
+      <edge id="382" source="#Cloudscape" target="#Periscope" weight="2196" />
+      <edge id="383" source="#behavioral" target="#congressional" weight="2196" />
+      <edge id="384" source="#neurology" target="#factvsfiction" weight="2196" />
+      <edge id="385" source="#KCHealth" target="#techKC" weight="2196" />
+      <edge id="386" source="#marathon" target="#running" weight="4392" />
+      <edge id="387" source="#warondrugs" target="#heroinepidemic" weight="2196" />
+      <edge id="388" source="#LosAngeles" target="#Longevity" weight="2196" />
+      <edge id="389" source="#Astros" target="#ALDS2015" weight="2196" />
+      <edge id="390" source="#running" target="#Periscope" weight="2196" />
+      <edge id="391" source="#globalmentalhealth" target="#MentalIllness" weight="2196" />
+      <edge id="392" source="#NEDAwareness" target="#eatingdisorders" weight="2196" />
+      <edge id="393" source="#analysis" target="#treatingwholeperson" weight="2196" />
+      <edge id="394" source="#cantbelieveyoupostedthat" target="#hide" weight="2196" />
+      <edge id="395" source="#hitpol" target="#EHR" weight="2196" />
+      <edge id="396" source="#longlivepainta" target="#pray4painta" weight="2196" />
+      <edge id="397" source="#CONN15" target="#data" weight="2196" />
+      <edge id="398" source="#eclipse" target="#Periscope" weight="2196" />
+      <edge id="399" source="#eclipse" target="#superbloodmoon" weight="2196" />
+      <edge id="400" source="#PopeInDC" target="#PopeScope" weight="6588" />
+      <edge id="401" source="#PopeInDC" target="#Periscope" weight="6588" />
+      <edge id="402" source="#trophyseries" target="#trailrunning" weight="2196" />
+      <edge id="403" source="#better2gether" target="#4for40" weight="2196" />
+      <edge id="404" source="#startups" target="#business" weight="2196" />
+      <edge id="405" source="#noinjuries" target="#lightweightconstruction" weight="2196" />
+      <edge id="406" source="#JimmyCone" target="#TidalBasin" weight="2196" />
+      <edge id="407" source="#triomashup" target="#Chiefs" weight="2196" />
+      <edge id="408" source="#WadeDavis" target="#GIVEAWAY" weight="2196" />
+      <edge id="409" source="#WhatsDefense" target="#NBAAllStarWeekend" weight="2196" />
+      <edge id="410" source="#superbloodmoon" target="#Periscope" weight="2196" />
+      <edge id="411" source="#IT" target="#Siri" weight="2196" />
+      <edge id="412" source="#PopeScope" target="#Periscope" weight="6588" />
+      <edge id="413" source="#brexit" target="#brexit" weight="4392" />
+      <edge id="414" source="#whyIoveKC" target="#Periscope" weight="2196" />
+      <edge id="415" source="#Periscope" target="#weightlifting" weight="2196" />
+      <edge id="416" source="#Periscope" target="#Race" weight="6588" />
+      <edge id="417" source="#CohenCareSummit" target="#preclinical" weight="2196" />
+      <edge id="418" source="#ALCS2015" target="#TakeAPee" weight="2196" />
+      <edge id="419" source="#NationalFossilDay" target="#NationalRedWineDay" weight="2196" />
+    </edges>
+  </graph>
+</gexf>

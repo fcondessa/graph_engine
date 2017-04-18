@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#WANOp" label="#WANOp" />
+      <node id="#WANOpWednesday" label="#WANOpWednesday" />
+      <node id="#ABCbus" label="#ABCbus" />
+      <node id="#customerservice" label="#customerservice" />
+      <node id="#SmartCityChallenge" label="#SmartCityChallenge" />
+      <node id="#SmartColumbus" label="#SmartColumbus" />
+      <node id="#publicrelations" label="#publicrelations" />
+      <node id="#CbusProud" label="#CbusProud" />
+      <node id="#Cbus" label="#Cbus" />
+      <node id="#bizleaders2016" label="#bizleaders2016" />
+      <node id="#PRiseverything" label="#PRiseverything" />
+      <node id="#PR" label="#PR" />
+      <node id="#ColumbusTrust" label="#ColumbusTrust" />
+      <node id="#lifeincbus" label="#lifeincbus" />
+      <node id="#DOTSmartCity" label="#DOTSmartCity" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#BrianWilliams" label="#BrianWilliams" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#WANOp" target="#WANOpWednesday" weight="101" />
+      <edge id="1" source="#ABCbus" target="#lifeincbus" weight="404" />
+      <edge id="2" source="#ABCbus" target="#Cbus" weight="101" />
+      <edge id="3" source="#customerservice" target="#socialmedia" weight="101" />
+      <edge id="4" source="#SmartCityChallenge" target="#SmartColumbus" weight="101" />
+      <edge id="5" source="#SmartCityChallenge" target="#DOTSmartCity" weight="101" />
+      <edge id="6" source="#SmartCityChallenge" target="#CbusProud" weight="101" />
+      <edge id="7" source="#SmartColumbus" target="#DOTSmartCity" weight="101" />
+      <edge id="8" source="#SmartColumbus" target="#CbusProud" weight="101" />
+      <edge id="9" source="#publicrelations" target="#PR" weight="202" />
+      <edge id="10" source="#CbusProud" target="#DOTSmartCity" weight="101" />
+      <edge id="11" source="#bizleaders2016" target="#ColumbusTrust" weight="101" />
+      <edge id="12" source="#PRiseverything" target="#PR" weight="101" />
+      <edge id="13" source="#PR" target="#BrianWilliams" weight="101" />
+    </edges>
+  </graph>
+</gexf>

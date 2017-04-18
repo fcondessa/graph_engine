@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#DerbyMilano" label="#DerbyMilano" />
+      <node id="#pretendirish" label="#pretendirish" />
+      <node id="#JoinTheClan" label="#JoinTheClan" />
+      <node id="#WIN" label="#WIN" />
+      <node id="#villavcity" label="#villavcity" />
+      <node id="#BraeheadClan" label="#BraeheadClan" />
+      <node id="#cityatwembley" label="#cityatwembley" />
+      <node id="#CityComps" label="#CityComps" />
+      <node id="#mcfc" label="#mcfc" />
+      <node id="#CINvsNE" label="#CINvsNE" />
+      <node id="#Patriots" label="#Patriots" />
+      <node id="#Glasgow" label="#Glasgow" />
+      <node id="#CC35" label="#CC35" />
+      <node id="#grammar" label="#grammar" />
+      <node id="#CapitalOneCupFinal" label="#CapitalOneCupFinal" />
+      <node id="#goalmachine" label="#goalmachine" />
+      <node id="#arnoldperalta" label="#arnoldperalta" />
+      <node id="#scottish" label="#scottish" />
+      <node id="#NYR" label="#NYR" />
+      <node id="#MilanInter" label="#MilanInter" />
+      <node id="#cityveverton" label="#cityveverton" />
+      <node id="#Follow" label="#Follow" />
+      <node id="#NYRonMSG" label="#NYRonMSG" />
+      <node id="#youknowwhatwemean" label="#youknowwhatwemean" />
+      <node id="#Fernando" label="#Fernando" />
+      <node id="#RT" label="#RT" />
+      <node id="#MCFC" label="#MCFC" />
+      <node id="#NEvsCLE" label="#NEvsCLE" />
+      <node id="#Lionbrand" label="#Lionbrand" />
+      <node id="#RangersFamily" label="#RangersFamily" />
+      <node id="#PurpleArmy" label="#PurpleArmy" />
+      <node id="#Ronaldo" label="#Ronaldo" />
+      <node id="#purplearmy" label="#purplearmy" />
+      <node id="#AE41" label="#AE41" />
+      <node id="#itsapowerplaygoal" label="#itsapowerplaygoal" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#DerbyMilano" target="#MilanInter" weight="3209" />
+      <edge id="1" source="#pretendirish" target="#scottish" weight="3209" />
+      <edge id="2" source="#JoinTheClan" target="#Glasgow" weight="6418" />
+      <edge id="3" source="#WIN" target="#Follow" weight="3209" />
+      <edge id="4" source="#WIN" target="#RT" weight="3209" />
+      <edge id="5" source="#villavcity" target="#mcfc" weight="3209" />
+      <edge id="6" source="#BraeheadClan" target="#PurpleArmy" weight="3209" />
+      <edge id="7" source="#cityatwembley" target="#mcfc" weight="3209" />
+      <edge id="8" source="#CityComps" target="#mcfc" weight="3209" />
+      <edge id="9" source="#mcfc" target="#cityveverton" weight="3209" />
+      <edge id="10" source="#mcfc" target="#goalmachine" weight="3209" />
+      <edge id="11" source="#CINvsNE" target="#Patriots" weight="6418" />
+      <edge id="12" source="#Patriots" target="#NEvsCLE" weight="3209" />
+      <edge id="13" source="#Glasgow" target="#purplearmy" weight="3209" />
+      <edge id="14" source="#CC35" target="#AE41" weight="3209" />
+      <edge id="15" source="#grammar" target="#youknowwhatwemean" weight="3209" />
+      <edge id="16" source="#CapitalOneCupFinal" target="#MCFC" weight="3209" />
+      <edge id="17" source="#arnoldperalta" target="#RangersFamily" weight="3209" />
+      <edge id="18" source="#NYR" target="#NYRonMSG" weight="3209" />
+      <edge id="19" source="#NYR" target="#itsapowerplaygoal" weight="3209" />
+      <edge id="20" source="#Follow" target="#RT" weight="3209" />
+      <edge id="21" source="#Fernando" target="#Ronaldo" weight="3209" />
+      <edge id="22" source="#Fernando" target="#Lionbrand" weight="3209" />
+      <edge id="23" source="#Lionbrand" target="#Ronaldo" weight="3209" />
+    </edges>
+  </graph>
+</gexf>

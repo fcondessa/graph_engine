@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#gitrdone" label="#gitrdone" />
+      <node id="#artsforum" label="#artsforum" />
+      <node id="#HeatWave" label="#HeatWave" />
+      <node id="#grinding" label="#grinding" />
+      <node id="#swcbus" label="#swcbus" />
+      <node id="#eship" label="#eship" />
+      <node id="#wusu" label="#wusu" />
+      <node id="#asseenincolumbus" label="#asseenincolumbus" />
+      <node id="#socolumbus" label="#socolumbus" />
+      <node id="#hostd" label="#hostd" />
+      <node id="#startup" label="#startup" />
+      <node id="#startups" label="#startups" />
+      <node id="#hostdlaunch" label="#hostdlaunch" />
+      <node id="#SWIG614" label="#SWIG614" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#startupweekend" label="#startupweekend" />
+      <node id="#creativeplacemaking" label="#creativeplacemaking" />
+      <node id="#cbus" label="#cbus" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#gitrdone" target="#wusu" weight="169" />
+      <edge id="1" source="#artsforum" target="#creativeplacemaking" weight="169" />
+      <edge id="2" source="#HeatWave" target="#hostd" weight="169" />
+      <edge id="3" source="#grinding" target="#wusu" weight="169" />
+      <edge id="4" source="#swcbus" target="#eship" weight="169" />
+      <edge id="5" source="#swcbus" target="#startupweekend" weight="169" />
+      <edge id="6" source="#swcbus" target="#startups" weight="169" />
+      <edge id="7" source="#swcbus" target="#cbus" weight="169" />
+      <edge id="8" source="#eship" target="#startupweekend" weight="169" />
+      <edge id="9" source="#eship" target="#startups" weight="338" />
+      <edge id="10" source="#eship" target="#wusu" weight="169" />
+      <edge id="11" source="#eship" target="#cbus" weight="169" />
+      <edge id="12" source="#wusu" target="#startups" weight="338" />
+      <edge id="13" source="#wusu" target="#cbus" weight="169" />
+      <edge id="14" source="#asseenincolumbus" target="#socolumbus" weight="169" />
+      <edge id="15" source="#startup" target="#Columbus" weight="169" />
+      <edge id="16" source="#startups" target="#startupweekend" weight="169" />
+      <edge id="17" source="#startups" target="#cbus" weight="169" />
+      <edge id="18" source="#hostdlaunch" target="#SWIG614" weight="169" />
+      <edge id="19" source="#startupweekend" target="#cbus" weight="169" />
+    </edges>
+  </graph>
+</gexf>

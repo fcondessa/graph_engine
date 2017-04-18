@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#nutz" label="#nutz" />
+      <node id="#wojbomb" label="#wojbomb" />
+      <node id="#run" label="#run" />
+      <node id="#neverforget" label="#neverforget" />
+      <node id="#StevenAdams" label="#StevenAdams" />
+      <node id="#postseason" label="#postseason" />
+      <node id="#DubNation" label="#DubNation" />
+      <node id="#WorldSmileDay" label="#WorldSmileDay" />
+      <node id="#running" label="#running" />
+      <node id="#votebelt" label="#votebelt" />
+      <node id="#BeliEVEN" label="#BeliEVEN" />
+      <node id="#bayarea" label="#bayarea" />
+      <node id="#shamwow" label="#shamwow" />
+      <node id="#giants" label="#giants" />
+      <node id="#voteblet" label="#voteblet" />
+      <node id="#thunder" label="#thunder" />
+      <node id="#NFCEast" label="#NFCEast" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#VoteBelt" label="#VoteBelt" />
+      <node id="#BeatTheCubs" label="#BeatTheCubs" />
+      <node id="#NFLKickoff" label="#NFLKickoff" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#nutz" target="#StevenAdams" weight="3217" />
+      <edge id="1" source="#nutz" target="#thunder" weight="3217" />
+      <edge id="2" source="#wojbomb" target="#shamwow" weight="3217" />
+      <edge id="3" source="#run" target="#running" weight="3217" />
+      <edge id="4" source="#run" target="#VoteBelt" weight="3217" />
+      <edge id="5" source="#neverforget" target="#votebelt" weight="3217" />
+      <edge id="6" source="#StevenAdams" target="#thunder" weight="3217" />
+      <edge id="7" source="#postseason" target="#WorldSmileDay" weight="3217" />
+      <edge id="8" source="#postseason" target="#Dodgers" weight="3217" />
+      <edge id="9" source="#postseason" target="#BeliEVEN" weight="3217" />
+      <edge id="10" source="#postseason" target="#BeatTheCubs" weight="3217" />
+      <edge id="11" source="#postseason" target="#SFGiants" weight="3217" />
+      <edge id="12" source="#DubNation" target="#bayarea" weight="3217" />
+      <edge id="13" source="#DubNation" target="#giants" weight="3217" />
+      <edge id="14" source="#WorldSmileDay" target="#BeliEVEN" weight="3217" />
+      <edge id="15" source="#WorldSmileDay" target="#BeatTheCubs" weight="3217" />
+      <edge id="16" source="#WorldSmileDay" target="#SFGiants" weight="3217" />
+      <edge id="17" source="#running" target="#VoteBelt" weight="3217" />
+      <edge id="18" source="#votebelt" target="#voteblet" weight="3217" />
+      <edge id="19" source="#BeliEVEN" target="#BeatTheCubs" weight="3217" />
+      <edge id="20" source="#BeliEVEN" target="#SFGiants" weight="3217" />
+      <edge id="21" source="#bayarea" target="#giants" weight="3217" />
+      <edge id="22" source="#NFCEast" target="#NFLKickoff" weight="3217" />
+      <edge id="23" source="#SFGiants" target="#BeatTheCubs" weight="3217" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#govtech" label="#govtech" />
+      <node id="#coldaisle" label="#coldaisle" />
+      <node id="#DCIM" label="#DCIM" />
+      <node id="#FridayFeeling" label="#FridayFeeling" />
+      <node id="#COLO" label="#COLO" />
+      <node id="#industrialcleaning" label="#industrialcleaning" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#cleanroom" label="#cleanroom" />
+      <node id="#tackymats" label="#tackymats" />
+      <node id="#bestboothviewever" label="#bestboothviewever" />
+      <node id="#staticsolutions" label="#staticsolutions" />
+      <node id="#commercialcleaning" label="#commercialcleaning" />
+      <node id="#WednesdayWisdom" label="#WednesdayWisdom" />
+      <node id="#TGIF" label="#TGIF" />
+      <node id="#cleaning" label="#cleaning" />
+      <node id="#DataCenterWorld" label="#DataCenterWorld" />
+      <node id="#colocation" label="#colocation" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#golf" label="#golf" />
+      <node id="#scary" label="#scary" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#ESD" label="#ESD" />
+      <node id="#dcim" label="#dcim" />
+      <node id="#FF" label="#FF" />
+      <node id="#dotmatrix" label="#dotmatrix" />
+      <node id="#datacenter" label="#datacenter" />
+      <node id="#cincinnati" label="#cincinnati" />
+      <node id="#Gartner" label="#Gartner" />
+      <node id="#datacentre" label="#datacentre" />
+      <node id="#NOC" label="#NOC" />
+      <node id="#doyoufeellucky" label="#doyoufeellucky" />
+      <node id="#IT" label="#IT" />
+      <node id="#DisasterAvoidance" label="#DisasterAvoidance" />
+      <node id="#raisedfloor" label="#raisedfloor" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#govtech" target="#datacenter" weight="219" />
+      <edge id="1" source="#coldaisle" target="#datacenter" weight="219" />
+      <edge id="2" source="#DCIM" target="#Gartner" weight="219" />
+      <edge id="3" source="#DCIM" target="#DataCenterWorld" weight="219" />
+      <edge id="4" source="#DCIM" target="#DisasterAvoidance" weight="219" />
+      <edge id="5" source="#FridayFeeling" target="#datacenter" weight="219" />
+      <edge id="6" source="#COLO" target="#NOC" weight="219" />
+      <edge id="7" source="#COLO" target="#datacenter" weight="219" />
+      <edge id="8" source="#industrialcleaning" target="#IT" weight="219" />
+      <edge id="9" source="#industrialcleaning" target="#commercialcleaning" weight="219" />
+      <edge id="10" source="#Ohio" target="#TGIF" weight="219" />
+      <edge id="11" source="#Ohio" target="#datacenter" weight="219" />
+      <edge id="12" source="#Ohio" target="#cleaning" weight="219" />
+      <edge id="13" source="#cleanroom" target="#ESD" weight="219" />
+      <edge id="14" source="#tackymats" target="#datacenter" weight="219" />
+      <edge id="15" source="#bestboothviewever" target="#datacenter" weight="219" />
+      <edge id="16" source="#staticsolutions" target="#datacenter" weight="438" />
+      <edge id="17" source="#staticsolutions" target="#ESD" weight="219" />
+      <edge id="18" source="#commercialcleaning" target="#IT" weight="219" />
+      <edge id="19" source="#WednesdayWisdom" target="#datacenter" weight="219" />
+      <edge id="20" source="#WednesdayWisdom" target="#datacentre" weight="219" />
+      <edge id="21" source="#TGIF" target="#datacenter" weight="219" />
+      <edge id="22" source="#TGIF" target="#cleaning" weight="219" />
+      <edge id="23" source="#cleaning" target="#veterans" weight="219" />
+      <edge id="24" source="#cleaning" target="#datacenter" weight="657" />
+      <edge id="25" source="#cleaning" target="#columbus" weight="219" />
+      <edge id="26" source="#colocation" target="#datacenter" weight="219" />
+      <edge id="27" source="#columbus" target="#veterans" weight="219" />
+      <edge id="28" source="#columbus" target="#datacenter" weight="219" />
+      <edge id="29" source="#golf" target="#datacenter" weight="219" />
+      <edge id="30" source="#scary" target="#datacenter" weight="219" />
+      <edge id="31" source="#veterans" target="#datacenter" weight="219" />
+      <edge id="32" source="#ESD" target="#datacenter" weight="219" />
+      <edge id="33" source="#dcim" target="#cincinnati" weight="219" />
+      <edge id="34" source="#dcim" target="#datacenter" weight="438" />
+      <edge id="35" source="#FF" target="#datacenter" weight="219" />
+      <edge id="36" source="#dotmatrix" target="#datacenter" weight="219" />
+      <edge id="37" source="#datacenter" target="#cincinnati" weight="219" />
+      <edge id="38" source="#datacenter" target="#datacentre" weight="219" />
+      <edge id="39" source="#datacenter" target="#NOC" weight="219" />
+      <edge id="40" source="#datacenter" target="#doyoufeellucky" weight="219" />
+      <edge id="41" source="#datacenter" target="#raisedfloor" weight="219" />
+      <edge id="42" source="#Gartner" target="#DisasterAvoidance" weight="219" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#chua" label="#chua" />
+      <node id="#census" label="#census" />
+      <node id="#healing" label="#healing" />
+      <node id="#perspective" label="#perspective" />
+      <node id="#notsurprised" label="#notsurprised" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#hcsmla" label="#hcsmla" />
+      <node id="#hcsmeu" label="#hcsmeu" />
+      <node id="#MU" label="#MU" />
+      <node id="#hcsmsv" label="#hcsmsv" />
+      <node id="#nytimes" label="#nytimes" />
+      <node id="#MUS2" label="#MUS2" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#chua" target="#healing" weight="73" />
+      <edge id="1" source="#chua" target="#perspective" weight="73" />
+      <edge id="2" source="#census" target="#notsurprised" weight="73" />
+      <edge id="3" source="#healing" target="#perspective" weight="73" />
+      <edge id="4" source="#hcsm" target="#hcsmeu" weight="73" />
+      <edge id="5" source="#hcsm" target="#hcsmsv" weight="73" />
+      <edge id="6" source="#hcsm" target="#hcsmla" weight="73" />
+      <edge id="7" source="#hcsm" target="#nytimes" weight="73" />
+      <edge id="8" source="#hcsmla" target="#hcsmeu" weight="73" />
+      <edge id="9" source="#hcsmla" target="#hcsmsv" weight="73" />
+      <edge id="10" source="#hcsmla" target="#nytimes" weight="73" />
+      <edge id="11" source="#hcsmeu" target="#hcsmsv" weight="73" />
+      <edge id="12" source="#hcsmeu" target="#nytimes" weight="73" />
+      <edge id="13" source="#MU" target="#MUS2" weight="73" />
+      <edge id="14" source="#hcsmsv" target="#nytimes" weight="73" />
+    </edges>
+  </graph>
+</gexf>

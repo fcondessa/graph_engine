@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Hilliard" label="#Hilliard" />
+      <node id="#AsSeenInColumbus" label="#AsSeenInColumbus" />
+      <node id="#SoColumbus" label="#SoColumbus" />
+      <node id="#HalesAles" label="#HalesAles" />
+      <node id="#muskoftheminotaur" label="#muskoftheminotaur" />
+      <node id="#IPA" label="#IPA" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Hilliard" target="#SoColumbus" weight="520" />
+      <edge id="1" source="#Hilliard" target="#HalesAles" weight="260" />
+      <edge id="2" source="#Hilliard" target="#AsSeenInColumbus" weight="260" />
+      <edge id="3" source="#Hilliard" target="#Ohio" weight="260" />
+      <edge id="4" source="#AsSeenInColumbus" target="#SoColumbus" weight="260" />
+      <edge id="5" source="#AsSeenInColumbus" target="#HalesAles" weight="260" />
+      <edge id="6" source="#AsSeenInColumbus" target="#Ohio" weight="260" />
+      <edge id="7" source="#SoColumbus" target="#HalesAles" weight="260" />
+      <edge id="8" source="#SoColumbus" target="#Ohio" weight="260" />
+      <edge id="9" source="#HalesAles" target="#Ohio" weight="260" />
+      <edge id="10" source="#muskoftheminotaur" target="#IPA" weight="260" />
+    </edges>
+  </graph>
+</gexf>

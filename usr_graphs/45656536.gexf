@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Android" label="#Android" />
+      <node id="#stirtrek" label="#stirtrek" />
+      <node id="#openminded" label="#openminded" />
+      <node id="#healthyyroster" label="#healthyyroster" />
+      <node id="#M3Conf" label="#M3Conf" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#rev1demoday" label="#rev1demoday" />
+      <node id="#iOS" label="#iOS" />
+      <node id="#fixyourwebsite" label="#fixyourwebsite" />
+      <node id="#uxaxioms" label="#uxaxioms" />
+      <node id="#apple" label="#apple" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Android" target="#iOS" weight="426" />
+      <edge id="1" source="#stirtrek" target="#uxaxioms" weight="426" />
+      <edge id="2" source="#openminded" target="#M3Conf" weight="426" />
+      <edge id="3" source="#healthyyroster" target="#rev1demoday" weight="426" />
+      <edge id="4" source="#M3Conf" target="#mobile" weight="426" />
+      <edge id="5" source="#fixyourwebsite" target="#apple" weight="426" />
+    </edges>
+  </graph>
+</gexf>

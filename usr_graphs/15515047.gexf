@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#expcols" label="#expcols" />
+      <node id="#BringIt" label="#BringIt" />
+      <node id="#EXPY" label="#EXPY" />
+      <node id="#ForColumbus" label="#ForColumbus" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#ExpCols" label="#ExpCols" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#expcols" target="#EXPY" weight="192" />
+      <edge id="1" source="#expcols" target="#Columbus" weight="192" />
+      <edge id="2" source="#BringIt" target="#ForColumbus" weight="192" />
+      <edge id="3" source="#Columbus" target="#ExpCols" weight="192" />
+    </edges>
+  </graph>
+</gexf>

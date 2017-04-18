@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SavetheFood" label="#SavetheFood" />
+      <node id="#july1" label="#july1" />
+      <node id="#sponsored" label="#sponsored" />
+      <node id="#july4" label="#july4" />
+      <node id="#Seinfeld" label="#Seinfeld" />
+      <node id="#ad" label="#ad" />
+      <node id="#fourthofjuly" label="#fourthofjuly" />
+      <node id="#bloodymary" label="#bloodymary" />
+      <node id="#TonyRomasRibs" label="#TonyRomasRibs" />
+      <node id="#canadaday" label="#canadaday" />
+      <node id="#soup" label="#soup" />
+      <node id="#kitchn" label="#kitchn" />
+      <node id="#picnic" label="#picnic" />
+      <node id="#NY" label="#NY" />
+      <node id="#diy" label="#diy" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SavetheFood" target="#sponsored" weight="6404" />
+      <edge id="1" source="#july1" target="#july4" weight="3202" />
+      <edge id="2" source="#july1" target="#fourthofjuly" weight="3202" />
+      <edge id="3" source="#july1" target="#bloodymary" weight="3202" />
+      <edge id="4" source="#july1" target="#NY" weight="3202" />
+      <edge id="5" source="#july1" target="#canadaday" weight="3202" />
+      <edge id="6" source="#july1" target="#picnic" weight="3202" />
+      <edge id="7" source="#sponsored" target="#TonyRomasRibs" weight="3202" />
+      <edge id="8" source="#july4" target="#fourthofjuly" weight="3202" />
+      <edge id="9" source="#july4" target="#bloodymary" weight="3202" />
+      <edge id="10" source="#july4" target="#NY" weight="3202" />
+      <edge id="11" source="#july4" target="#canadaday" weight="3202" />
+      <edge id="12" source="#july4" target="#picnic" weight="3202" />
+      <edge id="13" source="#Seinfeld" target="#soup" weight="3202" />
+      <edge id="14" source="#ad" target="#TonyRomasRibs" weight="6404" />
+      <edge id="15" source="#fourthofjuly" target="#bloodymary" weight="3202" />
+      <edge id="16" source="#fourthofjuly" target="#NY" weight="3202" />
+      <edge id="17" source="#fourthofjuly" target="#canadaday" weight="3202" />
+      <edge id="18" source="#fourthofjuly" target="#picnic" weight="3202" />
+      <edge id="19" source="#bloodymary" target="#NY" weight="3202" />
+      <edge id="20" source="#bloodymary" target="#canadaday" weight="3202" />
+      <edge id="21" source="#bloodymary" target="#picnic" weight="3202" />
+      <edge id="22" source="#canadaday" target="#NY" weight="3202" />
+      <edge id="23" source="#canadaday" target="#picnic" weight="3202" />
+      <edge id="24" source="#kitchn" target="#diy" weight="3202" />
+      <edge id="25" source="#picnic" target="#NY" weight="3202" />
+    </edges>
+  </graph>
+</gexf>

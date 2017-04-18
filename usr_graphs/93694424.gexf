@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#HEV" label="#HEV" />
+      <node id="#ecomonday" label="#ecomonday" />
+      <node id="#ln" label="#ln" />
+      <node id="#e85" label="#e85" />
+      <node id="#biofuels" label="#biofuels" />
+      <node id="#hybrid" label="#hybrid" />
+      <node id="#green" label="#green" />
+      <node id="#cleancities" label="#cleancities" />
+      <node id="#EV" label="#EV" />
+      <node id="#ev" label="#ev" />
+      <node id="#CNG" label="#CNG" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#propane" label="#propane" />
+      <node id="#rollsroyce" label="#rollsroyce" />
+      <node id="#Biodiesel" label="#Biodiesel" />
+      <node id="#Englefield" label="#Englefield" />
+      <node id="#CleanCities" label="#CleanCities" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#HEV" target="#propane" weight="75" />
+      <edge id="1" source="#HEV" target="#cleancities" weight="75" />
+      <edge id="2" source="#ecomonday" target="#hybrid" weight="75" />
+      <edge id="3" source="#ecomonday" target="#rollsroyce" weight="75" />
+      <edge id="4" source="#ecomonday" target="#green" weight="75" />
+      <edge id="5" source="#ln" target="#CleanCities" weight="75" />
+      <edge id="6" source="#ln" target="#EV" weight="75" />
+      <edge id="7" source="#ln" target="#CNG" weight="75" />
+      <edge id="8" source="#ln" target="#green" weight="75" />
+      <edge id="9" source="#ln" target="#ohio" weight="75" />
+      <edge id="10" source="#e85" target="#ev" weight="75" />
+      <edge id="11" source="#e85" target="#CNG" weight="75" />
+      <edge id="12" source="#e85" target="#propane" weight="75" />
+      <edge id="13" source="#e85" target="#cleancities" weight="75" />
+      <edge id="14" source="#biofuels" target="#ev" weight="75" />
+      <edge id="15" source="#biofuels" target="#CleanCities" weight="75" />
+      <edge id="16" source="#hybrid" target="#rollsroyce" weight="75" />
+      <edge id="17" source="#hybrid" target="#green" weight="75" />
+      <edge id="18" source="#green" target="#CleanCities" weight="75" />
+      <edge id="19" source="#green" target="#EV" weight="75" />
+      <edge id="20" source="#green" target="#CNG" weight="75" />
+      <edge id="21" source="#green" target="#rollsroyce" weight="75" />
+      <edge id="22" source="#green" target="#ohio" weight="75" />
+      <edge id="23" source="#cleancities" target="#ev" weight="75" />
+      <edge id="24" source="#cleancities" target="#CNG" weight="225" />
+      <edge id="25" source="#cleancities" target="#Ohio" weight="150" />
+      <edge id="26" source="#cleancities" target="#propane" weight="225" />
+      <edge id="27" source="#cleancities" target="#ohio" weight="75" />
+      <edge id="28" source="#EV" target="#CNG" weight="75" />
+      <edge id="29" source="#EV" target="#CleanCities" weight="75" />
+      <edge id="30" source="#EV" target="#ohio" weight="75" />
+      <edge id="31" source="#ev" target="#CNG" weight="75" />
+      <edge id="32" source="#ev" target="#CleanCities" weight="75" />
+      <edge id="33" source="#ev" target="#propane" weight="75" />
+      <edge id="34" source="#CNG" target="#propane" weight="75" />
+      <edge id="35" source="#CNG" target="#Ohio" weight="150" />
+      <edge id="36" source="#CNG" target="#CleanCities" weight="75" />
+      <edge id="37" source="#CNG" target="#ohio" weight="75" />
+      <edge id="38" source="#ohio" target="#CleanCities" weight="150" />
+      <edge id="39" source="#ohio" target="#propane" weight="75" />
+      <edge id="40" source="#propane" target="#Ohio" weight="75" />
+      <edge id="41" source="#propane" target="#CleanCities" weight="150" />
+      <edge id="42" source="#Biodiesel" target="#Englefield" weight="75" />
+      <edge id="43" source="#CleanCities" target="#Ohio" weight="75" />
+    </edges>
+  </graph>
+</gexf>

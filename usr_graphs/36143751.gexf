@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuperMuseum" label="#SuperMuseum" />
+      <node id="#nytimes" label="#nytimes" />
+      <node id="#OHMuseumchat" label="#OHMuseumchat" />
+      <node id="#ProblemSolver" label="#ProblemSolver" />
+      <node id="#ohiopride" label="#ohiopride" />
+      <node id="#sponsor" label="#sponsor" />
+      <node id="#spendmyway" label="#spendmyway" />
+      <node id="#Fixnotfight" label="#Fixnotfight" />
+      <node id="#OTD" label="#OTD" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#table2" label="#table2" />
+      <node id="#FixNotFight" label="#FixNotFight" />
+      <node id="#SaveTheTavern" label="#SaveTheTavern" />
+      <node id="#builtforit" label="#builtforit" />
+      <node id="#Ohio" label="#Ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuperMuseum" target="#OHMuseumchat" weight="117" />
+      <edge id="1" source="#nytimes" target="#OTD" weight="117" />
+      <edge id="2" source="#OHMuseumchat" target="#ohiopride" weight="117" />
+      <edge id="3" source="#ProblemSolver" target="#FixNotFight" weight="117" />
+      <edge id="4" source="#sponsor" target="#builtforit" weight="117" />
+      <edge id="5" source="#spendmyway" target="#table2" weight="117" />
+      <edge id="6" source="#Fixnotfight" target="#SOTU" weight="117" />
+      <edge id="7" source="#SaveTheTavern" target="#Ohio" weight="117" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,769 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#apprenticeship" label="#apprenticeship" />
+      <node id="#resumes" label="#resumes" />
+      <node id="#NASWAVets2016" label="#NASWAVets2016" />
+      <node id="#NeverForget" label="#NeverForget" />
+      <node id="#employer" label="#employer" />
+      <node id="#30PercentVets" label="#30PercentVets" />
+      <node id="#OhioEd" label="#OhioEd" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#entrepreneurs" label="#entrepreneurs" />
+      <node id="#apprentices" label="#apprentices" />
+      <node id="#nervous" label="#nervous" />
+      <node id="#firstsevenjobs" label="#firstsevenjobs" />
+      <node id="#STNAs" label="#STNAs" />
+      <node id="#thankyou" label="#thankyou" />
+      <node id="#military" label="#military" />
+      <node id="#educational" label="#educational" />
+      <node id="#DreamBIG" label="#DreamBIG" />
+      <node id="#NationalApprenticeshipWeek" label="#NationalApprenticeshipWeek" />
+      <node id="#AkronFireDepartment" label="#AkronFireDepartment" />
+      <node id="#fireman" label="#fireman" />
+      <node id="#ColumbusOhio" label="#ColumbusOhio" />
+      <node id="#Retweet" label="#Retweet" />
+      <node id="#unemployment" label="#unemployment" />
+      <node id="#PlanIt" label="#PlanIt" />
+      <node id="#Springfield" label="#Springfield" />
+      <node id="#firefighters" label="#firefighters" />
+      <node id="#math" label="#math" />
+      <node id="#jobfair" label="#jobfair" />
+      <node id="#revolution" label="#revolution" />
+      <node id="#BacktoWorkOH" label="#BacktoWorkOH" />
+      <node id="#Summer" label="#Summer" />
+      <node id="#OhioLovesVets" label="#OhioLovesVets" />
+      <node id="#Employment" label="#Employment" />
+      <node id="#Students" label="#Students" />
+      <node id="#goals" label="#goals" />
+      <node id="#free" label="#free" />
+      <node id="#team15" label="#team15" />
+      <node id="#College" label="#College" />
+      <node id="#ohiohighered" label="#ohiohighered" />
+      <node id="#911Memorial" label="#911Memorial" />
+      <node id="#LiveTweet" label="#LiveTweet" />
+      <node id="#NowHiring" label="#NowHiring" />
+      <node id="#BacktoLife" label="#BacktoLife" />
+      <node id="#HorizonHomeHealthcare" label="#HorizonHomeHealthcare" />
+      <node id="#finance" label="#finance" />
+      <node id="#OMJCareerFair" label="#OMJCareerFair" />
+      <node id="#fraud" label="#fraud" />
+      <node id="#Career" label="#Career" />
+      <node id="#Cleveland" label="#Cleveland" />
+      <node id="#workforce" label="#workforce" />
+      <node id="#internship" label="#internship" />
+      <node id="#hygienists" label="#hygienists" />
+      <node id="#OhioMeansJobs" label="#OhioMeansJobs" />
+      <node id="#jobhunt" label="#jobhunt" />
+      <node id="#employers" label="#employers" />
+      <node id="#interview" label="#interview" />
+      <node id="#employees" label="#employees" />
+      <node id="#OhioWorks" label="#OhioWorks" />
+      <node id="#spring" label="#spring" />
+      <node id="#Biosciences" label="#Biosciences" />
+      <node id="#hire" label="#hire" />
+      <node id="#ApprenticeshipWorks" label="#ApprenticeshipWorks" />
+      <node id="#Workforce" label="#Workforce" />
+      <node id="#aviation" label="#aviation" />
+      <node id="#MakerFest" label="#MakerFest" />
+      <node id="#youth" label="#youth" />
+      <node id="#Central" label="#Central" />
+      <node id="#airplanes" label="#airplanes" />
+      <node id="#dreamBIG" label="#dreamBIG" />
+      <node id="#nowhiring" label="#nowhiring" />
+      <node id="#OHjobs" label="#OHjobs" />
+      <node id="#OH" label="#OH" />
+      <node id="#OhioJobs" label="#OhioJobs" />
+      <node id="#OMJCareerFairs" label="#OMJCareerFairs" />
+      <node id="#BWAYCorporation" label="#BWAYCorporation" />
+      <node id="#werprexies" label="#werprexies" />
+      <node id="#Construction" label="#Construction" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#dreamingBIG" label="#dreamingBIG" />
+      <node id="#tips" label="#tips" />
+      <node id="#Tuesday" label="#Tuesday" />
+      <node id="#resume" label="#resume" />
+      <node id="#opportunity" label="#opportunity" />
+      <node id="#smallbusiness" label="#smallbusiness" />
+      <node id="#JobsNow" label="#JobsNow" />
+      <node id="#electrician" label="#electrician" />
+      <node id="#unemployed" label="#unemployed" />
+      <node id="#GAP" label="#GAP" />
+      <node id="#gratitude" label="#gratitude" />
+      <node id="#greatwork" label="#greatwork" />
+      <node id="#JobFair" label="#JobFair" />
+      <node id="#nursing" label="#nursing" />
+      <node id="#jobsearch" label="#jobsearch" />
+      <node id="#Military" label="#Military" />
+      <node id="#career" label="#career" />
+      <node id="#teachers" label="#teachers" />
+      <node id="#Amazon" label="#Amazon" />
+      <node id="#teachohio8" label="#teachohio8" />
+      <node id="#WarehouseJobs" label="#WarehouseJobs" />
+      <node id="#hospitality" label="#hospitality" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#MFGday16" label="#MFGday16" />
+      <node id="#OHVets" label="#OHVets" />
+      <node id="#ohio8" label="#ohio8" />
+      <node id="#Ohioans" label="#Ohioans" />
+      <node id="#CentralOhio" label="#CentralOhio" />
+      <node id="#DYK" label="#DYK" />
+      <node id="#babyjobseeker" label="#babyjobseeker" />
+      <node id="#ACT" label="#ACT" />
+      <node id="#schoolbus" label="#schoolbus" />
+      <node id="#motivation" label="#motivation" />
+      <node id="#ohiostatefair" label="#ohiostatefair" />
+      <node id="#SouthwestOhio" label="#SouthwestOhio" />
+      <node id="#quality" label="#quality" />
+      <node id="#HR" label="#HR" />
+      <node id="#OhioValley" label="#OhioValley" />
+      <node id="#BacktoWork" label="#BacktoWork" />
+      <node id="#China" label="#China" />
+      <node id="#JobFairs" label="#JobFairs" />
+      <node id="#Accountants" label="#Accountants" />
+      <node id="#fall" label="#fall" />
+      <node id="#Job" label="#Job" />
+      <node id="#Manufacturing" label="#Manufacturing" />
+      <node id="#winter" label="#winter" />
+      <node id="#changinglivescoj" label="#changinglivescoj" />
+      <node id="#Cincinnati" label="#Cincinnati" />
+      <node id="#hightech" label="#hightech" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#Veteran" label="#Veteran" />
+      <node id="#technology" label="#technology" />
+      <node id="#construction" label="#construction" />
+      <node id="#jobs" label="#jobs" />
+      <node id="#ohioshale" label="#ohioshale" />
+      <node id="#HiringEvent" label="#HiringEvent" />
+      <node id="#Internship" label="#Internship" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#VetsJobsChat" label="#VetsJobsChat" />
+      <node id="#LiveTweeting" label="#LiveTweeting" />
+      <node id="#LibertyCenter" label="#LibertyCenter" />
+      <node id="#JobsOhio" label="#JobsOhio" />
+      <node id="#punintended" label="#punintended" />
+      <node id="#employment" label="#employment" />
+      <node id="#internships" label="#internships" />
+      <node id="#SAT" label="#SAT" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#CommunityConnectors" label="#CommunityConnectors" />
+      <node id="#econdev" label="#econdev" />
+      <node id="#OHworkforce" label="#OHworkforce" />
+      <node id="#Transportation" label="#Transportation" />
+      <node id="#Perrysburg" label="#Perrysburg" />
+      <node id="#nurse" label="#nurse" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#pharmacy" label="#pharmacy" />
+      <node id="#economy" label="#economy" />
+      <node id="#science" label="#science" />
+      <node id="#teamwork" label="#teamwork" />
+      <node id="#Oho" label="#Oho" />
+      <node id="#MilitaryAppreciationMonth" label="#MilitaryAppreciationMonth" />
+      <node id="#OMjCareerFair" label="#OMjCareerFair" />
+      <node id="#JobSearch" label="#JobSearch" />
+      <node id="#education" label="#education" />
+      <node id="#wehavejobs" label="#wehavejobs" />
+      <node id="#ApplyToday" label="#ApplyToday" />
+      <node id="#Opennings" label="#Opennings" />
+      <node id="#apprenticeships" label="#apprenticeships" />
+      <node id="#careerfair" label="#careerfair" />
+      <node id="#prenatal" label="#prenatal" />
+      <node id="#mondaymotivation" label="#mondaymotivation" />
+      <node id="#Toledo" label="#Toledo" />
+      <node id="#HorseshoeCasino" label="#HorseshoeCasino" />
+      <node id="#Allen" label="#Allen" />
+      <node id="#Lima" label="#Lima" />
+      <node id="#teacher" label="#teacher" />
+      <node id="#Europe" label="#Europe" />
+      <node id="#findyournextjob" label="#findyournextjob" />
+      <node id="#studentloans" label="#studentloans" />
+      <node id="#Veterans" label="#Veterans" />
+      <node id="#Vandalia" label="#Vandalia" />
+      <node id="#Apprenticeships" label="#Apprenticeships" />
+      <node id="#Aerospace" label="#Aerospace" />
+      <node id="#ohioworks" label="#ohioworks" />
+      <node id="#LoveWhatYouDo" label="#LoveWhatYouDo" />
+      <node id="#jobfairs" label="#jobfairs" />
+      <node id="#MFGDay16" label="#MFGDay16" />
+      <node id="#200vetshired" label="#200vetshired" />
+      <node id="#school" label="#school" />
+      <node id="#Free" label="#Free" />
+      <node id="#summerjobs" label="#summerjobs" />
+      <node id="#OhioStateFair" label="#OhioStateFair" />
+      <node id="#TippCity" label="#TippCity" />
+      <node id="#OpenInterviews" label="#OpenInterviews" />
+      <node id="#Periscope" label="#Periscope" />
+      <node id="#Fire" label="#Fire" />
+      <node id="#omjcareerfair" label="#omjcareerfair" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#Akron" label="#Akron" />
+      <node id="#Intern" label="#Intern" />
+      <node id="#transportation" label="#transportation" />
+      <node id="#CareerFair" label="#CareerFair" />
+      <node id="#Marietta" label="#Marietta" />
+      <node id="#LoveTwitter" label="#LoveTwitter" />
+      <node id="#ManufacturingDay" label="#ManufacturingDay" />
+      <node id="#excited" label="#excited" />
+      <node id="#business" label="#business" />
+      <node id="#TheMoreYouKnow" label="#TheMoreYouKnow" />
+      <node id="#K12day" label="#K12day" />
+      <node id="#Dayton" label="#Dayton" />
+      <node id="#Interview" label="#Interview" />
+      <node id="#JOBFAIR" label="#JOBFAIR" />
+      <node id="#summer" label="#summer" />
+      <node id="#hired" label="#hired" />
+      <node id="#FindIt" label="#FindIt" />
+      <node id="#Latinos" label="#Latinos" />
+      <node id="#RNAs" label="#RNAs" />
+      <node id="#eighthjob" label="#eighthjob" />
+      <node id="#GoodMorning" label="#GoodMorning" />
+      <node id="#Cuyahoga" label="#Cuyahoga" />
+      <node id="#FindItHere" label="#FindItHere" />
+      <node id="#GED" label="#GED" />
+      <node id="#businesses" label="#businesses" />
+      <node id="#Zanesville" label="#Zanesville" />
+      <node id="#FundIt" label="#FundIt" />
+      <node id="#energy" label="#energy" />
+      <node id="#OHlovesVETS" label="#OHlovesVETS" />
+      <node id="#poverty" label="#poverty" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#VeteransDay" label="#VeteransDay" />
+      <node id="#computer" label="#computer" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#paramedics" label="#paramedics" />
+      <node id="#electricians" label="#electricians" />
+      <node id="#Friday" label="#Friday" />
+      <node id="#BestForVets" label="#BestForVets" />
+      <node id="#engineering" label="#engineering" />
+      <node id="#IT" label="#IT" />
+      <node id="#Truck" label="#Truck" />
+      <node id="#TODAY" label="#TODAY" />
+      <node id="#Vet" label="#Vet" />
+      <node id="#job" label="#job" />
+      <node id="#Portsmouth" label="#Portsmouth" />
+      <node id="#Wooster" label="#Wooster" />
+      <node id="#FranklinCounty" label="#FranklinCounty" />
+      <node id="#ThankYou" label="#ThankYou" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#CentralOH" label="#CentralOH" />
+      <node id="#christmastree" label="#christmastree" />
+      <node id="#SEOhio" label="#SEOhio" />
+      <node id="#veteran" label="#veteran" />
+      <node id="#apprenticeshipworks" label="#apprenticeshipworks" />
+      <node id="#vets" label="#vets" />
+      <node id="#students" label="#students" />
+      <node id="#Hospitality" label="#Hospitality" />
+      <node id="#MfgDay16" label="#MfgDay16" />
+      <node id="#careerfairs" label="#careerfairs" />
+      <node id="#apprentice" label="#apprentice" />
+      <node id="#Athens" label="#Athens" />
+      <node id="#dayton" label="#dayton" />
+      <node id="#Olympic" label="#Olympic" />
+      <node id="#socialworkers" label="#socialworkers" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#apprenticeship" target="#firefighters" weight="3207" />
+      <edge id="1" source="#resumes" target="#OMJCareerFair" weight="22449" />
+      <edge id="2" source="#NASWAVets2016" target="#Veterans" weight="3207" />
+      <edge id="3" source="#NASWAVets2016" target="#Ohio" weight="3207" />
+      <edge id="4" source="#NeverForget" target="#911Memorial" weight="3207" />
+      <edge id="5" source="#employer" target="#OMJCareerFair" weight="6414" />
+      <edge id="6" source="#employer" target="#jobs" weight="3207" />
+      <edge id="7" source="#employer" target="#Ohio" weight="3207" />
+      <edge id="8" source="#30PercentVets" target="#hiring" weight="3207" />
+      <edge id="9" source="#30PercentVets" target="#VetsJobsChat" weight="3207" />
+      <edge id="10" source="#OhioEd" target="#CommunityConnectors" weight="3207" />
+      <edge id="11" source="#manufacturing" target="#BWAYCorporation" weight="3207" />
+      <edge id="12" source="#manufacturing" target="#jobs" weight="3207" />
+      <edge id="13" source="#manufacturing" target="#OhioValley" weight="3207" />
+      <edge id="14" source="#manufacturing" target="#OhioWorks" weight="35277" />
+      <edge id="15" source="#manufacturing" target="#MFGday16" weight="25656" />
+      <edge id="16" source="#manufacturing" target="#job" weight="3207" />
+      <edge id="17" source="#manufacturing" target="#computer" weight="3207" />
+      <edge id="18" source="#manufacturing" target="#ohioworks" weight="3207" />
+      <edge id="19" source="#manufacturing" target="#Dayton" weight="3207" />
+      <edge id="20" source="#manufacturing" target="#jobfair" weight="3207" />
+      <edge id="21" source="#manufacturing" target="#Ohio" weight="19242" />
+      <edge id="22" source="#manufacturing" target="#OMJCareerFair" weight="19242" />
+      <edge id="23" source="#manufacturing" target="#DYK" weight="6414" />
+      <edge id="24" source="#entrepreneurs" target="#Ohio" weight="3207" />
+      <edge id="25" source="#apprentices" target="#apprenticeshipworks" weight="3207" />
+      <edge id="26" source="#apprentices" target="#Ohio" weight="3207" />
+      <edge id="27" source="#nervous" target="#electrician" weight="3207" />
+      <edge id="28" source="#nervous" target="#excited" weight="3207" />
+      <edge id="29" source="#firstsevenjobs" target="#findyournextjob" weight="3207" />
+      <edge id="30" source="#firstsevenjobs" target="#jobs" weight="3207" />
+      <edge id="31" source="#firstsevenjobs" target="#eighthjob" weight="3207" />
+      <edge id="32" source="#STNAs" target="#RNAs" weight="3207" />
+      <edge id="33" source="#STNAs" target="#OMJCareerFair" weight="3207" />
+      <edge id="34" source="#thankyou" target="#veterans" weight="3207" />
+      <edge id="35" source="#thankyou" target="#goals" weight="3207" />
+      <edge id="36" source="#thankyou" target="#200vetshired" weight="6414" />
+      <edge id="37" source="#thankyou" target="#OHlovesVETS" weight="3207" />
+      <edge id="38" source="#thankyou" target="#gratitude" weight="3207" />
+      <edge id="39" source="#thankyou" target="#military" weight="3207" />
+      <edge id="40" source="#thankyou" target="#teamwork" weight="3207" />
+      <edge id="41" source="#thankyou" target="#Ohio" weight="3207" />
+      <edge id="42" source="#military" target="#Ohio" weight="6414" />
+      <edge id="43" source="#military" target="#veterans" weight="9621" />
+      <edge id="44" source="#military" target="#ThankYou" weight="3207" />
+      <edge id="45" source="#military" target="#resume" weight="6414" />
+      <edge id="46" source="#military" target="#OHlovesVETS" weight="3207" />
+      <edge id="47" source="#military" target="#gratitude" weight="3207" />
+      <edge id="48" source="#military" target="#OMJCareerFair" weight="9621" />
+      <edge id="49" source="#military" target="#VeteransDay" weight="3207" />
+      <edge id="50" source="#educational" target="#K12day" weight="3207" />
+      <edge id="51" source="#DreamBIG" target="#OhioWorks" weight="3207" />
+      <edge id="52" source="#NationalApprenticeshipWeek" target="#apprenticeshipworks" weight="16035" />
+      <edge id="53" source="#NationalApprenticeshipWeek" target="#Ohio" weight="3207" />
+      <edge id="54" source="#AkronFireDepartment" target="#veterans" weight="3207" />
+      <edge id="55" source="#AkronFireDepartment" target="#Akron" weight="3207" />
+      <edge id="56" source="#AkronFireDepartment" target="#Ohio" weight="3207" />
+      <edge id="57" source="#fireman" target="#dreamBIG" weight="3207" />
+      <edge id="58" source="#ColumbusOhio" target="#ApplyToday" weight="3207" />
+      <edge id="59" source="#ColumbusOhio" target="#WarehouseJobs" weight="3207" />
+      <edge id="60" source="#ColumbusOhio" target="#Retweet" weight="3207" />
+      <edge id="61" source="#ColumbusOhio" target="#NowHiring" weight="3207" />
+      <edge id="62" source="#ColumbusOhio" target="#GAP" weight="3207" />
+      <edge id="63" source="#ColumbusOhio" target="#OhioJobs" weight="3207" />
+      <edge id="64" source="#ColumbusOhio" target="#Columbus" weight="3207" />
+      <edge id="65" source="#Retweet" target="#ApplyToday" weight="3207" />
+      <edge id="66" source="#Retweet" target="#WarehouseJobs" weight="3207" />
+      <edge id="67" source="#Retweet" target="#NowHiring" weight="3207" />
+      <edge id="68" source="#Retweet" target="#GAP" weight="3207" />
+      <edge id="69" source="#Retweet" target="#OhioJobs" weight="3207" />
+      <edge id="70" source="#Retweet" target="#Columbus" weight="3207" />
+      <edge id="71" source="#unemployment" target="#econdev" weight="3207" />
+      <edge id="72" source="#unemployment" target="#jobs" weight="3207" />
+      <edge id="73" source="#unemployment" target="#SouthwestOhio" weight="3207" />
+      <edge id="74" source="#unemployment" target="#economy" weight="3207" />
+      <edge id="75" source="#unemployment" target="#Cincinnati" weight="3207" />
+      <edge id="76" source="#unemployment" target="#OMJCareerFair" weight="9621" />
+      <edge id="77" source="#PlanIt" target="#FundIt" weight="3207" />
+      <edge id="78" source="#PlanIt" target="#dreamingBIG" weight="3207" />
+      <edge id="79" source="#PlanIt" target="#FindIt" weight="3207" />
+      <edge id="80" source="#PlanIt" target="#Ohio" weight="3207" />
+      <edge id="81" source="#Springfield" target="#Dayton" weight="3207" />
+      <edge id="82" source="#Springfield" target="#hiring" weight="3207" />
+      <edge id="83" source="#Springfield" target="#Opennings" weight="3207" />
+      <edge id="84" source="#math" target="#science" weight="3207" />
+      <edge id="85" source="#jobfair" target="#veterans" weight="6414" />
+      <edge id="86" source="#jobfair" target="#resume" weight="3207" />
+      <edge id="87" source="#jobfair" target="#TODAY" weight="3207" />
+      <edge id="88" source="#jobfair" target="#changinglivescoj" weight="3207" />
+      <edge id="89" source="#jobfair" target="#Dayton" weight="3207" />
+      <edge id="90" source="#jobfair" target="#hiring" weight="19242" />
+      <edge id="91" source="#revolution" target="#OMJCareerFair" weight="3207" />
+      <edge id="92" source="#BacktoWorkOH" target="#veterans" weight="3207" />
+      <edge id="93" source="#BacktoWorkOH" target="#Ohioans" weight="3207" />
+      <edge id="94" source="#BacktoWorkOH" target="#resume" weight="3207" />
+      <edge id="95" source="#BacktoWorkOH" target="#Ohio" weight="3207" />
+      <edge id="96" source="#Summer" target="#hiring" weight="3207" />
+      <edge id="97" source="#Summer" target="#Employment" weight="3207" />
+      <edge id="98" source="#OhioLovesVets" target="#veterans" weight="3207" />
+      <edge id="99" source="#Employment" target="#Cleveland" weight="6414" />
+      <edge id="100" source="#Students" target="#Intern" weight="3207" />
+      <edge id="101" source="#goals" target="#200vetshired" weight="9621" />
+      <edge id="102" source="#goals" target="#ThankYou" weight="3207" />
+      <edge id="103" source="#goals" target="#teamwork" weight="9621" />
+      <edge id="104" source="#goals" target="#Cuyahoga" weight="3207" />
+      <edge id="105" source="#free" target="#Hospitality" weight="3207" />
+      <edge id="106" source="#team15" target="#werprexies" weight="3207" />
+      <edge id="107" source="#College" target="#ACT" weight="3207" />
+      <edge id="108" source="#ohiohighered" target="#workforce" weight="3207" />
+      <edge id="109" source="#LiveTweet" target="#Veterans" weight="3207" />
+      <edge id="110" source="#LiveTweet" target="#veterans" weight="3207" />
+      <edge id="111" source="#LiveTweet" target="#OMJCareerFair" weight="6414" />
+      <edge id="112" source="#NowHiring" target="#ApplyToday" weight="3207" />
+      <edge id="113" source="#NowHiring" target="#WarehouseJobs" weight="3207" />
+      <edge id="114" source="#NowHiring" target="#GAP" weight="3207" />
+      <edge id="115" source="#NowHiring" target="#OhioJobs" weight="6414" />
+      <edge id="116" source="#NowHiring" target="#Columbus" weight="3207" />
+      <edge id="117" source="#BacktoLife" target="#BacktoWork" weight="3207" />
+      <edge id="118" source="#HorizonHomeHealthcare" target="#Vandalia" weight="3207" />
+      <edge id="119" source="#finance" target="#education" weight="3207" />
+      <edge id="120" source="#finance" target="#transportation" weight="3207" />
+      <edge id="121" source="#finance" target="#insurance" weight="3207" />
+      <edge id="122" source="#finance" target="#healthcare" weight="3207" />
+      <edge id="123" source="#finance" target="#IT" weight="3207" />
+      <edge id="124" source="#finance" target="#Dayton" weight="3207" />
+      <edge id="125" source="#finance" target="#OMJCareerFair" weight="3207" />
+      <edge id="126" source="#OMJCareerFair" target="#Veteran" weight="3207" />
+      <edge id="127" source="#OMJCareerFair" target="#RNAs" weight="3207" />
+      <edge id="128" source="#OMJCareerFair" target="#jobs" weight="12828" />
+      <edge id="129" source="#OMJCareerFair" target="#ohioshale" weight="3207" />
+      <edge id="130" source="#OMJCareerFair" target="#transportation" weight="3207" />
+      <edge id="131" source="#OMJCareerFair" target="#insurance" weight="3207" />
+      <edge id="132" source="#OMJCareerFair" target="#Biosciences" weight="3207" />
+      <edge id="133" source="#OMJCareerFair" target="#studentloans" weight="3207" />
+      <edge id="134" source="#OMJCareerFair" target="#economy" weight="3207" />
+      <edge id="135" source="#OMJCareerFair" target="#airplanes" weight="3207" />
+      <edge id="136" source="#OMJCareerFair" target="#teachers" weight="3207" />
+      <edge id="137" source="#OMJCareerFair" target="#business" weight="3207" />
+      <edge id="138" source="#OMJCareerFair" target="#Dayton" weight="67347" />
+      <edge id="139" source="#OMJCareerFair" target="#BWAYCorporation" weight="3207" />
+      <edge id="140" source="#OMJCareerFair" target="#ThankYou" weight="6414" />
+      <edge id="141" source="#OMJCareerFair" target="#Construction" weight="3207" />
+      <edge id="142" source="#OMJCareerFair" target="#students" weight="3207" />
+      <edge id="143" source="#OMJCareerFair" target="#Perrysburg" weight="16035" />
+      <edge id="144" source="#OMJCareerFair" target="#nurse" weight="3207" />
+      <edge id="145" source="#OMJCareerFair" target="#resume" weight="28863" />
+      <edge id="146" source="#OMJCareerFair" target="#babyjobseeker" weight="3207" />
+      <edge id="147" source="#OMJCareerFair" target="#Periscope" weight="16035" />
+      <edge id="148" source="#OMJCareerFair" target="#JobFair" weight="3207" />
+      <edge id="149" source="#OMJCareerFair" target="#hiring" weight="6414" />
+      <edge id="150" source="#OMJCareerFair" target="#OhioMeansJobs" weight="3207" />
+      <edge id="151" source="#OMJCareerFair" target="#education" weight="3207" />
+      <edge id="152" source="#OMJCareerFair" target="#veterans" weight="12828" />
+      <edge id="153" source="#OMJCareerFair" target="#paramedics" weight="3207" />
+      <edge id="154" source="#OMJCareerFair" target="#coffee" weight="3207" />
+      <edge id="155" source="#OMJCareerFair" target="#LiveTweeting" weight="9621" />
+      <edge id="156" source="#OMJCareerFair" target="#Ohioans" weight="3207" />
+      <edge id="157" source="#OMJCareerFair" target="#socialworkers" weight="3207" />
+      <edge id="158" source="#OMJCareerFair" target="#HorseshoeCasino" weight="3207" />
+      <edge id="159" source="#OMJCareerFair" target="#employers" weight="3207" />
+      <edge id="160" source="#OMJCareerFair" target="#schoolbus" weight="3207" />
+      <edge id="161" source="#OMJCareerFair" target="#teacher" weight="3207" />
+      <edge id="162" source="#OMJCareerFair" target="#Columbus" weight="16035" />
+      <edge id="163" source="#OMJCareerFair" target="#Cincinnati" weight="80175" />
+      <edge id="164" source="#OMJCareerFair" target="#Europe" weight="3207" />
+      <edge id="165" source="#OMJCareerFair" target="#Ohio" weight="51312" />
+      <edge id="166" source="#OMJCareerFair" target="#fraud" weight="3207" />
+      <edge id="167" source="#OMJCareerFair" target="#Veterans" weight="25656" />
+      <edge id="168" source="#OMJCareerFair" target="#Cleveland" weight="57726" />
+      <edge id="169" source="#OMJCareerFair" target="#Toledo" weight="9621" />
+      <edge id="170" source="#OMJCareerFair" target="#workforce" weight="3207" />
+      <edge id="171" source="#OMJCareerFair" target="#Aerospace" weight="6414" />
+      <edge id="172" source="#OMJCareerFair" target="#China" weight="3207" />
+      <edge id="173" source="#OMJCareerFair" target="#Free" weight="3207" />
+      <edge id="174" source="#OMJCareerFair" target="#Athens" weight="3207" />
+      <edge id="175" source="#OMJCareerFair" target="#Manufacturing" weight="9621" />
+      <edge id="176" source="#OMJCareerFair" target="#TippCity" weight="3207" />
+      <edge id="177" source="#OMJCareerFair" target="#IT" weight="6414" />
+      <edge id="178" source="#OMJCareerFair" target="#Vet" weight="3207" />
+      <edge id="179" source="#OMJCareerFair" target="#dayton" weight="3207" />
+      <edge id="180" source="#OMJCareerFair" target="#interview" weight="3207" />
+      <edge id="181" source="#OMJCareerFair" target="#ohio" weight="3207" />
+      <edge id="182" source="#OMJCareerFair" target="#healthcare" weight="3207" />
+      <edge id="183" source="#Career" target="#OhioWorks" weight="3207" />
+      <edge id="184" source="#Career" target="#Columbus" weight="3207" />
+      <edge id="185" source="#Cleveland" target="#Veteran" weight="3207" />
+      <edge id="186" source="#Cleveland" target="#Veterans" weight="19242" />
+      <edge id="187" source="#Cleveland" target="#jobs" weight="3207" />
+      <edge id="188" source="#Cleveland" target="#CareerFair" weight="9621" />
+      <edge id="189" source="#Cleveland" target="#OhioWorks" weight="16035" />
+      <edge id="190" source="#Cleveland" target="#Perrysburg" weight="3207" />
+      <edge id="191" source="#Cleveland" target="#careerfair" weight="3207" />
+      <edge id="192" source="#Cleveland" target="#LiveTweeting" weight="3207" />
+      <edge id="193" source="#Cleveland" target="#employers" weight="3207" />
+      <edge id="194" source="#Cleveland" target="#Cincinnati" weight="3207" />
+      <edge id="195" source="#Cleveland" target="#hiring" weight="3207" />
+      <edge id="196" source="#Cleveland" target="#Columbus" weight="3207" />
+      <edge id="197" source="#Cleveland" target="#hightech" weight="3207" />
+      <edge id="198" source="#workforce" target="#jobs" weight="9621" />
+      <edge id="199" source="#workforce" target="#SEOhio" weight="3207" />
+      <edge id="200" source="#workforce" target="#Jobs" weight="3207" />
+      <edge id="201" source="#workforce" target="#students" weight="9621" />
+      <edge id="202" source="#workforce" target="#hiring" weight="9621" />
+      <edge id="203" source="#workforce" target="#Ohio" weight="9621" />
+      <edge id="204" source="#internship" target="#summer" weight="12828" />
+      <edge id="205" source="#hygienists" target="#JobsNow" weight="3207" />
+      <edge id="206" source="#OhioMeansJobs" target="#christmastree" weight="3207" />
+      <edge id="207" source="#OhioMeansJobs" target="#OhioWorks" weight="3207" />
+      <edge id="208" source="#OhioMeansJobs" target="#CentralOhio" weight="3207" />
+      <edge id="209" source="#OhioMeansJobs" target="#greatwork" weight="3207" />
+      <edge id="210" source="#OhioMeansJobs" target="#ThankYou" weight="3207" />
+      <edge id="211" source="#OhioMeansJobs" target="#Ohio" weight="3207" />
+      <edge id="212" source="#jobhunt" target="#jobsearch" weight="3207" />
+      <edge id="213" source="#employers" target="#JobFair" weight="3207" />
+      <edge id="214" source="#employers" target="#employees" weight="3207" />
+      <edge id="215" source="#OhioWorks" target="#jobs" weight="6414" />
+      <edge id="216" source="#OhioWorks" target="#MakerFest" weight="3207" />
+      <edge id="217" source="#OhioWorks" target="#CareerFair" weight="9621" />
+      <edge id="218" source="#OhioWorks" target="#MfgDay16" weight="3207" />
+      <edge id="219" source="#OhioWorks" target="#ManufacturingDay" weight="3207" />
+      <edge id="220" source="#OhioWorks" target="#Dayton" weight="19242" />
+      <edge id="221" source="#OhioWorks" target="#Ohio" weight="70554" />
+      <edge id="222" source="#OhioWorks" target="#OHworkforce" weight="6414" />
+      <edge id="223" source="#OhioWorks" target="#Transportation" weight="3207" />
+      <edge id="224" source="#OhioWorks" target="#FindItHere" weight="3207" />
+      <edge id="225" source="#OhioWorks" target="#resume" weight="9621" />
+      <edge id="226" source="#OhioWorks" target="#businesses" weight="3207" />
+      <edge id="227" source="#OhioWorks" target="#Zanesville" weight="6414" />
+      <edge id="228" source="#OhioWorks" target="#HR" weight="3207" />
+      <edge id="229" source="#OhioWorks" target="#DYK" weight="6414" />
+      <edge id="230" source="#OhioWorks" target="#gratitude" weight="3207" />
+      <edge id="231" source="#OhioWorks" target="#OhioStateFair" weight="3207" />
+      <edge id="232" source="#OhioWorks" target="#veterans" weight="12828" />
+      <edge id="233" source="#OhioWorks" target="#Amazon" weight="3207" />
+      <edge id="234" source="#OhioWorks" target="#apprenticeships" weight="6414" />
+      <edge id="235" source="#OhioWorks" target="#MFGday16" weight="35277" />
+      <edge id="236" source="#OhioWorks" target="#job" weight="6414" />
+      <edge id="237" source="#OhioWorks" target="#ThankYou" weight="3207" />
+      <edge id="238" source="#OhioWorks" target="#Columbus" weight="12828" />
+      <edge id="239" source="#OhioWorks" target="#vets" weight="6414" />
+      <edge id="240" source="#OhioWorks" target="#Oho" weight="3207" />
+      <edge id="241" source="#OhioWorks" target="#Toledo" weight="12828" />
+      <edge id="242" source="#OhioWorks" target="#Apprenticeships" weight="3207" />
+      <edge id="243" source="#OhioWorks" target="#OhioValley" weight="3207" />
+      <edge id="244" source="#OhioWorks" target="#Central" weight="3207" />
+      <edge id="245" source="#OhioWorks" target="#jobfairs" weight="3207" />
+      <edge id="246" source="#OhioWorks" target="#MFGDay16" weight="6414" />
+      <edge id="247" source="#OhioWorks" target="#apprentice" weight="3207" />
+      <edge id="248" source="#OhioWorks" target="#Manufacturing" weight="6414" />
+      <edge id="249" source="#OhioWorks" target="#Cincinnati" weight="16035" />
+      <edge id="250" source="#OhioWorks" target="#electricians" weight="3207" />
+      <edge id="251" source="#OhioWorks" target="#careerfairs" weight="3207" />
+      <edge id="252" source="#OhioWorks" target="#computer" weight="3207" />
+      <edge id="253" source="#spring" target="#ThankYou" weight="3207" />
+      <edge id="254" source="#spring" target="#OMJCareerFairs" weight="3207" />
+      <edge id="255" source="#Biosciences" target="#Aerospace" weight="3207" />
+      <edge id="256" source="#Biosciences" target="#Manufacturing" weight="3207" />
+      <edge id="257" source="#Biosciences" target="#IT" weight="3207" />
+      <edge id="258" source="#hire" target="#veterans" weight="3207" />
+      <edge id="259" source="#hire" target="#LoveTwitter" weight="3207" />
+      <edge id="260" source="#hire" target="#Ohioans" weight="3207" />
+      <edge id="261" source="#hire" target="#Portsmouth" weight="3207" />
+      <edge id="262" source="#ApprenticeshipWorks" target="#Ohio" weight="3207" />
+      <edge id="263" source="#Workforce" target="#CentralOH" weight="3207" />
+      <edge id="264" source="#Workforce" target="#Columbus" weight="3207" />
+      <edge id="265" source="#aviation" target="#electrician" weight="3207" />
+      <edge id="266" source="#aviation" target="#punintended" weight="3207" />
+      <edge id="267" source="#MakerFest" target="#apprenticeships" weight="3207" />
+      <edge id="268" source="#youth" target="#employment" weight="3207" />
+      <edge id="269" source="#Central" target="#Ohio" weight="3207" />
+      <edge id="270" source="#airplanes" target="#Dayton" weight="3207" />
+      <edge id="271" source="#dreamBIG" target="#Olympic" weight="3207" />
+      <edge id="272" source="#nowhiring" target="#opportunity" weight="3207" />
+      <edge id="273" source="#nowhiring" target="#mondaymotivation" weight="3207" />
+      <edge id="274" source="#OHjobs" target="#OH" weight="6414" />
+      <edge id="275" source="#OH" target="#Lima" weight="3207" />
+      <edge id="276" source="#OH" target="#jobs" weight="3207" />
+      <edge id="277" source="#OH" target="#Allen" weight="3207" />
+      <edge id="278" source="#OhioJobs" target="#ApplyToday" weight="3207" />
+      <edge id="279" source="#OhioJobs" target="#WarehouseJobs" weight="3207" />
+      <edge id="280" source="#OhioJobs" target="#GAP" weight="3207" />
+      <edge id="281" source="#OhioJobs" target="#Columbus" weight="3207" />
+      <edge id="282" source="#OMJCareerFairs" target="#ThankYou" weight="3207" />
+      <edge id="283" source="#Construction" target="#Dayton" weight="19242" />
+      <edge id="284" source="#Construction" target="#Manufacturing" weight="3207" />
+      <edge id="285" source="#Construction" target="#Ohio" weight="3207" />
+      <edge id="286" source="#Jobs" target="#Ohio" weight="3207" />
+      <edge id="287" source="#Jobs" target="#SEOhio" weight="3207" />
+      <edge id="288" source="#dreamingBIG" target="#FundIt" weight="3207" />
+      <edge id="289" source="#dreamingBIG" target="#FindIt" weight="3207" />
+      <edge id="290" source="#dreamingBIG" target="#Ohio" weight="3207" />
+      <edge id="291" source="#tips" target="#resume" weight="3207" />
+      <edge id="292" source="#Tuesday" target="#job" weight="3207" />
+      <edge id="293" source="#resume" target="#jobsearch" weight="3207" />
+      <edge id="294" source="#resume" target="#Veterans" weight="3207" />
+      <edge id="295" source="#resume" target="#ohioworks" weight="3207" />
+      <edge id="296" source="#resume" target="#TODAY" weight="3207" />
+      <edge id="297" source="#resume" target="#Free" weight="3207" />
+      <edge id="298" source="#resume" target="#Dayton" weight="3207" />
+      <edge id="299" source="#resume" target="#omjcareerfair" weight="3207" />
+      <edge id="300" source="#resume" target="#JobSearch" weight="3207" />
+      <edge id="301" source="#opportunity" target="#mondaymotivation" weight="3207" />
+      <edge id="302" source="#smallbusiness" target="#Veterans" weight="3207" />
+      <edge id="303" source="#JobsNow" target="#jobs" weight="3207" />
+      <edge id="304" source="#JobsNow" target="#Accountants" weight="3207" />
+      <edge id="305" source="#electrician" target="#excited" weight="3207" />
+      <edge id="306" source="#electrician" target="#punintended" weight="3207" />
+      <edge id="307" source="#unemployed" target="#veteran" weight="3207" />
+      <edge id="308" source="#GAP" target="#ApplyToday" weight="3207" />
+      <edge id="309" source="#GAP" target="#WarehouseJobs" weight="3207" />
+      <edge id="310" source="#GAP" target="#Columbus" weight="3207" />
+      <edge id="311" source="#gratitude" target="#Veterans" weight="3207" />
+      <edge id="312" source="#gratitude" target="#veterans" weight="3207" />
+      <edge id="313" source="#gratitude" target="#OHVets" weight="3207" />
+      <edge id="314" source="#gratitude" target="#OHlovesVETS" weight="3207" />
+      <edge id="315" source="#gratitude" target="#Ohio" weight="3207" />
+      <edge id="316" source="#greatwork" target="#christmastree" weight="3207" />
+      <edge id="317" source="#JobFair" target="#Veteran" weight="35277" />
+      <edge id="318" source="#JobFair" target="#Veterans" weight="57726" />
+      <edge id="319" source="#JobFair" target="#Latinos" weight="19242" />
+      <edge id="320" source="#JobFair" target="#fall" weight="9621" />
+      <edge id="321" source="#JobFair" target="#Cincinnati" weight="48105" />
+      <edge id="322" source="#JobFair" target="#Columbus" weight="12828" />
+      <edge id="323" source="#JobFair" target="#JobSearch" weight="6414" />
+      <edge id="324" source="#JobFair" target="#Ohio" weight="19242" />
+      <edge id="325" source="#nursing" target="#engineering" weight="3207" />
+      <edge id="326" source="#nursing" target="#pharmacy" weight="3207" />
+      <edge id="327" source="#jobsearch" target="#TheMoreYouKnow" weight="3207" />
+      <edge id="328" source="#jobsearch" target="#jobs" weight="6414" />
+      <edge id="329" source="#Military" target="#Ohio" weight="6414" />
+      <edge id="330" source="#career" target="#education" weight="3207" />
+      <edge id="331" source="#career" target="#energy" weight="3207" />
+      <edge id="332" source="#career" target="#Ohio" weight="6414" />
+      <edge id="333" source="#teachers" target="#schoolbus" weight="3207" />
+      <edge id="334" source="#teachers" target="#socialworkers" weight="3207" />
+      <edge id="335" source="#teachohio8" target="#ohio8" weight="3207" />
+      <edge id="336" source="#teachohio8" target="#jobs" weight="3207" />
+      <edge id="337" source="#WarehouseJobs" target="#ApplyToday" weight="3207" />
+      <edge id="338" source="#WarehouseJobs" target="#Columbus" weight="3207" />
+      <edge id="339" source="#hospitality" target="#jobs" weight="3207" />
+      <edge id="340" source="#hospitality" target="#Ohio" weight="3207" />
+      <edge id="341" source="#MFGday16" target="#DYK" weight="6414" />
+      <edge id="342" source="#MFGday16" target="#Oho" weight="3207" />
+      <edge id="343" source="#MFGday16" target="#jobs" weight="3207" />
+      <edge id="344" source="#MFGday16" target="#Manufacturing" weight="6414" />
+      <edge id="345" source="#MFGday16" target="#computer" weight="3207" />
+      <edge id="346" source="#MFGday16" target="#Ohio" weight="19242" />
+      <edge id="347" source="#ohio8" target="#jobs" weight="3207" />
+      <edge id="348" source="#Ohioans" target="#LoveTwitter" weight="3207" />
+      <edge id="349" source="#DYK" target="#Ohio" weight="3207" />
+      <edge id="350" source="#DYK" target="#computer" weight="3207" />
+      <edge id="351" source="#ACT" target="#SAT" weight="28863" />
+      <edge id="352" source="#schoolbus" target="#socialworkers" weight="3207" />
+      <edge id="353" source="#motivation" target="#Friday" weight="3207" />
+      <edge id="354" source="#ohiostatefair" target="#summerjobs" weight="3207" />
+      <edge id="355" source="#ohiostatefair" target="#jobs" weight="3207" />
+      <edge id="356" source="#quality" target="#JobsOhio" weight="3207" />
+      <edge id="357" source="#quality" target="#jobs" weight="3207" />
+      <edge id="358" source="#quality" target="#Ohio" weight="3207" />
+      <edge id="359" source="#China" target="#Europe" weight="3207" />
+      <edge id="360" source="#JobFairs" target="#Ohio" weight="19242" />
+      <edge id="361" source="#fall" target="#winter" weight="12828" />
+      <edge id="362" source="#Job" target="#Ohio" weight="3207" />
+      <edge id="363" source="#Manufacturing" target="#Oho" weight="3207" />
+      <edge id="364" source="#Manufacturing" target="#Aerospace" weight="3207" />
+      <edge id="365" source="#Manufacturing" target="#IT" weight="3207" />
+      <edge id="366" source="#Manufacturing" target="#Ohio" weight="3207" />
+      <edge id="367" source="#Cincinnati" target="#Veterans" weight="38484" />
+      <edge id="368" source="#Cincinnati" target="#ThankYou" weight="6414" />
+      <edge id="369" source="#Cincinnati" target="#construction" weight="9621" />
+      <edge id="370" source="#Cincinnati" target="#omjcareerfair" weight="3207" />
+      <edge id="371" source="#Cincinnati" target="#Apprenticeships" weight="3207" />
+      <edge id="372" source="#Cincinnati" target="#holiday" weight="3207" />
+      <edge id="373" source="#Cincinnati" target="#HorseshoeCasino" weight="3207" />
+      <edge id="374" source="#Cincinnati" target="#hiring" weight="6414" />
+      <edge id="375" source="#Cincinnati" target="#Columbus" weight="3207" />
+      <edge id="376" source="#Cincinnati" target="#OMjCareerFair" weight="3207" />
+      <edge id="377" source="#healthcare" target="#education" weight="3207" />
+      <edge id="378" source="#healthcare" target="#transportation" weight="3207" />
+      <edge id="379" source="#healthcare" target="#insurance" weight="3207" />
+      <edge id="380" source="#healthcare" target="#IT" weight="3207" />
+      <edge id="381" source="#healthcare" target="#Dayton" weight="3207" />
+      <edge id="382" source="#Veteran" target="#LiveTweeting" weight="3207" />
+      <edge id="383" source="#Veteran" target="#MilitaryAppreciationMonth" weight="3207" />
+      <edge id="384" source="#Veteran" target="#Columbus" weight="12828" />
+      <edge id="385" source="#technology" target="#engineering" weight="3207" />
+      <edge id="386" source="#jobs" target="#JobsOhio" weight="3207" />
+      <edge id="387" source="#jobs" target="#TheMoreYouKnow" weight="3207" />
+      <edge id="388" source="#jobs" target="#Ohio" weight="25656" />
+      <edge id="389" source="#jobs" target="#students" weight="9621" />
+      <edge id="390" source="#jobs" target="#hiring" weight="12828" />
+      <edge id="391" source="#jobs" target="#veterans" weight="3207" />
+      <edge id="392" source="#jobs" target="#Allen" weight="3207" />
+      <edge id="393" source="#jobs" target="#Lima" weight="3207" />
+      <edge id="394" source="#jobs" target="#findyournextjob" weight="3207" />
+      <edge id="395" source="#jobs" target="#summerjobs" weight="3207" />
+      <edge id="396" source="#HiringEvent" target="#OpenInterviews" weight="3207" />
+      <edge id="397" source="#Internship" target="#Ohio" weight="3207" />
+      <edge id="398" source="#insurance" target="#education" weight="3207" />
+      <edge id="399" source="#insurance" target="#transportation" weight="3207" />
+      <edge id="400" source="#insurance" target="#IT" weight="3207" />
+      <edge id="401" source="#insurance" target="#Dayton" weight="3207" />
+      <edge id="402" source="#VetsJobsChat" target="#hiring" weight="3207" />
+      <edge id="403" source="#LibertyCenter" target="#jobfairs" weight="3207" />
+      <edge id="404" source="#LibertyCenter" target="#Ohio" weight="3207" />
+      <edge id="405" source="#JobsOhio" target="#Ohio" weight="3207" />
+      <edge id="406" source="#employment" target="#Dayton" weight="6414" />
+      <edge id="407" source="#internships" target="#Ohio" weight="19242" />
+      <edge id="408" source="#Ohio" target="#Akron" weight="3207" />
+      <edge id="409" source="#Ohio" target="#education" weight="3207" />
+      <edge id="410" source="#Ohio" target="#ManufacturingDay" weight="3207" />
+      <edge id="411" source="#Ohio" target="#business" weight="3207" />
+      <edge id="412" source="#Ohio" target="#businesses" weight="3207" />
+      <edge id="413" source="#Ohio" target="#apprenticeshipworks" weight="6414" />
+      <edge id="414" source="#Ohio" target="#students" weight="12828" />
+      <edge id="415" source="#Ohio" target="#Dayton" weight="3207" />
+      <edge id="416" source="#Ohio" target="#Ohio" weight="12828" />
+      <edge id="417" source="#Ohio" target="#pharmacy" weight="3207" />
+      <edge id="418" source="#Ohio" target="#FundIt" weight="3207" />
+      <edge id="419" source="#Ohio" target="#energy" weight="3207" />
+      <edge id="420" source="#Ohio" target="#MilitaryAppreciationMonth" weight="3207" />
+      <edge id="421" source="#Ohio" target="#hiring" weight="12828" />
+      <edge id="422" source="#Ohio" target="#FindIt" weight="3207" />
+      <edge id="423" source="#Ohio" target="#vets" weight="3207" />
+      <edge id="424" source="#Ohio" target="#veterans" weight="73761" />
+      <edge id="425" source="#Ohio" target="#BestForVets" weight="3207" />
+      <edge id="426" source="#Ohio" target="#job" weight="3207" />
+      <edge id="427" source="#Ohio" target="#ThankYou" weight="3207" />
+      <edge id="428" source="#Ohio" target="#Columbus" weight="3207" />
+      <edge id="429" source="#Ohio" target="#Veterans" weight="3207" />
+      <edge id="430" source="#Ohio" target="#jobfairs" weight="73761" />
+      <edge id="431" source="#Ohio" target="#MFGDay16" weight="3207" />
+      <edge id="432" source="#Ohio" target="#200vetshired" weight="3207" />
+      <edge id="433" source="#Ohio" target="#school" weight="3207" />
+      <edge id="434" source="#Ohio" target="#TippCity" weight="3207" />
+      <edge id="435" source="#Ohio" target="#careerfairs" weight="6414" />
+      <edge id="436" source="#Ohio" target="#ohio" weight="6414" />
+      <edge id="437" source="#econdev" target="#economy" weight="3207" />
+      <edge id="438" source="#OHworkforce" target="#FindItHere" weight="3207" />
+      <edge id="439" source="#Perrysburg" target="#Toledo" weight="6414" />
+      <edge id="440" source="#pharmacy" target="#engineering" weight="3207" />
+      <edge id="441" source="#teamwork" target="#ThankYou" weight="3207" />
+      <edge id="442" source="#teamwork" target="#200vetshired" weight="9621" />
+      <edge id="443" source="#teamwork" target="#Cuyahoga" weight="3207" />
+      <edge id="444" source="#MilitaryAppreciationMonth" target="#veteran" weight="3207" />
+      <edge id="445" source="#MilitaryAppreciationMonth" target="#veterans" weight="3207" />
+      <edge id="446" source="#MilitaryAppreciationMonth" target="#ThankYou" weight="35277" />
+      <edge id="447" source="#education" target="#veterans" weight="3207" />
+      <edge id="448" source="#education" target="#transportation" weight="3207" />
+      <edge id="449" source="#education" target="#energy" weight="3207" />
+      <edge id="450" source="#education" target="#IT" weight="3207" />
+      <edge id="451" source="#education" target="#Dayton" weight="3207" />
+      <edge id="452" source="#wehavejobs" target="#LoveWhatYouDo" weight="3207" />
+      <edge id="453" source="#ApplyToday" target="#Columbus" weight="3207" />
+      <edge id="454" source="#Opennings" target="#Dayton" weight="3207" />
+      <edge id="455" source="#Opennings" target="#hiring" weight="3207" />
+      <edge id="456" source="#prenatal" target="#Columbus" weight="3207" />
+      <edge id="457" source="#Toledo" target="#Periscope" weight="3207" />
+      <edge id="458" source="#Toledo" target="#CareerFair" weight="3207" />
+      <edge id="459" source="#Allen" target="#Lima" weight="3207" />
+      <edge id="460" source="#Veterans" target="#Akron" weight="12828" />
+      <edge id="461" source="#Veterans" target="#Marietta" weight="25656" />
+      <edge id="462" source="#Veterans" target="#Vet" weight="3207" />
+      <edge id="463" source="#Apprenticeships" target="#electricians" weight="3207" />
+      <edge id="464" source="#Aerospace" target="#IT" weight="3207" />
+      <edge id="465" source="#ohioworks" target="#GoodMorning" weight="3207" />
+      <edge id="466" source="#ohioworks" target="#Zanesville" weight="3207" />
+      <edge id="467" source="#ohioworks" target="#CareerFair" weight="3207" />
+      <edge id="468" source="#jobfairs" target="#hired" weight="3207" />
+      <edge id="469" source="#MFGDay16" target="#ManufacturingDay" weight="3207" />
+      <edge id="470" source="#200vetshired" target="#veterans" weight="9621" />
+      <edge id="471" source="#200vetshired" target="#ThankYou" weight="6414" />
+      <edge id="472" source="#200vetshired" target="#Cuyahoga" weight="3207" />
+      <edge id="473" source="#200vetshired" target="#Columbus" weight="3207" />
+      <edge id="474" source="#Free" target="#GED" weight="3207" />
+      <edge id="475" source="#Periscope" target="#Dayton" weight="3207" />
+      <edge id="476" source="#Fire" target="#veterans" weight="3207" />
+      <edge id="477" source="#Fire" target="#Akron" weight="3207" />
+      <edge id="478" source="#Akron" target="#veterans" weight="6414" />
+      <edge id="479" source="#transportation" target="#IT" weight="3207" />
+      <edge id="480" source="#transportation" target="#Dayton" weight="3207" />
+      <edge id="481" source="#CareerFair" target="#Zanesville" weight="3207" />
+      <edge id="482" source="#Dayton" target="#hiring" weight="3207" />
+      <edge id="483" source="#Dayton" target="#IT" weight="3207" />
+      <edge id="484" source="#Interview" target="#hiring" weight="3207" />
+      <edge id="485" source="#JOBFAIR" target="#Wooster" weight="3207" />
+      <edge id="486" source="#FindIt" target="#FundIt" weight="3207" />
+      <edge id="487" source="#poverty" target="#job" weight="3207" />
+      <edge id="488" source="#hiring" target="#veterans" weight="3207" />
+      <edge id="489" source="#hiring" target="#students" weight="9621" />
+      <edge id="490" source="#VeteransDay" target="#veteran" weight="3207" />
+      <edge id="491" source="#VeteransDay" target="#veterans" weight="3207" />
+      <edge id="492" source="#VeteransDay" target="#ThankYou" weight="3207" />
+      <edge id="493" source="#veterans" target="#veterans" weight="6414" />
+      <edge id="494" source="#veterans" target="#Portsmouth" weight="3207" />
+      <edge id="495" source="#veterans" target="#ThankYou" weight="3207" />
+      <edge id="496" source="#Truck" target="#Columbus" weight="3207" />
+      <edge id="497" source="#FranklinCounty" target="#Columbus" weight="3207" />
+      <edge id="498" source="#ThankYou" target="#Columbus" weight="3207" />
+      <edge id="499" source="#Columbus" target="#CentralOH" weight="3207" />
+      <edge id="500" source="#vets" target="#vets" weight="6414" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#oncologists" label="#oncologists" />
+      <node id="#ASCO15" label="#ASCO15" />
+      <node id="#ASCO16" label="#ASCO16" />
+      <node id="#IWasaHighlightsKid" label="#IWasaHighlightsKid" />
+      <node id="#pharma" label="#pharma" />
+      <node id="#HEOR" label="#HEOR" />
+      <node id="#hbanetmd" label="#hbanetmd" />
+      <node id="#raredisease" label="#raredisease" />
+      <node id="#projectrunway" label="#projectrunway" />
+      <node id="#ArapahoeHigh" label="#ArapahoeHigh" />
+      <node id="#scandal" label="#scandal" />
+      <node id="#innovation" label="#innovation" />
+      <node id="#pr" label="#pr" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#CareforRMHC" label="#CareforRMHC" />
+      <node id="#corp" label="#corp" />
+      <node id="#parenting" label="#parenting" />
+      <node id="#mom2summit" label="#mom2summit" />
+      <node id="#lifegoals" label="#lifegoals" />
+      <node id="#beautyis" label="#beautyis" />
+      <node id="#letsbond" label="#letsbond" />
+      <node id="#parentproblems" label="#parentproblems" />
+      <node id="#dove" label="#dove" />
+      <node id="#SandyHook" label="#SandyHook" />
+      <node id="#columbus_ohio" label="#columbus_ohio" />
+      <node id="#RareDiseaseDay" label="#RareDiseaseDay" />
+      <node id="#BlogHer13" label="#BlogHer13" />
+      <node id="#fdasm" label="#fdasm" />
+      <node id="#parenthood" label="#parenthood" />
+      <node id="#healthcare" label="#healthcare" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#oncologists" target="#ASCO15" weight="329" />
+      <edge id="1" source="#ASCO15" target="#HEOR" weight="329" />
+      <edge id="2" source="#ASCO16" target="#lifegoals" weight="329" />
+      <edge id="3" source="#ASCO16" target="#CareforRMHC" weight="658" />
+      <edge id="4" source="#IWasaHighlightsKid" target="#BlogHer13" weight="658" />
+      <edge id="5" source="#pharma" target="#marketing" weight="329" />
+      <edge id="6" source="#pharma" target="#pr" weight="329" />
+      <edge id="7" source="#pharma" target="#columbus_ohio" weight="329" />
+      <edge id="8" source="#pharma" target="#healthcare" weight="329" />
+      <edge id="9" source="#pharma" target="#corp" weight="329" />
+      <edge id="10" source="#hbanetmd" target="#hbanetmd" weight="658" />
+      <edge id="11" source="#raredisease" target="#RareDiseaseDay" weight="329" />
+      <edge id="12" source="#projectrunway" target="#parenthood" weight="329" />
+      <edge id="13" source="#projectrunway" target="#scandal" weight="329" />
+      <edge id="14" source="#ArapahoeHigh" target="#SandyHook" weight="329" />
+      <edge id="15" source="#scandal" target="#parenthood" weight="329" />
+      <edge id="16" source="#innovation" target="#fdasm" weight="329" />
+      <edge id="17" source="#pr" target="#columbus_ohio" weight="329" />
+      <edge id="18" source="#pr" target="#marketing" weight="329" />
+      <edge id="19" source="#pr" target="#healthcare" weight="329" />
+      <edge id="20" source="#pr" target="#corp" weight="329" />
+      <edge id="21" source="#marketing" target="#columbus_ohio" weight="329" />
+      <edge id="22" source="#marketing" target="#healthcare" weight="329" />
+      <edge id="23" source="#marketing" target="#corp" weight="329" />
+      <edge id="24" source="#corp" target="#columbus_ohio" weight="329" />
+      <edge id="25" source="#corp" target="#healthcare" weight="329" />
+      <edge id="26" source="#parenting" target="#parentproblems" weight="329" />
+      <edge id="27" source="#mom2summit" target="#dove" weight="329" />
+      <edge id="28" source="#mom2summit" target="#beautyis" weight="658" />
+      <edge id="29" source="#mom2summit" target="#letsbond" weight="329" />
+      <edge id="30" source="#beautyis" target="#dove" weight="329" />
+      <edge id="31" source="#columbus_ohio" target="#healthcare" weight="329" />
+    </edges>
+  </graph>
+</gexf>

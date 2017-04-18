@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#NationalDonutDay" label="#NationalDonutDay" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#NPS100" label="#NPS100" />
+      <node id="#davissquare" label="#davissquare" />
+      <node id="#medievaltwitter" label="#medievaltwitter" />
+      <node id="#climate" label="#climate" />
+      <node id="#somerville" label="#somerville" />
+      <node id="#thisdayinhistory" label="#thisdayinhistory" />
+      <node id="#hypocrisy" label="#hypocrisy" />
+      <node id="#GrandCanyon" label="#GrandCanyon" />
+      <node id="#MedievalDonut" label="#MedievalDonut" />
+      <node id="#swantruther" label="#swantruther" />
+      <node id="#getsteezy" label="#getsteezy" />
+      <node id="#mbta" label="#mbta" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#NationalDonutDay" target="#MedievalDonut" weight="3244" />
+      <edge id="1" source="#NYC" target="#thisdayinhistory" weight="3244" />
+      <edge id="2" source="#NPS100" target="#GrandCanyon" weight="3244" />
+      <edge id="3" source="#davissquare" target="#getsteezy" weight="3244" />
+      <edge id="4" source="#davissquare" target="#mbta" weight="3244" />
+      <edge id="5" source="#davissquare" target="#somerville" weight="3244" />
+      <edge id="6" source="#medievaltwitter" target="#swantruther" weight="3244" />
+      <edge id="7" source="#climate" target="#hypocrisy" weight="3244" />
+      <edge id="8" source="#somerville" target="#getsteezy" weight="3244" />
+      <edge id="9" source="#somerville" target="#mbta" weight="3244" />
+      <edge id="10" source="#getsteezy" target="#mbta" weight="3244" />
+    </edges>
+  </graph>
+</gexf>

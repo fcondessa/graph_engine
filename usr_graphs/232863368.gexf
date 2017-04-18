@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#GOPConvention" label="#GOPConvention" />
+      <node id="#lawx" label="#lawx" />
+      <node id="#laflood" label="#laflood" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#BRshooting" label="#BRshooting" />
+      <node id="#seriousjournalism" label="#seriousjournalism" />
+      <node id="#ObamaSpeech" label="#ObamaSpeech" />
+      <node id="#nyc" label="#nyc" />
+      <node id="#traffic" label="#traffic" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#pivot" label="#pivot" />
+      <node id="#DemConvention" label="#DemConvention" />
+      <node id="#basketofdeplorables" label="#basketofdeplorables" />
+      <node id="#softening" label="#softening" />
+      <node id="#Debate" label="#Debate" />
+      <node id="#content" label="#content" />
+      <node id="#unBRoken" label="#unBRoken" />
+      <node id="#vote" label="#vote" />
+      <node id="#IKnowNothing" label="#IKnowNothing" />
+      <node id="#deplorable" label="#deplorable" />
+      <node id="#BRShooting" label="#BRShooting" />
+      <node id="#FourLIttleGirls" label="#FourLIttleGirls" />
+      <node id="#AltonSterling" label="#AltonSterling" />
+      <node id="#LaborDay" label="#LaborDay" />
+      <node id="#flooding" label="#flooding" />
+      <node id="#APeoplesJourney" label="#APeoplesJourney" />
+      <node id="#brand" label="#brand" />
+      <node id="#chelsea" label="#chelsea" />
+      <node id="#RailroadStrikeOf1877" label="#RailroadStrikeOf1877" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#BatonRouge" label="#BatonRouge" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#GOPConvention" target="#RNCinCLE" weight="3220" />
+      <edge id="1" source="#lawx" target="#laflood" weight="3220" />
+      <edge id="2" source="#lawx" target="#flooding" weight="3220" />
+      <edge id="3" source="#BRshooting" target="#unBRoken" weight="3220" />
+      <edge id="4" source="#BRshooting" target="#AltonSterling" weight="3220" />
+      <edge id="5" source="#seriousjournalism" target="#softening" weight="3220" />
+      <edge id="6" source="#seriousjournalism" target="#pivot" weight="3220" />
+      <edge id="7" source="#ObamaSpeech" target="#vote" weight="3220" />
+      <edge id="8" source="#nyc" target="#chelsea" weight="3220" />
+      <edge id="9" source="#traffic" target="#brand" weight="3220" />
+      <edge id="10" source="#traffic" target="#content" weight="3220" />
+      <edge id="11" source="#DemsInPhilly" target="#DemConvention" weight="3220" />
+      <edge id="12" source="#pivot" target="#softening" weight="3220" />
+      <edge id="13" source="#basketofdeplorables" target="#deplorable" weight="3220" />
+      <edge id="14" source="#Debate" target="#IKnowNothing" weight="3220" />
+      <edge id="15" source="#content" target="#brand" weight="3220" />
+      <edge id="16" source="#unBRoken" target="#AltonSterling" weight="3220" />
+      <edge id="17" source="#BRShooting" target="#BatonRouge" weight="3220" />
+      <edge id="18" source="#FourLIttleGirls" target="#APeoplesJourney" weight="3220" />
+      <edge id="19" source="#AltonSterling" target="#BatonRouge" weight="3220" />
+      <edge id="20" source="#AltonSterling" target="#BlackLivesMatter" weight="3220" />
+      <edge id="21" source="#LaborDay" target="#RailroadStrikeOf1877" weight="3220" />
+      <edge id="22" source="#BlackLivesMatter" target="#BatonRouge" weight="3220" />
+    </edges>
+  </graph>
+</gexf>

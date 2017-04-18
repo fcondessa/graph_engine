@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#koreanfood" label="#koreanfood" />
+      <node id="#huffposttaste" label="#huffposttaste" />
+      <node id="#lunchstagram" label="#lunchstagram" />
+      <node id="#foodandtravel" label="#foodandtravel" />
+      <node id="#strawberries" label="#strawberries" />
+      <node id="#lotusroot" label="#lotusroot" />
+      <node id="#food52" label="#food52" />
+      <node id="#lotus" label="#lotus" />
+      <node id="#불고기" label="#불고기" />
+      <node id="#Koreanfood" label="#Koreanfood" />
+      <node id="#RecipeOfTheDay" label="#RecipeOfTheDay" />
+      <node id="#bburikitchen" label="#bburikitchen" />
+      <node id="#traveldenmark" label="#traveldenmark" />
+      <node id="#오늘의점심" label="#오늘의점심" />
+      <node id="#Korean" label="#Korean" />
+      <node id="#연근" label="#연근" />
+      <node id="#picnic" label="#picnic" />
+      <node id="#koreancooking" label="#koreancooking" />
+      <node id="#bulgogi" label="#bulgogi" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#koreanfood" target="#bburikitchen" weight="95" />
+      <edge id="1" source="#koreanfood" target="#lotusroot" weight="95" />
+      <edge id="2" source="#koreanfood" target="#koreancooking" weight="95" />
+      <edge id="3" source="#koreanfood" target="#연근" weight="95" />
+      <edge id="4" source="#koreanfood" target="#lotus" weight="95" />
+      <edge id="5" source="#huffposttaste" target="#foodandtravel" weight="95" />
+      <edge id="6" source="#huffposttaste" target="#traveldenmark" weight="95" />
+      <edge id="7" source="#huffposttaste" target="#picnic" weight="95" />
+      <edge id="8" source="#huffposttaste" target="#food52" weight="95" />
+      <edge id="9" source="#lunchstagram" target="#bulgogi" weight="95" />
+      <edge id="10" source="#lunchstagram" target="#불고기" weight="95" />
+      <edge id="11" source="#lunchstagram" target="#오늘의점심" weight="95" />
+      <edge id="12" source="#foodandtravel" target="#traveldenmark" weight="95" />
+      <edge id="13" source="#foodandtravel" target="#picnic" weight="95" />
+      <edge id="14" source="#foodandtravel" target="#food52" weight="95" />
+      <edge id="15" source="#strawberries" target="#Korean" weight="95" />
+      <edge id="16" source="#strawberries" target="#Koreanfood" weight="95" />
+      <edge id="17" source="#lotusroot" target="#연근" weight="95" />
+      <edge id="18" source="#lotusroot" target="#lotus" weight="95" />
+      <edge id="19" source="#food52" target="#traveldenmark" weight="95" />
+      <edge id="20" source="#food52" target="#picnic" weight="95" />
+      <edge id="21" source="#lotus" target="#연근" weight="95" />
+      <edge id="22" source="#불고기" target="#bulgogi" weight="95" />
+      <edge id="23" source="#불고기" target="#오늘의점심" weight="95" />
+      <edge id="24" source="#Koreanfood" target="#Korean" weight="95" />
+      <edge id="25" source="#Koreanfood" target="#RecipeOfTheDay" weight="95" />
+      <edge id="26" source="#bburikitchen" target="#koreancooking" weight="95" />
+      <edge id="27" source="#traveldenmark" target="#picnic" weight="95" />
+      <edge id="28" source="#오늘의점심" target="#bulgogi" weight="95" />
+    </edges>
+  </graph>
+</gexf>

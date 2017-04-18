@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#Border" label="#Border" />
+      <node id="#ArizonaRally" label="#ArizonaRally" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#3BlackFriends" label="#3BlackFriends" />
+      <node id="#immigrantrights" label="#immigrantrights" />
+      <node id="#immigration" label="#immigration" />
+      <node id="#HRC" label="#HRC" />
+      <node id="#GOPinCLE" label="#GOPinCLE" />
+      <node id="#RNCinCLE" label="#RNCinCLE" />
+      <node id="#BasketofDeplorables" label="#BasketofDeplorables" />
+      <node id="#debate2016" label="#debate2016" />
+      <node id="#TerenceCrutcher" label="#TerenceCrutcher" />
+      <node id="#ActualQuote" label="#ActualQuote" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#RECEIPTS" label="#RECEIPTS" />
+      <node id="#CantEscapeThePast" label="#CantEscapeThePast" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#debatenight" target="#debate2016" weight="3238" />
+      <edge id="1" source="#debatenight" target="#ActualQuote" weight="3238" />
+      <edge id="2" source="#Border" target="#ArizonaRally" weight="74474" />
+      <edge id="3" source="#BlackLivesMatter" target="#TerenceCrutcher" weight="3238" />
+      <edge id="4" source="#BlackLivesMatter" target="#DemsInPhilly" weight="3238" />
+      <edge id="5" source="#3BlackFriends" target="#HRC" weight="3238" />
+      <edge id="6" source="#immigrantrights" target="#immigration" weight="3238" />
+      <edge id="7" source="#GOPinCLE" target="#DemsInPhilly" weight="3238" />
+      <edge id="8" source="#RNCinCLE" target="#DemsInPhilly" weight="3238" />
+      <edge id="9" source="#BasketofDeplorables" target="#RECEIPTS" weight="3238" />
+      <edge id="10" source="#DemsInPhilly" target="#CantEscapeThePast" weight="3238" />
+    </edges>
+  </graph>
+</gexf>

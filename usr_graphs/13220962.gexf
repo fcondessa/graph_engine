@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#GameofThrones" label="#GameofThrones" />
+      <node id="#NeverTrump" label="#NeverTrump" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#TrueWords" label="#TrueWords" />
+      <node id="#autocorrect" label="#autocorrect" />
+      <node id="#PhilandoCastile" label="#PhilandoCastile" />
+      <node id="#debates" label="#debates" />
+      <node id="#UIC" label="#UIC" />
+      <node id="#WontBePunished" label="#WontBePunished" />
+      <node id="#innocence" label="#innocence" />
+      <node id="#ifyoureabirdimabird" label="#ifyoureabirdimabird" />
+      <node id="#NationalComingOutDay" label="#NationalComingOutDay" />
+      <node id="#LGBTQ" label="#LGBTQ" />
+      <node id="#Xena" label="#Xena" />
+      <node id="#Instagram" label="#Instagram" />
+      <node id="#LizaMinnelli" label="#LizaMinnelli" />
+      <node id="#Happy" label="#Happy" />
+      <node id="#HandsOffMyBC" label="#HandsOffMyBC" />
+      <node id="#urlR" label="#urlR" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#MakingAMurderer" label="#MakingAMurderer" />
+      <node id="#AskAboutAbortion" label="#AskAboutAbortion" />
+      <node id="#AltonSterling" label="#AltonSterling" />
+      <node id="#Serial" label="#Serial" />
+      <node id="#reprorights" label="#reprorights" />
+      <node id="#lesbian" label="#lesbian" />
+      <node id="#birthcontrol" label="#birthcontrol" />
+      <node id="#asshat" label="#asshat" />
+      <node id="#TrapCovers" label="#TrapCovers" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#JusticeForFlint" label="#JusticeForFlint" />
+      <node id="#DumpTrump" label="#DumpTrump" />
+      <node id="#AdnanSyed" label="#AdnanSyed" />
+      <node id="#GiveSansaAGirlfriend" label="#GiveSansaAGirlfriend" />
+      <node id="#StillStarCrossed" label="#StillStarCrossed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SCOTUS" target="#birthcontrol" weight="3227" />
+      <edge id="1" source="#SCOTUS" target="#HandsOffMyBC" weight="3227" />
+      <edge id="2" source="#GameofThrones" target="#GiveSansaAGirlfriend" weight="3227" />
+      <edge id="3" source="#NeverTrump" target="#WontBePunished" weight="3227" />
+      <edge id="4" source="#GOP" target="#reprorights" weight="3227" />
+      <edge id="5" source="#GOP" target="#DumpTrump" weight="3227" />
+      <edge id="6" source="#TrueWords" target="#StillStarCrossed" weight="3227" />
+      <edge id="7" source="#autocorrect" target="#Oscars" weight="3227" />
+      <edge id="8" source="#PhilandoCastile" target="#AltonSterling" weight="3227" />
+      <edge id="9" source="#debates" target="#AskAboutAbortion" weight="3227" />
+      <edge id="10" source="#UIC" target="#DumpTrump" weight="3227" />
+      <edge id="11" source="#innocence" target="#Serial" weight="3227" />
+      <edge id="12" source="#innocence" target="#MakingAMurderer" weight="3227" />
+      <edge id="13" source="#innocence" target="#asshat" weight="3227" />
+      <edge id="14" source="#ifyoureabirdimabird" target="#Oscars" weight="3227" />
+      <edge id="15" source="#NationalComingOutDay" target="#LGBTQ" weight="3227" />
+      <edge id="16" source="#Xena" target="#lesbian" weight="3227" />
+      <edge id="17" source="#Instagram" target="#TBT" weight="3227" />
+      <edge id="18" source="#LizaMinnelli" target="#Happy" weight="3227" />
+      <edge id="19" source="#LizaMinnelli" target="#urlR" weight="3227" />
+      <edge id="20" source="#Happy" target="#urlR" weight="3227" />
+      <edge id="21" source="#HandsOffMyBC" target="#birthcontrol" weight="3227" />
+      <edge id="22" source="#MakingAMurderer" target="#Serial" weight="3227" />
+      <edge id="23" source="#MakingAMurderer" target="#asshat" weight="3227" />
+      <edge id="24" source="#Serial" target="#asshat" weight="3227" />
+      <edge id="25" source="#Serial" target="#AdnanSyed" weight="3227" />
+      <edge id="26" source="#reprorights" target="#DumpTrump" weight="3227" />
+      <edge id="27" source="#TrapCovers" target="#TrapCovers" weight="6454" />
+      <edge id="28" source="#Oscars" target="#JusticeForFlint" weight="3227" />
+    </edges>
+  </graph>
+</gexf>

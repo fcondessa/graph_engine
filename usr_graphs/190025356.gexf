@@ -1,0 +1,991 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#earnings" label="#earnings" />
+      <node id="#BairdChina" label="#BairdChina" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#pharma" label="#pharma" />
+      <node id="#mkelion" label="#mkelion" />
+      <node id="#BairdIntern" label="#BairdIntern" />
+      <node id="#investors" label="#investors" />
+      <node id="#WashSale" label="#WashSale" />
+      <node id="#bairdwm" label="#bairdwm" />
+      <node id="#register" label="#register" />
+      <node id="#socialsecurity" label="#socialsecurity" />
+      <node id="#Bairdtip" label="#Bairdtip" />
+      <node id="#Cliff" label="#Cliff" />
+      <node id="#capitalgainstax" label="#capitalgainstax" />
+      <node id="#marriage" label="#marriage" />
+      <node id="#BairdLivesUnited" label="#BairdLivesUnited" />
+      <node id="#RIMM" label="#RIMM" />
+      <node id="#bondmarket" label="#bondmarket" />
+      <node id="#bond" label="#bond" />
+      <node id="#BairdHealthCareConf" label="#BairdHealthCareConf" />
+      <node id="#Kestenholz" label="#Kestenholz" />
+      <node id="#bairdinterns" label="#bairdinterns" />
+      <node id="#Repost" label="#Repost" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#RWBIndustrial" label="#RWBIndustrial" />
+      <node id="#stock" label="#stock" />
+      <node id="#FixedIncome" label="#FixedIncome" />
+      <node id="#Accountant" label="#Accountant" />
+      <node id="#Amazon" label="#Amazon" />
+      <node id="#IPO" label="#IPO" />
+      <node id="#muathletics_bb" label="#muathletics_bb" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#Financial" label="#Financial" />
+      <node id="#alternativeminimumtax" label="#alternativeminimumtax" />
+      <node id="#Yahoo" label="#Yahoo" />
+      <node id="#SanFrancisco" label="#SanFrancisco" />
+      <node id="#biotech" label="#biotech" />
+      <node id="#moxieawards" label="#moxieawards" />
+      <node id="#FF" label="#FF" />
+      <node id="#FinServ" label="#FinServ" />
+      <node id="#TBT" label="#TBT" />
+      <node id="#economics" label="#economics" />
+      <node id="#alternatives" label="#alternatives" />
+      <node id="#skiseason" label="#skiseason" />
+      <node id="#tax" label="#tax" />
+      <node id="#warrenMiller" label="#warrenMiller" />
+      <node id="#IWD" label="#IWD" />
+      <node id="#UnitedWay" label="#UnitedWay" />
+      <node id="#LessTalkMoreWalk" label="#LessTalkMoreWalk" />
+      <node id="#volatility" label="#volatility" />
+      <node id="#DenverBroncos" label="#DenverBroncos" />
+      <node id="#FiscalCliff" label="#FiscalCliff" />
+      <node id="#WWDC" label="#WWDC" />
+      <node id="#family" label="#family" />
+      <node id="#welldeserved" label="#welldeserved" />
+      <node id="#Michigan" label="#Michigan" />
+      <node id="#gas" label="#gas" />
+      <node id="#RWBGrowthStockConf" label="#RWBGrowthStockConf" />
+      <node id="#SM" label="#SM" />
+      <node id="#wasb" label="#wasb" />
+      <node id="#Germany" label="#Germany" />
+      <node id="#Economy" label="#Economy" />
+      <node id="#VentureCapital" label="#VentureCapital" />
+      <node id="#Industrial" label="#Industrial" />
+      <node id="#NoTurningBack" label="#NoTurningBack" />
+      <node id="#liveunited" label="#liveunited" />
+      <node id="#Dow13K" label="#Dow13K" />
+      <node id="#education" label="#education" />
+      <node id="#happyearthday" label="#happyearthday" />
+      <node id="#Marriott" label="#Marriott" />
+      <node id="#income" label="#income" />
+      <node id="#financial" label="#financial" />
+      <node id="#Texas" label="#Texas" />
+      <node id="#market" label="#market" />
+      <node id="#internet" label="#internet" />
+      <node id="#SMWBusiness" label="#SMWBusiness" />
+      <node id="#YoungProfesionals" label="#YoungProfesionals" />
+      <node id="#Taking" label="#Taking" />
+      <node id="#budgetbill" label="#budgetbill" />
+      <node id="#Birmingham" label="#Birmingham" />
+      <node id="#Alaska" label="#Alaska" />
+      <node id="#taxes" label="#taxes" />
+      <node id="#Taxpayers" label="#Taxpayers" />
+      <node id="#100Best" label="#100Best" />
+      <node id="#BairdTechnologyConf" label="#BairdTechnologyConf" />
+      <node id="#UnderOneUmbrella" label="#UnderOneUmbrella" />
+      <node id="#nbmbaa12" label="#nbmbaa12" />
+      <node id="#Phoenix" label="#Phoenix" />
+      <node id="#flygirlVA" label="#flygirlVA" />
+      <node id="#ITW" label="#ITW" />
+      <node id="#rural" label="#rural" />
+      <node id="#CommunityInvolved" label="#CommunityInvolved" />
+      <node id="#WASBO" label="#WASBO" />
+      <node id="#markets" label="#markets" />
+      <node id="#SocialSecurity" label="#SocialSecurity" />
+      <node id="#EstatePlanning" label="#EstatePlanning" />
+      <node id="#Warren" label="#Warren" />
+      <node id="#Sandy" label="#Sandy" />
+      <node id="#afpnpd" label="#afpnpd" />
+      <node id="#MedPlast" label="#MedPlast" />
+      <node id="#Yellen" label="#Yellen" />
+      <node id="#capital" label="#capital" />
+      <node id="#Packers" label="#Packers" />
+      <node id="#InvestInWomen" label="#InvestInWomen" />
+      <node id="#financialaid" label="#financialaid" />
+      <node id="#BGBW" label="#BGBW" />
+      <node id="#Albany" label="#Albany" />
+      <node id="#Register" label="#Register" />
+      <node id="#Insightra" label="#Insightra" />
+      <node id="#SFIAMembers" label="#SFIAMembers" />
+      <node id="#SmartTech" label="#SmartTech" />
+      <node id="#WEBCAST" label="#WEBCAST" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#TakingStock" label="#TakingStock" />
+      <node id="#London" label="#London" />
+      <node id="#Investors" label="#Investors" />
+      <node id="#interns" label="#interns" />
+      <node id="#Brewers" label="#Brewers" />
+      <node id="#taxday" label="#taxday" />
+      <node id="#Google" label="#Google" />
+      <node id="#affordablehousing" label="#affordablehousing" />
+      <node id="#women" label="#women" />
+      <node id="#Election" label="#Election" />
+      <node id="#collegeplanning" label="#collegeplanning" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#Stocks" label="#Stocks" />
+      <node id="#Portland" label="#Portland" />
+      <node id="#Watch" label="#Watch" />
+      <node id="#AMT" label="#AMT" />
+      <node id="#millennials" label="#millennials" />
+      <node id="#interest" label="#interest" />
+      <node id="#SB50" label="#SB50" />
+      <node id="#wealthmanagementinsight" label="#wealthmanagementinsight" />
+      <node id="#Ogden" label="#Ogden" />
+      <node id="#Denver" label="#Denver" />
+      <node id="#buy" label="#buy" />
+      <node id="#NBMBAA14" label="#NBMBAA14" />
+      <node id="#WARG" label="#WARG" />
+      <node id="#BairdAdvisors" label="#BairdAdvisors" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#Jobs" label="#Jobs" />
+      <node id="#BairdonTV" label="#BairdonTV" />
+      <node id="#Video" label="#Video" />
+      <node id="#venturecapital" label="#venturecapital" />
+      <node id="#benefits" label="#benefits" />
+      <node id="#BreakingNews" label="#BreakingNews" />
+      <node id="#workingforacure" label="#workingforacure" />
+      <node id="#Babyboomers" label="#Babyboomers" />
+      <node id="#DOMA" label="#DOMA" />
+      <node id="#GenomeDX" label="#GenomeDX" />
+      <node id="#womenatbaird" label="#womenatbaird" />
+      <node id="#flygirl" label="#flygirl" />
+      <node id="#downgrades" label="#downgrades" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#WealthManagement" label="#WealthManagement" />
+      <node id="#Wisconsin" label="#Wisconsin" />
+      <node id="#RWBBizSolutions" label="#RWBBizSolutions" />
+      <node id="#XboxOne" label="#XboxOne" />
+      <node id="#retire" label="#retire" />
+      <node id="#skis" label="#skis" />
+      <node id="#Webcasts" label="#Webcasts" />
+      <node id="#EveningWithSK" label="#EveningWithSK" />
+      <node id="#healthyliving" label="#healthyliving" />
+      <node id="#interestrates" label="#interestrates" />
+      <node id="#WSA" label="#WSA" />
+      <node id="#Olympian" label="#Olympian" />
+      <node id="#November" label="#November" />
+      <node id="#WorldwideExchange" label="#WorldwideExchange" />
+      <node id="#resilience" label="#resilience" />
+      <node id="#community" label="#community" />
+      <node id="#bucks" label="#bucks" />
+      <node id="#wsa" label="#wsa" />
+      <node id="#BairdCapitalPartners" label="#BairdCapitalPartners" />
+      <node id="#Spokane" label="#Spokane" />
+      <node id="#InvestmentBanking" label="#InvestmentBanking" />
+      <node id="#MKE" label="#MKE" />
+      <node id="#investing" label="#investing" />
+      <node id="#bonds" label="#bonds" />
+      <node id="#privateequity" label="#privateequity" />
+      <node id="#pwd" label="#pwd" />
+      <node id="#BIttlesMarketNote" label="#BIttlesMarketNote" />
+      <node id="#StreetSigns" label="#StreetSigns" />
+      <node id="#voiceofgreatermn" label="#voiceofgreatermn" />
+      <node id="#Millennials" label="#Millennials" />
+      <node id="#HurricaneIrene" label="#HurricaneIrene" />
+      <node id="#BairdOnTV" label="#BairdOnTV" />
+      <node id="#Maine" label="#Maine" />
+      <node id="#BairdCapital" label="#BairdCapital" />
+      <node id="#FareStart" label="#FareStart" />
+      <node id="#Justrite" label="#Justrite" />
+      <node id="#BairdWM" label="#BairdWM" />
+      <node id="#social" label="#social" />
+      <node id="#bairdtip" label="#bairdtip" />
+      <node id="#Asia" label="#Asia" />
+      <node id="#BairdVenturePartners" label="#BairdVenturePartners" />
+      <node id="#Investor" label="#Investor" />
+      <node id="#BostonPlastics" label="#BostonPlastics" />
+      <node id="#DisruptSF" label="#DisruptSF" />
+      <node id="#SnowBaird" label="#SnowBaird" />
+      <node id="#Housing" label="#Housing" />
+      <node id="#PennyCruse" label="#PennyCruse" />
+      <node id="#TeamOffense" label="#TeamOffense" />
+      <node id="#teamwork" label="#teamwork" />
+      <node id="#Diversity" label="#Diversity" />
+      <node id="#Charlotte" label="#Charlotte" />
+      <node id="#GDP" label="#GDP" />
+      <node id="#cloud" label="#cloud" />
+      <node id="#SouthBend" label="#SouthBend" />
+      <node id="#BittlesMarketNote" label="#BittlesMarketNote" />
+      <node id="#workplace" label="#workplace" />
+      <node id="#ModelX" label="#ModelX" />
+      <node id="#wasbo" label="#wasbo" />
+      <node id="#Christmas" label="#Christmas" />
+      <node id="#Smartphone" label="#Smartphone" />
+      <node id="#munimarket" label="#munimarket" />
+      <node id="#FederalReserve" label="#FederalReserve" />
+      <node id="#BairdAnnualMeeting" label="#BairdAnnualMeeting" />
+      <node id="#BeAChampion" label="#BeAChampion" />
+      <node id="#agriculture" label="#agriculture" />
+      <node id="#BairdInsights" label="#BairdInsights" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#Bucks" label="#Bucks" />
+      <node id="#risk" label="#risk" />
+      <node id="#college" label="#college" />
+      <node id="#StreetSmart" label="#StreetSmart" />
+      <node id="#PS4" label="#PS4" />
+      <node id="#Nashville" label="#Nashville" />
+      <node id="#Boulder" label="#Boulder" />
+      <node id="#Bellevue" label="#Bellevue" />
+      <node id="#BairdInsight" label="#BairdInsight" />
+      <node id="#Bonds" label="#Bonds" />
+      <node id="#SmartMoney" label="#SmartMoney" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#Oregon" label="#Oregon" />
+      <node id="#Utah" label="#Utah" />
+      <node id="#FirstTimeTweeters" label="#FirstTimeTweeters" />
+      <node id="#banks" label="#banks" />
+      <node id="#Research" label="#Research" />
+      <node id="#PeoplesPicks" label="#PeoplesPicks" />
+      <node id="#BairdForTheArts" label="#BairdForTheArts" />
+      <node id="#Washington" label="#Washington" />
+      <node id="#InternationalWomenDay" label="#InternationalWomenDay" />
+      <node id="#buildinghope" label="#buildinghope" />
+      <node id="#FinancialServices" label="#FinancialServices" />
+      <node id="#MarketNote" label="#MarketNote" />
+      <node id="#spacematters" label="#spacematters" />
+      <node id="#Yield" label="#Yield" />
+      <node id="#NationalPhilanthropyDay" label="#NationalPhilanthropyDay" />
+      <node id="#CES2013" label="#CES2013" />
+      <node id="#gptw100Best" label="#gptw100Best" />
+      <node id="#fitness" label="#fitness" />
+      <node id="#BairdDigest" label="#BairdDigest" />
+      <node id="#mubb" label="#mubb" />
+      <node id="#service" label="#service" />
+      <node id="#career" label="#career" />
+      <node id="#REGISTER" label="#REGISTER" />
+      <node id="#e" label="#e" />
+      <node id="#skier" label="#skier" />
+      <node id="#Fed" label="#Fed" />
+      <node id="#iPhone5" label="#iPhone5" />
+      <node id="#RWBHealthCare" label="#RWBHealthCare" />
+      <node id="#M" label="#M" />
+      <node id="#Seattle" label="#Seattle" />
+      <node id="#Job" label="#Job" />
+      <node id="#S" label="#S" />
+      <node id="#IRS" label="#IRS" />
+      <node id="#technology" label="#technology" />
+      <node id="#Budget" label="#Budget" />
+      <node id="#BairdIndustrialConf" label="#BairdIndustrialConf" />
+      <node id="#NYSE" label="#NYSE" />
+      <node id="#venture" label="#venture" />
+      <node id="#IRA" label="#IRA" />
+      <node id="#Volunteers" label="#Volunteers" />
+      <node id="#SFIALeads" label="#SFIALeads" />
+      <node id="#Sponsor" label="#Sponsor" />
+      <node id="#BairdGivesBackWeek" label="#BairdGivesBackWeek" />
+      <node id="#BairdSymposium" label="#BairdSymposium" />
+      <node id="#WarrenMiller" label="#WarrenMiller" />
+      <node id="#investor" label="#investor" />
+      <node id="#BestCos" label="#BestCos" />
+      <node id="#MillerPark" label="#MillerPark" />
+      <node id="#bairdcares" label="#bairdcares" />
+      <node id="#Boston" label="#Boston" />
+      <node id="#teddybears4kids" label="#teddybears4kids" />
+      <node id="#Development" label="#Development" />
+      <node id="#911day" label="#911day" />
+      <node id="#2016EdCon" label="#2016EdCon" />
+      <node id="#Madison" label="#Madison" />
+      <node id="#PuertoRico" label="#PuertoRico" />
+      <node id="#Anbang" label="#Anbang" />
+      <node id="#teams16" label="#teams16" />
+      <node id="#proudassociate" label="#proudassociate" />
+      <node id="#global" label="#global" />
+      <node id="#gaming" label="#gaming" />
+      <node id="#TCDisrupt" label="#TCDisrupt" />
+      <node id="#TalkingNumbers" label="#TalkingNumbers" />
+      <node id="#Baird" label="#Baird" />
+      <node id="#Starwood" label="#Starwood" />
+      <node id="#NewYear" label="#NewYear" />
+      <node id="#More4KidsMN" label="#More4KidsMN" />
+      <node id="#Roth" label="#Roth" />
+      <node id="#TheFed" label="#TheFed" />
+      <node id="#weekend" label="#weekend" />
+      <node id="#eveningwithSK" label="#eveningwithSK" />
+      <node id="#Listen" label="#Listen" />
+      <node id="#PLL" label="#PLL" />
+      <node id="#Arizona" label="#Arizona" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#FixedIncomeWeekly" label="#FixedIncomeWeekly" />
+      <node id="#solar" label="#solar" />
+      <node id="#manufacturing" label="#manufacturing" />
+      <node id="#Oculus" label="#Oculus" />
+      <node id="#EMBA" label="#EMBA" />
+      <node id="#SP500" label="#SP500" />
+      <node id="#Microsoft" label="#Microsoft" />
+      <node id="#India" label="#India" />
+      <node id="#BPO" label="#BPO" />
+      <node id="#Olympic" label="#Olympic" />
+      <node id="#RWBGrowthStock" label="#RWBGrowthStock" />
+      <node id="#panel" label="#panel" />
+      <node id="#BairdInterns" label="#BairdInterns" />
+      <node id="#AppleWatch" label="#AppleWatch" />
+      <node id="#Bond" label="#Bond" />
+      <node id="#economy" label="#economy" />
+      <node id="#Broncos" label="#Broncos" />
+      <node id="#SupremeCourt" label="#SupremeCourt" />
+      <node id="#BairdMarketNote" label="#BairdMarketNote" />
+      <node id="#hotelnews" label="#hotelnews" />
+      <node id="#Treasurys" label="#Treasurys" />
+      <node id="#Ski" label="#Ski" />
+      <node id="#YPWeek" label="#YPWeek" />
+      <node id="#FedReserve" label="#FedReserve" />
+      <node id="#Yakima" label="#Yakima" />
+      <node id="#retirement" label="#retirement" />
+      <node id="#warrenmiller" label="#warrenmiller" />
+      <node id="#CFP" label="#CFP" />
+      <node id="#WomenatBaird" label="#WomenatBaird" />
+      <node id="#LiverMeeting" label="#LiverMeeting" />
+      <node id="#Greece" label="#Greece" />
+      <node id="#investments" label="#investments" />
+      <node id="#RWBAnnualReport" label="#RWBAnnualReport" />
+      <node id="#WomenARG" label="#WomenARG" />
+      <node id="#Costco" label="#Costco" />
+      <node id="#CEI2015" label="#CEI2015" />
+      <node id="#Milwaukee" label="#Milwaukee" />
+      <node id="#Career" label="#Career" />
+      <node id="#taxreturns" label="#taxreturns" />
+      <node id="#FollowFriday" label="#FollowFriday" />
+      <node id="#Unitranche" label="#Unitranche" />
+      <node id="#BairdLifeStyle" label="#BairdLifeStyle" />
+      <node id="#TheCall" label="#TheCall" />
+      <node id="#GentryMagazine" label="#GentryMagazine" />
+      <node id="#WIEducation" label="#WIEducation" />
+      <node id="#Habitat" label="#Habitat" />
+      <node id="#PrivCap" label="#PrivCap" />
+      <node id="#divorce" label="#divorce" />
+      <node id="#BairdLifestyle" label="#BairdLifestyle" />
+      <node id="#CareerFair" label="#CareerFair" />
+      <node id="#EqualityWorks" label="#EqualityWorks" />
+      <node id="#OwnTheFuture" label="#OwnTheFuture" />
+      <node id="#MPS" label="#MPS" />
+      <node id="#VIDEO" label="#VIDEO" />
+      <node id="#gratitude" label="#gratitude" />
+      <node id="#BairdCares" label="#BairdCares" />
+      <node id="#bairdannualmeeting" label="#bairdannualmeeting" />
+      <node id="#Eurozone" label="#Eurozone" />
+      <node id="#InstitutionalInvestors" label="#InstitutionalInvestors" />
+      <node id="#Norway" label="#Norway" />
+      <node id="#Trivia" label="#Trivia" />
+      <node id="#equity" label="#equity" />
+      <node id="#Analyst" label="#Analyst" />
+      <node id="#networking" label="#networking" />
+      <node id="#UnitedCommunityCenter" label="#UnitedCommunityCenter" />
+      <node id="#Biotech" label="#Biotech" />
+      <node id="#China" label="#China" />
+      <node id="#startup" label="#startup" />
+      <node id="#DaysOfCaring" label="#DaysOfCaring" />
+      <node id="#Solar" label="#Solar" />
+      <node id="#Manufacturing" label="#Manufacturing" />
+      <node id="#IT" label="#IT" />
+      <node id="#DHR" label="#DHR" />
+      <node id="#mobile" label="#mobile" />
+      <node id="#LGBT" label="#LGBT" />
+      <node id="#ski" label="#ski" />
+      <node id="#collegesavings" label="#collegesavings" />
+      <node id="#HNW" label="#HNW" />
+      <node id="#Fixedincome" label="#Fixedincome" />
+      <node id="#fundraising" label="#fundraising" />
+      <node id="#BairdTip" label="#BairdTip" />
+      <node id="#wealthmanagement" label="#wealthmanagement" />
+      <node id="#npdlove" label="#npdlove" />
+      <node id="#philanthropy" label="#philanthropy" />
+      <node id="#BaironTV" label="#BaironTV" />
+      <node id="#SqwawkBox" label="#SqwawkBox" />
+      <node id="#RWBHealthcare" label="#RWBHealthcare" />
+      <node id="#Taxpayer" label="#Taxpayer" />
+      <node id="#Rethinking" label="#Rethinking" />
+      <node id="#resolutions" label="#resolutions" />
+      <node id="#taxpayers" label="#taxpayers" />
+      <node id="#trader" label="#trader" />
+      <node id="#Europe" label="#Europe" />
+      <node id="#Apple" label="#Apple" />
+      <node id="#givethanks" label="#givethanks" />
+      <node id="#Colorado" label="#Colorado" />
+      <node id="#tech" label="#tech" />
+      <node id="#tunein" label="#tunein" />
+      <node id="#Networking" label="#Networking" />
+      <node id="#equities" label="#equities" />
+      <node id="#whitepaper" label="#whitepaper" />
+      <node id="#wasda" label="#wasda" />
+      <node id="#identitytheft" label="#identitytheft" />
+      <node id="#wd4g" label="#wd4g" />
+      <node id="#video" label="#video" />
+      <node id="#cleantech" label="#cleantech" />
+      <node id="#Reminder" label="#Reminder" />
+      <node id="#ChasingShadows" label="#ChasingShadows" />
+      <node id="#EAS" label="#EAS" />
+      <node id="#oil" label="#oil" />
+      <node id="#interestrate" label="#interestrate" />
+      <node id="#April" label="#April" />
+      <node id="#inflation" label="#inflation" />
+      <node id="#ChertoffGroup" label="#ChertoffGroup" />
+      <node id="#BairdCapitalPartnersAsia" label="#BairdCapitalPartnersAsia" />
+      <node id="#BairdGivesBack" label="#BairdGivesBack" />
+      <node id="#California" label="#California" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#PrivateEquity" label="#PrivateEquity" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#BlueCarpet" label="#BlueCarpet" />
+      <node id="#UWM" label="#UWM" />
+      <node id="#STRdata" label="#STRdata" />
+      <node id="#iPad" label="#iPad" />
+      <node id="#AffordableCareAct" label="#AffordableCareAct" />
+      <node id="#iPhone" label="#iPhone" />
+      <node id="#MLP" label="#MLP" />
+      <node id="#hotel" label="#hotel" />
+      <node id="#growth" label="#growth" />
+      <node id="#Economists" label="#Economists" />
+      <node id="#freshman" label="#freshman" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#earnings" target="#BairdonTV" weight="12764" />
+      <edge id="1" source="#earnings" target="#BaironTV" weight="3191" />
+      <edge id="2" source="#BairdChina" target="#China" weight="12764" />
+      <edge id="3" source="#Thanksgiving" target="#givethanks" weight="3191" />
+      <edge id="4" source="#pharma" target="#biotech" weight="3191" />
+      <edge id="5" source="#pharma" target="#M" weight="3191" />
+      <edge id="6" source="#mkelion" target="#Milwaukee" weight="3191" />
+      <edge id="7" source="#BairdIntern" target="#career" weight="3191" />
+      <edge id="8" source="#investors" target="#Fed" weight="3191" />
+      <edge id="9" source="#investors" target="#interestrates" weight="3191" />
+      <edge id="10" source="#investors" target="#bond" weight="3191" />
+      <edge id="11" source="#investors" target="#VIDEO" weight="3191" />
+      <edge id="12" source="#investors" target="#equity" weight="3191" />
+      <edge id="13" source="#WashSale" target="#Reminder" weight="3191" />
+      <edge id="14" source="#bairdwm" target="#warrenmiller" weight="6382" />
+      <edge id="15" source="#bairdwm" target="#NoTurningBack" weight="3191" />
+      <edge id="16" source="#bairdwm" target="#Boulder" weight="3191" />
+      <edge id="17" source="#register" target="#Chicago" weight="3191" />
+      <edge id="18" source="#register" target="#RWBIndustrial" weight="3191" />
+      <edge id="19" source="#socialsecurity" target="#budgetbill" weight="3191" />
+      <edge id="20" source="#socialsecurity" target="#benefits" weight="3191" />
+      <edge id="21" source="#socialsecurity" target="#BairdInsights" weight="6382" />
+      <edge id="22" source="#socialsecurity" target="#BairdLifestyle" weight="3191" />
+      <edge id="23" source="#Bairdtip" target="#SocialSecurity" weight="3191" />
+      <edge id="24" source="#Cliff" target="#Investors" weight="3191" />
+      <edge id="25" source="#capitalgainstax" target="#income" weight="3191" />
+      <edge id="26" source="#marriage" target="#college" weight="3191" />
+      <edge id="27" source="#marriage" target="#retirement" weight="3191" />
+      <edge id="28" source="#marriage" target="#bairdtip" weight="3191" />
+      <edge id="29" source="#BairdLivesUnited" target="#BairdGivesBack" weight="3191" />
+      <edge id="30" source="#BairdLivesUnited" target="#Milwaukee" weight="3191" />
+      <edge id="31" source="#RIMM" target="#BairdonTV" weight="3191" />
+      <edge id="32" source="#bondmarket" target="#BairdAdvisors" weight="3191" />
+      <edge id="33" source="#bond" target="#volatility" weight="3191" />
+      <edge id="34" source="#bond" target="#InstitutionalInvestors" weight="3191" />
+      <edge id="35" source="#bond" target="#Treasurys" weight="3191" />
+      <edge id="36" source="#bond" target="#VIDEO" weight="3191" />
+      <edge id="37" source="#bond" target="#Fed" weight="3191" />
+      <edge id="38" source="#bond" target="#investing" weight="3191" />
+      <edge id="39" source="#BairdHealthCareConf" target="#Medicare" weight="3191" />
+      <edge id="40" source="#Kestenholz" target="#WarrenMiller" weight="3191" />
+      <edge id="41" source="#Kestenholz" target="#BairdWM" weight="3191" />
+      <edge id="42" source="#bairdinterns" target="#interns" weight="9573" />
+      <edge id="43" source="#Repost" target="#Wisconsin" weight="3191" />
+      <edge id="44" source="#Repost" target="#YoungProfesionals" weight="3191" />
+      <edge id="45" source="#SCOTUS" target="#RWBHealthCare" weight="3191" />
+      <edge id="46" source="#RWBIndustrial" target="#Register" weight="3191" />
+      <edge id="47" source="#RWBIndustrial" target="#Industrial" weight="6382" />
+      <edge id="48" source="#RWBIndustrial" target="#privateequity" weight="3191" />
+      <edge id="49" source="#RWBIndustrial" target="#Solar" weight="3191" />
+      <edge id="50" source="#RWBIndustrial" target="#Chicago" weight="3191" />
+      <edge id="51" source="#RWBIndustrial" target="#manufacturing" weight="3191" />
+      <edge id="52" source="#stock" target="#oil" weight="3191" />
+      <edge id="53" source="#stock" target="#VIDEO" weight="3191" />
+      <edge id="54" source="#stock" target="#economics" weight="3191" />
+      <edge id="55" source="#FixedIncome" target="#munimarket" weight="3191" />
+      <edge id="56" source="#Accountant" target="#Financial" weight="3191" />
+      <edge id="57" source="#Accountant" target="#Milwaukee" weight="3191" />
+      <edge id="58" source="#Accountant" target="#Job" weight="3191" />
+      <edge id="59" source="#Accountant" target="#Analyst" weight="3191" />
+      <edge id="60" source="#Amazon" target="#BairdonTV" weight="3191" />
+      <edge id="61" source="#Amazon" target="#Google" weight="3191" />
+      <edge id="62" source="#Amazon" target="#Facebook" weight="3191" />
+      <edge id="63" source="#IPO" target="#EAS" weight="3191" />
+      <edge id="64" source="#IPO" target="#Register" weight="3191" />
+      <edge id="65" source="#IPO" target="#M" weight="9573" />
+      <edge id="66" source="#IPO" target="#privateequity" weight="3191" />
+      <edge id="67" source="#muathletics_bb" target="#Bucks" weight="3191" />
+      <edge id="68" source="#muathletics_bb" target="#BairdLifestyle" weight="3191" />
+      <edge id="69" source="#BlackFriday" target="#BairdonTV" weight="3191" />
+      <edge id="70" source="#Financial" target="#Analyst" weight="3191" />
+      <edge id="71" source="#Financial" target="#Job" weight="3191" />
+      <edge id="72" source="#Financial" target="#Milwaukee" weight="3191" />
+      <edge id="73" source="#alternativeminimumtax" target="#AMT" weight="3191" />
+      <edge id="74" source="#Yahoo" target="#BairdCapital" weight="3191" />
+      <edge id="75" source="#SanFrancisco" target="#WarrenMiller" weight="3191" />
+      <edge id="76" source="#SanFrancisco" target="#BairdWM" weight="3191" />
+      <edge id="77" source="#biotech" target="#BairdonTV" weight="9573" />
+      <edge id="78" source="#biotech" target="#SP500" weight="3191" />
+      <edge id="79" source="#biotech" target="#RWBHealthcare" weight="3191" />
+      <edge id="80" source="#biotech" target="#M" weight="3191" />
+      <edge id="81" source="#moxieawards" target="#BairdVenturePartners" weight="3191" />
+      <edge id="82" source="#FF" target="#BestCos" weight="3191" />
+      <edge id="83" source="#FF" target="#Colorado" weight="3191" />
+      <edge id="84" source="#FF" target="#WarrenMiller" weight="3191" />
+      <edge id="85" source="#FF" target="#BairdGivesBackWeek" weight="3191" />
+      <edge id="86" source="#FF" target="#BairdGivesBack" weight="3191" />
+      <edge id="87" source="#FF" target="#100Best" weight="3191" />
+      <edge id="88" source="#FF" target="#BairdWM" weight="3191" />
+      <edge id="89" source="#FF" target="#Olympic" weight="3191" />
+      <edge id="90" source="#FinServ" target="#SM" weight="3191" />
+      <edge id="91" source="#FinServ" target="#SMWBusiness" weight="3191" />
+      <edge id="92" source="#TBT" target="#BairdWM" weight="6382" />
+      <edge id="93" source="#TBT" target="#CommunityInvolved" weight="3191" />
+      <edge id="94" source="#TBT" target="#WSA" weight="3191" />
+      <edge id="95" source="#TBT" target="#MillerPark" weight="3191" />
+      <edge id="96" source="#economics" target="#oil" weight="3191" />
+      <edge id="97" source="#economics" target="#VIDEO" weight="3191" />
+      <edge id="98" source="#alternatives" target="#volatility" weight="3191" />
+      <edge id="99" source="#alternatives" target="#wealthmanagementinsight" weight="3191" />
+      <edge id="100" source="#skiseason" target="#Boulder" weight="3191" />
+      <edge id="101" source="#tax" target="#Reminder" weight="3191" />
+      <edge id="102" source="#tax" target="#volatility" weight="3191" />
+      <edge id="103" source="#tax" target="#November" weight="3191" />
+      <edge id="104" source="#tax" target="#Video" weight="3191" />
+      <edge id="105" source="#tax" target="#investments" weight="3191" />
+      <edge id="106" source="#tax" target="#IRA" weight="3191" />
+      <edge id="107" source="#tax" target="#market" weight="3191" />
+      <edge id="108" source="#tax" target="#Baird" weight="3191" />
+      <edge id="109" source="#tax" target="#WEBCAST" weight="3191" />
+      <edge id="110" source="#warrenMiller" target="#family" weight="3191" />
+      <edge id="111" source="#warrenMiller" target="#weekend" weight="3191" />
+      <edge id="112" source="#warrenMiller" target="#BairdWM" weight="3191" />
+      <edge id="113" source="#IWD" target="#video" weight="6382" />
+      <edge id="114" source="#UnitedWay" target="#DaysOfCaring" weight="3191" />
+      <edge id="115" source="#LessTalkMoreWalk" target="#Sponsor" weight="3191" />
+      <edge id="116" source="#volatility" target="#Treasurys" weight="3191" />
+      <edge id="117" source="#volatility" target="#BairdTip" weight="3191" />
+      <edge id="118" source="#volatility" target="#market" weight="9573" />
+      <edge id="119" source="#volatility" target="#wealthmanagementinsight" weight="3191" />
+      <edge id="120" source="#volatility" target="#Economists" weight="3191" />
+      <edge id="121" source="#volatility" target="#retirement" weight="3191" />
+      <edge id="122" source="#DenverBroncos" target="#SB50" weight="3191" />
+      <edge id="123" source="#FiscalCliff" target="#BittlesMarketNote" weight="3191" />
+      <edge id="124" source="#WWDC" target="#BairdonTV" weight="3191" />
+      <edge id="125" source="#family" target="#weekend" weight="3191" />
+      <edge id="126" source="#family" target="#BairdWM" weight="3191" />
+      <edge id="127" source="#welldeserved" target="#BestCos" weight="3191" />
+      <edge id="128" source="#Michigan" target="#WarrenMiller" weight="3191" />
+      <edge id="129" source="#Michigan" target="#Birmingham" weight="3191" />
+      <edge id="130" source="#Michigan" target="#BairdWM" weight="3191" />
+      <edge id="131" source="#gas" target="#inflation" weight="3191" />
+      <edge id="132" source="#gas" target="#Fixedincome" weight="3191" />
+      <edge id="133" source="#gas" target="#BairdTip" weight="3191" />
+      <edge id="134" source="#RWBGrowthStockConf" target="#BairdonTV" weight="3191" />
+      <edge id="135" source="#wasb" target="#wasda" weight="3191" />
+      <edge id="136" source="#wasb" target="#wasbo" weight="3191" />
+      <edge id="137" source="#wasb" target="#2016EdCon" weight="3191" />
+      <edge id="138" source="#Germany" target="#Unitranche" weight="3191" />
+      <edge id="139" source="#Economy" target="#Election" weight="3191" />
+      <edge id="140" source="#Economy" target="#Europe" weight="3191" />
+      <edge id="141" source="#Economy" target="#BittlesMarketNote" weight="6382" />
+      <edge id="142" source="#Economy" target="#Stocks" weight="3191" />
+      <edge id="143" source="#VentureCapital" target="#BairdCapital" weight="3191" />
+      <edge id="144" source="#NoTurningBack" target="#WarrenMiller" weight="3191" />
+      <edge id="145" source="#NoTurningBack" target="#warrenmiller" weight="3191" />
+      <edge id="146" source="#NoTurningBack" target="#Boulder" weight="3191" />
+      <edge id="147" source="#liveunited" target="#BairdGivesBack" weight="3191" />
+      <edge id="148" source="#liveunited" target="#911day" weight="3191" />
+      <edge id="149" source="#liveunited" target="#bairdcares" weight="3191" />
+      <edge id="150" source="#Dow13K" target="#investor" weight="3191" />
+      <edge id="151" source="#Dow13K" target="#BairdTip" weight="3191" />
+      <edge id="152" source="#education" target="#InvestInWomen" weight="3191" />
+      <edge id="153" source="#education" target="#networking" weight="3191" />
+      <edge id="154" source="#happyearthday" target="#womenatbaird" weight="3191" />
+      <edge id="155" source="#happyearthday" target="#bairdcares" weight="3191" />
+      <edge id="156" source="#Marriott" target="#BairdonTV" weight="3191" />
+      <edge id="157" source="#Marriott" target="#Starwood" weight="3191" />
+      <edge id="158" source="#Marriott" target="#Anbang" weight="3191" />
+      <edge id="159" source="#income" target="#taxday" weight="3191" />
+      <edge id="160" source="#income" target="#taxes" weight="3191" />
+      <edge id="161" source="#financial" target="#BairdWM" weight="3191" />
+      <edge id="162" source="#financial" target="#BairdDigest" weight="3191" />
+      <edge id="163" source="#Texas" target="#MLP" weight="3191" />
+      <edge id="164" source="#market" target="#retirement" weight="3191" />
+      <edge id="165" source="#internet" target="#BairdonTV" weight="3191" />
+      <edge id="166" source="#YoungProfesionals" target="#Wisconsin" weight="3191" />
+      <edge id="167" source="#Taking" target="#BairdonTV" weight="3191" />
+      <edge id="168" source="#Alaska" target="#BairdWM" weight="3191" />
+      <edge id="169" source="#taxes" target="#IRA" weight="3191" />
+      <edge id="170" source="#taxes" target="#taxday" weight="3191" />
+      <edge id="171" source="#taxes" target="#capital" weight="3191" />
+      <edge id="172" source="#taxes" target="#bairdtip" weight="3191" />
+      <edge id="173" source="#Taxpayers" target="#BairdInsights" weight="3191" />
+      <edge id="174" source="#BairdTechnologyConf" target="#Webcasts" weight="3191" />
+      <edge id="175" source="#UnderOneUmbrella" target="#workingforacure" weight="3191" />
+      <edge id="176" source="#nbmbaa12" target="#CareerFair" weight="3191" />
+      <edge id="177" source="#Phoenix" target="#WarrenMiller" weight="6382" />
+      <edge id="178" source="#Phoenix" target="#BairdWM" weight="6382" />
+      <edge id="179" source="#flygirlVA" target="#WomenatBaird" weight="3191" />
+      <edge id="180" source="#flygirlVA" target="#womenatbaird" weight="28719" />
+      <edge id="181" source="#ITW" target="#BairdIndustrialConf" weight="3191" />
+      <edge id="182" source="#rural" target="#affordablehousing" weight="3191" />
+      <edge id="183" source="#rural" target="#pwd" weight="3191" />
+      <edge id="184" source="#CommunityInvolved" target="#WSA" weight="6382" />
+      <edge id="185" source="#WASBO" target="#WIEducation" weight="3191" />
+      <edge id="186" source="#markets" target="#trader" weight="3191" />
+      <edge id="187" source="#markets" target="#BairdonTV" weight="3191" />
+      <edge id="188" source="#SocialSecurity" target="#retirement" weight="3191" />
+      <edge id="189" source="#EstatePlanning" target="#whitepaper" weight="3191" />
+      <edge id="190" source="#Warren" target="#BairdWM" weight="3191" />
+      <edge id="191" source="#Warren" target="#skis" weight="3191" />
+      <edge id="192" source="#Sandy" target="#BittlesMarketNote" weight="3191" />
+      <edge id="193" source="#afpnpd" target="#npdlove" weight="3191" />
+      <edge id="194" source="#MedPlast" target="#BairdCapital" weight="3191" />
+      <edge id="195" source="#Yellen" target="#BairdInsights" weight="3191" />
+      <edge id="196" source="#Packers" target="#WSA" weight="6382" />
+      <edge id="197" source="#InvestInWomen" target="#networking" weight="3191" />
+      <edge id="198" source="#InvestInWomen" target="#gratitude" weight="3191" />
+      <edge id="199" source="#InvestInWomen" target="#resilience" weight="3191" />
+      <edge id="200" source="#InvestInWomen" target="#EveningWithSK" weight="3191" />
+      <edge id="201" source="#InvestInWomen" target="#Networking" weight="3191" />
+      <edge id="202" source="#InvestInWomen" target="#eveningwithSK" weight="3191" />
+      <edge id="203" source="#financialaid" target="#collegesavings" weight="3191" />
+      <edge id="204" source="#financialaid" target="#BairdWM" weight="3191" />
+      <edge id="205" source="#BGBW" target="#BairdGivesBack" weight="3191" />
+      <edge id="206" source="#BGBW" target="#BairdCares" weight="3191" />
+      <edge id="207" source="#Albany" target="#WarrenMiller" weight="3191" />
+      <edge id="208" source="#Albany" target="#BairdWM" weight="3191" />
+      <edge id="209" source="#Register" target="#RWBHealthCare" weight="9573" />
+      <edge id="210" source="#Register" target="#M" weight="3191" />
+      <edge id="211" source="#Register" target="#privateequity" weight="3191" />
+      <edge id="212" source="#Register" target="#EAS" weight="3191" />
+      <edge id="213" source="#Insightra" target="#BairdCapital" weight="3191" />
+      <edge id="214" source="#SFIAMembers" target="#SFIALeads" weight="3191" />
+      <edge id="215" source="#SmartTech" target="#growth" weight="3191" />
+      <edge id="216" source="#SmartTech" target="#technology" weight="3191" />
+      <edge id="217" source="#TakingStock" target="#BairdonTV" weight="6382" />
+      <edge id="218" source="#London" target="#BairdonTV" weight="3191" />
+      <edge id="219" source="#Brewers" target="#BairdInterns" weight="3191" />
+      <edge id="220" source="#Brewers" target="#MKE" weight="3191" />
+      <edge id="221" source="#Brewers" target="#WSA" weight="6382" />
+      <edge id="222" source="#Google" target="#BairdonTV" weight="3191" />
+      <edge id="223" source="#Google" target="#Facebook" weight="3191" />
+      <edge id="224" source="#affordablehousing" target="#pwd" weight="3191" />
+      <edge id="225" source="#women" target="#womenatbaird" weight="6382" />
+      <edge id="226" source="#women" target="#divorce" weight="3191" />
+      <edge id="227" source="#Election" target="#Europe" weight="3191" />
+      <edge id="228" source="#Election" target="#BittlesMarketNote" weight="3191" />
+      <edge id="229" source="#collegeplanning" target="#HNW" weight="3191" />
+      <edge id="230" source="#Obama" target="#Budget" weight="3191" />
+      <edge id="231" source="#Obama" target="#BairdInsights" weight="3191" />
+      <edge id="232" source="#Stocks" target="#BittlesMarketNote" weight="3191" />
+      <edge id="233" source="#Portland" target="#WarrenMiller" weight="6382" />
+      <edge id="234" source="#Portland" target="#BairdWM" weight="3191" />
+      <edge id="235" source="#Portland" target="#Maine" weight="3191" />
+      <edge id="236" source="#Watch" target="#BairdOnTV" weight="6382" />
+      <edge id="237" source="#millennials" target="#BairdInsights" weight="3191" />
+      <edge id="238" source="#interest" target="#Fed" weight="3191" />
+      <edge id="239" source="#interest" target="#FederalReserve" weight="3191" />
+      <edge id="240" source="#interest" target="#BairdInsights" weight="3191" />
+      <edge id="241" source="#Ogden" target="#WarrenMiller" weight="3191" />
+      <edge id="242" source="#Ogden" target="#BairdWM" weight="3191" />
+      <edge id="243" source="#Ogden" target="#Utah" weight="3191" />
+      <edge id="244" source="#Denver" target="#eveningwithSK" weight="3191" />
+      <edge id="245" source="#buy" target="#BairdonTV" weight="3191" />
+      <edge id="246" source="#NBMBAA14" target="#Career" weight="3191" />
+      <edge id="247" source="#WARG" target="#WomenatBaird" weight="3191" />
+      <edge id="248" source="#BairdAdvisors" target="#Yield" weight="3191" />
+      <edge id="249" source="#BairdAdvisors" target="#Bond" weight="3191" />
+      <edge id="250" source="#BairdAdvisors" target="#bonds" weight="6382" />
+      <edge id="251" source="#Facebook" target="#FedReserve" weight="3191" />
+      <edge id="252" source="#Facebook" target="#BairdonTV" weight="15955" />
+      <edge id="253" source="#Facebook" target="#tech" weight="3191" />
+      <edge id="254" source="#Facebook" target="#Oculus" weight="3191" />
+      <edge id="255" source="#Jobs" target="#BIttlesMarketNote" weight="3191" />
+      <edge id="256" source="#BairdonTV" target="#TheCall" weight="3191" />
+      <edge id="257" source="#BairdonTV" target="#ModelX" weight="3191" />
+      <edge id="258" source="#BairdonTV" target="#AppleWatch" weight="3191" />
+      <edge id="259" source="#BairdonTV" target="#FedReserve" weight="6382" />
+      <edge id="260" source="#BairdonTV" target="#WorldwideExchange" weight="6382" />
+      <edge id="261" source="#BairdonTV" target="#trader" weight="3191" />
+      <edge id="262" source="#BairdonTV" target="#banks" weight="3191" />
+      <edge id="263" source="#BairdonTV" target="#Starwood" weight="3191" />
+      <edge id="264" source="#BairdonTV" target="#social" weight="3191" />
+      <edge id="265" source="#BairdonTV" target="#tunein" weight="3191" />
+      <edge id="266" source="#BairdonTV" target="#CES2013" weight="3191" />
+      <edge id="267" source="#BairdonTV" target="#XboxOne" weight="3191" />
+      <edge id="268" source="#BairdonTV" target="#LiverMeeting" weight="3191" />
+      <edge id="269" source="#BairdonTV" target="#CyberMonday" weight="6382" />
+      <edge id="270" source="#BairdonTV" target="#solar" weight="3191" />
+      <edge id="271" source="#BairdonTV" target="#StreetSmart" weight="12764" />
+      <edge id="272" source="#BairdonTV" target="#Biotech" weight="6382" />
+      <edge id="273" source="#BairdonTV" target="#PS4" weight="3191" />
+      <edge id="274" source="#BairdonTV" target="#Oculus" weight="3191" />
+      <edge id="275" source="#BairdonTV" target="#Apple" weight="6382" />
+      <edge id="276" source="#BairdonTV" target="#StreetSigns" weight="3191" />
+      <edge id="277" source="#BairdonTV" target="#iPhone5" weight="3191" />
+      <edge id="278" source="#BairdonTV" target="#Microsoft" weight="3191" />
+      <edge id="279" source="#BairdonTV" target="#Smartphone" weight="3191" />
+      <edge id="280" source="#BairdonTV" target="#Anbang" weight="3191" />
+      <edge id="281" source="#BairdonTV" target="#iPhone" weight="3191" />
+      <edge id="282" source="#BairdonTV" target="#hotel" weight="3191" />
+      <edge id="283" source="#BairdonTV" target="#equities" weight="3191" />
+      <edge id="284" source="#Video" target="#DOMA" weight="3191" />
+      <edge id="285" source="#Video" target="#BairdCapital" weight="3191" />
+      <edge id="286" source="#venturecapital" target="#startup" weight="3191" />
+      <edge id="287" source="#venturecapital" target="#BairdCapital" weight="6382" />
+      <edge id="288" source="#venturecapital" target="#Milwaukee" weight="3191" />
+      <edge id="289" source="#BreakingNews" target="#BittlesMarketNote" weight="9573" />
+      <edge id="290" source="#Babyboomers" target="#retirement" weight="3191" />
+      <edge id="291" source="#DOMA" target="#SupremeCourt" weight="3191" />
+      <edge id="292" source="#GenomeDX" target="#BairdCapital" weight="3191" />
+      <edge id="293" source="#womenatbaird" target="#flygirl" weight="3191" />
+      <edge id="294" source="#womenatbaird" target="#teddybears4kids" weight="3191" />
+      <edge id="295" source="#womenatbaird" target="#PennyCruse" weight="3191" />
+      <edge id="296" source="#womenatbaird" target="#panel" weight="3191" />
+      <edge id="297" source="#womenatbaird" target="#bairdcares" weight="3191" />
+      <edge id="298" source="#womenatbaird" target="#bairdannualmeeting" weight="9573" />
+      <edge id="299" source="#downgrades" target="#Greece" weight="3191" />
+      <edge id="300" source="#downgrades" target="#Eurozone" weight="3191" />
+      <edge id="301" source="#Brexit" target="#Listen" weight="3191" />
+      <edge id="302" source="#WealthManagement" target="#BairdWM" weight="3191" />
+      <edge id="303" source="#Wisconsin" target="#Madison" weight="3191" />
+      <edge id="304" source="#RWBBizSolutions" target="#VIDEO" weight="6382" />
+      <edge id="305" source="#RWBBizSolutions" target="#mobile" weight="9573" />
+      <edge id="306" source="#XboxOne" target="#PS4" weight="3191" />
+      <edge id="307" source="#retire" target="#retirement" weight="3191" />
+      <edge id="308" source="#skis" target="#BairdWM" weight="3191" />
+      <edge id="309" source="#healthyliving" target="#fitness" weight="3191" />
+      <edge id="310" source="#interestrates" target="#Fed" weight="3191" />
+      <edge id="311" source="#interestrates" target="#BairdDigest" weight="3191" />
+      <edge id="312" source="#WSA" target="#OwnTheFuture" weight="3191" />
+      <edge id="313" source="#WSA" target="#MPS" weight="3191" />
+      <edge id="314" source="#WSA" target="#BlueCarpet" weight="3191" />
+      <edge id="315" source="#WSA" target="#Bucks" weight="6382" />
+      <edge id="316" source="#Olympian" target="#WarrenMiller" weight="3191" />
+      <edge id="317" source="#Olympian" target="#Ski" weight="3191" />
+      <edge id="318" source="#November" target="#Reminder" weight="3191" />
+      <edge id="319" source="#resilience" target="#gratitude" weight="3191" />
+      <edge id="320" source="#community" target="#SouthBend" weight="3191" />
+      <edge id="321" source="#community" target="#Habitat" weight="3191" />
+      <edge id="322" source="#community" target="#Volunteers" weight="3191" />
+      <edge id="323" source="#community" target="#buildinghope" weight="3191" />
+      <edge id="324" source="#bucks" target="#mubb" weight="3191" />
+      <edge id="325" source="#wsa" target="#BlueCarpet" weight="3191" />
+      <edge id="326" source="#BairdCapitalPartners" target="#BPO" weight="3191" />
+      <edge id="327" source="#Spokane" target="#BairdWM" weight="6382" />
+      <edge id="328" source="#InvestmentBanking" target="#Healthcare" weight="3191" />
+      <edge id="329" source="#InvestmentBanking" target="#VIDEO" weight="3191" />
+      <edge id="330" source="#MKE" target="#BairdInterns" weight="3191" />
+      <edge id="331" source="#MKE" target="#BairdAnnualMeeting" weight="3191" />
+      <edge id="332" source="#MKE" target="#YPWeek" weight="3191" />
+      <edge id="333" source="#investing" target="#bonds" weight="3191" />
+      <edge id="334" source="#privateequity" target="#M" weight="3191" />
+      <edge id="335" source="#privateequity" target="#global" weight="3191" />
+      <edge id="336" source="#privateequity" target="#Asia" weight="3191" />
+      <edge id="337" source="#privateequity" target="#economy" weight="3191" />
+      <edge id="338" source="#privateequity" target="#EAS" weight="3191" />
+      <edge id="339" source="#privateequity" target="#BairdCapital" weight="3191" />
+      <edge id="340" source="#voiceofgreatermn" target="#More4KidsMN" weight="6382" />
+      <edge id="341" source="#Millennials" target="#Housing" weight="3191" />
+      <edge id="342" source="#HurricaneIrene" target="#SqwawkBox" weight="3191" />
+      <edge id="343" source="#Maine" target="#bairdcares" weight="3191" />
+      <edge id="344" source="#BairdCapital" target="#video" weight="3191" />
+      <edge id="345" source="#BairdCapital" target="#PrivCap" weight="3191" />
+      <edge id="346" source="#BairdCapital" target="#GDP" weight="3191" />
+      <edge id="347" source="#BairdCapital" target="#ChertoffGroup" weight="3191" />
+      <edge id="348" source="#BairdCapital" target="#Justrite" weight="3191" />
+      <edge id="349" source="#BairdCapital" target="#Chicago" weight="3191" />
+      <edge id="350" source="#BairdCapital" target="#Healthcare" weight="6382" />
+      <edge id="351" source="#BairdCapital" target="#BostonPlastics" weight="3191" />
+      <edge id="352" source="#BairdCapital" target="#RWBAnnualReport" weight="3191" />
+      <edge id="353" source="#BairdCapital" target="#venture" weight="6382" />
+      <edge id="354" source="#BairdCapital" target="#China" weight="3191" />
+      <edge id="355" source="#BairdCapital" target="#India" weight="9573" />
+      <edge id="356" source="#BairdCapital" target="#global" weight="3191" />
+      <edge id="357" source="#BairdCapital" target="#Manufacturing" weight="3191" />
+      <edge id="358" source="#BairdCapital" target="#mobile" weight="3191" />
+      <edge id="359" source="#FareStart" target="#Seattle" weight="3191" />
+      <edge id="360" source="#BairdWM" target="#ski" weight="6382" />
+      <edge id="361" source="#BairdWM" target="#Oregon" weight="3191" />
+      <edge id="362" source="#BairdWM" target="#Utah" weight="12764" />
+      <edge id="363" source="#BairdWM" target="#Washington" weight="3191" />
+      <edge id="364" source="#BairdWM" target="#wealthmanagement" weight="3191" />
+      <edge id="365" source="#BairdWM" target="#Yakima" weight="3191" />
+      <edge id="366" source="#BairdWM" target="#WarrenMiller" weight="178696" />
+      <edge id="367" source="#BairdWM" target="#weekend" weight="3191" />
+      <edge id="368" source="#BairdWM" target="#Boston" weight="6382" />
+      <edge id="369" source="#BairdWM" target="#Arizona" weight="3191" />
+      <edge id="370" source="#BairdWM" target="#Norway" weight="3191" />
+      <edge id="371" source="#BairdWM" target="#Seattle" weight="6382" />
+      <edge id="372" source="#BairdWM" target="#Boulder" weight="3191" />
+      <edge id="373" source="#BairdWM" target="#skier" weight="3191" />
+      <edge id="374" source="#BairdWM" target="#California" weight="3191" />
+      <edge id="375" source="#BairdWM" target="#Colorado" weight="3191" />
+      <edge id="376" source="#BairdWM" target="#Bellevue" weight="3191" />
+      <edge id="377" source="#BairdWM" target="#FollowFriday" weight="6382" />
+      <edge id="378" source="#BairdWM" target="#Olympic" weight="6382" />
+      <edge id="379" source="#bairdtip" target="#college" weight="3191" />
+      <edge id="380" source="#bairdtip" target="#IRA" weight="3191" />
+      <edge id="381" source="#bairdtip" target="#retirement" weight="3191" />
+      <edge id="382" source="#Asia" target="#economy" weight="3191" />
+      <edge id="383" source="#Asia" target="#global" weight="3191" />
+      <edge id="384" source="#Investor" target="#VIDEO" weight="3191" />
+      <edge id="385" source="#DisruptSF" target="#TCDisrupt" weight="3191" />
+      <edge id="386" source="#SnowBaird" target="#ChasingShadows" weight="9573" />
+      <edge id="387" source="#TeamOffense" target="#BeAChampion" weight="3191" />
+      <edge id="388" source="#TeamOffense" target="#Broncos" weight="3191" />
+      <edge id="389" source="#teamwork" target="#FirstTimeTweeters" weight="3191" />
+      <edge id="390" source="#teamwork" target="#BairdAnnualMeeting" weight="3191" />
+      <edge id="391" source="#Diversity" target="#eveningwithSK" weight="3191" />
+      <edge id="392" source="#Charlotte" target="#Nashville" weight="3191" />
+      <edge id="393" source="#Charlotte" target="#CFP" weight="3191" />
+      <edge id="394" source="#GDP" target="#China" weight="3191" />
+      <edge id="395" source="#cloud" target="#networking" weight="3191" />
+      <edge id="396" source="#SouthBend" target="#Habitat" weight="3191" />
+      <edge id="397" source="#SouthBend" target="#Volunteers" weight="3191" />
+      <edge id="398" source="#SouthBend" target="#buildinghope" weight="3191" />
+      <edge id="399" source="#BittlesMarketNote" target="#Christmas" weight="3191" />
+      <edge id="400" source="#BittlesMarketNote" target="#Bonds" weight="3191" />
+      <edge id="401" source="#BittlesMarketNote" target="#Greece" weight="3191" />
+      <edge id="402" source="#BittlesMarketNote" target="#Fed" weight="3191" />
+      <edge id="403" source="#BittlesMarketNote" target="#Europe" weight="3191" />
+      <edge id="404" source="#workplace" target="#spacematters" weight="3191" />
+      <edge id="405" source="#wasbo" target="#wasda" weight="3191" />
+      <edge id="406" source="#wasbo" target="#2016EdCon" weight="3191" />
+      <edge id="407" source="#FederalReserve" target="#FixedIncomeWeekly" weight="3191" />
+      <edge id="408" source="#FederalReserve" target="#BairdInsights" weight="3191" />
+      <edge id="409" source="#BairdAnnualMeeting" target="#WomenatBaird" weight="3191" />
+      <edge id="410" source="#BairdAnnualMeeting" target="#FirstTimeTweeters" weight="3191" />
+      <edge id="411" source="#BairdAnnualMeeting" target="#BairdSymposium" weight="3191" />
+      <edge id="412" source="#BairdAnnualMeeting" target="#Milwaukee" weight="3191" />
+      <edge id="413" source="#BeAChampion" target="#Broncos" weight="3191" />
+      <edge id="414" source="#agriculture" target="#agriculture" weight="6382" />
+      <edge id="415" source="#BairdInsights" target="#resolutions" weight="3191" />
+      <edge id="416" source="#BairdInsights" target="#AffordableCareAct" weight="6382" />
+      <edge id="417" source="#BairdInsights" target="#PuertoRico" weight="3191" />
+      <edge id="418" source="#BairdInsights" target="#Taxpayer" weight="3191" />
+      <edge id="419" source="#BairdInsights" target="#video" weight="3191" />
+      <edge id="420" source="#BairdInsights" target="#Chicago" weight="3191" />
+      <edge id="421" source="#BairdInsights" target="#Fed" weight="6382" />
+      <edge id="422" source="#BairdInsights" target="#interestrate" weight="3191" />
+      <edge id="423" source="#BairdInsights" target="#NewYear" weight="3191" />
+      <edge id="424" source="#BairdInsights" target="#mobile" weight="3191" />
+      <edge id="425" source="#Chicago" target="#wealthmanagement" weight="3191" />
+      <edge id="426" source="#Chicago" target="#REGISTER" weight="3191" />
+      <edge id="427" source="#Chicago" target="#PuertoRico" weight="3191" />
+      <edge id="428" source="#Chicago" target="#RWBGrowthStock" weight="6382" />
+      <edge id="429" source="#Chicago" target="#InternationalWomenDay" weight="3191" />
+      <edge id="430" source="#Bucks" target="#BairdLifestyle" weight="3191" />
+      <edge id="431" source="#risk" target="#WomenatBaird" weight="3191" />
+      <edge id="432" source="#college" target="#retirement" weight="3191" />
+      <edge id="433" source="#college" target="#freshman" weight="3191" />
+      <edge id="434" source="#Nashville" target="#CFP" weight="3191" />
+      <edge id="435" source="#Boulder" target="#warrenmiller" weight="3191" />
+      <edge id="436" source="#Boulder" target="#WarrenMiller" weight="3191" />
+      <edge id="437" source="#Bellevue" target="#WarrenMiller" weight="3191" />
+      <edge id="438" source="#BairdInsight" target="#FixedIncomeWeekly" weight="3191" />
+      <edge id="439" source="#BairdInsight" target="#iPad" weight="3191" />
+      <edge id="440" source="#BairdInsight" target="#Apple" weight="3191" />
+      <edge id="441" source="#Bonds" target="#PuertoRico" weight="3191" />
+      <edge id="442" source="#SmartMoney" target="#GentryMagazine" weight="3191" />
+      <edge id="443" source="#Oregon" target="#WarrenMiller" weight="3191" />
+      <edge id="444" source="#Utah" target="#WarrenMiller" weight="12764" />
+      <edge id="445" source="#Research" target="#CyberMonday" weight="3191" />
+      <edge id="446" source="#Research" target="#e" weight="3191" />
+      <edge id="447" source="#PeoplesPicks" target="#FinancialServices" weight="6382" />
+      <edge id="448" source="#BairdForTheArts" target="#BairdGivesBack" weight="3191" />
+      <edge id="449" source="#buildinghope" target="#Habitat" weight="3191" />
+      <edge id="450" source="#buildinghope" target="#Volunteers" weight="3191" />
+      <edge id="451" source="#MarketNote" target="#BairdMarketNote" weight="3191" />
+      <edge id="452" source="#NationalPhilanthropyDay" target="#philanthropy" weight="3191" />
+      <edge id="453" source="#NationalPhilanthropyDay" target="#fundraising" weight="3191" />
+      <edge id="454" source="#gptw100Best" target="#BestCos" weight="9573" />
+      <edge id="455" source="#service" target="#BairdGivesBack" weight="3191" />
+      <edge id="456" source="#service" target="#Milwaukee" weight="3191" />
+      <edge id="457" source="#REGISTER" target="#RWBGrowthStock" weight="3191" />
+      <edge id="458" source="#e" target="#CyberMonday" weight="3191" />
+      <edge id="459" source="#skier" target="#WarrenMiller" weight="3191" />
+      <edge id="460" source="#skier" target="#Norway" weight="3191" />
+      <edge id="461" source="#RWBHealthCare" target="#Biotech" weight="6382" />
+      <edge id="462" source="#RWBHealthCare" target="#healthcare" weight="3191" />
+      <edge id="463" source="#RWBHealthCare" target="#NYC" weight="3191" />
+      <edge id="464" source="#M" target="#EAS" weight="3191" />
+      <edge id="465" source="#Seattle" target="#WarrenMiller" weight="6382" />
+      <edge id="466" source="#Job" target="#Milwaukee" weight="3191" />
+      <edge id="467" source="#Job" target="#Analyst" weight="3191" />
+      <edge id="468" source="#S" target="#BairdTip" weight="3191" />
+      <edge id="469" source="#IRS" target="#taxreturns" weight="3191" />
+      <edge id="470" source="#technology" target="#growth" weight="3191" />
+      <edge id="471" source="#technology" target="#healthcare" weight="3191" />
+      <edge id="472" source="#BairdIndustrialConf" target="#DHR" weight="3191" />
+      <edge id="473" source="#BairdIndustrialConf" target="#PLL" weight="3191" />
+      <edge id="474" source="#NYSE" target="#Trivia" weight="3191" />
+      <edge id="475" source="#IRA" target="#Roth" weight="3191" />
+      <edge id="476" source="#IRA" target="#BairdTip" weight="3191" />
+      <edge id="477" source="#IRA" target="#Rethinking" weight="3191" />
+      <edge id="478" source="#Volunteers" target="#Habitat" weight="3191" />
+      <edge id="479" source="#BairdSymposium" target="#Milwaukee" weight="3191" />
+      <edge id="480" source="#WarrenMiller" target="#ski" weight="3191" />
+      <edge id="481" source="#WarrenMiller" target="#Ski" weight="3191" />
+      <edge id="482" source="#WarrenMiller" target="#Boston" weight="6382" />
+      <edge id="483" source="#WarrenMiller" target="#Arizona" weight="3191" />
+      <edge id="484" source="#WarrenMiller" target="#Norway" weight="3191" />
+      <edge id="485" source="#WarrenMiller" target="#Colorado" weight="3191" />
+      <edge id="486" source="#WarrenMiller" target="#FollowFriday" weight="6382" />
+      <edge id="487" source="#WarrenMiller" target="#Olympic" weight="6382" />
+      <edge id="488" source="#investor" target="#cleantech" weight="3191" />
+      <edge id="489" source="#investor" target="#BairdTip" weight="3191" />
+      <edge id="490" source="#BestCos" target="#Baird" weight="3191" />
+      <edge id="491" source="#BestCos" target="#proudassociate" weight="3191" />
+      <edge id="492" source="#bairdcares" target="#BairdGivesBack" weight="3191" />
+      <edge id="493" source="#bairdcares" target="#911day" weight="3191" />
+      <edge id="494" source="#Development" target="#IT" weight="3191" />
+      <edge id="495" source="#Development" target="#Analyst" weight="3191" />
+      <edge id="496" source="#911day" target="#BairdGivesBack" weight="3191" />
+      <edge id="497" source="#2016EdCon" target="#wasda" weight="3191" />
+      <edge id="498" source="#Anbang" target="#Starwood" weight="3191" />
+      <edge id="499" source="#teams16" target="#wd4g" weight="3191" />
+      <edge id="500" source="#global" target="#economy" weight="3191" />
+      <edge id="501" source="#gaming" target="#tech" weight="3191" />
+      <edge id="502" source="#TalkingNumbers" target="#Costco" weight="3191" />
+      <edge id="503" source="#NewYear" target="#resolutions" weight="3191" />
+      <edge id="504" source="#NewYear" target="#BairdTip" weight="3191" />
+      <edge id="505" source="#Roth" target="#Rethinking" weight="3191" />
+      <edge id="506" source="#TheFed" target="#BairdTip" weight="3191" />
+      <edge id="507" source="#EMBA" target="#UWM" weight="3191" />
+      <edge id="508" source="#SP500" target="#RWBHealthcare" weight="3191" />
+      <edge id="509" source="#Olympic" target="#Colorado" weight="3191" />
+      <edge id="510" source="#AppleWatch" target="#Apple" weight="3191" />
+      <edge id="511" source="#hotelnews" target="#STRdata" weight="3191" />
+      <edge id="512" source="#hotelnews" target="#April" weight="3191" />
+      <edge id="513" source="#retirement" target="#VIDEO" weight="3191" />
+      <edge id="514" source="#WomenatBaird" target="#WomenatBaird" weight="6382" />
+      <edge id="515" source="#WomenatBaird" target="#WomenARG" weight="3191" />
+      <edge id="516" source="#LiverMeeting" target="#Biotech" weight="3191" />
+      <edge id="517" source="#Greece" target="#Eurozone" weight="3191" />
+      <edge id="518" source="#CEI2015" target="#EqualityWorks" weight="3191" />
+      <edge id="519" source="#CEI2015" target="#LGBT" weight="9573" />
+      <edge id="520" source="#Milwaukee" target="#startup" weight="3191" />
+      <edge id="521" source="#Milwaukee" target="#BairdLifeStyle" weight="3191" />
+      <edge id="522" source="#Milwaukee" target="#BairdGivesBack" weight="3191" />
+      <edge id="523" source="#Milwaukee" target="#Analyst" weight="3191" />
+      <edge id="524" source="#PrivCap" target="#video" weight="3191" />
+      <edge id="525" source="#EqualityWorks" target="#LGBT" weight="3191" />
+      <edge id="526" source="#OwnTheFuture" target="#MPS" weight="3191" />
+      <edge id="527" source="#VIDEO" target="#oil" weight="3191" />
+      <edge id="528" source="#BairdCares" target="#BairdGivesBack" weight="6382" />
+      <edge id="529" source="#Eurozone" target="#BairdTip" weight="6382" />
+      <edge id="530" source="#Analyst" target="#IT" weight="3191" />
+      <edge id="531" source="#UnitedCommunityCenter" target="#BairdGivesBack" weight="3191" />
+      <edge id="532" source="#China" target="#BairdCapitalPartnersAsia" weight="3191" />
+      <edge id="533" source="#Fixedincome" target="#inflation" weight="3191" />
+      <edge id="534" source="#Fixedincome" target="#BairdTip" weight="3191" />
+      <edge id="535" source="#fundraising" target="#philanthropy" weight="3191" />
+      <edge id="536" source="#BairdTip" target="#Economists" weight="3191" />
+      <edge id="537" source="#BairdTip" target="#inflation" weight="3191" />
+      <edge id="538" source="#taxpayers" target="#identitytheft" weight="3191" />
+      <edge id="539" source="#Apple" target="#iPad" weight="3191" />
+      <edge id="540" source="#April" target="#STRdata" weight="3191" />
+      <edge id="541" source="#PrivateEquity" target="#healthcare" weight="3191" />
+      <edge id="542" source="#iPhone" target="#iPhone" weight="6382" />
+    </edges>
+  </graph>
+</gexf>

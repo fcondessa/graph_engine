@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#great" label="#great" />
+      <node id="#boo" label="#boo" />
+      <node id="#NHL" label="#NHL" />
+      <node id="#shouldasignedwithNIKE" label="#shouldasignedwithNIKE" />
+      <node id="#matrix" label="#matrix" />
+      <node id="#Square" label="#Square" />
+      <node id="#chairvideo" label="#chairvideo" />
+      <node id="#creative" label="#creative" />
+      <node id="#billymadison" label="#billymadison" />
+      <node id="#bostaffskills" label="#bostaffskills" />
+      <node id="#chicago" label="#chicago" />
+      <node id="#iphone" label="#iphone" />
+      <node id="#freelance" label="#freelance" />
+      <node id="#Advertising" label="#Advertising" />
+      <node id="#Nike" label="#Nike" />
+      <node id="#youtube" label="#youtube" />
+      <node id="#shame" label="#shame" />
+      <node id="#Marlins" label="#Marlins" />
+      <node id="#tv" label="#tv" />
+      <node id="#Boeing" label="#Boeing" />
+      <node id="#GoHawks" label="#GoHawks" />
+      <node id="#ArtDirector" label="#ArtDirector" />
+      <node id="#Chicago" label="#Chicago" />
+      <node id="#SB48" label="#SB48" />
+      <node id="#HTML5" label="#HTML5" />
+      <node id="#interactive" label="#interactive" />
+      <node id="#starwars" label="#starwars" />
+      <node id="#packers" label="#packers" />
+      <node id="#shawfact" label="#shawfact" />
+      <node id="#TurtlesPizzaVan" label="#TurtlesPizzaVan" />
+      <node id="#MTVMOBILE" label="#MTVMOBILE" />
+      <node id="#weirdbeard" label="#weirdbeard" />
+      <node id="#hockey" label="#hockey" />
+      <node id="#html5" label="#html5" />
+      <node id="#rztech" label="#rztech" />
+      <node id="#cheesehead" label="#cheesehead" />
+      <node id="#recycle" label="#recycle" />
+      <node id="#sports" label="#sports" />
+      <node id="#cardcase" label="#cardcase" />
+      <node id="#digital" label="#digital" />
+      <node id="#DEATHGRIPS" label="#DEATHGRIPS" />
+      <node id="#Miami" label="#Miami" />
+      <node id="#weber" label="#weber" />
+      <node id="#android" label="#android" />
+      <node id="#advertising" label="#advertising" />
+      <node id="#design" label="#design" />
+      <node id="#artdirector" label="#artdirector" />
+      <node id="#primeval" label="#primeval" />
+      <node id="#shawfacts" label="#shawfacts" />
+      <node id="#corporatecitizenship" label="#corporatecitizenship" />
+      <node id="#litterbugs" label="#litterbugs" />
+      <node id="#facebook" label="#facebook" />
+      <node id="#farmville" label="#farmville" />
+      <node id="#blackhawks" label="#blackhawks" />
+      <node id="#GIFMEMORE" label="#GIFMEMORE" />
+      <node id="#Wirestone" label="#Wirestone" />
+      <node id="#G2" label="#G2" />
+      <node id="#nike" label="#nike" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#great" target="#chicago" weight="116" />
+      <edge id="1" source="#great" target="#artdirector" weight="116" />
+      <edge id="2" source="#boo" target="#shame" weight="116" />
+      <edge id="3" source="#NHL" target="#shawfact" weight="116" />
+      <edge id="4" source="#NHL" target="#hockey" weight="116" />
+      <edge id="5" source="#NHL" target="#weber" weight="116" />
+      <edge id="6" source="#NHL" target="#blackhawks" weight="116" />
+      <edge id="7" source="#shouldasignedwithNIKE" target="#Chicago" weight="116" />
+      <edge id="8" source="#shouldasignedwithNIKE" target="#Nike" weight="116" />
+      <edge id="9" source="#matrix" target="#artdirector" weight="116" />
+      <edge id="10" source="#Square" target="#android" weight="116" />
+      <edge id="11" source="#Square" target="#iphone" weight="116" />
+      <edge id="12" source="#Square" target="#cardcase" weight="116" />
+      <edge id="13" source="#chairvideo" target="#facebook" weight="116" />
+      <edge id="14" source="#creative" target="#interactive" weight="116" />
+      <edge id="15" source="#creative" target="#advertising" weight="232" />
+      <edge id="16" source="#creative" target="#sports" weight="116" />
+      <edge id="17" source="#creative" target="#artdirector" weight="580" />
+      <edge id="18" source="#creative" target="#chicago" weight="928" />
+      <edge id="19" source="#billymadison" target="#shawfacts" weight="116" />
+      <edge id="20" source="#billymadison" target="#blackhawks" weight="116" />
+      <edge id="21" source="#bostaffskills" target="#TurtlesPizzaVan" weight="116" />
+      <edge id="22" source="#chicago" target="#html5" weight="116" />
+      <edge id="23" source="#chicago" target="#artdirector" weight="1044" />
+      <edge id="24" source="#chicago" target="#shawfacts" weight="116" />
+      <edge id="25" source="#chicago" target="#HTML5" weight="116" />
+      <edge id="26" source="#chicago" target="#nike" weight="116" />
+      <edge id="27" source="#chicago" target="#interactive" weight="348" />
+      <edge id="28" source="#chicago" target="#freelance" weight="116" />
+      <edge id="29" source="#chicago" target="#starwars" weight="116" />
+      <edge id="30" source="#chicago" target="#advertising" weight="232" />
+      <edge id="31" source="#chicago" target="#blackhawks" weight="116" />
+      <edge id="32" source="#iphone" target="#android" weight="116" />
+      <edge id="33" source="#iphone" target="#cardcase" weight="116" />
+      <edge id="34" source="#freelance" target="#advertising" weight="116" />
+      <edge id="35" source="#freelance" target="#artdirector" weight="116" />
+      <edge id="36" source="#Advertising" target="#Chicago" weight="116" />
+      <edge id="37" source="#Advertising" target="#G2" weight="116" />
+      <edge id="38" source="#Advertising" target="#ArtDirector" weight="116" />
+      <edge id="39" source="#Nike" target="#Chicago" weight="116" />
+      <edge id="40" source="#youtube" target="#primeval" weight="116" />
+      <edge id="41" source="#youtube" target="#interactive" weight="116" />
+      <edge id="42" source="#youtube" target="#tv" weight="116" />
+      <edge id="43" source="#Marlins" target="#Miami" weight="116" />
+      <edge id="44" source="#Marlins" target="#design" weight="116" />
+      <edge id="45" source="#tv" target="#primeval" weight="116" />
+      <edge id="46" source="#tv" target="#interactive" weight="116" />
+      <edge id="47" source="#Boeing" target="#SB48" weight="116" />
+      <edge id="48" source="#Boeing" target="#GoHawks" weight="116" />
+      <edge id="49" source="#GoHawks" target="#SB48" weight="116" />
+      <edge id="50" source="#ArtDirector" target="#Chicago" weight="116" />
+      <edge id="51" source="#ArtDirector" target="#G2" weight="116" />
+      <edge id="52" source="#Chicago" target="#G2" weight="116" />
+      <edge id="53" source="#Chicago" target="#artdirector" weight="116" />
+      <edge id="54" source="#Chicago" target="#Wirestone" weight="116" />
+      <edge id="55" source="#Chicago" target="#advertising" weight="116" />
+      <edge id="56" source="#HTML5" target="#interactive" weight="116" />
+      <edge id="57" source="#HTML5" target="#artdirector" weight="116" />
+      <edge id="58" source="#interactive" target="#artdirector" weight="116" />
+      <edge id="59" source="#interactive" target="#primeval" weight="116" />
+      <edge id="60" source="#interactive" target="#html5" weight="116" />
+      <edge id="61" source="#interactive" target="#nike" weight="116" />
+      <edge id="62" source="#starwars" target="#blackhawks" weight="116" />
+      <edge id="63" source="#starwars" target="#shawfacts" weight="116" />
+      <edge id="64" source="#packers" target="#cheesehead" weight="116" />
+      <edge id="65" source="#packers" target="#weirdbeard" weight="116" />
+      <edge id="66" source="#shawfact" target="#hockey" weight="116" />
+      <edge id="67" source="#shawfact" target="#weber" weight="116" />
+      <edge id="68" source="#shawfact" target="#blackhawks" weight="116" />
+      <edge id="69" source="#MTVMOBILE" target="#DEATHGRIPS" weight="116" />
+      <edge id="70" source="#MTVMOBILE" target="#GIFMEMORE" weight="116" />
+      <edge id="71" source="#weirdbeard" target="#cheesehead" weight="116" />
+      <edge id="72" source="#hockey" target="#weber" weight="116" />
+      <edge id="73" source="#hockey" target="#blackhawks" weight="116" />
+      <edge id="74" source="#html5" target="#nike" weight="116" />
+      <edge id="75" source="#rztech" target="#digital" weight="116" />
+      <edge id="76" source="#recycle" target="#corporatecitizenship" weight="116" />
+      <edge id="77" source="#recycle" target="#litterbugs" weight="116" />
+      <edge id="78" source="#sports" target="#advertising" weight="116" />
+      <edge id="79" source="#cardcase" target="#android" weight="116" />
+      <edge id="80" source="#DEATHGRIPS" target="#GIFMEMORE" weight="116" />
+      <edge id="81" source="#Miami" target="#design" weight="116" />
+      <edge id="82" source="#weber" target="#blackhawks" weight="116" />
+      <edge id="83" source="#advertising" target="#artdirector" weight="232" />
+      <edge id="84" source="#advertising" target="#Wirestone" weight="116" />
+      <edge id="85" source="#artdirector" target="#Wirestone" weight="116" />
+      <edge id="86" source="#shawfacts" target="#blackhawks" weight="348" />
+      <edge id="87" source="#corporatecitizenship" target="#litterbugs" weight="116" />
+      <edge id="88" source="#facebook" target="#farmville" weight="116" />
+    </edges>
+  </graph>
+</gexf>

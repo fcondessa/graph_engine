@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#carbonfiber" label="#carbonfiber" />
+      <node id="#UToledo" label="#UToledo" />
+      <node id="#quotes" label="#quotes" />
+      <node id="#CMHstartupweek" label="#CMHstartupweek" />
+      <node id="#Success" label="#Success" />
+      <node id="#basics" label="#basics" />
+      <node id="#mondaymotivation" label="#mondaymotivation" />
+      <node id="#biohack" label="#biohack" />
+      <node id="#utcultureambassadors" label="#utcultureambassadors" />
+      <node id="#lifehack" label="#lifehack" />
+      <node id="#knowyourvalue" label="#knowyourvalue" />
+      <node id="#wisewords" label="#wisewords" />
+      <node id="#squat" label="#squat" />
+      <node id="#motorcycle" label="#motorcycle" />
+      <node id="#ChaseBasecamp" label="#ChaseBasecamp" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#carbonfiber" target="#motorcycle" weight="81" />
+      <edge id="1" source="#UToledo" target="#utcultureambassadors" weight="81" />
+      <edge id="2" source="#quotes" target="#wisewords" weight="81" />
+      <edge id="3" source="#quotes" target="#Success" weight="81" />
+      <edge id="4" source="#quotes" target="#knowyourvalue" weight="81" />
+      <edge id="5" source="#CMHstartupweek" target="#ChaseBasecamp" weight="81" />
+      <edge id="6" source="#Success" target="#wisewords" weight="81" />
+      <edge id="7" source="#Success" target="#knowyourvalue" weight="81" />
+      <edge id="8" source="#basics" target="#squat" weight="81" />
+      <edge id="9" source="#basics" target="#mondaymotivation" weight="81" />
+      <edge id="10" source="#mondaymotivation" target="#squat" weight="81" />
+      <edge id="11" source="#biohack" target="#lifehack" weight="81" />
+      <edge id="12" source="#knowyourvalue" target="#wisewords" weight="81" />
+    </edges>
+  </graph>
+</gexf>

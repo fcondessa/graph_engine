@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#clean" label="#clean" />
+      <node id="#Watermelon" label="#Watermelon" />
+      <node id="#mainstbridge" label="#mainstbridge" />
+      <node id="#Dream" label="#Dream" />
+      <node id="#PechaKucha" label="#PechaKucha" />
+      <node id="#Starling" label="#Starling" />
+      <node id="#WHOA" label="#WHOA" />
+      <node id="#American" label="#American" />
+      <node id="#fundraising" label="#fundraising" />
+      <node id="#BasicNeeds" label="#BasicNeeds" />
+      <node id="#artists" label="#artists" />
+      <node id="#Franklinton" label="#Franklinton" />
+      <node id="#nonprofit" label="#nonprofit" />
+      <node id="#philanthropy" label="#philanthropy" />
+      <node id="#Urban" label="#Urban" />
+      <node id="#RestaurantWeek" label="#RestaurantWeek" />
+      <node id="#CharityTuesday" label="#CharityTuesday" />
+      <node id="#Cbusr" label="#Cbusr" />
+      <node id="#wine" label="#wine" />
+      <node id="#neighborhood" label="#neighborhood" />
+      <node id="#health" label="#health" />
+      <node id="#Bridge" label="#Bridge" />
+      <node id="#Town" label="#Town" />
+      <node id="#Little" label="#Little" />
+      <node id="#Egner" label="#Egner" />
+      <node id="#Columbus" label="#Columbus" />
+      <node id="#BigGive" label="#BigGive" />
+      <node id="#richstbridge" label="#richstbridge" />
+      <node id="#arts" label="#arts" />
+      <node id="#RecyColumbus" label="#RecyColumbus" />
+      <node id="#paint" label="#paint" />
+      <node id="#volunteers" label="#volunteers" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#clean" target="#Little" weight="694" />
+      <edge id="1" source="#clean" target="#neighborhood" weight="694" />
+      <edge id="2" source="#Watermelon" target="#Urban" weight="694" />
+      <edge id="3" source="#Watermelon" target="#Franklinton" weight="694" />
+      <edge id="4" source="#mainstbridge" target="#richstbridge" weight="694" />
+      <edge id="5" source="#mainstbridge" target="#Starling" weight="694" />
+      <edge id="6" source="#mainstbridge" target="#RestaurantWeek" weight="694" />
+      <edge id="7" source="#Dream" target="#American" weight="694" />
+      <edge id="8" source="#Dream" target="#Egner" weight="694" />
+      <edge id="9" source="#PechaKucha" target="#arts" weight="694" />
+      <edge id="10" source="#PechaKucha" target="#Columbus" weight="694" />
+      <edge id="11" source="#PechaKucha" target="#Franklinton" weight="694" />
+      <edge id="12" source="#Starling" target="#RestaurantWeek" weight="694" />
+      <edge id="13" source="#Starling" target="#richstbridge" weight="694" />
+      <edge id="14" source="#WHOA" target="#Bridge" weight="694" />
+      <edge id="15" source="#WHOA" target="#Town" weight="694" />
+      <edge id="16" source="#American" target="#Egner" weight="694" />
+      <edge id="17" source="#fundraising" target="#nonprofit" weight="694" />
+      <edge id="18" source="#fundraising" target="#philanthropy" weight="694" />
+      <edge id="19" source="#BasicNeeds" target="#BigGive" weight="694" />
+      <edge id="20" source="#artists" target="#paint" weight="694" />
+      <edge id="21" source="#artists" target="#Urban" weight="694" />
+      <edge id="22" source="#Franklinton" target="#arts" weight="694" />
+      <edge id="23" source="#Franklinton" target="#Urban" weight="694" />
+      <edge id="24" source="#Franklinton" target="#Columbus" weight="694" />
+      <edge id="25" source="#nonprofit" target="#CharityTuesday" weight="694" />
+      <edge id="26" source="#nonprofit" target="#philanthropy" weight="694" />
+      <edge id="27" source="#Urban" target="#paint" weight="694" />
+      <edge id="28" source="#RestaurantWeek" target="#richstbridge" weight="694" />
+      <edge id="29" source="#Cbusr" target="#wine" weight="694" />
+      <edge id="30" source="#neighborhood" target="#Little" weight="694" />
+      <edge id="31" source="#health" target="#BigGive" weight="694" />
+      <edge id="32" source="#Bridge" target="#Town" weight="694" />
+      <edge id="33" source="#Columbus" target="#arts" weight="694" />
+      <edge id="34" source="#RecyColumbus" target="#volunteers" weight="694" />
+    </edges>
+  </graph>
+</gexf>

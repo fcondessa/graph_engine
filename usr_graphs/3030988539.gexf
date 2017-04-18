@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuperTuesday" label="#SuperTuesday" />
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#BernedOut" label="#BernedOut" />
+      <node id="#UniteBlue" label="#UniteBlue" />
+      <node id="#DemDebate" label="#DemDebate" />
+      <node id="#drinkingwater" label="#drinkingwater" />
+      <node id="#AZPrimary" label="#AZPrimary" />
+      <node id="#IDCaucus" label="#IDCaucus" />
+      <node id="#DemTownHall" label="#DemTownHall" />
+      <node id="#HillarySoQualified" label="#HillarySoQualified" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#OscarsSoWhite" label="#OscarsSoWhite" />
+      <node id="#bernie" label="#bernie" />
+      <node id="#ErinGoBragh" label="#ErinGoBragh" />
+      <node id="#Flint" label="#Flint" />
+      <node id="#InternationalWomenDay" label="#InternationalWomenDay" />
+      <node id="#Idaho" label="#Idaho" />
+      <node id="#TeamIronMan" label="#TeamIronMan" />
+      <node id="#notdemocrats" label="#notdemocrats" />
+      <node id="#Nevadacaucus" label="#Nevadacaucus" />
+      <node id="#Athletics" label="#Athletics" />
+      <node id="#TweetMe" label="#TweetMe" />
+      <node id="#TheGoldenRuleRules" label="#TheGoldenRuleRules" />
+      <node id="#ImWIthHer" label="#ImWIthHer" />
+      <node id="#powerofyourvote" label="#powerofyourvote" />
+      <node id="#MissouriPrimary" label="#MissouriPrimary" />
+      <node id="#HillYes" label="#HillYes" />
+      <node id="#univisiondebate" label="#univisiondebate" />
+      <node id="#Fiji" label="#Fiji" />
+      <node id="#FeelTheBern" label="#FeelTheBern" />
+      <node id="#VOTE" label="#VOTE" />
+      <node id="#JourneyToMars" label="#JourneyToMars" />
+      <node id="#DontGetBerned" label="#DontGetBerned" />
+      <node id="#KTVUthe9" label="#KTVUthe9" />
+      <node id="#NYPrimary" label="#NYPrimary" />
+      <node id="#weneedplans" label="#weneedplans" />
+      <node id="#WomensHistoryMonth" label="#WomensHistoryMonth" />
+      <node id="#Women" label="#Women" />
+      <node id="#TheMartian" label="#TheMartian" />
+      <node id="#VoteHRC" label="#VoteHRC" />
+      <node id="#ShesWithUs" label="#ShesWithUs" />
+      <node id="#CycloneWinston" label="#CycloneWinston" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#JusticeForFlint" label="#JusticeForFlint" />
+      <node id="#lead" label="#lead" />
+      <node id="#FIXTHEPIPES" label="#FIXTHEPIPES" />
+      <node id="#CADEM16" label="#CADEM16" />
+      <node id="#VAScandal" label="#VAScandal" />
+      <node id="#UTCaucus" label="#UTCaucus" />
+      <node id="#FEELTHEBURN" label="#FEELTHEBURN" />
+      <node id="#NotoriousRBG" label="#NotoriousRBG" />
+      <node id="#imwithher" label="#imwithher" />
+      <node id="#MT" label="#MT" />
+      <node id="#CA" label="#CA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuperTuesday" target="#ImWithHer" weight="1332" />
+      <edge id="1" source="#SuperTuesday" target="#VoteHRC" weight="666" />
+      <edge id="2" source="#SuperTuesday" target="#HillYes" weight="666" />
+      <edge id="3" source="#SuperTuesday" target="#powerofyourvote" weight="666" />
+      <edge id="4" source="#GOPDebate" target="#ImWithHer" weight="6660" />
+      <edge id="5" source="#BernedOut" target="#ImWithHer" weight="666" />
+      <edge id="6" source="#BernedOut" target="#HillYes" weight="666" />
+      <edge id="7" source="#UniteBlue" target="#TheGoldenRuleRules" weight="666" />
+      <edge id="8" source="#DemDebate" target="#ImWIthHer" weight="666" />
+      <edge id="9" source="#DemDebate" target="#ImWithHer" weight="1998" />
+      <edge id="10" source="#DemDebate" target="#univisiondebate" weight="666" />
+      <edge id="11" source="#DemDebate" target="#Women" weight="666" />
+      <edge id="12" source="#drinkingwater" target="#Flint" weight="666" />
+      <edge id="13" source="#drinkingwater" target="#lead" weight="666" />
+      <edge id="14" source="#AZPrimary" target="#UTCaucus" weight="666" />
+      <edge id="15" source="#AZPrimary" target="#FeelTheBern" weight="666" />
+      <edge id="16" source="#AZPrimary" target="#DontGetBerned" weight="666" />
+      <edge id="17" source="#AZPrimary" target="#IDCaucus" weight="666" />
+      <edge id="18" source="#AZPrimary" target="#ShesWithUs" weight="666" />
+      <edge id="19" source="#IDCaucus" target="#ShesWithUs" weight="666" />
+      <edge id="20" source="#IDCaucus" target="#FeelTheBern" weight="666" />
+      <edge id="21" source="#IDCaucus" target="#DontGetBerned" weight="666" />
+      <edge id="22" source="#IDCaucus" target="#UTCaucus" weight="666" />
+      <edge id="23" source="#DemTownHall" target="#VAScandal" weight="666" />
+      <edge id="24" source="#DemTownHall" target="#weneedplans" weight="666" />
+      <edge id="25" source="#HillarySoQualified" target="#ImWithHer" weight="666" />
+      <edge id="26" source="#HillarySoQualified" target="#NYPrimary" weight="666" />
+      <edge id="27" source="#ImWithHer" target="#InternationalWomenDay" weight="666" />
+      <edge id="28" source="#ImWithHer" target="#notdemocrats" weight="666" />
+      <edge id="29" source="#ImWithHer" target="#NYPrimary" weight="666" />
+      <edge id="30" source="#ImWithHer" target="#VoteHRC" weight="666" />
+      <edge id="31" source="#ImWithHer" target="#ShesWithUs" weight="1998" />
+      <edge id="32" source="#ImWithHer" target="#MissouriPrimary" weight="666" />
+      <edge id="33" source="#ImWithHer" target="#HillYes" weight="1332" />
+      <edge id="34" source="#ImWithHer" target="#univisiondebate" weight="666" />
+      <edge id="35" source="#ImWithHer" target="#bernie" weight="666" />
+      <edge id="36" source="#OscarsSoWhite" target="#JusticeForFlint" weight="666" />
+      <edge id="37" source="#OscarsSoWhite" target="#FIXTHEPIPES" weight="666" />
+      <edge id="38" source="#OscarsSoWhite" target="#Oscars" weight="666" />
+      <edge id="39" source="#bernie" target="#notdemocrats" weight="666" />
+      <edge id="40" source="#ErinGoBragh" target="#KTVUthe9" weight="666" />
+      <edge id="41" source="#Flint" target="#lead" weight="666" />
+      <edge id="42" source="#Idaho" target="#MT" weight="666" />
+      <edge id="43" source="#TeamIronMan" target="#TweetMe" weight="1332" />
+      <edge id="44" source="#Nevadacaucus" target="#imwithher" weight="666" />
+      <edge id="45" source="#Nevadacaucus" target="#FEELTHEBURN" weight="666" />
+      <edge id="46" source="#Athletics" target="#KTVUthe9" weight="666" />
+      <edge id="47" source="#ImWIthHer" target="#Women" weight="666" />
+      <edge id="48" source="#HillYes" target="#VoteHRC" weight="666" />
+      <edge id="49" source="#Fiji" target="#CycloneWinston" weight="666" />
+      <edge id="50" source="#FeelTheBern" target="#UTCaucus" weight="666" />
+      <edge id="51" source="#FeelTheBern" target="#DontGetBerned" weight="666" />
+      <edge id="52" source="#FeelTheBern" target="#ShesWithUs" weight="666" />
+      <edge id="53" source="#VOTE" target="#CA" weight="666" />
+      <edge id="54" source="#JourneyToMars" target="#Oscars" weight="666" />
+      <edge id="55" source="#JourneyToMars" target="#TheMartian" weight="666" />
+      <edge id="56" source="#DontGetBerned" target="#ShesWithUs" weight="666" />
+      <edge id="57" source="#DontGetBerned" target="#UTCaucus" weight="666" />
+      <edge id="58" source="#WomensHistoryMonth" target="#NotoriousRBG" weight="666" />
+      <edge id="59" source="#Women" target="#CADEM16" weight="666" />
+      <edge id="60" source="#TheMartian" target="#Oscars" weight="666" />
+      <edge id="61" source="#ShesWithUs" target="#UTCaucus" weight="666" />
+      <edge id="62" source="#Oscars" target="#JusticeForFlint" weight="666" />
+      <edge id="63" source="#Oscars" target="#FIXTHEPIPES" weight="666" />
+      <edge id="64" source="#JusticeForFlint" target="#FIXTHEPIPES" weight="666" />
+      <edge id="65" source="#FEELTHEBURN" target="#imwithher" weight="666" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ohiobdc" label="#ohiobdc" />
+      <node id="#StrongAmericanFamily" label="#StrongAmericanFamily" />
+      <node id="#ohiombe" label="#ohiombe" />
+      <node id="#BlackCrowdfunding" label="#BlackCrowdfunding" />
+      <node id="#AllForOne" label="#AllForOne" />
+      <node id="#AmericanHistory" label="#AmericanHistory" />
+      <node id="#BlackHistoryMonth" label="#BlackHistoryMonth" />
+      <node id="#LandlordTenant" label="#LandlordTenant" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#LoveYourNeighborAsYouLoveYourself" label="#LoveYourNeighborAsYouLoveYourself" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#LawDay2014" label="#LawDay2014" />
+      <node id="#Justice4All" label="#Justice4All" />
+      <node id="#OhioMBE" label="#OhioMBE" />
+      <node id="#Eviction" label="#Eviction" />
+      <node id="#LawDay" label="#LawDay" />
+      <node id="#MyBrothersKeeper" label="#MyBrothersKeeper" />
+      <node id="#TogetherWeCan" label="#TogetherWeCan" />
+      <node id="#SOFU" label="#SOFU" />
+      <node id="#ConstitutionDay2015" label="#ConstitutionDay2015" />
+      <node id="#OneForAll" label="#OneForAll" />
+      <node id="#ClosingArgument" label="#ClosingArgument" />
+      <node id="#BuckeyeNation" label="#BuckeyeNation" />
+      <node id="#LawyersNeedLoveToo" label="#LawyersNeedLoveToo" />
+      <node id="#PatternAndPractice" label="#PatternAndPractice" />
+      <node id="#GoBucks" label="#GoBucks" />
+      <node id="#ExecutiveOrder" label="#ExecutiveOrder" />
+      <node id="#BlackHistory" label="#BlackHistory" />
+      <node id="#SOTU" label="#SOTU" />
+      <node id="#MyAlmaMater" label="#MyAlmaMater" />
+      <node id="#BEEC2014" label="#BEEC2014" />
+      <node id="#UndisputedChampions" label="#UndisputedChampions" />
+      <node id="#ohio" label="#ohio" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ohiobdc" target="#ohiombe" weight="133" />
+      <edge id="1" source="#ohiobdc" target="#LawDay" weight="133" />
+      <edge id="2" source="#StrongAmericanFamily" target="#SOFU" weight="133" />
+      <edge id="3" source="#ohiombe" target="#BEEC2014" weight="133" />
+      <edge id="4" source="#ohiombe" target="#LawDay" weight="133" />
+      <edge id="5" source="#ohiombe" target="#ohio" weight="133" />
+      <edge id="6" source="#BlackCrowdfunding" target="#OhioMBE" weight="133" />
+      <edge id="7" source="#BlackCrowdfunding" target="#BEEC2014" weight="133" />
+      <edge id="8" source="#AllForOne" target="#LoveYourNeighborAsYouLoveYourself" weight="133" />
+      <edge id="9" source="#AllForOne" target="#OneForAll" weight="133" />
+      <edge id="10" source="#AllForOne" target="#MyBrothersKeeper" weight="133" />
+      <edge id="11" source="#AmericanHistory" target="#BlackHistory" weight="133" />
+      <edge id="12" source="#BlackHistoryMonth" target="#SuperBowl" weight="133" />
+      <edge id="13" source="#BlackHistoryMonth" target="#BuckeyeNation" weight="133" />
+      <edge id="14" source="#LandlordTenant" target="#Eviction" weight="133" />
+      <edge id="15" source="#Ferguson" target="#PatternAndPractice" weight="399" />
+      <edge id="16" source="#Ferguson" target="#Justice4All" weight="266" />
+      <edge id="17" source="#LoveYourNeighborAsYouLoveYourself" target="#OneForAll" weight="133" />
+      <edge id="18" source="#LoveYourNeighborAsYouLoveYourself" target="#MyBrothersKeeper" weight="133" />
+      <edge id="19" source="#SuperBowl" target="#BuckeyeNation" weight="133" />
+      <edge id="20" source="#LawDay2014" target="#LawyersNeedLoveToo" weight="133" />
+      <edge id="21" source="#LawDay2014" target="#ClosingArgument" weight="133" />
+      <edge id="22" source="#LawDay2014" target="#LawDay" weight="399" />
+      <edge id="23" source="#Justice4All" target="#PatternAndPractice" weight="266" />
+      <edge id="24" source="#OhioMBE" target="#BEEC2014" weight="266" />
+      <edge id="25" source="#LawDay" target="#LawyersNeedLoveToo" weight="133" />
+      <edge id="26" source="#LawDay" target="#ClosingArgument" weight="133" />
+      <edge id="27" source="#MyBrothersKeeper" target="#OneForAll" weight="133" />
+      <edge id="28" source="#TogetherWeCan" target="#SOTU" weight="133" />
+      <edge id="29" source="#ConstitutionDay2015" target="#ExecutiveOrder" weight="133" />
+      <edge id="30" source="#BuckeyeNation" target="#MyAlmaMater" weight="133" />
+      <edge id="31" source="#BuckeyeNation" target="#UndisputedChampions" weight="133" />
+      <edge id="32" source="#BuckeyeNation" target="#GoBucks" weight="133" />
+      <edge id="33" source="#GoBucks" target="#UndisputedChampions" weight="133" />
+      <edge id="34" source="#GoBucks" target="#MyAlmaMater" weight="133" />
+      <edge id="35" source="#MyAlmaMater" target="#UndisputedChampions" weight="133" />
+      <edge id="36" source="#BEEC2014" target="#ohio" weight="133" />
+    </edges>
+  </graph>
+</gexf>

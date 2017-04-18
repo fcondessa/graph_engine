@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SJSharks" label="#SJSharks" />
+      <node id="#RiverCats" label="#RiverCats" />
+      <node id="#FadeToBlack" label="#FadeToBlack" />
+      <node id="#ShopKick" label="#ShopKick" />
+      <node id="#PitchPerfect" label="#PitchPerfect" />
+      <node id="#NLDS" label="#NLDS" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#BayAreaStrengthInNumbers" label="#BayAreaStrengthInNumbers" />
+      <node id="#DubNation" label="#DubNation" />
+      <node id="#AnyoneButJoc" label="#AnyoneButJoc" />
+      <node id="#Cavs" label="#Cavs" />
+      <node id="#SFG60" label="#SFG60" />
+      <node id="#Pirates" label="#Pirates" />
+      <node id="#FaceOfMLB" label="#FaceOfMLB" />
+      <node id="#ASG" label="#ASG" />
+      <node id="#FTD" label="#FTD" />
+      <node id="#WildCard" label="#WildCard" />
+      <node id="#HRDerby" label="#HRDerby" />
+      <node id="#CrushedIt" label="#CrushedIt" />
+      <node id="#Warriors" label="#Warriors" />
+      <node id="#BusterPosey" label="#BusterPosey" />
+      <node id="#BeatLA" label="#BeatLA" />
+      <node id="#SeanDooolittle" label="#SeanDooolittle" />
+      <node id="#NYMets" label="#NYMets" />
+      <node id="#STL" label="#STL" />
+      <node id="#Buctober" label="#Buctober" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#SFUnite" label="#SFUnite" />
+      <node id="#GabrielIglesias" label="#GabrielIglesias" />
+      <node id="#Target" label="#Target" />
+      <node id="#PIT" label="#PIT" />
+      <node id="#Mets" label="#Mets" />
+      <node id="#FluffyBreaksEven" label="#FluffyBreaksEven" />
+      <node id="#Cubs" label="#Cubs" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SJSharks" target="#SFGiants" weight="499" />
+      <edge id="1" source="#SJSharks" target="#Warriors" weight="499" />
+      <edge id="2" source="#RiverCats" target="#CrushedIt" weight="499" />
+      <edge id="3" source="#RiverCats" target="#PitchPerfect" weight="499" />
+      <edge id="4" source="#FadeToBlack" target="#BusterPosey" weight="998" />
+      <edge id="5" source="#FadeToBlack" target="#FaceOfMLB" weight="998" />
+      <edge id="6" source="#ShopKick" target="#Target" weight="499" />
+      <edge id="7" source="#PitchPerfect" target="#CrushedIt" weight="499" />
+      <edge id="8" source="#NLDS" target="#Cubs" weight="499" />
+      <edge id="9" source="#NBAFinals" target="#DubNation" weight="2495" />
+      <edge id="10" source="#NBAFinals" target="#Cavs" weight="499" />
+      <edge id="11" source="#NBAFinals" target="#Warriors" weight="2495" />
+      <edge id="12" source="#BayAreaStrengthInNumbers" target="#SFUnite" weight="499" />
+      <edge id="13" source="#BayAreaStrengthInNumbers" target="#Warriors" weight="499" />
+      <edge id="14" source="#DubNation" target="#Warriors" weight="2495" />
+      <edge id="15" source="#AnyoneButJoc" target="#HRDerby" weight="499" />
+      <edge id="16" source="#SFG60" target="#SFGiants" weight="499" />
+      <edge id="17" source="#Pirates" target="#WildCard" weight="1996" />
+      <edge id="18" source="#Pirates" target="#Buctober" weight="499" />
+      <edge id="19" source="#Pirates" target="#Cubs" weight="499" />
+      <edge id="20" source="#FaceOfMLB" target="#BusterPosey" weight="2495" />
+      <edge id="21" source="#FaceOfMLB" target="#SeanDooolittle" weight="499" />
+      <edge id="22" source="#ASG" target="#SFGiants" weight="499" />
+      <edge id="23" source="#FTD" target="#BeatLA" weight="499" />
+      <edge id="24" source="#FTD" target="#SFGiants" weight="499" />
+      <edge id="25" source="#WildCard" target="#Cubs" weight="499" />
+      <edge id="26" source="#WildCard" target="#Buctober" weight="499" />
+      <edge id="27" source="#Warriors" target="#SFGiants" weight="499" />
+      <edge id="28" source="#Warriors" target="#SFUnite" weight="499" />
+      <edge id="29" source="#BusterPosey" target="#SeanDooolittle" weight="499" />
+      <edge id="30" source="#BeatLA" target="#Mets" weight="998" />
+      <edge id="31" source="#BeatLA" target="#NYMets" weight="499" />
+      <edge id="32" source="#BeatLA" target="#SFGiants" weight="499" />
+      <edge id="33" source="#STL" target="#PIT" weight="499" />
+      <edge id="34" source="#Buctober" target="#Cubs" weight="499" />
+      <edge id="35" source="#SFGiants" target="#SFGiants" weight="998" />
+      <edge id="36" source="#GabrielIglesias" target="#FluffyBreaksEven" weight="499" />
+    </edges>
+  </graph>
+</gexf>

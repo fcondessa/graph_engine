@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#BornYesterday" label="#BornYesterday" />
+      <node id="#acbw" label="#acbw" />
+      <node id="#fail" label="#fail" />
+      <node id="#purpl" label="#purpl" />
+      <node id="#GooseBlackFriday" label="#GooseBlackFriday" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#PUREHOPPINESS" label="#PUREHOPPINESS" />
+      <node id="#experiencegr" label="#experiencegr" />
+      <node id="#photo" label="#photo" />
+      <node id="#MoreNitro" label="#MoreNitro" />
+      <node id="#CObeer" label="#CObeer" />
+      <node id="#ContentsUnderFresher" label="#ContentsUnderFresher" />
+      <node id="#headytopper" label="#headytopper" />
+      <node id="#mardigras" label="#mardigras" />
+      <node id="#BourbonCountyStout" label="#BourbonCountyStout" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#cobf" label="#cobf" />
+      <node id="#PourHard" label="#PourHard" />
+      <node id="#mostinterestingman" label="#mostinterestingman" />
+      <node id="#cbs" label="#cbs" />
+      <node id="#OHbeer" label="#OHbeer" />
+      <node id="#ACBW" label="#ACBW" />
+      <node id="#beer" label="#beer" />
+      <node id="#FLbeer" label="#FLbeer" />
+      <node id="#meals" label="#meals" />
+      <node id="#StPatricksDay" label="#StPatricksDay" />
+      <node id="#ALPINEBEERCO" label="#ALPINEBEERCO" />
+      <node id="#SantaRosa" label="#SantaRosa" />
+      <node id="#brewsader" label="#brewsader" />
+      <node id="#Guinness" label="#Guinness" />
+      <node id="#HeadyTopper" label="#HeadyTopper" />
+      <node id="#NorCal" label="#NorCal" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#WaldosSpecialAle" label="#WaldosSpecialAle" />
+      <node id="#columbusfamilies" label="#columbusfamilies" />
+      <node id="#fattuesday" label="#fattuesday" />
+      <node id="#CbusBeerWeek" label="#CbusBeerWeek" />
+      <node id="#vtbeer" label="#vtbeer" />
+      <node id="#Lagunitas" label="#Lagunitas" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#BornYesterday" target="#ContentsUnderFresher" weight="1922" />
+      <edge id="1" source="#acbw" target="#CraftBeer" weight="1922" />
+      <edge id="2" source="#fail" target="#beer" weight="1922" />
+      <edge id="3" source="#purpl" target="#photo" weight="1922" />
+      <edge id="4" source="#GooseBlackFriday" target="#BourbonCountyStout" weight="3844" />
+      <edge id="5" source="#CLE" target="#mostinterestingman" weight="1922" />
+      <edge id="6" source="#PUREHOPPINESS" target="#ALPINEBEERCO" weight="1922" />
+      <edge id="7" source="#experiencegr" target="#brewsader" weight="1922" />
+      <edge id="8" source="#MoreNitro" target="#PourHard" weight="1922" />
+      <edge id="9" source="#CObeer" target="#cobf" weight="1922" />
+      <edge id="10" source="#headytopper" target="#vtbeer" weight="1922" />
+      <edge id="11" source="#mardigras" target="#fattuesday" weight="3844" />
+      <edge id="12" source="#CraftBeer" target="#ACBW" weight="3844" />
+      <edge id="13" source="#cbs" target="#CbusBeerWeek" weight="1922" />
+      <edge id="14" source="#OHbeer" target="#FLbeer" weight="1922" />
+      <edge id="15" source="#beer" target="#craftbeer" weight="1922" />
+      <edge id="16" source="#meals" target="#columbusfamilies" weight="1922" />
+      <edge id="17" source="#StPatricksDay" target="#Guinness" weight="1922" />
+      <edge id="18" source="#SantaRosa" target="#HeadyTopper" weight="1922" />
+      <edge id="19" source="#SantaRosa" target="#craftbeer" weight="1922" />
+      <edge id="20" source="#SantaRosa" target="#NorCal" weight="1922" />
+      <edge id="21" source="#HeadyTopper" target="#craftbeer" weight="1922" />
+      <edge id="22" source="#HeadyTopper" target="#NorCal" weight="1922" />
+      <edge id="23" source="#NorCal" target="#craftbeer" weight="1922" />
+      <edge id="24" source="#WaldosSpecialAle" target="#Lagunitas" weight="1922" />
+    </edges>
+  </graph>
+</gexf>

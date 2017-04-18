@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Prevention" label="#Prevention" />
+      <node id="#WhollyHealthy" label="#WhollyHealthy" />
+      <node id="#HeartHealth" label="#HeartHealth" />
+      <node id="#allergies" label="#allergies" />
+      <node id="#spring" label="#spring" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Prevention" target="#WhollyHealthy" weight="65" />
+      <edge id="1" source="#Prevention" target="#HeartHealth" weight="65" />
+      <edge id="2" source="#WhollyHealthy" target="#HeartHealth" weight="65" />
+      <edge id="3" source="#allergies" target="#spring" weight="65" />
+    </edges>
+  </graph>
+</gexf>

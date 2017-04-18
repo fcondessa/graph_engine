@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#ParisAttacks" label="#ParisAttacks" />
+      <node id="#iHeartRadioMusicAwards" label="#iHeartRadioMusicAwards" />
+      <node id="#HRC" label="#HRC" />
+      <node id="#woah" label="#woah" />
+      <node id="#safari" label="#safari" />
+      <node id="#Emmys2014" label="#Emmys2014" />
+      <node id="#IndependenceDay" label="#IndependenceDay" />
+      <node id="#ILoveObama" label="#ILoveObama" />
+      <node id="#nn13" label="#nn13" />
+      <node id="#yankees" label="#yankees" />
+      <node id="#ExploreCanada" label="#ExploreCanada" />
+      <node id="#KochBuysGOP" label="#KochBuysGOP" />
+      <node id="#FergusonDecision" label="#FergusonDecision" />
+      <node id="#FootballWidow" label="#FootballWidow" />
+      <node id="#shoe" label="#shoe" />
+      <node id="#BadPiratesJoke" label="#BadPiratesJoke" />
+      <node id="#inners" label="#inners" />
+      <node id="#LoveMustWin" label="#LoveMustWin" />
+      <node id="#singlepayer" label="#singlepayer" />
+      <node id="#SpellingLoses" label="#SpellingLoses" />
+      <node id="#Vote" label="#Vote" />
+      <node id="#tcot" label="#tcot" />
+      <node id="#Exposed" label="#Exposed" />
+      <node id="#Roe42" label="#Roe42" />
+      <node id="#ConfederateTakeDown" label="#ConfederateTakeDown" />
+      <node id="#MyTexasVotes" label="#MyTexasVotes" />
+      <node id="#TWDProtectAndServe" label="#TWDProtectAndServe" />
+      <node id="#SCOTUS" label="#SCOTUS" />
+      <node id="#Lovin" label="#Lovin" />
+      <node id="#teaparty" label="#teaparty" />
+      <node id="#UniteBIue" label="#UniteBIue" />
+      <node id="#BlackFriday" label="#BlackFriday" />
+      <node id="#Mlksitin" label="#Mlksitin" />
+      <node id="#SRSLY" label="#SRSLY" />
+      <node id="#CesarChavez" label="#CesarChavez" />
+      <node id="#WhitePrivilege" label="#WhitePrivilege" />
+      <node id="#NobelPeacePrize" label="#NobelPeacePrize" />
+      <node id="#Boom" label="#Boom" />
+      <node id="#theskyisblue" label="#theskyisblue" />
+      <node id="#Trainwreck" label="#Trainwreck" />
+      <node id="#NetanyahuSpeech" label="#NetanyahuSpeech" />
+      <node id="#AtheistsForEquality" label="#AtheistsForEquality" />
+      <node id="#TheWalkingDead" label="#TheWalkingDead" />
+      <node id="#OITNB" label="#OITNB" />
+      <node id="#BreatheMore" label="#BreatheMore" />
+      <node id="#pumpkinfest" label="#pumpkinfest" />
+      <node id="#USA" label="#USA" />
+      <node id="#TheWalkingDeadMidSeasonPremiere" label="#TheWalkingDeadMidSeasonPremiere" />
+      <node id="#DMVSnowday" label="#DMVSnowday" />
+      <node id="#BoycottIndiana" label="#BoycottIndiana" />
+      <node id="#Recovery" label="#Recovery" />
+      <node id="#blizzard2016" label="#blizzard2016" />
+      <node id="#election2014" label="#election2014" />
+      <node id="#ImWithHer" label="#ImWithHer" />
+      <node id="#ICantBreathe" label="#ICantBreathe" />
+      <node id="#yuk" label="#yuk" />
+      <node id="#GetOffMyLawn" label="#GetOffMyLawn" />
+      <node id="#Flint" label="#Flint" />
+      <node id="#FriendOfDorothy" label="#FriendOfDorothy" />
+      <node id="#BlackLivesMater" label="#BlackLivesMater" />
+      <node id="#DonaldTrump" label="#DonaldTrump" />
+      <node id="#BaltimoreRiots" label="#BaltimoreRiots" />
+      <node id="#Kenya" label="#Kenya" />
+      <node id="#Snowzilla" label="#Snowzilla" />
+      <node id="#Boycott" label="#Boycott" />
+      <node id="#Ayotzinapa" label="#Ayotzinapa" />
+      <node id="#inlovewithswitzerland" label="#inlovewithswitzerland" />
+      <node id="#ArtistVSWalmart" label="#ArtistVSWalmart" />
+      <node id="#TWD" label="#TWD" />
+      <node id="#McDonalds" label="#McDonalds" />
+      <node id="#nonviolence" label="#nonviolence" />
+      <node id="#lovewins" label="#lovewins" />
+      <node id="#DupontCircle" label="#DupontCircle" />
+      <node id="#DemocratHorrorMovies" label="#DemocratHorrorMovies" />
+      <node id="#Mexico" label="#Mexico" />
+      <node id="#Tedcruz" label="#Tedcruz" />
+      <node id="#MuslimLivesMatter" label="#MuslimLivesMatter" />
+      <node id="#debatenight" label="#debatenight" />
+      <node id="#VotingMatters" label="#VotingMatters" />
+      <node id="#Hell" label="#Hell" />
+      <node id="#GameofThrones" label="#GameofThrones" />
+      <node id="#seethelight" label="#seethelight" />
+      <node id="#whoisit" label="#whoisit" />
+      <node id="#Sadz" label="#Sadz" />
+      <node id="#TAINTEDMEAT" label="#TAINTEDMEAT" />
+      <node id="#uniteblue" label="#uniteblue" />
+      <node id="#Election2014" label="#Election2014" />
+      <node id="#Boehner" label="#Boehner" />
+      <node id="#youaintneverhadafriendlikeme" label="#youaintneverhadafriendlikeme" />
+      <node id="#rape" label="#rape" />
+      <node id="#BareBottoms" label="#BareBottoms" />
+      <node id="#MichaelBrown" label="#MichaelBrown" />
+      <node id="#blacklivesmatter" label="#blacklivesmatter" />
+      <node id="#RubiSlippers" label="#RubiSlippers" />
+      <node id="#IDEVASW" label="#IDEVASW" />
+      <node id="#BestComeback" label="#BestComeback" />
+      <node id="#fuckterrorism" label="#fuckterrorism" />
+      <node id="#LittleMissFlint" label="#LittleMissFlint" />
+      <node id="#DHSshutdown" label="#DHSshutdown" />
+      <node id="#GOPClownCar" label="#GOPClownCar" />
+      <node id="#ScottWalker" label="#ScottWalker" />
+      <node id="#DeathBecomesHer" label="#DeathBecomesHer" />
+      <node id="#Hillary" label="#Hillary" />
+      <node id="#NorthernLights" label="#NorthernLights" />
+      <node id="#FightFor15" label="#FightFor15" />
+      <node id="#Pulsenightclub" label="#Pulsenightclub" />
+      <node id="#Media" label="#Media" />
+      <node id="#CosmoVotes" label="#CosmoVotes" />
+      <node id="#women" label="#women" />
+      <node id="#kingvburwell" label="#kingvburwell" />
+      <node id="#SchoolsNotPrisons" label="#SchoolsNotPrisons" />
+      <node id="#StopHR7" label="#StopHR7" />
+      <node id="#Obama" label="#Obama" />
+      <node id="#TeamWendy" label="#TeamWendy" />
+      <node id="#FeelTheBern" label="#FeelTheBern" />
+      <node id="#Heart2CurePH" label="#Heart2CurePH" />
+      <node id="#Perry" label="#Perry" />
+      <node id="#MikeBrown" label="#MikeBrown" />
+      <node id="#StopHr7" label="#StopHr7" />
+      <node id="#Education" label="#Education" />
+      <node id="#travel" label="#travel" />
+      <node id="#NotoriousRBG" label="#NotoriousRBG" />
+      <node id="#WalmartStrikers" label="#WalmartStrikers" />
+      <node id="#DuckFrump" label="#DuckFrump" />
+      <node id="#DemConvention" label="#DemConvention" />
+      <node id="#PresidentialDebate" label="#PresidentialDebate" />
+      <node id="#lgbt" label="#lgbt" />
+      <node id="#DeadBuzz" label="#DeadBuzz" />
+      <node id="#nra" label="#nra" />
+      <node id="#thatDamnCook" label="#thatDamnCook" />
+      <node id="#layupforlauren" label="#layupforlauren" />
+      <node id="#sparkles" label="#sparkles" />
+      <node id="#GoneButNeverForgotten" label="#GoneButNeverForgotten" />
+      <node id="#Pennsylvania" label="#Pennsylvania" />
+      <node id="#ExploreBC" label="#ExploreBC" />
+      <node id="#DemDeadz" label="#DemDeadz" />
+      <node id="#RIPLaurenHill" label="#RIPLaurenHill" />
+      <node id="#TipsFromAQueer" label="#TipsFromAQueer" />
+      <node id="#AfricanLivesMatter" label="#AfricanLivesMatter" />
+      <node id="#hatewinter" label="#hatewinter" />
+      <node id="#Portlandia" label="#Portlandia" />
+      <node id="#vet" label="#vet" />
+      <node id="#Womenswork" label="#Womenswork" />
+      <node id="#DumpTrump" label="#DumpTrump" />
+      <node id="#RayRice" label="#RayRice" />
+      <node id="#YeezySeason3" label="#YeezySeason3" />
+      <node id="#Tcot" label="#Tcot" />
+      <node id="#DMV" label="#DMV" />
+      <node id="#DemDebate" label="#DemDebate" />
+      <node id="#gym" label="#gym" />
+      <node id="#pulmonaryhypertension" label="#pulmonaryhypertension" />
+      <node id="#RollCallVote" label="#RollCallVote" />
+      <node id="#strengthie" label="#strengthie" />
+      <node id="#BrianWilliams" label="#BrianWilliams" />
+      <node id="#ISIS" label="#ISIS" />
+      <node id="#withstronggirls" label="#withstronggirls" />
+      <node id="#MLKSitInHarlem" label="#MLKSitInHarlem" />
+      <node id="#FirstTweet" label="#FirstTweet" />
+      <node id="#dcsnow" label="#dcsnow" />
+      <node id="#ProSex" label="#ProSex" />
+      <node id="#jeb16" label="#jeb16" />
+      <node id="#FashionFriday" label="#FashionFriday" />
+      <node id="#VoteDemocrat" label="#VoteDemocrat" />
+      <node id="#DuggarFamilyValues" label="#DuggarFamilyValues" />
+      <node id="#DMVSnow" label="#DMVSnow" />
+      <node id="#ccot" label="#ccot" />
+      <node id="#SecularSociety" label="#SecularSociety" />
+      <node id="#LibCrib" label="#LibCrib" />
+      <node id="#7FavTVShows" label="#7FavTVShows" />
+      <node id="#adventure" label="#adventure" />
+      <node id="#SameLove" label="#SameLove" />
+      <node id="#mexicanproblems" label="#mexicanproblems" />
+      <node id="#PayEquity" label="#PayEquity" />
+      <node id="#taintedmeat" label="#taintedmeat" />
+      <node id="#FoxNews" label="#FoxNews" />
+      <node id="#LoveWins" label="#LoveWins" />
+      <node id="#iGotOneJoke" label="#iGotOneJoke" />
+      <node id="#AvastMatey" label="#AvastMatey" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#VoteProChoice" label="#VoteProChoice" />
+      <node id="#hometovote" label="#hometovote" />
+      <node id="#Iraq" label="#Iraq" />
+      <node id="#5WordMoneyProblems" label="#5WordMoneyProblems" />
+      <node id="#womenintheworkplace" label="#womenintheworkplace" />
+      <node id="#Abortion" label="#Abortion" />
+      <node id="#1u" label="#1u" />
+      <node id="#NameObamaISISOperation" label="#NameObamaISISOperation" />
+      <node id="#REMINDER" label="#REMINDER" />
+      <node id="#TortureReport" label="#TortureReport" />
+      <node id="#chavezday" label="#chavezday" />
+      <node id="#AuroraBorealis" label="#AuroraBorealis" />
+      <node id="#NWHW" label="#NWHW" />
+      <node id="#DallasDemocrats" label="#DallasDemocrats" />
+      <node id="#bored" label="#bored" />
+      <node id="#RFRA" label="#RFRA" />
+      <node id="#PregnancyDiscriminationAct" label="#PregnancyDiscriminationAct" />
+      <node id="#Mets" label="#Mets" />
+      <node id="#RT" label="#RT" />
+      <node id="#AnyoneButTrump" label="#AnyoneButTrump" />
+      <node id="#EricGarner" label="#EricGarner" />
+      <node id="#Roe4All" label="#Roe4All" />
+      <node id="#foxnews" label="#foxnews" />
+      <node id="#GOPDebate" label="#GOPDebate" />
+      <node id="#ShoutYourAbortion" label="#ShoutYourAbortion" />
+      <node id="#CNN" label="#CNN" />
+      <node id="#Satire" label="#Satire" />
+      <node id="#trump" label="#trump" />
+      <node id="#Confessional" label="#Confessional" />
+      <node id="#BillOReilly" label="#BillOReilly" />
+      <node id="#RoevWade" label="#RoevWade" />
+      <node id="#MakeAmericaGreatAgain" label="#MakeAmericaGreatAgain" />
+      <node id="#EverybodyAteChris" label="#EverybodyAteChris" />
+      <node id="#BeirBaron" label="#BeirBaron" />
+      <node id="#GOTV" label="#GOTV" />
+      <node id="#BadAss" label="#BadAss" />
+      <node id="#TWDFinale" label="#TWDFinale" />
+      <node id="#snowmaggedon2016" label="#snowmaggedon2016" />
+      <node id="#Benghazi" label="#Benghazi" />
+      <node id="#gunfail" label="#gunfail" />
+      <node id="#keenepumpkinfest" label="#keenepumpkinfest" />
+      <node id="#loser" label="#loser" />
+      <node id="#Malala" label="#Malala" />
+      <node id="#AskACop" label="#AskACop" />
+      <node id="#UniteBlue" label="#UniteBlue" />
+      <node id="#HomophobiaLoses" label="#HomophobiaLoses" />
+      <node id="#rayrice" label="#rayrice" />
+      <node id="#overpolicing" label="#overpolicing" />
+      <node id="#ShutItDown" label="#ShutItDown" />
+      <node id="#oldyLocks" label="#oldyLocks" />
+      <node id="#JusticeForMikeBrown" label="#JusticeForMikeBrown" />
+      <node id="#WalkingDead" label="#WalkingDead" />
+      <node id="#CPAC2015" label="#CPAC2015" />
+      <node id="#Oregon" label="#Oregon" />
+      <node id="#SuckItGOP" label="#SuckItGOP" />
+      <node id="#DitchMitch" label="#DitchMitch" />
+      <node id="#RIPRobinWilliams" label="#RIPRobinWilliams" />
+      <node id="#Ferguson" label="#Ferguson" />
+      <node id="#Washington" label="#Washington" />
+      <node id="#substanceuse" label="#substanceuse" />
+      <node id="#spellingproblems" label="#spellingproblems" />
+      <node id="#TalkToUs" label="#TalkToUs" />
+      <node id="#Army" label="#Army" />
+      <node id="#BlockFoxNews" label="#BlockFoxNews" />
+      <node id="#KeystoneXL" label="#KeystoneXL" />
+      <node id="#luxurytravel" label="#luxurytravel" />
+      <node id="#JesusPickUpLines" label="#JesusPickUpLines" />
+      <node id="#VoicesOfTheUnheard" label="#VoicesOfTheUnheard" />
+      <node id="#Take15for15" label="#Take15for15" />
+      <node id="#selena" label="#selena" />
+      <node id="#FreddieGray" label="#FreddieGray" />
+      <node id="#RubiFlipFlops" label="#RubiFlipFlops" />
+      <node id="#YesToLove" label="#YesToLove" />
+      <node id="#Ebola" label="#Ebola" />
+      <node id="#racialequality" label="#racialequality" />
+      <node id="#VoteDemocratic" label="#VoteDemocratic" />
+      <node id="#Drumpf" label="#Drumpf" />
+      <node id="#PeoplesMonday" label="#PeoplesMonday" />
+      <node id="#MarriageEquaility" label="#MarriageEquaility" />
+      <node id="#GOPHatesPoorPeople" label="#GOPHatesPoorPeople" />
+      <node id="#CancelTheDuggars" label="#CancelTheDuggars" />
+      <node id="#BlueLivesMatter" label="#BlueLivesMatter" />
+      <node id="#BOSnow" label="#BOSnow" />
+      <node id="#feminism" label="#feminism" />
+      <node id="#abortion" label="#abortion" />
+      <node id="#Moon" label="#Moon" />
+      <node id="#GOP" label="#GOP" />
+      <node id="#KingvBurwell" label="#KingvBurwell" />
+      <node id="#GOT" label="#GOT" />
+      <node id="#GunOwners" label="#GunOwners" />
+      <node id="#technology" label="#technology" />
+      <node id="#ericgarner" label="#ericgarner" />
+      <node id="#Trump" label="#Trump" />
+      <node id="#BeforeTwitterI" label="#BeforeTwitterI" />
+      <node id="#gunsense" label="#gunsense" />
+      <node id="#YaMeCansé" label="#YaMeCansé" />
+      <node id="#LovesWins" label="#LovesWins" />
+      <node id="#WatchLake" label="#WatchLake" />
+      <node id="#Orlando" label="#Orlando" />
+      <node id="#WeTried" label="#WeTried" />
+      <node id="#OhWaitThatIsBushOperation" label="#OhWaitThatIsBushOperation" />
+      <node id="#VoteBlue2014" label="#VoteBlue2014" />
+      <node id="#RogerGoodell" label="#RogerGoodell" />
+      <node id="#HillaryClinton" label="#HillaryClinton" />
+      <node id="#RekiaBoyd" label="#RekiaBoyd" />
+      <node id="#Republican" label="#Republican" />
+      <node id="#RIPGlenn" label="#RIPGlenn" />
+      <node id="#VoteBlue" label="#VoteBlue" />
+      <node id="#VMAs" label="#VMAs" />
+      <node id="#MarciaMarciaMarcia" label="#MarciaMarciaMarcia" />
+      <node id="#Dec17" label="#Dec17" />
+      <node id="#Cruz" label="#Cruz" />
+      <node id="#blizzardof2015" label="#blizzardof2015" />
+      <node id="#Delusion" label="#Delusion" />
+      <node id="#pregnantatwork" label="#pregnantatwork" />
+      <node id="#Oscars2015" label="#Oscars2015" />
+      <node id="#POTUS" label="#POTUS" />
+      <node id="#economicjustice" label="#economicjustice" />
+      <node id="#1m1w" label="#1m1w" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#1uvote" label="#1uvote" />
+      <node id="#climate" label="#climate" />
+      <node id="#MTP" label="#MTP" />
+      <node id="#NYC" label="#NYC" />
+      <node id="#ThingsJesusNeverSaid" label="#ThingsJesusNeverSaid" />
+      <node id="#NoKXL" label="#NoKXL" />
+      <node id="#NoMoreGOPWar" label="#NoMoreGOPWar" />
+      <node id="#poolside" label="#poolside" />
+      <node id="#DemsInPhilly" label="#DemsInPhilly" />
+      <node id="#ProWomen" label="#ProWomen" />
+      <node id="#TreasureIsland" label="#TreasureIsland" />
+      <node id="#LGBTQ" label="#LGBTQ" />
+      <node id="#Connecticut" label="#Connecticut" />
+      <node id="#FlintWaterCrisis" label="#FlintWaterCrisis" />
+      <node id="#BibiSpeech" label="#BibiSpeech" />
+      <node id="#NY" label="#NY" />
+      <node id="#CelebrateNVRD" label="#CelebrateNVRD" />
+      <node id="#TWDTakeover" label="#TWDTakeover" />
+      <node id="#GoT" label="#GoT" />
+      <node id="#BaltimoreAntiViolenceMovement" label="#BaltimoreAntiViolenceMovement" />
+      <node id="#WhyILeft" label="#WhyILeft" />
+      <node id="#GrandCentral" label="#GrandCentral" />
+      <node id="#WarOnWomen" label="#WarOnWomen" />
+      <node id="#Ultrasound" label="#Ultrasound" />
+      <node id="#ObamaSpeech" label="#ObamaSpeech" />
+      <node id="#TheTalkingDead" label="#TheTalkingDead" />
+      <node id="#SuperBowl" label="#SuperBowl" />
+      <node id="#GOP2016" label="#GOP2016" />
+      <node id="#tbt" label="#tbt" />
+      <node id="#OpenAccess" label="#OpenAccess" />
+      <node id="#VOTEBLUE" label="#VOTEBLUE" />
+      <node id="#whcd" label="#whcd" />
+      <node id="#Oakland" label="#Oakland" />
+      <node id="#Prochoice" label="#Prochoice" />
+      <node id="#Kentucky" label="#Kentucky" />
+      <node id="#marriage" label="#marriage" />
+      <node id="#WTC" label="#WTC" />
+      <node id="#mikebrown" label="#mikebrown" />
+      <node id="#ChristianPrivilege" label="#ChristianPrivilege" />
+      <node id="#ugly" label="#ugly" />
+      <node id="#takebackthenightHU" label="#takebackthenightHU" />
+      <node id="#STL" label="#STL" />
+      <node id="#NFL" label="#NFL" />
+      <node id="#CAR" label="#CAR" />
+      <node id="#rapedbyMorehouse" label="#rapedbyMorehouse" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#twd" label="#twd" />
+      <node id="#GiveUp" label="#GiveUp" />
+      <node id="#thewalkingdead" label="#thewalkingdead" />
+      <node id="#StopTheGOP" label="#StopTheGOP" />
+      <node id="#Snowmageddon2015" label="#Snowmageddon2015" />
+      <node id="#weloveyoulauren" label="#weloveyoulauren" />
+      <node id="#FairShot" label="#FairShot" />
+      <node id="#NRA" label="#NRA" />
+      <node id="#TXGov" label="#TXGov" />
+      <node id="#Grammys" label="#Grammys" />
+      <node id="#whyIStayed" label="#whyIStayed" />
+      <node id="#TNTweeters" label="#TNTweeters" />
+      <node id="#OccupyWallStreet" label="#OccupyWallStreet" />
+      <node id="#LeBron" label="#LeBron" />
+      <node id="#yeswecode" label="#yeswecode" />
+      <node id="#Childcare" label="#Childcare" />
+      <node id="#Emmys" label="#Emmys" />
+      <node id="#CharlestonEulogy" label="#CharlestonEulogy" />
+      <node id="#WhyIStayed" label="#WhyIStayed" />
+      <node id="#AssholeOfTheDay" label="#AssholeOfTheDay" />
+      <node id="#Procontraception" label="#Procontraception" />
+      <node id="#TrumpInPHX" label="#TrumpInPHX" />
+      <node id="#Oscars" label="#Oscars" />
+      <node id="#MarriageEquality" label="#MarriageEquality" />
+      <node id="#JustYouWaitTho" label="#JustYouWaitTho" />
+      <node id="#JoyAndLove" label="#JoyAndLove" />
+      <node id="#DoTheMath" label="#DoTheMath" />
+      <node id="#BlackLivesMatter" label="#BlackLivesMatter" />
+      <node id="#p2" label="#p2" />
+      <node id="#DemsinPhilly" label="#DemsinPhilly" />
+      <node id="#LGBT" label="#LGBT" />
+      <node id="#Baltimore" label="#Baltimore" />
+      <node id="#sxsw" label="#sxsw" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#nofriends" label="#nofriends" />
+      <node id="#NN15" label="#NN15" />
+      <node id="#P2" label="#P2" />
+      <node id="#RecoveryMonth" label="#RecoveryMonth" />
+      <node id="#TheHague" label="#TheHague" />
+      <node id="#maddow" label="#maddow" />
+      <node id="#FiveWordsToRuinADate" label="#FiveWordsToRuinADate" />
+      <node id="#FredArmisenIsBetter" label="#FredArmisenIsBetter" />
+      <node id="#tgdn" label="#tgdn" />
+      <node id="#SaveTheSenate" label="#SaveTheSenate" />
+      <node id="#sexabuse" label="#sexabuse" />
+      <node id="#CheckupDay" label="#CheckupDay" />
+      <node id="#JohnBoehner" label="#JohnBoehner" />
+      <node id="#reprorights" label="#reprorights" />
+      <node id="#BlueandBlack" label="#BlueandBlack" />
+      <node id="#groundzero" label="#groundzero" />
+      <node id="#sexwork" label="#sexwork" />
+      <node id="#nfltoday" label="#nfltoday" />
+      <node id="#7in10forRoe" label="#7in10forRoe" />
+      <node id="#InternationalCatDay" label="#InternationalCatDay" />
+      <node id="#LiberalsNextBan" label="#LiberalsNextBan" />
+      <node id="#BaltimoreJailSupport" label="#BaltimoreJailSupport" />
+      <node id="#Superbowl" label="#Superbowl" />
+      <node id="#ALS" label="#ALS" />
+      <node id="#MansionShutdown" label="#MansionShutdown" />
+      <node id="#HigherEdNotDebt" label="#HigherEdNotDebt" />
+      <node id="#PHAontheRoad" label="#PHAontheRoad" />
+      <node id="#policekillings" label="#policekillings" />
+      <node id="#summer" label="#summer" />
+      <node id="#Bush" label="#Bush" />
+      <node id="#reproductiverights" label="#reproductiverights" />
+      <node id="#NotOneMore" label="#NotOneMore" />
+      <node id="#MalalaYousafzai" label="#MalalaYousafzai" />
+      <node id="#GameofThronesFinale" label="#GameofThronesFinale" />
+      <node id="#kidding" label="#kidding" />
+      <node id="#ConversionTherapy" label="#ConversionTherapy" />
+      <node id="#Downtownsilverspring" label="#Downtownsilverspring" />
+      <node id="#arizona" label="#arizona" />
+      <node id="#Me" label="#Me" />
+      <node id="#sarcasm" label="#sarcasm" />
+      <node id="#ALSIceBucketChallenge" label="#ALSIceBucketChallenge" />
+      <node id="#whyILeft" label="#whyILeft" />
+      <node id="#jonasblizzard16" label="#jonasblizzard16" />
+      <node id="#Bataclan" label="#Bataclan" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#ParisAttacks" target="#fuckterrorism" weight="3225" />
+      <edge id="1" source="#ParisAttacks" target="#Bataclan" weight="3225" />
+      <edge id="2" source="#iHeartRadioMusicAwards" target="#ugly" weight="3225" />
+      <edge id="3" source="#HRC" target="#ImWithHer" weight="3225" />
+      <edge id="4" source="#HRC" target="#DemsInPhilly" weight="3225" />
+      <edge id="5" source="#woah" target="#womenintheworkplace" weight="3225" />
+      <edge id="6" source="#woah" target="#seethelight" weight="3225" />
+      <edge id="7" source="#safari" target="#shoe" weight="3225" />
+      <edge id="8" source="#Emmys2014" target="#Emmys" weight="3225" />
+      <edge id="9" source="#IndependenceDay" target="#Trainwreck" weight="3225" />
+      <edge id="10" source="#ILoveObama" target="#UniteBlue" weight="3225" />
+      <edge id="11" source="#nn13" target="#NN15" weight="3225" />
+      <edge id="12" source="#yankees" target="#Mets" weight="3225" />
+      <edge id="13" source="#yankees" target="#NY" weight="3225" />
+      <edge id="14" source="#ExploreCanada" target="#Moon" weight="3225" />
+      <edge id="15" source="#ExploreCanada" target="#ExploreBC" weight="3225" />
+      <edge id="16" source="#ExploreCanada" target="#NorthernLights" weight="3225" />
+      <edge id="17" source="#ExploreCanada" target="#AuroraBorealis" weight="3225" />
+      <edge id="18" source="#ExploreCanada" target="#WatchLake" weight="3225" />
+      <edge id="19" source="#KochBuysGOP" target="#p2" weight="3225" />
+      <edge id="20" source="#FergusonDecision" target="#BlackLivesMatter" weight="3225" />
+      <edge id="21" source="#FootballWidow" target="#Superbowl" weight="3225" />
+      <edge id="22" source="#FootballWidow" target="#sparkles" weight="3225" />
+      <edge id="23" source="#BadPiratesJoke" target="#TreasureIsland" weight="3225" />
+      <edge id="24" source="#BadPiratesJoke" target="#AvastMatey" weight="3225" />
+      <edge id="25" source="#inners" target="#maddow" weight="3225" />
+      <edge id="26" source="#inners" target="#NetanyahuSpeech" weight="3225" />
+      <edge id="27" source="#inners" target="#UniteBIue" weight="3225" />
+      <edge id="28" source="#inners" target="#BibiSpeech" weight="3225" />
+      <edge id="29" source="#inners" target="#Obama" weight="3225" />
+      <edge id="30" source="#LoveMustWin" target="#SCOTUS" weight="3225" />
+      <edge id="31" source="#singlepayer" target="#MakeAmericaGreatAgain" weight="3225" />
+      <edge id="32" source="#SpellingLoses" target="#MarriageEquaility" weight="3225" />
+      <edge id="33" source="#SpellingLoses" target="#LoveWins" weight="3225" />
+      <edge id="34" source="#Vote" target="#VoteDemocratic" weight="3225" />
+      <edge id="35" source="#Vote" target="#VoteBlue" weight="3225" />
+      <edge id="36" source="#Vote" target="#GOTV" weight="3225" />
+      <edge id="37" source="#Vote" target="#Election2014" weight="3225" />
+      <edge id="38" source="#tcot" target="#spellingproblems" weight="3225" />
+      <edge id="39" source="#tcot" target="#BeforeTwitterI" weight="3225" />
+      <edge id="40" source="#tcot" target="#ISIS" weight="3225" />
+      <edge id="41" source="#tcot" target="#uniteblue" weight="3225" />
+      <edge id="42" source="#tcot" target="#Obamacare" weight="3225" />
+      <edge id="43" source="#tcot" target="#UniteBlue" weight="3225" />
+      <edge id="44" source="#tcot" target="#foxnews" weight="3225" />
+      <edge id="45" source="#tcot" target="#Delusion" weight="3225" />
+      <edge id="46" source="#tcot" target="#teaparty" weight="3225" />
+      <edge id="47" source="#tcot" target="#tgdn" weight="3225" />
+      <edge id="48" source="#tcot" target="#ccot" weight="3225" />
+      <edge id="49" source="#tcot" target="#p2" weight="9675" />
+      <edge id="50" source="#tcot" target="#Media" weight="3225" />
+      <edge id="51" source="#tcot" target="#P2" weight="3225" />
+      <edge id="52" source="#Exposed" target="#KeystoneXL" weight="3225" />
+      <edge id="53" source="#Exposed" target="#p2" weight="3225" />
+      <edge id="54" source="#Exposed" target="#RT" weight="3225" />
+      <edge id="55" source="#Roe42" target="#StopHr7" weight="3225" />
+      <edge id="56" source="#Roe42" target="#Roe4All" weight="3225" />
+      <edge id="57" source="#Roe42" target="#RoevWade" weight="12900" />
+      <edge id="58" source="#Roe42" target="#StopHR7" weight="3225" />
+      <edge id="59" source="#Roe42" target="#7in10forRoe" weight="6450" />
+      <edge id="60" source="#ConfederateTakeDown" target="#LovesWins" weight="3225" />
+      <edge id="61" source="#MyTexasVotes" target="#TeamWendy" weight="3225" />
+      <edge id="62" source="#TWDProtectAndServe" target="#TheWalkingDead" weight="3225" />
+      <edge id="63" source="#SCOTUS" target="#NotoriousRBG" weight="3225" />
+      <edge id="64" source="#SCOTUS" target="#KingvBurwell" weight="3225" />
+      <edge id="65" source="#SCOTUS" target="#kingvburwell" weight="3225" />
+      <edge id="66" source="#Lovin" target="#SuperBowl" weight="3225" />
+      <edge id="67" source="#Lovin" target="#McDonalds" weight="3225" />
+      <edge id="68" source="#teaparty" target="#spellingproblems" weight="3225" />
+      <edge id="69" source="#teaparty" target="#p2" weight="3225" />
+      <edge id="70" source="#teaparty" target="#uniteblue" weight="3225" />
+      <edge id="71" source="#UniteBIue" target="#maddow" weight="3225" />
+      <edge id="72" source="#UniteBIue" target="#NetanyahuSpeech" weight="3225" />
+      <edge id="73" source="#UniteBIue" target="#Obama" weight="3225" />
+      <edge id="74" source="#UniteBIue" target="#BibiSpeech" weight="3225" />
+      <edge id="75" source="#BlackFriday" target="#DeathBecomesHer" weight="3225" />
+      <edge id="76" source="#BlackFriday" target="#FashionFriday" weight="3225" />
+      <edge id="77" source="#Mlksitin" target="#MLKSitInHarlem" weight="3225" />
+      <edge id="78" source="#Mlksitin" target="#JoyAndLove" weight="3225" />
+      <edge id="79" source="#SRSLY" target="#MarciaMarciaMarcia" weight="3225" />
+      <edge id="80" source="#CesarChavez" target="#chavezday" weight="3225" />
+      <edge id="81" source="#WhitePrivilege" target="#SecularSociety" weight="3225" />
+      <edge id="82" source="#WhitePrivilege" target="#ChristianPrivilege" weight="3225" />
+      <edge id="83" source="#WhitePrivilege" target="#AtheistsForEquality" weight="3225" />
+      <edge id="84" source="#NobelPeacePrize" target="#MalalaYousafzai" weight="3225" />
+      <edge id="85" source="#Boom" target="#GOPDebate" weight="3225" />
+      <edge id="86" source="#theskyisblue" target="#GOPHatesPoorPeople" weight="3225" />
+      <edge id="87" source="#NetanyahuSpeech" target="#maddow" weight="3225" />
+      <edge id="88" source="#NetanyahuSpeech" target="#Obama" weight="3225" />
+      <edge id="89" source="#NetanyahuSpeech" target="#BibiSpeech" weight="3225" />
+      <edge id="90" source="#AtheistsForEquality" target="#SecularSociety" weight="3225" />
+      <edge id="91" source="#AtheistsForEquality" target="#ChristianPrivilege" weight="3225" />
+      <edge id="92" source="#TheWalkingDead" target="#yuk" weight="3225" />
+      <edge id="93" source="#TheWalkingDead" target="#TWD" weight="3225" />
+      <edge id="94" source="#TheWalkingDead" target="#TWDTakeover" weight="6450" />
+      <edge id="95" source="#TheWalkingDead" target="#thatDamnCook" weight="3225" />
+      <edge id="96" source="#TheWalkingDead" target="#TAINTEDMEAT" weight="6450" />
+      <edge id="97" source="#TheWalkingDead" target="#GOT" weight="3225" />
+      <edge id="98" source="#TheWalkingDead" target="#RIPGlenn" weight="3225" />
+      <edge id="99" source="#TheWalkingDead" target="#YeezySeason3" weight="3225" />
+      <edge id="100" source="#TheWalkingDead" target="#7FavTVShows" weight="3225" />
+      <edge id="101" source="#TheWalkingDead" target="#DemDeadz" weight="3225" />
+      <edge id="102" source="#TheWalkingDead" target="#twd" weight="3225" />
+      <edge id="103" source="#TheWalkingDead" target="#EverybodyAteChris" weight="6450" />
+      <edge id="104" source="#TheWalkingDead" target="#TheTalkingDead" weight="3225" />
+      <edge id="105" source="#OITNB" target="#Emmys" weight="3225" />
+      <edge id="106" source="#BreatheMore" target="#Heart2CurePH" weight="3225" />
+      <edge id="107" source="#pumpkinfest" target="#keenepumpkinfest" weight="3225" />
+      <edge id="108" source="#pumpkinfest" target="#Ferguson" weight="3225" />
+      <edge id="109" source="#USA" target="#GOPDebate" weight="3225" />
+      <edge id="110" source="#TheWalkingDeadMidSeasonPremiere" target="#twd" weight="3225" />
+      <edge id="111" source="#TheWalkingDeadMidSeasonPremiere" target="#thewalkingdead" weight="3225" />
+      <edge id="112" source="#DMVSnowday" target="#DMVSnow" weight="3225" />
+      <edge id="113" source="#BoycottIndiana" target="#p2" weight="3225" />
+      <edge id="114" source="#Recovery" target="#RecoveryMonth" weight="3225" />
+      <edge id="115" source="#blizzard2016" target="#jonasblizzard16" weight="3225" />
+      <edge id="116" source="#blizzard2016" target="#Snowzilla" weight="3225" />
+      <edge id="117" source="#blizzard2016" target="#NYC" weight="3225" />
+      <edge id="118" source="#election2014" target="#CosmoVotes" weight="3225" />
+      <edge id="119" source="#ImWithHer" target="#FeelTheBern" weight="3225" />
+      <edge id="120" source="#ImWithHer" target="#HillaryClinton" weight="6450" />
+      <edge id="121" source="#ImWithHer" target="#DemDebate" weight="3225" />
+      <edge id="122" source="#ImWithHer" target="#DuckFrump" weight="3225" />
+      <edge id="123" source="#ImWithHer" target="#AnyoneButTrump" weight="3225" />
+      <edge id="124" source="#ImWithHer" target="#DemConvention" weight="3225" />
+      <edge id="125" source="#ImWithHer" target="#RollCallVote" weight="3225" />
+      <edge id="126" source="#ImWithHer" target="#DemsInPhilly" weight="32250" />
+      <edge id="127" source="#ICantBreathe" target="#EricGarner" weight="3225" />
+      <edge id="128" source="#ICantBreathe" target="#Ferguson" weight="3225" />
+      <edge id="129" source="#ICantBreathe" target="#GrandCentral" weight="3225" />
+      <edge id="130" source="#ICantBreathe" target="#RekiaBoyd" weight="3225" />
+      <edge id="131" source="#ICantBreathe" target="#MansionShutdown" weight="3225" />
+      <edge id="132" source="#ICantBreathe" target="#NYC" weight="6450" />
+      <edge id="133" source="#ICantBreathe" target="#BlackLivesMatter" weight="3225" />
+      <edge id="134" source="#ICantBreathe" target="#p2" weight="3225" />
+      <edge id="135" source="#ICantBreathe" target="#PeoplesMonday" weight="3225" />
+      <edge id="136" source="#ICantBreathe" target="#policekillings" weight="3225" />
+      <edge id="137" source="#ICantBreathe" target="#LeBron" weight="3225" />
+      <edge id="138" source="#GetOffMyLawn" target="#VMAs" weight="3225" />
+      <edge id="139" source="#Flint" target="#FlintWaterCrisis" weight="3225" />
+      <edge id="140" source="#Flint" target="#LittleMissFlint" weight="3225" />
+      <edge id="141" source="#Flint" target="#trump" weight="3225" />
+      <edge id="142" source="#FriendOfDorothy" target="#RubiSlippers" weight="3225" />
+      <edge id="143" source="#FriendOfDorothy" target="#RubiFlipFlops" weight="3225" />
+      <edge id="144" source="#BlackLivesMater" target="#Baltimore" weight="3225" />
+      <edge id="145" source="#BlackLivesMater" target="#BaltimoreJailSupport" weight="3225" />
+      <edge id="146" source="#BlackLivesMater" target="#FreddieGray" weight="3225" />
+      <edge id="147" source="#DonaldTrump" target="#Orlando" weight="3225" />
+      <edge id="148" source="#DonaldTrump" target="#uniteblue" weight="3225" />
+      <edge id="149" source="#BaltimoreRiots" target="#BlackLivesMatter" weight="3225" />
+      <edge id="150" source="#BaltimoreRiots" target="#P2" weight="3225" />
+      <edge id="151" source="#BaltimoreRiots" target="#FreddieGray" weight="3225" />
+      <edge id="152" source="#BaltimoreRiots" target="#nonviolence" weight="3225" />
+      <edge id="153" source="#Kenya" target="#AfricanLivesMatter" weight="3225" />
+      <edge id="154" source="#Snowzilla" target="#jonasblizzard16" weight="3225" />
+      <edge id="155" source="#Boycott" target="#WhyIStayed" weight="3225" />
+      <edge id="156" source="#Ayotzinapa" target="#Mexico" weight="3225" />
+      <edge id="157" source="#Ayotzinapa" target="#YaMeCansé" weight="3225" />
+      <edge id="158" source="#inlovewithswitzerland" target="#luxurytravel" weight="3225" />
+      <edge id="159" source="#inlovewithswitzerland" target="#adventure" weight="3225" />
+      <edge id="160" source="#ArtistVSWalmart" target="#WalmartStrikers" weight="3225" />
+      <edge id="161" source="#McDonalds" target="#SuperBowl" weight="3225" />
+      <edge id="162" source="#lovewins" target="#CharlestonEulogy" weight="3225" />
+      <edge id="163" source="#lovewins" target="#HomophobiaLoses" weight="3225" />
+      <edge id="164" source="#DupontCircle" target="#BeirBaron" weight="3225" />
+      <edge id="165" source="#DemocratHorrorMovies" target="#SuckItGOP" weight="3225" />
+      <edge id="166" source="#Mexico" target="#YaMeCansé" weight="3225" />
+      <edge id="167" source="#Tedcruz" target="#Tcot" weight="3225" />
+      <edge id="168" source="#MuslimLivesMatter" target="#BlackLivesMatter" weight="3225" />
+      <edge id="169" source="#debatenight" target="#PresidentialDebate" weight="3225" />
+      <edge id="170" source="#VotingMatters" target="#TXGov" weight="3225" />
+      <edge id="171" source="#Hell" target="#LovesWins" weight="3225" />
+      <edge id="172" source="#GameofThrones" target="#BadAss" weight="3225" />
+      <edge id="173" source="#GameofThrones" target="#BareBottoms" weight="3225" />
+      <edge id="174" source="#seethelight" target="#womenintheworkplace" weight="3225" />
+      <edge id="175" source="#whoisit" target="#TWDFinale" weight="3225" />
+      <edge id="176" source="#Sadz" target="#1m1w" weight="3225" />
+      <edge id="177" source="#Sadz" target="#marriage" weight="3225" />
+      <edge id="178" source="#Sadz" target="#LGBT" weight="3225" />
+      <edge id="179" source="#uniteblue" target="#spellingproblems" weight="3225" />
+      <edge id="180" source="#uniteblue" target="#p2" weight="3225" />
+      <edge id="181" source="#Election2014" target="#GOTV" weight="3225" />
+      <edge id="182" source="#Election2014" target="#VoteProChoice" weight="3225" />
+      <edge id="183" source="#Election2014" target="#VoteDemocratic" weight="3225" />
+      <edge id="184" source="#Election2014" target="#VoteBlue" weight="3225" />
+      <edge id="185" source="#Election2014" target="#reprorights" weight="3225" />
+      <edge id="186" source="#Boehner" target="#Perry" weight="3225" />
+      <edge id="187" source="#Boehner" target="#Cruz" weight="3225" />
+      <edge id="188" source="#Boehner" target="#Obama" weight="3225" />
+      <edge id="189" source="#youaintneverhadafriendlikeme" target="#RIPRobinWilliams" weight="3225" />
+      <edge id="190" source="#rape" target="#infographic" weight="3225" />
+      <edge id="191" source="#MichaelBrown" target="#sarcasm" weight="3225" />
+      <edge id="192" source="#blacklivesmatter" target="#ericgarner" weight="3225" />
+      <edge id="193" source="#blacklivesmatter" target="#racialequality" weight="3225" />
+      <edge id="194" source="#blacklivesmatter" target="#mikebrown" weight="3225" />
+      <edge id="195" source="#blacklivesmatter" target="#economicjustice" weight="3225" />
+      <edge id="196" source="#RubiSlippers" target="#RubiFlipFlops" weight="3225" />
+      <edge id="197" source="#IDEVASW" target="#sexwork" weight="3225" />
+      <edge id="198" source="#IDEVASW" target="#Dec17" weight="3225" />
+      <edge id="199" source="#IDEVASW" target="#AskACop" weight="3225" />
+      <edge id="200" source="#BestComeback" target="#Emmys" weight="3225" />
+      <edge id="201" source="#BestComeback" target="#iGotOneJoke" weight="3225" />
+      <edge id="202" source="#fuckterrorism" target="#Bataclan" weight="3225" />
+      <edge id="203" source="#LittleMissFlint" target="#FlintWaterCrisis" weight="3225" />
+      <edge id="204" source="#LittleMissFlint" target="#trump" weight="3225" />
+      <edge id="205" source="#DHSshutdown" target="#GOP" weight="3225" />
+      <edge id="206" source="#GOPClownCar" target="#p2" weight="3225" />
+      <edge id="207" source="#GOPClownCar" target="#GOP" weight="3225" />
+      <edge id="208" source="#GOPClownCar" target="#GOP2016" weight="3225" />
+      <edge id="209" source="#ScottWalker" target="#OccupyWallStreet" weight="3225" />
+      <edge id="210" source="#DeathBecomesHer" target="#FashionFriday" weight="3225" />
+      <edge id="211" source="#Hillary" target="#Trump" weight="3225" />
+      <edge id="212" source="#NorthernLights" target="#AuroraBorealis" weight="3225" />
+      <edge id="213" source="#NorthernLights" target="#Moon" weight="3225" />
+      <edge id="214" source="#NorthernLights" target="#ExploreBC" weight="3225" />
+      <edge id="215" source="#NorthernLights" target="#WatchLake" weight="3225" />
+      <edge id="216" source="#FightFor15" target="#Childcare" weight="3225" />
+      <edge id="217" source="#FightFor15" target="#Take15for15" weight="3225" />
+      <edge id="218" source="#Pulsenightclub" target="#Orlando" weight="3225" />
+      <edge id="219" source="#Media" target="#Delusion" weight="3225" />
+      <edge id="220" source="#Media" target="#P2" weight="3225" />
+      <edge id="221" source="#Media" target="#ccot" weight="3225" />
+      <edge id="222" source="#Media" target="#tgdn" weight="3225" />
+      <edge id="223" source="#women" target="#technology" weight="3225" />
+      <edge id="224" source="#women" target="#FirstTweet" weight="3225" />
+      <edge id="225" source="#SchoolsNotPrisons" target="#DoTheMath" weight="3225" />
+      <edge id="226" source="#StopHR7" target="#RoevWade" weight="3225" />
+      <edge id="227" source="#Obama" target="#Cruz" weight="3225" />
+      <edge id="228" source="#Obama" target="#Perry" weight="3225" />
+      <edge id="229" source="#Obama" target="#BibiSpeech" weight="3225" />
+      <edge id="230" source="#Obama" target="#maddow" weight="3225" />
+      <edge id="231" source="#TeamWendy" target="#DallasDemocrats" weight="3225" />
+      <edge id="232" source="#FeelTheBern" target="#AnyoneButTrump" weight="3225" />
+      <edge id="233" source="#FeelTheBern" target="#DemDebate" weight="3225" />
+      <edge id="234" source="#Perry" target="#Cruz" weight="3225" />
+      <edge id="235" source="#MikeBrown" target="#p2" weight="3225" />
+      <edge id="236" source="#MikeBrown" target="#Ferguson" weight="9675" />
+      <edge id="237" source="#MikeBrown" target="#STL" weight="3225" />
+      <edge id="238" source="#StopHr7" target="#RoevWade" weight="3225" />
+      <edge id="239" source="#Education" target="#Malala" weight="3225" />
+      <edge id="240" source="#travel" target="#GOP" weight="3225" />
+      <edge id="241" source="#travel" target="#arizona" weight="3225" />
+      <edge id="242" source="#travel" target="#TrumpInPHX" weight="3225" />
+      <edge id="243" source="#travel" target="#trump" weight="3225" />
+      <edge id="244" source="#DemConvention" target="#HillaryClinton" weight="3225" />
+      <edge id="245" source="#DemConvention" target="#DemsinPhilly" weight="3225" />
+      <edge id="246" source="#DemConvention" target="#DemsInPhilly" weight="3225" />
+      <edge id="247" source="#lgbt" target="#UniteBlue" weight="3225" />
+      <edge id="248" source="#lgbt" target="#WarOnWomen" weight="3225" />
+      <edge id="249" source="#lgbt" target="#TNTweeters" weight="3225" />
+      <edge id="250" source="#lgbt" target="#climate" weight="3225" />
+      <edge id="251" source="#lgbt" target="#SaveTheSenate" weight="3225" />
+      <edge id="252" source="#lgbt" target="#1u" weight="3225" />
+      <edge id="253" source="#DeadBuzz" target="#taintedmeat" weight="3225" />
+      <edge id="254" source="#nra" target="#gunfail" weight="6450" />
+      <edge id="255" source="#layupforlauren" target="#GoneButNeverForgotten" weight="3225" />
+      <edge id="256" source="#layupforlauren" target="#RIPLaurenHill" weight="3225" />
+      <edge id="257" source="#layupforlauren" target="#weloveyoulauren" weight="3225" />
+      <edge id="258" source="#sparkles" target="#Superbowl" weight="3225" />
+      <edge id="259" source="#GoneButNeverForgotten" target="#RIPLaurenHill" weight="3225" />
+      <edge id="260" source="#GoneButNeverForgotten" target="#weloveyoulauren" weight="3225" />
+      <edge id="261" source="#Pennsylvania" target="#Connecticut" weight="3225" />
+      <edge id="262" source="#Pennsylvania" target="#Oregon" weight="3225" />
+      <edge id="263" source="#Pennsylvania" target="#Washington" weight="3225" />
+      <edge id="264" source="#Pennsylvania" target="#gunsense" weight="3225" />
+      <edge id="265" source="#ExploreBC" target="#Moon" weight="3225" />
+      <edge id="266" source="#ExploreBC" target="#AuroraBorealis" weight="3225" />
+      <edge id="267" source="#ExploreBC" target="#WatchLake" weight="3225" />
+      <edge id="268" source="#RIPLaurenHill" target="#weloveyoulauren" weight="3225" />
+      <edge id="269" source="#TipsFromAQueer" target="#Emmys" weight="3225" />
+      <edge id="270" source="#hatewinter" target="#mexicanproblems" weight="3225" />
+      <edge id="271" source="#Portlandia" target="#Emmys" weight="3225" />
+      <edge id="272" source="#Portlandia" target="#FredArmisenIsBetter" weight="3225" />
+      <edge id="273" source="#vet" target="#ISIS" weight="3225" />
+      <edge id="274" source="#Womenswork" target="#PayEquity" weight="3225" />
+      <edge id="275" source="#DumpTrump" target="#Drumpf" weight="3225" />
+      <edge id="276" source="#DumpTrump" target="#DumpTrump" weight="180600" />
+      <edge id="277" source="#DumpTrump" target="#whcd" weight="3225" />
+      <edge id="278" source="#RayRice" target="#RogerGoodell" weight="3225" />
+      <edge id="279" source="#RayRice" target="#NFL" weight="9675" />
+      <edge id="280" source="#DMV" target="#Downtownsilverspring" weight="3225" />
+      <edge id="281" source="#DemDebate" target="#AnyoneButTrump" weight="3225" />
+      <edge id="282" source="#gym" target="#bored" weight="3225" />
+      <edge id="283" source="#pulmonaryhypertension" target="#PHAontheRoad" weight="3225" />
+      <edge id="284" source="#strengthie" target="#withstronggirls" weight="3225" />
+      <edge id="285" source="#BrianWilliams" target="#BillOReilly" weight="3225" />
+      <edge id="286" source="#ISIS" target="#CPAC2015" weight="3225" />
+      <edge id="287" source="#ISIS" target="#UniteBlue" weight="3225" />
+      <edge id="288" source="#ISIS" target="#Ebola" weight="3225" />
+      <edge id="289" source="#ISIS" target="#p2" weight="3225" />
+      <edge id="290" source="#MLKSitInHarlem" target="#JoyAndLove" weight="3225" />
+      <edge id="291" source="#FirstTweet" target="#technology" weight="3225" />
+      <edge id="292" source="#dcsnow" target="#snowmaggedon2016" weight="3225" />
+      <edge id="293" source="#ProSex" target="#7in10forRoe" weight="3225" />
+      <edge id="294" source="#jeb16" target="#Bush" weight="3225" />
+      <edge id="295" source="#VoteDemocrat" target="#VoteBlue" weight="3225" />
+      <edge id="296" source="#VoteDemocrat" target="#GOTV" weight="3225" />
+      <edge id="297" source="#VoteDemocrat" target="#VoteBlue2014" weight="3225" />
+      <edge id="298" source="#DuggarFamilyValues" target="#CancelTheDuggars" weight="3225" />
+      <edge id="299" source="#ccot" target="#Delusion" weight="3225" />
+      <edge id="300" source="#ccot" target="#P2" weight="3225" />
+      <edge id="301" source="#ccot" target="#tgdn" weight="3225" />
+      <edge id="302" source="#SecularSociety" target="#ChristianPrivilege" weight="3225" />
+      <edge id="303" source="#LibCrib" target="#VoteBlue" weight="3225" />
+      <edge id="304" source="#LibCrib" target="#UniteBlue" weight="3225" />
+      <edge id="305" source="#7FavTVShows" target="#GOT" weight="3225" />
+      <edge id="306" source="#adventure" target="#luxurytravel" weight="3225" />
+      <edge id="307" source="#SameLove" target="#MarriageEquality" weight="3225" />
+      <edge id="308" source="#FoxNews" target="#Benghazi" weight="3225" />
+      <edge id="309" source="#LoveWins" target="#MarriageEquality" weight="3225" />
+      <edge id="310" source="#LoveWins" target="#MarriageEquaility" weight="3225" />
+      <edge id="311" source="#LoveWins" target="#sarcasm" weight="3225" />
+      <edge id="312" source="#iGotOneJoke" target="#Emmys" weight="3225" />
+      <edge id="313" source="#AvastMatey" target="#TreasureIsland" weight="3225" />
+      <edge id="314" source="#VoteProChoice" target="#reprorights" weight="3225" />
+      <edge id="315" source="#hometovote" target="#YesToLove" weight="3225" />
+      <edge id="316" source="#Iraq" target="#Army" weight="3225" />
+      <edge id="317" source="#5WordMoneyProblems" target="#p2" weight="3225" />
+      <edge id="318" source="#Abortion" target="#feminism" weight="3225" />
+      <edge id="319" source="#Abortion" target="#ShoutYourAbortion" weight="3225" />
+      <edge id="320" source="#1u" target="#UniteBlue" weight="3225" />
+      <edge id="321" source="#1u" target="#WarOnWomen" weight="3225" />
+      <edge id="322" source="#1u" target="#1uvote" weight="3225" />
+      <edge id="323" source="#1u" target="#TNTweeters" weight="3225" />
+      <edge id="324" source="#1u" target="#climate" weight="3225" />
+      <edge id="325" source="#1u" target="#SaveTheSenate" weight="3225" />
+      <edge id="326" source="#NameObamaISISOperation" target="#OhWaitThatIsBushOperation" weight="3225" />
+      <edge id="327" source="#REMINDER" target="#SaveTheSenate" weight="3225" />
+      <edge id="328" source="#TortureReport" target="#TheHague" weight="3225" />
+      <edge id="329" source="#AuroraBorealis" target="#WatchLake" weight="3225" />
+      <edge id="330" source="#AuroraBorealis" target="#Moon" weight="3225" />
+      <edge id="331" source="#NWHW" target="#CheckupDay" weight="3225" />
+      <edge id="332" source="#RFRA" target="#ThingsJesusNeverSaid" weight="3225" />
+      <edge id="333" source="#RFRA" target="#sarcasm" weight="3225" />
+      <edge id="334" source="#PregnancyDiscriminationAct" target="#pregnantatwork" weight="3225" />
+      <edge id="335" source="#Mets" target="#NY" weight="3225" />
+      <edge id="336" source="#RT" target="#KeystoneXL" weight="3225" />
+      <edge id="337" source="#RT" target="#p2" weight="3225" />
+      <edge id="338" source="#EricGarner" target="#Ferguson" weight="3225" />
+      <edge id="339" source="#EricGarner" target="#NYC" weight="3225" />
+      <edge id="340" source="#Roe4All" target="#RoevWade" weight="3225" />
+      <edge id="341" source="#Roe4All" target="#7in10forRoe" weight="3225" />
+      <edge id="342" source="#ShoutYourAbortion" target="#feminism" weight="3225" />
+      <edge id="343" source="#CNN" target="#gunsense" weight="3225" />
+      <edge id="344" source="#Satire" target="#JustYouWaitTho" weight="3225" />
+      <edge id="345" source="#trump" target="#arizona" weight="3225" />
+      <edge id="346" source="#trump" target="#TrumpInPHX" weight="3225" />
+      <edge id="347" source="#trump" target="#FlintWaterCrisis" weight="3225" />
+      <edge id="348" source="#trump" target="#GOP" weight="3225" />
+      <edge id="349" source="#Confessional" target="#BeforeTwitterI" weight="3225" />
+      <edge id="350" source="#RoevWade" target="#7in10forRoe" weight="6450" />
+      <edge id="351" source="#RoevWade" target="#abortion" weight="3225" />
+      <edge id="352" source="#EverybodyAteChris" target="#TheTalkingDead" weight="3225" />
+      <edge id="353" source="#GOTV" target="#VoteDemocratic" weight="3225" />
+      <edge id="354" source="#GOTV" target="#VoteBlue" weight="6450" />
+      <edge id="355" source="#GOTV" target="#VOTEBLUE" weight="3225" />
+      <edge id="356" source="#GOTV" target="#VoteBlue2014" weight="3225" />
+      <edge id="357" source="#keenepumpkinfest" target="#Ferguson" weight="3225" />
+      <edge id="358" source="#loser" target="#nofriends" weight="3225" />
+      <edge id="359" source="#loser" target="#oldyLocks" weight="3225" />
+      <edge id="360" source="#AskACop" target="#sexwork" weight="3225" />
+      <edge id="361" source="#AskACop" target="#Dec17" weight="3225" />
+      <edge id="362" source="#AskACop" target="#BlueLivesMatter" weight="3225" />
+      <edge id="363" source="#UniteBlue" target="#BlockFoxNews" weight="3225" />
+      <edge id="364" source="#UniteBlue" target="#P2" weight="3225" />
+      <edge id="365" source="#UniteBlue" target="#WarOnWomen" weight="3225" />
+      <edge id="366" source="#UniteBlue" target="#StopTheGOP" weight="3225" />
+      <edge id="367" source="#UniteBlue" target="#Ebola" weight="3225" />
+      <edge id="368" source="#UniteBlue" target="#TNTweeters" weight="3225" />
+      <edge id="369" source="#UniteBlue" target="#climate" weight="3225" />
+      <edge id="370" source="#UniteBlue" target="#SaveTheSenate" weight="3225" />
+      <edge id="371" source="#UniteBlue" target="#VoteBlue" weight="3225" />
+      <edge id="372" source="#UniteBlue" target="#ObamaSpeech" weight="3225" />
+      <edge id="373" source="#rayrice" target="#nfltoday" weight="3225" />
+      <edge id="374" source="#overpolicing" target="#Ferguson" weight="3225" />
+      <edge id="375" source="#ShutItDown" target="#BlackLivesMatter" weight="3225" />
+      <edge id="376" source="#oldyLocks" target="#nofriends" weight="3225" />
+      <edge id="377" source="#JusticeForMikeBrown" target="#Ferguson" weight="3225" />
+      <edge id="378" source="#JusticeForMikeBrown" target="#BlackLivesMatter" weight="3225" />
+      <edge id="379" source="#WalkingDead" target="#Grammys" weight="3225" />
+      <edge id="380" source="#CPAC2015" target="#MTP" weight="3225" />
+      <edge id="381" source="#Oregon" target="#Connecticut" weight="3225" />
+      <edge id="382" source="#Oregon" target="#gunsense" weight="3225" />
+      <edge id="383" source="#Oregon" target="#Washington" weight="3225" />
+      <edge id="384" source="#DitchMitch" target="#Kentucky" weight="3225" />
+      <edge id="385" source="#Ferguson" target="#NYC" weight="3225" />
+      <edge id="386" source="#Ferguson" target="#VMAs" weight="6450" />
+      <edge id="387" source="#Ferguson" target="#STL" weight="3225" />
+      <edge id="388" source="#Ferguson" target="#BlackLivesMatter" weight="6450" />
+      <edge id="389" source="#Ferguson" target="#p2" weight="3225" />
+      <edge id="390" source="#Washington" target="#Connecticut" weight="3225" />
+      <edge id="391" source="#Washington" target="#gunsense" weight="3225" />
+      <edge id="392" source="#substanceuse" target="#RecoveryMonth" weight="3225" />
+      <edge id="393" source="#spellingproblems" target="#p2" weight="3225" />
+      <edge id="394" source="#TalkToUs" target="#FiveWordsToRuinADate" weight="3225" />
+      <edge id="395" source="#KeystoneXL" target="#p2" weight="3225" />
+      <edge id="396" source="#KeystoneXL" target="#WeTried" weight="3225" />
+      <edge id="397" source="#KeystoneXL" target="#NoKXL" weight="6450" />
+      <edge id="398" source="#JesusPickUpLines" target="#p2" weight="3225" />
+      <edge id="399" source="#VoicesOfTheUnheard" target="#RekiaBoyd" weight="3225" />
+      <edge id="400" source="#VoicesOfTheUnheard" target="#BlackLivesMatter" weight="3225" />
+      <edge id="401" source="#selena" target="#tbt" weight="3225" />
+      <edge id="402" source="#FreddieGray" target="#Baltimore" weight="16125" />
+      <edge id="403" source="#FreddieGray" target="#BaltimoreAntiViolenceMovement" weight="6450" />
+      <edge id="404" source="#FreddieGray" target="#Oakland" weight="3225" />
+      <edge id="405" source="#FreddieGray" target="#BaltimoreJailSupport" weight="3225" />
+      <edge id="406" source="#Ebola" target="#kidding" weight="3225" />
+      <edge id="407" source="#racialequality" target="#ericgarner" weight="3225" />
+      <edge id="408" source="#racialequality" target="#mikebrown" weight="3225" />
+      <edge id="409" source="#racialequality" target="#economicjustice" weight="3225" />
+      <edge id="410" source="#VoteDemocratic" target="#VoteBlue" weight="3225" />
+      <edge id="411" source="#PeoplesMonday" target="#GrandCentral" weight="3225" />
+      <edge id="412" source="#PeoplesMonday" target="#NYC" weight="3225" />
+      <edge id="413" source="#PeoplesMonday" target="#RekiaBoyd" weight="3225" />
+      <edge id="414" source="#PeoplesMonday" target="#BlackLivesMatter" weight="3225" />
+      <edge id="415" source="#GOPHatesPoorPeople" target="#GOP" weight="3225" />
+      <edge id="416" source="#GOPHatesPoorPeople" target="#p2" weight="3225" />
+      <edge id="417" source="#BOSnow" target="#blizzardof2015" weight="3225" />
+      <edge id="418" source="#feminism" target="#Oscars" weight="3225" />
+      <edge id="419" source="#feminism" target="#Oscars2015" weight="3225" />
+      <edge id="420" source="#abortion" target="#7in10forRoe" weight="3225" />
+      <edge id="421" source="#Moon" target="#WatchLake" weight="3225" />
+      <edge id="422" source="#GOP" target="#arizona" weight="3225" />
+      <edge id="423" source="#GOP" target="#POTUS" weight="3225" />
+      <edge id="424" source="#GOP" target="#TrumpInPHX" weight="3225" />
+      <edge id="425" source="#GOP" target="#Obamacare" weight="3225" />
+      <edge id="426" source="#GOP" target="#GOP2016" weight="3225" />
+      <edge id="427" source="#GOP" target="#Republican" weight="3225" />
+      <edge id="428" source="#GOP" target="#p2" weight="6450" />
+      <edge id="429" source="#KingvBurwell" target="#ACA" weight="6450" />
+      <edge id="430" source="#GunOwners" target="#NRA" weight="3225" />
+      <edge id="431" source="#ericgarner" target="#mikebrown" weight="3225" />
+      <edge id="432" source="#ericgarner" target="#economicjustice" weight="3225" />
+      <edge id="433" source="#gunsense" target="#NotOneMore" weight="3225" />
+      <edge id="434" source="#gunsense" target="#Connecticut" weight="3225" />
+      <edge id="435" source="#WeTried" target="#NoKXL" weight="3225" />
+      <edge id="436" source="#VoteBlue2014" target="#VoteBlue" weight="3225" />
+      <edge id="437" source="#RogerGoodell" target="#NFL" weight="3225" />
+      <edge id="438" source="#HillaryClinton" target="#DemsInPhilly" weight="6450" />
+      <edge id="439" source="#RekiaBoyd" target="#NYC" weight="3225" />
+      <edge id="440" source="#RekiaBoyd" target="#GrandCentral" weight="3225" />
+      <edge id="441" source="#RekiaBoyd" target="#BlackLivesMatter" weight="6450" />
+      <edge id="442" source="#Republican" target="#POTUS" weight="3225" />
+      <edge id="443" source="#Republican" target="#Obamacare" weight="3225" />
+      <edge id="444" source="#VMAs" target="#Emmys" weight="3225" />
+      <edge id="445" source="#Dec17" target="#sexwork" weight="3225" />
+      <edge id="446" source="#blizzardof2015" target="#Snowmageddon2015" weight="3225" />
+      <edge id="447" source="#Delusion" target="#P2" weight="3225" />
+      <edge id="448" source="#Delusion" target="#tgdn" weight="3225" />
+      <edge id="449" source="#Oscars2015" target="#Oscars" weight="3225" />
+      <edge id="450" source="#POTUS" target="#Obamacare" weight="3225" />
+      <edge id="451" source="#economicjustice" target="#mikebrown" weight="3225" />
+      <edge id="452" source="#1m1w" target="#marriage" weight="3225" />
+      <edge id="453" source="#1m1w" target="#LGBT" weight="3225" />
+      <edge id="454" source="#climate" target="#WarOnWomen" weight="3225" />
+      <edge id="455" source="#climate" target="#TNTweeters" weight="3225" />
+      <edge id="456" source="#climate" target="#SaveTheSenate" weight="3225" />
+      <edge id="457" source="#NYC" target="#GrandCentral" weight="3225" />
+      <edge id="458" source="#NYC" target="#BlackLivesMatter" weight="3225" />
+      <edge id="459" source="#NoMoreGOPWar" target="#p2" weight="3225" />
+      <edge id="460" source="#poolside" target="#summer" weight="3225" />
+      <edge id="461" source="#ProWomen" target="#Procontraception" weight="3225" />
+      <edge id="462" source="#ProWomen" target="#Prochoice" weight="3225" />
+      <edge id="463" source="#LGBTQ" target="#ConversionTherapy" weight="3225" />
+      <edge id="464" source="#BibiSpeech" target="#maddow" weight="3225" />
+      <edge id="465" source="#CelebrateNVRD" target="#AssholeOfTheDay" weight="3225" />
+      <edge id="466" source="#GoT" target="#GameofThronesFinale" weight="3225" />
+      <edge id="467" source="#BaltimoreAntiViolenceMovement" target="#Baltimore" weight="9675" />
+      <edge id="468" source="#BaltimoreAntiViolenceMovement" target="#sarcasm" weight="3225" />
+      <edge id="469" source="#WhyILeft" target="#WhyIStayed" weight="3225" />
+      <edge id="470" source="#GrandCentral" target="#BlackLivesMatter" weight="3225" />
+      <edge id="471" source="#WarOnWomen" target="#TNTweeters" weight="3225" />
+      <edge id="472" source="#WarOnWomen" target="#SaveTheSenate" weight="3225" />
+      <edge id="473" source="#Ultrasound" target="#OpenAccess" weight="3225" />
+      <edge id="474" source="#ObamaSpeech" target="#P2" weight="3225" />
+      <edge id="475" source="#GOP2016" target="#p2" weight="3225" />
+      <edge id="476" source="#Oakland" target="#Baltimore" weight="3225" />
+      <edge id="477" source="#Prochoice" target="#Procontraception" weight="3225" />
+      <edge id="478" source="#marriage" target="#GiveUp" weight="3225" />
+      <edge id="479" source="#marriage" target="#LGBT" weight="6450" />
+      <edge id="480" source="#WTC" target="#groundzero" weight="3225" />
+      <edge id="481" source="#takebackthenightHU" target="#rapedbyMorehouse" weight="3225" />
+      <edge id="482" source="#STL" target="#p2" weight="3225" />
+      <edge id="483" source="#CAR" target="#sexabuse" weight="3225" />
+      <edge id="484" source="#BREAKING" target="#p2" weight="3225" />
+      <edge id="485" source="#twd" target="#thewalkingdead" weight="6450" />
+      <edge id="486" source="#GiveUp" target="#LGBT" weight="3225" />
+      <edge id="487" source="#FairShot" target="#HigherEdNotDebt" weight="3225" />
+      <edge id="488" source="#whyIStayed" target="#whyILeft" weight="3225" />
+      <edge id="489" source="#TNTweeters" target="#SaveTheSenate" weight="3225" />
+      <edge id="490" source="#yeswecode" target="#sxsw" weight="3225" />
+      <edge id="491" source="#Emmys" target="#FredArmisenIsBetter" weight="3225" />
+      <edge id="492" source="#TrumpInPHX" target="#arizona" weight="3225" />
+      <edge id="493" source="#BlackLivesMatter" target="#P2" weight="3225" />
+      <edge id="494" source="#p2" target="#Obamacare" weight="3225" />
+      <edge id="495" source="#p2" target="#LiberalsNextBan" weight="3225" />
+      <edge id="496" source="#Baltimore" target="#sarcasm" weight="3225" />
+      <edge id="497" source="#Baltimore" target="#BaltimoreJailSupport" weight="3225" />
+      <edge id="498" source="#P2" target="#tgdn" weight="3225" />
+      <edge id="499" source="#JohnBoehner" target="#BlueandBlack" weight="3225" />
+      <edge id="500" source="#7in10forRoe" target="#reproductiverights" weight="3225" />
+      <edge id="501" source="#InternationalCatDay" target="#Me" weight="3225" />
+      <edge id="502" source="#ALS" target="#ALSIceBucketChallenge" weight="3225" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#Commitment" label="#Commitment" />
+      <node id="#DedicatedtoService" label="#DedicatedtoService" />
+      <node id="#theDublinDifference" label="#theDublinDifference" />
+      <node id="#eftours2016" label="#eftours2016" />
+      <node id="#ACLU" label="#ACLU" />
+      <node id="#newalbanyOH" label="#newalbanyOH" />
+      <node id="#catlover" label="#catlover" />
+      <node id="#AmnestyInternational" label="#AmnestyInternational" />
+      <node id="#CourageAward" label="#CourageAward" />
+      <node id="#Arnold" label="#Arnold" />
+      <node id="#NewAlbanyOH" label="#NewAlbanyOH" />
+      <node id="#robotics" label="#robotics" />
+      <node id="#CatsOfTwitter" label="#CatsOfTwitter" />
+      <node id="#starwars" label="#starwars" />
+      <node id="#paris" label="#paris" />
+      <node id="#DublinOH" label="#DublinOH" />
+      <node id="#BIGWishGala" label="#BIGWishGala" />
+      <node id="#puppylove" label="#puppylove" />
+      <node id="#catobsessed" label="#catobsessed" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#Commitment" target="#DedicatedtoService" weight="822" />
+      <edge id="1" source="#theDublinDifference" target="#robotics" weight="822" />
+      <edge id="2" source="#eftours2016" target="#paris" weight="822" />
+      <edge id="3" source="#ACLU" target="#AmnestyInternational" weight="822" />
+      <edge id="4" source="#newalbanyOH" target="#puppylove" weight="822" />
+      <edge id="5" source="#catlover" target="#catobsessed" weight="822" />
+      <edge id="6" source="#CourageAward" target="#BIGWishGala" weight="822" />
+      <edge id="7" source="#Arnold" target="#Arnold" weight="1644" />
+      <edge id="8" source="#NewAlbanyOH" target="#DublinOH" weight="822" />
+      <edge id="9" source="#CatsOfTwitter" target="#starwars" weight="822" />
+    </edges>
+  </graph>
+</gexf>

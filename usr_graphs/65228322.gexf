@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#branding" label="#branding" />
+      <node id="#CharterSchools" label="#CharterSchools" />
+      <node id="#NeverGonnaGiveYouUp" label="#NeverGonnaGiveYouUp" />
+      <node id="#NeverGonnaRunAroundAndDesertYou" label="#NeverGonnaRunAroundAndDesertYou" />
+      <node id="#brand" label="#brand" />
+      <node id="#NeverTrump" label="#NeverTrump" />
+      <node id="#2016BrightSpots" label="#2016BrightSpots" />
+      <node id="#TheAmericans" label="#TheAmericans" />
+      <node id="#SchoolChoice" label="#SchoolChoice" />
+      <node id="#Billions" label="#Billions" />
+      <node id="#NeverHillary" label="#NeverHillary" />
+      <node id="#NeverGonnaLetYouDown" label="#NeverGonnaLetYouDown" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#branding" target="#brand" weight="279" />
+      <edge id="1" source="#CharterSchools" target="#SchoolChoice" weight="279" />
+      <edge id="2" source="#CharterSchools" target="#2016BrightSpots" weight="279" />
+      <edge id="3" source="#NeverGonnaGiveYouUp" target="#brand" weight="279" />
+      <edge id="4" source="#NeverGonnaGiveYouUp" target="#NeverGonnaLetYouDown" weight="279" />
+      <edge id="5" source="#NeverGonnaGiveYouUp" target="#NeverHillary" weight="279" />
+      <edge id="6" source="#NeverGonnaGiveYouUp" target="#NeverTrump" weight="279" />
+      <edge id="7" source="#NeverGonnaGiveYouUp" target="#NeverGonnaRunAroundAndDesertYou" weight="279" />
+      <edge id="8" source="#NeverGonnaRunAroundAndDesertYou" target="#brand" weight="279" />
+      <edge id="9" source="#NeverGonnaRunAroundAndDesertYou" target="#NeverHillary" weight="279" />
+      <edge id="10" source="#NeverGonnaRunAroundAndDesertYou" target="#NeverTrump" weight="279" />
+      <edge id="11" source="#NeverGonnaRunAroundAndDesertYou" target="#NeverGonnaLetYouDown" weight="279" />
+      <edge id="12" source="#brand" target="#NeverTrump" weight="279" />
+      <edge id="13" source="#brand" target="#NeverHillary" weight="279" />
+      <edge id="14" source="#brand" target="#NeverGonnaLetYouDown" weight="279" />
+      <edge id="15" source="#NeverTrump" target="#NeverHillary" weight="279" />
+      <edge id="16" source="#NeverTrump" target="#NeverGonnaLetYouDown" weight="279" />
+      <edge id="17" source="#2016BrightSpots" target="#SchoolChoice" weight="279" />
+      <edge id="18" source="#TheAmericans" target="#Billions" weight="279" />
+      <edge id="19" source="#NeverHillary" target="#NeverGonnaLetYouDown" weight="279" />
+    </edges>
+  </graph>
+</gexf>

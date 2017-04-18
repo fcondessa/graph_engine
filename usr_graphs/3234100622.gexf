@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#brewpup" label="#brewpup" />
+      <node id="#brewdogusa" label="#brewdogusa" />
+      <node id="#theendofhistory" label="#theendofhistory" />
+      <node id="#BrewDogusa" label="#BrewDogusa" />
+      <node id="#craftbreweries" label="#craftbreweries" />
+      <node id="#deadponyclub" label="#deadponyclub" />
+      <node id="#cantwaituntilPunkislocal" label="#cantwaituntilPunkislocal" />
+      <node id="#equityforpunksusa" label="#equityforpunksusa" />
+      <node id="#brewdogUSA" label="#brewdogUSA" />
+      <node id="#homebrewing" label="#homebrewing" />
+      <node id="#BrewDogUSA" label="#BrewDogUSA" />
+      <node id="#IPAday" label="#IPAday" />
+      <node id="#BrewdogUSA" label="#BrewdogUSA" />
+      <node id="#brewpix" label="#brewpix" />
+      <node id="#equityforpunksUSA" label="#equityforpunksUSA" />
+      <node id="#snapchat" label="#snapchat" />
+      <node id="#BrewDog" label="#BrewDog" />
+      <node id="#breweryupdates" label="#breweryupdates" />
+      <node id="#nightREcap" label="#nightREcap" />
+      <node id="#punkipa" label="#punkipa" />
+      <node id="#brewdog" label="#brewdog" />
+      <node id="#drinklocal" label="#drinklocal" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#brewpup" target="#BrewDogusa" weight="437" />
+      <edge id="1" source="#brewpup" target="#brewpix" weight="437" />
+      <edge id="2" source="#brewdogusa" target="#homebrewing" weight="437" />
+      <edge id="3" source="#brewdogusa" target="#craftbreweries" weight="437" />
+      <edge id="4" source="#brewdogusa" target="#equityforpunksUSA" weight="437" />
+      <edge id="5" source="#brewdogusa" target="#deadponyclub" weight="437" />
+      <edge id="6" source="#brewdogusa" target="#nightREcap" weight="437" />
+      <edge id="7" source="#brewdogusa" target="#punkipa" weight="437" />
+      <edge id="8" source="#brewdogusa" target="#brewdog" weight="1748" />
+      <edge id="9" source="#brewdogusa" target="#equityforpunksusa" weight="437" />
+      <edge id="10" source="#theendofhistory" target="#equityforpunksusa" weight="437" />
+      <edge id="11" source="#theendofhistory" target="#brewdog" weight="437" />
+      <edge id="12" source="#BrewDogusa" target="#brewpix" weight="437" />
+      <edge id="13" source="#craftbreweries" target="#brewdog" weight="437" />
+      <edge id="14" source="#deadponyclub" target="#equityforpunksusa" weight="437" />
+      <edge id="15" source="#deadponyclub" target="#brewdog" weight="437" />
+      <edge id="16" source="#cantwaituntilPunkislocal" target="#drinklocal" weight="437" />
+      <edge id="17" source="#equityforpunksusa" target="#brewdog" weight="874" />
+      <edge id="18" source="#brewdogUSA" target="#equityforpunksUSA" weight="437" />
+      <edge id="19" source="#homebrewing" target="#nightREcap" weight="437" />
+      <edge id="20" source="#BrewDogUSA" target="#IPAday" weight="437" />
+      <edge id="21" source="#BrewdogUSA" target="#snapchat" weight="437" />
+      <edge id="22" source="#BrewdogUSA" target="#breweryupdates" weight="437" />
+      <edge id="23" source="#equityforpunksUSA" target="#brewdog" weight="437" />
+      <edge id="24" source="#equityforpunksUSA" target="#BrewDog" weight="437" />
+      <edge id="25" source="#snapchat" target="#breweryupdates" weight="437" />
+      <edge id="26" source="#punkipa" target="#brewdog" weight="437" />
+    </edges>
+  </graph>
+</gexf>

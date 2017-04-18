@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#lipbalm" label="#lipbalm" />
+      <node id="#naturalhealth" label="#naturalhealth" />
+      <node id="#ecofriendly" label="#ecofriendly" />
+      <node id="#columbus_oh" label="#columbus_oh" />
+      <node id="#bodycare" label="#bodycare" />
+      <node id="#organic" label="#organic" />
+      <node id="#thebestlipbalm" label="#thebestlipbalm" />
+      <node id="#lotion" label="#lotion" />
+      <node id="#awesomeproduct" label="#awesomeproduct" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#lipbalm" target="#naturalhealth" weight="126" />
+      <edge id="1" source="#lipbalm" target="#ecofriendly" weight="126" />
+      <edge id="2" source="#lipbalm" target="#columbus_oh" weight="126" />
+      <edge id="3" source="#lipbalm" target="#bodycare" weight="126" />
+      <edge id="4" source="#lipbalm" target="#organic" weight="126" />
+      <edge id="5" source="#lipbalm" target="#thebestlipbalm" weight="126" />
+      <edge id="6" source="#lipbalm" target="#lotion" weight="126" />
+      <edge id="7" source="#lipbalm" target="#awesomeproduct" weight="126" />
+      <edge id="8" source="#naturalhealth" target="#bodycare" weight="126" />
+      <edge id="9" source="#naturalhealth" target="#columbus_oh" weight="126" />
+      <edge id="10" source="#naturalhealth" target="#organic" weight="126" />
+      <edge id="11" source="#naturalhealth" target="#lotion" weight="126" />
+      <edge id="12" source="#ecofriendly" target="#thebestlipbalm" weight="126" />
+      <edge id="13" source="#ecofriendly" target="#awesomeproduct" weight="126" />
+      <edge id="14" source="#columbus_oh" target="#lotion" weight="126" />
+      <edge id="15" source="#columbus_oh" target="#organic" weight="126" />
+      <edge id="16" source="#columbus_oh" target="#bodycare" weight="126" />
+      <edge id="17" source="#bodycare" target="#organic" weight="126" />
+      <edge id="18" source="#bodycare" target="#lotion" weight="126" />
+      <edge id="19" source="#organic" target="#lotion" weight="126" />
+      <edge id="20" source="#thebestlipbalm" target="#awesomeproduct" weight="126" />
+    </edges>
+  </graph>
+</gexf>

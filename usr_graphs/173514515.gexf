@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#missionfire" label="#missionfire" />
+      <node id="#neverforget" label="#neverforget" />
+      <node id="#WillieMac" label="#WillieMac" />
+      <node id="#Cyclone" label="#Cyclone" />
+      <node id="#ChrisHeston" label="#ChrisHeston" />
+      <node id="#GameofThrones" label="#GameofThrones" />
+      <node id="#Crawnik" label="#Crawnik" />
+      <node id="#Farewales" label="#Farewales" />
+      <node id="#Sffd" label="#Sffd" />
+      <node id="#NBAFinals" label="#NBAFinals" />
+      <node id="#TakeMyMoneyPlease" label="#TakeMyMoneyPlease" />
+      <node id="#NoHitter" label="#NoHitter" />
+      <node id="#FaceofMLB" label="#FaceofMLB" />
+      <node id="#FinalVote" label="#FinalVote" />
+      <node id="#votebelt" label="#votebelt" />
+      <node id="#FaceOfMLB" label="#FaceOfMLB" />
+      <node id="#CycloneMarcia" label="#CycloneMarcia" />
+      <node id="#AllStars" label="#AllStars" />
+      <node id="#QualityOfLife" label="#QualityOfLife" />
+      <node id="#BusterPosey" label="#BusterPosey" />
+      <node id="#7Billion" label="#7Billion" />
+      <node id="#CycloneLam" label="#CycloneLam" />
+      <node id="#BeatLA" label="#BeatLA" />
+      <node id="#faceofmlb" label="#faceofmlb" />
+      <node id="#DDoS" label="#DDoS" />
+      <node id="#MLB" label="#MLB" />
+      <node id="#SFGiants" label="#SFGiants" />
+      <node id="#Dodgers" label="#Dodgers" />
+      <node id="#Mirai" label="#Mirai" />
+      <node id="#Brexit" label="#Brexit" />
+      <node id="#VoteBelt" label="#VoteBelt" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#missionfire" target="#Sffd" weight="3219" />
+      <edge id="1" source="#neverforget" target="#votebelt" weight="3219" />
+      <edge id="2" source="#WillieMac" target="#SFGiants" weight="3219" />
+      <edge id="3" source="#Cyclone" target="#CycloneMarcia" weight="3219" />
+      <edge id="4" source="#Cyclone" target="#CycloneLam" weight="3219" />
+      <edge id="5" source="#ChrisHeston" target="#NoHitter" weight="3219" />
+      <edge id="6" source="#ChrisHeston" target="#SFGiants" weight="3219" />
+      <edge id="7" source="#GameofThrones" target="#NBAFinals" weight="3219" />
+      <edge id="8" source="#Crawnik" target="#AllStars" weight="3219" />
+      <edge id="9" source="#Farewales" target="#Brexit" weight="3219" />
+      <edge id="10" source="#TakeMyMoneyPlease" target="#BeatLA" weight="3219" />
+      <edge id="11" source="#NoHitter" target="#SFGiants" weight="3219" />
+      <edge id="12" source="#FaceofMLB" target="#BusterPosey" weight="6438" />
+      <edge id="13" source="#FinalVote" target="#VoteBelt" weight="3219" />
+      <edge id="14" source="#FinalVote" target="#SFGiants" weight="3219" />
+      <edge id="15" source="#FaceOfMLB" target="#BusterPosey" weight="28971" />
+      <edge id="16" source="#FaceOfMLB" target="#SFGiants" weight="6438" />
+      <edge id="17" source="#CycloneMarcia" target="#CycloneLam" weight="3219" />
+      <edge id="18" source="#QualityOfLife" target="#7Billion" weight="3219" />
+      <edge id="19" source="#BusterPosey" target="#faceofmlb" weight="12876" />
+      <edge id="20" source="#BusterPosey" target="#SFGiants" weight="6438" />
+      <edge id="21" source="#BeatLA" target="#SFGiants" weight="3219" />
+      <edge id="22" source="#DDoS" target="#Mirai" weight="3219" />
+      <edge id="23" source="#MLB" target="#Dodgers" weight="3219" />
+      <edge id="24" source="#SFGiants" target="#VoteBelt" weight="3219" />
+    </edges>
+  </graph>
+</gexf>

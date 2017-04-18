@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#SuperPong2015" label="#SuperPong2015" />
+      <node id="#stayhot" label="#stayhot" />
+      <node id="#FreshFriday" label="#FreshFriday" />
+      <node id="#GameDay" label="#GameDay" />
+      <node id="#TheFreshLife" label="#TheFreshLife" />
+      <node id="#yard" label="#yard" />
+      <node id="#popchains" label="#popchains" />
+      <node id="#askmom" label="#askmom" />
+      <node id="#baseball" label="#baseball" />
+      <node id="#22fresh" label="#22fresh" />
+      <node id="#Lomoing" label="#Lomoing" />
+      <node id="#beauties" label="#beauties" />
+      <node id="#Beauties" label="#Beauties" />
+      <node id="#hockey" label="#hockey" />
+      <node id="#extension" label="#extension" />
+      <node id="#OpeningNight" label="#OpeningNight" />
+      <node id="#shutdownDman" label="#shutdownDman" />
+      <node id="#HRDerby" label="#HRDerby" />
+      <node id="#gameday" label="#gameday" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#TheSNHL" label="#TheSNHL" />
+      <node id="#StatRat" label="#StatRat" />
+      <node id="#grammy" label="#grammy" />
+      <node id="#Beauty" label="#Beauty" />
+      <node id="#followup" label="#followup" />
+      <node id="#statrat" label="#statrat" />
+      <node id="#unreal" label="#unreal" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#SuperPong2015" target="#SuperPong2015" weight="25776" />
+      <edge id="1" source="#stayhot" target="#StatRat" weight="358" />
+      <edge id="2" source="#stayhot" target="#unreal" weight="358" />
+      <edge id="3" source="#FreshFriday" target="#22fresh" weight="358" />
+      <edge id="4" source="#FreshFriday" target="#gameday" weight="358" />
+      <edge id="5" source="#GameDay" target="#OpeningNight" weight="1074" />
+      <edge id="6" source="#TheFreshLife" target="#Lomoing" weight="358" />
+      <edge id="7" source="#yard" target="#extension" weight="358" />
+      <edge id="8" source="#yard" target="#baseball" weight="358" />
+      <edge id="9" source="#popchains" target="#askmom" weight="358" />
+      <edge id="10" source="#baseball" target="#extension" weight="358" />
+      <edge id="11" source="#baseball" target="#hockey" weight="716" />
+      <edge id="12" source="#beauties" target="#StatRat" weight="358" />
+      <edge id="13" source="#Beauties" target="#hockey" weight="358" />
+      <edge id="14" source="#Beauties" target="#TheSNHL" weight="358" />
+      <edge id="15" source="#Beauties" target="#shutdownDman" weight="358" />
+      <edge id="16" source="#hockey" target="#TheSNHL" weight="358" />
+      <edge id="17" source="#hockey" target="#shutdownDman" weight="358" />
+      <edge id="18" source="#shutdownDman" target="#TheSNHL" weight="358" />
+      <edge id="19" source="#HRDerby" target="#StatRat" weight="358" />
+      <edge id="20" source="#twitter" target="#grammy" weight="358" />
+      <edge id="21" source="#StatRat" target="#followup" weight="358" />
+      <edge id="22" source="#Beauty" target="#statrat" weight="358" />
+    </edges>
+  </graph>
+</gexf>

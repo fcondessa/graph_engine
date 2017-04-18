@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#good" label="#good" />
+      <node id="#content" label="#content" />
+      <node id="#platform" label="#platform" />
+      <node id="#creation" label="#creation" />
+      <node id="#Gitmo" label="#Gitmo" />
+      <node id="#paradigms" label="#paradigms" />
+      <node id="#TheConfession" label="#TheConfession" />
+      <node id="#Vegas" label="#Vegas" />
+      <node id="#MobMuseum" label="#MobMuseum" />
+      <node id="#drives" label="#drives" />
+      <node id="#21stcentury" label="#21stcentury" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#good" target="#content" weight="3202" />
+      <edge id="1" source="#content" target="#platform" weight="3202" />
+      <edge id="2" source="#content" target="#paradigms" weight="3202" />
+      <edge id="3" source="#content" target="#creation" weight="3202" />
+      <edge id="4" source="#content" target="#21stcentury" weight="3202" />
+      <edge id="5" source="#content" target="#drives" weight="3202" />
+      <edge id="6" source="#platform" target="#paradigms" weight="3202" />
+      <edge id="7" source="#platform" target="#creation" weight="3202" />
+      <edge id="8" source="#platform" target="#drives" weight="3202" />
+      <edge id="9" source="#platform" target="#21stcentury" weight="3202" />
+      <edge id="10" source="#creation" target="#paradigms" weight="3202" />
+      <edge id="11" source="#creation" target="#21stcentury" weight="3202" />
+      <edge id="12" source="#creation" target="#drives" weight="3202" />
+      <edge id="13" source="#Gitmo" target="#TheConfession" weight="3202" />
+      <edge id="14" source="#paradigms" target="#drives" weight="3202" />
+      <edge id="15" source="#paradigms" target="#21stcentury" weight="3202" />
+      <edge id="16" source="#Vegas" target="#MobMuseum" weight="3202" />
+      <edge id="17" source="#drives" target="#21stcentury" weight="3202" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#37RYP" label="#37RYP" />
+      <node id="#Android" label="#Android" />
+      <node id="#NepalEarthquake" label="#NepalEarthquake" />
+      <node id="#happythanksgiving" label="#happythanksgiving" />
+      <node id="#turkey" label="#turkey" />
+      <node id="#LetsGoRiders" label="#LetsGoRiders" />
+      <node id="#BellLetsTalk" label="#BellLetsTalk" />
+      <node id="#Ridernation" label="#Ridernation" />
+      <node id="#GalaofHope" label="#GalaofHope" />
+      <node id="#SunLifeKickDiabetes" label="#SunLifeKickDiabetes" />
+      <node id="#blackberrymessage" label="#blackberrymessage" />
+      <node id="#CHFSRadiothon" label="#CHFSRadiothon" />
+      <node id="#giveaway" label="#giveaway" />
+      <node id="#gobblegobble" label="#gobblegobble" />
+      <node id="#RiderNation" label="#RiderNation" />
+      <node id="#Nepal" label="#Nepal" />
+      <node id="#KISS" label="#KISS" />
+      <node id="#SophiesPlace" label="#SophiesPlace" />
+      <node id="#canada" label="#canada" />
+      <node id="#GreenNoise" label="#GreenNoise" />
+      <node id="#KISSMYGUITAR" label="#KISSMYGUITAR" />
+      <node id="#KPlusS4Kids" label="#KPlusS4Kids" />
+      <node id="#win" label="#win" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#37RYP" target="#BellLetsTalk" weight="83" />
+      <edge id="1" source="#Android" target="#blackberrymessage" weight="83" />
+      <edge id="2" source="#NepalEarthquake" target="#Nepal" weight="83" />
+      <edge id="3" source="#happythanksgiving" target="#canada" weight="83" />
+      <edge id="4" source="#turkey" target="#gobblegobble" weight="83" />
+      <edge id="5" source="#LetsGoRiders" target="#RiderNation" weight="83" />
+      <edge id="6" source="#LetsGoRiders" target="#GreenNoise" weight="83" />
+      <edge id="7" source="#BellLetsTalk" target="#BellLetsTalk" weight="166" />
+      <edge id="8" source="#Ridernation" target="#SunLifeKickDiabetes" weight="83" />
+      <edge id="9" source="#GalaofHope" target="#SophiesPlace" weight="83" />
+      <edge id="10" source="#CHFSRadiothon" target="#KPlusS4Kids" weight="83" />
+      <edge id="11" source="#giveaway" target="#KISSMYGUITAR" weight="83" />
+      <edge id="12" source="#giveaway" target="#win" weight="83" />
+      <edge id="13" source="#giveaway" target="#KISS" weight="83" />
+      <edge id="14" source="#RiderNation" target="#GreenNoise" weight="83" />
+      <edge id="15" source="#KISS" target="#win" weight="83" />
+      <edge id="16" source="#KISS" target="#KISSMYGUITAR" weight="83" />
+      <edge id="17" source="#KISSMYGUITAR" target="#win" weight="83" />
+    </edges>
+  </graph>
+</gexf>

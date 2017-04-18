@@ -1,0 +1,2002 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#dentist" label="#dentist" />
+      <node id="#healthylungs" label="#healthylungs" />
+      <node id="#famous" label="#famous" />
+      <node id="#fqhc" label="#fqhc" />
+      <node id="#practicemanagement" label="#practicemanagement" />
+      <node id="#LCAM15" label="#LCAM15" />
+      <node id="#Month4Smiles" label="#Month4Smiles" />
+      <node id="#Breastfeeding" label="#Breastfeeding" />
+      <node id="#earth" label="#earth" />
+      <node id="#screeningsaves" label="#screeningsaves" />
+      <node id="#leprosy" label="#leprosy" />
+      <node id="#womenshealth" label="#womenshealth" />
+      <node id="#stroke" label="#stroke" />
+      <node id="#HeartHealth" label="#HeartHealth" />
+      <node id="#celebrate" label="#celebrate" />
+      <node id="#healthliving" label="#healthliving" />
+      <node id="#DocFix" label="#DocFix" />
+      <node id="#Turkey" label="#Turkey" />
+      <node id="#HIE" label="#HIE" />
+      <node id="#HPWO" label="#HPWO" />
+      <node id="#handwashing" label="#handwashing" />
+      <node id="#HRSA" label="#HRSA" />
+      <node id="#PHnerd" label="#PHnerd" />
+      <node id="#crcscreening" label="#crcscreening" />
+      <node id="#NatlPrep" label="#NatlPrep" />
+      <node id="#grant" label="#grant" />
+      <node id="#NHCW" label="#NHCW" />
+      <node id="#awareness" label="#awareness" />
+      <node id="#visualhealth" label="#visualhealth" />
+      <node id="#sexual" label="#sexual" />
+      <node id="#Immunization" label="#Immunization" />
+      <node id="#NCQA" label="#NCQA" />
+      <node id="#Conference" label="#Conference" />
+      <node id="#oralhealthequity" label="#oralhealthequity" />
+      <node id="#ChildHealthDay" label="#ChildHealthDay" />
+      <node id="#AutismAwareness" label="#AutismAwareness" />
+      <node id="#National" label="#National" />
+      <node id="#AccessIsTheAnswer" label="#AccessIsTheAnswer" />
+      <node id="#HeartMonth" label="#HeartMonth" />
+      <node id="#poisonprevention" label="#poisonprevention" />
+      <node id="#CHCchat" label="#CHCchat" />
+      <node id="#OHcan" label="#OHcan" />
+      <node id="#expectoralhealth" label="#expectoralhealth" />
+      <node id="#PCA" label="#PCA" />
+      <node id="#lungs" label="#lungs" />
+      <node id="#NHCW16" label="#NHCW16" />
+      <node id="#NHCW15" label="#NHCW15" />
+      <node id="#NHCW14" label="#NHCW14" />
+      <node id="#NHCW13" label="#NHCW13" />
+      <node id="#NHCW12" label="#NHCW12" />
+      <node id="#NHCW11" label="#NHCW11" />
+      <node id="#ovariancancer" label="#ovariancancer" />
+      <node id="#InfantMortality" label="#InfantMortality" />
+      <node id="#Thanksgiving" label="#Thanksgiving" />
+      <node id="#HITsm" label="#HITsm" />
+      <node id="#EMR" label="#EMR" />
+      <node id="#showusyourblue" label="#showusyourblue" />
+      <node id="#OhioFQHCs" label="#OhioFQHCs" />
+      <node id="#Scleroderma" label="#Scleroderma" />
+      <node id="#Nutrition" label="#Nutrition" />
+      <node id="#nationaldentalhygienemonth" label="#nationaldentalhygienemonth" />
+      <node id="#drugfree" label="#drugfree" />
+      <node id="#minorityhealthmonth" label="#minorityhealthmonth" />
+      <node id="#NIAM15" label="#NIAM15" />
+      <node id="#hero" label="#hero" />
+      <node id="#breastcancer" label="#breastcancer" />
+      <node id="#GreatAmericanSmokeout" label="#GreatAmericanSmokeout" />
+      <node id="#oachc" label="#oachc" />
+      <node id="#2min2x" label="#2min2x" />
+      <node id="#drugfacts2011" label="#drugfacts2011" />
+      <node id="#Chiropractic" label="#Chiropractic" />
+      <node id="#Billing" label="#Billing" />
+      <node id="#SIDS" label="#SIDS" />
+      <node id="#FF" label="#FF" />
+      <node id="#HealthIT" label="#HealthIT" />
+      <node id="#fiscalcliff" label="#fiscalcliff" />
+      <node id="#ohiochcs" label="#ohiochcs" />
+      <node id="#PCMH" label="#PCMH" />
+      <node id="#flood" label="#flood" />
+      <node id="#275kohioans" label="#275kohioans" />
+      <node id="#UnityDay2016" label="#UnityDay2016" />
+      <node id="#Andriukaitis" label="#Andriukaitis" />
+      <node id="#wearblue" label="#wearblue" />
+      <node id="#MensHealthWeek" label="#MensHealthWeek" />
+      <node id="#vaccinated" label="#vaccinated" />
+      <node id="#hc" label="#hc" />
+      <node id="#vaccinations" label="#vaccinations" />
+      <node id="#AR" label="#AR" />
+      <node id="#Minority" label="#Minority" />
+      <node id="#obesity" label="#obesity" />
+      <node id="#FourthofJuly" label="#FourthofJuly" />
+      <node id="#saveourchcs" label="#saveourchcs" />
+      <node id="#firstbirthday" label="#firstbirthday" />
+      <node id="#fireworks" label="#fireworks" />
+      <node id="#HIV" label="#HIV" />
+      <node id="#FiscalCliff" label="#FiscalCliff" />
+      <node id="#hearthealth" label="#hearthealth" />
+      <node id="#changeyourclocks" label="#changeyourclocks" />
+      <node id="#safegifts" label="#safegifts" />
+      <node id="#EHRs" label="#EHRs" />
+      <node id="#eyehealth" label="#eyehealth" />
+      <node id="#nachc" label="#nachc" />
+      <node id="#Source" label="#Source" />
+      <node id="#heatsafety" label="#heatsafety" />
+      <node id="#Alcohol" label="#Alcohol" />
+      <node id="#NPHW" label="#NPHW" />
+      <node id="#childabuse" label="#childabuse" />
+      <node id="#healthIT" label="#healthIT" />
+      <node id="#february" label="#february" />
+      <node id="#celiacdisease" label="#celiacdisease" />
+      <node id="#windowfalls" label="#windowfalls" />
+      <node id="#areyoucoveredoh" label="#areyoucoveredoh" />
+      <node id="#advocacy" label="#advocacy" />
+      <node id="#columbus" label="#columbus" />
+      <node id="#education" label="#education" />
+      <node id="#nhcw11" label="#nhcw11" />
+      <node id="#ice" label="#ice" />
+      <node id="#health" label="#health" />
+      <node id="#hygiene" label="#hygiene" />
+      <node id="#centeringpregnancy" label="#centeringpregnancy" />
+      <node id="#SuicidePrevention" label="#SuicidePrevention" />
+      <node id="#CHCs" label="#CHCs" />
+      <node id="#medicaid" label="#medicaid" />
+      <node id="#independenceday" label="#independenceday" />
+      <node id="#vision" label="#vision" />
+      <node id="#Veterans" label="#Veterans" />
+      <node id="#crc" label="#crc" />
+      <node id="#AHACs" label="#AHACs" />
+      <node id="#Caregiver" label="#Caregiver" />
+      <node id="#areyoucoveredohio" label="#areyoucoveredohio" />
+      <node id="#NursesWeek" label="#NursesWeek" />
+      <node id="#NutritionMonth" label="#NutritionMonth" />
+      <node id="#safety" label="#safety" />
+      <node id="#suicide" label="#suicide" />
+      <node id="#FoodSafety" label="#FoodSafety" />
+      <node id="#ohio" label="#ohio" />
+      <node id="#OACHC2013" label="#OACHC2013" />
+      <node id="#downsyndrome" label="#downsyndrome" />
+      <node id="#IndependanceDay" label="#IndependanceDay" />
+      <node id="#colorectalcancer" label="#colorectalcancer" />
+      <node id="#craniofacial" label="#craniofacial" />
+      <node id="#hospitals" label="#hospitals" />
+      <node id="#chcchat" label="#chcchat" />
+      <node id="#prostatecancer" label="#prostatecancer" />
+      <node id="#OHCan" label="#OHCan" />
+      <node id="#safesleep" label="#safesleep" />
+      <node id="#bettercare" label="#bettercare" />
+      <node id="#laugh" label="#laugh" />
+      <node id="#Oct1" label="#Oct1" />
+      <node id="#CHC" label="#CHC" />
+      <node id="#Month" label="#Month" />
+      <node id="#GREATSHAKEOUT" label="#GREATSHAKEOUT" />
+      <node id="#Election2015" label="#Election2015" />
+      <node id="#ADA" label="#ADA" />
+      <node id="#gynecologiccancer" label="#gynecologiccancer" />
+      <node id="#ebola" label="#ebola" />
+      <node id="#WPIW" label="#WPIW" />
+      <node id="#bike" label="#bike" />
+      <node id="#meaningful" label="#meaningful" />
+      <node id="#ADM" label="#ADM" />
+      <node id="#WAD2014" label="#WAD2014" />
+      <node id="#WAD2015" label="#WAD2015" />
+      <node id="#Access" label="#Access" />
+      <node id="#Clinicians" label="#Clinicians" />
+      <node id="#men" label="#men" />
+      <node id="#eatingright" label="#eatingright" />
+      <node id="#vaccinate" label="#vaccinate" />
+      <node id="#himss12" label="#himss12" />
+      <node id="#dental" label="#dental" />
+      <node id="#Arthritis" label="#Arthritis" />
+      <node id="#Version4010" label="#Version4010" />
+      <node id="#wearteal" label="#wearteal" />
+      <node id="#sohio" label="#sohio" />
+      <node id="#chcs" label="#chcs" />
+      <node id="#areyoucoveredOH" label="#areyoucoveredOH" />
+      <node id="#congrats" label="#congrats" />
+      <node id="#centering" label="#centering" />
+      <node id="#OHIO" label="#OHIO" />
+      <node id="#HTNControlChallenge" label="#HTNControlChallenge" />
+      <node id="#Medicare" label="#Medicare" />
+      <node id="#fixthecliff" label="#fixthecliff" />
+      <node id="#healthcenter" label="#healthcenter" />
+      <node id="#vaccines" label="#vaccines" />
+      <node id="#influenza" label="#influenza" />
+      <node id="#GoRed" label="#GoRed" />
+      <node id="#Media" label="#Media" />
+      <node id="#cold" label="#cold" />
+      <node id="#Blizzard" label="#Blizzard" />
+      <node id="#HealthCenters" label="#HealthCenters" />
+      <node id="#heartdisease" label="#heartdisease" />
+      <node id="#healthliteracy" label="#healthliteracy" />
+      <node id="#earlydetection" label="#earlydetection" />
+      <node id="#FQHCs" label="#FQHCs" />
+      <node id="#women" label="#women" />
+      <node id="#SPSM" label="#SPSM" />
+      <node id="#Craniofacial" label="#Craniofacial" />
+      <node id="#MVP" label="#MVP" />
+      <node id="#Obamacare" label="#Obamacare" />
+      <node id="#donateblood" label="#donateblood" />
+      <node id="#BrainInjury" label="#BrainInjury" />
+      <node id="#nursesday" label="#nursesday" />
+      <node id="#cervicalcancer" label="#cervicalcancer" />
+      <node id="#Mental" label="#Mental" />
+      <node id="#recognition" label="#recognition" />
+      <node id="#Women" label="#Women" />
+      <node id="#instalum" label="#instalum" />
+      <node id="#Cancer" label="#Cancer" />
+      <node id="#hcworks" label="#hcworks" />
+      <node id="#NNW2016" label="#NNW2016" />
+      <node id="#AMD" label="#AMD" />
+      <node id="#Rural" label="#Rural" />
+      <node id="#Child" label="#Child" />
+      <node id="#KidsGetArthritis" label="#KidsGetArthritis" />
+      <node id="#work" label="#work" />
+      <node id="#pain" label="#pain" />
+      <node id="#safetyfirst" label="#safetyfirst" />
+      <node id="#Smokeout" label="#Smokeout" />
+      <node id="#spreadtheword" label="#spreadtheword" />
+      <node id="#oachcnews" label="#oachcnews" />
+      <node id="#nutrition" label="#nutrition" />
+      <node id="#healthy" label="#healthy" />
+      <node id="#ClinicalQuality" label="#ClinicalQuality" />
+      <node id="#Residency" label="#Residency" />
+      <node id="#health4oh" label="#health4oh" />
+      <node id="#GetOutTheVote" label="#GetOutTheVote" />
+      <node id="#MCH" label="#MCH" />
+      <node id="#getcovered" label="#getcovered" />
+      <node id="#ACWeek" label="#ACWeek" />
+      <node id="#SaveCHCs" label="#SaveCHCs" />
+      <node id="#endviolence" label="#endviolence" />
+      <node id="#speaker" label="#speaker" />
+      <node id="#ChoosePrimaryCare" label="#ChoosePrimaryCare" />
+      <node id="#HHS" label="#HHS" />
+      <node id="#OhioJobs" label="#OhioJobs" />
+      <node id="#drshortage" label="#drshortage" />
+      <node id="#smile" label="#smile" />
+      <node id="#voter" label="#voter" />
+      <node id="#money" label="#money" />
+      <node id="#smokers" label="#smokers" />
+      <node id="#fallback" label="#fallback" />
+      <node id="#nursingassistants" label="#nursingassistants" />
+      <node id="#vaccination" label="#vaccination" />
+      <node id="#physicians" label="#physicians" />
+      <node id="#health4OH" label="#health4OH" />
+      <node id="#chcnews" label="#chcnews" />
+      <node id="#april" label="#april" />
+      <node id="#hcr" label="#hcr" />
+      <node id="#OH" label="#OH" />
+      <node id="#enrollamerica" label="#enrollamerica" />
+      <node id="#navigators" label="#navigators" />
+      <node id="#NCDHM" label="#NCDHM" />
+      <node id="#skincancer" label="#skincancer" />
+      <node id="#HealthyMoms2Be" label="#HealthyMoms2Be" />
+      <node id="#sandyhook" label="#sandyhook" />
+      <node id="#winter" label="#winter" />
+      <node id="#skin" label="#skin" />
+      <node id="#loanrepayment" label="#loanrepayment" />
+      <node id="#mentalhealth" label="#mentalhealth" />
+      <node id="#affini12" label="#affini12" />
+      <node id="#happynewyear" label="#happynewyear" />
+      <node id="#NPHWchat" label="#NPHWchat" />
+      <node id="#CRC" label="#CRC" />
+      <node id="#coveryourcough" label="#coveryourcough" />
+      <node id="#ohiochc" label="#ohiochc" />
+      <node id="#CDCEbola" label="#CDCEbola" />
+      <node id="#OhioKidsHealthConference" label="#OhioKidsHealthConference" />
+      <node id="#insurance" label="#insurance" />
+      <node id="#alcohol" label="#alcohol" />
+      <node id="#voterregistration" label="#voterregistration" />
+      <node id="#Weather" label="#Weather" />
+      <node id="#diabetesalertday" label="#diabetesalertday" />
+      <node id="#ohiofqhc" label="#ohiofqhc" />
+      <node id="#BlackHistoryMonth" label="#BlackHistoryMonth" />
+      <node id="#factsfavorfluoridation" label="#factsfavorfluoridation" />
+      <node id="#ICD" label="#ICD" />
+      <node id="#epilepsy" label="#epilepsy" />
+      <node id="#dressinblueday" label="#dressinblueday" />
+      <node id="#WinterStorm" label="#WinterStorm" />
+      <node id="#NSPW" label="#NSPW" />
+      <node id="#SocialMedia" label="#SocialMedia" />
+      <node id="#KeepingUsHealthy" label="#KeepingUsHealthy" />
+      <node id="#Fluoride" label="#Fluoride" />
+      <node id="#cleanhands" label="#cleanhands" />
+      <node id="#childrenshealth" label="#childrenshealth" />
+      <node id="#screeningsave" label="#screeningsave" />
+      <node id="#KSOCTV" label="#KSOCTV" />
+      <node id="#COPD" label="#COPD" />
+      <node id="#resources" label="#resources" />
+      <node id="#hcsm" label="#hcsm" />
+      <node id="#aphasia" label="#aphasia" />
+      <node id="#BreastCancer" label="#BreastCancer" />
+      <node id="#Physicians" label="#Physicians" />
+      <node id="#healthyvision" label="#healthyvision" />
+      <node id="#HIPAA" label="#HIPAA" />
+      <node id="#recovery" label="#recovery" />
+      <node id="#YoureNotAlone" label="#YoureNotAlone" />
+      <node id="#opioid" label="#opioid" />
+      <node id="#windowsafetyweek" label="#windowsafetyweek" />
+      <node id="#alcoholfree" label="#alcoholfree" />
+      <node id="#flu" label="#flu" />
+      <node id="#GenY" label="#GenY" />
+      <node id="#HealthcareWorks" label="#HealthcareWorks" />
+      <node id="#Diseases" label="#Diseases" />
+      <node id="#nhcw2013" label="#nhcw2013" />
+      <node id="#nhcw2012" label="#nhcw2012" />
+      <node id="#communityhealthvote" label="#communityhealthvote" />
+      <node id="#OACHC" label="#OACHC" />
+      <node id="#WBW2015" label="#WBW2015" />
+      <node id="#SafetyNet" label="#SafetyNet" />
+      <node id="#suicideprevention" label="#suicideprevention" />
+      <node id="#symptoms" label="#symptoms" />
+      <node id="#infographic" label="#infographic" />
+      <node id="#nursinghome" label="#nursinghome" />
+      <node id="#CHCsHireVets" label="#CHCsHireVets" />
+      <node id="#social" label="#social" />
+      <node id="#caregivers" label="#caregivers" />
+      <node id="#July4" label="#July4" />
+      <node id="#cookbook" label="#cookbook" />
+      <node id="#lungcancer" label="#lungcancer" />
+      <node id="#ACAlums" label="#ACAlums" />
+      <node id="#DidYouKnow" label="#DidYouKnow" />
+      <node id="#oralhealth" label="#oralhealth" />
+      <node id="#wearredday" label="#wearredday" />
+      <node id="#blog" label="#blog" />
+      <node id="#texttalkact" label="#texttalkact" />
+      <node id="#getready" label="#getready" />
+      <node id="#Infographic" label="#Infographic" />
+      <node id="#prevention" label="#prevention" />
+      <node id="#Accessistheanswer" label="#Accessistheanswer" />
+      <node id="#MuscularDystrophy" label="#MuscularDystrophy" />
+      <node id="#BHM" label="#BHM" />
+      <node id="#Breast" label="#Breast" />
+      <node id="#healthfinder" label="#healthfinder" />
+      <node id="#Marketing" label="#Marketing" />
+      <node id="#mamograms" label="#mamograms" />
+      <node id="#infants" label="#infants" />
+      <node id="#PHNerd" label="#PHNerd" />
+      <node id="#CHCinnovate" label="#CHCinnovate" />
+      <node id="#dementia" label="#dementia" />
+      <node id="#quitter" label="#quitter" />
+      <node id="#ThisSideUp" label="#ThisSideUp" />
+      <node id="#April" label="#April" />
+      <node id="#ilikemyteeth" label="#ilikemyteeth" />
+      <node id="#zika" label="#zika" />
+      <node id="#OACHC16" label="#OACHC16" />
+      <node id="#OACHC14" label="#OACHC14" />
+      <node id="#OACHC15" label="#OACHC15" />
+      <node id="#RN" label="#RN" />
+      <node id="#OACHC13" label="#OACHC13" />
+      <node id="#NCSD2016" label="#NCSD2016" />
+      <node id="#glaucoma" label="#glaucoma" />
+      <node id="#Healthcenters" label="#Healthcenters" />
+      <node id="#savechcs" label="#savechcs" />
+      <node id="#Medical" label="#Medical" />
+      <node id="#CureArthritis" label="#CureArthritis" />
+      <node id="#Lymphoma" label="#Lymphoma" />
+      <node id="#highbloodpressure" label="#highbloodpressure" />
+      <node id="#ohiochcnews" label="#ohiochcnews" />
+      <node id="#healthyskin" label="#healthyskin" />
+      <node id="#goodtoknow" label="#goodtoknow" />
+      <node id="#EatingDisorders" label="#EatingDisorders" />
+      <node id="#Abuse" label="#Abuse" />
+      <node id="#healthy4oh" label="#healthy4oh" />
+      <node id="#vaccineswork" label="#vaccineswork" />
+      <node id="#immunizations" label="#immunizations" />
+      <node id="#hiringvets" label="#hiringvets" />
+      <node id="#infertility" label="#infertility" />
+      <node id="#areyoucovered" label="#areyoucovered" />
+      <node id="#OhioCHCNews" label="#OhioCHCNews" />
+      <node id="#WorldPIWeek" label="#WorldPIWeek" />
+      <node id="#poor" label="#poor" />
+      <node id="#DD" label="#DD" />
+      <node id="#nutritionfacts" label="#nutritionfacts" />
+      <node id="#college" label="#college" />
+      <node id="#PrepareAthon" label="#PrepareAthon" />
+      <node id="#cleft" label="#cleft" />
+      <node id="#showpurple" label="#showpurple" />
+      <node id="#GetCovered" label="#GetCovered" />
+      <node id="#CommunityHealth" label="#CommunityHealth" />
+      <node id="#heart" label="#heart" />
+      <node id="#NDHM2015" label="#NDHM2015" />
+      <node id="#CallToAction" label="#CallToAction" />
+      <node id="#preparedness" label="#preparedness" />
+      <node id="#Moms" label="#Moms" />
+      <node id="#heartage" label="#heartage" />
+      <node id="#ohfqhc" label="#ohfqhc" />
+      <node id="#CHCChamps" label="#CHCChamps" />
+      <node id="#champs" label="#champs" />
+      <node id="#NACHCpi15" label="#NACHCpi15" />
+      <node id="#survivor" label="#survivor" />
+      <node id="#Screening" label="#Screening" />
+      <node id="#SafeSleepABCs" label="#SafeSleepABCs" />
+      <node id="#HealthyStart" label="#HealthyStart" />
+      <node id="#fqhcs" label="#fqhcs" />
+      <node id="#healthyweight" label="#healthyweight" />
+      <node id="#Healthcare" label="#Healthcare" />
+      <node id="#hcsmeu" label="#hcsmeu" />
+      <node id="#ALSawareness" label="#ALSawareness" />
+      <node id="#advocate" label="#advocate" />
+      <node id="#autism" label="#autism" />
+      <node id="#OhioCHC" label="#OhioCHC" />
+      <node id="#heroes" label="#heroes" />
+      <node id="#rockenroll" label="#rockenroll" />
+      <node id="#congratulations" label="#congratulations" />
+      <node id="#NHCW2014" label="#NHCW2014" />
+      <node id="#NotAloneInBrainInjury" label="#NotAloneInBrainInjury" />
+      <node id="#chronicpain" label="#chronicpain" />
+      <node id="#colorectal" label="#colorectal" />
+      <node id="#WorldCancerDay" label="#WorldCancerDay" />
+      <node id="#MoreFirstBirthdays" label="#MoreFirstBirthdays" />
+      <node id="#hepatitis" label="#hepatitis" />
+      <node id="#coloncancer" label="#coloncancer" />
+      <node id="#PHMHL" label="#PHMHL" />
+      <node id="#leapday" label="#leapday" />
+      <node id="#CelebrateLife" label="#CelebrateLife" />
+      <node id="#timechange" label="#timechange" />
+      <node id="#nationalnutritionmonth" label="#nationalnutritionmonth" />
+      <node id="#fitness" label="#fitness" />
+      <node id="#CHCSINNOVATE" label="#CHCSINNOVATE" />
+      <node id="#immunization" label="#immunization" />
+      <node id="#goredwearred" label="#goredwearred" />
+      <node id="#1stBirthdays" label="#1stBirthdays" />
+      <node id="#allergies" label="#allergies" />
+      <node id="#NHCW2013" label="#NHCW2013" />
+      <node id="#arthritis" label="#arthritis" />
+      <node id="#vote" label="#vote" />
+      <node id="#Falls" label="#Falls" />
+      <node id="#HispanicHeritageMonth" label="#HispanicHeritageMonth" />
+      <node id="#knowhepatitis" label="#knowhepatitis" />
+      <node id="#vaccine" label="#vaccine" />
+      <node id="#FQHC" label="#FQHC" />
+      <node id="#StopBullying365" label="#StopBullying365" />
+      <node id="#Ebola" label="#Ebola" />
+      <node id="#WearRedDay" label="#WearRedDay" />
+      <node id="#challengeALS" label="#challengeALS" />
+      <node id="#checkupday" label="#checkupday" />
+      <node id="#alcoholawareness" label="#alcoholawareness" />
+      <node id="#healthcenters" label="#healthcenters" />
+      <node id="#quiz" label="#quiz" />
+      <node id="#AIDSDay" label="#AIDSDay" />
+      <node id="#addiction" label="#addiction" />
+      <node id="#FixtheCliff" label="#FixtheCliff" />
+      <node id="#Hemophilia" label="#Hemophilia" />
+      <node id="#Ohioans" label="#Ohioans" />
+      <node id="#LetsTalk" label="#LetsTalk" />
+      <node id="#pi12" label="#pi12" />
+      <node id="#September" label="#September" />
+      <node id="#Prematurity" label="#Prematurity" />
+      <node id="#facts" label="#facts" />
+      <node id="#HIVtestingday" label="#HIVtestingday" />
+      <node id="#SafeNursesRock" label="#SafeNursesRock" />
+      <node id="#laborday" label="#laborday" />
+      <node id="#1stbirthday" label="#1stbirthday" />
+      <node id="#exchanges" label="#exchanges" />
+      <node id="#backtoschool" label="#backtoschool" />
+      <node id="#salt" label="#salt" />
+      <node id="#DVAM2013" label="#DVAM2013" />
+      <node id="#doctor" label="#doctor" />
+      <node id="#niam" label="#niam" />
+      <node id="#children" label="#children" />
+      <node id="#healthymouth" label="#healthymouth" />
+      <node id="#melanomamonday" label="#melanomamonday" />
+      <node id="#EmergencyPreparedness" label="#EmergencyPreparedness" />
+      <node id="#AccessistheAnswer" label="#AccessistheAnswer" />
+      <node id="#NotBeyondUs" label="#NotBeyondUs" />
+      <node id="#FAQ" label="#FAQ" />
+      <node id="#healthyworkplace" label="#healthyworkplace" />
+      <node id="#safetoys" label="#safetoys" />
+      <node id="#breastfeeding" label="#breastfeeding" />
+      <node id="#car" label="#car" />
+      <node id="#secondhandsmoke" label="#secondhandsmoke" />
+      <node id="#legislative" label="#legislative" />
+      <node id="#careerfair" label="#careerfair" />
+      <node id="#OhioCHCs" label="#OhioCHCs" />
+      <node id="#MedicaidExpansion" label="#MedicaidExpansion" />
+      <node id="#walk" label="#walk" />
+      <node id="#Medicaidexpansion" label="#Medicaidexpansion" />
+      <node id="#getthefacts" label="#getthefacts" />
+      <node id="#Drug" label="#Drug" />
+      <node id="#medicare" label="#medicare" />
+      <node id="#peoplenot" label="#peoplenot" />
+      <node id="#incentive" label="#incentive" />
+      <node id="#DenimDay" label="#DenimDay" />
+      <node id="#UHCC" label="#UHCC" />
+      <node id="#NIVW2014" label="#NIVW2014" />
+      <node id="#CT" label="#CT" />
+      <node id="#NASWeek" label="#NASWeek" />
+      <node id="#FactFriday" label="#FactFriday" />
+      <node id="#homecare" label="#homecare" />
+      <node id="#AIDS" label="#AIDS" />
+      <node id="#Awareness" label="#Awareness" />
+      <node id="#mhealth" label="#mhealth" />
+      <node id="#karaoke" label="#karaoke" />
+      <node id="#pregnant" label="#pregnant" />
+      <node id="#Patientcenteredcare" label="#Patientcenteredcare" />
+      <node id="#Vets" label="#Vets" />
+      <node id="#recall" label="#recall" />
+      <node id="#Dental" label="#Dental" />
+      <node id="#ThinkTeeth" label="#ThinkTeeth" />
+      <node id="#earthquake" label="#earthquake" />
+      <node id="#lcsm" label="#lcsm" />
+      <node id="#CHIP" label="#CHIP" />
+      <node id="#Health" label="#Health" />
+      <node id="#smoking" label="#smoking" />
+      <node id="#speak" label="#speak" />
+      <node id="#AAFPCOD" label="#AAFPCOD" />
+      <node id="#oachc13" label="#oachc13" />
+      <node id="#outreach" label="#outreach" />
+      <node id="#CHAMPS" label="#CHAMPS" />
+      <node id="#PANAW" label="#PANAW" />
+      <node id="#worldhepatitisday" label="#worldhepatitisday" />
+      <node id="#diabetes" label="#diabetes" />
+      <node id="#Prescription" label="#Prescription" />
+      <node id="#assault" label="#assault" />
+      <node id="#ObamaCare" label="#ObamaCare" />
+      <node id="#mental" label="#mental" />
+      <node id="#constantcontact" label="#constantcontact" />
+      <node id="#ohchc" label="#ohchc" />
+      <node id="#cancer" label="#cancer" />
+      <node id="#hiring" label="#hiring" />
+      <node id="#opcpcc" label="#opcpcc" />
+      <node id="#veterans" label="#veterans" />
+      <node id="#WorldStrokeDay" label="#WorldStrokeDay" />
+      <node id="#ohiochcnew" label="#ohiochcnew" />
+      <node id="#oralhygiene" label="#oralhygiene" />
+      <node id="#painkillers" label="#painkillers" />
+      <node id="#OH4ME" label="#OH4ME" />
+      <node id="#NEDAwareness" label="#NEDAwareness" />
+      <node id="#Lorain" label="#Lorain" />
+      <node id="#doctorsday" label="#doctorsday" />
+      <node id="#OHFQHCS" label="#OHFQHCS" />
+      <node id="#ndss" label="#ndss" />
+      <node id="#SheCanDoIt" label="#SheCanDoIt" />
+      <node id="#HeroesofHope" label="#HeroesofHope" />
+      <node id="#socialmedia" label="#socialmedia" />
+      <node id="#NPM" label="#NPM" />
+      <node id="#Cleft" label="#Cleft" />
+      <node id="#ACATurns6" label="#ACATurns6" />
+      <node id="#APHA12" label="#APHA12" />
+      <node id="#forbetterhealth" label="#forbetterhealth" />
+      <node id="#OHFQHCs" label="#OHFQHCs" />
+      <node id="#pancreatic" label="#pancreatic" />
+      <node id="#CMCforum" label="#CMCforum" />
+      <node id="#CelebrateNVRD" label="#CelebrateNVRD" />
+      <node id="#vitalsigns" label="#vitalsigns" />
+      <node id="#psoriasis" label="#psoriasis" />
+      <node id="#register2vote" label="#register2vote" />
+      <node id="#pumping" label="#pumping" />
+      <node id="#communityhealthcenters" label="#communityhealthcenters" />
+      <node id="#wildfire" label="#wildfire" />
+      <node id="#AmeriCorpsWorksHere" label="#AmeriCorpsWorksHere" />
+      <node id="#NIIW2016" label="#NIIW2016" />
+      <node id="#Cloud" label="#Cloud" />
+      <node id="#thankyou" label="#thankyou" />
+      <node id="#cholesterol" label="#cholesterol" />
+      <node id="#EatHealthy" label="#EatHealthy" />
+      <node id="#Ohiochc" label="#Ohiochc" />
+      <node id="#Elder" label="#Elder" />
+      <node id="#retirement" label="#retirement" />
+      <node id="#Bones" label="#Bones" />
+      <node id="#ohsos" label="#ohsos" />
+      <node id="#TeethMatter2Dads" label="#TeethMatter2Dads" />
+      <node id="#Liver" label="#Liver" />
+      <node id="#infection" label="#infection" />
+      <node id="#wearredforwomen" label="#wearredforwomen" />
+      <node id="#aloha" label="#aloha" />
+      <node id="#whcc" label="#whcc" />
+      <node id="#publichealth" label="#publichealth" />
+      <node id="#menshealthmonth" label="#menshealthmonth" />
+      <node id="#OT" label="#OT" />
+      <node id="#challengeaccepted" label="#challengeaccepted" />
+      <node id="#newborn" label="#newborn" />
+      <node id="#LCSWs" label="#LCSWs" />
+      <node id="#Nonprofit" label="#Nonprofit" />
+      <node id="#statehouse" label="#statehouse" />
+      <node id="#Obesity" label="#Obesity" />
+      <node id="#caregiver" label="#caregiver" />
+      <node id="#screening" label="#screening" />
+      <node id="#bikesafety" label="#bikesafety" />
+      <node id="#ehr" label="#ehr" />
+      <node id="#greatamericansmokeout" label="#greatamericansmokeout" />
+      <node id="#ICD10" label="#ICD10" />
+      <node id="#DonateLife" label="#DonateLife" />
+      <node id="#iOS" label="#iOS" />
+      <node id="#Storymakers2016" label="#Storymakers2016" />
+      <node id="#volunteer" label="#volunteer" />
+      <node id="#MLKday" label="#MLKday" />
+      <node id="#chcsinnovate" label="#chcsinnovate" />
+      <node id="#niam15" label="#niam15" />
+      <node id="#teeth" label="#teeth" />
+      <node id="#redribbon" label="#redribbon" />
+      <node id="#4thofjuly" label="#4thofjuly" />
+      <node id="#protect" label="#protect" />
+      <node id="#HealthyLiving" label="#HealthyLiving" />
+      <node id="#fightTB2015" label="#fightTB2015" />
+      <node id="#aca" label="#aca" />
+      <node id="#CAC" label="#CAC" />
+      <node id="#BREAKING" label="#BREAKING" />
+      <node id="#NPHW2016" label="#NPHW2016" />
+      <node id="#dentalhealth" label="#dentalhealth" />
+      <node id="#alzheimer" label="#alzheimer" />
+      <node id="#infantmortality" label="#infantmortality" />
+      <node id="#Brush" label="#Brush" />
+      <node id="#cancerfacts" label="#cancerfacts" />
+      <node id="#dentalhygiene" label="#dentalhygiene" />
+      <node id="#givethanks" label="#givethanks" />
+      <node id="#ColorectalCancer" label="#ColorectalCancer" />
+      <node id="#chc50" label="#chc50" />
+      <node id="#pregnancy" label="#pregnancy" />
+      <node id="#Ohioian" label="#Ohioian" />
+      <node id="#7DaysLeft" label="#7DaysLeft" />
+      <node id="#webinar" label="#webinar" />
+      <node id="#healthyeyes" label="#healthyeyes" />
+      <node id="#EHR" label="#EHR" />
+      <node id="#FAQs" label="#FAQs" />
+      <node id="#bed" label="#bed" />
+      <node id="#DontTakeMyCare" label="#DontTakeMyCare" />
+      <node id="#thyroid" label="#thyroid" />
+      <node id="#win" label="#win" />
+      <node id="#GiveYourHeart" label="#GiveYourHeart" />
+      <node id="#hsm" label="#hsm" />
+      <node id="#Children" label="#Children" />
+      <node id="#NACHCpi" label="#NACHCpi" />
+      <node id="#conference" label="#conference" />
+      <node id="#HeartCrusade" label="#HeartCrusade" />
+      <node id="#prevent" label="#prevent" />
+      <node id="#sequester" label="#sequester" />
+      <node id="#Clinical" label="#Clinical" />
+      <node id="#Medicaid" label="#Medicaid" />
+      <node id="#seniorindependence" label="#seniorindependence" />
+      <node id="#CyberMonday" label="#CyberMonday" />
+      <node id="#stopabuse" label="#stopabuse" />
+      <node id="#organdonor" label="#organdonor" />
+      <node id="#JuvenileArthritis" label="#JuvenileArthritis" />
+      <node id="#backpack" label="#backpack" />
+      <node id="#preventcancer" label="#preventcancer" />
+      <node id="#snow" label="#snow" />
+      <node id="#GetInvolved" label="#GetInvolved" />
+      <node id="#LifeisWhy" label="#LifeisWhy" />
+      <node id="#Suicideawareness" label="#Suicideawareness" />
+      <node id="#meningitis" label="#meningitis" />
+      <node id="#blooddrive" label="#blooddrive" />
+      <node id="#obamacare" label="#obamacare" />
+      <node id="#ecofriendly" label="#ecofriendly" />
+      <node id="#birthdefects" label="#birthdefects" />
+      <node id="#CHC50" label="#CHC50" />
+      <node id="#Nurses" label="#Nurses" />
+      <node id="#Calcium" label="#Calcium" />
+      <node id="#Champs" label="#Champs" />
+      <node id="#smokingcessation" label="#smokingcessation" />
+      <node id="#Prepared" label="#Prepared" />
+      <node id="#earthday" label="#earthday" />
+      <node id="#healthvote" label="#healthvote" />
+      <node id="#alzheimers" label="#alzheimers" />
+      <node id="#Nursesweek" label="#Nursesweek" />
+      <node id="#OpenEnrollment" label="#OpenEnrollment" />
+      <node id="#NWHW" label="#NWHW" />
+      <node id="#brushtime" label="#brushtime" />
+      <node id="#PCCAM" label="#PCCAM" />
+      <node id="#cervicalhealthmonth" label="#cervicalhealthmonth" />
+      <node id="#Ohio" label="#Ohio" />
+      <node id="#getinvolved" label="#getinvolved" />
+      <node id="#history" label="#history" />
+      <node id="#letsmove" label="#letsmove" />
+      <node id="#oahq" label="#oahq" />
+      <node id="#FallsPrevention" label="#FallsPrevention" />
+      <node id="#clinical" label="#clinical" />
+      <node id="#holiday" label="#holiday" />
+      <node id="#PancreaticCancer" label="#PancreaticCancer" />
+      <node id="#Hypertensive" label="#Hypertensive" />
+      <node id="#drivesafe" label="#drivesafe" />
+      <node id="#alert" label="#alert" />
+      <node id="#environment" label="#environment" />
+      <node id="#History" label="#History" />
+      <node id="#Diabetes" label="#Diabetes" />
+      <node id="#Quality" label="#Quality" />
+      <node id="#gethealthy" label="#gethealthy" />
+      <node id="#safteynet" label="#safteynet" />
+      <node id="#Facebook" label="#Facebook" />
+      <node id="#donatelife" label="#donatelife" />
+      <node id="#Europe" label="#Europe" />
+      <node id="#depression" label="#depression" />
+      <node id="#NIIW" label="#NIIW" />
+      <node id="#1stBirthday" label="#1stBirthday" />
+      <node id="#Prevention" label="#Prevention" />
+      <node id="#sodium" label="#sodium" />
+      <node id="#Laboratory" label="#Laboratory" />
+      <node id="#worldheartday" label="#worldheartday" />
+      <node id="#OhioFQHC" label="#OhioFQHC" />
+      <node id="#Duchenne" label="#Duchenne" />
+      <node id="#CHCS" label="#CHCS" />
+      <node id="#mosquitos" label="#mosquitos" />
+      <node id="#Medicine" label="#Medicine" />
+      <node id="#goodbye2015" label="#goodbye2015" />
+      <node id="#OralHealth" label="#OralHealth" />
+      <node id="#nhcw16" label="#nhcw16" />
+      <node id="#tuberculosis" label="#tuberculosis" />
+      <node id="#ALS" label="#ALS" />
+      <node id="#green" label="#green" />
+      <node id="#billing" label="#billing" />
+      <node id="#pcmh" label="#pcmh" />
+      <node id="#HealthCommunication" label="#HealthCommunication" />
+      <node id="#Osteoporosis" label="#Osteoporosis" />
+      <node id="#HealthyBabies" label="#HealthyBabies" />
+      <node id="#Suicide" label="#Suicide" />
+      <node id="#SafeSleep" label="#SafeSleep" />
+      <node id="#domesticviolence" label="#domesticviolence" />
+      <node id="#oachc2012" label="#oachc2012" />
+      <node id="#Glaucoma" label="#Glaucoma" />
+      <node id="#nurse" label="#nurse" />
+      <node id="#AICR" label="#AICR" />
+      <node id="#Homeless" label="#Homeless" />
+      <node id="#HealthTips" label="#HealthTips" />
+      <node id="#CHCsInnovate" label="#CHCsInnovate" />
+      <node id="#HealthyHabits" label="#HealthyHabits" />
+      <node id="#lunchtime" label="#lunchtime" />
+      <node id="#marketing" label="#marketing" />
+      <node id="#CLE" label="#CLE" />
+      <node id="#Leukemia" label="#Leukemia" />
+      <node id="#braininjury" label="#braininjury" />
+      <node id="#charity" label="#charity" />
+      <node id="#chc" label="#chc" />
+      <node id="#InterprofessionalCollaboration" label="#InterprofessionalCollaboration" />
+      <node id="#HIMSS" label="#HIMSS" />
+      <node id="#menshealth" label="#menshealth" />
+      <node id="#heath4oh" label="#heath4oh" />
+      <node id="#hospice" label="#hospice" />
+      <node id="#primarycare" label="#primarycare" />
+      <node id="#AAFP" label="#AAFP" />
+      <node id="#healthcare" label="#healthcare" />
+      <node id="#wearpurple" label="#wearpurple" />
+      <node id="#CHCHealth" label="#CHCHealth" />
+      <node id="#OHFQHC" label="#OHFQHC" />
+      <node id="#advocates" label="#advocates" />
+      <node id="#FixTheCliff" label="#FixTheCliff" />
+      <node id="#Riga" label="#Riga" />
+      <node id="#SGR" label="#SGR" />
+      <node id="#KingvBurwell" label="#KingvBurwell" />
+      <node id="#ACA" label="#ACA" />
+      <node id="#closethegap" label="#closethegap" />
+      <node id="#ACO" label="#ACO" />
+      <node id="#OhioMedicaid" label="#OhioMedicaid" />
+      <node id="#abstracts" label="#abstracts" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#dentist" target="#healthymouth" weight="3062" />
+      <edge id="1" source="#dentist" target="#oralhealth" weight="3062" />
+      <edge id="2" source="#healthylungs" target="#lungs" weight="3062" />
+      <edge id="3" source="#healthylungs" target="#healthy" weight="3062" />
+      <edge id="4" source="#healthylungs" target="#awareness" weight="3062" />
+      <edge id="5" source="#famous" target="#cookbook" weight="3062" />
+      <edge id="6" source="#famous" target="#Ohioian" weight="3062" />
+      <edge id="7" source="#famous" target="#fqhc" weight="3062" />
+      <edge id="8" source="#famous" target="#charity" weight="3062" />
+      <edge id="9" source="#fqhc" target="#Healthcenters" weight="6124" />
+      <edge id="10" source="#fqhc" target="#healthcenter" weight="3062" />
+      <edge id="11" source="#fqhc" target="#communityhealthcenters" weight="3062" />
+      <edge id="12" source="#fqhc" target="#savechcs" weight="3062" />
+      <edge id="13" source="#fqhc" target="#fqhc" weight="6124" />
+      <edge id="14" source="#fqhc" target="#ohiochcnews" weight="195968" />
+      <edge id="15" source="#fqhc" target="#meaningful" weight="3062" />
+      <edge id="16" source="#fqhc" target="#Ohiochc" weight="3062" />
+      <edge id="17" source="#fqhc" target="#drshortage" weight="3062" />
+      <edge id="18" source="#fqhc" target="#NACHCpi" weight="3062" />
+      <edge id="19" source="#fqhc" target="#ohfqhc" weight="9186" />
+      <edge id="20" source="#fqhc" target="#OhioCHCNews" weight="6124" />
+      <edge id="21" source="#fqhc" target="#healthvote" weight="6124" />
+      <edge id="22" source="#fqhc" target="#NNW2016" weight="3062" />
+      <edge id="23" source="#fqhc" target="#ohchc" weight="3062" />
+      <edge id="24" source="#fqhc" target="#Mental" weight="3062" />
+      <edge id="25" source="#fqhc" target="#Lorain" weight="3062" />
+      <edge id="26" source="#fqhc" target="#recognition" weight="3062" />
+      <edge id="27" source="#fqhc" target="#CMCforum" weight="3062" />
+      <edge id="28" source="#fqhc" target="#OHFQHC" weight="6124" />
+      <edge id="29" source="#fqhc" target="#Conference" weight="6124" />
+      <edge id="30" source="#fqhc" target="#NCQA" weight="3062" />
+      <edge id="31" source="#fqhc" target="#fqhcs" weight="9186" />
+      <edge id="32" source="#fqhc" target="#CHCchat" weight="15310" />
+      <edge id="33" source="#fqhc" target="#advocate" weight="3062" />
+      <edge id="34" source="#fqhc" target="#NHCW15" weight="3062" />
+      <edge id="35" source="#fqhc" target="#NHCW14" weight="3062" />
+      <edge id="36" source="#fqhc" target="#NHCW12" weight="9186" />
+      <edge id="37" source="#fqhc" target="#OhioCHC" weight="3062" />
+      <edge id="38" source="#fqhc" target="#getcovered" weight="3062" />
+      <edge id="39" source="#fqhc" target="#heroes" weight="3062" />
+      <edge id="40" source="#fqhc" target="#SaveCHCs" weight="6124" />
+      <edge id="41" source="#fqhc" target="#rockenroll" weight="3062" />
+      <edge id="42" source="#fqhc" target="#speaker" weight="9186" />
+      <edge id="43" source="#fqhc" target="#chc50" weight="3062" />
+      <edge id="44" source="#fqhc" target="#HHS" weight="3062" />
+      <edge id="45" source="#fqhc" target="#nachc" weight="3062" />
+      <edge id="46" source="#fqhc" target="#hero" weight="3062" />
+      <edge id="47" source="#fqhc" target="#oachc" weight="3062" />
+      <edge id="48" source="#fqhc" target="#conference" weight="6124" />
+      <edge id="49" source="#fqhc" target="#vote" weight="3062" />
+      <edge id="50" source="#fqhc" target="#chcnews" weight="15310" />
+      <edge id="51" source="#fqhc" target="#sequester" weight="6124" />
+      <edge id="52" source="#fqhc" target="#ohiochcs" weight="3062" />
+      <edge id="53" source="#fqhc" target="#Alcohol" weight="3062" />
+      <edge id="54" source="#fqhc" target="#healthcenters" weight="3062" />
+      <edge id="55" source="#fqhc" target="#SafeNursesRock" weight="3062" />
+      <edge id="56" source="#fqhc" target="#Health" weight="3062" />
+      <edge id="57" source="#fqhc" target="#pi12" weight="3062" />
+      <edge id="58" source="#fqhc" target="#mentalhealth" weight="3062" />
+      <edge id="59" source="#fqhc" target="#firstbirthday" weight="6124" />
+      <edge id="60" source="#fqhc" target="#charity" weight="3062" />
+      <edge id="61" source="#fqhc" target="#ohiochc" weight="15310" />
+      <edge id="62" source="#fqhc" target="#NHCW16" weight="3062" />
+      <edge id="63" source="#fqhc" target="#Obamacare" weight="3062" />
+      <edge id="64" source="#fqhc" target="#nursesday" weight="3062" />
+      <edge id="65" source="#fqhc" target="#Nursesweek" weight="3062" />
+      <edge id="66" source="#fqhc" target="#ohiofqhc" weight="3062" />
+      <edge id="67" source="#fqhc" target="#nhcw2013" weight="3062" />
+      <edge id="68" source="#fqhc" target="#Ohioian" weight="3062" />
+      <edge id="69" source="#fqhc" target="#Ohio" weight="6124" />
+      <edge id="70" source="#fqhc" target="#ICD" weight="6124" />
+      <edge id="71" source="#fqhc" target="#Weather" weight="3062" />
+      <edge id="72" source="#fqhc" target="#infantmortality" weight="6124" />
+      <edge id="73" source="#fqhc" target="#nhcw11" weight="12248" />
+      <edge id="74" source="#fqhc" target="#hcsm" weight="9186" />
+      <edge id="75" source="#fqhc" target="#centeringpregnancy" weight="3062" />
+      <edge id="76" source="#fqhc" target="#CHCs" weight="12248" />
+      <edge id="77" source="#fqhc" target="#medicaid" weight="3062" />
+      <edge id="78" source="#fqhc" target="#Drug" weight="3062" />
+      <edge id="79" source="#fqhc" target="#vision" weight="3062" />
+      <edge id="80" source="#fqhc" target="#Prevention" weight="3062" />
+      <edge id="81" source="#fqhc" target="#colorectalcancer" weight="3062" />
+      <edge id="82" source="#fqhc" target="#Awareness" weight="3062" />
+      <edge id="83" source="#fqhc" target="#ohio" weight="52054" />
+      <edge id="84" source="#fqhc" target="#OACHC2013" weight="3062" />
+      <edge id="85" source="#fqhc" target="#Dental" weight="3062" />
+      <edge id="86" source="#fqhc" target="#communityhealthvote" weight="3062" />
+      <edge id="87" source="#fqhc" target="#smoking" weight="3062" />
+      <edge id="88" source="#fqhc" target="#pcmh" weight="9186" />
+      <edge id="89" source="#fqhc" target="#chcchat" weight="3062" />
+      <edge id="90" source="#fqhc" target="#speak" weight="3062" />
+      <edge id="91" source="#fqhc" target="#oachc13" weight="6124" />
+      <edge id="92" source="#fqhc" target="#outreach" weight="3062" />
+      <edge id="93" source="#fqhc" target="#oachc2012" weight="21434" />
+      <edge id="94" source="#fqhc" target="#CHC" weight="21434" />
+      <edge id="95" source="#fqhc" target="#Prescription" weight="3062" />
+      <edge id="96" source="#fqhc" target="#Homeless" weight="3062" />
+      <edge id="97" source="#fqhc" target="#cookbook" weight="3062" />
+      <edge id="98" source="#fqhc" target="#constantcontact" weight="3062" />
+      <edge id="99" source="#fqhc" target="#ADA" weight="3062" />
+      <edge id="100" source="#fqhc" target="#blog" weight="3062" />
+      <edge id="101" source="#fqhc" target="#billing" weight="3062" />
+      <edge id="102" source="#fqhc" target="#veterans" weight="3062" />
+      <edge id="103" source="#fqhc" target="#chc" weight="248022" />
+      <edge id="104" source="#fqhc" target="#ohiochcnew" weight="9186" />
+      <edge id="105" source="#fqhc" target="#Access" weight="3062" />
+      <edge id="106" source="#fqhc" target="#healthcare" weight="3062" />
+      <edge id="107" source="#fqhc" target="#congrats" weight="3062" />
+      <edge id="108" source="#fqhc" target="#socialmedia" weight="3062" />
+      <edge id="109" source="#fqhc" target="#NPM" weight="3062" />
+      <edge id="110" source="#fqhc" target="#EHR" weight="3062" />
+      <edge id="111" source="#fqhc" target="#APHA12" weight="3062" />
+      <edge id="112" source="#fqhc" target="#ACA" weight="6124" />
+      <edge id="113" source="#fqhc" target="#chcs" weight="9186" />
+      <edge id="114" source="#fqhc" target="#awareness" weight="9186" />
+      <edge id="115" source="#fqhc" target="#Medicaid" weight="6124" />
+      <edge id="116" source="#fqhc" target="#OACHC13" weight="9186" />
+      <edge id="117" source="#fqhc" target="#Medicare" weight="3062" />
+      <edge id="118" source="#practicemanagement" target="#healthcare" weight="3062" />
+      <edge id="119" source="#LCAM15" target="#lungcancer" weight="3062" />
+      <edge id="120" source="#LCAM15" target="#lcsm" weight="3062" />
+      <edge id="121" source="#Month4Smiles" target="#pregnancy" weight="3062" />
+      <edge id="122" source="#Breastfeeding" target="#Moms" weight="3062" />
+      <edge id="123" source="#Breastfeeding" target="#pumping" weight="3062" />
+      <edge id="124" source="#Breastfeeding" target="#awareness" weight="3062" />
+      <edge id="125" source="#Breastfeeding" target="#Ohio" weight="3062" />
+      <edge id="126" source="#earth" target="#environment" weight="3062" />
+      <edge id="127" source="#screeningsaves" target="#prevention" weight="3062" />
+      <edge id="128" source="#screeningsaves" target="#colorectalcancer" weight="3062" />
+      <edge id="129" source="#screeningsaves" target="#awareness" weight="3062" />
+      <edge id="130" source="#leprosy" target="#FAQs" weight="3062" />
+      <edge id="131" source="#womenshealth" target="#awareness" weight="3062" />
+      <edge id="132" source="#stroke" target="#women" weight="3062" />
+      <edge id="133" source="#stroke" target="#awareness" weight="3062" />
+      <edge id="134" source="#stroke" target="#WorldStrokeDay" weight="3062" />
+      <edge id="135" source="#HeartHealth" target="#HeartMonth" weight="3062" />
+      <edge id="136" source="#celebrate" target="#nursingassistants" weight="3062" />
+      <edge id="137" source="#healthliving" target="#eatingright" weight="3062" />
+      <edge id="138" source="#DocFix" target="#FQHC" weight="3062" />
+      <edge id="139" source="#DocFix" target="#AccessistheAnswer" weight="3062" />
+      <edge id="140" source="#DocFix" target="#BREAKING" weight="3062" />
+      <edge id="141" source="#Turkey" target="#AR" weight="3062" />
+      <edge id="142" source="#Turkey" target="#recall" weight="3062" />
+      <edge id="143" source="#HIE" target="#healthIT" weight="3062" />
+      <edge id="144" source="#HIE" target="#HealthIT" weight="3062" />
+      <edge id="145" source="#HIE" target="#HITsm" weight="3062" />
+      <edge id="146" source="#HIE" target="#healthcare" weight="3062" />
+      <edge id="147" source="#HPWO" target="#congratulations" weight="3062" />
+      <edge id="148" source="#HPWO" target="#ohiochcnews" weight="3062" />
+      <edge id="149" source="#HPWO" target="#chc" weight="3062" />
+      <edge id="150" source="#handwashing" target="#cleanhands" weight="3062" />
+      <edge id="151" source="#HRSA" target="#GetCovered" weight="3062" />
+      <edge id="152" source="#HRSA" target="#CHCs" weight="3062" />
+      <edge id="153" source="#HRSA" target="#NPHW" weight="6124" />
+      <edge id="154" source="#PHnerd" target="#NPHW2016" weight="3062" />
+      <edge id="155" source="#PHnerd" target="#NPHWchat" weight="3062" />
+      <edge id="156" source="#PHnerd" target="#NPHW" weight="3062" />
+      <edge id="157" source="#crcscreening" target="#colorectalcancer" weight="3062" />
+      <edge id="158" source="#crcscreening" target="#crc" weight="3062" />
+      <edge id="159" source="#crcscreening" target="#awareness" weight="3062" />
+      <edge id="160" source="#NatlPrep" target="#flood" weight="3062" />
+      <edge id="161" source="#NatlPrep" target="#PrepareAthon" weight="15310" />
+      <edge id="162" source="#NatlPrep" target="#wildfire" weight="3062" />
+      <edge id="163" source="#grant" target="#chc" weight="3062" />
+      <edge id="164" source="#NHCW" target="#CT" weight="3062" />
+      <edge id="165" source="#NHCW" target="#FQHC" weight="3062" />
+      <edge id="166" source="#NHCW" target="#ohiochcnews" weight="6124" />
+      <edge id="167" source="#NHCW" target="#CHC" weight="3062" />
+      <edge id="168" source="#awareness" target="#glaucoma" weight="18372" />
+      <edge id="169" source="#awareness" target="#menshealth" weight="3062" />
+      <edge id="170" source="#awareness" target="#healthliteracy" weight="3062" />
+      <edge id="171" source="#awareness" target="#earlydetection" weight="3062" />
+      <edge id="172" source="#awareness" target="#heatsafety" weight="3062" />
+      <edge id="173" source="#awareness" target="#women" weight="3062" />
+      <edge id="174" source="#awareness" target="#infection" weight="3062" />
+      <edge id="175" source="#awareness" target="#whcc" weight="6124" />
+      <edge id="176" source="#awareness" target="#newborn" weight="3062" />
+      <edge id="177" source="#awareness" target="#prostatecancer" weight="3062" />
+      <edge id="178" source="#awareness" target="#showpurple" weight="3062" />
+      <edge id="179" source="#awareness" target="#cervicalcancer" weight="9186" />
+      <edge id="180" source="#awareness" target="#screening" weight="6124" />
+      <edge id="181" source="#awareness" target="#recognition" weight="3062" />
+      <edge id="182" source="#awareness" target="#preparedness" weight="3062" />
+      <edge id="183" source="#awareness" target="#OT" weight="3062" />
+      <edge id="184" source="#awareness" target="#healthy" weight="3062" />
+      <edge id="185" source="#awareness" target="#pain" weight="3062" />
+      <edge id="186" source="#awareness" target="#safetyfirst" weight="3062" />
+      <edge id="187" source="#awareness" target="#healthyweight" weight="3062" />
+      <edge id="188" source="#awareness" target="#spreadtheword" weight="3062" />
+      <edge id="189" source="#awareness" target="#poisonprevention" weight="3062" />
+      <edge id="190" source="#awareness" target="#nutrition" weight="6124" />
+      <edge id="191" source="#awareness" target="#birthdefects" weight="6124" />
+      <edge id="192" source="#awareness" target="#ALSawareness" weight="3062" />
+      <edge id="193" source="#awareness" target="#lungs" weight="3062" />
+      <edge id="194" source="#awareness" target="#autism" weight="3062" />
+      <edge id="195" source="#awareness" target="#ovariancancer" weight="6124" />
+      <edge id="196" source="#awareness" target="#infantmortality" weight="3062" />
+      <edge id="197" source="#awareness" target="#cancerfacts" weight="3062" />
+      <edge id="198" source="#awareness" target="#endviolence" weight="3062" />
+      <edge id="199" source="#awareness" target="#chronicpain" weight="3062" />
+      <edge id="200" source="#awareness" target="#hepatitis" weight="3062" />
+      <edge id="201" source="#awareness" target="#healthyeyes" weight="3062" />
+      <edge id="202" source="#awareness" target="#minorityhealthmonth" weight="3062" />
+      <edge id="203" source="#awareness" target="#thyroid" weight="12248" />
+      <edge id="204" source="#awareness" target="#breastcancer" weight="6124" />
+      <edge id="205" source="#awareness" target="#melanomamonday" weight="3062" />
+      <edge id="206" source="#awareness" target="#allergies" weight="3062" />
+      <edge id="207" source="#awareness" target="#arthritis" weight="6124" />
+      <edge id="208" source="#awareness" target="#chcnews" weight="3062" />
+      <edge id="209" source="#awareness" target="#FQHC" weight="3062" />
+      <edge id="210" source="#awareness" target="#facts" weight="3062" />
+      <edge id="211" source="#awareness" target="#challengeALS" weight="3062" />
+      <edge id="212" source="#awareness" target="#backpack" weight="3062" />
+      <edge id="213" source="#awareness" target="#preventcancer" weight="3062" />
+      <edge id="214" source="#awareness" target="#Hemophilia" weight="3062" />
+      <edge id="215" source="#awareness" target="#mentalhealth" weight="3062" />
+      <edge id="216" source="#awareness" target="#HIVtestingday" weight="3062" />
+      <edge id="217" source="#awareness" target="#alzheimers" weight="9186" />
+      <edge id="218" source="#awareness" target="#wearpurple" weight="3062" />
+      <edge id="219" source="#awareness" target="#cervicalhealthmonth" weight="6124" />
+      <edge id="220" source="#awareness" target="#getinvolved" weight="3062" />
+      <edge id="221" source="#awareness" target="#infertility" weight="6124" />
+      <edge id="222" source="#awareness" target="#skincancer" weight="6124" />
+      <edge id="223" source="#awareness" target="#celiacdisease" weight="3062" />
+      <edge id="224" source="#awareness" target="#FAQ" weight="3062" />
+      <edge id="225" source="#awareness" target="#Craniofacial" weight="3062" />
+      <edge id="226" source="#awareness" target="#breastfeeding" weight="3062" />
+      <edge id="227" source="#awareness" target="#education" weight="3062" />
+      <edge id="228" source="#awareness" target="#Diabetes" weight="12248" />
+      <edge id="229" source="#awareness" target="#COPD" weight="15310" />
+      <edge id="230" source="#awareness" target="#health" weight="3062" />
+      <edge id="231" source="#awareness" target="#gethealthy" weight="3062" />
+      <edge id="232" source="#awareness" target="#aphasia" weight="3062" />
+      <edge id="233" source="#awareness" target="#getthefacts" weight="3062" />
+      <edge id="234" source="#awareness" target="#vision" weight="6124" />
+      <edge id="235" source="#awareness" target="#crc" weight="3062" />
+      <edge id="236" source="#awareness" target="#healthyvision" weight="3062" />
+      <edge id="237" source="#awareness" target="#oralhealthequity" weight="3062" />
+      <edge id="238" source="#awareness" target="#1stBirthday" weight="3062" />
+      <edge id="239" source="#awareness" target="#recovery" weight="3062" />
+      <edge id="240" source="#awareness" target="#alcoholfree" weight="3062" />
+      <edge id="241" source="#awareness" target="#alzheimer" weight="3062" />
+      <edge id="242" source="#awareness" target="#mosquitos" weight="3062" />
+      <edge id="243" source="#awareness" target="#downsyndrome" weight="3062" />
+      <edge id="244" source="#awareness" target="#ALS" weight="3062" />
+      <edge id="245" source="#awareness" target="#colorectalcancer" weight="9186" />
+      <edge id="246" source="#awareness" target="#dementia" weight="3062" />
+      <edge id="247" source="#awareness" target="#OHCan" weight="3062" />
+      <edge id="248" source="#awareness" target="#symptoms" weight="3062" />
+      <edge id="249" source="#awareness" target="#EatHealthy" weight="3062" />
+      <edge id="250" source="#awareness" target="#diabetes" weight="3062" />
+      <edge id="251" source="#awareness" target="#AICR" weight="3062" />
+      <edge id="252" source="#awareness" target="#cancer" weight="3062" />
+      <edge id="253" source="#awareness" target="#alcohol" weight="3062" />
+      <edge id="254" source="#awareness" target="#ADM" weight="6124" />
+      <edge id="255" source="#awareness" target="#getready" weight="3062" />
+      <edge id="256" source="#awareness" target="#braininjury" weight="6124" />
+      <edge id="257" source="#awareness" target="#chc" weight="6124" />
+      <edge id="258" source="#awareness" target="#prevention" weight="48992" />
+      <edge id="259" source="#awareness" target="#hospice" weight="3062" />
+      <edge id="260" source="#awareness" target="#ndss" weight="3062" />
+      <edge id="261" source="#awareness" target="#mamograms" weight="3062" />
+      <edge id="262" source="#awareness" target="#CHC" weight="6124" />
+      <edge id="263" source="#awareness" target="#wearteal" weight="3062" />
+      <edge id="264" source="#awareness" target="#Cleft" weight="3062" />
+      <edge id="265" source="#awareness" target="#caregivers" weight="3062" />
+      <edge id="266" source="#awareness" target="#zika" weight="3062" />
+      <edge id="267" source="#awareness" target="#pancreatic" weight="3062" />
+      <edge id="268" source="#awareness" target="#psoriasis" weight="3062" />
+      <edge id="269" source="#visualhealth" target="#FQHC" weight="3062" />
+      <edge id="270" source="#visualhealth" target="#ohiochcnews" weight="3062" />
+      <edge id="271" source="#visualhealth" target="#CHC" weight="3062" />
+      <edge id="272" source="#sexual" target="#assault" weight="3062" />
+      <edge id="273" source="#sexual" target="#DenimDay" weight="3062" />
+      <edge id="274" source="#Immunization" target="#niam" weight="3062" />
+      <edge id="275" source="#Immunization" target="#ohiochcnews" weight="3062" />
+      <edge id="276" source="#Immunization" target="#Awareness" weight="3062" />
+      <edge id="277" source="#Immunization" target="#niam15" weight="3062" />
+      <edge id="278" source="#NCQA" target="#pcmh" weight="3062" />
+      <edge id="279" source="#Conference" target="#OACHC2013" weight="3062" />
+      <edge id="280" source="#Conference" target="#speaker" weight="3062" />
+      <edge id="281" source="#Conference" target="#chc" weight="6124" />
+      <edge id="282" source="#oralhealthequity" target="#minorityhealthmonth" weight="3062" />
+      <edge id="283" source="#ChildHealthDay" target="#FQHC" weight="3062" />
+      <edge id="284" source="#ChildHealthDay" target="#chc" weight="3062" />
+      <edge id="285" source="#AutismAwareness" target="#April" weight="3062" />
+      <edge id="286" source="#National" target="#Health" weight="3062" />
+      <edge id="287" source="#National" target="#ohio" weight="3062" />
+      <edge id="288" source="#AccessIsTheAnswer" target="#FQHCs" weight="3062" />
+      <edge id="289" source="#AccessIsTheAnswer" target="#OhioFQHC" weight="3062" />
+      <edge id="290" source="#CHCchat" target="#CHC" weight="3062" />
+      <edge id="291" source="#CHCchat" target="#FQHC" weight="3062" />
+      <edge id="292" source="#CHCchat" target="#hcsm" weight="9186" />
+      <edge id="293" source="#CHCchat" target="#PCMH" weight="3062" />
+      <edge id="294" source="#CHCchat" target="#CHCs" weight="18372" />
+      <edge id="295" source="#CHCchat" target="#smoking" weight="3062" />
+      <edge id="296" source="#CHCchat" target="#Ohio" weight="3062" />
+      <edge id="297" source="#OHcan" target="#InfantMortality" weight="3062" />
+      <edge id="298" source="#OHcan" target="#MoreFirstBirthdays" weight="3062" />
+      <edge id="299" source="#expectoralhealth" target="#KeepingUsHealthy" weight="3062" />
+      <edge id="300" source="#PCA" target="#MVP" weight="3062" />
+      <edge id="301" source="#lungs" target="#healthy" weight="3062" />
+      <edge id="302" source="#NHCW16" target="#Champs" weight="12248" />
+      <edge id="303" source="#NHCW16" target="#champs" weight="3062" />
+      <edge id="304" source="#NHCW16" target="#healthcenters" weight="3062" />
+      <edge id="305" source="#NHCW16" target="#ohiochc" weight="3062" />
+      <edge id="306" source="#NHCW16" target="#OHFQHCs" weight="3062" />
+      <edge id="307" source="#NHCW16" target="#chcsinnovate" weight="3062" />
+      <edge id="308" source="#NHCW16" target="#FQHCs" weight="3062" />
+      <edge id="309" source="#NHCW16" target="#FQHC" weight="15310" />
+      <edge id="310" source="#NHCW16" target="#UHCC" weight="15310" />
+      <edge id="311" source="#NHCW16" target="#CHCSINNOVATE" weight="3062" />
+      <edge id="312" source="#NHCW16" target="#CHCs" weight="3062" />
+      <edge id="313" source="#NHCW16" target="#OACHC" weight="24496" />
+      <edge id="314" source="#NHCW16" target="#CHCsInnovate" weight="12248" />
+      <edge id="315" source="#NHCW16" target="#CHCChamps" weight="9186" />
+      <edge id="316" source="#NHCW15" target="#healthcenter" weight="3062" />
+      <edge id="317" source="#NHCW15" target="#hero" weight="3062" />
+      <edge id="318" source="#NHCW15" target="#heroes" weight="3062" />
+      <edge id="319" source="#NHCW15" target="#OhioFQHC" weight="3062" />
+      <edge id="320" source="#NHCW15" target="#CHC50" weight="3062" />
+      <edge id="321" source="#NHCW15" target="#OACHC" weight="3062" />
+      <edge id="322" source="#NHCW15" target="#OHFQHC" weight="3062" />
+      <edge id="323" source="#NHCW15" target="#Ohio" weight="3062" />
+      <edge id="324" source="#NHCW14" target="#NHCW2014" weight="3062" />
+      <edge id="325" source="#NHCW14" target="#chc" weight="3062" />
+      <edge id="326" source="#NHCW13" target="#CHCS" weight="3062" />
+      <edge id="327" source="#NHCW12" target="#chc" weight="12248" />
+      <edge id="328" source="#NHCW12" target="#healthvote" weight="3062" />
+      <edge id="329" source="#NHCW12" target="#fqhcs" weight="3062" />
+      <edge id="330" source="#NHCW12" target="#FQHC" weight="3062" />
+      <edge id="331" source="#NHCW12" target="#ohio" weight="9186" />
+      <edge id="332" source="#NHCW12" target="#chcchat" weight="6124" />
+      <edge id="333" source="#NHCW12" target="#ohiochcnews" weight="9186" />
+      <edge id="334" source="#NHCW12" target="#CHC" weight="3062" />
+      <edge id="335" source="#NHCW11" target="#CHC" weight="3062" />
+      <edge id="336" source="#NHCW11" target="#FQHC" weight="12248" />
+      <edge id="337" source="#NHCW11" target="#OHIO" weight="9186" />
+      <edge id="338" source="#NHCW11" target="#CHCs" weight="3062" />
+      <edge id="339" source="#NHCW11" target="#ohio" weight="3062" />
+      <edge id="340" source="#ovariancancer" target="#wearteal" weight="6124" />
+      <edge id="341" source="#ovariancancer" target="#getthefacts" weight="3062" />
+      <edge id="342" source="#ovariancancer" target="#spreadtheword" weight="3062" />
+      <edge id="343" source="#InfantMortality" target="#MoreFirstBirthdays" weight="3062" />
+      <edge id="344" source="#InfantMortality" target="#1stBirthday" weight="3062" />
+      <edge id="345" source="#InfantMortality" target="#LetsTalk" weight="3062" />
+      <edge id="346" source="#Thanksgiving" target="#areyoucovered" weight="3062" />
+      <edge id="347" source="#HITsm" target="#EHR" weight="3062" />
+      <edge id="348" source="#HITsm" target="#healthIT" weight="3062" />
+      <edge id="349" source="#HITsm" target="#ACO" weight="3062" />
+      <edge id="350" source="#EMR" target="#EHR" weight="3062" />
+      <edge id="351" source="#EMR" target="#HIMSS" weight="3062" />
+      <edge id="352" source="#EMR" target="#ICD10" weight="3062" />
+      <edge id="353" source="#showusyourblue" target="#menshealthmonth" weight="6124" />
+      <edge id="354" source="#OhioFQHCs" target="#GetCovered" weight="3062" />
+      <edge id="355" source="#Scleroderma" target="#Awareness" weight="3062" />
+      <edge id="356" source="#Nutrition" target="#HealthyLiving" weight="3062" />
+      <edge id="357" source="#nationaldentalhygienemonth" target="#NDHM2015" weight="3062" />
+      <edge id="358" source="#nationaldentalhygienemonth" target="#oralhealth" weight="3062" />
+      <edge id="359" source="#nationaldentalhygienemonth" target="#dentalhygiene" weight="3062" />
+      <edge id="360" source="#drugfree" target="#redribbon" weight="3062" />
+      <edge id="361" source="#NIAM15" target="#vaccinations" weight="6124" />
+      <edge id="362" source="#NIAM15" target="#vaccines" weight="6124" />
+      <edge id="363" source="#NIAM15" target="#immunizations" weight="3062" />
+      <edge id="364" source="#NIAM15" target="#vaccinate" weight="3062" />
+      <edge id="365" source="#hero" target="#heroes" weight="3062" />
+      <edge id="366" source="#hero" target="#healthcenter" weight="3062" />
+      <edge id="367" source="#GreatAmericanSmokeout" target="#smokingcessation" weight="3062" />
+      <edge id="368" source="#oachc" target="#CMCforum" weight="3062" />
+      <edge id="369" source="#2min2x" target="#brushtime" weight="6124" />
+      <edge id="370" source="#2min2x" target="#PHMHL" weight="3062" />
+      <edge id="371" source="#drugfacts2011" target="#drivesafe" weight="3062" />
+      <edge id="372" source="#Chiropractic" target="#Health" weight="3062" />
+      <edge id="373" source="#Billing" target="#FQHC" weight="6124" />
+      <edge id="374" source="#Billing" target="#chc" weight="6124" />
+      <edge id="375" source="#Billing" target="#Medicare" weight="6124" />
+      <edge id="376" source="#SIDS" target="#smokingcessation" weight="3062" />
+      <edge id="377" source="#SIDS" target="#secondhandsmoke" weight="3062" />
+      <edge id="378" source="#SIDS" target="#infantmortality" weight="6124" />
+      <edge id="379" source="#SIDS" target="#SafeSleep" weight="3062" />
+      <edge id="380" source="#SIDS" target="#FQHCs" weight="6124" />
+      <edge id="381" source="#SIDS" target="#FQHC" weight="3062" />
+      <edge id="382" source="#SIDS" target="#MoreFirstBirthdays" weight="9186" />
+      <edge id="383" source="#FF" target="#hc" weight="3062" />
+      <edge id="384" source="#HealthIT" target="#EHR" weight="3062" />
+      <edge id="385" source="#HealthIT" target="#HealthIT" weight="6124" />
+      <edge id="386" source="#HealthIT" target="#healthcare" weight="6124" />
+      <edge id="387" source="#fiscalcliff" target="#ohiochcnews" weight="3062" />
+      <edge id="388" source="#ohiochcs" target="#ohiochcnews" weight="3062" />
+      <edge id="389" source="#ohiochcs" target="#chc" weight="3062" />
+      <edge id="390" source="#PCMH" target="#infographic" weight="3062" />
+      <edge id="391" source="#PCMH" target="#ohiochcnews" weight="3062" />
+      <edge id="392" source="#PCMH" target="#FQHC" weight="9186" />
+      <edge id="393" source="#PCMH" target="#OhioCHCNews" weight="3062" />
+      <edge id="394" source="#PCMH" target="#Ohio" weight="6124" />
+      <edge id="395" source="#flood" target="#PrepareAthon" weight="3062" />
+      <edge id="396" source="#275kohioans" target="#healthy4oh" weight="3062" />
+      <edge id="397" source="#275kohioans" target="#peoplenot" weight="3062" />
+      <edge id="398" source="#UnityDay2016" target="#StopBullying365" weight="3062" />
+      <edge id="399" source="#UnityDay2016" target="#YoureNotAlone" weight="3062" />
+      <edge id="400" source="#Andriukaitis" target="#tuberculosis" weight="3062" />
+      <edge id="401" source="#Andriukaitis" target="#Riga" weight="3062" />
+      <edge id="402" source="#Andriukaitis" target="#Europe" weight="3062" />
+      <edge id="403" source="#Andriukaitis" target="#fightTB2015" weight="3062" />
+      <edge id="404" source="#wearblue" target="#menshealthmonth" weight="3062" />
+      <edge id="405" source="#MensHealthWeek" target="#men" weight="3062" />
+      <edge id="406" source="#MensHealthWeek" target="#hearthealth" weight="3062" />
+      <edge id="407" source="#vaccinated" target="#vaccines" weight="3062" />
+      <edge id="408" source="#vaccinated" target="#meningitis" weight="3062" />
+      <edge id="409" source="#vaccinations" target="#vaccinate" weight="3062" />
+      <edge id="410" source="#AR" target="#recall" weight="3062" />
+      <edge id="411" source="#Minority" target="#Health" weight="3062" />
+      <edge id="412" source="#obesity" target="#letsmove" weight="3062" />
+      <edge id="413" source="#obesity" target="#ohiochcnews" weight="3062" />
+      <edge id="414" source="#obesity" target="#chc" weight="3062" />
+      <edge id="415" source="#FourthofJuly" target="#FoodSafety" weight="3062" />
+      <edge id="416" source="#saveourchcs" target="#fixthecliff" weight="3062" />
+      <edge id="417" source="#saveourchcs" target="#NACHCpi15" weight="3062" />
+      <edge id="418" source="#firstbirthday" target="#chcnews" weight="3062" />
+      <edge id="419" source="#firstbirthday" target="#ohiochcnews" weight="12248" />
+      <edge id="420" source="#firstbirthday" target="#infantmortality" weight="3062" />
+      <edge id="421" source="#firstbirthday" target="#chc" weight="3062" />
+      <edge id="422" source="#fireworks" target="#4thofjuly" weight="3062" />
+      <edge id="423" source="#fireworks" target="#independenceday" weight="3062" />
+      <edge id="424" source="#fireworks" target="#safety" weight="3062" />
+      <edge id="425" source="#HIV" target="#WAD2014" weight="3062" />
+      <edge id="426" source="#HIV" target="#AIDS" weight="9186" />
+      <edge id="427" source="#FiscalCliff" target="#ohiochcnews" weight="3062" />
+      <edge id="428" source="#hearthealth" target="#worldheartday" weight="3062" />
+      <edge id="429" source="#hearthealth" target="#heart" weight="3062" />
+      <edge id="430" source="#hearthealth" target="#february" weight="3062" />
+      <edge id="431" source="#hearthealth" target="#men" weight="3062" />
+      <edge id="432" source="#changeyourclocks" target="#timechange" weight="3062" />
+      <edge id="433" source="#changeyourclocks" target="#fallback" weight="3062" />
+      <edge id="434" source="#safegifts" target="#safetoys" weight="6124" />
+      <edge id="435" source="#EHRs" target="#Nurses" weight="3062" />
+      <edge id="436" source="#EHRs" target="#RN" weight="3062" />
+      <edge id="437" source="#eyehealth" target="#backtoschool" weight="3062" />
+      <edge id="438" source="#eyehealth" target="#vision" weight="3062" />
+      <edge id="439" source="#Source" target="#HealthTips" weight="3062" />
+      <edge id="440" source="#Source" target="#Calcium" weight="3062" />
+      <edge id="441" source="#Alcohol" target="#Screening" weight="3062" />
+      <edge id="442" source="#Alcohol" target="#Awareness" weight="6124" />
+      <edge id="443" source="#NPHW" target="#NPHW2016" weight="9186" />
+      <edge id="444" source="#NPHW" target="#MCH" weight="3062" />
+      <edge id="445" source="#NPHW" target="#NPHWchat" weight="3062" />
+      <edge id="446" source="#NPHW" target="#CHCs" weight="6124" />
+      <edge id="447" source="#NPHW" target="#PHNerd" weight="6124" />
+      <edge id="448" source="#childabuse" target="#prevention" weight="3062" />
+      <edge id="449" source="#childabuse" target="#stopabuse" weight="3062" />
+      <edge id="450" source="#february" target="#leapday" weight="3062" />
+      <edge id="451" source="#february" target="#heart" weight="3062" />
+      <edge id="452" source="#windowfalls" target="#windowsafetyweek" weight="6124" />
+      <edge id="453" source="#areyoucoveredoh" target="#getcovered" weight="3062" />
+      <edge id="454" source="#areyoucoveredoh" target="#GetCovered" weight="3062" />
+      <edge id="455" source="#areyoucoveredoh" target="#holiday" weight="3062" />
+      <edge id="456" source="#advocacy" target="#pi12" weight="3062" />
+      <edge id="457" source="#advocacy" target="#FQHC" weight="3062" />
+      <edge id="458" source="#advocacy" target="#chc" weight="3062" />
+      <edge id="459" source="#columbus" target="#fitness" weight="3062" />
+      <edge id="460" source="#columbus" target="#statehouse" weight="3062" />
+      <edge id="461" source="#columbus" target="#walk" weight="3062" />
+      <edge id="462" source="#nhcw11" target="#nhcw11" weight="6124" />
+      <edge id="463" source="#nhcw11" target="#ohio" weight="12248" />
+      <edge id="464" source="#ice" target="#preparedness" weight="3062" />
+      <edge id="465" source="#ice" target="#snow" weight="3062" />
+      <edge id="466" source="#health" target="#Child" weight="3062" />
+      <edge id="467" source="#health" target="#prevent" weight="3062" />
+      <edge id="468" source="#health" target="#protect" weight="3062" />
+      <edge id="469" source="#health" target="#healthcare" weight="3062" />
+      <edge id="470" source="#health" target="#ohiochcnews" weight="3062" />
+      <edge id="471" source="#health" target="#menshealth" weight="3062" />
+      <edge id="472" source="#hygiene" target="#dental" weight="3062" />
+      <edge id="473" source="#hygiene" target="#oralhealth" weight="3062" />
+      <edge id="474" source="#hygiene" target="#cleanhands" weight="3062" />
+      <edge id="475" source="#centeringpregnancy" target="#ohiochcnews" weight="3062" />
+      <edge id="476" source="#centeringpregnancy" target="#infantmortality" weight="6124" />
+      <edge id="477" source="#centeringpregnancy" target="#OHFQHC" weight="3062" />
+      <edge id="478" source="#centeringpregnancy" target="#ohio" weight="6124" />
+      <edge id="479" source="#SuicidePrevention" target="#SPSM" weight="3062" />
+      <edge id="480" source="#SuicidePrevention" target="#NSPW" weight="3062" />
+      <edge id="481" source="#CHCs" target="#Champs" weight="3062" />
+      <edge id="482" source="#CHCs" target="#Vets" weight="3062" />
+      <edge id="483" source="#CHCs" target="#OACHC" weight="3062" />
+      <edge id="484" source="#CHCs" target="#chcchat" weight="3062" />
+      <edge id="485" source="#CHCs" target="#NHCW2013" weight="3062" />
+      <edge id="486" source="#CHCs" target="#CHCsHireVets" weight="9186" />
+      <edge id="487" source="#CHCs" target="#smoking" weight="3062" />
+      <edge id="488" source="#CHCs" target="#hiringvets" weight="3062" />
+      <edge id="489" source="#CHCs" target="#FQHCs" weight="6124" />
+      <edge id="490" source="#CHCs" target="#MCH" weight="3062" />
+      <edge id="491" source="#CHCs" target="#veterans" weight="3062" />
+      <edge id="492" source="#CHCs" target="#hcsm" weight="9186" />
+      <edge id="493" source="#CHCs" target="#FQHC" weight="18372" />
+      <edge id="494" source="#CHCs" target="#AHACs" weight="3062" />
+      <edge id="495" source="#CHCs" target="#fqhcs" weight="3062" />
+      <edge id="496" source="#CHCs" target="#HispanicHeritageMonth" weight="3062" />
+      <edge id="497" source="#CHCs" target="#Medicare" weight="3062" />
+      <edge id="498" source="#medicaid" target="#oachc2012" weight="3062" />
+      <edge id="499" source="#medicaid" target="#ohiochc" weight="3062" />
+      <edge id="500" source="#medicaid" target="#obamacare" weight="3062" />
+      <edge id="501" source="#medicaid" target="#pregnancy" weight="3062" />
+      <edge id="502" source="#medicaid" target="#ohiochcnews" weight="12248" />
+      <edge id="503" source="#medicaid" target="#centering" weight="3062" />
+      <edge id="504" source="#medicaid" target="#ohio" weight="3062" />
+      <edge id="505" source="#independenceday" target="#4thofjuly" weight="3062" />
+      <edge id="506" source="#independenceday" target="#safety" weight="3062" />
+      <edge id="507" source="#vision" target="#healthyeyes" weight="3062" />
+      <edge id="508" source="#vision" target="#healthyvision" weight="3062" />
+      <edge id="509" source="#vision" target="#chc" weight="3062" />
+      <edge id="510" source="#vision" target="#Lorain" weight="3062" />
+      <edge id="511" source="#Veterans" target="#FQHC" weight="3062" />
+      <edge id="512" source="#Veterans" target="#CHCsHireVets" weight="3062" />
+      <edge id="513" source="#crc" target="#colorectalcancer" weight="3062" />
+      <edge id="514" source="#Caregiver" target="#Awareness" weight="3062" />
+      <edge id="515" source="#areyoucoveredohio" target="#OhioFQHC" weight="6124" />
+      <edge id="516" source="#NursesWeek" target="#loanrepayment" weight="3062" />
+      <edge id="517" source="#NursesWeek" target="#NNW2016" weight="3062" />
+      <edge id="518" source="#NutritionMonth" target="#HealthyHabits" weight="3062" />
+      <edge id="519" source="#safety" target="#DD" weight="3062" />
+      <edge id="520" source="#safety" target="#seniorindependence" weight="3062" />
+      <edge id="521" source="#safety" target="#4thofjuly" weight="3062" />
+      <edge id="522" source="#suicide" target="#suicideprevention" weight="3062" />
+      <edge id="523" source="#ohio" target="#health4oh" weight="3062" />
+      <edge id="524" source="#ohio" target="#ohiochc" weight="9186" />
+      <edge id="525" source="#ohio" target="#infantmortality" weight="6124" />
+      <edge id="526" source="#ohio" target="#voterregistration" weight="3062" />
+      <edge id="527" source="#ohio" target="#ohiochcnews" weight="18372" />
+      <edge id="528" source="#ohio" target="#oachc2012" weight="6124" />
+      <edge id="529" source="#ohio" target="#CHC" weight="3062" />
+      <edge id="530" source="#ohio" target="#bed" weight="3062" />
+      <edge id="531" source="#ohio" target="#OHFQHC" weight="3062" />
+      <edge id="532" source="#ohio" target="#NHCW2013" weight="3062" />
+      <edge id="533" source="#ohio" target="#chc" weight="45930" />
+      <edge id="534" source="#ohio" target="#vote" weight="6124" />
+      <edge id="535" source="#ohio" target="#ohfqhc" weight="9186" />
+      <edge id="536" source="#ohio" target="#FQHC" weight="3062" />
+      <edge id="537" source="#ohio" target="#Health" weight="3062" />
+      <edge id="538" source="#ohio" target="#fqhcs" weight="3062" />
+      <edge id="539" source="#ohio" target="#Medicaid" weight="6124" />
+      <edge id="540" source="#ohio" target="#ohio" weight="6124" />
+      <edge id="541" source="#OACHC2013" target="#chc" weight="3062" />
+      <edge id="542" source="#IndependanceDay" target="#July4" weight="3062" />
+      <edge id="543" source="#colorectalcancer" target="#prevention" weight="3062" />
+      <edge id="544" source="#colorectalcancer" target="#screening" weight="3062" />
+      <edge id="545" source="#colorectalcancer" target="#cancerfacts" weight="3062" />
+      <edge id="546" source="#colorectalcancer" target="#chcs" weight="3062" />
+      <edge id="547" source="#craniofacial" target="#cleft" weight="3062" />
+      <edge id="548" source="#hospitals" target="#Ohioans" weight="3062" />
+      <edge id="549" source="#hospitals" target="#healthcare" weight="3062" />
+      <edge id="550" source="#chcchat" target="#fqhcs" weight="3062" />
+      <edge id="551" source="#chcchat" target="#chc" weight="3062" />
+      <edge id="552" source="#OHCan" target="#1stBirthdays" weight="3062" />
+      <edge id="553" source="#OHCan" target="#CHC" weight="3062" />
+      <edge id="554" source="#OHCan" target="#1stBirthday" weight="6124" />
+      <edge id="555" source="#OHCan" target="#infantmortality" weight="18372" />
+      <edge id="556" source="#OHCan" target="#FQHCs" weight="3062" />
+      <edge id="557" source="#OHCan" target="#FQHC" weight="6124" />
+      <edge id="558" source="#safesleep" target="#infantmortality" weight="3062" />
+      <edge id="559" source="#safesleep" target="#MoreFirstBirthdays" weight="3062" />
+      <edge id="560" source="#safesleep" target="#FQHC" weight="3062" />
+      <edge id="561" source="#bettercare" target="#ACATurns6" weight="3062" />
+      <edge id="562" source="#laugh" target="#april" weight="3062" />
+      <edge id="563" source="#laugh" target="#smile" weight="3062" />
+      <edge id="564" source="#Oct1" target="#FQHCs" weight="3062" />
+      <edge id="565" source="#CHC" target="#OhioCHC" weight="15310" />
+      <edge id="566" source="#CHC" target="#infantmortality" weight="3062" />
+      <edge id="567" source="#CHC" target="#OACHC" weight="6124" />
+      <edge id="568" source="#CHC" target="#ohiochcnews" weight="42868" />
+      <edge id="569" source="#CHC" target="#InterprofessionalCollaboration" weight="3062" />
+      <edge id="570" source="#CHC" target="#Ohio" weight="6124" />
+      <edge id="571" source="#CHC" target="#CHAMPS" weight="6124" />
+      <edge id="572" source="#CHC" target="#ThinkTeeth" weight="3062" />
+      <edge id="573" source="#CHC" target="#CHCsInnovate" weight="3062" />
+      <edge id="574" source="#CHC" target="#FQHCs" weight="18372" />
+      <edge id="575" source="#CHC" target="#OhioCHCNews" weight="3062" />
+      <edge id="576" source="#CHC" target="#getcovered" weight="3062" />
+      <edge id="577" source="#CHC" target="#NHCW2013" weight="12248" />
+      <edge id="578" source="#CHC" target="#chcnews" weight="3062" />
+      <edge id="579" source="#CHC" target="#FQHC" weight="79612" />
+      <edge id="580" source="#CHC" target="#OHFQHC" weight="9186" />
+      <edge id="581" source="#CHC" target="#Storymakers2016" weight="3062" />
+      <edge id="582" source="#CHC" target="#UHCC" weight="6124" />
+      <edge id="583" source="#CHC" target="#1stBirthday" weight="3062" />
+      <edge id="584" source="#CHC" target="#NPM" weight="36744" />
+      <edge id="585" source="#CHC" target="#ACA" weight="6124" />
+      <edge id="586" source="#CHC" target="#OACHC14" weight="3062" />
+      <edge id="587" source="#Month" target="#Awareness" weight="3062" />
+      <edge id="588" source="#Month" target="#Prematurity" weight="3062" />
+      <edge id="589" source="#GREATSHAKEOUT" target="#earthquake" weight="3062" />
+      <edge id="590" source="#Election2015" target="#GetOutTheVote" weight="9186" />
+      <edge id="591" source="#ADA" target="#ohiochcnews" weight="3062" />
+      <edge id="592" source="#ADA" target="#EHR" weight="3062" />
+      <edge id="593" source="#gynecologiccancer" target="#resources" weight="3062" />
+      <edge id="594" source="#ebola" target="#FQHCs" weight="3062" />
+      <edge id="595" source="#WPIW" target="#WorldPIWeek" weight="3062" />
+      <edge id="596" source="#bike" target="#walk" weight="3062" />
+      <edge id="597" source="#bike" target="#healthy" weight="3062" />
+      <edge id="598" source="#ADM" target="#EatHealthy" weight="3062" />
+      <edge id="599" source="#ADM" target="#Diabetes" weight="6124" />
+      <edge id="600" source="#WAD2014" target="#AIDS" weight="3062" />
+      <edge id="601" source="#WAD2015" target="#AIDSDay" weight="3062" />
+      <edge id="602" source="#WAD2015" target="#AIDS" weight="3062" />
+      <edge id="603" source="#Access" target="#ohiochcnews" weight="3062" />
+      <edge id="604" source="#Access" target="#chc" weight="3062" />
+      <edge id="605" source="#Clinicians" target="#hepatitis" weight="3062" />
+      <edge id="606" source="#Clinicians" target="#HIPAA" weight="3062" />
+      <edge id="607" source="#Clinicians" target="#knowhepatitis" weight="3062" />
+      <edge id="608" source="#vaccinate" target="#ohiochcnews" weight="3062" />
+      <edge id="609" source="#vaccinate" target="#meningitis" weight="3062" />
+      <edge id="610" source="#himss12" target="#forbetterhealth" weight="3062" />
+      <edge id="611" source="#dental" target="#sohio" weight="3062" />
+      <edge id="612" source="#dental" target="#safteynet" weight="3062" />
+      <edge id="613" source="#dental" target="#win" weight="3062" />
+      <edge id="614" source="#dental" target="#oralhealth" weight="3062" />
+      <edge id="615" source="#Arthritis" target="#Awareness" weight="3062" />
+      <edge id="616" source="#Version4010" target="#ICD10" weight="3062" />
+      <edge id="617" source="#wearteal" target="#spreadtheword" weight="3062" />
+      <edge id="618" source="#sohio" target="#safteynet" weight="3062" />
+      <edge id="619" source="#sohio" target="#win" weight="3062" />
+      <edge id="620" source="#chcs" target="#oachc2012" weight="3062" />
+      <edge id="621" source="#chcs" target="#Nonprofit" weight="3062" />
+      <edge id="622" source="#chcs" target="#chc" weight="6124" />
+      <edge id="623" source="#chcs" target="#fqhcs" weight="3062" />
+      <edge id="624" source="#chcs" target="#pi12" weight="3062" />
+      <edge id="625" source="#chcs" target="#social" weight="3062" />
+      <edge id="626" source="#chcs" target="#ohiochcnews" weight="6124" />
+      <edge id="627" source="#chcs" target="#Ohio" weight="3062" />
+      <edge id="628" source="#areyoucoveredOH" target="#OhioFQHC" weight="3062" />
+      <edge id="629" source="#congrats" target="#ohiochcnews" weight="6124" />
+      <edge id="630" source="#centering" target="#pregnancy" weight="3062" />
+      <edge id="631" source="#centering" target="#ohiochc" weight="3062" />
+      <edge id="632" source="#OHIO" target="#FQHC" weight="9186" />
+      <edge id="633" source="#OHIO" target="#OHFQHC" weight="3062" />
+      <edge id="634" source="#OHIO" target="#OhioCHC" weight="3062" />
+      <edge id="635" source="#HTNControlChallenge" target="#Hypertensive" weight="3062" />
+      <edge id="636" source="#Medicare" target="#chc" weight="6124" />
+      <edge id="637" source="#Medicare" target="#FQHC" weight="9186" />
+      <edge id="638" source="#Medicare" target="#EHR" weight="3062" />
+      <edge id="639" source="#Medicare" target="#hcr" weight="3062" />
+      <edge id="640" source="#Medicare" target="#aca" weight="3062" />
+      <edge id="641" source="#Medicare" target="#hcworks" weight="3062" />
+      <edge id="642" source="#Medicare" target="#Medicaid" weight="3062" />
+      <edge id="643" source="#Medicare" target="#ohiochcnews" weight="15310" />
+      <edge id="644" source="#fixthecliff" target="#NACHCpi15" weight="3062" />
+      <edge id="645" source="#healthcenter" target="#heroes" weight="3062" />
+      <edge id="646" source="#vaccines" target="#NIIW" weight="3062" />
+      <edge id="647" source="#vaccines" target="#meningitis" weight="3062" />
+      <edge id="648" source="#vaccines" target="#immunizations" weight="6124" />
+      <edge id="649" source="#vaccines" target="#NIIW2016" weight="3062" />
+      <edge id="650" source="#vaccines" target="#immunization" weight="3062" />
+      <edge id="651" source="#vaccines" target="#infants" weight="3062" />
+      <edge id="652" source="#influenza" target="#vaccination" weight="3062" />
+      <edge id="653" source="#GoRed" target="#WearRedDay" weight="3062" />
+      <edge id="654" source="#GoRed" target="#heartdisease" weight="3062" />
+      <edge id="655" source="#GoRed" target="#chc" weight="3062" />
+      <edge id="656" source="#Media" target="#Marketing" weight="3062" />
+      <edge id="657" source="#Media" target="#HealthCommunication" weight="3062" />
+      <edge id="658" source="#cold" target="#flu" weight="3062" />
+      <edge id="659" source="#cold" target="#FactFriday" weight="3062" />
+      <edge id="660" source="#Blizzard" target="#EmergencyPreparedness" weight="3062" />
+      <edge id="661" source="#Blizzard" target="#Prepared" weight="3062" />
+      <edge id="662" source="#Blizzard" target="#WinterStorm" weight="3062" />
+      <edge id="663" source="#HealthCenters" target="#CHC50" weight="3062" />
+      <edge id="664" source="#heartdisease" target="#chc" weight="3062" />
+      <edge id="665" source="#earlydetection" target="#mamograms" weight="3062" />
+      <edge id="666" source="#FQHCs" target="#CHCsInnovate" weight="3062" />
+      <edge id="667" source="#FQHCs" target="#FixtheCliff" weight="15310" />
+      <edge id="668" source="#FQHCs" target="#NPM" weight="3062" />
+      <edge id="669" source="#FQHCs" target="#ACA" weight="3062" />
+      <edge id="670" source="#FQHCs" target="#HispanicHeritageMonth" weight="3062" />
+      <edge id="671" source="#FQHCs" target="#MoreFirstBirthdays" weight="6124" />
+      <edge id="672" source="#FQHCs" target="#infantmortality" weight="3062" />
+      <edge id="673" source="#FQHCs" target="#AccessistheAnswer" weight="15310" />
+      <edge id="674" source="#SPSM" target="#NSPW" weight="3062" />
+      <edge id="675" source="#Craniofacial" target="#Cleft" weight="3062" />
+      <edge id="676" source="#Obamacare" target="#chc" weight="6124" />
+      <edge id="677" source="#Obamacare" target="#chcnews" weight="6124" />
+      <edge id="678" source="#Obamacare" target="#getcovered" weight="3062" />
+      <edge id="679" source="#Obamacare" target="#ohiochcnews" weight="6124" />
+      <edge id="680" source="#Obamacare" target="#Ohio" weight="3062" />
+      <edge id="681" source="#donateblood" target="#blooddrive" weight="3062" />
+      <edge id="682" source="#donateblood" target="#volunteer" weight="3062" />
+      <edge id="683" source="#BrainInjury" target="#Awareness" weight="3062" />
+      <edge id="684" source="#BrainInjury" target="#NotAloneInBrainInjury" weight="3062" />
+      <edge id="685" source="#nursesday" target="#SafeNursesRock" weight="3062" />
+      <edge id="686" source="#nursesday" target="#Ohiochc" weight="3062" />
+      <edge id="687" source="#nursesday" target="#Nursesweek" weight="3062" />
+      <edge id="688" source="#nursesday" target="#NNW2016" weight="3062" />
+      <edge id="689" source="#cervicalcancer" target="#prevention" weight="3062" />
+      <edge id="690" source="#cervicalcancer" target="#cervicalhealthmonth" weight="6124" />
+      <edge id="691" source="#Mental" target="#Health" weight="3062" />
+      <edge id="692" source="#recognition" target="#nurse" weight="3062" />
+      <edge id="693" source="#recognition" target="#chc" weight="6124" />
+      <edge id="694" source="#Women" target="#History" weight="3062" />
+      <edge id="695" source="#instalum" target="#MLKday" weight="3062" />
+      <edge id="696" source="#Cancer" target="#CRC" weight="3062" />
+      <edge id="697" source="#Cancer" target="#Prevention" weight="6124" />
+      <edge id="698" source="#Cancer" target="#FAQs" weight="3062" />
+      <edge id="699" source="#Cancer" target="#Awareness" weight="3062" />
+      <edge id="700" source="#Cancer" target="#Breast" weight="3062" />
+      <edge id="701" source="#Cancer" target="#colorectal" weight="3062" />
+      <edge id="702" source="#Cancer" target="#BreastCancer" weight="3062" />
+      <edge id="703" source="#hcworks" target="#aca" weight="3062" />
+      <edge id="704" source="#hcworks" target="#hcr" weight="3062" />
+      <edge id="705" source="#NNW2016" target="#SafeNursesRock" weight="3062" />
+      <edge id="706" source="#NNW2016" target="#Ohiochc" weight="3062" />
+      <edge id="707" source="#NNW2016" target="#Nursesweek" weight="3062" />
+      <edge id="708" source="#AMD" target="#Awareness" weight="6124" />
+      <edge id="709" source="#Rural" target="#oachcnews" weight="3062" />
+      <edge id="710" source="#Rural" target="#poor" weight="3062" />
+      <edge id="711" source="#Rural" target="#Ohio" weight="3062" />
+      <edge id="712" source="#Child" target="#protect" weight="3062" />
+      <edge id="713" source="#KidsGetArthritis" target="#CureArthritis" weight="3062" />
+      <edge id="714" source="#KidsGetArthritis" target="#JuvenileArthritis" weight="3062" />
+      <edge id="715" source="#work" target="#GenY" weight="3062" />
+      <edge id="716" source="#safetyfirst" target="#bikesafety" weight="3062" />
+      <edge id="717" source="#Smokeout" target="#smokers" weight="3062" />
+      <edge id="718" source="#oachcnews" target="#poor" weight="3062" />
+      <edge id="719" source="#oachcnews" target="#opioid" weight="3062" />
+      <edge id="720" source="#oachcnews" target="#Ohio" weight="3062" />
+      <edge id="721" source="#nutrition" target="#nutritionfacts" weight="3062" />
+      <edge id="722" source="#nutrition" target="#challengeaccepted" weight="3062" />
+      <edge id="723" source="#nutrition" target="#gethealthy" weight="3062" />
+      <edge id="724" source="#nutrition" target="#nationalnutritionmonth" weight="18372" />
+      <edge id="725" source="#nutrition" target="#lunchtime" weight="3062" />
+      <edge id="726" source="#healthy" target="#walk" weight="3062" />
+      <edge id="727" source="#ClinicalQuality" target="#HealthyBabies" weight="3062" />
+      <edge id="728" source="#ClinicalQuality" target="#FQHC" weight="3062" />
+      <edge id="729" source="#ClinicalQuality" target="#ColorectalCancer" weight="3062" />
+      <edge id="730" source="#Residency" target="#Medicine" weight="3062" />
+      <edge id="731" source="#Residency" target="#ohiochcnews" weight="3062" />
+      <edge id="732" source="#health4oh" target="#Medicaidexpansion" weight="3062" />
+      <edge id="733" source="#health4oh" target="#ohiochcnews" weight="3062" />
+      <edge id="734" source="#health4oh" target="#Ohio" weight="3062" />
+      <edge id="735" source="#getcovered" target="#ohiochcnews" weight="12248" />
+      <edge id="736" source="#getcovered" target="#chcnews" weight="15310" />
+      <edge id="737" source="#getcovered" target="#rockenroll" weight="6124" />
+      <edge id="738" source="#getcovered" target="#ACA" weight="6124" />
+      <edge id="739" source="#getcovered" target="#CAC" weight="3062" />
+      <edge id="740" source="#getcovered" target="#enrollamerica" weight="3062" />
+      <edge id="741" source="#getcovered" target="#obamacare" weight="9186" />
+      <edge id="742" source="#getcovered" target="#medicare" weight="3062" />
+      <edge id="743" source="#getcovered" target="#ObamaCare" weight="3062" />
+      <edge id="744" source="#ACWeek" target="#AmeriCorpsWorksHere" weight="3062" />
+      <edge id="745" source="#ACWeek" target="#ACAlums" weight="3062" />
+      <edge id="746" source="#SaveCHCs" target="#chc" weight="3062" />
+      <edge id="747" source="#speaker" target="#chc" weight="9186" />
+      <edge id="748" source="#speaker" target="#oachc13" weight="3062" />
+      <edge id="749" source="#speaker" target="#abstracts" weight="3062" />
+      <edge id="750" source="#speaker" target="#conference" weight="3062" />
+      <edge id="751" source="#ChoosePrimaryCare" target="#primarycare" weight="3062" />
+      <edge id="752" source="#HHS" target="#chc" weight="3062" />
+      <edge id="753" source="#OhioJobs" target="#FQHC" weight="3062" />
+      <edge id="754" source="#OhioJobs" target="#CLE" weight="3062" />
+      <edge id="755" source="#drshortage" target="#ohiochcnews" weight="3062" />
+      <edge id="756" source="#smile" target="#april" weight="3062" />
+      <edge id="757" source="#voter" target="#advocates" weight="3062" />
+      <edge id="758" source="#voter" target="#chc" weight="3062" />
+      <edge id="759" source="#money" target="#retirement" weight="3062" />
+      <edge id="760" source="#fallback" target="#timechange" weight="3062" />
+      <edge id="761" source="#physicians" target="#doctor" weight="3062" />
+      <edge id="762" source="#physicians" target="#healthcare" weight="3062" />
+      <edge id="763" source="#health4OH" target="#Medicaid" weight="3062" />
+      <edge id="764" source="#health4OH" target="#Ohio" weight="6124" />
+      <edge id="765" source="#chcnews" target="#nhcw2013" weight="3062" />
+      <edge id="766" source="#chcnews" target="#ObamaCare" weight="3062" />
+      <edge id="767" source="#chcnews" target="#ohiochcnews" weight="39806" />
+      <edge id="768" source="#chcnews" target="#infantmortality" weight="3062" />
+      <edge id="769" source="#chcnews" target="#chc" weight="33682" />
+      <edge id="770" source="#hcr" target="#aca" weight="3062" />
+      <edge id="771" source="#OH" target="#FQHC" weight="6124" />
+      <edge id="772" source="#OH" target="#LCSWs" weight="3062" />
+      <edge id="773" source="#enrollamerica" target="#ACA" weight="3062" />
+      <edge id="774" source="#enrollamerica" target="#rockenroll" weight="3062" />
+      <edge id="775" source="#navigators" target="#ohiochcnews" weight="3062" />
+      <edge id="776" source="#navigators" target="#ACA" weight="3062" />
+      <edge id="777" source="#NCDHM" target="#DidYouKnow" weight="3062" />
+      <edge id="778" source="#skincancer" target="#melanomamonday" weight="3062" />
+      <edge id="779" source="#skincancer" target="#infographic" weight="3062" />
+      <edge id="780" source="#skincancer" target="#prevention" weight="6124" />
+      <edge id="781" source="#skincancer" target="#cancer" weight="3062" />
+      <edge id="782" source="#skincancer" target="#skin" weight="3062" />
+      <edge id="783" source="#skincancer" target="#healthyskin" weight="3062" />
+      <edge id="784" source="#HealthyMoms2Be" target="#pregnant" weight="3062" />
+      <edge id="785" source="#sandyhook" target="#ohiochcnews" weight="3062" />
+      <edge id="786" source="#sandyhook" target="#chc" weight="3062" />
+      <edge id="787" source="#winter" target="#car" weight="3062" />
+      <edge id="788" source="#skin" target="#cancer" weight="3062" />
+      <edge id="789" source="#mentalhealth" target="#depression" weight="3062" />
+      <edge id="790" source="#mentalhealth" target="#ohiochcnews" weight="3062" />
+      <edge id="791" source="#affini12" target="#oachc13" weight="3062" />
+      <edge id="792" source="#happynewyear" target="#goodbye2015" weight="3062" />
+      <edge id="793" source="#NPHWchat" target="#NPHW2016" weight="3062" />
+      <edge id="794" source="#coveryourcough" target="#cleanhands" weight="3062" />
+      <edge id="795" source="#ohiochc" target="#veterans" weight="3062" />
+      <edge id="796" source="#ohiochc" target="#chc" weight="9186" />
+      <edge id="797" source="#ohiochc" target="#FQHC" weight="3062" />
+      <edge id="798" source="#ohiochc" target="#ohiochcnews" weight="3062" />
+      <edge id="799" source="#ohiochc" target="#ohfqhc" weight="9186" />
+      <edge id="800" source="#CDCEbola" target="#Ebola" weight="3062" />
+      <edge id="801" source="#OhioKidsHealthConference" target="#ohiochcnews" weight="3062" />
+      <edge id="802" source="#insurance" target="#Healthcare" weight="3062" />
+      <edge id="803" source="#insurance" target="#chc" weight="3062" />
+      <edge id="804" source="#Weather" target="#chc" weight="3062" />
+      <edge id="805" source="#diabetesalertday" target="#alert" weight="3062" />
+      <edge id="806" source="#diabetesalertday" target="#diabetes" weight="3062" />
+      <edge id="807" source="#ohiofqhc" target="#ohchc" weight="3062" />
+      <edge id="808" source="#ohiofqhc" target="#chc50" weight="3062" />
+      <edge id="809" source="#ohiofqhc" target="#communityhealthcenters" weight="3062" />
+      <edge id="810" source="#BlackHistoryMonth" target="#BHM" weight="3062" />
+      <edge id="811" source="#factsfavorfluoridation" target="#Fluoride" weight="3062" />
+      <edge id="812" source="#ICD" target="#billing" weight="3062" />
+      <edge id="813" source="#ICD" target="#chc" weight="3062" />
+      <edge id="814" source="#epilepsy" target="#Awareness" weight="3062" />
+      <edge id="815" source="#dressinblueday" target="#coloncancer" weight="6124" />
+      <edge id="816" source="#dressinblueday" target="#screeningsave" weight="3062" />
+      <edge id="817" source="#WinterStorm" target="#EmergencyPreparedness" weight="3062" />
+      <edge id="818" source="#WinterStorm" target="#Prepared" weight="3062" />
+      <edge id="819" source="#SocialMedia" target="#ohiochcnews" weight="6124" />
+      <edge id="820" source="#SocialMedia" target="#hcsm" weight="3062" />
+      <edge id="821" source="#SocialMedia" target="#Diseases" weight="3062" />
+      <edge id="822" source="#childrenshealth" target="#dentalhealth" weight="3062" />
+      <edge id="823" source="#screeningsave" target="#coloncancer" weight="3062" />
+      <edge id="824" source="#KSOCTV" target="#Suicide" weight="3062" />
+      <edge id="825" source="#KSOCTV" target="#college" weight="3062" />
+      <edge id="826" source="#COPD" target="#COPD" weight="6124" />
+      <edge id="827" source="#COPD" target="#Infographic" weight="3062" />
+      <edge id="828" source="#hcsm" target="#Diseases" weight="3062" />
+      <edge id="829" source="#hcsm" target="#Facebook" weight="3062" />
+      <edge id="830" source="#hcsm" target="#ACA" weight="3062" />
+      <edge id="831" source="#hcsm" target="#Healthcare" weight="3062" />
+      <edge id="832" source="#hcsm" target="#mhealth" weight="3062" />
+      <edge id="833" source="#hcsm" target="#hcsmeu" weight="3062" />
+      <edge id="834" source="#hcsm" target="#ohiochcnews" weight="24496" />
+      <edge id="835" source="#hcsm" target="#OACHC13" weight="3062" />
+      <edge id="836" source="#BreastCancer" target="#GetInvolved" weight="3062" />
+      <edge id="837" source="#BreastCancer" target="#FAQs" weight="3062" />
+      <edge id="838" source="#BreastCancer" target="#Awareness" weight="3062" />
+      <edge id="839" source="#BreastCancer" target="#Breast" weight="3062" />
+      <edge id="840" source="#Physicians" target="#ohiochcnews" weight="6124" />
+      <edge id="841" source="#Physicians" target="#Healthcare" weight="3062" />
+      <edge id="842" source="#healthyvision" target="#healthyeyes" weight="3062" />
+      <edge id="843" source="#YoureNotAlone" target="#StopBullying365" weight="3062" />
+      <edge id="844" source="#opioid" target="#prevention" weight="3062" />
+      <edge id="845" source="#flu" target="#FactFriday" weight="3062" />
+      <edge id="846" source="#HealthcareWorks" target="#OHFQHC" weight="3062" />
+      <edge id="847" source="#Diseases" target="#ohiochcnews" weight="3062" />
+      <edge id="848" source="#nhcw2013" target="#ohiochcnews" weight="3062" />
+      <edge id="849" source="#nhcw2013" target="#chc" weight="3062" />
+      <edge id="850" source="#nhcw2012" target="#Ohio" weight="6124" />
+      <edge id="851" source="#communityhealthvote" target="#chc" weight="3062" />
+      <edge id="852" source="#OACHC" target="#champs" weight="3062" />
+      <edge id="853" source="#OACHC" target="#UHCC" weight="27558" />
+      <edge id="854" source="#OACHC" target="#OhioCHC" weight="3062" />
+      <edge id="855" source="#OACHC" target="#CHAMPS" weight="9186" />
+      <edge id="856" source="#OACHC" target="#FQHC" weight="30620" />
+      <edge id="857" source="#OACHC" target="#OhioFQHC" weight="3062" />
+      <edge id="858" source="#OACHC" target="#Champs" weight="15310" />
+      <edge id="859" source="#OACHC" target="#CHCChamps" weight="12248" />
+      <edge id="860" source="#WBW2015" target="#breastfeeding" weight="3062" />
+      <edge id="861" source="#SafetyNet" target="#Dental" weight="3062" />
+      <edge id="862" source="#SafetyNet" target="#webinar" weight="3062" />
+      <edge id="863" source="#symptoms" target="#alzheimers" weight="3062" />
+      <edge id="864" source="#infographic" target="#healthyskin" weight="3062" />
+      <edge id="865" source="#nursinghome" target="#aloha" weight="3062" />
+      <edge id="866" source="#CHCsHireVets" target="#veterans" weight="6124" />
+      <edge id="867" source="#CHCsHireVets" target="#Vets" weight="3062" />
+      <edge id="868" source="#CHCsHireVets" target="#hiringvets" weight="3062" />
+      <edge id="869" source="#CHCsHireVets" target="#FQHC" weight="6124" />
+      <edge id="870" source="#social" target="#Nonprofit" weight="3062" />
+      <edge id="871" source="#cookbook" target="#Ohioian" weight="3062" />
+      <edge id="872" source="#cookbook" target="#charity" weight="3062" />
+      <edge id="873" source="#lungcancer" target="#lcsm" weight="3062" />
+      <edge id="874" source="#ACAlums" target="#AmeriCorpsWorksHere" weight="3062" />
+      <edge id="875" source="#oralhealth" target="#ohiochcnews" weight="3062" />
+      <edge id="876" source="#oralhealth" target="#dentalhygiene" weight="3062" />
+      <edge id="877" source="#oralhealth" target="#TeethMatter2Dads" weight="3062" />
+      <edge id="878" source="#oralhealth" target="#ilikemyteeth" weight="3062" />
+      <edge id="879" source="#oralhealth" target="#NDHM2015" weight="3062" />
+      <edge id="880" source="#oralhealth" target="#children" weight="3062" />
+      <edge id="881" source="#oralhealth" target="#healthymouth" weight="3062" />
+      <edge id="882" source="#wearredday" target="#goredwearred" weight="3062" />
+      <edge id="883" source="#wearredday" target="#wearredforwomen" weight="3062" />
+      <edge id="884" source="#blog" target="#ohiochcnews" weight="3062" />
+      <edge id="885" source="#texttalkact" target="#HeroesofHope" weight="3062" />
+      <edge id="886" source="#Infographic" target="#Nonprofit" weight="3062" />
+      <edge id="887" source="#Infographic" target="#HealthyStart" weight="3062" />
+      <edge id="888" source="#prevention" target="#melanomamonday" weight="3062" />
+      <edge id="889" source="#prevention" target="#arthritis" weight="3062" />
+      <edge id="890" source="#prevention" target="#1stBirthday" weight="3062" />
+      <edge id="891" source="#prevention" target="#AICR" weight="3062" />
+      <edge id="892" source="#prevention" target="#preventcancer" weight="3062" />
+      <edge id="893" source="#prevention" target="#infection" weight="3062" />
+      <edge id="894" source="#prevention" target="#stopabuse" weight="3062" />
+      <edge id="895" source="#prevention" target="#OACHC14" weight="3062" />
+      <edge id="896" source="#prevention" target="#HIVtestingday" weight="3062" />
+      <edge id="897" source="#prevention" target="#birthdefects" weight="9186" />
+      <edge id="898" source="#prevention" target="#Suicideawareness" weight="3062" />
+      <edge id="899" source="#Accessistheanswer" target="#FQHC" weight="3062" />
+      <edge id="900" source="#MuscularDystrophy" target="#Awareness" weight="3062" />
+      <edge id="901" source="#Breast" target="#FAQs" weight="3062" />
+      <edge id="902" source="#Breast" target="#Awareness" weight="3062" />
+      <edge id="903" source="#healthfinder" target="#StopBullying365" weight="3062" />
+      <edge id="904" source="#Marketing" target="#HealthCommunication" weight="3062" />
+      <edge id="905" source="#infants" target="#immunization" weight="3062" />
+      <edge id="906" source="#infants" target="#NIIW" weight="3062" />
+      <edge id="907" source="#infants" target="#NIIW2016" weight="3062" />
+      <edge id="908" source="#PHNerd" target="#NPHW2016" weight="6124" />
+      <edge id="909" source="#CHCinnovate" target="#OhioFQHC" weight="3062" />
+      <edge id="910" source="#quitter" target="#greatamericansmokeout" weight="3062" />
+      <edge id="911" source="#ThisSideUp" target="#SafeSleepABCs" weight="3062" />
+      <edge id="912" source="#April" target="#Awareness" weight="3062" />
+      <edge id="913" source="#zika" target="#mosquitos" weight="3062" />
+      <edge id="914" source="#OACHC16" target="#thankyou" weight="3062" />
+      <edge id="915" source="#OACHC14" target="#1stBirthday" weight="3062" />
+      <edge id="916" source="#OACHC15" target="#FQHC" weight="3062" />
+      <edge id="917" source="#OACHC15" target="#NACHCpi15" weight="6124" />
+      <edge id="918" source="#RN" target="#Nurses" weight="3062" />
+      <edge id="919" source="#NCSD2016" target="#survivor" weight="3062" />
+      <edge id="920" source="#NCSD2016" target="#CelebrateLife" weight="3062" />
+      <edge id="921" source="#Healthcenters" target="#chc" weight="6124" />
+      <edge id="922" source="#savechcs" target="#pi12" weight="12248" />
+      <edge id="923" source="#savechcs" target="#chc" weight="6124" />
+      <edge id="924" source="#Medical" target="#Laboratory" weight="3062" />
+      <edge id="925" source="#CureArthritis" target="#JuvenileArthritis" weight="3062" />
+      <edge id="926" source="#Lymphoma" target="#Awareness" weight="3062" />
+      <edge id="927" source="#Lymphoma" target="#September" weight="3062" />
+      <edge id="928" source="#Lymphoma" target="#Leukemia" weight="3062" />
+      <edge id="929" source="#highbloodpressure" target="#heartage" weight="3062" />
+      <edge id="930" source="#highbloodpressure" target="#vitalsigns" weight="3062" />
+      <edge id="931" source="#ohiochcnews" target="#Medicaid" weight="18372" />
+      <edge id="932" source="#ohiochcnews" target="#dentalhealth" weight="3062" />
+      <edge id="933" source="#ohiochcnews" target="#heath4oh" weight="3062" />
+      <edge id="934" source="#ohiochcnews" target="#vaccine" weight="6124" />
+      <edge id="935" source="#ohiochcnews" target="#Facebook" weight="3062" />
+      <edge id="936" source="#ohiochcnews" target="#Cloud" weight="3062" />
+      <edge id="937" source="#ohiochcnews" target="#congratulations" weight="3062" />
+      <edge id="938" source="#ohiochcnews" target="#alcoholawareness" weight="3062" />
+      <edge id="939" source="#ohiochcnews" target="#OhioCHC" weight="3062" />
+      <edge id="940" source="#ohiochcnews" target="#outreach" weight="3062" />
+      <edge id="941" source="#ohiochcnews" target="#OH4ME" weight="12248" />
+      <edge id="942" source="#ohiochcnews" target="#1stbirthday" weight="3062" />
+      <edge id="943" source="#ohiochcnews" target="#constantcontact" weight="3062" />
+      <edge id="944" source="#ohiochcnews" target="#OHFQHC" weight="12248" />
+      <edge id="945" source="#ohiochcnews" target="#Dental" weight="3062" />
+      <edge id="946" source="#ohiochcnews" target="#MedicaidExpansion" weight="12248" />
+      <edge id="947" source="#ohiochcnews" target="#hsm" weight="3062" />
+      <edge id="948" source="#ohiochcnews" target="#Ohio" weight="12248" />
+      <edge id="949" source="#ohiochcnews" target="#infantmortality" weight="12248" />
+      <edge id="950" source="#ohiochcnews" target="#NHCW2014" weight="3062" />
+      <edge id="951" source="#ohiochcnews" target="#NHCW2013" weight="6124" />
+      <edge id="952" source="#ohiochcnews" target="#chc" weight="107170" />
+      <edge id="953" source="#ohiochcnews" target="#pcmh" weight="3062" />
+      <edge id="954" source="#ohiochcnews" target="#painkillers" weight="3062" />
+      <edge id="955" source="#ohiochcnews" target="#hospice" weight="3062" />
+      <edge id="956" source="#ohiochcnews" target="#primarycare" weight="6124" />
+      <edge id="957" source="#ohiochcnews" target="#Medicaidexpansion" weight="9186" />
+      <edge id="958" source="#ohiochcnews" target="#rockenroll" weight="3062" />
+      <edge id="959" source="#ohiochcnews" target="#ohfqhc" weight="3062" />
+      <edge id="960" source="#ohiochcnews" target="#CAC" weight="3062" />
+      <edge id="961" source="#ohiochcnews" target="#FQHC" weight="30620" />
+      <edge id="962" source="#ohiochcnews" target="#NIVW2014" weight="3062" />
+      <edge id="963" source="#ohiochcnews" target="#meningitis" weight="3062" />
+      <edge id="964" source="#ohiochcnews" target="#Ohioans" weight="3062" />
+      <edge id="965" source="#ohiochcnews" target="#obamacare" weight="3062" />
+      <edge id="966" source="#ohiochcnews" target="#ehr" weight="3062" />
+      <edge id="967" source="#ohiochcnews" target="#fqhcs" weight="6124" />
+      <edge id="968" source="#ohiochcnews" target="#EHR" weight="6124" />
+      <edge id="969" source="#ohiochcnews" target="#ACA" weight="24496" />
+      <edge id="970" source="#ohiochcnews" target="#Healthcare" weight="9186" />
+      <edge id="971" source="#ohiochcnews" target="#Medicine" weight="3062" />
+      <edge id="972" source="#ohiochcnews" target="#healthcare" weight="6124" />
+      <edge id="973" source="#healthyskin" target="#quiz" weight="3062" />
+      <edge id="974" source="#goodtoknow" target="#prevent" weight="3062" />
+      <edge id="975" source="#EatingDisorders" target="#Prevention" weight="3062" />
+      <edge id="976" source="#EatingDisorders" target="#Awareness" weight="6124" />
+      <edge id="977" source="#EatingDisorders" target="#NEDAwareness" weight="3062" />
+      <edge id="978" source="#Abuse" target="#Elder" weight="3062" />
+      <edge id="979" source="#healthy4oh" target="#peoplenot" weight="3062" />
+      <edge id="980" source="#vaccineswork" target="#closethegap" weight="3062" />
+      <edge id="981" source="#hiringvets" target="#FQHC" weight="3062" />
+      <edge id="982" source="#areyoucovered" target="#GetCovered" weight="3062" />
+      <edge id="983" source="#OhioCHCNews" target="#OhioCHC" weight="9186" />
+      <edge id="984" source="#OhioCHCNews" target="#FQHC" weight="15310" />
+      <edge id="985" source="#OhioCHCNews" target="#ACA" weight="3062" />
+      <edge id="986" source="#OhioCHCNews" target="#OHFQHCS" weight="3062" />
+      <edge id="987" source="#OhioCHCNews" target="#OHFQHC" weight="12248" />
+      <edge id="988" source="#OhioCHCNews" target="#FixtheCliff" weight="3062" />
+      <edge id="989" source="#poor" target="#Ohio" weight="3062" />
+      <edge id="990" source="#college" target="#Suicide" weight="3062" />
+      <edge id="991" source="#PrepareAthon" target="#wildfire" weight="3062" />
+      <edge id="992" source="#GetCovered" target="#CyberMonday" weight="3062" />
+      <edge id="993" source="#GetCovered" target="#OpenEnrollment" weight="6124" />
+      <edge id="994" source="#GetCovered" target="#ACA" weight="3062" />
+      <edge id="995" source="#GetCovered" target="#holiday" weight="3062" />
+      <edge id="996" source="#GetCovered" target="#7DaysLeft" weight="3062" />
+      <edge id="997" source="#CommunityHealth" target="#OhioCHC" weight="3062" />
+      <edge id="998" source="#CommunityHealth" target="#Ohio" weight="3062" />
+      <edge id="999" source="#NDHM2015" target="#dentalhygiene" weight="6124" />
+      <edge id="1000" source="#CallToAction" target="#FixTheCliff" weight="3062" />
+      <edge id="1001" source="#preparedness" target="#snow" weight="3062" />
+      <edge id="1002" source="#Moms" target="#pumping" weight="3062" />
+      <edge id="1003" source="#Moms" target="#Ohio" weight="3062" />
+      <edge id="1004" source="#heartage" target="#vitalsigns" weight="3062" />
+      <edge id="1005" source="#ohfqhc" target="#chc" weight="9186" />
+      <edge id="1006" source="#CHCChamps" target="#champs" weight="3062" />
+      <edge id="1007" source="#CHCChamps" target="#UHCC" weight="9186" />
+      <edge id="1008" source="#CHCChamps" target="#FQHC" weight="12248" />
+      <edge id="1009" source="#CHCChamps" target="#Champs" weight="9186" />
+      <edge id="1010" source="#champs" target="#FQHC" weight="3062" />
+      <edge id="1011" source="#NACHCpi15" target="#FQHC" weight="3062" />
+      <edge id="1012" source="#survivor" target="#CelebrateLife" weight="3062" />
+      <edge id="1013" source="#Screening" target="#Awareness" weight="3062" />
+      <edge id="1014" source="#fqhcs" target="#chc" weight="9186" />
+      <edge id="1015" source="#fqhcs" target="#ohiochcnew" weight="3062" />
+      <edge id="1016" source="#fqhcs" target="#FixTheCliff" weight="3062" />
+      <edge id="1017" source="#Healthcare" target="#chc" weight="3062" />
+      <edge id="1018" source="#Healthcare" target="#Quality" weight="3062" />
+      <edge id="1019" source="#ALSawareness" target="#challengeALS" weight="3062" />
+      <edge id="1020" source="#ALSawareness" target="#ALS" weight="3062" />
+      <edge id="1021" source="#advocate" target="#ohiochcnew" weight="3062" />
+      <edge id="1022" source="#OhioCHC" target="#FixtheCliff" weight="3062" />
+      <edge id="1023" source="#OhioCHC" target="#FQHC" weight="24496" />
+      <edge id="1024" source="#OhioCHC" target="#ACA" weight="3062" />
+      <edge id="1025" source="#OhioCHC" target="#OHFQHCS" weight="3062" />
+      <edge id="1026" source="#OhioCHC" target="#OHFQHC" weight="18372" />
+      <edge id="1027" source="#OhioCHC" target="#Ohio" weight="6124" />
+      <edge id="1028" source="#rockenroll" target="#chc" weight="3062" />
+      <edge id="1029" source="#rockenroll" target="#ACA" weight="3062" />
+      <edge id="1030" source="#congratulations" target="#chc" weight="3062" />
+      <edge id="1031" source="#NotAloneInBrainInjury" target="#Awareness" weight="3062" />
+      <edge id="1032" source="#chronicpain" target="#FAQ" weight="3062" />
+      <edge id="1033" source="#colorectal" target="#Prevention" weight="3062" />
+      <edge id="1034" source="#WorldCancerDay" target="#NotBeyondUs" weight="6124" />
+      <edge id="1035" source="#MoreFirstBirthdays" target="#SafeSleep" weight="3062" />
+      <edge id="1036" source="#MoreFirstBirthdays" target="#FQHC" weight="9186" />
+      <edge id="1037" source="#hepatitis" target="#worldhepatitisday" weight="3062" />
+      <edge id="1038" source="#hepatitis" target="#knowhepatitis" weight="3062" />
+      <edge id="1039" source="#coloncancer" target="#OhioCHCs" weight="3062" />
+      <edge id="1040" source="#coloncancer" target="#FQHC" weight="3062" />
+      <edge id="1041" source="#PHMHL" target="#brushtime" weight="3062" />
+      <edge id="1042" source="#nationalnutritionmonth" target="#challengeaccepted" weight="3062" />
+      <edge id="1043" source="#nationalnutritionmonth" target="#lunchtime" weight="3062" />
+      <edge id="1044" source="#fitness" target="#walk" weight="3062" />
+      <edge id="1045" source="#fitness" target="#statehouse" weight="3062" />
+      <edge id="1046" source="#fitness" target="#healthyworkplace" weight="3062" />
+      <edge id="1047" source="#immunization" target="#NIIW2016" weight="3062" />
+      <edge id="1048" source="#immunization" target="#NIIW" weight="3062" />
+      <edge id="1049" source="#goredwearred" target="#wearredforwomen" weight="3062" />
+      <edge id="1050" source="#1stBirthdays" target="#infantmortality" weight="3062" />
+      <edge id="1051" source="#NHCW2013" target="#FQHC" weight="3062" />
+      <edge id="1052" source="#NHCW2013" target="#chc" weight="3062" />
+      <edge id="1053" source="#vote" target="#chc" weight="3062" />
+      <edge id="1054" source="#Falls" target="#Prevention" weight="3062" />
+      <edge id="1055" source="#Falls" target="#Awareness" weight="3062" />
+      <edge id="1056" source="#Falls" target="#FallsPrevention" weight="3062" />
+      <edge id="1057" source="#vaccine" target="#NIVW2014" weight="3062" />
+      <edge id="1058" source="#FQHC" target="#Champs" weight="15310" />
+      <edge id="1059" source="#FQHC" target="#Dental" weight="3062" />
+      <edge id="1060" source="#FQHC" target="#infantmortality" weight="12248" />
+      <edge id="1061" source="#FQHC" target="#Medicaidexpansion" weight="3062" />
+      <edge id="1062" source="#FQHC" target="#ColorectalCancer" weight="3062" />
+      <edge id="1063" source="#FQHC" target="#CHIP" weight="3062" />
+      <edge id="1064" source="#FQHC" target="#CLE" weight="3062" />
+      <edge id="1065" source="#FQHC" target="#HealthyBabies" weight="3062" />
+      <edge id="1066" source="#FQHC" target="#chc" weight="18372" />
+      <edge id="1067" source="#FQHC" target="#Ohio" weight="15310" />
+      <edge id="1068" source="#FQHC" target="#CHAMPS" weight="9186" />
+      <edge id="1069" source="#FQHC" target="#SafeSleep" weight="3062" />
+      <edge id="1070" source="#FQHC" target="#BREAKING" weight="3062" />
+      <edge id="1071" source="#FQHC" target="#CHCsInnovate" weight="3062" />
+      <edge id="1072" source="#FQHC" target="#InterprofessionalCollaboration" weight="3062" />
+      <edge id="1073" source="#FQHC" target="#FixtheCliff" weight="3062" />
+      <edge id="1074" source="#FQHC" target="#OhioCHCs" weight="6124" />
+      <edge id="1075" source="#FQHC" target="#AccessistheAnswer" weight="3062" />
+      <edge id="1076" source="#FQHC" target="#OHFQHC" weight="24496" />
+      <edge id="1077" source="#FQHC" target="#UHCC" weight="18372" />
+      <edge id="1078" source="#FQHC" target="#FixTheCliff" weight="3062" />
+      <edge id="1079" source="#FQHC" target="#1stBirthday" weight="3062" />
+      <edge id="1080" source="#FQHC" target="#Ohioans" weight="3062" />
+      <edge id="1081" source="#FQHC" target="#CT" weight="3062" />
+      <edge id="1082" source="#FQHC" target="#SGR" weight="3062" />
+      <edge id="1083" source="#FQHC" target="#ACA" weight="3062" />
+      <edge id="1084" source="#FQHC" target="#Medicaid" weight="6124" />
+      <edge id="1085" source="#FQHC" target="#NPM" weight="42868" />
+      <edge id="1086" source="#challengeALS" target="#ALS" weight="3062" />
+      <edge id="1087" source="#checkupday" target="#NWHW" weight="3062" />
+      <edge id="1088" source="#healthcenters" target="#chc" weight="3062" />
+      <edge id="1089" source="#quiz" target="#publichealth" weight="3062" />
+      <edge id="1090" source="#AIDSDay" target="#AIDS" weight="3062" />
+      <edge id="1091" source="#addiction" target="#mental" weight="3062" />
+      <edge id="1092" source="#addiction" target="#Ohio" weight="3062" />
+      <edge id="1093" source="#FixtheCliff" target="#AccessistheAnswer" weight="15310" />
+      <edge id="1094" source="#FixtheCliff" target="#OHFQHCS" weight="3062" />
+      <edge id="1095" source="#Hemophilia" target="#Awareness" weight="3062" />
+      <edge id="1096" source="#Ohioans" target="#Medicaid" weight="6124" />
+      <edge id="1097" source="#Ohioans" target="#healthcare" weight="3062" />
+      <edge id="1098" source="#LetsTalk" target="#1stBirthday" weight="3062" />
+      <edge id="1099" source="#pi12" target="#chc" weight="3062" />
+      <edge id="1100" source="#September" target="#Awareness" weight="3062" />
+      <edge id="1101" source="#September" target="#Leukemia" weight="3062" />
+      <edge id="1102" source="#Prematurity" target="#Awareness" weight="3062" />
+      <edge id="1103" source="#SafeNursesRock" target="#Nursesweek" weight="3062" />
+      <edge id="1104" source="#SafeNursesRock" target="#Ohiochc" weight="3062" />
+      <edge id="1105" source="#laborday" target="#history" weight="3062" />
+      <edge id="1106" source="#1stbirthday" target="#infantmortality" weight="3062" />
+      <edge id="1107" source="#exchanges" target="#aca" weight="3062" />
+      <edge id="1108" source="#exchanges" target="#healthcare" weight="3062" />
+      <edge id="1109" source="#salt" target="#sodium" weight="3062" />
+      <edge id="1110" source="#DVAM2013" target="#Awareness" weight="3062" />
+      <edge id="1111" source="#doctor" target="#doctorsday" weight="3062" />
+      <edge id="1112" source="#doctor" target="#thankyou" weight="3062" />
+      <edge id="1113" source="#doctor" target="#healthcare" weight="3062" />
+      <edge id="1114" source="#niam" target="#niam15" weight="3062" />
+      <edge id="1115" source="#EmergencyPreparedness" target="#Prepared" weight="3062" />
+      <edge id="1116" source="#AccessistheAnswer" target="#BREAKING" weight="3062" />
+      <edge id="1117" source="#breastfeeding" target="#pumping" weight="3062" />
+      <edge id="1118" source="#breastfeeding" target="#NASWeek" weight="3062" />
+      <edge id="1119" source="#secondhandsmoke" target="#smokingcessation" weight="3062" />
+      <edge id="1120" source="#secondhandsmoke" target="#infantmortality" weight="3062" />
+      <edge id="1121" source="#legislative" target="#oachc13" weight="3062" />
+      <edge id="1122" source="#legislative" target="#clinical" weight="3062" />
+      <edge id="1123" source="#careerfair" target="#hiring" weight="3062" />
+      <edge id="1124" source="#careerfair" target="#healthcare" weight="3062" />
+      <edge id="1125" source="#MedicaidExpansion" target="#Ohio" weight="3062" />
+      <edge id="1126" source="#MedicaidExpansion" target="#OH4ME" weight="12248" />
+      <edge id="1127" source="#MedicaidExpansion" target="#OhioMedicaid" weight="3062" />
+      <edge id="1128" source="#walk" target="#statehouse" weight="3062" />
+      <edge id="1129" source="#Medicaidexpansion" target="#Ohio" weight="6124" />
+      <edge id="1130" source="#Drug" target="#Prescription" weight="3062" />
+      <edge id="1131" source="#incentive" target="#EHR" weight="3062" />
+      <edge id="1132" source="#DenimDay" target="#assault" weight="3062" />
+      <edge id="1133" source="#UHCC" target="#Champs" weight="9186" />
+      <edge id="1134" source="#UHCC" target="#CHAMPS" weight="9186" />
+      <edge id="1135" source="#homecare" target="#hospice" weight="3062" />
+      <edge id="1136" source="#Awareness" target="#Duchenne" weight="3062" />
+      <edge id="1137" source="#Awareness" target="#FallsPrevention" weight="3062" />
+      <edge id="1138" source="#Awareness" target="#Liver" weight="3062" />
+      <edge id="1139" source="#Awareness" target="#domesticviolence" weight="3062" />
+      <edge id="1140" source="#Awareness" target="#Glaucoma" weight="6124" />
+      <edge id="1141" source="#Awareness" target="#PANAW" weight="3062" />
+      <edge id="1142" source="#Awareness" target="#letsmove" weight="3062" />
+      <edge id="1143" source="#Awareness" target="#FAQs" weight="3062" />
+      <edge id="1144" source="#Awareness" target="#PancreaticCancer" weight="3062" />
+      <edge id="1145" source="#Awareness" target="#Leukemia" weight="3062" />
+      <edge id="1146" source="#Awareness" target="#Diabetes" weight="3062" />
+      <edge id="1147" source="#Awareness" target="#Obesity" weight="3062" />
+      <edge id="1148" source="#Awareness" target="#NEDAwareness" weight="3062" />
+      <edge id="1149" source="#Awareness" target="#Prevention" weight="6124" />
+      <edge id="1150" source="#karaoke" target="#conference" weight="3062" />
+      <edge id="1151" source="#Patientcenteredcare" target="#PCCAM" weight="3062" />
+      <edge id="1152" source="#Dental" target="#CHCsInnovate" weight="3062" />
+      <edge id="1153" source="#Dental" target="#chc" weight="3062" />
+      <edge id="1154" source="#Dental" target="#Children" weight="3062" />
+      <edge id="1155" source="#Dental" target="#OralHealth" weight="3062" />
+      <edge id="1156" source="#Dental" target="#webinar" weight="3062" />
+      <edge id="1157" source="#Dental" target="#Ohio" weight="3062" />
+      <edge id="1158" source="#ThinkTeeth" target="#OralHealth" weight="6124" />
+      <edge id="1159" source="#CHIP" target="#SGR" weight="3062" />
+      <edge id="1160" source="#Health" target="#chc" weight="3062" />
+      <edge id="1161" source="#Health" target="#oahq" weight="3062" />
+      <edge id="1162" source="#Health" target="#Clinical" weight="3062" />
+      <edge id="1163" source="#speak" target="#chc" weight="3062" />
+      <edge id="1164" source="#speak" target="#conference" weight="3062" />
+      <edge id="1165" source="#AAFPCOD" target="#AAFP" weight="3062" />
+      <edge id="1166" source="#oachc13" target="#abstracts" weight="3062" />
+      <edge id="1167" source="#outreach" target="#OHFQHC" weight="3062" />
+      <edge id="1168" source="#diabetes" target="#alert" weight="3062" />
+      <edge id="1169" source="#mental" target="#Ohio" weight="3062" />
+      <edge id="1170" source="#constantcontact" target="#chc" weight="3062" />
+      <edge id="1171" source="#ohchc" target="#chc50" weight="3062" />
+      <edge id="1172" source="#ohchc" target="#communityhealthcenters" weight="3062" />
+      <edge id="1173" source="#cancer" target="#pancreatic" weight="3062" />
+      <edge id="1174" source="#hiring" target="#healthcare" weight="3062" />
+      <edge id="1175" source="#opcpcc" target="#pcmh" weight="3062" />
+      <edge id="1176" source="#ohiochcnew" target="#chc" weight="3062" />
+      <edge id="1177" source="#oralhygiene" target="#dentalhealth" weight="3062" />
+      <edge id="1178" source="#Lorain" target="#chc" weight="3062" />
+      <edge id="1179" source="#doctorsday" target="#thankyou" weight="3062" />
+      <edge id="1180" source="#SheCanDoIt" target="#NWHW" weight="3062" />
+      <edge id="1181" source="#socialmedia" target="#marketing" weight="3062" />
+      <edge id="1182" source="#NPM" target="#chc" weight="6124" />
+      <edge id="1183" source="#APHA12" target="#Prevention" weight="3062" />
+      <edge id="1184" source="#APHA12" target="#chc" weight="3062" />
+      <edge id="1185" source="#CelebrateNVRD" target="#register2vote" weight="3062" />
+      <edge id="1186" source="#pumping" target="#Ohio" weight="3062" />
+      <edge id="1187" source="#communityhealthcenters" target="#chc50" weight="3062" />
+      <edge id="1188" source="#NIIW2016" target="#NIIW" weight="3062" />
+      <edge id="1189" source="#Cloud" target="#healthcare" weight="3062" />
+      <edge id="1190" source="#cholesterol" target="#smokingcessation" weight="3062" />
+      <edge id="1191" source="#EatHealthy" target="#Diabetes" weight="3062" />
+      <edge id="1192" source="#Ohiochc" target="#Nursesweek" weight="3062" />
+      <edge id="1193" source="#Bones" target="#Osteoporosis" weight="3062" />
+      <edge id="1194" source="#ohsos" target="#Medicaid" weight="3062" />
+      <edge id="1195" source="#ohsos" target="#Ohio" weight="3062" />
+      <edge id="1196" source="#newborn" target="#screening" weight="3062" />
+      <edge id="1197" source="#Obesity" target="#letsmove" weight="3062" />
+      <edge id="1198" source="#caregiver" target="#givethanks" weight="3062" />
+      <edge id="1199" source="#screening" target="#cancerfacts" weight="3062" />
+      <edge id="1200" source="#ICD10" target="#EHR" weight="3062" />
+      <edge id="1201" source="#ICD10" target="#HIMSS" weight="3062" />
+      <edge id="1202" source="#DonateLife" target="#GiveYourHeart" weight="3062" />
+      <edge id="1203" source="#iOS" target="#CHCHealth" weight="3062" />
+      <edge id="1204" source="#Storymakers2016" target="#CHCsInnovate" weight="3062" />
+      <edge id="1205" source="#volunteer" target="#blooddrive" weight="3062" />
+      <edge id="1206" source="#chcsinnovate" target="#nhcw16" weight="12248" />
+      <edge id="1207" source="#teeth" target="#dentalhygiene" weight="3062" />
+      <edge id="1208" source="#fightTB2015" target="#tuberculosis" weight="3062" />
+      <edge id="1209" source="#fightTB2015" target="#Riga" weight="3062" />
+      <edge id="1210" source="#fightTB2015" target="#Europe" weight="3062" />
+      <edge id="1211" source="#aca" target="#healthcare" weight="3062" />
+      <edge id="1212" source="#infantmortality" target="#smokingcessation" weight="3062" />
+      <edge id="1213" source="#infantmortality" target="#1stBirthday" weight="3062" />
+      <edge id="1214" source="#infantmortality" target="#chc" weight="3062" />
+      <edge id="1215" source="#infantmortality" target="#OHFQHC" weight="3062" />
+      <edge id="1216" source="#Brush" target="#OralHealth" weight="3062" />
+      <edge id="1217" source="#ColorectalCancer" target="#HealthyBabies" weight="3062" />
+      <edge id="1218" source="#Ohioian" target="#charity" weight="3062" />
+      <edge id="1219" source="#EHR" target="#HIMSS" weight="3062" />
+      <edge id="1220" source="#EHR" target="#healthcare" weight="3062" />
+      <edge id="1221" source="#DontTakeMyCare" target="#healthcare" weight="3062" />
+      <edge id="1222" source="#DontTakeMyCare" target="#KingvBurwell" weight="3062" />
+      <edge id="1223" source="#win" target="#safteynet" weight="3062" />
+      <edge id="1224" source="#Children" target="#OralHealth" weight="3062" />
+      <edge id="1225" source="#conference" target="#chc" weight="6124" />
+      <edge id="1226" source="#HeartCrusade" target="#LifeisWhy" weight="3062" />
+      <edge id="1227" source="#Medicaid" target="#Ohio" weight="12248" />
+      <edge id="1228" source="#Medicaid" target="#chc" weight="6124" />
+      <edge id="1229" source="#organdonor" target="#donatelife" weight="3062" />
+      <edge id="1230" source="#ecofriendly" target="#earthday" weight="3062" />
+      <edge id="1231" source="#ecofriendly" target="#green" weight="3062" />
+      <edge id="1232" source="#Calcium" target="#HealthTips" weight="3062" />
+      <edge id="1233" source="#earthday" target="#green" weight="3062" />
+      <edge id="1234" source="#Ohio" target="#OHFQHC" weight="3062" />
+      <edge id="1235" source="#Ohio" target="#chc" weight="3062" />
+      <edge id="1236" source="#Ohio" target="#healthcare" weight="3062" />
+      <edge id="1237" source="#Ohio" target="#OhioMedicaid" weight="3062" />
+      <edge id="1238" source="#oahq" target="#chc" weight="3062" />
+      <edge id="1239" source="#FallsPrevention" target="#Prevention" weight="3062" />
+      <edge id="1240" source="#Europe" target="#tuberculosis" weight="3062" />
+      <edge id="1241" source="#Europe" target="#Riga" weight="3062" />
+      <edge id="1242" source="#Prevention" target="#chc" weight="3062" />
+      <edge id="1243" source="#tuberculosis" target="#Riga" weight="3062" />
+      <edge id="1244" source="#pcmh" target="#chc" weight="3062" />
+      <edge id="1245" source="#oachc2012" target="#chc" weight="9186" />
+      <edge id="1246" source="#nurse" target="#chc" weight="3062" />
+      <edge id="1247" source="#chc" target="#advocates" weight="3062" />
+      <edge id="1248" source="#chc" target="#healthcare" weight="3062" />
+      <edge id="1249" source="#healthcare" target="#KingvBurwell" weight="3062" />
+    </edges>
+  </graph>
+</gexf>

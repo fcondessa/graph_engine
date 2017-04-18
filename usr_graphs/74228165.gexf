@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="#love" label="#love" />
+      <node id="#EcoMinded" label="#EcoMinded" />
+      <node id="#BristolBeerWeek" label="#BristolBeerWeek" />
+      <node id="#bristolbeerweek" label="#bristolbeerweek" />
+      <node id="#EcoChic" label="#EcoChic" />
+      <node id="#FF" label="#FF" />
+      <node id="#bristol" label="#bristol" />
+      <node id="#GABF" label="#GABF" />
+      <node id="#Beer" label="#Beer" />
+      <node id="#waffle" label="#waffle" />
+      <node id="#craftbeer" label="#craftbeer" />
+      <node id="#beer" label="#beer" />
+      <node id="#coffee" label="#coffee" />
+      <node id="#bcw13" label="#bcw13" />
+      <node id="#bristolbeer" label="#bristolbeer" />
+      <node id="#Bristol" label="#Bristol" />
+      <node id="#RealAle" label="#RealAle" />
+      <node id="#bacon" label="#bacon" />
+      <node id="#CraftBeer" label="#CraftBeer" />
+      <node id="#brewsgeeks" label="#brewsgeeks" />
+      <node id="#breakfastfloss" label="#breakfastfloss" />
+    </nodes>
+    <edges>
+      <edge id="0" source="#love" target="#beer" weight="3236" />
+      <edge id="1" source="#EcoMinded" target="#EcoChic" weight="3236" />
+      <edge id="2" source="#BristolBeerWeek" target="#bcw13" weight="3236" />
+      <edge id="3" source="#bristolbeerweek" target="#Beer" weight="3236" />
+      <edge id="4" source="#bristolbeerweek" target="#Bristol" weight="3236" />
+      <edge id="5" source="#FF" target="#bristolbeer" weight="3236" />
+      <edge id="6" source="#bristol" target="#craftbeer" weight="3236" />
+      <edge id="7" source="#GABF" target="#brewsgeeks" weight="3236" />
+      <edge id="8" source="#GABF" target="#craftbeer" weight="3236" />
+      <edge id="9" source="#Beer" target="#Bristol" weight="3236" />
+      <edge id="10" source="#waffle" target="#coffee" weight="3236" />
+      <edge id="11" source="#waffle" target="#bacon" weight="3236" />
+      <edge id="12" source="#waffle" target="#breakfastfloss" weight="3236" />
+      <edge id="13" source="#craftbeer" target="#beer" weight="3236" />
+      <edge id="14" source="#craftbeer" target="#brewsgeeks" weight="3236" />
+      <edge id="15" source="#coffee" target="#bacon" weight="3236" />
+      <edge id="16" source="#coffee" target="#breakfastfloss" weight="3236" />
+      <edge id="17" source="#RealAle" target="#CraftBeer" weight="6472" />
+      <edge id="18" source="#bacon" target="#breakfastfloss" weight="3236" />
+    </edges>
+  </graph>
+</gexf>
