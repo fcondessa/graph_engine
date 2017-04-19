@@ -244,14 +244,14 @@ def s2(tup):
         # data = [edge[2]['weight'] for edge in edges for _ in range(2)]
         # row_ind = [nodes_dict[edge[i]] for edge in edges for i in range(2)]
         # col_ind = [nodes_dict[edge[i]] for edge in edges for i in range(1, -1, -1)]
-        
-        (data, row_ind, col_ind) = (list(), list(), list())
-        for edge in graph.edges_iter(data = True):
+        len_of_edges = graph.number_of_edges()
+        (data, row_ind, col_ind) = (np.zeros(len_of_edges), np.zeros(len_of_edges), np.zeros(len_of_edges))
+        for i, edge in enumerate(graph.edges_iter(data = True)):
             weight = edge[2]['weight']
             zero = nodes_dict[edge[0]]; one = nodes_dict[edge[1]]
-            data.extend((weight, weight)) #data.append(weight)
-            row_ind.extend((zero, one)) #row_ind.append(one)
-            col_ind.extend((one, zero)) #col_ind.append(zero)
+            data[i] = weight #data.append(weight)
+            row_ind[i] = zero #row_ind.append(one)
+            col_ind[i] = one #col_ind.append(zero)
         # n = 2*graph.number_of_edges()
         # (data, row_ind, col_ind) = ([-1]*n, [-1]*n, [-1]*n)
         # for i, edge in enumerate(graph.edges_iter(data = True)):
@@ -371,7 +371,7 @@ G3 = nx.read_gexf(G3_name)
 # G3 = nx.Graph()
 # G3.add_weighted_edges_from([('1', '0', 1.5), ('2', 'Three', 4), ('1', '2', 2)])
 # G = merge_graphs_sparse_dict([G1, G2, G3])
-# Gd = merge_graphs_all([G1, G2, G3])
+# Gd = merge_graphs_sparse_dict([G1, G2, G3])
 
 start_ = time.time()
 for i in range(1):
@@ -380,10 +380,10 @@ end_ = time.time()
 print("iterative:    %f" % (end_ - start_))
 start = time.time()
 for i in range(1):
-    G = merge_graphs_all_parallel([G3]*10000, 1)
+    G = merge_graphs_all_parallel([G3]*1000, 1)
 end = time.time()
 print("parallelized: %f" % (end - start))
-# start_sp = time.time()
+start_sp = time.time()
 # for i in range(1):
 #     G = merge_graphs_sparse([G3]*1000)
 # end_sp = time.time()
@@ -404,14 +404,14 @@ print("parallelized: %f" % (end - start))
 
 start_di = time.time()
 for i in range(1):
-    G = merge_graphs_sparse_dict([G3]*10000)
+    G = merge_graphs_sparse_dict([G3]*1000)
 end_di = time.time()
 print("sparse_dict:    %f" % (end_di - start_di))
 start_di = time.time()
 
 tart_di = time.time()
 for i in range(1):
-    G = merge_graphs_sparse_dict_custom([G3]*10000)
+    G = merge_graphs_sparse_dict_custom([G3]*1000)
 end_di = time.time()
 print("sparse_dict_custom:    %f" % (end_di - start_di))
 start_di = time.time()
