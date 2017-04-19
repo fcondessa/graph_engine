@@ -210,15 +210,168 @@ def builder(specifications):
 	G = clean_graph(G,specifications)
 	return G
 
+def get_nodes_general(input_data):
+	# print(input_data)
+	nodes = []
+	if isinstance(input_data, dict):
+		for elem in input_data:
+			nodes.append(elem) 
+			nodes += get_nodes_general(input_data[elem])
+	elif isinstance(input_data, list):
+		for elem in input_data:
+			nodes += get_nodes_general(elem)
+	else:
+		return [input_data]
+	return nodes
+
+def get_edges_general(input_data, prev = None):
+	edges = []
+	if isinstance(input_data, dict):
+		for elem in input_data:
+			if prev: 
+				edges += [(prev, elem)]
+			edges += get_edges_general(input_data[elem], prev = elem)
+	elif isinstance(input_data, list):
+		for elem in input_data:
+			edges += get_edges_general(elem, prev = prev)
+	else:
+		return [(prev, input_data)]
+	return edges
+
+
+
+def json_to_graph(input_data):
+	G = nx.Graph()
+	nodes = get_nodes_general(input_data)
+	edges = get_edges_general(input_data)
+	G.add_nodes_from(nodes)
+	print(edges)
+	for edge in edges:
+		try:
+			G[edge[0]][edge[1]]['weight']+=1					
+		except:
+			G.add_edge(edge[0],edge[1],weight=1)
+	return G
+
+def get_nodes_general_alt(input_data, prefix = ""):
+	# print(input_data)
+	nodes = []
+	if isinstance(input_data, dict):
+		for elem in input_data:
+			modified_elem = prefix + elem
+			nodes.append(modified_elem) 
+			nodes += get_nodes_general_alt(input_data[elem], prefix = modified_elem + "_")
+	elif isinstance(input_data, list):
+		for i, elem in enumerate(input_data):
+			nodes += get_nodes_general_alt(elem, prefix = '%s%d_' % (prefix, i))
+	else:
+		return [input_data]
+	return nodes
+
+def get_edges_general_alt(input_data, prev = None, prefix = ""):
+	edges = []
+	if isinstance(input_data, dict):
+		for elem in input_data:
+			modified_elem = prefix + elem
+			if prev: 
+				edges += [(prev, modified_elem)]
+			edges += get_edges_general_alt(input_data[elem], prev = modified_elem, prefix = modified_elem + "_")
+	elif isinstance(input_data, list):
+		for i, elem in enumerate(input_data):
+			edges += get_edges_general_alt(elem, prev = prev, prefix = '%s%d_' % (prefix, i))
+	else:
+		return [(prev, input_data)]
+	return edges
+
+def json_to_graph_alt(input_data):
+	G = nx.Graph()
+	nodes = get_nodes_general_alt(input_data)
+	edges = get_edges_general_alt(input_data)
+	G.add_nodes_from(nodes)
+	print(edges)
+	for edge in edges:
+		try:
+			G[edge[0]][edge[1]]['weight']+=1					
+		except:
+			G.add_edge(edge[0],edge[1],weight=1)
+	return G
+
+input_json = {
+	'a' : {
+		'b' : [{'c' : ['d1', 'd2'], 'e1': 'f1'}, 'c1', 'c2'], 'd' : 'e'
+	},
+	'e' : {
+		'f' : 'g', 'h' : 'i', 'd': 'a'
+	}
+
+}
+
+# input_json = {
+# 	'a' : {
+# 		'b' : 'c', 'd' : 'e'
+# 	},
+# 	'e' : {
+# 		'f' : 'g', 'h' : 'i'
+# 	}
+# }
+
+alt_input = [
+      {
+         "id": "X999_Y999",
+         "from": {
+            "name": "Tom Brady", "id": "X12"
+         },';/'
+         "message": "Looking forward to 2010!",
+         "actions": [
+            {
+               "name": "Comment",
+               "link": "http://www.facebook.com/X999/posts/Y999"
+            },
+            {
+               "name": "Like",
+               "link": "http://www.facebook.com/X999/posts/Y999"
+            }
+         ],
+         "type": "status",
+         "created_time": "2010-08-02T21:27:44+0000",
+         "updated_time": "2010-08-02T21:27:44+0000"
+      },
+      {
+         "id": "X998_Y998",
+         "from": {
+            "name": "Peyton Manning", "id": "X18"
+         },
+         "message": "Where's my contract?",
+         "actions": [
+            {
+               "name": "Comment",
+               "link": "http://www.facebook.com/X998/posts/Y998"
+            },
+            {
+               "name": "Like",
+               "link": "http://www.facebook.com/X998/posts/Y998"
+            }
+         ],
+         "type": "status",
+         "created_time": "2010-08-02T21:27:44+0000",
+         "updated_time": "2010-08-02T21:27:44+0000"
+      }
+   ]
+
+G = json_to_graph_alt(input_json)
+
 def plotter(G):
 	plt.figure(1,figsize=(8,8))
 	nx.draw(G)
 	plt.savefig("atlas.png",dpi=300)	
 
-if __name__ == "__main__":
-	path_spec_file = sys.argv[1]
-	with open(path_spec_file) as f:
-		specifications = yaml.load(f)
-	G = builder(specifications)
-	pprint('writing graph')
-	nx.write_gexf(G,specifications['output_file'])
+nx.draw_networkx(G, with_labels = True)
+plt.show()
+
+# if __name__ == "__main__":
+# 	path_spec_file = sys.argv[1]
+# 	with open(path_spec_file) as f:
+# 		specifications = yaml.load(f)
+# 	G = builder(specifications)
+# 	pprint('writing graph')
+# 	nx.write_gexf(G,specifications['output_file'])
