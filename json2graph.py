@@ -1,7 +1,15 @@
-# AUTHOR: filipe condessa
-# fcondessa@gmail.com
-# started at 2016.10.24
-# rebased at 2017.09.04
+""" json2graph.py: graph creation engine from .json
+
+Configurable (yaml) graph creation engine
+
+"""
+
+__author__ = "Filipe Condessa"
+__copyright__ = "Filipe Condessa, 2017"
+__maintainer__ = "Filipe Condessa"
+__email__ = "fcondessa@gmail.com"
+__status__ = "prototype"
+
 import yaml
 import json
 import networkx as nx
