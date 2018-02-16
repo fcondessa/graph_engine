@@ -5,9 +5,7 @@ from a specification file .yaml and a .json or folder with .json creates a graph
 
 graph_engine:
 
-    graph_engine.py - core engine
-    engine_graph.py - core engine
-    merge_graph.py - merges graphs
+    json2graph.py - includes graph engine and merging engine
 
 configuration files:
 
